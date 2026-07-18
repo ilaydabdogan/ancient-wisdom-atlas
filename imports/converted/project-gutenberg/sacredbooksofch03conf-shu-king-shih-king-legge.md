@@ -443,7 +443,7 @@ it in the first place a designation of the ruler or emperor ;
 and was it then given to the Supreme Power, when the
 vague Heaven failed to satisfy the thinker and worshipper,
 tive belief in one Supreme Ti (^Rp j, who is ~7r* "great," over, and »
-" ruling," heaven ( ' ^ = > — » ) and earth (| | ). ' This is ingenious, but not
+" ruling," heaven ( ' ^ = ) — » ) and earth (| | ). ' This is ingenious, but not
 entirely satisfactory. The three last steps are so ; but the finding ~^
 (great) in the top part of ^fr does not in the same way carry conviction to
 the mind.
@@ -1277,7 +1277,7 @@ the dynasties of TTau and Han, and possibly some also
 when they were recovered under the latter.
 
 4. It remains for us to consider the case of the Tribute
-The Tribute ^^ ^^> ^he first, as the books are now arranged,
+The Tribute ^^ ^^) ^he first, as the books are now arranged,
 of Yu. of those of Hsia, but belonging, as has been
 already said, to the period of Yao, or at least to the period
 when Yao and Shun were together on the throne. It thus
@@ -1812,7 +1812,7 @@ a similar calculation made by Biot for the earliest of these dates.
 the Royal Astronomical Society, on Chinese Comets, procurable at the apartments of the Royal Astronomical Society, Burlington House, London.
 
 
-;? § > >^ s ^ ?s o^- r-,^ ffi 0 s 5: o^Q-^ s H > 0 ^ >
+;? § ) )^ s ^ ?s o^- r-,^ ffi 0 s 5: o^Q-^ s H ) 0 ^ )
 
 ^
 
@@ -1824,18 +1824,18 @@ O
 on 1
 
 p
-_>-i
+_)-i
 
-VO0000O\O\MtJ0 0VO-<rUi'-nOJt05.>JMi-l0OOJW0O0?*
+VO0000O\O\MtJ0 0VO-(rUi'-nOJt05.)JMi-l0OOJW0O0?*
 
 J^
 
 -^ 0\vo ~i 004^ 0 0^ ON^J \o ui in 4^ ^ CTstn ^j oj O \o go O cocw p
 
 Ojm m tni-i -Kni-iOJioi-iNi t»J " tjOiH...
-l-iOONO>OOa)CO OOVO u 0 K) --J OO-vT --J M -^ 0 0 OOiw 0 CO •
+l-iOONO)OOa)CO OOVO u 0 K) --J OO-vT --J M -^ 0 0 OOiw 0 CO •
 
-> w
+) w
 
 O
 
@@ -1851,36 +1851,36 @@ OJ
 *0 i« 0 00-^ 0 0\-(^ (O-J'Ji 0\00G0OwO w CN^ 00 00 (0 VO 00 „
 
 p
-tJ -f»- C« M CO 00t« -vj -vl OOtn Oi OOVi M w OJ M O O OSO VO 0\ h>
+tJ -f»- C« M CO 00t« -vj -vl OOtn Oi OOVi M w OJ M O O OSO VO 0\ h)
 
-OaCjt w w_f:».tnK>tH'ji4..0J OJ-fi-wtn to"-ri
+OaCjt w w_f:».tnK)tH'ji4..0J OJ-fi-wtn to"-ri
 
 ^ '
 
 1-1
 
-4^ 4^ 00 M OJ P^^^f ?°V V''^' P .►J-f^-?^^"^o->c->J4^ 00-<I Ui w w ^
+4^ 4^ 00 M OJ P^^^f ?°V V''^' P .►J-f^-?^^"^o-)c-)J4^ 00-(I Ui w w ^
 
 b
 
--t- b b\ Jo b^"j' tj bo w b\ ui ON-vi co\b b 4>- bo w o\oj 4- t>j w -^
+-t- b b\ Jo b^"j' tj bo w b\ ui ON-vi co\b b 4)- bo w o\oj 4- t)j w -^
 
 K,l-il-l-wi-ll-ci-(ww lOtOlOWj--
 
-O o 00 o\ c\'~j-> w w o 0 00 o^ 0\4^ oj4»-fotJ>-iwOMwwi-ir
+O o 00 o\ c\'~j-) w w o 0 00 o^ 0\4^ oj4»-fotJ)-iwOMwwi-ir
 
 '^
 
 woiOiOJ ?jit04^OJOJ4*-t0K)4». 4:kiowbJOJtnt^it-iw3
 Os'Ji m -vl CS ON w tJ 0\^4 1-1 Ol 00 CI04»- tJONC\tJ(Oi-ivOtJK)OJp
 
-> w
+) w
 
 O
 
 IU4^M MmtJll-i4^tOMl-l tOl-1 OlHI-ltOI-lOl w,„
 
-OiOJ 0\0\000 COto (jvotntn OsO O M Os>J4»-UitnVooi o GO-
+OiOJ 0\0\000 COto (jvotntn OsO O M Os)J4»-UitnVooi o GO-
 
 p
 
@@ -1888,31 +1888,31 @@ P
 
 M M W W W « ,_.
 
-VO VJ O 004>. O OMn OJ 00 "-n ONCOOO'-n OVO O'Ji OOOOOCtoVO-^r o
+VO VJ O 004). O OMn OJ 00 "-n ONCOOO'-n OVO O'Ji OOOOOCtoVO-^r o
 
 .^ 8
 
-OiwMOjVOkJOOloi-iWOOON OOC^J VO O0O-<ryi ONw^i OStoO
+OiwMOjVOkJOOloi-iWOOON OOC^J VO O0O-(ryi ONw^i OStoO
 
 Tl
 i-t
-t«mM4>.'_nVJi-ii-iOJ 4^UiiHm on-j>OJ4^w4^i'_r'
+t«mM4).'_nVJi-ii-iOJ 4^UiiHm on-j)OJ4^w4^i'_r'
 
 wJ -^i 004^ " "^^ ." ''^ '^ ■^' P^ ?^V^ 04^^J4^ OOOnOOK) C\0 Oow ^
 
 b
 
-6i oDOJ b M 4k b w -^ bo6i bo6i b oo-k oooj 4>- Jj w cn « o oo
+6i oDOJ b M 4k b w -^ bo6i bo6i b oo-k oooj 4)- Jj w cn « o oo
 tOMIOl-IWIHl-tW^l-IW tOtOtJi-W
 
-w O O OO-^r 4- 4>- >o «s) 1-1 O 00^1 OiOiOi4^t>JKiMwO>oto»J-
+w O O OO-^r 4- 4)- )o «s) 1-1 O 00^1 OiOiOi4^t)JKiMwO)oto»J-
 
 .^
 
-fcOtjii-iwbjOJ Cjj 4»- i-i4^tr»K>i-( OJtji4ktnwtjit;oK)a
-4>- OO^ (O OO O On^O MOi-<ONO\OtJ4>-ON OOUi OJ w OOVO O ^J ?
+fcOtjii-iwbjOJ Cjj 4»- i-i4^tr»K)i-( OJtji4ktnwtjit;oK)a
+4)- OO^ (O OO O On^O MOi-(ONO\OtJ4)-ON OOUi OJ w OOVO O ^J ?
 
->
+)
 
 ^
 
@@ -1920,7 +1920,7 @@ wOl4kl-ltOM 4kWOJ VH4xt»OJlO-tk WIOIOKltOtOOJ^
 
 O
 
-4^ ^J 1-1 -^ 4>- i-i 0\-<I O'-n VO 1-1 w 0\W •<rO*^Oi O O O^J Onvj •
+4^ ^J 1-1 -^ 4)- i-i 0\-(I O'-n VO 1-1 w 0\W •(rO*^Oi O O O^J Onvj •
 
 a
 p .
@@ -1929,7 +1929,7 @@ p .
 
 '2!, ■
 
-4k ^ 004k MVDOi O^ 0-t-« 1-1 to ON ONU> w VO VO OJ OSVO 'Ji w
+4k ^ 004k MVDOi O^ 0-t-« 1-1 to ON ONU) w VO VO OJ OSVO 'Ji w
 
 4ki-i4kioOJ?ji4k4k4ki-i4k'^towWM M ntj trt tn 4^4^
 
@@ -1937,21 +1937,21 @@ T)
 
 i-t
 
-\0«<rtji 1-1 cooj OnO cOTji oo OnOi oo"<i 4*. vo w t>j •<! io ^i to tjt ^ ^
+\0«(rtji 1-1 cooj OnO cOTji oo OnOi oo"(i 4*. vo w t)j •(! io ^i to tjt ^ ^
 
 b
 
-4>-4k>-ii-ibouioo»-i6ibo 'o\<> tu b w 1-1 Vo b b 4" m bo^b -K
+4)-4k)-ii-ibouioo»-i6ibo 'o\() tu b w 1-1 Vo b b 4" m bo^b -K
 
-K)K)K)w>-il-ll-ll.lwl-ll-( MtO»0|T-
+K)K)K)w)-il-ll-ll.lwl-ll-( MtO»0|T-
 
-w to w \o OOin 4>-iM 10 to 0"0 00O\O\ 0\'-n 4^4^00 to wOJOotu .
+w to w \o OOin 4)-iM 10 to 0"0 00O\O\ 0\'-n 4^4^00 to wOJOotu .
 
->S
+)S
 
 w 1-1 totjiMOiOJtni-iOJ4kto to OJ4kiHCjiioi-iw
-0> M 4^ M U> VO Oi OOVO tw 0^4^ OO'Ji vo O w o\4>- VO 0 to OJ to 00 p
-i^ >
+0) M 4^ M U) VO Oi OOVO tw 0^4^ OO'Ji vo O w o\4)- VO 0 to OJ to 00 p
+i^ )
 
 ?
 
@@ -1968,7 +1968,7 @@ M Ht W W W
 
 o
 
-O4k4kO0 i-it>0VOCn'-nUiVC4^4k to O^ 0^tM 'O tn ONO w Oo O 0^
+O4k4kO0 i-it)0VOCn'-nUiVC4^4k to O^ 0^tM 'O tn ONO w Oo O 0^
 
 P
 
@@ -1981,13 +1981,13 @@ P
 to OMw looo Cvooccwm4k0.^vpc/i p^.t^ .^•i^'r^" P^V^ V' '?-' ^
 
 
-b\^ vb -^ w b^ 00-^ bo to t>> bo4k w vd tn "« to b y» onw +. bo.^
+b\^ vb -^ w b^ 00-^ bo to t)) bo4k w vd tn "« to b y» onw +. bo.^
 
 tOtOlOl-ll-lWWI-IWWI-lM l-p.
 
-tj to w o 00 0\U< 4ktkJO0 ►" O^*^"^ OMn tntji4kOO»oOOO.
+tj to w o 00 0\U( 4ktkJO0 ►" O^*^"^ OMn tntji4kOO»oOOO.
 
->3
+)3
 
 tn*jitn4kOotoOJi-itnw4k toOJtoOJ4^ tJ4k OJ 3
 OOOVO-^ to •-. oootnooto w w to o^vO 00 OO^a 00 O O "^ ON to p
@@ -2003,7 +2003,7 @@ O
 W W M W 1-1 1-1
 
 
-"<r tJ NO GOOi w 00 ^> 4^ 0--I-^VO 00-Ji O OONO 4k-a O^OnO^J 0\-
+"(r tJ NO GOOi w 00 ^) 4^ 0--I-^VO 00-Ji O OONO 4k-a O^OnO^J 0\-
 tn O O w 1-1 ONlw O NO O 4k ^J 004k ^4 0\ to 004k OJ On-m OOUi w
 ei
 li
@@ -2012,9 +2012,9 @@ li
 
 •-I
 
-towtntoi-i i-iw4kOJ4k>o lo-jiOJOJto 4>i-i OJtJOJ
+towtntoi-i i-iw4kOJ4k)o lo-jiOJOJto 4)i-i OJtJOJ
 
-•^ 0'4k -MVONO w p-^ |-i4k ON-<r ^J O OJ ^i o "^ 4^ On C>^ no ui ^
+•^ 0'4k -MVONO w p-^ |-i4k ON-(r ^J O OJ ^i o "^ 4^ On C)^ no ui ^
 
 b
 b w ^l tJ -^ ON-fk NO b 4k CO lo CO 00^4 b w ~-I -^1 6j 4k NO -^ -^ b
@@ -3378,7 +3378,7 @@ department of Ta-ming, with portions of those of Ho-/C'ien and
 Thien-^-ing, in ^ih-li, and the department of Tung-Mang, with
 portions of those of -^i-nan and Yen-Mu, in Shan-tung.
 
-"^ ^>^ing A'au, having mount Tai and Hsii A'au (the next
+"^ ^)^ing A'au, having mount Tai and Hsii A'au (the next
 province) on the west and south, Yen Aau and the sea on the
 north-west and the north, and the sea on the east and south,
 [I] r
@@ -3400,7 +3400,7 @@ taught tillage and pasturage, and brought in their
 baskets the silk from the mountain mulberry tree.
 
 They floated along the Wan, and so reached
-the I<\.
+the I(\.
 
 5. The sea, mount Tai, and the Hwai were (the
 boundaries of) Hsli iTau^
@@ -5775,7 +5775,7 @@ A^ieh, the sovereign of Hsia, would not follow the
 
 
 ^ In Book iii we are told that Wft commenced his march to
-attack ^au-hsin, on Kwei->('t, the 2nd day of the moon. Calculating on to the day Wu-wu, we find that it was the 28th day of
+attack ^au-hsin, on Kwei-)('t, the 2nd day of the moon. Calculating on to the day Wu-wu, we find that it was the 28th day of
 the same moon.
 
 
@@ -6080,7 +6080,7 @@ the millions of the people, and nothing turn out to
 your shame." ' *
 
 ^ Probably mount Hwa and the Ho,
-lp>6 THE SH^ KING.
+lp)6 THE SH^ KING.
 
 
 3. On the day WCi-wil, the army crossed the ford
@@ -6629,7 +6629,7 @@ Book V. The Hounds of Lij.
 
 Lij was the name of one of the rude tribes of the west, lying
 beyond the provinces of ^au. Its situation cannot be more
-exactly defined. Its people, in compliment to king W<j, and
+exactly defined. Its people, in compliment to king W(j, and
 impressed by a sense of his growing power, sent to him some
 of their hounds, and he having received them, or intimated that
 he would do so, the Grand-Guardian remonstrated with him,
@@ -8094,7 +8094,7 @@ orround. The kinor has now inherited the decree, —
 the same decree, I consider, which belonged to those
 two dynasties. Let him seek to inherit (the virtues
 should be called by their names in the presence of the sovereign.'
-King ^>^ang, indeed, was not now really present in Lo, but he
+King ^)^ang, indeed, was not now really present in Lo, but he
 was represented by his uncle, the regent.
 
 
@@ -10601,8 +10601,8 @@ Book XXVI. The Charge to A'^iung.
 
 The charge recorded here, like that in the last Book, is assigned
 to king Mu. It was deUvered on the appointment of a A'/i'mng
-or Po->^/nung (that is, the eldest A7nung, the eldest brother
-in his family) to be High Chamberlain. Of this ^>^iung we
+or Po-)^/nung (that is, the eldest A7nung, the eldest brother
+in his family) to be High Chamberlain. Of this ^)^iung we
 know nothing more than we learn from the Shu. He was no
 high dignitary of state. That the charge to him found a place
 in the Shu, we are told, shows how important it was thought
@@ -11186,7 +11186,7 @@ your capital (and all your borders); — thus completing your illustrious virtue
 Book XXIX. The Speech at Pi.
 
 The Speech at Pi carries us back from the time of Phing to
-that of king ^>^ang. In the Preface to the Shu it is attributed
+that of king ^)^ang. In the Preface to the Shu it is attributed
 to Fo-k/im, the son of the duke of A'au ; and there is a general
 acquiescence of tradition and critics in this view. We may
 account for its position out of the chronological order from
@@ -11309,7 +11309,7 @@ marquis of ^,^in, however, was suddenly induced to withdraw
 his troops, leaving three of his officers in friendly relations with
 the court of A^ng, and under engagement to defend the state
 from aggression. These men played the part of spies in the
-interest of ^>^in, and in b. c. 629, one of them, called Khi-yze,
+interest of ^)^in, and in b. c. 629, one of them, called Khi-yze,
 sent word that he was in charge of one of the gates, and if
 an army were sent to surprise the capital, -ff'ang might be
 added to the territories of Khm. The marquis — known in
@@ -11862,7 +11862,7 @@ scholars more than on their mscnption on
 tablets of bamboo and on silk.
 
 3. Three different texts of the Shih made their appearance early in the Han dynasty, known as the Shih of Lu,
-Three different ©^ ^'^^'> ^nd of Han ; that is, the Book of
+Three different ©^ ^'^^') ^nd of Han ; that is, the Book of
 texts. Poetry was recovered from three different
 quarters. Lift Hin's Catalogue of the Books in the
 Imperial Library of Han (B.C. 6 to i) commences, on the
@@ -13025,7 +13025,7 @@ Grandly they hurried about in the temple. Distinguished is he and honoured. And 
 wearied of among- men.
 
 
-"t>
+"t)
 
 
 Ode 2. The Wei Thien A'ih Ming.
@@ -13264,13 +13264,13 @@ nor is the text clear on the view of J^u Hsi.
 
 
 Yii in his labours on the flooded land. The name Hau belongs to
-him as lord of Thai ; that of ^i, as Minister of Agriculture. However the combination arose, Hau->^i became historically the name
+him as lord of Thai ; that of ^i, as Minister of Agriculture. However the combination arose, Hau-)^i became historically the name
 of KhX of the time of Yao and Shun, the ancestor to whom the
 kings of A'au traced their lineage. He was to the people the
 Father of Husbandry, who first taught men to plough and sow
 and reap. Hence, when the kings offered sacrifice and prayer
 to God at the commencement of spring for his blessing on
-the labours of the year, they associated Hau->^i with him at the
+the labours of the year, they associated Hau-)^i with him at the
 service.
 
 O accomplished Hau-/'i, Thou didst prove thyself the correlate of Heaven. Thou didst give
@@ -14592,7 +14592,7 @@ BLAMING ALSO THE CONDUCT OF THE KING, WITH APPEALS TO
 HEAVEN, AND SEEMINGLY CHARGING IT WITH CRUELTY AND INJUS-
 TICE.
 
-This piece is referred to the time of king Yu (b. c. 781 to 77i)>
+This piece is referred to the time of king Yu (b. c. 781 to 77i))
 the unworthy son of king Hsiian. The ' Grand-Master ' Yin
 must have been one of the 'three Kung,' the highest ministers
 at the court of ^du, and was, probably, the chief of the three,
@@ -16289,7 +16289,7 @@ and to the Father of War ^ Thus seeking to induce
 Hsi-an, Shen-hsi. His conquest of AVmng was an important
 event in the history of king Wan. He moved his capital to it,
 advancing so much farther towards the east, nearer to the domain
-of Shang. According to Sze-ma ^>^ien the marquis of -^-^ung
+of Shang. According to Sze-ma ^)^ien the marquis of -^-^ung
 had slandered the lord of ^au, who was president of the states
 of the west, to A'au-hsin, the king of Shang, and our hero was
 put in prison. His friends succeeded in effecting his deliverance
@@ -16526,7 +16526,7 @@ He fell to planting beans. The beans grew luxuriantly ; His rows of paddy shot u
 His hemp and wheat grew strong and close; His
 gourds yielded abundantly.
 
-The husbandry of Hau->^i Proceeded on the plan
+The husbandry of Hau-)^i Proceeded on the plan
 of helping (the growth). Having cleared away the
 thick grass, He sowed the ground with the yellow
 cereals. He managed the living grain, till it was
@@ -17305,7 +17305,7 @@ Heaven makes no mistakes. If you go on to deteriorate in your virtue, You will b
 ereat distress.
 
 
-t>
+t)
 
 
 Ode 3, Stanzas 1, 2, 3, 4, and 7. The Sang Zau.
@@ -18024,7 +18024,7 @@ HER APPEAL TO HER MOTHER AND TO HEAVEN.
 
 This piece, it is said, was made by Kimg ^iang, the widow of
 Kung-po, son of the marquis Hsi of Wei (b.c. 855-814). Kungpo having died an early death, her parents (who must have been
-the marquis of ^>^i and his wife or one of the ladies of his harem)
+the marquis of ^)^i and his wife or one of the ladies of his harem)
 wanted to force her to a second marriage, against which she
 protests. The ode was preserved, no doubt, as an example of
 
@@ -18836,7 +18836,7 @@ between the two texts as we now have them are trivial.
 I believe that the changes made in them by Hsiang
 were not important ; but having them as they came from
 his revision, we have them at second hand, and this has
-afforded ground for the dealing with them by K<X Hsi
+afforded ground for the dealing with them by K(X Hsi
 and others in the manner which will be described in the
 next chapter.
 
@@ -18846,7 +18846,7 @@ are indebted to the labours of the emperor Hsuan 3ung of
 the Thang dynasty. Kii. 1-tsun, of the Kh\tn-\wng period
 (i 736-1 795), in his work on the classics and the writings
 on them, has adduced the titles of eighty-six
-A°>kwo'to^ different works on our classic, that appeared
+A°)kwo'to^ different works on our classic, that appeared
 the emperor between Khung An-kwo and Hsuan 3ung.
 Not a smgie one 01 all these now survives ; but
 the enumeration of them shows that the most distinguished

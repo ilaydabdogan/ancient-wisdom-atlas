@@ -586,7 +586,7 @@ told this thing to the Blessed One.
 ^ Nilika ummara-puppha-vawwa hoti; pitika kanikara-pupphava««a; lohitika^ayasumana-puppha-va««a ; maw^eZ/Z/ika ma«.-
 gelih\-vz.nn^ eva; ka«ha a/ari///^aka-va««a ; maharangaratta
 satapada-pi//^i-va««a (Mahara^ana is saffron ; the colour of the
-back of a centipede is brownish yellow), mahanamaratta sambhinna-va«7ia hoti pa«</u-palasa-va««a, Kurundiya/// pana padumapuppha-va««a 'ti vuttaz^i (B.).
+back of a centipede is brownish yellow), mahanamaratta sambhinna-va«7ia hoti pa«(/u-palasa-va««a, Kurundiya/// pana padumapuppha-va««a 'ti vuttaz^i (B.).
 
 ^ Read gihikamabhogino (as corrected at vol. ii. p. 363).
 
@@ -667,7 +667,7 @@ by step behind the Blessed One.
 ^ YiM/i[k3\ika. 'ti tatth' eva vi/^-^/nka-nahgu///^a-sa«//^ane vaddhe
 yogetvi kata.
 
-'^ Morapifi>^/^aparisibbita (sic) 'ti talesu va baddhesu va moravmk/ichi (sic) suttakasadisehi parisibbita.
+'^ Morapifi)^/^aparisibbita (sic) 'ti talesu va baddhesu va moravmk/ichi (sic) suttakasadisehi parisibbita.
 
 ^ ^itra 'ti vi/^itra.
 
@@ -677,7 +677,7 @@ viya siha^amma/;^ yo^etva kata.
 ° Udda, an animal, feeding on fish ; but Childers thinks it is not
 an amphibious creature, and therefore not ' otter.'
 
-* Luka->^amma-parikkhata (sic) 'ti pakkha-bi/ala--^amma-parikkhata. The latter is the flying fox, a large kind of bat.
+* Luka-)^amma-parikkhata (sic) 'ti pakkha-bi/ala--^amma-parikkhata. The latter is the flying fox, a large kind of bat.
 
 
 V, 4, I. RULES FOR FOOT-CLOTHING, SEATS, ETC. l^
@@ -846,7 +846,7 @@ drinks, clothes, couches, garlands, perfumes, relationships, equipages, villages
 women, warriors, and streets ; tales about buried
 treasures, ghost stories ; various tales ; discussions
 
-^ Kattara-da«</a. Compare ^ullavaggaVIII, 6, 3, and Childers
+^ Kattara-da«(/a. Compare ^ullavaggaVIII, 6, 3, and Childers
 under Kattara-ya/Z/^i. Our word occurs at 6^ataka I, 9.
 
 
@@ -1010,11 +1010,11 @@ or spring up upon their backs, or touch with lustful
 
 ^ See next clause.
 
-^ Asawkamaniyayo 'ti bhumiyaw? supati/Ma ni-^>^ala asawhariya
+^ Asawkamaniyayo 'ti bhumiyaw? supati/Ma ni-^)^ala asawhariya
 (sic), (B. here). Compare Patimokkha, pp. io6, 113 (ed. Minayeflf),
 and Childers's interpretation of those passages under sa»2kamati.
 
-^ On va/<&/(:a-paduka, see ifullavagga V, 35, 2, at the end; and
+^ On va/(&/(:a-paduka, see ifullavagga V, 35, 2, at the end; and
 VIII, 10, 3, at the beginning. On the other two, ^ullavagga V,
 35; I, 4, and VIII, 10, 3; and see also VIII, 9. The use of them
 was part of the sanitary arrangements enjoined upoa the Order.
@@ -1026,7 +1026,7 @@ high official. These ruins are among the most ancient in Ceylon,
 and are certainly pre-Christian in date.
 
 * On -^^eppa, compare Sutta-vibhahga I, 6; and Bohdingk-
-Roth under sepa. and paru>^-^>^epa.
+Roth under sepa. and paru)^-^)^epa.
 
 
 thoughts their privy parts : and they used to duck
@@ -1198,7 +1198,7 @@ so, is guilty of a dukka/a offence.'
 since fine skins had been forbidden by the Blessed
 kMa,dena, upari-bandhena ratta-vitanena saddhin ti attho. Setavitanam pi he/Z/za akappiya-pai^X'attharawe sati na va//ati, asati pana
 va//ati. Ubhalolohitakupadhanawi sisupadhanaw ^a padupadhanaw
-^a ma«>^assa ubhatolohitakupadhana/w eva.m (read eva ?) na kappati.
+^a ma«)^assa ubhatolohitakupadhana/w eva.m (read eva ?) na kappati.
 Ya.m pana ekam eva upadhanam ubhosu passesu ratta;« va hoti
 paduma-va««aw va khram va sa^e pama«a-yutta;« va//ali, mahaupadhanaw pana pa/ikkhittaw.
 
@@ -1601,7 +1601,7 @@ of the Sutta Nipata is here referred to.
 2 On Ane/agalaya compare ne/a va^'a in § 6 of the
 A'ula-sila.
 
-^ Ariyo is the man who has entered the Path, Su>ti is locative.
+^ Ariyo is the man who has entered the Path, Su)ti is locative.
 Nirupadhi, he in whom there remains no longer the cause of the
 renewal of existence as a separate individual (the cause referred to
 being thirst or excitement and craving, Tawha, Upadana).
@@ -1772,7 +1772,7 @@ were ordinary foods, they could not digest ^, much
 less greasy foods -. Then they — attacked both by
 the hot-season disease, and by this want of appetite^— became by both at once still more lean, rough,
 
-^ Na >^/^>^adenti na ^iranti, na vataroga/;i pa/ipassambhetu;;z
+^ Na )^/^)^adenti na ^iranti, na vataroga/;i pa/ipassambhetu;;z
 sakkonti (B.).
 
 ^ Senesikani siniddhani (B.). Compare Sanskrit snaihika.
@@ -2022,7 +2022,7 @@ robes stick to his body. So we moisten those robes
 with water, and loosen them (from his body).'
 
 
-^ Samuddika 'ti samudda-tire valuka viya ti//>^ati (B.).
+^ Samuddika 'ti samudda-tire valuka viya ti//)^ati (B.).
 
 ^ Ka/a-lo«an ti pakati-lowaw (B.).
 
@@ -2383,7 +2383,7 @@ shall we do with this oil, which has too much strong
 drink in it ? '
 
 ' I allow, O Bhikkhus, to use it as an ointment.'
-Now at that time the venerable Pilindava/^/^>^a
+Now at that time the venerable Pilindava/^/^)^a
 had a quantity of oil-decoction ; but he had no vessel
 for it.
 
@@ -2665,7 +2665,7 @@ prescribed by the Blessed One.'
 
 ' Then, Sir, enquire of the Blessed One (concerning this matter), and let me then know.'
 
-^ Aka/a-yiisan ti asiniddho mugga-pa>^ita-pariyo (B.).
+^ Aka/a-yiisan ti asiniddho mugga-pa)^ita-pariyo (B.).
 "^ Ka/aka/an ti so -^a baddhoka-siniddho (B.).
 * Compare chap. 23. 1-8.
 
@@ -2744,7 +2744,7 @@ ornaments on, and decked with garlands, began to
 cry (saying), * Give me too a garland, give me an
 ornament !'
 
-And the venerable Pilindava>^-^//a said to that
+And the venerable Pilindava)^-^//a said to that
 park-keeper's wife: 'Why does that girl cry?'
 
 ' This girl, venerable Sir, seeing the other children
@@ -2771,7 +2771,7 @@ Then the Magadha king Seniya Bimbisara had
 (the whole of) that park-keeper's family thrown into
 bonds.
 
-7, Now the venerable Pilindava>^>^/^a robed himself again early in the morning, and went, duly bowled
+7, Now the venerable Pilindava)^)^/^a robed himself again early in the morning, and went, duly bowled
 and robed, into Pilinda-gama for alms. And going
 his round for alms straight on from house to house he
 came to the dwelling-place of that park-keeper ; and
@@ -3032,7 +3032,7 @@ They told this thing to the Blessed One.
 
 ^ Buddhaghosa says, ukkapiwc^aka pi khadantiti bilala-musika-godha-mungusa khadanti. The expression recurs in VI,
 
-33> 5-
+33) 5-
 
 
 VI, 17,8. ON MEDICAMENTS. 7I
@@ -3443,7 +3443,7 @@ He rebuked them, and having delivered a religious discourse, said to the Bhikkhu
 surgical operation is to be performed within a
 distance of two inches round the anus, and a clyster
 is not to be used. Whosoever does so, is guilty
-of a thulla>^/('aya offence^.'
+of a thulla)^/('aya offence^.'
 
 
 23.
@@ -3966,7 +3966,7 @@ down at the foot of a tree.
 where the Blessed One was ; having approached
 him and respectfully saluted the Blessed One, he
 stationed himself near him. Standing near him,
-Bela////a Ka/J'>('ana said to the Blessed One : * I
+Bela////a Ka/J')('ana said to the Blessed One : * I
 wish, Lord, to give to each Bhikkhu one pot of
 sugar.'
 
@@ -3980,7 +3980,7 @@ of sugar; what shall I do with it, Lord .'*'
 
 ' Well, KaMana., give the sugar to the Bhikkhus.'
 
-3. Bela///^a Ka>i'/^ana accepted this order of the
+3. Bela///^a Ka)i'/^ana accepted this order of the
 Blessed One (by saying), ' Yes, Lord,' gave the
 
 ^ See the 33rd PaX-ittiya Rule about parampara-bho^ana (taking
@@ -4048,7 +4048,7 @@ throw that sugar away at a place free from grass,
 or sink it into water in which there are no livintr
 things.'
 
-Bela////a Ka>('/'ana accepted this order of the
+Bela////a Ka)('/'ana accepted this order of the
 Blessed One (by saying), ' Yes, Lord,' and sunk
 that sugar into water in which there were no living
 thinors,
@@ -4507,7 +4507,7 @@ VI, 30» 4' ^'^ MEDICAMENTS. I07
 
 
 Li'HV^avis, pole to pole, yoke to yoke, wheel to
-wheel, axle to axle. [4.] And those Li/'>(7/avis said
+wheel, axle to axle. [4.] And those Li/')(7/avis said
 to the courtezan Ambapali : * How is it, Ambapali,
 that you drive up against the young Li/'/t/zavis,
 pole to pole, &c. ?'
@@ -5006,7 +5006,7 @@ Vr, 33-2. ON MEDICAMENTS. ITQ
 
 3».
 
-1. Now at that time the <x)untry people loaded
+1. Now at that time the (x)untry people loaded
 much salt, and oil, and rice, and hard food on iheir
 carts, and making a laager in the outer enclosure of
 the Arama, they waited there, saying, ' When it
@@ -5307,7 +5307,7 @@ to-morrow.'
 
 The Blessed One consented by remaining silent.
 
-14. Then Me;^<7^aka the householder when he saw
+14. Then Me;^(7^aka the householder when he saw
 that the Blessed One had consented (&c., as usual,
 see VI, 18, I, 2, down to:) sat down on the seat
 prepared for him.
@@ -5827,7 +5827,7 @@ Blessed One.
 
 
 'Very good, then, Ananda. Let him provide them/
-'Very good, then, Rq<^a. Provide them accordingly.'
+'Very good, then, Rq(^a. Provide them accordingly.'
 Then Rq^a the Malla at the end of tlie night,
 after he had had a quantity of potherbs and meal
 made ready, offered them to the Blessed One,
@@ -5902,7 +5902,7 @@ word, unsupported by the derivation. He says, Pa/ibhaneyyaka
 ti sake sippe pa/ibhana-sampanna. This agrees with Childers's rendering (sub voce) of Gataka I, 60; but compare Sigalovada Sutta,
 ed. Grimblot, p. 309.
 
-* On the idiomatic phrase saka^^i a>^ariyaka7«, compare Mahaparinibbana Sutta in, 7, 8 (text ed. Childers, pp. 24 and following).
+* On the idiomatic phrase saka^^i a)^ariyaka7«, compare Mahaparinibbana Sutta in, 7, 8 (text ed. Childers, pp. 24 and following).
 
 ° Literally, ' this man who had gone forth (from the household
 state into the homeless life of the Order) in his old age.' But it is
@@ -5954,7 +5954,7 @@ not to ask. The Tathagatas put questions full of
 ^ Tata, not tata. It will be seen that Childers is wrong in supposing that the plural form is always used when more than one
 person is addressed.
 
-2 Khura-bha7;</a;«; not ' shaving materials;' compare hatthihh^ndo and assa-bha«(/o at Mahavagga I, 61, and below, § 5.
+2 Khura-bha7;(/a;«; not ' shaving materials;' compare hatthihh^ndo and assa-bha«(/o at Mahavagga I, 61, and below, § 5.
 
 
 sense, not void of sense : to what is void of sense,
@@ -6267,7 +6267,7 @@ called an avasa, 'residence'), and who have taken part in the
 Pavarawa, are entitled to share in the distribution.
 
 (Buddhaghosa says, 'Ettha kathinattharaw ke labhanti ke na
-labhanti. Gawavasena tava pa>^X7nma-ko/iya pziika. ^ana (for at
+labhanti. Gawavasena tava pa)^X7nma-ko/iya pziika. ^ana (for at
 least five must be present to make a Pavarawa legal, Mahavagga
 IX, 4, i) . . . . vu////avassavasena purimikaya vassa7« upagantva
 paMama-pavarawaya pavarita labhanti.')
@@ -6404,7 +6404,7 @@ Kzmma.ya.kzm. It appears from Minayefif (Pratimoksha, pp. 75,
 of dyeing, sewing, &c. When the new robes are ready for wear,
 he lays aside one of his old robes which has been worn out
 (pa/t/^uddharitva), and chooses for himself one of the new ones
-{na.vzm adhi//>^ahitva), saying as he does so, ' imaya sawgha/iya
+{na.vzm adhi//)^ahitva), saying as he does so, ' imaya sawgha/iya
 (or, as the case may be, uttarasahgena, antaravasakena)kaMinaz?i
 attharami.' This speech shows the technical application of the
 verb attharati in this connection. He then points out the remaining
@@ -6433,7 +6433,7 @@ made strong (in the seams) ' : when it has only
 not completed by any one of the following acts having been performed. The technical terms of the tailor's craft are, as will be
 seen, by no means easy to follow.
 
-^ Ullikhita-mattena 'ti dighato ka. puthulato >i'a pamawagahawa-mattena. Ta.ma.fia.m hi ga«hanto tassa tassa padesassa
+^ Ullikhita-mattena 'ti dighato ka. puthulato )i'a pamawagahawa-mattena. Ta.ma.fia.m hi ga«hanto tassa tassa padesassa
 saj/^^'ananattha/?/ nakhadihi va pariX'-^/zedawi dassento ullikhati, nala-
 /adisu va ghawsati. Tasma ta.m pama«a-gaha«awz uUikhita-mattan
 ti vu/('/(-ati (B.).
@@ -6450,14 +6450,14 @@ the false threads mentioned in the last note. The word occurs
 also in Mahavagga VIII, 14, 2 ; and in .A'ullavagga V, i, 2 we are
 told that the AV^abbaggiya Bhikkhus ova//ika;« dharenti. Buddhaghosa says there vi^gg'/zita-karawa/w ova//ika.
 
-* By joining on a little piece of cloth. Ka«</usa-kara;/amattena 'ti muddiya-pa//a-bandhana-mattena, says Buddhaghosa.
+* By joining on a little piece of cloth. Ka«(/usa-kara;/amattena 'ti muddiya-pa//a-bandhana-mattena, says Buddhaghosa.
 
 " Da/Ai-kara7za-mattena 'ti dve /^imilikayo (MS. /^'ilimikayo)
 ekato katva sibbita-mattena : athava pa//zama-'i'imilika gha//etvi
 //Capita hoti, ka//^ina-sa/akaw tassa kuX'X'/n-/('imilikaw katva sappita-
 (read sibbita-) mattena 'ti pi attho. Maha-paX'/('ariya;« pakati-
 X'ivarassa upassaya-danena 'ti vuttaw. Kurundiyaw pakatipa//a-
->^ivara;« dupa//aw katum kuX-XV/i-X-imilikaw alliyapana-matlena 'ti
+)^ivara;« dupa//aw katum kuX-XV/i-X-imilikaw alliyapana-matlena 'ti
 vuttaz?^ (B.). On X'imilika compare Minayeflfs 'Pratimoksha,' p. 87.
 
 
@@ -6477,7 +6477,7 @@ one ' : when the ceremony has been postponed ^ :
 ^ Paribha«(/a-kara7?a-mattena 'ti ku/^Mi-anuvata-aropanamattena (B.). Compare VIII, 21, i.
 
 ^ Ova/Meyya (sic) -kara«a-mattena 'ti agantuka-pa//'-
-aropana-mattena : ka//^ina->^ivarato va pa//am gahetva afmasmiw
+aropana-mattena : ka//^ina-)^ivarato va pa//am gahetva afmasmiw
 akaMina-y^ivare pa//'-aropana-mattena (B.).
 
 * Kambala-maddana-mattena 'ti ekavarawz yeva ra^ane
@@ -6540,8 +6540,8 @@ nissaggiya7« nama kayiramane arunaw udriyatiti (B.).
 do not understand. Perhaps we should read binduna.
 
 ' Awfiatra pan-^akena va atireka-pa?i/^akena va 'ti pa?t/&a
-va atirekani va kha««/ani katva maha-ma«^ala-aa'<//^a-ma;/fl'alani dassetva katen' eva va//ati. Evawz hi sama«</ali-kata;« hoti. Tarn
-///apetva afjTjena a/^/('-^innakena va dvi-tti->(-atu-kha«fi?ena va na va//ati
+va atirekani va kha««/ani katva maha-ma«^ala-aa'(//^a-ma;/fl'alani dassetva katen' eva va//ati. Evawz hi sama«(/ali-kata;« hoti. Tarn
+///apetva afjTjena a/^/('-^innakena va dvi-tti-)(-atu-kha«fi?ena va na va//ati
 (B.). On these five parts of the robe compare below, Wahavagga
 
 VIII, 12, 2.
@@ -6953,7 +6953,7 @@ expected it, and does not obtain one where he had
 not expected it, and he has that robe made up.
 
 ^ Here follows the same development into the four cases of
-ni///^anantika, sanni///ianantika, nasanantika, and asava^>^/zedika
+ni///^anantika, sanni///ianantika, nasanantika, and asava^)^/zedika
 ka//^inuddhara, as in chap. 8. i.
 
 '^ Supply here the same four cases as in the preceding paragraph
@@ -7041,7 +7041,7 @@ we have printed above, are different from those in chap. 8.
 
 * Comp. IT, 21, 1.
 
-' Apa/^'inayamana, comp. apa>C'iti, apa-^ita.
+' Apa/^'inayamana, comp. apa)C'iti, apa-^ita.
 
 
 a residence, and there I have my share in the
@@ -7087,7 +7087,7 @@ been held, goes away travelling (&c., as in { i, down
 to :) " Here it is, friend." And he takes that robe,
 and sets out for that residence. And when going
 
-> Here follow the three cases as given in chap. 6. i, in the
+) Here follow the three cases as given in chap. 6. i, in the
 usual way.
 
 ^ The usual three cases ; see the preceding note.
@@ -7163,7 +7163,7 @@ failing of the condition regarding the residence, and
 the failing of the condition regarding the robe.
 
 'And in which case,0 Bhikkhus, does the condition
-re<jardinQf the residence fail ?
+re(jardinQf the residence fail ?
 
 'A Bhikkhu, O Bhikkhus, goes away from the
 residence, giving it up, turning away from it with
@@ -7310,7 +7310,7 @@ Because (the people had said about this boy to
 Abhaya), 'He is ahve' (^ivati), they gave him
 the name of 6^ivaka; because he had been caused
 to be nourished by the royal prince (kumarena
-posapito), they gave him the name of Komarabha>^/^a^
+posapito), they gave him the name of Komarabha)^/^a^
 
 5. And ere long Civaka KomarabhaZ'/^a came
 to the years of discretion. And C'ivaka Komarabha/('/^a went to the place where the royal prince
@@ -7494,7 +7494,7 @@ she give me?'
 
 And the sG.ttkis wife, when she observed the
 change of demeanour in 6'ivaka Komarabha/^/^a, said
-to C'ivaka Komarabha/'>^a : ' Why are you perplexed, doctor ?'
+to C'ivaka Komarabha/')^a : ' Why are you perplexed, doctor ?'
 
 * I thought : " It is astonishing, &c." '
 
@@ -7509,7 +7509,7 @@ you will not lose your fee.'
 lexicographers to be equal to two palas. About the pala, which
 according to the ghee measure (ghritaprama«a) of Magadha was
 the thirty-second part of a prastha, see the Atharva-parijish/a
-35> 3> ^P- Weber, Ueber den Vedakalender namens Jyotisham,
+35) 3) ^P- Weber, Ueber den Vedakalender namens Jyotisham,
 p. 82. Compare also Rh. D., 'Ancient Coins and Measures of
 Ceylon,' pp. 18, 19.
 
@@ -7569,7 +7569,7 @@ Civaka, he will cure Your Majesty.'
 physician C'ivaka, and he shall cure me.'
 
 15. Then the royal prince Abhaya gave orders
-to 6'ivaka Komarabha>^/'a (saying), ' Go, my dear
+to 6'ivaka Komarabha)^/'a (saying), ' Go, my dear
 Givaka, and cure the king.'
 
 6^ivaka KomarabhaX'/^a accepted this order of the
@@ -7692,7 +7692,7 @@ the sides of the wound, stitched up the skin on the
 head, and anointed it with salve.
 
 19. And when seven days had elapsed, the s&tt/n,
-the householder, said to 6^ivaka Komarabha>^ia :
+the householder, said to 6^ivaka Komarabha)^ia :
 * I am not able, doctor, to lie down on one side for
 seven months.'
 
@@ -7798,7 +7798,7 @@ Your Majesty,' went to Benares, and repaired to
 the place where the son of the Benares se/Mi
 was ; having approached him, and having carefully
 more in accordance with the phrase ' holding a stick in the air '
-(akase da«</aw/ gahetva) and with the phrase 'turning over and
+(akase da«(/aw/ gahetva) and with the phrase 'turning over and
 over' (sampariva//ana/?i).
 
 
@@ -7980,7 +7980,7 @@ and the first, and the most precious, and the noblest
 of many cloths, and of many suits of cloth, and of
 many hundred suits of cloth, and of many thousand
 suits of cloth, and of many hundred thousand suits
-of cloth. And king Pa^^ota sent this suit of Siveyyaka cloth to 6^tvaka Komarabha/^>^a. Then 6^ivaka
+of cloth. And king Pa^^ota sent this suit of Siveyyaka cloth to 6^tvaka Komarabha/^)^a. Then 6^ivaka
 Komarabha/^/^a thought : ' This suit of Siveyyaka
 cloth which king Pa^ota has sent me, is the best
 and the most excellent (&c., down to :) and of many
@@ -8197,7 +8197,7 @@ for in the Lohi^X-a-sutta it is stated that Pasenadi's rule extended
 both over Kasi and Kosala (' R%a Pasenadi Kosalo Kasikosalaw
 a^^^avasati ').
 
-^ Our translation of a^<//iakasika;« k am b a law is merely
+^ Our translation of a^(//iakasika;« k am b a law is merely
 
 O 2
 
@@ -8715,7 +8715,7 @@ offence.'
 
 I. Now when the Blessed One had remained at
 Raraeaha as lone as he thouo^ht fit, he set forth on
-his journey towards Dakkhi;<!a-giri (the Southern
+his journey towards Dakkhi;(!a-giri (the Southern
 Hills-^). And the Blessed One beheld how the
 Maf^adha rice fields were divided into short pieces ^,
 
@@ -8726,7 +8726,7 @@ Maf^adha rice fields were divided into short pieces ^,
 (Mahavagga I, 53 ; A'ullavagga XI, i-io), and are probably the
 name of the mountainous district immediately south of Rai.'-agaha.
 
-' A>(-X'ibaddhan (sic) ti X-aturassakedarakabaddhaw (B.). I
+' A)(-X'ibaddhan (sic) ti X-aturassakedarakabaddhaw (B.). I
 have never seen a field divided 'ray-fashion,' which would apparently be the literal translation of the term, and it is difficult to see
 how the necessary water could be conducted from strip to strip of
 a field so divided. Buddhaghosa also, though his explanation is
@@ -8776,7 +8776,7 @@ attho (B.).
 
 * Sawvidahitun ti katuw (B.).
 
-^ Kusi?« pi 'ti ayamato kd. vitliiarato /^'a anuvatadinaw dighapa//anaw/ etaw adhiva>^anara (B.).
+^ Kusi?« pi 'ti ayamato kd. vitliiarato /^'a anuvatadinaw dighapa//anaw/ etaw adhiva)^anara (B.).
 
 
 intermediate cross seams \ and the greater circles ^
@@ -8791,12 +8791,12 @@ upper robe of torn pieces, and of a waist cloth of
 torn pieces '^.'
 
 ^ Addka.kust ti antarantara rassa-pa/Zana/w nama/« (B.).
-'^ Ma«(/alan ti pa7i/ta-kha«<fika-^ivarassa ekekasmiw khaw^e
+'^ Ma«(/alan ti pa7i/ta-kha«(fika-^ivarassa ekekasmiw khaw^e
 maha-maWalaw/ (B.).
 
-^ A<f<^/>^ama;/(/alan ti khuddaka-ma«(falaw (B.).
+^ A(f(^/)^ama;/(/alan ti khuddaka-ma«(falaw (B.).
 
-* Viva//an ti ma;/</ala?1 y('a a^o^a-nia/za'alafi -^a ekato katva sibhitdim ma^^>^ima-kha;/«/a//i (B.).
+* Viva//an ti ma;/(/ala?1 y('a a^o^a-nia/za'alafi -^a ekato katva sibhitdim ma^^)^ima-kha;/«/a//i (B.).
 
 ^ Anuviva//an ti tassa ubhosu passesu dve khaw^ani. Athava
 viva//assa ekekapassato dvinnam pi ,^atunnam pi khaw^anam eta;«
@@ -8805,11 +8805,11 @@ nimaw (B.).
 * Giveyyakan ti giva-///iane daZ-^i-karan-atthaw z.nna.m sutta;;^
 sibbitaw agantuka-pa/Za/;/ (B.).
 
-^ Gahgheyyakan ti ^angha-papuna-//>^ane tatth' eva sawsibbita-pa/Zawz. Giva-////ane ka. ^ahgha-///^ane ka, pa/Zanaw ev' eta;w
+^ Gahgheyyakan ti ^angha-papuna-//)^ane tatth' eva sawsibbita-pa/Zawz. Giva-////ane ka. ^ahgha-///^ane ka, pa/Zanaw ev' eta;w
 naman ti pi vadanti (B.).
 
 ^ Bahantan ti anuviva/Zanaw bahi ekekakhawc/aw. Athava
-suppama«a;« >^ivara;« parupentena sa/wharita bahaya upari Z/zapita
+suppama«a;« )^ivara;« parupentena sa/wharita bahaya upari Z/zapita
 ubho anto-bahi-mukha tiZZ/zanti. Tesaw eta;« namaw. Ayam eva
 hi nayo Maha-atthakathaya?« vutto ti (B.). This latter explanation
 from bah a seems evidently more correct than the other one from
@@ -9085,7 +9085,7 @@ slips of cloth inserted bolt-like to hold a torn robe
 
 ^ See above, VIII, 13, 5.
 
-" Buddhaghosa says, Agga/awz a>^/^/zadeyyan (sic) ti /t/^inna-
+" Buddhaghosa says, Agga/awz a)^/^/zadeyyan (sic) ti /t/^inna-
 ///mwe pilotika-khaWaw laggapeyyaw. The word occurs at Gataka
 I, 8, where the liability to want such an insertion is given as one of
 the nine disadvantages of a robe from the ascetic's point of view.
@@ -9373,7 +9373,7 @@ of bathing in the river AX'iravati with the courtesans, at the same landing-plac
 the courtesans, Lord, ridiculed the Bhikkhunis,
 saying, " What is the good, ladies, of your maintaining 3 chastity when you are young ? are not the
 
-^ Bhatta>^/J/^eda»z karissati, because he may not eat solid
+^ Bhatta)^/J/^eda»z karissati, because he may not eat solid
 food after sun-turn.
 
 2 See Mahavagga VI, 24. The ten advantages are enumerated
@@ -9628,7 +9628,7 @@ a person possessed of these five qualifications.'
 ^ He is also mentioned as such in Mahavagga VI, 36.
 
 2 Buddhaghosa says, Alapito ti mama santaka/w gawhahi ya»?
-i/^/^>^eyyasiti eva»2 vutto.
+i/^/^)^eyyasiti eva»2 vutto.
 
 ^ Vissasaw gahetuw, on which phrase compare vissasa
 gawhati in chapter 31, below, where the context leaves no doubt
@@ -11169,7 +11169,7 @@ called unlawful acts.
 
 'If, O Bhikkhus, at a ?^attidutiya act not all
 Bhikkhus, as many as are entitled to vote, are
-present, if the /^/^anda^ of those who have to declare their >(V^anda has not been conveyed (to the
+present, if the /^/^anda^ of those who have to declare their )(V^anda has not been conveyed (to the
 assembly), and if the Bhikkhus present protest, such
 an act is performed by an incomplete congregation.
 
@@ -11182,7 +11182,7 @@ by an incomplete congregation.
 
 ' If, O Bhikkhus, at a /lattidutiya act as many
 Bhikkhus as are entitled to vote, are present, if the
-A'/iSLuda. of those who have to declare their >^7/anda
+A'/iSLuda. of those who have to declare their )^7/anda
 has been conveyed, but if the Bhikkhus present protest, such an act is performed by an incomplete
 congregation.
 
@@ -13051,7 +13051,7 @@ walks for alms.
 Then the Bhikkhus of Kosambi, when they were
 no more honoured (&c., down to :) and hospitably
 
-^ Ubba/Aa; see <9ataka I, 300, and Mahavagga III, 9, i.
+^ Ubba/Aa; see (9ataka I, 300, and Mahavagga III, 9, i.
 
 
 received by the lay-devotees of Kosambi, said to
@@ -13164,7 +13164,7 @@ When you have heard the Dhamma on both sides,
 
 
 ^ The name of ihis Thera is spelt in the i\ISS. Mahako///nta and
-]\Iahako////ika, In the Northern Buddhist works he is called MahakaushZ/iilya. In the Lalita Vistara (p. i, ed. Calc.) Kau«</ilya is
+]\Iahako////ika, In the Northern Buddhist works he is called MahakaushZ/iilya. In the Lalita Vistara (p. i, ed. Calc.) Kau«(/ilya is
 a misprint.
 
 
@@ -13318,7 +13318,7 @@ Sawgha has been settled ; the disunion that existed
 
 * See II, 23.
 
-"^ Here follows the repetition of the f<atti and the other solemn
+"^ Here follows the repetition of the f(atti and the other solemn
 formulas belonging to a ?tattiduliya kamma in the usual way.
 
 [17] Y
@@ -13480,7 +13480,7 @@ FIRST KHANDHAKA.
 THE MINOR DISCIPLIVARY PROCEEDINGS.
 
 
-I. The TAGG-^XTiA KA3>rvL\ (Act of Rebuke).
+I. The TAGG-^XTiA KA3)rvL\ (Act of Rebuke).
 
 
 I . At that time the Blessed One was sta\-iiig at
@@ -13497,7 +13497,7 @@ more wise, more well informed, more able at that (than
 
 ^ These were two oat of the six Doionous Al^abbirr.ja Briiih::5,
 who are so freqnenilj mfwtioncd dsewhere. Bnddii3xics2 sijs.
-tesas nksitata |h Paiv^kalohitaki tv'eva p2>rftiT-3^-i.
+tesas nksitata |h Paiv^kalohitaki tv'eva p2)rftiT-3^-i.
 
 ' In addition to die passages refened lo in ifae two kAowiag
 notes, compare the dosii^ voids of the Palimokkha, and the 2nd,
@@ -13508,7 +13508,7 @@ iitfa, and i2th Saj^;faai£9esas.
 
 * Sncfa peiscms woe fimneiij deak with acccMnfing feo the 8di
 and 9th Sai^^iiffisesas and the 76th Paixxdjx Compare also
-bek>w, IV, 14, and the 63rd and ^si^•FiJStaJ2S.
+bek)w, IV, 14, and the 63rd and ^si^•FiJStaJ2S.
 
 
 33^ X-ULLAVAGGA. I, i, 2.
@@ -14326,7 +14326,7 @@ there may be re-established." '
 5. 'Very well, my friend,' said the Bhikkhu, in
 assent, to that lay-disciple. And rising from his
 seat, he set out for Savatthi, and went straight on
-to Anatha-pi;^<2'ika s grove, to the 6^etavana in
+to Anatha-pi;^(2'ika s grove, to the 6^etavana in
 Savatthi, to the place where the Blessed One was
 staying. And on arriving there he saluted the
 Blessed One, and took his seat on one side.
@@ -14510,7 +14510,7 @@ paTlnatti-sikkhapadassa asikkhana-bhavena upahananaw vuX-X-ati.
 A a 2
 
 
-<>
+()
 
 
 want of training in the precepts and practices of the
@@ -14542,7 +14542,7 @@ both in action and in speech).'
 Pabba^aniya for Ta^^aniya.]
 
 
-ir>i.
+ir)i.
 
 I. So the Bhikkhu-Sawgha, with Sariputta and
 Moggallana at their head, proceeded to the Ki/a
@@ -15007,7 +15007,7 @@ I understand."
 
 3. ' Then, O Bhikkhus, let Sudhamma the Bhikkhu
 go, together with the Bhikkhu who is the companion
-messenger, to Ma/'/7/ikasa/^</a, and ask pardon of
+messenger, to Ma/'/7/ikasa/^(/a, and ask pardon of
 K'xttdi the householder, saying, " Pardon me, O
 householder ; I desire to gain once more thy good
 pleasure." If, when he thus speaks, he pardons him,
@@ -15331,7 +15331,7 @@ a sinful doctrine.
 
 I. Now at that time the Blessed Buddha was
 sta)ing at Savatthi, in the C^etavana, the grove of
-An^thapi;^</ika. And at that time a certain Bhikkhu
+An^thapi;^(/ika. And at that time a certain Bhikkhu
 by name Ari///^a, who had formerly been a vulture
 tormentor \ had fallen into a sinful belief of this
 kind ; (that is to say), ' In this wise do I understand
@@ -15441,7 +15441,7 @@ in ^ i):
 ^ Compare Gataka I, 231, 232.
 
 
-<>
+()
 
 
 8o iiTULLAVAGGA. I, 32, 4.
@@ -15714,7 +15714,7 @@ hutva viharen' eva nisiditva bhu?~^anto vattiyo gawayissami ga/O-
 X7iato me bhikkhii disva anaro/tentassa rattiH'/^edo (cap. 2) siya 'ti
 imina karawena piwfl'apato na niharapetabbo,
 
-^ Ma ma?;/ ^aniw/sfi 'ti ma ma;« ekabhikkhu pi ^<^anatu 'ti/ta
+^ Ma ma?;/ ^aniw/sfi 'ti ma ma;« ekabhikkhu pi ^(^anatu 'ti/ta
 imina a^^^asayena vihare samawerehi paX-apetva bhu%itum labbhati.
 Gama;« piw^aya pavisitabbam eva, Gilanassa pana navakammaw
 SX'ariyupai;77//ayaki/('/(-adipasu (sic) tassa \i vihare yeva aM/iilnm
@@ -15812,7 +15812,7 @@ ought not to sit down on a seat^ ; he ought not to
 walk up and down on the same /^ankama^ with
 a regular Bhikkhu ; when a regular Bhikkhu is
 walking up and down on a low /^ahkama he ought
-not to walk up and down on a higher >('ankama;
+not to walk up and down on a higher )('ankama;
 when a regular Bhikkhu is walking up and down on
 the ground he ought not to walk up and down on
 a (properly prepared) X'ankama.
@@ -15923,7 +15923,7 @@ necessary duties, then a Bhikkhu might postpone the fulfilment to
 some more convenient season.
 
 
-II, 4, T. PROBATION AND PENANCE. 2>9o
+II, 4, T. PROBATION AND PENANCE. 2)9o
 the duties (i. e. of a probationer)." Then also the
 probation is postponed.'
 
@@ -16039,7 +16039,7 @@ among the Buddhists.
 * The SamantaPasadika says, fine ga«e ti /C-attaro va atireka va.
 
 
-->
+-)
 
 
 8.
@@ -16098,7 +16098,7 @@ the first Sawghadisesa — which I have not concealed.
 penalty for six days on account of this offence — the
 
 
-'>
+')
 
 
 98 iSrULLAVAGGA. Ill, i, 3.
@@ -16239,7 +16239,7 @@ They told that matter to the Blessed One.
 * Let then the Sawgha, O Bhikkhus, rehabilitate
 Udayi the Bhikkhu.'
 
-2, 3. [Here follows the kammava>C'a as in
+2, 3. [Here follows the kammava)C'a as in
 chapter 2, J} 2, 3, to the end.]
 
 
@@ -16310,7 +16310,7 @@ I. While he was undergoing that Manatta he
 
 
 o
-committed an offence — the first Sa;;/i>hadisesa —
+committed an offence — the first Sa;;/i)hadisesa —
 which he did not conceal.
 
 He told the Bhikkhus, saying, ' I committed, &c.
@@ -17589,7 +17589,7 @@ idea in Sutta Nipata IV, 3, 5.
 F f 2
 
 
-43<3 iTULLAVAGGA. Ill, 35, 2.
+43(3 iTULLAVAGGA. Ill, 35, 2.
 
 
 for the occasion ; and it also imposes a Manatta

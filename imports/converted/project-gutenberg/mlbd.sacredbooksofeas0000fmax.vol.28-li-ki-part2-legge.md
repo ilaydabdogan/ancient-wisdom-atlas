@@ -3067,7 +3067,7 @@ that it should be grave and distinct. The demeanour prized in the court required
 
 ' These cautions are expressed enigmatically in the text. The
 expurgated edition gives only the third and fourth, which P. Callery
-translates thus :—‘ L’>homme de lettres s’applique 4 la vertu pardessus tout, et ne s'adonne que d’une facon secondaire 4 la culture
+translates thus :—‘ L’)homme de lettres s’applique 4 la vertu pardessus tout, et ne s'adonne que d’une facon secondaire 4 la culture
 des arts libéraux, semblable en cela a l’ouvrier qui suit d’abord les
 procédés fondamentaux de son art, et ne discute qu’aprés les
 changements 4 introduire dans leur application.’
@@ -4785,7 +4785,7 @@ they are not the same.’
 
 1 These are names of musical instruments, of which figures are
 xiven in the plates to the Ahien-lung edition; but there is much
-<mcertainty about them.
+(mcertainty about them.
 
 
 10. The marquis asked him to explain, and 3zehsid replied, ‘In antiquity, Heaven and Earth acted
@@ -9658,7 +9658,7 @@ the foundation (of all duty). This will show him
 pursuing the greatest method of what is natural and
 right in the highest degree; and is not this what is
 seen in sacrifice ? Hence we have the saying that
-faits sont la plus grande chose.’ Wylie :—<‘ Sacrifice is the greatest
+faits sont la plus grande chose.’ Wylie :—(‘ Sacrifice is the greatest
 of the virtuous influences.’ But is not the writer simply referring to
 what he has said about the admission of all classes to participate
 in the relics of a sacrifice?
@@ -10466,7 +10466,7 @@ scholars, and I have heard it proposed to render it by ‘a gentle-
 
 ,
 man.’ Here all the commentators say it is to be understood of a
-man of rank and position (A > YJ NE. =) which is a
+man of rank and position (A ) YJ NE. =) which is a
 not unfrequent application of it.
 
 2 What I translate by ‘doing all that can be done for his
@@ -12248,7 +12248,7 @@ his own way of thinking.
 of the text. The old commentators took a different view, which
 appears to me, and would appear to my readers, very absurd.
 
-§ Literally, ‘Benevolence is Man (44> 27 th) ;’ a remarkable saying, found elsewhere in the Lt A?, and also in Mencius.
+§ Literally, ‘Benevolence is Man (44) 27 th) ;’ a remarkable saying, found elsewhere in the Lt A?, and also in Mencius.
 The value of it is somewhat marred by what follows about ‘ righteousness’ and ‘ propriety.’
 
 
@@ -14850,7 +14850,7 @@ arrive. Therefore the sages decided in the case
 ed
 
 
-1 <Not the structure so called, says Khung Ying-ta, ‘but the
+1 (Not the structure so called, says Khung Ying-ta, ‘but the
 apartment where the coffin had been ;’—now serving for the occasion
 as a temple.
 
@@ -16598,7 +16598,7 @@ His name was Xung-sun Mieh. Hsien was his posthumous title.
 ? An officer who has just attained to be a Great officer, and
 received from the ruler the carriage of distinction.
 
-> To be used in sacrificing; but, we may suppose, for other
+) To be used in sacrificing; but, we may suppose, for other
 uses as well.
 
 ‘ A dignitary, possessing an appanage.

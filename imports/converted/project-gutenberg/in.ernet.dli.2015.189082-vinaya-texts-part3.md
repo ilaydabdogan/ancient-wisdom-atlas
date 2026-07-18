@@ -88,7 +88,7 @@ taw atthaw mgghzyzXi oloketi eva w karoti.
 H eva punappunan £a pekkhati evaw karoti. (Samanta Pasldika.)
 
 
-IV, 3> the settlement of disputes. 3
+IV, 3) the settlement of disputes. 3
 
 instructs him, saying, ‘This is the Dhamma, this the
 Vinaya, this the teaching of the Master. Accept this,
@@ -747,13 +747,13 @@ And a third time I say the same thing. Let the
 venerable Sawgha hear me. These Bhikkhus (&c.,
 as before, down to) let him speak. The acquittal of
 those who are conscious of innocence has been
-[>o] C
+[)o] C
 
 
 iOJLLAVAGGA.
 
 
-IV, 4> ^
+IV, 4) ^
 
 
 1 8
@@ -782,7 +782,7 @@ insane and out of his mind, many things unworthy of
 a samara had been committed, as well in speech as
 in act 3 . The Bhikkhus warned the Bhikkhu Gagga
 of a fault so committed by him when insane and out
-t>f his mind, saying, ‘ Does the venerable one call to
+t)f his mind, saying, ‘ Does the venerable one call to
 
 
 This section is repeated below, chap. 14, § 2*7, with the necessary alterations for a general rule instead of a particular case.
@@ -797,7 +797,7 @@ Sutta-vibhanga, Parl^ika IV, 1, 2, in the sense of lacerated, is from
 tha root krmt.
 
 
-IV, g> I.
+IV, g) I.
 
 
 mind that he has committed such and such an
@@ -1022,7 +1022,7 @@ of any one of the offences different from the one
 charged, then the official act is invalid.]
 
 2. ' And when, O Bhikkhus, is such an official act
-valid ? In case a Bhikkhu have committed a Pardc>ika offence, and in respect thereof the Sawgha, or
+valid ? In case a Bhikkhu have committed a Pardc)ika offence, and in respect thereof the Sawgha, or
 a number of Bhikkhus, or a single Bhikkhu warns
 him, saying, “ The venerable one has been guilty
 of a Pird^ika.” And he replies, “ Yea, Sirs, I have
@@ -1368,7 +1368,7 @@ that he will not do so.
 
 TV
 
-X ’ 5 A 0>
+X ’ 5 A 0)
 
 
 we manage ?” I enjoin upon you, O Bhikkhus, to
@@ -1592,7 +1592,7 @@ eva sampavankata anuvadanabhavo ti attho (S. P.).
 besides them, Thulla/btaya and Dubbhasita.
 
 
-IV, I4> 3*
+IV, I4) 3*
 
 
 posal of a resolution *, the proceeding by «attidutiya-kamma 1 2 , or by #atti-/£atuttha-kamma 2 ,
@@ -2364,7 +2364,7 @@ what is meant herein by the vote of the majority.
 
 ‘ When a legal question, O Bhikkhus, has been
 thus settled, if a disputant re-open the question, such
-re-opening is a Pa<6ittiya. If one who has conveyed
+re-opening is a Pa(6ittiya. If one who has conveyed
 his consent complain of the decision, such complaint
 is a Paiittiya V
 
@@ -2804,7 +2804,7 @@ course includes the plural, as the confession usually took place
 before a number of Bhikkhus.
 
 
-IV, 14 , 34> THE SETTLEMENT OF DISPUTES.
+IV, 14 , 34) THE SETTLEMENT OF DISPUTES.
 
 
 ‘When a legal question, O Bhikkhus, has been
@@ -3441,7 +3441,7 @@ Moggallana is both an Arahat and possessed of
 Iddhi. Go, friend Moggallana, and fetch down this
 bowl, for this bowl belongs to thee.’
 
-‘ The venerable Pi«<fola Bharadvaga also is both
+‘ The venerable Pi«(fola Bharadvaga also is both
 an Arahat and possessed of Iddhi. Go, friend
 Bharadvaga, and fetch down the bowl, for this bowl
 belongs to thee.’
@@ -3567,7 +3567,7 @@ of the bowls wore out 3 * .
 
 They told this matter to the Blessed One.
 
-‘ I allow > 7 ou, O Bhikkhus, to use circular (pieces
+‘ I allow ) 7 ou, O Bhikkhus, to use circular (pieces
 of metal) as the supports for your bowls.’
 
 Now at that time the W/5abbaggiya Bhikkhus
@@ -3760,7 +3760,7 @@ the text. See also Khudda Sikkha V. 7.
 scented earth or dried cowdung. See JTullavagga VI, 17, 1, and
 Buddhaghosa’s note there. On the use of the word in tailoring, see
 Mahavagga VII, 1, 5, VIII, 21. Buddhaghosa, loc. cit. (p. 317),
-uses the expression mattika-paribha?/<fa-kataya-bhumiya.
+uses the expression mattika-paribha?/(fa-kataya-bhumiya.
 
 4 Nikkug-ganti. See the use of this word at V, 20, 3.
 
@@ -3815,7 +3815,7 @@ Mahavagga VIII, 18. In the uddana (at p. 143) the corresponding word is £ola. S
 made either of bricks or of wood.’ He confirms the reading of the
 text (with l as against Childers’s reading malako).
 
-4 Patta-ka»<folika ti maha-mukha-ku;z(fa-sa?z/Mnfi bhandakukkha/ika vuK'ati (B.). Ka«ifola is a wicker-work basket; see
+4 Patta-ka»(folika ti maha-mukha-ku;z(fa-sa?z/Mnfi bhandakukkha/ika vuK'ati (B.). Ka«ifola is a wicker-work basket; see
 
 Bdhtlingk-Roth, sub voce.
 
@@ -4069,7 +4069,7 @@ a VMra at Mahavagga I, 25, i5==/sfullavagga VIII, 1, 3, and
 pa^su-kit^ occurs just below in our present passage. Compaie
 also the note on vika^aw in the following section.
 
-3 Su/<:i-na/ika;?2. On these needle-cases compare the Introductory Story to the 20th Cr&taka. It is Pa&ttiya to have them
+3 Su/(:i-na/ika;?2. On these needle-cases compare the Introductory Story to the 20th Cr&taka. It is Pa&ttiya to have them
 made of ivory, horn, or bone. (80th Pa&ttiya, but they are there
 called Su&-ghara//z.)
 
@@ -4220,7 +4220,7 @@ guilty of a dukkaZa/
 1 On these terms, which we do not attempt to translate, see
 Buddhaghosa’ s notes as quoted by H. O. at p. 317 of the edition
 of the text. The first seems to be a Ka/^ina with a cross-bar,
-but da/z</a at V, n, 1, and V, 13, 3, means handle.
+but da/z(/a at V, n, 1, and V, 13, 3, means handle.
 
 2 Vinandhana-ra^ujw vinandhana-suttakazrc. SeeBuddhaghosa’s notes loc. cit., and compare Mah&vagga V, n.
 
@@ -4286,7 +4286,7 @@ secondary uses of the word, see Pataka I, 146, II, 9, 26. Buddhaghosa says here,
 2 So of ointment-boxes, Mahavagga VII, 12, 1 ; and of scissors,
 above, V, n, 1.
 
-3 Asevana-(sic)vitthaka?# nama >a m km& pati-^ango/akadi
+3 Asevana-(sic)vitthaka?# nama )a m km& pati-^ango/akadi
 
 (B.).
 
@@ -4640,9 +4640,9 @@ Now dvaka Komarabha^a went to Vesali on
 
 1 Da^ia-paiissavana^. Apparently a long box, both ends
 of which strain the water, which is poured into the middle by
-means of a pipe (da^aka). Buddhaghosa says, Da«</a -parishvan an ti (sic; only one s) raganak&nazra khaza-paris&vana?# viya
+means of a pipe (da^aka). Buddhaghosa says, Da«(/a -parishvan an ti (sic; only one s) raganak&nazra khaza-paris&vana?# viya
 £atusu padesu baddha-nise^ikiya s&/aka m bandhitva ma^e da n~
-</ake udaka#2 &smiitabba7?2. Tam ubhohi ko//Msehi puretva parisavati. Compare da^a-satthakaw and da^c/a-kathinaw,
+(/ake udaka#2 &smiitabba7?2. Tam ubhohi ko//Msehi puretva parisavati. Compare da^a-satthakaw and da^c/a-kathinaw,
 above, V, n, b, 3.
 
 2 Ottharaka;# narna ya m udake ottharitva gha/akena udakaw
@@ -4810,7 +4810,7 @@ io6
 XULLAVAGGA.
 
 
-W * 4 > 3 *
+W * 4 ) 3 *
 
 
 revolve in those hollows 1 , with rings on the door
@@ -4837,7 +4837,7 @@ that she dvara-baha/// alambitva a/Masi Buddhaghosa’s
 commentary on the word m the former of these two passages is
 given by Rh D in his note at p 95 of the 4 Buddhist Suttasf
 
-4 Su/hka ti tattha (that is, kapi-sisake) maggkt kk\<l&a /// katva
+4 Su/hka ti tattha (that is, kapi-sisake) maggkt kk\(l&a /// katva
 pavesita (B.). Appaiently a pm to pass through the monkey's
 head so as to secure the bolt in its place after it has been shot into
 the cauty. See the next note and below, VI, 2, 1
@@ -4859,7 +4859,7 @@ occurs in the last note,
 said in VI, 2, 1 to be necessary because the door could not be pul
 
 
-^ > 1 4 ) 3*
+^ ) 1 4 ) 3*
 
 
 OX THE DAILY LIFE OF THE BHIKKHLS
@@ -4903,7 +4903,7 @@ used as an equivalent of akaateV^ana, which is much the same thing
 1 Ku^a-pado. Compare Rh. D ’s note on Maha-parmibbana
 Sutta V, 41. The phrase recurs below of Viharas at VI, 3, 4
 
-2 Ma7z<fal ika?;z katun ti niX’a-vatthuka^ kimixim (B) ATmati
+2 Ma7z(fal ika?;z katun ti niX’a-vatthuka^ kimixim (B) ATmati
 is the technical word for la}ing bricks one above another; the
 comment therefore means ' to line or face the low er part with
 bricks/ (Compare pokkharanivo i/ 7 /nkahi A’mituw at Mahasudassana Sutta I, 58, Rh. D ’s ‘Buddhist Suttas,’ p. 262, ‘to face the
@@ -6397,7 +6397,7 @@ to remove the hair from your private parts 10 . Whosoever does so, shall be guil
 
 2 Namatakaw. See above, V, 11, 1, and V, 19, 1.
 
-s Khura-bha«<fa«. Compare MahSvagga VI, 37.
+s Khura-bha«(fa«. Compare MahSvagga VI, 37.
 
 4 Massuwz kappipenti ti kattariyS massu?« ,6/iedapenli (B ).
 On Kattari (a knife), see Gataka I, 223. It is cleai fiom the
@@ -6414,7 +6414,7 @@ c A'aturassan ti £atu-kona#z (B.).
 note at p. 319 of the text
 
 9 DaMika in. It is the Sanskrit dinf/iika or damh/rikti. ; and
-occurs at <?ataka I, 305.
+occurs at (?ataka I, 305.
 
 10 On the corresponding rule in the -Bhikkhuni-vibhanga, the
 2nd Pai’ittiya, the Old Commentary has sambtldho nama ubho
@@ -6522,8 +6522,8 @@ of brass ware and copper ware. Whosoever does
 so, shall be guilty of a dukka/a 4 .’
 
 
-1 Sara</dsa. So at (?ataka I, 138, 4, a baiber pulls out a white
-hair from the king’s head, suvaw«a-sa«<fasena.
+1 Sara(/dsa. So at (?ataka I, 138, 4, a baiber pulls out a white
+hair from the king’s head, suvaw«a-sa«(fasena.
 
 3 This license is repeated m the next chapter.
 s Kawsa-pattharikl ti ka*’2sa-bha?ifl'a-va«ig-a (B.).
@@ -6656,7 +6656,7 @@ be made, as usual, see Mahavagga VI, 12, 3 ; A'ulla-
 and compare Bohtlmgk-Roth undei kalapa ka lap aka
 
 - Der/dhibhakaw nama udaka-sappi-sisa-sadisaw (B) Ded-
-</ubha corresponds to the later Sanskrit duwtfubha an oldei form
+(/ubha corresponds to the later Sanskrit duwtfubha an oldei form
 of which is d undub ha
 
 3 Mura^a, literal!}, ‘tambourines; but see Buddhaghosas
@@ -7082,7 +7082,7 @@ to be, or rather to have been, a system of casuistry.
 AULLAVAGGA.
 
 
-L 33> 3-
+L 33) 3-
 
 
 ‘ This cannot be, Lord.’
@@ -7223,7 +7223,7 @@ side (of the Aram a).’
 
 There is a similar rule for the Bhikkhunis in the Bhikkhunivibhanga, Paiittiya I So also onions are mentioned among the
 things a Gam Bhikkhu may not accept (Aytranga Sutta II, i,
-8 >* 3 )-
+8 )* 3 )-
 
 2 It is gruel of various kinds that is prescribed for this malady
 in Mahavagga VI, 16, 3-17, 2.
@@ -7394,7 +7394,7 @@ that connection, when he had delivered a religious
 discourse, addressed the Bhikkhus, and said :
 
 ‘ I allow you, O Bhikkhus, abodes of five kinds —
-Viharas, A <Af/£ayogas, storied dwellings, attics,
+Viharas, A (Af/£ayogas, storied dwellings, attics,
 caves V
 
 3. Then those Bhikkhus went up to the S&ttkl of
@@ -7607,7 +7607,7 @@ says, Yantaka-su/hkan ti ettha ya?# ya m g-anati ta m tam yantaka?#. Tassa vivar
 our note on \edika above, V, 14, 2. These windows or lattices
 are mentioned m ATullavagga VIII, 1, 5; Mahavagga I, 25, 18.
 
-5 <2ala-vatapana?# nama .galaka-baddha?# (B.). G&lam,
+5 (2ala-vatapana?# nama .galaka-baddha?# (B.). G&lam,
 literally 4 net/ is given as a word for ‘ window ’ at Abhidhanappadipika, verse 216. The expression probably corresponds to
 our lattice/ and does not mean that an actual net was used.
 Compare the Anglo-Indian ‘ jalousie/
@@ -8126,7 +8126,7 @@ They told this matter to the Blessed One.
 drawings painted — figures of men, and figures of
 
 
-1 Ga/^u-mattikan ti ga7/</uppada-gutha-mattikaw (B ).
+1 Ga/^u-mattikan ti ga7/(/uppada-gutha-mattikaw (B ).
 
 2 Kasavan ti amalaka-hari/akanaw kasavaw (B ). Compare
 MaMvagga VI, 4.
@@ -8141,7 +8141,7 @@ been found in great numbers. In the introductory story to the
 26th Paiittiya it certainly means ‘ indecent/
 
 
-VI, 3> 3*
+VI, 3) 3*
 
 
 women. Whosoever does so, shall be guilty of a
@@ -8194,7 +8194,7 @@ line 3.
 2TULLAVACGA.
 
 
-^ b 3> 4*
+^ b 3) 4*
 
 
 Now at that time the Bhikkhus made inner chambers in the middle of small Viharas, and there was
@@ -8226,7 +8226,7 @@ outcry?’ Then that Bhikkhu told the matter to
 
 
 H/zadana-gabbho vd (B.). Compare our note on Mah&vagga I,
-3 °> 4 -
+3 °) 4 -
 
 1 There is a similar injunction at V, 14, 3, with respect to fireplaces m bath-rooms
 
@@ -8750,7 +8750,7 @@ food.’
 means sufficient for the purpose.’
 
 [And the townsman of Ragagaha and Seniya
-Bimbisara the Rag>a of Magadha, made the same
+Bimbisara the Rag)a of Magadha, made the same
 offer in the same words, and received the same
 reply.]
 
@@ -9110,7 +9110,7 @@ a Brahman family before he entered the Order.’
 Others again said, ‘ One who belonged to a Gaha-
 
 
-VI, r>, 3.
+VI, r), 3.
 
 
 pati 1 family before he entered the Order — one
@@ -9391,7 +9391,7 @@ the Bhikkhu next (junior to him in seniority 4 ) get
 
 2 That is ‘ of all the world.’ See our note above on Mahavagga VIII, 27, 5, vheie the phrase has already occurred.
 
-3 The verses are quoted in the account of Anatha Pm<fika’s gift
+3 The verses are quoted in the account of Anatha Pm(fika’s gift
 given in the ff&taka commentary (Fausboll I, 93 , Rh. D.’s ‘ Buddhist Birth Stories,’ I, 131).
 
 * Anantankawz ; perhaps ‘the Bhikkhu (who happened to be)
@@ -9742,7 +9742,7 @@ Ta^a niya Kamma. See Aullavagga I. i, i
 S’ULLAVAGGA.
 
 
-VI, I 3> I.
+VI, I 3) I.
 
 
 foolish one, you are deprived of both.’ And when
@@ -10072,7 +10072,7 @@ at Mabavagga VIII, 27, 5.
 VT, 17, 1.
 
 
-2 I >
+2 I )
 
 
 give new building operations in charge (to one or
@@ -10100,18 +10100,18 @@ see abo\e, VI, 5.
 
 4 Ga;?^ikidhana-mattena ti d\aia-bahanaw upari-kapo/agaw^ika-yo^ana-mattena (B.). G&ndi is used in this sense at
 Cataka I, 237. Compaie the use of Dhamma-ga^ika, ‘block
-of execution/ at Gataka I, 150, II, 124. The word ga»</ika
+of execution/ at Gataka I, 150, II, 124. The word ga»(/ika
 occurs also at Gi taka I, 474 (last line), m the sense of ‘bunch:'
 but it is theie piobably a misprint; for Oldenberg, m the parallel
 passage at Bhikkhuni-vibhanga, Pa&ttiya I, r, leads bhawtfikc
-That the two words are easily confused m Burmese wilting :■>
+That the two words are easily confused m Burmese wilting :■)
 shown by the fact that the Berlin (Buimese) copy of Buddhaghosa
 reads here also bhawc/ikadhana-mattena ti, &c. ? and again
-afterwards bha«</ika.
+afterwards bha«(/ika.
 
 5 See our note on this phrase above, VI, 5, 2.
 
-c Paribha«</a-kara»a-matten& ti gomaya-paribha/a/a-kab 3 vapai ikarawa-mattena (B.). The very same expression is used m a
+c Paribha«(/a-kara»a-matten& ti gomaya-paribha/a/a-kab 3 vapai ikarawa-mattena (B.). The very same expression is used m a
 wholly doubtful sense, and of some process of tailonng, in Mahavagga VII, i, 5.
 
 
@@ -10153,7 +10153,7 @@ him) — or the Bhikkhu who had taken in charge a
 1 Dhftmakalikan ti idaw yav’ assa iitaka-dhumo na paw/ilyatiti tava ayaw viMro etass’ eva ti eva m dhuma-kale apaloketva
 kata-pariyositaw viharaw denti (B.). The word recurs below, applied to sikkhapada®, m XI, i, 9.
 
-2 Vippakatan ti ettha vippakato n&ma yava gopanasi>o na
+2 Vippakatan ti ettha vippakato n&ma yava gopanasi)o na
 drohanti. GopSnasisu pana il.ru/hasu bahukato nama hoti :
 tasm& tato paMaya na databbo (B.). The use of bahukato is
 noteworthy, for in the only other passage where we have found the
@@ -10255,7 +10255,7 @@ VI, ip, i.
 2i;
 
 
-Uposatha Hall, or the meeting-place, sat or< the
+Uposatha Hall, or the meeting-place, sat or( the
 ground ; and their legs and robes got soiled.
 
 They told the matter to the Blessed One.
@@ -10677,7 +10677,7 @@ When that is done, you have to get it arranged
 men, without people, 5 is inadequate is clear from the context at the
 passage which he quotes fiom (rdtaka I, 53.
 
-2 Ni<f</apeti. Buddhaghosa says, ‘ Pull up the weeds 5
+2 Ni(f(/apeti. Buddhaghosa says, ‘ Pull up the weeds 5
 
 The word occurs also at (rdtaka I, 215, where there is a simihar list
 of farming operations, which, though smaller, contains one 01 two
@@ -11294,7 +11294,7 @@ Dhammapada commentator.
 STFLLAVAGGA.
 
 
-VII » 3 > 3 -
+VII » 3 ) 3 -
 
 
 in the same form as in I, i, 4, down to the end of
@@ -11742,7 +11742,7 @@ One.
 And Nalagiri the elephant returned to the elephant stables, and stood in its appointed place, and
 
 
-1 Mettena >httena phari; literally, ‘he suffused him with
+1 Mettena )httena phari; literally, ‘he suffused him with
 loving heait.’ Compaie Rh. D.’s ‘Buddhist Birth Stories,’ i p 112.
 
 2 Innagamasadothe mis inserted for euphony. See the instances given by Kuhn, ‘ Beitrage zur Pah-grammatik, p, 63.
@@ -11837,7 +11837,7 @@ But the Sanskrit Buddhist vocabulary Vyutpatti (teste Bohtlmgk-
 Roth, s. v. manku) authorises the use ofdummanku.
 
 2 So the Anguttara, loc. cit., has, in the same connection,
-gihinaw anukampdya pSpiX'£Mna«z pakkhupa££/>edava
+gihinaw anukampdya pSpiX'£Mna«z pakkhupa££/)edava
 
 3 See last note. The idea is here, of course, lest any particular
 layman should be burdened by providing for many Bhikkhus
@@ -12687,7 +12687,7 @@ or not . . .
 
 (d) . . . in belief that the doctrine is in accordance with the Dhamma, but that the schism resulting therefrom would be against the Dhamma . . .
 
-(<?)... in belief that the doctrine is in accordance with the Dhamma, but in uncertainty whether
+((?)... in belief that the doctrine is in accordance with the Dhamma, but in uncertainty whether
 the schism resulting therefrom would be against
 the Dhamma or not . . .
 
@@ -13271,7 +13271,7 @@ and cover the whole up with grass or leaves, so that
 at least the principal articles of furniture might remain (uninjured) 3 : and (only) then go away.
 
 ‘ This, O Bhikkhus, is the rule of conduct for
-may accept him ; and at Jkiiria\agga VI, 21, 3, a superintendent o>
+may accept him ; and at Jkiiria\agga VI, 21, 3, a superintendent o)
 such slaves is mentioned as one of the officials of the Order.
 
 1 This is the usual method still adopted by nati\e seivants as a
@@ -13760,7 +13760,7 @@ therein.’
 1. Now at that time a number of Bhikkhus
 carried on robe-making in the open air. The
 W/zabbaggiya Bhikkhus beat their bedding to get
-ekazrasazzz >£ivaraw katvd (on which question there is a great
+ekazrasazzz )£ivaraw katvd (on which question there is a great
 division among modem Buddhists. Compare Rh. D/s note on the
 Maha-parinibbana Sutta VI, 47), or possibly £ put it in a roll on his
 back/
@@ -15133,7 +15133,7 @@ ena alokena paraghare bhaWaw \i£mitva thenaka/eoiehi.
 ZULLAVAGGA.
 
 
-X 3 2j T ■>
+X 3 2j T ■)
 
 
 whatever doctrine and discipline women are allowed
@@ -15728,7 +15728,7 @@ come to him.”
 ‘ If no one is able to do so, the reciter of the
 P&timokkha is to say : “ There is no Bhikkhu appointed to hold Exhortation to the Bhikkhunis.
 May the Bhikkhuni-sa?/zgha obcain its desire in
-o >
+o )
 
 peace 2 * * .
 
@@ -16353,7 +16353,7 @@ Pa/httiya.
 ETULLAVAGGA.
 
 
-J 7> 5-
+J 7) 5-
 
 
 having been appointed thereto. Whosoever does
@@ -16589,7 +16589,7 @@ They told this matter to the Blessed One.
 ‘ I prescribe, O Bhikkhus, that some one learned
 and competent Bhikkhuni be deputed to make the
 Pav&rawa invitation on behalf of the Bhikkhumsawo-ha before the Bhikkhu-saweha. And thus,
-o < — >
+o ( — )
 
 O Bhikkhus, is she to be deputed :
 
@@ -16699,7 +16699,7 @@ on iUullavagga I, 5.
 2 On all these expressions, see our notes abo\e at Mahavagga V,
 9, 3, v here they recur word for word.
 
-3 This is the 85th Bhikkhuni Pa^itti>a.
+3 This is the 85th Bhikkhuni Pa^itti)a.
 
 4 This is repeated fiom the 85th Bhikkhuni Paftttiya. The coiresponding permission is given to Bhikkhus by Mahavagga V, 10, 2.
 
@@ -16879,7 +16879,7 @@ carried on for the benefit of Bhikkhunis).’
 
 2 This word has already occurred, in a list of various buildings,
 at Mahavagga III, 5, 9, where we have rendered it stable. Buddhaghosa says here uddositan ( 1 \IS udosita) ti bha«^a-sala, and
-as at Mahavagga I, 61, assa-bha«</a and hatthi-bhaw^a are
+as at Mahavagga I, 61, assa-bha«(/a and hatthi-bhaw^a are
 evidently grooms attending on horses or elephants (compare
 Gataka I, 62, 3), bha^^/a-sala, may mean a servant’s hall for the
 use of that pai ticular class of servants. A lawsuit about an u d d 0 s 1 1 a

@@ -146,16 +146,16 @@ former of these two was mentioned in a letter to the
 'Academy' of the i2th November, 1881. In the Manoratha Pura;n, his commentary on the Anguttara, on the
 passage marked in Dr. Morris's edition as I, 5, 8, Buddhaghosa says : —
 
-'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Nagasena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa>^e rupino assa kiva maha-rasi bhaveyyati ?
+'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Nagasena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa)^e rupino assa kiva maha-rasi bhaveyyati ?
 
 And he then gives the answer: — 'Vahasatanam kho
-fc>*
+fc)*
 
 
 maha-ra^a vihinaw s.ddh3i-kn\zin kz. v^ha vihi
 
 
-*<i.
+*(i.
 
 
 sattammanani dve kdi. tumba eka/^/^/^arakkha;ze
@@ -783,7 +783,7 @@ Dummedha Gataka (No. 122).
 Tittira (?ataka (No. 438).
 Khantivada C^ataka (No. 313).
 ^ula-Nandiya Gataka (No. 222).
-Ta/c/^>^a-sukara Gataka (No. 492).
+Ta/c/^)^a-sukara Gataka (No. 492).
 Kariya-pi/aka II, 6.
 Silava-naga Cataka (No. 72).
 Sabba-da///a G^ataka (No. 241).
@@ -921,7 +921,7 @@ Page of the
 Pali Text
 
 
-Navangaw Buddha-va>('anaw.
+Navangaw Buddha-va)('anaw.
 
 The (zataka Book.
 
@@ -1043,7 +1043,7 @@ those of them attributed by our author to the Buddha.
 The women quoted are distinguished by the title ' Sister.'
 
 
-II, I, i> P- 45-
+II, I, i) P- 45-
 II, 1,9, P- 53-
 II, I, 9, P- 54-
 
@@ -1137,7 +1137,7 @@ IV, 2, I, p. 202.
 
 IV, 3, I, p. 229.
 IV, 3, I, p. 229.
-IV, 3, 5> P- 234-
+IV, 3, 5) P- 234-
 IV, 3, 19, P-24I.
 
 
@@ -1159,9 +1159,9 @@ IV, 4,
 27, p. 248.
 27, p. 248.
 3I-P-25I-
-3i> P- 251-
+3i) P- 251-
 33. P- 253-
-33>P-253-
+33)P-253-
 35, P- 254-
 38, P- 257-
 
@@ -1274,7 +1274,7 @@ Dhammapada 127, 8.
 Not traced.
 
 
->s »
+)s »
 
 
 Digha Nikaya XIV, 2, 32.
@@ -1522,7 +1522,7 @@ Saw/yutta 6, 14 (vol. i, p. 157)
 = Thera-gatha 256, 7 = Divyavadana, p. 300.
 Not traced.
 
-,, )>
+,, ))
 
 ,, ,j
 
@@ -1557,7 +1557,7 @@ P- 333-
 374, 1- 5-
 374,1. 16.
 
-375>1- 15.
+375)1- 15.
 376, 1- 3-
 376, 1. 17.
 
@@ -1789,7 +1789,7 @@ B.
 
 Upasena.
 
-!» )>
+!» ))
 
 394,
 
@@ -1797,7 +1797,7 @@ I. 16.
 
 Upasena.
 
-J, )■>
+J, )■)
 
 394, 1
 
@@ -1813,7 +1813,7 @@ Sariputta.
 
 Maha Kassapa.
 
->) J,
+)) J,
 
 395, J
 
@@ -1853,7 +1853,7 @@ Sariputta.
 
 Vmdola,.
 
->> })
+)) })
 
 399^ ]
 
@@ -2164,7 +2164,7 @@ Nikayas.)
 \
 
 
->
+)
 
 
 I
@@ -2521,7 +2521,7 @@ Kola-pa//ana (seaport)
 
 Gandhara (ra////a?;/) . . . .
 
-327> 331-
+327) 331-
 
 ^andagutto (ra^^a)
 
@@ -2613,7 +2613,7 @@ Sabbadinna or Dinna (Yonako) .
 
 Sagala (nagaraz?^)
 
-. i,3>5. 14, 22.
+. i,3)5. 14, 22.
 
 Sura////a (nigamo)
 
@@ -4188,7 +4188,7 @@ preached, and he too arrived at insight* — he too
 
 "^ SuT/mata, used here in the sense of Nirvawa. Compare Ahguttara II, 5, 6; Gataka III, 191 ; Aullavagga XII, 2, 5.
 
-^ Dhamma->('akkhu. This perception of the impermanency
+^ Dhamma-)('akkhu. This perception of the impermanency
 of all things and all beings is called ' the Eye for the Truth,' and
 is the sign of the entrance upon the path to Arahatship, i. e. Nirvana. It is the same among Buddhists as conversion is among
 the Christians. Compare Acts xxvi. 18 ('Open their eyes, and
@@ -4485,7 +4485,7 @@ thoroughly Buddhist.
 * The dhutahgas, enumerated by Childers sub voce.
 
 
-1,39- AYUPALA SILENCED. 2>3
+1,39- AYUPALA SILENCED. 2)3
 
 some former birth, dacolts who plundered whole villages. It is in consequence of the Karma of having
 destroyed other people's homes, that they live now"
@@ -4872,7 +4872,7 @@ And to each of these also he answered no.
 ^ This is practically the same opinion as is ascribed in tlie
 Samaw/a Phala (D. II, 26) to Pakudha KaX'X'ayana.
 
-" This list of the thirty-two forms (a>^aras) of organic matter
+" This list of the thirty-two forms (a)^aras) of organic matter
 in the human body occurs already in the Khuddaka Vaf/ia, § 3.
 It is the standard list always used in similar connections ; and is,
 no doubt, supposed to be exhaustive. There are sixteen (half as
@@ -5628,7 +5628,7 @@ how keeping up is the mark of mindfulness.'
 ' It is like the confidential adviser of that imperial
 
 
-' iTakkavattissa bha?z</agariko, no doubt with allusion to
+' iTakkavattissa bha?z(/agariko, no doubt with allusion to
 the gahapati-ratana;;/, one of the seven treasures of the mythical
 King of Glory (see my ' Buddhist Suttas,' p. 257). It is particularly
 interesting to me to find here the use of the word ' treasurer ' instead of 'householder;' for it was in that exact sense that I had
@@ -10579,7 +10579,7 @@ I gave them all away without a thought —
 And 'twas for Buddhahood I did this thino^
 
 
-»3 >
+»3 )
 
 
 £3
@@ -11008,7 +11008,7 @@ you take it.'
 
 
 ^ JH'Munikaya. Compare Gataka II, 114, and the Sutta
-Vibhahga on Pa>^ittiya 26.
+Vibhahga on Pa)^ittiya 26.
 
 
 solved the dilemma I put to you ; you have rightly
@@ -11241,7 +11241,7 @@ him ? '
 
 ^ Lihga, possibly 'uniform.' Either the Order or the yellow
 robe, for instance, if the system were Buddhism. See below, IV,
-3> 2.
+3) 2.
 
 
 -^
@@ -12854,7 +12854,7 @@ him to be in the company of the Worthy Ones (the
 Arahats) that the layman who has already entered
 on the Excellent Way thinks it worthy in him ^*^ to
 
-1 Ekatta->('ariya = 'Ekalawa hcesirimen yiikta bawa.'
+1 Ekatta-)('ariya = 'Ekalawa hcesirimen yiikta bawa.'
 
 ^ Ekattabhirati.
 
@@ -13037,7 +13037,7 @@ has migahak (Bassia Latifolia).
 a piece of timber, and simply laying it by ^ make it
 straiofht and fit for use ? '
 
-<z>
+(z)
 
 ' No, Sir. He would have to get rid of the bends
 out of it, if he wanted it straight and ready for use.'
@@ -13420,7 +13420,7 @@ taruwu wu ilru ma;;/sayehi.
 an internal fire see my ' Buddhist Suttas,' p. 260.
 
 
-IV, 3>23. THE Buddha's last illness. 245
+IV, 3)23. THE Buddha's last illness. 245
 
 
 heavy rain falls, it will become a mighty river with
@@ -14538,7 +14538,7 @@ to be born in the family of a noble or of a Brahman.
 ^ Ayum oloketva, which the Siwzhalese (p. 257) repeats. This
 implied meaning is doubtful.
 
-2 Uttara-setu, a word which does not occur elsewhere. Hina/ikumbure renders it He-da??</a, which Clough explains as a footbridge usually made of a single tree.
+2 Uttara-setu, a word which does not occur elsewhere. Hina/ikumbure renders it He-da??(/a, which Clough explains as a footbridge usually made of a single tree.
 
 
 These are the eight occasions 011 which investigation ought to precede action.'
@@ -14702,7 +14702,7 @@ from the neck downwards, and having each strip of
 ^ A^iraka-vasika?//.
 
 
-^ Sankha-mu«</ikaw.
+^ Sankha-mu«(/ikaw.
 * Goti-ma\aka.?fi.
 ° Eraka-vattikaOT.
 
@@ -14778,7 +14778,7 @@ That is so, and I accept it as you say.'
 
 not understood in the fifth century a. d. ; and was probably therefore unintelligible also, at least in part, to our author.
 
-^ Umika-vahka->^adika. I don't pretend to understand this
+^ Umika-vahka-)^adika. I don't pretend to understand this
 last word. Dr. Morris, at p. 92 of the ' Pali Text Society's Journal '
 for 1884, suggests velika. Perhaps it was simply adika after all,
 with or without m euphonic.
@@ -14980,7 +14980,7 @@ Galaka book.
 
 ^ This is something quite different from what was said before.
 
-^ Ye vi;7>?ana-baddha, sabbesaw, which the Sinhalese takes
+^ Ye vi;7)?ana-baddha, sabbesaw, which the Sinhalese takes
 as a gloss on 'good and evil ones,' and renders vi«/7ana prati
 wii da. But I prefer Mr. Trenckner's punctuation.
 
@@ -15057,7 +15057,7 @@ in the Old Commentary on the Patimokkha (on the 69th Sakhiya,
 Vinaya IV, pp. 203, 204). [The name of that story in Professor
 FausboU's edition is X/^avaka-Gataka, but throughout the story
 itself the word A^aw^ala is used in the passages corresponding to
-those in which Professor FausboU has A'>^apaka (sic), — a coincidence which throws light on our author, A7/avaka-X'a;?r/ala.]
+those in which Professor FausboU has A')^apaka (sic), — a coincidence which throws light on our author, A7/avaka-X'a;?r/ala.]
 The story here referred to is the Amba G^ataka (No. 474) in which
 the word AV/avaka does not occur.
 
@@ -15160,7 +15160,7 @@ this is a summary) and in the Sumangala (p. 258). The Cataka
 (III, 454) also gives a third variation, Apa;('ara.
 
 ^ Purisamatto gagane vehasangamo. The Cataka says
-simply upari>('aro, which must mean about the same.
+simply upari)('aro, which must mean about the same.
 
 
 man named Kapila. So in that case too it was Devadatta who was the superior in birth and in reputation.'
@@ -15989,7 +15989,7 @@ Tree god
 
 )j
 
-)5 5>
+)5 5)
 
 
 Lion

@@ -16,7 +16,7 @@ n— called collectively the Sutta-vibhahga.
 
 2. Pa^ittiya, j
 
-3. Mahavagga, \ called collectively the Khandhakas<
+3. Mahavagga, \ called collectively the Khandhakas(
 
 4. ^fullavagga, )
 
@@ -646,7 +646,7 @@ death is open to question. If it be placed, according to
 the Ceylon chronicles, at exactly 218 years before Asoka's
 coronation, it will fall in or about 483 B.C.
 
-But the expression < 218 years' can in no case be re
+But the expression ( 218 years' can in no case be re
 garded as an absolutely reliable statement of actual fact,
 and the date of 483 B.C. must therefore be taken subject to
 a marginal allowance of some decades. And it appears to
@@ -1062,7 +1062,7 @@ was uttered is mentioned, and condemnation is stated to be
 
 Revata says, ' Is it right, Lord, to drink ^alogi?'
 Sabbakami replies, 'What, Friend, is this^alogi?'
-Revata : < Is it right, Lord, to drink strong drink which
+Revata : ( Is it right, Lord, to drink strong drink which
 not being fermented, is not yet intoxicating ? '
 Sabbakami : ' No, my friend, it is not right.'
 Revata : ' Where has it been condemned ? '
@@ -1890,7 +1890,7 @@ should persist as before, then let that Bhikkhu be
 
 1 Dubba^o is not 'unruly,' as Dickson has, following Childers,
 who gives ' abusive, unruly, violent/ It means rather * difficult to
-reason with, averse to instruction.' Compare <7ataka I, 151, 152.
+reason with, averse to instruction.' Compare (7ataka I, 151, 152.
 
 2 Sahadhammika^, which is here adverbial; and where the
 Dhamma refers to the Rules, as is pointed out in the Introduction.
@@ -2573,7 +2573,7 @@ equal to Sanskrit dadyama; and to that a second potential ter
 mination has been added.
 
 3 The expression in the Pali is literally ' should a special robe
-come to a Bhikkhu,' &c. ; where 'special robe' is a/fc>fceka-/&ivara;/z, explained in the Samanta-Pasadika (Minayeff, 83) as equal
+come to a Bhikkhu,' &c. ; where 'special robe' is a/fc)fceka-/&ivara;/z, explained in the Samanta-Pasadika (Minayeff, 83) as equal
 to a££&yika-kivara«i. The Vibhanga says, 'If a man wants to
 join the army or to emigrate, or if a man has fallen sick, or a woman
 is with child, or an unbeliever has come to believe, or a believer is
@@ -2948,7 +2948,7 @@ Herein the right occasion is this: (to wit), when
 there is sickness, when robes are being given, when
 these a constant supply of rice was provided for travellers. See
 the Maha-parinibbana Sutta I, 10; II, 5 (pp. 10, 16); ^ataka,
-No. 31 ('Buddhist Birth Stories/ pp. 280-285) > Maha-sudassana
+No. 31 ('Buddhist Birth Stories/ pp. 280-285) ) Maha-sudassana
 Sutta I, 63; Dhammapada Commentary apud Fausboll, 185. The
 Samanta-Pasadika on this rule (Minayeff, p. 88) says that avasathapindo is a meal in such an avasatha.
 
@@ -3308,7 +3308,7 @@ by their use the property in the robe is transferred. After that the
 original owner, in spite of the formal words, may not, according to
 our rule, continue to use the robe.
 
-On apaH'uddharakaw see Childers, sub voce pa<£/£uddharo.
+On apaH'uddharakaw see Childers, sub voce pa(£/£uddharo.
 
 
 60. Whatsoever Bhikkhu shall hide, or cause
@@ -3839,7 +3839,7 @@ you pure in this matter?'
 1 Sekha-sammatani kulani; which the Vibhanga explains
 as a household grown rich in faith, but poor in goods; where
 whatever they get is given away to the Order, though the family
-may be some days in want of it. Compare what is said of Anathapi»<flka in the Introduction to the 4oth £ataka (£ataka I, 228);
+may be some days in want of it. Compare what is said of Anathapi»(flka in the Introduction to the 4oth £ataka (£ataka I, 228);
 though his lot had not reached the very lowest limit.
 
 2 Compare the 2pth Nissaggiya.
@@ -3891,7 +3891,7 @@ which ought to be observed.
 
 
 'so as to cover the navel-marc^/ala, and the
-knee-ma«</ala/ says the Old Commentary. Compare Childers
+knee-ma«(/ala/ says the Old Commentary. Compare Childers
 sub voce Tima«^ala;w; and .STullavagga VIII, 5, 2.
 
 2 Antaraghare. The antaragharaw is the space in a village
@@ -4735,7 +4735,7 @@ Tapussa and Bhallika, thus spoke to the merchants
 was the name of a tree. It is the same tree which in the Lalita
 Vistara (p. 493, ed. Calcutta) is called Tarayawa, and in the
 Dipavawsa (II, 50) Khirapala. The place where the two mer
-chants met Buddha, is thus described in the Mahavastu: kshirikavanasha«</e bahudevatake £etiye.
+chants met Buddha, is thus described in the Mahavastu: kshirikavanasha«(/e bahudevatake £etiye.
 
 [13] G
 
@@ -4895,7 +4895,7 @@ and augmenting the dominion of the khandhas); secondly, in
 the actions tending to the fivefold pleasures of sense ; and thirdly,
 in those connected with kilesa (evil passion).
 
-2 Buddhaghosa explains ana/£/£^ariya by anua/£/£>5ariya, which
+2 Buddhaghosa explains ana/£/£^ariya by anua/£/£)5ariya, which
 is alike unintelligible to us. The Lalita Vistara (p. 515, ed. Calcutta)
 has abhikshwam ('repeatedly').
 
@@ -5048,7 +5048,7 @@ stand this doctrine easily?' And the Blessed One
 thought: 'There is Uddaka Ramaputta1; he is
 clever, wise, and learned ; long since have the eye of
 his mind been darkened by scarcely any dust. What
-if I were to preach the doctrine first to Uddaka Rama>
+if I were to preach the doctrine first to Uddaka Rama)
 putta? He will easily understand this doctrine/
 
 4. Then an invisible deity said to the Blessed
@@ -5265,7 +5265,7 @@ together with the Bodhisatta at Uruvela.
 2 Of the literature that exists referring to the discourse which
 follows now (the Dhamma&ikkappavaUana Sutta), it will suffice to
 quote M. Peer's Etudes Bouddhiques, I, p. 189 seq., and Rh. D.,
-'Buddhist Suttas from the Pali,' pp. itf-i55> and in the Fort
+'Buddhist Suttas from the Pali,' pp. itf-i55) and in the Fort
 nightly Review for December 1879.
 
 
@@ -5937,7 +5937,7 @@ world, and gone forth into the houseless state/
 
 1 According to Subhuti (in Childers's Dictionary) sampavareti
 means that the host hands dishes to the guest until the latter says,
-<I have had enough/ Childers accordingly translates sampava
+(I have had enough/ Childers accordingly translates sampava
 reti, 'to cause to refuse.' But as pavareti means, 'to cause to
 accept/ it is impossible that sampavareti should have exactly the
 opposite meaning. We prefer, therefore, to take it as an emphatic
@@ -6258,7 +6258,7 @@ place, came to Uruvela\ At that time there lived
 in Uruvela three GWilas1, Uruvela" Kassapa, Nadt
 Kassapa (Kassapa of the River, i. e. the Nera/^ara),
 and Gaya Kassapa (Kassapa of the village Gaya).
-Of these the <7a/ila Uruvela Kassapa was chief,
+Of these the (7a/ila Uruvela Kassapa was chief,
 leader, foremost, first, and highest over five hundred
 GWilas ; Nadi Kassapa was chief .... (&c., down to
 highest over) three hundred GWilas, Gaya Kassapa
@@ -6886,7 +6886,7 @@ in § 20) ; when he saw that, he became afraid that
 some misfortune might have befallen his brothers.
 He sent some 6Wilas, saying, ' Go and look after
 my brothers,' and went himself with his two hundred
-6a/ilas to the venerable Uruvela Kassapa (&o> as
+6a/ilas to the venerable Uruvela Kassapa (&o) as
 above).
 
 23. And the £a/ilas (who had come with Gaya
@@ -7489,7 +7489,7 @@ intention ; then they may do what they think fit.'
 
 Then Sariputta and Moggallana went to the place
 where those paribba^akas were ; having approached
-them, they said to the paribba^akas : < Friends, we
+them, they said to the paribba^akas : ( Friends, we
 are going to join the Blessed One; that He, the
 Blessed One, may be our teacher/
 
@@ -9325,7 +9325,7 @@ conferred on him the pabba^a and upasampada
 ordinations ; and the Bhikkhus nursed him, and
 Givaka Komarabha^a cured him. When he had
 become free from sickness, he returned to the world.
-Now <9ivaka Komarabha/£/£a saw this person that
+Now (9ivaka Komarabha/£/£a saw this person that
 had returned to the world ; and when he saw him he
 asked that person : ' Had you not embraced the
 religious life, Sir, among the Bhikkhus?'
@@ -9443,7 +9443,7 @@ confer the pabba^^a ordination on persons in
 royal service.'
 
 Then the Blessed One taught (&c., see chap. 39. 7,
-t>
+t)
 
 O 2
 
@@ -10197,7 +10197,7 @@ a ban upon novices without the consent of the
 1 Here first appear the .Oabbaggiya Bhikkhus (the company of
 the ' six Bhikkhus', with their attendants), the constant and indefati
 gable evil-doers throughout the whole Vinaya-Pi/aka. Buddhaghosa
-(on ^ullavagga I, i) says that Pa«</uka and Lohitaka belonged to
+(on ^ullavagga I, i) says that Pa«(/uka and Lohitaka belonged to
 this company, and also Assa^i and Punabbasu are mentioned as
 .Oabbaggiyas (see Childers s.v. £/$abbaggiyo).
 
@@ -10318,7 +10318,7 @@ Arama, and respectfully saluted the Bhikkhus. The
 taya attho 'ti. So samawerehi apasadito hatthibhawde assabha^e
 upasa^kamitva" evaw vadeti : etha mam avuso dusetha" 'ti. Hatthibhawt/a assabhaw^a dusesuw. Te ug^Myanti khiyanti vipa-£enti :
 pawt/aka ime samawa Sakyaputtiya, ye pi imesaw na pa/u/akS te pi
-pa«</ake dusenti, evam ime sabbeva abrahma/fcarino 'ti. Assosuw
+pa«(/ake dusenti, evam ime sabbeva abrahma/fcarino 'ti. Assosuw
 kho bhikkhu hatthibha^anaw assabha«dana#z uggv$ayantana»z khiyantanaw vipa/fcentanaw. Atha kho te bhikkhfi bhagavato etam
 atthaw aro^esuw.
 
@@ -12854,7 +12854,7 @@ be performed eventually) also, for (both declarations)
 are required for the Sa^gha (and for the validity of
 its acts).
 
-1 The rules given here regarding the >£/$anda (declaration of con
+1 The rules given here regarding the )£/$anda (declaration of con
 sent of an absentee) that is required for the performance of official
 acts are word for word the same as those set out in chap. 22. 1-4,
 regarding the parisuddhi required at the Uposatha service.
@@ -13469,7 +13469,7 @@ not like, admit the resident Bhikkhus to their com
 munion ; let the resident Bhikkhus go outside the
 boundary and hold Uposatha (there).
 
-5. < In case, O Bhikkhus, the incoming Bhikkhus
+5. ( In case, O Bhikkhus, the incoming Bhikkhus
 see the signs, the tokens, the marks, the character
 istics of (the presence of) resident Bhikkhus, well
 prepared beds and chairs and mats and pillows, food
@@ -14098,7 +14098,7 @@ modestly, and aspire to get clear of his penance, and
 that the Sawgha may revoke its sentence ?" Within
 seven days you ought to return.
 
-12-15. 'In case> O Bhikkhus, a Bhikkhuni is
+12-15. 'In case) O Bhikkhus, a Bhikkhuni is
 sick, &C.1
 
 1 6. 'In case, O Bhikkhus, a Bhikkhuni is guilty
@@ -14788,7 +14788,7 @@ he goes to the Vihara, &c.1
 ii. 'In case, O Bhikkhus, a Bhikkhu has promised
 (to a lay-devotee) to take up his Vassa residence
 (with him) at the later period, and when going to
-that district, he holds Uposatha outside, &c.2>
+that district, he holds Uposatha outside, &c.2)
 
 
 End of the third Khandhaka, which treats of
@@ -14986,7 +14986,7 @@ And for the third time I pronounce my Pavara/za....
 for it."
 
 ' Then let (each) younger Bhikkhu adjust his
-upper robe .... (&c.)2>
+upper robe .... (&c.)2)
 
 
 2.

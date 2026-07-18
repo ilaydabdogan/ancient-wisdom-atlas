@@ -242,7 +242,7 @@ contending princes‘.
 Manual, p. 300.
 
 
-* Sze-ma <Xhien’s Biographies, Book 61 (fe rN 18), p- 5°. Other
+* Sze-ma (Xhien’s Biographies, Book 61 (fe rN 18), p- 5°. Other
 testimonies to the fact could be adduced.
 
 
@@ -2356,7 +2356,7 @@ of a pot or vase, placed at a short distance from the players,
 peculiar in the form of the vase of which we have an account
 in paragraph 10. We are surprised to read the description .
 of it in the late Dr. Williams’ Syllabic Dictionary, under the
-character for Ht :—‘One ancient kind (of vase) was made >
+character for Ht :—‘One ancient kind (of vase) was made )
 with tubes on each side of the mouth, and a common game,
 called Thau H 4, was to pitch reeds into the three orifices.’
 This would have been a different jar, and the game would
@@ -3069,7 +3069,7 @@ placed the son higher than the father in social position, and that
 he declines the third gift from humility,—not to parade himself as
 superior to his father and others in his circle.
 
-> Some understand the rule to be that the son is not to speak
+) Some understand the rule to be that the son is not to speak
 of himself as old; but the meaning in the translation is the more
 approved,
 
@@ -3507,7 +3507,7 @@ avoid them, as it might be, through the death of the party or on
 other grounds, it would be difficult and inconvenient to do so. *
 
 
-—_>
+—_)
 
 
 Sons and daughters should have their (relative) ages
@@ -3762,7 +3762,7 @@ should be kept upwards; but if unbent, the horn.
 
 1 Grief is solitary. A mourner afflicts himself.
 
-> Because the fish in such a case are so numerous as not to be
+) Because the fish in such a case are so numerous as not to be
 valuable, or because the fish at the time of the rains are not clean.
 Other reasons for the rule have been assigned.
 
@@ -3888,7 +3888,7 @@ his body, he should bathe it. If he be ill, he should
 drink spirits, and eat flesh, returning to his former
 
 
-“<<
+“((
 
 
 1 The tablets of a father and son should not be in the same
@@ -4698,7 +4698,7 @@ a man;’ as used of him, ‘ He who is the one man.’
 
 * At the great sacrifices to Heaven and Earth.
 
-> On his tours of inspection.
+) On his tours of inspection.
 
 
 presence) to the spirits (of their hills and streams),
@@ -5415,7 +5415,7 @@ editors say it is not to be relied on.
 
 2 These two rules are in Book I, i. Pt. iv, 43, page 89.
 
-> In a still earlier time, according to the third Appendix of the
+) In a still earlier time, according to the third Appendix of the
 Yi (vol. xvi, p. 385), they merely covered the body on the ground
 with faggots,
 
@@ -6465,7 +6465,7 @@ report of King (or AAft), and know whether he might himself go
 and take office there as he wished to do.
 
 
-> B.C. 409-377.
+) B.C. 409-377.
 
 
 SECT. I. PT, III. THE THAN KUNG. Tel
@@ -6945,7 +6945,7 @@ would have died between sixteen and nineteen.
 [27] M
 
 
-162 THE Li Kt. > Sere
+162 THE Li Kt. ) Sere
 being taken out, he ordered some one to draw the
 (bier-carriage) for him. This moved on for three
 paces and stopped; inall for three times ; after which
@@ -7956,7 +7956,7 @@ School), and got an answer which does not make it any clearer.
 
 4-In Bt: S75.
 
-> Probably by the marquis of 3in—duke Wan—as ‘lord of
+) Probably by the marquis of 3in—duke Wan—as ‘lord of
 Meetings and Covenants.’
 
 e In Bc. 645.
@@ -8915,7 +8915,7 @@ Married. Single. |
 Great-grand-son’s Son's
 
 
-— <4
+— (4
 
 
 Great-great-grand-
@@ -9329,7 +9329,7 @@ Norz,—Father’s Sister’s Son and Grand-son, though not relatives
 by the Mother’s side, are yet properly
 
 
-A and therefore are inserted here. >
+A and therefore are inserted here. )
 
 
 Father's Sister's Grand-son.
@@ -11879,7 +11879,7 @@ same as Hsii-nii (A x). Probably it was a star in the constellation Nii of Aquar
 
 2 The third and fourth stem characters of the cycle.
 
-> Yen Tt (‘the blazing Ti’) is the dynastic designation of Shan
+) Yen Tt (‘the blazing Ti’) is the dynastic designation of Shan
 Nang, generally placed next to Ff-hst in Chinese chronology, and
 whose date cannot be assigned later than the thirty-first century
 B.c. Afi-yung in one account is placed before Ffi-hst; in a
@@ -13113,7 +13113,7 @@ winter. The character of the season is fully seen in
 1 This altar was outside the gate leading to the ancestral temple,
 on the west of it. Many say that here was the ‘ well’ supplying
 the water used for the temple, and would read z4ng (Ff) for
-hsing ( <7).
+hsing ( (7).
 
 2 The ‘ great water’ here is said in the ‘ Narratives of the States’
 (Book XV) to be the Hwai. The £/4n is said to be a large species of
@@ -13942,7 +13942,7 @@ him with the cap. The real answer to 34ng-3ze’s question is in
 paragraph 11.
 
 
-in ES <c. . RE...
+in ES (c. . RE...
 sacrifices in his inner garment of soft silk, and there
 is not that drinking all round. The cup is set down
 beside the guests, but they do not take itup. This is
@@ -14810,7 +14810,7 @@ made or not ?’
 
 * The first auspicious sacrifice took place when the ceremony
 of wailing was over.
-> A name for water,
+) A name for water,
 
 
 Confucius said, ‘Formerly, along with Lao Tan’,
@@ -15725,7 +15725,7 @@ your eastern schools. Thus did he end (the ceremony) with (the manifestation of)
 ceremony)*. He anxiously thought of it as its greatness deserved ; his love for the aged was blended
 
 
-1<Hsiang’ was the name of a piece of music played to the
+1(Hsiang’ was the name of a piece of music played to the
 dance TAa-wf, in memory of the kings Wan and Wa. It is
 hardly possible to give any more detailed description either of the
 piece or of the dance.
@@ -16146,7 +16146,7 @@ in the ancestral temple concluded. Paragraphs to, 11, 12 are all
 descriptive of the parts of such a service. Compare the accounts
 of it in the Shih II, vi, ode 5, and other pieces.
 
-2 B.c. 781-771. > Bc. 878-828.
+2 B.c. 781-771. ) Bc. 878-828.
 
 * That the sacrificial ceremonies of Lfii were in many things
 corrupted in Li in the time of Confucius is plain to the reader
@@ -16155,7 +16155,7 @@ of endless controversy. It seems to be established that special
 privileges were granted in this respect to the duke of Kau and his
 son, Po-khin. Guarded at first and innocent, encroachments
 were made by successive princes, as the vigour of the royal
-authority declined; and by-and-by as those princes became them- >
+authority declined; and by-and-by as those princes became them- )
 
 
 ances of the sons of Heaven, preserved (in those
@@ -17918,7 +17918,7 @@ about their origin, it is not necessary that I should enter; it would
 be foreign, indeed, to my object in this translation to do so. The
 
 
-<=
+(=
 
 
 inspecting ‘tours to the princes, the viands of the
@@ -18542,7 +18542,7 @@ under Kau, having to do with sacrifice. They are mentioned at
 the end of the 37th Book of the Kau Li,
 
 
-SS > eee
+SS ) eee
 return to them. They met the (representatives of
 the) cats, because they devoured the rats and mice
 (which injured the fruits) of the fields, and
@@ -19328,7 +19328,7 @@ others make the character to mean ‘scent bags.’ But this also is
 only a guess. There is nothing in its form to suggest such a
 meaning ; and as many other critics point out, it is inconsistent
 with the usage in paragraph 5.. These acknowledge that they do
-not understand the phrase > pe. See I, i, 3, 34, but the use of
+not understand the phrase ) pe. See I, i, 3, 34, but the use of
 ying there is considered inappropriate here.
 
 
@@ -19529,7 +19529,7 @@ to place, and = ‘out of the house.or in it,’
 might expect from the impression made by their general character
 and behaviour.
 
-8 <Qrders,’ consequent on their parents’ seeing that the food or
+8 (Qrders,’ consequent on their parents’ seeing that the food or
 garment is not to their mind.
 
 

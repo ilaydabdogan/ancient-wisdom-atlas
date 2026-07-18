@@ -659,7 +659,7 @@ rather which became afterwards a fundamental part of the
 Sankhya. The Vedanta, in either of its forms, is not, it
 will be noticed, referred to in any one of the sixty-two
 divisions ; but philosophical views forming part of the
-Vedanta may be traced in Nos. 5, <S, 10, 20, &c. The
+Vedanta may be traced in Nos. 5, (S, 10, 20, &c. The
 scheme is not intended as a refutation of the views, as
 a whole, held by any special school or individual, but
 as a statement of erroneous views on two special points,
@@ -1158,7 +1158,7 @@ afflicted with a disease, with greenness of blood ^, he,
 pupphaka at Gataka III, 541, means blood, and the disease may
 
 
-IV, 5>"- OF RIILINDA THE KING. II
+IV, 5)"- OF RIILINDA THE KING. II
 
 
 being at those times an ascetic, had cured that
@@ -1569,7 +1569,7 @@ Must be scatheless held, and sacred, by the good\' "
 " When he was G'otipala, the young Brahman, he
 reviled and abused Kassapa the Blessed One, the
 Arahat, the Buddha supreme, with vile and bitter
-words, calling him a shaveling and a good-fornothin<y monk I"
+words, calling him a shaveling and a good-fornothin(y monk I"
 
 ' Now if, Nagasena, the Bodisat, even when he
 was an animal, respected the yellow robe, [222] then
@@ -1654,7 +1654,7 @@ it as you say.'
 [Here ends the dilemma about Cotipala.]
 
 
-^ Niggu«</i, which Hina/i-kumbure merely repeats. See Cataka
+^ Niggu«(/i, which Hina/i-kumbure merely repeats. See Cataka
 
 III, 348 ; IV, 456 ; Dhammapada Commentary, p. 209 ; Ahguttara
 
@@ -2221,7 +2221,7 @@ among those whose mode of livelihood is pure,
 ^ This story has not yet been traced; but the Si/;/halese (p. 317)
 gives it at great length.
 
-2 iVati-pavaritesu kulesu. Compare Pa>^ittiya 39 ('Vinaya
+2 iVati-pavaritesu kulesu. Compare Pa)^ittiya 39 ('Vinaya
 Texts,' vol. i, p. 39).
 
 
@@ -4853,7 +4853,7 @@ their vice ; — we find creatures born from eggs, and in
 the water, and in sediment, or springing into life
 by the mere apparitional birth ; creatures without
 feet, bipeds and quadrupeds, and creatures with many
-feet ; — we find Yakkhas and Rakkhasas, and Kumbha;/<^as, and Asuras, and Danavas, and Gandhabbas,
+feet ; — we find Yakkhas and Rakkhasas, and Kumbha;/(^as, and Asuras, and Danavas, and Gandhabbas,
 and Betas and Pisa/^as, and Kinnaras, and Mahoragas, and Nagas and Supa;2;^as \ and magicians and
 sorcerers ; — there are elephants, and horses, and
 cattle, and buffaloes, and camels, and asses, and
@@ -6258,7 +6258,7 @@ his harem all in disorder^, then did he become dis-
 Some of these terms are found in the Dharma-sahgraha,
 Anecdota Oxoniensia, vok i, part 5, pp. 16, 51.
 
-^ A'>^a-asadhara«a-;7a«a, not yet found elsewhere.
+^ A')^a-asadhara«a-;7a«a, not yet found elsewhere.
 
 "^ Possibly the above ten with four others.
 
@@ -6521,7 +6521,7 @@ different is the world in which the thoughts of a Buddhist would
 move is shown by Hina/i-kumbure's gloss : ' The maya of concealing faults one has' (tamage oeti agu«a sa;«gawana maya).
 
 ^ Thambho (not ' stupor,' as Childers has it). ' That obstinacy
-of mind (dr/<//^awu sit oeti bawa) which will not bend to the
+of mind (dr/(//^awu sit oeti bawa) which will not bend to the
 exhortation of the great,' says the Si/whalese.
 
 ^ Sarambho; not merely 'clamour, angry talk,' as Childers has
@@ -8419,7 +8419,7 @@ no quality of Nirva/^a which is inherent also in other
 more so that the French translation takes it throughout as a masculine singular. But the Siwhalese throughout the sequel treats
 it properly as a plural nominative; and there can be little doubt
 that the inhabitants, or some of the inhabitants, of the ' Formless
-Realm,' the Arupava>('ara or Arupa-brahma-loka, are referred
+Realm,' the Arupava)('ara or Arupa-brahma-loka, are referred
 to. But this name is different from those given to any of these
 gods in Childers, and I cannot trace it in the Pi/akas as applied
 to any of them.
@@ -8552,7 +8552,7 @@ Of their dead selves to higher things.'
 See below, IV, 8, 78, for a metaphor founded on a similar idea.
 
 ^ S a iwkusumi to, only found here. Compare 'garlands, vitvam,'
-I, i75> 176.
+I, i75) 176.
 
 
 various and fine flowers of purity, of knowledge,
@@ -8999,7 +8999,7 @@ int^ressante ' (!).
 ^ Sannihitaw perhaps 'is situate.' Hina/i-kumbure has pihi-
 /iye, 'can be got.'
 
-^ I/('>^/^itabbo. See above, p. 269 of the Pali.
+^ I/(')^/^itabbo. See above, p. 269 of the Pali.
 
 
 situate, and yet Nirva;/a is, and he who orders his
@@ -9254,7 +9254,7 @@ met with here in this sense.
 2 Ra^a-magga^; literally 'the king's highways,' which also
 only occurs here.
 
-^ For pi«</a-davika Hina/i-kumbure (who at p. 475 gives the
+^ For pi«(/a-davika Hina/i-kumbure (who at p. 475 gives the
 Pali of all this) reads pi«^a-dayaka.
 
 ^ Vammino yodhino. But both Hina/i-kumbure here, and
@@ -9333,7 +9333,7 @@ in wisdom and glory and zeal and power, who, when
 he had attained to the summit of all the perfections
 the Si?«halese (Wandi-bha//ayo according to Subhuti on Abhidhana Padipika 369).
 
-^ Puppha/('-l'>^adaka. A well-known low caste whose duty it
+^ Puppha/('-l')^adaka. A well-known low caste whose duty it
 was to remove flowers offered on the shrines of the gods after they
 had faded. At Thera Gatha, verse 620, this is called one of the
 meanest of occupations.
@@ -9913,7 +9913,7 @@ knowledge, to be able to draw conclusions as to his own ' habitat.'
 2 On the use of upaday' upadaya see above, p. 182, and
 below, p. 341 of the Pali.
 
-2 Pa/C'>('avekkhana-77a«a;«. That is, in looking back over the
+2 Pa/C')('avekkhana-77a«a;«. That is, in looking back over the
 
 [36] Q
 
@@ -9952,7 +9952,7 @@ at Digha II, 83.
 
 ^ Pa/isambhida. Hina/i-kumbure merely repeats the ambiguous technical terms of the Pali. Childers, sub voce, gives
 the various interpretations of other authorities. Compare above,
-J> 29, 34, 36. The third and fourth seem to me to be doubtful.
+J) 29, 34, 36. The third and fourth seem to me to be doubtful.
 
 
 of war \ goes down undismayed to the battle, in the
@@ -10756,7 +10756,7 @@ and out of those three hundred and fifty-seven
 thousand ^ were established in the fruit of the third
 path. And all of them were laity, not members of
 the Order. And there too, at the foot of the
-Ga;^</amba tree, when the double miracle took
+Ga;^(/amba tree, when the double miracle took
 place ^ two hundred millions of living beings^
 penetrated to an understanding (of the four Truths).
 And again on the delivery of the Rahulovada'^
@@ -10779,7 +10779,7 @@ and a meaning.
 
 « See the note above on I, 32 (p. 20 of the Pali).
 
-"> In the Sutta Nipata II, 4.
+") In the Sutta Nipata II, 4.
 
 * See the note above, loc. cit.
 
@@ -11362,7 +11362,7 @@ unworthy of it, unsuitable for it, a low-born man
 ^ On all these see the notes above, I, 276, 277.
 
 
-'>
+')
 
 
 and base in lineage, he had placed himself in the
@@ -11894,7 +11894,7 @@ VII
 I
 
 
-> J)
+) J)
 
 
 Vll, I, I.
@@ -12032,7 +12032,7 @@ II
 
 6. I
 
-'>
+')
 
 
 YII, 1,1.
@@ -12412,7 +12412,7 @@ Sariputta's verses preserved in the Thera Gatha.
 female of the panther which you say he ought to
 take, which is that ? '
 
-' Just, O king, as the female of the panther con->
+' Just, O king, as the female of the panther con-)
 ceives only once, and does not resort again and again
 to the male ^ ; just so, O king, should the strenuous
 Bhikshu, earnest in effort, — seeing how future conceptions and births involve a period of gestation
@@ -12799,7 +12799,7 @@ Climbs up o'er ideas, to perfection and peace ^." '
 
 ^ So«rt?ikahi, which must mean here the tentacles or feelers
 of the gourd-creeper. The Siwzhalese has simply Sofidif?i. I have
-only found the word elsewhere in the connection So;/</ika kilatlga.
+only found the word elsewhere in the connection So;/(/ika kilatlga.
 at Ma^^^ima I, 228 and Sa/«yutta IV, i, 6, 4.
 
 2 Not traced as yet. The last line is literally, ' By climbing up
@@ -12876,7 +12876,7 @@ So the recluse's heart, in solitude made pure.
 Matures full fast in self-possession's field ^
 
 
-o '» >
+o '» )
 
 
 14. The Sal-tree.
@@ -13359,7 +13359,7 @@ exalting the recluses of her own sect - :
 translation).
 
 2 The Si/«halese (pp. 563, 564) gives the whole story. She was
-the daughter of Anathapi;/</ika (Sudatta), the famous supporter of
+the daughter of Anathapi;/(/ika (Sudatta), the famous supporter of
 the Buddha, and builder of the Cetavana at Savatthi. On her
 marriage to a rich merchant at Saketa (Audh) named Kalaka,
 he invited the Brahman naked ascetics of his sect, the A^ivakas,
@@ -14670,7 +14670,7 @@ and not from Gl. It is true that Childers gives ^inati as third
 person singular of Gl, and that (through the influence of the
 
 
-And this from kindness to all thin<ys that live —
+And this from kindness to all thin(ys that live —
 No wrath with any man disturbs his peace ^" '
 
 
@@ -14898,7 +14898,7 @@ In beauty, and in joy' — 'tis thus he thinks —
 Lonofinor for other men's advanta^-e and success ^ !
 
 
-t) *'fc> -^ Wl,llV.i i V. f.
+t) *'fc) -^ Wl,llV.i i V. f.
 
 
 48. The Leech.
@@ -15025,7 +15025,7 @@ Let him drink water. For what cares the man
 With mind on Arahatship fixed for ease ^
 
 
-M >
+M )
 
 
 Here ends the Fifth Chapter.
@@ -16100,7 +16100,7 @@ P. 153, § 18. Read ' Kiuka.:' and compare Gataka IV, 189.
 
 „ 164 (six lines from the bottom of the page). Read 'and then a subsequent ease to the pain he has given.'
 
-5> 176, § 39- In accordance with the note at part ii, pp. 86, 87, we
+5) 176, § 39- In accordance with the note at part ii, pp. 86, 87, we
 must read ' a huge and mighty cauldron, full of water and
 crowded with grains of rice, is placed over a fireplace.'
 
