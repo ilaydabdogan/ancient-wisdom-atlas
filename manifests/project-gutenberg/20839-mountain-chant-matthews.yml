@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_20839
+  work_id: native_american.mountain_chant.matthews_gutenberg
+  title: 'The Mountain Chant: A Navajo Ceremony'
+  source_url: https://www.gutenberg.org/ebooks/20839
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/20839-mountain-chant-matthews.txt
+    checksum:
+      algorithm: sha256
+      value: 723c8f3503cb3c79a2d6a90d0ef676a2983e5ef8b0ac69a246d16c676978ce36
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/20839-mountain-chant-matthews.md
+    checksum:
+      algorithm: sha256
+      value: cc3d2e78e96ab82faecb3555c55c773b5f8ec00534547e7961c3652727fed2e7
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+    checksum:
+      algorithm: sha256
+      value: 6a4d79856bcd474ad082c96313934f783e1f80e2bf0b51a9c205dc0514467eac
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.mountain_chant.matthews_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - the
+      origin myth of the Mountain Chant taken from the chanter, full ceremony description
+      over nine days, and song texts given in Navajo with translations; among the
+      earliest careful chantway records.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

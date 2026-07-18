@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_78356
+  work_id: andamanese.andaman_islanders.radcliffe_brown_gutenberg
+  title: 'The Andaman Islanders: A Study in Social Anthropology'
+  source_url: https://www.gutenberg.org/ebooks/78356
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/78356-andaman-islanders-radcliffe-brown.txt
+    checksum:
+      algorithm: sha256
+      value: cbf489555a62f8106ba13a7343043fcc13ed2093e8db97a345efeae916075b15
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/78356-andaman-islanders-radcliffe-brown.md
+    checksum:
+      algorithm: sha256
+      value: 25667a0269c3cbecddd4685133012a1d766eebfa16603a1b4bc975a7df139d78
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+    checksum:
+      algorithm: sha256
+      value: 5e6aa9bd4df75157916d8d839a159a9563904c88fb6844caf01995265182f5ba
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids andamanese.andaman_islanders.radcliffe_brown_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1922, US public domain per Project Gutenberg. Recording context
+      - Radcliffe-Brown collected legends directly in the field; the myths chapters
+      give systematic tale-by-tale recordings in close English paraphrase with informant
+      and locality notes, plus his interpretive apparatus (keep extraction to the
+      tale recordings, not his theory).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

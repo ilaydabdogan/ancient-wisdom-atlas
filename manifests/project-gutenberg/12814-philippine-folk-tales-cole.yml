@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_12814
+  work_id: filipino.folk_tales.cole_gutenberg
+  title: Philippine Folk Tales
+  source_url: https://www.gutenberg.org/ebooks/12814
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/12814-philippine-folk-tales-cole.txt
+    checksum:
+      algorithm: sha256
+      value: 2f48abb9b330808fffc111dd90c07d09565bd46a6df77599771cdf22f761ad1e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/12814-philippine-folk-tales-cole.md
+    checksum:
+      algorithm: sha256
+      value: 420ddd6cdc427b9b60a0c913e0631b983cd990d201ba19718b721252d3704f30
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+    checksum:
+      algorithm: sha256
+      value: 852f15d83bc635f2ea57d3d954057e3bca0e97425d28c4d863a7346c3f26f252
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids filipino.folk_tales.cole_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

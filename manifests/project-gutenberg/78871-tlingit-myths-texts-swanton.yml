@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_78871
+  work_id: native_american.tlingit_myths_texts.swanton_gutenberg
+  title: Tlingit Myths and Texts
+  source_url: https://www.gutenberg.org/ebooks/78871
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/78871-tlingit-myths-texts-swanton.txt
+    checksum:
+      algorithm: sha256
+      value: 005a0e951632882014b260b1f3bd806f4239df7b8242e7a04ac68132a6887ec1
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/78871-tlingit-myths-texts-swanton.md
+    checksum:
+      algorithm: sha256
+      value: 1fc4495439d6348b4e27ae5080cbd2a7932fb395795246184ced772dac5f50a0
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+    checksum:
+      algorithm: sha256
+      value: 81a5be7ae425ebeee9a8af62fa71cc451bf09500ca3db9b2b5f106d95d2f2162
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.tlingit_myths_texts.swanton_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - field-recorded
+      from named Tlingit narrators (Katishan and others), English translations close
+      to dictation plus some interlinear native-language texts; among the best verbatim
+      Northwest Coast collections.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

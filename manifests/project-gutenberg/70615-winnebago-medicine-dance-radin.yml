@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_70615
+  work_id: native_american.winnebago_medicine_dance.radin_gutenberg
+  title: The Ritual and Significance of the Winnebago Medicine Dance
+  source_url: https://www.gutenberg.org/ebooks/70615
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/70615-winnebago-medicine-dance-radin.txt
+    checksum:
+      algorithm: sha256
+      value: 23daf5ba311831e328d0199b23c6bee139c2a15de6d638283ea7bf91b0101caa
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/70615-winnebago-medicine-dance-radin.md
+    checksum:
+      algorithm: sha256
+      value: 1cd8cf02bfbedaebbbe90a7eac279e9a0338a215db7647b5c22d2a2f4f959905
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md
+    checksum:
+      algorithm: sha256
+      value: df5eab5886a5a374b07f65a034e33dfe3d617b0bfb63c703c20a9c00c2a168f3
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.winnebago_medicine_dance.radin_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1911, US public domain. Recording context - insider account of
+      the Medicine Dance (Medicine Rite) from a Ho-Chunk member, translated by Radin;
+      note the fuller The Winnebago Tribe (37th ARBAE, 1923) was NOT queued because
+      the only clean archive.org scan is a 1970 University of Nebraska reprint - retry
+      with a GPO-original scan in a future expedition.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

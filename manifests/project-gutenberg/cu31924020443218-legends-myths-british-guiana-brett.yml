@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_cu31924020443218
+  work_id: south_american.legends_myths_british_guiana.brett_archive
+  title: Legends and Myths of the Aboriginal Indians of British Guiana
+  source_url: https://archive.org/details/cu31924020443218
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/cu31924020443218-legends-myths-british-guiana-brett.txt
+    checksum:
+      algorithm: sha256
+      value: b14484441e42c5c5577ec9028b9a902f960eedcebc514eb326a2d20b9a719697
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924020443218-legends-myths-british-guiana-brett.md
+    checksum:
+      algorithm: sha256
+      value: f9d851890111f2cea4d9fa535dcd9d1f30aa4a36b1f0d1f2910dda2f5d06a7fb
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+    checksum:
+      algorithm: sha256
+      value: 0ded9a37c6a66af921e91b6208cf0f1c78f0dbd73848ff982b985919e90770a6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids south_american.legends_myths_british_guiana.brett_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1880, US public domain. Heavy mediation caveat - Brett was a
+      missionary who rendered the legends he collected into English verse; narrative
+      content is valuable but form and diction are entirely his. Cross-check motifs
+      against Roth's more literal 1915 corpus before relying on details.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

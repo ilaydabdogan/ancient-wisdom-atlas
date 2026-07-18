@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_9000
+  work_id: sanskrit.vishnu_sahasranama.itrans_gutenberg
+  title: Sri Vishnu Sahasranaamam
+  source_url: https://www.gutenberg.org/ebooks/9000
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.txt
+    checksum:
+      algorithm: sha256
+      value: 457ef7d6a794a669cd9a3dfca20764af52dba1be4ae6eb96cbbbf2430e2d4716
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.md
+    checksum:
+      algorithm: sha256
+      value: e43897907fb7db650b166495f5518c300a87fe67539a0f2576db1c467c9adfdf
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md
+    checksum:
+      algorithm: sha256
+      value: 6f67c73058367c129cf3153a21c0a33b0d1a6f7a5888961d2fe0e0180080d93e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids sanskrit.vishnu_sahasranama.itrans_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Sanskrit text, public domain; romanized ITRANS scheme rather than Devanagari.
+      Queued as the only clean Sanskrit-language text on PG: no PD-clean digital Sanskrit
+      Bhagavad Gita was found this expedition (archive.org candidates are post-1929
+      editions or Devanagari scans with unusable OCR) - Gita in Sanskrit remains an
+      open target (try GRETIL/sanskritdocuments.org provenance next).'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

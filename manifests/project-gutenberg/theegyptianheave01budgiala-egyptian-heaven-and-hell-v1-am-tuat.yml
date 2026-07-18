@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_theegyptianheave01budgiala
+  work_id: egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
+  title: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  source_url: https://archive.org/details/theegyptianheave01budgiala
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.txt
+    checksum:
+      algorithm: sha256
+      value: 107f8482c23c5ea5bce467e01635c4adfb922c8f2d13cefb2d4fca4c0c55977a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.md
+    checksum:
+      algorithm: sha256
+      value: 446b1e84fafa7df0bf1f8de4ba6e4a2070d33518084628bd1f24d7ab14bc0be3
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+    checksum:
+      algorithm: sha256
+      value: 87c284e2a02f2ccf86271e1b96e0e8199773c624b1e9370034d1fc16be251977
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1905, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English translation and hour-by-hour descriptions
+      remain readable and should be extracted during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

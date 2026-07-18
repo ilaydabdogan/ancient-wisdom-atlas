@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_55540
+  work_id: south_american.north_west_amazons.whiffen_gutenberg
+  title: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes'
+  source_url: https://www.gutenberg.org/ebooks/55540
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/55540-north-west-amazons-whiffen.txt
+    checksum:
+      algorithm: sha256
+      value: 2326317294b587c7e345cfe6b150ddc43aee0a64e7c712121799313f99a41750
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/55540-north-west-amazons-whiffen.md
+    checksum:
+      algorithm: sha256
+      value: f5a8f37aa5b4e42b8f14030c522cc09cf0e9eb89958aeec695aa8a72efc735f4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+    checksum:
+      algorithm: sha256
+      value: 2c972cc178e0776786721cd460963f4aaefed6e437906a651d2aa37729ae7119
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids south_american.north_west_amazons.whiffen_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1915, US public domain per Project Gutenberg. Recording context
+      - firsthand field observation of Witoto and Bora groups before rubber-boom devastation;
+      chapters on religion, dance-songs, and belief include paraphrased mythology
+      but limited verbatim narrative; period colonial framing ("cannibal tribes")
+      requires source-critical handling. One of very few pre-1930 English Amazonian
+      field records.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

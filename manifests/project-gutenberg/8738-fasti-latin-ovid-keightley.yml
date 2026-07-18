@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_8738
+  work_id: latin.ovid.fasti_latin_gutenberg
+  title: Fasti
+  source_url: https://www.gutenberg.org/ebooks/8738
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/8738-fasti-latin-ovid-keightley.txt
+    checksum:
+      algorithm: sha256
+      value: f9f426e36940d6e269e474e563de4348f8d1c981ed90fa7bf9772b64e5010830
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/8738-fasti-latin-ovid-keightley.md
+    checksum:
+      algorithm: sha256
+      value: 265781ce089c81562f839301ac41a93156fd6cb441e3d3840c5c5ce0bec8cf09
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+    checksum:
+      algorithm: sha256
+      value: 56aa0b5c13d3d30fea12fe9f2e218c12746727316abcc89bd02006601dbcb580
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids latin.ovid.fasti_latin_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: 'original-language extraction program: translator-effect control. Latin
+      verse text is original-language; surrounding apparatus (preface, notes) is 19th-century
+      English - extraction should target the Latin books. Queued in place of Metamorphoses:
+      PG has NO Latin Metamorphoses (only English translations #21765/#26073/#28621),
+      and archive.org Latin scans are blackletter-era or Loeb mixed-language; Fasti
+      is Ovid''s most ritual-dense work regardless.'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,114 @@
+---
+batch_request_index_version: '1'
+run_id: replication-gpt-5.1-canon-wave-r2
+created_at: '2026-07-18T15:20:12Z'
+updated_at: '2026-07-18T15:20:27Z'
+endpoint: "/v1/responses"
+model: gpt-5.1-batch
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/canon-wave-2026-07-18/passages.jsonl
+request_map_path: data/batches/replication-gpt-5.1-canon-wave-r2/request-map.jsonl
+skip_ingested_from_run_id: replication-gpt-5.1-canon-wave-r2
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/replication-gpt-5.1-canon-wave-r2/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 15890449
+  sha256: 9c7da4f8498e58025f4511f05bc1ff401852b15e0be68f8a70fc7e319efbd64a
+  endpoint: "/v1/responses"
+  model: gpt-5.1-batch
+  status: validating
+  input_file_id: file-e2fef35b436c469a9b4a344de89e0116
+  input_file:
+    status: processed
+    bytes: 15890449
+    purpose: batch
+    filename: shard-0001.jsonl
+    id: file-e2fef35b436c469a9b4a344de89e0116
+    created_at: 1784388017
+    object: file
+  uploaded_at: '2026-07-18T15:20:17Z'
+  batch_id: batch_e09bb569-a7b7-414b-8983-a4222a8e3a41
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784388023
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_e09bb569-a7b7-414b-8983-a4222a8e3a41
+    in_progress_at:
+    input_file_id: file-e2fef35b436c469a9b4a344de89e0116
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.1-canon-wave-r2
+      shard_id: shard-0001
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T15:20:23Z'
+- shard_id: shard-0002
+  path: data/batches/replication-gpt-5.1-canon-wave-r2/requests/shard-0002.jsonl
+  request_count: 62
+  bytes: 1072390
+  sha256: b3a4c4febc3969af0df2178a598c34684ce4e60a501170a85499c2cbf2c9e5fc
+  endpoint: "/v1/responses"
+  model: gpt-5.1-batch
+  status: validating
+  input_file_id: file-d37ab624afbd4e5498fdc137d0991d28
+  input_file:
+    status: processed
+    bytes: 1072390
+    purpose: batch
+    filename: shard-0002.jsonl
+    id: file-d37ab624afbd4e5498fdc137d0991d28
+    created_at: 1784388018
+    object: file
+  uploaded_at: '2026-07-18T15:20:18Z'
+  batch_id: batch_ed8d0d9a-ead8-4b00-b016-838e4e9a11e5
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784388026
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_ed8d0d9a-ead8-4b00-b016-838e4e9a11e5
+    in_progress_at:
+    input_file_id: file-d37ab624afbd4e5498fdc137d0991d28
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.1-canon-wave-r2
+      shard_id: shard-0002
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T15:20:27Z'
+

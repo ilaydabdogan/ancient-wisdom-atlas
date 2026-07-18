@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_750
+  work_id: arthurian.holy_graal.evans_gutenberg
+  title: The High History of the Holy Graal
+  source_url: https://www.gutenberg.org/ebooks/750
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/750-high-history-holy-graal-evans.txt
+    checksum:
+      algorithm: sha256
+      value: bfda0cfcd4bb89a7fcba2c4ee9ff259af662398d047162c6ddd55758f6c48917
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/750-high-history-holy-graal-evans.md
+    checksum:
+      algorithm: sha256
+      value: 3f937be21e72d03576c752f8c37fa3c025c5ce50cea70130dda3389ec2eaa1e8
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+    checksum:
+      algorithm: sha256
+      value: ca010eb292555e1411c681a5922eef93270e3e9619f83997083a869ad028b0d4
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids arthurian.holy_graal.evans_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

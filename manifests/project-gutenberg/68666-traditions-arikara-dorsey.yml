@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_68666
+  work_id: native_american.traditions_arikara.dorsey_gutenberg
+  title: Traditions of the Arikara
+  source_url: https://www.gutenberg.org/ebooks/68666
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/68666-traditions-arikara-dorsey.txt
+    checksum:
+      algorithm: sha256
+      value: 22bb8ba9e3f7dbc7ae258e2522ca17250467c2994e0a7c16ea348de61cbffdb2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/68666-traditions-arikara-dorsey.md
+    checksum:
+      algorithm: sha256
+      value: 0b45e0b89cb5bafbb06512e1f070d3fb76e7e954e11b9d79c47abcaf173d9023
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+    checksum:
+      algorithm: sha256
+      value: ca96ac74c5d71df746be6a61afe0b5565b9dea04064639c732363049445663b5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.traditions_arikara.dorsey_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1904, US public domain per Project Gutenberg. Recording context
+      - dictated narratives with named narrators, companion collection to the Skidi
+      Pawnee volume (Caddoan-speaking lineage).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

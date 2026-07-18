@@ -1,0 +1,30 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: replication-gpt-5.1-canon-wave-r2
+created_at: '2026-07-18T15:20:12Z'
+updated_at: '2026-07-18T15:20:27Z'
+artifacts:
+  requests_index_path: data/batches/replication-gpt-5.1-canon-wave-r2/requests/index.yml
+  request_map_path: data/batches/replication-gpt-5.1-canon-wave-r2/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: jobs_created
+config:
+  motif_request_generation:
+    model: gpt-5.1-batch
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: replication-gpt-5.1-canon-wave-r2
+counts:
+  requests_prepared: 1062
+  request_shards: 2
+  skipped_ingested_requests: 0
+  request_shards_uploaded: 2
+  batch_jobs_created: 2
+

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_gessarkhan0000unse
+  work_id: central_asian.gessar_khan.zeitlin_archive
+  title: Gessar Khan
+  source_url: https://archive.org/details/gessarkhan0000unse
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/gessarkhan0000unse-gessar-khan-zeitlin.txt
+    checksum:
+      algorithm: sha256
+      value: d466944a5b493f0b3be82446614aaa200add5300547e9e2803018249cf28c397
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/gessarkhan0000unse-gessar-khan-zeitlin.md
+    checksum:
+      algorithm: sha256
+      value: 629cc8da8f0c682e4af7f2eecdd04301801f16035318b0afd7e5791d57c235a9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+    checksum:
+      algorithm: sha256
+      value: aecbb64e11f4e139ba844dc447710528fa06cbe72ce092377ecb667d8286de14
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids central_asian.gessar_khan.zeitlin_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1927 in the US, public domain. Mediation caveat - this is a literary
+      English retelling based on Schmidt's 1839 German translation of the Mongolian
+      Geser xylograph, not a field-recorded oral text; treat as reception of the epic,
+      two removes from performance. The Geser/Gesar tradition also remains a living
+      sacred epic in Tibet and Mongolia.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

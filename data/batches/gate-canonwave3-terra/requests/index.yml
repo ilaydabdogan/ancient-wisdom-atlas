@@ -1,0 +1,76 @@
+---
+batch_request_index_version: '1'
+run_id: gate-canonwave3-terra
+source_run: canon-wave3-2026-07-18
+created_at: '2026-07-18T15:20:29Z'
+updated_at: '2026-07-18T15:47:58Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-terra
+honeypot_count: 84
+shards:
+- shard_id: shard-0001
+  path: data/batches/gate-canonwave3-terra/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 18917468
+  sha256: 0e03d349891c93cb46484ebd7010a7f99d44643b0ad4cb581f999342b9e6e18a
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-canonwave3-terra/results/shard-0001.output.jsonl
+  output_sha256: 7becb14f90010215376b72d09113aa49567d42fcc4e2b176413440e51a08e06b
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T15:26:06Z'
+- shard_id: shard-0002
+  path: data/batches/gate-canonwave3-terra/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 19631208
+  sha256: 9eb787e84d9ba2c8f517aeb9dcf37574458a833463bf032e009a0f97c814b2ac
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-canonwave3-terra/results/shard-0002.output.jsonl
+  output_sha256: 9135632e448e00647de37d160ff92827a9e831c3a201f280a9a777ceb3d2a303
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T15:32:05Z'
+- shard_id: shard-0003
+  path: data/batches/gate-canonwave3-terra/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 18956934
+  sha256: a5e06d4da581e68aa0abe5bb098ba67c6431c0ac040a5ff3150c6268d5d2be34
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-canonwave3-terra/results/shard-0003.output.jsonl
+  output_sha256: 9d6c36032279450606482f0f02476d94cbf817a9224c38456a464ac17ba7e198
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T15:38:44Z'
+- shard_id: shard-0004
+  path: data/batches/gate-canonwave3-terra/requests/shard-0004.jsonl
+  request_count: 1000
+  bytes: 17219342
+  sha256: dea6979d8cf58970fcc777106444c10163349727c59e2bb71d1a0ce925f4dcd2
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-canonwave3-terra/results/shard-0004.output.jsonl
+  output_sha256: 1685a7325ab50536a1a0c696ef5a741ca4b58f8c8159353dab02dde819666203
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T15:46:16Z'
+- shard_id: shard-0005
+  path: data/batches/gate-canonwave3-terra/requests/shard-0005.jsonl
+  request_count: 292
+  bytes: 5065882
+  sha256: 468c181f68342915dd938ff0dc09ebcef737f5615915e1b5a29e48149c6cc4de
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-canonwave3-terra/results/shard-0005.output.jsonl
+  output_sha256: 8a4e8dd4c5b4f290698fd24b4e9755a8b22e376a7d14f85d6c2698ada9ba3b66
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T15:47:58Z'
+

@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_zendavesta02darm
+  work_id: zoroastrian.avesta.yasts_darmesteter_archive
+  title: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  source_url: https://archive.org/details/zendavesta02darm
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/zendavesta02darm-zend-avesta-part-2-yasts.txt
+    checksum:
+      algorithm: sha256
+      value: 8fb1324292a3fac2378a8d979780ca9c21e5b7864ba2bbd4c802f933bcd446d0
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/zendavesta02darm-zend-avesta-part-2-yasts.md
+    checksum:
+      algorithm: sha256
+      value: 9e8e251b27b1313ccc75421f812a86a262d8a95013f20898b73e1e645d30988e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+    checksum:
+      algorithm: sha256
+      value: 5bf40c85a75a437d262f1302f99d33ca631ba284d07c9888954abe6241a1e29c
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids zoroastrian.avesta.yasts_darmesteter_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1883, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_20552
+  work_id: romanian.fairy_tales.kremnitz_gutenberg
+  title: Roumanian Fairy Tales
+  source_url: https://www.gutenberg.org/ebooks/20552
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.txt
+    checksum:
+      algorithm: sha256
+      value: 43ae2e12aa13945c0b9a27a2333608d4fd47b600323991c8eb26f79aa96f8ab2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.md
+    checksum:
+      algorithm: sha256
+      value: b66b51d58f5700044642ee2eae7c8da668a8479e760f29fa6360af24083a709d
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+    checksum:
+      algorithm: sha256
+      value: 6a736c0bdddcb19b511922101106ebe013959d54c039615551695cd9139e11b6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids romanian.fairy_tales.kremnitz_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

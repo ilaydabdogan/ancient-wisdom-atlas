@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_koryaktextswald05bogorich
+  work_id: siberian.koryak_texts.bogoras_archive
+  title: Koryak Texts
+  source_url: https://archive.org/details/koryaktextswald05bogorich
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/koryaktextswald05bogorich-koryak-texts-bogoras.txt
+    checksum:
+      algorithm: sha256
+      value: c821f2d0ce8994160899f56541e45f6482a48841bc9db673fc4d9f2ff1cc1fa4
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/koryaktextswald05bogorich-koryak-texts-bogoras.md
+    checksum:
+      algorithm: sha256
+      value: f9b06f178b70f4091eb70de58fc4b6b7379f4ca9c7d1a4bd714b9ce66597fb62
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+    checksum:
+      algorithm: sha256
+      value: 99685122cb801fa0181866580dfad8cb6245ec964ecb8b4cd373da57f440e908
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids siberian.koryak_texts.bogoras_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1917, US public domain. Recording context - Bogoras recorded
+      these texts verbatim from named Koryak narrators during the Jesup Expedition;
+      interlinear Koryak with facing English translation makes this unusually faithful,
+      but it remains an outsider-published record of a living tradition. OCR of the
+      Koryak-language portions is noisy - use the English translations.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_thompson-1928-gilgamesh
+  work_id: mesopotamian.gilgamesh.epic_thompson_archive
+  title: The Epic of Gilgamish
+  source_url: https://archive.org/details/thompson-1928-gilgamesh
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.txt
+    checksum:
+      algorithm: sha256
+      value: f519c05869fa472f7817afef9b0e540b2ad4e937124810d648a6ecd5acbe19c4
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.md
+    checksum:
+      algorithm: sha256
+      value: 87d81e78fb91b5e7a4da5a193d94a4ba794c905fd0c46a49387df9fa8bb4bdd9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+    checksum:
+      algorithm: sha256
+      value: 06a78d90edfa298483405803441f954a730fcfe639d4713dae088f3130583a19
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids mesopotamian.gilgamesh.epic_thompson_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1928 (pre-1930), so US public domain since 2024. Hosted file
+      is OCR text of a Google Books library scan; expect OCR noise and scan-frontmatter
+      that will need cleanup during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_45634
+  work_id: native_american.myths_of_cherokee.mooney_gutenberg
+  title: Myths of the Cherokee
+  source_url: https://www.gutenberg.org/ebooks/45634
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/45634-myths-of-cherokee-mooney.txt
+    checksum:
+      algorithm: sha256
+      value: c6b85afa38c7ab8a99ba6981ad571f2c71a129ab9f905a7970bf0507773cda4e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/45634-myths-of-cherokee-mooney.md
+    checksum:
+      algorithm: sha256
+      value: b5b7b401a5118f473a76b87762ef6cf87b5f1e3c5878eefb3a4d76993f778939
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+    checksum:
+      algorithm: sha256
+      value: 7445dab760f6795581277b73d29808bcece884f4fd2efeb60ec5bad3736af59c
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.myths_of_cherokee.mooney_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - field-recorded
+      from named Cherokee informants with myth-by-myth provenance notes; close English
+      paraphrase of dictation rather than interlinear texts, with extensive annotations.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

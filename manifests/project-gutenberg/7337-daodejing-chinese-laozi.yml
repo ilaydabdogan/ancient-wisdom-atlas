@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_7337
+  work_id: chinese.laozi.daodejing_chinese_gutenberg
+  title: 道德經
+  source_url: https://www.gutenberg.org/ebooks/7337
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/7337-daodejing-chinese-laozi.txt
+    checksum:
+      algorithm: sha256
+      value: e162e8f8e3a6cee107748b2cb363e8b35c16d58ea9465ce06dd708ada9765033
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/7337-daodejing-chinese-laozi.md
+    checksum:
+      algorithm: sha256
+      value: 2c166cfdeefe001ae8a6329660d43ece07a090de5ed86c0600fde2ffb836da63
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md
+    checksum:
+      algorithm: sha256
+      value: 4ba022ed66010f6e55c1a79eb5ba6bf6418e4adcce6975c72d845aa4c6c2f860
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.laozi.daodejing_chinese_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Chinese text, public domain; clean Unicode traditional characters verified.
+      Original-language control for Legge''s SBE English Taoist/Confucian translations
+      already in the corpus.'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

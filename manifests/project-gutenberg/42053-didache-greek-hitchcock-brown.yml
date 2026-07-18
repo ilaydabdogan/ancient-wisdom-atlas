@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_42053
+  work_id: greek.didache.bryennios_hitchcock_brown_gutenberg
+  title: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles
+  source_url: https://www.gutenberg.org/ebooks/42053
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/42053-didache-greek-hitchcock-brown.txt
+    checksum:
+      algorithm: sha256
+      value: 2a8f41c51db5286e686f0d520c5c5d272a49e9ad940c0d99ee216e8eb89a0550
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/42053-didache-greek-hitchcock-brown.md
+    checksum:
+      algorithm: sha256
+      value: 1baf152503abdf0a8c3b8507c12ea013681fa1c0d58dbf410bdc49bb76a0cd78
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+    checksum:
+      algorithm: sha256
+      value: f10cd40c22b7eb2c61231dad6211e00de73dce6d40b81b42226045d84220e43b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.didache.bryennios_hitchcock_brown_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: 'original-language extraction program: translator-effect control. Contains
+      the full Koine Greek text alongside the 1884 English translation - a matched
+      original+translation pair in one document, ideal for direct translator-effect
+      comparison. Note: PG has no ancient-Greek Homer (its Greek Iliad #36248 and
+      Odyssey #30613-16 are MODERN Greek verse translations by Pallis/Polylas, and
+      Greek NT #31802 is Pallis modern Greek - all unsuitable as originals; Homer
+      in ancient Greek remains an open target).'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_23839
+  work_id: chinese.confucius.analects_chinese_gutenberg
+  title: 論語
+  source_url: https://www.gutenberg.org/ebooks/23839
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/23839-analects-chinese-confucius.txt
+    checksum:
+      algorithm: sha256
+      value: dd2385d1e6bc3a5cde6d4d5efdf16d1bab0bff40a0209a7dc9c4909b80bf3035
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/23839-analects-chinese-confucius.md
+    checksum:
+      algorithm: sha256
+      value: 3035f5ef7b4aa96d2b57199b85a46e77e8fb533ce70a56e88576e9a7c66dd340
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md
+    checksum:
+      algorithm: sha256
+      value: ac499dbe2a264de669e4a817a046cc9a3328356570a5d67241d753ccebde2bf0
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.confucius.analects_chinese_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Chinese text, public domain; clean Unicode traditional characters verified.
+      Pairs with Legge''s Chinese Classics and SBE volumes (Shu King, Shih King, Li
+      Ki) already ingested in English.'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

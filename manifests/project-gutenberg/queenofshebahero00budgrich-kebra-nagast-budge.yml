@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_queenofshebahero00budgrich
+  work_id: ethiopian.kebra_nagast.budge_archive
+  title: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  source_url: https://archive.org/details/queenofshebahero00budgrich
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/queenofshebahero00budgrich-kebra-nagast-budge.txt
+    checksum:
+      algorithm: sha256
+      value: d1ca59fc8fe535cf86d96cf04d042d859035c44d5652c5d6edf977ca5c1974e3
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/queenofshebahero00budgrich-kebra-nagast-budge.md
+    checksum:
+      algorithm: sha256
+      value: 3b5de71a0bfb6d1f47092c49b7f5e01dd4d3f512ddd200b4ef59a9f7fe757da7
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+    checksum:
+      algorithm: sha256
+      value: 326f9fe253a1d9dd33214bc10c0f5c3447753a16b5395cc3e3cb570232ec68bb
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids ethiopian.kebra_nagast.budge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1922, US public domain (pre-1930). Budge's introduction precedes
+      the translation; extraction should separate apparatus from text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

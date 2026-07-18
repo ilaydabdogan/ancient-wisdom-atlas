@@ -1,0 +1,707 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave2-2026-07-18
+created_at: '2026-07-18T08:50:24Z'
+updated_at: '2026-07-18T08:50:25Z'
+artifacts:
+  passages_path: data/batches/canon-wave2-2026-07-18/passages.jsonl
+  requests_index_path: data/batches/canon-wave2-2026-07-18/requests/index.yml
+  request_map_path: data/batches/canon-wave2-2026-07-18/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
+    - texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+    - texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+    - texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+    - texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+    - texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+    - texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+    - texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+    - texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+    - texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+    - texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+    - texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+    - texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+    - texts/public-domain/greek/project-gutenberg/republic-jowett.md
+    - texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+    - texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+    - texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+    - texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+    - texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+    - texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+    - texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+    - texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+    - texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+    - texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+    - texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+    - texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+    - texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    - texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+    - texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    - texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    - texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    - texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+    - texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+    - texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+    - texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+    - texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+    - texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave2-2026-07-18
+counts:
+  source_texts_segmented: 38
+  passages: 4651
+  requests_prepared: 4651
+  request_shards: 5
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
+  source_text_id: ainu.folk_tales.chamberlain_gutenberg
+  title: Aino Folk-Tales
+  tradition: ainu
+  culture: ainu_oral_traditions_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; treat
+      as a colonial-era mediated collection and review cultural context carefully.
+  sha256: 58274dfb19639cf23fb0c4649078e8fe06a617eff9f8465583b5ef4f4d513b3f
+  passage_count: 26
+- path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  source_text_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
+  title: Buddhist birth stories; or, Jataka tales, Volume 1
+  tradition: buddhist
+  culture: pali_buddhist_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 0cf1913de13422aeec982a13d09ce2a9c934d0a1b6d3e677c2e0371b9ca2f4bf
+  passage_count: 169
+- path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  source_text_id: buddhist.old_india_tales.rouse_gutenberg
+  title: The Giant Crab, and Other Tales from Old India
+  tradition: buddhist
+  culture: jataka_later_childrens_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a freely adapted children's retelling and should be marked as reception.
+  sha256: 8b2aba70baf83ac9e2683e3e6037f97deedb0e29f5fe38c8388f6e73b3ae2ab2
+  passage_count: 34
+- path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  source_text_id: buddhist.jataka_tales.babbitt_gutenberg
+  title: Jataka tales
+  tradition: buddhist
+  culture: buddhist_jataka_later_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later retelling and should not be treated as a critical edition.
+  sha256: fbe9141fbb93ca280f2cc2bba8361dd8a3246ee8c39453e669e0d92384c8b993
+  passage_count: 26
+- path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  source_text_id: buddhist.more_jataka_tales.babbitt_gutenberg
+  title: More Jataka Tales
+  tradition: buddhist
+  culture: buddhist_jataka_later_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later retelling and should not be treated as a critical edition.
+  sha256: '08658b257fa62ae3f6eac416b578fcbd31bf89a580266f77908ef22291996107'
+  passage_count: 24
+- path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  source_text_id: celtic_irish.voyage_of_bran.meyer_archive
+  title: The Voyage of Bran, Son of Febal, to the Land of the Living
+  tradition: celtic_irish
+  culture: early_medieval_irish_voyage_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/voyageofbransono01scuoft
+    training_use: allowed
+    full_text: allowed
+    notes: 1895 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup; Old Irish facing text and scholarly essay should be separated
+      from the translation during conversion.
+  sha256: fbdddfc7e43d5cbb4ac443f76f3f7fa866eca11ad0364ff763595a0eefeee8fa
+  passage_count: 194
+- path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  source_text_id: comparative.golden_bough.volume_1_frazer_gutenberg
+  title: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  tradition: comparative
+  culture: comparative_religion_later_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      as historical comparative scholarship and review critically.
+  sha256: e966565edfd033d72127ad1565110a77c020678067f4becaa50e57b7e703b367
+  passage_count: 157
+- path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  source_text_id: comparative.golden_bough.volume_2_frazer_gutenberg
+  title: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  tradition: comparative
+  culture: comparative_religion_later_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      as historical comparative scholarship and review critically.
+  sha256: b3852d57b14f2ed6acdf239b066793b5642e640975102aea247b84b9ed1f80dd
+  passage_count: 167
+- path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  source_text_id: daoist.zhuangzi.giles_gutenberg
+  title: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  tradition: daoist
+  culture: classical_chinese
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: b29f8f53b563c7ee9e70da5e170861b38bdb6aa29ffffdf314695d2924d1d521
+  passage_count: 126
+- path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  source_text_id: egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
+  title: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  tradition: egyptian
+  culture: ancient_egyptian_funerary_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English translation and hour-by-hour descriptions
+      remain readable and should be extracted during conversion.
+  sha256: 74c1d2f2193cd0e39ac3d525f81adcbef1ef9052d9774f454da7556d89330a2e
+  passage_count: 152
+- path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  source_text_id: greek_roman.berens.myths_legends_gutenberg
+  title: Myths and Legends of Ancient Greece and Rome
+  tradition: greek_roman
+  culture: classical_myth_later_handbook
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later educational handbook rather than a primary ancient source.
+  sha256: be8141f83534d2ab575707310668c78d88e5927454068223f67bca50fd908299
+  passage_count: 198
+- path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  source_text_id: greek.aesop.fables_vernon_jones_gutenberg
+  title: Aesop's Fables; a new translation
+  tradition: greek
+  culture: ancient_greek_fable_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: e2e7f0a96041063431235eb6a041574edada6bbbf74e3ec4faac8999e398bb6e
+  passage_count: 246
+- path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  source_text_id: greek.odyssey.butler_gutenberg
+  title: The Odyssey
+  tradition: greek
+  culture: ancient_greek_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 256276ee9aa8b640be8823bfbd2ae05523f180ce693c7a9963715ace4b4e39d1
+  passage_count: 132
+- path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  source_text_id: greek.plato.phaedrus_jowett_gutenberg
+  title: Phaedrus
+  tradition: greek
+  culture: classical_greek_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 787d58d58205a4a67a6d34762d561f8a266b17943c253c8cde8028615e9962f2
+  passage_count: 43
+- path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  source_text_id: greek.plato.republic_jowett_gutenberg
+  title: The Republic
+  tradition: greek
+  culture: classical_greek_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: a8e3d804296a61129627b282b6d18caf31e8ebc05dab10725b61bdcf959e6007
+  passage_count: 228
+- path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  source_text_id: greek.plato.symposium_jowett_gutenberg
+  title: Symposium
+  tradition: greek
+  culture: classical_greek_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 798c782ba0d261ff8dcb453a69ac277ec51dd7714d5e654168d0e77104028a9b
+  passage_count: 37
+- path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  source_text_id: indigenous_australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  tradition: indigenous_australian
+  culture: noongahburrah_euahlayi_context_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 51dfce430a808d3a8c22f59959a4a8e6b244bf388b62cde68c1a8063c920ccdb
+  passage_count: 35
+- path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  source_text_id: japanese.fairy_tales.ozaki_gutenberg
+  title: Japanese Fairy Tales
+  tradition: japanese
+  culture: japanese_folklore_later_english_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later English retelling and should be marked as folklore reception.
+  sha256: 426fc91b3821bc83f6d478a10bc14dee0d9e0e7d44b51a7f57d43aafb18a586a
+  passage_count: 72
+- path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  source_text_id: mesopotamian.rogers.cuneiform_parallels_archive
+  title: Cuneiform Parallels to the Old Testament
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_anthology_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Hosted file is OCR text of a library
+      scan; includes transliterations alongside translations, so conversion should
+      target the English translation sections.
+  sha256: 33cd3ba21319b6216747d573647e695e96717905805967f9720b6cf6b617f777
+  passage_count: 329
+- path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  source_text_id: mesopotamian.gilgamesh.epic_thompson_archive
+  title: The Epic of Gilgamish
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1928 (pre-1930), so US public domain since 2024. Hosted file
+      is OCR text of a Google Books library scan; expect OCR noise and scan-frontmatter
+      that will need cleanup during conversion.
+  sha256: b4ef28069efafe7df3cec363f8e0784e32c64dc3f8e81dee5b385fdcb66504bd
+  passage_count: 46
+- path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  source_text_id: norse.myths_of_norsemen.guerber_gutenberg
+  title: 'Myths of the Norsemen: From the Eddas and Sagas'
+  tradition: norse
+  culture: norse_myth_later_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later retelling drawn from Eddic and saga material.
+  sha256: fb8ffff13bb941c9a88005a53a006ea5bd3cd2b154d20508e270c4e54e9b688d
+  passage_count: 117
+- path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  source_text_id: persian.sadi.gulistan.ross_gutenberg
+  title: The Persian Literature, Volume 2, The Gulistan
+  tradition: persian
+  culture: medieval_persian_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; mark
+      as Persian ethical/literary wisdom rather than purely Sufi.
+  sha256: 17d4216248b925cefb053cf58253248e1abdc1a58210eebbbf5d7e278c87d0d8
+  passage_count: 80
+- path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  source_text_id: roman.aeneid.mackail_gutenberg
+  title: The Aeneid of Virgil
+  tradition: roman
+  culture: ancient_roman_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: e786ef09b6fa3b57e971238cb0b45044bd51cb1237ba6135a5aa9e033729852f
+  passage_count: 121
+- path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  source_text_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
+  title: The Metamorphoses of Ovid, Books I-VII
+  tradition: roman
+  culture: ancient_roman_myth_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 90646e118216f57e1b9b2875b7cda89026b58d10e60593311f255d1bcdcb5a71
+  passage_count: 168
+- path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  source_text_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
+  title: The Metamorphoses of Ovid, Books VIII-XV
+  tradition: roman
+  culture: ancient_roman_myth_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: fee0d48b09f209de75ec141e0b6c7afe35574f2d8e74ed1634da5f2e551f6d19
+  passage_count: 177
+- path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  source_text_id: siberian.tales_of_yukaghir_lamut.bogoras_archive
+  title: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  tradition: siberian
+  culture: yukaghir_lamut_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1918, US public domain. Recording context - collected by Bogoras
+      during Siberian exile and the Jesup Expedition from small, now critically endangered
+      language communities; the Russianized-native tales show Russian contact influence
+      and should be flagged separately from the Yukaghir and Lamut material when making
+      isolation claims.
+  sha256: 88401e5d3465597ea76079e6fe3a511bd326f2d3a4529b9d558f0fe3506ea5b8
+  passage_count: 94
+- path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  source_text_id: sufi.al_ghazzali.confessions_field_gutenberg
+  title: The Confessions of Al Ghazzali
+  tradition: sufi
+  culture: persian_islamic_sufi_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 18c155215e7aab2b7810008a0c5996f1c3660008c1da3565a76aef9673c435e7
+  passage_count: 23
+- path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  source_text_id: sufi.rumi.masnavi_whinfield_archive
+  title: 'Masnavi i Ma''navi: Teachings of Rumi'
+  tradition: sufi
+  culture: persian_sufi_later_english_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Whinfield's translation was published 1887/1898 (pre-1930), US public domain;
+      the scanned printing is a straight reprint that adds no new copyright. OCR quality
+      verified as good. Abridged translation - selections from all six books with
+      linking prose summaries.
+  sha256: 24fd4271b92448230bc7fa67d65e96c4b6e16ed7b671293a3e884d8a7985370b
+  passage_count: 194
+- path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  source_text_id: sufi.rumi.mesnevi_book_1_redhouse_gutenberg
+  title: The Mesnevi
+  tradition: sufi
+  culture: persian_sufi_mevlevi_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 65e036a04df5c9421210db72acf77eede2ae069a46a25f066c29767465720c44
+  passage_count: 146
+- path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  source_text_id: sufi.mystics_and_saints_of_islam.field_gutenberg
+  title: Mystics and Saints of Islam
+  tradition: sufi
+  culture: islamic_sufi_biographical_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 052d2f7ad2bba0ab243bfbed8e5756f5d8e45cb9803ca75eb9bae21f860873b8
+  passage_count: 72
+- path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  source_text_id: sufi.mystics_of_islam.nicholson_gutenberg
+  title: The Mystics of Islam
+  tradition: sufi
+  culture: islamic_sufi_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 4e8661f95da402a3a6d1eb3b64aac111ddc370d0398fe6bc9439fd09f6ac1597
+  passage_count: 51
+- path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  source_text_id: sufi.jami.persian_mystics.davis_gutenberg
+  title: 'The Persian Mystics: Jámí'
+  tradition: sufi
+  culture: persian_sufi_later_english_selection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 30a2f70d2a65bdcf142a134ec9d27a6e833aab6ac14ed3f81cd8fa6b32b37248
+  passage_count: 49
+- path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  source_text_id: sufi.persian_mystics_rumi.davis_gutenberg
+  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  tradition: sufi
+  culture: persian_sufi_later_english_selection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 01db812edf01ac6483ab1374b206867ba3d70dba3817531caa7bc2f330d2d00b
+  passage_count: 57
+- path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  source_text_id: sufi.hafiz.divan.bell_gutenberg
+  title: Poems from the Divan of Hafiz
+  tradition: sufi
+  culture: persian_sufi_lyric_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 2ebac4c13c1786d38822a9280aefe2fc377b9c7bee50724dacb5d346136a01ec
+  passage_count: 52
+- path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  source_text_id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
+  title: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox
+  tradition: sufi
+  culture: persian_sufi_interpretive_later_english
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; interpretive
+      framing should be marked as later reception, not primary Omar Khayyam doctrine.
+  sha256: 416e6f368040723443f350d5ea408bc3b70caefaea5c5aaccc30524aebc0e511
+  passage_count: 12
+- path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  source_text_id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
+  title: The Sufistic Quatrains of Omar Khayyam
+  tradition: sufi
+  culture: persian_sufi_reception_anthology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; treat
+      Sufi framing as reception and review translator/editor metadata.
+  sha256: f598dd7dd0a1543707665bd137643f70ed7a6b5f94ed70fbadd43495f0926239
+  passage_count: 154
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  source_text_id: zoroastrian.avesta.vendidad_darmesteter_archive
+  title: 'The Zend-Avesta, Part I: The Vendidad'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 61cd48034ce635b886131c3336a79f298830ca7e26cd36eb48a893220f8db6ed
+  passage_count: 225
+- path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  source_text_id: african.nursery_tales_zulus.callaway_archive
+  title: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words
+  tradition: zulu
+  culture: zulu_oral_traditions_missionary_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1868, US public domain. Recording context - Callaway was a missionary,
+      but he recorded narratives in Zulu from named narrators and printed the Zulu
+      text with facing English translation, making this one of the most faithful 19th-century
+      African collections; still a colonial-era publication of a living tradition.
+      Use the English columns; Zulu-language OCR is noisy.
+  sha256: 463e2f30aaa5eb20c00833ced6457f75263c594ab01de95cb22a9ccb7c2d9c7a
+  passage_count: 418
+

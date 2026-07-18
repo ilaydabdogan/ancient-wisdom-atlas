@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_66208
+  work_id: hindu.vishnu_purana.dutt_gutenberg
+  title: A Prose English Translation of Vishnupuranam
+  source_url: https://www.gutenberg.org/ebooks/66208
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/66208-vishnupuranam-dutt.txt
+    checksum:
+      algorithm: sha256
+      value: 924d8c109ddf87a26fab4025556be7b74dbf0c21534e253bfb4561f711956bb5
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/66208-vishnupuranam-dutt.md
+    checksum:
+      algorithm: sha256
+      value: 8c6efc257054f1182f9996c496afd4c5ab4659971ea5d9c3a8de9f7fa517a2fb
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md
+    checksum:
+      algorithm: sha256
+      value: 2a183ba636546eb3330a3c6b9004b7af50f7f41fcbee9be3301dbe1e13dee18e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.vishnu_purana.dutt_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

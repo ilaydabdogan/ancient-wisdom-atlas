@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-17'
+updated_date: '2026-07-17'
+artifacts:
+- id: artifact.gutenberg_cu31924029909086
+  work_id: australian.more_australian_legendary_tales.parker_archive
+  title: More Australian Legendary Tales
+  source_url: https://archive.org/details/cu31924029909086
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/cu31924029909086-more-australian-legendary-tales-parker.txt
+    checksum:
+      algorithm: sha256
+      value: 7f2bd6489422415e5564c21c20271fe2034172f882478a7d3a6c17d74bb07bf2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924029909086-more-australian-legendary-tales-parker.md
+    checksum:
+      algorithm: sha256
+      value: 1c12c1fbd63d314b50be9ec010ac6b3029a375027f11a0f6807ac4412723c693
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+    checksum:
+      algorithm: sha256
+      value: 4f07efa26a017c686dfb4baac9c6da484375b362784381c5b6e992b780a3a482
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids australian.more_australian_legendary_tales.parker_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898, US public domain. Same colonial recording context as Parker's
+      1896 volume - settler-recorded Yuwaalaraay Dreaming narratives from a living
+      restricted-knowledge tradition; handle with provenance framing. OCR text includes
+      library front matter to strip.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-17'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

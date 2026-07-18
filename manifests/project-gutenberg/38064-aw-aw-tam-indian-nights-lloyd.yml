@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_38064
+  work_id: native_american.aw_aw_tam_indian_nights.lloyd_gutenberg
+  title: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona'
+  source_url: https://www.gutenberg.org/ebooks/38064
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/38064-aw-aw-tam-indian-nights-lloyd.txt
+    checksum:
+      algorithm: sha256
+      value: 4e12a43e5700663d28154e77928adbd1a50de461e814fbee67f9b85d74f45260
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/38064-aw-aw-tam-indian-nights-lloyd.md
+    checksum:
+      algorithm: sha256
+      value: 5784f13e100325b34fdc3a1c807a257afbbe8133772bd3ac4c91c514f5b967d6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+    checksum:
+      algorithm: sha256
+      value: 46aedb28ac7d907e904a5454636ef7fe65dd76d9f6ac1104b3f8c86a38e935be
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.aw_aw_tam_indian_nights.lloyd_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1911, US public domain per Project Gutenberg. Recording context
+      - complete Pima myth cycle as dictated by a single traditional narrator and
+      rendered through a native interpreter; near-verbatim session-by-session record;
+      cross-checks Russell's independently recorded Pima creation cycle.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.
