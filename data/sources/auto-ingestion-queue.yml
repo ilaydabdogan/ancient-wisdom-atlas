@@ -1475,7 +1475,7 @@ items:
   manifest_path: manifests/project-gutenberg/28497-myths-of-the-norsemen-guerber.yml
   extraction_dir: extractions/norse/project-gutenberg/myths-of-the-norsemen-guerber
 - id: mesopotamian.gilgamesh.epic_thompson_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: thompson-1928-gilgamesh
@@ -1541,7 +1541,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.md
+  canonical_path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  manifest_path: manifests/project-gutenberg/thompson-1928-gilgamesh-epic-of-gilgamish-thompson.yml
+  extraction_dir: extractions/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson
 - id: mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
   status: ingested
   priority: high
@@ -1612,7 +1616,7 @@ items:
   manifest_path: manifests/project-gutenberg/9914-babylonian-legends-of-creation.yml
   extraction_dir: extractions/mesopotamian/project-gutenberg/babylonian-legends-of-creation
 - id: mesopotamian.rogers.cuneiform_parallels_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: cuneiformparalle00rogeuoft
@@ -1674,9 +1678,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/cuneiformparalle00rogeuoft-cuneiform-parallels-rogers.md
+  canonical_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  manifest_path: manifests/project-gutenberg/cuneiformparalle00rogeuoft-cuneiform-parallels-rogers.yml
+  extraction_dir: extractions/mesopotamian/project-gutenberg/cuneiform-parallels-rogers
 - id: egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: theegyptianheave01budgiala
@@ -1738,7 +1746,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  manifest_path: manifests/project-gutenberg/theegyptianheave01budgiala-egyptian-heaven-and-hell-v1-am-tuat.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat
 - id: egyptian.legends_of_gods.budge_gutenberg
   status: ingested
   priority: high
@@ -1869,7 +1881,7 @@ items:
   manifest_path: manifests/project-gutenberg/15932-literature-of-ancient-egyptians-budge.yml
   extraction_dir: extractions/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge
 - id: sufi.rumi.masnavi_whinfield_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: in.ernet.dli.2015.65659
@@ -1932,7 +1944,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/in.ernet.dli.2015.65659-masnavi-whinfield.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  manifest_path: manifests/project-gutenberg/in.ernet.dli.2015.65659-masnavi-whinfield.yml
+  extraction_dir: extractions/sufi/project-gutenberg/masnavi-whinfield
 - id: sufi.attar.bird_parliament_fitzgerald_archive
   status: ingested
   priority: medium
@@ -2002,7 +2018,7 @@ items:
   manifest_path: manifests/project-gutenberg/BirdParliamentEnglishFareeduddinAttaarFitzgerald-bird-parliament-attar-fitzgerald.yml
   extraction_dir: extractions/sufi/project-gutenberg/bird-parliament-attar-fitzgerald
 - id: zoroastrian.avesta.vendidad_darmesteter_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: zendavesta01darm
@@ -2063,7 +2079,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/zendavesta01darm-zend-avesta-part-1-vendidad.md
+  canonical_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  manifest_path: manifests/project-gutenberg/zendavesta01darm-zend-avesta-part-1-vendidad.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad
 - id: zoroastrian.avesta.yasts_darmesteter_archive
   status: converted
   priority: medium

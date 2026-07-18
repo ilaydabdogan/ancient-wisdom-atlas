@@ -1,241 +1,4 @@
 # The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
-
-THE SACRED BOOKS -
-OF THE EAST
-
-
-Volume 10
-
-
-THE DHAMMAPADA
-
-
-A COLLECTION OF VERSES
-
-
-Being One of the Canonical Books
-of the Buddhists
-
-
-Edited & Translated from Pali tiby
-F. MAX MULLER
-
-
-THE
-SACRED BOOKS OF THE EAST
-
-
-Translated by
-VARIOUS ORIENTAL SCHOLARS
-
-
-Edited by
-F. MAX MULLER
-
-
-PART I DHAMMAPADA
-PART Il SUTTA-NIPATA
-
-
-Vol. 10
-
-
-SACRED BOOKS OF THE EAST
-
-
-(50 VOLUMES)
-Series Editor : F. Max-Miiller
-ISBN” 978-81-208-0101-1 (Set) % 37,500 (Each Vol. = 750 )
-
-
-These volumes of the Sacred Books of the East series include translations of
-all the most important works of the seven non-Christian religions that have
-exercised a profound influence on the civilisations of the continent of Asia.
-The Vedic Brahmanic system claims 21 volumes, Buddhism 10, and Jainism
-2;8 volumes comprise Sacred Books of the Parsis;2 volumes represent Islam;
-and 6 the two main indigenous systems of China. Translated by twenty
-leading authorities in their respective fields, the volumes have been edited
-by the late F. Max Miiller. The inception, publication and the compilation of
-these books cover almost 34 years.
-I. BUDDHISM
-Vol. 49: Buddhist Mahayana Texts (2 Parts)
-Vol. 11: Buddhist Suttas
-Vol. 10: The Dhammapada and Sutta Nipata
-Vols. 35 & 36: The Questions of King Milinda (2 Parts)
-Vol. 21: The Saddharma Pundarika or the Lotus of the True Law
-Vols. 13, 17 & 20: Vinaya Texts (3 Parts)
-II. CHINESE
-Vol. 19: The Fo-Sho-Hing-Tsan-King
-Vols. 3, 16, 27, 28, 39 & 40: The Sacred Books of China (6 Parts)
-Il. A GENERAL INDEX
-Vol. 50: A General Index to the Names and Subject-matter of the Sacred Books
-of the East
-IV. ISLAM
-Vols. 6 & 9: The Qur'an (2 Parts)
-V. JAINISM
-Vols. 22 & 45: The Jaina Sutras (2 Parts)
-VI. PARSIS
-Vols. 5, 18, 24, 37 & 47: Pahlavi Texts (5 Parts)
-Vols. 4, 23 & 31: The Zend-Avesta (3 Parts)
-VII. VEDIC-BRAHMANIC SYSTEM
-Vol. 8: The Bhagavadgita with the Sanatsujatiya and the Anugita
-Vols. 29 & 30: The Grihya-Sutras: Rules of Vedic Domestic Ceremonies (2 Parts)
-Vol. 42: Hymns of the Atharva Veda together with Extracts from the Ritual
-Books and the Commentaries
-Vol. 7: The Institutes of Vishnu
-Vol. 25: The Laws of Manu
-Vol. 33: The Minor Law Books
-Vols. 2 & 14: The Sacred Laws of the Aryas as Taught in the Schools of
-SENS Apastamba, Gautama, Vasishtha and Baudhayana (2 Parts)
-8. 12, 26, 41, 43 & 44: The Satapatha Brahmana According to the Text of
-the Madhyandina School (5 Parts)
-Vols. 1 & 15: The Upanishads (2 Parts)
-Vols. 34 & 38: The Vedanta Sutras (2 Parts)
-
-
-Vol. 48: The Vedanta-Sutras (with the commentary by Ramanuja)
-Vols. 32 & 46: Vedic Hymns (2 Parts)
-
-
-THE DHAMMAPADA
-
-
-A COLLECTION. OF VERSES
-
-
-Being One of the Canonical Books
-of the Buddhists
-
-
-Translated from Pali by
-F. Max MOLLER
-
-
-MOTILAL BANARSIDASS PUBLISHERS
-PRIVATE LIMITED e DELHI
-
-
-10th Reprint: Delhi, 2017
-First Indian Edition: Delhi, 1965
-(First Published by the Oxford University Press, 1881)
-
-
-© MOTILAL BANARSIDASS PUBLISHERS PRIVATE LTD.
-All rights reserved
-
-
-ISBN: 978-81-208-0111-0
-
-
-MOTILAL BANARSIDASS
-41 U.A. Bungalow Road, Jawahar Nagar, Delhi 110 007
-8 Mahalaxmi Chamber, 22 Bhulabhai Desai Road, Mumbai 400 026
-203 Royapettah High Road, Mylapore, Chennai 600 004
-236, 9th:Main III Block, Jayanagar, Bengaluru 560 011
-8 Camac Street, Kolkata 700 017
-Ashok Rajpath, Patna 800 004
-Chowk, Varanasi 221 001
-
-
-UNESCO COLLECTION OF REPRESENTATIVE WORKS— Indian Series
-This book has been accepted in the Indian Translation Series of the
-UNESCO Collection of Representative Works, jointly sponsored
-by the United Nations Educational Scientific and Cultural
-Organization (UNESCO) and the Government of India
-
-
-Printed in India
-by RP Jain at NAB Printing Unit,
-A-44, Naraina Industrial Area, Phase I, New Delhi—110028
-and published by JP Jain for Motilal Banarsidass Publishers (P) Ltd,
-41 U.A. Bungalow Road, Jawahar Nagar, Delhi-110007
-
-
-RASHTRAPATI BHAVAN,
-New DE ui-4
-June 10, 1962
-
-
-[ am very glad to know that the Sacred
-Books of the East, published years ago by
-the Clarendon Press, Oxford, which have
-been out-of-print for a number of years,
-will now be available to all students of
-religion and philosophy. The _ enterprise
-of the publishers is commendable and I
-hope the books will be widely read.
-
-
-S. RADHAKRISHNAN
-
-
-PREFATORY NOTE TO THE NEW EDITION
-
-
-Since 1948 .the United Nations Educational, Scientific
-and Cultural Organization (UNESCO), upon the recommendation of the General Assembly of the United Nations,
-has been concerned with facilitating the translation of the works
-most representative of the culture of certain of its Member
-States, and, in particular, those of Asia.
-
-
-One of the major difficulties confronting this programme
-is the lack of translators having both the qualifications and
-the time to undertake translations of the many outstanding
-books meriting publication. To help overcome this difficulty in
-part, UNESCO’s advisers in this field (a panel of experts convened every other year by the International Council for Philo-
-sophy and Humanisitic Studies), have recommended that many
-worthwhile translations published during the 19th century, and
-now impossible to find except in a limited number of libraries,
-should be brought hack into print in low-priced editions, for
-the use of students and of the general public. The experts also
-pointed out that in certain cases, even though there might be
-in existence more recent and more accurate translations endowed with a more modern apparatus of scholarship, a number
-of pioneer works of the greatest value and interest to students of
-Eastern religions also merited republication.
-
-
-This point of view was warmly endorsed by the Indian
-National Academy of Letters (Sahitya Akademi), and the
-Indian National Commission for UNESCO.
-
-
-It is in the spirit of these recommendations that this
-work from the famous series ‘‘Sacred Books of the East?’ is
-now once again being made available to the general public
-as part of the UNESCO Collection of Representative Works.
-
-
-PUBLISHER’S NOTE
-
-
-First, the man distinguished between eternal and perishable. Later he discovered within himself the germ of the
-Eternal. This discovery was an epoch in the history of the
-human mind and the East was the first to discover tt.
-
-
-To watch in the Sacred Books of the East the dawn of
-this religious consciousness of man, must always remain one
-of the most inspiring and hallowing sights in the whole history
-of the world. In order to have a solid foundation for a
-comparative study of the Religions of the East, we must have
-before all things, complete and thoroughly faithful translation of
-their Sacred Books in which some of the ancient sayings were
-preserved because they were so true and so striking that they
-could not be forgotten. They contained eternal truths,
-expressed for the first time in human language.
-
-
-With profoundest reverence for Dr. S. Radhakrishnan,
-President of India, who inspired us for the task; our deep
-sense of gratitude for Dr. C. D. Deshmukh & Dr. D. S.
-Kothari, for encouraging assistance; esteemed appreciation of
-UNESCO for the warm endorsement of the cause ; and finally
-with indebtedness to Dr. H. Rau, Director, Max Miller
-Bhawan, New Delhi, in procuring us the texts of the Series
-for reprint, we humbly conclude.
-
-
 SON te NTS.
 
 
@@ -612,15 +375,13 @@ MSS. of the Tipizaka to help us to decide the question '.
 Those who divide that canon into three P.fakas or
 baskets, the Vinaya-pifaka, Sutta-pifaka, and Abhidhamma-pifaka, assign the Dhammapada to the Sutta-pifaka.
 That Pifaka consists of five Nikdyas: the Digha-nik4ya,
-the Magghima-nikaya, the Samyutta-nikaya, the Anguttaranikaya, and the Khuddaka-nikdya. The fifth, or Khuddaka-
-nikadya, comprehends the following works: 1. Khuddakapatha; x DHAMMAPADA; 3. Udana; 4. Itivuttaka; 5. Sutta-
+the Magghima-nikaya, the Samyutta-nikaya, the Anguttaranikaya, and the Khuddaka-nikdya. The fifth, or Khuddakanikadya, comprehends the following works: 1. Khuddakapatha; x DHAMMAPADA; 3. Udana; 4. Itivuttaka; 5. Sutta-
 nipata ; 6. Vimanavatthu; 7. Petavatthu; 8. Theragathé ;
 g. Therig4th4; 10. Gataka; 11. Niddesa; 12. Paz#isambhida;
 13. Apadana; 14. Buddhavamsa ; 15. Kariya-pizaka.
 
 According to another division ?, however, the whole Buddhist canon consists of five Nikayas: the Digha-nikaya, the
-Magghima-nikaya, the Samyutta-nikdya, the Anguttaranikaya, and the fifth, the Khuddaka-nikaya, which Khud-
-daka-nikaya is then made to comprehend the whole of
+Magghima-nikaya, the Samyutta-nikdya, the Anguttaranikaya, and the fifth, the Khuddaka-nikaya, which Khuddaka-nikaya is then made to comprehend the whole of
 the Vinaya (discipline) and Abhidhamma {metaphysics),
 together with the fifteen books beginning with the Khuddaka-pazha.
 
@@ -646,8 +407,7 @@ XViil DHAMMAPADA.
 admits twelve books only, and assigns them all to the Abhidhamma, while the Maggdimabhazakas admit fifteen books,
 and assign them to the Sutta-pizaka. The order of the
 fifteen books is: 1. Gataka [10]; 2. Mahdniddesa [11];
-3. Kullaniddesa [11]; 4. Patisambhidamagga [12]; 5. Suttanipata [5]; 6. DHAMMAPADA [2]; 7. Udana [3]; 8. Iti-
-yuttaka [4]; 9. Vimanavatthu [6]; 10. Petavatthu [7];
+3. Kullaniddesa [11]; 4. Patisambhidamagga [12]; 5. Suttanipata [5]; 6. DHAMMAPADA [2]; 7. Udana [3]; 8. Itiyuttaka [4]; 9. Vimanavatthu [6]; 10. Petavatthu [7];
 11. Theragatha [8]; 12. Therigatha [9]; 13. Kariyé-
 pivaka [15]; 14. Apadana [13]; 15. Buddhavamsa [14]}.
 
@@ -1004,8 +764,7 @@ greater accuracy than most dates in the literary history
 of India.
 
 There is one difficulty still remaining with regard to the
-date of the historian Mahanama which might have perplexed Turnour’s mind,and has certainly proved a stumbling-
-block to myself. Turnour thought that the author of the
+date of the historian Mahanama which might have perplexed Turnour’s mind,and has certainly proved a stumblingblock to myself. Turnour thought that the author of the
 commentary on the Mahavamsa, the Vassatthappakasini,
 was the same as the author of the Mahavawmisa, viz. Mahanama. The date of that commentary, however, as we know
 now, must be fixed much later, for it speaks of a schism
@@ -1088,14 +847,12 @@ Davids to copy for me the passage of the commentary.
 
 The passage runs as follows:
 
-Ya ettavata mahavaswsatthanusdrakusalena Dighasandasendpatina karapita-mahaparivevavasinad Mahand4mo ti ga-
-rahi gahitanamadheyyena thereva pubba-Sihala-bhasitaya
+Ya ettavata mahavaswsatthanusdrakusalena Dighasandasendpatina karapita-mahaparivevavasinad Mahand4mo ti garahi gahitanamadheyyena thereva pubba-Sihala-bhasitaya
 Sihala¢tdakathaya bhasantarasz eva vaggiya atthasdram
 eva gahetva tantinaydnurtipena katassa imassa Padyapadanuvamsassa atthavazzand maya tam eva_ sannissitena
 araddha, padesissariya-dubbu/¢sibhaya - rogabhayddi- vividha-antardya-yuttak4le pi anantarayena niz#zdnam upagata,
 s4 buddha-buddhasavaka-pakkekabuddhadinam porazanazz
-kikkam pubbavasusatthappakdsanato ayam Vamsatthappakdsini nama ti dharetabba. . . . Padyapadanuvamsa-
-vanuzand Vamsatthappakasini niZzZita.
+kikkam pubbavasusatthappakdsanato ayam Vamsatthappakdsini nama ti dharetabba. . . . Padyapadanuvamsavanuzand Vamsatthappakasini niZzZita.
 
 
 Mr. Rhys Davids translates this :
@@ -1210,8 +967,7 @@ XXX DHAMMAPADA.
 
 
 voice of Buddha); and throughout the world he became as
-renowned as Buddha. Having there (in Gambudipa) composed an original work called Nanodaya (Rise of Know-
-ledge), he, at the same time, wrote the chapter called
+renowned as Buddha. Having there (in Gambudipa) composed an original work called Nanodaya (Rise of Knowledge), he, at the same time, wrote the chapter called
 Atthaslini, on the Dhammasangani (one of the commentaries on the Abhidhamma).
 
 ‘Revata Thera then observing that he was desirous of
@@ -1220,8 +976,7 @@ on the Pi¢akattaya, thus addressed him: “The text
 alone of the Pifakattaya has been preserved in this land,
 the AZthakathaé are not extant here, nor is there any
 version to be found of the schisms (vada) complete. The
-Sinhalese A/ZtHakathA are genuine. They were composed in the Sinhalese language by the inspired and pro-
-foundly wise Mahinda, who had previously consulted the
+Sinhalese A/ZtHakathA are genuine. They were composed in the Sinhalese language by the inspired and profoundly wise Mahinda, who had previously consulted the
 discourses (kathAdmagga) of Buddha, authenticated at the
 three convocations, and the dissertations and arguments of
 Sariputta and others, and they are extant among the Sinhalese. Preparing for this, and studying the same, translate
@@ -1267,8 +1022,7 @@ again fervently shouted forth, saying, “Most assuredly
 this is Metteya (Buddha) himself,” and made over to him
 the books in which the Pizakattaya were recorded, together
 with the A/¢thakathé. Taking up his residence in the
-secluded Ganthakara-vihara (at Anuradhapura), he translated, according to the grammatical rules of the Maga-
-dhas, which is the root of all languages, the whole of the
+secluded Ganthakara-vihara (at Anuradhapura), he translated, according to the grammatical rules of the Magadhas, which is the root of all languages, the whole of the
 Sinhalese Azthakatha (into Pali). This proved an achievement of the utmost consequence to all beings, whatever
 their language.
 
@@ -1301,12 +1055,10 @@ of other sacred books, and we cannot contend that writers
 who believed in such legends are therefore altogether
 unworthy to be believed as historical witnesses.
 
-But although the date which we can assign to Buddhaghosa’s translation of the commentaries on the Pali Tipi-
-taka proves the existence of that canon, not only for the
+But although the date which we can assign to Buddhaghosa’s translation of the commentaries on the Pali Tipitaka proves the existence of that canon, not only for the
 beginning of the fifth century of our era, but likewise, though
 it may be, with less stringency, for the first century before
-our era, the time of Va¢/agamani, the question whether Buddhaghosa was merely a compiler and translator of old com-
-mentaries and more particulariy of the commentaries brought
+our era, the time of Va¢/agamani, the question whether Buddhaghosa was merely a compiler and translator of old commentaries and more particulariy of the commentaries brought
 to Ceylon by Mahinda (241 B.c.), or whether he added anything of his own?, requires to be more carefully examined.
 The Buddhists themselves have no difficulty on that point.
 They consider the A¢#hakathas or commentaries as old as
@@ -1323,8 +1075,7 @@ converted, and Buddhism soon became the dominant
 characters, in transcribing the manuscripts, which were wriiten with the
 characters of Magatha, The Burmans lay much stress upon that voyage, and
 always carefully note down the year it took place. In fact, it is to Budhagosa
-that the people living on the shores of the Gulf of Martaban owe the possession of the Budhist scriptures. From Thaton, the collection made by Budha-
-gosa was transferred to Pagan, six hundred and fifty years after it had been
+that the people living on the shores of the Gulf of Martaban owe the possession of the Budhist scriptures. From Thaton, the collection made by Budhagosa was transferred to Pagan, six hundred and fifty years after it had been
 imported from Ceylon.’ See ibid. p. 392.
 
 1 He had written the Wanodaya, and the A/thaslini, a commentary on the
@@ -1389,8 +1140,7 @@ members of the Council under Asoka, in 242 B.C., to have
 been the utterances of the founder of their religion ; nor can
 I see that even Professor Minayeff has shaken the date of
 Buddhaghosa and the general credibility of the Ceylonese
-tradition, that he was the translator and editor of commentaries which had existed in the island for many cen-
-turies, whether from the time of Vatéagdamani or from
+tradition, that he was the translator and editor of commentaries which had existed in the island for many centuries, whether from the time of Vatéagdamani or from
 the time of Mahinda.
 
 
@@ -1404,8 +1154,7 @@ beyond that date we may trace its existence in a collected
 form, or in the form of the three Pizakas or baskets. There
 may be, and we shall see that there is, some doubt as to the
 age of certain works, now incorporated in the Tipizaka. We
-are told, for instance, that some doubt attached to the canonicity of the Xariyé-pitaka, the Apadana, and the Buddha-
-vamsa', and there is another book of the Abhidhammapifaka, the Kathavatthu, which was reported to be the work
+are told, for instance, that some doubt attached to the canonicity of the Xariyé-pitaka, the Apadana, and the Buddhavamsa', and there is another book of the Abhidhammapifaka, the Kathavatthu, which was reported to be the work
 of Tissa Moggaliputta, the president of the Third Council.
 Childers, s. v., stated that it was composed by the apostle
 Moggaliputtatissa, and delivered by him at the Third
@@ -1419,8 +1168,7 @@ Convocation. The Kathavatthu is one of the Abhidhamma
 books, mentioned by Buddhaghosa as having been rehearsed
 at the First Convocation, immediately after Gotama’s death ;
 and the passage in Mahdvamsa upon which D’Alwis rests
-his assertion is as follows, Kathavatthuppakararawam paravadappamaddanam abhasi Tissatthero ka tasmim sangiti-
-mazdale, which simply means ‘in that Convocation-assem-
+his assertion is as follows, Kathavatthuppakararawam paravadappamaddanam abhasi Tissatthero ka tasmim sangitimazdale, which simply means ‘in that Convocation-assem-
 
 
 ? See Childers, s. v. Nikaya,
@@ -1488,9 +1236,7 @@ suttas),
 4. Anguttara-nikaya #, miscellaneous suttas, in divisions
 the length of which increases by one.
 
-5. Khuddaka-nikaya 3, the collection of short suttas, con-
-
-sisting of—
+5. Khuddaka-nikaya 3, the collection of short suttas, consisting of—
 
 Khuddakapatha, the small texts *.
 
@@ -1534,8 +1280,7 @@ Suttas Palis, par Grimblot, Paris, 1876.
 Five Nikayas. They represent the Dharma, as settled at the First and Second
 Councils, described in the Aullavagga (Oldenberg, I, p. xi).
 
-* Sometimes Khuddaka-nikAya stands for the whole Vinaya and Abhidhammapiéaka, with the fifteen divisions here given of Khuddaka-nikaya. In the com-
-mentary on the Brahmag4la-sutta it is said that the Dighanikaya professors
+* Sometimes Khuddaka-nikAya stands for the whole Vinaya and Abhidhammapiéaka, with the fifteen divisions here given of Khuddaka-nikaya. In the commentary on the Brahmag4la-sutta it is said that the Dighanikaya professors
 rehearsed the text of the Gataka, Maha and Aulla Niddesa, Patisambhidamagga,
 Suttanipata, Dhammapada, Udana, Itivuttaka, Vimana, and Petavatthu, Thera
 and Therf Gatha, and called it Khuddakagantha, and made it a canonical text,
@@ -1990,8 +1735,7 @@ on that point. He then places the beginning of Kandragupta’s reign in 322 B.c.
 and twenty-eight to his son Bindusara, he places the beginning of Asoka’s reign in 270. Asoka’s inscriptions would
 fall about 258. As Asoka reigned thirty-six or thirty-seven
 years, his death would fall in 234 or 233 B.C. Like Westergaard, Professor Kern too eliminates Kalasoka, as a kind of
-chronological Asoka, and the Council of Vaisali, and therefore places Buddha’s death, according to the northern tradi-
-tion, 100 or 110 years before DharmAsoka, i.e. 270+ 100
+chronological Asoka, and the Council of Vaisali, and therefore places Buddha’s death, according to the northern tradition, 100 or 110 years before DharmAsoka, i.e. 270+ 100
 Or +110=370 or 380%; while, according to the southern
 
 
@@ -2419,10 +2163,7 @@ pointed out by Childers, that pada by itself never means
 path. But it means footstep, and the footstep towards
 a thing is much the same as what we call the path to a
 thing. Thus we read, verse 21, ‘appam4do amatapadam.’
-earnestness is the step, i.e. the path that leads to immor-
-
-
-liv DITAMMAPADA.
+earnestness is the step, i.e. the path that leads to immorliv DITAMMAPADA.
 
 Deities niente acini Pst IS ee
 tality. Again, ‘pam&do makkuno padam’ can hardly mean
@@ -2944,9 +2685,6 @@ feet of the bearer (the bullock).’ To me this technical acceptation
 B 2
 
 
-4 DHAMMAPADA. CHAP. I.
-
-
 RR
 
 
@@ -2976,8 +2714,7 @@ the four mental khandhas the superiority of vi##ana is strongly
 asserted in the first verse of Dhammapada, ‘“‘ The mental faculties
 (vedana, sa##a, and sankhira) are dominated by Mind, they are
 governed by Mind, they are made up of Mind.’ That this is the
-true meaning of the passage I am now convinced ; see D’Alwis, Nirwana, pp. 70-75. I do not deny that this may have been the tra-
-ditional interpretation, at all events since the days of Buddhaghosa,
+true meaning of the passage I am now convinced ; see D’Alwis, Nirwana, pp. 70-75. I do not deny that this may have been the traditional interpretation, at all events since the days of Buddhaghosa,
 but the very legend quoted by Buddhaghosa in illustration of this
 verse shows that its simpler and purely moral interpretation was
 likewise supported by tradition, and I therefore adhere to my
@@ -3043,9 +2780,6 @@ of Sanskrit d into PAli t, see Kuhn, Beitrage zur Pali Grammatik,
 p- 40; Weber, Ind. Studien, XIII, p. 135.
 
 g. The dark yellow dress, the Kasiva or KAshdya; is the dis-
-
-
-6 DHAMMAPADA. CHAP. I.
 
 
 TT
@@ -3151,9 +2885,6 @@ Fausboll translates ‘heaven and hell,’ which comes to the same ;
 cf. vv. 126, 306.
 
 
-8 DHAMMAPADA. CHAP. I.
-
-
 i
 
 
@@ -3249,9 +2980,6 @@ Pp. 436.
 m.av other places means Arhatship.
 
 
-10 DHAMMAPADA. CHAP. II.
-
-
 24. If an earnest person has roused himself, if
 he is not forgetful, if his deeds are pure, if he
 acts with consideration, if he restrains himself, and
@@ -3315,9 +3043,6 @@ MSS. also. Mr. Neumann, however, retains saham. The fetters
 are meant for the senses. See verse 370.
 
 32. See Childers, Notes, p. 5-
-
-
-12 DHAMMAPADA,. CHAP. III.
 
 
 LL OL A LE
@@ -3392,8 +3117,7 @@ by Burnouf in his Appendix X!V (Lotus, p. 82c). He shows that,
 according to Hemafandra and the Gina-alank4ra, dsravakshaya,
 Pali 4savasamkhaya is counted as the sixth abbig#a, wherever six
 of these intellectual powers are mentioned, instead of five. The
-Chinese translate the term in their own Chinese fashion by ‘ stillationis finis,’ but Burnouf claims for it the definite sense of destruc-
-tion of faults or vices. He quotes from the Lalita-vistara (Adhyaya
+Chinese translate the term in their own Chinese fashion by ‘ stillationis finis,’ but Burnouf claims for it the definite sense of destruction of faults or vices. He quotes from the Lalita-vistara (Adhyaya
 XXII, ed. Rajendra Lal Mittra, p. 448) the words uttered by
 Buddha when he arrived at his complete Buddhahood :—
 
@@ -3409,13 +3133,9 @@ That sru means ‘to run,’ and is in fact a merely dialectic variety
 of sru, has been proved by Burnouf, while Boehtlingk thinks the
 substitution of s for s is a mistake. Asrava therefore, or Asrava,
 meant originally ‘the running out towards objects of the senses’
-(cf. sanga, alaya, &c.), and had nothing to do with dsrava, ‘a running, a sore,’ Atharva-veda I, 2, 4. This conception of the ori-
-ginal purport of 4+sru or ava-sru is confirmed by a statement of
+(cf. sanga, alaya, &c.), and had nothing to do with dsrava, ‘a running, a sore,’ Atharva-veda I, 2, 4. This conception of the original purport of 4+sru or ava-sru is confirmed by a statement of
 Colebrooke’s, who, when treating of the Gainas, writes (Miscellaneous Essays, I, 382): ‘ Asrava is that which directs the embodied
 spirit (asravayati purusham) towards external objects. It is the
-
-
-14 DHAMMAPADA. CHAP. III.
 
 
 40. Knowing that this body is (fragile) like a
@@ -3476,9 +3196,6 @@ do us greater service.
 43. See Beal, Dhammapada, p. 73.
 
 
-16 DHAMMAPADA. CHAP. IV.
-
-
 CHAPTER IV.
 FLOWERS}.
 
@@ -3504,8 +3221,7 @@ patessati, to mean in the end the same thing, i.e. sakkhi-karissati,
 earth and of the worlds below and above, as here alluded to, is
 meant to be achieved by means of knowledge. Patessati, ‘he
 will gather’ (of. vi-4i, Indische Spriiche, 4560), means also, like ‘ to
-gather’ in English, ‘hé will perceive or understand,’ and the dhammapada, or ‘path of virtue,’ is distinctly explained by Buddha-
-ghosa as consisting of the thirty-seven states or stations which lead
+gather’ in English, ‘hé will perceive or understand,’ and the dhammapada, or ‘path of virtue,’ is distinctly explained by Buddhaghosa as consisting of the thirty-seven states or stations which lead
 to Bodhi. (See Burnouf, Lotus, p. 430; Hardy, Manual, p. 497.)
 Dhammapada might, no doubt, mean also ‘a law-verse,’ and
 sudesita, ‘well taught,’ and this double meaning may be intentional
@@ -3570,9 +3286,6 @@ Wessabhu, i.e. Visvabhf. See also Der Weise und der Thor, p. 134.
 See Fausbéll, Nogle Bemerkninger. Buddhaghosa renders ahe-
 
 [r0} C
-
-
-18 DHAMMAPADA. CHAP. IV.
 
 
 er
@@ -3641,9 +3354,6 @@ worldling.
 
 
 58, 59. Cf. Beal, Dhammapada, p. 76.
-
-
-20 DHAMMAPADA. CHAP. V.
 
 
 ee i
@@ -3750,9 +3460,6 @@ once, like a cow;’ or ‘like the earth (in due season) ;’ or ‘like
 milk.’ See Childers, Notes, p. 6.
 
 
-22 DHAMMAPADA. CHAP. V.
-
-
 72, And when the evil deed, after it has become
 known, turns to sorrow for the fool, then it destroys
 his bright lot, nay, it cleaves his head.
@@ -3837,9 +3544,6 @@ the fields where it would not go by itself. The Chinese translator
 says, ‘the pilot manages his ship.’ See Beal, l.c. p. 79.
 
 
-24 DHAMMAPADA. CHAP. VI.
-
-
 81. As a solid rock is not shaken by the wind,
 wise people falter not amidst blame and praise.
 
@@ -3905,10 +3609,7 @@ own, the wise man should purge himself from all
 the troubles of the mind.
 
 89. Those whose mind is well grounded in the
-(seven) elements of knowledge, who without cling-
-
-
-common life. On reaching Nirvaza, the dominion of death is
+(seven) elements of knowledge, who without clingcommon life. On reaching Nirvaza, the dominion of death is
 overcome. ‘The commentator supplies taritya, ‘having crossed,’ in
 arder to explain the accusative ma&kudheyyam, but possibly param
 essanti should here be taken as one word, in the sense of overcoming.
@@ -3929,9 +3630,6 @@ aki#kano, see Mahabh. XII, 6568, 1240.
 on which see Burnouf, Lotus, p. 796. D’Alwis explains them as
 the thirty-seven Bodhipakkhiya-dhamma. Khizdasava, which I have
 iranslated by ‘they whose frailties have been conquered,’ may also
-
-
-26 DHAMMAPADA. CHAP. VI.
 
 
 ing to anything, rejoice in freedom from attachment,
@@ -3979,8 +3677,7 @@ well-collected, they do not tarry in their abode; like
 swans who have left their lake, they leave their
 house and home.
 
-92. Men who have no riches, who live on recognised food, who have perceived void and uncon-
-ditioned freedom (Nirvaza), their path is difficult to
+92. Men who have no riches, who live on recognised food, who have perceived void and unconditioned freedom (Nirvaza), their path is difficult to
 understand, like that of birds in the air.
 
 
@@ -4003,9 +3700,6 @@ occurs in L’enfant egaré, 5 a, 1. 4. Nimitta is cause in the most
 general sense, i.e. what causes existence. ‘The commentator explains it chiefly in a moral sense: Ragadinimittabhavena animittam,
 tehi £a vimuttan ti animitto vimokho, i.e. owing to the absence of
 passion and other causes, without causation; because freed from
-
-
-28 DHAMMAPADA. CHAP. VII.
 
 
 93. He whose appetites are stilled, who is not
@@ -4095,9 +3789,6 @@ understood it. M4drzsa also is used very much like tadrssa, and
 from it m4riso, a venerable person, in Sanskrit marsha.
 
 
-30 DHAMMAPADA. CHAP. VII.
-
-
 98. In a hamlet or in a forest, on sea or on dry
 land, wherever venerable persons (Arahanta) dwell,
 that place is delightful.
@@ -4153,9 +3844,6 @@ original and perfect.
 
 The Devas (gods), Gandharvas (fairies), and other fanciful beings
 of the Brahmanic religion, such as the Nagas, Sarpas, Garudas, &c.,
-
-
-32 DHAMMAPADA. CHAP. VIII.
 
 
 victory of a man who has vanquished himself, and
@@ -4253,9 +3941,6 @@ mentioned as being widely in use among the Buddhists of Siam.
 [10] D
 
 
-34 DHAMMAPADA. CHAP. IX.
-
-
 TA eta tre.
 EVIL.
 
@@ -4340,9 +4025,6 @@ H. Bower, Introd. p. xv.
 
 127. Cf. St. Luke xii. 2, ‘ For there is nothing covered that shall
 not be revealed;’ and Psalm cxxxix. 8-12.
-
-
-26 DHAMMAPADA. CHAP. X.
 
 
 CHAPTER A.
@@ -4433,8 +4115,7 @@ Ahimsakani bhatani damzdena vinihanti yad,
 
 Atmanak sukham ifkfan sa pretya naiva sukhf bhavet.
 If it were not for ahimsak4ni, in which Manu and the Mahabharata
-agree, I should say that the verses in both were Sanskrit modifications of the PAli original. ‘The verse in the Mahabharata presup-
-poses the verse of the Dhammapada,
+agree, I should say that the verses in both were Sanskrit modifications of the PAli original. ‘The verse in the Mahabharata presupposes the verse of the Dhammapada,
 
 133. See Mahabharata XII, 4056.
 
@@ -4444,9 +4125,6 @@ Buddhist Nirvaza, p. 35.
 136. The metaphor of ‘burning’ for ‘suffering’ is very
 common in Buddhist literature. Everything burns, i.e. everything suffers, was one of the first experiences of Buddha himself.
 See v. 146.
-
-
-28 DHAMMAPADA. CHAP. X.
 
 
 138. He will have cruel suffering, loss, injury of
@@ -4540,9 +4218,6 @@ that, if only he practises virtue. As to damdanidhana, see Mahabh.
 XII, 6559, and Suttanipata, v. 34.
 
 
-40 DHAMMAPADA. CHAP. X.
-
-
 whip, be ve strenuous and eager, and by faith, by
 virtue, by energy, by meditation, by discernment of
 the law you will overcome this great pain, perfect in
@@ -4603,9 +4278,6 @@ in many other literatures,’
 Dr. Fausbéll adds :—
 
 ‘I have still the same doubt as before, because of all my
-
-
-42 DHAMMAPADA. CHAP. XI.
 
 
 149. After one has looked at those grey bones,
@@ -4773,9 +4445,6 @@ I say unto all, Watch,’
 161. The Chinese translation renders vagiram by ‘steel drill.’
 
 
-46 DHAMMAPADA. CHAP. XII.
-
-
 164. The foolish man who scorns the rule of the
 venerable (Arahat), of the elect (Ariya), of the virtuous, and follows a false doctrine, he bears fruit to
 his own destruction, like the fruits of the Ka¢tsaka
@@ -4861,9 +4530,6 @@ worldlings ?
 170, See Suttanipata, v, 1118.
 
 
-48 DHAMMAPADA. CHAP. XIII.
-
-
 174. This world is dark, few only can see here ;
 a few only go to heaven, like birds escaped from
 the net.
@@ -4923,9 +4589,6 @@ holiness.
 (sukkhavipassana, Lotus, p. 849). See Hardy, Eastern Monachism,
 p. 280; Burnouf, Introduction, p. 209; Képpen, p. 398; D’Alwis,
 Attanugaluvansa, p. cxxiv; Feer, Sutra en 42 articles, p. 6.
-
-
-50 DHAMMAPADA. CHAP. XIV.
 
 
 CHAPTER XIV.
@@ -5015,9 +4678,6 @@ of the oldest collection of the moral laws of the Buddhists (Burnouf,
 E 2
 
 
-52 DHAMMAPADA. CHAP. XIV.
-
-
 186. There is no satisfying lusts, even by a shower
 of gold pieces ; he who knows that lusts have a short
 taste and cause pain, he is wise;
@@ -5104,9 +4764,6 @@ parts. (See Burnouf, Introduction, p. 630.) The eightfold way
 forms the subject of Chapter XVIII. (See also Feer, Journal
 As. 1870, p. 418, and Chips from a German Workshop, 2nd ed.
 vol. i, p. 251 seq.)
-
-
-54 DHAMMAPADA. CHAP. XV.
 
 
 CHAPTER XV.
@@ -5211,11 +4868,7 @@ these too might be called the greatest pain, considering that they
 are the cause of birth, which is the cause of all pain. Sometimes,
 
 
-56 DHAMMAPADA. CHAP. XV.
-
-
-204. Health is the greatest of gifts, contentedness the best riches; trust is the best of relation-
-ships, Nirvaza the highest happiness.
+204. Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvaza the highest happiness.
 
 205. He who has tasted the sweetness of solitude
 and tranquillity, is free from fear and free from sin,
@@ -5302,9 +4955,6 @@ nor fear.
 214. See Beal Catena, p. 200.
 
 
-58 DHAMMAPADA. CHAP. XVI.
-
-
 who is just, speaks the truth, and does what is his
 own business, him the world will hold dear.
 
@@ -5377,9 +5027,6 @@ P. 454-
 Gatakas, ed. Fausbdll, p. 5.
 
 227. It appears from the commentary that pordzam and aggata-
-
-
-60 DHAMMAPADA. CHAP. XVII.
 
 
 they blame him who speaks much, they also blame
@@ -5469,9 +5116,6 @@ resting-place, shelter, or even Nirvaza ; see Childers, s. v. dipo.
 
 239. This verse is the foundation of the thirty-fourth section of
 the Sfitra of the forty-two sections ; see Beal, Catena, p. 201 ; Suttanipata, v. 962.
-
-
-62 DHAMMAPADA. CHAP. XVIII.
 
 
 240. As the impurity which springs from the iron,
@@ -5570,9 +5214,6 @@ wild river of thirst is dried up by the sun of my knowledge.’
 254. I have translated this verse very freely, and not in accord-
 
 
-64 DHAMMAPADA. CHAP. XVIII.
-
-
 is not a Samaza outwardly. The world delights in
 vanity, the Tathagatas (the Buddhas) are free from
 vanity.
@@ -5658,9 +5299,6 @@ the four great truths, see note to verse 190. Could dhammam
 kayena passati mean, ‘ he observes the law in his acts, or sees the
 law with his bodily eyes?’ Hardly, if we compare expressions like
 dhammam vipassato, v. 373.
-
-
-66 DHAMMAPADA. CHAP. XIX.
 
 
 264. Not by tonsure does an undisciplined man
@@ -5753,9 +5391,6 @@ it means everywhere, whether in Sanskrit or in Pali.
 
 
 F 2
-
-
-68 DHAMMAPADA. CHAP. XX.
 
 
 eS —_—— + ——
@@ -5860,9 +5495,6 @@ mistaken remarks on this verse in D’Alwis, Nirvaa, p. 86, and
 some good remarks in Childers, Notes, p. 7.
 
 
-790 DHAMMAPADA. CHAP. XX.
-
-
 284. So long as the desire of man towards women,
 even the smallest, is not destroyed, so long is his
 mind in bondage, as the calf that drinks milk is to
@@ -5939,9 +5571,6 @@ The commentator is so startled that he explains them allegorically.
 Mr. D’Alwis is very indignant that I should have supposed Buddha
 capable of pardoning parricide. ‘Can it be believed,’ he writes,
 ‘that a Teacher, who held life, even the life of the minutest insect,
-
-
-72 DHAMMAPADA. CHAP. XXI.
 
 
 296. The disciples of Gotama (Buddha) are always
@@ -6101,9 +5730,6 @@ same in both: gatt papikaé must be niraya; damda corresponds to
 nind4, and rat? thokika explains the anikamaseyyam. Buddhaghosa
 
 
-76 DHAMMAPADA. CHAP. XXII,
-
-
 310. There is demerit, and the evil way (to hell),
 there is the short pleasure of the frightened in
 the arms of the frightened, and the king imposes
@@ -6124,8 +5750,7 @@ only scatters the dust of his passions more widely.
 man repents of it afterwards ; a good deed is better
 done, for having done it, one does not repent.
 
-315. Like a well-guarded frontier fort, with defences within and without, so let a man guard him-
-self. Not a moment should escape, for they who
+315. Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who
 allow the right moment to pass, suffer pain when
 they are in hell.
 
@@ -6163,9 +5788,6 @@ false doctrines, enter the evil path.
 319. They who see sin where there is sin, and no
 sin where there is no sin, such men, embracing
 the true doctrine, enter the good path.
-
-
-78 DHAMMAPADA. CHAP. XXIII.
 
 
 CHAPTER XXIII.
@@ -6329,9 +5951,6 @@ Buddhismus, p. 240 seq.
 [10] G
 
 
-82 DHAMMAPADA. CHAP. XXIV.
-
-
 carry away that misguided man, viz. his desires
 which are set on passion.
 
@@ -6427,9 +6046,6 @@ and cannot cross it,’ &c.
 G2
 
 
-84 DHAMMAPADA. CHAP. XXIV.
-
-
 350. If a man delights in quieting doubts, and,
 always reflecting, dwells on what is not delightful
 (the impurity of the body, &c.), he certainly will
@@ -6440,8 +6056,7 @@ does not tremble, who is without thirst and without
 sin, he has broken all the thorns of life: this will be
 his last body.
 
-352. He who is without thirst and without affection, who understands the words and their interpre-
-tation, who knows the order of letters (those which
+352. He who is without thirst and without affection, who understands the words and their interpretation, who knows the order of letters (those which
 are before and which are after), he has received his
 last body, he is called the great sage, the great
 man.
@@ -6504,9 +6119,6 @@ and where a free rendering of our verse is given.
 358. ‘ Vanity and vexation of spirit,’ Ecclesiastes.
 
 
-86 DHAMMAPADA. CHAP. XXV.
-
-
 CHAPTER XXV.
 THE BHIKSHU (MENDICANT).
 
@@ -6538,8 +6150,7 @@ others does not obtain peace of mind.
 
 363. On artha and dharma, see Stanislas Julien, Les Avadanas,
 J, 217, note: ‘Les quatre connaissances sont; 1° la connaissance
-du sens (artha); 2° la connaissance de la Loi (dharma); 3° la connaissance des explications (niroukti); 4° la connaissance de |’intel-
-ligence (pratibhana).’
+du sens (artha); 2° la connaissance de la Loi (dharma); 3° la connaissance des explications (niroukti); 4° la connaissance de |’intelligence (pratibhana).’
 
 364. The expression dhammaramo, ‘having his garden or delight (Lustgarten) in the law,’ is well matched by the Brahmanic
 expression ekarima, i.e. nirdvandva (Mahfbh. XIII, 1930). Cf.
@@ -6594,9 +6205,6 @@ The five are differently explained by the commentator. See also
 Childers, s. v. samyogana.
 
 371. The swallowing of hot iron balls is considered as a punishment in hell; see verse 308. Professor Weber has perceived the
-
-
-88 DHAMMAPADA. CHAP. XXV.
 
 
 a
@@ -6668,9 +6276,6 @@ world, like the moon when free from clouds.
 
 381. See verse 368. D’Alwis translates, ‘dissolution of the
 sankharas (elements of existence).’
-
-
-90 DHAMMAPADA. CHAP. XXVI.
 
 
 CHAPTER XXVI.
@@ -6855,14 +6460,8 @@ that he offend no one.
 it mean, possessed of a strong army, or facing a force, or leading
 a force?
 
-405. On tasa and thiavara, see Childers, s, v., and D’Alwis, Nir-
-
-
-vina, p. 115. On danda, ‘the rod,’ see Hibbert Lectures, p. 355,
+405. On tasa and thiavara, see Childers, s, v., and D’Alwis, Nirvina, p. 115. On danda, ‘the rod,’ see Hibbert Lectures, p. 355,
 hote.
-
-
-94 DHAMMAPADA. CHAP. XXVI.
 
 
 nothing in the world that is not given him, be it
@@ -6952,9 +6551,6 @@ not very numerous technical terms in Buddhism for which hitherto
 we know of no antecedents in earlier Brahmanism, It may have
 been used in the sense of ‘ happy and blessed,’ but it never became
 a title, while in Buddhism it has become, not only a title, but
-
-
-96 DIAMMAPADA. CHAP. XXVI.
 
 
 420. Him I call indeed a Braéhmaza whose path
@@ -7840,8 +7436,7 @@ gakha, duggakka, sammuZAa, titthy4, thiyo, parihirati for santiya, gatiya, sammu
 side of protracted forms, such as 4tumanazz; but also some
 unusual (sometimes old) forms and words, as apussfasi,
 sagghasi? = sakkhissasi, sussasz = suvzissami (Sansk. sroshyami), pava and pava = vadati, pavekkhe = paveseyya,
-parikissati = parikilissati, vineyya, vikeyya, nikéheyya, pappuyya,= vinayitva, &c., dat#éiu = disva (S. drish¢va), atisi-
-tva = atikkamitva, anuvi#ka = anuviditva, paribbasina =
+parikissati = parikilissati, vineyya, vikeyya, nikéheyya, pappuyya,= vinayitva, &c., dat#éiu = disva (S. drish¢va), atisitva = atikkamitva, anuvi#ka = anuviditva, paribbasina =
 vasamana, garunam, bhikkhunasz, muninazz, vedagunam:
 (accus.), amhana (S. asmana) = pasavena, vakibhi, £atubbhi,
 rattamahdbhi, ise (vocative), suvami = sami, maga = miga
@@ -8619,8 +8214,7 @@ alway's wandering in (accordance with) the Dhammas|,
 seeing misery in the existences, let one wander alone
 like a rhinoceros *. (68)
 
-36. Wishing for the destruction of desire (i.e. Nibbana), being careful, no fool, learned, strenuous, con-
-siderate, restrained, energetic, let one wander alone
+36. Wishing for the destruction of desire (i.e. Nibbana), being careful, no fool, learned, strenuous, considerate, restrained, energetic, let one wander alone
 like a rhinoceros. (69)
 
 
@@ -8714,8 +8308,7 @@ ploughing, tell us (of it), that we may know thy
 ploughing.’ (75)
 
 2. Bhagavat answered: ‘ Faith is the seed, penance
-the rain, understanding my yoke and plough, modesty the pole of the plough, mind the tie, thought-
-fulness my ploughshare and goad. (76)
+the rain, understanding my yoke and plough, modesty the pole of the plough, mind the tie, thoughtfulness my ploughshare and goad. (76)
 
 
 KASIBHARADVAGASUTTA., 13
@@ -9351,8 +8944,7 @@ legs like an antelope, who is thin, who is wise, living
 on little food, not covetous, the Muni who is meditating in the forest. (164)
 
 14. ‘Having gone to him who is like a lion, a lonely
-wandering elephant, and who does not look for sensual pleasures, let us ask about the (means of) deli-
-verance from the snares of death. (165)
+wandering elephant, and who does not look for sensual pleasures, let us ask about the (means of) deliverance from the snares of death. (165)
 
 15. ‘Let us ask Gotama, the preacher, the expounder, who has penetrated all things, Buddha
 who has overcome hatred and fear.’ (166)
@@ -9560,8 +9152,7 @@ Advakasutta is ended.
 11. VIGAYASUTTA.
 
 
-A reflection on the worthlessness of the human body; a follower of Buddha only sees the body as it really is, and conse-
-quently goes to Nibbana. Comp. Gataka I, p. 146.
+A reflection on the worthlessness of the human body; a follower of Buddha only sees the body as it really is, and consequently goes to Nibbana. Comp. Gataka I, p. 146.
 
 1. If either walking or standing, sitting or lying,
 any one contracts (or) stretches (his body, then) this
@@ -9614,8 +9205,7 @@ as this is so that (will be); let one put away desire
 for the body, both as to its interior and as to its
 exterior. (202)
 
-12. Such a Bhikkhu who has turned away from desire and attachment, and is possessed of understand-
-ing in this world, has (already) gone to the immortal
+12. Such a Bhikkhu who has turned away from desire and attachment, and is possessed of understanding in this world, has (already) gone to the immortal
 peace, the unchangeable state of Nibbana. (203)
 
 13. This (body) with two feet is cherished (although) impure, ill-smelling, filled with various kinds
@@ -9810,9 +9400,6 @@ hells, and he is incapable of committing the six
 ' The Commentator: satam pasattha ti sappurisehi buddhapakkekabuddhasavakehi a/i#ehi 4a devamanussehi pasattha.
 
 
-38 KOLAVAGGA.
-
-
 deadly sins. This excellent jewel (is found) in the
 Assembly, by this truth may, there be salvation. (230)
 
@@ -9896,9 +9483,6 @@ the eating of flesh. (241)
 
 
 ' Agghenakuggan ti niratthakdnatthaganakaganthapariyapunanam. Commentator.
-
-
-40 KOLAVAGGA.
 
 
 5. ‘Those persons who in this world are unrestrained in (enjoying) sensual pleasures, greedy of
@@ -9987,9 +9571,6 @@ but does not do anything. (253)
 ananugatam. Commentator.
 
 
-42 KOLAVAGGA.
-
-
 a breach and looks out for faults; but he with whom
 he dwells as a son at the breast (of his mother),
 he is indeed a friend that cannot be severed (from
@@ -10069,9 +9650,6 @@ and secure, this is the highest blessing. (267)
 undefeated in every respect, walk in safety everywhere, theirs is the highest blessing.’ (268)
 Mahamangala is ended.
 [10] M
-
-
-44 KULAVAGGA.
 
 
 5. SUKILOMASUTTA.
@@ -10166,9 +9744,6 @@ pollution. (274)
 M 2
 
 
-46 KULAVAGGA.
-
-
 3. A Bhikkhu who delights in quarrelling and is
 shrouded in folly, does not understand the Dhamma
 that is preached and taught by Buddha. (275)
@@ -10255,9 +9830,6 @@ gold, nor corn, (but) the riches and corn of meditation were for them, and they 
 best treasure. (284)
 
 
-48 KOLAVAGGA.
-
-
 3. What was prepared for them and placed as food
 at the door, they thought was to be given to those that
 seek for what has been prepared by faith. (285)
@@ -10330,8 +9902,7 @@ hymns, went to Okkaka, and said : ‘ Thou hast much
 wealth and corn, sacrifice, (for) great is thy property,
 sacrifice, (for) great is thy wealth.’ (301)
 
-20. And then the king, the lord of chariots, instructed by the Brahmazas, brought about assa-
-medha, purisamedha, sammdapdsa, and vasapeyya
+20. And then the king, the lord of chariots, instructed by the Brahmazas, brought about assamedha, purisamedha, sammdapdsa, and vasapeyya
 without any hinderance, and having offered these
 sacrifices he gave the Brahmazas wealth : (302)
 
@@ -10343,9 +9914,6 @@ carpets in variegated colours, (303)
 corn, he gave this wealth to the Brahmazas. (304)
 
 23. And they having thus received wealth wished
-
-
-50 KCLAVAGGA.
 
 
 for a store, and the craving of those who had given
@@ -10433,16 +10001,12 @@ goes to death, not having overcome doubt, and not
 having understood the Dhamma. (317)
 
 
-52 KULAVAGGA.
-
-
 4. As a man, after descending into a river, a
 turgid water with a rapid current, is borne along
 following the current,—how will he be able to put
 others across ? (318)
 
-5. Even so how will a man, not having understood the Dhamma, and not attending to the ex-
-planation of the learned and not knowing it himself,
+5. Even so how will a man, not having understood the Dhamma, and not attending to the explanation of the learned and not knowing it himself,
 not having overcome doubt, be able to make others
 understand it ? (319)
 
@@ -10495,12 +10059,10 @@ Dhamma, let him not raise any dispute that pollutes the Dhamma, and let him spen
 in (speaking) well-spoken truths?. (326)
 
 5. Having abandoned ridiculous talk, lamentation,
-corruption, deceit, hypocrisy, greediness and haughtiness, cClamour and harshness, depravity and foolish-
-ness, let him live free from infatuation, with a steady
+corruption, deceit, hypocrisy, greediness and haughtiness, cClamour and harshness, depravity and foolishness, let him live free from infatuation, with a steady
 mind, (327)
 
-6. The words, the essence of which is understood, are well spoken, and what is heard, if under-
-stood, contains the essence of meditation; but the
+6. The words, the essence of which is understood, are well spoken, and what is heard, if understood, contains the essence of meditation; but the
 understanding and learning of the man wha is hasty
 and careless, does not increase. (328)
 
@@ -10514,9 +10076,6 @@ Kimsilasutta is ended.
 
 
 1 Comp. Dhp. v. 364.
-
-
-54 KOLAVAGGA.
 
 
 10. U77THANASUTTA.
@@ -10612,9 +10171,6 @@ At one time Bhagavat dwelt at A/avi, in the
 1 Comp. Dhp. v. 185 and v. 375.
 
 
-56 KOLAVAGGA.
-
-
 temple of Aggd/ava. At that time the teacher
 of the venerable Vangisa, the Thera, by name
 Nigrodhakappa, had attained bliss not long before
@@ -10698,9 +10254,6 @@ i i
 
 ’ Parovaran ti Jokuttaralokiyavasena sundarasundaram dare
 santikam va. Commentator.
-
-
-58 KULAVAGGA.
 
 
 water, so I long for thy words; send a shower of
@@ -10790,22 +10343,15 @@ reflect (upon it, and) having received food from
 others does not get intoxicated (with pride), such
 a one will wander rightly in the world. (365)
 
-9. ‘ The Bhikkhu who, after leaving behind covet-
-
-
-ousness and existence, is disgusted with cutting and
+9. ‘ The Bhikkhu who, after leaving behind covetousness and existence, is disgusted with cutting and
 [10] N
-
-
-60 KOLAVAGGA.
 
 
 binding (others), he who has overcome doubt, and
 is without pain, such a one will wander rightly in
 the world. (366)
 
-10. ‘And knowing what becomes him, the Bhikkhu will not harm any one in the world, under-
-standing the Dhamma thoroughly, such a one will
+10. ‘And knowing what becomes him, the Bhikkhu will not harm any one in the world, understanding the Dhamma thoroughly, such a one will
 wander rightly in the world. (367)
 
 11. ‘He to whom there are no affections whatsoever, whose sins are extirpated from the root, he
@@ -10885,9 +10431,6 @@ hast removed the veil (of the world), thou art allseeing, thou shinest spotless 
 N 2
 
 
-62 KOLAVAGGA.
-
-
 4. ‘The king of elephants, Eravava by name,
 hearing that thou wert Gina (the Conqueror), came
 to thy presence, and having conversed with thee
@@ -10963,9 +10506,6 @@ a SAvaka is to act to be a good one; for that complete Bhikkhu-dhamma cannot be 
 who is taken up by (worldly) occupations. (392)
 1 VAdam hi eke pafiseniyanti=virugghanti yugghitukima hutva
 sendya pa/imukham gakkhanta viya hon. Commentator.
-
-
-64 KOLAVAGGA.
 
 
 19. ‘Let him not kill, nor cause to be killed any
@@ -11132,10 +10672,7 @@ from that family I have wandered out, not longing
 for sensual pleasures. (422)
 
 20. ‘Seeing misery in sensual pleasures, and considering the forsaking of the world as happiness,
-I will go and exert myself; in this my mind de-
-
-
-lights.’ (423)
+I will go and exert myself; in this my mind delights.’ (423)
 PabbaggAsutta is ended.
 
 
@@ -11188,8 +10725,7 @@ my blood, while I am exerting myself ? (432)
 
 10. ‘While the blood is drying up, the bile and
 the phlegm are dried up; while the flesh is wasting
-away, the mind gets more tranquil, and my attention, understanding, and meditation get more stead-
-fast®. (433)
+away, the mind gets more tranquil, and my attention, understanding, and meditation get more steadfast®. (433)
 
 11. ‘While I am living thus, after having felt the
 extreme sensations, my mind does not look for
@@ -11331,8 +10867,7 @@ Then the venerable Vangisa, standing before Bhagavat, praised him with appropria
 pain himself, nor hurt others; such words are truly
 well-spoken. (450)
 
-3. ‘Let one speak pleasing words which are received joyfully (by all), and which (saying) he, with-
-out committing sins, speaks what is pleasing to
+3. ‘Let one speak pleasing words which are received joyfully (by all), and which (saying) he, without committing sins, speaks what is pleasing to
 others. (451)
 
 4. ‘ Truth verily is immortal speech, this is a true
@@ -11395,8 +10930,7 @@ about, with my hair cut off, calm, not intermixing
 with people in this world. Thou askest me an
 unseasonable question about (my) family, O Brahmaza !’ (455)
 
-3. Sundarikabhdradvaga: ‘Sir, Brahmazas together with Brahmavzas ask truly, Art thou a Brah-
-maza ?’
+3. Sundarikabhdradvaga: ‘Sir, Brahmazas together with Brahmavzas ask truly, Art thou a Brahmaza ?’
 
 Bhagavat: ‘If thou sayest, I am a Brahmama,
 and callest me no Brahmawza, then I ask thee about
@@ -11411,8 +10945,7 @@ the time of offering, obtains the ear of one or the
 other (god), he will succeed, so I say.’ (457)
 
 5. ‘Surely his offering will bear fruit,—so said
-the Brahmaza,—‘ because we saw such an accomplished man; for by not seeing such as you, some-
-body else will enjoy the oblation.’ (458)
+the Brahmaza,—‘ because we saw such an accomplished man; for by not seeing such as you, somebody else will enjoy the oblation.’ (458)
 
 6. Bhagavat: ‘ Therefore, O Brahmama, as you
 have come here to ask for something, ask ; perhaps
@@ -11482,8 +11015,7 @@ Tathagata is possessed of infinite understanding ;
 undefiled both in this world and in the other, Tath4-
 gata deserves the oblation. (468)
 
-16. ‘He in whom there lives no deceit, no arrogance, he who is free from cupidity, free from selfish-
-ness, free from desire, who has banished anger, who
+16. ‘He in whom there lives no deceit, no arrogance, he who is free from cupidity, free from selfishness, free from desire, who has banished anger, who
 is calm, the Brahmaza who has removed the taint
 of grief, Tathagata deserves the oblation. (469)
 
@@ -11539,8 +11071,7 @@ enlightenment, the highest, the blessed, (for him)
 thus a Yakkha’s purification (takes place) *.’ (478)
 
 26. Sundarikabharadvaga : ‘May my offering be
-a true offering, because I met with such an accomplished one; Brahman is my witness, may Bha-
-gavat accept me, may Bhagavat enjoy my oblation. (479)
+a true offering, because I met with such an accomplished one; Brahman is my witness, may Bhagavat accept me, may Bhagavat enjoy my oblation. (479)
 
 27. Bhagavat: ‘What is obtained by stanzas is
 not to be enjoyed by me, this is not the custom of
@@ -11726,8 +11257,7 @@ lead a religious life, on such in due time people
 should bestow oblations ; let the Brahmaza who has
 good (works) in view, offer '. (493)
 
-8. ‘ Those in whom there lives no deceit, no arroyance, who are free from cupidity, free from selfish-
-ness, free from desire, on such in due time people
+8. ‘ Those in whom there lives no deceit, no arroyance, who are free from cupidity, free from selfishness, free from desire, on such in due time people
 should bestow oblations; let the Brahmaza who has
 good (works) in view, offer. (494)
 
@@ -11785,8 +11315,7 @@ on such in due time people should bestow oblations;
 let the Brahmaza who has good (works) in view,
 offer. (502)
 
-17. ‘He who is accomplished, and delights in meditation, thoughtful, possessed of thorough enlight-
-enment, a refuge for many, on such a one in due
+17. ‘He who is accomplished, and delights in meditation, thoughtful, possessed of thorough enlightenment, a refuge for many, on such a one in due
 time people should bestow oblations ; let the Brahmaza who has good (works) in view, offer. = (503)
 
 18. ‘Certainly my question was not in vain, Bhagavat has told me of those worthy of offerings; for
@@ -11874,8 +11403,7 @@ shouldst live a religious life.’
 Then Sabhiya, the Paribbagaka, having learnt the
 questions from that deity, went to whatever Samamzas
 and Brahmazas there were that had an assembly (of
-Bhikkhus), a crowd (of followers), and were wellknown teachers, famous leaders, considered excel-
-lent by the multitude, as Pdraza-Kassapa, Makkhali-
+Bhikkhus), a crowd (of followers), and were wellknown teachers, famous leaders, considered excellent by the multitude, as Pdraza-Kassapa, Makkhali-
 Gosdéla, Agita-Kesakambali, Pakudha-Kaé##ayana,
 Satzigaya-Bela¢éhiputta, and Nigaztha-NAataputta.
 Those he went to, and after going to them, he
@@ -11901,8 +11429,7 @@ Paribbagaka: ‘This Samaza Gotama has both an
 assembly (of Bhikkhus) and a crowd (of followers),
 and is a well-known teacher, a famous leader, considered excellent by the multitude, surely I think I
 shall go to Samaza Gotama and ask these questions. Then this came to the mind of Sabhiya,
-the Paribbagaka: ‘Whatever Samawas and Brahmamas there are that are decayed, old, aged, ad-
-vanced in years, having reached old age, experienced elders, long ordained, having assemblies (of
+the Paribbagaka: ‘Whatever Samawas and Brahmamas there are that are decayed, old, aged, advanced in years, having reached old age, experienced elders, long ordained, having assemblies (of
 Bhikkhus), crowds (of followers), being teachers well
 known, famous leaders, considered excellent by the
 multitude, as Ptraza-Kassapa, Makkhali-Gosala,
@@ -12296,8 +11823,7 @@ endowed with science and works (vigga#arama), the
 happy, knowing the world, the incomparable, the
 charioteer of men that are to be subdued, the
 master, the enlightened of gods and men, the glorious ; he teaches this world and the world of gods,
-of Maras, of Brahmans, and beings comprising Samazas and Brahmawas, gods and men, having him-
-self known and seen them face to face; he teaches
+of Maras, of Brahmans, and beings comprising Samazas and Brahmawas, gods and men, having himself known and seen them face to face; he teaches
 the Dhamma (which is) good in the beginning, in the
 middle, and in the end, is full of meaning and rich in
 words, quite complete; he teaches a perfectly pure
@@ -12383,8 +11909,7 @@ washing the vessels, some placing waterpots, some
 
 
 ’ Tena kho pana samayena Selo brahmazo Apane pavivasati
-tinnam vedanam paragt) sanighazduke/ubhanam sakkharappabhedinam itihdisapawsamanam padako veyydkarano lokayatamahapuri-
-salakkhanesu anavayo tizi m4zavakasaténi mante vaéeti.
+tinnam vedanam paragt) sanighazduke/ubhanam sakkharappabhedinam itihdisapawsamanam padako veyydkarano lokayatamahapurisalakkhanesu anavayo tizi m4zavakasaténi mante vaéeti.
 
 
 preparing seats, and Keziya, the Gaéila, on the other
@@ -12622,10 +12147,7 @@ while Keziya, the Gadéila, was sitting down apart,
 Bhagavat delighted him with these stanzas :
 
 21. ‘ The principal thing in sacrifice is the sacred
-fire, the principal thing amongst the hymns is the Sa-
-
-
-vitti!, the king is the principal amongst men, and the
+fire, the principal thing amongst the hymns is the Savitti!, the king is the principal amongst men, and the
 sea the principal amongst waters (nadinasm*). (568)
 
 22. ‘Amongst the stars the moon is the principal thing, the sun is the principal thing amongst
@@ -12805,8 +12327,7 @@ translation in Alwis’s Buddhist Nirvaza, p. 103.
 So it was heard by me:
 
 At one time Bhagavat dwelt at [44Aanamkala, in
-the [£4hanamkala forest. At that time many distinguished, wealthy Brahmazas lived. at [&¢4anam-
-kala, as the Brahmaza Kamkin, the Brahmaza
+the [£4hanamkala forest. At that time many distinguished, wealthy Brahmazas lived. at [&¢4anamkala, as the Brahmaza Kamkin, the Brahmaza
 
 [10] Q
 
@@ -12937,10 +12458,7 @@ along on wings and move through the air, the marks
 that constitute species are for them, and (their) species are manifold. (606)
 
 14. ‘As in these species the marks that constitute
-species are abundant, so in men the marks that con-
-
-
-stitute species are not abundant. (607)
+species are abundant, so in men the marks that constitute species are not abundant. (607)
 15. ‘Not as regards their hair, head, ears, eyes,
 mouth, nose, lips, or brows, (608)
 
@@ -12961,8 +12479,7 @@ VASETTHASUTTA. III
 bodies, but amongst men this is not the case, the
 difference amongst men is nominal (only)'. (611)
 
-19. ‘For whoever amongst men lives by cowkeeping,— know this, O Vase¢‘ha,—he is a husband-
-man, not a Brahmamza. (612)
+19. ‘For whoever amongst men lives by cowkeeping,— know this, O Vase¢‘ha,—he is a husbandman, not a Brahmamza. (612)
 
 20. ‘And whoever amongst men lives by different mechanical arts,—know this, O Vase¢‘ha,—
 he is an artisan, not a Brahmaza. (613)
@@ -13023,8 +12540,7 @@ endurance and has for his army this strength, him
 I call a Brahmaza. (623)
 
 31. ‘The man who is free from anger, endowed
-with (holy) works, virtuous, without desire, subdued, and wearing the last body, him I call a Brah-
-mana. (624)
+with (holy) works, virtuous, without desire, subdued, and wearing the last body, him I call a Brahmana. (624)
 
 32. ‘The man who, like water on a lotus leaf, or a
 mustard seed on the point of a needle, does not cling
@@ -13108,8 +12624,7 @@ reappearance of beings, does not cling to (anything),
 is happy (sugata), and enlightened, him I call a
 Brahmamza. (643)
 
-51. ‘The man whose way neither gods nor Gandhabbas nor men know, and whose passions are de-
-stroyed, who is a saint, him I calla Brahmaza. (644)
+51. ‘The man whose way neither gods nor Gandhabbas nor men know, and whose passions are destroyed, who is a saint, him I calla Brahmaza. (644)
 
 52. ‘The man for whom there is nothing, neither
 before nor after nor in the middle, who possesses
@@ -13169,8 +12684,7 @@ overthrown, or reveals what has been hidden, or
 
 tells the way to him who has gone astray, or holds
 out an oil lamp in the dark that those who have eyes
-may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illus-
-trated; we take refuge in the venerable Gotama, in
+may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; we take refuge in the venerable Gotama, in
 the Dhamma, and in the Assembly of Bhikkhus ;
 may the venerable Gotama receive us as followers
 (upasaka), who from this day for life have taken
@@ -13485,14 +12999,12 @@ highly praising Inda, after taking their clothes and
 waving them. (679)
 
 2. Seeing the gods with pleased minds, delighted,
-and showing his respect, he said this on that occasion: ‘Why is the assembly of the gods so exceed-
-ingly pleased, why do they take their clothes and
+and showing his respect, he said this on that occasion: ‘Why is the assembly of the gods so exceedingly pleased, why do they take their clothes and
 wave them ? (680)
 
 3. ‘When there was an encounter with the Asuras,
 a victory for the gods, and the Asuras were defeated,
-then there was not such a rejoicing. What wonderful (thing) have the god: seen that they are so de-
-lighted ? ) (681)
+then there was not such a rejoicing. What wonderful (thing) have the god: seen that they are so delighted ? ) (681)
 
 4. ‘They shout and sing and make music, they
 throw (about their) arms and dance; I ask you, the
@@ -13712,8 +13224,7 @@ sake of the service that is to be carried out by
 Samazas, let him learn, solitariness is called wisdom; alone indeed he will find pleasure. (718)
 
 41. ‘Then he will shine through the ten regions,
-having heard the voice of the wise, of the meditating, of those that have abandoned sensual plea-
-sures, let my adherent then still more devote himself
+having heard the voice of the wise, of the meditating, of those that have abandoned sensual pleasures, let my adherent then still more devote himself
 to modesty and belief. (719)
 
 42. ‘Understand this from the waters in chasms
@@ -13807,8 +13318,7 @@ Dyad in another way,” if, O Bhikkhus, there are
 people that ask so, they shall be told, there is, and
 how there is: “ Whatever pain arises ts all in consequence of the upadhis (elements of existence),”
 this is one consideration, “ but from the complete
-destruction of the upadhis, through absence of pasevam assu vadaniya: yavad eva dvayatanam dhammanam yatha-
-bhitam #aindya ’u, kizka dvayatam vadetha? ‘idam dukkham, ayam
+destruction of the upadhis, through absence of pasevam assu vadaniya: yavad eva dvayatanam dhammanam yathabhitam #aindya ’u, kizka dvayatam vadetha? ‘idam dukkham, ayam
 dukkhasamudayo’ ti ayam ekanupassana, ‘ayam dukkhanirodho,
 ayam dukkhanirodhagamini pa/ipada’ ti ayam dutiyanupassana ;
 cvam sammadvayatanupassino...
@@ -13837,8 +13347,7 @@ origin of pain. (728)
 ‘** Should there be a perfect consideration of the
 Dyad in another way,” if, O Bhikkhus, there are
 people that ask so, they shall be told, there is, and
-how there is : ‘“‘ Whatever pain arises is all in consequence of avigga (ignorance),’ this is one consider-
-ation, ‘but from the complete destruction of avigga,
+how there is : ‘“‘ Whatever pain arises is all in consequence of avigga (ignorance),’ this is one consideration, ‘but from the complete destruction of avigga,
 through absence of passion, there is no origin of pain,”
 this is the second consideration; thus, O Bhikkhus,
 by the Bhikkhu that considers the Dyad duly, that is
@@ -14068,8 +13577,7 @@ him no re-birth. (745, 746)
 ‘“Should thére be a perfect consideration of the
 Dyad in another way,’ if, O Bhikkhus, there are
 people that ask so, they shall be told, there is, and
-how there is: “ Whatever pain arises is all in consequence of the A4haras (food ?),” this is one consi-
-deration, “ but from the complete destruction of the
+how there is: “ Whatever pain arises is all in consequence of the A4haras (food ?),” this is one consideration, “ but from the complete destruction of the
 Aharas, through absence of passion, there is no origin
 of pain,” this is the second consideration; thus, O
 Bhikkhus, by the Bhikkhu that considers the Dyad
@@ -14158,9 +13666,7 @@ Dyad in another way,” if, O Bhikkhus, there are
 people that ask so, they shall be told, there is, and
 how there is: “ The formless (beings), O Bhikkhus,
 are calmer than the rdpas (for ruppa, i. e. form-possessing),” this is one consideration, “cessation is
-calmer than the formless,’ this is another considera-
-
-ion; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent,
+calmer than the formless,’ this is another consideraion; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent,
 resolute, of two fruits one fruit is to be expected :
 in this world perfect knowledge, or, if any of the
 (five) attributes still remain, the state of an Ané-
@@ -14220,8 +13726,7 @@ DVAYATANUPASSANASUTTA. 14I
 
 
 35. ‘What is not perishable, the Nibbana, that
-the noble conceive as true, they verily from the comprehension of truth are free from desire (and) per-
-fectly happy. (758)
+the noble conceive as true, they verily from the comprehension of truth are free from desire (and) perfectly happy. (758)
 
 ‘“ Should there be a perfect consideration of the
 Dyad in another way,” if, O Bhikkhus, there are
@@ -14299,8 +13804,7 @@ IV. AJ7HAKAVAGGA.
 Sensual pleasures are to be avoided.
 
 
-1. If he who desires sensual pleasures is successful, he certainly becomes glad-minded, having ob-
-tained what a mortal wishes for. (766)
+1. If he who desires sensual pleasures is successful, he certainly becomes glad-minded, having obtained what a mortal wishes for. (766)
 
 2. But if those sensual pleasures fail the person
 who desires and wishes (for them), he will suffer,
@@ -14397,8 +13901,7 @@ of philosophy, and is therefore independent.
 
 1. Verily, some wicked-minded people censure,
 and also just-minded people censure, but the Muni
-does not undergo the censure that has arisen; therefore there is not a discontented (khila) Muni any-
-where. (780)
+does not undergo the censure that has arisen; therefore there is not a discontented (khila) Muni anywhere. (780)
 
 2. How can he who is led by his wishes and
 possessed by his inclinations overcome his own
@@ -14534,8 +14037,7 @@ Suddhaé/Aakasutta is ended.
 5. PARAMA7T7HAKASUTTA.
 
 
-One should not give oneself to philosophical disputations ; a Brahmana who does not adopt any system of philosophy, is unchange-
-able, has reached Nibbana.
+One should not give oneself to philosophical disputations ; a Brahmana who does not adopt any system of philosophy, is unchangeable, has reached Nibbana.
 
 
 1. What one person, abiding by the (philosophical) views, saying, ‘This is the most excellent,
@@ -14554,8 +14056,7 @@ regard to what has been seen (or) heard, virtue
 PARAMATTHAKASUTTA. 149
 
 
-and (holy) works, or what has been thought, therefore, having embraced that, he looks upon every-
-thing else as bad. (797)
+and (holy) works, or what has been thought, therefore, having embraced that, he looks upon everything else as bad. (797)
 
 3. The expert call just that a tie dependent
 upon which one looks upon anything else as bad.
@@ -14684,9 +14185,6 @@ call in the world a low, common fellow, like a rolling chariot. (816)
 ? Comp. Suddha/fhakasutta, v. 2.
 
 
-152 ATTH AKAVAGGA.
-
-
 4. ‘What honour and renown he had before, that
 is lost for him; having seen this let him learn to
 give up sexual intercourse. (817)
@@ -14762,8 +14260,7 @@ will laugh and be elated, having won that case as
 he had a mind to. (829)
 
 7. That which is his exaltation will also be the
-field of his defeat, still he talks proudly and arrogantly; seeing this, let no one dispute, for the ex-
-pert do not say that purification (takes place) by
+field of his defeat, still he talks proudly and arrogantly; seeing this, let no one dispute, for the expert do not say that purification (takes place) by
 that '. (830)
 
 8. Asa hero nourished by kingly food goes about
@@ -14800,8 +14297,7 @@ Pastrasutta is ended.
 
 
 A dialogue ‘between MAgandiya and Buddha. The former offers
-Buddha his daughter for a wife, but Buddha refuses her, Magandiya says that purity comes’ from philosophy, Buddha from ‘ in-
-ward peace. The Muni is a confessor of peace, he does not
+Buddha his daughter for a wife, but Buddha refuses her, Magandiya says that purity comes’ from philosophy, Buddha from ‘ inward peace. The Muni is a confessor of peace, he does not
 dispute, he is free from marks.
 
 
@@ -15689,8 +15185,7 @@ houseless subdue these lamentable doubts. (970)
 clothes, let him know moderation in this world for
 
 
-* Damsidhipatanan ti pingalamakkhikana# ka sesamakkhikanaw Aa, sesamakkhiké hi tato adhipatitva khAdanti, tasma adhi-
-pata ti vuksanti. Commentator.
+* Damsidhipatanan ti pingalamakkhikana# ka sesamakkhikanaw Aa, sesamakkhiké hi tato adhipatitva khAdanti, tasma adhipata ti vuksanti. Commentator.
 
 * Manussaphassdnan ti soradiphassinam. Commentator.
 
@@ -15770,8 +15265,7 @@ and with dust on his head. And he going up
 
 ? Akinthaiiia.
 
-° Uggha//apado ti maggakkamanena gha//apddatalo pazhikaya va pavhikam gopphakena va gopphakam gannukena gannu-
-kam Agantvapi gha//apado. Commentator.
+° Uggha//apado ti maggakkamanena gha//apddatalo pazhikaya va pavhikam gopphakena va gopphakam gannukena gannukam Agantvapi gha//apado. Commentator.
 
 
 VATTHUGATHA. |
@@ -15809,9 +15303,6 @@ that, O deity?’ (990)
 16. ‘Formerly went out from Kapilavatthu a ruler
 of the world, an offspring of the Okkaka king, the
 Sakya son, the light-giving ; (991)
-
-
-178 PARAYANAVAGGA.
 
 
 17. ‘Heis, O Brahmama, the perfectly Enlightened
@@ -15901,9 +15392,6 @@ with the perfume of former (good deeds)*, (1009)
 * Pubbavasanavasita.
 
 
-180 PARAYANAVAGGA.
-
-
 ——
 
 
@@ -15911,8 +15399,7 @@ with the perfume of former (good deeds)*, (1009)
 towards the right, all with matted hair and bearing hides, departed with their faces turned to the
 north. (1010)
 
-36. To Pati¢éhana of A/aka first, then to Méhissati, and also to Uggent, Gonaddha, Vedis4, Vana-
-savhaya, (ror1)
+36. To Pati¢éhana of A/aka first, then to Méhissati, and also to Uggent, Gonaddha, Vedis4, Vanasavhaya, (ror1)
 
 37. And also to Kosambf, Saketa, and SAvatthi,
 the most excellent of cities, to Setavya, Kapilavatthu, and the city of Kusinara, (1012)
@@ -15990,9 +15477,6 @@ homage to thy feet, O thou clearly-seeing.’ (1028)
 54. Bhagavat said: ‘Let Bavart, the Brahmamza,
 be glad together with his disciples! Be thou also
 glad, live long, O young man! (1029)
-
-
-182 PARAYANAVAGGA.
 
 
 55. ‘For Bavart and for thee, for all there are all
@@ -16084,9 +15568,6 @@ Tissametteyyamazavapukkfa is ended.
 1 Namaf ka ripa# ka.
 
 
-184 PARAYANAVAGGA.
-
-
 4. PUNNAKAMANAVAPUKKAA.
 
 
@@ -16168,15 +15649,11 @@ stream, birth and old age, and sorrow and lamenta-
 2 Read yass’ iAgitam n’ atthi.
 
 
-186 PARAYANAVAGGA.
-
-
 tion? Explain that thoroughly to me, O Muni, for
 this thing (dhamma) is well known to thee.’ (1051)
 
 5. ‘I will explain the Dhamma to thee, O Mettag(,’—so said Bhagavat ;—‘if a man in the visible
-world, without any traditional instruction, has understood it, and wanders about thoughtful, he may over-
-come desire in the world.’ (1052)
+world, without any traditional instruction, has understood it, and wanders about thoughtful, he may overcome desire in the world.’ (1052)
 
 6. Mettagfi: ‘And I take a delight in that, in the
 most excellent Dhamma, O great Isi, which if a
@@ -16244,8 +15721,7 @@ let one, having listened to my utterance, learn his
 own extinction.’ (1061)
 
 3. Dhotaka: ‘I see in the world of gods and
-men a Braéhmaza wandering about, possessing nothing; therefore I bow down to thee, O thou all-
-seeing one, free me, O Sakka, from doubts.’ (1062)
+men a Braéhmaza wandering about, possessing nothing; therefore I bow down to thee, O thou allseeing one, free me, O Sakka, from doubts.’ (1062)
 
 4. Buddha: ‘I shall not go to free any one in
 the world who is doubtful, O Dhotaka; when thou
@@ -16256,9 +15732,6 @@ this stream.’ (1063)
 1 Attano ragédinam nibbanatthdya adhisiladini sikkheyya.
 Commentator.
 [10] x
-
-
-188 PARAYANAVAGGA.
 
 
 5. Dhotaka: ‘Teach (me), O Brahmamza, having
@@ -16311,8 +15784,7 @@ loath of doubts, thou shalt regard the extinction of
 craving (i.e. Nibbana), both day and night.’ (1069)
 
 3. Upasiva: ‘He whose passion for all sensual
-pleasures has departed, having resorted to nothingness, after leaving everything else, and being deli-
-vered in the highest deliverance by knowledge, will he
+pleasures has departed, having resorted to nothingness, after leaving everything else, and being delivered in the highest deliverance by knowledge, will he
 remain thére without proceeding further?’ (1070)
 
 4. ‘He whose passion for all sensual pleasures
@@ -16423,15 +15895,9 @@ crossed the stream. (108 2)
 Nandamazavapussha is ended.
 
 
-9 HEMAKAMANWAVAPUALK/A.
-
-
 1. ‘Those who before,—so said the venerable
 Hemaka,—‘ explained to me (their doctrine), previously to Gotama’s doctrine, saying, “ So it was, so
 it will be,” all that (was only) oral tradition, all
-
-
-192 PARAYANAVAGGA.
 
 
 that (was only) something that increased (my)
@@ -16521,9 +15987,6 @@ Kappamazavapuksha is ended.
 2 Aki#kanan ti ki#kanapasipakkham, anaddanan ti adanapafsipakkham, ki#kanddanavipasaman ti vuttam hoti. Commentator.
 
 
-194 PARAYANAVAGGA.
-
-
 12. GATUKANNIMANAVAPUKKAZA.
 
 
@@ -16586,8 +16049,7 @@ for whatever they grasp after in the world, just by
 that Mara follows the man. (1102)
 
 4. ‘Therefore, knowing this, let not the thoughtful
-Bhikkhu grasp after anything in all the world, considering as creatures of desire this generation, stick-
-ing fast in the realm of death.’ (1103)
+Bhikkhu grasp after anything in all the world, considering as creatures of desire this generation, sticking fast in the realm of death.’ (1103)
 
 
 Bhadravudhamazavapukkha is ended.
@@ -16607,9 +16069,6 @@ Udaya,’—so said Bhagavat,—‘ and both (kinds of)
 grief, and driving away sloth, and warding off misbehaviour. (1105)
 
 3. ‘The deliverance by knowledge which is purified by equanimity and thoughtfulness and preceded
-
-
-196 PARAYANAVAGGA.
 
 
 ~~
@@ -16699,9 +16158,6 @@ MogharagamamavapussAa is ended.
 ’ Comp. Dhp. v. 170.
 
 
-198 PARAYANAVAGGA.
-
-
 17. PINGIYAMANAVAPUKKAA.
 
 
@@ -16747,8 +16203,7 @@ further shore, and therefore this order of Dhamma
 was called ‘the way to the other shore.’
 
 I, 2. Agita, Tissametteyya, Puzwaka and Mettagi, Dhotaka and Upasiva, Nanda and Hemaka,
-the twd Todeyya and Kappa, and the wise Gatukazzin, Bhadravudha and Udaya, and also the Brah-
-maza Posdala, and the wise Mogharagan, and Pingiya
+the twd Todeyya and Kappa, and the wise Gatukazzin, Bhadravudha and Udaya, and also the Brahmaza Posdala, and the wise Mogharagan, and Pingiya
 the great Isi, (1123, 1124)
 
 3. IUhese went up to Buddha, the Isi of exemplary
@@ -16778,9 +16233,6 @@ the passionless, the desireless lord, for what reason
 should he speak falsely ? (1130)
 
 
-200 PARAYANAVAGGA.
-
-
 9. ‘Well! I will praise the beautiful voice of
 (Buddha), who is without stain and folly, and who
 has left behind arrogance and hypocrisy. (1131)
@@ -16804,8 +16256,7 @@ only something that increased my doubts. (1134)
 that is the high-born, the luminous, Gotama of great
 understanding, Gotama of great wisdom, (1135)
 
-14. ‘Who taught me the Dhamma, the instantaneous, the immediate, the destruction of desire, free-
-dom from distress, whose likeness is nowhere?.’ (1136)
+14. ‘Who taught me the Dhamma, the instantaneous, the immediate, the destruction of desire, freedom from distress, whose likeness is nowhere?.’ (1136)
 
 15. Bavart: ‘Canst thou stay away from him even
 for a moment, O Pingiya, from Gotama of great understanding, from Gotama of great wisdom, (1137)
@@ -16864,9 +16315,6 @@ standing, as it were, before him, he said to the Brahmanza Bavar?:
 with folded hands. Bhagavat, shedding a light, showed himself to
 the Brahmaza, and knowing what was beneficial for both, he said
 this stanza while addressing Pingiya. Commentator.
-
-
-202 PARAVANAVAGGA.
 
 
 so thou shalt let faith deliver thee, and thou shalt
@@ -17880,385 +17328,3 @@ Yoga, attachment, 114.
 Yogakkhema=Nibbana, 68.
 
 Yuga, distance of a plough, 66.
-
-
-ALPHABETS. 209
-
-
-NTAL
-
-
-=
-“
-
-
-TRANSLITERATION OF ORIE
-
-
-seg in: le CA Tao taky betas kc iat (cae (DA bot
-sliced ve ¢ Pp. Cae ag oss fe ieee Fa u, °
-Seb eee at ane Sa Menace ae Grek
-su‘u] ue de © | ow [(aym)jal 2
-
-
-—s
-
--~
-
-Zz
-
-
-—-e’
-he
-~
-
-EE =
-
-=
-
-
-BRD IIT | SSID IL) SSDI
-
-
-~
-
-
-Bsauyys | “masqoH | “quay | “uryssg | aud} = PYOZ =| aPASURS
-
-
-“LHAVHA IV ANVNOISSIN
-
-
-"S SIRENS OLE
--suyendse = ogy
-
-
-ances SPN BT
-vyeudse “OB
-
-
-(O29 ‘so18qe[ed)
-
-
-ev}yBoYlpoul soe]Binjjny
-
-
-‘LSVY AHL JO SMOOGT GAMOVS AHL JO
-SNOILVISNVY], AHL YOA GILIOGY SLAGVHATY WINDING AO NOILVYALIISNVY J
-
-
-°
-
-
-enzo dadse =“ ll
-
-
-SIVONB} SUI] E Ol
-
-
-sijvoneyz rods sees
-
-
-picket bs dd 11? Ra 2! |
-Snzeowy sua, = cl
-
-
-a * slua| 66 8
-
-
-e+ + + gadse sngiidg 2
-
-
-|
-i
-Cer 2 J ek SI[VSt Ny 9 |
-
-
-SIBIBl-OANIANA)
-eujeudse “ =f
-+++ + wpa ¢
-eyendse “ g
-see + sinuay [
-
-
-*soTBAIN}NA
-
-
-Neen eee ee ann
-
-
-‘SLNVNOSNOD
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-oo) co eT ee a la ll ili (Y Zz ere ae ew ee GS SUUILIAIGGSS =. yy -
-
-Te a IE SVS] OM) BERIT Pathe ® Ah oe Ae) pe Tet 4 2 ge
-4 ¢) i ¥ 5 a 4°. a ee 6 « & 0 je SiAw* 03° = ee s1Ud] 66 cg
-
-eee Q oe eee al Sat ll Meal ies” taal (/) 8 ax ahd seis oeoereee * g sadse 66 $e
-
-
-re | aha | eS aR RL 8 DEN ORD SW eae arr
-
-SEE) PPE ACen Pere she: eo 6 er ea 1 458 4)1 “Scent! * * © * ° 2 som “ Zs
-. wearer | Tein Sart wreniet brenteg th ratrenenie eyo eet es 1 i | aac Bh “ss 1g
-
-I C c C VG ee ee » eo 8 @ ef + wis I “ec ee ee se SITBIOAIMIIG OF
-
-u C rea} rea) ( f Lb py ace? eee es u oF 8 Sones leva maint oe RE Ce
-
-“ee eee ¢ c a? 9 lid eo? 6” a ee SAO LE A052 59 Se ee sé 82
-ee ee ee yp RR oc 242
-
-
-R
-) ® @ a 6 «ee p eo. 8 ©. €..€0 le 1.0 1058 eee BIpsyw 92
-a ILL ate? © we @ 8) Oat se eke Ke ie e}BlIGisse “ee CZ
-
-
-.
-«
-e
--
-.
-co
-.
-oa
-.
-.
-.
-°
-.
-
-
-eee S hb ae: es 8 tis 1 ve 4} ie cee 6 * + + nyesidse 6é Zz
-od » . +e se" * aes €Z
-
-
-o
-*soleju0g
-
-
-snqeliqisss Jodse "
-
-
-“ous
-**** gadse snziidg 6]
-
-
-eererte @epee SIL BOOALMIIS SI
-
-
-SED | SIDI} BDI eal
-maaqeH | ‘2iqesy | “wersaeg | “Ao[yYeg “pez WS ee i is ’
-‘LUGVHI1V AUVNOISSIN SLUVROGNOD
-
-
-2k]
-
-
-FOR THE SACRED BOOKS OF THE EAST,
-
-
-aD ae
-4 Bh
-
-
-a h
-¢
-
-
-eee ° BdIEst A 6S
-°° * *BiBisnUYy gg
-* gaiter Lg
-* aadse snquidg 9¢
-
-
-vycsidse ty cs
-
-
-SI[VIOAIUIBG FG
-+ Socces SPER C9
-* * *gulssinuat ZS
-Byeridse he ey 6
-+ */ 2 8h* IDOE (eG
-vyeadse =“
-ye se SUay gp
-
-
-"SOTBIQB'T
-
-co ees eee egg 6 Lb
-sees eee e gadse snquids of
-+ sete BOrIORIp si CP
-=e; ¥ 5° chee OEE ase bb
-ss ees seo © SITBDOAIUAS fp
-vee eee eee oe sreseN ZF
-Boer Ok saa ee ac Ee
-Sees eee ee 8's Sinan OF
-a a8 08 Oe Se, PY One
-
-
-(‘ong
-EBJBOYIpou soTRyued
-
-
-eeceee SsInuay, 8¢é
-
-
-‘sopenSutt)
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-asomiys
-
-
-*M31Q9 Hf
-
-
-‘1qQe4y
-
-
-"QU OF
-
-
-"uy |
-
-
-WINNT
-
-
-ee
-Or
-So
-@3
-
-
-*pusz
-
-
-dike
-
-
-- BOB rer! PP i 6
-
-
-Waysures
-
-
-‘SStID I
-
-
-eeee a See I
-ee @ @ er @ G
-
-
-ar Sk eS ee
-se eel} oes [(ng)na
-ny
-(nz) 9
-Phar var var Paar var fs)
-anale.@ ial ein (ug) to
-(12) 19
-ee
-(18) 9
-
-
-e
-°
-«
-—
-~-
-~-
-S
-—
-
-
-.
-
-.
-_—
-
-°o
-al
-
-
-WT tat iat ee ?)
-seer @ (n) 0
-wer eS eS & © u
-mw OO. ce eee ju
-at ee . 8 tw
-
-
-SSHID IT! “SS¥ID I
-
-
-{assem sasutesnene cn pemniasiasmnsinnssemasseesed
-“LAUVHUIVY AYVNUISSIN
-
-
-* * UqQovds SI[BIVIVqT CZ
-sees ss BLOB SITBININD FZ
-
-
-“e
-
-
-SI[Viqel-o1nzjnd snZuoyj;ydig
-ee ¢ BZuoy ”
-
-
-* ¢ * * SLAB SIPBIQR]-O1N4yN)
-
-
-te
-
-
-sipezejed-ounyynd snZuoyjzydigq
-‘°° B8u0] “
-
-
-SIAgUg sITezeyed-o1n44yn4yy
-
-
-* eduo, “
-* SfAsdq Si[tiqy]
-vZuol -
-staaaq sipenZury
-
-
-‘tum
-* * SLAdaq SITezUIG
-* * eZuoy %
-* * SlAdIQ SITezE[Ug
-* eB3uo} :
-* slaaig sipeinyynsy
-* sqeiqey = “*
-
-
-sipeyeped-odudze’y]
-
-
-oO (S'S | See eee ee SpespNa wy
-
-
-‘STAZMOA
-
-
-£6
-
-
-1 ISBN 978-81-208-0111-0
-MOTILAL BANARSIDASS
-
-
-% www.motilalbanarsidass.com ™ info@mlbd.co.in
-© @ motilalbanarsidass w @mlbdpublishers
-Reference Work = 750 788120"80
-
-

@@ -1,284 +1,4 @@
 # Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
-
-Secs sar ee
-
-
-epee eee - =
-
-
-Se
-
-
-Beseere ss =
-
-
-Se tt
-
-
-ah 7
-—
-5 ~~
-ae
-, —<_-
-" "<
-. -
-Li
-* -
-7,
-
-
-ans
-
-
-in 2023 with funding from
-Kahle/Austin Foundation
-
-
-THE
-
-
-SACRED BOOKS OF THE BAST
-
-
-TRANSLATED
-
-
-By VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-
-F. MAX MULLER
-
-
-VOL. XLIX
-
-
-SACRED BOOKS OF THE EAST SERIES
-
-
-IN 50 VOLUMES
-
-
-VoLs.
-
-
-1,15. THE UPANISADS : in 2 vols. 1 F. Max Miller.
-
-2,14. THE SACRED LAWS OF THE ARYAS : in 2 vols. : Georg Biihler.
-
-3, 16, 27, 28, 39,40. THE SACRED BOOKS OF CHINA :: in 6 vols. :
-James Legge.
-
-
-4, 23.31. THE ZEND-AVESTA : in 3 vols. : James Darmesteter &
-L. H. Mills.
-
-5, 18, 24, 37, 47. PAHLAVI TEXTS : in 5 vols. : E. W. West.
-
-6,9. THE QUR’AN : in 2 vols. : E. H. Palmer.
-
-7. THE INSTITUTES OF VISNU : Julius Jolly.
-
-8. THE BHAGAVADGITA with the Sanatsujatiya and the Anugit4 :
-Kashinath Trimbak Telang.
-
-10. THE DHAMMAPADA : F. Max Miiller ; SUTTA-NIPATA 2 V.
-Fausbdll.
-
-11. BUDDHIST SUTTAS : T. W. Rhys Davids.
-
-12, 26, 41, 43, 44. THE SATAPATHA-BRAHMANA : in 5 vols. t Julius
-Eggeling.
-
-13, 17,20. VINAYA TEXTS : in 3 vols. : T. W. Rhys Davids & Hermann
-Oldenberg.
-
-19. THE FO-SHO-HING-TSAN-KING : Samuel Beal.
-
-a1. THE SADDHARMA-PUNDARIKA or The Lotus of the True Law:
-H. Kern.
-
-22,45. JAINA SOTRAS : in 2 vols. : Hermann Jacobi.
-
-25. MANU : Georg Biihler.
-
-29,30. THE GRIHYA-SUTRAS : in 2 vols. : Hermann Oldenberg &
-F. Max Miiller.
-
-32, 46. VEDIC HYMNS : in 2 vols. : F. Max Muller & H. Oldenberg.
-
-33. THE MINOR LAW-BOOKS : Julius Jolly.
-
-
-34, 38. THE VEDANTA-SOTRAS : in 2 vols. : with Sankaracarya’s
-Commentary : G. Thibaut.
-
-
-35,36. THE QUESTIONS OF KING MILINDA : in 2 vols. : T. W.
-Rhys Davids.
-
-
-42. HYMNS OF THE ATHARVA-VEDA : M. Bloomfield.
-48. THE VEDANTA-SUTRAS with Ram&nuja’s Sribhasya : G. Thibaut.
-
-
-49. BUDDHIST MAHAYANA TEXTS : E. B. Cowell, F. Max Miller
-& J. Takakusu.
-
-
-50. INDEX: M. Winternitz,
-
-
-BUDDHIST MAHAYANA TEXTS
-
-
-PART I
-THE BUDDHA-CARITA OF ASVAGHOSHA
-
-
-TRANSLATED BY
-E. B. COWELL
-
-
-PART II
-THE LARGER SUKHAVATI-VYUHA
-THE SMALLER SUKHAVATI-VYUHA
-THE VAJRACCHEDIKA
-THE LARGER PRAJNA-PARAMITA-HRDAYA-SUTRA
-
-
-THE SMALLER PRAJNA-PARAMITA-HRDAYA-SUTRA
-TRANSLATED BY
-F. MAX MULLER
-THE AMITAYUR-DHYANA-SUTRA
-
-
-TRANSLATED BY
-J. TAKAKUSU
-
-
-MOTILAL BANARSIDASS
-
-
-DELHI :: VARANASI :: PATNA
-
-
-145678
-
-
-© MOTILAL BANARSIDASS
-Bungalow Road, Jawahar Nagar, Delhi-7.
-Chowk, Varanasi (U.P.)
-Ashok Raj Path, Patna-4 (Bihar)
-
-
-UNESCO COLLECTION OF REPRESENTATIVE WORKS—INDIAN SERIES
-
-
-This Book has béen accepted in the Indian Translation Series
-of the UNESCO collection of Representative Works, jointly
-sponsored by the United Nations Educational, Scientific and
-Cultural Organization (UNESCO) and the Government of India.
-
-
-First published by the Oxford University Press, 1894
-Reprinted by Motilal Banarsidass, 1965
-Reprinted by Motilal Banarsidass, 1968
-
-
-PRINTED IN INDIA BY SHANTILAL JAIN AT SHRI JAINENDRA PRESS, BUNGALOW
-ROAD, JAWAHARNAGAR, DELHI-7 AND PUBLISHED BY SUNDARLAL JAIN,
-MOTILAL BANARSIDASS, BUNGALOW ROAD, JAWAHARNAGAR, DELHI-7.
-
-
-SA 66-666);
-
-
-RAsSHTRAPATI BHAVAN,
-New DELHI-4
-June 10, 1962
-
-
-I am very glad to know that the Sacred
-Books of the East, published years ago by
-the Clarendon Press, Oxford, which have
-been out-of-print for a number of years,
-will now be available to all students of
-religion and_ philosophy. The enterprise
-of the publishers is commendable and I
-hope the books will be widely read.
-
-
-S. RADHAKRISHNAN.
-
-
-PREFATORY NOTE TO THE NEW EDITION
-
-
-Since 1948 the United Nations Educational, Scientific
-and Cultural Organization (UNESCO), upon the recommendation of the General Assembly of the United Nations,
-has been concerned with facilitating the translation of the
-works most representative of the culture of certain of its
-Member States, and, in particular, those of Asia.
-
-
-One of the major difficulties confronting this programme
-is the lack of translators having both the qualifications and
-the time to undertake translations of the many outstanding
-books meriting publication. To help overcome this difficulty
-in part, UNESCO’s advisers in this field (a panel of experts
-convened every other year by the International Council for
-Philosophy and Humanistic Studies), have recommended that
-many worthwhile translations published during the 19th century,
-and now impossible to find except in a limited number of
-libraries, should be brought back into print in low-priced
-editions, for the use of students and of the general public. The
-experts also pointed out that in certain cases, even though
-there might be in existence more recent and more accurate
-translations endowed with a more modern apparatus of scholarship, a number of pioneer works of the greatest value and
-interest to students of Eastern religions also merited republication.
-
-
-This point of view was warmly endorsed by the Indian
-National Academy of Letters (Sahitya Akademi), and the
-Indian National Commission for UNESCO.
-
-
-It is in the spirit of these recommendations that this
-work from the famous series ‘‘Sacred Books of the East’ is
-now once again being made available to the general public
-as part of the UNESCO Collection of Representative Works.
-
-
-PUBLISHER’S NOTE
-
-
-First, the man distinguished between eternal and perishable. Later he discovered within himself the germ of the
-Eternal. This discovery was an epoch in the history of the
-human mind and the Last was the first to discover it.
-
-
-To watch in the Sacred Books of the East the dawn of
-this religious consciousness of man, must always remain one
-of the most inspiring and hallowing sights in the whole history
-of the world. In order to have a solid foundation for a comparative study of the Religions of the East, we must have before
-all things, complete and thoroughly faithful translation of their
-Sacred Books in which some of the ancient sayings were preserved because they were so true and so striking that they
-could not be forgotten. They contained eternal truths, expressed for the first time in human language.
-
-
-With profoundest reverence for Dr. §S. Radhakrishnan,
-President of India, who inspired us for the task; our deep
-sense of gratitude for Dr. C. D. Deshmukh & Dr. D. S.
-Kothari, for encouraging assistance; esteemed appreciation of
-UNESCO for the warm endorsement of the cause; and finally
-with indebtedness to Dr. H. Rau, Director, Max Miiller
-Bhawan, New Delhi, in procuring us the texts of the Series
-for reprint, we humbly conclude.
-
-
 CONTENTS OF THE TWO PARTS.
 
 
@@ -383,8 +103,7 @@ meaning in a few words*.” A solitary stanza (VIII, 13) is
 xX THE BUDDHA-KARITA OF ASVAGHOSHA.
 
 
-quoted from the Buddha-arita in Rayamukuféa’s commentary on the Amarakosha I, 1. 1, 2, and also by Uggvala-
-datta in his commentary on the Uvddi-sdtras I, 156; and
+quoted from the Buddha-arita in Rayamukuféa’s commentary on the Amarakosha I, 1. 1, 2, and also by Uggvaladatta in his commentary on the Uvddi-sdtras I, 156; and
 five stanzas are quoted as from Asvaghosha in Vallabhadeva’s Subhashitavali, which bear a great resemblance to
 his style, though they are not found in the extant portion
 of this poem 1.
@@ -1212,8 +931,7 @@ stages of contemplation, my life is only a failure;
 since I have not heard his Law, I count even dwelling in the highest heaven a misfortune.’
 
 83. Having heard these words, the king with his
-queen and his friends abandoned sorrow and rejoiced;. thinking, ‘such is. this son of mine, he con-
-sidered that his excellence was his own.
+queen and his friends abandoned sorrow and rejoiced;. thinking, ‘such is. this son of mine, he considered that his excellence was his own.
 
 84. But he let his heart be influenced by the
 thought, ‘he will travel by the noble path,—he was
@@ -3043,9 +2761,6 @@ seems to be compared io the duck standing on the pow: and
 bending its stalk.
 
 
-53 THE BUDDHA-KARITA OF ASVAGIIOSHA.
-
-
 naturally self-possessed and endued with all graces of
 person, breathed violently as they lay and yawned
 with their arms distorted and tossed about.
@@ -3305,9 +3020,6 @@ bhavati,—this seems the meaning of the Tibetan. Or we might
 read ganyo bhavati.
 
 * Anrisamsa (for 4nrisamsya), see Pasini V, 1, 130 gana.
-
-
-64 THE BUDDHA-XARITA OF ASVAGHOSHA.
 
 
 16. ‘“Do not think of mourning for me who am
@@ -3833,9 +3545,6 @@ towards the south could not advance one single step.
 42. ‘ Hast thou seen in this sacred grove one who
 
 
-76 = THE BUDDHA-KARITA OF ASVAGHOSHA.
-
-
 neglects all ceremonies or who follows confused
 ceremonies or an outcast or one impure, that thou
 dost not desire to dwell here? Speak it out, and
@@ -4003,8 +3712,7 @@ is the king’s son, the glory of his race and kingdom?
 he has been stolen away by thee.’
 
 10. Then he said to those faithful ones, ‘I have
-not left the king’s son; but by him in the uninhabited forest I weeping and the dress of a house-
-holder were abandoned together,’
+not left the king’s son; but by him in the uninhabited forest I weeping and the dress of a householder were abandoned together,’
 
 11. Having heard these words of his those
 crowds adopted a most difficult resolve; they did
@@ -4617,10 +4325,7 @@ whose garlands were entangled with bracelets, and
 who lay cradled in the lap of Fortune.
 
 20. ‘“Bali and Vagrabahu, the two younger
-brothers of Dhruva, Vaibhraga, Ashadha, and Amti-
-
-
-jbyunh-var .gyur-var don-ni ¢es-pao, ‘I know thy purpose which
+brothers of Dhruva, Vaibhraga, Ashadha, and Amtijbyunh-var .gyur-var don-ni ¢es-pao, ‘I know thy purpose which
 is about to arise (or which has arisen) in thy mind.’ Can they
 have read bhavinam or bhavitam? H.W.]
 
@@ -4669,8 +4374,7 @@ MOF 1, 673 1X, ‘60.
 old kings would be a possible reading. Senagit’s son is praised for
 his philosophical depth in Mahabh. XII, 6524, &c.; he is there
 called Medhavin. [The Tibetan has brtan-pai (dhruva) nu
-vo, ‘the firm one’s younger brother (?);’ it also has .gro dan ljoncgin-can for pakadruma, ‘having a tree of—?’ It takes senagi-
-taska ragfah as acc. plural. H.W.]
+vo, ‘the firm one’s younger brother (?);’ it also has .gro dan ljoncgin-can for pakadruma, ‘having a tree of—?’ It takes senagitaska ragfah as acc. plural. H.W.]
 
 * Ubhespi, although with pragrzhya e.
 
@@ -5275,9 +4979,6 @@ power of the senses.
 ' Vimarsayanti?
 
 
-1 @ fe) THE BUDDHA-KARITA OF ASVAGHOSHA.
-
-
 Sacrifices,—this is thy family’s immemorial custom,
 —climbing to highest heaven by sacrifices, even
 Indra, the lord of the winds, went thus to highest
@@ -5360,8 +5061,7 @@ more when they take up their abode in the soul.
 world of mortals; he who is athirst is never satisfied with pleasures, as the fire, the friend of the
 wind, with fuel.
 
-11. ‘There is no calamity in the world like pleasures,—people are devoted to them through delu-
-sion; when he once knows the truth and so fears
+11. ‘There is no calamity in the world like pleasures,—people are devoted to them through delusion; when he once knows the truth and so fears
 evil, what wise man would of his own choice desire
 evil ?
 
@@ -5599,9 +5299,6 @@ site hy asukh4ya gharme.
 
 
 .
-
-
-118 THE BUDDHA-KARITA OF ASVAGHOSHA. =
 
 
 as gain and loss and the rest, are inseparably connected with everything in this-‘world,—therefore no
@@ -5922,8 +5619,7 @@ name kshetragéa, from its knowledge of this “field”
 (kshetra or the body) ; and those who investigate
 the soul call the soul kshetragza.
 
-21. ‘Kapila with his disciple became the illuminated,—such is the tradition; and he, as the illu-
-minated, with his son is now called here Pragapati.
+21. ‘Kapila with his disciple became the illuminated,—such is the tradition; and he, as the illuminated, with his son is now called here Pragapati.
 
 22. ‘That which is born and grows old and is
 bound and dies,—is to be known as “the manifested,”
@@ -5935,8 +5631,7 @@ actions, and desire are to be known as the causes of
 mundane existence; he who abides in the midst of
 this triad does not attain to the truth of things,—.
 
-24. ‘From mistake *, egoism, confusion, fluctuation, indiscrimination, false means, inordinate attach-
-ment, and gravitation.
+24. ‘From mistake *, egoism, confusion, fluctuation, indiscrimination, false means, inordinate attachment, and gravitation.
 
 25. ‘Now “mistake” acts in a contrary ‘manner,
 it does wrongly what it should do, and what it should
@@ -6353,8 +6048,7 @@ supreme calm, undecaying, immortal state, which
 is so hard to be reached.’
 
 104. Having thus resolved, ‘this means is based
-upon eating food, the wise seer of unbounded wisdom, having made up his mind to accept the con-
-tinuance of life,
+upon eating food, the wise seer of unbounded wisdom, having made up his mind to accept the continuance of life,
 
 105. And having bathed, thin as he was, slowly
 
@@ -6395,8 +6089,7 @@ the five mendicants left him, as the five elements
 leave the wise soul when it is liberated.
 
 112. Accompanied only by his own resolve,
-having fixed his mind on the attainment of perfect knowledge, he went to the root of an As-
-vattha tree’, where the surface of the ground was
+having fixed his mind on the attainment of perfect knowledge, he went to the root of an Asvattha tree’, where the surface of the ground was
 
 
 covered with young grass.
@@ -6492,8 +6185,7 @@ root of the Asvattha tree with his children, he
 the great disturber of the minds of living beings.
 
 8. Having fixed his left hand on the end of the
-barb and playing with the arrow, Mara thus addressed the calm seer as he sat on his seat, pre-
-paring to cross to the further side of the ocean of
+barb and playing with the arrow, Mara thus addressed the calm seer as he sat on his seat, preparing to cross to the further side of the ocean of
 existence :
 
 9. ‘Up, up, O thou Kshatriya, afraid of death!
@@ -6565,9 +6257,6 @@ swords in their hands;
 
 
 1 See ver. 3. * Umi.
-
-
-140 THE BUDDHA-XARITA OF ASVAGHOSHA.
 
 
 and camels, of tigers, bears, lions, and elephants,—
@@ -7525,9 +7214,6 @@ religious mendicants, we are come to thy one refuge.
 (43) M
 
 
-162 THE BUDDHA-XARITA OF ASVAGHOSHA.
-
-
 25. ‘Having heard the fame of thy achievements,
 we, the daughters of Namuéi, have come from the
 golden city, abandoning the life of a household.
@@ -7895,9 +7581,6 @@ right foot is bent between the left foot and thigh.
 5 Query Varan4, one of the rivers from which Benares is said to
 derive its name,—or is it a village near Vardmasi, the Andla of the
 Lalitav. p. 528? .
-
-
-170 THE BUDDUA-KARITA OF ASVAGHOSHA.
 
 
 of a tree and there he established a poor Brahman named Nandin in sacred knowledge.
@@ -8444,8 +8127,7 @@ his control, therefore is he called the lord of Law.
 teaches unnumbered beings as they become fit to
 be taught.
 
-66. ‘He has reached the furthest limit of instruction, therefore is he called Vinayaka, from his point-
-ing out the best of good paths to beings who have
+66. ‘He has reached the furthest limit of instruction, therefore is he called Vinayaka, from his pointing out the best of good paths to beings who have
 lost their way.
 
 67. ‘He has reached the furthest limit of good
@@ -8494,8 +8176,7 @@ Dharma, the ruler, the monarch’ of all worlds, the
 sovereign,
 
 76. ‘The lord of all wisdom, the wise, the
-destroyer of the pride of all disputers, the omniscient, the Arhat, possessed of the perfect know-
-ledge, the great Buddha, the lord of saints ;
+destroyer of the pride of all disputers, the omniscient, the Arhat, possessed of the perfect knowledge, the great Buddha, the lord of saints ;
 
 77. ‘The victorious triumphant overthrower of
 the insolence and pride of the evil Mara, the perfect
@@ -8528,11 +8209,7 @@ shows the way to Nirvaza,
 * Query sadvrztti for sam¥ *t*4~
 
 
-184 THE BUDDHA-KARITA OF ASVAGHOSBA.
-
-
-82. ‘The Tathagata, without stain, without attachment, without uncertainty—This is the com-
-pendious declaration in the turning of the wheel of
+82. ‘The Tathagata, without stain, without attachment, without uncertainty—This is the compendious declaration in the turning of the wheel of
 the Law.
 
 83. ‘A concise manifestation of a Tathagata’s
@@ -8621,9 +8298,6 @@ Brahman’s”, and a loud voice with a lion’s sound.
 * Or ‘having a voice of pure spiritual an
 
 
-186 THE BUDDHA-KARITA OF ASVAGIIOSIIA.
-
-
 obtain these eight excellences of speech, who utters
 applause to one who proclaims the good Law.
 
@@ -8654,8 +8328,7 @@ of the Law in his mind, sets it going around him,
 shall obtain a complete supply for liberality for the
 good of the world,
 
-106. ‘Next, a complete supply of virtuous dispositions, a most excellent supply of sacred know-
-ledge, a supply of perfect calmness, and that which
+106. ‘Next, a complete supply of virtuous dispositions, a most excellent supply of sacred knowledge, a supply of perfect calmness, and that which
 is called spiritual insight,
 
 107. ‘A supply of the merit caused by the good
@@ -8752,8 +8425,7 @@ them always with faith; from that comes this preeminent merit, as is declared by
 Buddha, they shall become themselves Pratyeka-
 Buddhas; therefore let every one worship them.
 
-125. ‘There is pre-eminent merit from the worship of one Bodhisattva, and they shall all them-
-selves become Bodhisattvas, let every one worship
+125. ‘There is pre-eminent merit from the worship of one Bodhisattva, and they shall all themselves become Bodhisattvas, let every one worship
 them ;
 
 126. ‘Therefore there is pre-eminent merit from
@@ -8819,8 +8491,7 @@ and the mendicants to the number of thirty, were
 rendered resplendent by the chief of saints; Kasika
 the harlot of Kasi went to the heaven of the gods,
 after she had worshipped the Gina and attached her
-sons to the service of the glorious one; the conqueror of the world then made thirty rejoicing off-
-ciating priests of Kasi his disciples, initiating them
+sons to the service of the glorious one; the conqueror of the world then made thirty rejoicing offciating priests of Kasi his disciples, initiating them
 in the course of perfect wisdom; and the son of
 Maitrayazi*and Maitra, the preceptor of hosts of the
 twice-born, named Pirza, obtained true wisdom from
@@ -9812,9 +9483,6 @@ X, 11; XII, 43; XV, 44, 85,
 88; XVII, 1, 24.
 
 
-206 THE BUDDHA-XARITA OF ASVAGHOSHA.
-
-
 Samtanu, XIII, 12.
 Samta, IV, 19.
 Saliputra, XVII, rr.
@@ -9907,7 +9575,6 @@ Hari (seé Vishnu), XV, 103.
 
 
 Himavat, I, 20; II,
-453 VIII, 36; I
 13.
 
 
@@ -10240,8 +9907,7 @@ what he is sceing or thinking. Thereupon Buddha relates’
 how there was a line of eighty-one Tathagatas or Buddhas
 beginning with Dipankara and ending with Lokesvararaga.
 During the period of this Tathagata Lokesvararaga,
-a Bhikshu or Buddhist mendicant of the name of Dharméakara formed the intention of becoming‘a Buddha. He there-
-fore went to the Tathagata Lokesvararaga, praised him in
+a Bhikshu or Buddhist mendicant of the name of Dharméakara formed the intention of becoming‘a Buddha. He therefore went to the Tathagata Lokesvararaga, praised him in
 several verses, and then asked him to become his teacher
 and to describe to him what a Buddha and a Buddha country
 ought to be. After having received instruction, Dharmakara comprehended all the best qualities of all the Buddha
@@ -10589,11 +10255,9 @@ organs of touch), 6. Manovig#ana (thinking operations),
 in this operation ; hence its name, meaning receptacle).
 
 ‘According to the former division, the various phenomena which appear as subjects and objects are divided into
-two kinds:—the perceptible and knowable, the imperceptible and unknowable. The imperceptible and unknow-
-able phenomena are called “ Gosshiki,” while the perceptible
+two kinds:—the perceptible and knowable, the imperceptible and unknowable. The imperceptible and unknowable phenomena are called “ Gosshiki,” while the perceptible
 and knowable phenomena are called “ Fumbetsujishiki.”
-Now what are the imperceptible and unknowable phenomena? Through the influence of habitual delusions, bound-
-less worlds, innumerable varieties of things spring up in the
+Now what are the imperceptible and unknowable phenomena? Through the influence of habitual delusions, boundless worlds, innumerable varieties of things spring up in the
 mind. This boundless universe and these subtile ideas are
 not perceptible and knowable; only Bodhisattvas believe,
 understand, and become perfectly convinced of these
@@ -10981,8 +10645,7 @@ good separate copy.
 
 No. 27; for comparison of
 the five existing texts (out of
-twelve) see Anecdota Oxoniensia, vol.i, part ii, Introduc-
-tion, vii seq.
+twelve) see Anecdota Oxoniensia, vol.i, part ii, Introduction, vii seq.
 
 
 No. 200; another of the
@@ -11249,9 +10912,6 @@ Gridhrakii/a, with a large assembly of Bhikshus,
 [49] *B
 
 
-2 DESCRIPTION OF SUKHAvaTI, $1.
-
-
 with thirty-two thousands of Bhikshus, all holy
 (arhat), free from frailties and cares, who had performed their religious duties, whose thoughts had
 been thoroughly freed through perfect knowledge,
@@ -11261,10 +10921,8 @@ had conquered, who had achieved the highest selfrestraint, whose thoughts and wh
 were unfettered, Mahdnagas (great heroes), possessed
 of the six kinds of knowledge, self-controlled, meditating on the eight kinds of salvation, possessed of the
 powers, wise in wisdom, elders, great disciples, viz.
-1. Ag#Atakaundinya, 2. Asvagit, 3. Vashpa, 4. Mahandman, 5. Bhadragit, 6. Yasodeva, 7. Vimala, 8. Suba-
-hu, 9. Parza Maitrayaziputra, 10. Uruvilv4-kasyapa,
-11. Nadi-kasyapa, 12. Gaya-kasyapa, 13. Kumé@ra-kasyapa, 14. Maha-kasyapa, 15. Sdariputra?, 16. Maha-
-maudgalydyana, 17. Mahakaush¢Zilya, 18. Mahakaphila, 19. Mahaéunda, 20. Aniruddha 3, 21, Nandika,
+1. Ag#Atakaundinya, 2. Asvagit, 3. Vashpa, 4. Mahandman, 5. Bhadragit, 6. Yasodeva, 7. Vimala, 8. Subahu, 9. Parza Maitrayaziputra, 10. Uruvilv4-kasyapa,
+11. Nadi-kasyapa, 12. Gaya-kasyapa, 13. Kumé@ra-kasyapa, 14. Maha-kasyapa, 15. Sdariputra?, 16. Mahamaudgalydyana, 17. Mahakaush¢Zilya, 18. Mahakaphila, 19. Mahaéunda, 20. Aniruddha 3, 21, Nandika,
 22. Kampila‘, 23. Subhati, 24. Revata, 25. Khadiravanika °, 26. Vakula, 27. Svagata, 28. Amoghardaga,
 29. Pardyazika, 30. Patka, 31. Kullapatka, 32. Nanda,
 33. Rahula, and 34. the blessed Ananda,—with these
@@ -11289,8 +10947,7 @@ Mahavagga X, 4, 2.
 
 § 2. Then the blessed Ananda, having risen from
 his seat, having put his cloak on one shoulder, and
-knelt on the earth with his right knee, making obeisance with folded hands in the direction of the Bha-
-gavat, spoke thus to the Bhagavat: ‘ Thy organs of
+knelt on the earth with his right knee, making obeisance with folded hands in the direction of the Bhagavat, spoke thus to the Bhagavat: ‘ Thy organs of
 sense, O Bhagavat, are serene, the colour of thy skin
 is clear, the colour of thy face bright and yellowish.
 As an autumn cloud is pale, clear, bright and-yellowish, thus the organs of sense of the Bhagavat
@@ -11403,9 +11060,6 @@ explained as a million, koff as ten millions.
 5 Deep meditation.
 
 
-6 DESCRIPTION OF SUKHAvATH, § 3.
-
-
 ‘Yes, O Bhagavat,’ so did the blessed Ananda
 answer the Bhagavat.
 
@@ -11416,26 +11070,21 @@ before now,—at that time, and at that moment, there
 arose in the world a holy and fully enlightened
 Tathagata called 1. Dipankara. Following after
 Dipankara, O Ananda, there was a Tathagata
-2. Pratapavat, and after him, 3. Prabhakara, 4. Kandanagandha, 5. Sumerukalpa, 6. Xandana, 7. Vima-
-l4nana, 8. Anupalipta, 9. Vimalaprabha, 10. Nagé-
+2. Pratapavat, and after him, 3. Prabhakara, 4. Kandanagandha, 5. Sumerukalpa, 6. Xandana, 7. Vimal4nana, 8. Anupalipta, 9. Vimalaprabha, 10. Nagé-
 bhibha, 11. Sfryodana, 12. Giriragaghosha, 13.
 Merukfia, 14. Suvarzaprabha, 15. Gyotishprabha,
-16, Vaidiryanirbhasa, 17. Brahmaghosha, 18. Kandabhibhd, 19. Taryaghosha, 20. Muktakusumapratiman-
-ditaprabha, 21. Sriki¢fa, 22. Sagaravarabuddhivikriditabhig#a, 23. Varaprabha, 24. Mahagandhardaganir-
-bh4sa, 25. Vyapagatakhilamalapratighosha, 26. Sdrakita, 27. Ramazgaha, 28. Mahaguvadharabuddhi-
-praptabhig#a, 29. Kandrasiryagihmikarama, 30. Uttaptavaiddryanirbhasa, 31. Aittadh4rabuddhisanku-
+16, Vaidiryanirbhasa, 17. Brahmaghosha, 18. Kandabhibhd, 19. Taryaghosha, 20. Muktakusumapratimanditaprabha, 21. Sriki¢fa, 22. Sagaravarabuddhivikriditabhig#a, 23. Varaprabha, 24. Mahagandhardaganir-
+bh4sa, 25. Vyapagatakhilamalapratighosha, 26. Sdrakita, 27. Ramazgaha, 28. Mahaguvadharabuddhipraptabhig#a, 29. Kandrasiryagihmikarama, 30. Uttaptavaiddryanirbhasa, 31. Aittadh4rabuddhisanku-
 sumitabhyudgata, 32. Pushpavativanaragasankusumitabhig#a, 33. Pushpakara, 34. Udakaé#andra, 35.
 Avidyandhakaravidhvamsanakara, 36. Lokendra, 37.
-Mukta#éAatrapravatasadvzsa, 38. Tishya, 39. Dharmamativinanditaraga, 40. SimhasAgarakdéavinandi-
-taraga, 41. SagarameruZandra, 42. Brahmasvaranadabhinandita, 43. Kusumasambhava, 44. Prapta-
+Mukta#éAatrapravatasadvzsa, 38. Tishya, 39. Dharmamativinanditaraga, 40. SimhasAgarakdéavinanditaraga, 41. SagarameruZandra, 42. Brahmasvaranadabhinandita, 43. Kusumasambhava, 44. Prapta-
 sena, 45. Kandrabhanu, 46. Merukti/a, 47. Kandraprabha, 48. Vimalanetra, 409. Giriragaghoshesvara,
 50. Kusumaprabha, 51. Kusumavysh¢yabhiprakiraa,
 52. Ratnafandra, 53. Padmabimbyupasobhita, 54.
 
 
 Kandanagandha, 55. Ratnabhibhdsa, 56. Nimi, 57.
-Mahavytha, 58. Vyapagatakhiladosha, 59. Brahmaghosha, 60. Saptaratnabhivyzsh¢a, 61. Mahaguza-
-dhara, 62. MahatamdlapatraZandanakardama, 63.
+Mahavytha, 58. Vyapagatakhiladosha, 59. Brahmaghosha, 60. Saptaratnabhivyzsh¢a, 61. Mahaguzadhara, 62. MahatamdlapatraZandanakardama, 63.
 Kusumabhig#a, 64. Ag#anavidhvamsana, 65. Kesarin, 66. Mukta#é/atra, 67. Suvarmagarbha, 68.
 Vaidiryagarbha, 69. Mahaketu, 70. Dharmaketu, 71.
 Ratnaketu, 72. Ratnasri, 73. Lokendra, 74. Narendra, 75. Karuzika, 76. Lokasundara, 77. Brahmaketu,
@@ -11633,9 +11282,6 @@ prayers are, and how, after I shall have obtained
 the highest perfect knowledge, my own Buddha
 country will then be endowed with all inconceivable
 excellences and good qualities.
-
-
-12 DESCRIPTION OF SUKHAVATH, $8.
 
 
 § 8. 1. “O Bhagavat, if in that Buddha country
@@ -11900,8 +11546,7 @@ and they should not all be in possession of the perfect knowledge, then may I no
 perfect knowledge.
 
 29. “ O Bhagavat, if that Buddha country of mine,
-after I have obtained Bodhi, should not be so brilliant, that in it could be seen on all sides immeasur-
-able, innumerable, inconceivable, incomparable, immense Buddha countries, as a round face is seen in
+after I have obtained Bodhi, should not be so brilliant, that in it could be seen on all sides immeasurable, innumerable, inconceivable, incomparable, immense Buddha countries, as a round face is seen in
 a highly burnished round mirror, then may I not
 obtain the highest perfect knowledge.
 
@@ -11909,10 +11554,7 @@ obtain the highest perfect knowledge.
 mine, after I have obtained Bodhi, there should not
 be a hundred thousand of vases full of different
 sweet perfumes, made of all kinds of jewels, always
-smoking with incense, fit for the worship of Bodhi-
-
-
-sattvas and Tathagatas, rising into the sky beyond
+smoking with incense, fit for the worship of Bodhisattvas and Tathagatas, rising into the sky beyond
 gods, men, and all things, then may I not obtain the
 highest perfect knowledge.
 
@@ -11950,9 +11592,6 @@ nature, then may I not obtain the eect perfect
 knowledge.
 
 C2
-
-
-20 DESCRIPTION OF SUKHAvaATi, § 8.
 
 
 35. “O Bhagavat, if, after 1 have obtained Bodhi,
@@ -12014,14 +11653,12 @@ the Bodhisattvas who live in other Buddha countries,
 after hearing my name, till they have reached Bodhi
 by the stock of merit which follows on that hearing,
 should not all obtain a combination of their stock
-of merit with the joy and gladness of their Bodhisattva life, then may I not obtain the highest per-
-fect knowledge.
+of merit with the joy and gladness of their Bodhisattva life, then may I not obtain the highest perfect knowledge.
 
 43. ‘““O Bhagavat, if, after I have obtained Bodhi,
 the Bodhisattvas, as soon as they have heard my
 name, in other worlds, should not obtain the
-Samadhi called Samanténugata, in which Bodhisattvas honour one moment after another im-
-measurable, innumerable, inconceivable, incomparable, immense, blessed Buddhas, and if that
+Samadhi called Samanténugata, in which Bodhisattvas honour one moment after another immeasurable, innumerable, inconceivable, incomparable, immense, blessed Buddhas, and if that
 Samadhi of theirs should come to an end before
 they have reached the throne of Bodhi, then may
 I not obtain the highest perfect knowledge.
@@ -12110,9 +11747,6 @@ Ginas, after having performed immeasurable kofis
 1 A Naga king?
 
 
-24 DESCRIPTION OF SUKHAVvaTt, § 10.
-
-
 of vows and penances, he became in this, his best of
 spiritual existences, the best of beings, possessed of
 the full power of prayers.
@@ -12154,8 +11788,7 @@ greatness and excellency of the Buddha country,
 and performing the duty of a Bodhisattva, he never
 conceived the remotest thoughts of lust, malevolence,
 and cruelty, during a hundred thousand niyutas of
-ko¢is of years, immeasurable, innumerable, inconceivable, incomparable, measureless, immense, inex-
-pressible; and he never conceived the idea of lust,
+ko¢is of years, immeasurable, innumerable, inconceivable, incomparable, measureless, immense, inexpressible; and he never conceived the idea of lust,
 malevolence, and cruelty, nay, he never conceived
 the idea of form, sound, smell, taste, and touch.
 He was gentle, charming indeed, and compassionate ;
@@ -12184,11 +11817,7 @@ with regard to all objects of sense. Performing
 * Sukhiloma, for sukhulama or sukhumala (i.e. sukumAra).
 
 
-26 DESCRIPTION OF SUKHAVATE, § to.
-
-
-himself the duties of the Bodhisattva without interruption, he walked himself in the highest perfec-
-tion (paramita) of liberality, and he also roused
+himself the duties of the Bodhisattva without interruption, he walked himself in the highest perfection (paramita) of liberality, and he also roused
 others to walk in the same. And himself walking
 in the highest perfections of knowledge, meditation,
 strength, patience, and virtue, he roused others also
@@ -12202,8 +11831,7 @@ of a Bodhisattva, immeasurable and innumerable
 hundreds of thousands of niyutas of ko¢is of beings
 were established in perfect enlightenment, of whom
 it is not easy to know the limit by means of speech.
-So many immeasurable and innumerable holy Buddhas were honoured, revered, esteemed, and wor-
-shipped, and enabled to touch whatever causes
+So many immeasurable and innumerable holy Buddhas were honoured, revered, esteemed, and worshipped, and enabled to touch whatever causes
 pleasure, such as cloaks, alms-bowls, couches, seats,
 refreshments, medicines, and other furniture. It is
 not easy to know the limit by pointing it out in
@@ -12211,8 +11839,7 @@ words, as to how many beings were established
 by him in the noble families of Brahmazas, Kshatriyas, ministers, householders, and merchants. In
 the same manner they were established in the
 sovereignty of Gambidvipa (India), and they were
-established in the character of AKakravartins, Lokapalas, Sakras, Suydmas, Sutushitas, Sunirmitas, Vasa-
-vartins, Devardgas, and Mahabrahmans. So many
+established in the character of AKakravartins, Lokapalas, Sakras, Suydmas, Sutushitas, Sunirmitas, Vasavartins, Devardgas, and Mahabrahmans. So many
 immeasurable and innumerable Buddhas were
 honoured, revered, esteemed, and worshipped, and
 requested to turn the wheel of the Law, of whom
@@ -12222,8 +11849,7 @@ it is not easy to know the limit by means of words.
 
 
 mouth, while performing the duties of a Bodhi-
-Sattva, during immeasurable, innumerable, inconceivable, incomparable, immense, measureless, in-
-expressible ko/is of kalpas, there breathed a sweet
+Sattva, during immeasurable, innumerable, inconceivable, incomparable, immense, measureless, inexpressible ko/is of kalpas, there breathed a sweet
 and more than heavenly smell of sandal-wood.
 From all the pores of his hair there arose the smell
 of lotus, and he was pleasing to everybody, gracious
@@ -12259,9 +11885,6 @@ The Bhagavat said: ‘ Not indeed, O Ananda, has
 1 See Lal. Vist. p. 337.
 
 
-28 DESCRIPTION OF sUKHAvaTt, § 12.
-
-
 that Tathagata passed away, nor has he not yet
 come, but the Tathagata, the holy, after having
 obtained the highest perfect knowledge, dwells now,
@@ -12270,8 +11893,7 @@ the western quarter, in the Buddha country, distant
 from this world by a hundred thousand niyutas
 of ko¢is of Buddha countries, in the world which
 is called Sukh4vati, being called Amitabha, the
-Tathagata, holy and fully enlightened. He is surrounded by innumerable Bodhisattvas, and wor-
-shipped by endless Sravakas, and in possession of
+Tathagata, holy and fully enlightened. He is surrounded by innumerable Bodhisattvas, and worshipped by endless Sravakas, and in possession of
 the endless perfection of his Buddha country.
 
 § 12. ‘And his light is immeasurable, so that it
@@ -12305,19 +11927,15 @@ until their brightness reaches many hundred thousand niyutas of ko/ts of yoganas
 is not, O Ananda, any case of likeness, by which
 the extent of the light of that Tathagata Amitabha could be understood. Hence, O Ananda,
 for that reason that Tathagata is called Amitabha
-(possessed of infinite light), and he is called Amitaprabha (possessed of infinite splendour), Amita-
-prabhasa (possessed of infinite brilliancy), Asamé-
-ptaprabha (whose light is never finished), Asangataprabha (whose light is not conditioned), Prabha-
-sikhotsrzshéaprabha (whose light proceeds from
+(possessed of infinite light), and he is called Amitaprabha (possessed of infinite splendour), Amitaprabhasa (possessed of infinite brilliancy), Asamé-
+ptaprabha (whose light is never finished), Asangataprabha (whose light is not conditioned), Prabhasikhotsrzshéaprabha (whose light proceeds from
 flames of light), Sadivyamaziprabha (whose light
 is that of heavenly jewels), Apratihatarasmiragaprabha (whose light has the colour of unimpeded
 rays), Ragantyaprabha (possessed of beautiful light),
-Premaziyaprabha (possessed of lovely light), Pramodantyaprabha (possessed of delightful light), Sanga-
-maniyaprabha (possessed of attractive light), Uposhamiyaprabha (possessed of pleasant light), Ani-
+Premaziyaprabha (possessed of lovely light), Pramodantyaprabha (possessed of delightful light), Sangamaniyaprabha (possessed of attractive light), Uposhamiyaprabha (possessed of pleasant light), Ani-
 bandhantyaprabha? (possessed of light that cannot
 be stopped), Ativiryaprabha (possessed of extremely
-powerful light), Atulyaprabha (possessed of incomparable light), Abhibhdyanarendrabhitrayendra-
-prabha? (possessed of light greater than that of
+powerful light), Atulyaprabha (possessed of incomparable light), Abhibhdyanarendrabhitrayendraprabha? (possessed of light greater than that of
 
 
 * This seems better than nibandhantyaprabha, as printed in
@@ -12325,9 +11943,6 @@ the text.
 
 * This reading is conjectural and the translation doubtful Perhaps
 the text was anabhibhflyanarendrabhitrayendra-prabhah.
-
-
-30 DESCRIPTION OF SUKHAVATE, § 12.
 
 
 the lords of men, nay, the lords of the three
@@ -12338,8 +11953,7 @@ of light which bends all the conquered gods, Mahesvara, the Suddhavdsas, Brahman
 Lokapalas).
 
 ‘This splendour of the Arya (noble) is pure, great,
-producing bodily pleasure, happiness of mind, producing happiness, delight, and joy for men and not-
-men, Kinnaras, Mahoragas, Garudas, Gandharvas,
+producing bodily pleasure, happiness of mind, producing happiness, delight, and joy for men and notmen, Kinnaras, Mahoragas, Garudas, Gandharvas,
 Yakshas, Nagas, Asuras, and Devas; and producing
 the pleasure of beings of good disposition’.
 
@@ -12484,9 +12098,6 @@ are no Buddhas to listen to, are not mentioned in the first Pravidhana; nor the 
 
 
 (49) *D
-
-
-34 DESCRIPTION OF SUKHAVATH, § 16.
 
 
 viz. gold, silver, beryl, and crystal. There are some
@@ -12645,9 +12256,6 @@ delightful, carrying water of different sweet. odour,
 carrying bunches of flowers adorned with various
 
 
-38 DESCRIPTION OF SUKHAVATH, § 18.
-
-
 gems, resounding with sweet voices. 14And, O
 Ananda, there proceeds from an instrument which
 consists of hundred thousand koéis of parts, which
@@ -12678,8 +12286,7 @@ and cold, according to their pleasure.
 ‘And those great rivers flow along, full of water
 scented with the best perfumes of the Uragasara
 sandal-wood, of Tagaras, K4lanusdrin (dark, fragrant
-sandal-wood) trees, Agarus, and heavenly Tamalapattras; covered with flowers of the white water-
-lilies, and heavenly Utpalas, Padmas, Kumudas, and
+sandal-wood) trees, Agarus, and heavenly Tamalapattras; covered with flowers of the white waterlilies, and heavenly Utpalas, Padmas, Kumudas, and
 Puzdarikas; full of delightful sounds of peacocks,
 
 
@@ -12723,9 +12330,6 @@ kalavinkas, and peacocks.
 
 2 Instead of Dharm44, the Tibetan translator seems to have
 read Dharmavat.
-
-
-40 DESCRIPTION OF SUKHAVATH, $19.
 
 
 (resignation to consequences which have not yet
@@ -12788,8 +12392,7 @@ thousand colours, then with these very best cloaks
 the whole Buddha country shines. And the pecple
 feel themselves covered with them.
 
-‘And if they desire such ornaments, as for instance, head-ornaments, ear-ornaments, neck-orna-
-ments, hand and foot ornaments, namely, diadems,
+‘And if they desire such ornaments, as for instance, head-ornaments, ear-ornaments, neck-ornaments, hand and foot ornaments, namely, diadems,
 earrings, bracelets, armlets, necklaces, chains, earjewels, seals, gold strings, girdles, gold nets’, pearl
 nets, jewel nets, nets of bells made of gold and
 jewels, then they see that Buddha country shining
@@ -12868,12 +12471,10 @@ a Bhikshu (mendicant) who has obtained Nirvaza.
 § 22. ‘And in that Buddha country, O Ananda,
 no mention is ever made of the names of fire,
 sun, moon, planets, Nakshatras (constellations), and
-stars, or of blinding darkness. There is no mention even of day and night, except in the conver-
-sation of the Tathagata. Nor is there any idea of
+stars, or of blinding darkness. There is no mention even of day and night, except in the conversation of the Tathagata. Nor is there any idea of
 predial property belonging to monasteries.
 
-§ 23. ‘And again, O Ananda, in that world Sukhavati at the proper time clouds full of heavenly per-
-fumed water pour down heavenly flowers of all
+§ 23. ‘And again, O Ananda, in that world Sukhavati at the proper time clouds full of heavenly perfumed water pour down heavenly flowers of all
 colours; heavenly seven jewels, heavenly sandalwood-powder, and heavenly umbrellas, “flags, and
 
 
@@ -12986,8 +12587,7 @@ to the sand of the Ganga approach, from the ten
 quarters, and in each quarter towards that Tathagata
 Amitabha, in order to see him, to bow before him,
 to worship him, to consult him, and likewise in order
-to see that company of Bodhisattvas, and the different kinds of perfection in the multitude of orna-
-ments and excellences belonging to that Buddha
+to see that company of Bodhisattvas, and the different kinds of perfection in the multitude of ornaments and excellences belonging to that Buddha
 country.’
 
 § 31. Then at that time, the Bhagavat, in order
@@ -13174,8 +12774,7 @@ they reach the Bodhi, no perplexity of their thought
 is to be feared. And all those beings, through the
 seeing of that Bodhi-tree, never turn away, namely,
 from the highest perfect knowledge. And they obtain
-three kinds of kshanti or resignation, namely, Ghoshanuga, Anulomiki (resignation to natural conse-
-quences), and Anutpattika-dharma-kshanti (resignation to consequences which have not yet arisen),
+three kinds of kshanti or resignation, namely, Ghoshanuga, Anulomiki (resignation to natural consequences), and Anutpattika-dharma-kshanti (resignation to consequences which have not yet arisen),
 through the power of the former prayers of that
 same Tathagata Amitayus, through the service
 rendered by them to the former Ginas, and through
@@ -13346,9 +12945,6 @@ Childers, Pali Dictionary, p. 93 b.
 Arfipadh4tu ; see Childers, s. v. dhatu.
 
 
-56 DESCRIPTION OF SUKHAVATH, § 38.
-
-
 things, clever in explanation of causes, endowed with
 the power of explaining the Law (or things such
 as they really are), clever in taking and refusing,
@@ -13421,9 +13017,6 @@ wise, because in their search after the Law, never
 ’ Mana, ‘ pride,’ is one of the Klesas.
 * The Tibetan translator seems to have read sagaravat, instead
 of nagavat.
-
-
-58 DESCRIPTION OF SUKHAVATH, § 38.
 
 
 tired of discussions on the Law; lke the precious
@@ -13517,8 +13110,7 @@ and overcome by the light of that Tathagata. “And as
 a man, followed by another at a distance of a fathom
 only, would see the other man, when the sun has
 risen, exactly in the same manner the Bhikshus,
-Bhikshuzis, Updsakas (laymen), Updsikds (laywomen), gods, Nagas, Yakshas, Rakshasas, Gan-
-dharvas, Asuras, Garudas, Kinnaras, Mahoragas, men
+Bhikshuzis, Updsakas (laymen), Updsikds (laywomen), gods, Nagas, Yakshas, Rakshasas, Gandharvas, Asuras, Garudas, Kinnaras, Mahoragas, men
 and not-men, in this Buddha country, saw at that
 time that Amitdbha, the Tathagata, holy and fully
 enlightened, like the Sumeru, the king of mountains,
@@ -13574,9 +13166,6 @@ Agita said: ‘I see, O Bhagavat.’
 
 1 A substantive seems to be wanting to which all these adjectives
 would refer.
-
-
-62 DESCRIPTION OF SUKHAVATH, § qr.
 
 
 The Bhagavat said: ‘ Do you see again, O Agita,
@@ -13660,9 +13249,6 @@ gems, having four angles, four pillars, four doors,
 four stairs; and the son of that king having been
 
 
-64 DESCRIPTION OF SUKHAVATI, $4.
-
-
 thrown into the dungeon for some misdeed is there,
 bound with a chain made of the Gambinada gold.
 And suppose there is a couch prepared for him,
@@ -13739,9 +13325,6 @@ Sukh4avatt, where the blessed Amitabha, the Tathagata, holy and fully enlightene
 
 
 1 They imagine they are living in palaces and gardens.
-
-
-66 DESCRIPTION OF SUKHAvaTt, § 42.
 
 
 thus spoke to the Bhagavat: ‘O Bhagavat, will the
@@ -13976,9 +13559,6 @@ they also who wish for enlightenment.’
 then may obtain Nirvama.
 
 
-72 DESCRIPTION OF SUKHAVATI, §§ 46, 47.
-
-
 Tathagata Amitayus, practising the duties of former
 Bodhisattvas, will carry out, after they are born in
 the world Sukhavati, the duties enjoined in the
@@ -14042,9 +13622,6 @@ The 18th Pravidhana in the Sanskrit text agrees with
 the 19th in both Chinese translations; but the 20th in
 these translations is somewhat shorter than the 19th in the
 Sanskrit text. The shorter translation is as follows :—
-
-
-74 DESCRIPTION OF SUKHAvarTt,
 
 
 20. ‘When I have obtained Buddhahood, if those beings
@@ -14236,10 +13813,8 @@ XXIII
 
 
 abh4va, not-being, X VIII, p. 40.
-Abhibhfiyanarendrabhfitrayendraprabha [by conjecture]=Ami-
-tabha, XII, p. 29.
-Abhibhfiyalokap4lasakrabrahmasuddhavasamahesvarasarvadevagih-
-et EE = Amitabha,
+Abhibhfiyanarendrabhfitrayendraprabha [by conjecture]=Amitabha, XII, p. 29.
+Abhibhfiyalokap4lasakrabrahmasuddhavasamahesvarasarvadevagihet EE = Amitabha,
 XII, p. 2
 ablitphiéksbhiripratilan bla, attainment of the royal stage, XVIII,
 
@@ -14257,9 +13832,6 @@ Amitaprabha, Amitaprabhisa= =Amitabha, XII, p. 29; XXXI, 5,
 Amitabha, I ; XI toXV; XXVI to
 XXXI; "XXXIX; ; XLV, p. 76.
 Amitayu, XX XI, 1-4, i, r73
-
-
-78 DESCRIPTION OF SUKHAVATI.
 
 
 Amitayus = Amitabha, XIV;
@@ -14758,9 +14330,7 @@ pratisamvit, perfect knowledge, VIII,
 
 Pp. 40.
 Pratyekabuddha, VIII, 12.
-pradakshizikri, to walk round re-
-
-spectfully, XX XI, 5.
+pradakshizikri, to walk round respectfully, XX XI, 5.
 Prabhakara, N. of a Tathagata,
 
 
@@ -15482,9 +15052,6 @@ Appendice, No. xiv. The larger text of the Sukh4vati-vyGha has
 54 See next page.
 
 
-90 THE SMALLER SUKHAVATI-VYOHA. §r.
-
-
 such as. Sdriputra, the elder, Mahdmaudgalyayana,
 Mahak4syapa, Mahakapphiva, Mahakatyayana, Mahakaush¢dila, Revata, Suddhipanthaka, Nanda,
 Ananda, Rahula, Gavdmpati, Bharadvaga, K4lodayin, Vakkula, and Aniruddha. He dwelt together
@@ -15569,9 +15136,6 @@ seems to mean, he stands there, holds himself, supports himself,
 and teaches the law. Burnouf translates the same phrase by, ‘ils
 se trouvent, vivent, existent’ (Lotus, p. 354). On yApeti in PAli,
 see Fausbéll, Dasaratha-gataka, pp. 26, 28; and ydpana in Sanskrit.
-
-
-92 THE SMALLER SUKHAVATI-vyOHA. $3.
 
 
 palm-trees, and with strings of bells’. It is enclosed
@@ -15683,9 +15247,6 @@ Catena, p. 379.
 kakapeya, which is explained by PAvini, II, 1, 33. It*is uncertain, however, whether kakapeya is meant as a laudatory or as
 
 
-94 THE SMALLER SUKHAVATI-VYOHA. § 4.
-
-
 strewn with golden sand. And in these lotus-lakes
 there are all around on the four sides four stairs,
 beautiful and brilliant with the four gems, viz. gold,
@@ -15734,8 +15295,7 @@ MAndarava blossoms pours down three times every
 day, and three times every night. And the beings
 who are born there worship before their morning
 meal? a hundred thousand ko/is of -Buddhas by
-going to other worlds; and having showered a hundred thousand ko¢is of flowers upon each Tatha-
-gata, they return to their own world in time for the
+going to other worlds; and having showered a hundred thousand ko¢is of flowers upon each Tathagata, they return to their own world in time for the
 afternoon rest*. With such arrays of excellences
 peculiar toa Buddha country is that Buddha country
 adorned.
@@ -15764,9 +15324,6 @@ Karavika, a fine-voiced bird (according to Kern, the Sk. karayik4), or for Kalav
 opapatiko; Burnouf, Lotus, p. 566. I see, however, the same
 birds mentioned together elsewhere, as hamsakrau#/amayfrasukasalikakokila, &c. On mayfira see Mahfv., Introd. p. xxxix; Rv. I,
 IgI, 14.
-
-
-96 - THE SMALLER SUKHAvATi-vYOHA. §6.
 
 
 come together and perform a concert, each uttering his
@@ -15806,8 +15363,7 @@ throughout identical with indriyas.
 
 Burnouf, however, in his Lotus, gives a list of five balas (from
 the Vocabulaire Pentaglotte) which correspond with the five indriyas
-of Spence Hardy; viz. sraddh4-bala, power of faith; viryabala, power ofvigour; smrzti-bala, power of memory; samadhi-
-bala, power of meditation; prag#4-bala, power of knowledge.
+of Spence Hardy; viz. sraddh4-bala, power of faith; viryabala, power ofvigour; smrzti-bala, power of memory; samadhibala, power of meditation; prag#4-bala, power of knowledge.
 They precede the seven bodhyangas both in the Lotus, the
 Vocabulaire Pentaglotte, and the Lalita-vistara.
 
@@ -15862,9 +15418,6 @@ Burnouf, Introduction, p. 544.
 
 
 [49] it
-
-
-98 THE SMALLER SUKHAVATI!-vyOHA. § 10.
 
 
 splendour (Abha), O Sariputra, of that Tathagata is
@@ -15931,8 +15484,7 @@ prayer for that Buddha country.
 § 11. ‘And now, O Siriputra, as I here at present
 glorify that world, thus in the East, O Sariputra, other
 blessed Buddhas, led by the Tathagata Akshobhya,
-the Tathagata Merudhvaga, the Tathagata Mahameru, the Tathagata Meruprabhasa, and the Tatha-
-gata Mazgudhvaga, equal in number to the sand
+the Tathagata Merudhvaga, the Tathagata Mahameru, the Tathagata Meruprabhasa, and the Tathagata Mazgudhvaga, equal in number to the sand
 of the river Gangdé, comprehend their own Buddha
 countries in their speech, and then reveal them *.
 
@@ -15951,9 +15503,6 @@ On these Buddhas and their countries, see Burnouf, Lotus, p. 113.
 
 
 *H 2
-
-
-100 THE SMALLER SUKHAVATI-VYOHA. § 12.
 
 
 Accept this repetition of the Law, called the “ Favour
@@ -15984,8 +15533,7 @@ Dharmadhvaga, equal in number to the sand, &c.
 
 § 16. ‘Thus also in the Zenith do other blessed
 Buddhas, led by the Tathagata Brahmaghosha, the
-Tathagata Nakshatraraga, the Tathagata Indraketudhvagaraga, the Tathagata Gandhottama, the Tatha-
-gata Gandhaprabhisa, the Tathagata Mahardiskandha, the Tathagata Ratnakusumasampushpitagatra,
+Tathagata Nakshatraraga, the Tathagata Indraketudhvagaraga, the Tathagata Gandhottama, the Tathagata Gandhaprabhisa, the Tathagata Mahardiskandha, the Tathagata Ratnakusumasampushpitagatra,
 
 
 $17. THE SMALLER SUKHAVATI-VYOHA. IOI
@@ -16029,9 +15577,6 @@ instead of vesh/ana, in nirve/fana; dharmapary4ya (Corp.
 Inscript. plate xv), &c.
 
 
-102 THE SMALLER SUKHAVATI-vYOHA. § 18.
-
-
 now. Therefore, then, O S4riputra, mental prayer
 is to be made for that Buddha country by faithful
 sons and daughters of a family. |
@@ -16040,8 +15585,7 @@ sons and daughters of a family. |
 O Siriputra, do those blessed Buddhas magnify my
 own inconceivable excellences.
 
-‘A very difficult work has been done by Sakyamuni, the sovereign of the Sakyas. Having ob-
-tained the transcendent true knowledge in this world
+‘A very difficult work has been done by Sakyamuni, the sovereign of the Sakyas. Having obtained the transcendent true knowledge in this world
 Sah4, he taught the Law which all the world is
 reluctant to accept, during this corruption of the
 present kalpa, during this corruption of mankind,
@@ -16654,8 +16198,7 @@ O Subhiti, listen and take it to heart, well and
 rightly. I shall tell you, how any one who has
 entered on the path of Bodhisattvas should behave,
 how he should advance, and how he should restrain
-his thoughts.. Then the venerable Subhati answered the Bhagavat and said: ‘So be it, O Bha-
-gavat.’ (2)
+his thoughts.. Then the venerable Subhati answered the Bhagavat and said: ‘So be it, O Bhagavat.’ (2)
 
 
 III.
@@ -16852,8 +16395,7 @@ Buddhism. See Sukhavatf, pp. 71, 108.
 
 they would believe in a being, they would believe in
 a living being, they would believe in a person. And
-why? Because, O Subhfiti, neither quality nor noquality is to be accepted by a noble-minded Bodhi-
-sattva. Therefore this hidden saying has been
+why? Because, O Subhfiti, neither quality nor noquality is to be accepted by a noble-minded Bodhisattva. Therefore this hidden saying has been
 preached by the Tathagata: ‘‘ By those who know
 the teaching of the Law, as like unto a raft, all
 qualities indeed must be abandoned; much more
@@ -16910,8 +16452,7 @@ Bhagavat, yes, O Sugata, that son or daughter of
 a good family would on the strength of this produce
 a large stock of merit. And why? Because, O
 Bhagavat, what was preached by the Tathagata as
-the stock of merit, that was preached by the Tathagata as no-stock of merit. Therefore the Tatha-
-gata preaches: “A stock of merit, a stock of merit?
+the stock of merit, that was preached by the Tathagata as no-stock of merit. Therefore the Tathagata preaches: “A stock of merit, a stock of merit?
 indeed!”’ Bhagavat said: ‘And if, O Subhiti, the
 son or daughter of a good family should fill this
 sphere of a million millions of worlds with the seven
@@ -17475,8 +17016,7 @@ adopted by the Tathagata from the holy and fully
 enlightened Tathagata Dipankara with regard to
 the highest perfect knowledge.’ After this, Bhagavat thus spoke to the venerable Subhiati: ‘So it
 is, Subhiiti, so it is. There is not, O Subhati, anything which has been adopted by the Tathagata
-from the holy and fully enlightened Tathagata Dipankara with regard to the highest perfect know-
-ledge. And if, O Subhati, anything had been
+from the holy and fully enlightened Tathagata Dipankara with regard to the highest perfect knowledge. And if, O Subhati, anything had been
 adopted by the Tathagata, the Tathagata Dipankara
 would not have prophesied of me, saying: ‘“ Thou,
 O boy, wilt be in the future the holy and fully
@@ -17554,8 +17094,7 @@ numbers of worlds.
 
 ‘A Bodhisattva, O Subhiti, who believes that all
 things are without self, that all things are without
-self, he has faith, he is called a noble-minded Bodhisattva by the holy and fully enlightened Tatha-
-gata.’ (17)
+self, he has faith, he is called a noble-minded Bodhisattva by the holy and fully enlightened Tathagata.’ (17)
 
 | XVIII.
 
@@ -17811,8 +17350,7 @@ highest perfect knowledge been known by the
 Tathagata through the possession of signs? You
 should not think so, O Subhiti. “And why?  Because, O Subhiti, the highest perfect knowledge
 would not be known by the Tathagata through the
-possession of signs. Nor should anybody, O Subhati, say to you that the destruction or annihila-
-tion of any thing is proclaimed by those who have
+possession of signs. Nor should anybody, O Subhati, say to you that the destruction or annihilation of any thing is proclaimed by those who have
 entered on the path of the Bodhisattvas.’ (27)
 
 
@@ -17971,8 +17509,7 @@ number of Bodhisattvas.
 
 At that time the Bhagavat was absorbed in a
 meditation, called Gambhiravasambodha. And at
-the same time the great Bodhisattva Aryavalokitesvara, performing his study in the deep Prag#a-
-paramita, thought thus: ‘There are the five Skandhas, and those he (the Buddha ?) considered as
+the same time the great Bodhisattva Aryavalokitesvara, performing his study in the deep Prag#aparamita, thought thus: ‘There are the five Skandhas, and those he (the Buddha ?) considered as
 something by nature empty.’
 
 Then the venerable Sariputra, through Buddha's
@@ -17989,9 +17526,6 @@ in the deep Prag#dparamita, he must think thus :
 as by their nature empty. Form is emptiness, and
 
 ss Bae
-
-
-148 LARGER PRAGNA-PARAMITA-HKIDAYA-SOTRA.
 
 
 emptiness indeed is form. Emptiness is not different
@@ -18097,9 +17631,6 @@ touch, objects.’
 
 ‘There is no eye,’ &c., till we come to ‘there is
 no mind.’
-
-
-154 SMALLER PRAGNA-PARAMITA-HRIDAYA-SOUTRA,
 
 
 (What is left out here are the eighteen Dhatus
@@ -18350,8 +17881,7 @@ Spirits, evil, 130; 1443 149.
 
 Sravasti, rrr seq.
 
-Srota-Apanna, a man who has obtained the first grade of sancti-
-fication, 116 note; 120.
+Srota-Apanna, a man who has obtained the first grade of sanctification, 116 note; 120.
 
 Srota-Apatti, 120.
 
@@ -18519,9 +18049,6 @@ alternative ‘still a youth’ (p. 4, Saddharmapuzdarika).
 [49] *M
 
 
-162 AMITAYUR-DHYANA-SOTRA, $3.
-
-
 name, was true and faithful to her lord, the king.
 She supported him in this wise: having purified
 herself by bathing and washing, she anointed her
@@ -18597,9 +18124,6 @@ x
 M 2
 
 
-164 AMITAYUR-DHYANA-SOTRA, § 4.
-
-
 bear to hear of it. Thou art indeed a Kandala
 (the towest race); we shall not stay here with
 thee. After this speech, the two great ministers
@@ -18618,8 +18142,7 @@ palace and not to allow her to come out again.
 § 4. When Vaidehi was thus shut up in retirement she became afflicted by sorrow and distress.
 She began to do homage to Buddha from afar, looking towards the Mount Grzdhrakfita. She uttered
 the following words: ‘O Tathagata! World-
-Honoured One! In former times thou hast constantly sent Ananda to me for enquiry and conso-
-lation. I am now in sorrow and grief. Thou,
+Honoured One! In former times thou hast constantly sent Ananda to me for enquiry and consolation. I am now in sorrow and grief. Thou,
 O World-Honoured One, art majestic and exalted ;
 in no way shall I be able to see thee. Wilt thou,
 I pray thee, command Mahamaudgalyayana and
@@ -18671,9 +18194,6 @@ is many an assemblage of the wicked. May I not
 
 1 For five depravities vide Smaller SukhAvatf, §.18; Saddharmapuzdarika by Kern, p. 58, § 140 note.
 ? But Japanese Buddhists take this in a wider sense.
-
-
-166 amITAyuR-DHYANA-SOTRA, $6.
 
 
 hear, I pray, the voice of the wicked in the future ;
@@ -18753,9 +18273,6 @@ lower their dignity or neglect any ceremonial obseryance. Thirdly, they should g
 
 
 1 I. e. observe the ten prohibitive precepts of Buddha.
-
-
-168 AMITAYUR-DHYANA-SOTRA, $8.
 
 
 to the attainment of the Bodhi (perfect wisdom),
@@ -18840,9 +18357,6 @@ and § 32,p. 5. Kern, ‘the acquiescence in the eternal law,’ Saddharmapundar
 2 1, Birth, 2. Old age, 3. Sickness, 4. Death, 5. Parting.
 
 
-170 AMITAYUR-DHYANA-SOTRA, § 10.
-
-
 tation on the sun; cause thy mind to be firmly
 fixed (on it) so as to have an unwavering perception by the exclusive application (of thy. thought),
 and gaze upon it (more particularly) when it is
@@ -18923,9 +18437,6 @@ words of mine, and repeat this law for attaining to
 the perception of the land (of the Buddha country)
 
 
-172 AMITAYUR-DHYANA-SOTRA, § 12.
-
-
 for the sake of the great mass of the people hereafter who may wish to be delivered from their
 sufferings. If any one meditates on the land (of
 that Buddha country), his sins (which bind him to)
@@ -18997,9 +18508,6 @@ and it is the Fourth Meditation.
 ? The text has Sakrabhilagnamasiratna, vide infra, §§ 16, 19.
 
 
-174 AMITAYUR-DHYANA-SOTRA, $13
-
-
 § 13. ‘Next, you should perceive the water (of
 that country). The perception of the water is as
 follows :—
@@ -19020,8 +18528,7 @@ circumference), being twelve yoganas. The water
 of jewels flows amidst the flowers and rises and
 falls by the stalks (of the lotus); the sound of the
 streaming water is melodious and pleasing, and
-propounds all the perfect virtues (Pardmitas), “ suffering,” “non-existence,” “impermanence,” and “ non-
-self;” it proclaims also the praise of the signs of
+propounds all the perfect virtues (Pardmitas), “ suffering,” “non-existence,” “impermanence,” and “ nonself;” it proclaims also the praise of the signs of
 perfection *, and minor marks of excellence? of all.
 Buddhas. From the king of jewels that fulfils
 every wish, stream forth the golden-coloured rays
@@ -19078,9 +18585,6 @@ Buddha Amitayus stood in the midst of the sky
 
 1 §15. Hereafter, for brevity’s sake, I take the liberty of omitting
 several passages which seem to be unnecessary repetitions.
-
-
-176 AMITAYUR-DHYANA-SOTRA, $16.
 
 
 with Bodhisattvas MahAsth4ma and Avalokitesvara,
@@ -19159,9 +18663,6 @@ assuredly be born in the World of Highest Happiness.
 [49] _"N
 
 
-178 AMITAYUR-DHYANA-SOTRA, § 17.
-
-
 next perceive Buddha himself. Do you ask how?
 Every Buddha Tathagata is one whose (spiritual)
 body is the principle of nature (Darmadhatu-kdya),
@@ -19236,9 +18737,6 @@ you should next proceed to meditate on the bodily
 marks and the light of Buddha Amitayus.
 
 *N2
-
-
-180 AMITAYUR-DHYANA-SUTRA, - $18;
 
 
 ‘Thou shouldst know, O Ananda, that the body
@@ -19322,17 +18820,13 @@ distinctly, you should then further meditate upon
 Bodhisattva Avalokitesvara, whose height is eight
 
 
-182 AMITAYUR-DHYANA-SOTRA, $ 19.
-
-
 hundred thousands of niyutas of yoganas; the
 colour of his body is purple gold, his head has
 a turban (ushzishasiraskata), at the back of which
 there is a halo; (the circumference of) his face is
 a hundred thousand yoganas. In that halo, there
 are five hundred Buddhas miraculously transformed
-just like those of Sakyamuni Buddha, each transformed Buddha is attended by five hundred trans-
-formed Bodhisattvas who are also attended by
+just like those of Sakyamuni Buddha, each transformed Buddha is attended by five hundred transformed Bodhisattvas who are also attended by
 numberless gods.
 
 ‘Within the circle of light emanating from his
@@ -19390,8 +18884,7 @@ such is the perception of the real form and body
 of Bodhisattva Avalokitesvara, and it is the Tenth
 Meditation.’
 
-Buddha, especially addressing Ananda, said: ‘Whosoever wishes to meditate on Bodhisattva Avalo-
-kitesvara must do so in the way I have explained.
+Buddha, especially addressing Ananda, said: ‘Whosoever wishes to meditate on Bodhisattva Avalokitesvara must do so in the way I have explained.
 Those who practise this meditation will not suffer
 any calamity; they will utterly remove the obstacle
 that is raised by Karma, and will expiate the sins
@@ -19402,9 +18895,6 @@ immeasurable happiness. How much more, then,
 will the diligent contemplation of him !
 
 ‘Whosoever will meditate on Bodhisattva Avalo-
-
-
-184 AMITAYUR-DHYANA-SOTRA, § 19.
 
 
 kitesvara should first meditate on the turban of his
@@ -19466,8 +18956,7 @@ assemble in the World of Highest Happiness
 thrones of lotus-flowers, which fill the whole sky,
 and preach the excellent Law in order to deliver
 all the beings that are plunged in suffering ;—such
-is the perception of the form and body of Bodhisattva Mahasthdma, and it is the Eleventh Medi-
-tation.
+is the perception of the form and body of Bodhisattva Mahasthdma, and it is the Eleventh Meditation.
 
 ‘Those who practise this meditation are freed
 from the sins (which would otherwise involve them)
@@ -19478,9 +18967,6 @@ kalpas.
 live in an embryo state but obtain free access to
 the excellent and admirable countries of Buddhas.
 Those who have experienced this are said to have
-
-
-186 AMITAYUR-DHYANA-SOTRA, § 20.
 
 
 perfectly meditated upon the two Bodhisattvas
@@ -19563,9 +19049,6 @@ Buddhism, p. 364, says, ‘Buddha is sometimes said to be twelve
 cubits in height, and sometimes eighteen cubits.’
 
 
-188 AMITAYUR-DHYANA-SOTRA, $ 22.
-
-
 Part III.
 
 
@@ -19631,8 +19114,7 @@ as he follows behind Buddha he will be born into
 that country, in a moment. When he has been
 born there, he will see Buddha’s form and body
 with every sign of perfection complete, and also
-the perfect forms and signs of all the Bodhisattvas; he will also see brilliant rays and jewel-
-forests and hear them propounding the excellent
+the perfect forms and signs of all the Bodhisattvas; he will also see brilliant rays and jewelforests and hear them propounding the excellent
 Law, and instantly be conscious of a spirit of
 resignation to whatever consequences may hereafter arise. - Before long he will serve every one
 of the Buddhas who live in the regions of the
@@ -19640,9 +19122,6 @@ ten quarters. In the presence of each of those
 Buddhas he will obtain successively a. prophecy
 of his future destiny. On his return to his own
 land (Sukh4vati, in which he has just been born)
-
-
-190 AMITAYUR-DHYANA-SOTRA, § 23.
 
 
 he will obtain countless Lundreds of thousands of
@@ -19721,9 +19200,6 @@ Law! thou art pure now; as thou hast cherished the
 thought of obtaining the highest Bodhi, we come to
 
 
-192 AMITAYUR-DHYANA-SOTRA, § 25.
-
-
 meet thee.”” When he has seen them, he will find
 himself seated on that golden lotus-flower. Soon
 the flower will close upon him ; following behind the
@@ -19738,8 +19214,7 @@ sounds and voices preaching the excellent Law, and
 he himself, travelling through all the ten quarters,
 will worship all the Buddhas, from whom he will
 learn the deepest significance of the Law. After
-three lesser kalpas he will gain entrance to the knowledge of a hundred (divisions of) nature (satadharma-
-vidyddvara) and become settled in the (first) joyful
+three lesser kalpas he will gain entrance to the knowledge of a hundred (divisions of) nature (satadharmavidyddvara) and become settled in the (first) joyful
 stage! (of Bodhisattva). The perception of these
 three classes of beings is called the meditation upon
 the superior class of beings, and is the Fourteenth
@@ -19798,9 +19273,6 @@ him and offer a lotus-flower of seven jewels.
 
 
 [49] *o
-
-
-194 AMITAYUR-DHYANA-SOTRA, § 27.
 
 
 ‘He will hear a voice in the sky, praising him
@@ -19873,8 +19345,7 @@ sins which would involve him in births and deaths
 during a thousand kalpas.
 
 ‘A wise man also will teach him to stretch forth his
-folded hands and to say, “Adoration to Buddha Amitayus” (Namo-mitébhaya Buddhaya, or, Namo-mi-
-tayushe Buddhdya). Having uttered the name of
+folded hands and to say, “Adoration to Buddha Amitayus” (Namo-mitébhaya Buddhaya, or, Namo-mitayushe Buddhdya). Having uttered the name of
 the Buddha, he will be freed from the sins which
 would otherwise involve him in births and deaths
 for fifty millions of kalpas. Thereupon the Buddha
@@ -19885,9 +19356,6 @@ thy sins have been destroyed and expiated, and
 therefore we now come to meet thee.” After this
 
 ra
-
-
-196 AMITAYUR-DHYANA-SOTRA, § 29.
 
 
 speech the devotee will observe the rays of that
@@ -19965,9 +19433,6 @@ Matr7ghata, Pitr7ghata, Arhatghata, Sanghabheda, Tathagatasyantike dush/adittaru
 Larger SukhAvati; vide Nanjio’s note and Pramidh4na rg (§ 8), the
 
 
-198 AMITAYUR-DHYANA-SOTRA, § 30.
-
-
 man, being himself stupid and guilty of many crimes,
 deserves to fall into a miserable path of existence
 and suffer endless pains during many kalpas. On the
@@ -19981,8 +19446,7 @@ canst not exercise the remembrance of Buddha, thou
 mayst, at least, utter the name, ‘Buddha Amitayus'.’”
 Let him do so serenely with his voice uninterrupted ;
 let him be (continually) thinking of Buddha until he has
-completed ten times the thought, repeating (the formula), “ Adoration to Buddha Amitayus” (Namo:mi-
-tayushe Buddhd4ya). On the strength of (his merit
+completed ten times the thought, repeating (the formula), “ Adoration to Buddha Amitayus” (Namo:mitayushe Buddhd4ya). On the strength of (his merit
 of) uttering Buddha’s name he will, during every
 repetition, expiate the sins which involve him in
 births and deaths during eighty millions of kalpas.
@@ -20044,9 +19508,6 @@ Thereupon Ananda rose from his seat, approached
 
 
 1 Vide supra, §§ 8, 22, 23.
-
-
-200 AMITAYUR-DHYANA-SOTRaA, § 32.
 
 
 Buddha, and spoke thus : ‘O World-Honoured One,
@@ -20402,461 +19863,3 @@ Yaksha, 201.
 Yama, 1773; 180.
 
 
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-Jolin oi Goll oo on wk leet] wf ee efee
-euel sates fs 2 P} se eae eer) BoM era pre [tegh | Wee forre
-eo. o. 2 2 here R vs ee ee 6 ee .
-yy [oret eset erelece] eves ae ee
-¥ cocteoeoe] DISD PY wm lees: x Fey jie
-
-
-Ss 6 6 SITBSB NY 7s Zl
-eee erUee to OT
-tees ee amon or
-OORT LE FI
-
-
-SS eee Ss | er
-
-
-(‘O27 ‘soyeyeed)
-
-
-eVJBVOGIPOM solvinyyny
-
-
-snyeoy stuay =“ Zl
-
-
-* © sngeouy todse oe Il
-
-
-°
-
-
-7 @« oe." oe ee ee eee eee fe @ “ee @ 4. oe ef th ah
-nS ed u 2 a eee eoee eee oe ee Y, = 0.8 ee
-bes I} & 2) } eee eoeee eee eee eee q, ee
-O06 u a) P eee ee ee eee ee ee 'ee q, os
-eee N | | eee oeeoe eee 79's 16 ae ae F ee
-sy‘ | ys : : mw [yal B feeee]e ee] q [ee
-
-
-eee ral 2 rz) e Veer) © fe 4te el, ere © Fe. Clits Me *e b sss 8 8 6 © sirerqei-omnzyny g¢
-eee C eee leee "Ss é R ee eel eee q3 syokoaeseeon obs og nidey “ p
-ele C peal to: c =) Le ose Hotell ie ate Oe 3 chemouee cnsRen eRe Ree CIPO ES
-1 Cc cee] eee] og 9 Be a teat ya) oe ees edge 1 Se
-x c @ @ ¢ ¢ & 0 feFe el tea e 4 alee oh oMsRCRe sk oP ACP STNS T BT
-
-"soTBngqng
-
-SMD IT | 81D 11} 35% 1
-
-‘esouyd | ‘mozqeH | yqery | ‘ursueg | qa2\q0q “PmZ =| WAsuNS S.LNVNOSNOD
-
-
-“LUGVHATV AUVNOISSIN
-
-
-“LSVY HHL dO SNOOG AaAXOVG AHL AO
-
-
-SITBoNney stud] “ OI
-siveoney sadse = 6
-oe + *stuay “ 8
-* + * godse snqidg g
-
-
-one Ss) sus Ss aiTene Nino
-
-
-NOILWISNVY | AHL YOU AYLdOGV SLAIVHdTY TVLNALYQ AO NOILVYALVISNVY [
-
-
-OF ORIENTAL ALPHABETS
-
-
-TRANSLITERATION
-
-
-———. | ——_—___——_ | —
-
-
-‘asaury) | *
-
-
-23G2H
-
-
-“Nqesy | “wejss9g
-
-
-“etd
-
-
-“puaz
-
-
-syysues
-
-
-eeceoeteee V4 Dae
-(f) 8 Ter ep eee Nee
-eooeelseree 8 ‘ed
-1 RO Oy) Meee ie, fee
-eoecee 1 acs are
-oeevt eee I a
-cove eee © u ss
-
-
-e
-e
-e
-e
-~~
-“>
-—
-e
-e
-.
-°
-.
-
-
-SUID | SSID IT] “BSVIDT
-
-
-ened
-“‘LHAVHd1V AUVNOISSIN
-
-
-» otlZ9dse
-e*7] snuizedse
-eceeees sua
-ce eee g zadse
-
-
-6e
-
-
-Le
-9€
-sé
-rE
-
-
-Oa Ie Sy | zodse snqiaidg €&
-
-
-°° g sujou
-°° + [ejour
-
-
-cig
-
-
-cé
-1&
-
-
-eoeeeecse SI[BOOATWIIG o€
-
-
-Oi. A OF ORSERHES* S2 2° RTIGEENT..OG
-
-
-eee + wyuriqiss
-
-
-eeeoee * eqeridse
-
-
-“ec
-
-
-“cc
-
-
-Sr PL eneneueye iste Sepa 96
-
-
-oeeee SyVIQGIsss
-sees s + qeidse
-
-
-“ce
-
-
-és
-
-
-cS
-¥G
-
-
-ore 0c ore sre se WUT. CC
-
-
-*so[ ej ued
-BNYAL[IGISSB SIU]
-snyzeriqisse zodse
-soos ee guar
-
-
-oi
-
-
-‘e
-
-
-6S
-Té
-
-
-se eeee sodse snyuidg 6[
-
-
-eo 0 @\4l6 ane SI]BOOATWIIG 8ST
-
-
-“(panuszso2)
-SLNVNOSNOD
-
-
-FOR THE SACRED BOOKS OF THE EAST.
-
-
-eee
-eee
-eee
-eo
-oe.
-eee
-eee
-
-
-¢
-=
-:
-
-
-CHG’
-
-
-cee es euSresta EC
-°c °° *eipasnuYy gg
-ieee SENS] Bes ee
-*** gadse snyindg 9¢
-esraidse &¢ cs
-* * * * SITBIOATUIIS $G
-tees + + suesen gg
-°° °° *eullssinuay, ZS
-* © eyeidse aS
-sees e+ epaw og
-° syeudse “ 6P
-sees smuar gp
-“BO BIQeT
-
-
-oeoee sIU2] 6 LP
-
-
-eeeeee godse sngimdg OF
-°° gordoetp s ch
-
-
-ae Jee |
-
-
-* BYVOLs Ma) bP
-"ss + sifwooatuiag gp
-ere! @ a es STTBSe N oP
-**-ceiendss “ Tp
-e 6 8 26 @ @ sIpIW OF
-+ ejendse “ 6¢
-Se @. Hie 16. 84h sinus], s¢
-
-
-(‘omg ‘sopenSutt)
-SVPBOIYIPOU soTeJUEC
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-‘asoulys | “4o1qeH
-
-
-*uvIsI9ag
-
-
-Wood
-
-
-A ‘at.
-(2) 3(@)3]° °°
-é
-<
-
-
-oeee
-
-
-“pueZ
-
-
-Dl Bere RR mB
-
-
-“Waysues
-
-
-. wee n
-eeee eee U
-20% om Be
-
-
-eo eeflere (ng) no
-see] ee © [(mg)na
-+++] (nn) | 09
-ao an (0) |(ne)¢
-ooee eee (eo)
-oe ee] ee © 1(0Q) 10
-ce eel eee | (tQ)t0
-ome ms hel |= (10) iy
-sere! (a) | (te) 9
-
-
-seve eee Q
-oe ee (n) Q
-eet e oee th
-ee ee pu
-“te ore, eee 1s
-oe ere eee #1
-SLAs chee 7]
-ea) daw
-“ere eee 1
-ee OW IE
-eee e eee 8
-eeee eee Q
-oeee eee 2
-
-
-are e259 0
-
-
-*SSPID III | SSEID IT | SSPIDT
-nt
-“LHAVHAIV AUVNOISSIN
-
-
-BJOVIJ SIPVIGel-oinynyy 17
-
-
-ss 8 9 BoB sITBIqey 97
-+++ + eqovay sIpeqereg oZ
-* * * BjoRly sIpBANyIND, FZ
-
-
-“6
-
-
-6“
-
-
-ta
-
-
-oe
-
-
-sI[eiqel-oinzynd snZuoyyydiq
-eee *e3U0| 6e
-* + + sraagq siTerqey-orngqng)
-
-
-«6
-
-
-6e
-
-
-sijeyejed-oinyynd snZucyyqydrq
-
-°° eZu0T
-staadq sipeyeped-oinygnyy
-ee eee eiuo] “
-
-
-.
-
-
-oe
-
-
-Weick nit ala bi |
-esuol Jy
-sTAarq sipendury
-* eduoy “
-* staodq site}uoq
-* B5uoy 4
-* slAaIq SI[eze[ eg
-eduo0] -
-SIAGIQ SITeIN}INY)
-sierqey =“
-syeqeyed-osusiery
-
-
-&@
-GS
-TZ
-8I
-ZI
-St
-bl
-€T
-él
-II
-Or
-
-
-Z
-g
-B
-€
-
-
-2 ORCAS SOROS RCT EG
-
-
-“STAMOA
-
-
-Buddhist Mahayana texts
-
-
-nn a
-
-
-3352500123728
-
-
-145678
-
-
-Bh 1910 «83 vol. AS
-
-
-Buddhist Mah*ay“ana texts ..
-
-
-Te
-
-
-—
-SSS
-
-
-=

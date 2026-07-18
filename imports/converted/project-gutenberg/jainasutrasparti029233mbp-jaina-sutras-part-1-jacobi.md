@@ -1,36 +1,4 @@
 # Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22)
-
-THE BOOK WAS
-DRENCHED
-
-
-< z
-
-V) > CO =
-
-S< OU_166120>[g
-
-= CO -< CO
-
-^ -i >
-
-
-OSMANfA UNIVERSITY LIBRARY
-
-Call No. ^ \<\ . <\ Accession No. A G "\ G
-
-3 v& 3"
-
-Author
-Title
-
-
-o, o
-
-This book should be returned on or before the date
-last marked brlovi ,
-
-
 THE
 
 SACRED BOOKS OF THE EAST
@@ -701,8 +669,7 @@ GAINA SUTRAS.
 kings of Videha,Magadha, a^id.Anga._JQi the towns which
 lay in these parts he spent Inmost all the rainy seasons
 during his spiritual career \ though he extended his travels
-as far west and north as 5rAvastf and the foot of the Himalaya. The names of his chief disciples, the eleven Gawa-
-dharas or apostles of the 6ainas, as detailed in the Kalpa
+as far west and north as 5rAvastf and the foot of the Himalaya. The names of his chief disciples, the eleven Gawadharas or apostles of the 6ainas, as detailed in the Kalpa
 Sfitra (List of Sthaviras, i), are given without any variation by both divisions of the church, the 6"vetimbaras
 and Digambaras. Of the details of Mahavira's life, mentioned in the canonical books, his rivalry with, and victory
 over Go^ala, the son of Makkhali, and lastly, the place of
@@ -1295,8 +1262,7 @@ nor death 2 .'
 There are some more precepts in BaudhHyana which bear
 a close resemblance to such of the ainas. * With the three
 means of punishment, (viz.) words, thoughts, and acts, he
-shall not injure created beings 3 / This is only an amplification of the first great vow (see above). ' Means of punish-
-ment' is what the Gainas call weapon (jastra 4 ).
+shall not injure created beings 3 / This is only an amplification of the first great vow (see above). ' Means of punishment' is what the Gainas call weapon (jastra 4 ).
 
 ' He shall carry a cloth for straining water for the sake of
 purification/ c He shall perform the necessary purifications
@@ -1313,8 +1279,7 @@ sweep the road and the place where they walk or sit down,
 for removing insects.
 
 The outfit of a Brahmanic ascetic consists in * sticks, a
-rope, a cloth for straining water, a water vessel, and an almsbowl 7 / Thd aina monks also carry sticks, at least now-
-a-days, though I remember no passage in the Pi/akas
+rope, a cloth for straining water, a water vessel, and an almsbowl 7 / Thd aina monks also carry sticks, at least nowa-days, though I remember no passage in the Pi/akas
 expressly allowing the use of a stick. They have also
 a rope belonging to the alms-bowl 8 , an alms-bowl, and a
 water vessel 9 . Of the cloth for straining water, and the
@@ -1353,8 +1318,7 @@ life 1 . 1 The reader will find on perusing the 6aina 'rules
 for begging 2 ' that only that food is considered 'pure and
 acceptable which has been obtained under exactly the
 same circumstances as have been laid down in the above
-rule of Baudhiyana for Brahmanic ascetics. The Buddhists are not so strict in this regard, as they accept invita-
-tions for dinner, of course,, prepared especially for them.
+rule of Baudhiyana for Brahmanic ascetics. The Buddhists are not so strict in this regard, as they accept invitations for dinner, of course,, prepared especially for them.
 
 From the comparison which we have just instituted
 between the rules for the Brahmanic ascetic and those for
@@ -1603,8 +1567,7 @@ INTRODUCTION. XXXV
 
 
 same number of prophets believed to have risen since the
-creation of the present order of things, the former worshipping twenty-four Ttrthakaras, the latter twenty-five Bud-
-dhas. I do not deny that in developing this theory one sect
+creation of the present order of things, the former worshipping twenty-four Ttrthakaras, the latter twenty-five Buddhas. I do not deny that in developing this theory one sect
 was influenced by the other ; but I firmly believe that it
 cannot be made out which of the two sects first invented,
 or borrowed from the Br&hmans, this theory. For if the
@@ -1821,8 +1784,7 @@ Xl GAINA SUTRAS.
 added as a gloss, or be incorporated even in the text, by
 those who transmitted it either in writing or in instructing
 their pupils. But an argument of more weight is the fact
-that in the SiddhAnta we find no traces of Greek astronomy. In fact the Gaina astronomy is a system of incre-
-dible absurdity, which would have been impossible, if its
+that in the SiddhAnta we find no traces of Greek astronomy. In fact the Gaina astronomy is a system of incredible absurdity, which would have been impossible, if its
 author had had the least knowledge of the Greek science.
 As the latter appears to have been introduced in India about
 the third or fourth century A. D., it follows that the sacred
@@ -1862,8 +1824,7 @@ INTRODUCTION. xli
 
 
 must regard the most archaic spellings as representing the
-pronunciation at or shortly after the epoch of the composition of the sacred books, and the most modern one as repre-
-senting the pronunciation at or shortly before the redaction
+pronunciation at or shortly after the epoch of the composition of the sacred books, and the most modern one as representing the pronunciation at or shortly before the redaction
 of the Siddhanta 1 . Now on comparing the^aina Prdkrit
 especially in the olde.st form attainable with the P&li on one
 side, and the Prakrit of Hala, Setubandha, &c. on the other,
@@ -2007,8 +1968,7 @@ as the Digambaras, that besides the Angas, there existed
 other and probably older works, called Ptirvas, of which
 there were originally fourteen. The knowledge of these
 PArvas was gradually lost, till at last it became totally
-extinct. The tradition of the Svetambaras about the fourteen Ptirvas is this : the fourteen Purvas had been in-
-corporated in the twelfth Ahga, the Dr/sh/ivida, which
+extinct. The tradition of the Svetambaras about the fourteen Ptirvas is this : the fourteen Purvas had been incorporated in the twelfth Ahga, the Dr/sh/ivida, which
 was lost before 1000 A.v. Rut a detailed table of contents of it, and consequently of the Ptirvas, has survived
 in the fourth Anga, the Samav&yanga, and in. the Nandi
 Sfitra 1 . Whether the Ptirvas, contained in the Dr/sh/ivdda, were the original ones, or, as I am inclined to believe,
@@ -2252,9 +2212,6 @@ the single lectures and lessons of the A^ctrciriga itself, and
 [] d
 
 
-1 OAINA SUTRAS.
-
-
 to Silanka and the other commentators, it was the eighth
 lecture. It contained seven lessons, and treated of some
 details of ascetic life 1 . The fact that the same subjects
@@ -2266,12 +2223,10 @@ Nisihiya^//a//a, is now reckoned as a separate work. The
 first and second parts lay down rules for conduct. Their
 style is very different from that of the first book, being
 rather cumbrous, and not at all aphoristical. The greatest
-difficulty in translating these parts is caused by the numerous technical terms, some of which remain obscure, notwith-
-standing the explanation of the commentary; others again
+difficulty in translating these parts is caused by the numerous technical terms, some of which remain obscure, notwithstanding the explanation of the commentary; others again
 are simply transcribed into Sanskrit by the scholiast, and
 seem to require no definition to be understood by the
-modern Gainas. But it is different with us, who are frequently reduced to guessing at the meaning of techni-
-calities which a Yati could explain at once. It is therefore
+modern Gainas. But it is different with us, who are frequently reduced to guessing at the meaning of technicalities which a Yati could explain at once. It is therefore
 to be hoped that some scholars in India, who can avail
 themselves of the instruction of a Yati, will turn their
 attention to this subject, and get an authentic explanation
@@ -2303,8 +2258,7 @@ INTRODUCTION. H
 Sfltra. The latter work adds little that is material from an
 historical point of view, but a great deal of descriptions
 which have become typical and are to be found in other
-(Paina works adapted to similar circumstances. The A^arhga Stitra contains, besides the above-mentioned para-
-graphs, some verses which are wanting in the Kalpa Sutra.
+(Paina works adapted to similar circumstances. The A^arhga Stitra contains, besides the above-mentioned paragraphs, some verses which are wanting in the Kalpa Sutra.
 On comparing these verses with those in the eighth lecture
 of the first book, we become aware of the great difference
 which, subsists between both portions of the Adr&riga
@@ -2529,8 +2483,7 @@ commentators supply them also for the beginning of each lesson.
 have briefly been stated in the first lesson, the six remaining
 lessons of the first lecture treat of the actions which injure the six
 classes of lives or souls. The Gainas seem to have arrived at their
-concept of soul, not through the search after the Self, the selfexisting unchangeable principle in the ever-changing world of phe-
-nomena, but through the perception of life. For the most general
+concept of soul, not through the search after the Self, the selfexisting unchangeable principle in the ever-changing world of phenomena, but through the perception of life. For the most general
 (?aina term for soul is life (^iva), which is identical with self (&y3,
 dtman). There are numberless lives or souls, not only embodied
 in animals, men, gods, hell-beings (tasa, trasa), and plants (vaassaf,
@@ -2705,9 +2658,6 @@ pretend only to be houseless ; for one destroys this
 1 The fire-bodies live not longer than three days.
 
 
-8 A*ARANGA S$TRA.
-
-
 other beings, besides, which he hurts by means of fire,
 through his doing acts relating to fire. About this
 the Revered One has taught the truth : for the sake
@@ -2768,8 +2718,7 @@ pretend only to be houseless, for one destroys this (body
 of a plant) by bad and injurious doings, and many other
 
 1 The discussion of the ' wind-bodies,' which should follow that
-of the fire-bodies, is postponed for two lessons in which the vegetable and animal world is treated of. The reason for this inter-
-ruption of the line of exposition is, as the commentators state,
+of the fire-bodies, is postponed for two lessons in which the vegetable and animal world is treated of. The reason for this interruption of the line of exposition is, as the commentators state,
 that the nature of wind, because of its invisibleness, is open to
 doubts, whilst plants and animals are admitted by all to be living
 beings, and are, therefore, the best support of the hylozoistical
@@ -2860,9 +2809,6 @@ to animals. (3) About this the Revered One has
 taught the truth : for the sake of the splendour,
 
 
-12 AjrARANGA SOTRA.
-
-
 honour, and glory of this life, for the sake of birth,
 death, and final liberation, for the removal of pain,
 man acts sinfully towards animals, <jr causes others
@@ -2939,9 +2885,6 @@ wind, through his doing acts relating to wind. Thus
 I say. (3)
 
 
-14 A*:ARANGA S^TRA.
-
-
 There are jumping beings which, coming near
 wind, fall into it. Some, certainly, touched by wind,
 shrivel up ; those which shrivel up there, lose their
@@ -3016,8 +2959,6 @@ makes us apt to enjoy the qualities.
 4 I. e. these failing perceptions.
 
 
-1 6 AJTARANGA STRA.
-
 produce dotage. Or his kinsmen with whom he
 lives together will, after a time, first grumble at
 him, and he will afterwards grumble at them.
@@ -3065,8 +3006,7 @@ A wise man should remove any aversion (to control 3 ); he will be liberated in t
 Some, following wrong instruction, turn away (from
 control). They are dull, wrapped in delusion.
 While they imitate the life of monks, (saying), ' We
-shall be free from attachment/ they enjoy the pleasures that offer themselves 4 . Through wrong in-
-struction the (would-be) sages trouble themselves
+shall be free from attachment/ they enjoy the pleasures that offer themselves 4 . Through wrong instruction the (would-be) sages trouble themselves
 (for pleasures) ; thus they sink deeper and deeper
 in delusion, (and cannot get) to this, nor to the
 opposite shore ft . Those who are freed (from attachment to the world and its pleasures), reach the
@@ -3095,9 +3035,6 @@ L e. moksha, final liberation.
 7 Viz. between good and bad, or of the results of desire.
 
 [22] C
-
-
-1 8 AffARAtfGA S^TRA.
 
 
 (But on the contrary) he suffers day and night,
@@ -3346,9 +3283,6 @@ Davids' Buddhism, pp. 131, 181.
 the householder allows the mendicant who stays in his house.
 
 
-24 AJTARANGA STRA.
-
-
 Pleasures are difficult to reject, life is difficult to
 prolong. That man, certainly, who loves pleasures,
 is afflicted (by their loss), is sorry in his heart, leaves
@@ -3421,9 +3355,6 @@ learned man.
 2 Alara balassa sa/wgea, a pdda of jloka; followed by the
 words in note 2, p. 24, it forms the hemistich of verse 3 in the
 Second Lesson of the next Chapter.
-
-
-26 AJTARANGA
 
 
 should prudently conquer 1 the obstructions to
@@ -3511,9 +3442,6 @@ faith, and those who do not
 fragments of verses, trish/ubhs, or dokas.
 
 4 See the end of the Third Lesson.
-
-
-28 AtfARANGA SUTRA.
 
 
 THIRD LECTURE,
@@ -3783,8 +3711,6 @@ by u>Walayitaram = remover (of sins), but as contrasted with dftrfilaiya it has 
 D
 
 
-34 AjrARANGA StjTRA.
-
 propensity to sin destroys former actions. He who
 knows one thing, knows all things; and he who
 knows all things, knows one thing 1 . He who is
@@ -3834,9 +3760,6 @@ is none. Thus I say. (4)
 
 
 End of the Third Lecture, called Hot and Cold.
-
-
-36 AjsrARANGA S()TRA.
 
 
 FOURTH LECTURE,
@@ -3987,8 +3910,6 @@ perceive the world suffering under them. (2)
 3 According to the commentators the present and future pains.
 
 
-40 A*ARA&GA S(JTRA.
-
 Those who are free from sinful acts are called
 an i din a 1 . Hence a very wise man should not be
 inflamed (by wrath). Thus I say. (3)
@@ -4137,9 +4058,6 @@ passages which occur in this lecture, by, in the world, amongst
 these, viz. householders.
 
 
-44 AA'ARANGA S#TRA.
-
-
 these (living bejtigs). Ceasing from them, making
 an end of them, he perceives : this is a favourable
 opportunity 1 ; he who searches for 2 the right moment
@@ -4214,8 +4132,6 @@ and in that of the Tirthikas.
 * Belongs to the last category, to which belong the 6akyas, &c.
 
 
-46 A^ARANGA S^TRA.
-
 mandment, the wise, the passionless, he who exerts
 himself before morning and after evening 1 , always
 contemplating virtue 2 and hearing (the merit of it)
@@ -4289,9 +4205,6 @@ comes in contact in order to avoid killing animals; this holds good
 with regard to walking, sitting, sleeping, eating, drinking, &c.
 
 
-48 AJSTARANGA S<JTRA.
-
-
 (A monk should according to the &rya's order) go and return, contract or stretch (his limbs),
 thoroughly clean (what ought to be cleaned). Sometimes, though a monk be endowed with virtue and
 walks in righteousness, living beings, coming in contact with his body, will be killed. (If this happens
@@ -4301,8 +4214,7 @@ to the rules 1 , he should repent of it and do penance
 for it 2 . Thus he who knows the sacred lore 3 , recommends penance combined with carefulness. (3)
 
 (When a monk) with fully developed intuition and
-knowledge, calm, guarded, endowed (with knowledge), always restrained, perceives (a woman tempt-
-ing him), he should consider within himself: what
+knowledge, calm, guarded, endowed (with knowledge), always restrained, perceives (a woman tempting him), he should consider within himself: what
 will this person do ? The greatest temptation in
 this world are women. This has been declared
 by the sage. (4)
@@ -4421,8 +4333,7 @@ or through the instruction of the highest 1 , or
 having heard it from others. A wise man should
 not break the commandment. Examining all (wrong)
 doctrines from all sides and in all respects, one
-should clearly understand (and reject) them. ' Knowing the delight of this world 2 , circumspect and re-
-strained, one should lead the life of an ascetic/
+should clearly understand (and reject) them. ' Knowing the delight of this world 2 , circumspect and restrained, one should lead the life of an ascetic/
 Desiring liberation 3 , a hero should, through the
 sacred lore, ever be victorious. Thus I say. (i)
 
@@ -4446,9 +4357,6 @@ noticed as such by the scholiast.
 a Of worldly desires and their objects.
 
 E 2
-
-
-52 AJ^ARANGA S^TRA.
 
 
 man, free from acts, knows and sees the truth ;
@@ -4607,8 +4515,6 @@ we depend on you (?)/ so shouting they cry, &c.
 realised.
 
 
-56 AjtARANGA S^TRA.
-
 belongs to me. A man who, thinking, I am I 1 ,
 exerts himself for this (creed), ceases (to act), is
 houseless, walks about bald-headed. The naked,
@@ -4765,9 +4671,6 @@ the passage above translated i former trade/ is here explained by
 anush/Mna, exertion.
 
 
-60 A*ARANGA S>TRA.
-
-
 desponding ; the rising, cast down. Those troubled
 with sensuality, the cowardly men become perverters
 of the faith l . Therefore the reputation of some becomes bad. He is an apostate ascetic ! He is an
@@ -4794,8 +4697,7 @@ those who do not 4 , among those who are willing to
 hear (the word), (2)
 
 Not neglecting tranquillity, indifference, patience,
-liberation, purity, uprightness, gentleness, and freedom from worldly cares 6 , one should, with due con-
-sideration, preach the law of the mendicants to all
+liberation, purity, uprightness, gentleness, and freedom from worldly cares 6 , one should, with due consideration, preach the law of the mendicants to all
 sorts of creatures. (3)
 
 1 Or breakers of vows. 2 Oy a, see note 2, p. 52.
@@ -4846,9 +4748,6 @@ End of the Sixth Lecture, called the Cleaning.
 
 
 1 One expects, who does not shrink from the injurers.
-
-
-62 AJrARANGA S^TRA.
 
 
 SEVENTH LECTURE,
@@ -4928,9 +4827,6 @@ sexual pleasures). Or the three ages of man are intended by
 , which we have rendered vows.
 
 
-64 AjtARANGA S^TRA.
-
-
 the actions against living beings, in the regions
 above, below, and on the surface, everywhere and
 in all ways a wise man neither gives pain to these
@@ -5002,8 +4898,6 @@ clothes, &c., nor should they exhort them (to give),
 1 The above-detailed benefactions.
 F
 
-
-66 A*ARANGA S^TRA.
 
 nor do them service, always showing the highest
 respect. Thus I say. (4)
@@ -5081,14 +4975,10 @@ to injure ; see lecture 2, lesson 4.
 
 8 The three robes allowed to a Gkina monk are two linen under
 garments (kshaumikakalpa) and one woollen upper garment (auntikakalpa). Besides these (kalpatraya), the monk possesses, 2. an
-alms-bowl (p&tra) with six things belonging to it, 3. a L room (ra^oharaaa), 4. a veil for the mouth (mukhavastrikd). The alms-
-bowl and the articles belonging to it are specialised in the following gdthd: pattam pattdbamdho p&ya//Aavaa*w a piyakesariyfi I
+alms-bowl (p&tra) with six things belonging to it, 3. a L room (ra^oharaaa), 4. a veil for the mouth (mukhavastrikd). The almsbowl and the articles belonging to it are specialised in the following gdthd: pattam pattdbamdho p&ya//Aavaa*w a piyakesariyfi I
 pa<l& rayatt&iaa* *a goao piyan^ogo 11
 
 F 2
-
-
-68 AK-ARANGA S<)TRA.
 
 
 for a fourth rote. He should beg for (clotfres) which
@@ -5191,8 +5081,7 @@ to eat what is brought ; taking the vow not to beg,
 &c., but to eat what is brought ; taking the vow
 neither to beg, &c., nor to eat what is brought
 (one should adhere to that vow). Practising thus
-the law as it has been declared, one becomes tranquil, averted from sin, guarded against the allure-
-ments of the senses. Even thus (though sick) he
+the law as it has been declared, one becomes tranquil, averted from sin, guarded against the allurements of the senses. Even thus (though sick) he
 will in due time put an end to existence 2 . This
 (method) has been adopted by many who were
 free from delusion ; it is good, wholesome, proper,
@@ -5276,8 +5165,7 @@ itvara 8 . (4)
 
 1 There is no finite verb in this sentence, nor any word
 which could supply its place. The old Gaina authors were so
-accustomed to surround their meaning with exclusions and exceptions, and to fortify it with a maze of parentheses, that they some-
-times apparently forgot to express the verb, especially when they
+accustomed to surround their meaning with exclusions and exceptions, and to fortify it with a maze of parentheses, that they sometimes apparently forgot to express the verb, especially when they
 made use of fragments of old verses, as in the present <^ase.
 
 2 This is one of the most frequent gamas or identical passages
@@ -5335,9 +5223,6 @@ shall give of it to other monks, but I shall not eat
 
 * This is the ka/ibandhana or olapa//aka;, it should be
 four fingers broad and one hast a long.
-
-
-74 ArARAftGA STRA.
 
 
 (what they have) brought; (or) having collected
@@ -5425,9 +5310,6 @@ not stir from his position.
 sickness and the probability of instant death.
 
 3 Here commences the description of the bhaktapratydkhyanamarawa, suicide by rejecting food.
-
-
-76 ArARANGA
 
 
 After the i^ravas have ceased, he shoild bear
@@ -5520,9 +5402,6 @@ etymology, which is generally adopted by the dramas, is evidently
 wrong; for the Sanskrit prototype is the Brahmanical prdyopagamana.
 
 2 This is the scholiast's interpretation of mmzmteggSi nimantrayet.
-
-
-78 A^ARANGA S<)TRA.
 
 
 a Brdhmatta should know of this and cast off all
@@ -5674,9 +5553,6 @@ his body. (19)
 yathakr/'tam adhakarm^dina.
 
 
-82 A^ARANGA STRA.
-
-
 Looking a little sideward, looking a little behind,
 answering little when spoken to, he should walk
 attentively looking on his path. (20)
@@ -5727,8 +5603,7 @@ he walked about for an hour. (6)
 In his resting-places he sustained fearful and manifold calamities ; crawling or flying animals attack
 him. (7)
 
-Bad people, the guard of the village, or lancebearers attack him ; or there were domestic tempta-
-tions, single women or men ; (8)
+Bad people, the guard of the village, or lancebearers attack him ; or there were domestic temptations, single women or men ; (8)
 
 Fearful and manifold (calamities) of this and the
 next world ; pleasant and unpleasant smells, and
@@ -5850,9 +5725,6 @@ indulgence of the flesh 3 , though never attacked by
 1 Or his mustaches. * Or is on his guard.
 
 8 Omodariya.
-
-
-86 A^ARANGA STRA.
 
 
 diseases. Whether wounded or not wounded, he
@@ -6025,9 +5897,6 @@ acceptable. (6)
 operation sperms of life might still be left.
 
 
-90 A^ARANGA S$TRA.
-
-
 A monk or a nun desiring to enter the abode of a
 householder for collecting alms, should not enter or
 leave it together with a heretic or a householder;
@@ -6106,9 +5975,6 @@ This certainly is the whole duty of a monk or a
 nun in which One should, instructed in all its meanings and endowed with bliss, always exert oneself.
 
 
-92 JUrARANGA S^TRA.
-
-
 A monk or a nun on a begging-tour should not
 accept food, &c., in the following case : when, on the
 eighth or paushadha day, on the beginning of a
@@ -6185,9 +6051,6 @@ commentator explains it : gihbm gha& gan nimitti dhira kelviva
 bha*.
 
 
-94 AJTARANGA S#TRA.
-
-
 r
 
 Svho uses what 1 has been prepared for him, or is
@@ -6248,8 +6111,7 @@ or in the sleeping-place, in the night or in the twilight/ Luring him thus by hi
 He might go to her, though he knows that it should
 not be done.
 
-These are the causes to sin, they multiply continuously. Therefore should a well-controlled Nir-
-grantha not resolve to go to any festival which is
+These are the causes to sin, they multiply continuously. Therefore should a well-controlled Nirgrantha not resolve to go to any festival which is
 preceded or followed by a feast. (2)
 
 A monk or a nun, hearing or being told of some
@@ -6352,8 +6214,6 @@ few seeds, &c. ; that no .Srama^as and Brdhma^as,
 
 H
 
-
-98 A*ARANGA S^TRA,
 
 crowded assembly, so that a wise man may enter
 or leave, &C. 1 (2)
@@ -7174,8 +7034,7 @@ winnowing basket, a basket, a precious vessel. Now
 (the mendicant) should again know : is the hand not
 wet and the vessel wet ; or the hand wet and the
 vessel not wet ? If he collect alms with an alms-bowl
-or with his hand' 2 , he should say, after consideration : ' O long-lived one ! (or, O sister !) with your not-
-wet hand, or with your wet vessel, put (alms) in this
+or with his hand' 2 , he should say, after consideration : ' O long-lived one ! (or, O sister !) with your notwet hand, or with your wet vessel, put (alms) in this
 my bowl, or hand, and give it me !' Such-like food,
 for which he himself begs or which the other gives
 him, he may accept ; for it is pure and acceptable.
@@ -7328,8 +7187,6 @@ to another, or places outside, a chair or a board or a
 ladder or a mortar, should not use such a lodgingplace, &c. (all as at the end of the last paragraph). (6)
 
 
-122 ATARANGA S^TRA.
-
 A monk or a nun should not use for religious postures, &c., a lodging-place above ground, as a pillar
 or a raised platform or a scaffold or a second story
 or a flat roof, likewise no underground place (except under urgent circumstances). If by chance
@@ -7407,9 +7264,6 @@ words, which are synonyms in the later language, as 'raw and
 wrought gold, or coined gold/ I translate 'gold and silver/
 because the distinction of the commentators seems rather farfetched, and because silver would be missed in enumerations like
 the present one.
-
-
-124 AjrARANGA SflTRA.
 
 
 strings or forty strings or one string or strings of
@@ -7493,8 +7347,6 @@ might be slain ; but if he gives no warning, no life will be lost,
 though the mendicant's integrity may be doubted.
 
 
-126 AJTARANGA SUTRA.
-
 dicant, who is not a thief, to be the thief. Hence it
 has been said to the mendicant, &c. (4)
 
@@ -7523,8 +7375,7 @@ same place/ (7)
 are, forsooth, some faithful householders, householders' wives, &c., who are not well acquainted with
 the rules of monastic life (with regard to the fitness
 of lodging-places) ; nevertheless they believe in, perceive, are convinced of, (the merit of) giving lodging
-to mendicants. They (accordingly) give lodgingplaces for the sake of many K$rama/as and Brh-
-ma^as, guests, paupers, and beggars, in workshops,
+to mendicants. They (accordingly) give lodgingplaces for the sake of many K$rama/as and Brhma^as, guests, paupers, and beggars, in workshops,
 chapels, temples, assembly halls, wells, houses or
 halls for shopkeeping or for keeping or building
 carriages, distilleries, houses where Darbha-grass,
@@ -7570,9 +7421,6 @@ after having well counted them, in workshops, &c.
 1 Sdntigrrfia. * See note 5 on p. 81.
 
 
-128 AJTARANGA st)TRA.
-
-
 If the reverend persons frequent such-like lodgings,
 viz. workshops, &c., and live in them which are ceded
 by other people (they should be warned) : ' O longh\ed one! that (lodging is infected by the sin called)
@@ -7613,8 +7461,7 @@ BOOK II, LECTURE 2, LESSON 3. I2q
 prepared by the householders for their own sake
 under the same circumstances as detailed in the
 preceding paragraph, and the reverend persons frequent such-like lodgings, they lead, in those lodgings,
-an unambiguous life. ' O long-lived one ! that (lodging is infected by the very small sin called) alpasi-
-vadyakriyd.'
+an unambiguous life. ' O long-lived one ! that (lodging is infected by the very small sin called) alpasivadyakriyd.'
 
 This is the whole duty, &c.
 
@@ -7747,9 +7594,6 @@ postures, &c., a lodging where the householder or his
 K 2
 
 
-132 AjrARAtfGA S<)TRA.
-
-
 wife, &c., clean, wash, or sprinkle each other's body
 with cold or hot water; for it is not fit, &c. (10)
 
@@ -7841,9 +7685,6 @@ not be adopted by a gaa-nirgata, or a monk who is attached
 to no order of monks.
 
 
-134 AJSTARANGA
-
-
 should remain in a squatting or sitting posture (for
 the whole night).
 
@@ -7923,9 +7764,6 @@ for a Couch.
 
 
 Seggb, here explained by vasati.
-
-
-136 ArARAfcGA SUTRA.
 
 
 THIRD LECTURE,
@@ -8084,9 +7922,6 @@ If, on board, the boatman should say to the monk,
 * Thale=sthale. The commentator explains it by
 
 
-140 A*ARA#GA SOTRA.
-
-
 ward, or push it, or draw it with the rope towards
 you, or, let us do it together/ he should not comply
 with his request, but look on silently. (16)
@@ -8134,8 +7969,7 @@ on the water.
 This is the whole duty, &c.
 
 
-If, on board, the boatman should say to the mendicant, ' O long-lived Sramana, I please, take this um-
-brella, pot, &c. (see II, 2, 3, 2), hold these various
+If, on board, the boatman should say to the mendicant, ' O long-lived Sramana, I please, take this umbrella, pot, &c. (see II, 2, 3, 2), hold these various
 dangerous instruments 1 , let this boy or girl drink/
 he should not comply with his request, but look on
 silently, (i)
@@ -8160,9 +7994,6 @@ the water, he should be neither glad nor sorry,
 neither in high nor low spirits, nor should he offer
 
 1 Sattha r ya~astra p &ta. About ^astra, sfee I, i, 3.
-
-
-142 A*ARANGA S^TRA.
 
 
 violent resistance to those ruffians ; but undisturbed,
@@ -8392,8 +8223,7 @@ thicket, wood, or stronghold, nor climb a tree, nor
 take a plunge in a large and extended water-sheet,
 nor desire a fold or any other place of refuge, or an
 army or a caravan ; but undisturbed, the mind not
-directed to outward things, they should collect themselves for contemplation ; thus they may circum-
-spectly wander from village to village. (13)
+directed to outward things, they should collect themselves for contemplation ; thus they may circumspectly wander from village to village. (13)
 
 If the road of a monk or a nun on the pilgrimage
 lies through a forest, in which, as they know, there
@@ -8405,9 +8235,6 @@ us your clothes, &c., give them, put them down!'
 the mendicant should not give or put them down.
 
 L 2
-
-
-148 JLffARANGA S(JTRA.
 
 
 Nor should he reclaim (his things) by imploring
@@ -8555,8 +8382,7 @@ speech. (10)
 
 A monk or* a nun, if addressing a woman who,
 if addressed, does not answer, should say : ' O longlived one ! O sister ! madam ! my lady ! O lay-sister !
-O pupil! O faithful one! O lover of faith!' Considering well, they should use such sinless, blame-
-less, &c., speech, (n)
+O pupil! O faithful one! O lover of faith!' Considering well, they should use such sinless, blameless, &c., speech, (n)
 
 A monk or a nun should not say : ' The god l of
 the sky! the god of the thunderstorm! the god of
@@ -8627,9 +8453,6 @@ A monk or a nun, seeing a man, a cow, a buffalo,
 deer, cattle, a bird, a snake, an aquatic animal of
 
 
-154 AJ^ARANGA sCTRA.
-
-
 increased bulk, should not speak about them in this
 way : ' He (or it) is fat, round, fit to be killed or
 cooked ;' considering well, they should not use such
@@ -8676,13 +8499,11 @@ they should use such sinless, &c., language. (12)
 A monk or a nun, seeing many wild fruits, should
 not speak about them in this way : * They are ripe,
 they should be cooked or eaten, they are just in
-season, or soft, or they have just split ;' considering well, they should not use such sinful, &c., lan-
-guage. (13)
+season, or soft, or they have just split ;' considering well, they should not use such sinful, &c., language. (13)
 
 A monk or a nun, seeing many wild fruits, should
 speak about them in this way: 'They are very plentiful, they contain many seeds, they are fully grown,
-they have developed their proper shape ; ' considering well, they should use such sinless, &c., lan-
-guage. (14)
+they have developed their proper shape ; ' considering well, they should use such sinless, &c., language. (14)
 
 A monk or a nun, seeing many vegetables, should
 not speak about them in this way : * They are ripe,
@@ -8764,14 +8585,9 @@ the layman, for the mendicant's sake, has bought,
 8 See JI, i, i, ii. 4 See II, i, i, 13.
 
 
-158 AirARANGA
-
-
 washed, dyed, brushed, rubbed, cleaned, perfumed,
 if these clothes be appropriated by the giver himself. But if they be appropriated by another person,
-they may accept them ; for they are pure and accept-
-
-able. -(3)
+they may accept them ; for they are pure and acceptable. -(3)
 
 A monk or a nun should not accept any very expensive clothes of the following description : clothes
 made of fur, fine ones, beautiful ones ; clothes made
@@ -8855,8 +8671,6 @@ the same answer as above.
 After his words the householder may say (to one
 
 
-160 AjrAaANGA STRA.
-
 of his people): *O long-lived one! (or, O sister!)
 fetch that robe ! we shall give it the .Sramawa, and
 afterwards prepare one for our own use, killing all
@@ -8938,8 +8752,6 @@ asuriaa ya do bh&gd ma^g^e vatthassa rakkhaso it devesu uttamo
 lobho m&misesu ya*ma^Aimo I asuresu ya galannam maranaw
 rakkhase ll
 
-
-1 62 AirARANGA S^TRA,
 
 A monk or a nun may accept clothes which are
 fit, strong, lasting, to be worn, pleasant and fit for a
@@ -9023,9 +8835,6 @@ but conjectural.
 M 2
 
 
-1 64 AtfARAlSTGA
-
-
 he (the owner) should not take such a robe for
 himself, nor should he give it to somebody else,
 nor should he give it on promise (for another robe
@@ -9086,9 +8895,6 @@ This is the whole duty, &c.
 End of the Fifth Lecture, called Begging of
 
 Clothes.
-
-
-166 AJTARANGA STRA.
 
 
 SIXTH LECTURE,
@@ -9181,9 +8987,6 @@ or beggar wants. If they beg for it, &c. (see 5).
 This is the fourth rule.
 
 
-1 68 AJ:ARANGA S()TRA.
-
-
 A monk or a nun having adopted one of these
 four rules should not say, &c. (see II, i,n,$i2, all
 down to) we respect each other accordingly. (7)
@@ -9204,8 +9007,7 @@ The householder may say (to the mendicant) :
 4 O long-lived .Srama#a ! stay a while till they have
 cooked or prepared our food, &c., then we shall give
 you, O long-lived one ! your alms-bowl filled with
-food or drink ; it is not good, not meet that a mendicant should get an empty alms-bowl/ After con-
-sideration, the mendicant should answer : 4 O longlived one ! (or, O sister !) it is indeed not meet for
+food or drink ; it is not good, not meet that a mendicant should get an empty alms-bowl/ After consideration, the mendicant should answer : 4 O longlived one ! (or, O sister !) it is indeed not meet for
 me to eat or drink food &c. which is ddhkarmika ;
 do not cook or prepare it; if you want to give me
 anything, give it as it is. After these words the
@@ -9350,8 +9152,7 @@ he should not invite them to anything of which
 he has taken possession for the sake of somebody
 else. (3)
 
-Having got , possession of some place (in a traveller's hall, &c.), a mendicant should offer a foot-
-stool or bench or bed or couch, which he himself has
+Having got , possession of some place (in a traveller's hall, &c.), a mendicant should offer a footstool or bench or bed or couch, which he himself has
 begged, to any fellow-ascetics arriving there who
 follow other rules than he, yet are zealous brethren ;
 but he should not offer them anything of which
@@ -9401,9 +9202,6 @@ He may beg for a domicile in a traveller's hall,
 &c. (see II, i, 8, 2), having reflected (on its fitness) ; he should ask permission to take possession
 
 1 Oggaha.
-
-
-174 AJrARANGA
 
 
 of it from the landlord or the steward of that place :
@@ -9760,15 +9558,10 @@ paragraphs in the translation,
 v, explained parikshepa*&dik kriy&A kurytiA.
 
 
-1 82 AjtARAtfGA SOTRA.
-
-
 stakes, sprigs, holes, caves, walls, even or uneven
 places 1 , (n)
 
-A monk or a nun should not ease nature in fire-
-
-f
+A monk or a nun should not ease nature in firef
 
 places, layers (or nests) of buffaloes, cattle, cocks,
 monkeys, quails, ducks 2 , partridges, doves, or francoline partridges. (12)
@@ -9884,13 +9677,11 @@ fight; (12)
 Nor to places where herds of cattle, horses^ or
 elephants are kept ; (13)
 
-Nor to places where story-tellers or acrobats perform, or where continuously story-telling, drama-
-tical plays, singing, music, performance on the Vt#4,
+Nor to places where story-tellers or acrobats perform, or where continuously story-telling, dramatical plays, singing, music, performance on the Vt#4,
 beating of time, playing on the Ttirya, clever playing
 on the Pa/aha is going on ; (14)
 
-Nor to places where quarrels, affrays, riots, conflicts between two kingdoms, anarchical or revolu-
-tionary disturbances occur ; (15)
+Nor to places where quarrels, affrays, riots, conflicts between two kingdoms, anarchical or revolutionary disturbances occur ; (15)
 
 1 The beginning, 'If a monk or a nun hear particular sounds
 somewhere, viz./ and the end, 'they should not resolve to go to suchlike or other places for the sake of hearing sounds/ are in the text
@@ -9938,9 +9729,6 @@ in the next paragraph.
 * I have translated the last four words, gamthimdm, ve<2iim&m,
 pftrim&m, sa#zghtim&m, according to the commentary. Later on
 I shall translate them garlands, ribbons, scarfs, and sashes.
-
-
-1 86 A^ARANGA S^TRA.
 
 
 in the last chapter with regard to sounds should be
@@ -10038,8 +9826,6 @@ it, if the other tries to cure him by ^ ure charms ;
 1 The text gives the whole in extenso as in f i.
 
 
-1 88 AtfARAlSTGA S^TRA.
-
 If the other tries to cure him by impure charms ;
 
 If he tries to cure him, digging up and cutting,
@@ -10109,8 +9895,6 @@ vows.
 * Hatthottarfi, in the original. 3 Kalpa Sfttra, i.
 
 
-190 A*ARANGA S^TRA.
-
 months of it being left ; in the fourth month of summer, in the eighth fortnight, in the light fortnight
 of Ashd^a, on its sixth day, while the moon was
 in conjunction with Uttaraphalgunl, the Venerable
@@ -10127,8 +9911,7 @@ part of it, in the southern brahmanical part of the
 place Ku^apura, he took the form of an embryo
 in the womb of Devdnandi, of the G^landhardyaa gotra, wife of the Brdhma^a /frshabhadatta, of
 the gotra of Koafala, taking the form of a lion 2 . (2)
-The knowledge of the Venerable Ascetic Mahvlra (with reference to this transaction) was three-
-fold : he knew that he was to descend ; he knew
+The knowledge of the Venerable Ascetic Mahvlra (with reference to this transaction) was threefold : he knew that he was to descend ; he knew
 that he had descended ; he knew not when he was
 descending. For that time has been declared to be
 infinitesimally small. (3)
@@ -10184,9 +9967,6 @@ In that night, &c., the gods and goddesses rained
 * Cf. Kalpa Sfttra, 97.
 
 
-192 A*ARANGA S^TRA.
-
-
 down one great shower of nectar, sandal powder,
 flowers, gold, and pearls 1 . (8)
 
@@ -10240,8 +10020,7 @@ The Venerable Ascetic Mah^vtra belonged to the
 Kasyapa gotra. His three names have thus been
 recorded by tradition : by his parents he was called
 Vardhamina, because he is devoid of love and hate ;
-(he is called) .SYamatta (i.e. Ascetic), because he sustains dreadful dangers and fears, the noble naked-
-ness, and the miseries of the world ; the name
+(he is called) .SYamatta (i.e. Ascetic), because he sustains dreadful dangers and fears, the noble nakedness, and the miseries of the world ; the name
 Venerable Ascetic Mah&vtra has been given to him
 by the gods 3 .
 
@@ -10264,8 +10043,6 @@ the Kd^yapa gotra, had two names: Anoggb and
 
 [32] O
 
-
-194 AJ5TARANGA S^TRA.
 
 PriyadarranA. His granddaughter, who belonged to
 the Kaiuika gotra, had two names : .Seshavatl and
@@ -10320,8 +10097,7 @@ rising of the sun, as if it were his morning meal. ii.
 Three hundred and eighty-eight krores and eighty
 lacks were given in one year. iii.
 
-The Ku/wfeladharas of Vai^rama^a, the Laukdntika and Maharddhika gods in the fifteen Karma-
-bhtimis 1 wake the Tirthakara. iv.
+The Ku/wfeladharas of Vai^rama^a, the Laukdntika and Maharddhika gods in the fifteen Karmabhtimis 1 wake the Tirthakara. iv.
 
 In Brahma Kalpa and in the line of Krzsh#as, the
 Laukintika Vim&nas are eightfold and infinite in
@@ -10348,9 +10124,6 @@ continents and oceans till they arrived in
 practise religious duties, are called Karmabhftmi, In Gambitdvipa they are Bharata, Air&vata, and Videfca.
 
 O 2
-
-
-196 A*ARA&GA S^TRA.
 
 
 dvtpa at the northern Kshatriya part of the place
@@ -10431,9 +10204,6 @@ a lack. ix.
 1 I. e. shining like the moon.
 
 2 A fabulous animal with eight legs.
-
-
-198 JLrARANGA
 
 
 After a fast of three days, with a glorious resolution he ascended the supreme, palankin, purifying
@@ -10550,8 +10320,7 @@ The Venerable Ascetic Mah&vira having formed
 this resolution, and neglecting his body, arrived in
 the village Kummdra when only one Muhtirta of
 the day remained. Neglecting his body, the Venerable Ascetic Mah&vtra meditated on his Self, in
-blameless lodgings, in blameless wandering, in restraint, kindness, avoidance of sinful influence (saw-
-vara), chaste life, in patience, freedom from passion,
+blameless lodgings, in blameless wandering, in restraint, kindness, avoidance of sinful influence (sawvara), chaste life, in patience, freedom from passion,
 contentment ; control, circumspectffess, practising
 religious postures and acts; walking the path of
 
@@ -10686,9 +10455,6 @@ a Nirgrantha, not he who is careless.
 1 Afthayakare explained by karm4sravakri.
 
 
-204 AffARAlSTGA S^TRA.
-
-
 injure or kill all sorts of living beings. Hence a
 Nirgrantha is careful in laying down his utensils
 of begging, he is not careless in it.
@@ -10728,8 +10494,7 @@ There are five clauses.
 
 The first clause runs thus :
 
-A Nirgrantha speaks after deliberation, not without deliberation. The Kevalin says : Without deli-
-beration a Nirgrantha might utter a falsehood in his
+A Nirgrantha speaks after deliberation, not without deliberation. The Kevalin says : Without deliberation a Nirgrantha might utter a falsehood in his
 speech. A Nirgrantha speaks after deliberation, not
 without deliberation.
 
@@ -10787,9 +10552,6 @@ much, of small or great, of living or lifeless things*
 I shall neither take myself what is not given, nor
 
 
-206 AJTARANGA S#TRA.
-
-
 cause others to take it, nor consent to their taking
 it. As long as I live, I confess and blame, &c. (all
 down to) body.
@@ -10809,8 +10571,7 @@ This is {he first clause, (i)
 Now follows the second clause :
 
 A Nirgrantha consumes his food and drink with
-permission (of his superior), not without his permission. The Kevalin says : If a Nirgrantha con-
-sumes his food and drink without the superior's
+permission (of his superior), not without his permission. The Kevalin says : If a Nirgrantha consumes his food and drink without the superior's
 permission, he might eat what is not given.
 A Nirgrantha, &c.
 
@@ -10884,8 +10645,6 @@ A Nirgrantha does not recall to his mind the
 pleasures and amusements he formerly had with
 women. The Kevalin says : If a Nirgrantha recalls
 
-
-208 AJTARANGA S(JTRA.
 
 to his mind the pleasures and amusements he formerly
 had with women, he might, &c. A Nirgrantha, &c.
@@ -11173,11 +10932,9 @@ VimAna, the all-victorious and all-prosperous Pushpottara, which is like the lot
 things, where he had lived for twenty Sigaropamas
 till the termination of his allotted length of life, of
 his (divine nature, and of his existence (among gods);
-here in the continent of Gambftdvlpa, in Bharatavarsha, when of this Avasarpwt era the Sushamasu-
-shamd, the Sushamd, and Sushamadu^shamS, periods,
+here in the continent of Gambftdvlpa, in Bharatavarsha, when of this Avasarpwt era the Sushamasushamd, the Sushamd, and Sushamadu^shamS, periods,
 and the greater part of the Du^shamasushami period
-(containing a Koa&kodfi 8 of S&garopamas, less fortytwo thousand years) had elapsed, and only seventy-
-two years, eight and a half months were left, after
+(containing a Koa&kodfi 8 of S&garopamas, less fortytwo thousand years) had elapsed, and only seventytwo years, eight and a half months were left, after
 twenty-one Tlrthakaras of the race of Ikshv&ku
 and of the K^Uyapa gotra, and two of the race of
 Hari and of the Gautama gotra, on the whole twentythree Ttrthakaras had appeared, the Venerable
@@ -11309,9 +11066,6 @@ aidamparya of the Vedas.
 well-known versus memorialis. Indeed, that verse is nearly identical with the passage in our text.
 
 
-222 KALPA S^TRA.
-
-
 joining the palms of her hands, &c. (see 5, down
 to) and spoke thus: (12)
 
@@ -11364,8 +11118,7 @@ the Vln, the Ttirya, the great drum, and the PaAipa/aha. (14)
 
 And he viewed this whole continent GambAdvlpa
 with his extensive (knowledge called) Avadhi. There
-he saw in the continent (Sambftdvtpa, in Bh&ratavarsha, in the southern half of Bharata, in the brah-
-manical part of the town Kudagrma, the Venerable
+he saw in the continent (Sambftdvtpa, in Bh&ratavarsha, in the southern half of Bharata, in the brahmanical part of the town Kudagrma, the Venerable
 Ascetic Mahivtra taking the form of an embryo in the
 womb of the Br&hma#l Devdnandd of the G&landhar&ya#a gotra, wife of the Br&hma^a 7?zshabhadatta
 of the gotra of Kod&la ; and glad, pleased, and joyful
@@ -11380,9 +11133,6 @@ up by necklaces, wearing long and swinging ornaments with a pearl pendant the ch
 1 Ka</aga, tudfiya, keftra. Ka/aka is the well-known kahkaua,
 tru/ika is explained by bdhurakshikd, keyfira by ahgsu/a. The last
 two are bracelets worn on the upper arm.
-
-
-224 KALPA S$TRA.
 
 
 with confusion, hasty and trembling from his throne,
@@ -11458,8 +11208,7 @@ the race of IkshvAkii, or of Hari, or in other suchlike families of pure descent
 
 Now this is something which moves the wonder
 of the world : it happens in the lapse of numberless
-Avasarpi#!s and Utsarpwls, because the imperishable, indescribable, and undestroyable Karman re-
-lating to name and gotra must take effect, that
+Avasarpi#!s and Utsarpwls, because the imperishable, indescribable, and undestroyable Karman relating to name and gotra must take effect, that
 Arhats, &c., in the past, present, and future, descend
 in (i. e. take the form of an embryo in the womb of a
 woman belonging to) low families, &c. ; but they
@@ -11475,8 +11224,7 @@ of all past, present, and future .Sakras, chiefs and
 kings of the gods, to cause the Arhats and Bhagavats to be removed from such-like low, mean, &c.,
 families, to such-like high, noble, &a, families. (21)
 It is, therefore, better that I should cause the
-Venerable Ascetic Mah&vlra, the last of the Tlrthakaras who was predicted by the former Tlrtha-
-karas, to be removed from the brahmanical part
+Venerable Ascetic Mah&vlra, the last of the Tlrthakaras who was predicted by the former Tlrthakaras, to be removed from the brahmanical part
 of the town Ku#dagr&ma, from the womb of the
 Br&hmanl Devdnandi of the G&landharya#a gotra,
 wife of the Br^hma^a ./foshabhadatta of the gotra of
@@ -11511,8 +11259,7 @@ this he left the presence of 6akra, the chief and
 king of the gods, and descended towards the northeastern quarter ; then he transformed himself through
 his magical power of transformation, and stretched
 himself out for numerous Yo^anas like a staff, (during
-which he seized) jewels, Va^ra, Vaurttrya, Lohitiksha, Masdragalla, Hawsagarbha, Pulaka, Sau-
-gandhika, 6yotisara, A^fana, A^anapulaka, 6&tartipa, Subhaga, Spharika, and Rish/a; (of these
+which he seized) jewels, Va^ra, Vaurttrya, Lohitiksha, Masdragalla, Hawsagarbha, Pulaka, Saugandhika, 6yotisara, A^fana, A^anapulaka, 6&tartipa, Subhaga, Spharika, and Rish/a; (of these
 precious materials) he rejected the gross particles,
 and retained the subtle particles. (27) Then
 
@@ -11523,9 +11270,6 @@ represented in pictures as a man with the head of an antelope
 interesting as the fact itself is.
 
 Q 2 .
-
-
-228 KALPA SOTRA.
 
 
 for a second time he transformed himself through
@@ -11747,8 +11491,7 @@ original.
 7 Panicum Italicum.
 
 
-1 , Mudgara 2 , Mallikd 3 , 6&ti 4 , Yftthika 5 , Ankolla 6 , Kora/z/akapatra 7 , Damanaka 8 ; Navaml-
-likd 9 , Bakula 10 , Tilajca 11 , Visantika 12 , Nuphar,
+1 , Mudgara 2 , Mallikd 3 , 6&ti 4 , Yftthika 5 , Ankolla 6 , Kora/z/akapatra 7 , Damanaka 8 ; Navamllikd 9 , Bakula 10 , Tilajca 11 , Visantika 12 , Nuphar,
 Nymphaea, P/ala 13 , Kunda 14 , Atimukta 15 , and
 Mango ; and perfumed the ten divisions of the universe with its incomparably delightful fragrance.
 It was white through wreaths of fragrant flowers of
@@ -11830,9 +11573,6 @@ of Rohwi who did her mind good.
 set forth by his thousand rays.
 
 
-236 KALPA S0TRA.
-
-
 9. Then she saw a full vase of costly metal 1 ,
 splendent with fine gold, filled with pure water,
 excellent, of brilliant beauty, and shining with a
@@ -11909,9 +11649,6 @@ concerts, and the din of the drums of the gods,
 * Sa/wsakta, which I do not find mentioned elsewhere, is explained, ' a kind of beast of prey ; ' I think that sawsakta -may be
 an adjective specifying the following word, and mean 4 fighting'
 elephants.
-
-
-238 KALPA S^TRA.
 
 
 imitating the sound of big and large rain-clouds,
@@ -12096,8 +11833,7 @@ with the best qualities of the practices of anointing,
 kneading, and stretching ; well trained, skilful, excellent, expert, intelligent, and never tiring. When by
 this fourfold agreeable treatment of the body the
 king's bones, flesh, skin, and hair had been benefited, and his fatigues banished, he left the hall for
-gymnastic exercises, (60) and entered the bathinghouse. The pleasant bathing-room was very agree-
-able, and contained many windows 1 , ornamented
+gymnastic exercises, (60) and entered the bathinghouse. The pleasant bathing-room was very agreeable, and contained many windows 1 , ornamented
 with pearls; its floor was decorated with mosaic
 of various jewels and precious stones. On the bathfog-stool, inlaid with various jewels and precious
 stones in the form of arabesques, he comfortably
@@ -12132,8 +11868,7 @@ undefeated knighthood, glittering, well-made, strong,
 excellent, beautiful armlets, made by clever artists
 of spotless and costly jewels, gold, and precious
 stones of many kinds. In short, the king was like
-the tree granting all desires, decorated and ornamented ; an umbrella, hung "with wreaths and gar-
-lands of Kori/a flowers, was held above him. He
+the tree granting all desires, decorated and ornamented ; an umbrella, hung "with wreaths and garlands of Kori/a flowers, was held above him. He
 was fanned with white excellent chowries, while his
 appearance was greeted with auspicious shouts of
 victory. Surrounded by many chieftains, satraps,
@@ -12143,9 +11878,6 @@ servants, dancing masters, citizens, traders, merchants, foremen of guilds, gene
 
 1 Gojirsha is a superior kind of sandal.
 R 2
-
-
-244 KALPA S^TRA.
 
 
 vans, messengers, and frontier-guards, he the lord
@@ -12166,8 +11898,7 @@ stones, extremely worth seeing, very costly, and
 manufactured in a famous town ; its soft cloth was
 all over covered with hundreds of patterns and decorated with pictures of wolves, bulls, horses, men,
 dolphins, birds, snakes, Kinnaras, deer, 5arabhas,
-Yaks, Sawsaktas, elephants, shrubs, and plants. Behind it he ordered to be placed, for the Kshatri-
-y&nl TrLrald, an excellent chair of state, decorated
+Yaks, Sawsaktas, elephants, shrubs, and plants. Behind it he ordered to be placed, for the Kshatriy&nl TrLrald, an excellent chair of state, decorated
 with arabesques of different jewels and precious
 stones, outfitted with a coverlet and a soft pillow,
 covered with a white cloth, very soft and agreeable
@@ -12220,9 +11951,6 @@ Siddh&rtha placed his wife Tmal& behind the curtain, and taking flowers and frui
 2 PdyaAWitta = praya^itta. The commentators explain it by
 
 , touching their feet in order to avoid the wicked eye.
-
-
-246 KALPA SOTRA.
 
 
 addressed with utmost courtesy the interpreters of
@@ -12305,9 +12033,6 @@ arabesques of various jewels and precious stones,
 1 Or a life annuity.
 
 
-248 KALPA S^TRA.
-
-
 and returned to her own apartments, neither hasty
 nor trembling, with a quick and even gait like that
 of the royal swan. (88)
@@ -12346,8 +12071,7 @@ ns (rrimbhaka ; what they are is not said in the
 commentaries.
 
 
-pearls, conches, stones, corals, rubies, &c., the intensity of their popularity and liberality highly in-
-creased. At that time the following personal,
+pearls, conches, stones, corals, rubies, &c., the intensity of their popularity and liberality highly increased. At that time the following personal,
 reflectional, desirable idea occurred to parents of
 the Venerable Ascetic Mah&vira : (90)
 
@@ -12371,8 +12095,7 @@ thoughts and ideas, plunged in a sea of sorrow and
 misery, reposing her head on her hand, overcome
 by painful reflections, ^nd casting her eyes on the
 ground she meditated. And in the palace of king
-Siddhirtha the music of drums and stringed instruments, the clapping of hands, the dramatical per-
-formances, and the amusements of the people ceased,
+Siddhirtha the music of drums and stringed instruments, the clapping of hands, the dramatical performances, and the amusements of the people ceased,
 and mournful dejection reigned there. (92)
 
 Then the Venerable Ascetic Mah^vira, knowing
@@ -12621,9 +12344,6 @@ midst of dangers and fears, patiently bears hardships and calamities, adheres to
 * Cf. A/tdr&nga Sfttra II, 15, 12.
 
 
-256 KALPA S^TRA.
-
-
 penance, is wise, indifferent to pleasure and pain,
 rich in control, and gifted with fortitude, the name
 Venerable Ascetic Mah&vira has been given him by
@@ -12707,10 +12427,8 @@ with these kind, pleasing, &c. (see 47, down to)
 sweet and soft words: (113)
 
 ( Victory, victory to thee, gladdener of the world !
-Victory to thee, lucky one I Luck to thee ! with undistur&ed knowledge, intuition, and good conduct con-
-quer the unconquered Senses ; defend the conquered
-Law of the 6ramanas ; Majesty, conquering all obstacles, live in Perfection ; put down with thy devo-
-tion Love and Hate, the (dangerous) wrestlers ;
+Victory to thee, lucky one I Luck to thee ! with undistur&ed knowledge, intuition, and good conduct conquer the unconquered Senses ; defend the conquered
+Law of the 6ramanas ; Majesty, conquering all obstacles, live in Perfection ; put down with thy devotion Love and Hate, the (dangerous) wrestlers ;
 vigorously gird thy loins with constancy and overcome the eight Karmans, our foes, with supreme,
 pure meditation ; heedful raise the banner of content,
 O Hero ! in the arena of the three worlds gain the
@@ -12930,9 +12648,6 @@ knew and saw all conditions of the world, of gods,
 1 Or Samdka* * Cf. A^rahga Sfltra II, 15, ag.
 
 
-264 KALPA S^TRA.
-
-
 men y and demons : whence they come, whither they
 go, whether they are born as men or animals
 (>fcyavana) or become gods or hell-beings (upapdda),
@@ -13016,9 +12731,6 @@ of 354 days and are called Sandra. The day has 1262 bhigas.
 4 Indrabhfiti was on a mission to convert somebody when
 Mahfivfra died. Being aware that love had no place in one who is
 free from passion, he suppressed his friendship for his teacher and
-
-
-266 KALPA StiTRA.
 
 
 highest knowledge and intuition, called Kevala, which
@@ -13111,8 +12823,7 @@ very near them, who knew the combination of all
 letters, and like rina preached according to the
 truth; (138) thirteen hundred sages who were
 possessed of the Avadhi-knowledge and superior
-qualities; (139) seven hundred Kevalins who possessed the combined 1 best knowledge and intui-
-tion; (140) seven hundred who could transform
+qualities; (139) seven hundred Kevalins who possessed the combined 1 best knowledge and intuition; (140) seven hundred who could transform
 themselves, and, though no gods, had obtained
 the powers (rtddhi) of gods; (141) five hundred
 sages of mighty intellect 2 who know the mental
@@ -13253,9 +12964,6 @@ because of his preferable karman.
 2 This is the tenth world of the gods.
 
 
-272 KALPA stiTRA.
-
-
 favourite, (about this) was threefold, &c. (repeat
 $ 3~95 after making the necessary substitutions,
 and omitting what exclusively applies to Mahdvlra, all down to) comfortably carried her unborn
@@ -13341,9 +13049,6 @@ a *Sloka) :
 [] T
 
 
-274 KALPA SCTRA.
-
-
 .Subha and Aryaghosha, VasishMa l and Brahmaarin, Saumya and .Srtdhara, Vtrabhadra and
 Ya^as. (160)
 
@@ -13371,8 +13076,7 @@ ended in the fourth generation, the latter in the
 third year of his Kevaliship. (167)
 
 In that period, in that age the Arhat Pdrcva, the
-people's favourite, lived thirty years as a householder, eighty-three days in a state inferior to per-
-fection, something less than seventy years as a
+people's favourite, lived thirty years as a householder, eighty-three days in a state inferior to perfection, something less than seventy years as a
 Kevalin, full seventy years as a tSramafta, and a
 hundred years on the whole.
 
@@ -13473,9 +13177,6 @@ name Arish/anemi.
 3 Ugginta in the original.
 
 
-278 KALPA StiTRA.
-
-
 The Arhat Arish/anemi had eighteen Ga#as and
 eighteen Ga^adharas. (175)
 
@@ -13539,8 +13240,7 @@ have elapsed, this is the eightieth year 1 . (184)
 Since the death of Munisuvrata this is the year
 1,184,980. Since Malli 2 this is the year 6,584,980.
 Ara died 1 0,000,000 years before Malli; Kunthu a
-quarter of a Palyopama before Malli; 6*anti threequarters of a Palyopama; Dharma threfe Sdgaro-
-pamas before Malli; Ananta seven Sigaropamas
+quarter of a Palyopama before Malli; 6*anti threequarters of a Palyopama; Dharma threfe Sdgaropamas before Malli; Ananta seven Sigaropamas
 before Malli ; Vlmala sixteen Sagaropamas before
 Malli; Vasupti^ya forty Sdgaropamas before Malli;
 sa a hundred S^garopamas before Malli.
@@ -13666,9 +13366,6 @@ Kevala, &c. (see $ 121, down to) moment. (212)
 Kma Sfitra, must therefore be older than 1307, the date of (jinaprabhamuni's commentary on the Kalpa Sfttra.
 
 
-284 KALPA stiTRA.
-
-
 The Arhat /frshabha, the Ko^alian, had eightyfour Gaaas and eighty-four Gaaadharas. (2 1 3)
 
 The Arhat T&shabha, the Ko^alian, had an excellent community of eighty-four thousand 6rama#as
@@ -13745,8 +13442,7 @@ instructed five hundred .5rama#as ; the middle-aged
 monk was Agnibhtiti of the Gautama gotra, who instructed five hundred .Srama;zas ; the youngest was
 Vciyubhftti of the Gautama gotra, who instructed
 five hundred .5Yama#as. The Sthavira Arya-Vyakta
-of the Bhdradvd^a gotra instructed five hundred .Srama^as ; the Sthavira Arya-Sudharman of the Agni-
-ve^yiyana gotra instructed five hundred .Srama^as ;
+of the Bhdradvd^a gotra instructed five hundred .Srama^as ; the Sthavira Arya-Sudharman of the Agnive^yiyana gotra instructed five hundred .Srama^as ;
 the Sthavira Ma#dfikaputra 1 of the Vlsish/^a gotra
 instructed two hundred and fifty ,5rama#as ; the
 Sthavira Mauryaputra of the Ka^yapa gotra instructed two hundred* and fifty ,Srama#as ; the
@@ -13791,9 +13487,7 @@ jyapa gotra. His disciple was 2 :
 
 the Vatsa gotra ;
 
-5. Arya Ya^obhadra of the Tungikdyana go-
-
-tra. (3)
+5. Arya Ya^obhadra of the Tungikdyana gotra. (3)
 
 In the short redaction the list of Sthaviras after
 Arya Yasobhadra is the following :
@@ -13810,9 +13504,6 @@ is stated to have been 14,000.
 * I only give the facts. The names of those Sthaviras who continue the line are spaced. The names are given in their Sanskrit
 form which in many cases is well known, in others can easily be
 made out In doubtful cases I have put the Prakrit form in brackets.
-
-
-288 KALPA S^TRA.
 
 
 ii. Arya Suhastin of the VdsishMa gotra ;
@@ -13833,9 +13524,7 @@ gotra;
 13. Arya Va^ra of the Gautama gotra;
 
 14. Arya Va^rasena of the Utkrz'shfe. gotra 1 .
-He had four disciples : Arya N&gila, Arya Pad-
-
-mila, Arya rayanta, and Arya Tipasa, each of
+He had four disciples : Arya N&gila, Arya Padmila, Arya rayanta, and Arya Tipasa, each of
 whom founded a .S^khsi called after his name, viz.
 the Aryanigiia ^dkhi, the Aryapadmild ,Skh&, the
 Arya^ayantl ,S&kh, and the Aryatpast ^khd. (4)
@@ -14333,9 +14022,6 @@ of a strong body, are not allowed during the Pa^usan
 frequently to take the following nine drinks : milk,
 
 
-298 KALPA S^TRA.
-
-
 thick sour milk, fresh butter, clarified butter, oil,
 sugar, honey, liquor, and meat. (17)
 
@@ -14585,9 +14271,6 @@ hands, the lines in the hand, the nails, the top of
 the nails, the brows, the under lip, the upper lip, 1
 
 
-304 KALPA S$TRA.
-
-
 But when they perceive that the water on their body
 has dried up and the moisture is gone, then they are
 allowed to take their meals. (43)
@@ -14674,9 +14357,6 @@ sara/a or sara/u, c chameleon, lizard,' and Maratht sara/a, * hedgelizard.'
 4 Hima^ stv&nodaka/*.
 
 ["] X
-
-
-306 KALPA S^TRA.
 
 
 &c. (see 44, down to) inspect this. That is small
@@ -14787,8 +14467,7 @@ months. (57) This is the conduct chiefly of Sthaviras during the rainy season 2 
 1 After these words the text has pakkhiya arovawd, which is
 explained in two ways : i. every half-month the tied strings on the
 bed should be Untied and inspected ; the same should be done with
-wicker-work (Pdavaraka ; cf. Hindi daurd, * basket'); 2. every halfmonth prayajvfcitta should be made. The commentator Samaya-
-sundara says that these words are not connected with the preceding
+wicker-work (Pdavaraka ; cf. Hindi daurd, * basket'); 2. every halfmonth prayajvfcitta should be made. The commentator Samayasundara says that these words are not connected with the preceding
 and following ones ; their import (paramartha) should be learned
 from a well-instructed brother (gitdrtha). I think that pakkhiyd is
 not connected with paksha, 'half-month,' but with ke^apaksha,
@@ -14921,9 +14600,7 @@ Adbhuta Kalpa, 194.
 Adhakarma, 81 n 2, 127.
 Adikara=Tirthakara, 224.
 Affects, enumerated, 262.
-A^ita, name of the second Tirtha-
-
-kara, 280.
+A^ita, name of the second Tirthakara, 280.
 Agnibhfiti, name of a Gawadhara,
 
 286.
@@ -14932,9 +14609,7 @@ Agnidatta, 289.
 Agnivejyavana, name of a gotra,
 
 286, 287.
-Ahakamma, ahakammiya = adhakar-
-
-ma, ika, 94 n i, in n i.
+Ahakamma, ahakammiya = adhakarma, ika, 94 n i, in n i.
 AharStiwiya, 146.
 Ahiwsa, doctrine of, 38.
 Ailapatya, name of a gotra, 287,
@@ -14951,9 +14626,7 @@ Alms-bowls, what they should be
 
 made of, 166.
 Amagandha, 23 n i.
-Ananta, name of the fourteenth Tir-
-
-thakara, 280.
+Ananta, name of the fourteenth Tirthakara, 280.
 Anisrava, 37.
 Anga, title of works, 221.
 Anidana, 40.
@@ -14969,9 +14642,7 @@ Anuddharl, name of small insects,
 267.
 
 Apara^ita, name of a Vimana, 276.
-Ara, name of the eighteenth Tirtha-
-
-kara, 280.
+Ara, name of the eighteenth Tirthakara, 280.
 
 
 Arati, 17.
@@ -15143,9 +14814,7 @@ Dhanarddhi, 290.
 
 Dharma, name of different Sthaviras, 294 (bis), 295.
 
-name of the fifteenth Ttrtha-
-
-kara, a 80.
+name of the fifteenth Ttrthakara, a 80.
 Dinara, denar, 233.
 Dfrghabhadra, 289.
 Diseases, various kinds of, 18, 19.
@@ -15164,9 +14833,7 @@ those of Trijali described, 330,
 Dushamasushama period, 189, 218,
 &c.
 
-Earth-bodies, how they are in-
-
-jured, 4.
+Earth-bodies, how they are injured, 4.
 Ea, 289.
 Eravatt, name of a river, 297.
 
@@ -15403,9 +15070,7 @@ ATandraprabha, name of a palankin,
 197, 257.
 
 /Tirana, name of a Ga*a, 291. .
-&6aluya, or ATMiluya. See Roha-
-
-gupta.
+&6aluya, or ATMiluya. See Rohagupta.
 
 Kbukkbb) an interjection, 84.
 Jfitra, name of an asterism, 276.
@@ -15450,18 +15115,14 @@ Mahavira, venerable ascetic, 191,
 Maighika, name of a Kula, 291.
 Maker of an end, 269, &c.
 Mallaki, princes of Kaji, 266.
-Malii, name of the nineteenth Tir-
-
-thakara, 280.
+Malii, name of the nineteenth Tirthakara, 280.
 Maloha^a, 106+41 i.
 Malyaka, name of a Kula, 292.
 Maaaka, 287.
 
 Ma/zava, name of a Ga#a, 292*
 Mandara, mount, 261.
-Ma/r</ikaputra, name of a Gaoa-
-
-dhara, 286.
+Ma/r</ikaputra, name of a Gaoadhara, 286.
 Mambhadra, 289.
 Mara, 29, 30.
 Margajiras, name of a month, 194,
@@ -15521,9 +15182,7 @@ Nalanda, name of a town, 264.
 Name and gotra, Karman relating to,
 
 226.
-Kami, name of the twenty-first Ttr-
-
-thakaja, 280.
+Kami, name of the twenty-first Ttrthakaja, 280.
 Nanda, a lay votary, 278.
 Nandanabhadra, 289.
 Nandika (Nandi&fa), name of a
@@ -15824,9 +15483,7 @@ Sushamasushama, name of a period,
 Susthita, name of a Sthavira, 288,
 
 292.
-Suvidhi, name of the ninth Tfrtba-
-
-kara, 280.
+Suvidhi, name of the ninth Tfrtbakara, 280.
 Suvrata, name of a lay votary, 274.
 
 name of a day, 198, 257, 263.
@@ -15850,9 +15507,7 @@ SaWilya, name of a Sthavira,
 Sahkha^ataka, name of a lay votary,
 
 267.
-Santi, name of the sixteenth Tir-
-
-thakara, 280.
+Santi, name of the sixteenth Tirthakara, 280.
 iSantisenika, 293.
 Sauripura, name of a town, 276.
 Sayyambhava, name of a Sthavira,
@@ -15860,9 +15515,7 @@ Sayyambhava, name of a Sthavira,
 287.
 
 Sirarddhi, 290.
-Sitala, name of the tenth Tirtha-
-
-kara, 280.
+Sitala, name of the tenth Tirthakara, 280.
 
 Siva, name of a queen, 276.
 .Sivabhtiti, name of a Sthavira, 294.
@@ -16005,9 +15658,7 @@ Vejava/ika, name of a Ga*a, 291.
 Videha, native country of Mahavira,
 
 286.
-Videhadatta (dinna), name of Tri-
-
-jaia,i93, 194, 256.
+Videhadatta (dinna), name of Trijaia,i93, 194, 256.
 
 VidySdharagopala, 293.
 
@@ -16070,621 +15721,3 @@ Yakshadatta fdinna), 289. Yoga, 15 n 5.
 Yakshas, 92. Yo^ana, 297, &c.
 
 
-TRANSLITERATION OF ORIENTAL ALPHABETS,
-
-
-Q
-
-
-i
-
-
-^ ! *
-
-
-t t
-
-
-:/>
-
-
-A
-
-
-"* ^
-
-
-"* ^ *
-
-
-u
-
-
-O
-
-
-k
-
-
-H
-
-
-PI n 't o o
-
-
-r* y i~ *^ r*
-
-
-1- ^ L. A
-
-
-J
-
-
-"'
-
-
-CO
-
-fc
-<^
-
-rf
-
-
-I
-
-
-' : i 15
-
-
-- - uo-u ^
-
-
-::,:
-
-
-w
-
-
-rt
-
-
--. S :. 3
-
-
-' - - UoJ-U
-
-
-^) . U <Xy
-
-
-tf h
-
-
-U
-
-
-^\ a i Os.f
-
-
-O\ * /
-
-
-oo
-
-
-|
-
-
-^ ^ v\j
-
-
-Aj
-
-
-fc rl
-
-
-V^
-
-
-Q W
-
-
-'"^ ^ . . .
-
-
-W LJ
-
-
--d
-
-
-p w
-H H
-
-
-o
-
-V
-
-
-^^ ^3 QJ &J
-
-
-5 vT 4^ i .' .* .' I
-
-
-^ *^
-
-
-fa
-
-
-N
-
-
-o n
-
-
-s v ~/ 2>
-
-
-h
-
-** /-s
-
-
-*C
-
-
-s cj
-
-
-fa to t? &
-
-
-|v> m/
-
-
-fir to B W> IT
-
-
-w w
-
-
-|o Hr
-
-
-R' fV 1 h I
-
-
-r< ^
-
-
-w
-
-
-g O
-
-
-2 o
-
-
-jj
-
-
-~ m
-
-
-bl U
-
-
-ti
-
-
-< S
-
-
-13 Q
-
-
-<^ w
-
-
-d :
-
-
-<; ^
-
-
->. ' J2
-
-
-< <!
-
-
-*V "^ ^v *^^ tj*
-
-
-J <
-
-
-< M
-
-
-^* ^ ^ Cj *
-
-
-< fS
-
-
-? *-'
-
-
-h ^
-
-
-, N
-
-
-/~4 f^J
-
-
-K ^
-
-
-_i> p3 v^. ,12 -_|
-
-
-be
-
-C ^5 , rC JC . f
-
-
-^ 5
-
-
-s 1 G
-
-
--* ^ c t cr
-
-
-Kf
-
-
-M
-
-
-G
-
-
-k.
-
-
-,. o
-
-
-i :!'..!
-
-
-n
-
-
-^
-
-
-; -M .2 s
-
-
-<fl o
-
-
-O
-
-
-M
-
-
-. S e8 -M
-
-
-i* . : : . .
-
-
-T RANSLITER AT]
-
-
-CONSONAN1
-
-
-Guttural*
-1 Tenuis
-2 aspirata .
-3 Media
-4 aspirata . .
-5 Gutturo-labialis .
-
-
-2 a T w
-
-: :f ^**
-
-<L> BO o; tc <y w
-
-s 1 a 1 1*1
-
-OT W
-
-1 7J s - r s *
-
-^ ^
-
-CO t^ CO O O <M
-
-
-s s
-
-il i 11
-
-g *."'"*
-
-^ s -^ a * ;s
-"5 g " J s r
-
-^ ^
-
-CO -^ 3 ?D U
-
-
-rH r- ^-
-
-
-'22 TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-n; q r r
-
-
-.9 D **
-
-
-'b D ; 3
-
-
-D <} o .0
-
-
-' ' ? -S 8. \J '
-
-''
-
-
-fr l P* fir I? | |$ IF
-''.:; a ii s ''' j '-S
-
-. . Q . . . * . ^
-
-"5; "'S * N ^ *.
-
-* f
-
-* 00 jfj
-
-
-' ' 3 ' ' rt N
-
-'jgja t nCl*.. WOT
-
-s i j ' i .* 1 1 ^ '. 1 1
-
-* -9 SL S '. ^ I i I i ' ' B fi s 6 2 S S
-
-I g S 1 g g I S I ^ .9 I1 1 s-
-
-! " " 1 1 S I ; 1 ' -s a -
-
-I i - '-3 I 5 - B
-
-a 5 : ; 5 t "2 s i s s :s s s " "
-
-co H S fc co ff
-
-i^H CQ 0] 0) 0) 09 CM 0) 0) CQ 0) CO CO CO CO CO '40 CO CO
-
-
-w
-
-A
-o
-
-
-0)
-
-CO
-
-
-FOR THE SACRED BOOKS OF THE EAST. ^23
-
-
-<*-
-
-
-* *
-
-
-- - j_-_
-
-
-. "1 _ ' '
-
-
-*
-
-
-'1 *v " "
-
-
-J *> . .
-
-
-*
-
-
-^
-
-
-~"~
-
-
-9 ^S O * *"""> ~**\ * s^ *
-
-
-' ^ '
-
-
-i . . .^ . .T . . . I : . :
-
-
-; 5> ^. i i
-
-
-*\ * *%i ,/ *^ ^\ * 4^\ * ^i
-
-
-ls> to | fw E? ^ tr Jr ff fr JT fir .
-
-
-i >^u
-
-
-s. * *** * *
-
-
-st *
-
-
-^, ^3 ^5 S= SJ,
-
-
-S -^.
-
-
-^
-
-
-^2 M >
-
-
-mm-,1 mil
-
-
-Q . .....
-
-
-I
-
-
-.S o !!.!!!! 8 !. ..!.;;.
-
-
-a . * I :....
-
-
-3 . 1 'g I ! 8 . !
-
-
-u,
-
-
-O rft ^a jj Zs r^ c8 48
-
-
-I ^ | * * s .2 -| . I g : :
-
-P '& - .a g 3 *a -s, g . .2
-fio a s* is 3 ^h?-3 a s .
-
-*j{rt * cd o QQ rn
-
-S 3 .2 . a J5 g s s 5 .s s -S 5 S
-
-S"" ! s 3 1 :s 8 s! s * g a
-
-fl^Sa^ c^ ESSeS^^
-
-
-ll g : :
-
-' 5 1 g>
-
-^ CO k(
-
-g rt
-
-EL c .2
-CO -< >
-
-
-324 TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-3 \ o
-'C
-
-
-!*
-
-
-.;|j
-
-
-^ :
-
-
-e
-
-& A
-. ... $
-
-
-| iww|j pp|f * |ff ! iv ^ '. '.
-
-
-~
-
-
-' 9)
-
-
-.2 < S,
-
-
-'? So s s
-
-
-,2
-
-
-,
-
-
-U
-
-
-.e-
-
-
-d '
-
-1 ,
-
-
-= -a
-
-O tk
-
-
-WWMWMWWO

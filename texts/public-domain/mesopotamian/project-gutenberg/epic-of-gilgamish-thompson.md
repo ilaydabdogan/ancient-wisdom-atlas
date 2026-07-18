@@ -1,4 +1,86 @@
+---
+id: mesopotamian.gilgamesh.epic_thompson_archive
+title: The Epic of Gilgamish
+alternate_titles:
+- Epic of Gilgamesh
+- Gilgamesh Epic
+text_status: complete
+tradition: mesopotamian
+culture: ancient_mesopotamian_epic_later_translation
+region: mesopotamia
+source_language: Akkadian
+text_language: English
+date_range: second-to-first millennium BCE Akkadian epic; 1928 public-domain English
+  verse translation
+source_type: text
+provenance:
+  source_id: source.internet_archive.thompson-1928-gilgamesh
+  edition: 'R. Campbell Thompson, The Epic of Gilgamish: A New Translation from a
+    Collation of the Cuneiform Tablets in the British Museum, rendered literally into
+    English hexameters (Luzac & Co., London, 1928); Internet Archive scan with OCR
+    plain text'
+  translator: R. Campbell Thompson
+  editor: ''
+  publication_year: 1928
+  publisher: Luzac & Co.
+  source_url: https://archive.org/details/thompson-1928-gilgamesh
+  access_date: '2026-07-17'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://archive.org/about/terms.php
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1928 (pre-1930), so US public domain since 2024. Hosted file is
+    OCR text of a Google Books library scan; expect OCR noise and scan-frontmatter
+    that will need cleanup during conversion.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- gilgamesh
+- epic
+- flood
+- immortality_quest
+- friendship
+- underworld
+motifs:
+- hero_descent
+- quest_for_immortality
+- deluge
+- wild_man_civilized
+- grief_transformation
+- plant_of_life
+figures:
+- Gilgamesh
+- Enkidu
+- Utnapishtim
+- Ishtar
+- Humbaba
+---
+
 # The Epic of Gilgamish
+
+This is a reproduction of a library book that was digitized
+by Google as part of an ongoing effort to preserve the
+information in books and make it universally accessible.
+
+
+Google books
+
+
+https://books.google.com
 
 
 THE
@@ -19,11 +101,15 @@ R. CAMPBELL THOMPSON, M.A., D.Litt., F.S.A..
 Fellow of Merton College, Oxford.
 
 
+ve sda za
+
+
 LUZAC & CO.,
 46 GREAT RUSSELL STREET, LONDON, W.C.1.
 
 
 1928,
+CoA
 
 
 TO
@@ -68,7 +154,8 @@ of Gilgamish was Nin-sun. According to the Epic, long ago in the old days of Bab
 ability of its ruler, Gilgamish is holding Erech in thrall, and the inhabitants appeal to the Gods
 to be relieved from his tyranny. To aid them the wild man Enkidu is created, and he, seduced
 by the wiles of one of the dancing girls of the Temple of Ishtar, is enticed into the great city, where
-at once (it would appear) by ancient right Gilgamish attempts to rob him of his love. A tremendous fight ensues, and mutual admiration of each other’s prowess follows, to so great an
+at once (it would appear) by ancient right Gilgamish attempts to rob him of his love. A tre-
+mendous fight ensues, and mutual admiration of each other’s prowess follows, to so great an
 extent that the two heroes become firm friends, and determine to make an expedition together
 to the Forest of Cedars which is guarded by an Ogre, Humbaba, to carry off the cedar wood for
 the adornment of the city. They encounter Humbaba, and by the help of the Sun-god who sends
@@ -95,7 +182,8 @@ tell him of a plant at the bottom of the sea which will make him young again, an
 this plant Gilgamish tying stones on his feet in the manner of Bahrein pearl-divers, dives into
 the water. Successful, he sets off home with his plant, but, while he is washing at a chance
 pool, a snake snatches it from him, and he is again frustrated of his quest, and nothing now is
-left him save to seek a way of summoning Enkidu back from Hades, which he tries to do by transgressing every tabu known to those who mourn for the dead. Ultimately, at the bidding of the
+left him save to seek a way of summoning Enkidu back from Hades, which he tries to do by trans-
+gressing every tabu known to those who mourn for the dead. Ultimately, at the bidding of the
 God of the Underworld Enkidu comes forth and pictures the sad fate of the dead in the Underworld
 to his friend: and on this sombre note the tragedy ends. J
 
@@ -121,7 +209,8 @@ re-opening of the diggings in the hope of further finds at Kouyunjik (Nineveh), 
 which he died all too early in 1876. Sir Henry Rawlinson and Professor Pinches played no small
 part in the reconstruction and publication of at least two of the tablets, and to their labours
 in this field must be added the ingenuity of Professor Sayce, and the solid acumen of Dr. L. W
-King. In America to Professor Haupt is owed the first complete edition of the texts, very accurately copied, and later on the editions of two early Babylonian texts were edited by Langdon,
+King. In America to Professor Haupt is owed the first complete edition of the texts, very accur-
+ately copied, and later on the editions of two early Babylonian texts were edited by Langdon,
 Clay and Jastrow: among German publications must be mentioned the translations of Jensen
 and Ungnad, with the edition of an Old Babylonian tablet by Meissner. The Boghaz Keui texts
 have been edited by Weidner, Friedrich, and Ungnad. It would be superfluous to say how much
@@ -180,6 +269,9 @@ P. 31, J. 3, read “seven mutilated. ”
 P. 51, 1. 87, for “2” read "8."
 
 
+THE EPIC OF GILGAMISH.
+
+
 THE FIRST TABLET
 OF. THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU.
 
@@ -217,6 +309,9 @@ The form of his body ...............-2240.2-
 He hath forced to take
 
 
+e o . ©. e. e. o  @ e. ©. ©. o.  @ e. OGF Ò% © ©  @
+
+
 (Gap of about three lines).
 
 
@@ -228,6 +323,9 @@ of love, in Erech, where the worship of the latter was carried on by bewies of d
 4Restored from the Ninth Tablet.
 
 
+10
+
+
 10.
 
 
@@ -237,6 +335,7 @@ of love, in Erech, where the worship of the latter was carried on by bewies of d
 20.
 
 
+THE EPIC OF GILGAMISH.
 (The Plaint of Erech(?) to the gods against the tyrant Gilgamish)
 
 
@@ -297,6 +396,9 @@ and hunting. 6God of cattle and agriculture.
 
 
 45.
+
+
+THE EPIC OF GILGAMISH. 11
 
 
 E en with gazelles did he pasture on herbage, along with the cattle
@@ -364,6 +466,9 @@ drinking-place, ditto.” 2Probably supply anaku at the end of the line "I mysel
 there is room for this line in the break. 4Fairly probable restoration.
 
 
+12
+
+
 35.
 
 
@@ -376,6 +481,9 @@ there is room for this line in the break. 4Fairly probable restoration.
 50.
 
 
+THE EPIC OF GILGAMISH.
+
+
 Take "with thee” ..... like a strong one;
 1r When he the cattle shall gather again" to the place of (their) drinking,
 rSo shall she put off? her "mantle? (the charm of) her beauty revealing’ ;
@@ -384,6 +492,9 @@ rSo shall she put off? her "mantle? (the charm of) her beauty revealing’ ;
 r(Then) shall he spy her, and (sooth) will embrace her, (and thenceforth)
 his cattle,
 "Which in? his very own deserts "were rear'd", will (straightway) deny him.
+
+
+» 99
 
 
 (How Gilgamish first heard of Enkidu).
@@ -430,6 +541,9 @@ One day, two days they sat by the place where (the beasts) drank (their) water.
 
 NoTES.—1Fairly probable restoration 2This belief in this loss of innocency has been common in the East since the
 . days of Adam and Eve. The proper person to peer into the ink-pool magic is a little boy ; few others are successful.
+
+
+THE EPIC OF GILGAMISH. 13
 
 
 Column IV.
@@ -498,6 +612,9 @@ Norzs.—10r “of thedrinking-place.”  2Lit. either “the innocence of his b
 features watching.” Lit. “[The woman) spake unto him, yea, unto Enkidu.” 7Lit. "the woman ”
 
 
+14 THE EPIC OF GILGAMISH.
+
+
 40. Her counsel
 E'en as she spake it found favour, (for) conscious he was of his longing
 Some companion to seek; so unto the courtesan spake he!:
@@ -539,7 +656,8 @@ When something like unto Anu s own self fell down on my shoulders,
 30. (Ah, though) I heaved him, he was o erstrong for me, (and though) his grapple
 
 
-Loosed I, I was unable to shake him (from off me): (and now, all the meanwhile),
+Loosed I, I was unable to shake him (from off me): (and now, all the mean-
+while),
 
 
 People from Erech were standing about "him5, the’ artisans "pressing".
@@ -548,6 +666,9 @@ NoTES.—1ILit. “Enkidu.” 2The Text is mutilated and the translation of thes
 
 8The god Bel. 4The god of the great waters. 5Perhaps there is an additional line to be supplied in the small
 gap which exists here "[the people (all) thronging before him].”
+
+
+THE EPIC OF GILGAMISH. 15
 
 
 35. On "him behind’, (while) throng d him "the heroes’; my (very) companions
@@ -603,6 +724,9 @@ NoTE8.— 1Or should the name of Nin-sun, the mother of Gilgamish, be supplied i
 the traces are " . . . [let me) go (?), even me.”
 
 
+16 THE EPIC OF GILGAMISH.
+
+
 (The Assyrian Edition of the seventh century has three more
 lines on the First Tablet, which correspond with Column IT, l. 3 of
 the Second Tablet of the Old Babylonian Edition. This latter has
@@ -650,6 +774,9 @@ shepherds
 
 NoTxs.—1Old Babylonian Version. 2Uriammu? SLit. “Enkidu.” 4Read ma-a-[a]-lum.? SText adds “garment.”
 6BAR. 7Read i-na [be]-ri-shu [ip]-hu-ru ri-ia-u.
+
+
+THE EPIC OF GILGAMISH. 1?
 
 
 Column ITI.
@@ -707,6 +834,12 @@ NoTEs—1Or “bridegroom.” 2Use of rabutum “greatness.” It has no meaning
 the shepherds. 3The common meeting place of the men of the town, as sometimes in Arab villages to this day.
 
 
+18
+
+
+THE EPIC OF GILGAMISH.
+
+
 25. Come, then, and heap up the offerings such as are due to the city,
 Come, on behalf of the common weal bring in the food of the city.
 (Tis) for the king of broad-marketed Erech to look on thy greeting,
@@ -751,6 +884,9 @@ the goddess of love. sLit. “her.”
 a= a e Smeg nace a A [| e o — m0 0 ||
 
 
+THE EPIC OF GILGAMISH. 19
+
+
 15. Would not concede: they grappled and snorted(?) like bulls, (and) the
 threshold
 
@@ -777,7 +913,8 @@ THE THIRD TABLET.
 THE EXPEDITION TO THE FOREST OF CEDARS AGAINST HUMBABA.
 
 
-(About a column and a half of the beginning of the Old Babylonian version on the Yale tablet are so broken that almost all the
+(About a column and a half of the beginning of the Old Baby-
+lonian version on the Yale tablet are so broken that almost all the
 text ts lost. Gilgamish and Enkidu have now become devoted
 friends, thus strangely stulttfying the purpose for which Enkidu
 was created, and now is set afoot the great expedition against the
@@ -800,6 +937,9 @@ Enkidu hath not "his equal" . . . unkempt is the hair. . .
 
 
 NOTES.—1Lit. “and.” 2Or perhaps "rage, or valour,” lit. “breast.” 8The mother of Gilgamish;
+
+
+THE EPIC OF GILGAMISH.
 
 
 (Enkudu s sorrow at the loss of his Love).
@@ -854,6 +994,9 @@ of Naomi: “And Orpah kissed her mother-in-law; but Ruth clave unto her.”  sE
 ... “the wood,” “ . . ,” “I will open it.”
 
 
+THE EPIC OF GILGAMISH. 21
+
+
 36. Enkidu open'd his mouth ‘and’ to Gilgamish spake he (in this wise) :
 40. “(But) when we go to the Forest "of Cedars’ . . . its guard isa "Fighter",
 Strong, never ‘sleeping’, O Gilgamish ......
@@ -893,6 +1036,9 @@ After my children are born to my house, and climb up thee, (saying):
 ‘Tell to us all that thou knowest’......
 
 
+P>
+
+
 (Four lines mutilated).
 
 
@@ -922,6 +1068,9 @@ two mutilated at this point.  sOld Babylonian Version.
 
 
 45.
+
+
+THE EPIC OF GILGAMISH.
 
 
 Unto the craftsmen: the mould (?) did the workmen prepare, and the axes
@@ -1009,7 +1158,11 @@ bless Gilgamish in farewell). |
 Notrs.—iText has “and,”  2Conjecture. 3A difficult phrase,
 
 
+— z
 i bl agai pt =
+
+
+THE EPIC OF GILGAMISH. 23
 
 
 KRES ee ee may thy god (so) "protect" thee,
@@ -1064,6 +1217,9 @@ NoTES.—1Lugal-banda appears to be the tutelary god of Gilgamish, and possibly 
 the two kings of Erech preceding Gilgamish in the Kings lists. 2Lit. “stand to thee in thine ambition.”
 
 
+24
+
+
 40.
 
 
@@ -1080,6 +1236,9 @@ the two kings of Erech preceding Gilgamish in the Kings lists. 2Lit. “stand to
 
 
 15.
+
+
+THE EPIC OF GILGAMISH.
 
 
 Wash, (then), thy feet!: when thou haltest2, shalt hollow a pool, so that ever
@@ -1162,6 +1321,7 @@ NOTES.—1Doubtful: the meaning of this brief but difficult line is not obvious.
 25.
 
 
+THE EPIC OF GILGAMISH. 25
 Clasp'd they their hands, each to each, and went to the Palace of Splendour,
 
 
@@ -1229,6 +1389,9 @@ He the night-watches..... ”
 NoTES.—1Lit. “and.” 2Uncertain.  SThe wife of the Sun-god.
 
 
+26 THE EPIC OF GILGAMISH.
+
+
 (Columns III, IV, and V are much mutilated. There ts the
 remnant of a passage in Assyrian, corresponding to the Thwd
 Tablet of the Old Babylonian Version, Column III, 15, which gives
@@ -1292,6 +1455,9 @@ NoTEs.—lAssyrian Version.
 10.
 
 
+THE EPIC OF GILGAMISH. 27
+
+
 I for (full) forty leagues have admired thy "wonderful timber,
 
 (Aye), till I sighted the towering Cedar... .
@@ -1312,7 +1478,8 @@ This, too, the grace "of thy structure’, then either an axe had I lifted
 Or I had . . . or bound together. . . . ”
 
 
-(Of the next Column remains a fragment, and that only presumed to belong to one of the above fragments from its appearance,
+(Of the next Column remains a fragment, and that only pre-
+sumed to belong to one of the above fragments from its appearance,
 which speaks of terror, a dream, and sorrow: “let me pray the gods
 
 . „may thy? god be . . . the father of the gods.” Agatn,
@@ -1367,6 +1534,9 @@ Notzs. 1Text has “and”. 2Or “the dream will be [fulfll'd].” sOne text ad
 40.
 
 
+THE EPIC OF GILGAMISH.
+
+
 (Enkidu ts stricken with fear at thought of the combat).
 Enkidu lay for a day, "yea, a second'—for Enkidu "lying?
 
@@ -1416,6 +1586,9 @@ Cautious (and) careful, by leading "the way’ hath his own body guarded,
 | A name by their ‘valour(?)’ . .
 They will establish. (And now) they together arrive at the barrier(?),
 Still 'd into silence(?)" their speech, and they themselves (suddenly) stopping.
+
+
+THE EPIC OF GILGAMISH. 29
 
 
 THE FIFTH TABLET.
@@ -1506,6 +1679,12 @@ mountain’ :
 Notzs. 1Aseyrian Version. 2A form of Ishtar. SLit. Ferula Persica. 4The restorations are obviously uncertain.
 
 
+30
+
+
+THE EPIC OF GILGAMISH.
+
+
 Column III.
 
 
@@ -1525,7 +1704,8 @@ Then a chill wind-blast Tup” -sprang (and) fa gust’ passing over . . .
 ‘Made’ him to cower, and . . . ‘thereat he sway d' like the corn of the
 mountains . . . l
 
-Gilgamish, pe bent-kneed, supported his haunches, (and straightway
+Gilgamish, pe bent-kneed, supported his haunches, (and straight-
+way
 
 Sleep (such as) floweth on man descended upon him: ‘at? midnight
 
@@ -1572,6 +1752,9 @@ he set'my feet . . . Enkidu unto this god . . . unto Gilgamish
 orgs. 1Published by Weidner, Keilschrifturkunden aus Boghazkoi, IV. 12, p. 13.
 
 
+THE EPIC OF GILGAMISH. 31
+
+
 spake: “My friend, we willgo . . . whatever ts hostile . . . Not
 the mountain . . . Come, lay aside fear...” The rest
 after about mutilated seven lines ts lost).
@@ -1608,7 +1791,7 @@ And ‘shew’d him the dam on the ditches.
 Gilgamish "spake? then "in orison? unto the Sun-god in heaven;
 “Lo, on that day to the city . . . . which is in the city:
 I in sooth ‘pray’ to the Sun-god in heaven: I on a road have now started,
-Unto th’ <a of Gilgamish hearken 'd the Sun-god in heaven,
+Unto th’  a of Gilgamish hearken 'd the Sun-god in heaven,
 Wherefore against Humbaba he raised mighty winds: (yea), a great wind,
 
 
@@ -1646,6 +1829,9 @@ Notgs.—1Translation from J. Friedrich, Alter Orient, 25, 2. 31, and Ungnad, Ku
 
 
 small fragments (Keils. Boghaz, VI. 30 and 32) are to be assigned hereabouts.
+
+
+THE EPIC OF GILGAMISH.
 
 
 THE SIXTH TABLET.
@@ -1720,6 +1906,9 @@ Boghask, IV. 12, p. 12) includes among her gifts “great horses” and “cryst
 
 
 55.
+
+
+THE EPIC OF GILGAMISH. 33
 
 
 Thou 'rt but a palace which dasheth the heroes "within it to pieces’,
@@ -1802,6 +1991,9 @@ force of the tense of the last verb appears to demand this form of translation. 
 85.
 
 
+THE EPIC OF GILGAMISH.
+
+
 But he, Ishullanu,
 Said to thee ‘What dost thouask me? Save only my mother hath baked (it),
 Nought have I eaten—(and) what I should eat would be bread of transgression,
@@ -1842,6 +2034,9 @@ I’ll smite. . . ., I'll put...., PTH....
 100. More than the . . . will be the....... 7
 
 
+— LL
+
+
 Anu "made answer, (thus) speaking, and said unto’ Ishtar, the Lady:
 "TIf I the Heavenly Bull shall create, for which’ thou dost ask me,
 (Then) seven years of (leer) husks "must needs follow after his onslaught (*)".
@@ -1864,6 +2059,9 @@ it down and release the ghosts, who shall then be more numerous than the living.
 of the Bull is found on a Semitic fragment from Boghaz Keui (Ketls. Boghazk. iv. 12, p. 12): the Bull is to
 be a young steer of six months, but there is little else that is new. This is the other part of the tablet quoted in
 the note to the Sixth Tablet, /. 20.
+
+
+THE EPIC OF GILGAMISH. 35
 
 
 "Ishtar made’ answer, (thus) speaking "and said unto’ Anu, her father:
@@ -1899,7 +2097,8 @@ the note to the Sixth Tablet, /. 20.
 gleaned from them except that the fight with the Heavenly Bull is
 about to take place in Erech. After these "a hundred men descend
 ‘upon the Bull", but with his (fiery) breath "he annihilates them.
-Then come two hundred with the same result, and then three hundred more, again to be overcome).
+Then come two hundred with the same result, and then three hun-
+dred more, again to be overcome).
 
 
 Enkidu girded (?) his middle; (and straightway) Enkidu, leaping,
@@ -1958,6 +2157,7 @@ Over the member (torn out) from the Bull she led the lamenting.
 190.
 
 
+THE EPIC OF GILGAMISH.
 (The Triumph of Gilgamish).
 
 
@@ -2024,10 +2224,17 @@ the Sun-god of heaven... "the Sun-god (?) Enlil spake in
 Notss.—iTranslation by Friedrich, and Ungnad.
 
 
+— a oe —
+
+
 30.
 
 
-return: “These who the heavenly’ Bull have kill’d ‘and Humbaba have smitten’: ... which help’d at the cedar . . . "Enlil
+THE EPIC OF GILGAMISH.
+
+
+return: “These who the heavenly’ Bull have kill’d ‘and Hum-
+baba have smitten’: ... which help’d at the cedar . . . "Enlil
 hath said (?)! ‘Enkidu shall die: "but Gilgamish’ shall not die.’”
 Then answer'd Enlil boldly “O Sun-god', at thy behest did they
 Slay the Heavenly Bull and Humbaba. But now shall Enkidu
@@ -2068,6 +2275,9 @@ And me the fever "hath laid’ on my back.”
 (The Answer of Shamash).
 
 
+37
+
+
 Heard him the Sun-god, and open’d his mouth, and from out of the heavens
 (Straightway) He call’d him: “O Enkidu, why dost thou curse the hetaera ?
 
@@ -2079,6 +2289,9 @@ Heard him the Sun-god, and open’d his mouth, and from out of the heavens
 
 
 45.
+
+
+THE EPIC OF GILGAMISH.
 
 
 She ’twas who made thee eat bread, for divinity proper: (aye), wine (too),
@@ -2141,6 +2354,9 @@ rMayst thou’ be left as the mother of seven brides . . .
 Enkidu, sorrowful at his approaching end, sleeps alone and dreams).
 
 
+39
+
+
 "Enkidu . . . woe in his belly . . . sleeping alone,
 
 ‘Came’ in the night ‘to discover’ his heaviness unto his comrade:
@@ -2163,6 +2379,9 @@ NoTzEs.—iOr “of the earth.” 2Or “dog.” Both are possible. 3Is this the
 
 
 Enkidu of ?
+
+
+THE EPIC OF GILGAMISH. 39
 
 
 (Here follows a gap of perhaps three lines, until what ts still
@@ -2220,6 +2439,12 @@ Gilgamish of their exploits together, “mountains "we ascended,
 Nores.—1Presiding deity of the Underworld. 2Text: “were sitting.” 3Again “was sitting.” The Sea is
 probably the great laver of the temple. 4The hero of a legend, who was carried up to heaven on an eagle.
 5The Queen of Hades whose name has made its way into an ancient Greek charm.  6Assyrian Version.
+
+
+40
+
+
+THE EPIC OF GILGAMISH.
 
 
 we reach'd' the Forest of Cedars, ‘travelling’ night and day...
@@ -2289,6 +2514,9 @@ Column II.
 NOTES.—1Text “of the mountains.”
 
 
+THE EPIC OF GILGAMISH. 41
+
+
 Column III.
 
 rGilgamish, grant thee to lie’, on "a handsome’ couch ‘will I grant thee
@@ -2303,7 +2531,8 @@ While I myself for thy sake "will cause my body to carry’
 
 Then when something of morning had dawn’d did "Gilgamish? ....
 Loosing his girdle. . . . . . . . . . . 1 .
-(Column IV has only five fragmentary lines at the end, mentioning “to my friend,” “thy sword,” “likeness,” and “to the god
+(Column IV has only five fragmentary lines at the end, men-
+tioning “to my friend,” “thy sword,” “likeness,” and “to the god
 Bibbu,” i.e., a planet or Mercury. Column V has only a bare
 dozen fragmentary lines at the end):
 Column V.
@@ -2338,6 +2567,9 @@ may be that he is imagining a design for a sculpture of the slaying of the Bull.
 
 hape describes the funerary rites. 4Elammaqu.  SSandu-stone. G6Assyrian Version. 7The Babylonian Noah,
 with whom so much of the remainder of this story is concerned.
+
+
+42 THE EPIC OF GILGAMISH.
 
 
 —Offspring of Ubara-Tutu is he—and with speed will I travel.
@@ -2394,6 +2626,9 @@ NOTR.—ILit. “their terror, and.” 2Lit. “of Shamash.”
 10.
 
 
+THE EPIC OF GILGAMISH. 43
+
+
 (and) in grief "I got . . .” Then the Scorpion-man, with a final
 word about the mountains of Mashu, farewells him, wishing him
 success. “"(Then) when! Gilgamish "heard this), "he set off! at the
@@ -2414,7 +2649,8 @@ Fair for beholding, and azure the boskage it bore ; (aye), twas bearing
 Fruits (all) desirable unto the eye.
 
 
-(Column VI in the Assyrian ts nearly all lost, and it is uncertain what part the Tree plays: but at this point a third Old
+(Column VI in the Assyrian ts nearly all lost, and it is un-
+certain what part the Tree plays: but at this point a third Old
 Babylonian tablet helps us out. At this point, according to this
 early verston the Sun-god takes pity on the hero).
 
@@ -2444,9 +2680,13 @@ When will the man who is dead (ever) look on the light of the Sunshine ?”
 
 
 (With this ends all our connected text of Column VI, the
-Assyrian Version ending with about a dozen mutilated lines containing a mention of numerous minerals and stones, and evidently
+Assyrian Version ending with about a dozen mutilated lines con-
+taining a mention of numerous minerals and stones, and evidently
 Gilgamish has now come to the girl Siduri the sabitu, which
 last word 1s generally taken to mean a provider of strong waters).
+
+
+THE EPIC OF GILGAMISH.
 
 
 THE TENTH TABLET.
@@ -2533,6 +2773,9 @@ mentions Siduri. 2Probable restoration.
 50.
 
 
+THE EPIC OF GILGAMISH. 45
+
+
 No, ’tis not woe in my belly: nor doth my visage resemble
 
 One who hath gone a far journey—nor is my countenance weather’d
@@ -2571,7 +2814,8 @@ He whom I loved hath become "like the dust — 1, shall I not, also,
 Lay me down "like him", throughout all eternity "never returning’ ?”
 
 
-(Here may be interpolated, for convenience, the Old Babylonsan Version of thts episode in the Berlin tablet of 2000 B.C. Column
+(Here may be interpolated, for convenience, the Old Babylon-
+san Version of thts episode in the Berlin tablet of 2000 B.C. Column
 II, 1,—III, 14):
 
 
@@ -2597,6 +2841,9 @@ The Wine-maker Gilgamish answer d:
 
 
 Notgs,—1Probable restoration. 2Lit. “and.” 3Or “on account of him.”
+
+
+46 THE EPIC OF GILGAMISH.
 
 
 Column III. |
@@ -2657,6 +2904,9 @@ it has any connection with “stones” as might be inferred from one rendering 
 
 
 10.
+
+
+THE EPIC OF GILGAMISH. 47
 
 
 Gilgamish, hearing this, "taketh (his) axe in his "hand", "while he draweth
@@ -2724,6 +2974,9 @@ Thou hast destroyéd the sails(?), (and) hast piercéd (?) the . . . .
 NoTES.—iSur-Sunabu in this Version. 2Uta-naishtim. SLit. "to him, to Sur-Sunabu.”
 
 
+48 | THE EPIC OF GILGAMISH.
+
+
 40. Gilgamish, take thee thy axe in "thy? hand; O, descend to the forest,
 rFashion thee’ poles each of five gar in length; make (knops of) bitumen,
 
@@ -2781,10 +3034,14 @@ returning ?”’):
 NoTzs.—1The modern punting-pole of S. Mesopotamia is a bamboo with a knob of bitumen at one end, and a metal
 
 
-ferule or ring at the other.  2Lit. “Went down into.”  sProbably supply "to Ur-Shanabi.”  4Or “he completed,” or "used up his poles.” The text has “Gilgamish. ”
+ferule or ring at the other.  2Lit. “Went down into.”  sProbably supply "to Ur-Shanabi.”  4Or “he com-
+pleted,” or "used up his poles.” The text has “Gilgamish. ”
 
 
 25.
+
+
+THE EPIC OF GILGAMISH. 49
 
 
 Saith (on the matter). (And so), again (?) I came through all countries,
@@ -2868,6 +3125,9 @@ Notgs.—iDifficult line. | 2Assyrian Version.
 59.
 
 
+THE EPIC OF GILGAMISH.
+
+
 Uta-Napishtim (addressing him thus) unto Gilgamish answer'd:
 “Gilgamish, I unto thee will discover the (whole) hidden story,
 Aye, and the rede of the Gods will I tell thee.
@@ -2895,7 +3155,8 @@ wise:
 “Tis me alone (?) whom Enlil so hateth that I in your city
 No (more) may dwell, nor turn my face unto the land which is Enlil’s.
 rI will go’ down to the Deep, (there) dwelling with Ea, my "liege? lord,
-eas = a you will he shower down plenty, yea, fowl"in great numer( ?)’, |
+eas = a you will he shower down plenty, yea, fowl"in great num-
+er( ?)’, |
 
 Booty of fish . . . . "and big’ the harvest.
 EZ ee causing a plentiful rainfall (?) to come down upon you.” ’3
@@ -2913,7 +3174,8 @@ needful.
 Ten gar each was the height of her sides, in accord with her planning(?),
 
 
-Ten gar to match was the size of her deck (?), and the shape of the forepart (?) |
+Ten gar to match was the size of her deck (?), and the shape of the fore-
+part (?) |
 
 
 NoTEs.—1The modern Fara. 2Son of Enlil, and the god of war and hunting. 9sTwo difficult lines. «Singular.
@@ -2937,7 +3199,11 @@ NoTEs.—1The modern Fara. 2Son of Enlil, and the god of war and hunting. 9sTwo 
 105.
 
 
-Did I lay down, (and) the same did I fashion; (aye): six times crosspinn’d her, DER
+THE EPIC OF GILGAMISH.  -.: | 51
+
+
+Did I lay down, (and) the same did I fashion; (aye): six times cross-
+pinn’d her, DER
 Sevenfold did I divide her . . . . , divided her inwards
 
 
@@ -3000,6 +3266,12 @@ Stretch’d to (high) Heaven, (and) all that was bright was turn’d into darkne
 
 
 NoTES.—1Var. "three." 2Lit. “water of the river.”  SIwo difficult lines.
+
+
+52
+
+
+-> THE EPIC OF GILGAMISH.
 
 
 (Four lines mutilated “the land like... ,” “for one day the
@@ -3083,6 +3355,12 @@ Twice seven flagons devoting, (and) sweet cane, (and) cedar, and myrtle,
 NOTE.—1Lit. “and.” 2Text has "the vessel.”
 
 
+w
+
+
+= na
+
+
 160.
 
 
@@ -3105,6 +3383,9 @@ NOTE.—1Lit. “and.” 2Text has "the vessel.”
 
 
 195.
+
+
+THE EPIC OF GILGAMISH. 53
 
 
 Heap 'd up beneath them ; the gods smelt the savour, the gods the sweet savour
@@ -3151,6 +3432,9 @@ Uta-Napishtim shall dwell’. (So) they took me and (there) in the distance
 Notz.—1Gods of heaven.  2Ałra-hasis, another name for Uta-Napishtim.
 
 
+54
+
+
 200.
 
 
@@ -3167,6 +3451,9 @@ Notz.—1Gods of heaven.  2Ałra-hasis, another name for Uta-Napishtim.
 
 
 225.
+
+
+THE EPIC OF GILGAMISH.
 
 
 Caused me to dwell at the mouth of the rivers.
@@ -3256,6 +3543,9 @@ even to stay awake. 2As before “Unto him, unto Uta-Napishtim.” 3So as it sta
 270.
 
 
+THE EPIC OF GILGAMISH. 55
+
+
 . “Tis thou, Ur-Shanabi. .. the crossing, will hate thee,
 
 
@@ -3324,7 +3614,13 @@ Reż wana "to him, (yea), to Uta-Napishtim.” 2The word is not spelt quite corr
 is right.
 
 
+56
+
+
 275.
+
+
+THE EPIC OF GILGAMISH.
 
 
 Cut he the heavy stones "from his feet? that again it restore him
@@ -3408,6 +3704,9 @@ NoTES.—1ILit. “furniture.” The incident is lost in one of the previous gap
 Fifth Tablet, Column VI? 2Unfortunately there are two difficult words in these two lines.
 
 
+"THE EPIC OF GILGAMISH. 57
+
+
 THE TWELFTH TABLET.
 GILGAMISH, IN DESPAIR, ENQUIRES OF THE DEAD.
 
@@ -3476,7 +3775,8 @@ Mayst not chastise, (for) the mourning of earth doth hold thee enthralléd.
 Norgs.— Assyrian Version. Apparently the previous tablet has ended with the short description of Erech and its
 
 
-architecture by Gilgamish, as a cue for the opening lines of the Twelfth Tablet. The “Architect” must be Gilgamish: and the description of seine and net passsing through his house, parallel to the phrase in the First
+architecture by Gilgamish, as a cue for the opening lines of the Twelfth Tablet. The “Architect” must be Gil-
+gamish: and the description of seine and net passsing through his house, parallel to the phrase in the First
 Tablet, Column II, must a be a euphemism for the death of Enkidu. Gilgamish, having failed to learn the secret
 
 
@@ -3487,6 +3787,9 @@ must the mourner do to avoid being haunted by the ghost: and then proceeds to do
 Enkidu may return to haunt him. 20r, if it is the Architect speaking, “my dwelling.” SThese lines are capable
 of two restorations: either “If thou (drawest) . . . unto. . . , then the ghosts will accompany thee to thy Temple, ”
 or “If thou [drawest) . .. unto... , or go to the Temple.” Some slight restoration can be made from /. 31.
+
+
+58 THE EPIC OF GILGAMISH.
 
 
 “She who dead lieth,
@@ -3566,6 +3869,9 @@ is to be restored for the two mutilated words at the beginning.
 75.
 
 
+TRE EPIC OF GILGAMISH. 30
+
+
 (Aye), as he went all alone unto "Ekur", the temple of Enlil:
 “rEnlil’, (my) Father, ('tis now) that the seine hath stricken me also,
 Down to the earth—the net to the earth hath stricken me also.
@@ -3589,7 +3895,8 @@ r(But) no answer the Moon-god vouchsafed :
 | (Then) to Ea he hied him:'
 r"Ea, (my) Father, 'tis now that the seine hath stricken me also,”
 r Down to the earth—the net to the earth hath stricken me also."
-"Enkidu e" I pray thee to raise from the earth—not (the Plaguegod) ,' |
+"Enkidu e" I pray thee to raise from the earth—not (the Plague-
+god) ,' |
 Nam'tar, hath seized him, nor fever, but only the earth: nor” the Croucher,
 Nergal, the ruthless, "hath seized him, but only the earth: neither fell he’
 There = was battle of mortals: "'twas only the earth which hath seized
@@ -3605,6 +3912,9 @@ Communed together, mourning.
 “Tell, O my friend, O tell, O my friend, (O) tell (me, I pr'y thee),
 What thou hast seen of the laws of the Underworld?” "(Nay, then,) O
 comrade ;
+
+
+60 THE EPIC OF GILGAMISH.
 
 
 90. I will not tell thee, (yea,) I will not tell thee—(for), were I to tell thee,
@@ -3668,9 +3978,15 @@ Lees of cup, and broken bread
 Thrown into the street he eateth.”
 
 
++P
+
+
 THE END OF THE EPIC OF GILGAMISH.
 
 
 NOTES.—1Lsf. “his fatber and his mother.”  2Lit. “and o'er him his wife... .
+SHARP AND SONS, BATR
 
+
+dee Google
 

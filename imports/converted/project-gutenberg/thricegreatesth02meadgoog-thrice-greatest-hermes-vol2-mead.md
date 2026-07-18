@@ -1,48 +1,4 @@
 # Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)
-
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
-to make the world's books discoverable online.
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
-are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
-publisher to a library and finally to you.
-
-Usage guidelines
-
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
-prevent abuse by commercial parties, including placing technical restrictions on automated querying.
-
-We also ask that you:
-
-+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
-personal, non-commercial purposes.
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
-use of public domain materials for these purposes and may be able to help.
-
-+ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
-additional materials through Google Book Search. Please do not remove it.
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
-countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
-any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
-anywhere in the world. Copyright infringement liability can be quite severe.
-
-About Google Book Search
-
-Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
-discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
-
-
-at |http : //books . google . com/
-
-
 Thrice-Greatest Hermes
 
 
@@ -1628,8 +1584,7 @@ This he regards as an interpolation of another form of
 cosmogenesis, into the one which is being described.
 
 It seems to me, however, that the breaking of the
-main narrative may be regarded as a necessary digression rather than as an interpolation of foreign material-
-necessary in order to bring on to the scene the hitherto
+main narrative may be regarded as a necessary digression rather than as an interpolation of foreign materialnecessary in order to bring on to the scene the hitherto
 invisible Greatnesses, " within '' the Veil of Light, which
 constitute the Economy of the Pleroma. More had to
 be seen by the disciple before he was in a position to
@@ -2094,10 +2049,7 @@ which is posited as the ultimate opposite, is Death.
 The Way of Deathlessness
 
 21. The Way of Deathlessness is then considered.
-The disciple repeats his lesson, and the Master com-
-
-
-mends him ; the Way Up is the Path of Selfknowledge.
+The disciple repeats his lesson, and the Master commends him ; the Way Up is the Path of Selfknowledge.
 
 Still the disciple cannot believe that this is for him ;
 he cannot understand that Mind is in him, or rather is
@@ -3707,8 +3659,7 @@ Beginning), the End and the Ever-renewing of all things
 are owing to this Triad. All three seem to be almost
 interchangeable terms. The Godhead is the Mind of
 God, Godly Nature is the Wisdom of God. Again, at
-the end of the sermon (§ 4) we are told that the Godhead (or that which is Divine) is '' Nature's ever-making-
-new-again the cosmic mixture." Godhead in operation is
+the end of the sermon (§ 4) we are told that the Godhead (or that which is Divine) is '' Nature's ever-makingnew-again the cosmic mixture." Godhead in operation is
 Nature, while at the same time Nature is co-established
 in Godhead, and both are one in God, the Source of all.
 
@@ -4530,8 +4481,7 @@ God, one single beam of Him to shine into thy
 thinking. For thought alone ''sees" the Unmanifest, in that it is itself unmanifest.
 
 If, then, thou hast the power, He will, Tat,
-manifest to thy mind's eyes. The Lord begrudgeth not Himself to anything, but mani-
-fests Himself through the whole world.
+manifest to thy mind's eyes. The Lord begrudgeth not Himself to anything, but manifests Himself through the whole world.
 
 Thou hast the power of taking thought, of
 seeing it and grasping it in thy own " hands,'*
@@ -4810,8 +4760,7 @@ logos of Phdsilampes,^ quoted by the redactor of the
 Untitled Apocalyjpse of the Codex Brucianus, which runs
 as follows :
 
-"Through Him is that-which-really-is and thatwhich-really-is-not, through which the Hidden-which-
-really-is and the Manifest-which-really-is-not exists."
+"Through Him is that-which-really-is and thatwhich-really-is-not, through which the Hidden-whichreally-is and the Manifest-which-really-is-not exists."
 
 Also compare Hippolytus' summary of the " Simonian"
 Gnosis :
@@ -5116,8 +5065,7 @@ evLOL TTori ipovcri ^Xacriprj/uLovvreg*^*
 ''Bad's place is earth, and not the world, as some
 will sometimes say with impious tongue."
 
-Here we have a formal denial in an Asclepiustractate of the formal proposition in our Asclepius-
-sermon.
+Here we have a formal denial in an Asclepiustractate of the formal proposition in our Asclepiussermon.
 
 The cosmos is not evil ; it is the beautiful worldorder. Evil is a thing connected with the earth ; there
 is no such thing as a TrXrjpcoiua of evil ; evil has at best
@@ -5427,8 +5375,7 @@ TIONS AND AS DEATHS
 (Text : P. 56-59 ; Pat. 48a, 48b.)
 
 1. ^Hermes.] Concerning 8oul and Body, son,
-we now must speak ; in what way Soul is deathless, and whence comes the activity ^ in com-
-posing and dissolving Body.
+we now must speak ; in what way Soul is deathless, and whence comes the activity ^ in composing and dissolving Body.
 
 For there's no death for aught of things [that
 are] ; the thought [this] word conve5^s, is either
@@ -5497,8 +5444,7 @@ which men call death.
 4. It is round earthly lives that this unorder
 doth exist. For that the bodies of the heavenly
 ones preserve one order allotted to them from
-the Father as their rule * ; and it is by the restoration^ of each one [of them] this order is pre-
-served indissolute.^
+the Father as their rule * ; and it is by the restoration^ of each one [of them] this order is preserved indissolute.^
 
 The ''restoration" then of bodies on the earth
 
@@ -8226,8 +8172,7 @@ of it was developed, the question of the date when
 the ^on-doctrine was introduced into it must be
 referred to pre-Christian times.
 
-Andj indeed, the very simple character of the ^Eonlore in our treatise,^ as compared with the mind-
-bewildering complexity and transcendency of first and
+Andj indeed, the very simple character of the ^Eonlore in our treatise,^ as compared with the mindbewildering complexity and transcendency of first and
 second century Christian Gnosticism, is all in favour
 of an early date for its introduction into " Hermeticism," which is only another name for " Gnosticism "
 of a preponderatingly Hellenic form.
@@ -10711,8 +10656,7 @@ And not only do we have the Seven, but also the
 ^ The usual way, indeed, in which it is taken.
 
 
-Twelve, twelve Maidens (Sim. xv. 1-3): Faith, Continence, Power, Long-suffering, Simplicity, Freedom-
-from-malice, Chastity, Joyfulness, Truth, Understanding,
+Twelve, twelve Maidens (Sim. xv. 1-3): Faith, Continence, Power, Long-suffering, Simplicity, Freedomfrom-malice, Chastity, Joyfulness, Truth, Understanding,
 Concord, Love.
 
 To these are opposed twelve Women in dark robes :
@@ -11110,8 +11054,7 @@ not be able to be seen.
 He, therefore, ever maketh ^ ; and therefore
 can He ne'er be seen.
 
-To comprehend Him thus is meet ; and comprehending, [it is meet] to marvel ; and mar-
-velling, to count oneself as blessed, as having
+To comprehend Him thus is meet ; and comprehending, [it is meet] to marvel ; and marvelling, to count oneself as blessed, as having
 learnt to know one's Sire.
 
 4. For what is sweeter than one's own true
@@ -14198,8 +14141,7 @@ upon, it is anon, by interjection of the Earth or
 Moon, or by the intervention of the night,
 robbed of its light.
 
-But once the [Higher] Sense hath been commingled with the soul of man, there is at-one-
-ment from the happy union of the blending
+But once the [Higher] Sense hath been commingled with the soul of man, there is at-onement from the happy union of the blending
 of their natures ; so that minds of this kind
 are never more held fast in errors of the
 darkness.

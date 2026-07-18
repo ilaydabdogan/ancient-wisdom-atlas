@@ -114,7 +114,7 @@ at jhttp : //books . qooqle . com/
 -• '.
 
 
-<b
+ b
 
 
 Musei
@@ -244,7 +244,7 @@ i. Origin Myth ---------- x
 26. The Prtokongs and the Balolookong - - - - - - 102
 
 27. How the Yellow Corn-Ear Maiden became a Bull Snake - - 105
-2S. A Journey to the Skeleton House ------ IO <j
+2S. A Journey to the Skeleton House ------ IO  j
 
 29. Journey to the Skeleton House - - - - - - - 114
 
@@ -3491,7 +3491,7 @@ did not accompany their dance by singing.
 
 By the side of the line of dancers danced a Katcina Uncle (Katcina
 
-1 Told by PQh<ln6mtiwa (Oraibi).
+1 Told by PQh ln6mtiwa (Oraibi).
 
 
 64 Field Columbian Museum — Anthropology, Vol. VIII.
@@ -4884,7 +4884,7 @@ mother's house she asked: "Have you come?" "Yes," they replied,
 to Shong6pavi. Did you see the dance well? How did they
 dance?" "Yes," they said, "we looked at it well and we enjoyed it.
 
-1 Told by T.irwakh"\'<i-n:t (Oraihn.
+1 Told by T.irwakh"\' i-n:t (Oraihn.
 
 
 March, 1905. The Traditions of the Hopi — Voth. 91
@@ -7349,7 +7349,7 @@ grabbed the last one, however, and wiping her hand over her genitalia
 1 This personage occurs in various Hopi tales. Some say that in a migrating party a woman
 was about to be confined. But as she' was in labor a long time, she asked to be left behind. Her
 request was granted, the child being only partly born, from which fact she received her name.
-Comp "The Oralbi Snake Ceremony," by H R Voth, page 3<j.
+Comp "The Oralbi Snake Ceremony," by H R Voth, page 3 j.
 
 
 March, 1905. The Traditions of the Hopi — Voth. 141
@@ -9769,7 +9769,7 @@ close friends. The Bat and the bird often visited the Coyote, spend-
 ing their time there in joking, laughing, and eating. The Coyote,
 being a great hunter, always had plenty of rabbit meat and other
 
-1 Tnlil by Kdhkiuma (Shup»<iliivi)
+1 Tnlil by Kdhkiuma (Shup» iliivi)
 8 Told by Qdyawaima (Oraibi).
 
 
@@ -10363,7 +10363,7 @@ and they were always dancing there. One time the Coyote was
 walking about east of their village. The Chfros saw him as they
 were dancing. They were singing as follows:
 
-1 To!<! by (Jovawaima (Oraibi).
+1 To! ! by (Jovawaima (Oraibi).
 
 
 2oa Field Columbian Museum — Anthropology, Vql. VIII.
@@ -13503,7 +13503,7 @@ great many more Navaho were killed than Hopi. He also stated, which of course is
 tiated by the Hopi, that a great many Navaho ponies were also killed. It is reasonable to believe
 that this statement is correct from the fact, already mentioned, that the Navaho were fighting
 with naked Ixxlies. while the Hopi were well protected by buckskins which they had wound
-ar<<und them. It seems that they were about equally well armed, and the courage of the Hopi
+ar< und them. It seems that they were about equally well armed, and the courage of the Hopi
 was probably as great as that of their assailants. The fact that the Navaho were mounted, of
 murse placed the Hopi at a disadvantage while they were fighting on even ground, but wherever
 the Hopi could withdraw behind rocks or into other unapproachable places, the Navaho derived
@@ -14160,7 +14160,7 @@ bear him children, and they will hold ceremony. They start and go to Spider
 Woman's house. He tells young man not to touch his wife on way home, or
 she and toads will disappear. On way they sleep separately and toads increase.
 When nearly one more day's travel, sack has become full and man opens it,
-while wife remonstrates. During night he takes out finest toads an<J shells
+while wife remonstrates. During night he takes out finest toads an J shells
 and puts them around his neck. In morning all toads but those given him by
 Huruing Wuhti have disappeared. They come to village, and soon woman
 bears many Snake children. They play with Hopi children, but sometimes
@@ -14356,7 +14356,7 @@ After arrow shooting for some time elder brother shoots lightning and all Apache
 are slain. They scalp large and fierce warrior, and cut out his heart and, tak-
 ing moccasins and costumes of slain, return. God of Thunder comes and tells
 them to throw scalp on man who is to be War Chief. They return home and
-are discharmed. Scalp is thrown and War Chief made. People leave Hom<S-
+are discharmed. Scalp is thrown and War Chief made. People leave Hom S-
 lovi, and after wandering some time Bdtki clan goes to Aodtovi, and others,
 who become Forehead Clan, arrive near Shongdpavi, and finally settle in
 Shupaulavi. Chief of Shong6pavi informs Spaniards in New Mexico that

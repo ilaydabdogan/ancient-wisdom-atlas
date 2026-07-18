@@ -1,1000 +1,4 @@
 # Hindu Philosophy: The Sankhya Karika of Iswara Krishna
-
-a
-
-
-==
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-**A knowledge of the commonplace, at least, of Oriental literature, philosophy, and religion is as necessary to the general reader of the present day
-as an acquaintance with the Latin and Greek classics was a generation or so
-ago. Immense strides have been made within the present century in these
-branches of learning; Sanskrit has been brought within the range of accurate
-philology, and its invaluable ancient literature thoroughly investigated ; the
-language and sacred books of the Zoroastrians have been laid bare; Egyptian,
-Assyrian, and other records of the remote past have been deciphered, and a
-group of scholars speak of still more recondite Accadian and Hittite monuments ; but the results of all the scholarship that has been devoted to these
-subjects have been almost inaccessible to the public because they were contained for the most part in learned or expensive works, or scattered through-
-out the numbers of scientific periodicals. Messrs. TRUBNER & Co,, in aspirit
-of enterprise which does them infinite credit, have determined to supply the
-constantly-increasing want, and to give in a popular, or, at least, a comprehensive form, all this mass of knowledge to the world.” —Z'imes.
-
-
-NEARLY READY,
-
-
-Post 8vo, pp. 568, with Map, cloth, price 16s.
-
-
-THE INDIAN EMPIRE: ITS HISTORY, PEOPLE,
-AND PRODUCTS.
-
-
-Being a revised form of the article “ India,” in the ‘‘ Imperial Gazetteer,”
-remodelled into chapters, brought up to date, and ineorporating
-the general results of the Census of 1881.
-
-
-By W. W. HUNTER, C.1.E., LL.D.,
-Director-General of Statistics to the Government of India.
-
-
-“‘The article ‘India,’ in Volume IV., is the touchstone of the work, and proves
-clearly enough the sterling metal of which it is wrought. It represents the essence
-of the 100 volumes which contain the results of the statistical survey conducted by
-Dr. Hunter throughout each of the 240 districts of India. It is, moreover, the only
-attempt that has ever been made to show how the Indian people have been built up,
-and the evidence from the original materials has been for the first time sifted and
-examined by the light of the local research in whieh the author was for so long
-engaged.”—Times.
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-THE FOLLOWING WORKS HAVE ALREADY APPEARED :—
-
-
-Second Edition, post 8vo, cloth, pp. xvi.—428, price 16s.
-ESSAYS ON THE SACRED LANGUAGE, WRITINGS,
-AND RELIGION OF THE PARSIS.
-
-
-By MARTIN HAUG, Pu.D.,
-
-
-Late of the Universities of Tiibingen, Gottingen, and Bonn ; Superintendent
-of Sanskrit Studies, and Professor of Sanskrit in the Poona College.
-
-
-EDITED BY Dr. E. W. WEST.
-
-
-I, History of the Researches into the Sacred Writings and Religion of the
-Parsis, from the Earliest Times down to the Present.
-II. Languages of the Parsi Scriptures.
-HII. The Zend-Avesta, or the Scripture of the Parsis.
-IV. The Zoroastrian Religion, as to its Origin and Development.
-
-
-*«¢Bssays on the Sacred Language, Writings, and Religion of the Parsis,’ by the
-late Dr. Martin Haug, edited by Dr. H. W. West. The author intended, on his return
-from India, to expand the materials contained in this work into a comprehensive.
-account of the Zoroastrian religion, but the design was frustrated by his untimely
-death. We have, however, in a concise and readable form, a history of the researches
-into, the sacred writings and religion of the Parsis from the earliest times down to
-the present—a dissertation on the lanewages of the Parsi Scriptures, a translation
-of the Zend-Avesta, or the Scripture of the Parsis, and a dissertation on the Zoroastrian religion, with especial reference to its origin and development.” —Times.
-
-
-Post 8vo, cloth, pp. viii—176, price 7s. 6d.
-
-
-TEXTS FROM THE BUDDHIST CANON
-
-
-COMMONLY KNOWN AS “DHAMMAPADA.”
-With Accompanying Narratives.
-
-
-Translated from the Chinese by 8S. BEAL, B.A., Professor of Chinese,
-University College, London.
-
-
-The Dhammapada, as hitherto known by the Pali Text Edition, as edited
-by Fausbéll, by Max Miiller’s English, and Albrecht Weber’s German
-translations, consists only of twenty-six chapters or sections, whilst the
-Chinese version, or rather recension, as now translated by Mr. Beal, consists of thirty-nine sections. The students of Pali who possess Fausbéll’s
-text, or either of the above-named translations, will therefore needs want
-Mr. Beal’s English rendering of the Chinese version; the thirteen abovenamed additional sections not being accessible to them in any other form ;
-for, even if they understand Chinese, the Chinese original would be unobtainable by them.
-
-
-‘‘Mr. Beal’s rendering of the Chinese translation is a most valuable aid to the
-critical study of the work. It contains anthentic texts gathered from ancient
-canonical books, and generally connected with some incident in the history of
-Buddha. Their great interest, however, consists in the light which they throw upon
-everyday life in India at the remote period at which they were written, and upon
-the method of teaching adopted by the founder of the religion. The method
-employed was principally parable, and the simplicity of the tales and the excellence
-of the morals inculcated, as well as the strange hold which they have retained upon
-the minds of millions of people, make them a very remarkable study.” —Times.
-
-“Mr. Beal, by making it accessible in an English dress, has added to the great services he has already rendered to the comparative study of religious history.”—Acodemy.
-
-“Valuable as exhibiting the doctrine of the Buddhists in its purest, least adulterated form, it brings the modern reader face to face with that simple creed and rule
-of conduct which won its way over the minds of myriads, and which is now nominally
-professed by 145 millions, who have overlaid its austere simplicity with innumerable
-ceremonies, forgotten its maxims, perverted its teaching, and so inverted its leading
-principle that a religion whose founder denied a God, now worships that founder as
-a god himself.”—Scotsman.
-
-
-if
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-Post 8vo, cloth, pp. xxiii.—36o, price 18s.
-
-
-THE HISTORY OF INDIAN LITERATURE.
-By ALBRECHT WEBER.
-
-
-Translated from the Second German Edition by Joun Mann, M.A., and
-THEODOR ZACHARIAE, Ph.D., with the sanction of the Author.
-
-
-Dr. BunwER, Inspector of Schools in India, writes: —‘‘ When I was Professor of Oriental Languages in Elphinstone College, I frequently felt the
-want of such a work to which I could refer the students.”
-
-Professor CowELL, of Cambridge, writes :—‘‘ It will be especially useful
-to the students in our Indian colleges and universities. I used to long for
-such a book when I was teaching in Caleutta. Hindu students are intensely
-interested in the history of Sanskrit literature, and this volume will supply
-them with all they want on the subject.”
-
-Professor WHITNEY, Yale College, Newhaven, Conn., U.S.A., writes :—
-“*T was one of the class to whom the work was originally given in the form
-of academic lectures. At their first appearance they were by far the most
-learned and able treatment of their subject; and with their recent additions
-they still maintain decidedly the same rank.”
-
-“Ig perhaps the most comprehensive and lucid survey of Sanskrit literature
-extant. The essays contained in the volume were originally delivered as academic
-lectures, and at the time of their first publication were acknowledged to be by far
-the most learned and able treatment of the subject. They have now been brought
-up to date by the addition of all the most important results of recent research,”—
-Times.
-
-
-Post 8vo, cloth, pp. xii.—198, accompanied by Two Language
-Maps, price 12s.
-
-
-A SKETCH OF
-THE MODERN LANGUAGES OF THE EAST INDIES.
-By ROBERT N. CUST.
-
-
-The Author has attempted to fill up a vacuum, the inconvenience of
-which pressed itself on his notice. Much had been written about the
-languages of the East Indies, but the extent of our present knowledge had
-not even been brought to a focus. It occurred to him that it might be of
-use to others to publish in an arranged form the notes which he had collected
-for his own edification.
-
-“Supplies a deficiency which has long been felt.”—Times,
-
-“The book before us is then a valuable contribution to philological science. It
-passes under review a vast number of languages, and it gives, or professes to give, in
-every case the sum and substance of the opinions and judgments of the best-informed
-writers.”—Saturday Review.
-
-
-Second Corrected Edition, post 8vo, pp. xii.—116, cloth, price 5s.
-
-
-THE BIRTH OF THE WAR-GOD.
-A Poem, By KALIDASA,
-
-
-Translated from the Sanskrit into English Verse by
-Rapeu T. H. GRirritH, M.A.
-
-
-““A very spirited rendering of the Kumdrasambhava, which was first published
-twenty-six years ago, and which we are glad to see made once more accessible.” —
-Times.
-
-“Mr. Griffith’s very spirited rendering is well known to most who are at all
-interested in Indian literature, or enjoy the tenderness of feeling and rich creative
-imagination of its author.”—IJndian Antiquary.
-
-“We are very glad to welcome a second edition of Professor Griffith’s admirable
-translation. Few translations deserve a second edition better.”—<Athenaum.
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-Post 8vo, cloth, pp. 432, price 16s,
-A CLASSICAL DICTIONARY OF HINDU MYTHOLOGY
-AND RELIGION, GEOGRAPHY, HISTORY, AND
-LITERATURE.
-
-
-By JOHN DOWSON, M.R.A.S.,
-Late Professor of Hindustani, Staff College.
-
-
-In this work an endeavour has been made to supply the long-felt want of
-a Hindu Classical Dictionary. The main portion of this work consists of
-mythology, but religion is bound up with mythology, and in many points
-the two are quite inseparable.
-
-This work will be a book of reference for all concerned in the government
-of the Hindus, but it will be more especially useful to young Civil Servants,
-and to masters and students in the universities, colleges, and schools in India,
-
-“This not only forms an indispensable book of reference to students of Indian
-literature, but is also of great general interest, as it gives in a concise and easily
-accessible form all that need be known about the personages of Hindu mythology
-whose names are so familiar, but of whom so little is known outside the limited
-circle of savants.”—Times
-
-“Tt is no slight gain when such subjects are treated fairly and fully in a moderate
-space ; and we need only add that the few wants which we may hope to see supplied
-in new editions detract but little from the general excellence of Mr. Dowson’s work.”
-—Saturday Review.
-
-
-Post 8vo, with View of Mecca, pp. cxii.—172, cloth, price gs.
-
-
-SELECTIONS FROM THE KORAN.
-
-
-By EDWARD WILLIAM LANE,
-
-
-Hon. Doctor of Literature, Leyden &c., &c.; Translator of “‘ The Thousand and One
-Nights ;” &c., &e.
-A New Edition, Revised and Enlarged, with an Introduction by
-STANLEY LANE POOLE.
-
-
-««. , . Has been long esteemed in this country as the compilation of one of the
-greutest Arabic scholars of the time, the late Mr. Lane, the well-known translator of
-the ‘Arabian Nights.’ . . . The present editor has enhanced the value of his
-relative’s work by divesting the text of a great deal of extraneous matter introduced
-by way of comment, and prefixing an introduction.”—TZimes.
-
-““Mr. Poole is both a generous and a learned biographer. . . . Mr. Poole tells us
-the facts . . . so far as it is possible for industry and criticism to ascertain them,
-and for literary skill to present them in a condensed and readable form.”—Englishman, Calcutta,
-
-
-Post Bxb, pp- ae nee cloth, price 14s.
-MODERN INDIA AND THE INDIANS,
-
-
-BEING A SERIES OF IMPRESSIONS, NOTES, AND ESSAYS.
-
-
-By MONIER WILLIAMS, D.C.L.,
-Hon. LL.D. of the University of Calcutta, Hon. Member of the Bombay Asiatic
-Society, Boden Professor of Sanskrit in the University of Oxford.
-Third Edition, revised and augmented by considerable Additions,
-with Illustrations and a Map.
-
-
-This edition will be found a great improvement on those that preceded it.
-The author has taken care to avail himself of all such criticisms on particular
-passages in the previous editions as appeared to him to be just, and he has
-enlarged the work by more than a hundred pages of additional matter.
-
-“In this volume we have the thoughtful impressions of a thoughtful man on some
-of the most important questions connected with our Indian Empire. . . . An enlightened observant man, travelling among an enlightened observant people, Professor
-Monier Williams has brought before the public in a pleasant form more of the manners
-and customs of the Queen’s Indian subjects than we ever remember to have seen in
-any one work. He not only deserves the thanks of every Englishman for this able
-contribution to the study of Modern India—a subject with which we should be
-specially familiar—but he deserves the thanks of every Indian, Parsee or Hindu,
-Buddhist and Moslem, for his clear exposition of their manners, their creeds, and
-their necessities.” —Times.
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-Post 8vo, pp. xliv.—376, cloth, price r4s.
-
-
-METRICAL TRANSLATIONS FROM SANSKRIT ~
-WRITERS.
-
-
-With an Introduction, many Prose Versions, and Parallel Passages from
-Classical Authors.
-
-
-By J. MUIR, C.LE., D.C.L., LL.D., Ph.D.
-
-
-«., . An agreeable introduction to Hindu poetry.”—Times.
-
-«|, . A volume which may be taken as a fair illustration alike of the religious
-and moral sentiments and of the legendary lore of the best Sanskrit writers,”—
-Edinburgh Daily Review.
-
-
-In Two Volumes, post 8vo, pp. viii.—408 and viii.—348, cloth, price 28s,
-
-
-MISCELLANEOUS ESSAYS RELATING TO INDIAN
-SUBJECTS.
-
-
-By BRIAN HOUGHTON HODGSON, Esq, F.R.S.,
-
-
-Late of the Bengal Civil Service ; Corresponding Member of the Institute; Chevalier
-of the Legion of Honour; late British Minister at the Court of Nepal, &., &,
-
-
-CONTENTS OF VOL. J.
-
-Section I.—On the Kocch, Bédé, and Dhimdl Tribes.—Part I. Vocabulary.—
-Part II. Grammar.—Part LUI. Their Origin, Location, Numbers, Creed, Customs,
-Character, and Condition, with a General Description of the Climate they dwell in.
-—Appendix.
-
-Section I1.—On Himalayan Ethnology.—I. Comparative Vocabulary of the Languages of the Broken Tribes of Népal.—II. Vocabulary of the Dialects of the Kiranti
-Language.—III. Grammatical Analysis of the Vayu Language, The Vayu Grammar,
-—IV. Analysis of the Bahing Dialect of the Kiranti Language. The Béhing Grammar.—V, On the Vayu or Hayu Tribe of the Central Himaldya,—VI. On the Kiranti
-Tribe of the Central Himaldya.
-
-
-CONTENTS OF VOL. Il.
-
-Srcrron II1.—On the Aborigines of North-Eastern India. Comparative Vocabulary
-of the Tibetan, Bédd, and Garé Tongues.
-
-Section IV.—Aborigines of the North-Eastern Frontier.
-
-Section V.—Aborigines of the Eastern Frontier.
-
-Srcrion VI.—The Indo-Chinese Borderers, and their connection with the Himalayans and Tibetans. Comparative Vocabulary of Indo-Chinese Borderers in Arakan.
-Comparative Vocabulary of Indo-Chinese Borderers in Tenasserim.
-
-Srcrton VII.—The Mongolian Affinities of the Caucasians.—Comparison and Analysis of Caucasian and Mongolian Words.
-
-Section VIII.—Physical Type of Tibetans.
-
-Srcrion IX.—The Aborigines of Central India.—Comparative Vocabulary of the
-Aboriginal Languages of Central India.—Aborigines of the Eastern Ghats.—Vocabulary of some of the Dialects of the Hill and Wandering Tribes in the Northern Sircars.
-—Aborizines of the Nilgiris, with Remarks on their Affinities—Supplement to the
-Nilgirian Vocabularies.—Lhe Aborigines of Southern India and Ceylon.
-
-Section X.—Route of Nepalese Mission to Pekin, with Remarks on the Water-
-Shed and Plateau of Tibet.
-
-Section XI.—Route from Kathmandu, the Capital of Nepal, to Darjeeling in
-Sikim.—Memorandum relative to the Seven Cosis of Nepal.
-
-Srction XII.—Some Accounts of the Systems of Law and Police as recognised in
-the State of Nepal.
-
-Section XIII.—The Native Method of making the Paper denominated Hindustan,
-Népilese.
-
-Section XIV.—Pre-eminence of the Vernaculars; or, the Anglicists Answered ;
-Being Letters on the Education of the People of India.
-
-“For the study of the less-known races of India Mr. Brian Hodgson’s “ Miscellaneous Essays” will be found yery valuable both to the philologist and the ethnologist.”
-—Times, , a
-
-
-A2
-
-
-TRUBNER'S ORIENTAL SERIES.
-
-
-Third Edition, Two Vols., post 8vo, pp. viii.—268 and viii.—326, cloth,
-price 21s.
-
-
-THE LIFE OR LEGEND OF GAUDAMA,
-
-
-THE BUDDHA OF THE BURMESE. With Annotations.
-The Ways to Neibban, and Notice on the Phongyies or Burmese Monks.
-
-
-By THE Ricut Rev. P. BIGANDET,
-Bishop of Ramatha, Vicar-Apostolic of Ava and Pegu.
-
-
-The work is furnished with copious notes, which not only illustrate the subjectmatter, but form a perfect encyclopedia of Buddhist lore.” — Times.
-
-‘* A work which will furnish European students of Buddhism with a most valuable
-help in the prosecution of their investigations.”—Edinburgh Daily Review.
-
-“‘Bishop Bigandet’s invaluable work, . . . and no work founded—rather translated—from original sources presents to the Western student a more faithful picture
-than that of Bishop Bigandet.”—IJndian Antiquary.
-
-“Viewed in this light, its importance is sufficient to place students of the subject
-under a deep obligation to its author.”—Culcutta Review.
-
-“This work is one of the greatest authorities upon Buddhism.”—Dublin Review.
-
-««. . . A performance the great value of which is well known to all students of
-
-’ Buddhism.” —7ablet.
-
-
-Post 8vo, pp. xxiv. —420, cloth, price 18s.
-
-
-CHINESE BUDDHISM.
-A VOLUME OF SKETCHES, HISTORICAL AND CRITICAL.
-
-
-By J. EDKINS, D.D.,
-Author of ‘* China’s Place in Philology,” ‘‘ Religion in China,” &c. &c.
-
-
-“Tt contains a vast deal of important information on the subject, such as is only
-to be gained by long-continued study on the spot.” —Athenewum.
-
-“ Tt is impossible within our limits even to mention,the various subjects connected
-with Buddhism with which Dr. Edkins deals."—Saturday Review.
-
-
-“Upon the whole, we know of no work comparable to it for the extent of its
-original research, and the simplicity with which this complicated system of philo-
-
-
-sophy, religion, literature, and ritual is set forth.”—British Quarterly Review.
-
-“The whole volume is replete with learning. . . . It deserves most careful study
-from all interested in the history of the religions of the world, and expressly of those
-who are concerned in the propagation of Christianity. Dr. Edkins notices in terms
-of just condemnation the exaggerated praise bestowed upon Buddhism by recent
-English writers.”—Record.
-
-
-Second Edition, post 8vo, pp. xxvi.—244, cloth, price 10s, 6d.
-THE GULISTAN;
-Or, ROSE GARDEN OF SHEKH MUSHLIU’D-DIN SADI OF SHIRAZ,
-
-
-Translated for the First Time into Prose and Verse, with an Introductory
-Preface, and a Life of the Author, from the Atish Kadah,
-
-
-By EDWARD B. EASTWICK, C.B., M.A., F.R.S., M.R.AS.,
-Of Merton College, Oxford, Xe.
-
-
-+ ‘tItis a very fair rendering of the original.”—Times.
-
-*‘The new edition has long been desired, and will be welcomed by all who take
-any interest in Oriental poetry. The Gulistan is a typical Persian verse-book of the
-highest order. Mr. Hastwick’s rhymed translation . .. has long established itself in
-a secure position as the best version of Sadi’s finest work,”—Academy.
-
-
-_ “Tt is both faithfully and gracefully executed.”— Tablet.
-
-
-|
-
-
-‘
-Ps
-
-
-|
-
-
-—
-
-
-> =
-
-
-TRUBNER'S ORIENTAL SERIES.
-
-
-Post 8yvo, pp. 496, cloth, price 18s.
-LINGUISTIC AND ORIENTAL ESSAYS.
-
-
-WRITTEN FROM THE YEAR 1846 TO 1878.
-
-
-By ROBERT NEEDHAM CUST,
-
-
-Late Member of Her Majesty’s Indian Civil Service; Hon. Secretary to
-the Royal Asiatic Society ;
-and Author of ‘* The Modern Languages of the East Indies.”
-
-
-‘‘ We know none who has described Indian life, especially the life of the natives,
-with so much learning, sympathy, and literary talent.”—Academy.
-
-“Tt is impossible to do justice to any of these essays in the space at our command... . .
-But they seem to us to be full of suggestive and original remarks.”—St. James's Gazette.
-
-
-“‘ His book contains a vast amount of information, . . . of much interest to every
-intelligent reader. It is, he tells us, the result of thirty-five years of inquiry,
-reflection, and speculation, and that on subjects as full of fascination as of food for
-thought.” —Tablet.
-
-“The essayS..... exhibit such a thorough acquaintance with the history and
-antiquities of India as to entitle him to speak as one having authority.”—Edinburgh
-Daily Review.
-
-“The author speaks with the authority of personal experience. . . . . It is this
-constant association with the country and the people which gives such a vividness
-to many of the pages.”"—Athenwum.
-
-
-Post 8vo, pp. civ.—348, cloth, price 18s.
-
-
-BUDDHIST BIRTH STORIES; or, Jataka Tales.
-The Oldest Collection of Folk-lore Extant:
-
-
-BEING THE JATAKATTHAVANNANA,
-For the first time Edited in the original Pali.
-
-
-By V. FAUSBOLL.
-And Translated by T, W. Ruys Davips.
-
-
-Translation. Volume I.
-
-
-“These are tales supposed to have been told by the Buddha of what he had seen
-and heard in his previous births. They are probably the nearest representatives
-of the original Aryan stories from which sprang the folk-lore of Kurope as well as
-India, and from which the Semitic nations also borrowed much. The introduction
-contains a most interesting disquisition on the migrations of these fables, tracing
-their reappearance in the various groups of folk-lore legends respectively known as
-* Hsop’s Fables,’ the ‘ Hitopadesa,’ the Calilag and Damnag series, and even ‘The
-Arabian Nights.’ Among other old friends, we meet witha version of the Judgment
-of Solomon, which proves, after all, to be an Aryan, and not a Semitic tale.” —TZimes.
-
-“Tt is now some years since Mr. Rhys Davids asserted his right to be heard on
-this subject by his able article on Buddhism in the new edition of the ‘ Encyclopedia
-Britannica.’”—Leeds Mercury.
-
-** All who are interested in Buddhist literature ought to feel deeply indebted to
-Mr. Rhys Davids. His well-established reputation as a Pali scholar is a sufficient
-guarantee for the fidelity of his version, and the style of his translations is deserving
-of high praise.” —Academy.
-
-“Tt is certain that no more competent expositor of Buddhism could be found than
-Mr. Rhys Davids, and that these Birth Stories will be of the greatest interest and
-importance to students. In the Jataka book we have, then, a priceless record of the
-earliest imaginative literature of our race; and Mr. Rhys Davids is well warranted
-in claiming that it presents to us a nearly complete picture of the social life and
-customs and popular beliefs of the common people of Aryan tribes, closely related to
-ourselves, just as they were passing through the first stages of civilisation.”—<St.
-James's Gazerte,
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-Post 8vo, pp. xxviii.—362, cloth, price 14s.
-A TALMUDIC MISCELLANY;
-
-
-Or, A THOUSAND AND ONE EXTRACTS FROM THE TALMUD,
-THE MIDRASHIM, AND THE KABBALAH.
-
-
-Compiled and Translated by PAUL ISAAC HERSHON,
-Author of ‘* Genesis According to the Talmud,” &c.
-
-
-With Notes and Copious Indexes.
-
-
-“To obtain in so concise and handy a form as this volume a general idea of the
-Talmud is a boon to Christians at least.” — Times.
-
-
-“This is a new volume of the ‘Oriental Series,’ and its peculiar and popular
-character will make it attractive to general readers. Mr. Hershon is a very competent scholar. . . . The present selection contains samples of the good, bad, and
-indifferent, and especially extracts that throw light upon the Scriptures. The
-extracts have been all derived, word for word, and made at first hand, and references
-are carefully given.”—British Quarterly Review.
-
-“ Mr. Hershon’s book, at all events, will convey to English readers a more complete
-and truthful notion of the Talmud than any other work that has yet appeared.”—
-Daily News.
-
-“ Without overlooking in the slightest the several attractions of the previous
-volumes of the ‘ Oriental Series,’ we have no hesitation in saying that this surpasses
-them all in interest.’—Edinburgh Daily Review.
-
-“‘Mr. Hershon has done this ; he has taken samples from all parts of the Talmud,
-and thus given English readers what is, we believe, a fair set of specimens which
-they can test for themselves.”— The Record.
-
-“ Altogether we believe that this book is by far the best fitted in the present state
-of knowledge to enable the general reader or the ordinary student to gain a fair and
-unbiassed conception of the multifarious contents of the wonderful miscellany which
-can only be truly understood—so Jewish pride asserts—by the life-long devotion of
-scholars of the Chosen People.”—IJnquirer.
-
-“The value and importance of this volume consist in the fact that scarcely a single
-extract is given in its pages but throws some light, direct or refracted, upon those
-Scriptures which are the common heritage of Jew and Christian alike.”—John Bull.
-
-“ His acquaintance with the Talmud, &c., is seen on every page of his book. . . .
-It is a capital specimen of Hebrew scholarship ; a monument of learned, loving, lightgiving labour.”—Jewish Herald.
-
-
-Post 8vo, pp. xii.—228, cloth, price 7s. 6d.
-
-
-THE CLASSICAL POETRY OF THE JAPANESE.
-
-
-By BASIL HALL CHAMBERLAIN,
-Author of ‘*‘ Yeigo Heitkaku Shirafi.”
-
-
-“ 4 very curious volume. The author has manifestly devoted much labour to the
-task of studying the poetical literature of the Japanese, and rendering characteristic
-specimens into English verse.”"—Daily News.
-
-“Mr. Chamberlain’s volume is, so far as we are aware, the first attempt which has
-been made to interpret the literature of the Japanese to the western world. It is to
-the classical poetry of Old Japan that we must turn for indigenous Japanese thought,
-and in the volume before us we have a selection from that poetry rendered into
-graceful English verse.”—Tablet.
-
-“It is undoubtedly one of the best translations of lyric literature which has
-appeared during the close of the last year.”—Celestial Empire,
-
-
-**Mr. Chamberlain set himself a difficult task when he undertook to reproduce
-Japanese poetry in an English form. But he has evidently laboured con amore, and
-his efforts are successful to a degree.”—London and China Express,
-
-
-TRUBNER'S ORIENTAL SERIES.
-
-
-Post 8vo, pp. xii.—164, cloth, price tos. 6d.
-
-
-THE HISTORY OF ESARHADDON (Son of Sennacherib),
-KING OF ASSYRIA, B.c. 681-668.
-
-
-Translated from the Cuneiform Inscriptions upon Cylinders and Tablets in
-the British Museum Collection; together with a Grammatical Analysis
-of each Word, Explanations of the Ideographs by Extracts from the
-Bi-Lingual Syllabaries, and List of Eponyms, &Xc.
-
-
-By ERNEST A. BUDGE, M.R.A.S.,
-
-
-Assyrian Exhibitioner, Christ’s College, Cambridge, Member of the
-Society of Biblical Archzology.
-
-
-; Students of scriptural archeology will also appreciate the ‘ History of Esar-
-| haddon.’ ”—Times.
-
-“There is much to attract the scholar in this volume. It does not pretend to
-popularise studies which are yet in their infancy. Its primary object is to translate,
-but it does not assume to be more than tentative, and it offers both to the professed
-Assyriologist and to the ordinary non-Assyriological Semitic scholar the means of
-controlling its results.” —<Academy.
-
-“Mr. Budge’s book is, of course, mainly addressed to Assyrian scholars and
-students. They are not, it is to be feared, a very numerous class. But the more
-thanks are due to him on that account for the way in which he has acquitted himself
-in his laborious task.”— Tablet.
-
-
-Post 8vo, pp. 448, cloth, price 21s.
-THE MESNEVI
-
-
-(Usually known as THE MESNEVIYI SHERIF, or HOLY MESNEVI)
-OF
-MEVLANA (OUR LORD) JELALU ’D-DIN MUHAMMED ER-RUMI.
-Book the First.
-
-
-Together with some Account of the Life and Acts of the Author,
-of his Ancestors, and of his Descendants.
-Illustrated by a Selection of Characteristic Anecdotes, as Collected
-by their Historian,
-Mrviana SHEMSU-’D-DIN AHMED, EL EFLAKI, EL ‘ARIFI.
-
-
-Translated, and the Poetry Versified, in English,
-By JAMES W. REDHOUSE, M.RB.A.S., &.
-
-
-“A complete treasury of occult Oriental lore.”—Saturday Review.
-
-‘This book will be a very valuable help to the reader ignorant of Persia, who is
-desirous of obtaining an insight into a very important department of the literature
-extant in that language.”—TZablet.
-
-
-Post 8vo, pp. xvi.—28o, cloth, price 6s.
-
-
-EASTERN PROVERBS AND EMBLEMS
-
-
-\ ILLUSTRATING OLD TRUTHS.
-
-
-By Rev. J. LONG,
-Member of the Bengal Asiatic Society, F.R.G.S.
-{ “We regard the book as valuable, and wish for it a wide circulation and attentive
-reading.”—Record.
-“Altogether, it is quite a feast of good things.”—Globe.
-Ts full of interesting matter.”—Antiquary.
-
-
-TRUBNER'S ORIENTAL SERIES.
-
-
-Post 8vo, pp. viii.—270, cloth, price 7s. 6d.
-INDIAN POETRY;
-
-
-Containing a New Edition of the ‘‘ Indian Song of Songs,” from the Sanscrit
-of the ‘‘Gita Govinda” of Jayadeva; Two Books from ‘‘The Iliad of
-India ” (Mahabharata), ‘‘ Proverbial Wisdom " from the Shlokas of the
-Hitopadesa, and other Oriental Poems. ;
-
-
-By EDWIN ARNOLD, C.S.L, Author of ‘‘The Light of Asia.”
-
-
-“In this new volume of Messrs. Triibner’s Oriental Series, Mr. Edwin Arnold does
-good service by illustrating, through the medium of his musical English melodies,
-the power of Indian poetry to stir kuropean emotions. The ‘Indian Song of Songs’
-is not unknown to scholars. Mr. Arnold will have introduced it among popular
-English poems. Nothing could be more graceful and delicate than the shades by
-which Krishna is portrayed in the gradual process of being weaned by the love of
-
-
-‘ Beautiful Radha, jasmine-bosomed Radha,’
-
-
-from the allurements of the forest nymphs, in whom the five senses are typified,”—
-Times.
-
-**The studious reader of Mr. Arnold’s verse will have added richly to his store of
-Oriental knowledge . . . infused in every page of this delightful volume. ... No
-other English poet has ever thrown his genius and his art so thoroughly into the
-work of translating Hastern ideas as Mr. Arnold has done in his splendid paraphrases
-of language contained in these mighty epics.” —Daily Telegraph.
-
-‘The poem abounds with imagery of Eastern luxuriousness and sensuousness; the
-air seems laden with the spicy odours of the tropics, and the verse has a richness and
-a melody sufficient to captivate the senses of the dullest.”—Standard.
-
-“The translator, while producing a very enjoyable poem, has adhered with tolerable fidelity to the original text.”—Overland Mail.
-
-“We certainly wish Mr. Arnold success in his attempt ‘to popularise Indian
-classics,’ that being, as his preface tells us, the goal towards which he bends his
-efforts.” —Allen’s Indian Mail.
-
-
-Post 8vo, pp. viii.—152, cloth, price 6s.
-
-
-Tue SANKHYA KARIKA or IS’'WARA KRISHNA.
-
-
-An Exposition of the System of Kapila, with an Appendix on the
-Nyaya and Vais’eshika Systems.
-
-
-By JOHN DAVIES, M.A. (Cantab.), M.R.A.S.
-
-
-The system of Kapila is the earliest attempt on record to give an answer
-from reason alone to the mysterious questions which arise in every thoughtful
-mind about the origin of the world, the nature and relations of man and his
-future destiny. It contains nearly all that India has produced in the department of pure philosophy. Other systems, though classed as philosophic,
-are mainly devoted to logic and physical science, or to an exposition of the
-Vedas.
-
-
-The following Works are in preparation :—
-Post 8vo, pp. 336, cloth, price 16s.,
-THE RELIGIONS OF INDIA.
-By A. BARTH. —
-Translated from the French with the authority and assistance of the Author.
-
-
-The author has, at the request of the publishers, considerably enlarged
-the work for the translator, and has added the literature of the subject to
-date ; the translation may, therefore, be looked upon as un equivalent of a
-new and improved edition of the original.
-
-
-| = SS a F ela
-
-
-TRUBNER’S ORIENTAL SERIES.
-
-
-Post 8vo, pp. x.-130, cloth, price 6s.
-
-
-A MANUAL OF HINDU PANTHEISM, VEDANTASARA.
-Translated, with copious Annotations, by Masor G. A. JACOB,
-Bombay Staff Corps; Inspector of Army Schools.
-
-With a Preface by E. B. COWELL, M.A.,
-Professor of Sanskrit in the University of Cambridge.
-
-
-The design of this little work is to provide for missionaries, and for
-others who, like them, have little leisure for original research, an accurate
-summary of the doctrines of the Vedanta.
-
-
-Post 8vo., pp. 96, cloth.
-
-
-‘THE QUATRAINS OF OMAR KHAYYAM.
-Translated by E. H. WHINFIELD, M.A.,
-Barrister-at-Law, late H.M. Bengal Civil Service.
-
-Omar Khayyam (the tent-maker) was born about the middle of the fifth
-century of the Hejirah, corresponding to the eleventh of the Christian era,
-
-
-in the neighbourhood of Naishapur, the capital of Khorasan, and died in
-517 A.H. (=1122 A.D.)
-
-
-Post Svo.
-THE BHAGAVAD-GITA.
-Translated, with Introduction and Notes,
-By JOHN DAVIES, M.A. (Cantab.)
-
-
-Post 8vo.
-THE SARVADARSANA SANGRAHA.
-Translated from the Sanskrit, with Notes
-By E. B. COWELL snp A. E. GOUGH.
-
-
-Post 8vo.
-THE MIND OF MENCIUS ;
-
-
-Or, POLITICAL ECONOMY FOUNDED UPON MORAL
-PHILOSOPHY,
-
-
-A Systematic DIGEST OF THE DOOTRINES OF THE CHINESE PHILOSOPHER
-MENCIUS.
-Translated from the Original Text and Classified, with
-Comments and Explanations,
-By the Rry. ERNST FABER, Rhenish Mission Society.
-Translated from the German, with Additional Notes,
-By the Rev. A. B. HUTCHINSON, C.M.S., Church Mission, Hong Kong,
-Author of “‘ Chinese Primer, Old Testament History.”
-
-
-**The Mind of Meneius” is a Translation from the German of one of the
-most original and useful works on Chinese Philosophy
-ever published.
-
-
-TRUBNER'S ORIENTAL SERIES.
-
-
-Post 8vo, cloth.
-THE ODES OF HAFIZ:
-BEING A COMPLETE METRICAL TRANSLATION OF THE WORKS OF THE
-Great Lyric Port orf Persia.
-
-
-By E. H. PALMER, M.A., Lord Almoner’s Professor of
-Arabic in the University of Cambridge.
-
-
-Post 8vo,
-THE SIX JEWELS OF THE LAW.
-With Pali Texts and English Translation,
-By RB. MORRIS, LL.D.
-
-
-In Two Volumes, post 8vo, cloth.
-BUDDHIST RECORDS OF THE WESTERN WORLD,
-BEING THE SI-YU-KI BY HWEN THSANG.
-Translated from the Original Chinese, with Introduction, Index, &c.,
-
-
-By SAMUEL BEAL,
-
-
-Trinity College, Cambridge ; Professor of Chinese, University
-College, London.
-
-
-Two Volumes, post 8vo.
-A COMPREHENSIVE COMMENTARY TO THE QURAN.
-
-
-TO WHICH IS PREFIXED SALE’S PRELIMINARY DISCOURSE, WITH
-ADDITIONAL NOTES AND EMENDATIONS.
-
-
-Together with a Complete Index to the Text, Preliminary
-Discourse, and Notes.
-
-
-By Rev. E. M. WHERRY, M.A., Lodiana.
-
-
-Post 8vo, cloth.
-INDIAN TALES FROM TIBETAN SOURCES.
-
-
-Translated from the Tibetan into German, with Introductions, by ANTON
-ScHIEFNER, of the Imperial Academy of St. Petersburg.
-
-
-Rendered into English, with Notes, by W. R. S. Ratston.
-
-
-LONDON: TRUBNER & CO., 57 anp 59 LUDGATE HILL.
-
-
-250—27/10/81.
-
-
-TRUBNER’S
-
-
-ORIENTAL SERIES.
-
-
-Ballantyne JOress
-
-
-PALLANTYNE, HANSON AND CO. —
-
-
-EDINBURGH AND LONDON |
-
-
 THE SANKHYA KARIKA OF
 ISWARA KRISHNA.
 
@@ -1091,8 +95,7 @@ ground that it occupied more than two thousand y:
 ago, but on a more important question it has es
 step in retreat. Kapila recognised fully the existence of
 a soul in man, forming indeed his proper nature—the
-absolute Ego of Fichte—distinct from matter and immortal; but our latest philosophy, both here and in Ger-
-many, can see in man only a highly developed physical
+absolute Ego of Fichte—distinct from matter and immortal; but our latest philosophy, both here and in Germany, can see in man only a highly developed physical
 organisation. “All external things,” says Kapila, “were
 formed that the soul might know itself and be free.”
 “The study of psychology is vain,” says Schopenhauer, —
@@ -1313,8 +316,7 @@ insufficient for the attainment of this great purpose. He
 allows “valid testimony” to be one method of proof;
 and his Vedantist expounders have interpreted this to
 be an acknowledgment of the divine origin and authority
-of the Vedas, but there is no ground for such a statement. The common designation of his system as Niris-
-wara (godless or atheistical) is a sufficient indication
+of the Vedas, but there is no ground for such a statement. The common designation of his system as Niriswara (godless or atheistical) is a sufficient indication
 that it did not acknowledge a Supreme Lord or a divine
 revelation. The eminent Vedantist commentator, Sankara, rightly estimated the position of the Sankhya
 system with regard to the Vedas. In his commentary
@@ -1358,8 +360,7 @@ is represented in it as holding a kind of royal supremacy,
 and all material things are subservient to it. Another
 writer states, on the contrary, that in this system “ souls
 alone are regarded as substances, whatever affects the
-soul being ranged under the head of a quality: 1. pleasing; 2. displeasing; or 3. indifferent.” The Gunas, how-
-ever, are not qualities, but constituent elements, of
+soul being ranged under the head of a quality: 1. pleasing; 2. displeasing; or 3. indifferent.” The Gunas, however, are not qualities, but constituent elements, of
 Prakriti, as real in their nature as the soul, and having
 like it an eternal existence.t
 
@@ -1449,9 +450,6 @@ interpreted the Hindu system, or this exposition of it,
 1 Williams, Sans. Gram., p. 354, 2d ed.
 
 
-HINDU PHILOSOPHY. II
-
-
 with perfect accuracy. I have had, however, the benefit
 of their labours, of the occasional remarks of Professor
 Wilson on Colebrooke’s translation, and of the criticism
@@ -1490,10 +488,7 @@ of removing it (pain). If, from the visible (means
 of removing it), this (desire) should seem to be
 
 
-superfluous, it is not so, for these are neither abso-
-
-
-lutely complete nor abiding.
+superfluous, it is not so, for these are neither absolutely complete nor abiding.
 
 
 1 The first distich is obscure. I
@@ -1512,14 +507,12 @@ drishtésaparthachennaikantatyantato’ bhavat.
 
 Colebrooke:—“ The inquiry is into
 the means of precluding the three
-sorts of pain, for pain is embarrassment. Nor is the inquiry super-
-fluous because obvious means of
+sorts of pain, for pain is embarrassment. Nor is the inquiry superfluous because obvious means of
 alleviation exist, for absolute and
 final relief is not thereby accomplished.”
 
 
-Lassen:—“ E tergeminorum dolorum impetu (oritur) desiderium cog-
-noscendz rationis qué ii depellantur.
+Lassen:—“ E tergeminorum dolorum impetu (oritur) desiderium cognoscendz rationis qué ii depellantur.
 Quod (cognoscendi desiderium) licet
 in visibilibus rebus infructuose versetur, non est (infructuosum) propter
 absentiam absoluti et omni «vo
@@ -1556,10 +549,7 @@ according to the theistic system of Patanjali, into the
 
 
 essence of the One Supreme Being (Brahma).
-The three kinds of pain are explained by the commen-
-
-
-tators to be—
+The three kinds of pain are explained by the commentators to be—
 
 
 1. The natural and intrinsic, both bodily and mental
@@ -1585,10 +575,7 @@ The second includes all pain derived
 The third, as
 
 
-Gaudapada interprets it, may be either divine or at-
-
-
-mospheric; “in the latter
+Gaudapada interprets it, may be either divine or atmospheric; “in the latter
 
 
 therewith effectually. If it be objected, that visible means to this end
@@ -1596,8 +583,7 @@ being available, such desire is needless, I demur; for that these means
 do not entirely and for ever work
 immunity from discomposure” (Introd. to S. Sara, p. 26).
 Colebrooke’s version of the first
-part of the distich is not very accurate, and abhighdta is not “ embar-
-rassment,” though Professor Wilson
+part of the distich is not very accurate, and abhighdta is not “ embarrassment,” though Professor Wilson
 
 
 case, it means pain which
@@ -1608,8 +594,7 @@ Lassen for translating it by the Latin
 impetus. It is composed of abhi=
 Gr. audi, and han, for ghan, to strike,
 to slay. In the Peters. Dict. it is
-explained as schlag, angriff, beschadigung. Lassen was confessedly mis-
-taken in his version of the second
+explained as schlag, angriff, beschadigung. Lassen was confessedly mistaken in his version of the second
 part. Dr. Hall’s is the truest version, but abhighdta is much more
 than “ discomposure,”
 
@@ -1728,10 +713,7 @@ principles of being, and the rest, to
 appear ” (i. 6).
 
 
-« Prakriti-resembles the one uni-
-
-
-versal invisible substance or being
+« Prakriti-resembles the one universal invisible substance or being
 of the Platonists, from which all
 material forms have sprung.
 
@@ -1836,8 +818,7 @@ the unprejudiced study of physical
 philosophy that can induce us to
 doubt the existence of immaterial
 substances ; on the contrary, we see
-analogies which lead us almost directly to such an opinion. The elec-
-trical fluid is supposed to be essentially different from common matter ;
+analogies which lead us almost directly to such an opinion. The electrical fluid is supposed to be essentially different from common matter ;
 the general medium of light and
 heat, according to some, or the principle of caloric, according to others,
 is equally distinct from it” (Dr.
@@ -1924,8 +905,7 @@ the tongue, and the skin; and (7.) the five organs of
 action; the voice, the hands, the feet, the anus, and the
 organs of generation. Lastly, it produces the manas,?
 which is the receptive and discriminating faculty. It
-receives and individualises the impressions made by outward objects on the senses. These it submits to Con-
-sciousness, by which an attribute of personality is given
+receives and individualises the impressions made by outward objects on the senses. These it submits to Consciousness, by which an attribute of personality is given
 to them, and through which they pass on to the Intellect (Buddhi). By this last faculty the sense-perceptions
 are defined and represented in a full, distinct form. The
 soul beholds these presentations as objects are seen in
@@ -1959,10 +939,8 @@ I see only in so far as I am conscious
 of seeing” (Dean Mansel’s Letters,
 Lectures, &c., p. 162).
 
-2 «There exists, latent or potential, in the sensory centres, some-
-thing that may be called a faculty,
-which on the occasion of the appropriate impression, renders the sen-
-sation clear and definite ; in other
+2 «There exists, latent or potential, in the sensory centres, something that may be called a faculty,
+which on the occasion of the appropriate impression, renders the sensation clear and definite ; in other
 words, gives the interpretation”
 (Maudsley, p. 237). This is the
 manas of Kapila.
@@ -2026,8 +1004,7 @@ word siddhi (accomplishment, perfect knowledge) by pratiti, “trust,”
 
 
 5. “ Perception is the application’ (of the senses)
-to special objects of sense. ‘Three kinds of inference are declared: it (an inference or logical con-
-clusion) is preceded by a liga (mark or sign =
+to special objects of sense. ‘Three kinds of inference are declared: it (an inference or logical conclusion) is preceded by a liga (mark or sign =
 major premiss) and a ligt (the subject in which
 it inheres = minor premiss). Fit testimony is fit
 revelation (srutz).”
@@ -2057,12 +1034,10 @@ meaning: (1.) a drawing near (hinzatreten, nahen) ; (2.) a clear insight
 into a matter, a full knowledge,
 conviction (klare Einsicht in Etwas,
 volkommenes Verstindniss, Ueberzeugung). Lassen’s translation is,
-“Nimirum demonstrandz rei consummatio (oritur) -e demonstra-
-tione,” adding in his commentary,
+“Nimirum demonstrandz rei consummatio (oritur) -e demonstratione,” adding in his commentary,
 “TUltimam sententiam ita accipio
 ut dicatur id quod demonstrandum
-sit, magis minusve absoluta evidentia posse evinci secundum ge-
-nus demonstrationis qua probetur.”
+sit, magis minusve absoluta evidentia posse evinci secundum genus demonstrationis qua probetur.”
 Proof, however, is here spoken of
 absolutely. There is no question of
 degree.
@@ -2119,10 +1094,7 @@ There is the same obscurity in the language of Distich 5
 as in our use of the word “perception ;” for drishtam (thing.
 seen) properly denotes not the application of the eye to
 objects of sense, but the result of that process. The use
-of the term “application” is, however, strictly in accord-
-
-
-ance with the Hindi theory of the method of perception.
+of the term “application” is, however, strictly in accordance with the Hindi theory of the method of perception.
 The knowledge gained by the eye is not from rays of
 light proceeding from an object, but by a ray of light
 proceeding from the eye.
@@ -2134,10 +1106,7 @@ itis applicable.” In the Nyaya Sutra Vritti inference
 is said to be threefold: (1.) “Prior, that is, cause, characterised by or having that (cause); as inference of rain
 
 
-from the gathering of clouds; (2.) posterior, effect charac-
-
-
-terised by it; as inference of rain from the swelling of a
+from the gathering of clouds; (2.) posterior, effect characterised by it; as inference of rain from the swelling of a
 river ; analogous or generic, characterised as distinct from
 both effect and cause ; as the inference of anything being
 a substance from its being earthy.’ This is reasoning a
@@ -2182,8 +1151,7 @@ linga inheres. By “revelation” is meant either the teaching of the Vedas or 
 similar or equal authority. Kapila, who was doubtless
 a Brahman, did not wholly reject the Vedas, but he
 treats them with little respect, and makes their authority
-subordinate to that of reason. His Vedantist commentators draw conclusions from this passage which are incon-
-sistent with the first and second distichs, which express
+subordinate to that of reason. His Vedantist commentators draw conclusions from this passage which are inconsistent with the first and second distichs, which express
 Kapila’s fundamental principle.
 
 By “formal or generic existence” in Distich 6 (sémanya) is meant all the related forms or genera of the
@@ -2233,8 +1201,7 @@ by “sensible things,” and Lassen’s by
 sufficient exactness its meaning.
 
 2 Dravyatwa, haying the nature
-of substance, from dravya, substance, which sometimes means ele-
-mentary substance, as fire, earth,
+of substance, from dravya, substance, which sometimes means elementary substance, as fire, earth,
 &c. See Burnouf, s. x
 
 
@@ -2372,8 +1339,7 @@ or formal existence, must be considered as wrought; or,
 in other words, is an effect implying an efficient cause.
 The phrase does not mean “an existent effect,’ but that
 what is formally existent is necessarily an effect. Causality is implied as an absolute condition of all formal
-being. Asadakarandt (literally from non-existence, noncause) implies that there is an identity in the terms non-
-existence and non-cause, and that we cannot conceive
+being. Asadakarandt (literally from non-existence, noncause) implies that there is an identity in the terms nonexistence and non-cause, and that we cannot conceive
 of formal existence as uncaused: only the unformed
 Prakriti (Nature) is without a cause, having existed
 eternally. (See p. 17.)
@@ -2525,10 +1491,7 @@ ancient Greek philosophers taught :
 “otra 5é 7d nev Ex wy dvrwr ylvec bat
 dduvarov* epi yap TavTns osoyvapovovot THs Sdéns Aravres ol rept pucews ”
 (Phys., i. 4). Mr. G. H. Lewes goes
-further than Kapila, for he practi-
-
-
-cally denies that there is any difference between cause and effect. “I
+further than Kapila, for he practically denies that there is any difference between cause and effect. “I
 have endeavoured to show that the
 supposed axiom of causes not being
 knowable when their effects are
@@ -2605,10 +1568,7 @@ It is subordinate or governed, each being subordinate to the other in an ascendi
 (intellect).
 
 
-Prakriti, however, is uncaused, eternal, universal, self-
-
-
-existing, and supreme.
+Prakriti, however, is uncaused, eternal, universal, selfexisting, and supreme.
 
 
 11. “The manifested (Vyakta) has the three
@@ -2644,8 +1604,7 @@ activity, and restraint: they mutually subdue and
 
 
 1 Agritam. Lassen translates it by
-“innixum ;” Colebrooke by “supporting ;” St. Hilaire by “‘acci-
-dentel.” The Petersburg Dict. has
+“innixum ;” Colebrooke by “supporting ;” St. Hilaire by “‘accidentel.” The Petersburg Dict. has
 “ Halt und Schutz beiJmd suchend,”
 lit. “ going to one” (for protection
 or support).
@@ -2655,8 +1614,7 @@ or support).
 Wilson remarks that “ predicative”
 
 
-or “characteristic ” would be a preferable translation. Lassen has “re-
-ciprocans,” but he adds “ dubie
+or “characteristic ” would be a preferable translation. Lassen has “reciprocans,” but he adds “ dubie
 mihi est significationis.” See the
 Tarka Sangraha, p. 38 (Ballantyne).
 
@@ -2674,10 +1632,7 @@ together, and take each other’s condition.” *
 13. “ ‘Goodness’ (sattwa) is considered as light
 (or subtle), and enlightening (or manifesting) ;
 ‘passion’ or ‘foulness’ as exciting and mobile ;
-‘darkness’ as heavy and enveloping (or obstruc-
-
-
-tive, varanaka). Their action, for the gaining of
+‘darkness’ as heavy and enveloping (or obstructive, varanaka). Their action, for the gaining of
 an end, is like that of a lamp.” ?”
 
 
@@ -2691,10 +1646,7 @@ not qualities, however, but the constituent elements of
 Nature (Prakriti). “These
 
 
-three qualities,” says Cole-
-
-
-brooke, “are not mere accidents of Nature, but are of
+three qualities,” says Colebrooke, “are not mere accidents of Nature, but are of
 its essence and enter into its composition.” Nature, or
 primordial matter, is described in the system of Kapila
 as formed by the gunas, which were primarily in equili-
@@ -2758,8 +1710,7 @@ have presented itself to some of the earlier Greek philosophers, as Aristotle ha
 
 1 “The governorship thereof (of
 soul over Nature) is from its proximity, as in the case of the gem”
-(Sank, Sara, i.96). The interpretation is, ‘that as the gem (the load-
-stone) is attracted by iron merely by
+(Sank, Sara, i.96). The interpretation is, ‘that as the gem (the loadstone) is attracted by iron merely by
 proximity, without resolving (either
 to act or to be acted upon), so by
 the mere juxtaposition of the soul,
@@ -2829,8 +1780,7 @@ potentiam” (p. 30). This is not
 strictly correct. Guna means pri-,
 
 
-marily a thread or cord, and Prakriti, or Nature, is as a string com-
-posed of three varying strands ; not
+marily a thread or cord, and Prakriti, or Nature, is as a string composed of three varying strands ; not
 properly energies, but constituent
 elements of different virtue. Kapila did not resolve matter into
 mere force, as some of our modern
@@ -2877,10 +1827,7 @@ in the Vayu Purana as springing
 from the three gunas. ‘‘ From Pradhana (Nature), when agitated, the
 quality of passion (rajas) arose, which
 was there a stimulating cause, as
-water is to seeds. When an in-
-
-
-equality in the gunas arises, then
+water is to seeds. When an inequality in the gunas arises, then
 they (the gods) who preside over
 them are generated. . . . The rajas
 quality was born as Brahma; the
@@ -2911,8 +1858,7 @@ each of its developments. Soul, however, is the opposite
 of Nature. It discriminates; it exists by and for itself
 alone; it knows, and is not productive.
 
-In Distich 12 the gunas are classed as pleasant, unpleasant, and stupefying. “Goodness” serves for mani-
-festation, for it is light and elastic; “passion” leads to
+In Distich 12 the gunas are classed as pleasant, unpleasant, and stupefying. “Goodness” serves for manifestation, for it is light and elastic; “passion” leads to
 activity, and “darkness” to restraint or inertness.
 
 Each may subdue or support the other; they are capable
@@ -2927,9 +1873,6 @@ wick and the oil.
 
 
 14. “The absence of discrimination and the rest
-
-
-HINDU PHILOSOPHY. AI
 
 
 (the other conditions of material forms) are a conclusion from the three modes, and by the absence
@@ -2956,8 +1899,7 @@ The latter part of the first line of the distich—tadviparyayabhavat—is obscu
 Vachaspati and others interpret it, in the soul; soul and
 matter being opposite in their nature. Gaudapada confines the passage to the undeveloped Nature (avyakta)
 and the developed principles (vyakta), and explains it
-to mean that the absence of the reverse of these qualities in the developed establishes its absence in the un-
-developed, for they are not contrary to each other.
+to mean that the absence of the reverse of these qualities in the developed establishes its absence in the undeveloped, for they are not contrary to each other.
 Vachaspati says, also, that “it may be understood as
 taking for its own two subjects, vyakta and avyakta, and
 asserting by the inverted proposition (negatively) that
@@ -3057,8 +1999,7 @@ suggested correction, ‘by modification, like water, according to the
 receptacle or subject of the qualities,”
 
 
-2 As Lassen explains it: ‘“ Evolvuntur evoluta non per suam ip-
-sorum facultatem, sed per potentiam
+2 As Lassen explains it: ‘“ Evolvuntur evoluta non per suam ipsorum facultatem, sed per potentiam
 quandam, qu est causa potestate
 ea evolyendi instructa” (p. 33).
 
@@ -3169,10 +2110,7 @@ causam.”
 
 3 Wilson, p. 67. The soul, however, in the Sankhya system, is not
 properly sentient, and the difficulty
-is thus explained in the 8, Prava-
-
-
-chana (vi. 11): “Though it (pain)
+is thus explained in the 8, Pravachana (vi. 11): “Though it (pain)
 is the property or function of something else, yet it is effected (in the
 soul) by non-distinction (of soul
 and matter),” or, as the passage
@@ -3345,8 +2283,7 @@ than the Sank. Karika. Kapila the vital airs belong to the
 
 2 Cf. Sank. Pravachana (vi. 63), body and do not affect the soul. In
 where it is said that the separate the next Sutra all action is separated
-life of a soul (jzvatwa, the property from the soul and from any superof living) is from a distinction as of intending influence. “The accom-
-race, z.e., by attendant qualities; or, plishment of works depends on the
+life of a soul (jzvatwa, the property from the soul and from any superof living) is from a distinction as of intending influence. “The accomrace, z.e., by attendant qualities; or, plishment of works depends on the
 as Vijnana Bhikshu interprets the agent, self-consciousness (see p. 18),
 passage, “to be a living soul means not on a Lord (Iswara), from the
 the being possessed of the vital airs absence of proof (that such a Lord
@@ -3417,10 +2354,7 @@ are action, but it is not an agent upon anything external
 to itself. Kapila insists upon this distinction, which is
 
 
-1 “To fools the spirit seems to be are passing” (Atma Bodha Praka-
-
-
-active, when the senses alone are sika, by Sankara-acharya, i. 19,
+1 “To fools the spirit seems to be are passing” (Atma Bodha Prakaactive, when the senses alone are sika, by Sankara-acharya, i. 19,
 really active; just as the moon ap- quoted in Ind. Ant., May 1876).
 pears to move when the clouds only
 
@@ -3666,8 +2600,7 @@ that ‘I do, I feel, I think, I am, I alone preside, and have
 
 1 In the Comm. on the S. Pravachana by Vijnana Bhikshu, éhadasaka
 is explained as “eleventh,” 7.e., the
-eleventh organ, manas, which proceeds from consciousness when modi-
-fied by goodness.
+eleventh organ, manas, which proceeds from consciousness when modified by goodness.
 
 2 Bhatadi, rightly translated by
 Lassen “elementorum generator,”
@@ -3751,9 +2684,6 @@ In the old Greek cosmogonies, Erebus or Night was the primordial state
 from which all things arose.
 
 
-HINDU PHILOSOPHY. 6r
-
-
 then called modified (vaikrita) Consciousness. When it
 is under the influence of the mode “darkness” and
 produces inanimate matter, it is then called bhutadi,
@@ -3804,10 +2734,7 @@ bahyabhedascha and translates the
 passage: “They (the organs) are
 numerous by specific modification
 of qualities, and so are external
-diversities.” Following the explana-
-
-
-regard to sound and other (sense-objects), is that
+diversities.” Following the explanaregard to sound and other (sense-objects), is that
 of observation only. Speech, handling, walking,
 excretion, and generation are the functions of
 the five (organs).”
@@ -3851,9 +2778,6 @@ nas.” The MSS. are equally divided
 A .___:_ =
 
 
-‘ HINDU PHILOSOPHY. 63
-
-
 Hindi commentators. It is compounded of sam (Lat.=
 cum) and kalpa, “form,” from klip, to dispose, to prepare.
 It may be translated as “formative” or “plastic;” the
@@ -3881,8 +2805,7 @@ it is an organ as being cognate with
 the rest;” but the manas never
 ponders ; it is an unconscious agent,
 whose office is merely to transmit
-our sense-impressions, when collected and united, through con-
-sciousness to the intellect (buddhi).
+our sense-impressions, when collected and united, through consciousness to the intellect (buddhi).
 It is an organ, not from being cognate merely with the other organs
 in its origin, but from having cognate duties or functions (sadharma)
 to fulfil, Lassen translates thus:
@@ -3892,8 +2815,7 @@ to fulfil, Lassen translates thus:
 est animus (manas), et imaginans
 est.” St. Hilaire: “Le cour
 (manas) est & la fois ... et un
-organe d’action et an organ d’intelligence: sa fonction est de re-
-unir.” The Hindi commentators
+organe d’action et an organ d’intelligence: sa fonction est de reunir.” The Hindi commentators
 seem to have been perplexed by the
 secondary meaning of sazikalpa, “ design,’ in its twofold sense of a
 “formed plan” or “project” and
@@ -4004,10 +2926,7 @@ In the absence of a precise definition of these “airs,” a
 variety of fanciful explanations is furnished by native
 
 
-1 The maintenance of the five vital of the soul), a Vedantic poem. as-
-
-
-airs is attributed by Gaudapada to
+1 The maintenance of the five vital of the soul), a Vedantic poem. asairs is attributed by Gaudapada to
 all the organs, but by the Hindu
 commentators generally to the three
 internal organs exclusively. Vijnana Bhikhsu, in his commentary
@@ -4068,10 +2987,7 @@ lation of the passage. I venture to does not reflect; it only forms a
 
 translate it: ‘‘ A doubt (or doubtful
 impression) having been formed by
-the manas, the intellect (buddht) be-
-
-
-sankalpa, or collected form of an
+the manas, the intellect (buddht) besankalpa, or collected form of an
 object from the sensory impressions,
 
 
@@ -4112,8 +3028,7 @@ It sees and understands ~
 1 Abita is glossed in the Petersb,
 Lexicon by absicht, antrieb. Colebrooke’s translation is “incited by
 mutual invitation.” Lassen has
-‘ad quam cietur unum ratione alterius.” The meaning of ‘“incite-
-ment to activity,” mentioned by
+‘ad quam cietur unum ratione alterius.” The meaning of ‘“incitement to activity,” mentioned by
 Wilson, expresses more nearly the
 sense of akita. ‘‘ L’influence spontanée qu’ils exercent les uns sur les
 
@@ -4205,8 +3120,7 @@ is therefore a quality or function of
 
 
 Gaudapada, however,
-attributes to each of the three internal organs the power of acting ac-
-cording to its own nature without
+attributes to each of the three internal organs the power of acting according to its own nature without
 reference to time, and to buddhi
 (intellect) is attributed the power
 
@@ -4248,8 +3162,7 @@ must be a product of the three.
 1 Vishaya, gebiet, wirkungskreis
 (Peters. Dict.). The meaning is, the
 five intellectual organs have specific
-and non-specific objects as their province or domain. ‘“Sensuum perfi-
-ciendiinterhos quinumprovincie sunt
+and non-specific objects as their province or domain. ‘“Sensuum perficiendiinterhos quinumprovincie sunt
 distincta atque indistincta,” (Lassen).
 
 2 See Note A.
@@ -4264,8 +3177,7 @@ H.); lit. “dives down to,” and thence,
 4 “Present to the intellect the
 soul’s whole purpose” (Colebrooke
 and Gaudapada). ‘ Universitatem
-genii causa menti tradunt” (Lassen). St. Hilaire has, after Cole-
-brooke, ‘‘presentent a Jintelligence l’objet entier de Ame.” T
+genii causa menti tradunt” (Lassen). St. Hilaire has, after Colebrooke, ‘‘presentent a Jintelligence l’objet entier de Ame.” T
 prefer Lassen’s version. The organs
 bring all things in a definite form
 before the soul, as a lamp reveals
@@ -4332,8 +3244,7 @@ pay them to the governor of the district; as the local
 governor pays the amount to the minister, and the
 minister receives it for the use of the king; so the
 manas having received ideas from the external organs
-transfers them to consciousness, and consciousness delivers them to intellect (Guddhz), the general superin-
-tendent, who takes charge of them for the use of the
+transfers them to consciousness, and consciousness delivers them to intellect (Guddhz), the general superintendent, who takes charge of them for the use of the
 sovereign, soul.”? The intellect is, therefore, the soul’s
 chief officer, its direct agent, and presents all that it
 receives, as in a mirror, to the gaze of the soul; not
@@ -4387,10 +3298,7 @@ Vijnina Bhikshu explains the term “non-specific” by
 saying that “the subtle elements are not affected by
 the modes; that they have an unchanging nature; but
 the gross elements change in their nature and effects
-according to circumstances. Thus the wind is agree-
-
-
-formed, or by what means a course called chitta, the thinking or reaof reasoning can be carriedon. The soning faculty.
+according to circumstances. Thus the wind is agreeformed, or by what means a course called chitta, the thinking or reaof reasoning can be carriedon. The soning faculty.
 Vedantists add a fourth faculty
 
 
@@ -4542,8 +3450,7 @@ exist alone. It needs a support or receptacle, but what
 kind of support is not clearly defined. Gaudapada reads
 aviseshairvina, “without unspecific elements,” 7.¢., the
 subtle elements of material things (fanmdtra). The
-usual reading is “ without specific elements,” ¢.e., “ without the grosser elements,” as the word is usually trans-
-lated, but here it means, I think, as in Distich 38,
+usual reading is “ without specific elements,” ¢.e., “ without the grosser elements,” as the word is usually translated, but here it means, I think, as in Distich 38,
 specific forms, which are usually of the gross elements.
 The linga alone cannot perform any functions; it
 must be joined to or enveloped in the Jliiga-sarira
@@ -4570,8 +3477,7 @@ the support which the liiga requires
 to be that of the gross body.
 
 2 The liiga and the liiga-sarira
-(linga-body) are sometimes confounded ; but the liga is a rudi-
-mental substance, sometimes compared to light, and the linga-sarira
+(linga-body) are sometimes confounded ; but the liga is a rudimental substance, sometimes compared to light, and the linga-sarira
 is its vehicle. ‘‘ When a dead body
 is burnt by one who knows and can
 repeat these verses (Smarta-stitra,
@@ -4658,10 +3564,7 @@ to) effect.”*
 obtained ; by vice a descent into a lower.
 
 
-Deli-
-
-
-verance is gained by knowledge, and bondage by
+Deliverance is gained by knowledge, and bondage by
 
 
 the contrary.”
@@ -4674,8 +3577,7 @@ there is a dissolution of Nature (Prakriti*) or
 (the power of Nature is destroyed).
 
 
-1 Colebrooke’s translation is, “ Essential dispositions are innate. In-
-cidental, as virtue and the rest,
+1 Colebrooke’s translation is, “ Essential dispositions are innate. Incidental, as virtue and the rest,
 are considered appurtenant to the
 instrument.” The meaning of the
 distich is that there are conditions
@@ -4693,10 +3595,7 @@ of the subtle body as well as the
 gross, but that final deliverance is
 
 
-Transmi-
-
-
-not hereby gained. So says Vijnana
+Transminot hereby gained. So says Vijnana
 Bhikshu : “In the absence of knowledge of the distinction (between
 Soul and Nature), when indifference
 towards Mind, &c., has resulted
@@ -4711,10 +3610,7 @@ p- 92). This statement is made
 because it is a cardinal doctrine of
 the Sankhya philosophy that the
 final liberation of the soul from
-matter can only be gained by know-
-
-
-eration is from disorderly passion. By power we
+matter can only be gained by knoweration is from disorderly passion. By power we
 gain destruction of obstacles, and the reverse by
 the contrary.”
 
@@ -4725,8 +3621,7 @@ or constructive (modified). To the former class belong:
 by sages, or, as Gaudapada supposes, by the great sage
 Kapila; (2.) that which is natural (prakritika), or the
 state at birth caused by virtue or vice in a previous
-existence. The constructive or modified condition (vatkritika) is gained by other means, as by knowledge ob-
-tained from a tutor.
+existence. The constructive or modified condition (vatkritika) is gained by other means, as by knowledge obtained from a tutor.
 
 The modified conditions are: (1.) Intellectual, as virtue
 and the rest, z.¢., virtue, knowledge, absence of passion,
@@ -4749,10 +3644,7 @@ ledge. It does not, however, recog- the meaning is, “ By the destruction
 nise any absorption of the subtle
 body into Nature until the soul is
 entirely free; and hence, notwithstanding the general consensus of
-Hindi commentators, I think Las-
-
-
-sen’s translation is correct, and that
+Hindi commentators, I think Lassen’s translation is correct, and that
 
 
 of passion the influence of the material world (Prakriti) is destroyed,
@@ -5050,8 +3942,7 @@ The second clause is translated by Colebrooke and
 Wilson, “Without person there would be no pause
 (nirvrittt) of dispositions.” Wilson explains the passage
 in his comment on Gaudapada’s exposition thus: This
-creation of the liga is not “indispensable for the existence or exercise of the intellectual conditions or senti-
-ments alone, but is equally necessary for their occasional
+creation of the liga is not “indispensable for the existence or exercise of the intellectual conditions or sentiments alone, but is equally necessary for their occasional
 cessation ; thus virtue and vice and the rest necessarily
 imply and occasion bodily condition; bodily condition is
 productive of acts of vice and virtue.”! But here there
@@ -5094,8 +3985,7 @@ sensu,” referring to Manu i. 31. The translation of the
 word in the Petersburg Lex. is “fertigwerden,” “ausbildung.” The meaning of the distich then becomes evident.
 There is a continual action and reaction of intellectual
 and personal states, the first causing the latter, and the
-latter giving manifestation to the former. There is therefore a constant double creation, the bhavakhya (or disposi-
-tional) and the lizgakya (of the subtle body, liiga).
+latter giving manifestation to the former. There is therefore a constant double creation, the bhavakhya (or dispositional) and the lizgakya (of the subtle body, liiga).
 
 Some commentators make the liviga itself to be buddhi
 Gntellect) and bhavas to be its conditions. The former
@@ -5183,8 +4073,7 @@ regions, and Brahma does not belong
 to it, but to the region ‘ above.”
 Gaudapiada’s comment is, ‘This, 7.e.,
 from Brahma to a stock, is equivalent
-to from Brahma to immovable (inanimate) things.” In the S. Prava-
-chana (ili. 50) it is said, “In the
+to from Brahma to immovable (inanimate) things.” In the S. Pravachana (ili. 50) it is said, “In the
 midst”? passion “ abounds,” 7.¢., as
 Vijnana Bhikshu interprets the passage, “in the world of mortals.”
 
@@ -5195,8 +4084,7 @@ even that of its subtle vehicle the lizga. It is from
 contact with matter that pain arises. The soul knows
 nothing of decay or pain in itself, but the liiga is so
 closely connected with it that it becomes sensible of
-the imperfections and pains that belong to bodily conditions by this union But when at length, by full know-
-ledge, the soul escapes from “the body of this death,” it
+the imperfections and pains that belong to bodily conditions by this union But when at length, by full knowledge, the soul escapes from “the body of this death,” it
 knows pain no more; the livga is then absorbed again
 in Nature (Prakriti). Kapila, however, does not say where
 the soul exists after its final severance from matter.
@@ -5233,8 +4121,7 @@ with desires, cravings, fears, delusions, follies ” (Plato, Pheedo, ec. 28).
 
 
 Kapila here maintains that a purpose or design may
-be formed and completed unconsciously, without a designing mind. He feels, however, the difficulty of con-
-necting design with unintelligent matter, and adduces
+be formed and completed unconsciously, without a designing mind. He feels, however, the difficulty of connecting design with unintelligent matter, and adduces
 as an argument in his favour the fact that in the udder
 of a cow the milk by which the calf is nourished is
 secreted without the action of intelligence. This is a
@@ -5491,10 +4378,7 @@ first line thus ; “ Postquam consummate scientie acquisitione invenit
 genius nullum esse pietatis ceterarumque conditionum usum.” The
 lit. translation is, “By the attainment of complete knowledge, virtue
 and the rest have become a namecause (namakdrana),” 7.€., a cause
-onlyinname. Cf. nadmayajna (name-
-
-
-sacrifice), a false or hypocritical sacri-
+onlyinname. Cf. nadmayajna (namesacrifice), a false or hypocritical sacri-
 
 
 fice. Colebrooke has ‘‘ Virtue and
@@ -5554,10 +4438,7 @@ topics, excluding illustrative tales, and omitting
 also controversial questions.”’?
 
 “Thus is completed the book of the Sankhya
-(philosophy), uttered by the venerable, great-
-
-
-minded, and divine Kapila.”
+(philosophy), uttered by the venerable, greatminded, and divine Kapila.”
 
 
 “ May prosperity attend it.”
@@ -5643,10 +4524,7 @@ his is a system of Pessimism, though
 older than the German by more than
 two thousand years. Life, z.e., conscious life, not merely containsevil :
 it is an unmixed evil. The better
-state, nay, the best of all, is the un-
-
-
-every other connection with matter for ever. We must
+state, nay, the best of all, is the unevery other connection with matter for ever. We must
 seek to cast it away, as men cast off a vile and loathsome garment; and this emancipation must be gained
 by the soul itself, without the aid—if such aid can be
 obtained—of any external power or influence.
@@ -5698,8 +4576,7 @@ intellect and consciousness, will be absorbed for ever
 in Nature (Prakriti).
 
 We may also reason by analogy, or, as Sir. W. Hamilton
-terms it, “ philosophical presumption,”? which Kapila perceived to be “a natural or ultimate principle of intelli-
-gence.” How Kapila explained and defended this method
+terms it, “ philosophical presumption,”? which Kapila perceived to be “a natural or ultimate principle of intelligence.” How Kapila explained and defended this method
 of proof we do not know. The opinions of his commentators have been already explained (see page 22).
 
 Beyond this range some things are known by “valid
@@ -5791,8 +4668,7 @@ nor fire, nor water, nor anything
 produced from them, or from which
 these are produced. Itisan invisible
 and formless thing, the recipient of
-everything (all-embracing), participating in a certain way of the intelli-
-gible, but in a way very difficult to
+everything (all-embracing), participating in a certain way of the intelligible, but in a way very difficult to
 seize.”
 
 
@@ -5942,8 +4818,7 @@ evolved from it as its product, the theory of Materialism
 a ane ae Se
 
 
-is established.” The system of Kapila does not, however, quite accord with this definition. Here the sub-
-jective element is genetic, but it is not ideal or spiritual.
+is established.” The system of Kapila does not, however, quite accord with this definition. Here the subjective element is genetic, but it is not ideal or spiritual.
 It is itself only a development of a material nature. As
 far, then, as the outward world and the inner life of consciousness are concerned, Kapila is a Materialist; but
 not wholly so. The soul exists apart from both, but it
@@ -5970,13 +4845,11 @@ Kgo, the I by myself I, must be
 something different from consciousness, for this is only a certain state
 of the real Ego. It is the Ego
 “ affirming itself.” With this absolute Ego, distinct from consciousness,
-the Purusha (person) or soul of Kapila agrees. But the Ego, in affirm-
-ing itself, is also conscious of the
+the Purusha (person) or soul of Kapila agrees. But the Ego, in affirming itself, is also conscious of the
 non-Ego, or is determined by the
 necessary law of its nature, and
 “distinguishes between itself as a
-definite representation and everything else which is not that repre-
-sentation; it only comes to know
+definite representation and everything else which is not that representation; it only comes to know
 
 
 itself perfectly by that contrast.” So
@@ -6032,8 +4905,7 @@ in many points with its earliest development in the system of Kapila.
 existing forms is an unconscious
 Monism, which is self-existent. 2.
 The unconscious first principle develops consciousness. 3. In this
-conscious life only misery can prevail. 4. Pain is a necessary conse-
-quence of the normal development
+conscious life only misery can prevail. 4. Pain is a necessary consequence of the normal development
 
 
 of the first principle, and must remain as long as the present system
@@ -6047,9 +4919,6 @@ goodness or even a high intellectual
 state, but only deliverance from
 pain, which is the chief, if not the
 only evil. (See Note D.)
-
-
-HINDU PHILOSOPHY. III
 
 
 of things. It can behold and understand Nature. By
@@ -6071,8 +4940,7 @@ life, and then it is absorbed into the universal Nature
 from which it sprung,
 
 This theory of the liviga deserves more consideration
-than it has received from either ancient or modern expounders of the Sankhya philosophy. It plays an im-
-portant part in what we must call, though improperly,
+than it has received from either ancient or modern expounders of the Sankhya philosophy. It plays an important part in what we must call, though improperly,
 the moral element of the system. It is the seat of those
 dispositions, whether moral or physical, which in the
 Western systems are generally referred, so far as they
@@ -6384,10 +5252,7 @@ We can only infer from these statements that he was probably a Brahman, and may 
 He is the Aristotle of India, and his Stitras have always
 been a popular study among the Hindus, whose acuteness
 finds a suitable field in the discussion of dialectic subtleties.
-A large number of commentators have explained and com-
-
-
-mented on the system of Gotama, in order to adapt it to
+A large number of commentators have explained and commented on the system of Gotama, in order to adapt it to
 popular use,
 
 It is set forth in a treatise called the Nyaya Sutra,
@@ -6487,10 +5352,7 @@ intimate, absolute union of heterogeneous substances ;
 an argument which Kapila had employed. The distinct
 
 
-kinds, as classified by Vaiseshika writers are (1.) un-
-
-
-generated, as those of gods and demigods; (2.) uterine
+kinds, as classified by Vaiseshika writers are (1.) ungenerated, as those of gods and demigods; (2.) uterine
 or viviparous; (3.) oviparous; (4.) engendered in filth;
 and (5.) vegetative or germinating.
 
@@ -6729,8 +5591,7 @@ Other substances are formed in a similar manner. These ©
 atoms combine by twos in an aggregate called dwy-anuka,
 or by threes, forming an aggregate called trasa-renu, which _
 comes within the range of our sight, as a mote in a sun- —
-beam. They also combine by fours, &. They are innumerable in extent, and are perpetually united, disinte-
-grated, and redintegrated by an unseen peculiar virtue or
+beam. They also combine by fours, &. They are innumerable in extent, and are perpetually united, disintegrated, and redintegrated by an unseen peculiar virtue or
 force (adrishta).
 
 What idea Kanada intended to convey by the term
@@ -6992,10 +5853,7 @@ that god, being ‘a thing both asat, non-existent (i.e, unmanifested), and sat,
 in the highest heaven, in the creation of Daksha, and in the
 womb of Aditi, became in a former age the first-born of our
 ceremonial, and is both a bull and a cow’” (Progress of the
-Vedic Religion, Journal A. S., 1865, p. 347). So also Pro-
-
-
-ee ae, ee eee ad
+Vedic Religion, Journal A. S., 1865, p. 347). So also Proee ae, ee eee ad
 
 
 fessor Max Miiller writes: “Some of the ancient sages, a
@@ -7608,19 +6466,3 @@ WEN
 YY
 
 
-Bet ie MDZ PiatlsteunysZentrun
-StaatsBibliothe! Digitale Bibliothek
-
-
-Tivarakita
-
-
-Hinda Philosophy The Sankhya Katika of Iswara Kilihia. An Exposition of
-the System of Kapila
-
-
-London 1881
-
-
-Acor. 4499
-urn:nbnide:bvb:12-bsb11542006-0
