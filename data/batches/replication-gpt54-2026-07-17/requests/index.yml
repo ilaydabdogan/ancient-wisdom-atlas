@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: replication-gpt54-2026-07-17
 created_at: '2026-07-18T02:27:38Z'
-updated_at: '2026-07-18T02:59:30Z'
+updated_at: '2026-07-18T03:19:43Z'
 endpoint: "/v1/responses"
 model: gpt-5.4-batch
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,7 @@ shards:
   sha256: 80a66bdc7766273e17ed27b8975aa8c090b6bd270159b85f99938416f81accac
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-e385c3d361e441ef8a9abd544d27eb06
   input_file:
     status: processed
@@ -32,19 +32,26 @@ shards:
   batch_id: batch_963b7413-bb0b-4d64-9f0f-e068fd4aa720
   batch:
     usage:
+      input_tokens: 3375734
+      output_tokens: 9589375
+      total_tokens: 12965109
+      input_tokens_details:
+        cached_tokens: 1474560
+      output_tokens_details:
+        reasoning_tokens: 6246236
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784343953
     completion_window: 24h
     created_at: 1784341701
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784343922
     id: batch_963b7413-bb0b-4d64-9f0f-e068fd4aa720
-    in_progress_at:
+    in_progress_at: 1784341853
     input_file_id: file-e385c3d361e441ef8a9abd544d27eb06
     errors:
     metadata:
@@ -53,14 +60,19 @@ shards:
       shard_id: shard-0001
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-f9fd8f1a-2de0-4ff8-bdea-6195e7a8a1e8
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T02:28:21Z'
+  output_file_id: file-f9fd8f1a-2de0-4ff8-bdea-6195e7a8a1e8
+  error_file_id:
+  last_checked_at: '2026-07-18T03:19:28Z'
+  output_path: data/batches/replication-gpt54-2026-07-17/results/shard-0001.output.jsonl
+  output_sha256: a17ca43c409d3142ebdd007877975073c8034da4edd47054db7b91f3f80fdea2
 - shard_id: shard-0002
   path: data/batches/replication-gpt54-2026-07-17/requests/shard-0002.jsonl
   request_count: 1000
@@ -68,7 +80,7 @@ shards:
   sha256: 7c44082cef59220f3d4e78563a2bf2085b053d7a5dce70f1054121b721546371
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-a7e18622bdd74c1fb26d3973ab4c3b91
   input_file:
     status: processed
@@ -82,19 +94,26 @@ shards:
   batch_id: batch_82677a63-822d-4c69-911b-a77dee76fc61
   batch:
     usage:
+      input_tokens: 3456349
+      output_tokens: 10541333
+      total_tokens: 13997682
+      input_tokens_details:
+        cached_tokens: 1491456
+      output_tokens_details:
+        reasoning_tokens: 7195485
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784344063
     completion_window: 24h
     created_at: 1784341705
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784344035
     id: batch_82677a63-822d-4c69-911b-a77dee76fc61
-    in_progress_at:
+    in_progress_at: 1784341854
     input_file_id: file-a7e18622bdd74c1fb26d3973ab4c3b91
     errors:
     metadata:
@@ -103,14 +122,19 @@ shards:
       shard_id: shard-0002
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-29a2d441-4ddb-4d46-87b0-ccdfc6a2bfb6
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T02:28:26Z'
+  output_file_id: file-29a2d441-4ddb-4d46-87b0-ccdfc6a2bfb6
+  error_file_id:
+  last_checked_at: '2026-07-18T03:19:28Z'
+  output_path: data/batches/replication-gpt54-2026-07-17/results/shard-0002.output.jsonl
+  output_sha256: 5092343bdbeb2da13b1e5fd63bce513b052883a923457b47d5e522030f840e78
 - shard_id: shard-0003
   path: data/batches/replication-gpt54-2026-07-17/requests/shard-0003.jsonl
   request_count: 1000
@@ -118,7 +142,7 @@ shards:
   sha256: db71f6dde80bc12edaebac4b1f2cdf40b82c59f36323e1404e193fd0bab4a067
   endpoint: "/v1/responses"
   model: gpt-5.4-batch
-  status: validating
+  status: completed
   input_file_id: file-cb92e1a0461045d2a4a9f879866a0baf
   input_file:
     status: processed
@@ -132,19 +156,26 @@ shards:
   batch_id: batch_3dc39c0a-2668-448e-9106-02ac855bb7c7
   batch:
     usage:
+      input_tokens: 3290416
+      output_tokens: 9728872
+      total_tokens: 13019288
+      input_tokens_details:
+        cached_tokens: 1445632
+      output_tokens_details:
+        reasoning_tokens: 6500163
     priority: high
     cancelled_at:
     cancelling_at:
-    completed_at:
+    completed_at: 1784344206
     completion_window: 24h
     created_at: 1784341709
-    error_file_id: ''
+    error_file_id:
     expired_at:
     expires_at:
     failed_at:
-    finalizing_at:
+    finalizing_at: 1784344176
     id: batch_3dc39c0a-2668-448e-9106-02ac855bb7c7
-    in_progress_at:
+    in_progress_at: 1784341854
     input_file_id: file-cb92e1a0461045d2a4a9f879866a0baf
     errors:
     metadata:
@@ -153,14 +184,19 @@ shards:
       shard_id: shard-0003
       pipeline: motif_extraction
     object: batch
-    output_file_id: ''
+    output_file_id: file-e5dde709-e2cf-4d69-87b9-0b57bf899d8b
     request_counts:
-      total: 0
-      completed: 0
+      total: 1000
+      completed: 1000
       failed: 0
-    status: validating
-    endpoint: ''
+    status: completed
+    endpoint: "/v1/responses"
   batch_created_at: '2026-07-18T02:28:30Z'
+  output_file_id: file-e5dde709-e2cf-4d69-87b9-0b57bf899d8b
+  error_file_id:
+  last_checked_at: '2026-07-18T03:19:29Z'
+  output_path: data/batches/replication-gpt54-2026-07-17/results/shard-0003.output.jsonl
+  output_sha256: 9a24c5a7d03b47e5cb58c9a8dacad843a3d9b2c4ed02afe62b7405079fdca550
 - shard_id: shard-0004
   path: data/batches/replication-gpt54-2026-07-17/requests/shard-0004.jsonl
   request_count: 386
@@ -220,7 +256,7 @@ shards:
   batch_created_at: '2026-07-18T02:28:46Z'
   output_file_id: file-820f0823-621a-4156-af8e-4c95e680f1f4
   error_file_id:
-  last_checked_at: '2026-07-18T02:59:23Z'
+  last_checked_at: '2026-07-18T03:19:43Z'
   output_path: data/batches/replication-gpt54-2026-07-17/results/shard-0004.output.jsonl
   output_sha256: 4656eaad212b282f89756ea6bc6534e69f35547668faa8363bec9ef68c389606
 
