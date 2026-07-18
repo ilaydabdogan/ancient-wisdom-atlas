@@ -49,7 +49,13 @@ AtlasBatch.die("--run-id is required", 64) unless options[:run_id]
 AtlasBatch.die("--source-run is required", 64) unless options[:source_run]
 
 source_dir = AtlasBatch.batch_dir(options[:source_run])
-passages = AtlasBatch.read_jsonl(File.join(source_dir, "passages.jsonl")).to_h { |p| [p["passage_id"], p] }
+passages_path = File.join(source_dir, "passages.jsonl")
+unless File.file?(passages_path)
+  source_index = AtlasBatch.load_yaml(File.join(source_dir, "requests", "index.yml"))
+  passages_path = AtlasBatch.project_path(source_index["passages_path"].to_s)
+end
+AtlasBatch.die("passages file not found for #{options[:source_run]}", 66) unless File.file?(passages_path)
+passages = AtlasBatch.read_jsonl(passages_path).to_h { |p| [p["passage_id"], p] }
 request_map = AtlasBatch.read_jsonl(File.join(source_dir, "request-map.jsonl")).to_h { |r| [r["custom_id"], r] }
 
 def response_text(body)
