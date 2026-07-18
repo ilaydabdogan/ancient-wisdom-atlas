@@ -1,149 +1,5 @@
 # Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana
 
-Google
-
-
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
-to make the world’s books discoverable online.
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
-are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difficult to discover.
-
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book’s long journey from the
-publisher to a library and finally to you.
-
-
-Usage guidelines
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
-
-
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
-prevent abuse by commercial parties, including placing technical restrictions on automated querying.
-
-
-We also ask that you:
-
-
-+ Make non-commercial use of the files We designed Google Book Search for use by individual
-personal, non-commercial purposes.
-
-
-and we request that you use these files for
-
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
-use of public domain materials for these purposes and may be able to help.
-
-
-+ Maintain attribution The Google “watermark” you see on each file is essential for informing people about this project and helping them find
-additional materials through Google Book Search. Please do not remove it.
-
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
-countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any specific use of
-any specific book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner
-anywhere in the world. Copyright infringement liability can be quite severe.
-
-
-About Google Book Search
-
-
-Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers
-discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
-ai[http: //books . google. com/|
-
-
-wm
-
-
-—
-
-
--
-
-
-y')
-
-
-Plate L.
-
-
-A Macusi Indian in full dancing dress.
-
-
-ew
-
-
-AMONG THE INDIANS OF GUIANA:
-
-
-BEING
-
-
-SKETCHES CHIEFLY ANTHROPOLOGIC
-
-
-FROM THE INTERIOR OF
-
-
-BRITISH GUIANA
-
-
-Br EVERARD F. 1M THURN, M.A. Oxon.
-
-
-WITH 53 ILLUSTRATIONS 4ND A MAP
-
-
-LONDON
-KEGAN PAUL, TRENCH, & CO., 1 PATERNOSTER SQUARE
-1883
-
-
-PRESERVATION
-
-
-COPY ADDED
-ORIGINAL TO BE
-RETAINED
-JUN 2 3 1992 eo
-43
-REESE
-
-
-(The rights of translation and of reproduction are reserved )
-
-
-TO
-
-
-TOM COTTINGHAM EDWARDS-MOSS
-
-
-FAMOUS AS AN OARSMAN BUT DESERVING
-OF FAR GREATER FAME AS THE POSSESSOR, IN MOST
-UNUSUAL DEGREE, OF THOSE RARE AND EXCELLENT QUALITIES
-WHICH MAKE A MAN AN ENTIRELY HELPFUL AND
-
-
-PLEASANT TRAVELLING COMPANION
-
-
-THESE RESULTS OF TRAVEL ARE DEDICATED
-BY HIS FRIEND
-
-
-EVERARD F. ix THURN
-
-
-PomERoow RIVER
-BRITISH GUIANA
-
-
 PREFACE.
 
 
@@ -156,11 +12,9 @@ having been spent, in about equal proportion, in wandering
 among the Indians and in the chief town of the colony, I
 left the country, as I then thought, for ever.
 
-During the following two years, spent in England, when-
-ever there came a perfectly fine day, whether in spring,
+During the following two years, spent in England, whenever there came a perfectly fine day, whether in spring,
 summer, autumn, or in winter, and whenever I was able to
-spend those too rare opportunities of perfect life in wander-
-ing over down-country, or through English lanes and woods,
+spend those too rare opportunities of perfect life in wandering over down-country, or through English lanes and woods,
 or by that ever pleasant river which runs past Oxford town,
 then I felt that the unspeakable pleasure of such a day
 surpassed by far all that the days, and all that the years,
@@ -170,8 +24,6 @@ had to be endured, then my thoughts invariably turned
 westward, and I longed to be once more among the deep
 shadows and broken lights of the gigantic tropical forests,
 on the sunlit waters of the broad rivers, or on the rolling,
-
-
 limitless savannahs, among which I had learned to know the
 
 
@@ -183,8 +35,7 @@ came to Guiana.
 
 During, and immediately after, my first visit to the,
 colony, I had at various times and in various newspapers
-published disconnected sketches of my travels and, especi-
-ally, of experiences among the Red men. These sketches
+published disconnected sketches of my travels and, especially, of experiences among the Red men. These sketches
 very soon passing out of print, and there being among my
 papers much similar but unpublished matter, I, when
 finally settled, as I thought, in England, set to work to
@@ -203,8 +54,7 @@ those which had already been published had attracted some
 attention, more perhaps than they deserved; and it was
 exactly these which were in a most finished condition. I
 therefore re-wrote and added to them, and now publish
-them in this volume, together with a few chapters descrip-
-tive of the country where dwell the Red men of whom my
+them in this volume, together with a few chapters descriptive of the country where dwell the Red men of whom my
 story more especially tells.
 
 
@@ -225,26 +75,21 @@ present form in the ‘ Gardener’s Chronicle.’
 Most men like to record in their prefaces the names of
 those who have helped them in their work; but were I to
 allow myself this pleasure with any freedom I should far
-exceed all reasonable limits. I must, however, make men-
-tion, among the friends who have helped me in England,
+exceed all reasonable limits. I must, however, make mention, among the friends who have helped me in England,
 of Mr. E. B. Tylor and Mr. A. W. Franks, and also of
 the authorities at Kew Gardens; nor can I pass without
 mention, among those, dwellers in Guiana, to whom I am
 indebted for services directed toward the same end, Mr. W.
 H. Campbell, who, but that the accuracy of his scientific
 knowledge and the deficiency of his years deny, might, in all
-other respects, be regarded as the proverbial ‘oldest inhabi-
-tant’ of the colony; or Mr. N. Darnell Davis, a true West
+other respects, be regarded as the proverbial ‘oldest inhabitant’ of the colony; or Mr. N. Darnell Davis, a true West
 Indian bibliophile; or Mr. James Thomson, whose kindness,
 both as editor successively of the two newspapers in which
 most of my sketches appeared, and as my informant on
 many points; or Mr. G. S. Jenman, the official botanist,
-whose botanical knowledge of Guiana is in exceeding pro-
-portion to the comparative shortness of his experience there.
+whose botanical knowledge of Guiana is in exceeding proportion to the comparative shortness of his experience there.
 Lastly, but by no means least, I here record my gratitude to
 the lady friend who drew for this book two of the coloured
-
-
 plates as well as two of the smaller uncoloured illustrations.
 
 
@@ -255,14 +100,11 @@ As regards the other illustrations, the coloured figure of
 a new bird (Ageleus imthurni, Sclater) was prepared for me
 under the kind superintendence of Mr. P. L. Sclater; the
 Royal Geographical Society has been good enough to supply
-the map; the Anthropological Institute, with equal kind-
-ness, has lent a plate of stone-implements and one small cut
+the map; the Anthropological Institute, with equal kindness, has lent a plate of stone-implements and one small cut
 which were engraved in illustration of my papers published
 in its Journal; the engravings of scenery and figures were
 prepared from photographs taken for me; and the figures of
 Indian implements, etc., and of rock engravings, are from
-
-
 my own sketches.
 EVERARD F. Im THURN.
 
@@ -281,8 +123,7 @@ A JOURNEY IN THE INTERIOR.
 PAGE
 Outline Sketch of the Interior—Methods of Travelling—Bartica
 Grove—Moraballi—A Creek—Hauling the Canoes up the Rapids—
-Moé—Night in the Forest—Scenery—Half-bred Brazilians—Pai-
-warikaira—A Peaiman’s Vengeance—Healthiness of the Interior—
+Moé—Night in the Forest—Scenery—Half-bred Brazilians—Paiwarikaira—A Peaiman’s Vengeance—Healthiness of the Interior—
 Aretaka—A Burning Mora-tree— Magic Sticks—Apaoterie—Up the
 Roopoonooni—Scenery—Kaboori-flies—Stopped by Sandbanks—
 
@@ -306,8 +147,7 @@ THE KAIRTEUR FALL AND RORAIMA.
 
 The Fall—First Visit—The Potaro River—Amootoo Cataract—The
 Kaieteur Ravine—To the Foot of the Fall—The Kaieteur in Dry
-Weather,from above—The Kaieteur Savannah—A New Plant (Brve-
-chinia cordylinoides, Baker)—A New Bird (Agelaus imthurni,
+Weather,from above—The Kaieteur Savannah—A New Plant (Brvechinia cordylinoides, Baker)—A New Bird (Agelaus imthurni,
 Sclater)—A Second Visit to the Kaieteur—Beautiful Flowers—
 Portaging the Boat—The Kaieteur from above, in the Rainy Season
 —The best way to visit the Fall—Roraima . . . . 66
@@ -321,8 +161,7 @@ ASPECTS OF PLANT-LIFE.
 
 
 Common Misconception of Tropical Scenery—The Special Case of
-Guiana—General Type of Foliage like that of Temperate Cli-
-mates—Colouring of the Foliage—Colour of Flowers in Mass—
+Guiana—General Type of Foliage like that of Temperate Climates—Colouring of the Foliage—Colour of Flowers in Mass—
 Beauty of individual Flowers—Scent—Chief Types of Guiana
 Vegetation—A Scene in the Forest—Palm Forests—River-side
 Vegetation— The Cokerite Palm—Savannah Scenery — Water
@@ -335,8 +174,7 @@ ANIMAL LIFE.
 
 General Considerations—Mammals—Warracaba Tigers—The Colours
 of Birds—Bird-notes—Chief Forms of Birds—Scenes of Bird-life—-
-Reptiles—A]ligators—Iguanas—Snakes—Turtles—Fish—The Dan-
-gers of Bathing—Insect Plagues—Butterflies—Beetles—Ants—
+Reptiles—A]ligators—Iguanas—Snakes—Turtles—Fish—The Dangers of Bathing—Insect Plagues—Butterflies—Beetles—Ants—
 Wasps—Mosquitoes—Sandflies—The Mosquito Worm —Jiggers—
 Bush-Ticks—Spiders—Centipedes—Scorpions . .
 
@@ -352,9 +190,6 @@ Tribal Differences in Language, Physical Characters, and Habits—
 
 
 PAGE
-
-
-87
 
 
 . 106
@@ -375,10 +210,8 @@ FAMILY-SYSTEMS AND MARRIAGE-SYSTEMS.
 
 
 Arawak System as Type—Description of the System—List of Family
-Names—Origin of the Names—Method of keeping Families dis-
-tinct—Co-existing but Contradictory System of Bride-lifting—
-Evidence of the Existence of this latter System—Two possible Ex-
-planations . : . . .
+Names—Origin of the Names—Method of keeping Families distinct—Co-existing but Contradictory System of Bride-lifting—
+Evidence of the Existence of this latter System—Two possible Explanations . : . . .
 
 
 CONTENTS.
@@ -401,8 +234,7 @@ Distribution of the Settlements—The Three Chief Types of Houses—
 Warrau Pile-dwellings—Open Houses in the Forest—Walled
 Houses on the Savannah—Communal Houses in rare Instances—
 Pile-houses occasionally built on the dry Savannah—Benabs, or
-Temporary Huts—Probable History of Development of House-
-building among Indians—Various Thatch-materials
+Temporary Huts—Probable History of Development of Housebuilding among Indians—Various Thatch-materials
 
 
 CHAPTER X.
@@ -450,13 +282,7 @@ PAGE
 . 202
 
 
-211
-
-
 . 227
-
-
-250
 
 
 Xil CONTENTS.
@@ -470,8 +296,6 @@ THE PREPARATION OF FOOD.
 
 P
 Cooking done by Women—Fire-making—Staple Food: Meat chiefly
-
-
 in the form of Pepper-pot ; Cassava as Bread, Farine, and Paiwari—
 Effect of Cassava on Indian Physique—Salt—Occasional Food :
 Eggs, of Birds, seldom eaten ; of Reptiles often ; Insects ; Fruits—
@@ -483,11 +307,9 @@ CHAPTER XIV.
 
 
 General Considerations—Pottery—Basket-work—Spinning : Three
-kinds of Fibre; Two Methods of Spinning; Explanation of Co-
-existence of Two Methods—Weaving: Hammock-weaving; Rude
+kinds of Fibre; Two Methods of Spinning; Explanation of Coexistence of Two Methods—Weaving: Hammock-weaving; Rude
 Cloth-weaving — Boat-building — Bench-making— Weapon-making
-—Ornament-making—Musical Instruments—Poison-making—Pre-
-paration of Oils, Pitches, Dyes—Tobacco-production
+—Ornament-making—Musical Instruments—Poison-making—Preparation of Oils, Pitches, Dyes—Tobacco-production
 
 
 CHAPTER XV.
@@ -539,8 +361,7 @@ Existence and Separability of the Spirit in Deatb, Sleep, and
 
 
 Visions— Power of Transmission of the Spirit into other Bodies—
-Spirits of Animals—Spirits of Fabulous Animals—Spirits of Inani-
-mate Objects—Nature of Disease-Spirits—Indian Conception of
+Spirits of Animals—Spirits of Fabulous Animals—Spirits of Inanimate Objects—Nature of Disease-Spirits—Indian Conception of
 the Spirit World—General Statement of the Lines along which
 Animism might be expected to develop into Higher Religion—
 Indian Conception of Continuance of Spirit after Death of the
@@ -556,8 +377,7 @@ FOLE-LORE.
 General Statement of the Nature of the Folk-lore—Elements of Error
 in reading the Folk-lore of Savages—Examples of such Error
 regarding God, Prayer, a Deluge, and a World-fire—Mythological
-Legends—The Arrival of Indians upon Earth—The Origin of Cul-
-tivation—Animals and their Doings— Fanciful Explanations of the
+Legends—The Arrival of Indians upon Earth—The Origin of Cultivation—Animals and their Doings— Fanciful Explanations of the
 Facts of Nature—Fabled Animals—An Indian Jonah—Historical
 Legends . . . . . . . . . . . . O74.
 
@@ -660,33 +480,7 @@ To face page 5&7
 ”
 
 
-61
-66
-7)
-76
-189
-198
-394
-424
-
-
 PAGE
-192
-193
-194
-198
-199
-200
-229
-230
-235
-239
-241
-243
-243
-243
-246
-247
 
 
 LIST OF ILLUSTRATIONS.
@@ -746,34 +540,27 @@ LIST OF ILLUSTRATIONS.
 MAP OF BRITISH GUIANA
 
 
-AMONG THE INDIANS OF GUIANA.
-
-
 CHAPTER I.
 A JOURNEY IN THE INTERIOR.
 
 
 Outline Sketch of the Interior—Methods of Travelling—Bartica Grove—
 Moraballi—A Creek—Hauling the Canoes up the Rapids— Moé—Night
-in the Forest—Scenery—Half-bred Brazilians—Paiwarikaira—A Peai-
-man's Vengeance—Healthiness of the Interior—Aretaka—A Burning
+in the Forest—Scenery—Half-bred Brazilians—Paiwarikaira—A Peaiman's Vengeance—Healthiness of the Interior—Aretaka—A Burning
 Mora-tree—Magic Sticks—Apooterie—Up the Roopoonooni—Scenery—
 Kaboori-flies — Stopped by Sand-banks— A New Crew—Quartama—A
 Pretty Pond —Pirara Landing.
 
 
-He who would see the beauty and the great, though unde-
-veloped capabilities of the only English part of the continent
+He who would see the beauty and the great, though undeveloped capabilities of the only English part of the continent
 of South America, must leave behind him the flat and swampy
 coastland of Guiana, and, passing up wide rivers and through
-vast forests, reach the magnificent and wide savannahs, inter-
-sected by the rugged mountain ridges which lie on the furthest
+vast forests, reach the magnificent and wide savannahs, intersected by the rugged mountain ridges which lie on the furthest
 limits of the colony, and stretch away into the interior of the
 continent. In so doing, the traveller will have to encounter
 many difficulties and some hardships ; but, on the other hand,
 his travels will be through a land the marvellous beauty of
-which will more than recompense his pains, and where new ob-
-jects will occur at every turn to draw his thoughts away from all
+which will more than recompense his pains, and where new objects will occur at every turn to draw his thoughts away from all
 discomforts. Nor have many travellers yet been before him ;
 so that, though he will have the labour of making his own
 path, this will be counterbalanced by the pleasure of visiting
@@ -786,19 +573,13 @@ only the outermost or sugar tract, which lies nearest to the
 B
 
 
-2 AMONG THE INDIANS OF GUIANA.
-
-
 sea-coast, is at present cultivated and inhabited to any con~
 siderable extent. Next to this is the timber tract, from
 which alone timber has as yet been remuneratively brought
-
-
 to market. This extends toward the interior as far as the’
 
 
-lowest cataracts on the various rivers. It is at present im-
-possible to cut timber profitably beyond these cataracts, owing
+lowest cataracts on the various rivers. It is at present impossible to cut timber profitably beyond these cataracts, owing
 to the difficulty which there would be in carrying any cut
 beyond that to market; so that an imaginary line, roughly
 parallel to the sea-coast, and cutting each of the great rivers
@@ -807,21 +588,18 @@ coast of this tract. This part of the country is only very
 sparingly inhabited by a few wood-cutters, white men and
 black, and by a few Indians.
 
-The two remaining tracts are entirely uninhabited ex-
-cept by widely scattered Indians of four or five different
+The two remaining tracts are entirely uninhabited except by widely scattered Indians of four or five different
 tribes. The forest tract immediately succeeds the timber
 tract; and lastly, furthest from the coast, lies the savannah
 tract. The former of these is everywhere covered by dense
 forests, as yet untouched by the woodcutter, and consisting
-largely of the two most valuable trees of the colony—green-
-heart (.Vectandra rodiet) and mora (Mora excelsa). The
+largely of the two most valuable trees of the colony—greenheart (.Vectandra rodiet) and mora (Mora excelsa). The
 land in all these three tracts is generally low, flat and
 swampy, though in the forest tract the level is occasionally
 broken by sloping hills, by solitary mountains, and even
 by low and unimportant ranges.
 
-The last of the tracts is formed by the savannah of the in-
-terior. This must be distinguished from the meadows, also
+The last of the tracts is formed by the savannah of the interior. This must be distinguished from the meadows, also
 called savannahs, of the coast and forest tracts. Nearly all
 the small tributary streams of those regions rise in treeless
 marshes, which are under water during a large part of the
@@ -840,16 +618,14 @@ TOPOGRAPHY. 3
 it is continued without any significant interruption into the
 great grass-plain which occupies so much of the interior of
 South America. Our share of this large meadow is about
-14,000 square miles in extent. On it stand the only con-
-siderable mountains of British Guiana. ;
+14,000 square miles in extent. On it stand the only considerable mountains of British Guiana. ;
 
 There are no roads in the colony except that which runs
 along the coast. But four great rivers, the Essequibo, the
 Demerara, the Berbice, and the Corentyn, run, nearly paralle
 to each other, from the interior to the sea; and into these
 pass many tributary streams, often of considerable size. The
-four-main rivers are the high roads, and their tributaries, to-
-gether with a few Indian tracks through the forest, perhaps
+four-main rivers are the high roads, and their tributaries, together with a few Indian tracks through the forest, perhaps
 hardly discernible to an unpractised eye, are the cross roads,
 along which all travelling within the forest region must be
 done by canoe or on foot. When once the savannahs are
@@ -860,19 +636,16 @@ savannah, over which I passed to the remote edge of the
 colony and on into Brazilian territory.
 
 To give some account of the interior of Guiana is a
-necessary preliminary of my task. On each of my jour-
-neys I wrote down day by day the story of my travels.
+necessary preliminary of my task. On each of my journeys I wrote down day by day the story of my travels.
 These diaries might, therefore, be transcribed with hardly
 any alteration. But such a diary, however interesting tothe
-traveller himself and to his friends, and however many in-
-teresting facts it may contain, must always be tedious to the
+traveller himself and to his friends, and however many interesting facts it may contain, must always be tedious to the
 general reader. On the other hand, it is very difficult to
 give a description of a comparatively unknown land without
 using some such thread, on which to string the facts, as is
 afforded by a journal. And this is in a special degree true
 of the interior of British Guiana; for all that is known about
-it amounts but to a very considerable number of discon-
-nected facts. I shall, therefore, use the diary of one of my
+it amounts but to a very considerable number of disconnected facts. I shall, therefore, use the diary of one of my
 journeys asa thread on which will be strung all pertinent
 facts derived either from my own experiences or from those
 of previous travellers in the same region.
@@ -880,15 +653,11 @@ of previous travellers in the same region.
 B2
 
 
-4 AMONG THE INDIANS OF GUIANA.
-
-
 A line of ‘steamers, largely subsidised by the Government,
 runs from Georgetown to the Berbice on the one hand, and
 to the Essequibo on the other; and smaller steamers run
 twice in each week up the Essequibo, the Demerara, and. the
-Berbice. These steamers are almost the only means yet at-
-tempted of opening up the colony. The small steamer-nins
+Berbice. These steamers are almost the only means yet attempted of opening up the colony. The small steamer-nins
 up the Essequibo for a distance of about thirty-five miles from
 the mouth, partly for the convenience of the few who travel
 in that direction, but chiefly for Government purposes, the
@@ -902,8 +671,7 @@ Leaving Georgetown early in the morning, we passed for
 two hours along the coast, and then ran into the Essequibo.
 On board was a most heterogeneous and picturesque crowd
 of East Indians, Chinese, Indians, Negroes, together with
-Portuguese and a few other white men. Nearly every indivi-
-dual of this crowd travelled with a strange assortment of lug-
+Portuguese and a few other white men. Nearly every individual of this crowd travelled with a strange assortment of lug-
 gage, varying from a bedstead or waggon toa pair of live fowls
 ora parrot. On either side of the river the banks were low
 and swampy, densely covered with courida bushes ( Avicennia
@@ -911,17 +679,14 @@ nitida), mangroves (Rhizophora mangal), and palm-trees.
 In the evening, about four o’clock, we reached Bartica Grove.
 
 Bartica Grove, once a flourishing mission station, is now
-reduced to a few wooden huts, used as stores, a church re-
-cently half-restored from a most ruinous condition, a few
+reduced to a few wooden huts, used as stores, a church recently half-restored from a most ruinous condition, a few
 small living houses, and some timber-sheds. These latter are
-picturesque buildings, consisting of a few upright posts sup-
-porting roofs of withered palm-leaves. Under their eaves
+picturesque buildings, consisting of a few upright posts supporting roofs of withered palm-leaves. Under their eaves
 colonies of gigantic green spiders, as large as thrush’s eggs,
 watch their webs, undisturbed from year’s end to year’s end.
 The whole sleepy, beautiful village lies under the shade of an
 avenue of large mango-trees. From this avenue the view
-riverward is of an enormous stretch of water ; the view land-
-ward is of a tangled shrubbery of flowering bushes, from
+riverward is of an enormous stretch of water ; the view landward is of a tangled shrubbery of flowering bushes, from
 
 
 BARTICA GROVE. 5
@@ -938,15 +703,13 @@ a living on the timber-grants, or as best theycan. There are
 also a few inhabitants of a better kind, chiefly store-keepers.
 As many of the river-men have had considerable practice in
 passing the falls which so greatly obstruct the rivers of the
-country, these men have generally been employed as boat-
-hands by travellers into the interior. They are, however, as
+country, these men have generally been employed as boathands by travellers into the interior. They are, however, as
 I had found on a previous occasion, an unmanageable and
 disagreeable set, and it is, therefore, far pleasanter to employ
 only Indians, who are not only much more easily managed,
 but also—and this is a- most important consideration to a
 traveller who must make companions of his crew—are far
-more pleasant in manner. Having already made the neces-
-sary arrangements, I was met at the Grove by a crew of
+more pleasant in manner. Having already made the necessary arrangements, I was met at the Grove by a crew of
 Macusi Indians who were to accompany me into the interior.
 
 The party consisted of my companions Messrs. Flint and
@@ -959,8 +722,7 @@ in this part varies from about one and a half to two miles in
 width. A few islands of various sizes are scattered through
 the reaches. The banks on both sides of the river, as well
 as the islands, are everywhere clothed, down to the edge of
-the water, with rounded masses of foliage, generally laurel-
-like in character, and really, though not apparently, rising
+the water, with rounded masses of foliage, generally laurellike in character, and really, though not apparently, rising
 toa great height. The whole scene is on so gigantic a scale
 that these forests seem hardly more than low bush. There
 was but little flower to add to the colour; but here and there,
@@ -974,8 +736,7 @@ deeper red, and occasionally even a deep bright crimson, stood
 
 out in vivid contrast with the varied greens of the surrounding
 trees. Lower on the bank of foliage, the large white and
-crimson flowers and huge dark pods of the white chocolate-
-tree (Paohira aquatica, Aubl.) attracted the eye to where
+crimson flowers and huge dark pods of the white chocolatetree (Paohira aquatica, Aubl.) attracted the eye to where
 small flights of day-bats, startled by our passing boat, flitted
 about among the roots which rose from the water in the
 shadow of the overhanging trees.
@@ -988,8 +749,7 @@ this we came out in a very few minutes into a new reach of
 the river, wider than before.
 
 With a careful pilot a small steamer might penetrate a
-little beyond the ‘ Monkey Jump,’ to a point a few miles be-
-fore the first falls on the river at Aretaka. A few years ago
+little beyond the ‘ Monkey Jump,’ to a point a few miles before the first falls on the river at Aretaka. A few years ago
 a path was cut through the forest from this highest point
 navigable for a steamer to the Kaieteur fall on the Potaro
 river, which in height, volume, and in the beauty of the
@@ -1002,8 +762,7 @@ of it is already obliterated by the rapid growth of tropical
 vegetation.
 
 Opposite to the point from which this path starts stands
-Moraballi, a cluster of three houses, inhabited by a wood-
-cutter and his family, and interesting to us as the last civi-
+Moraballi, a cluster of three houses, inhabited by a woodcutter and his family, and interesting to us as the last civi-
 lised houses which we were to see for six months.
 
 The scenery was characteristic. The sheet of water, —
@@ -1018,8 +777,7 @@ In one place a school of white river porpoises was splashing
 MORABALLI. 7
 
 
-up the water. The banks framing the scene were every-
-where clothed with a dense mass of trees, the foliage of
+up the water. The banks framing the scene were everywhere clothed with a dense mass of trees, the foliage of
 which passed in varied and rounded curves down to the edge
 of the water. These trees, really of enormous height, seemed
 but a low, even-topped, far-extending ‘bush.’ In one place
@@ -1037,8 +795,7 @@ which are of such considerable size that they might well be
 called rivers, are very numerous throughout the courses of
 most of the rivers of Guiana.
 
-It was in passing up this very creek, on a previous occa-
-sion, that I first understood the beauty of a tropical forest.
+It was in passing up this very creek, on a previous occasion, that I first understood the beauty of a tropical forest.
 On the main rivers the scenery is too large to be well
 understood; but these smaller streams give more definite
 impressions. Moraballi creek is about the width of the
@@ -1047,8 +804,7 @@ water runs, arched over by gigantic trees and palms and
 ferns, through dense shade. The swampy banks are thickly
 set with ferns and large lily-leaved aroids. At the water’s
 edge a carpet of half-transparent filmy ferns and mosses is
-kept continually moist. From the trees which meet over-
-head, roots and leafless stems of wiry creeping plants hang
+kept continually moist. From the trees which meet overhead, roots and leafless stems of wiry creeping plants hang
 down to the water; and on some of these humming-birds fix —
 their tiny nests. There is no colour; the light is very dim;
 the air is very cool and almost chilly. But in one place,
@@ -1057,15 +813,8 @@ glorious and intensely blue sky appeared, its colour thrown
 into extraordinary vividness by a wreath of scarlet-blossomed
 passion-flower which had thrown itself acrozs the open space
 from tree to tree. On the fallen tree, now lying leafless and
-
-
 at
 Fi
-
-
-8 AMONG THE INDIANS OF GUIANA.
-
-
 branchless across the stream, almost touching the water,
 perched a great grey-blue kingfisher, which, frightened by
 the approach of our boat, flew screaming down the dark,
@@ -1112,8 +861,7 @@ and strength, of the West Indian negro. We took up our
 IN ARETAKA RAPIDS. 9
 
 
-quarters for a few days at the house of one of these Cobun-
-grus, a finely built man named Cephas, more than half
+quarters for a few days at the house of one of these Cobungrus, a finely built man named Cephas, more than half
 Carib, who held by commission from the governor of the
 colony the oddly combined offices of rural constable and
 chief of the Indians of the Essequibo river. His curly hair
@@ -1123,16 +871,14 @@ meet us under the trees at the waterside, his naked red skin,
 relieved only by the usual dark blue lap or loin cloth, and by
 a splendid necklace of highly polished teeth of bush-hogs or
 peccaries, he was certainly a picturesque figure. The cause
-of his limp was evident in a horrible-looking wound con-
-spicuous on one shin. This had been produced twenty-
+of his limp was evident in a horrible-looking wound conspicuous on one shin. This had been produced twenty-
 seven months previously by the bite of a large snake. The
 wound kept him in his hammock for fifteen months, but since
 that he had been able to get about as freely as ever except
 for the odd hopping action in his walk.
 
 Some little distance from the river, on top of a hill, the
-three or four huts which form the settlement stand, sur-
-rounded by charred trunks of trees, by cassava and other
+three or four huts which form the settlement stand, surrounded by charred trunks of trees, by cassava and other
 plants cultivated by the Indians, and by razor grass (Scleria
 scindens) and other weeds, in a clearing walled by tall forest
 trees.
@@ -1149,15 +895,8 @@ made up a striking picture—a harmony in red and brown.
 
 As on every other occasion in which I have taken up my
 quarter in the houses of Indians of various tribes, the people
-were civil, hospitable, and pleasant. On this occasion hospi-
-tality was largely exercised in bringing us calabashes of casiri
-—a slightly alcoholic drink made of cassava, maize, and sweet-
-
-
-10 AMONG THE INDIANS OF GUIANA.
-
-
-potatoes, which tastes, not unpleasantly, like something be-
+were civil, hospitable, and pleasant. On this occasion hospitality was largely exercised in bringing us calabashes of casiri
+—a slightly alcoholic drink made of cassava, maize, and sweetpotatoes, which tastes, not unpleasantly, like something be-
 tween sour porter and thin claret.
 
 As our object in staying at Aretaka was to fill up some
@@ -1180,14 +919,12 @@ them, though numerous, were both narrow and _ shallow.
 The canoes often had to be dragged by main force over the
 rocky floor. Where the channels were deeper the water
 rushed down more violently, and it was difficult to haul the
-canoes against the current. But the Indians worked wonder-
-fully. Some swam, and had hard work to keep their course in
+canoes against the current. But the Indians worked wonderfully. Some swam, and had hard work to keep their course in
 the rushing water. Others, up to their waists or even up to
 their necks in water, stood on half-submerged rocks hauling
 by means of ropes attached to the canoes. All laughed and
 shouted ; and the roar of the river half-drowned their noise.
-The only woman of the party worked at least as energeti-
-cally as the men. _Once she suddenly lost her footing,
+The only woman of the party worked at least as energetically as the men. _Once she suddenly lost her footing,
 slipped, and was swept down the river, the current carrying
 her right under the canoe. The half-terrified, half-amused
 expression on her wholly hideous face, when it reappeared
@@ -1196,8 +933,6 @@ fish, and was soon running on the rocks and pulling again
 as strongly as ever. All Indians, men and women alike,
 swim splendidly, but with a peculiar action. The legs are
 hardly spread, but are bent somewhat downward at an angle
-
-
 to the trunk, and are then suddenly again straightened, thus .
 
 
@@ -1211,13 +946,10 @@ MOE. ° 11
 
 use of the words ‘ rapid,’ ‘cataract,’ and ‘ fall’ respectively.
 The first word should, it seems to me, be confined to places
-where the water passes down a very slight, however long, in-
-cline, usually among many scattered rocks. A ‘cataract’ is
+where the water passes down a very slight, however long, incline, usually among many scattered rocks. A ‘cataract’ is
 a place where a great body of water falls suddenly down a
 ledge of rock, abrupt but not perpendicular. Lastly, the word
 ‘fall’ should only be used of such places where the water falls
-
-
 abruptly down an unbroken cliff-like face of perpendicular —
 
 
@@ -1241,8 +973,7 @@ other Indians, it was very evident that the clothes which he
 had worn for two years had made his skin become much
 fairer in tint. Strangely enough, he alone of all the
 Indians looked naked, and it was some months before the
-lighter tint of his skin, with the consequent effect of naked-
-ness, disappeared. In other respects also he differed from
+lighter tint of his skin, with the consequent effect of nakedness, disappeared. In other respects also he differed from
 the other Indians. He was even from the first lively and
 talkative, while they were for some time reserved and
 shy. He had learned some ugly tricks in town, such as
@@ -1258,16 +989,11 @@ The banks of the Essequibo above Aretaka are almost
 »
 
 
-12 AMONG THE INDIANS OF GUIANA.
-
-
-uninhabited, even by Indians; throughout the several hun-
-dred miles of country through which we passed between
+uninhabited, even by Indians; throughout the several hundred miles of country through which we passed between
 Aretaka and the mouth of the Roopoonooni, we came across
 but three or four settlements. Our camps, therefore, were
 generally made in the forest. As, however, Indians are
-continually passing up and down the river, there are cer-
-tain recognised camping- places, from which the bush has been
+continually passing up and down the river, there are certain recognised camping- places, from which the bush has been
 cleared. Sometimes, however, when as night approached
 we were not near one of those places, we had to clear ground
 for ourselves in the bush. The nights spent in the open
@@ -1281,27 +1007,21 @@ fire, which occasionally flared up and seemed to lick the naked
 skins of the Indians through the meshes of the hammock.
 Not content with this, the Indians sometimes made the boys
 take lighted palm-leaves and singe them as they lay in their
-hammocks, this strange proceeding being intended to de-
-stroy savage insects.
+hammocks, this strange proceeding being intended to destroy savage insects.
 
 One by one the Indians fell asleep. Various kinds of
 frogs kept up an almost deafening concert of marvellously
 varied croaks, some musical, some most unmusical. One
 imitated the beat of paddles striking in regular time against
-the sides of a canoe after the Indian custom; and the like-
-ness was the more deceitful because the sound alternately
+the sides of a canoe after the Indian custom; and the likeness was the more deceitful because the sound alternately
 rose and fell gradually as though a canoe came up the river,
 passed the camp, and was then paddled up the stream out
 of ear-reach. Often and often I have lain long in doubt
 whether the sound heard was caused by paddles or by frogs.
-And while the frogs croaked, every now and then a night-
-jar flitted swiftly and most silently by, and then suddenly
+And while the frogs croaked, every now and then a nightjar flitted swiftly and most silently by, and then suddenly
 shrieked out its loud ery of ‘ Work-work-work-to-hell.’ Or
 another and larger species began to moan out the four notes
-of its most hideous and depressing cry of ‘ Who-who-who-
-
-
-e - semen a
+of its most hideous and depressing cry of ‘ Who-who-whoe - semen a
 
 
 A __ nce nent RIERA
@@ -1318,10 +1038,8 @@ and high-pitched, each of the succeeding ones lower, and
 the last an almost inaudible moan. It is only comparable to
 the cry of a despairing and dying human being. At times was
 heard the noise —something between a snort and a bellow—
-of a cayman ; and at other times mysterious sounds, resem-
-bling the crack of pistol-shots, which I afterwards found were
-caused by caymans raising their tails into the air and bring-
-ing them down sharply on the surface of the water.
+of a cayman ; and at other times mysterious sounds, resembling the crack of pistol-shots, which I afterwards found were
+caused by caymans raising their tails into the air and bringing them down sharply on the surface of the water.
 
 Toward morning the loudest and most appalling noise of
 all broke out. Beginning suddenly in a deep roar, it became
@@ -1344,8 +1062,7 @@ bath.
 And now the sound and sights of the day began. Some
 toucans, perched on the very highest boughs of a tall tree,
 were revelling in the morning sun, and greeting it with
-their usual yelping cries. Emphasis is given to each puppy-
-like yelp by an odd and comical antic; the head is jerked
+their usual yelping cries. Emphasis is given to each puppylike yelp by an odd and comical antic; the head is jerked
 down, the tail lifted almost at right angles to the body. In
 the distance an Indian canoe appeared from behind a bend in
 the river. The naked skins of the Indians in it literally
@@ -1353,16 +1070,10 @@ flashed red in the intense light. A scarlet ibis (bis rubra)
 —the only one, by the way, that I ever saw so high up
 on this river—flew by and settled upon a tree between us
 and the approaching canoe; but it hardly looked more red
-
-
-14 AMONG THE INDIANS OF GUIANA.
-
-
 than did the Indians. Flights of parrots, crying shrilly,
 began to pass over the river to their feeding grounds, flying
 so high that their colours were not to be discerned. From
-the forest the ‘ pi-pi-yo,’ or greenheart bird (Lipangus cine-
-raceus ), began incessantly to cry its own Indian name ; this is,
+the forest the ‘ pi-pi-yo,’ or greenheart bird (Lipangus cineraceus ), began incessantly to cry its own Indian name ; this is,
 if not the commonest, yet certainly the most noticed bird in
 the forests of Guiana, for its shrill cry, heard nearly all day
 long, is the most characteristic sound of these forests,
@@ -1376,8 +1087,7 @@ food until he has sufficient energy to go and procure a fresh
 supply. The other half of the tapir was put on a babracot to
 dry. A babracot is a small stage of green sticks, built some
 two feet above the fire, on which the flesh is placed and
-smoked. Flesh treated in this way, though it loses its dis-
-tinctive flavour, keeps good for many days even in that
+smoked. Flesh treated in this way, though it loses its distinctive flavour, keeps good for many days even in that
 climate.
 
 Just opposite to us was Gluck Island, which I visited on
@@ -1409,8 +1119,7 @@ damp place under trees and reeds, was a fitting spot for
 such a nest. On a large heap of decaying vegetable matter,
 evidently collected by the parent cayman, lay thirty-seven
 large, long-shaped eggs with thick, porcelain-like shells.
-The True Caribs greedily seized them as a delicacy. After-
-wards, at dinner, I eat part of one of the eggs, boiled hard,
+The True Caribs greedily seized them as a delicacy. Afterwards, at dinner, I eat part of one of the eggs, boiled hard,
 and found it very like a duck’s egg in texture and taste, but
 with a faintly perceptible flavour of musk.
 
@@ -1419,8 +1128,7 @@ insisted on loading the guus and placing them near our
 hammocks, saying that there were Ackawoi_kenaimas, or
 murderers, about. We had seen men of that tribe passing
 and repassing during the afternoon; but I need hardly say
-that the assertion that these had murderous intentions to-
-wards us was unfounded. It is, however, very common for
+that the assertion that these had murderous intentions towards us was unfounded. It is, however, very common for
 one tribe to make this accusation against the members of
 another tribe. There is, as will presently be explained,
 some occasional foundation for it. The Ackawois bear a
@@ -1450,9 +1158,6 @@ La, la, caviana, ana, ani,
 Ugh, ugh.
 
 
-16 AMONG THE INDIANS OF GUIANA.
-
-
 The singer was Moé, and he explained, pointing to a
 heron, flying high over the river, that the honuré, 2.¢e. the
 heron, is a peaiman (a medicine man), who was singing this
@@ -1460,17 +1165,14 @@ song as he flew. The heron at any rate gains one advantage
 by being a peaiman; for no Macusi will eat its flesh.
 
 The Indians, having finished all their meat, now
-announced their intention of waiting while the best hunts-
-man amongst them went to try to get the mother tapir.
-To my great satisfaction this hunter came back empty-
-handed ; for if he had been successful we should have pro-
+announced their intention of waiting while the best huntsman amongst them went to try to get the mother tapir.
+To my great satisfaction this hunter came back emptyhanded ; for if he had been successful we should have pro-
 bably have had to wait till this new supply of meat had been
 consumed.
 
 That day was spent in travelling along smooth reaches
 of the river, which are more monotonous, though even there
-the scenery is beautiful. The banks of the river are every-
-where covered by dense forests, which sometimes grow on
+the scenery is beautiful. The banks of the river are everywhere covered by dense forests, which sometimes grow on
 low flat land, sometimes on rocky and undulating slopes, and
 sometimes clothe a solitary mountain or small range of
 mountains up to the very highest rock. But most wonderful
@@ -1481,8 +1183,7 @@ horizon, and unbroken except where here and there a long
 narrow thread of white mist, lying along the tree-tops, marks
 the winding course of some small stream.
 
-As among the falls, innumerable islands, some of consider-
-able extent, stud the river and hide its real width from the eye.
+As among the falls, innumerable islands, some of considerable extent, stud the river and hide its real width from the eye.
 The beauty of the scenery is in great measure due to the effect
 of the distant views as seen between the approaching headlands
 of each two of these islands. The traveller from his canoe in
@@ -1498,16 +1199,14 @@ from the water, and either form islands, often of very con-
 RIVER SCENERY. 17
 
 
-siderable extent, or fill the bays in the curves of the river-
-banks. Twice in each year, when at the end of each wet
+siderable extent, or fill the bays in the curves of the riverbanks. Twice in each year, when at the end of each wet
 season these sandbanks show above water, the river turtles,
 which are very numerous, lay their eggs in the sand; and
 gull-like razor-bills (Rhynchope nigra) make their uncovered
 nests on the sand, and wheel about them incessantly uttering
 their harsh cry.
 
-One evening we reached a hut on the Paripie creek be-
-longing to some half-bred Brazilian Indians. These people,
+One evening we reached a hut on the Paripie creek belonging to some half-bred Brazilian Indians. These people,
 called Nikari-karus, are hybrids between Brazilians and
 Indians of various tribes. Their proper home is on the
 frontier of British and Brazilian territory; and the few
@@ -1515,8 +1214,7 @@ settled on the Essequibo are deserters from the frontier forts
 and cattle farms, where, at any rate till recently, the labour
 done was forced. Except in two respects the habits of these
 people scarcely differ from those of the native Indians of the
-English territory. They make their cassava into farine, in-
-stead of into bread; and in making their hammocks they use
+English territory. They make their cassava into farine, instead of into bread; and in making their hammocks they use
 coloured cotton, generally blue or yellow, instead of white, and
 the web is more close, and somewhat different from that of
 the ordinary Indian. At Yucarisi, a mile or two beyond
@@ -1541,13 +1239,9 @@ soon as they fell asleep the bats bit and blood began to flow.
 C
 
 
-18 AMONG THE INDIANS OF GUIANA.
-
-
 The bite seems to cause not the slightest pain; and the
 danger lies, not so much in the quantity of blood sucked by
-the animals, as in that which afterwards flows from the un-
-noticed wound.
+the animals, as in that which afterwards flows from the unnoticed wound.
 
 One morning about this time the Indians noticed my
 sponge, and expressed much wonder about it. Moé, as usual,
@@ -1562,8 +1256,7 @@ the sand-banks ; and just before reaching Warrapoota they
 found a considerable number. The Brazilians at Yucarisi
 had given us some of these eggs smoked and dried. But in
 this state, though they keep good a considerable time, they
-cannot be recommended for delicacy of flavour. Now, how-
-ever, that we got them fresh from the nest it was a very
+cannot be recommended for delicacy of flavour. Now, however, that we got them fresh from the nest it was a very
 different matter. Those which we first found were about the
 shape and size of pigeons’ eggs, with roughish and very elastic
 shells, or, rather, skins. Another species of turtle, equally
@@ -1572,14 +1265,12 @@ Both kinds are boiled; the albumen is expressed, and the
 yelk, which is then of a buttery consistency, is eaten. These
 eggs are certainly very delicious food. The Indians fully
 appreciate them, and, though they will not touch the egg of
-a fowl, consume these turtle eggs greedily. I have occa-
-sionally seen large canoes literally filled with the eggs
+a fowl, consume these turtle eggs greedily. I have occasionally seen large canoes literally filled with the eggs
 which Indians have collected. The egg of the iguana lizard
 (Iguana tuberculata) is very similar, and is equally sought
 after. |
 
-At Warrapoota cataracts I for the first time saw the rock-
-pictures which form so strange an addition to some of the
+At Warrapoota cataracts I for the first time saw the rockpictures which form so strange an addition to some of the
 landscapes of this part of South America. A large number
 of somewhat conspicuous figures are engraved on the surfaces
 of a group of granite boulders in the very midst of the
@@ -1604,10 +1295,8 @@ The next day was memorable. We passed Paiwarikaira,
 a large granite boulder which rests on a slender columnar
 base. It is commonly reported that a certain Dutchman,
 when his countrymen possessed the land, brought a hundred
-slaves to overturn the rock; but he failed, and the rock re-
-mains to this day in position, to interest the traveller and to
-awe the passing Indian. No Indian, unless he be a peai-
-man, willingly looks at Paiwarikaira; for the sight of it is
+slaves to overturn the rock; but he failed, and the rock remains to this day in position, to interest the traveller and to
+awe the passing Indian. No Indian, unless he be a peaiman, willingly looks at Paiwarikaira; for the sight of it is
 followed by misfortune. Heedless of this, and regardless of
 the entreaties of the Indians, I approached, and even touched
 the rock. When, shortly afterwards, it began to rain the
@@ -1634,13 +1323,9 @@ about this time gave me some trouble. He used to tie his
 "¢2
 
 
-20 AMONG THE INDIANS OF GUIANA.
-
-
 hammock to the same tree to which mine was tied; and
 being, like all Indians, very restless at night, he frequently
-shook and disturbed me. On telling him to move his ham-
-mock he did so with a very bad grace, and when I laughed
+shook and disturbed me. On telling him to move his hammock he did so with a very bad grace, and when I laughed
 ‘at him, he angrily and somewhat inconsequently told Moé
 that ‘he was not afraid of us.’ Some fresh offence being
 again given to this man, he, once more using Moé as an
@@ -1672,8 +1357,7 @@ cold, and the atmosphere is always saturated with moisture,
 it may not be out of place to say that these attacks, though
 frequent and very troublesome, are but rarely dangerous.
 The traveller of ordinarily good constitution, who leads a
-temperate life, need not fear anything more than great dis-
-comfort. If, on the other hand, his system has been satu-
+temperate life, need not fear anything more than great discomfort. If, on the other hand, his system has been satu-
 rated with alcohol, or broken by other excesses, there is
 considerable danger. To this cause must be attributed the
 
@@ -1685,8 +1369,7 @@ fatal consequences which have overtaken more than one of
 those who have travelled in the interior of Guiana, and which
 have given a reputation for unhealthiness to that country.
 Having carefully examined the history of various unfortunate
-expeditions into the interior, I could, were it not an ungrate-
-ful thing to many still living, show that most of the mis-
+expeditions into the interior, I could, were it not an ungrateful thing to many still living, show that most of the mis-
 fortunes have been due to some form of intemperance. Once
 or twice also, men have gone into the bush when no longer
 young and, unaccustomed to the hardship often unavoidable
@@ -1696,8 +1379,7 @@ In addition to fever, two other forms of illness—dysentery
 and ophthalmia—both of which at a later time attacked
 members of our party, must be carefully guarded against.
 Ophthalmia is very common indeed among the Indians,
-nearly every individual of whom has weak eyes in conse-
-quence. The disease seems very readily to affect travellers,
+nearly every individual of whom has weak eyes in consequence. The disease seems very readily to affect travellers,
 its germs being probably conveyed from the eyes of some
 Indians to those of the new comer by the countless tiny flies
 which settle constantly on the eyeball and thus form one of
@@ -1712,7 +1394,6 @@ now complete failure in our supply of provisions, it was with
 great pleasure that, on the fourteenth day after our start from
 Aretaka, we reached the site of an old Dutch settlement at
 _Arinda, where a family of half-bred Brazilians have now
-
 established themselves.
 
 Some groups of fine coffee-trees, long left untended,
@@ -1722,9 +1403,6 @@ was the highest on this river, with the exception of a small
 plantation, probably a branch establishment, of which there
 are still some traces at Ouropocari, some few miles further
 up the river.
-
-
-22 AMONG THE INDIANS OF GUIANA.
 
 
 The Dutch had pushed so far up most of the rivers, that
@@ -1759,8 +1437,7 @@ canoes, there is a portage, or path, along which the Indians
 carry their canoes and their goods separately from the
 bottom to the top of the fall, where they reload their canoes. .
 These portages exist at the side of nearly all the larger falls
-on this river, and are frequently used; but on the less-
-frequented rivers gf Guiana it is often necessary for each
+on this river, and are frequently used; but on the lessfrequented rivers gf Guiana it is often necessary for each
 traveller to make such a portage for himself. This is no
 easy work, The trees have to be felled and the ground
 cleared ; and skids have to be laid at very short distances
@@ -1792,8 +1469,7 @@ sight, and I was too miserable and weak to care to use my
 gun. Most unexpectedly one of the Indians found courage
 to face the beast, and, running close up, shot an arrow into
 it. A shake made the arrow fall out, and with a roar the
-animal sprang into the forest on the mainland and disap-
-peared.
+animal sprang into the forest on the mainland and disappeared.
 
 That night fever raged yet more strongly in some of our
 party, and it was necessary to rest next day from wearisome
@@ -1812,11 +1488,6 @@ caused. In the afternoon the fire caught the brushwood
 round the stem of a huge, half-dead mora-tree, and by dusk
 it had cleared « considerable space round this and left the
 mora standing in the centre of a circle of other trees, the
-
-
-24 AMONG THE INDIANS OF GUIANA.
-
-
 tops of which all met overhead. Just after dusk a loud roar
 told that the central tree had at last also burst into flame,
 and before long its trunk formed a pillar of fire. This
@@ -1838,14 +1509,12 @@ crept higher and higher up the tree, the roar became louder
 and louder, till suddenly the fire leaped up with a deafening
 noise into the masses of dried leaves overhead. Presently
 a creaking sound was heard, warning that the trunk would
-not stand much longer. But at last the end came with ter-
-rible suddenness, and the creaking sound was lost in a loud
+not stand much longer. But at last the end came with terrible suddenness, and the creaking sound was lost in a loud
 crash.
 
 The noise made by a great tree, as it falls in the silence
 of those forests, is at all times wonderful. It is like the crash
-of thunder followed by the prolonged, hurrying din of a land-
-slip; but in it there is another awful and indescribable ele-
+of thunder followed by the prolonged, hurrying din of a landslip; but in it there is another awful and indescribable ele-
 ment. And when the sound at last suddenly ceases, it is
 followed by a strangely contrasting silence. But in this case
 the fire added yet more to the grandeur of the effect. No
@@ -1867,19 +1536,16 @@ night blazing fragments continued to fall at intervals.
 On the next day we reached the cataracts of Akramukra,
 and, on the day following, those at Rappoo. These latter
 take their name from a kind of bamboo which grows on the
-islands among them, and which is much used by the savan-
-nah Indians for making arrow-heads, which are, we were told,
+islands among them, and which is much used by the savannah Indians for making arrow-heads, which are, we were told,
 as poisonous as those tipped with ourali. I afterwards tried
 one of these rappoo arrows; but the fowl which was shot
 showed no symptoms of poison; and an Indian who was
 standing by ingenuously remarked that a rappoo arrow is only
 poisonous when it enters far enough into the body. This
-recalls another Indian story. A plant is said to grow some-
-where, a stick from which proves fatal to any living thing at
+recalls another Indian story. A plant is said to grow somewhere, a stick from which proves fatal to any living thing at
 which it is pointed. The virtues of this are supposed to have
 been discovered by an Indian woman, who, when suddenly
-attacked by a jaguar, seized the nearest stick to defend her-
-self, and pointed it at the animal, which immediately fell dead.
+attacked by a jaguar, seized the nearest stick to defend herself, and pointed it at the animal, which immediately fell dead.
 
 These rapids of Rappoo are the last up which we had to
 pass during this particular canoe-journey. The course of the
@@ -1901,19 +1567,10 @@ into his house. But within an hour of our arrival his wife gave
 birth to twins; so that, much to the surprise of the Indians,
 we preferred to remove our hammocks to an unfinished
 house which stood in the same clearing. It was used as a
-
-
-26 AMONG THE INDIANS OF GUIANA.
-
-
 storehouse for a large quantity of badly dried fish ; and the
-
 evil smell from this mingled strangely with the sweet scent
-
 which came in from some blossoming coffee-trees outside.
 During our two days’ stay here the chief amusement was
-
-
 afforded by the tame animals which, as usual in an Indian’
 
 
@@ -1938,8 +1595,7 @@ more numerous than on the Essequibo, gave character to
 the scenery.
 
 The withered, scrub-like appearance of the vegetation
-was no doubt partly due to the neighbourhood of the savan-
-nah, to which we were now coming near; but it was also
+was no doubt partly due to the neighbourhood of the savannah, to which we were now coming near; but it was also
 doubtless partly due to the abnormal dryness of the previous
 seasons, for when I afterwards passed down this river in the
 high rainy season, the plant growth, at least near the mouth,
@@ -1981,10 +1637,8 @@ eountry is quite free from these terrible little blood-suckers ;
 but on this river they abound, as they do generally westward,
 especially on the rivers of the Amazon system. Wherever
 they settle on the flesh a small round patch of raised skin,
-distended by blood, is formed, and is very sore and trouble-
-some. The naked bodies of the Indians, whose hands were
-occupied with the paddles, and who, therefore, could not pro-
-tect themselves, were so wounded by these insects that it was
+distended by blood, is formed, and is very sore and troublesome. The naked bodies of the Indians, whose hands were
+occupied with the paddles, and who, therefore, could not protect themselves, were so wounded by these insects that it was
 sometimes difficult to detect any sound skin. Where these
 insects occur they are far more annoying than mosquitoes,
 which, abundant and almost universally distributed as they
@@ -1996,11 +1650,6 @@ less and less progress each day. The labour of digging
 through the sandbanks and of dragging the canoes over by
 main force began to tell on the Indians, ‘who grew weary and
 disheartened. Cassava bread, which is almost essential to
-
-
-28 AMONG THE INDIANS OF GUIANA.
-
-
 their health and comfort, had agaiz failed us; and some of them
 who, like most Indians, had been sleek and fat, suddenly and
 in the course of but a day or two, became so thin that they “”
@@ -2013,8 +1662,7 @@ river, the Indians declared they could not and would not
 move further that day; so we had to wade up the river for
 about a mile until we found camping ground. Then the
 men spoke of a small settlement called Morai, not far from
-where we were. We sent there to get bread, but the mes-
-sengers returned empty-handed. They had found the huts,
+where we were. We sent there to get bread, but the messengers returned empty-handed. They had found the huts,
 but the people were almost famishing, and gave most ominous
 accounts of the famine which the long-continued drought —
 had caused in the savannah.
@@ -2087,13 +1735,7 @@ Roopoonooni, had been partially cleared, afew scattered trees
 only being left, to which hammocks might be tied. Up
 these single trees multitudes of climbing palms (Desmoncus)
 had crept, and, reaching the top, had there woven their
-
-
-30 AMONG THE INDIANS OF GUIANA.
-
-
-tendrils into a dense tangle, so that the place was com-
-pletely roofed over by fretted green palm-leaves and grape-
+tendrils into a dense tangle, so that the place was completely roofed over by fretted green palm-leaves and grape-
 like clusters of scarlet palm-fruit.
 
 The place soon became densely crowded by men, women,
@@ -2104,8 +1746,7 @@ hammock was a fire. The men—a few of them good-looking
 and with beads, tassels of birds’ skins, and wore brilliant
 feather crowns. They were generally finely built, and were,
 in short, a fine-looking set. Of the women, two or three of
-the younger were really pretty ; others had spoiled their ap-
-pearance by painting broad streaks of black, moustache-like,
+the younger were really pretty ; others had spoiled their appearance by painting broad streaks of black, moustache-like,
 over their mouths and from ear to ear. But the old women,
 as always among Indians, were really hideous. Almost every
 woman had brought a baby, as well as one or more older
@@ -2160,8 +1801,7 @@ of dark forest. Water-fowl abounded, dainty spur-wings
 (Parra jacana) ran about on the lily leaves, and one of
 these birds had a nest on a leaf; high over head a flight
 of large white cranes (Mycteria americana) passed in Indian
-file to their night’s rest. Flocks of vicissi-ducks (A. au-
-tummnalis) rose, flew by, whistling out their name, ‘vicissi—
+file to their night’s rest. Flocks of vicissi-ducks (A. autummnalis) rose, flew by, whistling out their name, ‘vicissi—
 vicissi—vicissi’; and, a more practical matter, several fine
 musk-ducks (A. moschatus) rose, and fell to the guns.
 
@@ -2172,23 +1812,18 @@ a distance that, under ordinarily favourable circumstances,
 ought to be passed in about twenty.
 
 
-32 AMONG THE INDIANS OF GUIANA.
-
-
 CHAPTER II.
 A JOURNEY IN THE INTERIOR (continued).
 
 
-The Savannah—lIndian Settlement at Quatata—Indian Visitors—A Buck-
-gun—The city of El Dorado—Rain after Drought—Start for the Brazils
+The Savannah—lIndian Settlement at Quatata—Indian Visitors—A Buckgun—The city of El Dorado—Rain after Drought—Start for the Brazils
 —Down the Takootoo—Fort St. Joaquim—Cattle Farms—Homeward—
 Fording Lake Amoocoo—The Rivers in the Rainy Season—A Notorious
 Murderer—Shooting the Falls.
 
 
 TuHaT night the Indians kept up a great firing of guns to
-attract the people from Quatata and Karanakru, two settle-
-ments respectively nine and fifteen miles distant, across the
+attract the people from Quatata and Karanakru, two settlements respectively nine and fifteen miles distant, across the
 savannah. They were wanted to carry our goods; for our
 own men, when they reached the landing-place, considered
 their duties at an end. At earliest dawn, the shrill sounds
@@ -2199,8 +1834,7 @@ made of the bones of jaguar or deer. In each party the
 men and boys came first, carrying only their bows and
 arrows; after these came the women, burdened with the
 hammocks and other chattels of the whole party. As they
-came up to our hut, which was some distance from the water-
-side, the men came in and talked to us, while the women
+came up to our hut, which was some distance from the waterside, the men came in and talked to us, while the women
 stood outside in a shy, laughing group. Presently the whole
 party moved on down to the river, where our baggage was;
 and when it passed back again, the women were always more
@@ -2217,8 +1851,7 @@ ACROSS THE SAVANNAH. 33
 
 
 head-quarters for some months. The undulating savannah
-is chiefly arranged in parallel ridges, hills, and valleys, some-
-times large and sometimes small, rapidly succeeding each
+is chiefly arranged in parallel ridges, hills, and valleys, sometimes large and sometimes small, rapidly succeeding each
 other. The soil changes often and abruptly ; sometimes it _
 is peaty (pegass), sometimes hard and impregnated with
 iron, sometimes gravelly, sometimes sandy. But whatever
@@ -2237,8 +1870,7 @@ built of yellow clay, and looking like very pointed haycocks.
 Sometimes, again, but at long intervals, stand palm-thatched,
 domed Indian houses, looking like haystacks. As a back-~
 ground to aj] this, in the far distance, on the right, is the
-Parcaraima range, and on the left are the Canakoo moun-
-tains.
+Parcaraima range, and on the left are the Canakoo mountains.
 
 At the end of our walk to Quatata, it was not pleasant
 to find that not only food, but water also, was fearfully scarce.
@@ -2252,14 +1884,10 @@ Quatata stands on high ground, within half a mile of the
 now extinct settlement of Pirara, which forty years ago was
 the scene of a dispute between the English and Brazilian
 Governments. A year or two before that event, a Mr. Youd,
-a clergyman of the Episcopalian Church, had established him-
-self as missionary at Pirara. But the Brazilians, who had at
+a clergyman of the Episcopalian Church, had established himself as missionary at Pirara. But the Brazilians, who had at
 times made vague claims to that district, were stirred up by
 
 D
-
-
-34 : AMONG THE INDIANS OF GUIANA.
 
 
 a Brazilian priest, Frater José dos Santos Innocentes, to
@@ -2310,8 +1938,7 @@ INDIAN VISITORS. 35
 
 had somewhat decreased, were sufficiently communicative,
 and sometimes even too hospitable. When we entered a
-house, one of the women generally filled a calabash with pai-
-wari, a liquor, the horrid preparation of which will presently
+house, one of the women generally filled a calabash with paiwari, a liquor, the horrid preparation of which will presently
 be described, from a jar standing somewhere in the dark
 background, and offered it to us. Etiquette demands the
 offer, and etiquette demands that the visitor should finish
@@ -2336,8 +1963,7 @@ was built on piles, and a rough ladder gave access to it.
 One morning this man, springing suddenly up the ladder,
 stood bolt upright, with his gun in his hand, much in the
 position of a soldier standing at ease. He was short, sturdy,
-and well-built ; his hair, which, unlike that of his fellow-
-tribesmen, was shaggy, was bound round with a cotton fillet.
+and well-built ; his hair, which, unlike that of his fellowtribesmen, was shaggy, was bound round with a cotton fillet.
 He was also the only Macusi I ever saw with a defined
 moustache. For nearly an hour he stood without altering
 his position, without moving a muscle, or speaking a word.
@@ -2347,11 +1973,7 @@ the steps, and immediately went home.
 Such of our visitors as came often grew accustomed
 to us, and not unfrequently ventured upon jokes. Once
 especially, a party of them being much struck by the hairiness
-
 v2
-
-
-36 AMONG THE INDIANS OF GUIANA.
 
 
 of the calves of my legs—their own being entirely hairless—
@@ -2367,8 +1989,7 @@ that the Indian, careful of such scarce commodities, uses but
 three or four shots and a very small modicum of powder
 to the charge, explosions and consequent injuries to the
 Indians would be the frequent result from the use of these
-guns. How tenderly an Indian uses his gun is well illus-
-trated by the fact that I have known one such weapon used
+guns. How tenderly an Indian uses his gun is well illustrated by the fact that I have known one such weapon used
 for some time after its nipple had been lost and replaced by
 a piece of bent tin cut from a sardine box.
 
@@ -2433,19 +2054,13 @@ grew among it; especially a beautiful and large pea-flower
 (Clitoria guianensis. Benth)—lilac-coloured, with a strong
 scent like clove-carnations; a tiny yellow crocus-like lily
 (Hyposcis breviscapa ?) flowering close to the ground; and
-where the grass grew higher, tall white twin lilies (Hippe-
-astrum solandreflorum) lifted their heads. Even the stony
+where the grass grew higher, tall white twin lilies (Hippeastrum solandreflorum) lifted their heads. Even the stony
 and more bare places were brightened by large numbers of
 yellow mullein-like flowers (Byrsonima verbascifolia). The
 greater abundance and pleasanter conditions brought back
 our strength and made it possible to extend our excursions. .
 
 Early in May Eddington and I started to visit the
-
-
-38 AMONG THE INDIANS OF GUIANA.
-
-
 frontier fort of St. Joaquim, in Brazilian territory. In that
 neighbourhood there are large cattle-farms, belonging to the
 Brazilian Government, and I was very anxious to see these.
@@ -2455,8 +2070,6 @@ We had some little difficulty in getting men to go with us -.
 
 
 as guides and porters; for the Indians of the English
-
-
 savannah, remembering that not so many years ago the.
 
 
@@ -2464,11 +2077,9 @@ Brazilians were in the habit of capturing and enslaving
 them, do not much care to venture across the frontier. The
 difficulty was, however, at last overcome and we started.
 
-Three days’ walking across an almost uninhabited savan-
-nah—sometimes undulating, sometimes a huge, perfectly level
+Three days’ walking across an almost uninhabited savannah—sometimes undulating, sometimes a huge, perfectly level
 plain—brought us, after crossing various small rivers, and
-among others the Nappi near its source, to Euwari-mana-
-kuroo, a settlement of Nikari-karu Indians, not far from the
+among others the Nappi near its source, to Euwari-manakuroo, a settlement of Nikari-karu Indians, not far from the
 Takootoo river, which for some distance separates the British
 and Brazilian territories. Here we hoped to get the head
 man of the place, a Nikari-karu nicknamed ‘ Chirura,’ or
@@ -2487,14 +2098,11 @@ Down from the mountains there is a waterfall of considerable
 size, the sound of which reached us in the houses. The people
 of the place are a mixed lot; for among the Nikari-karus
 there were several Macusis, as well as one Piriana, a woman
-indescribably fat, and consequently, especially in her un-
-clothed state, inexpressibly ugly.
+indescribably fat, and consequently, especially in her unclothed state, inexpressibly ugly.
 
 Very little is known about the Nikari-karus, who are an
 ill-defined group of hybrids between Brazilian Portuguese
 on the one hand, and Indians, possibly Wapianas, on the
-
-
 other. Their language is a much corrupted form of Portu- |
 
 
@@ -2513,8 +2121,7 @@ add that they also differ from most other Indians of Guiana in
 their habit of living in large houses, several families together.
 
 The children at Euwari-manakuroo, perhaps because of
-the European blood in their veins, played and sang in child-
-like ways very unusual among pure-blooded Indians; and
+the European blood in their veins, played and sang in childlike ways very unusual among pure-blooded Indians; and
 the women even joined in the games, which is a still more
 unusual custom. In the evening the women and children
 sometimes caught hold of each other, and holding on one
@@ -2525,8 +2132,7 @@ on the top of a hill, on top of a turtle-shell twice as big as
 himself, with his knees drawn up to his chin, and solemnly
 smoking a long bark cigarette.
 
-One point of interest in this neighbourhood was the com-
-paratively frequent occurrence of stone hatchets and other
+One point of interest in this neighbourhood was the comparatively frequent occurrence of stone hatchets and other
 similar instruments. Stone implements, though no longer
 used in Guiana, are to be found in greater or less abundance
 throughout the district.
@@ -2542,28 +2148,20 @@ On going down to Yarewah on the Takootoo, we found the
 two canoes which we had engaged, and from there we once
 more started on ariver journey. But now, instead of being
 on a river of the Essequibo system, we were descending the
-
-
-40 AMONG THE INDIANS OF GUIANA.
-
-
 water-shed of the Amazon. The Takootoo runs into the
-Rio Branco, that into the Rio Negro, and that into the Ama-
-zon at Manaos. From Yarewah the boundary between the
+Rio Branco, that into the Rio Negro, and that into the Amazon at Manaos. From Yarewah the boundary between the
 Brazilian and British territories passes along the Takootoo,
 until that river is joined by the Cotinga, which flows in from
 the north, and up which the boundary line passes. This is
 the line laid down by the boundary commission under Sir
 Richard Schomburgk about 1840, and is really accepted by
 both nations, in spite of the vague claims which, as I have
-said, have been advanced by the Brazilians to the land be-
-tween the Takootoo and the Roopoonooni. The command-
+said, have been advanced by the Brazilians to the land between the Takootoo and the Roopoonooni. The command-
 ant of St. Joaquim, an educated Brazilian gentleman, and the
 chief resident official on that frontier, in his conversation fully
 recognised the boundary line thus described. I have been
 led to say so much on this subject because this part of the
-boundary is generally wrongly laid down in even the stan-
-dard English atlases ; and it is much to be desired that this,
+boundary is generally wrongly laid down in even the standard English atlases ; and it is much to be desired that this,
 as well as the boundary line between British Guiana and
 Venezuela, should be more correctly represented.
 
@@ -2577,12 +2175,9 @@ beautiful rosy spoonbills; past porpoises, which our men said
 were omars, or water-women, and ‘had frocks ;’ past manatees,
 which venture up the Amazon rivers even as far as this; past
 ugly green iguanas climbing on the trees on shore; past high
-cliff-like banks capped with long lines of white lilies (Hippe-
-astrum), well defined against the sky ; and past long reaches
-of bush-covered banks densely matted with wreaths of pas-
-sion-flowers, at that time heavily loaded with large purple
-blooms. By the third day the river had become consider-
-ably wider, and the Rio Branco appeared before us, the
+cliff-like banks capped with long lines of white lilies (Hippeastrum), well defined against the sky ; and past long reaches
+of bush-covered banks densely matted with wreaths of passion-flowers, at that time heavily loaded with large purple
+blooms. By the third day the river had become considerably wider, and the Rio Branco appeared before us, the
 Takootoo running into it almost at right angles. On the left,
 in the angle formed by the junction of the two rivers, the
 
@@ -2600,8 +2195,7 @@ When Schomburgk visited the place about 1840, he found a
 Jesuit mission with a chapel and a few houses. But these
 have now disappeared, and the fort and the range of low huts
 serving as soldiers’ quarters alone remain. For many years
-past it has barely been kept in repair, and, as it is now per-
-fectly useless as a military station, the Brazilian authorities
+past it has barely been kept in repair, and, as it is now perfectly useless as a military station, the Brazilian authorities
 are said to intend abandoning it. It is certainly quite time ;
 the gates are never shut—indeed only one of them is left;
 no sentinel paces the ramparts, no bugle ever sounds.
@@ -2625,17 +2219,11 @@ of these farms on our way.
 
 The cattle on these farms are left almost entirely to
 nature. The farms were established about the end of the
-last century, but were again destroyed, the cattle being dis-
-persed over the savannah during the revolutionary times.
+last century, but were again destroyed, the cattle being dispersed over the savannah during the revolutionary times.
 When order was restored, the cattle, which had in the
 meantime greatly multiplied, were not all again gathered
 together; the greater number were allowed to roam and
 breed where they pleased. Once a year a certain number
-
-
-42 AMONG THE INDIANS OF. GUIANA.
-
-
 of the younger of these wild cattle are driven into the
 strongly stockaded pen which forms the central point of ©
 each of the gigantic farms into which these savannahs are
@@ -2643,7 +2231,6 @@ divided. These impounded cattle, after being branded,
 are let out every day, but are driven back into the pen at
 night. Every now and then a large number of them are
 taken down the Rio Branco to Manaos, the nearest Brazilian
-
 town, and are from there distributed along the Amazon.
 - Much of the cattle is also slaughtered on the farms; the
 meat, after being cut into thin slices, is slightly salted and
@@ -2687,11 +2274,9 @@ horned cattle. .... Cattle-raising is confided entirely to
 nature ; the breeder does nothing, but receives the profits ;
 the whole labour consists in collecting the cattle now and
 then in proper places, called rodeios, in order to mark the
-calves; in this work half-bred Indians are generally em-
-ployed at the low wages of ten dollars a month.
+calves; in this work half-bred Indians are generally employed at the low wages of ten dollars a month.
 
-‘An idea may be formed of the importance of this in-
-dustry from official statistics which show that in the year
+‘An idea may be formed of the importance of this industry from official statistics which show that in the year
 1873—74, the province of S. Pedro do Rio Grande do Sul
 alone exported 23,860,636 kilograms of jerked beef, of the
 approximate value of 6,000 dollars.
@@ -2722,11 +2307,7 @@ as they are driven there and not carried,—it will be seen that
 in Brazil no industry can be compared to this.’!
 
 
-1 The Empire of Brazil at the Universal Eehibition of 1876 in Phila-
-detphia, pp. 264 et seq.
-
-
-44 AMONG THE INDIANS OF GUIANA.
+1 The Empire of Brazil at the Universal Eehibition of 1876 in Philadetphia, pp. 264 et seq.
 
 
 Now, as has been said, some 14,000 square miles of these
@@ -2757,8 +2338,7 @@ such cattle-farms is that of getting produce to town. The
 distance between Georgetown and the English savannahs is
 probably about equal to that between Manoas and the most
 remote Brazilian farm on the Rio Branco and Takootoo; but
-the rivers on our side of the water-shed, which here practi-
-cally divides the English and Brazilian territories, are more
+the rivers on our side of the water-shed, which here practically divides the English and Brazilian territories, are more
 rocky and difficult of navigation than those on the other side
 appear to be. This would of course offer but little obstacle
 to the conveyance of jerked or otherwise dried or salted
@@ -2783,16 +2363,14 @@ Our first halt after leaving St. Joaquim was at the farm
 attached to the fort. It was under the joint charge of a
 rough-looking Venezuelan, and the most highly civilised
 Macusi I ever saw; and these two were assisted by the son
-of the latter, who, in that he spoke both Macusi and Portu-
-guese fluently, seemed to share the intelligence of his father,
+of the latter, who, in that he spoke both Macusi and Portuguese fluently, seemed to share the intelligence of his father,
 but, in that his teeth were filed and painted after the Indian
 manner, seemed not entirely to have rejected barbarism.
 
 We were in great want both of meat and farine, both of
 which we had hoped to procure at this place, so that it was
 not pleasant to hear that neither were at the moment to be
-had. However, our offer of gunpowder, shot, and caps in-
-duced the Macusi to bring a small quantity of farine, and
+had. However, our offer of gunpowder, shot, and caps induced the Macusi to bring a small quantity of farine, and
 shortly afterwards the Venezuelan offered to sell us one or
 more head of cattle. This offer was at once accepted, and
 the price for a young bull was fixed at three-quarters of a
@@ -2802,25 +2380,17 @@ Both the farm-keepers at once made preparations to
 drive the cattle into one of the two huge wooden pens or
 corrals which were before us. Each slung his whip, the
 whole of which, handle and lash, was formed of one long
-piece of plaited raw hide, round his right hand, and mount-
-ing on-his horse, which stood by, ready equipped with a high
+piece of plaited raw hide, round his right hand, and mounting on-his horse, which stood by, ready equipped with a high
 wooden Spanish saddle, rode off; and we were left to smoke and
 look at the scene. But for the hut against which we leaned,
 and the two corrals, on the rails of which were perched many
-expectant vultures, the scene might have been on any un-
-inhabited part of the savannah. There was the same scanty
+expectant vultures, the scene might have been on any uninhabited part of the savannah. There was the same scanty
 grass growing from a pebbly soil, among which many small
 boulders were scattered here and there; there were the
 same scattered, wiry-looking bushes; and in the distance
 there was the not unusual background of mountains. It
-
-
-46 AMONG THE INDIANS OF GUIANA.
-
-
 was, by the way, from a place called by the Indians Toucana,
-somewhere among these mountains, that I got many speci-
-mens of stone axe-heads, and I was assured by the Indians
+somewhere among these mountains, that I got many specimens of stone axe-heads, and I was assured by the Indians
 that they abound there.
 
 When we were tired of this scene we went into the hut,
@@ -2839,24 +2409,20 @@ and I ate it in spite of the protest.
 The sound of the stamping of many feet now told that
 the cattle were near, and this grew louder and louder until,
 at last, herds of cattle, varying only in colour from dun to
-black, came awkwardly galloping from several points, tum-
-bling and bellowing out from among the bushes. The
+black, came awkwardly galloping from several points, tumbling and bellowing out from among the bushes. The
 animals were cleverly kept together by the mounted drivers,
 and in a very few minutes four hundred head of cattle were
-penned in one corral, only just large enough to hold the num-
-ber. The ungainly movements ofa crowd of our own domestic
+penned in one corral, only just large enough to hold the number. The ungainly movements ofa crowd of our own domestic
 cattle, even when these are driven or are otherwise frightened,
 can give no idea of the frantic convulsions moving this
 mass of half-wild animals. The noise, too, was deafening.
 
-The drivers now dismounted, and the Venezuelan, appa-
-rently without the slightest trouble, threw his plaited lasso
+The drivers now dismounted, and the Venezuelan, apparently without the slightest trouble, threw his plaited lasso
 of raw hide over the horns of a fine young black bull, which
 had been selected, and which was then drawn out of the
 surging mass of its companions. The poor beast was very
 quickly pole-axed and then stabbed to the heart. This quick
-manner of inflicting death is, I am afraid, not always prac-
-tised on these farms, where they say the meat cannot be
+manner of inflicting death is, I am afraid, not always practised on these farms, where they say the meat cannot be
 tender unless the animal has been bled to death.
 
 
@@ -2874,10 +2440,8 @@ fires ; ‘for these people will not eat beef.
 . The next day we started at a fate hour, and the current
 running very strongly against us, it was not till poon on the
 following day that we reached Anaikim or, as the Portuguese
-call it, St. Anton, the highest farm on the Takootoo, occupy-
-ing the angle formed by the junction of that river and the
-Cotinga. The farm is very similar to the one already de-
-scribed but that the house, of wattle-work and with a gallery,
+call it, St. Anton, the highest farm on the Takootoo, occupying the angle formed by the junction of that river and the
+Cotinga. The farm is very similar to the one already described but that the house, of wattle-work and with a gallery,
 is of a much better kind and is situated a long distance from
 the river. There is, however, an abundant supply of water at
 hand in a curious series of long ponds, which look like traces
@@ -2892,13 +2456,11 @@ was certainly in this neighbourhood that these cattle were
 seen; and as that writer does not mention the farm of
 Anaikim it is probable that he did not know of its existence.
 The cattle roam far and, as has been said, almost free, and
-
 even, when the water is low, they wade across the Cotinga
 and have to be;reclaimed by their Brazilian owners from
 English territory. That a traveller, who chanced to see such
 cattle in a neighbourhood where he knew of no farm, should
-think that the beasts were wild was not an unnatural mis-
-take.
+think that the beasts were wild was not an unnatural mistake.
 
 For many days it had rained incessantly, and as we were
 generally without shelter by day or night, we were most
@@ -2907,15 +2469,10 @@ anxious to get back to Quatata as quickly as possible.
 3 C. B. Brown, Canoe and Camp Life in British Guiana. London, 1870.
 
 
-48 AMONG THE INDIANS OF GUIANA.
-
-
 Travelling once more up the Takootoo we reached the mouth
 of the Ireng or Mahoo river, and turned up this, purposing to
 force our way home up the Pirara, a small river, then much
 swollen by rains, which rises not far from Quatata, and runs
-
-
 into the Ireng about one day’s journey above the point at .
 
 
@@ -2930,8 +2487,7 @@ possessors of some old clothes, such as shirts and trousers.
 Whenever rain began to fall they carefully took them off to
 put them under shelter. But in the crowded state of our
 canoe it was somewhat, difficult to find a dry place for them.
-The matter was finally arranged by one of the Indians keep-
-ing on his shirt and allowing the tail to hang loose from the
+The matter was finally arranged by one of the Indians keeping on his shirt and allowing the tail to hang loose from the
 bench on which he sat paddling, while the other clothes
 were put under the shelter of this tail.
 
@@ -2940,8 +2496,7 @@ current which met us was so strong that we made but slow
 progress. Every now and then the branch of a tree or a log
 swept by us, hurried along by the swift, steady flow of the
 water. Once the whole trunk of a dead tree, torn away from
-the bank, met us; two or three of the main branches re-
-mained standing straight up from the water ; a turtle lay on
+the bank, met us; two or three of the main branches remained standing straight up from the water ; a turtle lay on
 the trunk. As it sailed quickly past us it looked like a
 wrecked ship; the branches seemed masts madly zigzagging
 in all directions, and the turtle represented the last survivor
@@ -2975,8 +2530,7 @@ featherwork which I had bought, tobacco and a pipe, and
 some papers which it was important to keep dry. I was
 much struck by the way in which the Indians managed to
 follow the path, which, even when there is no water, is hardly
-discernible to an unpractised eye, and which now was com-
-pletely hidden under a sheet of water ; yet we emerged from
+discernible to an unpractised eye, and which now was completely hidden under a sheet of water ; yet we emerged from
 the flood exactly where the track led out. But before this,
 when we came to the deepest part of the flood, the Indians
 became frightened, us they generally are in water, though
@@ -2989,12 +2543,10 @@ the comfort of that first night spent under a dry roof,
 with a compurative sufficiency of food, after a fortnight of
 almost constant exposure to heavy rain, with an empty
 stomach. Rain fell all night, and there was much thunder;
-the sounds of these added greatly, if on somewhat imagina-
-tive grounds, to our comfort.
+the sounds of these added greatly, if on somewhat imaginative grounds, to our comfort.
 
 June came, and it was quite time to be thinking of
-returning to Georgetown ; but at first it seemed almost im-
-possible to get Indians or to get possession of our canoes. The
+returning to Georgetown ; but at first it seemed almost impossible to get Indians or to get possession of our canoes. The
 Indians were very unwilling to go with us, partly because
 food was still so scarce that we could expect only scanty
 rations on the journey, and partly, as they said, because a
@@ -3002,31 +2554,24 @@ rations on the journey, and partly, as they said, because a
 E
 
 
-50 AMONG THE INDIANS OF GUIANA.
-
-
-party of English soldiers were on their way up from George-
-town to capture and press Indians as soldiers. The same
+party of English soldiers were on their way up from Georgetown to capture and press Indians as soldiers. The same
 rumour has been heard by nearly every traveller in the -
 interior; it is probably due to a half-remembered tradition
 of the slave-hunting expeditions which the Brazilians, as
 lately as forty years ago, used frequently to make among
-these people, mingled with other traditions of the visit of Eng-
-lish soldiers to Pirara in 1840. Whatever the origin of the
+these people, mingled with other traditions of the visit of English soldiers to Pirara in 1840. Whatever the origin of the
 rumour, it is a constant excuse used by the Indians when they
 are unwilling td undertake the fatigue of a journey. The
 other difficulty which delayed our immediate return to the
 coast, was that some strange Indians had carried off my
-canoe from the waterside. Indians have a large, but occa-
-sionally inconvenient, code of hospitality. An Indian thinks
+canoe from the waterside. Indians have a large, but occasionally inconvenient, code of hospitality. An Indian thinks
 nothing of walking into the house of any other Indian of the
 same tribe and appropriating the food which may be in it;
 nor do the owners in any way resent this. In the same way,
 when an Indian, in his frequent wanderings, finds a canoe in
 a convenient spot he takes it and leaves it wherever his own
 journey happens to end; rumour, passed from Indian to
-Indian, at last tells the owner of the craft as to the where-
-abouts of his property, and if he wants it he must fetch it
+Indian, at last tells the owner of the craft as to the whereabouts of his property, and if he wants it he must fetch it
 back himself, or must wait till some other chance Indian,
 travelling, brings it back into the neighbourhood from which
 it was taken. In this way my canoe was out of reach just
@@ -3055,8 +2600,7 @@ water when we awoke in the morning, so rapidly was the
 water still rising. The creepers which festooned the trees
 on the banks were in most brilliant and full flower. It was
 one of the rare occasions on which I saw anything of that
-splendour of flower which dwellers in colder climates some-
-times suppose to be characteristic of and universal in the
+splendour of flower which dwellers in colder climates sometimes suppose to be characteristic of and universal in the
 tropics.
 
 At Apooterie, at the junction of the Roopoonooni with the
@@ -3073,11 +2617,9 @@ to scream and the Indians busied themselves in fetching in
 their bread, which had been out all day in the sun. A long
 thread of white cloud began to appear over the tops of the
 trees to the north, and then swept on with terrific speed over
-the whole round tract of sky, drawing up behind it an in-
-tensely ink-black cloud-curtain; in hardly more than a
+the whole round tract of sky, drawing up behind it an intensely ink-black cloud-curtain; in hardly more than a
 moment this blackness had spread over the whole sky, and
-night was upon us. These sudden storms were always ac-
-companied by one unbroken, mighty blast of wind, followed
+night was upon us. These sudden storms were always accompanied by one unbroken, mighty blast of wind, followed
 by much thunder and lightning. The effect was marvellous.
 
 Hearing that there was a chance of getting sorhe cassava
@@ -3085,14 +2627,10 @@ from an Indian living in the forest some two miles from
 Apooterie, I, with one Indian, started in a woodskin or bark
 canoe to find this man. He was a notorious Wapiana, who,
 having killed his father and mother and some other people,
-had found it advisable to settle in a remote place and diffi-
-cult of access. Certainly he had found sucha place. Going
+had found it advisable to settle in a remote place and difficult of access. Certainly he had found sucha place. Going
 for a short distance down the Essequibo we passed into a
 
 B2
-
-
-52 AMONG THE INDIANS OF GUIANA.
 
 
 creek which, instead of running into the main river, receives
@@ -3104,23 +2642,20 @@ choked by many trees. It was very difficult to keep our
 canoe from being dashed to pieces. ‘Then, pushing aside
 some bushes at the side of the creek, we passed on to a
 swamp covered with shallow water and thickly set with trees ;
-and, after winding in and out among these in the most sur-
-prising way, we suddenly emerged on to a large and still lake
+and, after winding in and out among these in the most surprising way, we suddenly emerged on to a large and still lake
 in the centre of a palm forest. Following this for about a
 mile we reached a landing place, where we disembarked.
 The lake is very long and, as I believe, receives at its upper
 end the creek through which we had passed from the
 Essequibo, and discharges water at its lower end through
 another creek into the main river. Such side-streams, or
-itaboos, as they are called by the Indians, are not un-
-common in Guiana. After walking from the lake for some
+itaboos, as they are called by the Indians, are not uncommon in Guiana. After walking from the lake for some
 distance through the forest we at last reached a field where
 we found the assassin living in a tiny hut alone with a young
 and pretty wife and a baby. The ‘assassin Was gentle
 enough in appearance, and the only thing remarkable about
 him was the enormous size of the plate of silver which he
-- wore, as other Indians do similar but smaller plates, sus-
-pended from his nose. This ornament was so large as en-
+- wore, as other Indians do similar but smaller plates, suspended from his nose. This ornament was so large as en-
 tirely to overhang his mouth, so that when he drank he had
 to lift it with one hand while he tilted the drinking vessel
 with the other. He supplied me with so much cassava that,
@@ -3132,8 +2667,7 @@ thickly festooned with creepers, which were then in most
 brilliant and full flower; for at the beginning of the rainy
 season these plants all bloom.
 
-We soon reached Rappoo, and below that had to main-
-tain an almost constant struggle with falls. Every morning
+We soon reached Rappoo, and below that had to maintain an almost constant struggle with falls. Every morning
 
 
 SHOOTING THE FALLS. 53
@@ -3143,16 +2677,13 @@ the Indians rubbed red peppers or lime-juice into their eyes,
 after which they were ready to shoot the falls.
 
 During the high rains the falls are very difficult to pass,
-
 and long reaches of the river are transformed into vast rapids,
 through which the Indians steer their canoes with perfectly
 marvellous skill. Shooting a big fall, or running down a
 rapid of any size, is certainly exciting work. The canoe
-floats in smooth water at the top, and from there the bow-
-man and steersman examine the fall and agree as to the
+floats in smooth water at the top, and from there the bowman and steersman examine the fall and agree as to the
 particular course to be taken; this once decided, the rush
-begins. Suddenly the canoe, guided into the eddying, rush-
-ing water, bounds forward ; it perhaps rushes straight towards
+begins. Suddenly the canoe, guided into the eddying, rushing water, bounds forward ; it perhaps rushes straight towards
 - some threatening sunken rock, but one strong, swift turn of
 the bowman’s paddle saves it from that danger ; it rushes on
 again, turned here and there by waves and contrary currents,
@@ -3178,16 +2709,10 @@ the men, standing on the bank, firmly held the other end of
 this. Then the canoe was allowed to glide stern foremost
 
 . down into the narrow, rushing channel. This is a rapid of
-
 some two miles in length but hardly ten yards in width, down
 which the water rushes fast and foaming, in and out among
 thick, overhanging trees, and round corners, and down low,
 but abrupt falls. As soon as, by slow paying out of the bow
-
-
-54 AMONG THE INDIANS OF GUIANA.
-
-
 line, the canoe had been safely lowered down the first of the
 short reaches, those who were on board kept her in position
 by holding fast to the overhanging tree-trunks and branches,
@@ -3207,8 +2732,7 @@ work, but far safer than shooting the main fall.
 Shooting the falls was a frequent and most exciting event
 during our downward journey, but once we had a different
 excitement. Early one morning, having started before dawn
-we reached the place where the Potaro river joins the Esse-
-quibo in a large lake-like expanse, which looked even more
+we reached the place where the Potaro river joins the Essequibo in a large lake-like expanse, which looked even more
 than usually beautiful in the wonderfully clear morning
 light. Suddenly my bowman got excited, and standing up,
 shading his eyes with his hand, gazed steadily at a line of
@@ -3218,13 +2742,10 @@ Indians, bending to their paddles as I never saw them do
 before, the canoe shot rapidly over the perfectly smooth water
 towards the line of foam. Whinga is the Macusi name for
 that sort of bush-hog, or peccary, which lives in large herds
-(Dicotyles labiatus); and one of these herds was now swim-
-ming the river. While the men worked with a will at the
+(Dicotyles labiatus); and one of these herds was now swimming the river. While the men worked with a will at the
 paddles, I looked to all the guns, and then stood up and
 watched the herd as it neared the shore.: The race was
 for more than two miles, aud the hogs won. No sooner,
-
-
 however, had the bow of our canoe touched the shore at the ©
 
 
@@ -3235,8 +2756,7 @@ out and after them, with gun or bow and arrows. The forest
 A HOG-HUNT. 55
 
 
-was alive with the sound of men crushing through the brush-
-wood, and with the grunts and squeals of the pigs. Pre-
+was alive with the sound of men crushing through the brushwood, and with the grunts and squeals of the pigs. Pre-
 sently, finding the bush too dense for a man with clothes,
 I turned back to the canoe, and after a time the men
 dropped in one by one bringing their prey. I can safely
@@ -3253,8 +2773,7 @@ whose larder wants replenishing. In one case, I heard of
 one single man killing fifty hogs out of a herd which was
 erussing the Mazeruni just below the Penal Settlement. On
 another occasion some negroes were taking a timber punt up
-towards the Monkey Jump on the Essequibo, when, just be-
-fore they reached that point, a herd of bush-hogs crossed
+towards the Monkey Jump on the Essequibo, when, just before they reached that point, a herd of bush-hogs crossed
 in front of them. There was no gun in the punt, nor was
 there a small boat from which to attack the animals; but
 one of the men, a splendid swimmer named Sassington,.
@@ -3268,17 +2787,13 @@ and we reached Georgetown after an absence of six months
 from the civilised world.
 
 
-56 AMONG THE INDIANS OF GUIANA.
-
-
 CHAPTER III.
 THE KAIETEUR FALL AND RORAIMA.
 
 
 The Kaieteur Fall—First Visit—The Potaro River—Amootoo Cataract--
 The Kaieteur Ravine—To the Koot of the Fall—The Kaieteur, in Dry
-Weather, from above—The Kaieteur Savannah—A New Plant (Brocchi-
-nia cordylinoides, Baker ?)—A new bird (Ageleus imthurni, Sclater)—A
+Weather, from above—The Kaieteur Savannah—A New Plant (Brocchinia cordylinoides, Baker ?)—A new bird (Ageleus imthurni, Sclater)—A
 Second Visit to the Kaieteur—Beantiful Flowers—Portaging the Boat
 —The Kaieteur Fall, from above, in the Rainy Season—The Best Way
 to Visit the Fall—Roraima.
@@ -3289,8 +2804,7 @@ Guiana, those which have attracted most attention from the
 outside world, are the Kaieteur fall and the mountain called
 Roraima. Some account of these is therefore necessary.
 Unfortunately I can write only of the former from personal
-experience, and, as regards Roraima, must trust to the ac-
-counts of the three or four travellers who, unlike myself,
+experience, and, as regards Roraima, must trust to the accounts of the three or four travellers who, unlike myself,
 have had the good fortune to visit it.
 
 The existence of the Kaieteur fall was unknown till 1871,
@@ -3306,8 +2820,7 @@ half that width.
 Compared with some other falls the Kaieteur is
 small; for while it ranks far below the Yosemite both in
 height and width, it falls far short of Niagara in width
-though it exceeds it in height. But as regards the sur-
-rounding scenery it is impossible to believe that even the
+though it exceeds it in height. But as regards the surrounding scenery it is impossible to believe that even the
 scenery of the Yosemite can exceed that of the Kaieteur ;
 
 
@@ -3320,10 +2833,8 @@ ULV Td
 TOOMATOOMARI. 57
 
 
-and that round Niagara is, now at least, notoriously com-
-mofiplice. It is,'in fact, the :marvellous surroundings com-
-bined with thé magnitude, which ‘should make the magmif-
-cence ‘of ‘the. Kaieteur:
+and that round Niagara is, now at least, notoriously commofiplice. It is,'in fact, the :marvellous surroundings com-
+bined with thé magnitude, which ‘should make the magmifcence ‘of ‘the. Kaieteur:
 
 In the ten years since its: existence was -first- madé
 known, the Kaieteur has but'seldom been visited. The dis-
@@ -3331,8 +2842,7 @@ known, the Kaieteur has but'seldom been visited. The dis-
 ‘visit to it within a few months.: But between that time and
 1878 it was seen by white men only on’four occasions. In
 the last-mentioned year, and’ again -in the’ following year, I
-was able to visit it twice, seeing it’on the first of these oc-
-casions during a very dry season, and on the second during a
+was able to visit it twice, seeing it’on the first of these occasions during a very dry season, and on the second during a
 very wet season.
 
 Leaving Georgetown on the 13th of October 187 8, we
@@ -3362,14 +2872,10 @@ with: their murmur. Sight, scent, and sound were equally
 grateful.
 
 
-58 AMONG THE INDIANS OF GUIANA.
-
-
 Early next morning, having hauled our boat up the
 cataract on the previous evening, and leaving four men in
 charge of the canoe and the surplus stores, we walked along
-the portage path past the cataract; and thirteen of us em-
-barked for our further journey.
+the portage path past the cataract; and thirteen of us embarked for our further journey.
 
 Toomatoomari cataract is one of the gates of Fairyland.
 Beyond it the scenery of the Potaro, at least when the river
@@ -3377,16 +2883,12 @@ is low, is one constantly changing beautiful picture, and far
 surpasses that of any other river I have seen in Guiana, It
 is in times of low water, when the rocks are uncovered, that
 the rivers of this country are seen to best advantage. This
-river of wonderfully clear wine-red water is about three hun-
-dred yards wide, and flows among single rocks and islands of
-rocks, confusedly piled, some large, some small, some water-
-worn into flutings so regular that it is difficult to remember
-that they are not fragments of huge masonry; some so regu-
-larly square that they look as if cut by a Norman builder ;
+river of wonderfully clear wine-red water is about three hundred yards wide, and flows among single rocks and islands of
+rocks, confusedly piled, some large, some small, some waterworn into flutings so regular that it is difficult to remember
+that they are not fragments of huge masonry; some so regularly square that they look as if cut by a Norman builder ;
 some rounded like the boulders of our English downs; some
 of every conceiyable shape and fracture; all heaped on each
-other in most chaotic confusion. The gaps between the jut-
-ting points of the rock-islands are filled by banks of clean
+other in most chaotic confusion. The gaps between the jutting points of the rock-islands are filled by banks of clean
 bright sand sloping gently into the water. Wherever the
 sand met the water on the edges of these banks, great troops
 of yellow, white, or blue butterflies were clustering to suck
@@ -3406,13 +2908,9 @@ trying, and was the one hardship which we had to endure
 during the whole expedition. In the afternoon we passed ©
 
 
-the mouth of the Cooriebrong river, then very low. Oppo-
-site to the mouth of this river, on the left bank of the Potaro,
-was a newly built Ackawoi settlement, then temporarily de-
-serted. This was the first of many new settlements which we
+the mouth of the Cooriebrong river, then very low. Opposite to the mouth of this river, on the left bank of the Potaro,
+was a newly built Ackawoi settlement, then temporarily deserted. This was the first of many new settlements which we
 passed ; for it seemed that the Ackawoi were beginning to
-
-
 es 0 on ED) > cee , en A eee
 
 
@@ -3446,33 +2944,25 @@ and down a very steep hill covered with thick forest, for
 a distance of over two-thirds of a mile. Our Arawaks
 wished to do the same now, though they admitted that, as
 rollers would have to be cut and laid along the whole path,
-the work would take a day and a half. Moreover the diffi-
-culty of the portage had recently been much increased,
+the work would take a day and a half. Moreover the difficulty of the portage had recently been much increased,
 owing to the fact that some Ackawoi Indians, having lately
 made a settlement in these parts, had chosen to make their
 cassava field over a considerable part of the path, which was,
 conseqnently, almost entirely blocked up by the trunks of
-felled trees. Dreading the difficulty and delay, and consider-
-ing the somewhat low state of the water, we determined t6
+felled trees. Dreading the difficulty and delay, and considering the somewhat low state of the water, we determined t6
 haul the boat up the river, and carry only the goods across.
 The more adventurous Caribs agreeing in our plan, the
 Arawaks were at last persuaded to help; and both boat
 and woodskin were without very much difficulty dragged up
 the falls to the higher end of the portage-path that same
 evening, thus avoiding a delay of two days. Above the
-
-
-60 AMONG THE INDIANS OF GUIANA.
-
-
 portage the first beautiful view of the sandstone range of the
 Kaieteur appeared, framed in trees, and with the river, thickly
 blocked with tangled masses of a peculiar sedge (Carez,
 nov. sp.), as & foreground. :
 
 Early next morning we passed another newly formed
-Ackawoi settlement, about a quarter of a mile above Pacou-
-tout fall. It also was deserted. A few hours later we came
+Ackawoi settlement, about a quarter of a mile above Pacoutout fall. It also was deserted. A few hours later we came
 to yet: another new settlement, this time a very large one, at
 the mouth of the Aykooroo creek. As we drew near this, a
 most unusually large crowd of Indians came down to the
@@ -3499,11 +2989,9 @@ feet; each was keeping up the usual fearfully monotonous ~
 chant, Hia-Hia-Hia-Hia.
 
 That: same afternoon we came to Amootoo fall and
-cataract. It seemed as if the beauty of the scenery in-
-creased as we advanced. As we paddled up a straight river-
+cataract. It seemed as if the beauty of the scenery increased as we advanced. As we paddled up a straight river-
 reach, a dome-shaped, wooded island lay before us in the
-centre of the foreground, dividing the river into two chan-
-nels. On one side of this island a large cataract, some
+centre of the foreground, dividing the river into two channels. On one side of this island a large cataract, some
 twelve feet in height, fell foaming down the violet-brown
 
 
@@ -3521,8 +3009,7 @@ leaves of a water-weed (Lacis), dotted with its small, pink
 flowers, formed green and pink cushions ; on the other side,
 a magnificent perpendicular wall about fifteen feet in height’
 of the same sandstone ledges, then dry, marked where. in.
-the time of high rains the water falls down into the black-
-pool of the second channel: The wooded undulating barks:
+the time of high rains the water falls down into the blackpool of the second channel: The wooded undulating barks:
 curved towards us from the cataract on the left and from the
 fall on the right, forming a complete amphitheatre,.behind.
 which, in the distance, towered precipitous sandstone moun-:
@@ -3539,8 +3026,7 @@ merrily over in a very short time.
 
 Here, at Amootoo, we passed between two high hills intothe.
 ravine of the Kaieteur. From Toomatoomari to this point:
-the valley of the Potaro passes through undulating, but com-
-paratively level, forest-covered country. At Amootoo this
+the valley of the Potaro passes through undulating, but comparatively level, forest-covered country. At Amootoo this
 plain is crossed at right angles to the bed of the river by an
 abrupt sandstone cliff, 700 or 800 feet in height, from the
 top of which a plateau runs back. Through this high plateau
@@ -3557,23 +3043,16 @@ plateau, which still further from the sea is shut in by distant
 hills.
 
 
-62 AMONG THE INDIANS OF GUIANA.
-
-
 It was at Amootoo—that is, on first. entering the Kaieteur
 ravine—that we reached the most beautiful scenery of that
-beautiful riyer. If the whole valley of the Potarg is Fairy-
-land, then the Kaieteur ravine is the penetralia of Fairyland.
-Here, owing to the moisture-collecting nature of the sand-
-stone rock, the green of the plant-world seemed yet greener
-and more varied. Under the thick shade countless stream-
-lets trickled over little ledges of rock among pigmy forests
+beautiful riyer. If the whole valley of the Potarg is Fairyland, then the Kaieteur ravine is the penetralia of Fairyland.
+Here, owing to the moisture-collecting nature of the sandstone rock, the green of the plant-world seemed yet greener
+and more varied. Under the thick shade countless streamlets trickled over little ledges of rock among pigmy forests
 of filmy ferns and mosses. The small plume-like tufts of
 these ferns, each formed of many half-transparent fronds of
 a dark cool-looking green colour, were exquisite. Larger,
 ferns, with a crowd of aroids, orchids and other plants,
-covered the rocks between these streams in new and marvel-
-lous luxuriance. Several curious forms of leafless, white-
+covered the rocks between these streams in new and marvellous luxuriance. Several curious forms of leafless, white-
 stalked parasitic gentians ( Voyria), one yellow, others white,
 and one violet, were especially noticeable.
 
@@ -3581,10 +3060,8 @@ On either side rose the tall, grand cliffs which form the
 sides of the ravine. The sandstone plateau of which they
 are the edge, extends from this to Roraima. The appearance
 of the perpendicular tree-crowned cliffs, broken here and
-there by gaps, recalled the pictures of that mountain; in-
-deed, one of my Indian companions, who had been to Roraima,
-ejaculated, as he pointed to one of these rocks, ‘ little Ro-
-raima. Far up on the faces of the cliff were ledges on
+there by gaps, recalled the pictures of that mountain; indeed, one of my Indian companions, who had been to Roraima,
+ejaculated, as he pointed to one of these rocks, ‘ little Roraima. Far up on the faces of the cliff were ledges on
 which grew what appeared to be a few green plants; some
 idea of the size of these cliffs may be drawn from the fact
 that the field-glasses showed these plants to be tall forest trees.
@@ -3639,17 +3116,11 @@ landing place at Tookooie cataract. |
 Beyond this point it is impossible to take boats; for
 from here up to the great fall is no smooth water, but only a
 long succession of rapids, falls, and cataracts. We had to
-camp ata spot some fifty yards beyond the real landing-
-place, which was entirely occupied by a large party of
+camp ata spot some fifty yards beyond the real landingplace, which was entirely occupied by a large party of
 Ackawoi who were on their way down from their homes
 above the fall to the Essequibo, or ‘Scapi’as they call it,
 to eat fish and turtles’ eggs. There are a few fish in the
-
-
 ee
-
-
-64 AMONG THE INDIANS OF GUIANA.
 
 
 Potaro below the Kaieteur, but none above; turtles are
@@ -3683,17 +3154,13 @@ the main river, and climbed for some time along these.
 Presently, by an unlucky thought, we left the river-bank and
 again ascended high up into the hill forest. Then the way
 became absolutely terrific. The whole floor of the ravine,
-as well as the hill-side for some distance up, is covered, ap-
-parently to the depth of several hundred feet, by a litter of
+as well as the hill-side for some distance up, is covered, apparently to the depth of several hundred feet, by a litter of
 huge boulders varying in size from that of a large house to
 a few feet square, piled in the wildest confusion. Those
 ‘by the water-side are smaller, and, being quite bare, are
 easily passed. But within the forest, trees, shrubs, creepers,
 aroids, begonias, all growing in the most eccentric places
-and directions, formed, from rock to rock, a covering treach-
-
-
-ee, EE i {, LL en, a Ce . A, a eh
+and directions, formed, from rock to rock, a covering treachee, EE i {, LL en, a Ce . A, a eh
 
 
 TO THE FOOT OF THE FALL. 65
@@ -3707,8 +3174,7 @@ over places where the ground, seeming firm, really consisted
 of « network of small roots, over which was a deceitful
 covering of dead leaves and growing ferns and mosses ; again
 and again when trusting ourselves in such places we found
-ourselves buried up to the waist; once I disappeared en-
-tirely. On the whole it was a very ugly climb; and yet it
+ourselves buried up to the waist; once I disappeared entirely. On the whole it was a very ugly climb; and yet it
 was just in the worst places that the wonderful beauty of
 the plants, especially the ferns and begonias, most repuid
 the toil. My only regret was that under the circumstances
@@ -3719,8 +3185,7 @@ found. " |
 
 By about three in the afternoon we came out of the
 forest to the river-edge, at a point about a quarter of a mile
-from the fall and just at the mouth of the Kaieteur amphi-
-theatre. Before, and close to us, was the fall, about two-
+from the fall and just at the mouth of the Kaieteur amphitheatre. Before, and close to us, was the fall, about two-
 thirds of its upper part visible. The Kaieteur was not dry;
 but it was less than half the width proper to it in the rainy
 season. Still it was very splendid, and the beauty of the
@@ -3731,8 +3196,7 @@ The reason that no descending water had been visible
 from Waratoo was now obvious. At the fall, the Kaieteur
 ravine ends in a complete amphitheatre with cliff-like walls
 800 feet in height. It is into this amphitheatre that the
-Potaro falls from the plateau above. Supposing the amphi-
-theatre were divided into quarters by drawing one straight
+Potaro falls from the plateau above. Supposing the amphitheatre were divided into quarters by drawing one straight
 line from the entrance to the opposite cliff and another
 straight line cutting the former in the middle and ending on
 either side at the cliff, then the space over which the water
@@ -3740,9 +3204,6 @@ falls is included within the left-hand quarter farthest from
 the entrance. Therefore, when looking into the amphi-
 
 F
-
-
-66 AMONG THE INDIANS OF GUIANA.
 
 
 theatre from a point directly opposite its entrance we could
@@ -3781,8 +3242,7 @@ liads, looking more like agaves,' have taken root, and form the
 
 ' The somewhat imperfect | specimens of the flower of this plant, which
 were all that I could procure at that season, led Mr. J..G. Baker of Kew
-.to suppose that the plant was a new species of Cordyline, and very inte-
-resting as being only the second species of the genus that had been dis-
+.to suppose that the plant was a new species of Cordyline, and very interesting as being only the second species of the genus that had been dis-
 ‘covered on the American continent. _ Mr. Baker accordingly described and
 ‘figured: the plant as Cordylina micrantha, nov. sp. in the Gardeners’
 ,Chrontele. - More perfect specimens, since obtained by my friend -Mr.
@@ -3802,8 +3262,7 @@ THE KAIETEUR PALL (tn dry weather).
 THE KAIETEUR FROM ABOVE. 67
 
 
-most prominent feature in the scene. Thickets of splendid-
-flowered orchids (Sobralia), as tall as a man, and many other
+most prominent feature in the scene. Thickets of splendidflowered orchids (Sobralia), as tall as a man, and many other
 rare and quaint plants grow among the agave groups, each of
 which is laced together by a large fern (Pteris aquilina),
 almost, if not quite, identical with the delicately beautiful
@@ -3836,22 +3295,16 @@ act seemed to cause me unbearable pain; I had as soon have
 hurled myself over as have allowed a repetition of the act just
 then. Gradually, however, these painful feelings gave way
 to others of intense wondering delight ; and the whole scene,
-
-
 colossal Bromeliad ever discovered. Mr. Baker has now provisionally
 named it Broochinia cordylinoides.
 
-+ Mr. Jenman, who has since had a prolonged opportunity of collect-
-ing plants on this savannah, procured and sent from there to Kew a
++ Mr. Jenman, who has since had a prolonged opportunity of collecting plants on this savannah, procured and sent from there to Kew a
 herbarium collection, which is declared by the assistant-director of the
 Royal Gardens to be ‘almost the most important collection ever received
 from South America.’
 
 
 v2
-
-
-68 AMONG THE INDIANS OF GUIANA.
 
 
 the gigantic weird fall, the dark and slippery places below,
@@ -3899,8 +3352,7 @@ trickle down through these fissures, and would gradually
 SAVANNAH PLANTS. 69
 
 
-widen them. The result of this would be that the con-
-glomerate would form, not a roof, but a bridge, over the cave.
+widen them. The result of this would be that the conglomerate would form, not a roof, but a bridge, over the cave.
 This bridge would in time give way, its fragments falling to
 the bottom of the amphitheatre. Only in this way, it seems
 to me, can the enormous masses of boulders which fill the
@@ -3932,18 +3384,12 @@ this plain in the form of rain must continually renew the
 store.
 
 Another perhaps yet more curious, though inconspicuous
-plant was a small round-leafed sundew (Drosera rotundi-
-folia), an insect-eating plant which grows plentifully among
+plant was a small round-leafed sundew (Drosera rotundifolia), an insect-eating plant which grows plentifully among
 the loose stones overlying the rocks in the very driest parts
 of the savannah. Its small red leaves are covered with long
 hairs, each of which carries a drop of very sticky liquid.
 Small insects, hovering round the plant, are caught by this
 gummy substance, and are unable to get away from the
-
-
-70 AMONG THE INDIANS OF GUIANA.
-
-
 plant, which slowly absorbs their life-juices. How this plant,
 usually such a lover of watery places, manages to subsist on
 these rocks is mysterious.
@@ -3952,8 +3398,7 @@ Each evening, at dusk, the flocks of swifts (Acanthyllis
 collaris) spoken of by Mr. Brown arrived; but they were by.
 no means as numerous as they seem to have been at the
 time of his visits. They fly high in the air above the fall,
-then so suddenly descend straight down into the amphi-
-theatre, that their wings make a hissing noise which is not
+then so suddenly descend straight down into the amphitheatre, that their wings make a hissing noise which is not
 the least curious phenomenon of this wonderful place. After
 descending straight down, they settled for the night on the
 face of the cliff, by and behind the fall.
@@ -3966,8 +3411,7 @@ The nights were bitterly cold. The moon was big at the
 time, and as it shone on the fall seemed to make it grow
 more weird. The thunderous roar of its water sounded much
 louder than by day. Towards morning it became evident
-that masses of thick white clouds filled the whole valley be-
-low the fall; nor did these clear away till nine o’clock in the
+that masses of thick white clouds filled the whole valley below the fall; nor did these clear away till nine o’clock in the
 morning.
 
 It was with regret that we turned, at last, to leave the
@@ -3979,8 +3423,7 @@ and I may therefore bring my story to a close.
 
 In the following February, at the end of a heavy rainy
 season, having a month’s leave of absence, it seemed that the
-time could hardly be better employed than in again ascend-
-ing the Potaro and seeing the fall of the river in flood. Mr.
+time could hardly be better employed than in again ascending the Potaro and seeing the fall of the river in flood. Mr.
 T. C. Edwards-Moss went with me; and with twenty Indians
 we started from Bartica Grove, in three boats, on Monday,
 the 10th of February, and, in spite of the large quantity of
@@ -3998,8 +3441,6 @@ AGEL(IEUS IMTHURNI
 
 
 THE POTARO IN FLOOD. , wl
-
-
 again at the Grove on the 3rd of March, after an absence,
 that is, of only twenty-two days.
 
@@ -4015,15 +3456,12 @@ over by the great quantity of water which was coming down
 the river, we found a great snake, a camoodi (Ewnectes
 murina) asleep on rocks. My companion shot it; and it
 proved to be twenty feet in length and three feet in girth at
-
 the thickest.
 
 On Friday night we camped just opposite the mouth of
 the Potaro river; and early on the next morning we turned
-up that river, and in a couple of hours reached the first cata-
-ract at Toomatoomuari. Here we spent the afternoon in the
-bush in a vain attempt to hunt—unfortunately we saw no-
-thing to hunt. At Toomatoomari the scene was very different
+up that river, and in a couple of hours reached the first cataract at Toomatoomuari. Here we spent the afternoon in the
+bush in a vain attempt to hunt—unfortunately we saw nothing to hunt. At Toomatoomari the scene was very different
 from what it had been in the dry season. Now, below the
 cataract, instead of a plain of sandbanks and rocks with a few
 water-channels, all was one sheet of water, covered with
@@ -4042,11 +3480,6 @@ reached the latter river on our return we found it had sunk
 considerably, while the Potaro was then much higher than
 when we entered it. Hardly a day during our expedition
 was without rain, and while we were near the Kaieteur the
-
-
-72 AMONG THE INDIANS OF GUIANA.
-
-
 rainfall was often very heavy. Of the twenty-two days of our
 absence from Bartica only two were dry: during the same
 period very little rain fell on the coast region; and, judging
@@ -4057,14 +3490,12 @@ The Potaro was, as has been said, in flood, and rose yet
 higher during the time we were on it. Rapids, cataracts,
 and falls had widened, since I had seen them three months
 before, from a width of a few yards to many hundred feet.
-And in the reaches between the falls the innumerable sand-
-banks and rocks which I had seen were now quite covered by
+And in the reaches between the falls the innumerable sandbanks and rocks which I had seen were now quite covered by
 a strong, swift flow of dark water carrying long lines of masses
 of white foam, which looked like large flocks of white birds
 swimming with the current. It is hard to say whether the
 scenery on the river was more, or less, beautiful than it had
-been when the river was low. The cataracts now were un-
-doubtedly very far finer, and were in themselves quite
+been when the river was low. The cataracts now were undoubtedly very far finer, and were in themselves quite
 worthy of a visit; but, on the other hand, the smooth reaches
 of the river had lost much of the fairy-like beauty which had
 charmed me before, and had acquired something of the
@@ -4107,36 +3538,26 @@ lived, and was flowering and reddening all the water under
 it. At another time the eye would be attracted by a deep
 blue patch on the surface of the water, and looking up the
 bank to see what caused this new reflection, would rest on a
-cluster of many foot-long wreaths of the intensely blue star-
-flowers of the Petrea martiana, one of the most strikingly
+cluster of many foot-long wreaths of the intensely blue starflowers of the Petrea martiana, one of the most strikingly
 beautiful flowers of Guiana, and one which is not as common
 in gardens as it should be.
 
 A third plant which was then in full bloom was a white
-waxy flower (Posoqueria longiflora) with clustered blos-
-soms like long-tubed, hanging gardenias, with a strong sweet
+waxy flower (Posoqueria longiflora) with clustered blossoms like long-tubed, hanging gardenias, with a strong sweet
 scent, and with pretty egg-shaped, orange-coloured fruits,
 ripe even on the flowering branches. And between these
 plants were many others equally beautiful though not so
 prominent.
 
-The height of the river did not cause much extra diffi-
-culty. Our boat and one of the canoes were portaged past
+The height of the river did not cause much extra difficulty. Our boat and one of the canoes were portaged past
 Toomatoomari cataract, instead of being hauled up as is pos -
 sible in a lower state of the water. At Mowraseema the
-rapids had increased much in number, though not individu-
-ally in difficulty. But when we came to the portage at
+rapids had increased much in number, though not individually in difficulty. But when we came to the portage at
 Pacoutout, which we had avoided before by hauling up the
 bateau, we found that we could not this time shirk the work
 of clearing the path, laying it with skids, and carrying over
 the bateau. We therefore left the canoe at the lower end of
-
-
-74 AMONG THE INDIANS OF GUIANA.
-
-
-the portage, and took only the ‘ Adaba,’ our built boat, to-
-gether with three woodskins which the Indians living at
+the portage, and took only the ‘ Adaba,’ our built boat, together with three woodskins which the Indians living at
 Pacoutout offered to lend us. A whole day was, however,
 occupied in getting our one boat across. The path, along
 which it had to be dragged, passes through a cassava field, so
@@ -4146,8 +3567,7 @@ have, however, settled here since our last visit, so that the
 path was in better order than it then was. A very severe
 and unlucky illness of my companion, a memorable event to
 both of us ever after, caused a day’s delay here, and nearly
-caused our return. Portaging again at Amootoo, and haul-
-ing the boat up past Waratoo, on the fifth day from Tooma-
+caused our return. Portaging again at Amootoo, and hauling the boat up past Waratoo, on the fifth day from Tooma-
 toomari, we came in sight of the Kaieteur. It seemed
 about four miles off. This was the point from which on the
 occasion of my former visit the Kaieteur was not, as it ought
@@ -4168,8 +3588,7 @@ through the forest, up the higher level of the fall. On
 coming out on to the savannah we found that it had been
 burned. The Bromeliads with which it is chiefly clad
 were hardly more than charred stumps and leaves; but the
-low-growing vegetation round the roots of these had re-
-covered and was more vigorous than in October. The
+low-growing vegetation round the roots of these had recovered and was more vigorous than in October. The
 bracken (Pteris aquilina), pushing up ite young woolly
 heads, reminded one of spring at home ; a few ground orchids
 were in flower, but unfortunately not the Sobralia, which I
@@ -4205,8 +3624,7 @@ beautiful, that it is painfully hopeless to try to express in
 words anything of its beauty and grandeur. Indeed the
 very words beauty and grandeur, and indeed all other words,
 seem absurdly weak when applied to such a scene as that.
-It is indeed possible to write down a few separate impres-
-sions that came to me as I looked at the fall, but it is im-
+It is indeed possible to write down a few separate impressions that came to me as I looked at the fall, but it is im-
 possible even to hint at the overpowering effect which the
 whole scene produced.
 
@@ -4220,9 +3638,6 @@ About an hour before sunset on the first evening of our
 stay rain began to fall in light showers. Low down at our
 
 1 The species is new to science.
-
-
-76 AMONG THE INDIANS OF GUIANA.
 
 
 feet, across the river below the fall, the sun and rain built
@@ -4239,8 +3654,7 @@ the mist and cloud and rain and wind made another wonderful
 scene. The great rocky ravine at our feet was filled by huge
 masses of rolling, driving cloud which hid everything, except
 when, now and then, a cold blast of wind, separating ‘two
-clouds for a few seconds, showed in the gap some pro-
-jecting cliff-ledge, or some tree-covered rock, apparently
+clouds for a few seconds, showed in the gap some projecting cliff-ledge, or some tree-covered rock, apparently
 hanging suspended in a cloud world. And all the while the
 great river rushed swiftly at our side to the edge of the cliff,
 rolled over, and as it fell plunged through strange weird
@@ -4280,8 +3694,7 @@ before we got a fire lighted. Then the rain ceased for a
 while, and we managed to turn out to get a bathe in the
 river. The water had risen much in the night and was
 evidently still rising ; it was already within a few feet of the
-point at which the rock-covering of dead and withered water-
-weed (Lacis) showed high-water mark. As the clouds again
+point at which the rock-covering of dead and withered waterweed (Lacis) showed high-water mark. As the clouds again
 threatened rain, and as we meant to stay where we were for
 at least another day, our men built a capital and substantial
 house of posts and palm-leaves, which ought to be useful to
@@ -4317,9 +3730,6 @@ even then it was very difficult to stand; a step too far might
 have sent us down the Kuieteur.
 
 
-78 AMONG THE INDIANS OF GUIANA.
-
-
 All the time we had to spare we lay at the edge of the
 cliff wondering at the exceeding beauty of the fall, and all
 our talk was of its grandeur. Its edge and surface was no
@@ -4334,8 +3744,7 @@ the greater part of the curtain of the fall was formed of the
 beautiful overlapping rocket-like points, which constantly
 fell and were constantly succeeded by others; here the
 colour at each point varied according to the depth of the
-water, and was of many shades of a peculiar amber, lighten-
-ing below into the colour best described as ‘ecru.’ It is
+water, and was of many shades of a peculiar amber, lightening below into the colour best described as ‘ecru.’ It is
 impossible to tell more accurately the endless variety in
 the contour and colour of the fall.
 
@@ -4374,13 +3783,11 @@ Our homeward journey was unadventurous. At the
 settlement of Aykooroo they had collected a very large
 quantity of cassava bread, with a few yams and plantains for
 us. At the next settlement, called the Island, at the upper
-end of Pacoutout portage, they had more bread, some mai-
-purie meat (Tapirus americanus), and some delicious wild
+end of Pacoutout portage, they had more bread, some maipurie meat (Tapirus americanus), and some delicious wild
 honey. The head man of this settlement said that he owned
 the deserted settlement at the mouth of the Cooriebrong
 river, that he meant to build a church there, and that he
-wished me to send him a ‘domini’ (parson). This is a com-
-mon whim among Indians; they build a large house, which
+wished me to send him a ‘domini’ (parson). This is a common whim among Indians; they build a large house, which
 they are pleased to call a church, use it for holding paiwari
 feasts, and whenever a white man approaches are loud in
 their calls for a parson.
@@ -4388,11 +3795,6 @@ their calls for a parson.
 In shooting one of the rapids at Mowraseema, our boat
 came suddenly against a sharp rock, and a hole was knocked
 in her bottom. However, a little baling till we got to shore,
-
-
-80 AMONG THE INDIANS OF GUIANA.
-
-
 and then a little caulking, made all right. The rest of the
 falls were easily passed.
 
@@ -4408,14 +3810,11 @@ A few words as to future expeditions may be useful.
 
 Y Firstly, as to the means which might be taken by the
 Government to facilitate the whole journey; I confess that
-money spent on cutting paths from any point on the Esse-
-quibo to the Kaieteur seems to me thrown away. A small
-amount of money and labour might much more advan-
-tageously be used in permanently improving the portage
+money spent on cutting paths from any point on the Essequibo to the Kaieteur seems to me thrown away. A small
+amount of money and labour might much more advantageously be used in permanently improving the portage
 paths, and in making a moderately good path from Tookooie
 landing to the foot of the fall. An annual present might
-also be made to the Indians settled along the route, on con-
-dition that they keep open the portages, keep boats for
+also be made to the Indians settled along the route, on condition that they keep open the portages, keep boats for
 travellers, and give all assistance in their power.
 
 Secondly, as regards the travellers’ own part in organising
@@ -4453,10 +3852,8 @@ Those, however, who are determined to see the fall from
 below must follow the beaten track which leads to the top
 for rather more than a quarter of a mile to a point where it
 is crossed by a very considerable creek, the bed of which;
-twenty to thirty yards wide, is formed of perfectly flat sand-
-stone ledges. ‘This is the creek on the ledges of which, on
-crossing at a point lower down, I noticed the splendid luxuri-
-ance of the filmy ferns (Trichomanes priewrii). The way then
+twenty to thirty yards wide, is formed of perfectly flat sandstone ledges. ‘This is the creek on the ledges of which, on
+crossing at a point lower down, I noticed the splendid luxuriance of the filmy ferns (Trichomanes priewrii). The way then
 lies down the bed of this creek if the water is shallow, or
 along its southern side if the stream is deep, till the main
 river is reached. After that it is necessary to keep to the
@@ -4466,14 +3863,12 @@ of the last cataract, called Serikabaroo, before the Kaieteur.
 Here the boulders are so huge and have such cliff-like sides
 that it is absolutely necessary to go some distance up the
 side of the ravine ; and this is the most fatiguing part of the
-journey. It is very difficult to get within the actual amphi-
-theatre of the fall, and the traveller must form his camp at
+journey. It is very difficult to get within the actual amphitheatre of the fall, and the traveller must form his camp at
 its mouth. But it may be entered by swimming from rock to
 rock, and in this way the actual edge of the pool into which
 the river falls may be gained.
 
-The top of the fall is easily reached from Tookooie by fol-
-lowing the beaten path, though this is occasionally very
+The top of the fall is easily reached from Tookooie by following the beaten path, though this is occasionally very
 steep.
 
 The only good place to camp is reached by walking
@@ -4483,9 +3878,6 @@ best view is to be obtained by turning to the left immediately
 on entering the savannah, instead of crossing to the camping
 
 G
-
-
-82 AMONG THE INDIANS OF GUIANA.
 
 
 place, and by going in the most direct way to the edge of
@@ -4502,8 +3894,7 @@ by Mr. C. Barrington Brown in 1869, while surveying the
 geology of the colony; by my friends, Messrs. Eddington and
 Flint, in 1877; and lastly, by my friends, Messrs. McTurk
 and Boddam-Wetham, in 1878. Moreover, in 1881, Mr.
-David Burke, an orchid collector, and Mr. Whitely, a zoo-
-logical collector, separately approached within sight of the
+David Burke, an orchid collector, and Mr. Whitely, a zoological collector, separately approached within sight of the
 mountain.
 
 It is a table-land formed of sandstone, which rises in a
@@ -4511,14 +3902,12 @@ perpendicular cliff from the general plain; or rather, the
 savannah slopes somewhat abruptly upward to a height of
 some 5,000 feet above the sea-level, and this swelling is
 crowned by a flat-topped mass of sandstone some 2,000 feet
-in height, the walls of which are perpendicular. The cir-
-cumference of this mass is entirely unknown, for no traveller
+in height, the walls of which are perpendicular. The circumference of this mass is entirely unknown, for no traveller
 has yet been round it. Round the whole circumference the
 wall is said to be equally perpendicular; but this is a mere
 matter of conjecture and must remain so until some traveller
 makes his way round it. The flat top appears to be forest
-covered ; and down its sides, at any rate at times, consider-
-able masses of water fall at various points. On the suppo-
+covered ; and down its sides, at any rate at times, considerable masses of water fall at various points. On the suppo-
 sition that the summit is really inaccessible, not only to men,
 but to all unwinged animals, there are those who hold that
 on this table land, cut off as this must thus be from all
@@ -4538,11 +3927,9 @@ as I have already hinted, nothing to indicate that the
 mountain is really inaccessible on all sides. The first thing
 to be done is for a traveller to make his way all round it.
 The difficulty of doing this would be great. The task would
-take a very considerable and indefinite time, and as the dis-
-tance of the mountain from any main and easily navigable
+take a very considerable and indefinite time, and as the distance of the mountain from any main and easily navigable
 river is great, it would be impossible for the traveller to carry
-with him sufficient provisions from the coast to support him-
-self and the assistants necessary to him during this time.
+with him sufficient provisions from the coast to support himself and the assistants necessary to him during this time.
 It would therefore be necessary to live almost entirely on such
 food as may be procured from the Indians of the district, or
 by hunting; but the Indians there are few and have but
@@ -4556,13 +3943,11 @@ plants on the top of the mountain are ever reached or not,
 the vegetation round the base is extraordinarily rich and
 interesting. The following description of the plant life in
 the Roraima district, by Richard Schomburgk,! who, though
-the only botanist who had been there, was only in the neigh-
-bourhood for a few days, ought to be sufficient in itself to
+the only botanist who had been there, was only in the neighbourhood for a few days, ought to be sufficient in itself to
 attract an explorer :—
 
 ‘From the crevices in the sandstone strata sprang various
-orchids; and besides these, the rosy-flowered Marcetia taai-
-folia (Dec) had established itself im the fissures—a plant
+orchids; and besides these, the rosy-flowered Marcetia taaifolia (Dec) had established itself im the fissures—a plant
 which I had not before seen, and which from a distance I
 mistook for an Erica. (mn reaching the summit a wide and
 splendid plateau, broken by small hills and clumps of rich
@@ -4573,9 +3958,6 @@ by high ranges of mountains. Our way was across a soft
 1 Richard Schomburgk. Reisen in Britisch Guiana (Leipzig, 1848)
 vol, ii. p. 216.
 G2
-
-
-84 AMONG THE INDIANS OF GUIANA.
 
 
 velvety sward, still wet with dew, directly northward, till
@@ -4593,8 +3975,7 @@ this sandstone range; but on that occasion also they were
 not in flower or fruit. On reaching the declivity, a breeze
 from the north came loaded with a delicious scent, and our
 astonished eyes were attracted by innumerable stems of
-white, violet, and purple flowers which waved about the sur-
-rounding bush. These were groups of superb Sobralias ; and
+white, violet, and purple flowers which waved about the surrounding bush. These were groups of superb Sobralias ; and
 amongst them S. Elizabethe rose tallest of all. I found
 flowering stems of from five to six feet high. But not only
 these orchids, but the shrubs and the low trees, still dripping
@@ -4629,8 +4010,7 @@ step revealed something new.’ |
 
 To the ethnologist also the district will prove interesting ;
 for it is so remote and unexplored that the Arecuna Indians,
-who chiefly inhabit it, are in a very unusually primitive con-
-dition—for instance, they alone still sometimes use stone,
+who chiefly inhabit it, are in a very unusually primitive condition—for instance, they alone still sometimes use stone,
 instead of iron, girdles for baking purposes ; and, moreover,
 the strangeness of Roraima seems to have made deep impres- .
 sions on the minds of these Indians, and to have filled their
@@ -4643,13 +4023,11 @@ travelling in that part of the world, so that his knowledge of
 ordering an expedition may be as precise as possible, and will
 then go to Roraima prepared, at all costs, to spend as long a
 time in the district as may enable him to make his way
-slowly round the mountain; and his labours wil] possibly re-
-sult, as no other means can, in the discovery of a way even
+slowly round the mountain; and his labours wil] possibly result, as no other means can, in the discovery of a way even
 to the top of Roraima.
 
 A few words will not be out of place as to the best way
-of approaching the mountain. Schomburgk, Brown, and Ed-
-dington visited it by going up the Essequibo and Roopoonooni
+of approaching the mountain. Schomburgk, Brown, and Eddington visited it by going up the Essequibo and Roopoonooni
 to the neighbourhood of Pirara, a route which I have already
 described, and then making their way northward to the
 mountain; McTurk and Boddam-Wetham went up the
@@ -4658,11 +4036,7 @@ But there is a way, as yet untried, which I am convinced
 will prove far more practicable. This is up to Potaro and
 from there westward across the savannah. I have already
 described the journey up the Potaro as far as the Kaieteur
-fall; and it is evident that there need be no great diffi-
-culty in taking boats of considerable size up to that point.
-
-
-86 AMONG THE INDIANS OF GUIANA.
+fall; and it is evident that there need be no great difficulty in taking boats of considerable size up to that point.
 
 
 There a depdt should be formed. Small boats might either
@@ -4678,9 +4052,6 @@ corresponding walk by either of the other routes.
 But, as my last word on this subject, I must strongly
 warn any against approaching Roraima without first fully
 weighing the difficulty and the cost.
-
-
-80
 
 
 CHAPTER IV.
@@ -4713,8 +4084,7 @@ well studied, for example, in certain pictures of Guiana
 scenery by a German named Carl Appun, a botanist and a
 draughtsman of some merit, who lived for some years in the
 interior, and who has furnished almost the only attainable
-pictures, drawn on the spot, of that scenery. In these pic-
-tures palms and other plants of forms strange to temperate
+pictures, drawn on the spot, of that scenery. In these pictures palms and other plants of forms strange to temperate
 regions, occupy the whole scene. Appun knew how to draw
 plants, eo that even in his most crowded compositions it is
 
@@ -4731,8 +4101,7 @@ from the plants of temperate regions. In correction of the
 false views thus spread Mr. Wallace’s careful analysis of
 tropical scenery in general, in his admirable essay on Tropical
 Nature, is of great value. The purpose of the present
-chapter is to supplement, as far as may be, that general ac-
-count by representing the most characteristic aspects of the
+chapter is to supplement, as far as may be, that general account by representing the most characteristic aspects of the
 special plant-life of Guiana.
 
 The forests and woods of Guiana, which, it must always
@@ -4745,12 +4114,10 @@ thus transferring in imagination our own forms of vegetation
 to the tropics; and these are, in the first place, that in the
 tropics, the trees and plants of all sorts are generally on a
 much more gigantic scale, and that this rank growth and,
-especially at this low level, the absence of small neat-grow-
-ing plants, such as elsewhere carpet the ground and fill up
+especially at this low level, the absence of small neat-growing plants, such as elsewhere carpet the ground and fill up
 the spaces, gives an impression of weediness; secondly,
 that the light being much more intense, the spaces within
-the gigantic outlines of the scenery are seen in even exagge-
-rated bareness and nakedness; and thirdly, that scattered
+the gigantic outlines of the scenery are seen in even exaggerated bareness and nakedness; and thirdly, that scattered
 among these familiar forms a large number of novel forms
 occur.
 
@@ -4805,11 +4172,6 @@ woods, or by marsh marigolds and red fritillary bells in the
 water meadows, or by heather and gorse on the moors.
 
 The splendour of colour of many single tropical trees,
-
-
-90 AMONG THE INDIANS OF GUIANA.
-
-
 heightened by contrast with the green of the surrounding
 forest, is most vividly present in my mind. No effect of
 colour could be more brilliant than a hackia tree (7Zecoma,
@@ -4839,12 +4201,10 @@ purple pea-flower (Calopogium cerulewm) which climbs
 and flowers so abundantly over certain small trees that it
 appears from a distance like an odd smoke-coloured light;
 or than another creeper (Norantea guianensis) which runs,
-like fire, over the highest trees, throwing out many flame-
-like spikes of dense scarlet flowers, two or three feet long.
+like fire, over the highest trees, throwing out many flamelike spikes of dense scarlet flowers, two or three feet long.
 Yet it must not be forgotten that these are only widely
 separated spots of colour.in a huge forest generally green.
-It will perhaps be noticed that this account of the dis-
-tribution of flowers in Guiana hardly agrees with such state
+It will perhaps be noticed that this account of the distribution of flowers in Guiana hardly agrees with such state
 ments of Mr. Wallace,' applied apparently to tropical forests
 
 
@@ -4872,8 +4232,7 @@ slightly exaggerated.
 The beauty of individual flowers, as distinct from masses,
 is more frequently noticeable in Guiana; for not only are all
 those flowers which have been described above, and many
-others which might be added to the list, beautiful individu-
-ally as well as in the mass, but there are others, and far more,
+others which might be added to the list, beautiful individually as well as in the mass, but there are others, and far more,
 which, though distributed too sparingly on their plants, or
 growing in too unfavourable a light, to make any great show,
 are individually as delicately beautiful or as splendid as any
@@ -4893,20 +4252,12 @@ in the forest glades, and especially on the savannahs, the
 number of individually beautiful flowers is very far greater.
 
 We now pass from colour to form. In describing the
-
-
-52 AMONG THE INDIANS OF GUIANA.
-
-
 ordinary types of trees as akin to those of temperate lands,
 it was stated that among these are scattered many striking
-forms quite or almost peculiar to the tropics. In now de-
-scribing these, the first to claim notice are the creepers,
-which mat together the whole forest, and pass in inextric-
-able confusion from trunk to trunk and over the tops of the
+forms quite or almost peculiar to the tropics. In now describing these, the first to claim notice are the creepers,
+which mat together the whole forest, and pass in inextricable confusion from trunk to trunk and over the tops of the
 trees. Not only are these immensely more numerous, but
-very many of them are very distinct in character, espe-
-cially in the form of their stems, from the creepers of
+very many of them are very distinct in character, especially in the form of their stems, from the creepers of
 temperate climates ; some have stems like broad ribands,
 either tightly stretched, or with their edges fluted in a
 most extraordinary way; others are very regularly spiral,
@@ -4918,8 +4269,7 @@ forest; so that while in some places none of these plants
 are visible, in others many individuals of one species fill the
 scene. Of the erect palms, the leaves of which spring from
 a common centre, generally from the top of a more or less
-lofty and stout stem, those with fan leaves are, with the ex-
-ception of one very common species (Mauritia flexuosa)
+lofty and stout stem, those with fan leaves are, with the exception of one very common species (Mauritia flexuosa)
 extremely rare; those with feather leaves form the bulk,
 and one of these (Mazximiliana regia) has its leaflets so
 arranged almost spirally round the midrib that the whole leaf
@@ -4932,8 +4282,7 @@ along the whole stem. Another plant (Carludovica plumier)
 up the trunks of trees. After the palms, the genera that
 figure most largely in the ordinary fancy picture of tropical
 scenery are those plants with large, very bold, simply oblong
-leaves, the best known of which are the bananas and plan-
-tains, and of which certain very small forms, the cannas,
+leaves, the best known of which are the bananas and plantains, and of which certain very small forms, the cannas,
 are now commonly seen in English gardens. These banana-
 
 
@@ -4941,8 +4290,7 @@ TYPICAL VEGETATION. 93
 
 
 leaved plants do figure, in places, largely in Guiana scenery.
-The most striking among them is the so-called wild plan-
-tain (Ravenala guianensis), a second species of the far-
+The most striking among them is the so-called wild plantain (Ravenala guianensis), a second species of the far-
 famed ‘ Traveller’s Tree of Madagascar,’ the enormous leaves
 of which rise from near the ground to a height of ten to
 fifteen feet. The bases of their leaf-stalks sheath, the one
@@ -4963,25 +4311,16 @@ the latter plants serve the Indians in place of wrapping
 paper, for many purposes, and the stems are woven by the
 same people into baskets. Wild pine-apples (Ananassa,
 Bromelia, &c.), and other similar but much larger plants,
-each being but a great rosette of long, pointed, saw-
-edged leaves, grow singly or in small groups on the more
+each being but a great rosette of long, pointed, sawedged leaves, grow singly or in small groups on the more
 sandy parts of the forest floor. Aloe-like plants are very
 rare; a few occur scattered widely over the savannah, and
 one form, the largest’ Bromeliad in the world, grows in such
 dense masses on one particular plateau that it constitutes the
-whole prospect. Among ferns there is no need for much men-
-tion of the low-growing herb-like forms, such as are familiar
-in temperate lands. They are enormously abundant through-
-out Guiana, the chief forms being various species of Adian- .
+whole prospect. Among ferns there is no need for much mention of the low-growing herb-like forms, such as are familiar
+in temperate lands. They are enormously abundant throughout Guiana, the chief forms being various species of Adian- .
 tum, Lindsaya, Polypodiwm, Acrostichwm, and, above all,
-the lovely little filmy ferns, Trichomanes and Hymenophyl-
-lum. But three forms, occurring in Guiana, which belong
+the lovely little filmy ferns, Trichomanes and Hymenophyllum. But three forms, occurring in Guiana, which belong
 more especially to the tropics, are the tree-ferns, the climbing
-
-
-94 AMONG THE INDIANS OF GUIANA.
-
-
 and the creeping ferns. Tree-ferns occur abundantly in
 certain higher sandstone tracts in the far interior, but far
 more sparingly in the forest near the coast, where, however,
@@ -4997,27 +4336,21 @@ the full blaze of the sun, covering these places with a dense
 mass of beautifully fretted foliage ; and another, but much
 rarer, fern of similar habit is Oleomdra hirtella, which has
 a long, upright, and firm stem, so stiff as not to need support,
-crowned with lance-shaped leaves. Yet other ferns (Poly-
-podium and others) creep like ivy up the tree-trunks; and
-even some filmy ferns have this habit. Club mosses ( Selag-
-nella and Lycopodiwm) often carpet the ground under the
+crowned with lance-shaped leaves. Yet other ferns (Polypodium and others) creep like ivy up the tree-trunks; and
+even some filmy ferns have this habit. Club mosses ( Selagnella and Lycopodiwm) often carpet the ground under the
 forest. ‘True mosses are scarce. The striking heart-shaped
-leaves of aroids, too, are frequently seen. One of the com-
-monest plants of Guiana, which is indeed hardly ever absent
-from any shallow water, is the moco-moco, an aroid (Cala-
-dium arborescens) with leaves like that of the well-known
+leaves of aroids, too, are frequently seen. One of the commonest plants of Guiana, which is indeed hardly ever absent
+from any shallow water, is the moco-moco, an aroid (Caladium arborescens) with leaves like that of the well-known
 Calla, borne at the top of a long stick-like stem often from
 ten to twelve feet high. Here and there on the ground in
 the more open parts of the forest the green, bright-red or
 white-spotted leaves of Caladiwmea, so well known in English
 hothouses, are seen; and, growing epiphytically both on
 standing and fallen trees, are large numbers of other aroids,
-the leaves of some of them pierced with regular window-
-like openings (Monstera obliqua). Passing from these
+the leaves of some of them pierced with regular windowlike openings (Monstera obliqua). Passing from these
 to the masses of other epiphytes which load the trees,
 the most striking of these are the Tillandsias, mostly like
-wild pine-apples, but one curiously distinct form (7. usne-
-oides), which hangs in large masses like long streamers of
+wild pine-apples, but one curiously distinct form (7. usneoides), which hangs in large masses like long streamers of
 grey wool, swaying in the wind from the outer branches of
 
 
@@ -5035,8 +4368,7 @@ number are epiphytic. One, the vanilla plant, creeps like
 ivy. The quaint but unlovely general character of the
 plants is too well known to need description ; their flowers,
 though many of them are individually of exceeding beauty,
-are in nature seldom sufficiently numerous to attract atten-
-tion.
+are in nature seldom sufficiently numerous to attract attention.
 
 One class of plants which is generally conspicuous in
 tropical scenery is somewhat rarely noticeable in Guiana.
@@ -5063,19 +4395,13 @@ ground that their beauty is invisible, and their scent for a
 time imperceptible, yet afterwards, when they drop their
 flowers, make the odour in the forest at first really sweet,
 and then, as decay sets in, sickly sweet. Another source of
-
-
-96 AMONG THE INDIANS OF GUIANA.
-
-
 perfume lies in the numberless resins which exude from the
 trees. Where the hyawa tree (Icica heptaphylla) grows,
 the whole air for some distance round is pleasant and
 wholesome with the incense-like odour of the white resin
 that drops from its stem, and falls in masses to the ground ;
 and a still more powerfully scented resin, which coats the
-trunk of another tree, the tauranero of the Indians (Humi-
-rium floribundum, Mart.), seems to imitate and surpass the
+trunk of another tree, the tauranero of the Indians (Humirium floribundum, Mart.), seems to imitate and surpass the
 odour of vanilla.
 
 Having in these general considerations provided the
@@ -5087,8 +4413,7 @@ may be of the appearance of the land. In so doing it will
 hardly be necessary to notice the coast region, for the obvious
 reason that the greater part of this has been much modified
 by the hand of man, whereas we are now regarding only
-natural conditions; and for the same reason the forest pic-
-tures will be taken, not from that part which has been de-
+natural conditions; and for the same reason the forest pictures will be taken, not from that part which has been de-
 scribed as the timber tract, most of which has at some time
 been deprived of its finest trees by the hand of man, but
 from the more remote virgin forest. It may, however, be
@@ -5127,8 +4452,7 @@ curious prickles, each supported on a separate tumour on
 the bark, and on others clusters of star-like or pea-shaped
 flowers and pods (Swartzia), spring directly from the bark
 of the trunk or branches. Up the trunks there are a few
-isolated tendrils of various creeping plants, some with curi-
-ously spotted and marked leaves. There are no large palms
+isolated tendrils of various creeping plants, some with curiously spotted and marked leaves. There are no large palms
 in sight, but on the right there is a tangled thicket of small
 erect palms (Geonoma bacculifera) eight or nine feet high,
 with a smooth, many-jointed, light-coloured stem, familiar
@@ -5137,8 +4461,7 @@ slightly feathered leaves. Here and there there are also a
 few other palms (Bactris tricospatha), hardly taller, growing’
 singly, each with a very slender and straight prickly stem
 supporting a crown of a few delicately feathered leaves.
-There are but very few shrubs visible, or anything but the tree-
-trunks to impede the view at the level of the eye. Looking
+There are but very few shrubs visible, or anything but the treetrunks to impede the view at the level of the eye. Looking
 up the tree-trunks the eye travels far, past many clumps of
 epiphytal plants, past the forkings of the first branches,
 and yet higher up to the dark, impenetrable roof of leaves,
@@ -5152,13 +4475,9 @@ other small plants such as carpet temperate woods; here the
 H
 
 
-98 AMONG THE INDIANS OF GUIANA.
-
-
 ground in many places consists only of bare mud, or is
 covered only by a few dead leaves or fallen fruits and
-branches ; only in a very few and small patches is it car-
-peted by dense masses of seedling trees a foot or two high,
+branches ; only in a very few and small patches is it carpeted by dense masses of seedling trees a foot or two high,
 among which grow a few herbaceous ferns and club-mosses
 (Selagimella). On a heap of dead leaves grow one or two
 tiny parasitic gentians ( Voyria), the flowers of which are to
@@ -5174,8 +4493,7 @@ former chapter, be seen from the top of some steep-sided
 hill rising above the forest. Standing on such a place as
 that one looks on to a level sea of tree-tops, a mass of very
 various foliage most closely woven together by innumerable
-creepers. Both of the trees and the creepers, some indivi-
-duals may sometimes be seen made gorgeous with flowers, but
+creepers. Both of the trees and the creepers, some individuals may sometimes be seen made gorgeous with flowers, but
 these are better seen from the level ground in some opening
 in the forest. It is on these tree-tops, exposed to the full
 blaze of the sun, that many of the finest orchids grow ; but
@@ -5212,24 +4530,20 @@ places there are a few young palms, stemless as yet, their
 leaves rising straight from the mud. As far as one can see,
 looking between the trunks, the. scene is continued as it is
 in the foreground. A swamp filled by the troolie palm
-(Manicaria saccifera) is equally striking. In the north-
-western part of the colony, between the mouths of the
+(Manicaria saccifera) is equally striking. In the northwestern part of the colony, between the mouths of the
 Orinoco and Essequibo, large stretches of land are occupied
 almost exclusively by this palm, the immense leaves of
 which, uncut into leaflets, and sometimes from twenty to
 thirty feet long by five broad, meet overhead, and thus
-maintain a constant gloom and a damp and humid atmo-
-sphere round their stems, which is very favourable to the
+maintain a constant gloom and a damp and humid atmosphere round their stems, which is very favourable to the
 growth of small ferns. It is while standing in a troolie
 forest up to one’s knees in the level fluor of palm débris, and
 looking up at the almost monstrously gigantic leaves, that
 one most realises the effect of tropical vegetation.
 
-The most graceful of all the palms of Guiana, the mani-
-cole (Huterpe edulis), grows in masses at the sides of most
+The most graceful of all the palms of Guiana, the manicole (Huterpe edulis), grows in masses at the sides of most
 rivers ; but in places it also occupies whole swamps. These
-differ principally from the zeta swamps, in that the mani-
-cole grows, not singly but in groups, consisting of many
+differ principally from the zeta swamps, in that the manicole grows, not singly but in groups, consisting of many
 gracefully bent slender stems of very various heights, each
 raised on a common dense mass of exposed roots. These
 groups arise in this way. A single seed takes root and sends up
@@ -5241,9 +4555,6 @@ stems of various ages. And as the number of the stems in-
 H 2
 
 
-100 AMONG THE INDIANS OF GUIANA.
-
-
 creases, More and more supporting roots are sent out, and
 these in time get welded into a great mass, which gradually
 pushes up the crown, and lifts the stems far into the air.
@@ -5251,11 +4562,9 @@ Because of their most feathery foliage and the grouping of
 the slender stems, each clump of these palms is a thing of
 exquisite beauty; and the swamp in which many of these
 clumps stand as islands has none of the solemnity of the
-zeta or troolie swamp, but rather is full of light and cheer-
-fulness.
+zeta or troolie swamp, but rather is full of light and cheerfulness.
 
-A much rarer palm, which also sometimes grows in con-
-siderable quantity in swamps within the forest, though hardly
+A much rarer palm, which also sometimes grows in considerable quantity in swamps within the forest, though hardly
 ever entirely occupying such places, is the booba (Jriartea
 exorrhiza). It grows so often scattered singly in manicole
 swamps that one or two may well be inserted in any picture of
@@ -5277,8 +4586,7 @@ but spring directly from the ground, have a peculiar effect.
 
 Passing out of the forest into some open space, either a
 river-course or a glade, the edge of the forest as seen from
-here presents a very different aspect. — We will suppose our-
-selves to look at it from some river.
+here presents a very different aspect. — We will suppose ourselves to look at it from some river.
 
 The character of the river-side vegetation within reach of
 the tide differs somewhat from that which prevails in the
@@ -5307,8 +4615,7 @@ It is somewhat difficult to describe a piece of the bank
 along the higher parts of the river, for each stretch differs,
 yet differs but slightly, not so much in the plant-materials
 which compose it as in the way in which these materials are
-combined. In a typical stretch of river-bank three some-
-what different phases of vegetation are chiefly discernible :
+combined. In a typical stretch of river-bank three somewhat different phases of vegetation are chiefly discernible :
 one where the bank has not within any recent period either
 been increased or decreased by the action of the passing river ;
 another where it has been washed away; and the third where
@@ -5329,19 +4636,13 @@ slightest break in the almost perfectly faithful reflection in
 the water. No single plant is distinctly seen in the mass,
 and the general monotony is broken only by some isolated
 patch of colour. Yet, on the other hand, many individual
-
-
-102 AMONG THE INDIANS OF GUIANA.
-
-
 flowers and seeds attract the observant eye. In one place,
 for example, a number of large pods hang each at the end of
 a whip-like stem some two feet in length, and again, a very
 curious green flower, shaped like the spokes of a wheel, are
 sure to attract notice; but so confused is the mass that it is
 long before it is possible to determine that the former belong
-to a tree (E'perua falcata), the latter to a creeper (Marc-
-gravia umbellata). In short, the whole is one confused
+to a tree (E'perua falcata), the latter to a creeper (Marcgravia umbellata). In short, the whole is one confused
 rounded mass of innumerable plant-forms.
 
 Where the bank has been broken away, in place of
@@ -5360,16 +4661,14 @@ and creepers is broken by a magnificent palm, a cokerite
 (Maximiliana regia). This plant is a study in itself.
 The word palm generally calls up before the mind a hardly
 varied picture of a more or less tall, more or less straight
-trunk from the top of which a few leaves branch off some-
-what at right angles; as a matter of fact, though such a
+trunk from the top of which a few leaves branch off somewhat at right angles; as a matter of fact, though such a
 description does roughly apply to the generality of palms,
 yet differences, slight in themselves, in the nature of the
 trunk, and in the set of the leaves and leaflets, give to each
 genus and often to each species a very distinct uspect. For
 instance, this cokerite could never be mistaken from any
 ‘distance for any other palm occurring in Guiana. It grows
-singly, though occasionally there are a good many near to-
-gether. Sometimes, in old plants, the stem is clear and
+singly, though occasionally there are a good many near together. Sometimes, in old plants, the stem is clear and
 columnar for some little distance from the ground, but upward
 from this, or much more often’ from the ground itself, the
 
@@ -5382,8 +4681,7 @@ stem, and these adherent remnants of stalks are longer and
 longer higher up the tree till the present green leaves are
 reached, and these, set not at any acute angle to the stem
 below them, but at a very obtuse angle, rise high into the
-air till at the very top, they curve very gradually and grace-
-fully outward. The whole shape of the tree is, in fact, that
+air till at the very top, they curve very gradually and gracefully outward. The whole shape of the tree is, in fact, that
 of a cornucopia-shaped vase, which rises from a narrow base
 and curves outward. The leaves themselves are feathered,
 but the many long grassy leaflets are thickly set on the
@@ -5400,8 +4698,7 @@ bunches of yellow palm flowers and fruits.
 On the spit of new-forming land plants have already
 begun to grow, and the refuse from the first-coming plants is
 gradually building up soil for more enduring forms. Nearest
-the river, the spit is edged with a uniform belt of some par-
-ticular bush growing in the water, either guavas (Psidiwm
+the river, the spit is edged with a uniform belt of some particular bush growing in the water, either guavas (Psidiwm
 aquaticum and P. aromaticum), with white scented flowers
 and green-yellow, bitter-tasted fruits ; or mahoes (Hibiscus
 tiliaceus), with leaves like those of English lime-trees, and
@@ -5411,26 +4708,18 @@ branchlet of which white flowers, like downy feathers, nestle
 thickly. Over these bushes twine not a few creepers, their
 roots on land, some with bright-coloured flowers, such as
 purple-white Bignonias, Allamandas with huge yellow
-trumpet flowers, and a Combretum with scarlet bottle-
-brush flowers. Behind this outer hedge the spit is, for
+trumpet flowers, and a Combretum with scarlet bottlebrush flowers. Behind this outer hedge the spit is, for
 some distance back, covered by a tangled mass of dwarfer
 vegetation, apparently of shrubs, but so completely clothed
-
-
-104 AMONG THE INDIANS OF GUIANA.
-
-
 by convolvulus (Ipomea) and other creepers that it
 is impossible to discern their kind. From among these
 shrubs rise a few single trumpet-wood trees (Cecropia
 peltata), the straight or but slightly branched stems of
 which, each crowned with a rosette of large maple-shaped
 leaves, spring up to a great height in a few months, and
-then, by their equally rapid decay, help largely in the forma-
-tion of soil for more permanent trees. Accordingly, yet
+then, by their equally rapid decay, help largely in the formation of soil for more permanent trees. Accordingly, yet
 further back, but still on the spit, a few Long-Johns
-(Triplaris surimamensis) rise singly ; for these, less endur-
-ing than the true forest trees, but more so than the trumpet-
+(Triplaris surimamensis) rise singly ; for these, less enduring than the true forest trees, but more so than the trumpet-
 woods, grow on the soil deposited by the latter, and in their
 turn prepare the soil for more noble products. Lastly,
 where the original bank begins, the dense forest wall serves
@@ -5466,8 +4755,7 @@ SAVANNAH SCENERY. 105
 
 already been described. The shrubs are windblown, but
 many of them bear bright flowers. Commonest of all among
-the shrubs are hard-leaved, yellow-flowered species of Cura-
-tella. Here and there the highest ground is so thickly
+the shrubs are hard-leaved, yellow-flowered species of Curatella. Here and there the highest ground is so thickly
 covered by these shrubs that it looks almost well wooded.
 In parts the soil is somewhat exposed and stony; but even
 here there are numbers of a curious low-growing plant
@@ -5479,8 +4767,7 @@ red, blue, and yellow pea-flowers, and even a few ground
 orchids. One great stretch of ground is entirely covered
 with a cabbage-like plant, with great bunches of yellow
 flowers (Byrsonima). A second savannah picture shows
-more sandy ground, a coppice not far off forming a back-
-ground. On the loose sand there are many scattered tufts
+more sandy ground, a coppice not far off forming a background. On the loose sand there are many scattered tufts
 of coarse grass, and amongst these stand a few tall straggling
 plants (Jatropha wrens) with inconspicuous flowers and
 hemp-like leaves, which, when touched, sting more sharply
@@ -5505,24 +4792,17 @@ encircled by the forest, and with its rocks all reddened by
 these flowers, is very beautiful and noticeable.
 
 
-106 AMONG THE INDIANS OF GUIANA.
-
-
 CHAPTER V.
 ANIMAL LIFE.
 
 
 General Considerations—Mammals—Warracaba Tigers—The Colours of
-Birds— Bird-notes—Chief Forms of Birds—Scenes of Bird-Life—Rep-
-tiles—A lligators—Iguanas — Snakes—Turtles—Fish—The Dangers of
-Bathing — Insect Plagues — Butterflies —Beetles—Ants—Wasps— Mos-
-quitoes—Sandflies—The Mosquito Worm—Jiggers — Bush-Ticks —
+Birds— Bird-notes—Chief Forms of Birds—Scenes of Bird-Life—Reptiles—A lligators—Iguanas — Snakes—Turtles—Fish—The Dangers of
+Bathing — Insect Plagues — Butterflies —Beetles—Ants—Wasps— Mosquitoes—Sandflies—The Mosquito Worm—Jiggers — Bush-Ticks —
 Spiders—Centipedes—Scorpions.
 
 In a tropical country so varied as regards physical features
-
 as British Guiana, and so sparingly inhabited by man, it
-
 will naturally be supposed that animal life, both in its
 beautiful and its baneful forms, is very abundant. This is
 indeed the case; but yet animal life is not in any marked
@@ -5530,22 +4810,14 @@ degree prominent, nor, with the exception perhaps of insect
 ravages, is it in any way troublesome. It is not surprising
 that the ordinary colonist, who generally lives in the more
 inhabited parts of the coast land, should not see much
-wild animal life around him; but the traveller in the inte-
-
-rior, even if he is in search of wild beasts, cannot avoid a
-
+wild animal life around him; but the traveller in the interior, even if he is in search of wild beasts, cannot avoid a
 feeling of surprise that so few of these present themselves
-
-unsought to his notice, and that he has to search so dili-
-
-gently before he finds others. The untravelled man,
-
+unsought to his notice, and that he has to search so diligently before he finds others. The untravelled man,
 living in temperate climates, while he overcolours in his
 mind the picture of the brilliant birds, insects, and animals,
 thinks with horror, not only of the powerful savage animals—
 which are probably represented in his mind by beasts of prey
-and by gigantic or venomous serpents—but also of the thou-
-sand annoying insects and other such small cattle, which,
+and by gigantic or venomous serpents—but also of the thousand annoying insects and other such small cattle, which,
 as he imagines, everywhere lie in wait for the traveller, or
 even the dweller, in the tropics. If these imaginations were
 
@@ -5565,15 +4837,13 @@ of thought, he is apt to regard all that he afterwards hears
 of the abundance, the beauty, or the annoyance of animal
 life in the tropics as merely the proverbial traveller’s tale.
 And, unconsciously, travellers of greater experience help to —
-confirm this erroneous view; for when they tell their ex-
-periences to those at home, they tell only of moments made
+confirm this erroneous view; for when they tell their experiences to those at home, they tell only of moments made
 eventful to them by exciting or evil experiences, and leave
 unnoticed the long periods intermediate between such
 moments, in which nothing of any consequence occurred.
 For example, not long ago, I found at the end of an evening
 during which I had told adventures which had occurred to
-me, in the course of several years, with many sorts of harm-
-doing animals, from jaguars to mosquitoes, that the impres-
+me, in the course of several years, with many sorts of harmdoing animals, from jaguars to mosquitoes, that the impres-
 sion made on the minds of my hearers was that life in
 Guiana, at any rate in the interior, is one long unending
 conflict with such foes; and I had to correct this impression
@@ -5590,11 +4860,6 @@ are no travellers in their belief of the everywhere present
 beauty, and the incessant danger from animal life, in the
 tropics, and by leading those who have travelled a little,
 generally in the more inhabited parts, to regard these new
-
-
-108 AMONG THE INDIANS OF GUIANA.
-
-
 traveller’s tales, and in consequence all other traveller’s tales,
 as false, or at least as greatly exaggerated.
 
@@ -5605,8 +4870,7 @@ slight prominence and general harmlessness. And as in
 this respect Guiana may fairly enough be said to be typical,
 not only of other parts of South America, but also (due
 allowance being made for the fact that the animal forms of
-the American continent are as a rule smaller and less power-
-ful than those of the other continents) of other tropical
+the American continent are as a rule smaller and less powerful than those of the other continents) of other tropical
 regions, I should, if I could succeed in giving a correct
 impression of animal life as it affects man in Guiana, at the
 same time afford some idea of animal life in the tropics
@@ -5627,8 +4891,7 @@ also by the colonists; indeed the latter have a proverb that
 ‘the man who has eaten labba and drunk creek water will
 never die out of the colony.’ The labba lives during the
 day chiefly in hollow, fallen trees, and goes out to forage at
-night. The acourie, elsewhere called the aguti, is in appear-
-ance like a rabbit on long legs, and with coarse, chestnut-
+night. The acourie, elsewhere called the aguti, is in appearance like a rabbit on long legs, and with coarse, chestnut-
 coloured hair. It is as abundant everywhere as the labba,
 but lives more in the forest, only venturing to the water
 todrink. It feeds by day on fallen fruits. There is a second
@@ -5654,13 +4917,11 @@ their ways and knows how to find them, may go for many
 days without seeing a single individual of any kind.
 
 Bush-hogs, or peccaries, of two kinds wander about in the
-swampy parts of the forests. The smaller of these (Dico-
-tyles torquatus), is called abouyah, the larger (D. labiatus)
+swampy parts of the forests. The smaller of these (Dicotyles torquatus), is called abouyah, the larger (D. labiatus)
 kairooni! by the Arawaks. The former kind lives in parties
 of five and six: the latter in large herds often of a hundred
 head. Ina previous chapter? the habit of these animals of
-swimming across rivers has been mentioned. In the day-
-time they take to the water without hesitation ; but if in
+swimming across rivers has been mentioned. In the daytime they take to the water without hesitation ; but if in
 their travels they reach the edge of a river at night, the herd
 settles down, after much commotion and grunting, to wait
 for daylight before crossing. It is sometimes dangerous to
@@ -5683,13 +4944,7 @@ There are about a dozen species of monkeys, and some of
 
 
 1 This is the “ whinga’”’ of the Macusis. ? See p. 54,
-
-
-110 AMONG THE INDIANS OF GUIANA.
-
-
-these may frequently be seen. The pretty little bright-
-coloured sackawinki (Chrysothria sciwreus) lives in large
+these may frequently be seen. The pretty little brightcoloured sackawinki (Chrysothria sciwreus) lives in large
 herds which may often be seen on the trees by the river-side,
 the individuals generally following each other in single file,
 and, one after the other, hurling themselves for extraordinary
@@ -5704,8 +4959,7 @@ colony the baboon, and elsewhere the red howling monkey
 (Mycetes seniculus), but which might much more aptly be
 called the red roarer; for, though not bigger than a setter,
 it roars like any jaguar, tiger, or lion. Many travellers have
-tried, but failed, to describe the sound produced by this extra-
-ordinary animal; and I do not pretend to find the required
+tried, but failed, to describe the sound produced by this extraordinary animal; and I do not pretend to find the required
 words, though it seems to me that the sound is more like
 that which is heard when the beasts of prey in the Zoological
 Gardens are fed than anything else I ever heard. Why this
@@ -5721,15 +4975,12 @@ appearance, are all equally common. The largest of these
 the size of a large bloodhound, with an enormously bushy
 tail which, when reversed over the body, shelters the whole
 animal. This is sometimes found in the forest, but more
-commonly on the savannah. It is said to be capable of suc-
-cessfully defending itself against a man, by hugging him
+commonly on the savannah. It is said to be capable of successfully defending itself against a man, by hugging him
 with its fore-feet and pressing its powerful claws into his body.
 The second (M. tamanduu), the size of a spaniel, with
 
 
 JAGUARS. lll
-
-
 a smooth tail, is hardly ever seen except climbing on trees
 in the forest. And the third (M. didactyla), a very gentle -
 and pretty little creature, with a body no bigger than that
@@ -5744,8 +4995,7 @@ are included the puma, and several species of jaguar and
 ocelots. The Indians assert that each kind hunts a different
 prey. Thus, Felis jaguarundi is called a hacka-tiger,
 because it is supposed to prey chiefly, if not exclusively, on
-the hacka (Galictis barbara); the puma is called the deer-
-tiger; F. nigra is called the maipuri (tapir) tiger; and F.
+the hacka (Galictis barbara); the puma is called the deertiger; F. nigra is called the maipuri (tapir) tiger; and F.
 macrura is called the abouyah (or peccary) tiger. All these
 are more or less common in Guiana, though they are seldom
 seen by man. It is hardly possible to find an Indian house
@@ -5769,11 +5019,6 @@ Some special mention must be made of certain real or
 mythical animals called warracaba tigers—as some say, from
 the resemblance of the noise made by these cats to the note
 of the warracaba bird or trumpeter (Psophia crepitans) ; or,
-
-
-112 AMONG THE INDIANS OF GUIANA.
-
-
 as others say, from the purplish shade on the skin of these
 tigers, which is like the breast feathers of the bird ; or, as yet
 others say, from the fact that the tigers prey on the birds.
@@ -5781,8 +5026,7 @@ Never having had any personal experience of warracaba tigers,
 I cannot present the common belief in them more graphically
 than by giving the following extract from the writings of a
 previous traveller in Guiana.! ‘In the evening,’ he writes,
-‘I was attracted by our two dogs, which were tied up, bark-
-ing furiously, followed by a great stir in camp. Then some
+‘I was attracted by our two dogs, which were tied up, barking furiously, followed by a great stir in camp. Then some
 voices proclaimed loudly “ The tigers are coming;” and one
 man called to me to come down as quickly as possible to the
 boats, and bring my gun. . . . Jumping down the low bank,
@@ -5831,12 +5075,10 @@ I was naturally anxious to learn something of these cats
 hunting in packs; but I never myself met with them, and
 only found three men who professed to know anything about
 them. One of these three witnesses was my friend McTurk,
-a man thoroughly acquainted with the forest and its inhabit-
-ants, and incapable of telling what he did not believe. He
+a man thoroughly acquainted with the forest and its inhabitants, and incapable of telling what he did not believe. He
 told me that, while walking through the forest from the
 Essequibo to the Kaieteur fall, his Indian companions
-suddenly became terrified and declared that there were warra-
-cabas in the neighbourhood. Sounds were audible which
+suddenly became terrified and declared that there were warracabas in the neighbourhood. Sounds were audible which
 McTurk thought were those of the warracaba bird. Shortly
 afterward, a single ‘ tiger,’ a slim mouse-coloured beast, was
 seen; but nothing else happened. The same informant told
@@ -5855,13 +5097,7 @@ further account was evidently much exaggerated.
 I have put before the reader all the evidence I know as
 to the existence and nature of warracaba tigers. I cannot
 pretend to decide what these animals are, or even if they
-
 q
-
-
-114 AMONG THE INDIANS OF GUIANA.
-
-
 exist; but I may suggest that possibly all the stories may
 be founded on the fact that families of pumas (F. concolor),
 consisting of parents and cubs, occasionally move about
@@ -5876,12 +5112,10 @@ is hardly to be found at all, while in others it occurs s0
 abundantly that one party of Indians sometimes kills as
 many a8 a dozen individuals in a day.
 
-The more important of the other animals may be men-
-tioned in a few words. Two kinds of racoons, called quashi
+The more important of the other animals may be mentioned in a few words. Two kinds of racoons, called quashi
 by the negroes, kibihee by the Indians—the one living singly
 or in pairs (Nasua solitaris), the other in small droves
-(N. socialis)—are more often seen tame in Indian settle-
-ments than wild. Armadilloes of many kinds burrow in the
+(N. socialis)—are more often seen tame in Indian settlements than wild. Armadilloes of many kinds burrow in the
 forest and under the ant-hills on the savannah. Sloths are
 occasionally, and in some parts frequently, found clinging so
 tenaciously to the leafy branches that they often remain
@@ -5889,13 +5123,10 @@ motionless while the trees on which they are are felled.
 Several kinds of opossum (Didelphys), the only pouched
 animals of Guiana, live, the larger species on palm-trees, the
 smaller chiefly among bamboos. A grey squirrel (Sciurus
-cestuans) runs like its English cousin among the trees. Oc-
-casionally a most offensive odour attracts attention to where
-a porcupine (Sphingurus insidiosus), despite the ground-
-keeping habits of most of its kindred, climbs among the
+cestuans) runs like its English cousin among the trees. Occasionally a most offensive odour attracts attention to where
+a porcupine (Sphingurus insidiosus), despite the groundkeeping habits of most of its kindred, climbs among the
 branches. It is hardly possible to pass for many hours along
-any of the rivers without seeing small parties of otters swim-
-ming, while from the bank the hideous shriek of others may
+any of the rivers without seeing small parties of otters swimming, while from the bank the hideous shriek of others may
 occasionally be heard. Porpoises (Delphinus) plunge in the
 waters of rivers which are not separated from the sea by large
 and rapid falls; and in the same places a huge lumbering
@@ -5912,22 +5143,19 @@ plants.
 After all, we have left to the last the set of mammals
 which is perhaps most prominent and most widely distributed.
 These are the bats. There is certainly a considerable number
-of species; and, as these have never been accurately de-
-termined, an interesting field for observation is thus offered
+of species; and, as these have never been accurately determined, an interesting field for observation is thus offered
 to some future zoological specialist. It is here only possible
 to tell of bats as they appear to the ordinary spectator. Most
 prominent of all is a huge fruit-eating bat, with wings which
 occasionally measure three feet from tip to tip, and this,
 from its supposed blood-sucking propensities, is erroneously
 called the vampire. It is—bats generally, deservedly or not,
-having acquired a reputation for repulsiveness—an ugly ani-
-mal, but innocent enough. Its strength must be great; for
+having acquired a reputation for repulsiveness—an ugly animal, but innocent enough. Its strength must be great; for
 in certain houses in Georgetown about which these bats live,
 every night during the mango season these large and heavy
 fruits fall in considerable numbers, and with a loud noise, on
 to the slates of the roof, being dropped, as I found, by so-called
-vampires as they flew. The real blood-sucking bats, or vam-
-pires, are small, light-coloured animals, of probably several
+vampires as they flew. The real blood-sucking bats, or vampires, are small, light-coloured animals, of probably several
 species, of the genus Phyllostoma ; and they occur not in
 towns, but in large numbers almost everywhere else. Their
 habit of sucking the blood of men has already been mentioned
@@ -5938,17 +5166,10 @@ in some carefully closed building. Another very noticeable bat
 is a smal] dark-coloured kind which lives during the day in
 large flocks on the trunks of trees overhanging the rivers.
 If a boat approaches, the whole flock rises and flits along
-under the shadow of the overhanging trees until another con-
-
-venient stump or trunk is reached, and there it once more
+under the shadow of the overhanging trees until another convenient stump or trunk is reached, and there it once more
 settles. These animals are so abundant on most rivers that
-they form one of the most characteristic features of water-
-side life.
+they form one of the most characteristic features of waterside life.
 ? See p. 17.
-12
-
-
-116 AMONG THE INDIANS OF GUIANA,
 
 
 Probably no country of equal extent is richer than Guiana
@@ -5963,14 +5184,12 @@ seldom exported.
 
 Moreover, the traveller in Guiana sees in nature very little
 even of that brilliancy of colour which undoubtedly exists.
-Nothing can be more resplendent than the male cock-of-
-the-rock (Rupicola crocea), a bird about the size of a small
+Nothing can be more resplendent than the male cock-ofthe-rock (Rupicola crocea), a bird about the size of a small
 bantam, which is everywhere clothed, except at the end of
 the tail, and on the larger wing feathers, in ruddy orange, so
 brilliant, while the bird is alive and in health, that it has a
 glow like that of fire. Then there is the bird (Threnedus
-militaris), called in the colony ‘ baboon-bird,’ from the re-
-semblance of its deep note to that of the ‘ baboon’ or red
+militaris), called in the colony ‘ baboon-bird,’ from the resemblance of its deep note to that of the ‘ baboon’ or red
 howling monkey, which is of the size of a pigeon and is almost
 entirely of a very rich deep crimson. Among the chatterers,
 the fire-bird (Phaenicocircus carnifex) has a rich deep brown
@@ -5984,8 +5203,7 @@ The curri-curri or scarlet ibis (Jd1s rubra) is too well known
 to need description. Then there are parrots and parroquets
 of very many kinds, and of almost as many brilliant colours;
 and there are macaws entirely dyed with red, orange, and
-green, blue, and soft yellow. Lastly, there are humming-
-birds of very many species, whose colours are proverbial. All
+green, blue, and soft yellow. Lastly, there are hummingbirds of very many species, whose colours are proverbial. All
 these, and a few others which there is no need to mention,
 could not possibly be surpassed in richness of colour. Yet,
 when in a state of nature, they show but little. It is true
@@ -6006,8 +5224,7 @@ high up that their colours are not distinguishable from the
 ground; and. when macaws fly over, or shriek from the top
 of some dead tree, it would generally be difficult, but for the
 difference in their harsh notes, to discern even whether they
-are of the red or of the blue species. One of the few mis-
-leading passages I know in Waterton’s writings is that in
+are of the red or of the blue species. One of the few misleading passages I know in Waterton’s writings is that in
 which he says that ‘it is a grand sight in ornithology to see
 thousands of aras (macaws) flying over your head low enough
 to let you have a full view of their flaming mantle.’ It must
@@ -6028,23 +5245,15 @@ hand, it is impossible to see at one glance more than a
 smal] portion of the beauty of its colour, and generally,
 though in some positions the whole bird looks dull, yet if it
 be slightly moved some point on its body flashes out with
-colour more brilliant than fire. This matter is well illus-
-trated by Mr. Gould’s beautiful book of humming birds.
+colour more brilliant than fire. This matter is well illustrated by Mr. Gould’s beautiful book of humming birds.
 For example, to take a Guianu species, the picture of the
 ‘king humming-bird’ (Topaza pella) is exquisite, and is
-
-
-118 AMONG THE INDIANS OF GUIANA.
-
-
 faithful in so far that each detail of colouring is correctly
-given; but the drawing serves as a signal example of the diffi-
-culty of representing a humming-bird. Hardly more than
+given; but the drawing serves as a signal example of the difficulty of representing a humming-bird. Hardly more than
 one of the points of colour is in reality ever visible in any
 one humming-bird at one and the same time, for each point
 only shows its peculiar and glittering colour when the light
-falls upon it from a particular direction. A true represen-
-tation of one of these birds would show it in somewhat
+falls upon it from a particular direction. A true representation of one of these birds would show it in somewhat
 sober colours except just at the one point which, when the
 bird is in the position chosen for representation, meets the
 light at the requisite angle; and that point alone should
@@ -6052,8 +5261,7 @@ be shown in full brilliance of colour. A flowering shrub
 is sometimes seen surrounded by a cloud of humming-birds,
 all of the same species, and each, of course, in a different
 position. If some one would draw such a scene as that,
-showing a different detail of colouring in each bird, accord-
-ing to its position, then some idea of the actual appearance
+showing a different detail of colouring in each bird, according to its position, then some idea of the actual appearance
 of humming-birds might be given to one who had never
 seen an example. And if so small a portion of the colouring,
 however intense such a portion may be, is visible in a
@@ -6072,8 +5280,7 @@ steel-blue backs and yellow breasts, which chirp out a few
 feeble notes sweetly enough, and the shik bird.
 
 But if sweet notes are few, striking notes are abundant.
-Most characteristic of all is the pi-piyo (Iipangus cime-
-raceus), a bird, somewhat like a song-thrush, which, crying
+Most characteristic of all is the pi-piyo (Iipangus cimeraceus), a bird, somewhat like a song-thrush, which, crying
 its own name all through the day, makes the sound echo and
 re-echo through the forest. The toucans also, in the early
 
@@ -6082,8 +5289,7 @@ BIRD-NOTES. 119
 
 
 morning and in the evening, yelp, like excited puppies, from
-the high trees. The famous so-called bell-bird (Chasma-
-rhynchus carunculatus) is often heard in the forest, and a
+the high trees. The famous so-called bell-bird (Chasmarhynchus carunculatus) is often heard in the forest, and a
 second species (C. variegatus) as often on some parts
 of the savannah. I never could detect much resemblance
 in the note of these birds to the sound of a bell. The cry
@@ -6091,13 +5297,10 @@ of the first species is more like the ring produced by two
 pieces of iron struck against each other; but the notes of
 the male and female birds differ considerably. The cry of the
 second species is like the sound made by the drill in blasting
-operations. Then, also in the forest, is heard an extra-
-ordinarily deep sound, like the lowing of an ox, and it is long
+operations. Then, also in the forest, is heard an extraordinarily deep sound, like the lowing of an ox, and it is long
 before the traveller realises the fact that this is made by the
-‘ quow,’ or ‘ calf-bird’ (Gymnocephalus calvus), a bird no big-
-ger than a pigeon. Each of many kinds of parrots shrieks a
-different, but always discordant cry; and the cries of diffe-
-rent species of hawks are almost equally discordant and yet
+‘ quow,’ or ‘ calf-bird’ (Gymnocephalus calvus), a bird no bigger than a pigeon. Each of many kinds of parrots shrieks a
+different, but always discordant cry; and the cries of different species of hawks are almost equally discordant and yet
 more striking. In another chapter I have already spoken of
 the strange, weird notes in which various kind of goatsuckers
 moan at night. How striking and peculiar the cries of all
@@ -6119,17 +5322,10 @@ by many woodpeckers, by toucans, and by parrots, macaws,
 and parroquets. Among the game birds the most important
 are the powis or curassow bird (Craz alector), about the size
 of a turkey, black everywhere but on its bright yellow beak
-
-
-120 AMONG THE INDIANS OF GUIANA.
-
-
-and legs; several species of partridge-like maams (Tina-
-mus), and the duraquara (Odontophorus guianensis), and
+and legs; several species of partridge-like maams (Tinamus), and the duraquara (Odontophorus guianensis), and
 a quail (Ortya cristatus). There are various pigeons.
 Among the waders there are many species of heron, ibis,
-snipe, and rail. And lastly the swimmers are chiefly repre-
-sented by ducks, razor-bills, terns, the ducklar or diver
+snipe, and rail. And lastly the swimmers are chiefly represented by ducks, razor-bills, terns, the ducklar or diver
 (Plotus anhinga), and by a gull or two.
 
 Probably the best way to give an idea of the distribution
@@ -6137,10 +5333,8 @@ and habits of these birds will be by grouping them according
 to their haunts. We will take these in the order in which
 they occur from the sea inland. Sea-birds are not numerous,
 prohably because of the flatness of the coast and absence of
-rocks. Only once have I noticed a scene in which sea-
-birds played an important part. This was just off the mouth
-of the Pomeroon river. The land there very recently ex-
-tended much further seaward, but it has been much washed
+rocks. Only once have I noticed a scene in which seabirds played an important part. This was just off the mouth
+of the Pomeroon river. The land there very recently extended much further seaward, but it has been much washed
 away, and there is now a wide stretch of shallow water, from
 which in many places the dead trunks and branches of
 forest trees yet rise. It is a strangely desolate scene of sea
@@ -6174,8 +5368,7 @@ in darting after its insect prey, regardless of the presence of
 man. Another bird which is here to be soon noticed is the
 redbreasted Leistes americana—the ‘ robin’ of the colonists.
 Handsome yellow and black starling-like plantain birds
-(Icterus canthornus) are also abundant. And on the way-
-side bushes, or sitting on the backs of cattle, there are sure
+(Icterus canthornus) are also abundant. And on the wayside bushes, or sitting on the backs of cattle, there are sure
 to be some ‘old witches’ (Crotaphagus ani and major),
 like small black magpies, but with curiously enlarged, keeled
 beaks ; these birds are remarkable as socialists, for they not
@@ -6186,8 +5379,7 @@ up in the sky a few black vultures or ‘carrion crows’
 observer goes from roads and houses to some refuse heap or
 foul mud-patch, he is sure to see some of these same birds
 solemnly fishing in the filth for their food. In the gardens
-there are now few birds to be seen—a humming-bird, gene-
-rally of a somewhat dull green species (Trochilus bicolor),
+there are now few birds to be seen—a humming-bird, generally of a somewhat dull green species (Trochilus bicolor),
 perhaps hovers over a flowering shrub or creeper, and a
 few blue sakis flit about in the trees. On the water-weeds
 in the trenches, where these are not quite close to houses,
@@ -6200,8 +5392,7 @@ plantations, but those which we have named are the most
 prominent and constant in the latter places.
 
 Leaving the coast and going up any one of the rivers,
-birds at once become more numerous. Here the most uni-
-versally distributed and abundant birds are kingfishers of
+birds at once become more numerous. Here the most universally distributed and abundant birds are kingfishers of
 five species, varying in size from that of a jackdaw (Alcedo
 torquata) to that of a sparrow (A. superciliosa). As the
 traveller advances in his canoe, one of these birds starts at
@@ -6216,8 +5407,7 @@ that not one of these kingfishers is nearly as brilliant in
 colour as their English cousin. Probably the next bird to
 attract attention is a ducklar (Plotus anhinga). Thisis the
 creole name; but the bird is more usually known in England
-as a darter, or snake-bird—the former because of its extra-
-ordinarily direct method of diving after fish, the latter be-
+as a darter, or snake-bird—the former because of its extraordinarily direct method of diving after fish, the latter be-
 cause of the great length of its snake-like neck as compared
 with the length of its body. Generally less abundant than
 kingfishers, at least one ducklar is yet almost sure to be
@@ -6242,8 +5432,7 @@ the moramoroota (which, by the way, is the Carib name) and
 tame them frequently. Herons of various kinds are also
 seen; especially one (Ardea cocoz) very like the English heron,
 and a smaller bird like a bittern (Tigrosoma brasiliense),
-called from its brown spotted colouring the ‘ tiger-bird.’ Occa-
-sionally a flock of warracabas or trumpet-birds (Psophia crepi-
+called from its brown spotted colouring the ‘ tiger-bird.’ Occasionally a flock of warracabas or trumpet-birds (Psophia crepi-
 tans) comes flying by, and the birds, alighting, at once begin
 to run about as if very busy, uttering the oddly deep and
 sonorous note which has gained for these birds their popular
@@ -6256,14 +5445,11 @@ RIVER-SIDE BIRNS. 123
 
 eolour; their softly shaded grey plumes, long, and hanging
 more gracefully than those of an old male heron, contrast
-most exquisitely with the metallic-looking, deep purple-
-black feathers of the throat and neck. And of much the
-same habit as the trumpet-birds, but more rare, is the sun-
-bird (Kurypyga helias\, with small but graceful body, sup-
+most exquisitely with the metallic-looking, deep purpleblack feathers of the throat and neck. And of much the
+same habit as the trumpet-birds, but more rare, is the sunbird (Kurypyga helias\, with small but graceful body, sup-
 ported by splendidly large wings and tail, the feathers of
 which are minutely banded with brown and black and
-white and purple, so that, sober as the colours are in them-
-selves, the whole effect is resplendent. In the morning and
+white and purple, so that, sober as the colours are in themselves, the whole effect is resplendent. In the morning and
 evening parrots and macaws fly high overhead, in parties
 of two or three. Lastly, on the top of some high tree, a
 hawk, one of many species, is often to be seen watching
@@ -6271,8 +5457,7 @@ for prey. Asa rule the traveller on any of the main rivers
 of Guiana will see these and but few other birds along the
 banks.
 
-But the very extensive sand-banks which lie in mid-
-stream in some of the broader river-reaches have a peculiar
+But the very extensive sand-banks which lie in midstream in some of the broader river-reaches have a peculiar
 avi-fauna of their own. Some, of these banks are so low
 that they are entirely covered when the rivers are in flood ;
 but on others there are higher parts, generally with a few
@@ -6294,9 +5479,6 @@ many yards without coming across the nest, or rather the
 eggs, of one or other of these birds.
 
 
-124 AMONG THE INDIANS OF GUIANA.
-
-
 But if the traveller turns from the main river into any
 of the small, little-visited creeks, he will see other birds ;
 indeed, it is often in such places that the prettiest scenes of
@@ -6315,8 +5497,7 @@ as regards Guiana, to the Corentyn, and a kingfisher or two
 which were fishing in the pool, lightened the picture.
 
 And it is in such places that humming-birds are chiefly
-seen. On the open river or on the savannah they are some-
-times to be seen buzzing round a flowering tree, and in the
+seen. On the open river or on the savannah they are sometimes to be seen buzzing round a flowering tree, and in the
 depths of the forest they occasionally fly past the wanderer
 with startling rapidity. But it isin the openings formed by
 the creeks that they are chiefly at home, for there numbers
@@ -6331,8 +5512,7 @@ of a gun aimed at it. The nest: of this species is, I think,
 always suspended to the stem of a creeper overhanging the
 water. The material, like a thick felt formed of a yellow,
 tinder-like substance, long puzzled me, till I recognised it as
-the fluff which clothes the young flower-spathes of an abun-
-dant species of palm (Mazximiliana regia). The eggs, two
+the fluff which clothes the young flower-spathes of an abundant species of palm (Mazximiliana regia). The eggs, two
 in number, are white, but pink-tinted by the contents.
 The young birds very soon grow ridiculously large for the nest,
 
@@ -6360,8 +5540,7 @@ humming-bird, which at such times seems a very sprite in
 the rapidity of its movements and in the power which it
 thus has of making its presence invisible to the eye. Before
 long the tapping of some woodpecker is sure to attract the
-eye to a more evident bird. And then the cry of some game-
-bird, powis, maam, or maroodi, sounds, and perhaps—though
+eye to a more evident bird. And then the cry of some gamebird, powis, maam, or maroodi, sounds, and perhaps—though
 this does not often happen—the bird itself afterwards comes
 into sight. That these latter birds are-really abundant is
 evident from the number which an Indian, if a good hunter,
@@ -6377,16 +5556,9 @@ really most beautiful kind, love to congregate. The two
 former kinds (Catharista awra and C. urubitinga) are in
 general colouring black, the bald head being in one case of an
 unwholesome red colour, and in the other black; both these
-birds are of very ignoble appearance. But the king vul-
-ture (Sarcoramphus papa) is a larger and more powerfully
-
-
-126 AMONG THE INDIANS OF GUIANA.
-
-
+birds are of very ignoble appearance. But the king vulture (Sarcoramphus papa) is a larger and more powerfully
 built bird; its body feathers are of beautifully blended
-shades of white, grey, and black; round its neck is a splen-
-did ruff of softest grey feathers, and the naked head, instead
+shades of white, grey, and black; round its neck is a splendid ruff of softest grey feathers, and the naked head, instead
 of being repulsive asin the other species, is beautiful and
 gay with blended yellow and red colours. The ugly
 birds are much more numerous than the beautiful. With
@@ -6404,8 +5576,7 @@ little further off the trees were only scorched, and beyond
 that again was the dense, living forest. Not a sound was
 yet heard. As the sun rose the little weird field of white in
 which I sat literally glowed with light and heat. Presently,
-almost at my feet, something moved, and then a black vul-
-ture rose slowly from the ground, leaving two eggs exposed,
+almost at my feet, something moved, and then a black vulture rose slowly from the ground, leaving two eggs exposed,
 and flew to one of the dead standing trees. While I watched
 this bird there was a slight sound behind me, and, turning, I
 saw another vulture standing on another burned tree on the
@@ -6417,8 +5588,7 @@ every moment a new vulture woke and attracted my attention
 by stretching its wings to dry them in the morning sun, in
 which position it remained awhile motionless. The only sound
 was the slight rustle caused by this wing-stretching. At last
-I found myself the centre of a circle of thirty-seven vul-
-tures, each with outstretched wings, standing motionless on
+I found myself the centre of a circle of thirty-seven vultures, each with outstretched wings, standing motionless on
 a gaunt, fire-blackened, sun-whitened tree, and all gazing
 curiously at me. At last, to break the spell, I fired into the
 
@@ -6427,12 +5597,10 @@ VULTURES. 127
 
 
 air, and the birds rose and began their day’s task of soaring
-high up in the air. I found that this was a favourite roost-
-ing-place. Every evening the birds collected near the place,
+high up in the air. I found that this was a favourite roosting-place. Every evening the birds collected near the place,
 and for some time, instead of flying high and steadily as
 they do through the day, rushed frantically about overhead,
-frequently turning, and at each turn making an extraor-
-dinary noise by clapping their wings, like the sound of a
+frequently turning, and at each turn making an extraordinary noise by clapping their wings, like the sound of a
 heavy sheet flapping in the wind. A negro who stood by
 me as I watched this performance once remarked that they
 came down like a whirlwind. Just before dark they settled
@@ -6460,31 +5628,22 @@ One other bird of the forest region demands notice. This is
 the brilliant-coloured ‘ cock-of-the-rock’ (Rupicola crocea),
 which has already been mentioned. It never occurs in the
 lowland forests, but is abundant in all places where trees and
-rocks are mingled. Thus its home is both in the moun-
-tainous parts of the forest region, as on the Potaro and
+rocks are mingled. Thus its home is both in the mountainous parts of the forest region, as on the Potaro and
 Mazeruni rivers—and in the wooded mountains, such as the
 Pacaraimas and Canakoos, of the savannah region. It is very
-remarkable, not only for its brilliant colour and for its extra-
-ordinary crest, but also for its habit of dancing. It was
-
-
-128 AMONG THE INDIANS OF GUIANA.
-
-
+remarkable, not only for its brilliant colour and for its extraordinary crest, but also for its habit of dancing. It was
 never my fortune to find the dancing-place of these birds ;
 but the brothers Schomburgk were more fortunate, and one
 of the latter—Richard—thus describes the scene: ‘ A number
 of these splendid birds were taking part in their dance on a
 smooth slab of rock,. ... some twenty birds, male and
 female, being perched on the bushes round the place, and
-uttering very peculiar cries, a cock-bird danced in proud self-
-consciousness on the ground—its tail, which it jerked up
+uttering very peculiar cries, a cock-bird danced in proud selfconsciousness on the ground—its tail, which it jerked up
 and down, and its wings extended ; the dancer scratched
 the ground and sprang vertically up into the air till,
 wearied with its steps, it took its place, with a peculiar
 cry, among the bystanders on the bushes; then a new
-performer appeared.’!' By the way, Schomburgk is mis-
-taken in supposing that the cock-of-the-rock always avoids
+performer appeared.’!' By the way, Schomburgk is mistaken in supposing that the cock-of-the-rock always avoids
 the neighbourhood of other birds; for on the Potaro and
 Mazeruni it lives among many others. High up on the
 savannah mountains, where Schomburgk saw it, it is alone
@@ -6501,8 +5660,7 @@ narrow band of forest which generally edges the rivers,
 bird life is somewhat different. On the open grass lands a
 number of small insectivorous birds flit, much after the
 manner of larks, from tuft to tuft. Tiny ground-pigeons are
-numerous; and occasionally a covey of quail (Ortyx cris-
-tatus, Gray) is flushed. A beautiful lapwing ( Vamnellus
+numerous; and occasionally a covey of quail (Ortyx cristatus, Gray) is flushed. A beautiful lapwing ( Vamnellus
 guiamensis), not unlike the English bird, but mainly gray
 instead of green, and with curious horny spurs on its elbows,
 is not rare. Among the low solitary trees the ‘ savannah
@@ -6532,8 +5690,7 @@ its bald black head (Mycteria americana), builds its nest.
 Probably the reader will find some difficulty in realising
 the certain fact that even the reptiles are, under ordinary
 circumstances, not dangerous, and are rarely ever annoying
-to man. For instance, it isa matter of common and sted-
-fast belief that snakes must be troublesome in the tropics ;
+to man. For instance, it isa matter of common and stedfast belief that snakes must be troublesome in the tropics ;
 but as a matter of fact, though snakes are without doubt
 numerous in Guiana, they are very seldom seen, and even
 when seen are exceedingly seldom harmful to human beings,
@@ -6559,27 +5716,19 @@ lizards, snakes, and turtles.
 K
 
 
-130 AMONG THE INDIANS OF GUIANA.
-
-
-In the coast region alligators are very numerous wher-
-ever there is mud and water. They are often to be
+In the coast region alligators are very numerous wherever there is mud and water. They are often to be
 seen in the trenches of estates; and in one case, not long
-ago, one was found even in the streets of Georgetown. Be-
-cause the larger they grow the more noticeable they are,
-only those of small size generally escape detection and sur-
-vive in the inhabited districts; but in remote mud swamps
+ago, one was found even in the streets of Georgetown. Because the larger they grow the more noticeable they are,
+only those of small size generally escape detection and survive in the inhabited districts; but in remote mud swamps
 they grow much larger. The largest that came under my
 notice measured twenty feet from snout to tail. They are
 rarely harmful to man, though one occasionally hears stories
 of how an arm or a leg has been snapped off by one of these
 reptiles.
 
-In the interior alligators as well as caymans are nume-
-rous on some of the rivers. Elsewhere I have described
+In the interior alligators as well as caymans are numerous on some of the rivers. Elsewhere I have described
 the nest of one of the latter kind, as well as their curious
-habit of floating on the surface of the water and occa-
-sionally raising their tails to bring them down smartly
+habit of floating on the surface of the water and occasionally raising their tails to bring them down smartly
 on to the water. It has been said that the object of this
 latter trick is to attract fish, but this probably wants further
 confirmation. Generally when lying, basking, on the surface
@@ -6595,8 +5744,7 @@ from the injured spot and, with the original tail, forms a
 fork. Knowing this, I was yet surprised one day by the sight
 of an alligator of considerable size with a double tail. This
 animal was on a sandbank in the Corentyn river, but it
-made its escape into the water when we attempted to ap-
-proach it.
+made its escape into the water when we attempted to approach it.
 
 Of all lizards far the most prominent in Guiana is the
 iguana (Iguana tuberculata). This is a large tree-dwelling,
@@ -6606,8 +5754,7 @@ herbivorous lizard, often four or four and a-half feet in
 LIZARDS, 131
 
 
-length, of a beautiful brilliant green when young, but after-
-wards of a dull ugly grey-green, made hideous, especially
+length, of a beautiful brilliant green when young, but afterwards of a dull ugly grey-green, made hideous, especially
 in the case of the male, by a curiously jagged raised ridge
 along its back, and by an enormous dewlap. They live about
 the banks of rivers. The flesh of these lizards being like, but
@@ -6615,13 +5762,10 @@ the banks of rivers. The flesh of these lizards being like, but
 Indians, but also by Europeans, and the animals are therefore
 much sought after. In the more peopled districts iguanas are
 now scarce, but along the rivers of the interior, and especially
-on the Corentyn, long stretches of which are entirely unin-
-habited even by Indians, they are abundant.
+on the Corentyn, long stretches of which are entirely uninhabited even by Indians, they are abundant.
 
-But it was on the Cabalebo, which is entirely unin-
-habited, that I saw most of these animals. One or more
-was lying on the upper branches of many of the creeper-
-tangled bushes and low trees overhanging the water.
+But it was on the Cabalebo, which is entirely uninhabited, that I saw most of these animals. One or more
+was lying on the upper branches of many of the creepertangled bushes and low trees overhanging the water.
 Often the first notice of the presence of these was
 the loud splash which they made when, as we came up,
 they threw themselves headlong from the top of the trees
@@ -6652,9 +5796,6 @@ about forty eggs from out of the female lizard when just about to lay.
 K 2
 
 
-132 AMONG THE INDIANS OF GUIANA.
-
-
 banks are uncovered. Then they either go to the banks at
 the side of the river or swim—they are capital swimmers—
 to those in mid-stream. They dig a tunnel, only just wide
@@ -6670,8 +5811,7 @@ should lead them to find their way up through the great
 mass of overlying sand is wonderful.
 
 The Indians find the nests by following the tracks made .
-by the parent on the sand, and by noting the very slight dis-
-turbance of the sand which exists at the mouth of the hole.
+by the parent on the sand, and by noting the very slight disturbance of the sand which exists at the mouth of the hole.
 They then push a pointed stick into the sand ‘in various
 directions, and where the sand is soft and yielding they
 know that the tunnel of the iguana must have been. With
@@ -6700,8 +5840,7 @@ SNAKES. 133
 
 
 those of the iguana. But it is more probable that the
-jaguars, knowing that these lizards are frequenting the sand-
-banks, prowl about during the breeding to catch the old
+jaguars, knowing that these lizards are frequenting the sandbanks, prowl about during the breeding to catch the old
 lizards than that they dig for the eggs.
 
 Other enemies that the iguana has to fear, especially at
@@ -6718,10 +5857,8 @@ universally distributed throughout all the regions.
 Of the real abundance, but retiring habits of snakes, I
 have already spoken. The most dreaded of the common
 kinds are the two species of boa, called respectively the
-land-camoodi-(B, constricta), and the water-camoodi or cul-
-nacanaro (Eunectes murina), the labarria (Trigonocephalus
-atror), and the rattlesnake (Crotalus horridus). The last-
-mentioned kind is seen, if at all, on the dry savannahs; the
+land-camoodi-(B, constricta), and the water-camoodi or culnacanaro (Eunectes murina), the labarria (Trigonocephalus
+atror), and the rattlesnake (Crotalus horridus). The lastmentioned kind is seen, if at all, on the dry savannahs; the
 others occur equally commonly in suitable localities in all
 regions.
 
@@ -6739,18 +5876,11 @@ by forest, was somewhat particular about having his morning
 coffee brought to him just at dawn. His cook, when she
 went in the dark into the shed which served as a kitchen,
 waa in the habit of striking the match to light the fire on
-a particular corner post; but one morning she was sur-
-
-
-134 AMONG THE INDIANS OF GUIANA.
-
-
-prised to find that one match after another broke instead of
+a particular corner post; but one morning she was surprised to find that one match after another broke instead of
 catching fire. At last she struck a light in a new place,
 and having done so, she found to her great horror that a
 thirty feet long camoodi was coiled round the corner post,
-and on this she had been rubbing her matches. Young ca-
-moodies of small size are not unfrequently found in houses
+and on this she had been rubbing her matches. Young camoodies of small size are not unfrequently found in houses
 near the forest, and when in that stage they are much more
 beautifully coloured than when adult. They frequent the
 neighbourhood of water and often swim, for which reason
@@ -6758,8 +5888,7 @@ they are much dreaded by Indian bathers. The Chinese, I
 believe alone of the various inhabitants of the colony, eat
 and relish the flesh of these snakes. It was probably a
 water-camoodi that first taught me that snakes snore. Once,
-as I was wandering according to my habit from my ham-
-mock in the middle of the night to smoke a pipe in the
+as I was wandering according to my habit from my hammock in the middle of the night to smoke a pipe in the
 surrounding forest, my companion, who had just retired to
 his own hammock, called to me to beware of a particular
 tree, for he had heard a snake snore there. Curiosity, of
@@ -6828,25 +5957,16 @@ The two commonest species are the cashapan of the Indian
 length of four and a half feet, and a smaller species, probably
 identical- with the Emys tracaja of Martius. Both these
 species are so numerous that I have sometimes seen large
-canoes heavily loaded with their eggs, in about equal pro-
-
-
-136 - AMONG THE INDIANS OF GUIANA.
-
-
-portions. Another species is the very curious mata-mata
-of the Indians (Chelys mata-mata), which has an extra-
-ordinarily rugged, instead of a smooth shell, as in most species,
+canoes heavily loaded with their eggs, in about equal proportions. Another species is the very curious mata-mata
+of the Indians (Chelys mata-mata), which has an extraordinarily rugged, instead of a smooth shell, as in most species,
 and is endowed with a peculiarly disgusting smell. The
 flesh of all these species is largely eaten by the Indians, who
 have learned the fact that the smell of the mata-mata may
 be entirely removed by careful washing. There are other
 species which have not yet been identified.
 It is a curious fact that jaguars are very fond of the flesh
-of turtles, and still more curious that they manage to ex-
-tract the animal from its shell. JI am not aware that any
-European has actually seen the jaguar performing this opera-
-tion; but many, I among others, have seen the freshly
+of turtles, and still more curious that they manage to extract the animal from its shell. JI am not aware that any
+European has actually seen the jaguar performing this operation; but many, I among others, have seen the freshly
 emptied shells scratched all over by the claws of jaguars, and
 lying on the sand among recent jaguar tracks.
 
@@ -6856,8 +5976,7 @@ that an Indian hardly ever returns from hunting without
 bringing home one or two, for its flesh is most excellent
 food. It lays two large round eggs—which, unlike those of
 the other tortoises, have hard, porcelain-like shells—on
-the forest floor, The animal when irritated has a sur-
-prising habit of grunting—a power which some indivi-
+the forest floor, The animal when irritated has a surprising habit of grunting—a power which some indivi-
 dual tortoises possess, at least use, more vigorously than
 others.
 
@@ -6879,14 +5998,12 @@ is a toad (Bufo agua), which swarms everywhere in muddy
 FISHES. 137
 
 
-out on to the streets in such numbers that it is often im-
-possible to avoid treading on them.
+out on to the streets in such numbers that it is often impossible to avoid treading on them.
 
 Fish swarm in enormous numbers and immense variety
 both in the sea and in the rivers. Certain mud-loving
 kinds which abound in canals and trenches are caught in
-large numbers by the negroes and others in a similar posi-
-tion, and indeed form the chief animal food of these people ;
+large numbers by the negroes and others in a similar position, and indeed form the chief animal food of these people ;
 but fishing for the better sorts of fish, either in the sea or
 in the rivers, is so little practised, that there is hardly any
 regular supply in the markets.
@@ -6896,10 +6013,8 @@ is very great, and many of these have been well described by
 Schomburgk in his ‘ Fishes of British Guiana.’ But without
 special search the traveller will probably meet only with a few
 prominent forms—those which are especially caught for food
-—such as the pacu (Pacu myletes), which haunts the un-
-quiet waters of the rapids, and feeds on the water-plants
-growing on the rocks in such localities; the haimara (Ery-
-thrinus macrodon, Agas.), which is found principally in the
+—such as the pacu (Pacu myletes), which haunts the unquiet waters of the rapids, and feeds on the water-plants
+growing on the rocks in such localities; the haimara (Erythrinus macrodon, Agas.), which is found principally in the
 mouths of creeks; the gigantic lowlow (Silurus, sp.?);
 and, in the more remote rivers, the arapaima (Sudis gigas),
 both of which attain a length of from eight to ten feet.
@@ -6919,11 +6034,6 @@ feet bitten off by these fish. It has already been said that
 the tails of iguanas are almost invariably docked in the same
 way, and it may be added that even alligators do not always
 escape with whole tails. A perai itself, if wounded by
-
-
-138 AMONG THE INDIANS OF GUIANA.
-
-
 any chance, is at once attacked and devoured by its fellows.
 If a monkey or bird, when shot, falls in the water, perai
 rush together from all quarters and carry off the prey before ~
@@ -6942,11 +6052,9 @@ found not many days after, almost stripped of flesh by perai.
 It is, therefore, a suurce of danger to bathe in smooth
 reaches, in which places perai are principally found. One of
 my boatmen, a mulatto, once, when wading by the side of
-the canoe, suddenly began to scream out certain strong ex-
-pressions, and being reproved, successfully justified himself
+the canoe, suddenly began to scream out certain strong expressions, and being reproved, successfully justified himself
 by showing his foot, from one of the toes of which a perai
-had suddenly stripped all the flesh; and on another occa-
-sion, when I sprang from the canoe to bathe, a sharp pain
+had suddenly stripped all the flesh; and on another occasion, when I sprang from the canoe to bathe, a sharp pain
 almost at the instant I reached the water told me that
 I had been bitten by one of these fish. Yet these terrible
 fish are small enough, being rarely more than two pounds
@@ -6977,8 +6085,7 @@ talk, they generally look forward to the bathing hours, yet
 * occasionally receiving an unexpected shock, are frightened
 and try to avoid the bath for some time after. The eels, if
 they are long kept in confinement lose their electric powers ;
-one very large one which had been in possession of a gentle-
-man on the west coast of Demerara for some fifteen years,
+one very large one which had been in possession of a gentleman on the west coast of Demerara for some fifteen years,
 was, I found, entirely harmless.
 
 The third fish to be dreaded is the sting-ray. This
@@ -6989,8 +6096,7 @@ of its colour it generally escapes notice till, when trodden
 on or otherwise disturbed, it strikes its spine into the
 adversary, and thus inflicts a terrible wound, which, for
 some not very obvious reason, occasionally causes even death.
-The spine seems to possess some poisonous and unwhole-
-soine quality. An Indian in my seryice being struck in his
+The spine seems to possess some poisonous and unwholesoine quality. An Indian in my seryice being struck in his
 foot by one of these fish, the wound remained open and ina
 most horrible condition for some months, and having daily
 to dress this wound, I gradually acquired so unreasonable a
@@ -7007,17 +6113,12 @@ a curious irritating power not to be accounted for even by
 its minute barbs. |
 
 
-140 AMONG THE INDIANS OF GUIANA,
-
-
-It will afford a good idea of the proportion which imagi-
-nary danger from animals in Guiana bears to the real evils
+It will afford a good idea of the proportion which imaginary danger from animals in Guiana bears to the real evils
 inflicted by these if we try to realise the possible thoughts
 of a nervous man when bathing in one of the rivers of that
 country. The nervous bather remembers that from the
 moment when he throws off his clothes, every part of his
-body not covered by water is exposed to the attack of mos-
-quitoes, sandflies, and many other sharply stinging insects ;
+body not covered by water is exposed to the attack of mosquitoes, sandflies, and many other sharply stinging insects ;
 but, on the other hand, that every part of his body
 covered by water may at any moment be bitten by perai,
 may receive a violent shock from an electric eel, or may be
@@ -7058,12 +6159,10 @@ spiders are not ugly; but I do say that these and other
 insects are not sufficiently numerous or vicious to make
 life burdensome. ;
 
-It may be as well to begin by taking the case of an ordi-
-nary householder, and see what the insect foes of such an
+It may be as well to begin by taking the case of an ordinary householder, and see what the insect foes of such an
 one are. The test is somewhat formidable, for it must take
 count, though some of these are but rarely seen in well-kept
-houses, of mosquitoes, wood-ants (termites), real ants, cock-
-roaches, certain beetles called ‘* hardbacks,’ spiders, centi-
+houses, of mosquitoes, wood-ants (termites), real ants, cockroaches, certain beetles called ‘* hardbacks,’ spiders, centi-
 pedes, and certain wasps called ‘jack-spaniards.’ These are
 arranged according to the degree of annoyance which they
 cause, the worst offenders being placed first.
@@ -7082,27 +6181,19 @@ Demerara to the Berbice river, and in a few other special
 places, chiefly where there is little drainage. Elsewhere
 they are few at most seasons of the year, and throughout
 the greater part of the day they appear not in swarms,
-but singly. It is chiefly during the rainy season, and es-
-pecially at night, that they cause any trouble. Opinions
+but singly. It is chiefly during the rainy season, and especially at night, that they cause any trouble. Opinions
 probably vary as to the amount of annoyance caused by
 these insects, for they attack some people much more
 vehemently than others. Of two adjacent bedrooms—the
 conditions of which were exactly similar, except that one
 was occupied by a man subject to, the other by one
 free from, such attacks—I have, morning after morning,
-seen the one black with swarms of mosquitoes that had col-
-lected during the night, the other with hardly one of these
-
-
-142 AMONG THE INDIANS OF GUIANA.
-
-
+seen the one black with swarms of mosquitoes that had collected during the night, the other with hardly one of these
 insects. But even those who are happy enough to be
 seldom stung by mosquitoes suffer no little annoyance from
 the buzzing of these insects, which is of all sounds probably
 the most irritating. On the whole it must be admitted that
-in an ordinary house, more or less, but frequently consider-
-able, annoyance is caused by mosquitoes.
+in an ordinary house, more or less, but frequently considerable, annoyance is caused by mosquitoes.
 
 A more harmful, because unsuspected, enemy of the
 householder, is the wood-ant. The houses are entirely built
@@ -7118,16 +6209,13 @@ seen, is sufficiently shown by the fact that if a piece of
 sugar-cane or other attractive food is put on the floor it is
 very soon surrounded by numbers of ants; but all these do
 but little harm to human beings, and do much good, in that
-they devour large numbers of other insects, especially cock-
-roaches. Even in well-kept houses probably few days pass
+they devour large numbers of other insects, especially cockroaches. Even in well-kept houses probably few days pass
 in which two or three of the last-named insects, equally
 detestable in appearance and odour, are not seen; and in
 houses which are not well kept they swarm. If therefore
-these insects are annoying, the remedy, by greater cleanli-
-ness, is easily applied. Another kind of insect visits houses
+these insects are annoying, the remedy, by greater cleanliness, is easily applied. Another kind of insect visits houses
 only occasionally, and then under circumstances which are
-rather amusing than annoying. These are the so-called ‘hard-
-backs’—small dark-coloured beetles of several species, but
+rather amusing than annoying. These are the so-called ‘hardbacks’—small dark-coloured beetles of several species, but
 most often Tomarus bituberculatus, which, perhaps two or
 three times a year—always during rainy seasons—enter houses
 in perfectly astounding numbers. Attracted by the lights on
@@ -7141,8 +6229,7 @@ HOUSE’ INSECTS. 143
 
 
 strewn with hardbacks much as sea-beaches often are with
-pebbles. These beetles develop from the grub within cer-
-tain plants, generally within the roots of such juicy plants
+pebbles. These beetles develop from the grub within certain plants, generally within the roots of such juicy plants
 as sugar-canes, plaintains and bananas, but sometimes, most
 curiously, in the unopened flower-buds of the Victoria regia
 and other water-lilies. When they enter houses they are often
@@ -7151,7 +6238,6 @@ their vegetable homes. Their muscular power is enormous.
 It is a trick commonly enough done for the benefit of
 strangers to put an ordinary wineglass on the back of one
 hardback, when the insect crawls over the table at a fair
-
 e, dragging the glass with it. After all, the annoyance
 caused by hardbacks is very slight ; their visits occur only
 at long intervals, and the morning after such a visit every
@@ -7166,36 +6252,26 @@ but such kinds rarely, if ever, enter houses. Centipedes, too,
 are rarely seen even in country houses and still more
 rarely in town houses; of course, provided, in both cases,
 that the houses are ordinarily clean. Large wasps of a
-very harmless kind fly in and out of the rooms, and fre-
-quently build their clay nests, like pretty little clay vases, on
+very harmless kind fly in and out of the rooms, and frequently build their clay nests, like pretty little clay vases, on
 the walls even of living rooms. .
 
 _ In short, mosquitoes and wood-ants are the only serious
 plagues in houses, and even these, except at times and in
 places, only now and then annoy.
 
-Just outside the houses, in the short grass about in-
-habited places, a small red insect, called béte rowge, like the
+Just outside the houses, in the short grass about inhabited places, a small red insect, called béte rowge, like the
 English harvest-bug, swarms, and, burying itself in the feet
 and ankles of passers-by, produces an irritation which is to
-some people almost unbearable, to others of slight con-
-sequence.
+some people almost unbearable, to others of slight consequence.
 
 But it is in the interior that insects chiefly abound. It
-
-
-144 AMONG THE INDIANS OF GUIANA.
-
-
 will probably be best to discuss these as nearly as may be in
 the order in which each class is likely to attract attention.
 Accordingly, the first place must be given to the butterflies.
 
-The splendid beauty and great variety of tropical butter-
-flies has been so often told that it is only necessary here to
+The splendid beauty and great variety of tropical butterflies has been so often told that it is only necessary here to
 add that Guiana is surpassed by no country in such riches.
-The generally received and erroneous views of the appear-
-ance of tropical nature are perhaps more nearly true as
+The generally received and erroneous views of the appearance of tropical nature are perhaps more nearly true as
 regards butterflies than aught else. It is true that, just as
 most of the bright-coloured birds live in the forest roof and
 out of sight, so do many of the butterflies ; but of the latter,
@@ -7220,8 +6296,7 @@ their movements, as [ sat below, by the shadows they cast
 each day when the sunlight is in them, are haunted not
 only by these blue, but also by other kinds of high-flying
 butterflies. Other kinds—especially the curiously shaped
-and scented Heliconias, with black wings, spotted, accord-
-ing to the species, with blue, scarlet, or white—fly round
+and scented Heliconias, with black wings, spotted, according to the species, with blue, scarlet, or white—fly round
 the bushes and half-way up the tree-trunks, careless of
 whether they are in sun or in shade. Others again, with
 wings marked with red and brown, after the manner of
@@ -7240,8 +6315,7 @@ like fritillaries, but quite transparent and devoid of colour,
 flit among other clear-winged butterflies. The thought is
 irresistible that these, in the scented deep shade and the
 solitude, with their colourless transparent wings, are but
-pale ghosts of butterflies. Passing once more into the sun-
-light, tiny hawkmoths flash straight backward and forward
+pale ghosts of butterflies. Passing once more into the sunlight, tiny hawkmoths flash straight backward and forward
 from bush to bush so rapidly that only colour, without form,
 isseen. On the wet sand at the edges of rivers and streams
 armies of yellow butterflies, very like the English sulphur
@@ -7255,8 +6329,7 @@ knows.
 At night the butterflies give place to moths; and even in
 the daytime a considerable number of the latter may Le
 seen in the forest shade. Yet, as will be easily understood,
-moths attract comparatively little attention. For the pur-
-pose of the present sketch it is more important to make
+moths attract comparatively little attention. For the purpose of the present sketch it is more important to make
 mention of the caterpillars. Some of the latter are of the
 strangest forms, and I greatly regretted that time and the
 opportunity only to be afforded by settled residence in one
@@ -7273,31 +6346,23 @@ assumed by moss when growing in damp places, others are of
 L
 
 
-146 AMONG THE INDIANS OF GUIANA.
-
-
 the yellow and brown shades of moss long exposed to the
 sun. As the caterpillar rests on a tree-trunk or rock it
 so closely resembles a small rounded patch of moss, that
 I was at first often completely deceived. And these insects
-not only thus hide themselves from their enemies by pre-
-tending to be plants, but they also enjoy further protection
+not only thus hide themselves from their enemies by pretending to be plants, but they also enjoy further protection
 in their power of stinging like a nettle with the hairs which
 have been described. Another caterpillar of about two
 inches in length is entirely covered with shaggy silky hair,
 more than an inch long, and of the bright yellow colour of
 the natural silk from the cocoon of the silkworm. This
-animal has a perfectly black head, and was not inaptly com-
-pared by the friend who brought it to me to a yellow Scotch
+animal has a perfectly black head, and was not inaptly compared by the friend who brought it to me to a yellow Scotch
 
 
 - terrier. It passed into the chrysalis stage after a time, but
-
-
 for some unknown reason the perfect insect never emerged.
 Beetles will probably be principally remarkable to the
-traveller for their apparent absence. They are really plenti-
-ful, as becomes apparent when the bushes are swept with a
+traveller for their apparent absence. They are really plentiful, as becomes apparent when the bushes are swept with a
 net, but they generally live concealed. Near palm-trees the
 large black palm weevil (Rhyncophorus, var. sp.) may often be
 observed. This is the perfect insect of which the disgusting
@@ -7305,12 +6370,10 @@ gru-gru worm, largely eaten by white men and red, is the
 grub, and it is also one of the most harmful of the so-called
 ‘cane-borers ;’ for it has passed from the palms, which seem
 its proper home, into the sugar-canes, among which it works
-terrible havoc. Another smaller weevil (Sphenophorus sac-
-chart) is equally abundant and destructive where canes are
+terrible havoc. Another smaller weevil (Sphenophorus sacchart) is equally abundant and destructive where canes are
 cultivated. Another beetle often seen is a Buprestis
 with purple and green shot wings, which are much
-valued by the Indians as body ornaments. And occa-
-sionally a monstrous elephant beetle (Dynaster hercules)
+valued by the Indians as body ornaments. And occasionally a monstrous elephant beetle (Dynaster hercules)
 may be caught, and if so, it will probably begin to hiss like
 a cat spitting. A curious long-shaped beetle (Zlator), with
 wings that look as if powdered with fine flour, is common
@@ -7320,8 +6383,6 @@ in its body, with a loud clicking noise, with such force that
 
 
 ANTS,
-
-
 the insect is hurled to some distance through the air, and
 then flies away.
 
@@ -7330,10 +6391,8 @@ more striking than anything else in the forest. No foot of
 ground, no tree-trunk or creeper, hardly a stem or leaf, is
 without some of these insects. Some even pass the greater
 part of their lives in hollow, jointed plant-stems, They are
-of all sizes, of many colours, and of various degrees of vicious-
-ness. Some wander about singly or in pairs, others in bands
-so vast that only those who have seen will realise their mul-
-titude.
+of all sizes, of many colours, and of various degrees of viciousness. Some wander about singly or in pairs, others in bands
+so vast that only those who have seen will realise their multitude.
 
 Of the solitary kinds, the one that, by its evil repute and
 conduct, most strongly presses itself on the notice of the
@@ -7344,14 +6403,12 @@ about among the dead leaves on the floor of the forest. In
 such places, because of the fever-giving repute of this ant, I
 was at first always nervous about sitting down; but after a
 time I found that they as a rule wander round, and even over,
-one without stinging, unless they are pressed or otherwise irri-
-tated. It was nearly two years before I felt the pain of their
+one without stinging, unless they are pressed or otherwise irritated. It was nearly two years before I felt the pain of their
 sting. Then, a tall palm-tree which I had cut in order to
 measure, having fallen, not to the ground, but with its crown
 resting on a neighbouring forest tree, and I having therefore
 climbed half-way up its sloping stem, measuring-tape in hand,
-a sudden pain made itself felt in the back of my neck, so in-
-tense that it can only be compared to that which would be
+a sudden pain made itself felt in the back of my neck, so intense that it can only be compared to that which would be
 caused by the sudden application of a red-hot iron; and this
 pain lasted some time, though it was not, as is often the
 case, followed by fever.
@@ -7366,27 +6423,21 @@ passed me one morning I had had warning some little time
 L2
 
 
-148 AMONG THE INDIANS OF GUIANA.
-
-
 before it came in sight, in the rustle and stir which the
 ants and their prey made in the dead leaves. The line of
 march was twenty yards broad, and within that space the
-whole ground was a moving mass of black ants which con-
-tinued to pass for nearly half an hour. Before them fled
+whole ground was a moving mass of black ants which continued to pass for nearly half an hour. Before them fled
 cockroaches, beetles, lizards, and so on; but they fled in vain,
 for each was caught after an exciting chase and was almost
 immediately covered with ants and devoured. Some ants,
 as regularly as if told off for the purpose, climbed up each
-tree that was passed, and then, having driven down or de-
-voured all hunted beasts that had fled up the tree for safety,
+tree that was passed, and then, having driven down or devoured all hunted beasts that had fled up the tree for safety,
 instead of troubling themselves to climb down again, simply
 hurled themselves from the branches to the ground, and then
 once more joined the line of march. But the victims were
 not unavenged ; for, following in the train of the ants, a host
 of small ant-eating birds fluttered through the bushes, and
-there eat many of the hunters. On another occasion, spring-
-ing out of my hammock before dawn, I was unfortunate
+there eat many of the hunters. On another occasion, springing out of my hammock before dawn, I was unfortunate
 enough to put down my bare feet into one of these herds of
 ants. These bands of ants sometimes pass through houses,
 and do good service by clearing out all other insects. \Where
@@ -7405,8 +6456,7 @@ narrow path, which before long is worn by the ants as bare as
 any fieldpath is trodden in England. Cultivated plants,
 especially cassava and orange-trees, are specially affected by
 these ants, whose destination as often as not is the field of
-some Indian, or, near the coast, some settler. When once coo-
-shies have found out any cultivated ground, it seems impossible
+some Indian, or, near the coast, some settler. When once cooshies have found out any cultivated ground, it seems impossible
 
 
 ‘COOSHIE ANTS.’ 149
@@ -7438,22 +6488,17 @@ Anvther kind of ant always makes its nest round the root
 of a certain showy mauve orchid (Imatophyllum roseum),
 which grows abundantly on some trees on the banks of most
 of the rivers. Or it is possible that the orchid only grows
-in such nests. At any rate, nests and orchids are so inse-
-parable that the Indians when they saw us collecting the
+in such nests. At any rate, nests and orchids are so inseparable that the Indians when they saw us collecting the
 plants and, somewhat vainly, trying to free them from ants
 by long immersion in water, warned us that the plant could
 not grow without the insect.
 
 But it is quite impossible to tell of all the different kinds
 of ants. Two methods of stopping an advancing column of
-ants—the only two known to me—must, however, be men-
-tioned. One of these is to sprinkle corrosive sublimate in
+ants—the only two known to me—must, however, be mentioned. One of these is to sprinkle corrosive sublimate in
 front of them; the result of this being that the ants, on
 reaching the sublimate, attack each other so furiously that
 the column is soon transformed into a ball of struggling
-
-
-150 AMONG THE INDIANS OF GUIANA.
 
 
 . creatures, apparently fighting each against the others. The
@@ -7468,8 +6513,7 @@ In the interior of Guiana they are at least as ubiquitous as
 true ants. In the forest they build covered ways under which
 they walk in all directions over the ground and up the trunks
 and stems of all plants. The rapidity with which they build
-these tunnels is surprising; often the loose baggage and pro-
-perties which the traveller, when camping in the forest, puts
+these tunnels is surprising; often the loose baggage and properties which the traveller, when camping in the forest, puts
 on the ground at night are in the morning found to have a
 wood-ants’ tunnel over them. On the savannah another white
 ant, of course of a distinct species, builds huge clay nests,
@@ -7479,11 +6523,9 @@ and there, at certain seasons of the year, when the winged
 individuals leave the nests, the whole air is darkened with
 their numbers.
 
-In the forest, among the ants’ nests, which hang in appa-
-rently shapeless masses on nearly every tree, there are often
+In the forest, among the ants’ nests, which hang in apparently shapeless masses on nearly every tree, there are often
 other irregularly shaped nests of various species of bees, as well
-as the more shapely nests—like those of the corresponding in-
-sects in England—of many kinds of wasps. The bees are for
+as the more shapely nests—like those of the corresponding insects in England—of many kinds of wasps. The bees are for
 the most part much smaller than our domesticated species.
 Some build their nests in hollow trees, but others hang from
 the tree-trunks black, leathery nests, which look very like
@@ -7503,12 +6545,10 @@ MOSQUITOES. 151
 building their nests on the branches of low shrubs, or even
 on the under sides of large leaves; so that a man forcing his
 way through the bush is very apt to disturb one of these
-nests, and thus effectually to impress the presence of mara-
-bunutas on his recollection. Wherever there is loose sand
+nests, and thus effectually to impress the presence of marabunutas on his recollection. Wherever there is loose sand
 there are sure to ‘be sand-wasps. These beautifully banded
 creatures live in pairs, and- buzz all day long over the sand
-in which they make their nests. I have often amused my-
-self by proving the wonderful instinct for locality possessed
+in which they make their nests. I have often amused myself by proving the wonderful instinct for locality possessed
 by these insects, by trampling down, digging into, heaping
 up, and otherwise disturbing the sand in the neighbourhood
 of their nests ; but, notwithstanding, the insects never failed
@@ -7539,11 +6579,6 @@ alternate night. Some of the worst mosquito-haunts are in
 districts entirely uninhabited even by Indians, and very
 seldom visited; and I often wondered how in such places
 mosquitoes provide themselves with sufficient blood for
-
-
-152 AMONG THE INDIANS OF GUIANA.
-
-
 their meals. Animals of various kinds there are doubtless
 in such places, but not, as it appeared to me, in numbers
 large enough to solve this question. It seems, rather, as if
@@ -7559,8 +6594,7 @@ ground. But on some of the rivers of the interior their
 place is supplied by another species which I have already
 described under the name of kaboora' in a previous chapter,
 as covering the whole bodies of the Indians and the exposed
-parts of travellers with innumerable small but very irritat-
-ing sores. Away from rivers these insects are, however,
+parts of travellers with innumerable small but very irritating sores. Away from rivers these insects are, however,
 unknown.
 
 The so-called mosquito-worm, or, as it is elsewhere
@@ -7595,16 +6629,13 @@ position, is drawn away at the same time.
 
 A, far more troublesome animal, because very common, is
 the far-famed jigger or chigoe (Pulex penetrans). This flea
-lives in dust on the ground wherever human beings con-
-gregate. Inthe untidily kept huts of the negroes and others
+lives in dust on the ground wherever human beings congregate. Inthe untidily kept huts of the negroes and others
 on the coast it is abundant; but it is in the interior, in the
 settlements of the Indians, which are very frequently built
 on loose sand, that it swarms. The females of these horrible
-little insects penetrate the skin and take up their position be-
-tween that and the flesh of men and domestic animals. Their
+little insects penetrate the skin and take up their position between that and the flesh of men and domestic animals. Their
 favourite position is under the soft skin between the nails and
-the fingers or toes, but any attainable part of the body is some-
-times used ; twice they have buried themselves in the flesh
+the fingers or toes, but any attainable part of the body is sometimes used ; twice they have buried themselves in the flesh
 under the ring on my finger, and there is little doubt that the
 Indian habit of sitting on stools in their houses is due toa
 desire to raise their bodies out of the reach of these insects.
@@ -7628,13 +6659,7 @@ children suffer especially by them, their feet, and, when they
 roll in the sand, their whole bodies, being appropriated by
 the insects. It is not really difficult to extract jiggers, for
 it is only necessary to raise the skin under which they lie
-
-
-154 AMONG THE INDIANS OF GUIANA.
-
-
-and pull them out with a needle, and any chance of inflam-
-mation, owing to part of the animal remaining in the sore,
+and pull them out with a needle, and any chance of inflammation, owing to part of the animal remaining in the sore,
 may be avoided by filling the cavity either with laudanum
 or with tobacco ashes. If, as is sometimes though rarely,
 the case with Indians, and is often the case with negroes
@@ -7663,8 +6688,7 @@ Spiders are certainly very abundant, of many forms,
 some most quaint, of all sizes, from such as are as small as
 our own ‘ money-spiders’ to the great, black, hairy bird-eating
 spider (Mygale avicularia), which is as big as a baby’s fist,
-and of many colours, some being in this respect most beauti-
-ful. The bite of some species, especially of the bird-eating
+and of many colours, some being in this respect most beautiful. The bite of some species, especially of the bird-eating
 spider, i® said to be dangerous and even sometimes fatal ;
 but though these spiders are common enough, I never knew
 them bite on any occasion. Another very large spider,
@@ -7678,31 +6702,25 @@ being somewhat like a scorpion in appearance, is called by
 SPIDERS AND SCORPIONS. 155
 
 
-the Indians by a name signifying ‘mother-in-law of scor-
-pions.’ Scorpions of two, and perhaps of three, species
-live under stones and fallen wood. It is chiefly the wood-
-cutters in their work of moving timber that come into con-
+the Indians by a name signifying ‘mother-in-law of scorpions.’ Scorpions of two, and perhaps of three, species
+live under stones and fallen wood. It is chiefly the woodcutters in their work of moving timber that come into con-
 tact with these animals. But one small and white species
 has an unpleasant habit of living about the beams of Indian
 houses, where, if it is accidentally touched, it stings; the
 wound is, however, as I -have experienced, not serious and not
 even very painful. Centipedes, often attaining a length of
 four or five inches, are about as numerous as scorpions, and
-live in the same places. Both alike are, as a rule, only acci-
-dentally seen, but both can be easily found by search.
+live in the same places. Both alike are, as a rule, only accidentally seen, but both can be easily found by search.
 
 Four other insects, of most harmless kinds, are sure to
-attract the notice of the traveller. In describing the hunt-
-ing ants I have already mentioned the bush cockroaches.
+attract the notice of the traveller. In describing the hunting ants I have already mentioned the bush cockroaches.
 These, which live under every fallen leaf, are much smaller
-than the domestic kind, and seem to be without any offen-
-sive odour. Many large grasshoppers live both in the open
+than the domestic kind, and seem to be without any offensive odour. Many large grasshoppers live both in the open
 country and in the forest. These are often of most brilliant
 colours, chiefly red or green, and some kinds attain a length
 of four inches. The green mantis, or praying-insect, may
 often be seen hunting other insects, but is harmless to man.
-And, lastly, certain curious insects, locally called razor-
-grinders (Cicada, sp. var.), from the extraordinary sounds
+And, lastly, certain curious insects, locally called razorgrinders (Cicada, sp. var.), from the extraordinary sounds
 that they make, or six-o’clocks, from the fact that these
 sounds are redoubled about that hour, are sure to be soon
 noticed. Occasionally in the forest, just before dusk, the
@@ -7711,8 +6729,7 @@ fifty pairs of scissors were being sharpened at once on half a
 hundred grindstones ; and from the scattered trees* on the
 savannah another kind sounds a loud prolonged whistle, so
 like that of a railway engine, that, hearing it, it is sometimes
-difficult for a moment to remember that one is on the deso-
-late South American savannah.
+difficult for a moment to remember that one is on the desolate South American savannah.
 
 
 ’
@@ -7727,8 +6744,7 @@ THE INDIAN TRIBES.
 
 Indian Groups in Guiana—The Value of the Groups—Race, Branch, Tribe,
 and Family—Classification of Principal Tribes—Some unimportant or
-little-known Tribes—The term ‘ True Carib’—Tribal Differences in Lan-
-guage, Physical Characters, and Habits—Geographical] Distribution of the
+little-known Tribes—The term ‘ True Carib’—Tribal Differences in Language, Physical Characters, and Habits—Geographical] Distribution of the
 Tribes—Forest Indians and Savannah Indians—Probable History of the
 Tribes—The Earlier Tribes: Warraus, Arawaks, and Wapianas—The
 later Immigration of Carib Tribes,
@@ -7745,13 +6761,11 @@ within the (in round numbers) 15,000,000 square miles of
 the whole continent, there are nearly 500 of these distinct
 vocabularies, and 2,000 dialects. Yet there is one great and
 important feature common to all these diverse languages, so
-immensely numerous in proportion to the extent of land occu-
-pied by them, and absent, with one possible and insignificant
+immensely numerous in proportion to the extent of land occupied by them, and absent, with one possible and insignificant
 exception, from the language of the rest of the world: and
 this is, that though the vocabularies of the languages differ,
 their structure is the same and is peculiar. The structure of
-all, and only of these languages, is polysynthetic. This com-
-munity of speech is a strong, though not absolutely certain,
+all, and only of these languages, is polysynthetic. This community of speech is a strong, though not absolutely certain,
 indication of community of race. When, however, the bodily.
 structure, and to some extent the customs, of these groups of
 Americans are examined, it appears that in these points also,
@@ -7762,8 +6776,7 @@ THE NUMBERS OF THE INDIANS. ‘- 157
 
 
 on the one hand common to all these groups; and are on the
-other hand unrepresented elsewhere in the world. There-
-fore, tested by language and also by structural characters,
+other hand unrepresented elsewhere in the world. Therefore, tested by language and also by structural characters,
 the aboriginal American population proves to be one great
 race distinct from the people of the whole of the rest of the
 world.
@@ -7806,7 +6819,6 @@ Atorais. Engaricos.
 ! The four rivers were the Pomeroon, Moruca, Waini, and Barrama.
 
 
-158 AMONG THE INDIANS OF GUIANA.
 Kapohn. Pshavaco.
 Lokono. Taruma.
 Macusi. Taurais.
@@ -7821,29 +6833,23 @@ Piriana.
 
 Many of these names are, however, synonymous; others
 do not represent distinct groups; and yet others are names
-of tribes settled beyond the limits of British Guiana, indi-
-vidual members of which occasionally wander across the
-border. It will save trouble if we dispose of these un-
-necessary names at once. The Ackawoi, by a mere variation in
+of tribes settled beyond the limits of British Guiana, individual members of which occasionally wander across the
+border. It will save trouble if we dispose of these unnecessary names at once. The Ackawoi, by a mere variation in
 pronunciation, are also known as Waccawais; and, using neither
 of these names, these people call themselves Kapohn, which
 in their language means simply ‘the people.’ We shall find
 that several tribes have both a name for themselves—that is,
 each calls itself in its own language ‘the people’—and a
 name used by other Indians. The Arawaks, for instance,
-call themselves Lokono. Arecuna, it would hardly be neces-
-sary to say, but that the two forms are sometimes given in
+call themselves Lokono. Arecuna, it would hardly be necessary to say, but that the two forms are sometimes given in
 ethnological books as distinct, is the same as Arecuma.
 Atorais, Daurais, and Taurais are, I think, identical, though
-Schomburgk considered that the two latter words are sy-
-nonyms of a tribe allied to but not the same as the Atorais.
+Schomburgk considered that the two latter words are synonyms of a tribe allied to but not the same as the Atorais.
 It is at least certain that people bearing these three names
 live intermingled in the same settlements. The Caribisi
 are the same as the so-called Caribs; and Carinya, or ‘the
-people,’ is their own name for themselves. We shall pre-
-sently find it convenient to reject all these three names and
-to substitute the term True Carib. The last case of sy-
-nonyms ig that of Paramona and Partamona. Names which
+people,’ is their own name for themselves. We shall presently find it convenient to reject all these three names and
+to substitute the term True Carib. The last case of synonyms ig that of Paramona and Partamona. Names which
 do not represent distinct groups are Cobrungru, 1.e. hybrids
 between any Indian and negro; Nikari-karu, ¢.e. hybrids
 between Macusis and Indians of some Brazilian tribe, or
@@ -7876,8 +6882,7 @@ Mabpityans.
 
 
 Each of these groups has a name for itself, and a name
-by which it is known by Indians of other groups. Some-
-times the esoteric name and the exoteric are the same,
+by which it is known by Indians of other groups. Sometimes the esoteric name and the exoteric are the same,
 sometimes they are different. But, however this may be,
 the existence of such a name indicates a certain amount of
 distinctness in the group. v
@@ -7890,24 +6895,16 @@ phratry, can only lead to confusion. In the absence of any
 common standard usually accepted, I am obliged to explain
 the exact sense in which I shall use certain divisional terms.
 The four words which I shall require are race, branch, tribe,
-and family. By race I mean to express the whole group cf red-
-skinned Americans, whose language varies greatly in vocabu-
+and family. By race I mean to express the whole group cf redskinned Americans, whose language varies greatly in vocabu-
 lary, but is absolutely uniform in structure. By a branch I
 mean such a portion of this race as is distinguished by the use
-of a vocabulary common and peculiar to that portion ; for ex-
-ample, all members of the Carib branch use, with more or
+of a vocabulary common and peculiar to that portion ; for example, all members of the Carib branch use, with more or
 less dialectic variations, the Carib vocabulary. It must be
-
-
-160 AMONG THE INDIANS OF GUIANA.
-
-
 noted that this mark of distinction of a branch is not
 absolutely exact, for there are occasionally a few single
 words common to the vocabularies of two or more different
 branches ;. for example, the word ‘ peaiman,’ which means
-‘ medicine-man,’ appears to be common to the Carib, the Ara-
-wak, and other vocabularies. But the general distinctness of
+‘ medicine-man,’ appears to be common to the Carib, the Arawak, and other vocabularies. But the general distinctness of
 the vocabularies is sufficient to distinguish the branches using
 them respectively. By a tribe I mean to express such a
 portion of a branch as uses the vocabulary common to that
@@ -7928,15 +6925,13 @@ branch being merely dialectic, the distinctness of the tribes
 and the community of the branch may be assumed.
 
 With the last divisional term, family, we shall not be
-concerned in this chapter; but for the sake of freeing our-
-selves once for all from such definitions, it may be as well to
+concerned in this chapter; but for the sake of freeing ourselves once for all from such definitions, it may be as well to
 explain it briefly here. There are signs of a separation
 within the tribe into families, such as the families, or
 perhaps rather the clans, of our own society; and these
 families within Indian tribes are kept distinct by means
 of certain regulations, which will afterwards be described,
-concerning marriage, and by the fact that each has an in-
-alienable name of its own. The somewhat obscure family-
+concerning marriage, and by the fact that each has an inalienable name of its own. The somewhat obscure family-
 
 
 ' Such divergent words are, therefore, of great importance, since, if
@@ -7954,18 +6949,15 @@ system of South American Indians is, in fact, identical with -
 the better-known totem-system of North American Indians.
 It is hardly necessary to add that each family is of course
 marked by no very great difference in language; yet,
-because of the great scope for divergence in pronuncia-
-tion which is allowed by the fact that the language is un- ©
+because of the great scope for divergence in pronunciation which is allowed by the fact that the language is un- ©
 written, and that each of the families by which it is spoken
-lives to a certain extent secluded from the others, small dif-
-ferences of pronunciation, not sufficiently fixed to be regarded
+lives to a certain extent secluded from the others, small differences of pronunciation, not sufficiently fixed to be regarded
 as dialectic, are often acquired by the separate families.
 There is some importance about the last-mentioned fact,
 in that possibly the family, when it becomes numerous and
 changes its locality, becomes a tribe, which, in the course
 of long periods, may, by splitting, possibly develop into a
-branch; and if this is so, the small peculiarities of pro-
-nunciation belonging to the family develop, as it becomes
+branch; and if this is so, the small peculiarities of pronunciation belonging to the family develop, as it becomes
 a tribe, into the dialect of that tribe, and afterward, as this
 tribe becomes a branch, into the distinct vocabulary of that
 branch.
@@ -7987,8 +6979,6 @@ ture .
 l liar vocabulary J
 Structure and vocabulary of ‘lan-}
 3. Tribe guage like that of the branch, but i
-
-
 with peculiar dialectic variations
 
 
@@ -8015,30 +7005,23 @@ a classification thus made is confirmed by such differences as
 M
 
 
-162 AMONG THE INDIANS OF GUIANA.
-
-
 can be found in the bodily structure and appearance of the
 Indians, in their customs and habits of thought, it may, I
 think, be safely adopted. It must, indeed, be adopted, and
-all effort must be made to elaborate it more and more—un-
-less, as is not likely to happen, some new and more satis-
+all effort must be made to elaborate it more and more—unless, as is not likely to happen, some new and more satis-
 factory method is discovered. We shall find that, though
-there are no very great differences other than those of lan-
-guage among the Indians of Guiana (which fact shows that
+there are no very great differences other than those of language among the Indians of Guiana (which fact shows that
 they are all not very divergent members of the same race),
 yet that there are physical differences—as, for instance, in
 height, in build and strength, in features and in colour of
-skin ; that there are also differences in custom—as, for in-
-stance, in the objects and methods of manufacture, and in
+skin ; that there are also differences in custom—as, for instance, in the objects and methods of manufacture, and in
 _ care for cleanliness and modesty; and, lastly, that all these
 differences correspond with those in language. To this it
 may be added that corresponding differences in the degree
 of mutual hostility between the various groups lends further
 evidence; for thongh every group ignores all others as far
 as it can, and when perforce it must meet others, regards
-these as hostile, yet this feeling of aversion is greater be-
-tween two tribes of different branches—for example, between
+these as hostile, yet this feeling of aversion is greater between two tribes of different branches—for example, between
 True Caribs and Arawaks—than between two-of the same
 branch—for example, Macusis and Arecunas.
 
@@ -8046,8 +7029,7 @@ Using the tests of difference and of degree of difference
 with which we have thus provided ourselves, we find that,
 omitting for the present certain groups which are either
 fragmentary or little known, there are in Guiana four
-branches of the American race—the Warraus, Arawaks, Wa-
-pianas, and Caribs; further, that two of these, the Warraus
+branches of the American race—the Warraus, Arawaks, Wapianas, and Caribs; further, that two of these, the Warraus
 and the Arawaks, cannot be distinguished into tribes; that
 the third, the Wapianas, is probably represented by three
 tribes—the True Wapianas, Atorais, and Amaripas; and, lastly,
@@ -8080,8 +7062,7 @@ classification here suggested are the Maopityans, Tarumas,
 and Woyowais. Without vocabularies, and indeed without
 almost any knowledge of these three tribes, I am unable
 to class them. The Tarumas appear to be a tribe—perhaps
-not belonging to any of the branches which I have dis-
-tinguished in British Guiana—which, according to Sir
+not belonging to any of the branches which I have distinguished in British Guiana—which, according to Sir
 Robert Schomburgk and the Brazilian traveller Von Martius,
 reached their present position from the south, by way of the
 Rio Negro; and the fact that the Maopityans live with the
@@ -8101,14 +7082,9 @@ use the simple term Carib indifferently of the tribe and of
 the branch is therefore apt to confuse. An attempt has
 been made to distinguish between branch and tribe by
 calling the former Carib, the latter Caribisi. But this latter
-term seems to have originated ina mistake. The word Cari-
-bisi is Arawak, and means the ‘Carib’s place,’ or ‘ Carib’s
+term seems to have originated ina mistake. The word Caribisi is Arawak, and means the ‘Carib’s place,’ or ‘ Carib’s
 home ;’ just as Ituribisci, the name of a small river of Guiana,
-
 u 2
-
-
-164 AMONG THE INDIANS OF GUIANA
 
 
 means ‘the home of the ituri or howling monkey ;’ and as
@@ -8124,13 +7100,11 @@ perienced, if the traveller himself asks who lives at some
 settlement which is in sight, the answer of the Arawaks
 invariably is ‘Caribisi;’ by a not unnatural mistake,
 travellers have therefore supposed that Caribisi is simply
-the name of the tribe. The term may therefore be ex-
-punged from ethnological lists. But we have not yet found
+the name of the tribe. The term may therefore be expunged from ethnological lists. But we have not yet found
 a name for the Carib tribe, as distinguished from the Carib
 branch, in Guiana. It might seem natural to use ‘ Carinya,’
 their own name for themselves, for this purpose ; but this
-term has the disadvantage of being unfamiliar to ethnolo-
-gists. Every purpose is answered by calling the tribe True
+term has the disadvantage of being unfamiliar to ethnologists. Every purpose is answered by calling the tribe True
 Caribs, and extending the term Carib to the whole branch.
 Just in the same way, as it appears that there are several
 other tribes belonging to the branch of which the Wapianas
@@ -8150,8 +7124,7 @@ groups, as either branches or tribes. In the following
 chapters, more or less of these differences will be recorded ;
 
 
-1 For example, I believe that if materials were available for a compari-
-son of South American groups generally, it would be found that the
+1 For example, I believe that if materials were available for a comparison of South American groups generally, it would be found that the
 Warraus are a tribe of the Guarani branch.
 
 
@@ -8186,14 +7159,12 @@ different dialects spoken by the True Caribs, Ackawoi,
 Macusi, and Arecuna respectively ; and these dialects have
 been commonly, but quite wrongly, spoken of as distinct
 languages. The Macusi dialect is very closely similar to the
-Arecuna, from which it differs chiefly in the mode of pro-
-nunciation ; and a similar dialect, with a few exceptional
+Arecuna, from which it differs chiefly in the mode of pronunciation ; and a similar dialect, with a few exceptional
 differences, principally in the lower numerals, is used by the
 Ackawoi. A Macusi, an Arecuna, and an Ackawoi speak
 quite intelligibly the one to the other. The remaining
 dialect of this language—that of the True Caribs—is, though
-the relationship is very recognisable, somewhat more dis-
-tinct; for while most of the words are identical with those -
+the relationship is very recognisable, somewhat more distinct; for while most of the words are identical with those -
 of the three former dialects, yet some are altogether distinct.
 A few examples must here suffice to explain the matter :—
 
@@ -8214,7 +7185,6 @@ ee Weqoy ‘yenoeA_L 9g} 1-oodey j-oodey qsa-oou
 4 Woy WOy}BIoOUNAdoId jo fom |- suvton efom
 = safjottea 942118 L104 Aq ode ode | yoi-qua
 bd AjeroUlsIaygIp osunduvy
-
 eu00} eu00} 8100}
 ‘as 94} 7nq ![ssodsrp Lur 4B
 Fe £reqnqwooa vunooryou | “ed | orind | qeagund
@@ -8225,14 +7195,8 @@ Zi
 
 > OQHLL * OGL : OqHL * oqiaL
 QO ¢ young
-
-
 qudopreq
-
-
 inqueyy
-
-
 dup-req
 
 
@@ -8248,8 +7212,6 @@ TITqIq
 
 
 Teugui0ze
-
-
 suydy AA OTL
 
 
@@ -8267,7 +7229,6 @@ Tqyeqoyules
 
 
 VATVYs!
-1904
 B-BpIsTa
 Uy-9U-BM
 wh
@@ -8275,21 +7236,15 @@ Suny-4
 oy
 nq-¥}-8
 AOp
-
-
 euCQ
 
 qeuZey
 UeUl-sUlOIPa
 woop
-
 ung
 
 
 "qe sug
-
-
-166
 
 
 DIFFERENCES IN LANGUAGE. 167
@@ -8314,8 +7269,7 @@ nature of the ground about the usual homes of these people,
 are unusually flat and broad. The expression of the face is
 strikingly dull, unintelligent, and gloomy. The colour of
 the skin is apparently very dark ; but this is in reality due
-to the filthy state in which they live, and the dirt which en-
-crusts them. The Arawaks are slightly taller than the
+to the filthy state in which they live, and the dirt which encrusts them. The Arawaks are slightly taller than the
 Warraus ; their bodies, though short and broad, are far better
 proportioned ; their skin, not only appears much lighter in
 colour, because of their more cleanly habits, but in reality is
@@ -8335,9 +7289,6 @@ their habits, they are somewhat miserable in appearance.
 The Macusis are even darker than the True Caribs and
 
 
-168 AMONG THE INDIANS OF GUIANA.
-
-
 Ackawoi in colour, but are taller, slighter, and better made ;
 their features are more regular, and their expression is bright
 and intelligent, but somewhat timid. The Arecunas have
@@ -8346,14 +7297,12 @@ Macusis, but more powerful; and similarly their features are
 like, as is their expression, but that the latter is far more
 - bold and warlike. .
 
-Evidently these physical differences would by them-
-selves be insufficient to distinguish the groups. Nor are
+Evidently these physical differences would by themselves be insufficient to distinguish the groups. Nor are
 the differences in habit very great.
 
 The Warraus are timid people, despised by other Indians,
 and, apparently, with but a poor opinion of themselves.
-Except in the rare cases in which they have been partly civi-
-lised, their personal habits are, as is rarely the case among
+Except in the rare cases in which they have been partly civilised, their personal habits are, as is rarely the case among
 these Indians, very filthy. They live, or did till lately live, in
 miserable houses, raised on piles over swampy ground, or
 even over water. They are the great canoe-builders for the
@@ -8361,8 +7310,7 @@ surrounding tribes. . It must be added that a considerable
 number of the tribe have lately been induced to settle round
 the mission stations. As the Warraus are the filthiest, so the
 Arawaks are the cleanliest of all the Indians. This may be
-partly due to the fact that the latter, living just in the dis-
-trict which was earliest, and has been continuously, occupied
+partly due to the fact that the latter, living just in the district which was earliest, and has been continuously, occupied
 by Europeans, and having always held friendly relations with
 these Europeans, have, more than~any other tribe, become
 _ to a certain extent civilised; that is to say, though they
@@ -8371,11 +7319,9 @@ than those of other Indians, are sometimes made partly
 private by partitions, and are even furnished occasionally
 ' with a wooden table and benches. With very few exceptions
 they can all speak English, and, at least in the presence of
-white men, they wear European clothes. This degree of civil-
-isation has greatly obscured their proper habits, as is well and
+white men, they wear European clothes. This degree of civilisation has greatly obscured their proper habits, as is well and
 significantly illustrated by the fact that they are the only
-tribe which. has not, at the present time, any special manu-
-facture of some kind of object useful for trade with the other
+tribe which. has not, at the present time, any special manufacture of some kind of object useful for trade with the other
 Indians, such, for instance, as the canoe-bujlding of the
 
 
@@ -8390,8 +7336,7 @@ any longer possible to distinguish in habit, are, as usual, averse
 to intercourse in most matters with other tribes, but yet they
 are the great traders of the district, serving as middlemen,
 through whose hands the manufactures of each tribe pass to
-the other. They are themselves, moreover, the great canoe-
-makers of the interior, as the Warraus are of the coast.
+the other. They are themselves, moreover, the great canoemakers of the interior, as the Warraus are of the coast.
 Another respect in which they differ from the other tribes
 of Guiana is, that they alone eat much of the cassava, which
 forms the chief vegetable food of all the tribes, in the form, not
@@ -8401,8 +7346,7 @@ tribes are, though in various degree, more warlike than any
 of the other tribes, and are consequently especial objects of
 dread. Most warlike in reputatjon, and m¥st dreaded of all,
 are the True Caribs. There appears to be a special feeling
-of enmity between them and the Arawaks. They are pecu-
-liar among the tribes in that they occupy no special district,
+of enmity between them and the Arawaks. They are peculiar among the tribes in that they occupy no special district,
 but are scattered more or less thickly through the country.
 They are the great makers of pottery, though this is also
 made, to some small extent, by their.kindred the Ackawoi
@@ -8416,18 +7360,13 @@ Perhaps, because of their seclusion, they are, though by no
 means so filthy in their habits as the Warraus, yet far less
 cleanly than any of the other tribes. The Macusis and the
 Arecunas are in habits, as in language, much alike. A strong
-hostile feeling, however, separates them, and this is mani-
-fested by the gentler Macusis chiefly in their dread of their
+hostile feeling, however, separates them, and this is manifested by the gentler Macusis chiefly in their dread of their
 fellow tribe, and by the bolder Arecunas chiefly in contempt
 for the Macusis. Both are cleanly in their habits, but the
 
 
-170 AMONG THE INDIANS OF GUIANA.
-
-
 Macusis excel in this respect not only the Arecunas but
-also all other tribes, with the possible exception of the semi-
-civilised Arawaks.
+also all other tribes, with the possible exception of the semicivilised Arawaks.
 
 The differences which we have now seen in the languages,
 physique, and habits of the tribes, if taken together, are
@@ -8435,16 +7374,13 @@ sufficient, on the one hand, to show the distinctness of
 the groups, and, on the other, to class them as tribes, or
 branches, according to the table given on p. 163.
 
-Accepting this classification, the next point to be con-
-sidered is the geographical position now occupied by these
+Accepting this classification, the next point to be considered is the geographical position now occupied by these
 tribes. - The distribution of the tribes is as follows. For our
-present purpose the whole country may be regarded as con-
-sisting of three regions, parallel to each other and to the
+present purpose the whole country may be regarded as consisting of three regions, parallel to each other and to the
 coast. In the earlier part of the book it was convenient to
 distinguish four of these regions; but now we may regard
 two of these—the timber and the forest-region—as one whole,
-which we may call the forest-region. Nearest the sea, there-
-fore, is the coast-region ; within that the forest-region ; and
+which we may call the forest-region. Nearest the sea, therefore, is the coast-region ; within that the forest-region ; and
 within that again the savannah-region, passing without
 break into the great savannahs of Brazil. The northernmost
 part of the coast-region, toward the sources of the Orinoco,
@@ -8487,34 +7423,24 @@ chapters: these are ‘forest Indians’ and ‘ savannah Indians.’
 The customs of these people are naturally considerably
 affected according as they live on the open savannah or in
 the recesses of the forest ; e.g. we shall find that very different
-houses are built on the two places respectively. It is there-
-fore evident that it will be convenient to speak of the savannah
+houses are built on the two places respectively. It is therefore evident that it will be convenient to speak of the savannah
 Indians and of the forest Indians, though it must always be
 borne in mind that these terms do not correspond with any
-difference of race—for instance, of the Ackawoi and Macu-
-sis, both‘of Carib race, the former tribe includes none but
+difference of race—for instance, of the Ackawoi and Macusis, both‘of Carib race, the former tribe includes none but
 forest Indians, the latter none but savannah Indians.
 
 The last point with which I have now to deal is the way
 in which these tribes reached the positions which they at
 present occupy. In the first place, the branches may, I
 think, be distinguished into two sets. The Carib tribes seem
-to me to represent migrations into the country already oc-
-cupied by the other tribes. In the absence of better terms,
+to me to represent migrations into the country already occupied by the other tribes. In the absence of better terms,
 the one set, including the Warraus, Arawaks, and Wapianas,
-may be distinguished as native tribes; the other set, includ-
-ing all the Carib branch, as stranger tribes. That there is
+may be distinguished as native tribes; the other set, including all the Carib branch, as stranger tribes. That there is
 some difference between these two groups seems indicated
 both by the fact that the native tribes, though they belong
-to three distinct branches, with languages mutually unin-
-telligible, are yet all united by a common feeling of aversion
+to three distinct branches, with languages mutually unintelligible, are yet all united by a common feeling of aversion
 from the stranger tribes greater than that which they feel for
 each other; and also by the fact, which will be explained in
-
-
-172 AMONG THE INDIANS OF GUIANA.
-
-
 greater detail in a future chapter, that the native tribes all
 make their hammocks, which, it must be remembered, are,
 next to food, the chief necessary of life to the Indians, of the
@@ -8525,24 +7451,21 @@ explained later, spin the threads respectively of palm-fibre
 and cotton, of which their hammocks are made, differently.
 
 As to the native tribes, it must of course not be taken for
-granted that they were, in any real sense of the term, abo-
-riginal ; but in our present state of knowledge it is impossible
+granted that they were, in any real sense of the term, aboriginal ; but in our present state of knowledge it is impossible
 even to guess either the quarter whence, or the time when,
 they reached Guiana. It has indeed been suggested that
 the Arawaks reached the mainland from the West India
 islands; but the evidence for this is too slight to be worth
 considering. All that we can suppose is that the Warraus at
 the time of the Carib immigration, as chiefly now, occupied
-the swamps south of the mouth of the Orinoco ; that the Ara-
-waks occupied a long line of coast stretching south-east from
+the swamps south of the mouth of the Orinoco ; that the Arawaks occupied a long line of coast stretching south-east from
 the Warrau country ; and that the Wapianas, with the Atorais
 and Amaripas, and, probably, with some other tribes which
 are now either unrepresented or are represented only by the
 fragmentary tribes to which I have alluded as existing on the
 outskirts of Guiana, occupied the whole of the savannahs of
 the interior, which are now partly occupied by the Macusis
-and Arecunas. Such I suppose to have been the distribu-
-tion of the tribes before it was disturbed by the arrival of
+and Arecunas. Such I suppose to have been the distribution of the tribes before it was disturbed by the arrival of
 any of the warlike Carib branch.
 
 Then came the Caribs. There are two theories as to
@@ -8567,8 +7490,7 @@ that the Macusis and Arecunas, the Ackawoi and the True
 Caribs, first reached the mainland of Guiana from the islands.
 
 These four tribes represent, I think, four distinct immi- _
-grations. Perhaps each of these tribes acquired tribal dis-
-tinction by living in a different island; or more probably
+grations. Perhaps each of these tribes acquired tribal distinction by living in a different island; or more probably
 their distinctness is merely due to the long intervals which
 elapsed between their migrations to the mainland and to the
 seclusion in which each party lived after its migration. A
@@ -8581,14 +7503,12 @@ Orinoco. That, therefore, is the point of the mainland which
 _ the Indians would first reach. But instead of land suitable
 and pleasant to Indians, there is there only a huge swamp, in
 which the miserable Warraus drag out a wretched existence.
-The Macusis therefore, on their arrival, passed up the Ori-
-noco, on the banks of which they were living, as Robert
+The Macusis therefore, on their arrival, passed up the Orinoco, on the banks of which they were living, as Robert
 Schomburgk has shown, probably as lately as Sir Walter
 Raleigh’s time.' After the Macusis, the Arecunas came from
 the islands and passed, as the latter had done, up the
 Orinoco. In their advance they drove the Macusis, first,
-further up the river, then from the river, and lastly south-
-ward on to the savannah ; and they occupied each successive
+further up the river, then from the river, and lastly southward on to the savannah ; and they occupied each successive
 district in which the latter had lived. Traces of this long
 chase still remain in the dread which the Macusis feel of the
 Arecunas, as in the contempt which the latter feel for the
@@ -8599,9 +7519,6 @@ question which will probably never admit of solution, if, as is
 
 1 The Discoverte of Guyana. By Sir Walter Raleigh. Edited by Sir
 Robert Schomburgk for the Hakluyt Society, p. 78, note 1.
-
-
-174 AMONG THE INDIANS OF GUIANA.
 
 
 most likely, they proceeded, on reaching the mainland, in
@@ -8623,8 +7540,7 @@ on the mainland much earlier is sufficiently shown by the
 fact that they, with a warlike reputation and a real power
 which would most certainly have enabled them to gain for
 themselves a distinct territory such as that occupied by the
-other, less powerful tribes, had they not arrived simul-
-taneously with the earliest European settlers, were, owing to
+other, less powerful tribes, had they not arrived simultaneously with the earliest European settlers, were, owing to
 the presence of the more powerful white man, unable to
 drive out the former inhabitants and to take possession of any
 distinct tract of country; so that to this day they, the most
@@ -8640,13 +7556,9 @@ Caribs from the islands to the mainland, and those which
 were settled at an earlier time in the country.
 
 In conclusion, I can only excuse the dryness of the
-details given in this chapter on the ground that they are in-
-tended to provide a knowledge which may make the facts,
+details given in this chapter on the ground that they are intended to provide a knowledge which may make the facts,
 which will, I trust, be more generally interesting, of the
 succeeding chapters intelligible.
-
-
-175
 
 
 CHAPTER VII.
@@ -8662,10 +7574,8 @@ Existence of this latter System—Two possible Explanations.
 
 
 As in very many other parts of the world, within some of
-the tribes of Guiana there are more or less strong indica-
-tions of further subdivision into families; and where this
-occurs there are traces of certain laws regulating the inter-
-marriage of members of these families. It may safely be
+the tribes of Guiana there are more or less strong indications of further subdivision into families; and where this
+occurs there are traces of certain laws regulating the intermarriage of members of these families. It may safely be
 assumed that between members of different tribes there was
 formerly no intermarriage, except such as took place when a
 woman captured in war was taken to wife by her captor; and
@@ -8708,8 +7618,7 @@ forty-seven ; and it is almost equally certain that there are
 others yet to be recorded.
 
 Before giving the list of names it may be as well to point
-out that each name occurs under three forms, which, how-
-ever, differ only in the termination: a plural or collective
+out that each name occurs under three forms, which, however, differ only in the termination: a plural or collective
 form which expresses the whole family ; a singular, masculine
 form expressing one individual man of the family; and a
 singular feminine form expressing one individual woman of the
@@ -8721,13 +7630,11 @@ merely an additional qualifying suffix, and has nothing to do
 with the real name of the family. These suffixes, collective,
 male, and female, occur in each of the names. As in the
 above case, die is generally the masculine, do the female,
-and na the collective termination; but occasionally the mas-
-culine and feminine forms are, for some unexplained reason,
+and na the collective termination; but occasionally the masculine and feminine forms are, for some unexplained reason,
 tie and to respectively. Of course, in seeking the derivation
 of the names these terminations must be rejected.
 
-In the following list of known names where the mascu-
-line and feminine terminations are regular—that i is, are die
+In the following list of known names where the masculine and feminine terminations are regular—that i is, are die
 and do respectively—they are omitted.
 
 1. Karuafona. One informant gives the meaning
@@ -8756,10 +7663,8 @@ to be the important wn or oon which, with the meaning of
 rain and water, is common to many of the Indian languages
 of South America. |
 
-3. Koiarno. This is peculiar in that its collective ter-
-mination seems to be no instead of na. The masculine and
-feminine terminations are fie and to respectively. In Hill-
-house’s list, in Montgomery Martin’s ‘West Indies,’ it is
+3. Koiarno. This is peculiar in that its collective termination seems to be no instead of na. The masculine and
+feminine terminations are fie and to respectively. In Hillhouse’s list, in Montgomery Martin’s ‘West Indies,’ it is
 spelled ‘ Queyurunto.’ The meaning seems to be, ‘ from
 the deer’ (cuiaro). Another improbable derivation given is
 ‘the turners back,’ from koiaroina—‘ to turn back.’
@@ -8774,16 +7679,12 @@ also applied to several species of Heliconta.
 6. Yobotana, ‘from the black monkey.’ Iam not sure,
 but I think the species referred to is Ateles beelzebub.
 
-7. Haiawafona, ‘from the hyawa tree’ (Icica hepta-
-phylla)—a species of tree which, because of the abundant
+7. Haiawafona, ‘from the hyawa tree’ (Icica heptaphylla)—a species of tree which, because of the abundant
 and highly perfumed resin which it produces, which is much
 used by the Indians for such purposes as the rapid kindling
 of fire, the making of torches, and to scent the oils with
 
 N
-
-
-178 AMONG THE INDIANS OF GUIANA.
 
 
 which they anoint their bodies, is well marked to Indian
@@ -8800,8 +7701,7 @@ There is much confusion as to these legendary beings, there
 being supposed to be many of various sorts living in various
 places. The water-mama, one of these kinds of spirits,
 which is supposed to live under the water of rivers, is often
-used for supernatural beings in general. Two other inter-
-pretations of the name, both very unlikely, are that it means
+used for supernatural beings in general. Two other interpretations of the name, both very unlikely, are that it means
 ‘rivals,’ and another that it means ‘from the Demerara
 river.’
 
@@ -8841,8 +7741,7 @@ confined.
 
 10. Kamikathimikina, otherwise given as akamikina
 (mas. tie, fem. to). There is almost certainly some error in
-the transcription of this name. No one can afford a satis-
-factory interpretation. It has been suggested that it has
+the transcription of this name. No one can afford a satisfactory interpretation. It has been suggested that it has
 something to do with kannakain, ‘it can take more ;’ and
 another correspondent says ‘kannakimukina’ means ‘ good
 eaters ;’ but I can give no opinion on the word.
@@ -8883,9 +7782,6 @@ blood. The members of the family, however, deny that
 N 2
 
 
-180 AMONG THE INDIANS OF GUIANA.
-
-
 there is any foreign blood in them. They derive their name
 from the tradition of a change or magical transformation
 undergone by an ancestress. Mr. Brett says that the legend,
@@ -8899,8 +7795,7 @@ or transformed into butterflies.’
 
 As regards the suggestion that the name may refer to
 ‘changed blood’—~.e. blood mixed with that of Caribs—
-Mr. Brett tells me that arantucimo is the word most fre-
-quently used for people of such mixed race.
+Mr. Brett tells me that arantucimo is the word most frequently used for people of such mixed race.
 
 18. Babowna, from a tree produeing a juice like milk,
 and used medicinally as a dressing for ulcers.
@@ -8912,8 +7807,7 @@ to be found in eeyato=‘raw’ or ‘fresh.’ Mr. McClintock
 notes that the family is extinct, in the Pomeroon district at.
 least, the last survivor having died in 1876.
 
-20. Ebesoléno (mas. tie, fem. to). This is another ab-
-normal termination in no instead of na. There is a con-
+20. Ebesoléno (mas. tie, fem. to). This is another abnormal termination in no instead of na. There is a con-
 flict of evidence as to the meaning. One makes it the
 ‘ faithful, truthful, or heedful family; while others concur
 in interpreting it as ‘the changed,’ or ‘the family with
@@ -8921,8 +7815,7 @@ changed skin ’—1.e. a family of mixed blood and abnormal
 complexion.
 
 21. Warerokama, ‘from a wild’ plantain.’ This wild
-plaintain appears to be not the same as the Ravenala men-
-tioned above (see No. 5), but a species of Heliconia.
+plaintain appears to be not the same as the Ravenala mentioned above (see No. 5), but a species of Heliconia.
 
 22. Pariana, ‘from a kind of bee.” Itis perhaps worth
 noting that on the borders of Guiana, but within the Brazil,
@@ -8952,8 +7845,7 @@ Brett, and ‘from a kind of white winged ant’ by Mr.
 McClintock.
 
 25. Karobahana—the family related to the Coriaki
-parrot. It has already been noted that this tribe inter-
-marries with the Demarena (No. 8).
+parrot. It has already been noted that this tribe intermarries with the Demarena (No. 8).
 
 26. Maratakayona, sprung‘ from a (small) bee.’
 
@@ -8969,8 +7861,7 @@ sprung ‘ from a hawk ’(?). .
 
 30. Turubaléna, ‘from the turu palm’ (dimocarpus
 baccaba), ‘the seed of which, being dark, represents persons
-of dark complexion.’ This name is also given as Turu-
-balolu.
+of dark complexion.’ This name is also given as Turubalolu.
 
 31. Aramokéna. Another form of the name is given as
 Aramokiyu (pl.); Aramokite (mas. sing.) ; Aramokitu (fem.
@@ -8982,9 +7873,6 @@ give names to their respective ‘families. Each took the
 name of some object near; and the representative of this
 family took the arara tree, the leaves of which were then
 on the ground on which he sat.
-
-
-182 AMONG THE INDIANS OF GUIANA.
 
 
 32. Kamonéna. No suggestion has been made as to
@@ -9003,8 +7891,7 @@ favour of the latter interpretation. A third interpretation
 is that the name means ‘from the kaboreeshe,’ a kind of
 fish unknown to me; the weight of evidence is against this.
 
-35. Mrbibitana, ‘from the bush rope called mihi’ (Car-
-ludovica), which is much used by Indians to make their
+35. Mrbibitana, ‘from the bush rope called mihi’ (Carludovica), which is much used by Indians to make their
 quakes and other rough baskets, and also in binding together
 the various parts of which their houses are formed.
 
@@ -9017,11 +7904,9 @@ former is the more probable explanation.
 seems to refer to some such deformity as a lame foot.
 
 38. Atiyokana (or, perhaps, Antiyokana)—a family
-sprung ‘from the wild cherry tree.’ This tree is not un-
-common in the forest ; its fruit, which in shape and colour
+sprung ‘from the wild cherry tree.’ This tree is not uncommon in the forest ; its fruit, which in shape and colour
 resembles a cherry, is much relished by Indians. Mr.
-McClintock thinks that the name refers to a peculiar red-
-ness of skin in this family.
+McClintock thinks that the name refers to a peculiar redness of skin in this family.
 
 39. Arase (perhaps Haraschino from harasche—unthout
 hair). No other interpretation has reached me. The form
@@ -9041,16 +7926,13 @@ LIST OF ARAWAK FAMILIES. 183
 the region of the Orinoco by the cruelty of the Spaniards.
 Possibly the name refers to these so-called Spanish Arawaks.
 
-42. Sewenana. A family sprung ‘from the razor-
-grinder,’ an insect remarkable for the extraordinarily loud
+42. Sewenana. A family sprung ‘from the razorgrinder,’ an insect remarkable for the extraordinarily loud
 noise with which it makes the forest resound.
 
 43. Yatéyo. The form of the word is quite abnormal.
-Mr. McClintock says that it means ‘the offspring of a can-
-nibal.’
+Mr. McClintock says that it means ‘the offspring of a cannibal.’
 
-44, Waruwakana, ‘from the waruwaka, or wild liquo-
-rice tree. The tree is Cassia grandis. It grows to a large
+44, Waruwakana, ‘from the waruwaka, or wild liquorice tree. The tree is Cassia grandis. It grows to a large
 size, and is one of the most beautiful in the colony; when
 in flower every branch is covered with a small, delicate pink
 flower. It is common on the Essequibo coast.
@@ -9058,14 +7940,12 @@ flower. It is common on the Essequibo coast.
 45. Korikuréna. This name is said to be referable to
 the word korikuri, or, more probably, karukuri = gold.
 
-46. Tetebetana, a family sprung ‘ from a kind of night-
-jar, or goatsucker. There are several species of this bird
+46. Tetebetana, a family sprung ‘ from a kind of nightjar, or goatsucker. There are several species of this bird
 in Guiana, all of which are more or less very remarkable
 for the extraordinary cries with which they make night
 hideous.
 
-47. Arubunodna (or Harubunodna), ‘from the velvet-
-leaf plant, common about Indian houses. On the other
+47. Arubunodna (or Harubunodna), ‘from the velvetleaf plant, common about Indian houses. On the other
 hand, another authority says that the name refers to some
 mixture of Ackawoi blood with the true Arawak.
 
@@ -9082,25 +7962,17 @@ They all, however, declared that many of the names are from
 forms of expression now obsolete, and that the meanings of
 the rest are now known only to a few very aged persons. For
 example, one of my correspondents wrote to me: ‘I do not
-
-
-184 AMONG THE INDIANS OF GUIANA.
-
-
 hope to do very much, as their grandfathers, with whom I
 discussed the matter over Hillhouse’s list thirty-five years
 ago, and their fathers, whose aid I called in when Mr. -
-McClintock had made his additions to that collection, pro-
-nounced them “old-time talk ”—that: is, obsolete.’ In
+McClintock had made his additions to that collection, pronounced them “old-time talk ”—that: is, obsolete.’ In
 further illustration of the difficulty of procuring the desired
-information, I may mention the fact that two of my corre-
-spondents, having accidentally consulted Arawaks from the
+information, I may mention the fact that two of my correspondents, having accidentally consulted Arawaks from the
 same settlement, these Indians differed as to the meanings
 of some of the names; and this gave rise to strife so great,
 that the settlement was nearly broken up and abandoned.
 Yet, notwithstanding these difficulties, some fragmentary
-information was supplied to me; and this has been incor-
-porated, by way of putting it permanently on record, in the
+information was supplied to me; and this has been incorporated, by way of putting it permanently on record, in the
 list of families just given.
 
 The fact chiefly evident is that the names are generally
@@ -9122,8 +7994,7 @@ deny this account, and assert that each family is .descended—
 their fathers knew how, but they themselves have forgotten—
 from its eponymous animal, bird, or plant. It is a matter of
 much regret that I have been unable to find examples of
-these legends of descent. In the present state of know-
-ledge, all that can be observed is, the names are evidently
+these legends of descent. In the present state of knowledge, all that can be observed is, the names are evidently
 almost invariably derived from- natural objects, animal or
 vegetable, and that almost as invariably these eponymous
 
@@ -9137,14 +8008,12 @@ life. |
 “ But, as we shall elsewhere have occasion to point out,
 the common language of these Indians changes with so
 great rapidity, that, within little more than one generation,
-words often change very greatly in form, or even fall com-
-pletely out of use. On the other hand, a word once given
+words often change very greatly in form, or even fall completely out of use. On the other hand, a word once given
 as a name to a family is much more fixed. One and the
 same word, when used as the name of a common object by
 the whole tribe, the members of which live widely scattered
 and never see each other, soon varies greatly from its original
-form, though, when used as a name by a family, the mem-
-bers of which live in comparatively close and constant com-
+form, though, when used as a name by a family, the members of which live in comparatively close and constant com-
 munion, it long retains its original form; thus it is not
 surprising that the meaning of some of these family names
 is unknown to the Indians to the present day, and that they
@@ -9152,31 +8021,23 @@ are regarded merely as meaningless names.
 
 Each family is, or was, kept distinct by the fact that the
 descent is solely and rigidly in the female line, and that no
-intermarriage with relations on the mother’s side is per-
-mitted among these Indians. The first of these regulations,
+intermarriage with relations on the mother’s side is permitted among these Indians. The first of these regulations,
 
 _ the descent in the female line, is doubtless founded on the
 fact that, while there can be no doubt as to the mother of a
 child, there may be considerable doubt as to the father.
-The fundamental idea of the second regulation, which for-
-bids the intermarriage of those-related on the mother’s side,
+The fundamental idea of the second regulation, which forbids the intermarriage of those-related on the mother’s side,
 is not so apparent. According to it, a child may marry a
 husband or wife, as the case may be, of its father’s family, or
 of any other family but that of its mother. If the said
 child is a man, the offspring of his marriage belong to his
-wife’s family, and bear her name; if it be a woman, the off-
-spring of her marriage belong to her family, and conse-
+wife’s family, and bear her name; if it be a woman, the offspring of her marriage belong to her family, and conse-
 quently to her mother’s. It is evident that the two regula-
 _tions, taken together, ensure the purity of descent in each
 family.
 
 Quite in acéordance with this system of retaining the
 descent in the female line is the fact, which will be noted
-
-
-186 AMONG THE INDIANS OF GUIANA.
-
-
 in due course, that an Indian, when he marries, goes to live
 in the house of his’ father-in-law, and works for him; he
 becomes, in fact, a part of his wife’s family. |
@@ -9189,8 +8050,7 @@ by the women when speaking to the men, the other being used
 only by the women between themselves, or by the men when
 repeating oratio obliqua some saying of the women—has long
 been known, and has been plausibly explained by the fact
-that the women were captured from foreign tribes and re-
-tained their own language for use amongst themselves. The _
+that the women were captured from foreign tribes and retained their own language for use amongst themselves. The _
 same fact, liable to the same explanation, may still be
 noticed in some slight degree in Guiana. And the fact that
 at least the Caribs did lay waste the homes of other tribes in
@@ -9202,14 +8062,12 @@ Two explanations are, I think, possible. One, that it was
 not a normal habit of any of the tribes of Guiana to steal
 their wives, but that such bodies of Indian men as went
 marauding into an enemy’s country and there settled, having
-brought none or few of their own women with them, natu-
-rally used their female captives as wives. On excursions of
+brought none or few of their own women with them, naturally used their female captives as wives. On excursions of
 warlike purpose, and only on these, Indians go without
 their women. When, therefore, for example, a body of
 Carib men crossed from the islands to the mainland, carrying
 destruction before them, and then found it convenient to
-settle in the country they had laid waste, they would natu-
-rally take their captives as wives. The second possible
+settle in the country they had laid waste, they would naturally take their captives as wives. The second possible
 thing is, that the tribes of one branch used the system of
 marriage by family, the tribes of another branch used the
 system of marriage by capture. ‘If this were so, as we know
@@ -9228,9 +8086,6 @@ notably the Macusis, show traces of the system of marriage
 by family. On the whole, though proof cannot at present be
 afforded of either of these two theories, the former seems the
 more probable.
-
-
-188 AMONG THE INDIANS OF GUIANA.
 
 
 CHAPTER VIII.
@@ -9259,8 +8114,7 @@ makes the whole body ugly. But the most striking feature
 of the physique is the sleekness and fulness of the flesh, and
 the apparent absence of any considerable development of
 muscle. This appearance is partly due to a real deficiency
-in the development of muscle by constant and regular exer-
-cise, but partly also to the fact that the form and play of
+in the development of muscle by constant and regular exercise, but partly also to the fact that the form and play of
 such muscle as is there is hidden by the thickness of the skin,
 and by the large quantities of fat deposited by the cassava
 which forms so great a part of the diet of these people. The
@@ -9293,8 +8147,7 @@ to a real appearance of the skin, for the colour is, as nearly
 as I can express it in words, very red cinnamon. The shade
 differs considerably in the different tribes. Perhaps it differs
 according to the localities inhabited by the different tribes ;
-for the forest Indians, except the Warraus and some few in-
-dividuals of other tribes whose colour is obscured by dirt,.
+for the forest Indians, except the Warraus and some few individuals of other tribes whose colour is obscured by dirt,.
 are fairer than those on the open savannahs. Moreover, as
 I have said in a previous chapter, I have seen the skin of ‘an:
 Indian, who, after wearing ‘clothes for about two years, then.
@@ -9304,14 +8157,12 @@ shade quite undistinguishable from that exhibited by his
 fellows. The hair on the scalp is thick, long, very straight,
 and very black, and is generally cut to an even edge, at right
 angles to the neck, round the head. The features of the face
-are strikingly like those familiarly known as Chinese (Mon-
-golian). The expression is decidedly gentle; and a habit
+are strikingly like those familiarly known as Chinese (Mongolian). The expression is decidedly gentle; and a habit
 which almost all Indians have of keeping their eyes turned
 rather to the ground than upward, gives somewhat the
 appearance of timidity. The expression, probably because
 Indians have for many generations trained themselves to
-repress all show of emotion, is very changeless and mono-
-tonous. As a rule the faces of neither men nor women
+repress all show of emotion, is very changeless and monotonous. As a rule the faces of neither men nor women
 appear to the European handsome or beautiful; but in rare
 cases one sees both men and women with features so regular
 ‘and well-formed that they would anywhere be considered
@@ -9322,24 +8173,17 @@ Physically and constitutionally, the Indians, in spite of
 weak, as might, indeed, be guessed from their appearance.
 
 
-190 AMONG THE INDIANS OF GUIANA.
-
-
 They can work, provided the exertion is not very great, for
-very long periods. For instance, they can paddle—an exer-
-cise which, as practised by them, when once the knack is
+very long periods. For instance, they can paddle—an exercise which, as practised by them, when once the knack is
 acquired requires very far less exertion than rowing—for
 several consecutive days and nights, with wonderfully short
 intervals of rest. But any severe work very soon tires them ;
 though they think nothing of walking over the savannah
 day after day, from morning to night, yet they cannot walk
 any given distance even in twice the time required for the
-purpose by the ordinary European or negro. The well-
-known fact, about which I shall presently have to say more,
-~ __ that after a hunting excursion Indians lie idly in their ham-
-mocks for days, arises from their real need of apparently
-excessive rest after any unusually violent exertion. More-
-over, their vital powers seem but weak; many a slight chill,
+purpose by the ordinary European or negro. The wellknown fact, about which I shall presently have to say more,
+~ __ that after a hunting excursion Indians lie idly in their hammocks for days, arises from their real need of apparently
+excessive rest after any unusually violent exertion. Moreover, their vital powers seem but weak; many a slight chill,
 or blow, or wound, that would be insignificant to a negro
 or ordinarily healthy European, is fatal.to some Indians,
 They very rarely attain any considerable age, probably never
@@ -9370,8 +8214,7 @@ PHYSICAL APPEARANCE. 191
 
 of the body shrinks, the fat disappears, and the skin hangs
 in hideous folds from the bones.
-A pleasing point about Indians is that, with some excep-
-tions, they are extremely clean in their personal habits.
+A pleasing point about Indians is that, with some exceptions, they are extremely clean in their personal habits.
 Early in the morning, and many times during the day,
 men and women troop down together to the nearest water,
 be it river, stream, or pool, and there, in company, splash
@@ -9382,13 +8225,11 @@ the thighs are bent downward at right angles to the trunk, the
 lower part of the legs being of course parallel to the trunk,
 and then the legs are again suddenly straightened, thus
 driving forward the body of the swimmer. It is, by the way,
-rather curious that Indians make a point of bathing imme-
-diately after every meal, apparently without ill effects.
+rather curious that Indians make a point of bathing immediately after every meal, apparently without ill effects.
 Owing to these constant washings, their skins are very
 fine and smooth. The exceptional cases in which these
 habits of cleanliness are not observed are to be found in the
-whole tribe of the Warraus, and in some few families, appa-
-rently especially on the Potaro river, of the Ackawoi, who
+whole tribe of the Warraus, and in some few families, apparently especially on the Potaro river, of the Ackawoi, who
 go to the opposite extreme and never wash. The skin and
 the appearance of these is therefore anything but pleasant.
 So far, only the natural physical condition of the Indians
@@ -9405,9 +8246,6 @@ are more especially concerned, this habit is said, both by
 early travellers and by Indians themselves, to have prevailed
 among all the Caribs. However that may be, it is no longer
 practised. Buta somewhat similar habit is yet in full use.
-
-
-192 AMONG THE INDIANS OF GUIANA.
 
 
 Among the True Caribs a two-inch-broad belt of cotton is
@@ -9437,8 +8275,7 @@ ARTIFICIAL MODIFICATIONS OF THE BODY. 193
 
 
 the other tribes, not even the Ackawoi, though these are
-also Caribs, distort their legs in this fashion; but all In-
-dians, men and women alike, generally, if not always,
+also Caribs, distort their legs in this fashion; but all Indians, men and women alike, generally, if not always,
 wear a piece of string or a band of cotton or beads round
 their ankles and round their arms, just below the shoulder,
 and this may possibly be a recently adopted substitute for
@@ -9461,15 +8298,13 @@ the loop of string, fastening it inside the
 mouth, to which is attached a bell-shaped
 ornament, which hangs down over the chin;
 and they pierce the cartilage of the septum
-
 of their noses, from which they suspend a Nooe agp LiP
 half-moon shaped ornament (Fig. 2). The °"™™=™™
 ears too of men, and sometimes of women, are pierced, and
 pieces of stick or straw are passed through the holes.
 
 In turning now to the body-coverings put on by Indians,
-we will consider first such very simple clothing as they ordi-
-narily wear, and then that of many and various kinds which
+we will consider first such very simple clothing as they ordinarily wear, and then that of many and various kinds which
 they put on occasionally for ornament.
 
 Indians, after babyhood, are never seen perfectly naked '
@@ -9481,11 +8316,6 @@ Fig. 3.
 ' The Zurumutas, a sub-group in the interior, in some way allied to the
 Macusis, are said by Sir Robert Schomburgk to live in a state of actual
 nakedness. ;
-
-8)
-
-
-194 . AMONG THE INDIANS OF GUIANA.
 
 
 When they want to change their single garment, they either
@@ -9506,13 +8336,11 @@ people, even as they wander in the streets of Georgetown, do
 not appear naked.
 
 The lap of the man is, with very rare exceptions, now
-formed of blue salemporas cloth, procured directly or in-
-directly from Europeans. The
+formed of blue salemporas cloth, procured directly or indirectly from Europeans. The
 exceptions occur among the
 Warraus, who still sometimes
 wear laps made of the inner
-bark of a tree (Lecythis ol-
-larva ?), which has been beaten
+bark of a tree (Lecythis ollarva ?), which has been beaten
 
 : until it is comparatively soft
 
@@ -9574,23 +8402,13 @@ some kind, and there are others who never use them except
 on special occasions, such as feasts and visits of ceremony.
 
 Painting the body is the simplest mode of adornment.
-Tattooing or any other permanent interference with the sur-
-face of the skin by way of ornament is practised only to a very
-
-02
-
-
-196 AMONG THE INDIANS OF GUIANA.
-
-
-limited extent by the Indians; is used, in fact, only to pro-
-duce the small distinctive tribal mark which many of them
+Tattooing or any other permanent interference with the surface of the skin by way of ornament is practised only to a very
+limited extent by the Indians; is used, in fact, only to produce the small distinctive tribal mark which many of them
 bear at the corners of their mouths or on their arms. It
 is true that an adult Indian is hardly to be found on whose
 thighs and arms, or on other parts of whose body, are not
 a greater or less number of indelibly incised straight lines ;
-but these are scars originally made for surgical, not orna-
-mental purposes. Painting is, however, much practised.
+but these are scars originally made for surgical, not ornamental purposes. Painting is, however, much practised.
 Several pigments are used for this purpose, but chiefly red
 faroah and blue-black lana among the savannah Indians, and
 carmine caraweera and lana among those of the forest; white
@@ -9617,8 +8435,7 @@ meaning were attached to them, but which the Indians are
 either unable or unwilling to explain.
 
 There are two ornaments which are worn by men of all
-tribes more frequently than any others. These are a neck-
-lace of bush-hogs’ teeth and the pair of armlets of which
+tribes more frequently than any others. These are a necklace of bush-hogs’ teeth and the pair of armlets of which
 mention was made a page or two back. Of the first of these
 one is possessed by every adult Indian, and is almost
 
@@ -9648,8 +8465,7 @@ the arm, and is furnished at the knot, in front of the arm,
 with a flat disc of bone, shell, or metal, from which the long
 loose ends of the string hang down.
 
-The other ornaments seem to have no special signifi-
-cance, and are used in more or less profusion according to
+The other ornaments seem to have no special significance, and are used in more or less profusion according to
 the individual taste of each Indian, but chiefly on the
 occasion of feasts.
 
@@ -9663,11 +8479,7 @@ down from under the feathers of the curassow bird (Craz
 alector). Among the toilet properties of an Indian is a
 small bag made of skin, full of this down, from which small
 pieces are pulled out and used as required. A long straw,
-or a stick of letter-wood, sometimes ornamented with hum-
-ming birds’ and other feathers, is passed through a hole in.
-
-
-198 AMONG THE INDIANS OF GUIANA.
+or a stick of letter-wood, sometimes ornamented with humming birds’ and other feathers, is passed through a hole in.
 
 
 the lobe of each ear in such a way that one end rests on the
@@ -9679,8 +8491,7 @@ the mouth. Apparently, the crescent-shaped nose-pieces
 are proper to the Carib tribes, the round to the Wapianas.
 Sometimes they are so large that the wearer has to hold up
 this ornament with one hand, while he lifts the calabash of
-liquor to his mouth with the other. A small, bell-like orna-
-ment, made of white bone or shell, with a long streamer of
+liquor to his mouth with the other. A small, bell-like ornament, made of white bone or shell, with a long streamer of
 white or red cotton in place of the clapper (Fig. 5), is hung
 by a string passed through the middle of the’ under lip.
 Beautiful crowns of feathers, of two shapes, the colours
@@ -9695,22 +8506,16 @@ Nosk ORNAMENTS.
 varying with the tribe to which each Indian belongs, is
 worn on the head. (See Frontispiece.) Several strings of -
 cotton hang from the back of this down to the heels, where
-they are finished off with skins of toucans, fire-birds, cocks-
-of-the-rock and other such bright-coloured birds, or with
+they are finished off with skins of toucans, fire-birds, cocksof-the-rock and other such bright-coloured birds, or with
 tassels, made of iridescent beetles’ wings, which tinkle like
-tiny bells at each movement of the wearer. Strings of jang-
-ling seeds are fastened round the ankles and the arms, and
+tiny bells at each movement of the wearer. Strings of jangling seeds are fastened round the ankles and the arms, and
 two others are worn over the shoulders, crossed saltire-fashion
 in front and at the back of the body. Round his neck the
 Indian puts not only his necklace of bush-hogs’ teeth, but
 also necklaces of the teeth of other animals and of seeds.
-Round the waist is sometimes put a skirt of young yellowish-
-green palm leaves, neatly plaited.
+Round the waist is sometimes put a skirt of young yellowishgreen palm leaves, neatly plaited.
 
-Ruffs made of the long tail-feathers of macaws are fas-
-
-
-me
+Ruffs made of the long tail-feathers of macaws are fasme
 
 
 Two Feather Head-dresses.
@@ -9727,8 +8532,7 @@ tened on to the shoulders so as to stand out almost at right
 angles to the body. (See Frontispiece.) Other
 very short mantles of woven cotton, from which
 hang long cotton cords, ornamented at frequent
-intervals with tufts of white down, are occa-
-sionally worn (Fig. 6, p. 200); but the art of
+intervals with tufts of white down, are occasionally worn (Fig. 6, p. 200); but the art of
 making these is said to have been lost. Collars
 made of white heron feathers, or the black
 feathers of the curassow bird, are sometimes
@@ -9751,8 +8555,7 @@ principally used for their necklaces, or, if these
 are made of teeth, they are generally of jaguar’s
 teeth.
 
-The Indians differ individually in the de-
-gree of care which each takes of his or her
+The Indians differ individually in the degree of care which each takes of his or her
 personal appearance as much as do members
 of civilised communities. One whole tribe, the
 Warraus, are, or were, distinguished by utter
@@ -9766,9 +8569,6 @@ pronounced degrees. A young Indian in the lL Oavauexz.
 
 
 Fra. 5.
-
-
-200 AMONG THE. INDIANS OF GUIANA.
 
 
 prime of his life, conscious of a fine figure and good looks,
@@ -9805,8 +8605,7 @@ CoTTon MANTLE.
 
 As one of the earliest ways in. which the Indian mimics
 the European is in the adoption of clothes, even though he
-generally only uses these while he is among white men, re-
-jecting them with a sigh of relief as soon as he is alone with
+generally only uses these while he is among white men, rejecting them with a sigh of relief as soon as he is alone with
 his fellows, it may not be out of place to say a word here
 as to how far this matter has yet gone. The new habit
 seems to be adopted in three stages: first, beads are used by
@@ -9817,12 +8616,10 @@ way of show some single European garment, generally an
 ADOPTION OF EUROPEAN DRESS. 201
 
 
-ordinary flannel jersey or a hat, and the women wear a gar-
-ment made like a flannel petticoat, worn round the neck, the
+ordinary flannel jersey or a hat, and the women wear a garment made like a flannel petticoat, worn round the neck, the
 band over one shoulder, under the other; and lastly, the
 men wear shirt and trousers, the women an ordinary dress, in
-each case without other clothing. Beads have already pene-
-trated almost throughout the colony, enormous quantities
+each case without other clothing. Beads have already penetrated almost throughout the colony, enormous quantities
 finding their way, in barter, year by year into the interior.
 As is evident from what has been said, they are used chiefly
 to replace the seeds or teeth, which were formerly all that
@@ -9837,9 +8634,6 @@ stations of the coast region.
 
 
 o
-
-
-202 AMONG THE INDIANS OF GUIANA,
 
 
 CHAPTER IX.
@@ -9859,18 +8653,15 @@ Thatch-materials. .
 THE homes of the Indians are widely scattered both in the
 forests and on the savannahs, but there is some difference in
 their mode of distribution in these two different regions.
-In the forest each family generally lives in a separate settle-
-ment of one or more houses, often far from the nearest
+In the forest each family generally lives in a separate settlement of one or more houses, often far from the nearest
 neighbours. How far apart these settlements are mwnay be
 gathered from the fact that in the two hundred and fifty
 miles of the course of the Essequibo from the first falls—at
 Aretaka— upward, there are not half a dozen of them. On
-the savannahs also, separate widely scattered family settle-
-ments occur, but more often several families have united and
+the savannahs also, separate widely scattered family settlements occur, but more often several families have united and
 formed villages, which sometimes consist of as many as from
 twenty to thirty houses, each containing a separate family.
-. The houses are everywhere almost equally simple in struc-
-ture, forthe materials are everywhere much the same and admit
+. The houses are everywhere almost equally simple in structure, forthe materials are everywhere much the same and admit
 of but little difference in combination ; and such differences ss
 exist have evidently arisen in consequence of natural efforts
 to meet the special requirements of each kind of situation.
@@ -9896,12 +8687,9 @@ across these plains. But between these three types of
 houses —those on piles, those in the forest, and those on the
 savannah—there are, as we shall see, many gradations,
 
-My travels never having led me into the swamps occu-
-pied by the Warraus, I cannot write of their pile-dwellings
+My travels never having led me into the swamps occupied by the Warraus, I cannot write of their pile-dwellings
 from experience. Richard Schomburgk’s description of one
-such place is as follows: ‘The whole settlement was sur-
-rounded by water, and the miserable huts, seven or eight
-
+such place is as follows: ‘The whole settlement was surrounded by water, and the miserable huts, seven or eight
 feet long, stood on a platform, formed of interlaced stems of
 - the manicole palm (Euterpe oleracea), and supported on piles
 or tree-trunks of five or six feet in height. In the centre of
@@ -9915,19 +8703,14 @@ is so swampy that a narrow raised path leads from the
 settlement to the nearest somewhat higher ground.’ !
 
 The forest Indian’s house, or group of houses, stands in
-a clearing abruptly walled in. by tall forest trees. Irregu-
-larly planted cassava, sugar-cane, pine-apples, and other
+a clearing abruptly walled in. by tall forest trees. Irregularly planted cassava, sugar-cane, pine-apples, and other
 plants which the Indian cultivates, grow intermingled with
 wild seedlings and shoots from the stumps of the trees
 which once stood there; and the whole is matted together
-by thickly growing yam-vines, and by razor-grass, passion-
-flower, and other wild creeping plants. Charred trunks of
+by thickly growing yam-vines, and by razor-grass, passionflower, and other wild creeping plants. Charred trunks of
 felled trees.lie in all directions amongst this dense mass of
 
 1 Schomburgk's Reisen in Britisch Guiana (Leipzig, 1847), vol. i. p. 195.
-
-
-204 AMONG THE INDIANS OF GUIANA.
 
 
 vegetation. A very narrow and much-trodden path leads
@@ -9939,8 +8722,7 @@ square, or at least rectangular, ‘The four posts and the cross-
 ‘beams support a sloping thatch of palm-leaves.. The two
 gable-ends are usually entirely open; but on the two sides the
 eaves of the thatch almost touch the ground. The floor is
-the natural earth, often a loose white sand. The most con-
-spicuous objects inside each house are a huge canoe-shaped
+the natural earth, often a loose white sand. The most conspicuous objects inside each house are a huge canoe-shaped
 wooden trough, to hold paiwarie, some clay pots for cooking,
 a few bottles made of clay, some hollow gourds, baskets,
 implements for making cassava bread, and some low wooden
@@ -9965,8 +8747,7 @@ cleanest and most cared for. A partition, made of palm
 leaves or bark, often makes part of the house private.
 Sometimes, indeed, these Arawak houses, standing in
 clearings floored with glittering white sand and bordered
-with coffee and cashew trees, among which beautiful crim-
-gon lilies (Hippeastrum equestre) grow thickly, are as
+with coffee and cashew trees, among which beautiful crimgon lilies (Hippeastrum equestre) grow thickly, are as
 pleasant places as any-in which one need wish to stay. But
 in these, as.in some other respects, the Arawaks have
 
@@ -9977,23 +8758,20 @@ FOREST HOUSES AND SAVANNAH HOUSES, 205
 adopted a considerable amount of civilisation from their
 white neighbours,
 
-Sometimes, where the forest houses stand in very exten-
-sive clearings, where therefore there is some need of shelter,
+Sometimes, where the forest houses stand in very extensive clearings, where therefore there is some need of shelter,
 a wall of plaited palm-leaves or of bark is added to the house
 on the side most exposed to the wind, or even all round.
 
 The savannah houses are almost invariably round or
 oval. There are no signs of cultivation round them, with
-the exception, perhaps, of a few stunted and untended white-
-podded cotton plants or faroah shrubs loaded ‘with their
+the exception, perhaps, of a few stunted and untended whitepodded cotton plants or faroah shrubs loaded ‘with their
 beautiful crimson fruit; for the fields belonging to these
 houses are far away, in the centre of one of the thickets
 which line the gullies or edge the streams of the savannah
 country. The house is-provided with very substantial walls
 of wattle-work thickly plastered with mud, often two feet in
 thickness ; and above these’ rises the high conical thatch of
-palm-leaves. A few feet off the main house is a rude dome-
-shaped building, entirely smothered in palm-leaves, and
+palm-leaves. A few feet off the main house is a rude domeshaped building, entirely smothered in palm-leaves, and
 looking like a gigantic English haycock, which serves as a
 kitchen, and im. which the women often sleep. Generally
 there is a third building, a mere shed, which is intended for
@@ -10016,19 +8794,12 @@ they are pulled down and the substantial permanent walls
 are built. |
 
 For a few minutes after entering the main house, it is
-
-
-206 AMONG THE INDIANS OF GUIANA.
-
-
 impossible to distinguish anything. There are no windows;
 and the very narrow doorway, which is the only apparent
-opening in the walls, is blocked with loose posts, or some-
-times with a rude door of leaves or skin. Sometimes there
+opening in the walls, is blocked with loose posts, or sometimes with a rude door of leaves or skin. Sometimes there
 is another, smaller, concealed door at the other end of the
 house, by which it is said the women and children escape
-when the house is entered by anyone with hostile inten-
-tions ; but such hostile visits being extremely rare, this door
+when the house is entered by anyone with hostile intentions ; but such hostile visits being extremely rare, this door
 always remains closed. Gradually the eye accustoms itself
 to the gloom and darkness, and the interior becomes visible.
 The floor is of mud, trodden by much traffic to the hardness
@@ -10070,17 +8841,14 @@ and this is done not by any special tribe, but occasionally by
 Arecunas, Macusis, and by other Carib tribes. They stand
 not in swamps, but on dry ground, sometimes on top of a
 hill. Except that they are much larger, they are exactly
-like the Warrau houses already described; and it is a note-
-worthy fact that the platform on which the house stands is,
+like the Warrau houses already described; and it is a noteworthy fact that the platform on which the house stands is,
 as in the case of the Warrau houses, made of the stems of
-manicole palms (Euterpe oleracea), though this moisture-
-loving palm is very locally distributed in the savannah
+manicole palms (Euterpe oleracea), though this moistureloving palm is very locally distributed in the savannah
 region, and the Indians fetch it from long distances,
 although other, apparently equally suitable, material is at
 hand. It is probable that these savannah pile-builders
 revert to a form of house which they saw—and perhaps
-used—on the coast land, when they first reached the main-
-land from the islands.
+used—on the coast land, when they first reached the mainland from the islands.
 
 After all, each of these houses is but a variation of the —
 same idea. Four or more poles or posts, fixed upright in ©
@@ -10088,8 +8856,7 @@ the ground, connected by cross-sticks lashed with pieces of
 the stems of creeping plants from the top of one upright to
 that of another, and surmounted by other poles lashed on to
 the cross-pieces, so as to slope from these to a common
-ridge-pole, in the case of the rectangular houses, or to a com-
-mon centre in the case of the circular or oval houses, forms
+ridge-pole, in the case of the rectangular houses, or to a common centre in the case of the circular or oval houses, forms
 the entire framework. A thatch of leaves is then fastened
 on to the sloping roof-poles. Then the house is complete.
 Sometimes, however, it is raised from the ground on piles,
@@ -10101,13 +8868,7 @@ in yet other cases these leaf-walls are plastered with mud, or
 are replaced by sheets of bark; and in yet other cases, the
 leaf-walls are replaced by wattle-work, and on this stronger
 framework much more substantial walls of mud are laid.
-That the houses on the savannah are round instead of rec-
-
-
-208 AMONG THE INDIANS OF GUIANA.
-
-
-tangular may be due to the wish to present as few points of
+That the houses on the savannah are round instead of rectangular may be due to the wish to present as few points of
 resistance as possible to the wind; or the shape may simply
 have been copied from Indians of other Brazilian tribes.
 And the occasional habit of building one large house for
@@ -10115,8 +8876,7 @@ many families, instead of a small house for each family, is
 probably also copied from other tribes.
 
 As yet, only permanent dwelling-houses have been
-described. But whenever an Indian is on a hunting or fish-
-ing expedition, or is for any reason away from home, during
+described. But whenever an Indian is on a hunting or fishing expedition, or is for any reason away from home, during
 the rainy season, he builds for himself at night a temporary
 shelter, called in the colony a ‘benaboo, or ‘benab.’? A
 benaboo is less or more substantially built according to its
@@ -10152,14 +8912,11 @@ think that possibly not the real, but only temporary shelters, such as these
 EVOLUTION OF HOUSE-BUILDING. 209
 
 
-trace the whole history of the development of house build-
-ing among these Indians, from the first rough shelter made
-by sticking a few leaves into the ground, to the most com-
-plete mud-walled house on the savannah. It may not be
+trace the whole history of the development of house building among these Indians, from the first rough shelter made
+by sticking a few leaves into the ground, to the most complete mud-walled house on the savannah. It may not be
 unsuggestive to add that this most complete Indian house is
 in all essential points similar to the simpler houses built in
-other parts of the world—such, for instance, as is the High-
-land hut. ‘
+other parts of the world—such, for instance, as is the Highland hut. ‘
 
 Lastly, as regards the materials of which Indian houses
 are built, the only point which needs further explanation is
@@ -10169,22 +8926,19 @@ easily attainable in any district. Various kinds of palm are
 the chief thatch plants. Each gigantic undivided leaf of
 the troolie palm (Manicaria saccifera) is really a shelter in
 itself; and a few of these laid, without further preparation,
-so as to overlap like tiles, make a most perfect roof. In-
-deed, before corrugated zinc was introduced for the purpose,
+so as to overlap like tiles, make a most perfect roof. Indeed, before corrugated zinc was introduced for the purpose,
 a large trade was carried on between the Indians and the
 planters on the coast in these troolie-leaves, with which most
 of the buildings on the sugar estates were thatched. Where
 troolie does not grow, there is often an abundance of a dwarf
 palm (Geonoma baculifera), with small, almost transparent
 leaves, called by the Indians dealibanni. The leaves of
-this afford a thatch which is, in one respect, still more con-
-venient than troolie. They are gathered and fastened by
+this afford a thatch which is, in one respect, still more convenient than troolie. They are gathered and fastened by
 their stalks, so as to hang close together, and with their
 sides overlapping, from a long lath cut from the stem of the
 booba-palm (Iriartia exorrhiza). Such rows of leaves, ten
 or twelve feet long, and two or three feet deep, are arranged
-one above and overlapping the other. The great advan-
-tage of this plan consists in the fact that the entire rows of
+one above and overlapping the other. The great advantage of this plan consists in the fact that the entire rows of
 leaves can be taken down in a few moments from the roof
 or walls of a house, can be removed, and can be tied on to a
 new framework almost as speedily. One Indian I knew,
@@ -10192,9 +8946,6 @@ who had a small house thatched in this way in his field,
 which was far from any settlement, in which he used to live
 
 P
-
-
-210 AMONG THE INDIANS OF GUIANA.
 
 
 for a day or two at a time when cultivating the ground,
@@ -10214,17 +8965,13 @@ being much more easily procurable though less durable.
 In other parts of the country, thatching is done with the
 young leaves of the cokerite or turu palms (Mazimiliana
 regia and G@nocarpus baccaba), which are cut before the
-leaflets have spread from the midrib, so that when the leaf-
-lets are separated artificially, they hang limp and loose from
-the midrib. Sometimes the leaves, without further prepara-
-tion, are then tied on to the roof, the one above the other ;
+leaflets have spread from the midrib, so that when the leaflets are separated artificially, they hang limp and loose from
+the midrib. Sometimes the leaves, without further preparation, are then tied on to the roof, the one above the other ;
 but sometimes the leaflets from the two sides of the midrib
 are first plaited together. The young fan-leaves of the eta
-palm (Mauritia flecwosa) are also sometimes used, the leaf-
-lets being cut from the leafstalk, and used just as straw or
+palm (Mauritia flecwosa) are also sometimes used, the leaflets being cut from the leafstalk, and used just as straw or
 rushes are in England. But, beside palm-leaves, the huge
-oblong leaves of the ‘wild plaintain’ (Ravenala guian-
-ensis) are also sometimes used for thatch; and where no
+oblong leaves of the ‘wild plaintain’ (Ravenala guianensis) are also sometimes used for thatch; and where no
 other materials are easily procurable, the comparatively
 small broad leaves of a common aroid (Anthurium acaule)
 are used, strung together many on a stick. In any case the
@@ -10235,9 +8982,6 @@ in a deserted house or temporary benaboo, it falls to pieces
 in a few months.
 
 
-211
-
-
 CHAPTER X.
 
 
@@ -10245,14 +8989,11 @@ SOCIAL LIFE.
 
 
 Ruling Authorities—Observance of Mutual Rights—Treatment of Women—
-The Story of a Day—The Story of a Life—Birth— Couwvade—Child-
-hood—Personal Names—Marriage— Death— Burial.
+The Story of a Day—The Story of a Life—Birth— Couwvade—Childhood—Personal Names—Marriage— Death— Burial.
 
 
 THE system of authority which prevails in Indian societies
 is very simple. Each family, whether living apart or in a
-
-
 settlement, is ruled over by the father, whose authority —
 
 
@@ -10266,28 +9007,21 @@ father of each, while retaining his authority over his own
 family, is to some extent under the authority—that is, under
 the fear and influence—of the peaiman, and, where several
 families live in one place, he is also under the authority of
-the headman of the settlement. The authority of the peai-
-man, which will presently be explained in greater detail,
+the headman of the settlement. The authority of the peaiman, which will presently be explained in greater detail,
 depends on the power which the man is supposed to exercise
 over spirits of all kinds and, as all diseases are supposed to
-be the work of spirits, over diseases, and, yet further, con-
-sequently over the bodies of his fellows. The headman, on
+be the work of spirits, over diseases, and, yet further, consequently over the bodies of his fellows. The headman, on
 the other hand, is generally the most successful hunter,
 who, without having any formal authority, yet because he
 organises the fishing and hunting parties, obtains a certain
 amount of deference from the other men of his village. He
-settles all disputes within the settlement, and in the not dis-
-tant days when Indians were in the habit of waging war,the one
+settles all disputes within the settlement, and in the not distant days when Indians were in the habit of waging war,the one
 P 2
-
-
-212 AMONG THE INDIANS OF GUIANA.
 
 
 on the other, he used, according to Richard Schomburgk, to
 determine on the commencement of hostilities. His orders to
-any of the men of his settlement to go anywhere or to do any-
-thing are implicitly obeyed. And after a successful hunting
+any of the men of his settlement to go anywhere or to do anything are implicitly obeyed. And after a successful hunting
 or fishing excursion, he always receives a larger share than
 the others of the booty. This system of authority—that of
 the peaiman, of the head man of the settlement, and of the
@@ -10307,10 +9041,8 @@ a number of his tribe to support his claim, travelled to
 Georgetown and appeared before the Governor. If it seemed
 the wish of the majority of the Indians concerned, he was
 nominally made captain of thé Indians of his district ; really
-he was, comically enough, commissioned to be ‘ rural con-
-stable.’ From that day, wherever be went, he carried with
-him his certificate, a most potent and mysterious docu-
-ment to the Indians, and a huge staff of letter-wood, as signs
+he was, comically enough, commissioned to be ‘ rural constable.’ From that day, wherever be went, he carried with
+him his certificate, a most potent and mysterious document to the Indians, and a huge staff of letter-wood, as signs
 of authority. His power is strangely real, considering that
 to enforce it he has to depend but on his uwn influence, ona
 sheet of paper, and a stick such as every Indian might cut
@@ -10332,8 +9064,7 @@ creating some sort of order among these people. |
 A far clearer idea of Indian social life will be gained by
 first obtaining some knowledge of the moral character of
 these people. The ordinary Indian in his natural state,
-and before he feels the influence of white men, is of de-
-cidedly admirable morality. There are, of course, excep-
+and before he feels the influence of white men, is of decidedly admirable morality. There are, of course, excep-
 tions; but such individuals are very. rare, and are soon
 killed or driven out from the tribe. To women and children,
 and to those weaker than himself, the Indian is gentle; he
@@ -10345,8 +9076,7 @@ manifest to me in a curious manner. When living, on
 generally very friendly terms, with a party of Indians, of
 whom the head-man and one or two of the others spoke a
 few words of English, I, on more than one occasion, gave
-slight, very temporary offence to the chief, who used to in-
-dicate his displeasure by forgetting his English for a time,
+slight, very temporary offence to the chief, who used to indicate his displeasure by forgetting his English for a time,
 and so forcing me to fall back on my small stock of Indian
 words; and on such occasions the others, though still very
 friendly, used to refuse absolutely to speak English, however
@@ -10376,8 +9106,7 @@ another, even if unintentional, must be atoned by suffering
 a similar injury. Of course all this refers chiefly to the
 mutual relations of members of the same tribe; for the
 Indian has no dealings with tribes other than his cwn,
-except occasionally to barter, when his dealings are regu-
-lated by the ordinary laws of honesty, and the strangers with
+except occasionally to barter, when his dealings are regulated by the ordinary laws of honesty, and the strangers with
 merchandise are for the time being treated as members of
 the tribe. Yet even in dealing with white men, the Indian
 cannot shake himself free from the ideas generated by this
@@ -10393,8 +9122,7 @@ MGe and the other Macusis, and only after that was I told a
 Macusi version of ‘I beg your pardon.’ It turned out to be
 ‘me hit you again.’ The second instance was this. An
 Arawak named Robert, belonging to the Corentyn River,
-undertook to accompany a young fellow from New Amster-
-dam on a shooting excursion. Some monkeys being seen
+undertook to accompany a young fellow from New Amsterdam on a shooting excursion. Some monkeys being seen
 at the top of a tree, the white man fired and apparently
 killed one, which, however, as is often the case, remained
 clinging to the bough. Robert climbed for it, and when
@@ -10422,16 +9150,13 @@ share of the necessary work than appears to us proper, may
 seem somewhat to contradict the favourable verdict on the
 mutual relations of Indians. In reality the men’s work,
 hunting, and cutting down trees where cassava is to be
-planted, is at least equal to, though accomplished more fit-
-fully than, that of the women. And, moreover, no different
+planted, is at least equal to, though accomplished more fitfully than, that of the women. And, moreover, no different
 distribution of labour has ever entered into the thoughts of
-Indians, and the wonten do their share of work willingly, with-
-out question, and without compulsion. The women in a quiet
+Indians, and the wonten do their share of work willingly, without question, and without compulsion. The women in a quiet
 way even have a considerable amount of influence with the
 men; and even if the men were—though this is in fact quite
 contrary to their nature—inclined to treat them cruelly, public
-opinion would prevent this. Moreover, the women, just be-
-cause they have been accustomed to labour hard all their lives,
+opinion would prevent this. Moreover, the women, just because they have been accustomed to labour hard all their lives,
 and because this has been the rule for an unknown number of
 generations, are probably very little, if any, weaker than the
 men; and if a contest arose between an average man and an
@@ -10440,34 +9165,25 @@ would be.
 
 The life led by forest and savannah Indians alike, is very
 simple and unvaried. The day begins before dawn. Men
-and women turn out of their hammocks and stretch them-
-selves. The first thing done is to wash. The morning bath
-over, the men, if it does not happen to be a day for hunt-
-ing, throw themselves back into their hammocks and there
+and women turn out of their hammocks and stretch themselves. The first thing done is to wash. The morning bath
+over, the men, if it does not happen to be a day for hunting, throw themselves back into their hammocks and there
 spend almost the whole day, smoking cigarettes made of
 home-grown tobacco wrapt in the inner bark of a tree, and
 leisurely fashioning arrow-heads or some such article of use
 or of ornament. The hard work falls on the women. They
 clean the house—so far as cleaning is considered necessary—
 fetch water and firewood, cook the food, make the bread,
-
-
-216 AMONG THE INDIANS OF GUIANA.
-
-
 nurse the children, plant the fields, dig the produce; and
 when any of the men travel, the women carry whatever
 baggage is necessary. When not engaged in cultivating
 their fields, in feeding their fathers, husbands, brothers, or
 sons, the women fetch water for the house from the nearest
 stream in clay bottles or in goobies (gourds), or they take
-surianas—large baskets which fit on the back and are sup-
-ported by a band placed across the forehead—and fetch
+surianas—large baskets which fit on the back and are supported by a band placed across the forehead—and fetch
 heavy loads of firewood. When all these things are done,
 they yet, if there is but little cassava bread left, have to
 replenish the stock. This last labour—no easy one—seems
-almost incessant. It is rare to enter an Indian house with-
-out seeing some, sometimes all, of the women engaged in
+almost incessant. It is rare to enter an Indian house without seeing some, sometimes all, of the women engaged in
 making bread.
 
 But the list of the woman’s labours is not yet complete.
@@ -10483,8 +9199,7 @@ time during the day to be in her hammock.
 
 When the day has at last come to an end, and the
 women have gathered together enough wood for the fires
-during the night, they too throw themselves into their ham-
-mocks; and all talk together. Till far into the night, the
+during the night, they too throw themselves into their hammocks; and all talk together. Till far into the night, the
 men tell endless stories, sometimes droning them out ina
 sort of monotonous chant, sometimes delivering them with a
 startling amount of emphasis and gesticulation. The boys
@@ -10535,22 +9250,16 @@ child is born.' Then in a few hours—often less than a
 
 ' Richard Schomburgk says (of Macusis): ‘Der Nabelstrang wird von
 der Mutter oder der Schwester der Gebiabrenden abgeschnitten ; ist das
-neugeborne Kind ein Knabe, so geschieht dies mit einem scharf geschnit-
-tenen Bambusrohr; ist es ein Madchen, mit einem Stiick Pfeilrohr
+neugeborne Kind ein Knabe, so geschieht dies mit einem scharf geschnittenen Bambusrohr; ist es ein Madchen, mit einem Stiick Pfeilrohr
 (Gynoriwm saccharcides), worauf er mit einem baumwollenenen Faden
 unterbunden wird" (Reisen in Britisoh Guiana, vol. ii. p. 313). According
 to the same authority the teeth of the mother are, among the Warraus,
 used instead of the bamboo. (Ibid. p. 166.)
 
 
-218 AMONG THE INDIANS OF GUIANA.
-
-
 day—the woman, who like all women living in a very
-unartificial condition, suffers but little, gets up and re-
-sumes her ordinary work. According to Schomburgk, the
-mother, at any rate among the Macusis, remains in her ham-
-mock for some time (‘bis dem Kinde die Nabelschnur ab-.
+unartificial condition, suffers but little, gets up and resumes her ordinary work. According to Schomburgk, the
+mother, at any rate among the Macusis, remains in her hammock for some time (‘bis dem Kinde die Nabelschnur ab-.
 fallt’), and the father hangs his hammock, and lies in it, by
 her side; but in all cases where the matter came under my
 notice, the mother left her hammock almost at once. In
@@ -10559,12 +9268,10 @@ to his hammock and, abstaining from every sort of work,
 from meat and all other food, except weak gruel of
 cassava meal, from smoking, from washing himself, and,
 above all, from touching weapons of any sort, is nursed and
-cared for by all the women of the place. One other regu-
-lation, mentioned by Schomburgk, is certainly quaint; the
+cared for by all the women of the place. One other regulation, mentioned by Schomburgk, is certainly quaint; the
 interesting father may not scratch himself with his finger
 nails, but he may use for this purpose a splinter, specially
-provided, from the mid-rib of a cokerite palm. This con-
-tinues for many days, and sometimes even weeks.
+provided, from the mid-rib of a cokerite palm. This continues for many days, and sometimes even weeks.
 
 Ceuvade is such a wide-spread institution, that I had
 often read and wondered at it; but it was not until I saw it
@@ -10575,8 +9282,7 @@ persuade them to disregard, of observing couvade, that I
 realized its full strangeness. No satisfactory explanation
 of its origin seems attainable. It appears based on a belief
 in the existence of a mysterious connection between the
-child and its father—far closer than that which exists be-
-tween the child and its mother,—and of such a nature that
+child and its father—far closer than that which exists between the child and its mother,—and of such a nature that
 if the father infringes any of the rules of couvade, for a time
 after the birth of the child, the latter suffers. For instance,
 if he eats the flesh of a water-haas (Capybara), a large
@@ -10605,8 +9311,7 @@ almost always, even when working, carries it against her hip,
 slung in a small hammock from her neck or shoulder. The
 father, when he returns from hunting, brings it strange
 seeds to play with, fondles it, and makes it necklaces and
-other ornaments. The young children seem fully to recip-
-rocate the affection of their parents; but as they grow older,
+other ornaments. The young children seem fully to reciprocate the affection of their parents; but as they grow older,
 the affection on both sides seems to cool, though in reality
 it perhaps only becomes less demonstrative. Only once have
 I seen grown-up Indians‘ mingling in the games of their
@@ -10614,8 +9319,7 @@ children. Indians rarely, if ever, ill-treat their children, of
 whatever age they may be. As soon as the children can
 run about, they are left almost to themselves; or rather,
 they begin to mimic their parents. As with the adults, so
-with the children. Just as the grown-up woman works in-
-cessantly, while the men alternately idle and hunt, so the
+with the children. Just as the grown-up woman works incessantly, while the men alternately idle and hunt, so the
 boys run wild, playing, not such concerted games as in
 other parts of the world more usually form child’s-play, but
 only with mimic bows and arrows; but the girls, as soon as
@@ -10628,19 +9332,12 @@ woman’s work.
 
 The system under which the Indians have their personal
 names is intricate, and difficult to explain. In the first
-
-
-220 AMONG THE INDIANS OF GUIANA.
-
-
 place, a name, which may be called the proper name, is
 always given to a young child soon after birth. It is said to
 be proper that the peaiman, or medicine-man, should choose
 and give this name ; but, at any rate now, the naming seems
-more often left to the parents. The word selected is gener-
-ally the name of some plant, bird, or other natural object.
-Among Arawak proper names may be mentioned Yambe-
-nassi (night-monkey) and Yuri-tokoro (tobacco-flower), and"
+more often left to the parents. The word selected is generally the name of some plant, bird, or other natural object.
+Among Arawak proper names may be mentioned Yambenassi (night-monkey) and Yuri-tokoro (tobacco-flower), and"
 among Macusi names 7%-ti (owl), Cheripuwng (star ?), and
 Simiri (locust-tree). But these names seem of little use, in
 that owners have a very strong objection to telling or using.
@@ -10698,8 +9395,7 @@ the durable presents, such as beads and other ornaments,
 which he has given her. But before he is allowed to choose
 at all, he must prove that he is a man, and can do man’s
 work. Without flinching, he suffers the infliction of wounds
-in his flesh; or he allows himself to be sewn up in a ham-
-mock full of fire-ants; or by some other similar tests he
+in his flesh; or he allows himself to be sewn up in a hammock full of fire-ants; or by some other similar tests he
 shows his courage. And he clears a space in the forest to be
 planted with cassava, and brings in as much game and tish
 as possible, to show that he is able to support himself and
@@ -10715,14 +9411,10 @@ two cutlasses, an axe, two razors, some knives, and a piece of
 the blue cloth called salemporas for the father, and twelve
 bunches of beads for his daughter. Sometimes, again, a
 girl is given by her parents to 4 man in recompense for
-some service done. The marriage once arranged, the hus-
-band immediately transports his possessions to the house of
+some service done. The marriage once arranged, the husband immediately transports his possessions to the house of
 
 
 /
-
-
-222 AMONG THE INDIANS OF GUIANA.
 
 
 his father-in-law, and there he lives and works. The head
@@ -10732,8 +9424,7 @@ final separation between husband and wife may be made at the
 will of the former at any time before the birth of children ;
 after that, if the husband goes away, as very rarely happens,
 it is considered not lawful separation, but desertion. When
-the family of the young couple become too large to be con-
-veniently housed underneath the roof of the father-in-law,
+the family of the young couple become too large to be conveniently housed underneath the roof of the father-in-law,
 the young husband builds a house for himself by the side of
 that of his wife’s father ; and to this habit is probably due
 the formation of settlements. And when the head dies, it
@@ -10751,8 +9442,7 @@ customs of his tribes, refused to allow his daughter to be
 married at all, unless her husband would take her with the
 old orthodox Macusi ceremony. A few square yards of the
 savannah were cleared of grass and stones. Over this mats,
-made of parallel strips of the pith of the eta palm (Mau-
-ritia flecuosa), were spread. When all was ready, the bride
+made of parallel strips of the pith of the eta palm (Mauritia flecuosa), were spread. When all was ready, the bride
 and bridegroom were placed in the clearing, round which the
 whole population of the village gathered; and the marriage
 was there and then carried out.
@@ -10769,11 +9459,9 @@ Indians on the savannah, we were for some days entirely
 MARRIED LIFE. 223
 
 
-without provisions except a little venison ; but one of my com-
-panions, who intended to take a wife as soon as the expedition
+without provisions except a little venison ; but one of my companions, who intended to take a wife as soon as the expedition
 was over, refused to take his share of the meat, and went
-without food rather than break through the restrictions en-
-tailed upon him by his coming marriage. Indian husbands
+without food rather than break through the restrictions entailed upon him by his coming marriage. Indian husbands
 and wives are as a rule very faithful to each other; even on
 the comparatively rare occasions on which there has been some
 looseness before marriage there is none after. Husband and
@@ -10786,14 +9474,11 @@ to obtain considerable influence with her husband. Polygamy
 prevails among some, but not all the tribes. Warraus are
 the most uxorious, come of them having as many as eight or
 ten wives; and the Wapiana are also polygamists. Macusis
-and Ackawoi are not, except perhaps in the cases of indi-
-viduals who choose to break through the customs of their
+and Ackawoi are not, except perhaps in the cases of individuals who choose to break through the customs of their
 tribe. I am by no means sure, but am inclined to think, on
-the whole evidence, that the Carib tribes are not usually poly-
-gamists, and that some or all the others are, or were. Even
+the whole evidence, that the Carib tribes are not usually polygamists, and that some or all the others are, or were. Even
 when there is more than one wife, the first is almost always
-chiefly regarded and favoured ; those that are married after-
-wards seem to be taken more as domestic helpers of the first
+chiefly regarded and favoured ; those that are married afterwards seem to be taken more as domestic helpers of the first
 and real wife. From what has already been said of the length
 of time during which the Indian wife suckles her children, it
 will be evident that her power of doing all the household
@@ -10832,8 +9517,7 @@ age, generally by dysentery or consumption. And even
 when one does live longer, life can hardly be enjoyable
 to them; for powerless old age meets with no respect.
 When old and past work, they are indeed allowed to remain
-in their hammocks in the houses which once, perhaps, be-
-longed to them, and are fed by their younger relations in a
+in their hammocks in the houses which once, perhaps, belonged to them, and are fed by their younger relations in a
 rough and grudging manner ; but no further care or kindness’
 is shown to them.
 
@@ -10843,13 +9527,11 @@ signs of grief. More than once J have seen an Indian die—
 husband, or wife, or son~and sometimes under most painfal
 and distressing circumstances; but the surviving wife,
 husband, or parent, apparently almost unaffected, within a
-few hours fully resumed his or her usual habits and cheer-
-fulness. Yet, Indians being always so exceedingly reticent
+few hours fully resumed his or her usual habits and cheerfulness. Yet, Indians being always so exceedingly reticent
 in the expression of emotion, there is some reason to believe
 that even in such cases the survivors feel a grief which they
 do not exhibit. Occasionally, however, a terrible wailing is
-raised over a dead body and is kept up for many days, some-
-times even after the burial. On such occasions the survivors
+raised over a dead body and is kept up for many days, sometimes even after the burial. On such occasions the survivors
 crop their hair; and, according to Schomburgk, they paint
 
 
@@ -10862,8 +9544,7 @@ main, as follows: The body, wrapped in the hammock which
 belonged to it when living, is put into a hole dug in the
 house and lined with palm-leaves. If the hole is large
 enough, the body is buried in a sitting position or, in the —
-case of the Ackawoi, in a standing position; but if, as some-
-times happens, the survivors do not trouble themselves to dig
+case of the Ackawoi, in a standing position; but if, as sometimes happens, the survivors do not trouble themselves to dig
 a large hole, the body is bent and placed in any position that
 may be most convenient. It is said that the True Caribs were
 in the habit of cleaning and preserving the bones of their
@@ -10892,15 +9573,11 @@ _ owners to desert them and build anew. |
 
 But wherever the body is buried, the grave, when once
 covered with earth, is regarded as sacred, and no Indian—
-unless it be some vile kenaima, whose reason for body-snatch-
-ing will presently be explained—ventures to disturb it.
+unless it be some vile kenaima, whose reason for body-snatching will presently be explained—ventures to disturb it.
 
 The bodies of peaimen—at least among the Macusis—
 
 Q
-
-
-226 AMONG THE INDIANS OF GUIANA.
 
 
 are disposed of in a somewhat different manner. Their graves
@@ -10909,8 +9586,7 @@ hill, of somewhat peculiar shape, and well-wooded, which
 stands isolated on the savannah in front of the northern face
 of the Canakoo mountains. The Macusis of the village of
 Karenacroo, on the Roopoonooni savannah, have a special
-place for burying their dead ; but this seems quite an excep-
-tional instance. |
+place for burying their dead ; but this seems quite an exceptional instance. |
 
 
 CHAPTER XI.
@@ -10930,8 +9606,7 @@ Preserving Booty——Return of the Hunting Party.
 put into a class, and labelled as ‘ the hunting tribes of South
 America.’ The name is, however, misleading, at least as far
 as the Indians of Guiana are concerned; for these tribes
-live as much by a rude, but not unproductive, kind of agri-
-culture as by hunting. Probabiy their lives are supported
+live as much by a rude, but not unproductive, kind of agriculture as by hunting. Probabiy their lives are supported
 in about equal degree by the produce of their fields and by
 their gains in the chase. An opportunity will be found in
 another chapter to describe their agriculture; at present.
@@ -10942,16 +9617,11 @@ by these people, food may be said to be the chief thing for
 which they have to exert themselves. Their wants in the
 way of clothing and shelter are very easily satisfied. Only
 food has incessantly to be provided. The women, with but
-very little help from the men, gain part of this by cultivat-
-ing certain plants, especially cassava, and the men contribute
+very little help from the men, gain part of this by cultivating certain plants, especially cassava, and the men contribute
 their share by hunting. Soimportant to them is this latter,
-that an Indian takes rank in his village or settlement ac-
-cording to his skill in the chase; and even the boys, as soon
+that an Indian takes rank in his village or settlement according to his skill in the chase; and even the boys, as soon
 as they are no more than mere babies, have no other toys
 Q2
-
-
-228 AMONG THE INDIANS OF GUIANA,
 
 
 than small bows and arrows and such mimic weapons of the
@@ -10963,8 +9633,7 @@ lizards are his aim ; and again a little later, small birds.
 Hunting is not, however, a constant occupation. The
 Indian leaves his home and spends many days hunting in
 the forests or on the savannahs, or fishing on the rivers ;
-but when he returns he spends many days almost inces-
-santly in his hammock, until, in fact, he and his family
+but when he returns he spends many days almost incessantly in his hammock, until, in fact, he and his family
 have consumed the produce of his chase.
 
 He never goes on these expeditions alone. He is too
@@ -10973,8 +9642,7 @@ induce another man to accompany him, he takes his wife, his
 mother, or even a child, who, if unable to do anything else,
 at least supply a second pair of eyes to watch the approach
 of danger. Often, however, hunting parties, especially when
-the object sought is fish, consist of a large number of indi-
-viduals.
+the object sought is fish, consist of a large number of individuals.
 
 Before an Indian sets out to hunt, he goes through one
 or more strange performances to ensure success. Round his
@@ -11004,34 +9672,20 @@ HUNTING CHARMS. 229
 second hole. The poor dog is then caught, and its head is
 held down in this second hole, until the Fig.7.
 animal sometimes drops senseless from
-
 pain. Or, probably when there is less time
-
-to spare, ants and other insects are, with-
-
-out other preparation, made to bite the
-
+to spare, ants and other insects are, without other preparation, made to bite the
 nostrils of the dog. But the Indian, cruel
-
 to his dog, does not spare himself in his
-
 desire to ensure successful sport. At some
-
 previous time he has woven a number of
-
 strings of fibre, called emnaki, each a yard
-
 and a half long, or more, and tapering
-
 from a very small point at one end to a
 considerable thickness at the other end,
-
 where the fibres hang loosely in a bunch
 
 (Fig. 7). He now takes one of these strings,
-
 and passing the thin end up his nostril,
-
 manages to bring it out through his
 mouth, and thus pulls the whole length of :
 the string in at the nostril and out at the :
@@ -11039,13 +9693,11 @@ mouth. To judge by appearance this must
 be a most painful operation. Or he takes
 a small mat, about six or eight inches
 square, made of narrow parallel strips of
-the skin of a reed-like plant (Jschnosi-
-phon), tied together somewhat as are the
+the skin of a reed-like plant (Jschnosiphon), tied together somewhat as are the
 laths of a venetian blind (Fig. 8, p. 230).
 Between each two of these strips he inserts
 a row of living ants, their heads all one
-way. The strips are exactly at such a dis-
-tance apart that the ants when once in-
+way. The strips are exactly at such a distance apart that the ants when once in-
 serted cannot extricate themselves. The
 huntsman then presses the whole mat, on s
 the side on which are the heads of the /,//|
@@ -11054,23 +9706,17 @@ which are of a large and venomous kind,
 bite most painfully. Or, in other cases, Nose BEEXA.
 
 
-230 AMONG THE INDIANS OF GUIANA.
-
-
-the huntsman looks for certain large and very hairy cater-
-pillars, the hairs of which break off very readily and have a
+the huntsman looks for certain large and very hairy caterpillars, the hairs of which break off very readily and have a
 great power of irritating flesh. These caterpillars he rubs on
 his chest or thighs, and thus produces a considerable and very
 painful-looking rash. I have seen all these means of torture
-employed by Macusis, Arecunas, and Ackawoi, either on them-
-selves or on their dogs ; and, though I have had no experience,
+employed by Macusis, Arecunas, and Ackawoi, either on themselves or on their dogs ; and, though I have had no experience,
 
 
 ANT BEERA.
 
 
-I have little doubt that these or similar methods are em-
-ployed by the other tribes also.
+I have little doubt that these or similar methods are employed by the other tribes also.
 
 The use of beenas is very curious. The avowed purpose
 is, as has been said, to ensure. success. But the line of
@@ -11090,8 +9736,6 @@ be the explanation of the other forms of beena which have
 been described ; and, as the term beena is applied to all the
 forms indiscriminately, it is probable that there is only one
 explanation for all the forms. I can only suggest that the
-
-
 custom was adopted with the idea of preparing to meet with-_
 
 
@@ -11110,8 +9754,7 @@ unusual degree, but who, just because of his strength, has
 never before suffered the pains of illness, flinch and moan
 when he for the first time becomes ill, far more than another
 man, really a coward but who is accustomed to such pain,
-does under similar circumstances. Again, if a man is acci-
-dentally burned, he shrinks and shows sign of pain; but if
+does under similar circumstances. Again, if a man is accidentally burned, he shrinks and shows sign of pain; but if
 with full forethought and determination he puts his hand
 into the flame, he can hold it there for any length of time
 without flinching even in the least degree. Of course the
@@ -11120,18 +9763,11 @@ knows empirically that by accustoming himself to bear pain
 voluntarily inflicted, he prepares his nerves to withstand the
 shock of any pain or danger that may come suddenly. The
 same reason explains the fearful tortures which, as Catlin
-has most vividly depicted, North American Indians volun-
-tarily undergo when they put away childish things and
+has most vividly depicted, North American Indians voluntarily undergo when they put away childish things and
 become men, and also the similar, but slighter tortures which
 South Americans inflict on themselves at the same epoch in
 their lives ; and lastly, the same reason perhaps explains the
-
-
-232 AMONG THE INDIANS OF GUIANA.
-
-
-use which the Indians of Guiana make of beenas on the fre-
-quent occasions on which they prepare to hunt.
+use which the Indians of Guiana make of beenas on the frequent occasions on which they prepare to hunt.
 
 A word must be said as to the dogs used by Indians in
 hunting. Indigenous species of dogs exist in America; but
@@ -11142,11 +9778,9 @@ truth, to be cross-bred with one or other of two species of
 wild dogs (Canis cancrivorus and C. azare). The breed
 of the Indian dogs is, however, so very mixed, that the
 parentage is never very evident. Almost every Indian
-house now swarms with an undue number of miserable-
-looking curs, most of which are never fed at all, but have to
+house now swarms with an undue number of miserablelooking curs, most of which are never fed at all, but have to
 live on the very few scraps of food which they can manage
-to pick up for themselves. But such dogs as show an apti-
-tude for hunting are treated very differently, and are care-
+to pick up for themselves. But such dogs as show an aptitude for hunting are treated very differently, and are care-
 fully trained. They are fed with the best food that is to be
 had. Often they are not allowed to lie on the ground
 (which generally swarms with jiggers (Pulex penetrans) and
@@ -11180,8 +9814,7 @@ caught by their means, they will never hunt again.
 The variety of game for which the Indian seeks is large.
 In the forest there are deer, tapir, two kinds of wild hogs or
 peccaries, labba, acourie and adourie ; and there are tortoises.
-There are also many birds, among which the powis or curas-
-sow-bird, maroodie or wild-turkey, and the various species of
+There are also many birds, among which the powis or curassow-bird, maroodie or wild-turkey, and the various species of
 maam, are especially sought. On the savannahs is another
 kind of deer, and, in the reeds at the edges of ponds, num- —
 bers of ducks of various kinds. In the river are fish and
@@ -11197,8 +9830,7 @@ The first is, however, the chief, as it is the most picturesque,
 mode of fishing. -
 
 A suitable creek or an inlet from a larger river having
-been chosen, a dam is built across the mouth of this, to pre-
-vent, the fish which happen to be within the creek from
+been chosen, a dam is built across the mouth of this, to prevent, the fish which happen to be within the creek from
 passing back into the main river. Sometimes the dam is
 made merely by heaping stones and earth ; but more often a
 number of straight stakes are tied together, parallel to each
@@ -11209,21 +9841,14 @@ fibres are loosened, and these are put into the stream at
 a point some distance above the dam. The narcotic juices
 of these particular plants saturate the water, and stupify
 but do not kill the fish. Along the banks the Indians
-stand watching. Before long a few tiny fish rise to the sur-
-face, gasp, leap out from the water, fall back into the stream,
+stand watching. Before long a few tiny fish rise to the surface, gasp, leap out from the water, fall back into the stream,
 turn on to their backs, and at last float motionless down the
 stream. Gradually larger and larger fish show similar signs
 of discomfort. They dart quickly down the stream, trying
-
-
-234 AMONG THE INDIANS OF GUIANA.
-
-
 to escape out of the poisonous water which surrounds them ;
 then, checked by the dam, they turn, struggle violently, and
 in a little while they too float motionless on the water. If
-there are many fish in the creek, the water gradually be-
-comes white with their up-turned sides. Meanwhile, the
+there are many fish in the creek, the water gradually becomes white with their up-turned sides. Meanwhile, the
 Indians on the bank busy themselves in shooting such of the
 large fish as might in their struggles escape over the dam,
 and in collecting those which are already motionless. Very
@@ -11240,18 +9865,15 @@ haiari-balli of the Arawaks (Mullera moniliformis), and
 the yarro-conalli of the Macusis (Tephrosia toxicaria), and
 many others.
 
-Another method of procuring fish is perhaps best men-
-tioned here. When the rivers sink, fish are sometimes
+Another method of procuring fish is perhaps best mentioned here. When the rivers sink, fish are sometimes
 naturally left, without possibility of escape, in the pools;
 and sometimes when this is not the case the Indians
 enclose part of a stream or river by dams. In either case
-the water is baled out in hollow gourds until the fish, strug-
-gling and panting at the bottom, can be seized by the hand.
+the water is baled out in hollow gourds until the fish, struggling and panting at the bottom, can be seized by the hand.
 
 Far greater skill is required to shoot fish with arrows;
 indeed, the skill with which the Indian in this way pierces
-his prey, often hardly visible through the water, is most sur-
-prising. The arrows used for this purpose differ—partly
+his prey, often hardly visible through the water, is most surprising. The arrows used for this purpose differ—partly
 according to the circumstances under which they are to be
 used, partly according to the tribe by which they are used.
 The most important of these is the harpoon-arrow (Fig. 9 a),
@@ -11277,20 +9899,17 @@ the arrow when it hits the
 fish becomes detached from
 the shaft, which floats on
 top of the water while the
-line connects the arrow-
-head in the fish, the float-
+line connects the arrowhead in the fish, the float-
 ing shaft, and the wrist of
 the shooter.
 
 The harpoon-arrows are
-used principally for shoot-
-ing pacu. This fish (Pacu
+used principally for shooting pacu. This fish (Pacu
 myletes) abounds at all
 seasons of the year in most
 of the large rivers of
 Guiana. When the river is
-high and the water is tur-
-bid with rain, the pacu are
+high and the water is turbid with rain, the pacu are
 distributed equally in all
 parts of the rivers, and are
 almost invisible. When,
@@ -11308,19 +9927,10 @@ Fro. 9.
 
 
 Fran ARROWS,
-
-
-235
-
-
-236 AMONG THE INDIANS OF GUIANA.
-
-
 into flower, then the pacu collect at these falls to feed on
 the leaves. Large numbers of Indians then camp at the
 sides of the falls to shoot these fish. Such a scene is highly
-picturesque. The place is generally a wide extent of river-
-bed, apparently enclosed by the forested banks, and entirely
+picturesque. The place is generally a wide extent of riverbed, apparently enclosed by the forested banks, and entirely
 occupied by a curious confusion of rocks and white rushing
 water. On a rock in the midst of, and almost covered by,
 the tumbling water, stands an Indian, his feet crushing the
@@ -11328,13 +9938,11 @@ delicate, star-shaped, pink flowers of the Lacis, and every
 muscle in his naked cinnamon-coloured body bearing witness
 to the intentness of his watch. His bow is half drawn; the
 arrow is in position, but its point rests idly on the rocks.
-The water is rushing and tumbling so wildly that an un-
-practised eye can see nothing below its surface. But the
+The water is rushing and tumbling so wildly that an unpractised eye can see nothing below its surface. But the
 Indian sees. Quickly the bow is raised, aim is taken, the
 arrow flies, and its shaft is there, dancing and tumbling in
 the water, carried here and there by the terrified rushes of
-an unseen pacu, in the body of which the arrow-head is em-
-bedded. But the line not only connects arrow-head and
+an unseen pacu, in the body of which the arrow-head is embedded. But the line not only connects arrow-head and
 arrow-shaft, but its other end is held firmly in the hands of
 the Indian, who now easily hauls the fish on to the rock.
 Sometimes, instead of waiting on a rock, in his eagerness he
@@ -11366,15 +9974,13 @@ the harpoon only in that a short line connects only the head
 the shaft, instead of being carried on to the arm of the shooter.
 The struggles of the fish when hit immediately cause the
 shaft to slip out of the head; and the former, which is very
-long and light, floats on the top of the water, but remains con-
-nected with the fish by the line, and so serves as a buoy and
+long and light, floats on the top of the water, but remains connected with the fish by the line, and so serves as a buoy and
 mark of the position of the fish. In the second (see Fig. 9
 cand d, p. 235), which is used chiefly by the Macusis and other
 savannah tribes, there is no line, for the head is permanently
 attached to the shaft.
 
-In all three cases the arrow-head is either doubly, sym-
-metrically, barbed, or has only a single barb on one side,
+In all three cases the arrow-head is either doubly, symmetrically, barbed, or has only a single barb on one side,
 according to thé fancy of its owner.
 
 When the river is high, and heavy rain still frequently
@@ -11382,8 +9988,7 @@ falls and dulls the colour of the water, so that even the
 Indian can hardly see the fish under the surface, a stratagem
 is used. <A basket of open wicker-work, filled with the green
 apple-like fruit of the lana (Genipa americana), is thrown
-‘ into the river and allowed to swim with the stream. Stand-
-ing in the bow of his canoe or wood-skin, while another man
+‘ into the river and allowed to swim with the stream. Standing in the bow of his canoe or wood-skin, while another man
 paddles, the Indian follows the floating basket. The lana
 seems to be a very attractive bait to fish, for they rarely fail
 to rise to it. As soon as this happens, a rush through the
@@ -11399,11 +10004,6 @@ a favourite aim for these arrows. Fish-roes are a great
 delicacy to the Indians, who in the spawning-season shoot
 an immense number of heavy fish, the bodies of which are
 of little account when the roes have been extracted. The
-
-
-238 AMONG THE INDIANS OF GUIANA.
-
-
 roes are then smoked; and in this state large baskets of
 them may often be seen in their houses.
 
@@ -11418,12 +10018,10 @@ the aropaima (Sudis gigas), which often attain a length of
 eight or ten feet. One fish, the haimara (Erythrinus),
 which frequents certain parts of the river, is generally
 caught with a hook attached toa short line and a spring rod.
-The whole apparatus is fastened on some rock and left over-
-night. Where haimara abound the rocks may occasionally
+The whole apparatus is fastened on some rock and left overnight. Where haimara abound the rocks may occasionally
 be seen covered with a thicket of old rods. The bait used
 in fishing with hook and line is sometimes a piece of meat,
-but more often the seed of some plant. Indians are per-
-fectly aware that fish gather in large numbers in water over
+but more often the seed of some plant. Indians are perfectly aware that fish gather in large numbers in water over
 which hang certain trees and other plants, at the time when
 the ripe fruit drops, to eat the seeds. For instance, one
 tree thus attractive to fish is the Hatie ‘ india-rubber ’ plant
@@ -11448,8 +10046,7 @@ unlike English eel-baskets in principle.
 TURTLE AND IGUANA SHOOTING. 239
 
 
-Less legitimate, but far more dexterous, was the occa-
-sional fishing of a Macusi Indian who was with me on the
+Less legitimate, but far more dexterous, was the occasional fishing of a Macusi Indian who was with me on the
 Roopoonooni ; and who, when the canoe was near the bank,
 used to watch for a particular kind of fish, and as soon as
 one appeared, would dive from the canoe, chase the fish
@@ -11466,8 +10063,7 @@ into the air, in such a way that the arrow in its
 descent hits the animal with wonderful precision,
 and, gathering force in its fall, pierces the shell.
 The turtle immediately dives. The shaft of the
-arrow slips out of the head, the line which con-
-nects shaft and head unwinds, and the former
+arrow slips out of the head, the line which connects shaft and head unwinds, and the former
 floats on top of the water. By the line, thus
 buoyed by the shaft, the turtle is readily drawn
 into the canoe. The Indian, having learned the
@@ -11475,13 +10071,11 @@ tenacity of life of these creatures, generally has
 a turtle-pen near his house, where he keeps a
 living stock for use.
 
-The iguanas, climbing up the bushes over-
-hanging the edges of the river, lie sunning them-
+The iguanas, climbing up the bushes overhanging the edges of the river, lie sunning them-
 selves on the highest branches. In this position
 they can hardly be detected by an unpractised
 eye. But the Indian, passing in his canoe, keeps
-his eye fixed on the banks. ‘The cry of ‘ waia-
-mucka,’ the Carib name for the animal, is one of
+his eye fixed on the banks. ‘The cry of ‘ waiamucka,’ the Carib name for the animal, is one of
 
 ; TURTLE ARROW.
 the most frequent interruptions to the water
@@ -11536,8 +10130,7 @@ as big a hole in it as possible. He therefore not only
 stealthily approaches bird or beast, until the muzzle of his
 gun almost touches the body of the animal, before he fires,
 but he likes a very large gun in order that the whole mass
-of the shot may enter unscattered. Owing to this circum-
-stance, of a bunch of ten or twelve pigeons, which were shot.
+of the shot may enter unscattered. Owing to this circumstance, of a bunch of ten or twelve pigeons, which were shot.
 and brought to me on one occasion by an Indian, scarcely a
 shred of flesh was left on the breast of any one. Another
 somewhat remarkable thing, and one of which I can offer no
@@ -11545,8 +10138,7 @@ explanation, is that as soon as a gun is his, the Indian takes
 off and throws away the cap of the screw-worm at the end of
 the ramrod.
 
-But we are more concerned with the Indian’s own wea-
-pons. These are bow and arrows and the blow-pipe.
+But we are more concerned with the Indian’s own weapons. These are bow and arrows and the blow-pipe.
 
 The arrows used for shooting game, as for fish, are of
 
@@ -11557,8 +10149,6 @@ GAME ARROWS. 24)
 several kinds. For big game, such as bush-hog and deer,
 the Indian uses an arrow with a diamond-shaped head, like
 that of a spear, but occasionally somewhat varied in detail of
-
-
 shape, and of very various sizes.
 
 
@@ -11586,8 +10176,7 @@ several of my expeditions, has
 often assured me thatas a boy he
 used to see these bone, shell, or
 stone-pointed arrows in common
-use. He himself still uses a bone-
-pointed arrow for a special pur-
+use. He himself still uses a bonepointed arrow for a special pur-
 pose. I first questioned him on
 the subject when I saw him
 fashioning a piece of bone into
@@ -11611,16 +10200,12 @@ arrows, headed with stone, in the possession of some Arecunas.
 R
 
 
-242 AMONG THE INDIANS OF GUIANA.
-
-
 It is to be noted that all the arrows which yet remain to be
 mentioned are tipped, not with iron, but with wood.
 
 To return to the subject of game-arrows: the savannah
 tribes, instead of the iron diamond-headed arrows, for big
-game use arrows (Fig. 11 h, p. 241) with very long lance-
-shaped heads made of a bamboo called by the Indians ‘rap-
+game use arrows (Fig. 11 h, p. 241) with very long lanceshaped heads made of a bamboo called by the Indians ‘rap-
 poo.” This bamboo—which only grows in a few places—is
 cut and carefully dried. The arrow-head is then shaped, and
 is hardened in the fire; when fixed into the reed shaft, it is
@@ -11642,8 +10227,7 @@ who were standing round, they explained that the poison
 only took effect if the arrow went in far enough ; that is,
 probably, if it touched some vital spot. I think, therefore,
 that the poisonous character attributed to this bamboo-wood
-may be considered as doubtful, until more accurate experi-
-ments have been made.
+may be considered as doubtful, until more accurate experiments have been made.
 
 A far more deadly weapon, used also by the savannah
 tribes, sometimes for animals, sometimes for birds, is the
@@ -11658,8 +10242,7 @@ points are either carried separately from the shaft, in a small
 POISONED ARROWS, 243
 
 
-quiver (Fig. 13 8) made of hollow bamboo, and are only in-
-serted in the shaft the moment before the arrow is to be
+quiver (Fig. 13 8) made of hollow bamboo, and are only inserted in the shaft the moment before the arrow is to be
 used ; or, if they are carried in the shaft they are covered
 with a sheath of hollow bamboo (Fig. 12d), In either case,
 
@@ -11676,12 +10259,8 @@ PomowgD Anuows. POIWONED ARROW-POINT AXD Brn ARROWS,
 
 QUIVER FOR SAME.
 whether the points are carried separately or whether they are
-protected by a sheath, the object of the precaution is to pro-
-tect the hand of the Indian from any chance of contact with
+protected by a sheath, the object of the precaution is to protect the hand of the Indian from any chance of contact with
 r2
-
-
-244 AMONG THE INDIANS OF GUIANA.
 
 
 the deadly poison with which the points are smeared. In
@@ -11743,8 +10322,7 @@ of Guiana to the savannah tribes, and on the rare occasions
 in which it is found in the possession of the forest tribes,
 the fact is probably only due to the chance acquisition of the
 weapon by some idiosyncratic Indian. It is, however, common
-to many other tribes of South America. The Macusis, Are-
-cunas, and other savannah tribes of the Carib family probably
+to many other tribes of South America. The Macusis, Arecunas, and other savannah tribes of the Carib family probably
 found the weapon in use among the tribes formerly inhabiting
 the territory now occupied by them, and themselves adopted
 it; while the True Caribs and Ackawoi, the coast tribes of
@@ -11753,8 +10331,6 @@ but little in the interior, were not brought in contact with
 the original users of this weapon, and so never adopted it.
 
 1 The following list of the various arrows—some of which occur in
-
-
 several slight varieties—which are used in so small a district as British
 Guiana, may not be without interest to the ethnologist.
 
@@ -11791,14 +10367,10 @@ I am inclined to think that distinct varieties of this arrow exist under differe
 e.g. the tefoking and the sebrali are not quite the same.
 
 
-246 AMONG THE INDIANS OF GUIANA.
-
-
 These blow-pipes (Fig. 16) are tubes of very great length,
 often from 12 to 16 feet or more, through which a small dart
 (Fig. 25, p. 302) is blown, The manner of manufacture of
-both tube and dart will be afterwards explained. When set-
-ting out to shoot with this weapon, the Indian takes not only
+both tube and dart will be afterwards explained. When setting out to shoot with this weapon, the Indian takes not only
 the tube, but also a quiver (Fig. 15 4) containing a large
 number of darts—sharply pointed splinters of wood, five or
 six inches in length, each tipped with ourali—and the jaw-
@@ -11824,8 +10396,6 @@ the balance. The dart is then inserted in the blow-pipe,
 
 
 THE BLOW-PIPE,
-
-
 aim is taken, the dart is blown, and the bird
 almost invariably falls. The certainty with which
 an Indian can take aim with these hugely long
@@ -11848,16 +10418,13 @@ biting each fruit lets it fall. Thus a constant
 shower of the fruit falls from the tree on to the
 dry leaves on the ground. In this way, though
 they do not scream while actually feeding, parrots
-
-
 betray their presence. The Indian, as soon as’
 
 
 he hears this sound, creeps stealthily up to the
 tree, and aims his blow-pipe at the bird lowest on
 the tree. When this falls the rest of the flock
-are not much alarmed ; seeing one of their num-
-ber suddenly disappear, they perhaps cease feed-
+are not much alarmed ; seeing one of their number suddenly disappear, they perhaps cease feed-
 ing for an instant and chatter, but, hearing no
 noise, they turn again to the fruit. In this way
 the Indian can bring down a very large number
@@ -11877,15 +10444,7 @@ Fig. 16,
 9 Feet
 
 
-247
-
-
 Biow-P1rg,
-
-
-248 AMONG THE INDIANS OF GUIANA.
-
-
 calling birds—in imitating, that is, the note of any bird which
 they think may be in the neighbourhood, and so attracting
 them to their destruction. The Indian name for a bird is
@@ -11893,8 +10452,7 @@ almost always an imitation of its cry. This Indian habit of
 mimicry was well illustrated on one occasion, when two of
 my Indians started from our camp in two directions to shoot
 a maam (Tinamus), neither knowing that the other was
-going. Presently one, hearing the cry of a maam some diz-
-tance on his right, began to imitate it to draw the bird
+going. Presently one, hearing the cry of a maam some diztance on his right, began to imitate it to draw the bird
 nearer. The other heard a maam cry on his left, and he
 too began to imitate it. Each mistook the cry of the other
 for that of a real bird, and the two continued calling each
@@ -11905,21 +10463,18 @@ too well. They came back to camp in very bad temper.
 From what has been said it will be sufficiently evident
 that the objects for which the Indian hunts or fishes are many
 and various; and it is very rarely that he is unsuccessful. It
-is, however, noticeable that the Indian can generally hunt suc-
-cessfully only in a district which he knows, and that Indians
+is, however, noticeable that the Indian can generally hunt successfully only in a district which he knows, and that Indians
 in travelling through a strange country seldom attempt to
 hunt, and when they do, meet with but small success. As
 the provisions which he thus gets have to be carried home,
 often a journey of some days, and as even after that they have
 to last for some time, the meat and most of the fish is smoked
 or babracoted ; the rest of the fish is salted, as has already been
-described in the case of the pacu shot in the falls. A babra-
-cot is a stage of green sticks, built over a fire, on which the-
+described in the case of the pacu shot in the falls. A babracot is a stage of green sticks, built over a fire, on which the-
 meat is laid and exposed for a long time to the action of the
 smoke. Meat, fish, and even eggs treated in this way be~-
 come very tasteless, but retain their nutritive powerg for a
-long while, and may either be eaten without further prepara-
-tion or may be further cooked.
+long while, and may either be eaten without further preparation or may be further cooked.
 _ Land tortoises being very common in the forest, the Indian
 collects these, slings them with a piece of bush-rope across his
 shoulders, and so carries them home alive. Sometimes also
@@ -11939,9 +10494,6 @@ over the meat into the hands of the women, and sink into
 their hammocks to rest for several days.
 
 
-250 AMONG THE INDIANS OF GUIANA.
-
-
 CHAPTER XII.
 AGRICULTURE.
 
@@ -11956,15 +10508,13 @@ generally have one or more other fields at favourable spots in
 the neighbouring forest. The fields of the savannah Indians
 are, on the contrary, almost invariably at some considerable
 distance, often indeed very far from their houses; for the
-ground round the houses is unshaded, stony, and unproduc-
-tive, and it is only in the moist and shady coppices that
+ground round the houses is unshaded, stony, and unproductive, and it is only in the moist and shady coppices that
 provisions flourish.
 
 One only uses the word ‘field’ of the spots cultivated
 by the Indians in default of a more apt term. A stranger on
 first seeing an Indian field, with its surrounding wall of
-natural forest, might well think it a place no longer culti-
-vated, but some former clearing in the forest in which the
+natural forest, might well think it a place no longer cultivated, but some former clearing in the forest in which the
 natural growth had once more sprung up unchecked. The
 cassava and other cultivated plants are lost among the bushy
 off-shoots which have sprung from the stumps of felled trees,
@@ -11973,8 +10523,7 @@ among the tangled growth. The bark has fallen from some
 of these trunks, and their white wood glistens in the sun ;
 others are blackened and charred by fire; others again have
 retained their bark, as on the day they fell. Often, among
-all this, it is almost impossible to discern the narrow foot-
-trodden track which, winding in and out among the fallen
+all this, it is almost impossible to discern the narrow foottrodden track which, winding in and out among the fallen
 trunks and the cassava plants, leads through the field.
 
 This is how the field was made. A fitting place having
@@ -11983,8 +10532,7 @@ This is how the field was made. A fitting place having
 CLEARING A FIELD. 251
 
 
-been chosen—cassava, the main object of cultivation, flou-
-rishes best in sandy soil—the men cut down the under-
+been chosen—cassava, the main object of cultivation, flourishes best in sandy soil—the men cut down the under-
 growth and fell the trees. Then, when it seems likely that
 the weather will be dry, they set fire to the fallen refuse.
 The leaves and smaller branches of the trees, together with
@@ -12023,11 +10571,6 @@ cassava, reaches maturity, not only shoots from the wild
 plants which formerly occupied the ground, but also those
 creepers and other plants which in this, even more than in
 most other climates, are never seen while the land is left in
-
-
-252 AMONG THE INDIANS OF GUIANA.
-
-
 a natural state, but always appear wherever man makes a
 clearing, spring up with new and surprising vigour. Of
 these weeds which infest Indian fields, first the razor-grass
@@ -12039,14 +10582,12 @@ surrounding forest and, finding no yet higher thing to which to
 reach, hangs its tangled ends like a curtain from branch and
 bush. Passion-flowers send out long tendrils, which creep
 along the ground and up on to the bushes, where they hang
-their flowers, according to their kind, some large and pur-
-ple, others crimson, others white (Passiflora laurifolia),
+their flowers, according to their kind, some large and purple, others crimson, others white (Passiflora laurifolia),
 and one (P. fetida) the small pale-coloured petals of which,
 buried in large moss-like green sepals, remind one of a
 flower common in old-fashioned English gardens, called
 with quaint variety ‘ Love-in-a-mist’ and ‘ Devil-in-a-bush ”
-(Nigella damascena). Various kinds of pea-flowers and con-
-volvulus add to the confusion. Before long, the hollow and
+(Nigella damascena). Various kinds of pea-flowers and convolvulus add to the confusion. Before long, the hollow and
 straight stems of the trumpet-wood (Cecropia peltata), each
 crowned with a single rosette of a few big maple-shaped
 leaves, rise over everything, and with marvellous rapidity’
@@ -12064,8 +10605,7 @@ inserted in the ground as before, and in the same spots. By
 the way, an old Indian tradition tells that when cassava was
 first given to the Indians, after their first appearance upon
 earth, they knew not how to make it reproduce itself; when
-they tried to sow the seeds or to plant the tubers, it al-
-ways failed to grow; but, just as the stock was dying out,
+they tried to sow the seeds or to plant the tubers, it always failed to grow; but, just as the stock was dying out,
 
 
 THE HARVEST. 253
@@ -12077,10 +10617,8 @@ has been followed ever since.
 
 The field is deserted after three or four crops have been
 taken from it; and a new clearing is made and planted.
-The reason of this periodical desertion of the old, and clear-
-ing of new ground is uncertain, but it is perhaps connected
-with some superstition. But so little trouble is, indeed, in-
-voived in this sort of cultivation, that a field is often deserted
+The reason of this periodical desertion of the old, and clearing of new ground is uncertain, but it is perhaps connected
+with some superstition. But so little trouble is, indeed, invoived in this sort of cultivation, that a field is often deserted
 in consequence of a mere whim, often before even the first
 crop has been gathered. In one instance, a very flourishing
 field of cassava in the Canakoo Mountains had been deserted,
@@ -12089,8 +10627,7 @@ its owners refusing even to approach it, because kenaimas
 had been heard near it.
 
 The produce of these fields is of the finest quality. This
-is especially the case in the Pacaraima and Canakoo Moun-
-tains, and generally on the savannah,’ where the plantains
+is especially the case in the Pacaraima and Canakoo Mountains, and generally on the savannah,’ where the plantains
 and the sugar-canes especially attain a size far greater than
 in the coast lands. In the sandstone mountains about
 Roraima maize is more abundantly cultivated than cassava,
@@ -12108,15 +10645,9 @@ of prolonged drought.
 
 The failure from the first of these two causes is met by
 the habit of mutual hospitality which prevails among the
-Indians. When a family finds its stock of cassava ex-
-hausted, the goods are packed up, and all walk to some other
+Indians. When a family finds its stock of cassava exhausted, the goods are packed up, and all walk to some other
 settlement, inhabited by Indians of the same tribe in whose
 fields there is still plenty. Without invitation, and without
-
-
-254 AMONG THE INDIANS OF GUIANA.
-
-
 excuses, the strangers take up their quarters in the new
 settlement, where, as a matter of course, there is a stranger’s
 house ; and it is an understood thing that the present hosts
@@ -12140,9 +10671,6 @@ and here and there a family who were inclined to trust to
 chance—were reduced to skeletons.
 
 
-259
-
-
 CHAPTER XIII.
 THE PREPARATION OF FOOD.
 
@@ -12164,19 +10692,16 @@ the fish, is done by the hunters. These rough processes,
 which are not the final cooking of the meat, but are only
 meant to preserve it till it can be handed over to the women
 at home, have been described in connection with the methods
-of hunting. As regards the meat which the Indian con-
-sumes during these excursions, when he is naturally without
+of hunting. As regards the meat which the Indian consumes during these excursions, when he is naturally without
 cooking utensils, the method of preparing this is extremely
-simple. The meat is indeed often eaten just in the half-
-roasted, half-smoked state in which itis taken off the babra-
+simple. The meat is indeed often eaten just in the halfroasted, half-smoked state in which itis taken off the babra-
 cot; or, at most, it is cut into small fragments, which are
 fastened into a cleft stick and so held or fastened over the
 fire until they are roasted. All other cooking, not only of
 the dried meat brought home and of meat procured near
 enough to the settlement to be cooked while fresh, but also
 of bread, the only staple vegetable consumed, is done by the
-women. If by some chance a man is obliged to cook, ex-
-cept so far as is absolutely necessary on an ordinary hunting
+women. If by some chance a man is obliged to cook, except so far as is absolutely necessary on an ordinary hunting
 
 
 256° AMONG THE INDIANS OF GUIANA.
@@ -12190,15 +10715,13 @@ found ownerless, it was with great difficulty that any of my
 Indian companions, who were all men, were persuaded to
 make these roots into bread, and those who at last did this
 were ever after scornfully pointed at as ‘old women.’ In
-now discussing the preparation of food, it must be remem-
-bered that this, when done at home and under normal con-
+now discussing the preparation of food, it must be remembered that this, when done at home and under normal con-
 ditions, is wholly women’s work.
 
 Cooking is perhaps the most frequent occupation of these
 women. Indians eat not at regular times, but whenever
 and as often as they feel inclined. Fortunately for the
-women, no variety of food is demanded. Except on rare oc-
-casions, when.a very large store of meat has been obtained,
+women, no variety of food is demanded. Except on rare occasions, when.a very large store of meat has been obtained,
 pepper-pot and cassava-bread invariably form the meal. All
 the meat or fish obtained is put, with cassareep and peppers,
 into a buck-pot and boiled toa thick soup. This pot is
@@ -12208,8 +10731,7 @@ a few minutes’ notice. A store of cassava-bread is also at
 hand whenever required; for large quantities are made at
 each baking. Whenever the men feel hungry, the women
 bring the pepper-pot, with some cassava on one of the fans
-which are used for blowing the fire, to the side of the ham-
-mock. The men often do not trouble themselves to get out
+which are used for blowing the fire, to the side of the hammock. The men often do not trouble themselves to get out
 of their hammocks, but simply lean over the sides to eat ; at
 other times they get up and sit on one of the low wooden
 stools or on one of the turtle-shells which lie about the floor ;
@@ -12225,16 +10747,14 @@ food. The women never eat with the men; indeed, as often
 FIRE BY FRICTION. 257
 
 
-as not the former take their food out of the pot, while cook-
-ing.
+as not the former take their food out of the pot, while cooking.
 
 First, a word must be said as to the making of fire. Fire
 has very seldom to be made afresh ; for it is continually kept
 burning in every house, and even on long canoe-journeys a
 large piece of smouldering timber is usually carried. Even
 when walking across the savannah an Indian sometimes carries
-a firebrand. But sometimes, especially during hunting ex-
-cursions, it becomes absolutely necessary to make a new fire.
+a firebrand. But sometimes, especially during hunting excursions, it becomes absolutely necessary to make a new fire.
 This is done either with flint and steel, or rather with jasper
 and an old knife, or—and there is every reason to believe
 that this is the original Indian fashion—by friction of two
@@ -12248,8 +10768,7 @@ used, but all these have some special fitness for the purpose.
 That used by the Macusis appears to be from a species of
 Apeiba.2 That used by the Warraus is cut either from a plant
 called by them Yoarno (Gaultheria wregon, Aublet), or from
-the ‘bone’ (mid-rib) of the troolie-palm (Manicarwa sacci-
-fera), or from the Yari-Yari, or Lancewood tree, or from at
+the ‘bone’ (mid-rib) of the troolie-palm (Manicarwa saccifera), or from the Yari-Yari, or Lancewood tree, or from at
 least one other tree of unknown name. Two long thin
 sticks of one of these, when thoroughly dried, are used in
 the operation. A small pit is dug on the side of one of
@@ -12265,15 +10784,11 @@ fire; and it has been suggested that the first fire originated in the natural
 friction of two boughs of trees rubbing against each other in a high wind.
 It is worth mentioning that the West Indian negroes affirm that bamboo
 stems do often thus make natural fire; and if anyone will carefully watch
-a big clump of bamboos in the tropics during a high wind, he will under-
-stand that if any plants can really thus cause fire, it is these.
+a big clump of bamboos in the tropics during a high wind, he will understand that if any plants can really thus cause fire, it is these.
 
 ? Schomburgk, Reisen in Britisch Guiana.
 
 8 .
-
-
-258 AMONG THE INDIANS OF GUIANA.
 
 
 is now placed on the ground. Across this the first stick
@@ -12294,10 +10809,8 @@ FInE-STICKS, A AND B, AND M&THUD OF USING THE SAMR, E.
 
 steadily and somewhat rapidly backwards and forwards against
 the left (Fig. 17, £). This of course twirls the upright stick
-rapidly round and round in the pit of the other. The fric-
-tion wears away the sides of the pit and enlarges it. The
-groove which passes half round the stick, consequently be-
-comes an open channel through which the dust-like frag-
+rapidly round and round in the pit of the other. The friction wears away the sides of the pit and enlarges it. The
+groove which passes half round the stick, consequently becomes an open channel through which the dust-like frag-
 ments worn away from the inside of the pit fall on to the
 knife or board below, where they form a small heap. After
 about a quarter of a minute, smoke arises; and at the end of
@@ -12328,8 +10841,7 @@ use.!
 Even when the spark has been procured, it is difficult, if
 much rain has lately fallen, to find wood dry enough to make
 a fire. Under such circumstances the patience of the Indian
-overcomes the difficulty. He collects fallen wood and care-
-fully strips off with his knife the outer parts of this until he
+overcomes the difficulty. He collects fallen wood and carefully strips off with his knife the outer parts of this until he
 obtains so much of the heartwood (often very little indeed)
 as is dry. Round the fire thus laboriously made he heaps
 other wood, and this in time becomes dry and is added as
@@ -12352,22 +10864,15 @@ of other travellers. Mr. Tylor tells me that the Zulus lately exhibited in
 London succeeded in rubbing fire, but that the operation took k considerably
 longer than it does in Zululand.
 
-62
-
-
-260 AMONG THE INDIANS OF GUIANA.
-
 
 when away from home or without a cooking utensil, but one
-way of cooking this—whether it is still fresh or has been pre-
-viously smoked, whether it is meat or fish—and that is, by
+way of cooking this—whether it is still fresh or has been previously smoked, whether it is meat or fish—and that is, by
 boiling it down into a sort of thick soup, with peppers
 (chilis) and cassareep. The nature of this last ingredient
 will be explained presently ; at present all that need be said
 is, that it reduces all flesh to one common flavour, its own,
 and that it has antiseptic qualities which keep meat boiled in
-it good for a long time. The result of this method of cook-
-ing meat is the far-famed pepper-pot, which, first made by
+it good for a long time. The result of this method of cooking meat is the far-famed pepper-pot, which, first made by
 the Indians, all settlers in the West Indies have now learned
 to make and like. The one proper Indian meat dish is
 therefore pepperpot.
@@ -12376,8 +10881,7 @@ The one staple vegetable food of the Indians is afforded
 by the roots of the cassava-plant (Manihot utilissema), which
 are made into bread, like oatcakes, by most of the tribes ; into
 farine, a rough sort of meal, by others. No scene is more
-characteristic of Indian life than that of the women prepar-
-ing cassava.
+characteristic of Indian life than that of the women preparing cassava.
 
 One woman, squatting on her hams, and armed with a
 big knife, peels off the skin of the cassava roots which lie in
@@ -12394,23 +10898,17 @@ body swings down and up again from her hips. The rhythmic
 sound in the house; for the labour is too heavy to permit of
 talking. The cassava, which slips as pulp from the scraper
 into the trough, is collected and put intoa long wicker-woven .
-matapie, which hangs from the roof. This matapie or cassava-
-squeezer (Fig. 18), is in principle exactly like the not un-
+matapie, which hangs from the roof. This matapie or cassavasqueezer (Fig. 18), is in principle exactly like the not un-
 common toy known as a ‘Siamese Link.’ It is a cylinder,
 
 
 CASSAVA BREAD.
 
 
-261
-
-
 seven or eight feet long and five or six inches in diameter, made
 of closely woven strips of pliant bark. The upper end is
 open, and has a loop by which the matapie may be suspended
 from one of the beams of the house; the lower end is
-
-
 closed, but it also has a loop, the use of which
 will presently appear. The cassava, saturated with
 its highly poisonous juice, is now forced into the
@@ -12421,14 +10919,11 @@ means of a heavy stone or some such device,
 while the other is raised into the air. A woman
 now sits on the raised end of the pole, and her
 weight stretches the matapie downwards. In
-proportion as the length of the cylinder in-
-creases its diameter is of course reduced. The
-pressure thus applied to the cassava pulp im-
-mediately forces the poisonous juice out through
+proportion as the length of the cylinder increases its diameter is of course reduced. The
+pressure thus applied to the cassava pulp immediately forces the poisonous juice out through
 the walls of the matapie. The juice drops down
 into a buck-pot which stands on the ground; and
-it is this which when it is afterwards boiled be-
-comes cassareep, thick, treacle-like liquid, which
+it is this which when it is afterwards boiled becomes cassareep, thick, treacle-like liquid, which
 is no longer poisonous, and the use of which in
 the manufacture of pepper-pot has already been
 described. Cassareep when but slightly boiled is
@@ -12450,18 +10945,10 @@ Cassava
 
 
 a coarse flour. This is either wrapped in leaves
-
-
 and put away for future use, or is at once made into bread.
 
-A large circular iron griddle or plate, of European manu-
-facture, is now placed over the fire; by some of the remote
+A large circular iron griddle or plate, of European manufacture, is now placed over the fire; by some of the remote
 Indians a flat slab of stone is used for this purpose, and there
-
-
-262 AMONG THE INDIANS OF GUIANA.
-
-
 can be little doubt that this stone was originally universally
 used. On the griddle, whatever its material, a thin layer of
 the meal is spread. A woman, fan in hand, sits by the fire,
@@ -12483,14 +10970,12 @@ guarded from damp, it will keep for an indefinite time.
 Not quite all the cassava meal, freed from juice by means
 of the matapie, passes through the sifter—a small residue,
 consisting of the more starchy matter, adheres together in
-particles too large to pass through the close-woven wicker-
-work. This coarse starchy residue, called by the Caribs Emoo,
+particles too large to pass through the close-woven wickerwork. This coarse starchy residue, called by the Caribs Emoo,
 which is always small in quantity, is at once made into a cake,
 which differs from the ordinary cake made of the sifted meal
 in that, if eaten at once, it has a half-gelatinous consistency,
 and a pleasant sub-acid flavour; while, if it is allowed to
-become cold, it acquires a leathery consistency, and is taste-
-less and uneatable. | |
+become cold, it acquires a leathery consistency, and is tasteless and uneatable. | |
 
 Some of the True Caribs slightly diverge from this method
 of making bread in that they pound the meal in a mortar
@@ -12526,13 +11011,11 @@ the iron griddle, so that in drying it assumes the form of an
 accumulation of small dry crumbs of wheaten bread.
 
 Much cassava, after being made into bread, is further
-transformed into paiwari, the chief Indian beverage. As-
-tounding quantities of this are consumed at special drinking
+transformed into paiwari, the chief Indian beverage. Astounding quantities of this are consumed at special drinking
 bouts, of which we shall hear more presently. But paiwari
 is also largely used at other times; and indeed as long as
 there is any cassava to be had, a stock of this liquor is
-always kept ready. Whenever the men return from hunt-
-ing, and whenever a stranger comes into the house, it is
+always kept ready. Whenever the men return from hunting, and whenever a stranger comes into the house, it is
 drunk. And the women and children—even the youngest
 babies—drink it.
 
@@ -12548,11 +11031,6 @@ sufficiently filled, its contents, after being well stirred, are
 slightly boiled, and are then poured into the trough. More
 and more is added to the liquor in the trough until it is full.
 The mixture is then allowed to stand for some days, until it
-
-
-264 AMONG THE INDIANS OF GUIANA.
-
-
 is sufficiently fermented—a process which is said to be much
 accelerated by the mastication of the bread.' Sometimes a
 little juice of the sugar-cane is added to sweeten the liquor.
@@ -12567,8 +11045,7 @@ very inferior flavour.
 
 In some parts of the country, instead of paiwari, both
 for festivals and for ordinary occasions, a much pleasanter
-drink is used. This is casiri, which is made of sweet-
-potatoes and sugar-cane. A little cassava is sometimes
+drink is used. This is casiri, which is made of sweetpotatoes and sugar-cane. A little cassava is sometimes
 added. Generally, though not always, it is prepared simply
 by boiling the ingredients, and allowing them to ferment.
 It has a pretty pink colour, due to the sweet-potatoes; and
@@ -12582,8 +11059,7 @@ more striking in the appearance of the Indians than the
 extraordinary protuberance of their stomachs ; and after only
 brief companionship with them, the European is struck by
 the rapidity with which Indians—usually so sleek and
-fat—lose flesh and strength when cassava fails, and as sud-
-denly regain these when circumstances become more favour-
+fat—lose flesh and strength when cassava fails, and as suddenly regain these when circumstances become more favour-
 able. Cassava seems to have a great tendency to extend
 the paunch, and to puff out the flesh and make the whole
 body look fat and round, without giving any real stamina ;
@@ -12607,8 +11083,7 @@ in folds, and every bone in the body becomes prominent.
 
 Before turning from the subject of the regular food
 supply of the Indians, a word must be said as to the salt
-which almost invariably forms part of it. Indians are ex-
-tremely fond of salt, and large quantities of this substance—
+which almost invariably forms part of it. Indians are extremely fond of salt, and large quantities of this substance—
 procured originally from the English on our own coast, or
 from the Brazilians—are passed from owner to owner as a
 highly valued article of barter. Moreover, in the Wapiana
@@ -12628,8 +11103,7 @@ or fruits.
 It is rather curious that birds’ eggs are seldom eaten.
 The fact that the eggs of the ordinary domestic poultry,
 which generally abound in every Indian settlement, are not
-eaten, is simply another manifestation of the habit of regard-
-ing all introduced animals as unfit for food; but it might
+eaten, is simply another manifestation of the habit of regarding all introduced animals as unfit for food; but it might
 have been supposed that the eggs of indigenous wild birds,
 especially of the many kinds of game-birds, would have been
 eagerly sought as food ; but this is rarely the case. On the
@@ -12643,39 +11117,28 @@ others for future use. Sometimes I have seen an Indian
 canoe ‘weighed almost down to the edge of the water by its
 load of turtle- or iguana-eggs. Tortoise-eggs are much less
 commonly found ; but these too are readily eaten. Moreover,
-
-
-266 AMONG THE INDIANS OF GUIANA.
-
-
 in a previous chapter I have told how the True Caribs boil
 and greedily eat the musk-flavoured eggs of the cayman and
 alligator; on the other hand, this last habit is regarded
 with disgust by members of most other tribes.
 
-Of insects, true ants and white ants (Termes), grass-
-hoppers, grubs of wasps and beetles, and caterpillars, are
+Of insects, true ants and white ants (Termes), grasshoppers, grubs of wasps and beetles, and caterpillars, are
 eaten. When, at the beginning of the rainy season, the
 _ winged individuals of the colonies of white ants leave their
 nests, the Indians make large fires at evening, and the insects,
 attracted by the light, swarm round, scorch their wings, and -
 fall like rain to the ground, from which they are swept up
-by the Indians, and are eaten in handfuls. The winged in-
-dividuals of true ants, especially of the common coushie
+by the Indians, and are eaten in handfuls. The winged individuals of true ants, especially of the common coushie
 (Ecodema cephalotes), are also gathered ig the same way.
-At other seasons of the year, if an Indian hankers after ant-
-meat, he pushes a sharply pointed stick into some nest of
+At other seasons of the year, if an Indian hankers after antmeat, he pushes a sharply pointed stick into some nest of
 ant or termite, and then, withdrawing this, licks off the
-living insects which are sure to have crawled on to the in-
-truding wood. Possibly this trick has been learned from the
-ant-eaters (Myrmecophaga), who gain their livelihood by in-
-serting their long slender tongues into such nests, and eating
+living insects which are sure to have crawled on to the intruding wood. Possibly this trick has been learned from the
+ant-eaters (Myrmecophaga), who gain their livelihood by inserting their long slender tongues into such nests, and eating
 the ants which adhere. The wingless individuals of a large
 black ant, of a kind unknown to me, but, I believe, a Ponera,
 which become very prominent at times, are eaten in very
 unceremonious fashion: the living insect is held by the
-head, and its abdominal segment is bitten off. I once ven-
-tured to taste one of these latter delicacies, and found it to
+head, and its abdominal segment is bitten off. I once ventured to taste one of these latter delicacies, and found it to
 affect the palate very much as dry corn-husks probably
 would. Various grasshoppers, especially a beautiful scarlet
 and black kind, are also picked up and eaten without further
@@ -12691,15 +11154,13 @@ great delicacy, not only by the negroes, but also by Euro-~
 VEGETABLE FOOD. 267
 
 
-pean colonists. It is the grub of a beetle (Calandra pal-
-marum)' very destructive to palm-trees, in the heartwood of
+pean colonists. It is the grub of a beetle (Calandra palmarum)' very destructive to palm-trees, in the heartwood of
 which it lives.2 Caterpillars are apparently not ordinarily
 - eaten; but in times of famine the smooth-skinned kinds are
 collected, boiled, and used as food.
 
 Of fruits, those-of various palms are most largely used.
-The fleshy. covering round the seeds of the cokerite (Mazi-
-milvana regia), aud of several species of Astrocaryum is:
+The fleshy. covering round the seeds of the cokerite (Mazimilvana regia), aud of several species of Astrocaryum is:
 scraped off and eaten; and even after that the kernels of the
 ‘former kind of palm are eaten. The cokerite seeds, called
 mareepa by the Carib tribes, sometimes, indeed, during
@@ -12725,23 +11186,17 @@ Schomburgkiz) on many parts of the savannah, and the nut—
 the most delicately flavoured of all nuts—of the souari-tree
 (Pekea tuberculosa).
 
-Yams and sweet-potatoes, plantains and bananas, sugar-
-cane and maize, are grown and eaten by the Indians, but in
+Yams and sweet-potatoes, plantains and bananas, sugarcane and maize, are grown and eaten by the Indians, but in
 
 ! See p. 146.
 
 2 It is perhaps suggestive that the Arawak name for the grub, tacooma,
 is really identical with their name for the heartwood of any tree (tacooba) ;
-
-
 and the insect is possibly regarded as really part of the wood in which it
 lives.
 
 
 C
-
-
-268 AMONG THE INDIANS OF GUIANA.
 
 
 no very large quantities; moreover, these were, according to
@@ -12766,18 +11221,12 @@ of all is made simply by crushing the large and very juicy
 fruit of the wild cashew (Anacardium rhinocarpus), which
 has a strawberry-like flavour, in water. Wild honey, too,
 which is very abundant, is also mixed with water and drunk.
-Even in its natural state this honey differs from that of Euro-
-pean bees in that it is not viscid, but almost as fluid as water,
+Even in its natural state this honey differs from that of European bees in that it is not viscid, but almost as fluid as water,
 and has a sub-acid, highly fragrant taste.
 
 1 The eta tree and the drink procured from it are alike called gwy by
-
-
 the Macusis, eta by the Warraus. As regards this common name for
 various parts of the same thing cf. note 2, p. 267.
-
-
-269
 
 
 CHAPTER XIV.
@@ -12786,8 +11235,7 @@ MANUFACTURES.
 
 General Considerations—Pottery—Basket-work—Spinning : Three kinds of
 Fibre ; two Methods of Spinning; Explanation of Co-existence of two
-Methods—Weaving: Hammock-weaving; Rude Cloth-weaving—Boat-
-building — Bench-making — Weapon-making — Ornament-making— Mu-
+Methods—Weaving: Hammock-weaving; Rude Cloth-weaving—Boatbuilding — Bench-making — Weapon-making — Ornament-making— Mu-
 
 . 8ical Instraments—Poison-making—Preparation of Oils, Pitches, Dyes—
 Tobacco-production.
@@ -12796,10 +11244,8 @@ Tobacco-production.
 No little ingenuity is displayed by the Indians in making
 their simple household utensils, weapons, and ornaments.
 Yet many of the arts practised by their ancestors, such as that
-of shaping stone into knives and for other purposes, have dis-
-appeared already; others, such as the making of bows and
-other weapons, are even now gradually, but rapidly, disap-
-pearing in consequence of an ever-increasing distribution of
+of shaping stone into knives and for other purposes, have disappeared already; others, such as the making of bows and
+other weapons, are even now gradually, but rapidly, disappearing in consequence of an ever-increasing distribution of
 goods of European manufacture throughout the interior.
 
 It has already been remarked that the life of the Indian
@@ -12816,19 +11262,13 @@ out that this inactivity and carelessness of time are not due
 to any blameworthy idleness. The Indian exerts himself to
 obtain all that he needs—food, a very moderate amount of
 clothing, a good deal of ornament, a shelter of no very elaborate
-
-
-270 AMONG THE INDIANS OF GUIANA.
-
-
 kind from the weather, and weapons for defence or for hunting ;
 of the advantage to him of anything beyond these things he
 is ignorant, and he cannot therefore be blamed for not striving
 to obtain more. But the acquisition of these things occupies
 comparatively little of his time; and it is therefore not
 laziness if he spends the rest of his life in dawdling. This is
-true not only of the Indians of Guiana, but also, as has fre-
-quently been pointed out, of savages generally. But there
+true not only of the Indians of Guiana, but also, as has frequently been pointed out, of savages generally. But there
 is another circumstance connected with the same subject of
 Indian industry which has, I think, attracted less notice.
 Wherever white men go among Indians—wherever, that is, we
@@ -12855,8 +11295,7 @@ in the presence of civilisation.
 
 And from another point of view these Indians’ arts are
 interesting. There exists among the tribes of this, as of
-probably every other similar district, a rough system of dis-
-tribution of labour; and this serves not only its immediate
+probably every other similar district, a rough system of distribution of labour; and this serves not only its immediate
 purpose of supplying all the tribes with better-made articles
 than each could make for itself, but also brings the different
 
@@ -12872,11 +11311,9 @@ vast tracts in which there seems to be no organised system
 of communication, and in which civilisation is altogether
 wanting, has surprised travellers in all quarters of the world.
 If, for instance, an event, possibly quite trivial in itself, but
-yet of interest to the Indians, happens in any part of the in-
-terior of Guiana, news of it reaches even the most remote of
+yet of interest to the Indians, happens in any part of the interior of Guiana, news of it reaches even the most remote of
 the Indians with a rapidity almost as great, if not as certain,
-as could be achieved by the best system of postal communi-
-cation. Naturally, Indians of one tribe constantly visit. each
+as could be achieved by the best system of postal communication. Naturally, Indians of one tribe constantly visit. each
 other, and these carry news of all that has passed in their
 own neighbourhood. It is more strange that news is as
 rapidly passed from tribe to tribe, however hostile the one
@@ -12894,21 +11331,14 @@ was often amused by a number of those Indians rushing into
 my house, in the walls of which we had had windows pierced,
 who, with bated breath, half in joy, half in terror, used to
 point through the window to some party of their enemies,
-‘the Arecunas, coming with cotton-balls and blow-pipes for ex-
-change. It is these traders who carry with them the latest
+‘the Arecunas, coming with cotton-balls and blow-pipes for exchange. It is these traders who carry with them the latest
 news. ~-
 
 . Of the tribes on the coast, the Warraus make far the best
 canoes and supply these to the neighbouring tribes. They
-also make hammocks of a peetliar kind, which are not, how-
-ever, much in request except among themselves. In the
+also make hammocks of a peetliar kind, which are not, however, much in request except among themselves. In the
 same way, far in the interior, the Wapianas build boats for
 all the tribes in that district. The Macusis have two special
-
-
-212 AMONG THE INDIANS OF GUIANA.
-
-
 products which are in great demand amongst all the tribes.
 One is the ourali used for poisoning arrows and the darts. of
 blow-pipes, the other is an abundance of cotton hammocks—
@@ -12918,27 +11348,22 @@ grow, spin, and distribute most of the cotton which ts-used
 by the Macusis and others for hammocks and other articles.
 The Arecunas also supply all blow-pipes; for these are
 made of the stems of a palm which, growing only in and be~
-yond the Venezuelan boundary of their territory, are pro-
-cured by the Arecunas, doubtless by exchange, from the
+yond the Venezuelan boundary of their territory, are procured by the Arecunas, doubtless by exchange, from the
 Indians of the native district of that palm. The Tarumas
-and the Woyowais have a complete monopoly of the manu-
-facture of the graters on which Indians of all the tribes
+and the Woyowais have a complete monopoly of the manufacture of the graters on which Indians of all the tribes
 grate their cassava. These two remote tribes are also the
 great breeders and trainers of hunting dogs. The Tarumas
 and Woyowais, however, though it is said that they sometimes
 pass down the rivers of Dutch Guiana towards the sea-coast
 of Surinam, do not travel from their own territories into any
-other part of British Guiana, but distribute their cassava-
-graters and their dogs through the Wapianas, who act as
+other part of British Guiana, but distribute their cassavagraters and their dogs through the Wapianas, who act as
 middle-men. |
 
 The True Caribs, again, are the most skilful potters ; and
-though the Arawaks frequently, and the other Indians occa-
-sionally, make vessels for their own use, yet these are by no
+though the Arawaks frequently, and the other Indians occasionally, make vessels for their own use, yet these are by no
 means as good as those which, whenever possible, they obtain
 from the Caribs. The Arawaks make fibre hammocks of a
-kind peculiar to them. They also make a good deal of pot-
-tery for their own use. Possibly in former times they pro-
+kind peculiar to them. They also make a good deal of pottery for their own use. Possibly in former times they pro-
 duced some other manufacture of more importance to the
 other Indians; but now they have become so far civilised, and
 have so far adopted habits similar to those of the colonists,
@@ -12954,22 +11379,18 @@ EXCHANGE OF PRODUCTS. 273
 
 ' dreaded and disliked by all the others; and it is possible
 that the want of intercourse thus occasioned between this
-tribe and the others forced the Ackawoi to produce for them-
-selves all that they required. It is, further, possible that to
-this enforced self-dependence is due the miserable condi-
-tion of most of the Ackawoi.
+tribe and the others forced the Ackawoi to produce for themselves all that they required. It is, further, possible that to
+this enforced self-dependence is due the miserable condition of most of the Ackawoi.
 
 To interchange their manufactures the Indians make
 long journeys. The Wapianas visit the countries of the
-Tarumas and the Woygwais, carrying with them canoes, cot-
-ton hammocks, and now very frequently knives, beads, and
+Tarumas and the Woygwais, carrying with them canoes, cotton hammocks, and now very frequently knives, beads, and
 other European goods ; and, leaving their canoes and other
 merchandise, they walk back, carrying with them a supply
 of cassava-graters, and leading hunting dogs—all which things
 they have received in exchange for the things which they
 took. The Macusis visit the Wapiana settlements to obtain
-graters and dogs, for which they give ourali-poison and cot-
-ton hammocks; and they again carry such of these graters
+graters and dogs, for which they give ourali-poison and cotton hammocks; and they again carry such of these graters
 and dogs as they do not themselves require, together with
 more of their own ourali and of their cotton hammocks, to
 other Indians—to the Arecunas, who give in return balls of
@@ -12980,8 +11401,7 @@ constantly pass from district to district.
 Richard Schomburgk has suggested that a higher degree
 of ornament is apparent in the manufactures of each tribe
 the further that tribe lives from the sea-coast. There is
-some slight ground for this suggested theory. The ham-
-mocks of the coast tribes, indeed of all the tribes of British
+some slight ground for this suggested theory. The hammocks of the coast tribes, indeed of all the tribes of British
 Guiana, are strong, but without ornament. On the frontiers
 of Brazil live tribes who introduce blue and yellow threads
 into their hammocks; and but very little farther away, on
@@ -12995,9 +11415,6 @@ feathers are worn as personal ornaments. On the other
 .* T
 
 
-2740 AMONG THE INDIANS OF GUIANA.
-
-
 hand, the Indians of the coast, with the exception perhaps
 of the Warraus, certainly surpass those more inland in the
 neatness and strength of their weapons, especially their
@@ -13008,10 +11425,8 @@ The ornaments which the Indians paint upon their
 pottery, weapons, and sometimes upon the posts and walls
 of their houses, are of a very simple kind. Generally they
 are mere lines, curved or straight, drawn free-hand and
-according to the will of the artist, combined in very irre-
-gular patterns. Sometimes a rude and childish drawing of
-a figure of a man or of some other animal may be distin-
-guished. It is somewhat curious that Schomburgk thought
+according to the will of the artist, combined in very irregular patterns. Sometimes a rude and childish drawing of
+a figure of a man or of some other animal may be distinguished. It is somewhat curious that Schomburgk thought
 that all such ornamentation, even of weapons, was done by
 women ; but, however that may have been in his time, it is
 now certainly as often the work of men as of women.
@@ -13045,20 +11460,16 @@ POTTERY. 275
 
 with basket-work, and this is regarded as evidence that
 pottery was originally made by lining baskets with clay, the
-real explanation may be that, as in the case of the casiri-
-jar, the pottery was bound with basket-work for the sake of
+real explanation may be that, as in the case of the casirijar, the pottery was bound with basket-work for the sake of
 greater strength.
 
 _Goglets (see Fig. 19 c and D), clay bottles with globular
-bodies and long straight necks, are made, and used to con-
-tain liquids by the forest tribes, but not by the savannah
+bodies and long straight necks, are made, and used to contain liquids by the forest tribes, but not by the savannah
 Indians, who use the empty skins of gourds and calabashes
 in their stead.
 
 Another vessel (see Fig. 19 £), made chiefly by the True
 Caribs and Arawaks, and seldom used by the other tribes, is
-
-
 the sappoora. This is shaped like an ordinary basin, and is
 used, not for cooking, but for holding food.
 
@@ -13080,14 +11491,10 @@ shape and as truly curved as though made with the potter’s
 T2
 
 
-276 AMONG THE INDIANS OF GUIANA.
-
-
 wheel ; and yet they are formed by the hand alone, guided
 only by the eye.
 
-A flat, circular sheet of clay, the foundation of the in-
-tended buck-pot, or goglet, is first laid on a small piece of
+A flat, circular sheet of clay, the foundation of the intended buck-pot, or goglet, is first laid on a small piece of
 board. The rest of the clay has been rolled between the
 palms of the hand into long cylindrical pieces as thick as a
 man’s thumb. One of these rolls is now laid round the
@@ -13105,8 +11512,7 @@ or lip of-the vessel, a piece of the shell of a calabash is used.
 A piece is carefully cut out from one side of the shell, so
 that the space left exactly corresponds with the intended lip
 of the vessel. By means of this nick, the shell is then fitted
-on to the edge of the vessel, and is passed round its circum-
-ference. This of course smooths away any inequalities in
+on to the edge of the vessel, and is passed round its circumference. This of course smooths away any inequalities in
 the clay, and leaves a perfectly smooth edge. In the same
 way, either a projecting ledge or a groove is sometimes made
 in the soft clay by way of ornament, entirely round the body
@@ -13116,8 +11522,7 @@ size is made in the edge of the calabash-shell, or a projection
 is left on its edge. |
 
 After the vessel has been shaped, it is smoothed and
-polished by much rubbing with a water-worn pebble—pre-
-ferably a piece of porphyry or, if it can be had, an old
+polished by much rubbing with a water-worn pebble—preferably a piece of porphyry or, if it can be had, an old
 Indian stone axe-head. Suitable porphyry pebbles rounded
 by the action of water, occur in many of the smaller rivers
 of the interior ; these are collected and form a regular article
@@ -13129,8 +11534,7 @@ POTTERY. 207
 
 which Schomburgk and others obtained from the Indians
 under the impression that they were worn into their present
-shape merely by being long held in the hands of Indian chil-
-dren, in a form of divination, are in reality the natural water-
+shape merely by being long held in the hands of Indian children, in a form of divination, are in reality the natural water-
 worn pebbles used by potters. After being polished the pot
 is dried in the sun. Some time after this, a pattern is
 drawn on the vessel with pieces of the bark of various trees,
@@ -13153,8 +11557,7 @@ The labour and care devoted to building up an enormous
 easiri-jar, bit by bit, with inch-broad strips of clay, and the
 wonderful skill shown in keeping the -walls of the growing
 structure perfectly round, are worthy of notice. Often,
-indeed, the women fail in many attempts before they suc-
-cessfully fashion one of these large vessels; and even after
+indeed, the women fail in many attempts before they successfully fashion one of these large vessels; and even after
 one has been made, it often cracks or breaks during the
 baking. A perfected casiri-jar, especially if it is much
 ornamented, is highly valued; one especially fine specimen,
@@ -13168,14 +11571,10 @@ and her ancestors have long been accustomed to make that
 the Indian woman can make well and perfectly round.
 
 
-278 AMONG THE INDIANS OF GUIANA.
-
-
 Asked or unasked, the women who come in contact with
 white people frequently imitate such vessels of European
 structure as they may see, such as teapots, cups and saucers,
-tumblers, or wineglasses ; but these articles are always mis-
-shapen and untrue in curve.
+tumblers, or wineglasses ; but these articles are always misshapen and untrue in curve.
 
 Before passing from the subject of Indian pottery, it
 must be noted that the vessels made are strikingly similar
@@ -13184,8 +11583,7 @@ American earth-mounds. The ‘ buck-pot’ and the goglet are
 exactly matched in shape by vessels from these mounds; but
 those made by the present Indians of Guiana are more
 highly finished than most, at any rate, of those left behind
-by the old North American mound-makers. Another sig-
-nificant fact is that, while the Indian women of Guiana are
+by the old North American mound-makers. Another significant fact is that, while the Indian women of Guiana are
 shaping the clay, their children, imitating them, make small
 pots and goglets. Many of these toy vessels may be seen in
 and about almost every Indian house. The large number of
@@ -13242,26 +11640,18 @@ of coloured feathers, Round pocket-shaped baskets, without
 Macust Busap Basket.
 
 
-lids, but covered with loose leaves if there is need of pro-
-tection, are chiefly used by the Indians of the savannah,
+lids, but covered with loose leaves if there is need of protection, are chiefly used by the Indians of the savannah,
 instead of the more ordinary pegalls.
 
 Sometimes, especially by the True Caribs, each pegall,
 basket and lid alike, is made double, and between the two
-
-
-280 AMONG THE INDIANS OF GUIANA.
-
-
-layers of basket-work certain leaves (Ischnosiphon) are in-
-serted, to render the whole basket waterproof.
+layers of basket-work certain leaves (Ischnosiphon) are inserted, to render the whole basket waterproof.
 
 Most of the implements used in making cassava-bread
 are of basket-work. The matapie, a very peculiar basket, by
 means of which the bitter, poisonous juice is expressed from
 the cassava, has already been described (Fig. 18, p. 261).
-The square sieve (Fig. 20, p. 279) through which the cassava-
-meal is sifted before it is strewn on the baking-iron is made
+The square sieve (Fig. 20, p. 279) through which the cassavameal is sifted before it is strewn on the baking-iron is made
 of basket-work. To hold the cassava-bread when made, large
 square tray-like baskets (Fig. 21, p. 279), with little or no rim,
 are made by the Macusis and Arecunas, and similar, but much
@@ -13292,8 +11682,7 @@ BASKET-WURK. - 281
 
 
 of the basket across the forehead of the carrier so as to
-support the whole weight. The quake, again, is a much-
-uséd basket with rounded bottom, and is made of very open
+support the whole weight. The quake, again, is a muchuséd basket with rounded bottom, and is made of very open
 _ Wicker-work. Quakes are used for. storing provisions; they
 also serve as cages to confine young birds and animals which
 are being tamed ; and they are used for half a hundred other
@@ -13310,8 +11699,7 @@ parallel pieces. These pieces are sometimes used in their
 natural state, sometimes peeled and bleached, sometimes
 stained black. They are closely woven together, so that the
 walls of the basket are as dense as cloth. If the materials
-used are of various colours, the different kinds are so care-
-fully interwoven as to produce very intricate patterns in the
+used are of various colours, the different kinds are so carefully interwoven as to produce very intricate patterns in the
 finished basket.
 
 Waist-belts, to support the cloth lap, are also made of
@@ -13332,13 +11720,7 @@ and cassava bread which is to be kept for some time. But the
 quakes are loosely woven, and have large holes, through
 which such things as farine—coarse meal made of cassava
 —and salt would certainly fall out. They are, therefore,
-
-
-282 AMONG THE INDIANS OF GUIANA.
-
-
-lined with the broad oval leaves of the iturite. The bot-
-tom of the basket having been lined with a single layer
+lined with the broad oval leaves of the iturite. The bottom of the basket having been lined with a single layer
 of leaves placed in beautifully regular order, a line of the
 leaves is placed, their stalks on the bottom, their upper part
 against the sides of the baskets. As much farine or salt is
@@ -13353,8 +11735,7 @@ entirely guarded against all damp.
 The Nikari-karus, a curious hybrid tribe of Indians, living
 on the Brazilian borders, are peculiar in making their pegulls
 of the leaves of a palm (Orbigignia) very rare in British
-Guiana, but growing near: the Oorooa rapids on the Roopoo-
-nooni, These pegalls are square or oblong in shape, like
+Guiana, but growing near: the Oorooa rapids on the Roopoonooni, These pegalls are square or oblong in shape, like
 those of the Arawaks.
 
 Indian basket-work is so beautifully neat, that it is much
@@ -13364,16 +11745,14 @@ Missionaries would certainly be doing good work if they
 endeavoured to revive and retain this and all other such
 native arts.
 
-Having so lately spoken of the baskets used in the manu-
-facture of cassava bread, it may be as well to find place here
+Having so lately spoken of the baskets used in the manufacture of cassava bread, it may be as well to find place here
 for some account of the cassava-graters, These are, as has
 been said, made only by the Woyowais and Tarumas, and are
 distributed throughout the interior of the colony by the
 Wapianas. They are oblong boards, with a slight curve
 parallel with their length. On the concave surface of this
 many small holes are drilled, and in each of these a small
-and angular fragment of granite or other hard stone is in-
-serted, so as to project slightly. The whole is then rubbed
+and angular fragment of granite or other hard stone is inserted, so as to project slightly. The whole is then rubbed
 over with a strong black vegetable pitch, called karamanni,
 so that the holes are entirely filled up; and the stones, as
 soon as the pitch is dry, are firmly fixed. The result is that
@@ -13382,8 +11761,7 @@ soon as the pitch is dry, are firmly fixed. The result is that
 SPINNING. 283°
 
 
-this side of the board is roughened like a large nutmeg-
-grater, and on this the cassava roots are scraped up and
+this side of the board is roughened like a large nutmeggrater, and on this the cassava roots are scraped up and
 down, and are thus reduced to pulp. Sometimes the top of
 the board is painted and carved. Before handing them over
 to the Wapianas, the makers pack each carefully in a single
@@ -13392,15 +11770,12 @@ layer of the waterproof iturite leaves.
 Thread, or string, is one of the first of human wants,
 being needed for fishing-lines, bow-strings, and for tying
 purposes; and in a very slightly higher stage of civilisation
-the art of twisting this thread into some sort of cloth is at-
-tained. The Indians of Guiana have, therefore, of ‘course
-provided themselves with string to be used in the first-
-mentioned simple ways; and they have even attained some
+the art of twisting this thread into some sort of cloth is attained. The Indians of Guiana have, therefore, of ‘course
+provided themselves with string to be used in the firstmentioned simple ways; and they have even attained some
 slight knowledge of its use for the latter purpose. Their
 string is made of but three kinds of fibre. These are cotton,
 the fibre called tibisiri, which is obtained from the eta palm
-(Mauritia flexuosa), and that called crowia, which is pro-
-cured from the silk grass-plant (Bromelia and Anannasea).
+(Mauritia flexuosa), and that called crowia, which is procured from the silk grass-plant (Bromelia and Anannasea).
 
 A small quantity of cotton is grown and spun by almost
 all Indians, but by far the larger part of that used by them
@@ -13412,8 +11787,7 @@ cultivated in almost every Indian field. Tibisiri and crowia
 are gathered and prepared by each Indian as they are
 required. |
 
-‘Eta fibre, the tibisiri of the Arawak Indians, is pre-
-pared from the young leaf of the palm (Mauritia flexuosa).
+‘Eta fibre, the tibisiri of the Arawak Indians, is prepared from the young leaf of the palm (Mauritia flexuosa).
 The leaf, when fully developed, is fan-shaped, but it first
 appears folded in a spike which springs from the very centre
 of the plant. It is from this spike that the fibre is obtained.
@@ -13431,10 +11805,8 @@ boiling, drying in the sun, and twisting into strings, in a
 way which will presently be explained. The fibre from a
 dozen such spikes is sufficient to make a large hammock.
 
-Crowia—called silk-grass fibre in the colony—is in-
-geniously extracted from the leaves of a bromelia, and some-
-times of various species of anannassa, plants like huge pine-
-apples. A string, from which hangs a sntall noose, with a
+Crowia—called silk-grass fibre in the colony—is ingeniously extracted from the leaves of a bromelia, and some-
+times of various species of anannassa, plants like huge pineapples. A string, from which hangs a sntall noose, with a
 slip knot large enough to allow the pointed top of one of
 the leaves to pass through, is tied round a tree. A single
 leaf is then split up the midrib from the point where it was
@@ -13472,15 +11844,12 @@ SPINNING. 285
 
 
 at
-
-
 hand, followed by a slight backward motion, the fibres are
 rolled downward along the thigh and become spirally
 twisted. And this spiral is retained. The single strand
 thus produced is used for making hammocks; but three
 strands are rolled together, in the same way, to make the
-string used for bow-lines; and three of the triple cords—some-
-times nine strands—are used in making hammock-ropes.
+string used for bow-lines; and three of the triple cords—sometimes nine strands—are used in making hammock-ropes.
 
 The bodily form and the habits of the Indian are such as
 render the making of the string in this way easy; for not
@@ -13492,7 +11861,6 @@ it also prevents the work from being done quickly and
 evenly enough to be successful. Similarly, the Indian women,
 whose duty it is to prepare the twine for hammock-making,
 so soon as they become so far civilised as to wear dresses,
-
 have to give up this work.
 The string prepared from the eta is strong, but is not
 nearly so even and regular as that from the silk-grass. The
@@ -13517,15 +11885,11 @@ pass. At the other end of the spindle is the small hook to
 whichrthe end of the loose cotton band is fastened.
 
 
-286 AMONG THE INDIANS OF GUIANA.
-
-
 The spindle, after the cotton has been arranged as
 described, is twirled rapidly round between the finger and
 the thumb; and at the same time the right hand is raised
 and removed further from the left. The circular motion
-given by the twirling of the spindle twists the fibres to-
-gether; and the band, being extended by the gradual
+given by the twirling of the spindle twists the fibres together; and the band, being extended by the gradual
 separation of the hands, is reduced to the thickness of the
 required thread. But certain parts of the compact thread
 thus produced are thicker than others. These thicker parts
@@ -13598,19 +11962,12 @@ imagination to suppose that the Carib tribes brought with
 them the habit of using cotton and the spindle; and that
 the tribes previously in Guiana had before used only palm
 and silk-grass fibre, and had twisted these on their thighs.
-The two sets of people, the thigh-twisters and the spindle-
-users, having, if not intermingled, yet come into proximity,
+The two sets of people, the thigh-twisters and the spindleusers, having, if not intermingled, yet come into proximity,
 each adopted, for certain minor purposes, the kind of fibre
 used by the other; and with the fibre they adopted the
-
-
-288 AMONG THE INDIANS OF GUIANA.
-
-
 method of preparing it. Thus not only is an explanation
 afforded of the simultaneous use of the better and the worse
-method, but additional light is thrown on the Carib migra-
-tion into Guiana.
+method, but additional light is thrown on the Carib migration into Guiana.
 
 Each of the three kinds of fibre is used in the simple
 form of string. Tibisiri, which is coarse and makes but
@@ -13626,8 +11983,7 @@ ropes or strings afforded by the larger or smaller stems of
 certain pliant creepers. Crowia fibre, since it can be made
 into much stronger and more even string, is used for all
 more important purposes—for bow-strings, fishing-lines, and
-especially for hammock-ropes. Entire hammocks are occa-
-sionally, but very rarely, made of it. Cotton is used for many
+especially for hammock-ropes. Entire hammocks are occasionally, but very rarely, made of it. Cotton is used for many
 such purposes as binding on the heads of arrows, and for
 ornament, as in the numerous long streamers which float
 from the feather head-dress of the Indian and hang from his
@@ -13670,8 +12026,6 @@ Fra. 23,
 
 
 Cas MerHoD oF MAKING A HAMMOCK,
-
-
 cross-bar is begun parallel to, and a short distance from, the
 former. When all the cross-bars have been inserted, the
 hammock is taken off the frame. So far the work has been
@@ -13685,9 +12039,6 @@ longitudinal threads which passed round the side-bars of the
 wooden frame. The scale-line having been fastened to the
 first of these loops, a certain length of it is allowed to hang
 U
-
-
-290 AMONG THE INDIANS OF GUIANA.
 
 
 loose; it is then passed through the second loop and a
@@ -13736,8 +12087,7 @@ as closely as felt, by some few True Caribs; but it is certain
 CLOTH-MAKING. 291
 
 
-that this art has merely been copied from some of the half-
-civilised Brazilian-Indian half-breeds who have settled on
+that this art has merely been copied from some of the halfcivilised Brazilian-Indian half-breeds who have settled on
 some of the rivers. A genuine Indian advance in the art
 of weaving is, however, to be seen in the broad cloth-like
 cotton bands which are worn by some tribes round the legs
@@ -13754,8 +12104,7 @@ seen in certain curious strips of cotton cloth worn by men
 in which, by means of various stitches, a distinct pattern is
 produced ; but the art of making this particular cloth has
 already been lost, and the cloths themselves are exceedingly
-rare. Of the only two which I was able to procure, or, in-
-deed, ever saw, one is now in Georgetown Museum, the other
+rare. Of the only two which I was able to procure, or, indeed, ever saw, one is now in Georgetown Museum, the other
 in the British Museum.
 
 Before Europeans went westward and supplied the
@@ -13763,27 +12112,20 @@ Indians with ready-made cloth, it is probable that some of
 these people wove for themselves, in the way that the leg
 bands are now woven, both the long narrow strip of cloth
 which, passed between the legs, forms the only garment of
-these men, and the small apron which serves a similar pur-
-pose in the case of the women. In some tribes, however,
+these men, and the small apron which serves a similar purpose in the case of the women. In some tribes, however,
 then, as now in very rare cases, the soft cloth-like inner bark
 of a tree (Lecythis) was used for these purposes. Some of
 the Arecuna women in very remote places still make their
 aprons of cotton, adorned with seeds instead of beads.
 
 The invention of the simple art of plaiting probably is
-of older date than that of weaving; but it seems more con-
-venient to speak of it, as practised by the Indians, in this
+of older date than that of weaving; but it seems more convenient to speak of it, as practised by the Indians, in this
 place. It is employed chiefly, if not only, in making the
 belts which the men wear round their waists to support the
-
 v2
 
 
-292 AMONG THE INDIANS OF GUIANA.
-
-
-cloth passed between their legs. These are plaited, ap-
-parently of different materials by different tribes, sometimes
+cloth passed between their legs. These are plaited, apparently of different materials by different tribes, sometimes
 of cotton, sometimes of fibre, sometimes of strips of the
 material used for basketwork, and sometimes of hair, either
 of men or monkeys, Schomburgk speaks of human hair
@@ -13800,7 +12142,6 @@ by the men.
 Not the least admirable of the simple arts of the Indians
 of British Guiana is that of working in wood. Only the men
 do this. The axes, scrapers, and chisels of stone which once
-
 formed their whole stock of wood-working implements are no
 longer used. Yet even now, as a rule, the only tools used to
 transform the rough block of wood into the required shape
@@ -13816,8 +12157,7 @@ water, boat-building is the most important form of carpenter's
 craft practised by them. The boats made are of four kinds
 —the canoe, the corial, the buckshell, and the woodskin.
 Each of these forms was possibly once peculiar to a special
-tribe; but they are now nearly, though not quite, indis-
-criminately used. The Warraus on the coast, and the
+tribe; but they are now nearly, though not quite, indiscriminately used. The Warraus on the coast, and the
 Wapianas in the interior, are the most apt boat-builders,
 and the canoes which these make form their principal article
 of barter with the other tribes.
@@ -13832,8 +12172,7 @@ sought in the forest, often at a long distance from the nearest
 river or creek. I have known cases in which this distance
 was more than two miles, through dense, pathless bush.
 The tree is felled, and is roughly hewn, on the spot where it
-falls, into the shape of the required canoe. It is then hol-
-lowed, partly with axe or adze, partly by burning out the
+falls, into the shape of the required canoe. It is then hollowed, partly with axe or adze, partly by burning out the
 interior. Sometimes at this stage, but sometimes not till it
 is finished, it is carried down to the river. A path through
 the bush down to the water-side having been cleared and
@@ -13867,9 +12206,6 @@ each other. The benches, too, are at once fixed in their
 places and help the same purpose.
 
 
-294 AMONG THE INDIANS OF GUIANA.
-
-
 Two triangular pieces of plank-like wood are then cut
 and fitted into the gaps at bow and stern. The sides
 and ‘squared’ ends of the whole canoe are raised by the
@@ -13890,23 +12226,19 @@ two together.—with the wax of a wild bee.!
 it is yet practised in some of the West Indian islands, from which places the
 ancestors of many of the Indians of Guiana doubtless came, exhibits a
 marked case of the survival of old habits, notwithstanding the introduction
-of new, and presumably better, European methods: ‘It may not be with-
-out interest to mention that in St. Vincent, St. Lucia, and Grenada canoes
+of new, and presumably better, European methods: ‘It may not be without interest to mention that in St. Vincent, St. Lucia, and Grenada canoes
 are generally used along the coast in lieu of built boats. These canoes are
 often of considerable size, capable of carrying ten or twelve passengers,
 with more cargo in the shape of barrels of flour, quintals of salt fish, &c.,
 than their apparently frail construction would seem to warrant. They are
-rowed by a crew of four or six men, always creoles. The shells are in-
-variably furnished—at all events in St. Vincent—by the Caribs. A small
+rowed by a crew of four or six men, always creoles. The shells are invariably furnished—at all events in St. Vincent—by the Caribs. A small
 settlement of these people, distinguished as Black Caribs, sprung from
 intermarriage between the aboriginal yellow Carib and some Africans
 landed from a slaver wrecked on a neighbouring island some two hundred
 years ago, still exists on the leeward side. On the windward coast some
 of the more or less pure yellow-skinned Caribs are still to be found.
-These latter are invaluable as boatmen for the purpose of shipping pro-
-duce. They are as much at home in the rolling breakers as on terra firma;
-but rum, cum annezisas we say here, militates against their continued exist-
-ence asa race. The tree used in St. Vincent is the “ gommier,” so called
+These latter are invaluable as boatmen for the purpose of shipping produce. They are as much at home in the rolling breakers as on terra firma;
+but rum, cum annezisas we say here, militates against their continued existence asa race. The tree used in St. Vincent is the “ gommier,” so called
 because it exudes a quantity of resin so fragrant as to bea chief ingredient
 in the inoense used in the Roman Catholicchurches. The tree is felled and
 treated much as Mr. im Thurn describes, but the practice in St. Vincent is
@@ -13923,8 +12255,7 @@ CORIALS AND BUCKSHELLIS. 295
 
 If the canoe is to be used for long journeys, a tent is
 added for the protection, not of the Indians themselves, but
-of their goods. A number of sticks are bent into semi-
-circles, and the two ends are fastened, one against each side
+of their goods. A number of sticks are bent into semicircles, and the two ends are fastened, one against each side
 of the canoe, so as to make a framework for the tent; these
 are held in place by cross-sticks tied on at right angles; and
 on the framework thus made a thatch of palm-leaves is laid.
@@ -13966,9 +12297,6 @@ These craft are wonderfully buoyant. The canoe rarely upsets; the only
 danger arises from overloading and swamping.’
 
 
-296 AMONG THE INDIANS OF GUIANA.
-
-
 The lightest and most easily made boats in use among
 these Indians are ‘woodskins.’ These are usually made of
 the bark either of the locust-tree (Hymenwa courbaril) or
@@ -13976,8 +12304,7 @@ of the purpleheart (Copaifera pubsflora). <A strip of bark of
 sufficient length is first carefully taken from the tree, and this
 is cut to au oblong shape. The natural curve of the bark is
 carefully preserved. From each of the two long sides of
-this, between two and three feet from either end, a wedge-
-shaped piece, the base of which corresponds with the outer
+this, between two and three feet from either end, a wedgeshaped piece, the base of which corresponds with the outer
 edge of the bark, is cut out. The two ends of the whole
 strip of bark—that is to say, the short piece between each
 end and the nearest wedge-shaped incisions—are raised till
@@ -13997,8 +12324,7 @@ and Arecunas, and also by such other Indians as live on
 rocky rivers much interrupted by falls and rapids. A
 woodskin, even when large enough to carry three or four
 Indians, with their goods, is sp light that it can easily be
-taken from the water and carried past a fall or other obstruc-
-tion to navigation in a few minutes. When not in use,
+taken from the water and carried past a fall or other obstruction to navigation in a few minutes. When not in use,
 woodskirs are. kept sunk under water, to prevent their
 splitting or warping under the action of the sun.
 
@@ -14006,20 +12332,17 @@ The paddles, by which alone all these kinds of boats are
 generally propelled, are hewn merely with cutlass or knife,
 sometimes out of a solid block of timber, but more often,
 because more easily, out of one of the board-like natural
-buttresses of the ‘ paddle-wood’ tree (Aspidospermum ex-
-celaum). In appearance this tree is one of the most peculiar
+buttresses of the ‘ paddle-wood’ tree (Aspidospermum excelaum). In appearance this tree is one of the most peculiar
 
 
 PADDLES AND SAILS. 297
 
 
 in the forest; the trunk resembles a number of boards
-standing on end, one edge of each going to form the com-
-mon centre from which they all radiate. In the South
+standing on end, one edge of each going to form the common centre from which they all radiate. In the South
 American forests there are many kinds of trees which have
 these queer board-like trunks, but in no other of these is
-this habit of growth so strongly developed as in the paddle-
-wood. The mora (Mora excelsa) for example, has board-
+this habit of growth so strongly developed as in the paddlewood. The mora (Mora excelsa) for example, has board-
 like buttresses, but these radiate from a main trunk of
 considerable diameter and of the ordinary approximately
 round form; but in the Aspidospermum the whole trunk,
@@ -14030,12 +12353,9 @@ shape the paddles vary but little throughout Guiana. All ©
 the tribes, with one exception, make and use paddles with
 broad, oblong blades and round shafts; at the top of the
 shaft is a small semilunar handle, into which the hand of
-the paddler fits most readily and comfortably. The one ex-
-ceptional tribe is that of the Wapiana, who use paddles with
-perfectly circular blades, rounded shafts, and straight cross-
-handles. Similar paddles are in fashion among the Brazilian
-Indians of the Rio Branco, from whom, doubtless, the neigh-
-bouring Wapiana learned to use them. The paddles, what-
+the paddler fits most readily and comfortably. The one exceptional tribe is that of the Wapiana, who use paddles with
+perfectly circular blades, rounded shafts, and straight crosshandles. Similar paddles are in fashion among the Brazilian
+Indians of the Rio Branco, from whom, doubtless, the neighbouring Wapiana learned to use them. The paddles, what-
 ever the shape, are often roughly ornamented with painted
 figures and patterns.
 
@@ -14052,19 +12372,13 @@ Next in importance among the wooden articles made and
 used by the Indians are the low seats or benches common in
 their houses, which are also hewn in spare moments from
 solid blocks of wood. The very desirable object of these
-
-
-298 AMONG THE INDIANS OF GUIANA.
-
-
 seems to be to raise the hams of the Indian, when sitting,
 oat of the reach of the jiggers which usually abound on
 the floors of the houses, and are painful enough when they
 enter the flesh of the feet, but are far more inconvenient in
 other parts of the body. These benches are from six to ten
 inches high, and they are often so carefully scooped out and
-shaped to fit the body of the sitter that they are as com-
-fortable as any cushioned stool could be. They are often
+shaped to fit the body of the sitter that they are as comfortable as any cushioned stool could be. They are often
 formed into grotesque figures of tortoises, frogs, armadilloes,
 alligators, and other animals. One in the Christy collection,
 which, though not from Guiana, is Carib, is in the form of
@@ -14086,15 +12400,12 @@ the savannahs, by the Savannah Indians.
 
 Of weapons of war the only kind now to be seen is the
 war-club, called tuk: by the Carib tribes; and even these
-are probably no longer made, and are carried more as orna-
-ments than for use. They are made of hard heavy wood,
-and are often highly ornamented, being covered with a pat-
-tern formed by engraving and filling the lines thus made
+are probably no longer made, and are carried more as ornaments than for use. They are made of hard heavy wood,
+and are often highly ornamented, being covered with a pattern formed by engraving and filling the lines thus made
 with a white earth, brightly polished, and neatly bound with
 large quantities of red or white cotton from which fringes
 and streamers, tasselled with bright-coloured feathers, hang
-loose. Originally, apparently, they differed in shape accord-
-ing to the tribe which made them; but these differences, as
+loose. Originally, apparently, they differed in shape according to the tribe which made them; but these differences, as
 in so many other similar cases, seem now to be somewhat
 
 
@@ -14116,8 +12427,6 @@ Fro. 4,
 
 
 ‘Wan Cuves,
-
-
 rounded shaft and a broad, flat, somewhat oval blade ; but the
 shaft, unlike that of a paddle, tapers to a very sharp point,
 which is said to be intended to stick into the ear of the enemy
@@ -14127,22 +12436,14 @@ this type seem to have been appropriated by the Wapiana and
 the Arecuna(Fig.24 a and b). The third kind is wedge-shaped,
 the pointed edge being that which forms the handle. There
 is nothing to show to what tribe this form originally belonged,
-and it is the rarest of all. A very severe blow could cer-
-
-
-300 AMONG THE INDIANS OF GUIANA.
-
-
-tainly be inflicted with any one of these weapons. From
+and it is the rarest of all. A very severe blow could certainly be inflicted with any one of these weapons. From
 specimens existing in English and European museums,
 _ derived from Guiana and the neighbouring parts of South
 America, it would appear that these clubs were occasionally
-made yet more formidable by the addition of a stone axe-
-blade, or in later times a similar blade of iron, which was
+made yet more formidable by the addition of a stone axeblade, or in later times a similar blade of iron, which was
 occasionally fixed into the side (Fig. 43, p. 425).!
 
-Hunting weapons, such as the blow-pipe with its ap-
-paratus, and bows and arrows, are made in much greater
+Hunting weapons, such as the blow-pipe with its apparatus, and bows and arrows, are made in much greater
 number ; for while warfare among the Indians is now almost
 entirely at an end, hunting is as necessary to them as ever.
 
@@ -14150,13 +12451,11 @@ The blow-pipe is not complete without the quiver, with
 its complement of darts, and a small basket of peculiar shape
 containing cotton or other natural fibre, which, being wrapped
 round the blunt end of the dart, serves, as the ‘ feathering’
-of an arrow, to balance it. The gigantic hollow reed (Arun-
-dimaria Schomburgkiz) of which the main part of the blow-
+of an arrow, to balance it. The gigantic hollow reed (Arundimaria Schomburgkiz) of which the main part of the blow-
 pipe itself is made, is said to grow only in the country about
 the sources of the Orinoco. Of all the tribes of British
 Guiana the Arecunas live nearest to that district; and it is
-these, therefore, who procure the reeds and make the blow-
-pipes, or perhaps sometimes procure ready-made blow-pipes
+these, therefore, who procure the reeds and make the blowpipes, or perhaps sometimes procure ready-made blow-pipes
 from yet more remote Indians, which they distribute among
 the other Indians. A straight piece of the reed of length
 sufficient for the blow-pipe, which may vary from eight to
@@ -14165,8 +12464,7 @@ separated nodes, and is thoroughly dried, first by fire and
 then in the sun, care being taken to prevent warping. This
 reed forms the required barrel. It would, however, if left
 unstrengthened, bend after a time. To obviate this, the
-straight slender stem of a certain palm, which is also pro-
-cured from a distance, by means of barter, is bored through-
+straight slender stem of a certain palm, which is also procured from a distance, by means of barter, is bored through-
 out its length, with a long sharply pointed stick; and within
 the rigid tube thus made the reed is inserted, as in a sheath.
 The end to which the niouth is to be applied when the pipe
@@ -14180,19 +12478,16 @@ BLOW-PIPES. 301
 
 
 is used is left as it is, or at most it is neatly bound with
-string; but on the opposite end, to prevent dirt from get-
-ting into the tube when it stands on that end on the ground,
+string; but on the opposite end, to prevent dirt from getting into the tube when it stands on that end on the ground,
 the cup-like half of a round hollow palm seed is fixed, like
-the lip of a trumpet. Generally, but not always, two pec-
-cary teeth are fastened, close together and parallel to each
+the lip of a trumpet. Generally, but not always, two peccary teeth are fastened, close together and parallel to each
 other, on the outside of the tube, near the end; and these
 serve as ‘sights.’ The blow-pipe is then complete in all
 essential points. But sometimes, merely for the sake of
 ornament, a close covering of basketwork—the so-called
 pegall work, which has been already described—is put round
 it. Most of the examples in European museums have this
-added ornament; but such are, according to my own ex-
-perience, rarely actually used by the Indians. To prevent
+added ornament; but such are, according to my own experience, rarely actually used by the Indians. To prevent
 any chance of the tube losing its straightness it is very
 seldom allowed to rest on its end on the earth, but, when
 not in use, it generally hangs, passed through two slings,
@@ -14203,8 +12498,7 @@ is in shape exactly like a dice-box, but larger. It is made of
 wickerwork thickly coated on the outside with the black —
 pitch-like substance which is made and used by the Indians
 for so many purposes. Attached to the quiver by a string is
-a lid, made of the tough hide of the tapir (Zapirus ameri-
-canus). Inside the quiver is a bundle of darts, the whole
+a lid, made of the tough hide of the tapir (Zapirus americanus). Inside the quiver is a bundle of darts, the whole
 lower jaw of a perai-fish (Serasalmo niger), and some crowia
 fibre. The darts, each about eight inches long, are made
 simply of splinters of the woody midrib of the cokerite palm
@@ -14219,9 +12513,6 @@ to protect the hand of the Indian from any chance contact
 with the poison-smeared points of the darts (Fig. 26, p. 302).
 
 
-302 AMONG THE INDIANS OF GUIANA.
-
-
 It will easily be understood that any single dart may readily
 be slipped out from the bundle the moment before it is to be
 used. With two or three crowia fibres, sufficient cotton, or
@@ -14232,14 +12523,11 @@ Fio. 25.
 
 
 DARTS FOR BLOW-PIPR, UNROLLED FROM GUARD,
-
-
 small wicker-basket, bottle-shaped, or like a sack tied in near -
 
 its mouth, which hangs by a string from the side of the quiver
 
 —is tied on to the blunt end of the dart to fill the diameter of
-
 the blow-pipe ; so that when the Indian blows into the tube
 Fo, 36,
 
@@ -14247,8 +12535,7 @@ Fo, 36,
 DANTS, ROLLED A8 CARRIED IN QUIVER.
 
 
-behind the dart the latter is propelled with force and ex-
-pelled into the air. It is thus apparent that the whole ap-
+behind the dart the latter is propelled with force and expelled into the air. It is thus apparent that the whole ap-
 paratus, though so admirably suited for its purpose, is very
 simply but skilfully made.
 
@@ -14273,8 +12560,7 @@ in a sort of pattern and finished off with one or two short
 loose streamers. In some arrows the fore-shaft, being
 sharpened and cut into notches or small barbs, forms in
 itself the point. More generally there is a distinct point
-of iron, hardened bamboo, or, in rare cases, of turtle-
-bone, which is laboriously filed from the rough material.
+of iron, hardened bamboo, or, in rare cases, of turtlebone, which is laboriously filed from the rough material.
 The arrow is feathered or not, according to the fancy of
 each maker. The notch at the end of the arrow, which fits
 on to the bowstring is made in this way: Two slits, crossing
@@ -14289,22 +12575,15 @@ round this plug. The Indians of the various tribes differ
 much in the degree of neatness with which they make their
 arrows, the neatest being made by the Arawaks, Ackawoi,
 and True Caribs. The bows, which are very long and straight,
-are made of various sorts of hard wood, generally of purple-
-heart (Copaifera pubiflora) or, when ornament is intended,
+are made of various sorts of hard wood, generally of purpleheart (Copaifera pubiflora) or, when ornament is intended,
 of letter-wood (Brosimum Aubletit). The bowstring is, as
 has been said, twisted of crowia-fibre. |
 
 ‘Passing to the making of ornaments, these are generally
 so simple, consisting of feathers, teeth, or seeds, tied together,
 that little art is exhibited in them. The feather ornaments
-
-
-304 AMONG THE INDIANS OF GUIANA.
-
-
 vonsist chiefly of two kinds of headdress and of ruffs, or
-mantles, worn round the shoulders. The former are in-
-geniously made. They are of two shapes: in some the
+mantles, worn round the shoulders. The former are ingeniously made. They are of two shapes: in some the
 feathers stand, crown-like, round the head; in others they
 stand straight out from the head (see Plate), like the halo
 round the head of a saint in some old picture. In either case a
@@ -14314,8 +12593,7 @@ high, with a broad lip turned outward at right angles to its
 sides. A band is woven of cotton, much in the same way
 that the ordinary cotton hammock is made, as broad as the
 height, and as long as the circumference, of the frame;
-across each end of this band a stick is fastened so as to pro-
-ject slightly both above and below the band; and beyond
+across each end of this band a stick is fastened so as to project slightly both above and below the band; and beyond
 the sticks the cotton is continued in a loosely twisted rope
 for three or four feet. The feathers, from two ihches to half
 an inch long, having been carefully sorted according to colour
@@ -14387,9 +12665,6 @@ the tails of macaws, erect and encircling the whole head. .
 x
 
 
-306 AMONG THE INDIANS OF GUIANA.
-
-
 The feather shoulder-ruffs and collars made by the Indians
 are of three kinds. One consists of a closely placed row of
 tail-feathers of one or other of the two reddish kinds of
@@ -14421,17 +12696,14 @@ NECKLACE-~MAKING, 307
 
 
 neck, covers the shoulders and upper part of the chest. The
-heron’s feathers are worn especially by men engaged in run-
-ning foot races ; the black when dancing, and sometimes when
+heron’s feathers are worn especially by men engaged in running foot races ; the black when dancing, and sometimes when
 paddling in canoes. But that the part of the body sheltered
-by these feathers is not especially delicate, it might be sup-
-posed that the original reason for the custom might have
+by these feathers is not especially delicate, it might be supposed that the original reason for the custom might have
 been to obtain some slight shelter from the heat of the sun
 by men engaged in violent exercise.
 
 Of necklaces the most important is made of a very large
-number, sometimes over a hundred, of teeth of the bush-
-hog or peccary; and as only the two upper canine teeth are
+number, sometimes over a hundred, of teeth of the bushhog or peccary; and as only the two upper canine teeth are
 used, such a necklace would represent the spoils of fifty
 animals. The fact that every Indian possesses one such
 necklace consisting of more or less teeth, is some indication
@@ -14441,29 +12713,22 @@ square; and the top is filed to a point; the bases of the
 whole are then firmly embedded, side by side and quite close
 to each other, in a thick fibre-woven cord. The two ends of
 the row of teeth thus formed are bound together; and from
-this point of junction, which is that which, when the neck-
-lace is worn, rests on the back of the neck, two long cords of
+this point of junction, which is that which, when the necklace is worn, rests on the back of the neck, two long cords of
 cotton, the ends ornamented with tassels of bird-skins and
 beetle-wings, hang down. The teeth are kept very white;
 and that they may be more readily cleaned, the necklace is
 occasionally taken to pieces and the teeth reset. There
 seems to be some slight difference in the way in which these
 teeth are put together by the different tribes; for on one
-occasion when I tried to induce a Macusi to put on a neck-
-lace which I had obtained from a source unknown to him, he
+occasion when I tried to induce a Macusi to put on a necklace which I had obtained from a source unknown to him, he
 refused angrily, on the ground that it had been made by a
-True Carib. But the difference is so slight that it is un-
-noticeable to any but an Indian eye.
+True Carib. But the difference is so slight that it is unnoticeable to any but an Indian eye.
 
 Other necklaces are made by simply piercing and stringing
 together the teeth of acourie, caymans, jaguars, or sometimes
 water-haas (Capybara). True Caribs make them also very
 prettily of deer’s teeth, separating each two by a couple
-
 x 2
-
-
-308 AMONG.THE INDIANS OF GUIANA.
 
 
 of brown seeds or red beads. Other necklaces are made in
@@ -14488,8 +12753,7 @@ on to either end of the cylinder. A very fine double thread,
 in the middle of which is a slip-knot, is then stretched
 diagonally across the skin at one end of the drum, and
 before this is finally drawn tight an excessively slender
-splinter of wood is passed through, and secured in the slip-
-knot, so that it rests on the skin at right angles to the line
+splinter of wood is passed through, and secured in the slipknot, so that it rests on the skin at right angles to the line
 of the thread (Fig. 28). The result is that the two ends of
 the drum when beaten produce different sounds; for the one
 on which is the string and splinter returns a metallic sound,
@@ -14505,8 +12769,7 @@ of emitting the rolling roaring sounds for which this monkey
 is celebrated.
 
 Another instrument, akin to the drum, but ruder, is made
-by stretching a piece of baboon-skin over one end of a four-
-feet-long piece of a hollow bamboo, of a particular and rare
+by stretching a piece of baboon-skin over one end of a fourfeet-long piece of a hollow bamboo, of a particular and rare
 species. This instrument, when repeatedly struck against
 the ground, produces a drum-like sound (Fig. 32 p, p. 322).
 
@@ -14520,8 +12783,7 @@ Bows Fiore.
 in the bone of a jaguar or deer, or, though such are no
 longer common, a man. Intricate patterns are sometimes
 engraved on these flutes, and are coloured black or red, to
-contrast with the pure white of the bone; and very long tas-
-sels of white cotton are fixed at each end of the instrument
+contrast with the pure white of the bone; and very long tassels of white cotton are fixed at each end of the instrument
 (Fig. 29). Wooden flutes, always used in pairs, are also made
 in somewhat the same way, of short pieces of bamboo-stem
 (Fig. 30, p. 310).
@@ -14529,9 +12791,6 @@ in somewhat the same way, of short pieces of bamboo-stem
 Pan-pipes are made of hollow reeds. Rude wooden
 trumpets are said to be made; and I once saw the fragments
 of one in an Indian house.
-
-
-310 AMONG THE INDIANS OF GUIANA.
 
 
 One other very curious instrument is made and used on
@@ -14555,8 +12814,6 @@ so as to raise them from the level of the stalk (Fig. 31). The
 leaf-stalk thus prepared is fastened upright in some exposed
 place, and the wind passing through the strings causes a
 soft musical sound, which rises and falls as the strength of
-
-
 the breeze varies.
 ~ Fig. 31.
 
@@ -14587,8 +12844,7 @@ The two first of these forms have probably arisen from a
 -mere blunder; but the three latter are various attempts to
 pronounce the Indian name. The letters r and / are very
 commonly interchanged in Indian, as in other languages ;
-and of Indians, not necessarily of different tribes, but per-
-haps only of different settlements, some use the word urali, _
+and of Indians, not necessarily of different tribes, but perhaps only of different settlements, some use the word urali, _
 or even wali, some urart. The Macusis are the chief makers.
 of this poison in Guiana, and they distribute it to the other
 Indians. But even of the Macusis it is only a man here and
@@ -14619,9 +12875,6 @@ one or more roots; and this is confirmed by Sir Richard
 Schomburgk, who also saw the poison prepared. The latter
 traveller mentions the ingredients which he saw used, as
 follows :—
-
-
-312 AMONG THE INDIANS OF GUIANA.
 
 
 Bark and albumen of Urari-plant (Strychnos toxtifera) . 3 Ibs.
@@ -14662,16 +12915,14 @@ quarts of water; and the mixture was allowed to simmer
 gently for many hours, during which the poison-maker
 carefully tended the fire, and every now and then blew into
 the boiling liquid. As we shall see elsewhere, the Indians
-believe greatly in the virtue of the breath of certain indi-
-viduals—as, for instance, of the peaiman who blows away
+believe greatly in the virtue of the breath of certain individuals—as, for instance, of the peaiman who blows away
 the spirit of disease from invalids, and the evil principle
 from meats otherwise unclean. After twenty-four hours
 the pot was taken off the fire. By that time the contents
 had been reduced to about a third of their original bulk,
 and were thick and syrup-like. _ This syrup was now strained
 through a new cassava-strainer, and was then exposed in a
-flat vessel to the heat of the sun. The juice of the cala-
-dium roots, which had in the meantime been boiled in a
+flat vessel to the heat of the sun. The juice of the caladium roots, which had in the meantime been boiled in a
 
 
 POISON-MAKING. 313
@@ -14717,19 +12968,13 @@ the poison is only there made. But as Richard Schomburgk
 pointed out, the plant grows also on the Pomeroon and
 
 
-314 AMONG THE INDIANS OF GUIANA.
-
-
 Waini rivers, where it is unrecognised and unused by the
 Indians. .
-Another poison, called ‘ wassi,’ is said by Richard Schom-
-burgk to be prepared by the Ackawoi. From the descrip-
+Another poison, called ‘ wassi,’ is said by Richard Schomburgk to be prepared by the Ackawoi. From the descrip-
 tion given of this it appears to be the white powder with
 
 
 _ + deadly qualities which, as is told in many an Indian story,
-
-
 all kenaimas, and especially all Ackawoi kenaimas, are said to
 rub into the flesh of their victims.
 
@@ -14752,15 +12997,13 @@ smell of this oil is very strong and unpleasant; but it is one
 of the characteristic scents of an Indian house. When
 rubbed on the body it keeps even mosquitoes and flies away
 from the flesh. Sometimes the smell is partly overcome by
-mixing some sweet-scented resinous or other vegetable sub-
-stance with the oil. Crab-oil finds a ready sale in the
+mixing some sweet-scented resinous or other vegetable substance with the oil. Crab-oil finds a ready sale in the
 towns; and in September, at which season the new crop of
 oil is ready for use, Indians bring it down to the coast,
 coming down then in larger numbers than at any other time
 of year. .
 
-On the savannah, where crab-nuts are less easily pro-
-cured, the seeds of the cokerite palm (Mazimiliana regia)
+On the savannah, where crab-nuts are less easily procured, the seeds of the cokerite palm (Mazimiliana regia)
 _ are used instead. These are crushed, and boiled in water;
 and the oil which then rises to the surface is skimmed
 
@@ -14790,8 +13033,7 @@ and allowed to drop into a buck-pot partly filled with water.
 The result is a circular tablet of wax, the lower side smooth,
 and of the shape of the buck-pot, but on the upper side
 wrought into the most beautiful coils and folds of infinite
-variety. It is like a beautiful medallion carved in high re-
-lief in coal-black wood. It was prepared, apparently 2 acci-
+variety. It is like a beautiful medallion carved in high relief in coal-black wood. It was prepared, apparently 2 acci-
 dentally, by Arawak Indians.'
 
 Karamanni is used in place of pitch and glue to fill up
@@ -14799,8 +13041,7 @@ crevices in woodwork, as, for instance, in boat-building, and
 to fix the heads of arrows into the shafts, and for all similar
 work. Its strength, when it is not mixed with too large a
 proportion of bees-wax, is very great. No better illustration
-of this quality can be given than the fact that on one occa-
-sion when our men were sawing timber, and the handle of
+of this quality can be given than the fact that on one occasion when our men were sawing timber, and the handle of
 the whip-saw parted from the blade, the two parts were, on
 the suggestion of an Indian, stuck together so firmly with
 karamanni that the saw again became effective. |
@@ -14812,18 +13053,13 @@ Another substance, of very similar nature, called by the
 am now inclined to think that their preparation is intentional.
 
 
-316 AMONG THE INDIANS OF GUIANA.
-
-
 Macusis ‘ twara,’ is sometimes, but very rarely, used in place
 of karamanni. Except that it is a whitish resin, I know
 nothing further of its nature.
 
-A delicionsly scented white resin exudes from the hyawa-
-tree (Ieica heptaphylla), which grows abundantly in sandy
+A delicionsly scented white resin exudes from the hyawatree (Ieica heptaphylla), which grows abundantly in sandy
 soils. The rough masses of this, which is very inflammable,
-are often collected and stored by the Indians for the .pur-
-pose of lighting fires. Sometimes, too, it is broken up into
+are often collected and stored by the Indians for the .purpose of lighting fires. Sometimes, too, it is broken up into
 small pieces which are put into hollow sticks, to be used as
 torches. Made pliable by the admixture of a little oil, it is
 formed into balls, like cannon-balls, and in this state is
@@ -14832,8 +13068,7 @@ hair of Indians.
 
 The dyes used by the Indians to paint their own bodies,
 and occasionally to draw patterns on their implements, are
-red faroab, purple ecaraweera, blue-black lana, white fel-
-spathic clay, and, though very rarely, a yellow vegetable dye
+red faroab, purple ecaraweera, blue-black lana, white felspathic clay, and, though very rarely, a yellow vegetable dye
 of unknown origin.
 
 Faroah is the deep-red pulp round the seed of a shrub
@@ -14862,7 +13097,6 @@ DYE-MAKING. 317
 
 
 added to the mixture. The whole is then boiled for about
-
 twenty minutes, care being taken to keep the bark and
 - leaves under water. The pot is then taken from the fire,
 and the contents, being poured into bowls, are allowed to
@@ -14874,10 +13108,8 @@ cokerite palm. The pigment is used for body-painting, with
 oil, just as is faroah.
 
 Lana is the juice of the fruit of a small tree (Genipa
-americana), with which, without further preparation, blue-
-black lines are drawn in patterns, or large surfaces are stained,
-on the skin. The dye thus applied is for about a week in-
-delible.
+americana), with which, without further preparation, blueblack lines are drawn in patterns, or large surfaces are stained,
+on the skin. The dye thus applied is for about a week indelible.
 
 One or more of the three body-paints already mentioned
 is used by most Indians, and in large quantities. But the
@@ -14902,16 +13134,10 @@ partly dry. After that the leaves are evenly arranged side
 by side, and are lightly tied in bundles. As the leaves dry,
 the strings round the bundle are drawn tighter and tighter,
 until it is evident that no further diminution will take place
-
-
-318 AMONG THE INDIANS OF GUIANA.
-
-
 in the bulk. The quality of this tobacco varies much, but
 some of it is most excellent. It is smoked only in cigarettes,
 made, each as it is required, by wrapping half a leaf, uncut,
-in a paper-like substance procured either from the cakaralli-
-tree (Lecythis ollaria) or from the manicole-palm (Kuterpe
+in a paper-like substance procured either from the cakarallitree (Lecythis ollaria) or from the manicole-palm (Kuterpe
 oleracea). The method of preparing this paper from the
 cakaralli is most ingenious. A long strip of bark of exactly
 the width required for the wrapper of the cigarette is cut
@@ -14932,17 +13158,12 @@ cigarette wrapper is procured simply by tearing the skin off
 the inside of the spathe of the manicole-palm.
 
 
-319
-
-
 CHAPTER XV.
 PAIWARI FEASTS.
 
 
-Feasting and Drinking and Games—The Invitation to the Feast—-Quippoo-
-writing—Preparations—Arrival of the Guests—Feasting—Dancing—
-Brawls— Racing and Ball-play—Arawak Whip-game—Warrau Shield-
-game,
+Feasting and Drinking and Games—The Invitation to the Feast—-Quippoowriting—Preparations—Arrival of the Guests—Feasting—Dancing—
+Brawls— Racing and Ball-play—Arawak Whip-game—Warrau Shieldgame,
 
 
 THE festivals, the dances, and the games originally peculiar
@@ -14953,8 +13174,7 @@ the Indians of Guiana as of other races. But it is seldom
 easy for a stranger to see and note such festivities in their
 original and proper form. Indians are very shy; and in the
 presence of a white man they are seldom willing to throw
-aside their reserve sufficiently to enter freely and un-
-restrainedly into the spirit of their games. It is, therefore,
+aside their reserve sufficiently to enter freely and unrestrainedly into the spirit of their games. It is, therefore,
 not possible to give a minute and detailed account of their
 amusements of this sort.
 
@@ -14971,9 +13191,6 @@ cassava in his fields for the purpose.
 When a paiwari feast is to be held, invitations are sent
 to the people of all neighbouring settlements inhabited by
 Indians of the same tribe as the givers of the feast. The
-
-
-320 AMONG THE INDIANS OF GUIANA.
 
 
 ‘latter prepare a number of strings, each of which is knotted
@@ -15001,8 +13218,7 @@ until the debt is wiped out.
 kets were daily decreasing in number, all who are to be
 present have been busy. The guests have been making
 bread, and have been hunting game and fish, and smoking
-meat, in order to contribute their share to the general enter-
-tainment ; for the hosts supply the paiwari, but cannot supply
+meat, in order to contribute their share to the general entertainment ; for the hosts supply the paiwari, but cannot supply
 all the food for their visitors. And the hosts have been busy—
 the men in getting together as much provisions as they can,
 the women in preparing the paiwari.
@@ -15010,8 +13226,7 @@ the women in preparing the paiwari.
 The one or more wooden paiwari-troughs which stand in
 the middle of nearly every house are shaped somewhat like
 canoes; indeed, canoes are often used for the purpose. Each
-trough holds from 150 to 200 gallons; so that, as all avail-
-able troughs, as well as all spare bottles, gourds, and jars,
+trough holds from 150 to 200 gallons; so that, as all available troughs, as well as all spare bottles, gourds, and jars,
 are filled for the feast, no small quantity of paiwari has to
 be made. For this reason, and because paiwari does not
 acquire a proper degree of mellowness and fermentation for
@@ -15031,8 +13246,7 @@ which their guests are expected.
 
 By the time the guests begin to arrive sufficient liquor
 has been prepared. The visitors arrive in family parties,
-men, women, and children, in their canoes, corials, or wood-
-skins; and they bring their hammocks and their provisions—
+men, women, and children, in their canoes, corials, or woodskins; and they bring their hammocks and their provisions—
 for the entertainment lasts some days, often for a week.
 Often they also bring such hammocks, balls of spun cotton,
 live stock, or other goods as they have for barter—for these
@@ -15049,10 +13263,8 @@ latter patiently carry up the goods, and without a word sling
 their husbands’, brothers’, and children’s hammocks, and then
 their own, in some of the houses. |
 
-The reception of the men by the headman of the settle-
-ment is tedious and formal in the extreme. The leader of
-the strangers first addresses his host—who during the recep-
-tion never stirs out of his hammock—and remarks that (he
+The reception of the men by the headman of the settlement is tedious and formal in the extreme. The leader of
+the strangers first addresses his host—who during the reception never stirs out of his hammock—and remarks that (he
 has come); to which the captain grunts assent. The first
 speaker then, in a number of short abrupt sentences, tells
 any news that he may have to give; and after each of
@@ -15069,12 +13281,8 @@ as he sits down, a large calabash filled with paiwari. While
 ; XY
 
 
-322 AMONG THE INDIANS OF GUIANA.
-
-
 he drinks, the woman keeps her hand on the calabash; and
-when the vessel has been emptied, at one draught, she re-
-fills it. Another woman then brings the pepperpot and
+when the vessel has been emptied, at one draught, she refills it. Another woman then brings the pepperpot and
 some bread, the latter on a fan, and sets these before the
 man. At last, when all the new-comers have had their say
 
@@ -15114,19 +13322,16 @@ tied bunches of certain seeds (Thevetia nereifolia) which,
 when struck against the ground, clash and rattle (Fig. 32 n);
 some beat time with hollow bamboos covered at one end with
 skin, like a drum, and ornamented with bunches of these
-same seeds ; some have small rattles ornamented with bright-
-coloured feathers; some have drums; some have much-orna-
+same seeds ; some have small rattles ornamented with brightcoloured feathers; some have drums; some have much-orna-
 mented flutes made of animals’ bones ; some have flutes made
 of hollow reeds; some have pan-pipes ; and some have sticks
 topped with a rude wooden and painted image of some bird,
 fish, or animal (Fig. 32 4).
 
-At last all is ready for the carousal. All form a proces-
-sion, and march slowly round the liquor trough, droning out
+At last all is ready for the carousal. All form a procession, and march slowly round the liquor trough, droning out
 u chant, keeping step, and waving their instruments in slow,
 measured time. Round and round the trough the strange
-procession winds, all feet stamping in time with the mono-
-tonous chant of Hia-hia-hia. Suddenly the chant gives place
+procession winds, all feet stamping in time with the monotonous chant of Hia-hia-hia. Suddenly the chant gives place
 to loud discordant cries, and the procession breaks up. The
 women bring calabashes with paiwari for the men to drink.
 Then the women drink. And then the procession re-forms,
@@ -15137,9 +13342,6 @@ each individual is tremendous. By long practice they have
 ¥2
 
 
-324 AMONG THE INDIANS OF GUIANA.
-
-
 acquired the knack of bringing up the liquor almost as soon
 as it has been drunk. And so an enormous bulk of liquor
 fills and re-fills the stomach, but of this only the very small
@@ -15148,16 +13350,14 @@ to fire their spirits. In time this tells, and the drinkers get
 more and more excited. Then they leave the house and
 dance in the open space outside.
 
-These dances seem to differ in each tribe; and, more-
-over, each tribe seems to have several dances more or less
+These dances seem to differ in each tribe; and, moreover, each tribe seems to have several dances more or less
 peculiar to it. In some the body is moved in a slow and
 stately manner, which contrasts oddly with the grotesque
 position in which the head and limbs are held. Very often
 the dance, if it deserves the name, is simple enough. The
 men range themselves in a long line, each linking his arms
 in those of his neighbours, and the women, standing opposite
-to them, do likewise. For hours together the two lines con-
-tinue to advance toward each other and to retreat, keeping |
+to them, do likewise. For hours together the two lines continue to advance toward each other and to retreat, keeping |
 up a monotonous chant, each individual stamping in time
 with the others, and so hard, that one wonders how their
 naked feet bear the shock on the hard ground. Only now
@@ -15165,8 +13365,7 @@ and then the lines break up for very brief intervals to
 allow opportunity to drink. Occasionally, too, a man and a
 woman link arms and strut about slowly together, bending
 their bodies forward and backward, this side and that, very
-grotesquely. Certain of the dances are imitations of the move-
-ments of animals. One, of an unusually lively kind, mimics
+grotesquely. Certain of the dances are imitations of the movements of animals. One, of an unusually lively kind, mimics
 the capers of monkeys; others, called tiger-dances, imitate
 the slow stealthy gliding of the jaguar. In these last, a man,
 supposed to represent the jaguar, creeps round and round the
@@ -15192,8 +13391,7 @@ reel and stagger, and some dispute at last arises. As a rule,
 Indians never quarrel, and never fight among themselves.
 However much one Indian has been offended by another, he
 satisfies himself by ceasing to speak to his foe, or perhaps
-speaks of him in his absence as a ‘bad man.’ But when in-
-flamed by paiwari, the quarrel is more violently followed up.
+speaks of him in his absence as a ‘bad man.’ But when inflamed by paiwari, the quarrel is more violently followed up.
 Abuse is passed freely from one to the other. Sometimes
 even blows are exchanged; but that this is an acquired habit,
 and not one natural to the Indians, is shown by the fact that
@@ -15212,8 +13410,7 @@ adds by his shouts to the din of the revel, which is still
 continued.
 
 But at last, when all are either too drunk or too tired to
-keep up the dance and the shouts, they retire to their ham-
-mocks for what little remains of the night. The next morn-
+keep up the dance and the shouts, they retire to their hammocks for what little remains of the night. The next morn-
 ing, however, the revel of the previous day is renewed ; and
 ‘so it is for many days, until all the available stock of paiwari
 has been exhausted.
@@ -15223,9 +13420,6 @@ generally accompanied by foot-races. The racers, who wear
 collars made of long white herons’ feathers, or of black powis’
 feathers, start, not abreast, but one behind the other, as in
 the ordinary ‘bumping’ boat-races of English universities.
-
-
-326 AMONG THE INDIANS OF GUIANA.
 
 
 Games of ball are also played on these occasions, the ball
@@ -15240,8 +13434,7 @@ now probably nearly though not
 quite extinct. The dancers—who
 are all men—stand in two rows
 opposite to each other. Each man
-has in his hand a whip, called mac-
-quarie, with a hard strong lash made
+has in his hand a whip, called macquarie, with a hard strong lash made
 of fibre (Fig. 33). As they dance, the
 whips are waved. Every now and then
 a couple retires from the line and use
@@ -15257,18 +13450,12 @@ receive a lash from the other. They
 - lash each other in this way until
 
 Macqvanm War. their calves are striped with weals,
-
-and blood flows freely. The punish-
-
-ment is borne and inflicted with perfect good temper, and
-
-was probably originally devised as a means of testing en-
-durance. Finally the dancers retire and drink together.
+and blood flows freely. The punishment is borne and inflicted with perfect good temper, and
+was probably originally devised as a means of testing endurance. Finally the dancers retire and drink together.
 
 In the Christy collection and in that of General Pitt-
 Rivers, are some simple canes said to be macquarie whips
-from the Maiongkong, a tribe of Indians living on the out-
-skirts of Guiana about the upper waters of the Orinoco.
+from the Maiongkong, a tribe of Indians living on the outskirts of Guiana about the upper waters of the Orinoco.
 Perhaps this tribe also plays this game, using whips different
 from those of the Arawaks.
 
@@ -15298,8 +13485,6 @@ TT TT
 
 
 {Ill
-
-
 ill |
 
 
@@ -15313,9 +13498,6 @@ strives to push back the other. Each plants one foot firmly
 on the ground behind him and bends the other knee against
 the shield. Whoever succeeds in pushing back the other
 from his position is considered to have won the victory.
-
-
-328
 
 
 CHAPTER XVI.
@@ -15366,14 +13548,12 @@ NATURE OF THE KENAIMA. 329
 Indians, I shall have to enter somewhat in detail into the
 nature of the conception formed by these people of the whole
 spirit world; but it is absolutely necessary here to premise
-that all tangible objects, animate (including man) and in-
-animate alike, consist each of two separable parts—a body and
+that all tangible objects, animate (including man) and inanimate alike, consist each of two separable parts—a body and
 a spirit ; and that these are not only always readily separable
 involuntarily, as in death, and daily in sleep, but are also, in
 certain individuals, always voluntarily separable. A kenaima
 is one who uses this last-mentioned power for the purpose of
-inflicting vengeance. He is a man who, having devoted him-
-self to slaying some other man, has this power of separating
+inflicting vengeance. He is a man who, having devoted himself to slaying some other man, has this power of separating
 his spiritual from his bodily substance. He is, as has heen
 said, the real or supposed cause of almost every evil, and
 especially of every death. Other sources of evil believed in
@@ -15398,13 +13578,9 @@ In the first place, as probably the original conception,
 must be noticed the kenaima as the slayer—he must not be
 called a marderer—who is bound to slay by a fixed and, in
 a certain stage of society, undoubtedly salutary custom.
-Indians have a high sense of the imperative duty of retalia-
-tion; and this fully suffices to keep crime in check amongst
+Indians have a high sense of the imperative duty of retaliation; and this fully suffices to keep crime in check amongst
 them. He against whose nearest relative a wrong has been
 done, either intentionally or unintentionally, by any other
-
-
-330 AMONG THE INDIANS OF GUIANA.
 
 
 Indian, devotes himself to follow and kill the wrong-doer, or,
@@ -15426,8 +13602,7 @@ to the ‘cities of refuge,’ and the Saxon system which resulted
 in the law of blood-money or were-gild, which was money
 paid to buy off just vengeance.’ This custom of recognised
 retaliation yet exists among the Indian tribes of Guiana, and
-must continue to exist until some system for the administra-
-tion of justice is established in the distiicts inhabited by
+must continue to exist until some system for the administration of justice is established in the distiicts inhabited by
 them. The kenaima, in the original and true sense of the
 word, is one who is thus compelled to retaliate.
 
@@ -15437,13 +13612,11 @@ can recognise, but who to the fanciful Indian are equally
 real. Every death, every illness, is regarded not as the
 result of natural law, but as the work of a kenaima. Often
 indeed the survivors or the relatives of the invalid do not
-know to whom to attribute the deed, which therefore per-
-force remains unpunished; but often, again, there is real or
+know to whom to attribute the deed, which therefore perforce remains unpunished; but often, again, there is real or
 fancied reason to fix on some one as the kenaiima, and then
 the nearest relative of the injured individual devotes himself
 to retaliate. Strange ceremonies are sometimes observed
-in order to discover the secret kenaima. Riehard Schom-
-burgk ? describes a striking instance of this. A Macusi boy
+in order to discover the secret kenaima. Riehard Schomburgk ? describes a striking instance of this. A Macusi boy
 
 
 1 Reisen in Britisch Guiana, vol. i. p. 158. 2 Ibid. p. 325.
@@ -15454,8 +13627,7 @@ KENAIMAS AT WORK. 331
 
 had died a natural death, and his relatives endeavoured to
 discover the quarter to which the kenaima who was supposed
-to have slain him belonged. Raising a terrible and mono-
-tonous dirge, they carried the body to an open piece of
+to have slain him belonged. Raising a terrible and monotonous dirge, they carried the body to an open piece of
 ground, and there formed a circle round it, while the father,
 cutting from the corpse both the thumbs and little fingers,
 both the great and the little toes, and a piece of each heel,
@@ -15488,14 +13660,8 @@ two behind the others, and some thicket or a turn in the
 path hides him from their view, or if he is caught asleep by
 his enemy, in that minute he is lost. The kenaima who,
 though hardly ever seen, has followed him like a shadow for
-_days, or weeks, or even months, strikes him down. Accord-
-ing to the Indians, the kenaima, after he has struck down his
+_days, or weeks, or even months, strikes him down. According to the Indians, the kenaima, after he has struck down his
 victim, sometimes binds him while yet alive and rubs a burning
-
-
-332 AMONG THE INDIANS OF GUIANA.
-
-
 and deadly poison into his flesh, or hopelessly dislocates
 his limbs; and in this state, alive, though with the certainty
 of speedy death, the poor wretch is found by his companions,
@@ -15510,16 +13676,14 @@ believe that each individual man has a body and a spirit
 within that body; and they think that kenaimas use their
 power of separating spirits and bodies and of sending these
 spirits to obey their orders, to whatever place they please,
-and of directing the actions of these spirits. It is, there-
-fore, in the imaginary cases, not the kenaima in the body,
+and of directing the actions of these spirits. It is, therefore, in the imaginary cases, not the kenaima in the body,
 but his spirit, which kills or injures.
 
 The belief is probably partly based on the fact that the
 commonest forms:of death among Indians are consumption,
 dysentery, and a horrible disease known as ‘ buck-sickness,’
 all of which diseases kill their victims by a slow, wasting
-process, not unlike the effects of poison; and poison is sup-
-posed to be in an especial degree a weapon of the kenaima.
+process, not unlike the effects of poison; and poison is supposed to be in an especial degree a weapon of the kenaima.
 Whenever, therefore, an Indian dies in such illness, it is said
 _ that the spirit of the kenaima came and administered poison.
 
@@ -15532,8 +13696,7 @@ is not to be wondered at that an Indian, when attacked by a
 beast of prey, by a serpent, or other harmful animal, should
 " regard it as a kenaima. But it is more remarkable that
 he regards certain small harmless birds in the same light.
-One small bird which in the early morning and in the even-
-ing flits, with a peculiar and shrill whistle, over the savan-
+One small bird which in the early morning and in the evening flits, with a peculiar and shrill whistle, over the savan-
 nahs and sometimes approaches the Indian settlements, is
 looked upon with especial distrust. When one of these is
 
@@ -15551,8 +13714,7 @@ even inanimate objects, are supposed to enter into the bodies
 of their enemies and there cause all headaches, toothaches,
 and other such bodily pains.
 
-The idea that pains are caused by foreign bodies em-
-bedded in the flesh of the sufferer is widely spread among
+The idea that pains are caused by foreign bodies embedded in the flesh of the sufferer is widely spread among
 uncivilised people throughout the world, as has long been
 known; but, as far as I know, it has not been noted that
 this foreign substance—at least among the Indians of
@@ -15565,12 +13727,9 @@ which live side by side in British Guiana. The kenaima—
 the real one—is probably rarely of the same tribe as his
 victim ; and the imaginary kenaimas who mysteriously cause
 every death, are naturally thought of as of a tribe different
-from that of their victims. Thus the feeling of mutual sus-
-picion and hatred which has arisen naturally between the
-tribes is fostered and retained. And while each tribe sus-
-pects the tribe which lives immediately next to it, they all
-seem to have a peculiarly hostile feeling toward the Acka-
-wol, who have an especial reputation as kenaimas.
+from that of their victims. Thus the feeling of mutual suspicion and hatred which has arisen naturally between the
+tribes is fostered and retained. And while each tribe suspects the tribe which lives immediately next to it, they all
+seem to have a peculiarly hostile feeling toward the Ackawol, who have an especial reputation as kenaimas.
 
 Such are the foes against whom the peaiman—to whom
 we must now turn—has to fight on behalf of the people
@@ -15581,11 +13740,6 @@ must not be forgotten, the Indian conceives no difference
 between their real and their imaginary powers. It is almost
 impossible to over-estimate the dreadful sense of constant
 and unavoidable danger in which the Indian would live
-
-
-33-4 AMONG THE INDIANS OF GUIANA.
-
-
 were it not for his trust in the protecting power of the
 peaiman.
 
@@ -15613,16 +13767,13 @@ undergo long fasts, to wander alone in the forest, houseless
 and unarmed, and with only such food as he can gather;
 and he has gradually to accustom himself to drink fearfully
 large draughts of tobacco-juice mixed with water. He is
-trained to use and command his voice in a manner the sus-
-tained power of which might be envied by the most brilliant
+trained to use and command his voice in a manner the sustained power of which might be envied by the most brilliant
 operatic singer, and the command of which would make his
 fortune as a ventriloquist. Maddened by the draughts of
 nicotine, by the terrors of his long solitary wanderings, and
-fearfully excited by his own ravings, he is able to work him-
-self at will into those most frantic passions of excitement
+fearfully excited by his own ravings, he is able to work himself at will into those most frantic passions of excitement
 during which he is supposed to hold converse with the
-kenaimas and to control them. It has been said that epi-
-leptic subjects are by preference chosen as peaimen, and are
+kenaimas and to control them. It has been said that epileptic subjects are by preference chosen as peaimen, and are
 trained to throw themselves at will into convulsions; and it
 is at least certain that the peaiman, when in the midst of his
 
@@ -15630,13 +13781,11 @@ is at least certain that the peaiman, when in the midst of his
 NATURE OF THE PEAIMAN. 335
 
 
-frantic performance, seems as though overcome by some fear-
-ful fit, or in the extreme of raving madness.
+frantic performance, seems as though overcome by some fearful fit, or in the extreme of raving madness.
 
 The second, and more sober, part of the education of
 the peaiman consists in learning the traditions of the tribe,
-which he, in his turn, will have to hand down to his suc-
-cessor. He is also taught the medicinal and poisonous
+which he, in his turn, will have to hand down to his successor. He is also taught the medicinal and poisonous
 qualities of plants; and he is taught rules by which he is
 supposed to be able to find out where game is to be had.
 
@@ -15657,10 +13806,8 @@ with several bunches of green boughs cut from the bushes
 on the savannah. The entrance to the house having been
 closed, we were completely shut in—for the house, as usual
 among the savannah Indians, was walled and without windows
-or chimneys. The fires were put out, and all was dark. Be-
-sides the peaiman and myself, there were about thirty people
-in the house, most of them attracted by such a novel per-
-formance as the peai-ing of a white man. We all lay in
+or chimneys. The fires were put out, and all was dark. Besides the peaiman and myself, there were about thirty people
+in the house, most of them attracted by such a novel performance as the peai-ing of a white man. We all lay in
 our hammocks; and I was especially warned not to put foot
 to the ground, for the kenaimas would be on the floor, and
 ~ would do dreadful things to me if they caught me.
@@ -15671,11 +13818,6 @@ working in the presence of a white man. I did what I could
 to reassure him; and at last succeeded in this, by promising
 that I would not stir out of my hammock, that I would not
 look at anything—a promise which it would have been hard
-
-
-336 AMONG THE INDIANS OF GUIANA,
-
-
 to break in that utter darkness—and that I would not
 attempt to lay hands on anything that might touch me.
 Then the ceremony began. .
@@ -15703,8 +13845,7 @@ volume, as if some big winged thing came from far toward
 the house, passed through the roof, and then settled heavily
 on the floor; and again, after an interval, as if the same
 winged thing rose and passed away as it had come. As each
-of these mysterious beings came and went, the air, as if dis-
-placed by wings, was driven over my face. They were the
+of these mysterious beings came and went, the air, as if displaced by wings, was driven over my face. They were the
 kenaimas coming and going.
 
 As each came, his yells were first indistinctly heard from
@@ -15736,8 +13877,7 @@ rustling of the wings of the kenaimas, and the thud which
 was heard as each alighted on the floor, were imitated, as I
 afterwards found, by skilfully shaking the leafy boughs and
 then dashing them suddenly against the ground. The
-boughs, swept through the air ‘close by my face, also pro-
-duced the breezes which I had felt. Once, probably by
+boughs, swept through the air ‘close by my face, also produced the breezes which I had felt. Once, probably by
 accident, the boughs touched my face; and it was then
 that I discovered what they were, by seizing and holding
 some of the leaves with my teeth. Once, too, toward the
@@ -15763,9 +13903,6 @@ once more gradually fell into a state of stupor.
 Z
 
 
-338 AMONG THE INDIANS OF GUIANA.
-
-
 At last, when, toward morning, the noise had finally
 ended, I awoke thoroughly. The bars being taken away
 from the entrance of the house, I rushed out on to the open
@@ -15784,8 +13921,7 @@ but cured of its ache. But the peaiman, insisting that I
 must be cured, asked for payment. He even produced the
 kenaima, a caterpillar,! which, he said, had caused the pain,
 and which he had extracted from my body at the moment
-when his hand had touched my face. I gave him a looking-
-glass which had cost fourpence; and he was satisfied.
+when his hand had touched my face. I gave him a lookingglass which had cost fourpence; and he was satisfied.
 
 Such, with occasional slight variations, is the performance
 by which the peaiman-professes to cure his patients. The
@@ -15816,7 +13952,6 @@ METHODS OF THE PEAIMAN. 339
 gourd-shell, containing some hard seeds, and ornamented
 with long wreaths of bright-coloured feathers is used.
 This rattle is different somewhat in shape according to the
-
 tribe. Sometimes, also, a drum is used. . ;
 
 One other power, in addition to that.of summoning,
@@ -15853,13 +13988,8 @@ For each supposed cure, and for each ejectment of
 kenaimas from a village, the peaiman is paid. But by far
 the larger part of his reward is indirect, and consists in the
 immense amount of influence which he gains. Whatever
-
-
 he takes a fancy to—from some trifle of food to any other
 “2
-
-
-340 AMONG THE INDIANS OF GUIANA.
 
 
 Indian’s wife—he asks for, and gets; for no Indian dare
@@ -15867,9 +13997,6 @@ refuse him anything. And thus he leads a lazy life, doing
 nothing except when peai-ing, living on all the good things
 of Indian life, and enjoying more wives—or, in other words,
 workers—than anyone else.
-
-
-341
 
 
 CHAPTER XVII.
@@ -15896,23 +14023,16 @@ and ethnologists have as often disputed for and against the
 truth of this statement. This strife has generally arisen
 where the one single word ‘religion,’ on which the whole
 matter depends, has not been clearly defined at the outset.
-At the one extreme, the word ‘religion’ may mean a know-
-ledge of a Supreme Being and Creator, together with a
+At the one extreme, the word ‘religion’ may mean a knowledge of a Supreme Being and Creator, together with a
 certain theory and practice of life which such knowledge is
 supposed to induce; at the other extreme, it may be used
 to express merely a recognition of the existence of spirit as
-opposed to body; and between these two meanings an in-
-finite number of others, which are in fact intermediate
+opposed to body; and between these two meanings an infinite number of others, which are in fact intermediate
 between the two, may be attributed to the word. To deny
 religion, in the simplest meaning of the word, of any people,
 is obviously very different from denying it in any of its
 higher senses, or still more in its highest sense ; and it may
 safely be affirmed: that no people have been found without
-
-
-342 AMONG THE INDIANS OF GUIANA.
-
-
 religion in its simplest form. Because of the ambiguity of
 the word ‘ religion,’ a convenient term has been brought into
 prominence by Mr. E. B. Tylor, to express that which the
@@ -15935,8 +14055,7 @@ and morality are inseparably connected. But as a matter of
 fact, the two have originally absolutely nothing to do with
 each other; and it is only in a society which has reached a
 comparatively high stage of civilisation—where, that is,
-religion and morality have separately developed to a con-
-siderable extent—that religion grasps morality, and insists
+religion and morality have separately developed to a considerable extent—that religion grasps morality, and insists
 that the latter is a necessary part of itself. Pure animism
 belongs to a stage of social development below that at which
 this combination takes place. Accordingly, though the
@@ -15948,8 +14067,7 @@ religion, the two have absolutely no connection.
 The difficulty of studying animism such as that of
 these Indians, lies in the fact that it is almost impossible for
 the student sufficiently to realise that though it is a form
-of religion it is, in so far as it is pure, without those super-
-natural and moral accretions which the civilised man is
+of religion it is, in so far as it is pure, without those supernatural and moral accretions which the civilised man is
 wont to regard as the most important part of religion. And
 this difficulty is largely increased, owing to the fact that the
 
@@ -15969,16 +14087,13 @@ and thus to notice, without expecting, any accretions which
 they may have made to this.
 
 The first matter, then, is the nature of the Indian’s belief
-in spirits. Every Indian helieves that he himself, and con-
-sequently every other human being, consists of two parts—a
+in spirits. Every Indian helieves that he himself, and consequently every other human being, consists of two parts—a
 body and a soul or spirit.' To one who has never given
 thought to such matters it may at first seem strange that a
-so-called savage should be able to form for himself a concep-
-tion of so immaterial a thing as a spirit. Yet but very little
+so-called savage should be able to form for himself a conception of so immaterial a thing as a spirit. Yet but very little
 reflection is needed to bring conviction that it is impossible
 that man, being rational and having once seen death, should
-.fail to acquire such conception. When a man dies, some-
-thing goes, something is left. The survivors necessarily
+.fail to acquire such conception. When a man dies, something goes, something is left. The survivors necessarily
 distinguish in thought between these two parts, and they
 call them respectively by some such name as spirit and body.
 A curious illustration of this is afforded by the saying of the
@@ -15998,13 +14113,8 @@ Death and his brother sleep;
 ——— =
 
 
-} The reader will at once perceive that I have not distinguished be-
-tween soul and spirit. It is wholly unnecessary here to make any such
-‘distinction, for it does not exist in the mind of the Indian. I shall there-
-fore, in future, use only the word ‘spirit.’
-
-
-344 AMONG THE INDIANS OF GUIANA.
+} The reader will at once perceive that I have not distinguished between soul and spirit. It is wholly unnecessary here to make any such
+‘distinction, for it does not exist in the mind of the Indian. I shall therefore, in future, use only the word ‘spirit.’
 
 
 but great as the similarity is to us, it seems fur greater to
@@ -16021,14 +14131,11 @@ us, as real as any of the events of his waking life. To him
 dream-acts and working-acts differ only in one respect—
 namely, that the former are done only by the spirit, the latter
 are done by the spirit in its body. Seeing other men asleep,
-and afterwards hearing from them the things which they sup-
-pose themselves to have done when asleep, the Indian has no
+and afterwards hearing from them the things which they suppose themselves to have done when asleep, the Indian has no
 difficulty in reconciling that which he hears with the fact
-that the bodies of the sleepers were in his sight and motion-
-less throughout the time of supposed action, because he
+that the bodies of the sleepers were in his sight and motionless throughout the time of supposed action, because he
 never questions that the spirits, leaving the sleepers, played
-- their part in dream-adventures. Dreams, in fact, are re-
-garded as but part of the history of each man’s life. Then,
+- their part in dream-adventures. Dreams, in fact, are regarded as but part of the history of each man’s life. Then,
 as regards death, the Indian, when some man known to him
 dies, still continues to see his dead friend in dreams—that i is,
 in parts of his own real life ; and it therefore, not unnaturally,
@@ -16061,8 +14168,7 @@ all suffering from a great scarcity of food, and, hunger having
 its usual effect in producing vivid dreams, similar events
 frequently occurred. More than once, the men declared in
 the morning that some absent man, whom they named, had
-come during the night, and had beaten or otherwise mal-
-treated them; and they insisted upon much rubbing of the
+come during the night, and had beaten or otherwise maltreated them; and they insisted upon much rubbing of the
 bruised parts of their bodies. Another instance was amusing.
 In the middle of one night I was wakened by an Arawak
 named Sam, the captain or headman of the Indians who were
@@ -16073,8 +14179,7 @@ that ‘bits’ or fourpenny-pieces, are the units in which,
 among Creoles and semi-civilised Indians calculation of
 money, and consequently of wages, is made; that to cut bits
 means to reduce the number of bits, or wages, given ; and to
-understand that Captain Sam, having dreamed that his sub-
-ordinate George had spoken insolently to him, the former,
+understand that Captain Sam, having dreamed that his subordinate George had spoken insolently to him, the former,
 with a fine sense of the dignity of his office, now insisted
 that the culprit should be punished in real life. One more
 incident, of which the same Sam was the hero, may be told
@@ -16087,9 +14192,6 @@ inadvertently made frequent use of the expression ‘to
 punish the niggers.’ That night, after all in camp had
 been asleep for some time, they were roused by loud cries
 for help. Sam, who was one of the most powerful Indians I
-
-
-346 AMONG THE INDIANS OF GUIANA.
 
 
 ever saw, was ‘ punishing a nigger’ who happened to be of
@@ -16108,13 +14210,11 @@ extends not only to the idea that the spirit of the dreamer
 leaves him and does various acts, but also to the idea that
 the spirits of others with whom the dreamer fancies he meets
 in his sleep are really, not merely subjectively, present. For
-the Indian who wakes in the night with loud cries and asser-
-tions that he is being beaten by some enemy, is not convinced
+the Indian who wakes in the night with loud cries and assertions that he is being beaten by some enemy, is not convinced
 of the fallacy of his belief by the fact that his enemy is
 obviously not present, and could not have disappeared under
 the circumstances, but explains that it was not the body but
-the spirit of his enemy which did the harm. And he gene-
-rally silently or in words adds a threat of vengeance on the
+the spirit of his enemy which did the harm. And he generally silently or in words adds a threat of vengeance on the
 body of the supposed culprit.
 
 There is yet a third way in which the Indian sees the
@@ -16125,8 +14225,7 @@ A distinction may be here drawn between natural visions,
 those, that is, which appear to a man in consequence*of the
 abnormal condition in which his body happens accidentally
 to be at the moment,'and artificial visions, that is, those
-which appear in consequence of the abnormal bodily condi-
-tion into which he has brought himself by such means as
+which appear in consequence of the abnormal bodily condition into which he has brought himself by such means as
 fasting, stimulants, or narcotics, for the express purpose of
 experiencing visions. Innumerable instances of! natural
 visions are recorded from other parts of the world where the
@@ -16136,12 +14235,10 @@ reality of vision-life is believed; and, judging by analogy,
 VISIONS, 347
 
 
-such must occur among the Indians of Guiana. The follow-
-ing, which came within my own experience, seems almost
+such must occur among the Indians of Guiana. The following, which came within my own experience, seems almost
 certainly a case of the kind. One morning in 1878, when 1
 was living ina Macusi settlement, some Indians of the same
-tribe came from a neighbouring settlement with the extra-
-ordinary request that I would lend them guns and go with
+tribe came from a neighbouring settlement with the extraordinary request that I would lend them guns and go with
 them to attack some Arecunas of a settlement some twenty-five
 miles distant. Though there is an unusually strong feeling
 of hostility between the Macusis and Arecunas, this request
@@ -16166,24 +14263,16 @@ has been described elsewhere, undergoes a long training of
 fasting and solitude, of stimulants and narcotics, in order to
 be able to raise himself at any moment into the ecstatic
 condition in which he is able to send his spirit where he
-will, to hold communion with other spirits. That the peai-
-man himself believes in this separation and departure of his
+will, to hold communion with other spirits. That the peaiman himself believes in this separation and departure of his
 spirit, would not be easy to prove; but after much inquiry
 from these practitioners, I am fully persuaded that in this,
 as in so many similar cases, the peaiman certainly partly
 believes, partly perhaps feigns to believe, in his own practice.
 But—and this is the important part—that the other Indians
-
-
-348 AMONG THE INDIANS OF GUIANA,
-
-
-believe in the departure of the spirit of the peaiman is cer-
-tain. That it is the spirit, not the body, of the man which
+believe in the departure of the spirit of the peaiman is certain. That it is the spirit, not the body, of the man which
 is supposed to depart was made very plain to me in this
 way. On being assured that the peaiman in his practice
-passed up and outward through the roof, I expressed scepti-
-cism, and asked to be allowed to fasten one end of a thread
+passed up and outward through the roof, I expressed scepticism, and asked to be allowed to fasten one end of a thread
 to the body of the peaiman, to hold the other in my hand,
 in order that, though because of the darkness I could not see
 the ascent, I might by means of the thread be satisfied of
@@ -16194,8 +14283,7 @@ communicates with spirits does this through his own spirit
 separated from his body.
 
 Another feature in the practice of the peaiman throws
-some light on this conception of the reality of events appa-
-rently experienced during artificial excitement, by showing
+some light on this conception of the reality of events apparently experienced during artificial excitement, by showing
 that the beings, whether patients or kenaimas, with whom
 the peaiman holds converse are communicated with as
 spirits separated from their proper bodies. I have elsewhere
@@ -16222,8 +14310,7 @@ believes not only in the existence of a spirit within-the
 TRANSMISSION OF SPIRITS. 349
 
 
-human body, but also in the separation, voluntary or in-
-voluntary of these two parts.
+human body, but also in the separation, voluntary or involuntary of these two parts.
 
 The next feature to be noted in Indian belief is that the
 spirit may be passed from the body of its proper owner into
@@ -16255,17 +14342,11 @@ such cases of self-deception have been noted from other parts
 of the world—and he therefore believes that he has not the
 _ power; but on the other hand he sees certain animals which
 he has reason to believe are men in disguise, and therefore,
-knowing how loosely spirits are attached to bodies, he sup-
-poses that other men know how to acquire the power,
+knowing how loosely spirits are attached to bodies, he supposes that other men know how to acquire the power,
 denied to him, of transmitting their spirits into what bodies
 they will. |
 
 So far we have examined Indian animism only as far as it
-
-
-350 AMONG THE INDIANS OF GUIANA.
-
-
 is exhibited in a belief of the existence of spirits of men, of
 the separability of these spirits, as displayed in the case of
 all men, of the power of these spirits to wander away from
@@ -16299,8 +14380,7 @@ still more difficult to realise that the Indian conception is
 wider even than this, in that it knows of no difference, except
 again in bodily form, between animate and inanimate objects.
 The very phrase ‘men and other animals,’ or even, as it is
-often expressed, ‘men and animals,’ based as it is on the supe-
-riority which civilised men feel over other animals, expresses a
+often expressed, ‘men and animals,’ based as it is on the superiority which civilised men feel over other animals, expresses a
 dichotomy which is in no degree recognised by the Indian.
 The only dichotomy recognised by him is ‘ myself, that is
 
@@ -16310,8 +14390,7 @@ IDENTITY OF MAN AND ANIMALS, 351
 
 the only thing I know, and the rest of the world, which is
 all unknown to me.’ It is, therefore, most important to
-- realise both how comparatively small really is the differ-
-ence between men in a state of savagery and other animals,
+- realise both how comparatively small really is the difference between men in a state of savagery and other animals,
 and how completely even such difference as exists escapes
 the notice of savage men.
 
@@ -16327,10 +14406,8 @@ potentialities, is natural. It must be remembered that almost
 every Indian understands the ways and cunning of other
 animals round about him far better than civilised men, even
 than the few learned in such matters, even guess them; and
-on the other hand, the real differences, the mental poten-
-tialities, are just such as entirely escape the notice of the
-uncivilised man. To the ear of the savage, animals cer-
-tainly seem even to talk. This fact is universally evident,
+on the other hand, the real differences, the mental potentialities, are just such as entirely escape the notice of the
+uncivilised man. To the ear of the savage, animals certainly seem even to talk. This fact is universally evident,
 and ought to be fully realised. In Longfellow’s wonderful
 medley of ethnological lore, the child Hiawatha,
 
@@ -16342,17 +14419,13 @@ And the good Nokomis answered :
 .. Talking in their native language,
 Talking, scolding at each other.’
 But the complete identification in this as in all qualities
-of men and other animals is perhaps most strikingly illus-
-trated in Joel Chandler Harris’s recently published folk-lore
+of men and other animals is perhaps most strikingly illustrated in Joel Chandler Harris’s recently published folk-lore
 stories of ‘Brer Rabbit,’! in which ‘Miss Meadows en de
 girls wuz in de tale’ without the slightest shade of human
 
 
 ' Uncle Remus: or, Mr. Fox, Mr. Rabbit, and Mr. Terrapin, by Joel
 Chandler Harris. London and New York, 1881.
-
-
-352 AMONG THE INDIANS OF GUIANA.
 
 
 difference distinguishing them from the other non-human
@@ -16363,8 +14436,7 @@ the beasts and birds around him, yet he attaches but little
 weight to this, in that he is constantly meeting with other
 Indiansof one or other of the manyalien tribes which surround
 him, who speak languages at least as unintelligible to him as
-are those of birds or beasts; and in that, as he is fully per-
-suaded, he constantly hears the peaiman still converse with
+are those of birds or beasts; and in that, as he is fully persuaded, he constantly hears the peaiman still converse with
 birds and beasts. The whole belief is well illustrated in a
 curious custom which often came under my notice. Before
 leaving a temporary camp in the forest, where they have
@@ -16372,8 +14444,7 @@ killed a tapir and dried the meat on a babracot, Indians
 invariably destroy this babracot, saying that should a tapir,
 passing that way, find traces of the slaughter of one of his
 kind, he would come by night on the next occasion when
-Indians slept at that place and, taking a man, would babra-
-cot him in revenge. It is not, therefore, too much to say
+Indians slept at that place and, taking a man, would babracot him in revenge. It is not, therefore, too much to say
 that, according to the view of the Indians, other animals
 differ from men only in bodily form and in their various
 degrees of strength. And they differ in spirit not at all;
@@ -16402,12 +14473,9 @@ lives under water; the omar, a similar being, who also lives
 under water, with a body said sometimes to be like that of
 a gigantic fish, sometimes like that of a huge crab, and
 again at other times to be of various other forms; and
-there are many other beings of this class, not clearly dis-
-tinguishable to us. The one common quality which these
-animals have for us is that they are all fabulous and non-
-existent. But our knowledge of this fact is derived entirely
-from science. The Indian, being without even the rudi-
-ments of scientific thought, believes as fully in the real
+there are many other beings of this class, not clearly distinguishable to us. The one common quality which these
+animals have for us is that they are all fabulous and nonexistent. But our knowledge of this fact is derived entirely
+from science. The Indian, being without even the rudiments of scientific thought, believes as fully in the real
 existence of an animal as impossible as was ever fabled, as he
 does in that of animals most usual to him. In short, to the
 Indian the-only difference between these monstrous animals
@@ -16440,9 +14508,6 @@ the first place from what he knows of himself, remembers
 AA
 
 
-354 AMONG THE INDIANS OF GUIANA.
-
-
 that, as, for example, in dreams, his own spirit moves with
 complete activity even when his body lies motionless ; and
 he therefore sees no reason to doubt that the spirit within
@@ -16459,8 +14524,7 @@ the action of this instrument evidence of its possession of a
 spirit. Then he carries this line of argument yet further:
 if his eye falls upon a rock in any way abnormal or curious,
 and if shortly after any evil happens to him, he regards
-rock and evil as cause and effect ; and here again he per-
-ceives in the rock a spirit. As it is with rocks so it is with
+rock and evil as cause and effect ; and here again he perceives in the rock a spirit. As it is with rocks so it is with
 other inanimate objects: the belief in their possession of
 a spirit probably originates not in their evident vitality, but
 in the vitality which is presumed to exist in them from their
@@ -16477,8 +14541,7 @@ shaped rock called paiwari-kaira, the upper part of which is
 very large but rests upon a small pillar-like base. Not only
 do the Indians allow no mention of this rock to be made, lest
 it should be vexed, but they will not even look at it, nor, if they
-can prevent, allow others to look. Again, all the many sculp-
-tured rocks are objects of this awe. It is unnecessary to mul-
+can prevent, allow others to look. Again, all the many sculptured rocks are objects of this awe. It is unnecessary to mul-
 tiply instances, further than by saying that almost every rock
 
 
@@ -16488,8 +14551,7 @@ tiply instances, further than by saying that almost every rock
 seen for the first. time, and any rock which is in any way
 _ abnormal whenever seen, is believed to consist of body and
 spirit. And not only many rocks, but also many waterfalls,
-streams, and indeed material bodies of every sort, are sup-
-posed to consist each of a body and a spirit as does man;
+streams, and indeed material bodies of every sort, are supposed to consist each of a body and a spirit as does man;
 and that not all inanimate objects have this dual nature
 avowedly attributed to them, is probably only due to the
 chance that, while all such objects may at any time, in any
@@ -16499,8 +14561,7 @@ in some cases.
 
 But, after all, such arguments as those given above, by
 which it seems probable that a savage man strengthens his
-belief in the presence of spirits in all objects, are not primi-
-tive. The primitive habit of thought is of a much more
+belief in the presence of spirits in all objects, are not primitive. The primitive habit of thought is of a much more
 simple and natural kind. It must have been acquired by the
 Indian, not by asking himself whether the objects around
 him were animate, but rather by his never doubting that, like
@@ -16509,8 +14570,7 @@ experience—all other objects had bodies and spirits. In fact,
 the really primitive idea naturally would be that all objects
 are animate. And only then, as scepticism began to grow
 and primitive man began to question whether stones have
-spirits and power of action, then the more orthodox and con-
-servative probably strengthened their faith in the old belief
+spirits and power of action, then the more orthodox and conservative probably strengthened their faith in the old belief
 by such arguments as those given above concerning the
 apparent action of stones.
 
@@ -16522,13 +14582,9 @@ But it seems to me that, at least in Guiana, thisis not quite
 the case. It is true that the peaiman in removing a disease
 from a patient removes a body, the nature of which has before
 been described, in which the spirit which caused the disease
-is supposed to be; and it is also true that diseases are be-
-lieved to move about the world much as do men. As a
+is supposed to be; and it is also true that diseases are believed to move about the world much as do men. As a
 
 AA2
-
-
-356 AMONG THE INDIANS OF GUIANA.
 
 
 curious instance of the belief in this latter power of diseases,
@@ -16556,8 +14612,7 @@ the advance of a disease, it is blocked against the bodily
 form of a malicious kenaima. In other words, diseases are
 not, £ think, distinctly personified.
 
-The Indian, therefore, believes that every object per-
-ceptible to his senses has, or may have, a body and a spirit;
+The Indian, therefore, believes that every object perceptible to his senses has, or may have, a body and a spirit;
 and he sees no difference in this respect between man und
 other objects, all being to him equally natural—or, in other
 words, no idea of that which we call the supernatural being
@@ -16602,8 +14657,7 @@ Guiana. The chief modifications, throughout the world, are:
 from the merely continued, existence of the spirit after the
 destruction of the body; (2) a belief in a separate place of
 abode for the spirit when separated from the body, and, in
-close connection with this, a belief in the reward or punish-
-ment of the spirit for the good or evil deeds which it did
+close connection with this, a belief in the reward or punishment of the spirit for the good or evil deeds which it did
 when in the body; (3) a belief, which has arisen but very
 gradually, in higher spirits, and eventually in a highest spirit ;
 and (4), keeping pace with the growths of these beliefs, a
@@ -16618,19 +14672,14 @@ advanced among the ancestors of the present Indians to a
 point somewhat beyond that to which they have now reverted. ©
 
 
-358 AMONG THE INDIANS OF GUIANA.
-
-
 Though improbable, it is quite intelligible, for example, that
-these people may have attained a somewhat higher concep-
-tion of religion, which their descendants have again lost.
+these people may have attained a somewhat higher conception of religion, which their descendants have again lost.
 When, therefore, I speak of the religious helief and practice
 of the Indians, I must be understood to refer only to the
 present form of these matters, which, after all, is hardly
 likely to be very much lower than it ever was.
 
-The remainder of this chapter will be devoted to an at-
-tempt to discover what advance, if any, from simple animism is
+The remainder of this chapter will be devoted to an attempt to discover what advance, if any, from simple animism is
 traceable among the Indians of Guiana. It is as well here
 to state the fact that the key to the whole matter may be
 provided by remembering that these Indians look on the
@@ -16639,8 +14688,7 @@ of, the material world known to them. Spirits, like material
 beings, differ from each other only, if the phrase is allowed,
 in their varying degrees of brute force and brute cunning,
 and none are distinguished by the possession of anything
-like divine attributes. Indians, therefore, regard disem-
-hodied spirits not otherwise than the beings still in the body
+like divine attributes. Indians, therefore, regard disemhodied spirits not otherwise than the beings still in the body
 whom they see around them.
 
 The first advance from the simplest animism consists in
@@ -16653,8 +14701,7 @@ the existence of this belief is to be found in the custom of
 the Indians, elsewhere described, of burying their dead in the
 houses of the deceased, and then deserting these houses, that
 the spirit of the dead man may use his former dwelling
-without interference from the presence of his surviving re-
-latives; further confirmation is afforded by the fact that
+without interference from the presence of his surviving relatives; further confirmation is afforded by the fact that
 various necessaries, but especially the hammock, the one
 chief necessary of life to the Indian, are buried with the dead
 for their future use ; and perhaps the strongest confirmation
@@ -16670,8 +14717,7 @@ fur granted. But no attempt is made to realise the duration of
 this after-death existence of the spirit. As long asthe memory
 of a dead man survives, either in the minds of his former
 companions or in tradition, he is supposed to exist ; but no
-question as to whether this existence is or is not to be pro-
-longed for ever has ever been formulated in the Indian mind.
+question as to whether this existence is or is not to be prolonged for ever has ever been formulated in the Indian mind.
 It is not till a considerably higher stage of civilisation is
 attained than that at which these Indians are, that the
 memory of certain dead men surviving practically for ever,
@@ -16709,12 +14755,8 @@ Roraima, which, even if untrue, is at least often repeated,
 ¢
 
 
-360. AMONG THE INDIANS OF GUIANA
-
-
 though with considerable variation, by other Indians. Once
-upon a time, they told him, a great peaiman named Becka-
-ranta, called all the Indians together to the neighbourhood
+upon a time, they told him, a great peaiman named Beckaranta, called all the Indians together to the neighbourhood
 of Roraima, with the secret ‘purpose of making himself
 their chief. To carry out his purpose he found it necessary
 to get rid of large numbers of the more powerful men.
@@ -16767,8 +14809,7 @@ canoes. Either way of travelling appears equally probable
 to them—either ancestral country equally natural. It is to
 be noted that the country beyond the sky is more often
 mentioned as that from which men come than as that to
-_which men go; but,-on the other hand, the spirits of indi-
-viduals among their hero ancestors are sometimes said by
+_which men go; but,-on the other hand, the spirits of individuals among their hero ancestors are sometimes said by
 the Indians to have gone to this place, sometimes said to
 have gone to the islands, just as individual Indians in the
 body occasionally travel away from their tribes and are heard
@@ -16776,10 +14817,8 @@ of and seen no more. In either case the method of travelling
 is not by apotheosis, but by such natural means as are used
 indifferently by beings, whether encumbered by bodies or
 not—in short, the Indian knows’ of no heaven, but only of
-other countries. The whole matter—that is, both the con-
-ception of the Indian of the place of the spirit after death,
-and the difficulty which civilised man has found in under-
-standing this conception, may be made more clear, by ex-
+other countries. The whole matter—that is, both the conception of the Indian of the place of the spirit after death,
+and the difficulty which civilised man has found in understanding this conception, may be made more clear, by ex-
 amining a passage by Rochefort, in which, writing of the
 Caribs of the West Indies, the ancestors of the True Caribs
 and of certain other tribes in Guiana, he says that their brave
@@ -16797,9 +14836,6 @@ retribution after death for conduct which is, according to
 Culture, vol. ii. p. 79.
 
 
-362 AMONG THE INDIANS OF GUIANA.
-
-
 the Indian standard, virtuous and vicious—that is to say, for
 bravery or cowardice. A little investigation makes the
 matter appear in an entirely different light. Rochefort
@@ -16807,8 +14843,7 @@ wrote of a time when the Caribs were already, as far as
 Indians were concerned, in complete possession of the West
 Indian Islands, and the Arawaks lived on the mainland the
 mountains of which were visible from Trinidad. According
-to some accounts the :Arawaks had been driven to the main-
-land from their former homes in the islands by these very
+to some accounts the :Arawaks had been driven to the mainland from their former homes in the islands by these very
 Caribs. It is at least certain that the Caribs were in the
 habit of making hostile raids into the country of the Arawaks
 on the mainland, and that great mutual hostility and the
@@ -16818,8 +14853,7 @@ now be loosely described: as indeed fertile in comparison with
 the flat swampy belt which lies on the mainland between
 the mountains and the sea. When, therefore, the Carib said
 that if he were brave in this life he would after death live,
-with Arawaks for slaves, in fertile islands, he spoke re-
-membering how in previous raids on the mainland he had
+with Arawaks for slaves, in fertile islands, he spoke remembering how in previous raids on the mainland he had
 by his bravery captured Arawaks and brought them as slaves
 to his own happy islands; and when he said that, if he were
 a coward, he would after death live beyond the mountains,
@@ -16865,8 +14899,7 @@ But on this belief, at a very early stage in the transition
 which it thus makes, is engrafted the very important idea of
 spirits, many or few, which have always been spirits, and
 were never specially associated with any material body.
-Up to the point at which this new idea is engrafted it can-
-not be said that there is any belief in a spiritual hierarchy.
+Up to the point at which this new idea is engrafted it cannot be said that there is any belief in a spiritual hierarchy.
 The Indians of Guiana have not yet reached this point.
 
 The process by which the idea of a difference in the
@@ -16884,16 +14917,12 @@ consequence here, in that all that it is necessary to show is
 that the Indians have not yet attained any such notion.
 
 
-364 AMONG THE INDIANS OF GUIANA.
-
-
 It is indeed fully recognised in Guiana that some spirits
 are more to be feared than others. But this is only because
 some excel in physical power and cunning. For instance,
 the spirits of all rocks are supposed to be capable of harm ;
 but again and again I have found cases, as, for example, the
-rock Paiwarikaira and the sculptured rocks already men-
-tioned, in which the Indians possessed special dread of
+rock Paiwarikaira and the sculptured rocks already mentioned, in which the Indians possessed special dread of
 certain particular spirit-possessed rocks. But these rocks
 are deemed more malicious than others. The matter may
 be made quite clear in this way: Not only every river, but
@@ -16921,18 +14950,15 @@ a noise to separate the sun-spirit and the moon-spirit, or
 the sun-god and the moon-god, has been noticed ; and it is
 generally supposed that in such cases a high degree of
 . authority is attributed to these spirits. But I see nothing
-in this or in anything else which shows that savages dis-
-tinguish, by attributing greater authority to them, such
-beings as sun and moon, and very many other natural phe-
-nomena, as wind and storms, from men and other animals,
+in this or in anything else which shows that savages distinguish, by attributing greater authority to them, such
+beings as sun and moon, and very many other natural phenomena, as wind and storms, from men and other animals,
 
 
 NO GOD. 365
 
 
 plants and other inanimate objects, or from any other beings
-whatsoever. All beings—and under this heading are in-
-cluded all personified natural phenomena—are, in fact, of the
+whatsoever. All beings—and under this heading are included all personified natural phenomena—are, in fact, of the
 same kind, each with a body and a spirit. It is the old
 story—they differ from each other only that some are more
 powerful than others in the mere matter of brute force, and
@@ -16957,8 +14983,7 @@ If there is no belief in a hierarchy of spirits, there can of
 course be none in any such beings as in higher religions are
 called gods—beings, that is, who have not only authority
 over others, but who have also always been spirits, unless
-when temporarily and for their own purposes they put them-
-selves into bodies ; and who in some, if not in all, cases, had
+when temporarily and for their own purposes they put themselves into bodies ; and who in some, if not in all, cases, had
 some share in the creation of the world. It is true that
 various words have been found in all, or nearly all, the
 languages, not only of Guiana, but also of the whole world,
@@ -16975,9 +15000,6 @@ Ackawoi; Mackonaima =?
 
 
 - Carib Tribes
-
-
-366 AMONG THE INDIANS OF GUIANA.
 
 
 Wa murreta kwonci =‘ our maker.
@@ -16999,8 +15021,7 @@ in sky-land; (2) the maker of the Indians; and (3) their
 father. Now none of these ideas in any way involve the
 attributes of a god. On the contrary, they all point rather
 to a conception, which is certainly present in all Indian
-minds, that their remote ancestors, of whom they are ac-
-customed to speak as their fathers or, by a very natural
+minds, that their remote ancestors, of whom they are accustomed to speak as their fathers or, by a very natural
 figure of speech, their makers, came into their present homes
 from some other country, which is sometimes said to be that
 entirely natural country which is separated from Guiana by
@@ -17010,8 +15031,7 @@ can only call sky-land, this probably only means that these
 spirits have recrossed the same ocean and gone back to the
 old country. Thus these supposed gods are really but the
 remembered dead of each tribe; and where there is men- .
-tion of one great spirit or god, it is merely the chief tra-
-ditional founder of the tribe. It must be remembered that
+tion of one great spirit or god, it is merely the chief traditional founder of the tribe. It must be remembered that
 these names were first noted by missionaries, and were eagerly
 _ seized upon by them, and used to express the God whom
 they preached. The names have, therefore, to some extent
@@ -17036,8 +15056,7 @@ but such as are, or originally were, embodied in material
 bodies ; and no apotheosis has of these made gods or a God.
 
 Once more, however, in the idea of ancestral spirits still
-existing, is the germ which might under certain circum-
-stances develop into that leading conception of the higher
+existing, is the germ which might under certain circumstances develop into that leading conception of the higher
 religions which recognises one God, the creator and ruler of
 all.
 
@@ -17046,8 +15065,7 @@ Indian animism.. The belief in spirits and the worship of
 these spirits by certain rites and ceremonies are two very
 different things, though the fact that in the higher religions
 the two are almost invariably found in very close association
-has induced civilised men to regard them as nearly insepar-
-able. Spirits may be regarded with indifference, as without
+has induced civilised men to regard them as nearly inseparable. Spirits may be regarded with indifference, as without
 power to affect men for good or evil, in which case they are
 not worshipped. Or they may be regarded either with dread
 as harmful, or with expectancy as beneficial, to man; and in
@@ -17062,16 +15080,12 @@ Guiana, it is necessary to notice which of these attitudes the
 Indians hold toward spiritual beings. There are, the Indians
 think, harmless spirits and harmful; but while the latter
 are very active in exercise of their power of affecting men
-and other beings, the former are perfectly and entirely in-
-active in this respect. It is somewhat difficult to realise this
+and other beings, the former are perfectly and entirely inactive in this respect. It is somewhat difficult to realise this
 Indian view. All that can be said of it is, that all the good
 that befalls him the Indian accepts either without inquiry as
 to its cause or as the result of his own exertions; but, on the
 other hand, all the evils that befall him he regards as inflicted
 by malignant spirits. This being his state of mind, the
-
-
-368 AMONG THE INDIANS OF GUIANA.
 
 
 Indian has no inducement to attract the good-will of spirits ;
@@ -17082,32 +15096,26 @@ rocks and other objects. He avoids eating the flesh of certain
 sorts of animals, possibly because these are supposed by him
 _ to be especially malignant. It is somewhat curious that in
 this way different tribes avoid different animals ; most tribes,
-for instance, refusing to eat the flesh of water-haas (Capy-
-bara) and sting-rays, though these are freely eaten by True
+for instance, refusing to eat the flesh of water-haas (Capybara) and sting-rays, though these are freely eaten by True
 Caribs. All tribes, however, agree in refusing to eat the
 flesh of such animals as are not indigenous to their country,
 but were introduced from abroad, such as oxen, sheep, goats,
 and fowls; apparently on the principle, with which we have
-met before, that any strange and abnormal object is especi-
-ally likeiy to be possessed of a harmful spirit. It must,
-however, be added that, under great pressure of circum-
-stances, such as utter want of other food, these meats are
+met before, that any strange and abnormal object is especially likeiy to be possessed of a harmful spirit. It must,
+however, be added that, under great pressure of circumstances, such as utter want of other food, these meats are
 occasionally rendered eatable by the simple ceremony of
 getting a peaiman, or even occasionally an old woman, to
 blow a certain number of times on them; apparently on the
 principle that the spirit of the animal about to be eaten is
-thus expelled. But in connection with this subject one uni-
-versal and very common custom of the Indians of Guiana is
+thus expelled. But in connection with this subject one universal and very common custom of the Indians of Guiana is
 chiefly noticeable. Before attempting to shoot a cataract for
 the first time, on first sight of any new place, and every time a
 sculptured rock or striking mountain or stone is seen, Indians
-avert the ill-will of the spirits of such places by rubbing red-
-peppers (Capsicum) each in his or her own eyes. For instance,
+avert the ill-will of the spirits of such places by rubbing redpeppers (Capsicum) each in his or her own eyes. For instance,
 on reaching the Timehri rock on the Corentyn river, I at
 once began to sketch the figure sculptured thereon. Looking
 up the next moment I saw the Indians—men, women, and
-children—who accompanied me all grouped round the rock-
-picture, busily engaged in this painful operation of pepper-
+children—who accompanied me all grouped round the rockpicture, busily engaged in this painful operation of pepper-
 rubbing. The extreme pain of this operation when performed
 thoroughly by the Indians I can faintly realise from my.own
 feelings when I have occasionally rubbed my eyes with
@@ -17117,8 +15125,7 @@ HIDING FROM SPIRITS. 369
 
 
 fingers which had recently handled red-peppers; and from
-the fact that, though the older practitioners inflict this self-
-torture with the utmost stoicism, I have again and again seen
+the fact that, though the older practitioners inflict this selftorture with the utmost stoicism, I have again and again seen
 that otherwise rare sight of Indians, children and even young
 men, sobbing under the infliction. Yet the ceremony was
 never omitted. Sometimes when by a rare chance no
@@ -17126,23 +15133,18 @@ member of the party had had the forethought to provide
 peppers, lime-juice was used asa substitute ; and once, when
 neither peppers nor limes were at hand, a piece of blue
 indigo-dyed cloth was carefully soaked and the dye was then
-rubbed into the eyes. These, I believe, are the only cere-
-monies observed by the Indians. One idea underlies them
+rubbed into the eyes. These, I believe, are the only ceremonies observed by the Indians. One idea underlies them
 all, and that is, the attempt to avoid attracting the attention
 of malignant spirits.
 
-Thus, if it is absolutely necessary to pass a rock or spite-
-ful cataract, the Indian avoids attracting the attention of this
-by mentioning it. This idea is further developed and ex-
-hibited in an attempt to make himself invisible to the
+Thus, if it is absolutely necessary to pass a rock or spiteful cataract, the Indian avoids attracting the attention of this
+by mentioning it. This idea is further developed and exhibited in an attempt to make himself invisible to the
 dreaded object. Just as an ostrich, according to the old
-story, is said to bury its head in the sand and so to blind it-
-self to conceal its body from the hunters, so the Indian, if he
+story, is said to bury its head in the sand and so to blind itself to conceal its body from the hunters, so the Indian, if he
 can only avoid seeing the object dreaded by him, thinks that
 he himself is invisible to that object. To effect this purpose,
 he temporarily blinds himself with the juice of capsicums or -
-other similar matter. This circumstance is further well illus-
-trated by the fact, which I often observed, that when after
+other similar matter. This circumstance is further well illustrated by the fact, which I often observed, that when after
 much difficulty I had persuaded Indians to stand in front of
 such a terrible object as a camera, to be photographed, they
 again and again defeated my purpose by clapping their hands
@@ -17156,12 +15158,8 @@ eyes in the presence of some object dreadful to them.'
 1 This is another side of an Indian habit of thought before mentioned—
 
 I mean, of their belief in the reality of dreams. In the one case, that of
-
 sleep, they think themselves present among surroundings which have no
 BB
-
-
-370 AMONG THE INDIANS OF GUIANA.
 
 
 In conclusion, the whole religious belief of these Indians
@@ -17196,8 +15194,7 @@ belief in the existence of gods or even of.a God.
 
 Finally, the great lesson to be learned from a study of
 Indian animism is that the very pure form in which it
-exists in Guiana, common to a very large number of Red-
-men elsewhere, is much more primitive than has yet been
+exists in Guiana, common to a very large number of Redmen elsewhere, is much more primitive than has yet been
 suspected by most students of religious evolution.
 
 
@@ -17206,9 +15203,6 @@ see or fancy they see themselves among these surroundings; in the other
 case, when they shut their eyes to avoid certain objects, they think them,
 selves not present among the surroundings in which they really are, because
 they do not see them.
-
-
-371
 
 
 CHAPTER XVIII.
@@ -17230,18 +15224,15 @@ round the fire with knees drawn up to chin, listen to endless
 tales, told sometimes by the peaiman, sometimes by the
 headman of the settlement, sometimes by the old women—
 who in this, as in other societies, are great tradition-mongers ;
-and these tales are always told with an amount of gesticula-
-tion, half seen and yet intensified in the fitful firelight, and
+and these tales are always told with an amount of gesticulation, half seen and yet intensified in the fitful firelight, and
 with modification of the voice so varied that they have con-~
 siderable dramatic interest even to a stranger, though ignorant
 of the language, who, on rare occasions, may happen to be
 present. Some few of these stories, which, in that they are
-handed down from generation to generation, may be con-
-veniéntly classed as folk-lore, I was able to gather, and a far
+handed down from generation to generation, may be conveniéntly classed as folk-lore, I was able to gather, and a far
 larger number have been learned and told by my friend Mr.
 Brett,' to whom I am indebted for very much information
-on this subject. Many of the stories are of course in-
-timately connected with the subject of the last chapter,
+on this subject. Many of the stories are of course intimately connected with the subject of the last chapter,
 in which the religion of the Indians was described as a
 very extensive animism—as a recognition, that is, of the
 existence of a world full of non-supernatural beings, some of
@@ -17254,22 +15245,16 @@ London, 1879.
 BB2
 
 
-372 AMONG THE INDIANS OF GUIANA.
-
-
 which to us appear animate, as men and other animals,
 others inanimate, as trees and rocks, others to be natural
 phenomena, as winds and storms—but of which each alike
-appears to the Indian to be alive and to have both a ma-
-terial body and a spirit. Much of their folk-lore tells of the
+appears to the Indian to be alive and to have both a material body and a spirit. Much of their folk-lore tells of the
 acts of these beings. Other of their folk-lore consists of a
-few half-remembered traditions of comparatively recent his-
-torical events, as of battles and war between the tribes, “In
+few half-remembered traditions of comparatively recent historical events, as of battles and war between the tribes, “In
 the present chapter an attempt will be made to give’ some
 idea of both of these phases of folk-lore, the mythological
 and the more purely historical.
-Before telling any tales of the former of these kinds some-
-thing must be said as to how far they are probably of genuine
+Before telling any tales of the former of these kinds something must be said as to how far they are probably of genuine
 Indian érigin; for some of those which have been recorded
 have undoubtedly been much affected by European influence ;
 for example, in many of the tales there are points which in
@@ -17280,14 +15265,12 @@ allusion to the theory based upon these supposed common
 points, of the common descent of the Indians and of the rest
 of mankind from the actors of Genesis ; for these apparently
 common points are themselves of very suspicious origin. It is
-true that they appear in the legends as the Indians them-
-selves tell them at the present day; but it does not by any
+true that they appear in the legends as the Indians themselves tell them at the present day; but it does not by any
 means follow from.this that these details belonged to the
 . tradition before the discovery of America. The Indian mind
 is like a highly polished mirror which reflects all that is
 shown it. If.we can imagine such an incident as a civilised
-man glancing for the first time into a mirror, we must re-
-member that at the first glance the man would realise the
+man glancing for the first time into a mirror, we must remember that at the first glance the man would realise the
 exhibition, not of glass, quicksilver, and certain optical laws,
 but of a duplicate of himself. So the student of Indian
 thought at first is apt to see not such things as the Indian
@@ -17301,12 +15284,10 @@ EXTERNAL INFLUENCE ON SAVAGE MYTHS, 373
 
 fully prepared to believe in the existence of everything even
 that he ‘has not seen; so when told by the European of the
-facts, simple or complex, of Christian theology,-he un-
-doubtingly and without the least mental effort assents to
+facts, simple or complex, of Christian theology,-he undoubtingly and without the least mental effort assents to
 their existence. To test this I have often asked Indians as
 to the existence both of animals never seen in America, such
-as elephants, and of animals the most impossible that my im-
-agination could produce; and the result invariably was that
+as elephants, and of animals the most impossible that my imagination could produce; and the result invariably was that
 the Indian quietly assented to the existence of such animals,
 and that in many cases he was even prepared to describe the
 localities, to which, though near, he had never been, where
@@ -17321,8 +15302,7 @@ knowledge of the cruelties which their owners practised upon
 the Indians, by proclaiming the mysteries of the most
 charitable of all religions, thus placed incidents of Christian
 tradition in the minds of these Indians. Such alien facts,
-even if they were unenforced by sword and fire, were un-
-hesitatingly accepted and engrafted on the Indian mind, and
+even if they were unenforced by sword and fire, were unhesitatingly accepted and engrafted on the Indian mind, and
 must have spread with a rapidity which will be appreciated
 fully only by those who by actual experience have realised
 the extraordinarily rapid rate at which news, even of a trifling
@@ -17335,18 +15315,13 @@ must be remembered that a very large proportion of those
 Europeans who have been much in contact with the Indians
 and have recorded their folk-lore, have, whether nominally
 missionaries or. hot, been more or less inspired by the
-purposes of the Christian missionary ; and these. have re-
-joiced to find the Christian traditions which their own
+purposes of the Christian missionary ; and these. have rejoiced to find the Christian traditions which their own
 
 
 .Y
 
 
-374 AMONG THE INDIANS OF GUIANA.
-
-
-forerunners had poured into the Indian mind. Every allow-
-ance must therefore be made by the scientific student of
+forerunners had poured into the Indian mind. Every allowance must therefore be made by the scientific student of
 folk-lore for the extreme probability that these missionaries
 have very often mistaken such mere reflections for realities.
 The amount of error thus introduced is largely increased by
@@ -17366,8 +15341,7 @@ the earliest explorers, conquerors, and settlers of this part of
 America.
 
 It may perhaps be as well to give an illustration or two
-of the more subtle forms which this error takes. How a con-
-ception, similar to our own, of an omnipotent and creating
+of the more subtle forms which this error takes. How a conception, similar to our own, of an omnipotent and creating
 God may have been erroneously read from the simple Indian
 tradition of some great and powerful ancestor, has already
 been explained.'! A fact recognised even by missionaries is
@@ -17376,8 +15350,7 @@ Mr. Brett again and again bears witness to this in his book
 of legends; perhaps he most emphatically emphasises the
 statement where he italicises his words in saying that they
 ‘never call upon’ their Great Spirit. Yet the same writer
-in another passage? actually introduces a prayer for rain sup-
-posed to have been made by the earliest Warrau Indians. In
+in another passage? actually introduces a prayer for rain supposed to have been made by the earliest Warrau Indians. In
 this case the discrepancy is probably to be explained in one
 _ of the two following suggestive ways: either the missionary
 was so saturated with the idea, more orthodox than religious,
@@ -17394,8 +15367,7 @@ of thought, he misread some part of the Indian story as a
 prayer; or—as, remembering Mr. Brett’s wonted accuracy, I
 am induced to prefer—there actually was a prayer in the
 story as he heard it, but this prayer was introduced into the.
-traditions after, and under the influence of, European teach-
-ing. Other typical instances of error from a similar source
+traditions after, and under the influence of, European teaching. Other typical instances of error from a similar source
 are to be found in the stories of world-floods and world-fires.
 The calamity to which an Indian is perhaps most exposed is
 to be driven from his home by a sudden rise in the river and
@@ -17406,8 +15378,7 @@ happens, if none such can be found, the whole party lives
 as best they may in the canoe until the waters disappear
 from the face of the earth. It is well known how in all
 countries the proverbial ‘ oldest inhabitant ’’ remembers and
-tells of the highest flood that ever happened. When there-
-fore the Indian tells in his simple language the tradition of
+tells of the highest flood that ever happened. When therefore the Indian tells in his simple language the tradition of
 the highest flood which covered all the small world known
 to him, and tells how the Indians escaped it,' it is not
 difficult to realise that the European hearer, theologically
@@ -17426,11 +15397,6 @@ delay to the flames; or, if he is in the forest, he hurries on
 to some one of the many utterly barren sand-banks near the
 rivers, and there waits until the fire has passed. When,
 1 Brett’s Legenda, p, 13. 3 Ibid, p. 10,
-
-
-376 AMONG THE INDIANS OF GUIANA.
-
-
 therefore, the Arawak tells how a world-fire once devastated
 the land, the explanation is, mutatis mutandis, that which
 has been given of the world-fiood. But as no world-fire has
@@ -17442,8 +15408,7 @@ same people.
 From the folk-lore now to be told an attempt will be made
 to exclude, as far as possible, all that is of doubtful Indian
 origin; for the present object is solely to present some
-picture of Indian habits of thought as shown in these fire-
-side tales.
+picture of Indian habits of thought as shown in these fireside tales.
 
 It will be found that a very large proportion of the
 stories are attempts to account for the features of the world
@@ -17466,8 +15431,7 @@ not only not surprising, but was to be certainly expected.
 The first group of stories is concerned with the origin
 of man, or at least with his appearance in Guiana. The
 Arawaks, according to Mr. Brett, say that, before men were,
-a being,' breaking off twigs and pieces of bark from a silk-
-cotton tree (Eriodendron), threw them far and wide around
+a being,' breaking off twigs and pieces of bark from a silkcotton tree (Eriodendron), threw them far and wide around
 him. Some as they fell became birds; others fell into the
 water and became fish; others fell on land and became
 
@@ -17516,11 +15480,6 @@ a considerable incidental significance. The Arawak story
 seems full of European ideas, and, as is natural in the case
 of this tribe, which was from the first, and has continued, in
 closer communion with white men than any other tribe, is
-
-
-378 AMONG THE INDIANS OF GUIANA,
-
-
 ne doubt much modified from its original Indian form. The
 stury of the Warraus—and in a somewhat less degree this
 is also true of the Carib story—is not only much more in
@@ -17554,8 +15513,7 @@ on the previous occasion, hid the child in the forest. But
 the brothers discovered their sister’s secret, and, having shot
 their arrows into the boy, left him as dead. But the mother
 nursed her child, revived it, and succeeded in rearing it. It
-was not till the child was a big boy that the brothers dis-
-covered that he still lived. Then they attacked him, and
+was not till the child was a big boy that the brothers discovered that he still lived. Then they attacked him, and
 cut his body in small pieces. From the grave in which the
 mother buried the victim rose an Indian more powerful and
 more fierce than any Warrau had ever been. He was the
@@ -17606,11 +15564,6 @@ land. But before much harm was done the flow of
 water was stopped, according to the True Caribs, by the aid
 
 1 The story, as I heard it, slightly varies from Mr. Brett’s version,
-
-
-380 AMONG THE INDIANS OF GUIANA.
-
-
 of certain mysterious beings, neither men nor animals as
 we know them—according to the Ackawoi, by one man, who
 inverted an empty basket over the spring of water and so
@@ -17664,8 +15617,7 @@ other animals, agreeing in their abhorrence of the ugliness
 of the alligator, raised a shout that it was he who had taken
 the spark. Whereupon the man, angry and impatient, tore
 out the tongue of the supposed culprit. And this is the
-reason why alligators have ever since had such very rudi-
-mentary tongues, and also why they wage perpetual war on
+reason why alligators have ever since had such very rudimentary tongues, and also why they wage perpetual war on
 other beasts. That is all that is known of the story.
 
 A large number of other stories, as in the last example,
@@ -17697,18 +15649,12 @@ were enraged, and set him on top of a tall awarra-palm
 known, is covered with terrible thorns. There he remained
 until some spiders, feeling pity, spun a cord by which he
 descended. Then for many years he tried to get back to his
-
-
-382 AMONG THE INDIANS OF GUIANA.
-
-
 wife, but the vultures would have nothing more to say to
 him. But at last the other birds, taking compassion on him,
 carried him to sky-land and helped him to fight the vultures.
 The latter having been driven into their own houses, their
 whole settlement was burned over their heads. Then the
-other birds began to quarrel over the plunder. The trumpet-
-bird and the heron got so angry that they fought and rolled
+other birds began to quarrel over the plunder. The trumpetbird and the heron got so angry that they fought and rolled
 each other in the ashes, which is the reason why the former
 bird has ever since had a grey back, and why the latter has
 been grey all over. Taking advantage of the confusion, the
@@ -17720,13 +15666,10 @@ incident had occurred. The Arawak on whose behalf this
 war was waged fought with, and was killed by, his own son
 by his vulture wife. It must be added that the hawks and
 other big birds found, when the war was over, that that
-generally bold little bird, the keskedie (Sawrophagus sul-
-phuratus), disinclined to fight just then, had bandaged his
-head with white cotton and, pretending to be ill, had re-
-mained at home, for which act he was compelled by the big
+generally bold little bird, the keskedie (Sawrophagus sulphuratus), disinclined to fight just then, had bandaged his
+head with white cotton and, pretending to be ill, had remained at home, for which act he was compelled by the big
 birds always to wear his bandage. And this little bird still
-has the white marks on his head, and still avenges the in-
-dignity by attacking big birds whenever opportunity offers.
+has the white marks on his head, and still avenges the indignity by attacking big birds whenever opportunity offers.
 Yet another tale tells of war waged by the combined
 forces of men and birds. The enemy this time was a huge
 water-snake. An agreement was made that whoever began
@@ -17751,8 +15694,7 @@ that was in its own beak. And when they had done this,
 each dressed himself in his own bit of skin. Most of them—
 all except the duckler who had actually began the attack on
 the snake, and to whose lot the head of the skin happened to
-fall—at once became various bright-coloured parrots and ma-
-caws. Only one, he who began the fight, remained dingy in
+fall—at once became various bright-coloured parrots and macaws. Only one, he who began the fight, remained dingy in
 colour and a duckler.
 
 Other kindred stories account for peculiarities of other
@@ -17764,8 +15706,7 @@ lad swam the fish died; and the father found by experiment
 that these fish were quite wholesome as food. So he made
 @ practice of obtaining fish in this way. But after a time,
 the fish having taken council, chose a moment when the lad
-sat on a log just before plunging into the water, when, there-
-fore, the fish could approach him safely, and then, all spring-
+sat on a log just before plunging into the water, when, therefore, the fish could approach him safely, and then, all spring-
 ing out of the water together, struck their spines into the
 lad. The wound made in this way by the sting-ray proved
 fatal. But as the father was carrying his dying son home,
@@ -17782,13 +15723,9 @@ or bark-boats, used by the Ackawoi of that river; and at the
 side of the river, close to the foot of the column of water, is
 @ curiously regular rectangular rock of the shape of the
 ‘ pegall,’ or basket, in which the Indian packs his properties.
-Once upon a time, say the Ackawoi, there was on the savan-
-nah above the fall an Indian settlement in which lived an
+Once upon a time, say the Ackawoi, there was on the savannah above the fall an Indian settlement in which lived an
 
 } See ante, p. 233.
-
-
-384 AMONG THE INDIANS OF GUIANA.
 
 
 old man so worn out and useless from age that in his feet the
@@ -17849,8 +15786,7 @@ Again, any extraordinary or inaccessible rock is always
 said to be inhabited by monstrous animals. For example, on
 Roraima the Indians say that there are huge white jaguars,
 huge white eagles, and other such beasts. To this class
-probably belongs the di-dis, beings in shape something be-
-tween men and monkeys, who live in the forests near the
+probably belongs the di-dis, beings in shape something between men and monkeys, who live in the forests near the
 river banks. To English readers this last being has some
 literary interest as being probably that which suggested to
 the vivid and quaint imagination of Charles Waterton the
@@ -17859,8 +15795,7 @@ of which for a time puzzled too confiding zoologists at home.
 To this class also belong the omars, beings with bodies
 variously described as like those of exaggerated crabs and
 fish, who live under water in the rapids, and often drag down
-the boats of the Indians as they shoot these places. In con-
-nection with one of these last beings a story was told me at
+the boats of the Indians as they shoot these places. In connection with one of these last beings a story was told me at
 Ouropocari fall, on the Essequibo, which is worthy of record.
 
 This omar used to feed on rotten wood, and he dragged
@@ -17875,13 +15810,7 @@ great pain, rose to the surface, belched out the peaiman, and
 died.
 
 In the above story we once more find an instance of the
-
 cc
-
-
-386 AMONG THE INDIANS OF GUIANA.
-
-
 occurrence among the Indians of an idea which has recurred
 again and again in almost all parts of the world. Jonah in
 the belly of the whale, Hiawatha in the belly of the sturgeon
@@ -17897,13 +15826,11 @@ is highly probable.
 
 The last group of folk-lore tales to which I shall now turn
 differs entirely from those already told, in that the subjects
-dealt with are not mythological but historical. They repre-
-sent all that the Indians themselves know of the unwritten
+dealt with are not mythological but historical. They represent all that the Indians themselves know of the unwritten
 history of their ancestors in comparatively recent years.
 
 The Arawaks say that their ancestors had first to fight a
-fierce tribe called Meyanow ; and after they had extermi-
-nated these they were harassed by the Caribs, who came
+fierce tribe called Meyanow ; and after they had exterminated these they were harassed by the Caribs, who came
 first from the islands, but afterwards settled on the mainland
 and carried on an even more constant warfare. Every year
 the Caribs from all quarters gathered round the Arawaks on
@@ -17952,25 +15879,20 @@ moment the Arawaks rushed out upon the enemy from their
 hiding-places and slew almost all. A few only escaped,
 vowing vengeance.
 
-Yet a third time the Caribs came, and were again over-
-thrown. Their chief, having been struck in the face by a
+Yet a third time the Caribs came, and were again overthrown. Their chief, having been struck in the face by a
 three-pronged fish arrow, was captured alive. Then the
 Arawaks consulted as to what they should do with the
 prisoner. At last they determined to let him go unharmed ;
 and this was the end of the feud between the tribes.
 
 . It must be added to the above story that the peace does
-not seem to have been very complete. The Caribs still con-
-tinued to oppress the Arawaks; and, according to the general
+not seem to have been very complete. The Caribs still continued to oppress the Arawaks; and, according to the general
 belief of the Indians, the former till quite recently were even
 in the habit of-cutting off the hand of any Arawak who was
 bold enough to settle near the banks of the river. It must
 also be added that the preceding story, so favourable to the
 - Arawaks, is derived entirely from Arawak tellers; but, on
 cc 2
-
-
-388 AMONG THE INDIANS OF GUIANA.
 
 
 the other hand, it is certain that the Arawaks to this day
@@ -17982,9 +15904,6 @@ the tribes it need only be added, as significant when the
 general condition of the various tribes is considered, that only
 the Warraus seem to have no tale to tell of bold deeds done
 against hostile tribes.
-
-
-389
 
 
 CHAPTER XIX.
@@ -18028,9 +15947,6 @@ Indians may have had a settlement here formerly. Were I
 a?
 
 
-390 AMONG THE INDIANS OF GUIANA.
-
-
 by chance to meet the son of the father who moulders here,
 he could tell me that his father was famous for slaying
 tigers and serpents and caymans, and noted in the chase of
@@ -18054,8 +15970,7 @@ An account of all known antiquities of British Guiana ought
 therefore to be useful, even if only to those who wish to
 look further into such matters.
 
-The objects to be discussed may, for the sake of con-
-venience, be classed under five heads: (1) Pictured rocks,
+The objects to be discussed may, for the sake of convenience, be classed under five heads: (1) Pictured rocks,
 (2) shell-mounds, (3) stone implements, (4) standing stones,
 (5) sites of ancient villages. Before dealing with each of these
 in turn, it may be as well to state that in no one case is it as
@@ -18083,8 +15998,7 @@ kind. In all cases various figures are rudely depicted on
 larger or smaller surfaces of rocks. Sometimes these figures
 are painted, though such cases are few and, as will be shown,
 of little moment; more generally they are graven on the
-rock, and these alone are of great importance. Rock sculp-
-tures may, again, be distinguished into two kinds, differing
+rock, and these alone are of great importance. Rock sculptures may, again, be distinguished into two kinds, differing
 in the depth of incision, the apparent mode of execution,
 and, most important of all, the character of the figures
 represented.
@@ -18102,8 +16016,7 @@ his ‘Travels on the Amazons,’ mentions the occurrence of
 similar drawings in more than one place near the Amazons;
 and from these and other accounts it seems probable that
 they occur in various parts of South America. If, as seems
-likely, these figures are painted with either of the red pig-
-ments! which the Indians use so largely to paint their own
+likely, these figures are painted with either of the red pigments! which the Indians use so largely to paint their own
 bodies as well as their weapons and other implements, or, as
 is also possible, with some sort of red earth, they must be
 modern, the work of Indians of the present day; for these
@@ -18113,9 +16026,6 @@ Mr. Brown, the drawings are on such an unenduring
 substance as sandstone. Some further account of these
 
 1 See ante, p. 316.
-
-
-392 AMONG THE INDIANS OF GUIANA.
 
 
 paintings is, however, much to be desired ; for, though they
@@ -18165,11 +16075,7 @@ even any reason to suppose that the two kinds were produced
 at one and the same time.
 
 
-394 AMONG THE INDIANS OF GUIANA.
-
-
-These two kinds of engravings may, for the sake of con-
-venience, be distinguished as ‘deep’ (Fig. 36, p. 393) and
+These two kinds of engravings may, for the sake of convenience, be distinguished as ‘deep’ (Fig. 36, p. 393) and
 ‘shallow’ (Fig. 35, p. 392) respectively, according as the
 figures are deeply cut into the rock or are merely scratched
 on the surface. The former (Fig. 37) vary from one-eighth
@@ -18191,8 +16097,7 @@ however, examples occur in considerable abundance. But
 the two kinds differ not only in the depth of incision, in the
 apparent mode of their production, and in the place of their
 occurrence, but also—and this is the chief difference between
-the two—in the figures represented. This will best be ex-
-plained by describing examples of each kind.
+the two—in the figures represented. This will best be explained by describing examples of each kind.
 
 On Temehri rock, which lies in mid-stream some little
 distance below the Wanitoba cataracts on the Corentyn river,
@@ -18202,13 +16107,10 @@ The Carib word éemehri means ‘painted,’ or perhaps rather
 to the rock.! The engraving represents the single figure, the
 
 
-1 In connection with this word a curious fact is pointed out by Schom-
-burgk. - There is a tree in Guiana called ‘letter-wood’ or ‘ speckle-wood,’
-because of the curious marking of its heart-wood. Harcourt, in his Rela-
-tion of a Voyage to Guiana, published in 1626, says of it, ‘ There is a hard,
+1 In connection with this word a curious fact is pointed out by Schomburgk. - There is a tree in Guiana called ‘letter-wood’ or ‘ speckle-wood,’
+because of the curious marking of its heart-wood. Harcourt, in his Relation of a Voyage to Guiana, published in 1626, says of it, ‘ There is a hard,
 heavy, red-speckled wood in that country, called Paira timinere’ (p. 48).
-Aublet'sscientific name for letter-wood-tree is Pirateneraguianensis. Schom-
-burgk remarks, truly enough, that ‘it is called by the Caribs and Macusis
+Aublet'sscientific name for letter-wood-tree is Pirateneraguianensis. Schomburgk remarks, truly enough, that ‘it is called by the Caribs and Macusis
 
 
 DEEP AND SHALLOW ROCK-ENGRAVINGS, 395
@@ -18237,19 +16139,12 @@ very indistinct, and, except in certain lights, it is almost
 
 
 Patra; and timinere (or timehri) signifies painted ;’ and this writer adds,
-by making a slight error, that this term of ‘ painted ’ is given to it ‘to dis-
-tinguish it from a species which is not speckled.’ Asa matter of fact, the
+by making a slight error, that this term of ‘ painted ’ is given to it ‘to distinguish it from a species which is not speckled.’ Asa matter of fact, the
 name of the letter-wood-tree is simply Paira; and Paira temehri is used
-to distinguish the marked or ‘ painted’ heart-wood from the unmarked sap-
-wood. Bat the important point is, that Aublet made his scientific generio
+to distinguish the marked or ‘ painted’ heart-wood from the unmarked sapwood. Bat the important point is, that Aublet made his scientific generio
 name for the tree by corrupting the Indian term Patra timinere into the
 peeudo-Latin word Piratenora, and thus ran the risk of offering a most hard
 nut to future etymologists to crack,
-
-
-396 AMONG THE INDIANS OF GUIANA.
-
-
 invisible until water has been poured over the surface of the
 rock. To obtain a photograph, it was necessary carefully to
 mark the lines of the figure with white chalk, and one or
@@ -18258,29 +16153,25 @@ not shown in the photograph.
 
 In Downer’s map of Berbice, published in 1844, are
 shown two rock-drawings supposed to occur on Temehri
-island, which is also in the Corentyn river, some little dis-
-tance below Temehri rock. Both of these, as represented
+island, which is also in the Corentyn river, some little distance below Temehri rock. Both of these, as represented
 on the map, are very peculiar. In one, an upright line has
 several volutes starting from each side of it. Nothing of
 this sort occurs elsewhere, either in the shallow or the deep
 drawings. The other is an extraordinary combination—also
-such as has been seen nowhere else—apparently of straight-
-handled tridents. In the map it has a most suspiciously
+such as has been seen nowhere else—apparently of straighthandled tridents. In the map it has a most suspiciously
 modern look, but as after careful search I failed to find any
 such figure on the island—which is very small—I need say
 no more about it. The original of the figure of six volutes
 I found. At first sight it does look as in the map; but if
 carefully traced—for it is very indistinct—it becomes evident
-that it is of quite different nature. Curiously enough, how-
-ever, though, according to depth of gravure, it certainly
+that it is of quite different nature. Curiously enough, however, though, according to depth of gravure, it certainly
 belongs to the shallow class of engravings, yet the figure
 represented bears little resemblance to the figures otherwise
 universal in this class; it must, however, be added that it is
 still more unlike the character of the figures represented in
 the deep engravings. |
 
-Several other shallow drawings, apparently hitherto un-
-recorded, occur on this island. Some are so indistinct that
+Several other shallow drawings, apparently hitherto unrecorded, occur on this island. Some are so indistinct that
 I was unable to decipher and draw them. Another, which
 was almost entirely hidden by a tree which had grown over
 it, and which had to be cut down before the figure became
@@ -18295,15 +16186,13 @@ a large tributary running into the Corentyn on the eastern
 DEEP AND SHALLOW ENGRAVINGS. 397
 
 
-side. At first sight I saw that this engraving, though evi-
-dently of the shallow class, did not represent the normal
+side. At first sight I saw that this engraving, though evidently of the shallow class, did not represent the normal
 figure. It is distinctly visible from a distance, but hardly
 perceptible from any point, but one, near the rock. It is on the
 eastern face of a gneiss boulder—five feet high at its highest
 point and seven and a half feet wide—which stands at the edge
 of the fall, and is partly surrounded by shallow water. When
-the river is full, the rock and the figure must be partly sub-
-merged. The incision is very slight indeed and much worm,
+the river is full, the rock and the figure must be partly submerged. The incision is very slight indeed and much worm,
 indeed some parts of the figure have evidently been worn away.
 After carefully examining the rock from all points of view
 and from all distances, I could trace, partly by sight and
@@ -18312,10 +16201,8 @@ strokes, now almost obliterated, bring the figure very near to
 that represented on Temehri rock.
 
 Scattered along the Corentyn and also on the Berbice
-rivers—in which latter place, however, there are also ap-
-parently examples of deep engravings—are other shallow
-examples, more or less resembling those which I have de-
-scribed. They may, therefore, be said to be confined, as
+rivers—in which latter place, however, there are also apparently examples of deep engravings—are other shallow
+examples, more or less resembling those which I have described. They may, therefore, be said to be confined, as
 regards Guiana, to the eastern district.
 
 They seem always to occur on comparatively large and
@@ -18325,8 +16212,7 @@ other. The shallow figures, too, are generally much larger,
 always combinations of straight or curved lines in figures much
 more elaborate than those which occur in the deep engravings;
 and these shallow pictures always represent not animals, but
-greater or less variations of the figure which has been de-
-scribed. Lastly, though I am not certain that much signifi-
+greater or less variations of the figure which has been described. Lastly, though I am not certain that much signifi-
 cance can be attributed to this, all the examples that I have
 seen face more or less accurately eastward.
 
@@ -18334,18 +16220,11 @@ The deep engravings, on the other hand, consist not of a
 single figure, but of a greater or less number of rude drawings
 (Fig. 36, p. 393). These depict the human form, monkeys,
 snakes, and other animals, and also very simple combinations of
-two or three straight or curved lines in a pattern, and occasion-
-
-
-398 AMONG THE INDIANS OF GUIANA.
-
-
-ally more elaborate combinations. The individual figures are
+two or three straight or curved lines in a pattern, and occasionally more elaborate combinations. The individual figures are
 small, averaging from twelve to eighteen inches in height, but
 a considerable number are generally represented in a group.
 
-Some of the best examples of this latter kind are at War-
-rapoota cataracts, about six days’ journey up the Essequibo.
+Some of the best examples of this latter kind are at Warrapoota cataracts, about six days’ journey up the Essequibo.
 At that place a large number of figures occur scattered over
 the surfaces of a group of granite boulders in the very midst
 of the cataracts. These rocks when the river is high are
@@ -18361,8 +16240,7 @@ surface which now rests on other rocks of the pile; thus
 showing that the blocks are no longer in the position in
 which they were when the drawings were made. Again the
 fact that the blocks, all of which are under water in times of
-high rains, are many of them always below water-mark ex-
-cept in the very driest seasons, affords further strong ground
+high rains, are many of them always below water-mark except in the very driest seasons, affords further strong ground
 for presuming that the rocks have been displaced since the
 engravings were executed.
 
@@ -18370,8 +16248,7 @@ The commonest figures at Warrapoota are figures of men,
 or perhaps sometimes monkeys. These are very simple, and
 generally consist of one straight line, representing the trunk,
 crossed by two straight lines at right angles to the body
-line: one, at about a third of the distance from the top, re-
-presents the two arms as far as the elbows, where upward
+line: one, at about a third of the distance from the top, represents the two arms as far as the elbows, where upward
 lines represent the lower part of the arms; the other, which
 is at the lower end, represents the two legs as far as the
 knees, from which point downward lines represent the lower
@@ -18387,23 +16264,18 @@ THE WARRAPOOTA ENGRAVINGS. 399
 wards as if to represent a long tail. Perhaps the tail-less
 figures represent men, the tailed monkeys. In a few cases
 the trunk, instead of being indicated by one straight line, is
-formed by two curved lines, representing the rounded out-
-lines of the body ; and the body, thus formed, is bisected by
+formed by two curved lines, representing the rounded outlines of the body ; and the body, thus formed, is bisected by
 a row of dots, almost invariably nine in number, which seem
 to represent vertebre.
 
 Most of the other figures at Warrapoota are very simple
 combinations of two, three, or four straight lines, similar to
-the so-called ‘ Greek meander pattern,’ which is of such wide-
-spread occurrence. Combinations of curved lines and simple
-spiral lines also frequently occur. Many of these combina-
-tions closely resemble the figures which the Indians of the
-present day paint on their faces and naked bodies. The re-
-semblance is, however, not so great but that it may be
+the so-called ‘ Greek meander pattern,’ which is of such widespread occurrence. Combinations of curved lines and simple
+spiral lines also frequently occur. Many of these combinations closely resemble the figures which the Indians of the
+present day paint on their faces and naked bodies. The resemblance is, however, not so great but that it may be
 merely due to the fact that the figures are just such simple
 combinations of lines which would occur independently tothe
-rock-engravers and to the body-painters, as to all other un-
-taught designers.
+rock-engravers and to the body-painters, as to all other untaught designers.
 
 At Warrapoota there are only two instances “of figures
 occurring in only a single representation: one of these is a
@@ -18424,9 +16296,6 @@ borately intricate combination of lines (Fig. 38, p. 400). It
 seems that the figure as given by Schomburgk, which is here
 copied, represents only part of the engraving as it really
 appears. The second occurs at the Ilha de Pedra on the
-
-
-400 AMONG THE INDIANS OF GUIANA.
 
 
 Rio Negro; and, therefore, not in British Guiana. But as
@@ -18456,8 +16325,7 @@ AGES OF ROCK ENGRAVINGS. 401
 unimportant. The other figure, on the other hand, is very
 elaborate and curious. Comparing it with the figure of any
 Spanish galley of about the date of the early explorers of
-America, it is, I-think, evident that the Rio Negro rock-
-drawing represents, roughly enough, such a galley (Fig. 40).
+America, it is, I-think, evident that the Rio Negro rockdrawing represents, roughly enough, such a galley (Fig. 40).
 It is a well-known fact that Francisco Orellana, who was
 the first white man who penetrated beyond the mouth of the
 Amazons, in his journey from the Napo, past the Rio Negro
@@ -18475,20 +16343,15 @@ SPaNtit GALLEY (FROM Tow OF CoLUBts).
 The building of this vessel, a.D. 1540, must most strongly
 have impressed the minds of the Indian companions of
 Orellana. It is by no means impossible, therefore, that these
-Indians, on their return home, may have recorded the ap-
-pearance of this most strange canoe on the rock in the Rio
+Indians, on their return home, may have recorded the appearance of this most strange canoe on the rock in the Rio
 Negro. However this may be, it is at least certain that this
 particular rock-engraving must date from about that time.
-One characteristic which these shallow and deep engrav-
-ings seem to have in common is that they always—or nearly
+One characteristic which these shallow and deep engravings seem to have in common is that they always—or nearly
 always, for there is said to be an exception in the Pacaraima
 mountains—occur near water, and, as I believe, near a
 waterfall or cataract. There is indeed another possible
 exception, mentioned by Mr. Brown, in the district of the
 DD
-
-
-402 AMONG THE INDIANS OF GUIANA.
 
 
 Cotinga, where he observed figures of suns, curved snakes,
@@ -18508,23 +16371,19 @@ The many differences seem sufficient to show that the
 two kinds are the: work of different people, and have different
 intentions. |
 
-No satisfactory theory as to the origin of these rock-
-pictures has ever been formed. The Indians of the present
+No satisfactory theory as to the origin of these rockpictures has ever been formed. The Indians of the present
 day know nothing about them; and if they ever speak
 of them, tell some such story as that ‘women made
-them,’ or that they are the work of Makenarma Moo-
-moo (God’s Son), who when he wandered about on earth,
+them,’ or that they are the work of Makenarma Moomoo (God’s Son), who when he wandered about on earth,
 drew them with the point of his finger on the rock. It
-is hardly necessary to point out that the latter quasi-
-tradition has not even the merit of antiquity; for it must
+is hardly necessary to point out that the latter quasitradition has not even the merit of antiquity; for it must
 have originated after white missionaries came into South
 . America and there first told the story of Christ. On the
 Orinoco Humboldt was told by the Indians that their fathers
 made them long ago, when the water was higher and they
 could reach these now inaccessible places in canoes. These
 and similar explanations have been given in other parts of
-South America and elsewhere. Every one of such state-
-ments may, however, be disregarded as merely due to the
+South America and elsewhere. Every one of such statements may, however, be disregarded as merely due to the
 inveterate Indian habit of having an answer, indifferently
 true or invented, for every question.
 
@@ -18543,8 +16402,7 @@ has described and figured a very large number of examples
 of ‘petroglyphs,’ as he calls rock-drawings, apparently
 identical in many points, from America, Europe, Africa,
 Asia, and Australia. And having, with some show of reason,
-indicated something in common in all these, he then pro-
-ceeds to identify them with all the figures which, under
+indicated something in common in all these, he then proceeds to identify them with all the figures which, under
 conditions of civilisation such as those under which we live,
 boys cut with their pocket-knives on the desks and walls
 of their schoolrooms, and also with those which adults of
@@ -18552,8 +16410,7 @@ brutal mind scrawl on the walls of lanes and retired places
 Thus he thinks that one and the same purpose is to be
 attributed to the rock-drawings of uncivilised folk, to the
 names and figures which Eton boys write, or cause to be
-written, on the walls of their sixth-form room, to the draw-
-ings with which roughs deface the walls of public places, and
+written, on the walls of their sixth-form room, to the drawings with which roughs deface the walls of public places, and
 even to the names, verses, or designs which the witless
 tourist puts in visitors’ books or scratches in places the
 beauty or interest of which attracts ‘such folk. All these
@@ -18562,8 +16419,7 @@ insignificant instinct which impels the human animal to make
 his mark.
 
 While accepting with gratitude this author’s collection
-of facts and, above all, of figures, we may I think unhesi-
-tatingly reject his final conclusion. It is sufficient to
+of facts and, above all, of figures, we may I think unhesitatingly reject his final conclusion. It is sufficient to
 remember the enormous amount of time and labour which
 these rock-engravings must have cost, necessarily executed
 as they were, in Guiana at least, without the aid of any but
@@ -18574,14 +16430,8 @@ when he spends weeks in ornamenting a war-club which, as
 soon as it is finished, he exchanges, perhaps, for some arrow or
 
 
-! Ethnographische Parallelen und Vergleiche, by Richard Andrée (Stutt-
-
-
-gart, 1878), pp. 258-299.
+! Ethnographische Parallelen und Vergleiche, by Richard Andrée (Stuttgart, 1878), pp. 258-299.
 DD2
-
-
-404 AMONG THE INDIANS OF GUIANA.
 
 
 ornament representing hardly an hour’s work—it is yet
@@ -18598,8 +16448,7 @@ absolutely contrary to Indian habit to make rock-engravings
 from mere idleness. But there is other evidence to show
 that these engravings had some meaning no longer apparent.
 The similarity of some of the figures, such as those of men and
-other animals, of circles and waving lines, is evident through-
-out the rock-drawings of the world: these things are either
+other animals, of circles and waving lines, is evident throughout the rock-drawings of the world: these things are either
 more or less rude representations of such animal forms as are
 indigenous to the country in which the representations are, or
 are very simple combinations of lines; in either case these
@@ -18645,8 +16494,7 @@ abundance and almost exclusively. This cannot have been
 the mere representation of anything visible to the maker
 and the abundance of its occurrence necessarily suggests that
 it must have had a use or intention. Andrée himself admits
-this : “ Jedenfalls ‘ist aber sicher, dass gegeniiber dem stil-
-losen Charakter der meisten tibrigen Felsritzungen, diese von
+this : “ Jedenfalls ‘ist aber sicher, dass gegeniiber dem stillosen Charakter der meisten tibrigen Felsritzungen, diese von
 Northumberland, etc., die nach einem ganz bestimmten
 System ausgeftihrt sind und durch die regelmissige
 Wiederholung einer und derselben Form. : . . sich
@@ -18658,31 +16506,24 @@ ulterior object and meaning. Now the figure which I have
 described as occurring in the shallow engravings of Guiana
 is of such kind. It is not a figure which an Indian would
 be likely to invent in an idle moment even once; for such
-aman very seldom, probably never, except in these parti-
-cular figures, has been known to draw straight lines. More-
+aman very seldom, probably never, except in these particular figures, has been known to draw straight lines. More-
 over, even if it were a figure that one Indian might idly
 invent, it is certainly highly improbable that this would be
 copied by many other Indians in various places. And lastly,
 a figure strikingly like the one in question, if indeed it is
 not identical, occurs in certain Mexican picture-writings.
 For example, in the Bodleian library is a Mexican MS. in
-which occur several figures so like that of the shallow en-
-gravings of Guiana that there can be but little doubt of
+which occur several figures so like that of the shallow engravings of Guiana that there can be but little doubt of
 their connection (Fig. 41, p. 406).? The recurrence of this
 _ peculiar figure in these writings is surely sufficient evidence
-
 of the fact that they are not without intention. . If it were
 possible to obtain a clue to the meaning of the Mexican
 
 
 ' Andrée, p. 267.
 
-2 These Mexican figures are reproduced in Lord Kingsborough’s Anti-
-quities of Mexico, vol. i.; from Sir Thomas Bodley’s MSS., pp. 22, 23,
+2 These Mexican figures are reproduced in Lord Kingsborough’s Antiquities of Mexico, vol. i.; from Sir Thomas Bodley’s MSS., pp. 22, 23,
 and from the Selden MSS., also in the Bodleian, p. 3.
-
-
-406 AMONG THE INDIANS OF GUIANA.
 
 
 figures, it might serve as a key to decipher the hieroglyphic
@@ -18693,8 +16534,7 @@ the identity in intention, or no intention, of rock-engravings
 and schoolboy scribblings, we may yet get much good from
 his book. He well shows that, beside the similarity, to
 which we have already alluded, of some of the figures, there
-are several other striking features common to the rock-
-engravings of Guiana and those of the rest of the world.
+are several other striking features common to the rockengravings of Guiana and those of the rest of the world.
 These are worth examination.
 
 First, two facts are noticeable as to the position of these
@@ -18737,8 +16577,7 @@ fall or rapid in Guiana which is not associated in the mind
 of the Indian with some canoe accident, in which men of his
 race have been drowned; and it is therefore not surprising
 that it is generally on the rocks over or through which the
-water falls that these engravings generally appear. More-
-over, there is yet another fact connected with the same
+water falls that these engravings generally appear. Moreover, there is yet another fact connected with the same
 circumstance which is worthy of notice. In an earlier
 chapter it has been told, that at certain seasons of the year
 large parties of Indians gather at the falls to procure certain
@@ -18756,8 +16595,7 @@ into the rock, and used as steps; and that the same
 traveller actually saw such stone wedges in position (solche
 eingetriebene Steinkeile) on the Yenissei.
 
-Another set of facts reported by Andrée of rock-engra-
-vings in general—especial mention being made in this respect
+Another set of facts reported by Andrée of rock-engravings in general—especial mention being made in this respect
 of the Guiana examples—is that the art of making them has
 
 
@@ -18765,14 +16603,10 @@ of the Guiana examples—is that the art of making them has
 &c. (Stockholm, 1730), p. 337. Quoted by Andrée, p. 297.
 
 
-408 AMONG THE INDIANS OF GUIANA.
-
-
 been lost ; that their origin has been quite forgotten ; and that
 they are rarely, if ever, regarded with superstition. Where
 they occur in countries long civilised, as in England, this fact
-is only part of the wider fact that the habits of the primitive in-
-habitantsof that country have been forgotten. That the art has
+is only part of the wider fact that the habits of the primitive inhabitantsof that country have been forgotten. That the art has
 been lost and the origin forgotten in countries first visited
 by civilised men in recent times, and then found to be stil)
 in the stone age, is easily explained. They can, wherever
@@ -18781,30 +16615,23 @@ working stone, which is not lineally connected with the
 stone-cutting of civilised communities, was practised. This
 art would naturally be used principally for the production of
 necessary stone implements, and only secondarily for the
-production of rock-engravings, which cannot have been ab-
-solutely necessary to life. On the arrival of civilised men
+production of rock-engravings, which cannot have been absolutely necessary to life. On the arrival of civilised men
 in any savage community, implements of metal rapidly spread
 in the latter, and the necessity, and consequently the art, of
 making stone implements dies out; and this same art, being
 no longer used for the production of necessaries, is naturally
-not retained for the mere purpose of producing rock-engra-
-vings, since the savage soon finds that he can live without
-these. Again, this art is thus destroyed by the indirect in-
-fluence of the civilised new-comers long before these new-
+not retained for the mere purpose of producing rock-engravings, since the savage soon finds that he can live without
+these. Again, this art is thus destroyed by the indirect influence of the civilised new-comers long before these new-
 comers so blend with the natives that the latter acquire from
 the former the habit of history ; so that by the time the
 natives, if they survive, are able to communicate intelligibly
 with the strangers, they have naturally entirely forgotten the
-very existence and reason of any art, whether of rock-en-
-graving or of anything else, which their ancestors, though
+very existence and reason of any art, whether of rock-engraving or of anything else, which their ancestors, though
 perhaps not many generations back, relinquished. Stone
-implements are still made in some countries, and it is pos-
-sible that in these the art of rock-engraving, and the know-
-ledge of its purpose, may survive. The fact that rock-
-engravings are found in many scattered parts of the world
+implements are still made in some countries, and it is possible that in these the art of rock-engraving, and the know-
+ledge of its purpose, may survive. The fact that rockengravings are found in many scattered parts of the world
 by no means proves that such must occur in all; so that if
-in countries in which the stone age still prevails the prac-
-tice of rock-engraving has not been observed, this fact in no
+in countries in which the stone age still prevails the practice of rock-engraving has not been observed, this fact in no
 
 
 ORIGIN OF ROCK ENGRAVINGS. 409
@@ -18820,20 +16647,17 @@ every nook and corner, the stone age must necessarily die
 out. The statement that rock-engravings are not regarded (as
 might be expected if they had any intention and were not
 mere idle diversions) with superstition, even in countries
-where, if they were made up to the time at which the stone-
-age there ceased, they must still have been comparatively
+where, if they were made up to the time at which the stoneage there ceased, they must still have been comparatively
 recently made, is to be met in two ways. In the first place
 the statement is not true of Guiana, for almost the only
 superstitious rite practised by the Indians—the rubbing of
 red-pepper juice into the eyes'—is practised especially in the
 presence of.engraved rocks. And secondly, even if these
 rocks are not regarded with superstition, as may be the case
-in places, this is no proof that the drawings had no com-
-memorative significance, for in that case no superstition
+in places, this is no proof that the drawings had no commemorative significance, for in that case no superstition
 would necessarily be connected with them, nor even that
 they had no religious significance, but is only evidence
-that the cause of their making has been entirely for-
-gotten.
+that the cause of their making has been entirely forgotten.
 
 Last. of all, the facts that we may here gather from
 Andrée’s pages and notice is that, as in Guiana, so in
@@ -18851,11 +16675,7 @@ lost, a habit was substituted, and retained for a short time, of
 1 See ante, p. 368.
 
 
-410 AMONG THE INDIANS OF GUIANA.
-
-
-painting, since it was no longer possible to engrave, the cus-
-tomary figures.
+painting, since it was no longer possible to engrave, the customary figures.
 
 It may be as well briefly to sum up the few facts that
 can be said, with any probability, of these rock-pictures in
@@ -18872,8 +16692,7 @@ not perhaps in the same relative positions as at present.
 The art of stone working being destroyed by the arrival of
 Europeans, the practice of rock-engraving ceased. Possibly
 the customary figures were for a time painted instead of
-engraved; but this degenerated habit was also soon re-
-linquished. As to the intention of the figures, that they had
+engraved; but this degenerated habit was also soon relinquished. As to the intention of the figures, that they had
 some seems certain, but of what kind this was is not clear.
 Finally, these figures really seem to indicate some very
 slight connection with Mexican civilisation.
@@ -18883,8 +16702,7 @@ SHELL-MOUNDS.
 
 
 After the rock-drawings the shell-mounds claim attention.
-These are very similar in structure and contents to the well-
-known kitchen-middens of Europe; but those of Guiana
+These are very similar in structure and contents to the wellknown kitchen-middens of Europe; but those of Guiana
 were made at a much later time than were those in Europe.
 The earlier stages of civilisation through which a people
 passes are much the same in all parts of the world and at all
@@ -18919,36 +16737,26 @@ The Indians of Guiana still throw fish-bones and all
 their uncovered feet into some definite place; but, except
 -among the Warraus, no special place is long used for the
 refuse of a whole settlement, and so no large collections of
-refuse, such as might in after times be recognised as kitchen-
-middens, are formed. That their ancestors, or predecessors
+refuse, such as might in after times be recognised as kitchenmiddens, are formed. That their ancestors, or predecessors
 ‘in the same country, were not in the habit, at least in the
-ordinary course of their lives, of accumulating large kitchen-
-middens is evident from the fact that all such heaps found
+ordinary course of their lives, of accumulating large kitchenmiddens is evident from the fact that all such heaps found
 in Guiana occur within a certain small and comparatively
 little-known district, north of the Pomeroon, while through-
 -out the rest of the country, even in the thoroughly explored
 -coast-region, no traces of such heaps have been found. It
-is true that it was reported, some years ago, that a shell-
-mound had been found at Skeldon, at the other extremity
+is true that it was reported, some years ago, that a shellmound had been found at Skeldon, at the other extremity
 -of the colony, on the borders of Dutch Guiana. Having
 -after some difficulty traced the history of this report, I
 found that the so-called shell-mound was in reality only
 ’ -a natural sand-reef, on which, as is remembered by people
 still alive, the Indians who came annually from the interior
 ‘to town, to receive the presents then allowed them by the
-government, used to encamp on the journey. The state-
-ment that all the known kitchen-middens are in the district
-
-
-412- AMONG THE INDIANS OF GUIANA.
-
-
+government, used to encamp on the journey. The statement that all the known kitchen-middens are in the district
 between the Pomeroon and the Orinoco is therefore abso—
 lutely true. The fact that the Indians, though there is no
 reason to suppose that their habits have changed, do not, as
 a rule, accumulate these heaps, and that those which occur
-are all within a special district, seems to indicate that some-
-special circumstance at one time induced a group of the
+are all within a special district, seems to indicate that somespecial circumstance at one time induced a group of the
 Indians to make these large heaps. What this special
 circumstance was, I think, we shall be able to read by
 careful observation of the known facts.
@@ -18959,8 +16767,7 @@ Pomeroon; two on the Waini; and one on the Moraybo, a
 river north of the Pomeroon, between the Waini and the
 Barima. In the latter district the Indians say that there
 are many more, and as that country is almost unknown,.
-it may be so. Nearest to the coast is the mound at Warra-
-moori on the Morooca, a river which runs into the sea side
+it may be so. Nearest to the coast is the mound at Warramoori on the Morooca, a river which runs into the sea side
 by side with the Pomeroon. Further from the sea, and some
 distance up the Pomeroon, two mounds lie close together
 at Sireeki and Warrapana; the fourth is at the mission
@@ -19000,8 +16807,7 @@ to Sir John Lubbock, who deposited some of the implements
 in the Christy collection.
 
 Early in the following year the mound at Sireeki was
-measured and opened, though, I believe, not under the per-
-sonal superintendence of an educated man. The mound at
+measured and opened, though, I believe, not under the personal superintendence of an educated man. The mound at
 Cabacaboori was searched at various times by Mr. Brett; and
 in the autumn of 1877 I devoted two days to excavating this
 mound in a new place. About the same time I was present
@@ -19011,8 +16817,7 @@ the mound on the Pawaiéykémoo. This is, I believe, a full
 list of all attempts that have yet been made to search these
 shell-mounds of Guiana.
 
-The mounds vary considerably in size. That at Warra-
-moori is about 20 to 25 feet in height with a diameter of
+The mounds vary considerably in size. That at Warramoori is about 20 to 25 feet in height with a diameter of
 about 130 feet.
 
 The mound at Sireeki, which must be far the largest
@@ -19033,13 +16838,7 @@ are alike in character and contents. They consist chiefly of
 great accumulations of a small snail-like black and white
 shell (Neritina lineolata). In some the more decayed state
 of the shells and other refuse, even in the uppermost strata,
-
-
-414 AMONG THE INDIANS OF GUIANA.
-
-
-seems to indicate a somewhat greater age. The mass‘evi-
-dently lies in more or less distinct layers, between each two
+seems to indicate a somewhat greater age. The mass‘evidently lies in more or less distinct layers, between each two
 of which is a thin stratum of a hard, apparently burned,
 substance.
 
@@ -19065,8 +16864,7 @@ Among the shells which constitute the bulk of the mounds,
 have been found various objects deserving attention. In the
 Cabacaboori mound, among the vast accumulation of one
 species of shells, but in far less abundance, were some bivalve
-shells (Zucina), a few oyster-shells and fragments of a fresh-
-water shell, common in the river at the present day, and
+shells (Zucina), a few oyster-shells and fragments of a freshwater shell, common in the river at the present day, and
 called by the Indians Kee-way, together with pieces of
 crab-shells, bones of fish and of mammals, and lastly—and
 most important—human bones. These bones are invariably
@@ -19075,15 +16873,13 @@ split, so as to allow of the extraction of the marrow. There
 were also some broken, and a few entire, stone implements,
 hammers probably and axe-heads, pieces of charcoal, and lumps
 of the red pigment called faroah, with which the Indians
-paint their bodies. Great quantities of sharp-edged frag-
-ments of white semi-transparent quartz were also present.
+paint their bodies. Great quantities of sharp-edged fragments of white semi-transparent quartz were also present.
 
 
 CONTENTS OF SHELL-MOUNDS. 415
 
 
-: The shape of these and the fact that they do not occur natu-
-rally in the immediate neighbourhood, seems to suggest
+: The shape of these and the fact that they do not occur naturally in the immediate neighbourhood, seems to suggest
 that they were used as implements, probably as knives, for
 which purpose they must have been brought from a distance.
 These objects occur in more or less abundance in all the
@@ -19093,8 +16889,7 @@ abundantly in those nearer the Orinoco. But besides these
 objects which occur in all the mounds, a few peculiar examples
 were found, and peculiar features noticed in some. For
 instance,.at Cabacaboori, Mr. Brett found two small silver
-ornaments very similar to ear-
-rings, and still more to the
+ornaments very similar to earrings, and still more to the
 nose-pieces worn by some of
 the Savannah Indians at the
 present day; and in the same
@@ -19114,10 +16909,8 @@ recorded as discovered in a Guiana shell-mound. In the
 Sireeki mound it is worth notice that among other human
 bones was found one skull, in twenty-seven pieces, which
 was afterwards fitted together, and proved to be perfect but
-for a hole in the top apparently made by some such imple-
-ment as a stone hatchet. In the Piracca mound, at a depth
-of three feet from the surface, I found the stem of a tobaeco-
-pipe of European manufacture, which is conclusive evidence
+for a hole in the top apparently made by some such implement as a stone hatchet. In the Piracca mound, at a depth
+of three feet from the surface, I found the stem of a tobaecopipe of European manufacture, which is conclusive evidence
 that this mound at least was added to after Europeans first
 
 
@@ -19125,9 +16918,6 @@ Fic. 42.
 
 
 EAR-RINGS.
-
-
-416 AMONG THE INDIANS OF GUIANA.
 
 
 reached America. The only specially noticeable peculiarity
@@ -19146,8 +16936,7 @@ arranged in layers, the upper surface of each of which has
 been hardened, apparently by the action of fire; that a few
 other shells are included, and especially of an oyster, which
 occurs more and more abundantly in the mounds the nearer
-these are to the Orinoco; that stone implements occur com-
-paratively in abundance, but that domestic implements, in-
+these are to the Orinoco; that stone implements occur comparatively in abundance, but that domestic implements, in-
 eluding pottery, and body ornaments, are almost entirely
 absent ; that remains of mammals occur, but in strikingly
 less quantity than relics of molluscs and fish; and that
@@ -19155,8 +16944,7 @@ human bones occur in a condition which clearly indicates
 cannibalism. —
 
 Such are the facts concerning these mounds, and an attempt
-must now be made to infer from these something of their his-
-tory. It may be as well to state at once that the natural con-
+must now be made to infer from these something of their history. It may be as well to state at once that the natural con-
 clusions are (1) that they were made not by the resident
 inhabitants of the country, but by strangers ; (2) that these
 strangers came from the sea and not from further inland ;
@@ -19176,36 +16964,30 @@ THE MAKERS OF SHELL-MOUNDS. —  «4l?
 
 
 That the mound-makers were strangers is shown in this
-way. The stratification of these mounds, which has been de-
-scribed, points to the likelihood that the places were not con-
+way. The stratification of these mounds, which has been described, points to the likelihood that the places were not con-
 tinuously, but repeatedly, occupied. Each layer probably
 consists of the refuse thrown away during one single visit.
 The fires made for cooking on each occasion on the surface
-of the layer deposited on the previous occasion would, to-
-gether with the action of the weather on that surface in the
+of the layer deposited on the previous occasion would, together with the action of the weather on that surface in the
 interval, harden the top of the layer and produce such strata
 as actually occur. The scarcity of the bones of mammals is
 further evidence of the same fact. Indians invariably prefer
 flesh as food, and are only driven to live upon molluscs by
-
 inability to procure meat.- Now game is still abundant in
 the mound district, and was, presumably, yet more abundant
 formerly. But, as I have often experienced with discomfort,
 Indians, capital hunters as they are at home, cannot hunt in
 astrange country; even only fifty miles from their homes.I
 have known them declare their ignorance of the country as.
-an excuse for their failure to obtain game. The natural in-
-ference from these facts is that the mound-makers were
+an excuse for their failure to obtain game. The natural inference from these facts is that the mound-makers were
 strangers who were driven by their ignorance of the country
 to feed upon what they could most readily procure—that is,
 upon molluscs and fish.
 
-The almost entire absence of pottery is yet further evi-
-dence. Indians, when at home, almost invariably boil their
+The almost entire absence of pottery is yet further evidence. Indians, when at home, almost invariably boil their
 meat, and keep their supply of water, in clay vessels; but
 when travelling, they carry no pottery with them, but cook
-their meat by roasting it on split sticks; and, if it is abso-
-lutely necessary to carry any supply of water with them,
+their meat by roasting it on split sticks; and, if it is absolutely necessary to carry any supply of water with them,
 keep it in hollow gourds. If, therefore, the mound-makers
 had been at home, fragments of pottery would certainly have
 occurred ; but if, as I suppose, they were travellers, this at
@@ -19218,29 +17000,21 @@ residents.
 EE
 
 
-418 AMONG THE INDIANS OF GUIANA.
-
-
 They were not only strangers, but strangers in a hostile
 country. This is indicated by the positions of the mounds ;
-for, with the exception'of those at Warramoori and Cabaca-
-boori, which are in strong positions on two of the very few
+for, with the exception'of those at Warramoori and Cabacaboori, which are in strong positions on two of the very few
 hills in the district, they all stand in swamps, on islands of
 firm ground which might easily be temporarily defended.
 The need of defence against the people of the country, and
 of fresh water for their meals, seem to have been the chief
-points which regulated the choice of sites for these tem-
-porary camps. The same circumstance is also indicated by
+points which regulated the choice of sites for these temporary camps. The same circumstance is also indicated by
 the large quantities of human bones which occur mingled
 with the refuse of countless meals. These were not placed
-there in the ordinary course of burial, for not whole skele-
-tons, but only separate scattered bones, are found. The
+there in the ordinary course of burial, for not whole skeletons, but only separate scattered bones, are found. The
 skull, already mentioned, on which was the mark of a
-murderous blow from some instrument, confirms this. More-
-over, these bones are found at a greater depth than would be
+murderous blow from some instrument, confirms this. Moreover, these bones are found at a greater depth than would be
 the case if they had been placed there in burial; and they
-have been broken, as is the case with the bones in the kitchen-
-middens of Europe, evidently to allow the marrow, of which
+have been broken, as is the case with the bones in the kitchenmiddens of Europe, evidently to allow the marrow, of which
 all Indians are very fond, to be extracted. But as each
 Indian tribe lives in a separate district, within which come
 no interlopers of any other tribe, and as the tribal feeling is
@@ -19256,8 +17030,7 @@ were marauders in a hostile country.
 
 That these stranger mound-makers came from the sea
 seems probable from the fact that they lived, at least during
-their stay in those parts, largely on the sea-fish, of the rem-
-nants of which the mounds are in great part formed. Of all
+their stay in those parts, largely on the sea-fish, of the remnants of which the mounds are in great part formed. Of all
 the mounds, that at Warramoori, which is only two or three
 
 
@@ -19266,8 +17039,7 @@ THE MAKERS OF SHELL-MOUNDS., 419
 
 hours’ pull from the mouth of the Morooca, is the only one
 near the sea; the others are at a considerable distance, more
-or less great, up the rivers. From the occurrence of the sea-
-shells it is evident that the mound-makers made frequent
+or less great, up the rivers. From the occurrence of the seashells it is evident that the mound-makers made frequent
 long journeys between the sea and the sites of their camps.
 Now it is far more likely that strangers making raids into the
 interior carried with them large stores of sea-fish as food,
@@ -19300,14 +17072,10 @@ This would be the district in which the shell-mounds occur,
 and the mounds apparently date from a time just about that
 at which the Carib immigration took place, which was about
 the time of the discovery of Guiana, between three and four
-centuries ago. The state of the materials of the mounds cer-
-tainly does not indicate an earlier date, but rather that the
+centuries ago. The state of the materials of the mounds certainly does not indicate an earlier date, but rather that the
 mounds, though perhaps begun some four centuries ago,
 
 BE2 |
-
-
-420 AMONG THE INDIANS OF GUIANA.
 
 
 were possibly not finished till considerably later. The
@@ -19332,8 +17100,7 @@ Some slight evidence is also afforded by the fact that.
 the True Caribs are in the habit of eating certain animals
 which most Indians hold unclean and will not touch, and
 that the remains of these unclean animals—for example,
-those of the sting-ray—are amongst the commonest econstitu-
-ents of the mounds. In short, there can be little doubt that
+those of the sting-ray—are amongst the commonest econstituents of the mounds. In short, there can be little doubt that
 the mounds were made by the Caribs at the time when they
 were passing from the islands, but ‘had not yet permanently
 settled on the mainland.
@@ -19342,13 +17109,11 @@ Lastly, it is almost an historic fact that the True Caribs
 did not come, once for all, in a body to the mainland and
 there remain; but that they were in the habit of
 passing to and from the mainland in their raids from the
-islands, and only gradually settled in Guiana. This satis-
-factorily accounts both for the stratification of the mounds— —
+islands, and only gradually settled in Guiana. This satisfactorily accounts both for the stratification of the mounds— —
 each layer representing one visit—and for the fact that the
 mounds are most abundant near the Orinoco—that. is, at the
 point at which the marauders first landed ; and are less and
-less common further away from this point—that is, in pro-
-portion as each part of the country was less and less easily
+less common further away from this point—that is, in proportion as each part of the country was less and less easily
 reached by these Caribs.
 
 
@@ -19388,16 +17153,12 @@ made by Caribs from the West Indian islands. If g0, it
 might @ priors be supposed that the implements occurring
 in the shell-mounds would be identical in form with those
 of Carib origin from the islands. But if an equal number
-from each of the two sources is compared in some Euro-
-pean museums, it appears that those from the islands are
+from each of the two sources is compared in some European museums, it appears that those from the islands are
 far more elaborately finished and far more ornamental in
 shape. The explanation of this fact is, 1 think, simple, and
 will throw some light on a habit of the Caribs, and probably
 of other users of stone implements. The Indians of Guiana
 still often spend their leisure time in making comparatively -
-
-
-422 AMONG THE INDIANS OF GUIANA.
 
 
 highly ornamental weapons (though these are no longer of
@@ -19410,8 +17171,7 @@ it with them; and it has been shown that this modern
 habit of the Indians almost certainly prevailed among the
 old mound-makers. This points to the likelihood that the
 Caribs, on their predatory raids from the islands to the
-mainland, carried with them only their less elaborate imple-
-ments. It is these, therefore, that occur in the shell-
+mainland, carried with them only their less elaborate implements. It is these, therefore, that occur in the shell-
 mounds. But if this is so, it is evident that among the
 elaborate implements from the islands ought to be found
 others of simpler form, corresponding to those from the
@@ -19431,8 +17191,7 @@ Carib branch—first entered Guiana, and was the place where
 they had to fight for footing among the hostile natives.
 These implements are also remarkably abundant about a
 small spot in the interior called by the Indians Toocano,
-on the Brazilian side of the Takootoo river. A possible ex-
-planation of this latter fact may be that at Toocano was once
+on the Brazilian side of the Takootoo river. A possible explanation of this latter fact may be that at Toocano was once
 a manufactory of such things. It has already been stated
 that each tribe in Guiana does not make for itself all that it
 requires, but has some special object which it manufactures
@@ -19450,8 +17209,7 @@ one of which may have had its home at Toocano.!
 The third set of stone implements is composed of those
 which are found at the present time stored among the odds
 and ends in the possession of Indians. These are now never
-used for their original purpose, though I have seen stone-
-pointed arrows in use, but only as toys. There are probably
+used for their original purpose, though I have seen stonepointed arrows in use, but only as toys. There are probably
 two reasons for the retention of these implements now that
 their original use has disappeared. In the first place, stone
 axe-heads are now chiefly valued and kept by the Indians as
@@ -19462,13 +17220,11 @@ the second place, some superstitious value seems to be
 attributed to these stones. They are sometimes to be found
 among the separately kept personal properties of men; in
 which cases they cannot be potters’ implements, as that art is
-practised only by the women. Moreover, a considerable num-
-ber of these implements are found more or less ornamented
+practised only by the women. Moreover, a considerable number of these implements are found more or less ornamented
 with colouring matter—sometimes merely a coating of the red
 pigments (faroah or caraweera) ordinarily used by the Indians,
 but sometimes, as in an example in the Christy collection,
-with a somewhat elaborate pattern, of indubitable Indian exe-
-cution. The useless preservation of these stones by men,
+with a somewhat elaborate pattern, of indubitable Indian execution. The useless preservation of these stones by men,
 and their occasional ornamentation, seem to indicate that
 some special value, not dependent on their usefulness, is
 
@@ -19484,20 +17240,13 @@ of the individual, are probably merely naturally water-worn porphyry
 pebbles, such as occur in large numbers in the beds of certain rivers
 in the interior of Guiana, and, because of their smoothness, are collected
 by the Indians and used as polishing implements for clay; at least, that is
-
-
 the use to which they are now put, and such 1 is the explanation given me
 by the Indians themselves.
 
 
-424 AMONG THE INDIANS OF GUIANA.
+attached to them ; and this value can hardly but be superstitious.
 
-
-attached to them ; and this value can hardly but be super-
-stitious.
-
-Though these implements have thus been roughly classi-
-fied according to their present mode of occurrence, it must
+Though these implements have thus been roughly classified according to their present mode of occurrence, it must
 not be supposed that any real difference in character, either
 as regards form or degree of finish, marks the three classes.
 At one time I thought that those from the shell-mounds
@@ -19517,15 +17266,13 @@ shape, though slightly variable, has been well compared to
 that of the section of a ‘ button mushroom,’ cut from the apex
 of the cap down through the stem. Further allusion will
 presently be made to the groove or notch on each side of the
-stone. Implements of this form, though they occur else-
-where, are especially abundant in the shell-mounds, from
+stone. Implements of this form, though they occur elsewhere, are especially abundant in the shell-mounds, from
 which circumstance, as from the fact that they can hardly
 have been very formidable as weapons, it seems not unlikely
 that they were domestic implements such as would be used
 for pounding, etc., for cracking shells of molluscs and bones
 of animals.' No. 1 is only less abundant in Guiana, but isa
-far commoner type elsewhere. This, too, occurs in the shell-
-mounds, as a surface implement, and in the possession of
+far commoner type elsewhere. This, too, occurs in the shellmounds, as a surface implement, and in the possession of
 Indians.
 
 No. 2 is somewkat similar in shape to the last type, but
@@ -19534,8 +17281,7 @@ knife, and in all the examples, not few in number, that I
 have seen of this type, the narrow end—that which was un-
 
 
-' This form seems to correspond closely with the ‘hammer’ repre-
-sented on the left in fig. 11 of Wilson’s Prehistoric Man (London, 1865).
+' This form seems to correspond closely with the ‘hammer’ represented on the left in fig. 11 of Wilson’s Prehistoric Man (London, 1865).
 
 
 Fig.
@@ -19557,8 +17303,7 @@ TYPICAL STONE IMPLEMENTS. 425
 
 
 doubtedly attached to the handle—is peculiarly fractured.
-The chief interest of this latter fact is that, I think, it indi-
-cates the exact use of these blades and an unusual mode of
+The chief interest of this latter fact is that, I think, it indicates the exact use of these blades and an unusual mode of
 attachment to the handle. The chief weapons of war of the
 Indians are the clubs (¢2kz) of heavy wood, which have already
 been described. The habit of inter-tribal war having
@@ -19599,12 +17344,8 @@ The handle is of light wood, which would certainly split
 stones stuck in its handle. See p. 300, ante.
 
 
-426 AMONG THE INDIANS OF GUIANA.
-
-
 closer attention shows that the blade is fastened into the
-handle just as appears to have been the case in the war-
-clubs.
+handle just as appears to have been the case in the warclubs.
 
 No. 4 is a small, but beautifully finished, grooved blade.
 These grooves, or, to use a more expressive word, notches,.
@@ -19635,10 +17376,8 @@ would make a formidable offensive weapon when the holder
 was at close quarters with his antagonist. Mr. Tylor has
 pointed out to me that some Indians, I believe in British
 Columbia, have been seen to fight with stones thus grasped
-in the hand, and that this is done with such agility and dex-
-terity that the Indian with but a stcne in his hand can be
-formidable to an opponent armed with a revolver. My im-
-plement was possibly used in this way.
+in the hand, and that this is done with such agility and dexterity that the Indian with but a stcne in his hand can be
+formidable to an opponent armed with a revolver. My implement was possibly used in this way.
 
 No. 7 is in shape so strikingly like an ordinary European
 hatchet-blade that it is undoubtedly a copy in stone of such a
@@ -19650,22 +17389,19 @@ STONE COOKING SLABS, . 427
 
 while the art of stone-working was still well understood. It
 may, therefore, be assumed that it was made after the
-arrival of Europeans, but before these new comers had de-
-stroyed the stone age—or probably in the sixteenth century.
+arrival of Europeans, but before these new comers had destroyed the stone age—or probably in the sixteenth century.
 It probably corresponds in date with the rock-engraved
 figure of a European galley, of which mention has been
 made.
 
 One kind of stone utensil which sometimes occurs, and is
 still in use in very remote parts of the country, deserves
-mention. This is the cooking slab on which their flat oat-
-cake-like cassava bread is cooked. At the present time
+mention. This is the cooking slab on which their flat oatcake-like cassava bread is cooked. At the present time
 Indians generally use a circular iron griddle of European
 manufacture for this purpose; but before they were able to
 procure this, they chose the flattest slabs of stone, generally
 sandstone, and baked their bread on these. Even now the
-Arecunas near Roraima—as probably also the yet more re-
-mote tribes—who seldom or never visit town, and who live in
+Arecunas near Roraima—as probably also the yet more remote tribes—who seldom or never visit town, and who live in
 a sandstone region, use these stone slabs. These are so
 highly valued that it is difficult to persuade an Indian to
 part with one. The only example I was able to procure
@@ -19679,8 +17415,7 @@ STANDING STONES.
 
 
 The two traces of old Indian life which yet remain to be
-mentioned are both given on the authority of Mr. C. Bar-
-rington Brown. One is a circle of standingstones. Of this
+mentioned are both given on the authority of Mr. C. Barrington Brown. One is a circle of standingstones. Of this
 Mr. Brown says, ‘In the Pacaraima mountains, between the
 villages of Mora and Itabay, the path passes through a circle
 of square stones placed on one end, one of which has a carv-
@@ -19689,15 +17424,11 @@ very like that on Stanton Moor, shown in Ferguson’s ‘ Rude
 Stone Monuments.’
 
 
-428 AMONG THE INDIANS OF GUIANA.
-
-
 SITES OF ANCIENT VILLAGES.
 
 
 Many examples of ancient village sites are also mentioned
-by this same traveller. These are said to be only distin-
-guishable from the surrounding country by the rich black
+by this same traveller. These are said to be only distinguishable from the surrounding country by the rich black
 colour of the soil, and by the abundance of broken fragments
 of pottery. Of course it is possible that these sites are those
 of deserted villages of comparatively, or even very, modern
@@ -19708,2346 +17439,3 @@ tribes other than those which now inhabit the surrounding
 country. Only a very careful search in such places can settle
 this question. And sucha search would probably be rewarded
 by results of extreme ethnological and archeological value.
-
-
-— an
-
-
-Fdw4 Weller. ditto
-
-
-i
-
-
-INDEX.
-
-
-PART I—GENERAL. —
-
-
-AKRAMOOKRA FALL, 25
-Amookoo, Lake, 36, 49
-Amootoo Falls, 60
-Animal life, 106
-
-Ants, 147
-
-Apooterie Settlement, 25
-Aretaka Rapids, 8
-Arinda Settlement, 21
-Aykooroo Settlement, 60
-
-
-BARTIKA GROVE, 4
-
-Bathing, dangers of, 140
-
-Bats, 17, 115
-
-Bird life, 116
-
-Brazils, boundary with, 34, 38, 40
-* Buck-guns,’ 36
-
-Butterflies, 144
-
-
-CAMPING, 12
-
-Canakoo Mountains, 33, 38
-Cattle-farms, Brazilian, 38, +1
-Children, Indian, at play, 39
-Chirura, 38
-
-Chowrah Rapids, 59
-Cobungroos, 8
-
-Cooriebrong River, 58
-Cotinga River, 40
-
-Creeks, 7
-
-
-EL DoRADO, 36
-
-Essequibo River, 2, 25
-
-Etannime Fall, 53
-Euwari-manakuroo Settlement, 38
-
-
-FISHES, 137
-
-Flowers, 37, 57, 73, 89
-Foliage, 5, 88, 89
-Forests of Guiana, 88
-Forest tract, 2
-
-
-GLUCK ISLAND, 14
-Guns used by Indians, 36
-
-
-HAIMARA-KUROO CREEK, 22
-Health of Interior, 21
-Herons’ song, 15
-
-Highways of Guiana, 8
-Hog-hunting, 54
-Hospitality, Indian, 40
-
-
-INDIAN GATHERINGS, 29, $2, 35
-Inhabitants of Guiana, 4
-
-Insect life, 140
-
-Ireng River, 40
-
-Itaboos, 53
-
-
-JAGUAR, A, 23
-Jiggers, 153
-Joke, an Indian, 35
-
-
-KAIETEUR FALL, 56, 66, 75, 78
-advice to those visiting, 80
-dimensions of, 56
-dreaded by Indians, 64
-formation of, 68
-path to, 66
-
-Kaieteur Ravine, 61
-
-Kaieteur Savannah, 66, 74
-
-Karanakru Settlement, 32
-
-
-MAHOO RIVER, 48
-Manoa, 36
-
-Moé, 11, 15, 18
-Monkey-jump, the, 6
-Mopai Settlement, 31
-Moraballi Creek, 6
-Morai Settlement, 28
-
-
-430 INDEX.
-
-
-Mora tree on fire, 23
-
-Morning on the river, 13
-Moaquitoes, 141, 151
-
-* Mother-in-law of Spiders,’ the, 155
-Mowraseema Cataract, 59
-
-
-NAPPI RIVER, 38
-
-Night in the forest, 12, 23
-Nikari-karus, 17, 38
-Nose-ornament, 52
-
-
-Omaks, 19, 40
-” QOuropocari Fall, 22
-
-
-PACARAIMA MOUNTAINS, 33, 36
-Pacoutout Rapids, 59
-Paiwari-feasting, 60
-Paiwari-kaira, 19
-Parima, 36
-Paripie Creek, 17
-Peaiman’s vengeance, 20
-Pepper-rubbing, 53
-Pirara landing, 31
-River, 48
-Settlement, 33
-Plants, typical, 92
-Portages, 22, 59, 61, 73
-Potaro River, 57
-
-
-QUARBTAMA SETTLEMENT, 28
-Quatata Settlement, 32, 33
-
-
-Quippoo writing, 39
-
-
-RAPIips, 8
-confused with cataracts and
-falls, 1]
-hauling up the, 10, 19
-shooting the, 51, 53, 79
-Rappoo Cataracts, 25
-Reptile life, 129
-Rio Branco, 40
-- River-men, 6
-Roads, 3
-Roopoonooni, 26
-Roraima, 82
-
-
-SANDBANKS, 16, 27
-
-
-Savannah tract, 2
-
-Scenery—
-Amootoo, at, 60
-Cattle-farms, on, 45
-Coast, of, 4
-Creeks, of, 7
-Forest, in, 96
-Forest ponds, 14, 31
-Indian gatherings, at, 29, 35
-Itaboos, in, 51
-Kaieteur, Fall of, 65, 70, 78
-Kaieteur Ravine, of, 62, 64
-Kaieteur Savannah, of, 66
-Potaro, of, 58, 72
-Rapids, in, 8, 53
-River-bank, of, 29, 101
-Rivers in flood, 48, 58, 72
-Rivers, of, 5, 6, 16, 26
-Sandbanks, of, 16
-Savannah, on, 29, 31, 33, 36, 105
-Storms, tropical, 51
-Takootoo, of, 40
-
-Shooting Falls, 53, 79
-
-Steamers, 4
-
-St. Joaquim, 36, 38, 40
-
-Stone implements, 39
-
-Storm, a tropical, 51
-
-Sugar tract, l
-
-
-TAKOOTOO RIVER, 38 |
-Teeth filed to a point, 38, 45 |
-Timber cutting, 2
-Timber tract, 2 |
-Tookooie Rapids, 64
-Toomatoomari Cataract, 57, 71
-Tracts, four, into which the country |
-may be distinguished, 1 |
-Forest tract, 2
-Savannah tract, 2
-Sugar tract, 1
-Timber tract, 2
-Tropical storm, a, 51
-Turtles’ eggs, 18
-
-
-WAPIANA MURDERER, A, 51
-Warrapoota Rapids, 18
-Warratoo, 63
-
-
-YAREWAH SETTLEMENT, 39
-Yucarisi Settlement, 17
-
-
-INDEX. 431
-
-
-PART Il.—ANTHROPOLOGY.
-
-
-ACKAWOI INDIANS, 162, 165, 167, 169,
-170, 173, 193, 195, 201, 203, 223,
-225, 245, 272
-
-Eolian harps, 310
-
-Affection, 213, 219
-
-Agriculture—
-
-distribution of labour between
-
-the sexes, 251
-
-fields, appearance of, 250
-crops of, 251
-cultivation of, 251
-desertion of, 253
-failure of, 254
-harvest, time of, 252
-position of, 250
-preparation of, 251
-produce of, 253
-weeds of, 252
-
-Amaripa Indians, 162, 170
-
-Amazons, 385
-
-Ancestors, mistaken by missionaries
-for gods, 366
-
-regard for, 366
-Animals, no distinction recognised
-between men and other animals,
-350
-fabulous, 354, 384
-Indian knowledge of, 351
-language of, 351
-peculiarities of, accounted for in
-legends, 381
-spirits of, 351
-Animism, spirits and bodies, recogni-
-tion of, 343
-separability of, 348
-spirits, conception of, 343
-seen in dreams, 344
-in visions, 346
-in death, 343
-omnipresence of, 350, 855, 356
-in animals, 352
-in plants, 353
-in rocks, 353
-in water, 354
-of diseases (7), 355
-of ancestors, 366
-transmissibility of, 349, 360
-after death of the body, 358
-duration of existence of, 358
-place of existence, 359
-life led after death, 362
-gods not recognised, 366
-worship not paid, 367
-
-
-Antiquities, nature of, 390
-rock-pictures, Andrée Richardson,
-403 et seq.
-date of, 391, 408
-distribution of, 394
-engravings, deep, 397
-shallow, 394
-forms represented, 395, 397
-origin of, 402
-paintings, 391
-position of, 397, 398, 407
-timehri, name for, 394
-shell-mounds, contents of, 413
-date, probable, of, 416
-distribution of, 412
-makers of, 416
-nature of, 410
-standing-stones, 427
-stone implements, baking-slabs,
-427
-manufacture of, 423
-occurrence, modes of, 421,423
-types of, 424
-uses, probable of, 425
-villages, sites of ancient, 428
-Waterton, Charles, on, 389
-Arawak branch, 162, 165
-Arawak Indians, 162, 165, 167, 168,
-170, 172, 175, 188, 201, 203, 204,
-244, 245, 272, 284, 290, 295, 326,
-376, 386
-Arecuna Indians, 162, 165, 168, 169,
-170, 178, 188, 192, 194, 203, 207,
-238, 245, 262, 272, 299, 300
-Arecunas, 158
-Arrows (sce also under Weapons), 234
-manufacture of, 303
-Arts—Basket-work, 278
-belts, 281
-cassava utensils, 280
-materials for, 278
-pegalls, 278
-quakes, 281
-surianas, 281
-Boat-building, 292
-Cassava-graters, manufacture of,
-Decay of native arts, 269
-Division of labour, sexual, 215
-importance of, 271
-tribal, 271
-Feathers, artificial sources of, 305
-uses of, 303
-
-
-432 "INDEX.
-
-
-ARTS— continued
-Fibres, preparation of, 283
-Ornaments, personal, manufac-
-ture of, 303
-Plaiting, 291
-Poisons, preparation of, 310
-Pottery, basket-work round ves-
-sels, 275
-clay for, 275
-dishes (sappooras), 275
-method of, 276
-pots (buck-pots), 274
-skill in, 275
-water-vessels (goglets), 275
-women’s work, 277
-Productive power of Indians, 269
-Spinning, 284
-zeta fibre, 283
-cotton, 285, 286
-crowia fibre, 284
-fibres used, 283
-methods of, 284, 285
-methods distinguishing
-tribes, 287
-silk-grass, 284
-string, 285, 288
-tibisiri fibre, 283
-Teeth, use of, in ornament making,
-196
-Weapon-making, 298
-Weaving, 288
-cloth, rude, 290
-hammocks, 288
-Wood-working, 292
-Atorais, 158, 162, 170
-
-
-BABRACOTS, 248
-Baking-slabs, 427
-Ball-play, 326
-Bark-cloth, 291
-Basket-work, 278
-art of, dying out, 282
-Bathing after meals, 191
-Beads, 201
-‘Beenas’ (4.c. charms used in hunt-
-ing), 228
-Benabs, 208
-Benches, 297
-Beverages, 268
-Blow-pipes, 245
-manufacture of, 300
-Boat-building, 292
-Bows, manufacture of, 303
-Branch, to express an Indian group
-of a certain value, 161
-Buck-pots, 274
-Buck-shells, 295
-Burial, 225
-
-
-‘CALLING’ birds, 248
-Canoes, 293
-tents for, 295
-Caraweera, 316
-Carib Branch, 159, 162, 165, 198, 223
-Carib, True, 9, 168, 162, 163, 165, 167,
-169, 170, 173, 186, 192, 193, 198,
-201, 203, 207, 225, 244, 245, 262,
-264, 272, 288, 290, 295, 311, 325
-Carib, True, explanation of the term,
-163
-Caribisi, 158
-Carinya, 158
-Casiri, 264
-Casiri-jars, 275
-Cassareep, 261
-Cassava, 260
-effect of, on physique of Indians,
-265
-legend of first discovery of, 379
-Cassava-grater, 260, 282
-Cassava-squeezer, 260, 280
-‘Charm-stones,’ 277, 423
-Children, occupations of, 39, 219, 278
-hammocks for carrying, 288
-Classification of Indians of Guiana,
-161
-Clay, used as body paint, 317
-Cleanliness, 191
-Clothing, European, adoption of, 200
-Cloth-weaving, 289
-Cobungrus, 8, 158
-Cokerite oil, 314
-Cooking, 255
-contempt of men for, 256
-Corials, 295
-Cotton, 283, 286
-Couvade, 217, 222
-Courtesy to strangers, 9, 40
-Crab-oil, 314 ,
-Creation, none thought of, 377, 378
-Crowia-fibre, 283
-Curan. See Ourali
-
-
-DANCES, 324
-Dancing-sticks, 322
-Dandyism, 199
-Daurais, 158
-Death, 224
-conception of, 348
-Di-di, 352
-Diseases as evil spirits, 332, 356
-Division of labour between the sexes,
-215
-between tribes, 271
-Dogs, hunting, 232
-Dreams, belief in reality of, 344
-
-
-INDEX. 7 433
-
-
-Dress of men, girdle, 194 Fields, 250
-waist-cloth, or lap, 194 periodical desertion of, 253
-of women, apron or queyu, 194 Fire by friction of wood, 257
-partial adoption of European, 200 with flint and steel, 257
-order in which this is adopted, legends of a universal, 375
-201 Fish-poisons, 234
-for festivals, 323 Fish, shooting, 235
-Drums, 309 Flood- -myths, 375
-Drum-sticks, 309, 322 Flutes of bone, 309
-Dyes used as body-paints— of wood, 309
-Caraweera, red (Bignonia chicka), Folk-lore—
-316 Di-di, 352
-Clay, white felspathic, 317 Historical legends of tribal wars
-Faroah, red (Biza orellana), 316 and migrations, 286
-Lana, blue-black (Genipa ameri- ‘ Missionary action on legends, 373
-cana), 316 Mythical legends, ancestral
-Yellow dye of unknown origin, stories, 366
-316 animal stories, 381
-appearance of species, 376,
-883
-pecs, AS FO oy deluge stories, 371, 380
-’ fictitious beings, of, 384
-Emmoo, 262 O BS,
-mar, 353
-
-
-Energy of Indians, 269
-
-
-Engaricos, 159, 171 Ourali (curare), superstition as to,
-
-
-Story-telling by night, 371
-
-
-FAMILY, 161 Universality of legends, such as
-Family names, 176 of a flood, 374
-Family systems, 175 explanation of, 375
-Arawak system, descent in female Food—
-line, 185 Cassava, bread from, 260
-Intermarriage of families, 178 farine from, 263
-List of families, 176 preparation of roots, 260
-Origin of family names, 184 utensils for preparation of,
-Indications of original systems in 261
-other tribes, 186 Clean and unclean, 256
-Fan, for blowing fire, 259 Cooking, methods of—
-Farine, 263 babracoting, 255
-Faroah, 316 baking, 261
-Feasts, Paiwarie, 319 pepper-pot, 256
-arrival of the guests, 321 Fire, method of kindling, 257
-ball-play at, 326 Meals, no regular, 256
-dances at, 324 Meat, some considered unclean,
-description of, 323 259
-dresses, special, worn at, 322 Men and women eat apart, 256
-invitations to the guests, 319 Preparation of, by women, 255
-preparation of the liquor, 320 Quantity eaten, 15
-races, foot, at, 325 Salt, 265
-shield-game at, 327 Victuals—
-whip-game at, 326 Zita palm-nuts, 206, 267
-wrestling at, 327 Awarra palm-nuts, 267
-Feathers, artificial change of colour billicoes, 267
-in living birds, 305 bullet-tree fruit, 267
-Featber ornaments, 198, 303 capsicums, 251
-manufacture of, 303 cashews, 251
-Fibres, various kinds used, 283 wild, 268
-preparation of, 283, 284 cassava, 260
-uses of, 288 cokerite palm-nuts, 206, 267
-
-
-F F
-
-
-434 INDEX.
-
-
-Foop—continued
-Victuals—
-
-corn, 263
-eggs, 265
-fish, 255, 267
-greenheart-flour, 262
-insects, 266
-meat, 256
-mora-flour, 262
-paiwarie, 263, 268
-palm-wine, 268
-Paripie palm-nuts, 267
-Souan nuts, 267
-turtles, 248
-
-Foot-races, 325
-
-Forest Indians, 171
-
-Fruit as food, 267
-
-Funeral customs, 225
-
-
-GAMES—
-ball-play, 326
-dances, 324
-foot-races, 325
-whip-game, 326
-wrestling, 326
-Gods, none recognised, 365
-ancestors mistaken by missien-
-aries for, 365
-Goglets, 275
-Gratitude, 213
-
-
-HABITS, DIFFERENCES OF, AMONG
-
-THE TRIBES, 169
-Ha-ha shield, for wrestling, 326
-Haiari, 234
-
-legend of its first discovery, 383
-Hair, used for plaiting, 292
-Hammocks, 288
-
-Brazilian, 291
-
-for infants, 289
-
-ornamented with feathers, 291
-Heaven and hell, 360
-Historical legends, 387
-Honesty, 214
-Houses—
-
-benabs, 208
-
-Development of house building,
-
-208
-
-Distribution of, 202
-
-Forest houses, 204
-
-Material of, 209
-
-Pile houses, 203, 207
-
-Round houses, 205
-
-Savannah houses, 205
-
-Square houses, 204
-
-Structure of houses, 204, 205
-
-
-HOUSES— continued
-Types of : pile houses, 207
-round, with walls, 205
-square, without walls, 204
-intermediate forms, 205
-Walled houses, 205
-Wall-less houses, 204
-Walls, history of adoption of, 205
-Hunting, beenas (charms) used in
-hunting, 228
-dogs used in, 232
-emnaki, 229
-fishing, arrows for, 234
-bait, 237
-diving after fish, 239
-hook and line, 238
-nets, 238
-poisoning for, 233
-shooting, 234
-traps, 238
-for game, arrows used for, 240
-iguana-shooting, 239
-importance of, 227
-parties for, 228
-poisons used in fishing, 234
-turtle-shooting, 239
-weapons of the chase—
-arrows, bird, 244
-fish, 234
-game, 240
-harpoon, 234
-poisoned, 242
-turtle, 239
-blow-pipes, 245
-guns, 240
-
-
-INACTIVITY OF INDIANS EXPLAINED,
-269
-
-Inanimate objects, spirits of, 353
-
-Insects as food, 266
-
-
-JONAH-MYTHS, 386
-
-
-KAPOHNS, 158
-Karamanni, 315
-Kenaimas—
-acts of, 329
-methods of work, 331
-powers, supposed, of, 332
-relation to peaiman, 328
-System, the—
-explanation of, 329
-kenaima in reality, 329
-suppositions, 329
-uses of, 330
-Vendetta, relation to, 330
-
-
-INDEX. 435
-
-
-LANA, 317
-Languages, 160, 165
-Lap, 194
-Legends, See Folk-lore
-Life of Indians—
-birth, couvade, 217, 222
-weaning, 219
-childhood, 219, 278
-day-tasks, 215
-death, carelessness of the sick,
-224
-funeral, 225
-of peaiman, 225
-duration of life, 191, 224
-family relations, 223
-marriage, betrothal, 221
-ceremonies, 222
-method of obtaining wife,
-221
-polygamy, 223
-names, personal, 219
-night, how spent, 216
-Lip ornaments, 193, 199
-Lokono, 158
-
-
-MACQUARIE WHIPR, 326
-Macusi Indians, 162, 165, 167, 169,
-170, 173, 186, 192, 195, 203, 207,
-217, 222, 223, 225, 245, 257, 272,
-281, 288, 299, 311, 325
-Maiongkongs, 159, 326
-Maize cakes, 263
-Malformations (artificial) of the
-body, 191
-Mantles of cotton, 199, 291
-Maopityans, 163, 171
-Marriage, 221
-ceremonies, 222
-Matapie, 280
-Maternal descent, 185
-Meyanow, a lost tribe, 386
-Midwifery, 217
-Migrations of Indians into Guiana,
-171, 287, 419
-Modesty, 194
-Moral character, 213
-Morality, 223
-not associated with animism,
-342
-Mourning the dead, 224
-Music, 323
-Musical instraments—
-£olian harp, 310
-drums, 308
-drum-stick, 309
-flutes, bone, 309
-
-
-MUSICAL INSTRUMENTS—continued
-flutes, wood, 309
-pan-pipes, 309
-
-Myths. See Folk-lore
-
-
-NAKEDNESS UNKNOWN, 193
-Names, personal, system of, 219
-unwillingness to tell, 220
-English, 220
-Necklaces, 197
-mannafacture of, 307
-of children, made of special
-seeds, 199
-News, rapidity of transmission, 271
-Nikari-karus, 17, 38, 158, 282
-Nose ornaments, 198
-
-
-OILS, PREPARATION OF, 314
-Omar, 19, 40, 353, 885
-Ornaments, men’s, anklets, 192
-arm-bands, 193
-beads, 197
-ear ornaments, 197
-feather ornaments, 303
-head-dresses, 303
-lip ornament, 198
-necklaces, 196, 307
-nose ornament, 198
-paints, body, 195, 323
-shoulder-cloaks, 198, 291
-shoulder-ruffs, 198, 306
-women's, anklets, 192
-arm-bands, 193
-beads, 199
-fillets of cotton, 199
-paints, body, 196
-pins, 193
-Ourali (Aurare), 243, 311
-
-
-PACKING PROVISIONS, METHOD OF,
-281
-Paddles, 296
-Painting the body, 195
-Paiwari, 263
-quantity consumed, 324
-Paiwari-feasts, 319
-Pan-pipes, 309
-Paramonas, 158
-Partamonas, 158
-Paterfamilias, authority of, 211
-Patterns on baskets, 281
-on bone flutes, 309
-on pottery, 277
-in woven cloth, 291
-drawn by men as well as women,
-274
-
-
-436 INDEX.
-
-
-Peaiman, authority of, 211, 228 PLANTS USED BY INDIANS—cont.
-
-
-belief (of Indians) in power of,
-334
-self-credit of peaiman, 347
-as doctor, 328, 334
-as priest, 328
-education of, 334
-funeral, special of, among Ma-
-cusis, 225
-hereditary character of, 334
-kenaima, relation to, 328
-method of work, 335 -
-power of, 211, 334, 339
-Pegalls, 278
-Pepper-pot, 260
-Pepper, et cet., rubbed into the eyes,
-53, 369
-Petroglyphs, 403
-Physical characters—
-artificial characters, ear-piercing,
-197
-hairs, removal of, 193
-leg stricture, 192
-lip-piercing, 193
-nose-piercing, 193
-skull-modifications, 191
-teeth -filing, 38, 45
-constitution of Indians, 188
-face, 189
-hair, 35, 189
-limbs, 188
-muscle, 188
-natural characters, general, 188
-of Ackawoi, 167
-of Arawak, 167
-of Arecuna, 168
-of Carib, True, 167
-of Macusi, 167
-of Wapiana, 167
-of Warau, 167
-skin, 11, 188
-stature, 167, 188
-Pianoghottos, 170, 195
-Picture-writing, 391
-Pile-dwellings, 203
-Pirianas, 159, 181
-Plants used by Indians—
-Eta-palm (see Mauritia flexuosa)
-Anacardium rhinocarpus, drink
-prepared from fruit of, 268
-Anannassa, fibre made from, 283,
-284, 303
-Anthurium acaule, leaves used
-as thatch, 210
-Apciba sp.? wood of, used to rub
-fire, 257
-Arrow-reed (seeGynerium saccha-
-reides)
-
-
-Artocarpus sp.? charcoal from
-mixed with potter's clay, 377
-Arundinaria Schomburg kit, blow-
-
-pipes made of, 300
-Aspidospermum excelsum, pad-
-dles made from, 296
-Astrocaryum tucumoaides, fire-
-fans made from, 259
-fruit of eaten, 267
-oil from, 315
-Awatira palm (see Astrocaryum
-tucumoides)
-Bambusa sp.? used for arrow
-points, 242
-sp? used in midwifery, 217
-Bignonia chicka, dye from as
-body paint, 316
-Billicoe (see Nigritia Schom-
-burgkii)
-Biza orellana, dye from as body
-paint, 316
-Booba-palm (see Jriartea exor-
-rhiza)
-Bromelia, fibre from, 283, 284,
-303
-Brosimum Aubdletii, staves of
-chiefs made from, 212
-bows made from, 303
-Bullet-tree (see Mimusops halata)
-Caladium, sp. var. used as
-‘charms’ in hunting, 228
-Capsicum, sp. var., cultivated,
-251
-
-
-an ingredient in ‘curare,’ 311
-use in connection with ani-
-mism, 369
-
-Carapa guianensis, oil prepared
-from, 314
-
-Caraweera (see Bignonia chicka)
-
-Carludovica plumierii, stems of
-used in basket-work, 278
-
-Cashew, wild (see Anacardium
-rhinocarpus)
-
-Cassava (see Janipha manthat)
-
-Cecropia peltata, leaves of, used
-as sandpaper, 298
-
-Clibadium asperum, as fish poison,
-
-
-Cokerite-palm (see Maainiliana
-regia)
-
-Connami (see (libadium asperum)
-
-Copatfera pubiflora, boats made
-from, 296
-bows made from, 303
-
-Corn (see 4a)
-
-Cotton, 283, 285, 303
-
-Crabwood (see Carapa guianensis)
-
-
-INDEX.
-
-
-PLANTS USED BY INDIANS—cont.
-
-
-Crowia (see Bromelia and Anan-
-NASRA )
-
-Curare (see Strychnos toxifera)
-
-Curatella americana, leaves of,
-used as sandpaper, 298
-
-Dealibanna (see Geonoma baculi-
-
-
-Sera)
-Eriodendron, fibre from, used to
-‘ feather darts,’ 246
-Euterpe oleracea, laths cut from
-stem of, 210
-lining of spathe used as
-cigarette wrapper, 318
-stems used in building, 203,
-207
-Faroah (see Bira orellan2)
-Gaultheria uregon, wood of, used
-to rub fire, 257
-Genipa americana, dye from, as
-body paint, 316
-used as fish bait, 237
-Geonoma baculifera, leaves of
-used as thatch, 209
-Greenheart (see Nectandra o-
-dizi)
-Guiliclma speciosa, cultivated,
-267
-fruit of, eaten, 267
-Gynerium saccharoides, shafts of
-arrows made of, 303 -
-splinters used in midwifery,
-217
-Haiari (see Lonchocarpus densi-
-
-
-Jlorus)
-Haiari-balli (see Mullera monili-
-Sormis)
-Hatie (see Herea Spruceana)
-Herea Spruceana, fruit of, used as
-fish bait, 238
-Hippeastrum equestre, cultivated
-for unknown purpose, 204
-Hyawa (see Icica heptaphylia)
-Hymenea courbaril, boats made
-of, 296
-Icica heptaphylla, resin from,
-used, 294, 316
-TIriartea eworrhiza, \aths cut
-from stems of, 209, 210
-Ischnosiphon sp.? used for basket-
-work, 278
-leaves used to thatch boat-
-tents, 295
-mats made from, as ‘charms’
-in hunting, 229
-Iturite (see Tschnosiphon)
-Janipha manihot, bread from, 261
-cassareep from, 261
-
-
-437
-
-
-PLANTS USED BY INDIANS—cont?.
-
-
-Janipha manihot, farine from, 263
-cultivated, 251
-paiwari from, 263
-starch from (emoo), 262
-Kakeralli (see Lecythis ollaria)
-Karamanni, resin used, 282, 294,
-315
-Kawta (see Artocarpus)
-Lana (see Genitpa americana)
-Lancewood, wood of used to rub
-fire, 257
-Lecythis ollaria, cigarette ‘papers *
-of bark, 318
-waist-cloths made from bark
-of, 194, 291
-Letterwood (see Brosimum Aub-
-letit)
-Locust-tree (see Hymeneza Cour-
-baril)
-Lonchocarpus densifiorus, as fish-
-poison, 234
-Maize (see Zea)
-Mamoorie (see Carludorica plumi-
-erit)
-Manicole palm (see Euterpe olc-
-racea )
-Mannicuria saccifera, fire rabbed
-from mid-ribs of, 257
-leaves used as thatch, 209
-Moauritia fleruosa, drink pre-
-pared from, 268
-drums made from stem, 308
-fruit of, eaten, 206, 267
-leaves of, used as thatch, 210
-mats made from, used in
-marriage ceremonies, 222
-musical instruments from
-leaf-stalk of, 310
-sails made from pith of, 297
-sandals cut from leaf-stalk,
-195
-shields, for wrestling, made
-from, 327 .
-string from fibre of, 283
-Mazximiliana regia, ‘couvrade,'
-use of in, 218
-darts for blow-pipe from, 301
-fruit of, eaten, 206, 267
-leaves used as thatch, 210
-oil from, 315
-Mimusops balata, frait of, eaten,
-267
-
-
-Mora excelsa, fruit of, eaten, 262
-
-Mullera moniliformis, as fish-
-poison, 234
-
-Nectandra Rodiai, seeds of,
-eaten, 263
-
-
-438 INDEX.
-
-
-PLANTS USED BY INDIAN8S—cont.
-
-Nigritia Schomburgkii, fruit of,
-eaten, 267
-
-G:nocarpus baccaha, leaves used
-as thatch, 210
-
-Orbigignia Sagotii, Trail, leaves
-of, use in basket-work, 282
-
-Ourali (see Strychnos toxifera)
-
-Paddlewood (see Aspidospermum
-excelswm)
-
-Paripie-palm (see Guilielma spe-
-ciosa.)
-
-Peach-palm (see Gutlielma spe-
-ciosa )
-
-Pekea tuberculosa, nuts of, eaten,
-267
-
-Plantain, wild (see Ravenala guia-
-NE NSB
-
-Purple-heart (see Copaifera pubi-
-
-
-Jlora
-Rappo (see Bambusa.) (See Spe-
-cies used for arrow-points. )
-Ravenala guianensis, leaves used
-as thatch, 210
-Silk-cotton (see Eriodendron)
-Smilax cayannensis, fruit used as
-fish bait, 238
-Souari (see Pekea tuberculosa)
-Strychnos toxifera, chief ingre-
-dient in ‘curare’ poison, 311
-Tephrosia teuxicaria, as fish-poison,
-234
-Thevetia nereifolia, seeds of used
-as ornaments, 323
-Tibisiri (see string made from
-Mauritia flexuosa)
-Tobacco, cultivated and prepared,
-317
-used in incantation, 335
-Tooroo-palm (see @nocarpus bac-
-caba)
-Troolie-palm (see Mannicaria sac-
-cifera)
-Yarri-Yarri (see Lancewood)
-Yarro-conalli (see Tephrosia tozi-
-caria)
-Yoarno (see Gaultheria uregon)
-Zea (‘corn’), bread made of, 263
-Poisoned arrows, 243
-Poisoning fish, 233
-Poisons, preparation of, 310
-Polygamy, 223
-Pottery, method of making, 276
-glazing, 277
-baking, 277
-charcoal mixed with the clay,
-277
-patterns on, 277
-
-
-POTTERY—continued
-only native forms well made, 278
-made by children as toys, 278
-Poultry, reason for keeping, 305
-Prayer, 367, 374
-Pshavacos, 159
-
-
-QUAKES, 181
-Quarrelling, 325
-
-Queyu, 194
-Quippoo-writing, 39, 320
-
-
-RACE, AS EXPRESSING AN INDIAN
-GROUP OF CERTAIN VALUE, 161
-
-Races, foot, 325
-
-Religion. See Animism
-
-Retaliation, 213, 214, 330
-
-
-SAILS FOR BOATS, 297
-Salt, use of, 265
-Sandals, used on savannah, 195
-Sandpaper, vegetable substitutes for,
-298
-Sappooras, 275
-Savannah Indians, 171
-Scars, surgical, on the body, 196
-Settlements, 202
-Sexes, relation of—
-men, bearing toward women, 213,
-215
-women, influence of on men, 215,
-
-
-Sexes, division of labour between, 215
-men, burn the field, 251
-clear forest for planting, 251
-hunt and fish, 227
-make basket work, 278
-boats, 292
-fillets worn by women,
-292
-musical instruments, 318
-poisons, 310
-scale - lines for ham-
-mocks, 289
-weapons and ornaments,
-269, 298
-- prepare fibre ditferently from
-women, 284
-women, carry water and fuel, 215
-carry baggage when travel-
-ling, 216
-clean the house, 215
-cook, 215, 255
-gather the crops, 252
-make hammocks, 216
-make paiwari, 320
-
-
-INDEX. 439
-
-
-S EXES—continued
-women, make pottery, 275
-make queyus, 216
--make twine, 285
-nurse the children, 216, 219
-plant the fields, 216, 251
-prepare fibre differently from
-men, 284
-renew the fires throughout
-night, 217
-sling hammocks for men, 321
-spin, 216
-wait on the men at meals,
-256
-weave, 216
-weed the fields, 351
-Shell-mounds, 410
-Shield-game, 326
-Shooting, clumsiness of Indians in, 240
-Shoulder-ruffs, 199
-Signalling by fire, 249
-Silk-grass, 283
-Sky-land, 360
-Sleep, conception of, 343
-Spindles, 285
-Spinning, 283
-Spirits. See under Animism
-Standing stones, 427
-Stone circles, 427
-Stone implements, 421
-Stone slabs for baking, 262, 427
-Stones, spirits of, 353
-String, 283
-Surianas, 280
-Swimming, mode of, 191
-
-
-TARUMA INDIANS, 163, 170, 272
-Tattooing, 195
-Taurais, 158
-Teeth filed to a point, 38, 45
-Tents for canoes, 295
-Thatch materials, 210
-Thread, 283
-Tibisiri, 283
-Tiki, 298
-Tobacco, 317
-~ Torture, self-inflicted, reason for, 231
-Traders, Indian, 271
-Tribes, list of reported names of, 157
-list of genuine, 159
-classified list of all important, 163
-differences in language, 160, 165
-in habits, 168
-in physical characters, 167
-in geographical position, 170
-probable migrations of into
-Guiana, 171, 287
-
-
-TRIBES—continued
-different methods of spinning, 287
-special colours in feather orna-
-
-ments, 305
-
-special manufactures of each, 271
-differences in games, 326
-differences in dances, 324
-
-Tuara, 315
-
-
-VENDETTA SYSTEM, 329
-Villages, sites of ancient, 428
-Visions, belief in reality of, 346
-
-
-WaAccAWAIS, 158
-Wapiana branch, 162, 165, 198
-Wapiana, True, 162, 164, 165, 167, 169,
-170, 172, 198, 203, 223, 263, 272,
-288, 297, 299
-War-clubs, 298
-Warrau branch, 162, 164, 165
-Warraus, 162, 165, 167, 168, 170, 172,
-194, 199, 202, 223, 245, 257, 271,
-290, 326, 377, 378
-Wassi poison, 314
-Waterproofing baskets, et oet., 278
-Water, spirits of, 253
-Weaning of children, 219
-Weaving, 288
-Weapons, arrows, bird, 244
-fish, 234
-game, 240
-harpoon, 235
-list of, 245
-poisoned, 242
-turtle, 239
-blow-pipe, advantage of, 245,
-247
-
-
-manufacture of, 300
-paraphernalia of, 246, 301
-poison for, 310
-bows, manufacture of, 303
-ornamental, 303
-useful, 303
-guns, 240
-war-clubs, 299°
-Whip-game, 326
-Women. See under Sexes
-Wood-skins, 296
-Wood-working, 292
-tools used in, 292
-Worship, 369
-Worumas, 159
-Woyawai Indians, 163, 272
-Wrestling, 326
-
-
-ZUBUMUTAS, 193
-
-
-440 INDEX.
-
-
-PART III.—FAUNA.
-
-
-ABOUYAH (see Dicotyles torquatus)
-
-Abouyah-tiger (see Wels macrura)
-
-Acanthyllis collaris, 70, 76
-
-Acouri (see Dasyprocta aguti)
-
-Adourie (see Dasyprocta acuchy)
-
-ZEstus-worm (see Mosquito- worm)
-
-sAgeleus imthurni Nov. SP.Sclater, 62
-
-Aguti (see Dasyprocta aguti)
-
-Alcedo superciliosa, 121
-
-A. torguata, 121
-
-Alligators, 130
-
-Ampelis cayana, 116
-
-A. cerulea, 116
-
-A. pompodora, 116
-
-Anas autumnalis, 31, 129
-
-A. moschatus, 31, 129
-
-Ant-bear (see Myrmecophaga)
-
-Ant-eater (see Ant-bear)
-
-Ants(see also Zciton,Ecodema,Poncra),
-147, 149
-
-Arapaima (see Sud4s gigas)
-
-Ardea cocoi, 122
-
-Armadilloes, 114
-
-Aulacoramphus sulcatus, 62
-
-
-BABOON (see Mycetes seniculis)
-
-Raboon bird (see Threnaedus militaris)
-
-Bats, 17, 115
-
-Bees, 150
-
-Beetles(see also Elator), 146
-
-Bell-bird (see Chasmarhynchus carun-
-culatus)
-
-Béte-rouge, 143
-
-Bill-birds (see Towoans)
-
-Boa constrictor, 133
-
-Borers, Cane (see Rhyncophorus pal-
-marum)
-
-Bufo aqua, 136
-
-Buprestis, 146
-
-Bush hog (see Dicotyles labiatus and
-D. torquatus)
-
-Butterflies, 144
-
-
-Calandra palmarwm (see Rhyncho-
-phorus palmarum)
-
-Calf-bird (see Gymnocephalus calrus)
-
-Camoodie (see Hunectes murina)
-
-Cane-borer (see Rhynchophorus palma-
-rum and Sphenophorus sacchari)
-
-Canis azare, 232
-
-C. cancrivorus, 232
-
-
-Caprimulgus, sp. vat,, 18, 123
-Capybara (see Hydrocherus capybara)
-‘ Carrion crow ’ (see Catharista)
-
-‘ Cashapan ’ (see mys amazonica)
-Cassicus persicus, 122, 181
-Caterpillars, 145
-
-Catharista aura, 121, 125
-
-C. urubitinga, 121, 125
-
-Caymans, 13, 15
-
-Centipedes, 143, 155
-
-Cervus savannarum, 114
-
-Cervus, var. sp. 114
-
-Chasmarhynchus carunculatus, 119
-C. variegatus, 119
-
-Chatterers, 116
-
-Chelys mata-mata, 136
-
-Chigoe (see Pulexr penetrans)
-Chrysothriz sciureus, 110
-
-Cicada, 155
-
-Cock-of-the-rock (seeRupicola crocea)
-Cockroaches, 155
-
-Calogenys paca, 19, 29, 108
-Cooshie-ant (see Ecudema cephalotis)
-Craz alector, 119, 197
-
-Crotalus horridus, 133
-
-Crotophagus ani, 121
-
-C. major, 121
-
-Culnacanaro (see Hunectes murina)
-Curassow bird (see Craz alecter)
-Curri-curri (see Zbis rubra)
-
-
-DARTER (see Plotus anhinga)
-Dasyprocta acuchy, 108
-
-D. aguti, 108
-
-Deer (see Cerrus)
-
-Deer-tiger (see Felis conco'er)
-Delphinus, 40, 114
-
-‘ Demerara canary ' (see Luphonia)
-Dicotyles labiatus, 54, 109
-
-D. torquatus, 109
-
-Didelphys, sp. var., 114
-Ducklar (see Plotus anhinga)
-
-
-Duraquara (see Odontophorus guia-
-NENSIS
-
-
-Dynaster hercules, 146
-
-
-Eviton, 147
-Ecodema cephalotis, 149, 266
-
-
-Eel, electric (see Gymnotus elec-
-tricus)
-Elator, 146
-
-
-INDEX. 44]
-
-
-Elephant beetle (see Dynaster her-
-cules)
-
-Emys amazonica, 135
-
-E. tracaja, 135
-
-Erythrinus macrodon, 137
-
-Eunectes murina, 71, 133
-
-Euphonia minuta, 118
-
-E. vialacea, 118
-
-Eurypyga helias, 123
-
-
-Felis coneolor, 111
-
-F. jaguarundi, 111
-
-FF’. macrura, 111
-
-F. nigra, 111
-
-F. sp. (see Warracaba tiger, 111
-Fishes, 137
-
-Frogs, 12, 136
-
-
-Galictis barbara, 111
-
-Greenheart bird (see Lipangus cin-
-TACEUS)
-
-Guana (see Iguana tuberculata)
-
-Gymnocephalus calrus, 119
-
-Gymnotus electrious, 137, 138
-
-
-HACKA (see Galictis barbara)
-Hacka-tiger (see Felis jaguarund?)
-Haimara (see Erythrinus macrodon)
-‘ Hard-backs,’ 142
-
-Heron (see also Ardea), 16, 122
-
-Honuré (see Heron), 16
-
-Houma (see Serasalmo niger)
-
-Howling Monkey (see Mycetes seni-
-culus)
-
-Humming-birds (see also Topaza
-pella and Trochilus bicolor), 117,
-121, 124
-
-Hunting-ants (see Eciton)
-
-Hydrocherus capybara, 108, 218
-
-
-Ibis rubra, 13, 116
-
-Ibis, scarlet (see [bis rubra)
-Icterus jamacati, 122
-
-I. wxanthornus, 121
-
-Iguana tuberculata, 18, 40, 130, 241
-Insects, 140
-
-Ieodes, sp. var., 154
-
-
-JACOMBI (see Psophia crepitans)
-Jagdmann ant (see Eviton)
-
-Jaguar (see also under felis), 23, 132
-Jigger (see Pulex penetrans)
-
-
-KABOORI fly (see Simulium)
-
-Kairooni (see Dicotyles labiatus)
-
-Keskedie (see Lanins sulphuratus)
-
-Kibihee (see WVasua)
-
-Kingtisher (see also Alcedo), 121
-
-King Humming-bird (see Topaza.
-pella)
-
-King Vulture (see Sarcoramphus
-papa)
-
-
-Labaria (see Trigonocephalus atrozx)
-
-Labba ( -e Celogenys paca)
-
-Lanius sulphuratus, 120
-
-Leistes americana, 121, 179
-
-Lipangus cineraceus, 15, 118
-
-‘Louis d’or’ (see Euphonia minuta
-and £. violacea)
-
-Low-low (see Silurus)
-
-
-MAAM (see Tinamus)
-
-Macaws, 117
-
-Maipuri (see Zapirus americanus)
-
-Maipuri-tiger (see Felis nigra)
-
-Manatee (see AManatus australis)
-
-Manatus australis, 40, 114
-
-Manoorie-ant (see Ponera clarata)
-
-Maroodie (see Penelupe)
-
-Mata-mata turtle (see Chelys mata-
-mata)
-
-‘Mocking-bird’ (see Cassicus persi-
-cus)
-
-Monkeys (see also Mycetes, Chryso-
-thriz), 110
-
-Mora moroota (see Icterus jamacai?)
-
-Mosquitoes, 141, 151
-
-Mosquito-worm, 152
-
-‘Mother-in-law of Scorpions’ (see
-Phrynus reniformis)
-
-Moths, 145
-
-Muscovy duck (see Musk duck)
-
-Musk duck (see Anas moschatus)
-
-Mycetes seniculus, 13, 111, 244
-
-Mycteria americana, 31, 129
-
-Mygale avicularia, 154
-
-Myrmecophaga didactyla, 112
-
-M. jubata, 111, 266
-
-M, tamandua, 111
-
-
-Nasua socialis, 114
-
-N., solitaris, 114
-
-‘Negrocop’ (see Mycteria americana)
-Nightjar (see Caprimulgus)
-
-
-OcELOTS, 112
-Odontophorus guianensis, 120
-‘Old witch bird’ (see Crotephagus ani)
-
-
-442 INDEX.
-
-
-Opossum (see Didelphys)
-Ortyz cristatus, 120, 128
-
-
-Pacu (see Pacu myletes)
-Pacu myletes, 59, 137, 235
-Parra jacana, 31, 121
-
-
-Parrots, 117
-
-Peccary (see Dicotyles labiatus and D.
-torquatus)
-
-Penelope, 62
-
-
-Perai (see Serasalme niger)
-
-Phrynus reniformis, 154
-
-Phyllostoma, 115
-
-Pi-pi-y5 (see Lipangus cineraceus)
-Pium fly (see Simulium)
-
-Plantain bird (see Icterus ranthornus)
-Plotus anhinga, 122
-
-Porcupine (see Sphingurus insidiosus)
-Porpoises (see Delphinus)
-
-Powis (see Crazx alector)
-
-Psophia crepitans, 122
-
-Pulez penetrans, 153, 232
-
-Puma (see Felis concolor)
-
-
-QUAIL (see Ortyz cristatus)
-Quashi (see NVasua
-Quow (see Gymnocephalus calous)
-
-
-Racoon (see Nasu)
-
-Rattlesnake (see Crotalus horridus)
-Razorbills (see Rhynchops nigra)
-Reptiles, 129
-
-Rhynohops nigra, 17, 128
-
-Rhynch ophorus palmarwm, 146
-‘Robin ’ (see Leistes americana)
-Rupicola crocea, 62, 116, 127
-
-
-SACKAWINKI (see Chrysuthria sciu-
-rus)
-
-Sand-flies (see Simulium)
-
-Sandpiper (see J'ringa)
-
-Sand-wasps, 151
-
-Sarcoramphus papa, 125
-
-‘Savannah starling’ (see Stwrnella
-ludovicina)
-
-Sawoko (see Cassicus persicus)
-
-Sciurus @stuans, 114
-
-Scorpions, 155
-
-Serasalmo niger, 137, 246, 301
-
-Silurus (sp.? see Low-low), 137
-
-Simulium, 27, 152
-
-Sloths, 114
-
-Snakes, 129, 133
-
-
-Snake-bird (see Plotus anhinga)
-Sphenophorus sacchari, 146
-Sphingurus insidiosus, 114
-Spiders, 143, 154
-
-Spoonbills, 40
-
-Spurwing (see Parra jacana)
-Squirrel (see Sciurus estuans)
-Sterna, sp. var., 123
-
-Sting-ray (see Trigon hystriz)
-Sternella ludovicina, 128
-
-Sudis gigas, 137
-
-Sunbird (see Lurypyga helias)
-Swifts (see Acanthyllis collaris)
-
-
-TAPIE (see Tapirus americanus)
-Tapirus americanus, 14, 79, 109, 301
-Termites, 150
-Tern (see Sterna)
-Testudo tabulata, 136
-Threnadus militaris, 116
-Ticks, bush (see Izodes)
-‘ Tigers ’—
-Abouyah-tiger (see Felis macru-
-r
-
-
-a)
-Deer-tiger (see F’. concolor)
-Hacka-tiger (see F. jaguarundi)
-Maipuri-tiger (see F. nigra)
-Warracaba-tiger (see p. 111)
-Tiger-bird (see Tigrasoma brasiliensc)
-Tigrasoma brasiliense, 122
-Tinamus, sp. var., 120
-Toad (see Bufo agua)
-Topaza petla, 117, 124
-Tortoise (see Testudo tabulata)
-Toucans (see also Aulacoramphus),
-13, 62
-Trigon hystriz, 137, 138
-Trigonocephalus atrozx, 133
-Tringa, sp. var., 123
-Trochilus bicolor, 121
-Troupial (see Jcterus jamacati)
-Trumpet-bird (see Psophia crepitans)
-Turtles (see also Emys and Chelys),
-18, 40, 63, 135
-
-
-Vanellus guianensis, 128
-
-Vicissi duck (see Anas autumnalis)
-
-Vultures (see also Catharista and
-Sarcoramphus), 121, 125
-
-
-WALLABABA (see Ampelis pompodora)
-Warracaba (see Psophia crepitans)
-Warracaba-tiger, 111
-
-
-INDEX. 443
-
-
-Wasps, 151
-
-Water-haas (see Hydrocherus capy-
-bara)
-
-Whinga (see Dicotyles labiatus)
-
-Whipsnake, 135
-
-
-White ants (see Termites)
-Wood ants (see Termites)
-
-
-YACKMAN ANT (see Ectton)
-Yawarri (see Didelphys)
-
-
-PART 1IV.—FLORA.
-
-
-Abolbuda, 36
-
-ZEta-palm (see Mauritia flexuosa)
-
-Alsophila aspera, 94
-
-Anacardium rhinocarpus, 268
-
-Anannassa, 283, 303
-
-Andromeda, 86
-
-Antiurium acaule, 210
-
-A peiba, sp.? 257
-
-Archytowa, 84
-
-Artocarpus, sp. ? 277
-
-Arundinaria Schomburg kit, 300
-
-Aspidospermum exoelsum, 297
-
-Astrocaryum tucwmoides, 179, 269,
-267, 315
-
-avicennia nitida, 4
-
-
-Bactris palustris, 102
-B. tricospatha, 97
-Bamboo (see Bambusa)
-Bambusa, 95, 242
-species used for arrow-points, 25
-Befaria, 84
-Bignonia chicka, 316
-Biza orellana, 316
-Bonnetia, 84
-Booba (see Iriartea exorrhiza)
-Brocchinia cordylinvides, Nov. SP.,
-66, 69, 74
-Bromelia, 283, 284, 303
-Brosimum Aubletii, 212, 303
-Byrsonima verbascifolia, 37, 105
-
-
-CAKERALLI (see Lecythis ollaria)
-Caladium arborescens, 94
-
-Calopogium ceruleum, 91
-
-Capsicum, 251, 311, 369
-
-Carapa guianensis, 314
-
-Carludovica plumierii, 92, 267
-
-Cassia grandis, 183
-
-Cattleya, 85
-
-Cecropia peltata, 104, 252, 298
-‘Chocolate, wild’ (see Pachira
-
-
-aquatica)
-
-
-Clibadium asperum, 234
-
-Clitoria guianensis, 37
-
-Clusia, 85, 95
-
-Cokerite (see Maximiliana regia)
-
-Connami (see Clibadium asperum)
-
-Copaifera pubiflora, 296, 303
-
-Courida (see Avicennia nitida)
-
-Crinum commelyna, 101
-
-Curatella americana, 298
-
-Cyperus (should be Thurnia Nov.
-GEN., Hooker), 75
-
-
-Desmoncus, 29, 92
-Drosera (NOT rotundifolia, as stated
-in text), 69
-
-
-Eperua falcata, 102
-Eyidendron, sp., 85
-Priocaulon, 84
-Privdendron, 246
-Eugenia, sp., 5
-Euterpe edulis, 100
-E. oleracea, 203, 207
-
-
-Ferns (see Alsophila, Gleichenia,
-Hemitelia, Lygodium, Nephroleyis,
-Oleandra, Polypudiwn, Pteris, Tri-
-chomanes)
-
-Ferns, filmy (see Trichomanes)
-
-
-Gaultheria uregon, 257
-
-Genipa americana, 237
-
-Gentians, parasitic (see Veyria)
-
-Geonoma bacculifera, 97, 209
-
-Gleichenia, 94
-
-Greenheart (see Nectandra Rodiat)
-
-Guava, water (see Psidium aromati-
-cum and P. aquaticum)
-
-Guilielma speciosa, 267
-
-Gynerium saccharoides, 217
-
-
-444 INDEX.
-
-
-HACKIA (see Tecoma)
-
-Haiari (see Lonchocarpus densiflorus)
-
-Haiari-balli (see Mullera monili-
-Jormis)
-
-Hemitelia macrecarpa, 94
-
-Hevea Spruceana, 238
-
-Hibiscus tiliaceus, 103
-
-fippeastrum solandreflorum, 37, 40
-
-H., equestre, 204
-
-Hipponai (see Parkia pendula)
-
-Humerium floribundum, 96
-
-Hyawa (see Icica heptaphyla)
-
-Hymenca courbarie, 296
-
-Hymenocallis guianensis, 101
-
-Hyposcis breriscapa, 37
-
-
-Icioa heptaphylla, 96, 177, 294
-Imatophyllum rosewm, 149
-
-Inga meissneriana, 103
-
-Triartia exorrhiza, 100, 209, 210
-Ischnosiphon, sp., 93, 229, 278, 280, 295
-Iturite (see Ischnosiphon)
-
-
-Janipha manihot, 263, 293
-Jatropha urens, 105 -
-
-
-KAKERALLI (see Lecythis ollaria)
-Kielmeyera, sp., 85
-Kokerite (see Maximiliana regia)
-
-
-Lacis alata, 61, 106, 235
-
-Lance-wood, 257
-
-Lecythis vllaria, 72, 194,318
-
-Lonchocarpus densiflorus, 234
-
-‘Long John’ (see Triplaris surina-
-mMeENSIS)
-
-Inycopodium, 94
-
-Lygodiwm, sp., 94
-
-
-Mahoe (see Hibiscus tiliaceus)
-
-Mammoorie (see Carludovica yplu-
-mieri)
-
-Manicaria saccifera, 92, 99, 257
-
-Manicole (see Kuterpe exorrhiza)
-
-Mangrove (see Rhizophora mangal)
-
-Manihot utilissima, 260
-
-Marcetia taxifolia, 83
-
-Marcgravia umbellata, 102
-
-Mauritia flexuosa, 33, 37, 92, 98, 104,
-196, 206, 210, 222, 267, 283, 297
-
-Maximiliana regia, 92, 108, 206, 210,
-267, 301, 314
-
-Melastoma, 85
-
-
-Mimusops balata, 267
-Mocco-mocco (see Caladium arbo-
-TESCENK)
-Monstera obliqua, 94
-Mora excelsa, appearance of, 5, 297
-distribution of, 2
-seed eaten, 262
-as timber tree, 2
-Mouriera fluviatilis, 105
-Mullera moniliformis, 234
-
-
-Nectandra Rodiagi, distribution of, 2
-as timber tree, 2
-seed eaten, 263
-Nephrolepis acuta, 103
-Nigritia Schomburghii, 267
-Norantea auianensis, 90
-
-
-Odonteglossum, 85
-
-Gnocarpus baccaba, 181, 210
-
-Oleandra hirtella, 94
-
-Oncidium, 85
-
-Orbigignia Sagotii, Nov. Sp. Trail,
-100, 282
-
-Orchids (see Cattleya, Sobralia, Epi-
-dendvron, Matophyllum, Odontoglos-
-sum, Oncidium)
-
-
-Pachira aquatica, 6
-
-Palms (see Astrocaryum, Bactris,
-Desmoncus, Euterpe, Geonoma,
-Iriartea, Manicaria, Mauritia,
-Mazximiliana, Orbigignia)
-
-Parkia pendula, 90
-
-Passiflora, sp.? 40
-
-P. fatida, 252
-
-P. lawrifolia, 252
-
-Passion-flower (see Passiflora
-
-Pekea tuberculosa, 179, 267
-
-Petraa marliana, 73
-
-‘Plantain, wild" (see Rarenala guia-
-NENS*E)
-
-Polypodium decumanum, 108
-
-Posoqueria longifiora, 74, 91, 95
-
-P. aquatioum, 26, 103
-
-Psidium aromaticum, 26, 103
-
-Pteris aquilina, 67, 74
-
-
-Rarenala guianensis, 93, 177, 210
-Razor-grass (see Soleria scindens)
-Rhizophora mangal, 4, 100
-
-
-Scirpus paradoxus, 105
-
-
-' Soleria scindens, 9, 252
-
-
-INDEX. 445
-
-
-Selaginella, 94
-
-Smilax cayannensis, 238
-
-Sobralia, 67,74, 84, 85
-
-Souari-palm (see <Astrocaryum rul-
-
-
-gare)
-Strychnos toxifera, 311
-Sun-dew (see Drosera)
-Sraritzia, 97
-
-
-TAURENERO (see Humirium floribun-
-dum)
-
-Tecoma (see Hackia), 90
-
-Tephrosia toxicaria, 234
-
-Ternstromia, 85
-
-Thevetia nereifolia, 323
-
-Thibaudia, 84
-
-
-Thurnia, Nov. GEN., Hooker (see
-Cyperus)
-
-Tillandsia usnecides, 94
-
-Trichomanes Priewrii, 64
-
-Triplaris surinamensis, 90, 104
-
-Troolie (see Manicaria saccifera)
-
-Trumpet-wood (see Cecrupia peltata)
-
-
-Victoria regia, 14, 31, 143
-Voyrta, sp. var., 62, 98
-Voyschia, sp.? 85
-
-
-WALLABA (see £perua falcata)
-YARRI-YARRI, 257
-
-
-Yarro-conalli (see Tephrosia tozicaria)
-Yoarno (see Gaultheria uregon)
-
-
-LONDON: PRINTED BY
-STOTTISWOODE AND O00., NEW-STREET SQUARE
-43D PARLIAMENT STREET
-
-
-YC 89452
-
-
-“ULC. BERKELEY LIBRARIES
-
-
-baled
-- coeu a0ebe .
-
-
-a ee

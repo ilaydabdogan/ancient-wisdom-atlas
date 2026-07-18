@@ -1,106 +1,4 @@
 # The Epic Songs of Russia
-THE
-
-
-BY
-
-
-ISABEL FLORENCE HAPGOOD y^^
-
-
-.^ tr. .^
-
-
-///
-
-
-WITH AN INTRODUCTORY NOTE
-
-
-BT
-
-
-PROFESSOR FRANCIS J. CHILD
-
-
-^
-
-
-70V
-
-
-sL
-
-
-7^
-
-
-l.h-f^
-
-
-NEW YORK
-CHARLES SCRIBNER'S SONS
-
-LONDON: BERNARD QUARITCH
-15, Piccadilly
-
-
-TO
-
-CLARENCE JOHN BLAKE, M.D.,
-
-OF BOSTON,
-
-m RECOGNITION OF THE FRIENDLY INTEREST
-
-WHICH HE HAS TAKEN IN ITS
-
-PREPARATION,
-
-Wiiia Boafe ia ©etiicatetj,
-
-BY THE AUTHOR.
-
-
-INTRODUCTORY NOTE.
-
-
-I
-
-
-T CANNOT forbear to bespeak a welcome for
-this spirited and sympathetic version of the
-more important of the Great Russian Popular Heroic Songs. Besides the pleasure which may be
-got from it, it will help to an appreciation of that
-large class of our fellow-creatures, in the past and
-in the present, who have been educated by tradition and not by books, and who, though living on
-oats, feel and cherish poetry not less than those
-who have been nursed in comfort and schooled in
-literature. The songs and tales of this class have
-now been collected from Siberia to the Azores, from
-Iceland to Cyprus, and more or less all the earth
-over. The pampered world of cultivated readers
-has made new and refreshing acquisitions from the
-inheritance of the poor and simple, and has reason
-to respect and admire those whom, at best, they
-pitied for their destitution of intellectual solaces
-and delights. Though this book is meant for the
-general reader, it cannot fail to be. most acceptable
-
-
-VI INTRODUCTORY NOTE.
-
-to students of popular tradition who have been so
-unfortunate as to neglect Russian; for nothing
-of the same kind and compass has, so far as I
-know, been published in any language of Western
-Europe. The translator has said in her introduction all that I should otherwise have felt called to
-say, and has left it for me only to express the
-obligation, which I for one feel to her, for undertaking this work, and the wish that it may meet
-with the reception which I think it deserves.
-
-F. J. CHILD.
-
 
 PREFACE.
 
@@ -300,9 +198,6 @@ Vasily Buslaevich 357
 Merchant Sadko the Rich Guest of Novgorod . 357
 
 
-THE EPIC SONGS OF RUSSIA.
-
-
 frv4
 
 
@@ -483,8 +378,6 @@ even in summer, or voloki — long poles, one end of which
 is fastened to the horse collar, while the other end, with
 board attached to bear the load, drags on the ground.
 Where water communication is lacking, the peasant must
-
-
 go on horseback, making his own path through the dense
 forest. The cultivation, with great labor, of tiny clearings in the forest, and fishing in autumn, form the only
 means of livelihood, so that all are obliged to add some
@@ -517,8 +410,6 @@ making fine nets, — and to learning epic songs.
 Two of the causes which have aided in the preservation of epic poetry in these remote districts, long after
 its disappearance from other parts of Russia, are liberty
 and loneliness. These people have never been subjected
-
-
 to the oppressions of serfdom, and have never lost the
 ideal of free power celebrated in the ancient rhapsodies.
 In these forest fastnesses they have never felt the influences of change, — conditions remain as in epic times.
@@ -645,8 +536,6 @@ lengthened to seven or contracted to four. A longer
 or shorter measure than these is an evidence of decay.
 The measure varies with the subject to some extent.
 • For example, Ryabinin sang the lay of Stavr in trochaic
-
-
 leasure with a dactyl, Mihdilo Rover in pure trochaic, \
 [and Volgd and MikOla in anapaests. -^
 
@@ -679,8 +568,6 @@ groups : the cycle of Vladimir or Kief, that of Ndvgorod,
 and that of Moscow, preceded by three songs of the
 Elder Heroes. With regard to the first two, and the
 Kfef cycle in particular, authorities on the origin of Russian literature differ widely. One writer endeavors to
-
-
 prove that the Russians, while preserving the traditions
 common to all Aryan races in their Ceremonial Songs, entirely forgot the common Aryan stock of heroic legends.
 He assumes that these legends came back to them
@@ -1049,8 +936,6 @@ Tzar and his Tzaritza.
 
 " Ai, my Tzaritza Pantdlovna ! I know what I
 know. Li Russia the grass groweth not as of yore,
-
-
 the flowers bloom not as of old ; plainly, Volgd
 no longer among the livmg."
 
@@ -1177,8 +1062,6 @@ to me. Kurtzovetz, Oryekovetz, and Krestydnovetz."
 
 " Ho, Volga Vsesldvich ! Robbers dwell there.
 Two days ago I was in that town, bearing two sacks
-
-
 of salt, of a hundred poods each, upon my night
 ingale mare, and they demanded toll ; and for
 I gave them they would still have more. Then
@@ -1391,11 +1274,6 @@ On the table lay the five hundi'ed rubles, and
 with this money she began to trade. When she
 had accumulated untold treasure of gold, she built
 dark red ships, freighted them with precious wares
-
-
-EPIC SONGS OF EUSSIA.
-
-
 and sailed forth upon the glorious blue sea. And]
 when she was come to the great city, to the Holy
 Mountains, and began to barter her precious wares,]
@@ -1424,8 +1302,6 @@ THE CYCLE OF VLADIMIR, OR OF KIEF.
 
 
 t
-
-
 k
 
 
@@ -1495,7 +1371,6 @@ of His. Therefore, defend thou the Christian
 faith, fight against all infidel hosts, bold warriors
 and daring heroes, for it is written that death shall
 not come to thee in battle. Stronger than thee
-
 there is none in the white world, save only Volgd,
 
 (and he will take thee not by might but by craft),
@@ -1503,9 +1378,6 @@ and Svyatog6r, and, stronger yet, beloved of damp
 
 
 I
-
-
-EPIC SONGS OF BUSSIA. 41
 
 
 mother earth, Mikiila Selyaninovich, the Villager's
@@ -1538,8 +1410,6 @@ in the stall, feeding it with the finest white Turkish wheat, and watering it fr
 After these months were past, he bound the foal
 for three nights in the garden, anointing it with
 three dews. When that was done, he led the foal
-
-
 to the lofty paling, and the good brown began to
 leap from side to side, and was able to sustain
 Ilya's vast weight; for he had become a heroic]
@@ -1714,8 +1584,6 @@ from that blow, but where the great brand struckl
 an iron ridge sprang forth. Again spoke Svyatog6ri
 
 " I stifle, younger brother ! essay yet one morl
-
-
 blow upon the lid, with my huge sword." Then
 Ilya smote along the lid — and a ridge of iron
 sprang forth. Yet again spoke Svyatog6r :
@@ -1816,8 +1684,6 @@ were called royal or imperial because, until recently, the crown derived
 its revenue from them.
 
 
-50 EPIG SONGS OF RUSSIA.
-
 render drunk with wine. Cut off his turbulen
 head, and bear it to the King in place of Dunai's.
 
@@ -1889,8 +1755,6 @@ chastise me not therefor."
 
 Then spoke Dobrynya, and wavered not : "I
 
-
-52 EPIG SONGS OF RUSSIA.
 
 know a fitting mate for thee, a princess, and
 thou hast described is she — a beauty such
@@ -2031,8 +1895,6 @@ forests dreaming still in primeval denseness ; and
 ^ Saracen land.
 
 
-66 EPIC SONGS OF EUSSIA.
-
 SO came to the brave land of Lithuania, and to the
 royal palace.
 
@@ -2067,8 +1929,6 @@ Sun, Prince Vladimir." Then he laid the scroll
 on the oaken table.
 
 The King looking upon it, tore the black curls
-
-
 from his head and cast them on the brick floor, as
 he spoke in wrath :
 
@@ -2101,8 +1961,6 @@ slay the rest.
 break ; the Tatar is wiry, he will not tear."
 
 Dobr;fnya at that shout, began to lay about him,
-
-
 and slew five hundred Tatars with his own right]
 hand.
 
@@ -2174,8 +2032,6 @@ They rose while it was still very early, and set
 out upon their way. And the Tatar rode in pursuit, his steed all covered with the mire of the way.
 
 Then Dtinai was aware of the knight in the way,
-
-
 and sent Dobrynya on to Kief town in Holy Russia,
 with the fair Princess Apraxia, but remained himself in the open plain to meet that stout, bold
 adversary.
@@ -2245,8 +2101,6 @@ Ivdnovich bragged also. " In all Kief town," quoth
 1 Be married : referring to the crowns held over the heads of bride
 and groom during the marriage ceremony.
 
-
-62 EPIG SONGS OF RUSSIA.
 
 he, "is no such youth as quiet Diinai. — From
 Lithuanian land he drew forth two white swans ;
@@ -2319,10 +2173,6 @@ had said.
 
 Then Diinai's heroic heart burned within him
 for grief and remorse. " Where the white swan
-
-
-64 EPIC SONGS OF BUSSIA.
-
 fell," he cried, " there also shall fall the falcon
 bright." Then he placed the hilt of his dagger on
 the damp earth, and fell upon its sharp point with
@@ -2406,8 +2256,6 @@ the best of her foals Stavr rideth, and the worst he
 selleth at great prices to princes and boyars. Hence
 Stavr's golden treasure is never exhausted. Yet
 one thing hath Stavr whereof he will boast, a young
-
-
 wife, Vasillsa Mikiilichna : ^ she could buy and sell
 all Kief town, deceive all these princes and nobles,
 and drive even Fair Sun Vladimir from his senses."
@@ -2704,7 +2552,6 @@ to sleep and dream,^ and to say : " Ai, Fair Sun
 
 2 Constantinople.
 * Among the ancient Slavs this was regarded as the highest coi
-
 pliment which could be paid to a musician.
 
 
@@ -2855,8 +2702,6 @@ now, and receive the sacrament ? Why do ye bid
 farewell thus, to the white world ? "
 
 Then they told him how they were besieged by
-
-
 accursed Tatars, and Ilyd said : " Go ye upon the
 famous wall of your city, and look toward the open
 plain."
@@ -2955,8 +2800,6 @@ and a fair orchard encircled all.
 When the Magic Bu'd's children looked from
 the latticed casements, and beheld a hero riding
 with one at his stirrup, they cried : " Ai, lady
-
-
 mother! Our father cometh, and leadeth a man
 at his stirrup for us to eat."
 
@@ -2989,10 +2832,6 @@ Mtirom, that he may set me free."
 Quoth Hya : " If I should plant my sharp spear
 in the earth, and if thou shouldst heap treasure
 about it until it was covered, yet would I not
-
-
-84 EPIO SONGS OF RUSSIA.
-
 release thee, Nightingale, lest thou shouldst resume
 thy thieving. But follow me now to glorious Kief
 town, that thou mayest receive forgiveness there."
@@ -3023,8 +2862,6 @@ what horde and land he came, and what was his
 parentage. So Ilyd told him that he was the only
 son of honorable parents. " I stood at my home
 in Murom, at matins," quoth he, " and mass was
-
-
 but just ended when I came hither by the straight
 way."
 
@@ -3058,9 +2895,6 @@ Prince Vladimir spoke: "Whistle, thou Nightingale, roar like an aurochs, hiss li
 But the Nightingale replied : " Not thy captive
 'am I, Vladimir. 'Tis not thy bread I eat. But
 give me ^dne."
-
-
-EPIC SONGS OF EUSSIA.
 
 
 " Give him a cup of green wine," spake Ilyd,
@@ -3187,8 +3021,6 @@ town.
 
 As they rode, there met them in the way a wandering psalm-singer. His foot-gear was woven of
 the seven silks, soled with pure silver, and the faces
-
-
 were studded with red gold. His long mantle wai
 of sable, his hat from Sorochinsky, from the Gre
 cian land ; his travelling whip weighed thirty poods
@@ -3256,10 +3088,6 @@ white breast, thrusting him from his Cherkessian
 saddle.
 
 Aly6sha fell to the damp earth. Then Aklm
-
-
-92 EPIG SONGS OF RUSSIA.
-
 sprang down from his good steed, and would hav
 pierced his white breast, but perceived thereon
 wondrous cross of gold, and so said to the pilgrim
@@ -3300,8 +3128,6 @@ Aly6sha Popovich ! According to thy lineage, seat
 th|
 
 ml
-
-
 thyself in the great place, the fore comer ; or in
 the second, the heroic place, on the oaken bench
 over against me ; or in the third place, wheresoever thou desirest."
@@ -3410,8 +3236,6 @@ having called his comrade, hastened forth.
 
 They mounted, and rode to the Safat river, and
 pitched their white pavilions; preparing to rest,
-
-
 they loosed their horses in the green meadow.
 All that night Aly6sha slept not, but besought God
 with tears : " Fashion, O God, a threatening cloud,
@@ -3447,8 +3271,6 @@ brought it to Kief in this fashion, he flung it int(
 the midst of the royal courtyard.
 
 
-EPIC SONGS OF EUSSIA. 97
-
 When Prince Vladimir beheld Aly6sha, he
 entered his fair hall, seated himself at his richly
 decked table, and bade the banquet proceed for
@@ -3470,9 +3292,6 @@ young Tugdrin the Dragon's Son."
 Thereto Aly6sha made answer : " Little mother,
 Princess Apraxia, I had almost called thee then
 by the name which thou hast merited." /'
-
-
-98 EPIC SONGS OF BUSSIA.
 
 
 THE ONE AND FORTY PILGRIMS.
@@ -3503,8 +3322,6 @@ sanctuary, to kiss the grave of the Lord, and t
 bathe in Jordan river, that our sins may be for
 given. But it behooveth us to lay upon ourselvei
 a great vow, ye mighty heroes ! — not to rob no
-
-
 steal, not to yield to woman's charms, nor stain our
 knightly hands with blood.
 
@@ -3612,8 +3429,6 @@ pilgrims, the Princess Apraxia, with her nurses
 and duennas, and her fair handmaidens. Young
 Kasyan Mikailovich sat in the great place of honor,
 and from his youthful countenance as from the fair
-
-
 red sun, rays streamed. The stewards and cup
 bearers hastened to and fro, bearing fau* meats and
 drinks.
@@ -3688,8 +3503,6 @@ Then Prince Vladimir gave command in haste,
 that his mighty heroes should ride after the pilgrims. But Ilya of Murom warned him :
 
 " Ai, Fair Sun Vladimir ! these be no wandering
-
-
 psalm-singers, but one and forty heroes bold, an
 whom have we to send against them ? "
 
@@ -3767,8 +3580,6 @@ Kasydn Mikdilovich ? lo, it was thyself who didst
 impose that great vow."
 
 " Beloved comrades," young Kasyan made answer, " I did not steal the royal cup : this thing
-
-
 hath the Princess Aprdxia contrived because 1
 would not yield to her. Nevertheless, do ye now
 the thing commanded, and break not your solemn
@@ -3835,8 +3646,6 @@ theh pilgrimage to Jerusalem, they returned again
 to where they had left their good steeds roaming,
 and rode to Kief town, to Fair Sun Vladimh's
 spacious court, where they asked alms in Chrifit's
-
-
 name, that they might have the wherewithal to
 dine.
 
@@ -3869,8 +3678,6 @@ the fair chamber, and flung wide the little lattice
 casements. The Princess prayed to be forgiven;
 thereupon young Kasyan breathed upon her with
 his holy breath, laid his holy hand upon her and
-
-
 pardoned her, and she was solaced ; for she had
 suifere.d much, lying in shame a full half year.
 
@@ -3964,8 +3771,6 @@ when he was thus led out with ignominy.
 
 He fitted an arrow to his stout bow. " Fly, my
 shaft, about the princely windows," he conjm'ed
-
-
 it ; " bear off all the golden spires, and the wonderworking crosses on God's temples."
 
 Then he gathered up all the spkes and crosses,
@@ -4002,7 +3807,6 @@ Aly6sha Pop6vich will not know how to bid him.
 
 I.
 EPIC SONGS OF RUSSIA. 113.^-^i- ,
-
 and Churllo Plenk6vich is good for nothing but to ;
 strut among the maids and women. We must
 send a clever man, who can read and write, one
@@ -4036,8 +3840,6 @@ his message.
 
 "Happy art thou, young Dobi-ynya Nikitich,"
 quoth the Old Cossdck, " in that thou camest upon
-
-
 lU EPIC SONGS OF RUSSIA.
 
 me from behind. Hadst thou approached me from
@@ -4071,8 +3873,6 @@ and spoke : " Ho there, thou Old Cossdck Ilya of
 Murom! Here is a place for thee beside me,
 either on my right hand or my left, and yet a third
 place — wherever it pleaseth thee to sit." There
-
-
 with he took Ilya by his white hands, and kissed
 him on his sugar mouth.
 
@@ -4106,7 +3906,6 @@ but only a good steed.
 
 In the tenth year, courteous Prince Vladimir
 ^ made a great feast in royal Kief town, whereat
-
 many heroes and bold warrior-maidens were assembled, eating and drinking merrily. Young Dobrynya Nikitich sat at the end of the oaken board,
 and spoke :
 
@@ -4148,8 +3947,6 @@ adorned. In her window sat a dark-blue dove and
 his mate cooing, yellow bill to biU, and moutL to
 mouth, with wing enfolding wing ; and it pleased
 not Dobrynya that they should sit thus. He
-
-
 strung a silken cord to his bow, and fitted thereto a
 flaming arrow, and shot at the dove and his mate.
 The cord sang on the stout bow, but his left foot
@@ -4225,18 +4022,14 @@ still employed in a slightly difiereut form among the Burmese.
 
 
 i
-
-
 silver hoofs and velvet hide, or into a frog of the
 under world ; — and from that last estate there is
 no return forever."
 
 Then she transformed him into a brown aurochs,
-
 and sent him forth into the open plain, to drink
 
 / swamp water and to eat marsh grass, to be chief
-
 over the nine brown aurochs who roamed there —
 
 the mighty heroes her bridegrooms.
@@ -4260,8 +4053,6 @@ spoke :
 the Vile hath transformed." But when the guardians of the horses came and told how the aurochs
 had dispersed their charge over all the plain, sparing none, Avd6tya rose in wrath. She turned herself
 into a magpie, and flew to Mai'Ina the Vile, perched
-
-
 in her little lattice window, and began to scold, and
 say : " Vile Princess Marlnushka ! why hast thou
 transformed Dobrynya into a golden-homed aurochs,
@@ -4294,8 +4085,6 @@ a goodly youth as of old.
 
 " Now I must wed thee about a bush, Marinnshka," he said, " about a willow bush in the
 open plain." So three times about the willow bush
-
-
 they paced, and Dobrynya called Marina his wife,^
 and set out with her for royal Kief town.
 
@@ -4342,8 +4131,6 @@ and no longer alone, but now I am single and no
 
 
 i
-
-
 longer wedded. I have cut off Marina's turbulent
 head for her ruthless deeds ; for she had slain many
 Russian people, Princes and their heirs, Kings and
@@ -4422,8 +4209,6 @@ tioyarin 600 r. The comparative rauk indicated bad long prevailed,
 probably from Vladimir's day.
 
 
-126 EPIC SONGS OF BUSSIA.
-
 is now betrothed to Tzar Koschei of a distant land.
 If I give her to a Tzar, she will be a Tzaritza, and
 all the nobles will bow before her in homage ; but
@@ -4494,8 +4279,6 @@ Dmitry made answer as before.
 1 Ulani.
 
 
-128 EPIO SONGS OF RUSSIA.
-
 " I shall neither ask thee much nor long dispute," said Ivan ; and thereupon he rose from th(
 hewn wall bench, pushed aside the silken hangings,
 and so came into the new hall where sat the White
@@ -4563,36 +4346,22 @@ from sleep, came forth, and washed himself with
 fresh spring water, dried himself upon a towel
 of fine damask, crossed himself as prescribed, did
 reverence as enjoined, and prayed to the most
-
-
 wondrous Saviour. Then he mounted his gooc
-
 steed, took his arms, and rode at Kosch^i. The
-
 adversaries went apart about the space of three
-
 versts, and when they came together they greeted
-
 each other, and smote each other with their Tatai
-
 spears, but yet pierced one another not. Again
-
 they rode aside about three versts, came at each
-
 other, saluted courteously and brandished theii
-
 battle-maces.
 
 Ivan's mace fell upon Kosch6i*s head, an^
 
 Kosch6i flew from his good steed. Ivdnushka wai
-
 cunning : he leaped over his good steed's mane to
-
 the eai'th, hurled himself upon Kosch^i's black
-
 breast, undid the silken loops, unfastened the buti
-
 tons of pure gold, and would have pierced his black"
 
 breast, and taken out his restive heart with his'
@@ -4600,15 +4369,11 @@ breast, and taken out his restive heart with his'
 ■ . 'J
 
 liver. But he had forgotten his dagger of dam-j
-
 ascened steel, and shouted with a great voice : " Hoi
-
 there, my "White Swan Avd6tya ! Throw my steel
-
 dagger from the white pavilion : I must needs prick
 
 Kosch^i's black breast, and draw forth his restive
-
 heart."
 
 Avd6tya obeyed his behest, and fetched the dagger. But when Kosch6i espied her, he spoke this
@@ -4618,11 +4383,7 @@ word : I
 thou livest with Ivan thou wilt be a servant, and
 must bow in lowly reverence before all men : but
 I will make thee a Tzarltza. Many lands shall do
-
-
 i
-
-
 homage to thee, and all nobles shall do reverence
 to thee. Do thou therefore seize Ivan by his
 ruddy curls, and drag him from my breast."
@@ -4697,8 +4458,6 @@ which it is necessary to destroy. He frequently figures in the skdzkas
 "Deathless." Specimens of these tales may be found in "Kussian
 Folk-lore " (p. 85), by W. R. S. Ralston.
 
-
-EPIC SONGS OF BUSSIA. 133
 
 " Release me, and I will neither beat thee, nor
 impute to thee great blame. I will but read thee
@@ -4790,8 +4549,6 @@ the third a black marvel of darkness."
 Dobrynya reflected then in haste, and replied to
 the raven : " What thou hast said of the old man
 and the raven is true." Then he put aside his
-
-
 dart, and thought : " Better is it that I should go
 to the lofty mountain, to yon steep hill, and view
 those three wondrous marvels, those three marvellous damsels."
@@ -5127,8 +4884,6 @@ streets.
 Then that bright lord. Prince Vladimir, made a
 great feast for his new steward. Churllo laid the
 oaken tables, and as he shook back his golden
-
-
 curls, they fell apart as fair round pearls do roll
 . asunder; and as young Princess Apraxia was
 \ carving the swan, she cut her right hand, and
@@ -5205,11 +4960,7 @@ will not give thee the green wine without thy
 money." ji
 
 But the pilgrim took from his neck an ancient;
-
-
 i
-
-
 and wondrous cross, six poods and a half in weight,
 of purest antique gold. " Take this cross as
 surety," he said; but they dared not.
@@ -5242,8 +4993,6 @@ give ye all green wine even to drunkenness, without price."
 
 When the vintners heard that, they assembled,
 eighty men in number, to take the green wine
-
-
 from the aged pilgrim, but could do nothing, and
 so went to petition Prince Vladimir against him.
 They had told all their griefs, and Vladimir said :
@@ -5309,8 +5058,6 @@ Lord Diuk rode a-hunting, beside the broad
 
 1 Dux — duke. Little Russian, diika, a rich man. See Appendix.
 
-
-152 EPIG SONGS OF RUSSIA.
 
 blue Ocean-sea, and peaceful bays, shooting foxes,
 martens, blue-gray eagles, geese, white swans and
@@ -5414,8 +5161,6 @@ words. He went to the stall and curried his good
 steed with a fine comb of fishes' teeth. Winged
 Shaggy's mane swept the damp earth, on the left
 side ; his flowing tail wiped out traces of hoofs as
-
-
 he passed over. On him Diuk put his braided bit,
 his metal-bound Cherk^ssian saddle, with felt on
 felt, saddle-cloth on saddle-cloth beneath ; and one
@@ -5478,8 +5223,6 @@ So the good youth came forth in safety, and rode
 farther over the open plain until he came to a
 damp, ring-barked oak, whereon sat a black raven
 cawing, and spoke this word : " Ai, thou cawing
-
-
 raven, thou bird of omen ! I will bend my stout
 bow, I will lay a fiery arrow to the silken cord, I
 will scatter thy feathers over the open plain ; I will
@@ -5513,8 +5256,6 @@ if the horses begin to fight, I will go my way, for
 so I may."
 
 When he beheld the good steeds feed in peace,
-
-
 side by side, he entered the linen pavilion, crossed
 himself as enjoined, did reverence as prescribed ;
 and behold ! in one corner, slumbered a hero and
@@ -5583,8 +5324,6 @@ There he dismounted, and left Shaggy, his little
 dapple-bay, unbound and without orders. In the
 cathedral, he took his stand in the place of the
 ambassadors, — the left porch. While the mass
-
-
 was sung, he prayed not so much as gazed about :
 — he gazed at the church and gulped, at Prince
 Vladimir and shook his head, at the Princess
@@ -5655,8 +5394,6 @@ But Vladimir said nothing. ,
 Then all began to make great brags, some of one
 thing and some of another; and Diuk alone sat
 sad and silent, eating not nor drinking nor carving
-
-
 the white swan. And courteous Prince Vladimir
 spoke :
 
@@ -5721,8 +5458,6 @@ catch the garments : our steps are of ivory spread
 with silken rugs, and the railings are carved of
 pure gold. The floor of thy banquet-hall is of pine
 planks, and uneven, the walls and ceiling unpainted,
-
-
 the tables of oak, the cloths patterned with drawn
 threads. But the floors of our halls are of ash,
 the walls and ceilings all painted, the tables of
@@ -5787,8 +5522,6 @@ fine white blouse without a girdle ; he crossed himself, and bowed to all save t
 
 Then said Diuk : " The fame of Churllo's beauty
 was not false, — for his neck is like the driven
-
-
 snow, his face red as the poppy. But the fame of
 Churilo's courtesy was false, — he knoweth not how
 to do homage nor to salute."
@@ -5998,8 +5731,6 @@ Vladimir.
 
 " Nay ! Aly6sha shall not go to my India,"
 quoth Diuk : " for he hath pope's eyes, greedy
-
-
 eyes, and pope's pilfering hands. He will never
 return."
 
@@ -6034,11 +5765,7 @@ three great carts of paper. When, after long
 wanderings, they came to India the Rich, they
 climbed a lofty mountain, and beheld the land
 glowing before them. And one said : "Of a
-
-
 i
-
-
 surety, Lord Diuk hath sent warning to his native
 land, that they should set on fire great India the
 Rich, for lo ! it burneth ! "
@@ -6102,8 +5829,6 @@ might know her as she came thence by these signs :
 Before her would come a host with shovels, and
 then a host of sweepers, to make all clean, and
 sprinkle orange-tawny sand, and others still spreading cloth of scarlet. Then would follow the mc
-
-
 honorable widow, Amalfya Timofeevna, supported
 on either hand by scores of maidens.
 
@@ -6137,8 +5862,6 @@ all they would, the honorable widow showed them
 fii'st, Diuk's horses ; and they would have counted
 them — but could not. Then she showed them
 Diuk's foot-gear ; this also they would have reckoned— and could not. After that, she led them
-
-
 to the deep vaults with vents to the open plain,
 where swung the gold-hooped casks of silver in
 their chains of brass, and murmured like white
@@ -6171,11 +5894,7 @@ and Churilo Fop, and all the princes, nobles, and
 scribes, to Volhynia town in India the Rich, to
 view and compute Diuk's possessions. When they
 came to Diuk's dwelling, they marvelled greatly,
-
-
 i
-
-
 for such a palace even royal Vladimir himself had
 never yet beheld, — and they feared to enter.
 
@@ -6347,8 +6066,6 @@ man.
 Then he returned again to the face of Batyg.
 
 " Forgive this my fii*st fault," he said ; "I have
-
-
 lost that host of forty thousand. But I have spied
 out Kief town and viewed it, where the gates are
 open and unbarred."
@@ -6446,8 +6163,6 @@ J
 
 
 f
-
-
 undo quickly thy foot-gear of the seven silks from
 thy feet, and put on my morocco shoes, for I will
 go sadly as a wandering psalm-singer." — And it
@@ -6516,8 +6231,6 @@ seized his poniard from the oaken table, and hurled
 it at Ilya of Mtirom, that wandering psalm-singer.
 But Ilyd was nimble of foot, and leaped quickly^
 aside upon the oven, and turning, caught tl
-
-
 weapon in its flight, upon his staff". The poniard
 glanced off, struck the white oak door ; the door
 flew from its fastenings ; the poniard bounded into
@@ -6562,8 +6275,6 @@ thy leave I will go ; and if thou give it not, — I
 will go."
 
 So his mother consented. He threw off his
-
-
 flowered raiment, and put on garments meet for a
 journey, and on his head a wide-brimmed hat from
 the Grecian land. Then he saddled and bridled a
@@ -6597,8 +6308,6 @@ a pool of rain-water." He dived like a duck
 beneath the first stream, and thi*ough the second
 likewise. — And lo ! there was no wind, but the
 clouds sailed on ; there were no clouds, yet the rain
-
-
 dropped down; no rain was there, yet the lightning flashed ; no lightning, yet sparks showered
 fast. No thick darkness was it that obscured the
 sky, nor gloomy clouds descending, but a fierce
@@ -6637,8 +6346,6 @@ blood! I will not fly in Holy Russia, I will im-
 
 I
 
-
-EPIC SONGS OF EUSSIA. 191
 
 prison no more heroes, nor strangle young maidens,
 nor orphan Httle children. I will be to thee a submissive Dragon ; and thou, Dobrynya, shalt be my
@@ -6704,8 +6411,6 @@ father ! Vladimir of royal Kief ! But yesterday
 in the open plain, I beheld Dobrynya beside the
 Piichai river in conflict with that Dragon. And
 the Dragon beguiled him, — calling him her elder
-
-
 brother, herself his younger sister. Send Dobrynya, therefore, to the Tugy mountains, for the
 Princess Beauty."
 
@@ -6736,8 +6441,6 @@ niece from the fierce Dragon of the Cave."
 
 " Grieve not, Dobrynya," spoke his mother, the
 honorable widow, Aflmya Alexdndrevna. " Lie
-
-
 down to sleep early this evening ; to-morrow wilj
 be wise, for the morning is wiser than the evening." Her son heeded her ; and the next morningJ
 rising early, he washed himself very white, an(
@@ -6804,8 +6507,6 @@ Yield her now without battle or bloodshed."
 the Prince's niece."
 
 So they waged mighty battle all that day until
-
-
 the evening ; and the snake began greatly to pre
 vail. Yet Dobrynya, recalling his mother's counsel
 wiped his clear eyes and his white face upon th(
@@ -6838,10 +6539,6 @@ and Princes by forties, and of lesser folk man
 thousands, — and bade them go where they wouli
 But young Beauty, the Princess, he could nOt fin
 until he came to the fai'thest den. There she la
-
-
-I EPIC SONGS OF RUSSIA. 197
-
 chained with hands outstretched. He released her
 straight, and led her forth to the white world.
 Then he mounted his good steed, and setting
@@ -7009,8 +6706,6 @@ forth, and cried in piercing tones :
 have I. And I will lay a great wager; — not a
 hundred rubles, nor ^yet a thousand, — Imtnrrvy
 turbulent head shall be the stake, — that he will
-
-
 run against thy horse from Kief to Chemigof, between mass and matins, as thou hast said."
 
 " What devil wilt thou ride, then, Ivan ? " quoth
@@ -7044,8 +6739,6 @@ wh^at. And when the three days are past, a stern
 messenger shall come to thee from the Prince,
 bidding thee ride against him. Then saddle me
 not, Ivdn, but take me by my silken bridle, and
-
-
 lead me to the royal court. Don thy mantle of
 sables, — thy mantle of three thousand rubles, with
 its embossed clasps of five hundred rubles. When
@@ -7117,9 +6810,6 @@ Then was Prince Vladimu- veiy wroth : he
 
 
 I
-
-
-EPIC SONGS OF BUSSIA.
 
 
 wrapped himself in his mantle of sables, and
@@ -7254,8 +6944,6 @@ who rode against each other.
 
 First they fought with their maces, until these
 snapped short at the hilt, — and wounded one
-
-
 another not. Then they fought with their sharp
 swords, until these brake, — and wounded one
 another not ; and so Hkewise with their sharp
@@ -7289,10 +6977,6 @@ it, thou old dog, that thou shouldest shave thy
 head, and go to a monastery ! "
 
 Ilyd's heroic heart grew hot at that, and his
-
-
-EPIC SONGS OF BUSSIA. 211
-
 young blood boiled. He smote Falcon upon his
 black breast, and hurled him higher than the standing wood, yet lower than the flying clouds. When
 Falcon descended again to the damp earth, Ilyd
@@ -7322,8 +7006,6 @@ touching my forehead to the ground."
 i Then the old man felt compassion ; for he knew
 now that this was his own Falcon, by that fierce
 Zlatig6rka whom he had overcome in single combat, and to whom he had given his golden ring
-
-
 with an inscription, and set with a rich jewel. He
 took Falcon by his white hands, kissed his sugar
 lips, and called him his son, weeping greatly as he
@@ -7445,8 +7127,6 @@ bow in his left hand, the arrow in his right, and
 laid the arrow to the silken cord. As he drew the
 stout bow to his ear, with the burning arrow of
 seven eUs, the cord twanged, the horns of the great
-
-
 bow creaked, and he would have let fly. But the
 white swan besought him :
 
@@ -7480,8 +7160,6 @@ his brothers in arms :
 " Hast thou been led astray by woman's wiles,
 Mikailo Rover, that thou bringest hither no treasure ? With what face wilt thou present thyself in
 
-
-EPIQ SONGS OF BUSSIA. 217
 
 Kief 1 " But Mikailo answered them that he would
 go straightway to Kief with his White Swan, and
@@ -7517,8 +7195,6 @@ Then spoke sweet Mikailo the Rover to Mariushka the White Swan : " Let us wed."
 under one condition. Let us take a great and
 solemn oath that when either one of us shall die,
 the other shall go, living, into the grave with the
-
-
 dead, and there abide for the space of three
 months."
 
@@ -7628,8 +7304,6 @@ When that beast espied sweet Mikailo, she
 rejoiced that she should have a living man to satisfy her hunger, as well as the dead body.
 
 But Mikailo seized the Dragon with his iron
-
-
 pincers, and began to smite her with the iron rods,
 and to cry: "Ai, thou Dragon of the under-world!
 Fetch me the waters of Hfe and death ^ to revive
@@ -7738,8 +7412,6 @@ all. Grant me therefore to shoot arrows, and he
 who first returneth with one shall have me."
 
 To this they all agreed, and Mikailo shot forty
-
-
 arrows, — some into the brushwood, some mto
 the water : — and was it a light task to find
 them'?
@@ -7807,8 +7479,6 @@ As they journeyed to the Volhynian land, an
 aged man came to meet them in the way, and said:
 
 " Take me with you as your comrade." And
-
-
 they did so, and came to the land of Volhynia, to
 Tzar Vakram^y.
 
@@ -7842,8 +7512,6 @@ When Tzar Vakram^y saw that his whole kingdom could not stand against that one p
 pondered what might chance when the other two
 should wake. So he went in haste to his deep
 vaults, took gold, silver, and fair round pearls, an
-
-
 gave to those psalm-singers ; and the next morning they set out for Kief town.
 
 As they journeyed, they came to a stone ; and
@@ -7877,8 +7545,6 @@ how long I have slept ! "
 Then spoke the aged pilgrim : " Mikdilo, when
 thou art come to Kief town, burn a candle to Saint
 Mik6la. And fai*e ye well now, ye mighty Russian
-
-
 heroes! pray to Mik6la of Mozhdisk, and he will
 raise you from the blue sea ! " Therewith he
 vanished, leaving the money with them, and they
@@ -7913,8 +7579,6 @@ bazaar to buy one.
 
 While she was gone, Anna the Fair, sister to
 Tzar Vakram6y, took a Httle serving-maid, and
-
-
 went to view the Russian hero ; and as she looked,
 she loved. Mikailo's stupor was already passed,
 and he besran to entreat her to set him free.
@@ -7951,8 +7615,6 @@ then asked : " Hast thou thy strength as of yore % "
 
 And sweet Mikailo made answer : " If I had
 but my suit of chain mail, my great battle-sword,
-
-
 and my good steed, I should not fear your Tzar
 Vakram6y."
 
@@ -7988,11 +7650,7 @@ it to Rover Mikailo, beseeching him to drink it,
 and return with her to Kief, he would have done
 her bidding. But Anna the Fair thrust herself
 out of the lattice window to the gu'dle, and shrieked
-
-
 i
-
-
 in a piercing voice : " Drink not, sweet Rover
 Mikailo ! Remember thine oath. If thou drink
 that wine, thou hast lost thyself forever."
@@ -8110,8 +7768,6 @@ Then he gave commandment that they shoulc
 run into the harbor, and cast out steel anchors
 upon the steep shores, and throw out three landing
 stages ; one of red gold for Nightingale himself
-
-
 one of silver for his good body-guard, and one of
 bronze for his lady mother, the honorable widow,
 Ulyana Vasilievna.
@@ -8178,8 +7834,6 @@ men.
 thing commanded : put off your caftans of scarlet
 cloth, and your fair green shoes ; don raiment fit
 for labor, of elkskin, and heavy foot-gear. Take
-
-
 sharp steel axes, go to Love's garden, root up the
 oaks and elms, hew oaken beams, and build me
 there this night, three golden-crown6d towers, with
@@ -8257,8 +7911,6 @@ for thyself. This should not be, fair damsel. Bet
 
 
 i
-
-
 ter were it for thee to be at home, dra^ving water,
 milking the cows, feeding the calves."
 
@@ -8266,11 +7918,9 @@ Upon that, with great shame she turned and ran
 to her home.
 
 Then young Nightingale Budlmirovich donned
-
 with speed his richest apparel, and went to Prince
 
 Vladimir of royal Kief, in state, to woo, seated
-
 himself in the great place, and spoke this word :
 
 ■ " Ai, thou Prince of royal Kief town ! Thou
@@ -8430,10 +8080,6 @@ the point ; and as it pierced his white breast,
 Danilo closed his clear eyes forever.
 
 When the heroes came to him, they wept sore,
-
-
-244 EPIO SONGS OF RUSSIA.
-
 and turned back, and told Prince Vladimir : " Bol
 Danilo is dead."
 
@@ -8631,8 +8277,6 @@ feast with her.
 " Long have I journeyed in Holy Russia, but
 such a marvel I have never yet beheld," said Ilyd.
 Then she led him in. The good youth crossed
-
-
 himself as prescribed, made salutation as enjoined
 to all sides, and lowest of all to the fair Princess
 who placed him at the table of white oak, an(^
@@ -8762,8 +8406,6 @@ courteous Prince Vladimir had made an honorable
 feast to his princes, nobles, heroes, and warriormaids.
 
 The long day drew towards evening, the honorable feast waxed merry, the fair sun sank to the
-
-
 west. And the feast grew ever merrier, and the
 heroes began to boast of many thmgs, — the wise
 man of his father and mother, the foolish of his
@@ -8826,8 +8468,6 @@ Dobrynya Xikitich."
 Then Dobrynya drained a cup of green wine
 which Prince Vladimir himself brought him, but
 tarried not long at the feast, going thence in
-
-
 ui^cheerful mood. When he came to his mothe]
 he wept bitterly.
 
@@ -8895,8 +8535,6 @@ from under the saddle and throw the good youth
 upon the open plain.
 
 After that he arrayed himself. Under the heels
-
-
 of his shoes of green morocco, studded with golden
 pins, sparrows might fly ; from their awl-like beaks
 an eg^ might roll ; his cap was gilded, — not for
@@ -8993,8 +8631,6 @@ be free to live a widow or to wed. But thee,
 Aly6sha, I may never wed."
 
 Then Aly6sha was not merry, and said : " Thou
-
-
 may est turn and strive thy uttermost, but none
 other wilt thou get for a husband; and so shalt
 thou wed with me."
@@ -9032,11 +8668,7 @@ Afimya Alexandrevna wailed : " Now hath my
 bright moon set also ! "
 
 — Now Dobrynya had gone to the Golden Horde,
-
-
 k
-
-
 and had fought for royal Kief and his native land
 all those years, wandering far through many countries. When Nastasya married Aly6sha, he was
 far away upon the open plain, beyond the glorious blue sea. As the good youth sat in his tent,
@@ -9067,10 +8699,7 @@ leaped the lakes and rivers, dashed thi'ough the
 dusky forests, galloped round the dark blue sea, —
 afar in the open plain, 'twas not the first light
 snow descending, nor a white hare coursing fleet,
-
-
 the
-
 heul
 
 )wd|
@@ -9337,8 +8966,6 @@ Then Kalin the Tzar assembled a great host
 from the Golden Horde, to ride against Kief town,
 to take the Princess Aprdxia for his wife. Each of
 the forty Tzars and Tzar^viches, the forty Kings
-
-
 and Princes, had a company of forty thousand men.
 They stood along swift-flowing Mother Dniepr, and
 about Kief town on all sides, a hundred versts well
@@ -9372,8 +8999,6 @@ All this was done as Kalin had commanded;
 
 
 /
-
-272 EPIC SONGS OF BUSSIA.
 
 
 and when Prince Vladimir had read the cartel h
@@ -9409,8 +9034,6 @@ and besought him to defend them all, not foi'
 his own sake, but for pity of the widows and
 orphans. Then he took the Old Cossack by his;
 little white hands, by his golden ring, led him tc
-
-
 his ovni table, and gave him to eat and drink of
 the best.
 
@@ -9443,11 +9066,6 @@ where twelve heroes of Holy Russia were sitting at
 meat.
 
 All rose and kissed, and bade him welcome
-
-
-274 EPIC SONGS OF BUSSIA.
-
-
 heartily. Then they sat down again to eat an(
 drink, and Ilya announced his errand.
 
@@ -9463,13 +9081,9 @@ Vladimir."
 so they wrangled.
 
 Meanwhile Vladimir wrapped himself in his
-
 mantle furred with marten, and paced to and fro
-
 in Kief town. For the truce was nearly expired,
-
 and the heroes were not come. As he thus
-
 walked the streets, his nephew, young Yermak
 
 ^ Timofeevich,^ sprang forth from the royal pot-
@@ -9479,7 +9093,6 @@ walked the streets, his nephew, young Yermak
 -^ a heroic steed, a coat of chain mail of ninety poods,
 
 ^ and a mace of equal weight, so that he might ride
-
 against the hostile host.
 
 " Thou art but a braggart child," quoth Vladimir, " and hast never taken a mace in thy hand." ,
@@ -9597,8 +9210,6 @@ horse's hoofs ; and his strength was not diminished.
 When he fell into the first trench, his good
 steed bore him out in safety. Again he rode, and
 came to the second ditch ; and from that also he
-
-
 escaped. From the third, heroic Cloudfall leap
 nimbly (but bore not Ilya with him), and fled far
 afield.
@@ -9673,8 +9284,6 @@ breast, he sprang quickly to his nimble feet.
 
 " Ho there, my mighty heroes of Holy Russia ! '*
 |l he shouted. " Saddle now your good steeds in
-
-
 haste, and mount with speed. An unwelcome
 messenger is come from my brother in arms, — a
 little dart. — Had it not been for the cross of six
@@ -9759,11 +9368,8 @@ sable, the sable of Siberia; gracious her speech
 must be, as of the white migratory swan, her face
 white as the snow, her cheeks like the poppy in
 hue, her gait like that of the golden-antlered stag,
-
 i See Appendix. 2 Constantinople: literally, "Tzar's town."
 
-
-EPIC SONGS OF EUSSIA. 283
 
 and in all this world must none be found her
 equal."
@@ -9798,8 +9404,6 @@ black brows a whole Siberian sable. Set a tree
 of cypress, and on it place bu*ds of paradise that
 they may sing imperial songs. Prepare a couch
 of ivory, and at its head place, lord, a little giisly,
-
-
 which will sing, hum, breathe forth delicate tone
 of itself — all the airs of Tzargrad ; that they ma
 be a solace to Jerusalem, and may sing reason aa
@@ -9872,8 +9476,6 @@ they lie like Christian beasts about my decks."
 Then the Tzarltza rose, and took a force of five
 hundred men, and went to the first vessel to view
 the matter. There Tarakdshko brought lordly
-
-
 v6dka, and on the second treated her to the win
 of oblivion ; and the Tzaritza drank too mucl
 For Guest Tarakashko was crafty, and had mad
@@ -9948,8 +9550,6 @@ white swan it was which twittered, but the Tzaritza,
 who spoke these words : "I look — lo ! 'tis no
 wandering psalm-singer I see — 'tis Solomon the
 most wise Tzar. Prithee, Solomon, enter my
-
-
 lofty palace. That which I have done, lord, wat
 against my will."
 
@@ -10027,8 +9627,6 @@ good steeds, while Tzar Vasily feared and was
 disquieted.
 
 
-290 EPIQ SONGS OF RUSSIA.
-
 " What marvel is this that hath been wrought!
 Solomon ] " he asked. " On the open plain ther
 is stamping, and clinking of metal."
@@ -10062,8 +9660,6 @@ all speed they rode to the oaken gallows, and took
 Tzar Solomon most wise therefrom. Then they
 set Tzar Vasily in the silken noose, Tzarltza
 Solom6nida the Fair in the rope, and Guest Tarai
-
-
 kashko in the noose of bast. And having taken
 captive all Tzargrad, they journeyed back around
 the blue sea to Jerusalem, and began again to live
@@ -10143,8 +9739,6 @@ buckets from his vaults, and set it in the midst of
 his court, and took to himself a cudgel of red elm.
 
 " Whosoever shall lift in one hand a cup of this
-
-
 wine, in weight a pood and a half, and shall quaff
 it at a breath, and shall likewise withstand a blow
 from my red elm upon his turbulent head, he shall
@@ -10180,8 +9774,6 @@ leaped forth into the court, grasped his red elm
 more firmly, and began to brandish it. Where he
 swung it a lane appeared, where he drew it back,
 an alley ; and he slew the men of N6vgorod like
-
-
 a thunderstorm, so that they lay dead in heaps.
 And Vasily returned again to his lofty, goldencrowned tower.
 
@@ -10252,11 +9844,6 @@ have dissuaded him. " My dear child," she spoke,
 not for him who is unbidden."
 
 Nevertheless Vasily hearkened not to his mother's counsel. He took his brave body-guard, and
-
-
-300 EPIC SONGS OF BUSSIA.
-
-
 went to the feast. He asked no leave of the gatekeepers, nor yet of the lackeys at the doors, but
 entered straight the banquet-hall. He set his right
 foot in the hall, his left on the oaken table in the
@@ -10576,8 +10163,6 @@ mountains, embarked again upon their scarlet ships,
 
 
 i
-
-
 spread their sails of fine linen, and ran across the
 Caspian sea to that barrier to shipping where the
 robber Cossacks with their aged chieftains held
@@ -10613,8 +10198,6 @@ When they poured out green wine, he grasped
 the cup in one hand, and emptied it at a single
 draught : — and the measure of the cup was a
 bucket and a half. Thereat the chieftains marvelled greatly, for they could not diink so much as
-
-
 half a bucket. And when they had broken bread
 Vaslly betook himself once more to his scarle
 ships ; and the chieftains gave him gifts — a bow
@@ -10647,8 +10230,6 @@ Then the guards bathed in Jordan river, and4
 aged crone came to them, and said :
 
 " Wherefore bathe ye naked in Jordan ? Nol
-
-
 must bathe naked therein save only Vaslly BusMevich ! For Jesus Christ the Lord himself bathed
 in Jordan river. And ye shall lose your great
 chieftain, Vasily Buslaevich."
@@ -10681,8 +10262,6 @@ ascend.
 On the summit lay the stone with its inscription,
 which Vasily believed not. And after he had
 made meriy and diverted himself with his bodyguai'd, leaping across the stone, he was minded to
-
-
 essay a leap lengthwise. He leaped but a quarte;
 way, and falling, was killed upon the stone. And
 where the empty skull had lain, there they buried
@@ -10738,8 +10317,6 @@ And the third day, being still unbidden of any
 
 1 See Appendix.
 
-
-314 EPIO SONGS OF RUSSIA.
 
 man, he sat on the blue burning stone, and played
 upon his harp of maple-wood, and the waves rose
@@ -10842,11 +10419,7 @@ one of his good steed, one of his heroic might,
 another of his youth ; the wise of his aged parents,
 the foolish of his young wife. But Sadk6, as he
 walked about his palace, cried out : " Ho there, ye
-
-
 i
-
-
 rich merchants, ye lords, rulers, and men of N6vgorod ! ye have eaten and drunk at my feast, and
 made your boasts. And of what shall I vaunt
 myself? My treasures of gold are now mexhaustible, my flowered garments I cannot wear out, and
@@ -10875,8 +10448,6 @@ great treasure, went to the bazaar ; and finding
 wares yet more than before, he bought all, of
 whatever sort. And on the third day, when he
 came to the market, he found, to the great glory
-
-
 of N6vgorod, that vast store of goods had hastene
 thither from Moscow, so that the shops were ful
 to overflowing with the precious stuffs of Moscow.
@@ -10908,11 +10479,7 @@ pure silver, and fair round pearls. They sailed
 away from the Golden Horde, Sadk6 leading the
 way in the Falcon ship, the finest of all the vessels.
 But on the blue sea the red ships halted ; the waves
-
-
 i
-
-
 dashed, the breeze whistled, the sails flapped, the
 ships strained, — but could not move from that
 spot.
@@ -11053,8 +10620,6 @@ vast possessions.
 i
 
 
-EPIC SONGS OF BUSSIA. 323
-
 Three hours did Sadk6 play ; and the Tzarltza
 said to him :
 
@@ -11088,8 +10653,6 @@ to it that thou kiss not, embrace not thy wife ; so
 shalt thou be once more in Holy Russia, so shalt
 thou behold the white world and the fair sun. But
 if thou kiss her, never more shalt thou behold the
-
-
 white world, but shalt abide forever in the blue
 sea."
 
@@ -11153,8 +10716,6 @@ while cold is the favorite epithet in the South.
 
 According to the popular notion, the Ocean is the
 source of all rivers ; on this Ocean lies Alatyr which is
-
-
 healing ; — hence, from beneath this stone proceed
 rivers, and all healing.
 
@@ -11197,9 +10758,7 @@ have sailed thus across the plains of Thrace to the gates
 lilitary career at the same age.
 
 In the songs of the Turkish tribes of Siberia, the
-
 figure of the sorcerer and hunter who catches game
-
 md feeds his followers is very common, these peoples
 
 )eing still in the shepherd and hunter stage of civiliition.
@@ -11242,8 +10801,6 @@ thirty, while the traitor Ganelon is defended by the
 same number of relatives. As the ancient Slavs had
 no other organization than that of the patriarchal commune, this idea would seem to have been borrowe
 from the Scandinavians. The tests for admission
-
-
 these brotherhoods, and the manner of their formation
 among the latter people, are well known. Princes,
 bishops, and even wealthy private individuals, like
@@ -11284,8 +10841,6 @@ I
 
 
 i
-
-
 heaven comes down to iis from the most remote antiquity.— The Russian peasant still sees the plough
 which Mikula hurled heavenward, in the constellation
 of Orion.
@@ -11404,8 +10959,6 @@ hero ; and Kalnoforsky, a Pole, in a book published in
 1638, says that Ilyd lived about 1188. His portrait
 was published in the xvii. century among the saints
 of Kief, with an inscription to the effect that his body
-
-
 was still uncorrnpted — which corresponds to the statement in the epic poems, that he was turned to stone.
 
 In this portrait he appears as a gaunt ascetic, with
@@ -11435,12 +10988,7 @@ Elijah was translated to heaven. The mythical allusions are confined to a very r
 phenomena — the clear heaven, the lightning, the rain,
 the thunder-clouds, and the powers of darkness in
 general. Like Thor and Indra, he wages incessant
-battle against the evil powers, and there are few epi-
-
-
-338 EPIG SONGS OF RUSSIA.
-
-sodes in his career to which a parallel does not exist
+battle against the evil powers, and there are few episodes in his career to which a parallel does not exist
 among the various Indo-European races.
 
 One of the most widely disseminated of traditions is
@@ -11477,8 +11025,6 @@ eagle's plumage, and by the flapping of his wings produces the tempest.
 
 The supernatural birds with iron feathers which
 Hercules drove from the Stymphaliaii swamp, one of j
-
-
 whom was named Aella — the whirlwind, and the two
 storm-birds of the Ramayana, who by waving their
 wings shake the mountains, raise great billows in the
@@ -11693,10 +11239,6 @@ Marina Mnfshek, like the Marina of the song, was
 reputed a witch among the common people, and like
 her the latter is sometimes designated as the " heretic."
 This Slavic Circe typifies the dark and hurtful female
-
-
-EPIC SONGS OF EUSSIA. 347
-
 principle which is united to a bright and beneficent
 male principle-
 It often happens in mythology, that one deity is
@@ -11766,8 +11308,6 @@ with his own hand. But she put a sword into the
 hands of her little son, and bade him greet his father
 with the words : " Father, thou thinkest that thou art
 alone here ! " Touched by the sight of his son, Vladimir summoned his boyars, and begged them to judge
-
-
 the matter. On their advice, he sent Rognydd and her
 son back to her native land. Her descendants thenceforth reigned over the Polotzki, and warred against the
 descendants of Vladimir by other wives.
@@ -11829,8 +11369,6 @@ thy kingdom of Greece and purchase paper, and come
 to my Indian realm with thy learned men, and I will
 permit thee to write down the marvels of the Indian
 laud ; and thou shalt not be able to make a writing
-
-
 of the wonders of my kingdom before the departure of
 thy spirit."
 
@@ -11890,9 +11428,6 @@ is found in a German tale (Grimm, Kinder- und Hauamarchen). Mikailo sometimes ap
 of the " One and Forty Pilgrims " instead of Kasyan.
 
 
-EPIG SONGS OF BUSSIA. 355
-
-
 NIGHTINGALE BUDIMIROVICH.
 
 All authorities are agreed as to the foreign element
@@ -11922,8 +11457,6 @@ gentle and seductive as a minstrel.
 The description of his ships recalls the famous dragon
 ships of the ancient Scandinavians. An Eastern tale
 describes the ceiling of a rich man's house as " covered
-
-
 with figures of all sorts of wild beasts, seam-onsters,
 and fishes. When the wind blew, they moved about,
 and were reflected in the floor." This exaggerated
@@ -11947,9 +11480,6 @@ foreign and literary sources.
 
 In one version, Tzar Vasfly lives in N6vgorod, and
 Solomon in Tzargrdd (Constantinople).
-
-
-EPIC SONGS OF EUSSIA. 357
 
 
 VASILY BUSLAEVICH.

@@ -1,1223 +1,25 @@
 # The Pima Indians
 
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
-to make the world's books discoverable online.
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
-are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
-publisher to a library and finally to you.
-
-Usage guidelines
-
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
-prevent abuse by commercial parties, including placing technical restrictions on automated querying.
-
-We also ask that you:
-
-+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
-personal, non-commercial purposes.
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
-use of public domain materials for these purposes and may be able to help.
-
-+ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
-additional materials through Google Book Search. Please do not remove it.
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
-countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
-any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
-anywhere in the world. Copyright infringement liability can be quite severe.
-
-About Google Book Search
-
-Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
-discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
-
-
-at |http : //books . google . com/
-
-
-V
-
-
-n
-
-
-\
-
-
-r .''• :.'■'■>.
-
-
-■':e---
-
-
-nj4
-
-
-m
-
-
-53r>-'ss"-;
-
-
-ii
-
-
-I .'
-
-
-THE PIMA INDIANS
-
-
-BY
-FRANK RUSSELL
-
-
-* • • • • a
-
-• • • * • •
-
-
-••• • •
-
-• • • •
-
-• • ••
-
-
-• • J • • ••
-
-
-• •••• • ••
-
-
-EXTRACT FROM THK TWENTY-SIXTH ANNUAL REPORT
-OF THE BUREAU OF AMERICAN ETHNOLOGY
-
-
-ti
-
-
-I i
-
-
-I !
-
-
-WASHINGTON
-
-aOVERNMKNT PRINTING OFFICE
-
-1 yoK
-
-
-t'".*^H*^()
-
-
-THE PIMA INDIANS
-
-
-BY
-
-
-liTtANK RTTSSELL
-
-
-CONTENTS
-
-Page
-
-Intn^luction 37
-
-History 19
-
-Name 19
-
-Villages 20
-
-I*rehistoric ruins 23
-
-Contact with Spaniards 26
-
-Relations with Americans 30
-
-Civil and military expeditions 30
-
-Age n ta 33
-
-Schools 34
-
-Annals 34
-
-Chronological records 34
-
-The Pima calendar 36
-
-Nature of the events 37
-
-The narrative 38
-
-Technology 66
-
-The fcMKl supply 66
-
-Prepaniti<m of UhkI 68
-
-Plantfl usefl for foo<l 69
-
-Medicinal plants 79
-
-Animals used for fcxKl 80
-
-Domestication of animals 84
-
-Agriculture 86
-
-• Methods 86
-
-Irrigation • 86
-
-Division of laI>or 89
-
-Pmducts 90
-
-( 'ereals 90
-
-Vegetables 91
-
-Tnidc 92
-
-Stan<lanls of vahn- 92
-
-Measures 92
-
-Barter 93
-
-Art ifacts 95
-
-WuhI 95
-
-Weapons 95
-
-Agricultural iinphimnt- 97
-
-5
-
-
-6 CONTENTS
-
-Technology — Continued. Pagp
-Artifacts — Continued.
-Wood — Continuei^i .
-
-Household utensils 99
-
-Miscellaneous 103
-
-Stone 108
-
-Metate 108
-
-Muller 109
-
-Pestle 109
-
-Ax no
-
-Arrowheads Ill
-
-Arrow-shaft straightener Ill
-
-Hammer stones Ill
-
-Firestones Ill
-
-Crystals Ill
-
-Magic tablets 112
-
-Turquoise 112
-
-Pipe 112
-
-Fiber and k»ather 113
-
-Saddle 113
-
-Saddlebag 113
-
-Head rings 113
-
-Rope 114
-
-Halters 115
-
-Bridles 115
-
-Fetish 115
-
-War headdress 116
-
-Hairbrush 116
-
-Skin dressing 117
-
-Firebag .' 118
-
-Tobacco pouches 118
-
-Sling 120
-
-Shield 120
-
-Sandals 122
-
-Yoke straps 122
-
-Lariat 122
-
-Homed toad elTigy 123
-
-Pottery 1 24
-
-Material 124
-
-Implements 126
-
-Method 126
-
-Finished products 127
-
-Basketry 131
-
-Materials 131
-
-Implements 135
-
-
-CONTENTS 7
-
-Technolog>'' — Continued. Page
-Artifacts — Continued.
-
-Basketry — Con t in ued .
-
-Method 135
-
-Basket bowls 135
-
-Description of plates 136
-
-Kiaha 140
-
-Storage baskets 143
-
-Minor types 145
-
-Sleeping mats 147
-
-Textiles 148
-
-Spinning 148
-
-Weaving 149
-
-Implements and methods 150
-
-Architecture 15^
-
-Types 154
-
-Clothing 157
-
-Materials and types 157
-
-Esthetic arts 158
-
-Personal decoration 158
-
-Hair 158
-
-Nails 160
-
-Teeth. 160
-
-Painting 160
-
-Tattooing 161
-
-Ornaments 163
-
-Ornamentation 163
-
-Musical instruments 166
-
-Flute 166
-
-Drum 167
-
-Scraping stick 167
-
-Rattles 168
-
-Dancing 170
-
-Festivals 170
-
-Athletic sports 171
-
-Aldft 172
-
-Kicking-ball rac(»s 172
-
-Relay races 173
-
-Swimming 174
-
-Games 174
-
-Ki°t8 175
-
-Haeyo 176
-
-V&patai 176
-
-V&putta 177
-
-Vattonmnlltc hrikoAoliwia 178
-
-
-8 CONTENTS
-
-Eflthetic artH — (Vmtinue<i. Page
-
-GameH — ( 'ontinued.
-
-Papiiiotcitakflt 178
-
-OkmaitcdkC 178
-
-Naof towe knkrea 178
-
-Knorea : 179
-
-KwaltudwTkGt 179
-
-Mekat toakflt 179
-
-Ka-ainlsaktit 179
-
-TcnlikiwIkGt 180
-
-Cup stone 181
-
-Ring stone 181
-
-Sociology 182
-
-Family organization 182
-
-Relations before marriage 182
-
-Puberty dance 182
-
-Marriage 183
-
-Duration of union 184
-
-Children 185
-
-Ceremony of purification 187
-
-Baptism 188
-
-Names 189
-
-Education 190
-
-Old persons and their treatment 192
-
-Views conc<»ming death 193
-
-Mode of burial 193
-
-Funeral rites 194
-
-Mourning 195
-
-Social organization 195
-
-Officen* 195
-
-Gentos 197
-
-Slaves 197
-
-Social morals 197
-
-Formulai* of politeness • J99
-
-Intertribal relations 2(X)
-
-Alliances .' 200
-
-Warfare 200
-
-Raids • 2(M)
-
-Lustration 20 1
-
-Dance in celebration <>f victory 205
-
-Sophiology 200
-
-Myths 2(M)
-
-Tca-(innyikitu, the creation myth 20()
-
-( oyoli 230
-
-
-/
-
-
-CONTENTS 9
-
-fiSophiology — Cont inued . Page
-Myths — Continued .
-
-Another version of the creation myth 237
-
-Children of Cloud 239
-
-Skull and his magic 241
-
-Origin of the horse 241
-
-Nursery tales 242
-
-The five little orphans and their aunt 242
-
-Coyote and the quails 243
-
-The woman and Coyote 244
-
-The Pima boy and the Apaches 244
-
-The birds and the flood 245
-
-Death of Coyote 245
-
-Coyote and the bluebird 245
-
-The boy and the beast 246
-
-The thirsty quails 247
-
-The naughty grandchildren 247
-
-Abstracts of myths 247
-
-The creation myth 247
-
-Coyote 248
-
-Children of Cloud 249
-
-Skull and his magic 249
-
-Origin of the horse 249
-
-Abstra^'ts of nursery tales 249
-
-The five little orphans and their aunt 249
-
-Coyote and the quails 249
-
-The woman and Coyote 249
-
-The Pima captive and her son 250
-
-Coyote and the bluebird 250
-
-The boy and the beast 250
-
-Tlio naughty grandchildren 250
-
-Religion 250
-
-Deities 250
-
-The 8oul and its destiny 252
-
-Dreams 253
-
-Sacred places 254
-
-Medicine-men 256
-
-Legerdemain 258
-
-'Cause and treat ment of disease 260
-
-Prevalent diseases 267
-
-Linguistics 269
-
-Vocabularies 269
-
-Songs 270
-
-Cla^ssification 270
-
-
-10 CONTENTS
-
-Linguistics — Continued. Page
-Songs — Continued.
-
-Archaic songs 272
-
-Creation songs by Earth Doctor. 272
-
-The creation of the earth 272
-
-The creation of the sun 273
-
-The creation of the moon 273
-
-The creation of the stars : 273
-
-Flood songs by Earth Doctor 274
-
-The warning of the flood 274
-
-The people climbing Superstition mountain 274
-
-Flood songs by South Doctor 275
-
-On Superstition mountain before the flood 275
-
-Before the people turned to stone on Superstition moimtain. . 275
-
-Flood songs by Elder Brother 275
-
-In his oUa before the flood 275
-
-The flood 276
-
-Coming from his olla after the flood 276
-
-Post-flood songs by Elder Brother 277
-
-At the central part of the earth 277
-
-Climbing the cliffs to attack Eagle 277
-
-Elder Brother as a fly 278
-
-Destruction of Ha-ak 278
-
-In the nether world 279
-
-On emergence from the nether world 280
-
-On approaching pueblos 281
-
-Festal songs 283
-
-Middle run song 283
-
-Name song 285
-
-Circling songs 289
-
-Eagle song 289
-
-Basket-beating song 291
-
-Swallow song 292
-
-Butterfly »mg 295
-
-Grame wmgs 297
-
-Takal song 297
-
-Football song 298
-
-Lay song 299
-
-Children play song 299
-
-Hunting songs 299
-
-Datura song 299
-
-Pihol song 301
-
-Medicine songs 302
-
-Cure song 302
-
-Turtle song 306
-
-Homed toad song 307
-
-
-CONTENTS 1 1
-
-Linguistics — Continued. Page
-Songs — Conti nued .
-
-Medicine songs — Continued.
-
-Gila monster song 307
-
-Black lizard song 308
-
-Rattlesnake song 309
-
-Owl song 311
-
-Quail song 312
-
-Roadninner song 312
-
-Mouse song 314
-
-Hare song 314
-
-Dog song 315
-
-Coyote song 316
-
-Black-tailed deer song 317
-
-Bear song 318
-
-Gopher song 319
-
-Beaver song 320
-
-Badger song 321
-
-Lightning song 323
-
-Wind song 324
-
-Fetish song 325
-
-Navitco song 326
-
-Magician song 327
-
-Down song « 328
-
-Demon song 329
-
-Puberty song 330
-
-Rain songs 331
-
-Hoahihidf song 331
-
-Com song 333
-
-War songs 335
-
-Straight song 335
-
-Tie song 336
-
-Scalp song 337
-
-011a song 338
-
-Speeches 339
-
-Elder Brother as he restored himself to li/e 339
-
-Opening of rain ceremony 347
-
-Going to war 353
-
-War chief urging the people to go on the warpath against the Apaches. 357
-
-First night on the warpath, first speech 363
-
-First night on the warpath, second speech 366
-
-The warpath, first speech 369
-
-The warpath, second speech 375
-
-The warpath, third speech 380
-
-The warpath, fourth speech 385
-
-
-ILLrSTRATIONS
-
-
-Plate I. Sacaton.
-
-II. Thn»e of the author's Piiua infomianta.
-
-III. Casa Grande ruin.
-
-IV. Three prehistoric Pima ruins.
-
-V. C'asa Blanea and ruins of iirst selioolhouso.
-VI. Pima brea(i, kitchen, and fireplacet*.
-VII. Ironwood and cat's claw.
-VIII. Two varieties of cactus.
-IX. Characteristic desert vegetation.
-X. Mesquite and i)aloverde.
-XI. Fields and village in Pimerfa.
-XII. rholla c*actu.*«.
-
-XIII. Pima weapons.
-
-XIV. A'mlna.
-
-XV. Riding saddle and cinch.
-XVI. riay pits.
-
-XVII. Pima woman making iwjttery.
-XVIII. Pottery —pots and canteens.
-XIX. Potter^'— pan, plates, vases, cup.
-XX. pottery— sp<X)ns and bowls.
-XXI. Characteristic (k»sert vc*getation.
-XXII. Baskets decorated with the fret.
-XXII I. Baskets de(omte<l with the fret.
-XXIV. Baskets.
-XXV. Biu^kets.
-XXVI. Baskets.
-XXVII. Baskets.
-XXVI II. Baskets deconUed with flower-like j>at terns.
-XXIX. Baskets, u])right forms.
-XXX. Baskets, ujjright forms.
-XXXI. Baskets, upright forms.
-XXXII. Baskets, variants of upright foniis.
-
-XXXIII. Yavafai baskets.
-
-XXXIV. Woman with kiaha.
-XXXV. Houses and sheds.
-
-XXXVI. AiTow-busli kitclien ami Pima woman.
-XXXVII. Pima man. showing costume worn in hot weather.
-XXX VIII. Pima women, showing modes of hair dressing and face ])ainting.
-XXXIX. Cemeteries and grave.
-12
-
-
-ILLUSTRATIONS 13
-
-Plate XL. Objects from H^hatesuiniehln ehrine.
-XLL Ceremonial hill and shrines.
-XLII. Pima men and boy.
-XLIII. Elderly Pima men.
-XLIV. Pima men.
-XLV. Pima boys.
-XL VI. Pima boy and women.
-XLVII. Pima girls.
-
-Page
-
-Figure 1. Map of Pima reservation 22
-
-2. Fat Louisa 67
-
-3. Dried sagnaro fruit 73
-
-4. Sheds with caches on roofs 74
-
-5. Men and women in modem costume, and pinto jwny 85
-
-6. Burden bearer 89
-
-7. Gourd canteen 91
-
-8. Gourd rattle 91
-
-9. War clubs 96
-
-10. Agricultural implements, a, Digging stick; 6, shovel; c, hoc;
-
-rf, dibble 97
-
-11. Wooden plow 98
-
-12. Yoke 98
-
-13. a, 6, Mortars; c, wooden pestle; d, bread tray 99
-
-14. a, Doughnut fork; 6, ladle; c, unfinished ladh* 100
-
-15. Pottery paddle 101
-
-16. a, Hanging shelf 101
-
-6, Door 102
-
-17. Bird cage 102
-
-18. a, Fire drill; 6, saguaro hook; c. ha'nilm twcezt^rs 103
-
-19. a, Cradle frame 104
-
-6, Cradle 104
-
-20. Calendar sticks, a, From Casa Blanca; h, from Gila Crossing;
-
-c, from Blackwater 105
-
-21 . Wooden spur 105
-
-22. Awls, fl, Wooden handle; 6, gum handle 106
-
-23. Rope twister 106
-
-24. A^mlna with reed cloud blower and attached feathers 107
-
-25. a, Homed toad effigy 107
-
-b, Lizard effigy ; 107
-
-26. Navitco mask 108
-
-27. Ceremonial wands 108
-
-28. Grinding wheat on metat<* 109
-
-29. Ston(> pestle 109
-
-30. Am>wheads IIO
-
-31. Arrow-shaft straightener 110
-
-
-14 ILLUSTRATIONS
-
-Fir.VRE 1^2, Oysuds from medicine iMisket Ill
-
-'X\, a, 6, r. Magic tableto 112
-
-M. Stem* pipt* 112
-
-35. Sadillebag 1 13
-
-36. Head ring)?, (i. Willow bark: 6. agave U»af : r. cloth 114
-
-37. a, Horeehair halter; 6, maguey ni|>e 1 14
-
-38. Maguey fiber 115
-
-39. a. Fetish; 6, hair ornament 116
-
-40. Warheaddrces 117
-
-41. Hairbrushes, a, Sacaton gra£« riK>ttt: 6. maguey fiber 118
-
-42. Fire bag 118
-
-43. a, 6, f , Tobatxx> jHmchw 119
-
-44. Sling 120
-
-45. a. Shield; 6. r%-veRH- of shield 121
-
-46. a, by Mixieb of shields 121
-
-47. Shield 122
-
-48. Sandals 122
-
-49. Yoke stops 123
-
-50. a, Homeil i*iad effigy, of dtvrskin 123
-
-6, Li\*ing home«l i«ia<l 124
-
-61. SalaHina 124
-
-52. The burning 128
-
-53. n, 6. Water iXK^lers 129
-
-54. 011a found hidden in the hills 130
-
-55. OUa, with whitish dt^igns on nnl gnnmd 130
-
-56. Willow tree 131
-
-57. fl. Willow splints: h. u)an>-nia; r. c«»tionwiHxi 132
-
-58. Bundles: i^f martN-nia iH^i< 132
-
-59. Mjutxniia p^vi 133
-
-tW. Sfiipping marlynia^ 134
-
-61. Haskei with js^-rv^ll dtx>i-raiifn 138
-
-62, Basket with i<*rv>H4tvt doivnitb-n 13S
-
-<vv Kiaha 140
-
-64. Helping stick 141
-
-fv^. Memling kiaha net 142
-
-1^6. Stongv Ittskets 143
-
-67. Small storage l^askt-i . sh. wine wtave 144
-
-t>S. d. Trinket h^skt-t 145
-
-h. Medicine basket 145
-
-r:**. fa. Old sieve; K mixieni >it vv 146
-
-70. SleepiiK mat 146
-
-7 i. Diaoil of deepinc ii*a: 147
-
-72. Model erf loom US
-
-7S. Spicdle 149
-
-
-HiLUSTRATIONB 15
-
-Pago
-
-Figure 74. Cotton balls, native Rpinnlng 150
-
-75. a, Old belt headband; b, new belt headband 152
-
-76. Diagram of house 154
-
-77. Paint bags, a, Deerskin; 6, cloth 160
-
-78. Tattooing outfit, a, Mesquite charcoal; 6, willow charcoal;
-
-c, needles 162
-
-79. Runner's hair ornament 163
-
-80. Flutes 166
-
-81. Scraping sticks 167
-
-82. Gourd rattle 168
-
-83. Disk rattle 168
-
-84. Belt rattle 169
-
-85. Cocoon rattle 169
-
-86. a, Alder stick; 6, double ball 172
-
-87. Kicking balls, a, Wood covered with gum; 6, without covering. . 173
-
-88. Kicking balls, a, Stone covered with gum; 6, without covering.. 173
-
-89. Ki"tskGt 175
-
-90. Diagram used in ki"t« 176
-
-91. Can(.« used in vapdtai 176
-
-92. Diagram used in v4putta 177
-
-93. Pottery disks 177
-
-94. Gaming stones 179
-
-95. Staves used in game of ka-4mlsak(lt 180
-
-96. Dart-and-ring game 180
-
-97. Diagram used in tclaikiwikttt J81
-
-98. Cup stone 181
-
-99. Ring stone 181
-
-100. Eagle feather aspergills 187
-
-101 . Funeral cache south of Casa Blanca 194
-
-102. Hii-ak altar 255
-
-
-PIMA SOUNDS AND THEIR SYMBOLS
-
-
-a as in father.
-
-& as in law.
-
-& as in what.
-
-a as in hat.
-
-B indeterminate sound between a
-
-and a.
-
-c as sh in shall, a ran* sound: occurs
-
-in vi-shAk (hawk).
-
-d as in dread.
-
-e as in they.
-
-d as in then.
-
-f as in fife.
-
-} as a mere breathing.
-
-as in good ; occurs in foreign wonls.
-
-between k and g.
-
-h as in he.
-
-L as in pique.
-
-I as in pick.
-
-k as in Kick.
-
-1 as in lull.
-
-I as with a faint % following.
-
-m as in mum.
-
-n as in nun.
-
-ft as ng in sing.
-
-o as in note.
-
-6 as in whole, (Oerman soil).
-
-p as in pipe.
-
-16
-
-
-r ...
-
-8 ...
-t ...
-td..
-
-u...
-tt...
-
-a...
-
-
-. .an initial uvular r.
-
-. .as in sauce.
-
-..as in touch.
-
-..h(»anl now as t,now as d, or be
-
-twt»en.
-. .as in rule.
-. .as in pull.
-. .as in but.
-. .like the German fl in Oflthe.
-
-
-V . . .
-
-
-. .as in valve.
-
-
-A ...
-W...
-V . . .
-
-
-. .a synthetic sound, v-f-w.
-. .as m wish.
-. .as in you.
-
-
-. .as in hue.
-. .as in finger.
-
-
-ny as nv in canyon.
-
-tc as ch in church.
-
-I' an exploded breathing.
-
-d' an exploded breathing.
-
-k' an exploded breathing.
-
-p' an exploded bn»athing.
-
-X a k sound with an expulsion of
-
-breath before sounding it .
-
-T an m with lips closed.
-
-' =expl(xled breathmg.
-'= laryngeal closure.
-
-
-THE PIMA INDIANS
-
-
 By Frank Russell
 
 
 INTRODUCTION
 
-From November, 1901, until June, 1902, the writer made his head-
-quarters at Sacaton (see pi. i), on the Gila River reservation, in south-
+From November, 1901, until June, 1902, the writer made his headquarters at Sacaton (see pi. i), on the Gila River reservation, in south-
 em Arizona, where he was engaged in a study of the Pima tribe. With
 the aid of five native interpreters information was obtained from ten
 Pima men and women," selected because of their intelligence and
 special aptitude in certain lines. With so many persons engaged in
 the investigations, the work of one frequently overiapped and served
 as a check on that of another. This made it possible to obtain a quite
-full account of Piman ethnology for the time employed. A house-to-
-house canvass of the villages, week after week, month after month, led
+full account of Piman ethnology for the time employed. A house-tohouse canvass of the villages, week after week, month after month, led
 to personal contact with nearly every household on the reservation
 '^ and visits were made also to the Salt River Pimas and the desert
 
 .'.•s. s Kwahadk's. One valuable result was the collection of more than 300
 
 ^...v specimens illustrative of nearly all Piman arts, gathered from among
-
 a people whom poverty had induced to dispose of so many of their
-
 a The name and a brief sketch of each of the author's informants and interpreters are here given:
 
 Informants. KA'mil tk&k, Thin Leather (pi. xliv, b) , an old man, is said to be the most popular of the
@@ -1233,8 +35,7 @@ of material pertaining to the Pimas.
 Sala Hina, Sarah Fish, or Hina (fig. 51), as she was called by her people, was recommended as one of
 the most intelligent of the older women. An earnest Christian, she had no scruples about relating all
 that she knew concerning the religious beliefs of the tribe. She had undergone a long and exacting
-training in practical botany which rendered her a valuable assistant in gathering information concern-
-ing the economic plants of the region. Taught by gaunt Hunger, she and her kind had learned to know
+training in practical botany which rendered her a valuable assistant in gathering information concerning the economic plants of the region. Taught by gaunt Hunger, she and her kind had learned to know
 and use a large numlier of vegetal products. She inherited through her father some of the Kwahadk'
 potters' skill, which enabled her to impart valuable knowledge of the art and to furnish specimens.
 
@@ -1248,17 +49,13 @@ gold excitement. Her memory therefore extends over a quarter of a century of the
 26 ETH— 08 4 17
 
 
-18 THE PIMA INDIANS [bth. ann. 26
-
 old belongings that for a month or two after going into their midst
 there seemed but little opportunity of securing anything approaching
-a representative series. Several specimens that were finally discov-
-ered are believed to be the very last of their kind among the Pimas,
+a representative series. Several specimens that were finally discovered are believed to be the very last of their kind among the Pimas,
 though of course such a statement must be made wdth reserve. Prof.
 J. J. Thomber, of the University of Arizona, accompanied the party
 on a round trip of 80 miles along the Gila river and to him the
-collection is indebted for about 50 herbarium specimens, represent-
-ing the larger portion of the economic plants of the Pimas that are
+collection is indebted for about 50 herbarium specimens, representing the larger portion of the economic plants of the Pimas that are
 susceptible of preparation in this way. To him also is due the credit
 of examining and identifjdng the mass of material gathered by the
 persons engaged at Casa Blanca and Gila Crossing. As complete a
@@ -1274,7 +71,6 @@ name is given in all cases.
 
 The American people owe the Pimas a lasting debt of gratitude.
 The California pioneers that traversed the southern route before the
-
 warfare between the Pimas and the Apaches. After several months acquaintance with this old woman
 Mrs Russell obtained from her much information concerning the Pima woman's views of warfare as
 well as knowledge of facts pertaining to various customs, especially those peculiar to her sex.
@@ -1290,8 +86,7 @@ William Blackwater, an elderly Pima, had taken an active part in the later histo
 Blackwater. which is situated at the eastern end of the reservation. Tie was employed but a short time
 and gave information concerning history' and customs.
 
-Haliali, or Juan Thomas, a Christian Pima who was formerly a medicine-man, contributed much val-
-uable information concerning the " occult." He also furnished a calendar record and made a number
+Haliali, or Juan Thomas, a Christian Pima who was formerly a medicine-man, contributed much valuable information concerning the " occult." He also furnished a calendar record and made a number
 of specimens illustrating the medicine-man's paraphernalia.
 
 Tco'kQt Nak, Owl Ear (pi. ii, 6), an old man, lived at the Salt River village and was the first from
@@ -1312,15 +107,11 @@ approved methods of procedure. He was engaged in linguistic work the greater par
 Melissa Jones, the oflScial interpreter at the agency, was employed to interpret the statements of
 Sika'tcu, her mother, known to the whites as '• Old Mary. " and also at intervals on the calendars.
 
-Jacob L. Roberts spoke quite as good English as the average white man of the country and was em-
-ployed to secure Tco'kCit Nak's calendar (pi. ii, b) and for the final revision of the linguistic material.
+Jacob L. Roberts spoke quite as good English as the average white man of the country and was employed to secure Tco'kCit Nak's calendar (pi. ii, b) and for the final revision of the linguistic material.
 
-Carl Smart, of Sacaton, and Thomas AUi.son, of Blackwater. were occasionally engaged as tempo-
-rary interpreters. In addition to these there were half a dozen others who were employed for from
+Carl Smart, of Sacaton, and Thomas AUi.son, of Blackwater. were occasionally engaged as temporary interpreters. In addition to these there were half a dozen others who were employed for from
 one to three days each at the lower villages.
 
-
-RUSSELL] NAME 19
 
 days of transcontinental railroads often owed their lives to the friendly
 brown-skinned farmers whom they met upon the Gila." This tribe
@@ -1331,11 +122,9 @@ bravely in the latter^s behalf justice requires that their services be
 accorded proper recognition.
 
 The Pimas live in two river valleys that are strewn with the ruins of
-prehistoric buildings and other evidences of the presence of a consider-
-able population that had attained probably the highest degree of civil-
+prehistoric buildings and other evidences of the presence of a considerable population that had attained probably the highest degree of civil-
 ization or culture to be found north of Mexico. Tlie present race has
-been variously regarded as the descendants of the one that has disap-
-peared, as having amalgamated with it, and as being entirely inde-
+been variously regarded as the descendants of the one that has disappeared, as having amalgamated with it, and as being entirely inde-
 pendent of it. The determination of the exact relationship of the two
 groups has been held constantly in mind during the course of these
 investigations. Closely connected with this principal problem are
@@ -1358,14 +147,11 @@ negation.''^ This ^'negacion'' is expressed by such words as pia,
 **none,'' piatc, ^'none remaining,'' pimatc, ''I do not know" or '*I
 do not understand.'' In the last the sound of t^j§.^ten reduced to a
 faint click. The Americans corrupted this to ^^ Timo sJ? and while this
-form of the word is now used only by the ilhterate living in the neigh-
-borhood of the tribe, it is fairly common in the literature referring to
+form of the word is now used only by the ilhterate living in the neighborhood of the tribe, it is fairly common in the literature referring to
 them. They call themselves A'-£l'tam, ''men" or ''the people,'' and
 when they wish to distinguish themselves from the Papago and other
-
 o Sylvester Mowry, lieutenant in the Third Artillery, in an address before the American Geographical
-Society, in New York, February 3, 1859 (Arizona and Sonora, 3d ed., 30), said: " Much as we pride our-
-selves upon our superior government, no measures [the United States Government have [sic] since,
+Society, in New York, February 3, 1859 (Arizona and Sonora, 3d ed., 30), said: " Much as we pride ourselves upon our superior government, no measures [the United States Government have [sic] since,
 under urgent pressure of the writer, made some small appropriations for the Pima Indians] have been
 taken to continue our friendly relations with the Pimos; and to our shame be it said, it is only to the
 forbearance of these Indians that we owe the safety of the life of a single American citizen in central or
@@ -1375,8 +161,6 @@ b ''La nacion pima,cuyo nombrc htin tomado los espafioles en su nativo idioma, s
 plural Ohotoma, de la palabra Pima repetida en alios por ser su negacion." Documentos para la
 Historia de Mexico, 4th ser., i, 345.
 
-
-20 THE PIMA INDIANS [bth. ann. 26
 
 divisions of the same linguistic stock they add the word &'kim(ilt,
 " river/' " River people" is indeed an apt designation, as evidenced by
@@ -1392,8 +176,7 @@ alta, Pimerfa baja). The Pima does not extend into California unless the extinct
 historical Cajuenches, mentioned in Mexican annals, spoke one of the Pima (or Pijmo,
 Pimo) dialects. Pima, on Pima reserve, Gila river, a sonorous, root-duplicating idiom;
 N^vome, a dialect probably spoken in Sonora. of which we possess a reliable Spanish
-grammar, published in Shea's Linguistics; ^ Papago, on Papago reserve, in southwest-
-em Arizona.
+grammar, published in Shea's Linguistics; ^ Papago, on Papago reserve, in southwestem Arizona.
 
 Villages
 
@@ -1404,22 +187,19 @@ and explorers contain mention of from five to ten pueblos or villager.
 The names are usually those bestowed by the Spanish missionaries or
 unrecognizable renderings of the native terms. The villages were
 principally upon the south bank of the river, along which they
-extended for a distance of about 30 miles.*^ Some have been aban-
-doned; in other cases the name has been retained, but the site has
+extended for a distance of about 30 miles.*^ Some have been abandoned; in other cases the name has been retained, but the site has
 been moved. The first villages named by Kino were Equituni,
 Uturituc, and Sutaquison. The last two were situated near the
 present agency of Sacaton (pi. i). The first may have been the
 village of Pimas and Kwahadk's, which was situated west of Picacho
 on the border of the sink of the Santa Cruz river (fig.l), which was
 abandoned about a century ago and was known as Aktitclny, Creek
-
 a Vol. 1, 166.
 
 & The most valuable publication relating lo the Pima language ia the "Grammar of the Pima or
 N(*vome, a language of Sonora, from a manuscript of the XVI II Centurj'.*' This was edited by Buck>
 ingham Smith, and 160 copies were issued in 1862. It is in Spnnlsh-Nth'ome, the latter differing slightly
-from the true Pima. The grammar has 97 ociavo pages wth 32 additional pages devoted to a " Doc-
-trina Cristiana y Confesionario en Lengua Nevome, 6 sea la Pimu.*'
+from the true Pima. The grammar has 97 ociavo pages wth 32 additional pages devoted to a " Doctrina Cristiana y Confesionario en Lengua Nevome, 6 sea la Pimu.*'
 
 c The Rudo Ensayo stateji that " between these Casas Grandes, the Pimas, called Gileftos, inhabit
 both banks of the river Gila, occupying ranches on Ix^autiful bottom land for 10 leagues farther down,
@@ -1444,9 +224,6 @@ BC88BLL]
 
 
 VILLAGES
-
-
-21
 
 
 Mouth. The site of this settlement was visited by the writer in
@@ -1496,13 +273,11 @@ Ojo de Euro and Yiela del Arispe. . . .
 ! 132
 1 140
 
-1
 
 i 110
 1 102
 j 105
 1 235
-291
 
 
 ;
@@ -1514,10 +289,6 @@ j 105
 210 1
 158 1
 535'
-700
-
-
-301
 
 
 Ormejera No. 1
@@ -1526,16 +297,10 @@ Ormejera No. 1
 Miguel and Xa\1er
 
 
-643
-
-
 OnnejeraNo. 2
 
 
 Cabeza del Aquila
-
-
-212
 
 
 Casa Blanea
@@ -1552,13 +317,7 @@ Francisco
 La Mano del Mimdo
 
 
-535
-
-
 Cheroisez
-
-
-312
 
 
 Rl JuesTarado
@@ -1566,11 +325,6 @@ Rl JuesTarado
 Arizodel Aqua
 
 Aranca No. 1
-
-
-263
-770
-991
 
 
 Aranca No. 2
@@ -1610,12 +364,6 @@ states that there were then ten Pima villages.
 oPont mentions a Pima-Papago village in this vicinity, called "Cuitoa." Manuscript Diary, 3r>.
 
 
-22
-
-
-THE PIMA INDIANS
-
-
 [BTH. ANN. 26
 
 
@@ -1634,8 +382,7 @@ f). K4^mlt. Back.
 
 7. Tco^dtlk Wu^tclk, Charcoal Laying.
 
-8 and 9. Akiitclny, Creek Mouth. One 5 miles west of Picacho and another south-
-west of Maricopa station. Both depended upon flood waters.
+8 and 9. Akiitclny, Creek Mouth. One 5 miles west of Picacho and another southwest of Maricopa station. Both depended upon flood waters.
 
 
 Fig. 1. Map of Pima reservation.
@@ -1648,14 +395,10 @@ ni'n&m& people now reside on the south bank of the Salt, east of
 the Mormon settlement of I^ehi.
 
 
-RUSSELL] PREHISTORIC RUINS 23
-
 The Pimas have a tradition relating the circumstances of the
-coining of the band of Sobaipuris," whom they call Rsa'rsavin&, Spot-
-ted, from the San Pedro. They are said to have drunk na'vait or
+coining of the band of Sobaipuris," whom they call Rsa'rsavin&, Spotted, from the San Pedro. They are said to have drunk na'vait or
 cactus liquor together with a village of Pimas of forgotten name, on
-the north side of the Gila, near the present Blackwater and the Pica-
-cho village of Aktitclny, before the time when the Apaches forced
+the north side of the Gila, near the present Blackwater and the Picacho village of Aktitclny, before the time when the Apaches forced
 them to leave their homes on the San Pedro.
 
 Since the settlement of the Gila and Salt river valleys by the
@@ -1708,30 +451,22 @@ settlement on the north side of the river, 3 miles from Mesa.
 
 Prehistoric Ruins
 
-The Pimas have long since grown accustomed to being interro-
-gated concerning the builders of the great stone and adobe pueblos
+The Pimas have long since grown accustomed to being interrogated concerning the builders of the great stone and adobe pueblos
 that now lie in ruins on the mesas of the Gila and Salt river valleys.
 However ready they may have been in the past to claim relationship
-
 a "The most warlike among all the Pimas are those we call the Soblarpuris, for they are bom and
 reared on the border of the Apaches; but they have become tired of living in constant warfare, and have,
 during the present year of 1762, abandoned their beautiful and fertile valley, retiring, some to Santa
-Maria Soanca, and some to San Xavier del Bac and to Tucson, thus leaving to the enemies a free en-
-trance to the high region of the Pimas. ' ' Rudo Ensayo, translated by Eusebio Guit^ras, Records of the
+Maria Soanca, and some to San Xavier del Bac and to Tucson, thus leaving to the enemies a free entrance to the high region of the Pimas. ' ' Rudo Ensayo, translated by Eusebio Guit^ras, Records of the
 American Catholic Historical Society, v, 192.
 
 
-24 THE PIMA INDIANS [ith. akk. 26
-
 with the Hohokam^ or relate tales of the supernatural origin of the
 pueblos, they now frankly admit that they do not know anything
-about the matter.^ As early as the time of Kino and Mange men-
-tion is made of the chief of the former pueblo of Casa Grande, who
-was called '*Siba/' Mange in his Diary of November, 1697, trans-
-lates this word as '^bitter'' or ''cruel." The present pronunciation
+about the matter.^ As early as the time of Kino and Mange mention is made of the chief of the former pueblo of Casa Grande, who
+was called '*Siba/' Mange in his Diary of November, 1697, translates this word as '^bitter'' or ''cruel." The present pronunciation
 is sivan^^ and the same name is given to all Hohokam chiefs; no one
-now knows the meaning of the word. The query arises. Is the simi-
-larity of this term to the native name for the Zufiis a mere coinci-
+now knows the meaning of the word. The query arises. Is the similarity of this term to the native name for the Zufiis a mere coinci-
 dence? Mr Gushing states that ''Cibola equals the 'Chi-vo-la' of
 Fray Marcus, of Nizza, equals the Zufli name for themselves, namely,
 Shiwona, orShiwina.''*=
@@ -1766,9 +501,7 @@ Phoenix that is now being excavated by the Arizona Antiquarian Society.
 
 When a single chief is referred to, he is usually called Si'van^", and
 when the full name is given, Si'van^^ is always added, so that it is
-not surprising that Mange, Bandelier,* and others should have sup-
-
-a The term Ilohokain, That which has Perished, is used by the Plmas to designate the rare that occu-
+not surprising that Mange, Bandelier,* and others should have supa The term Ilohokain, That which has Perished, is used by the Plmas to designate the rare that occu-
 pied the pueblos that are now rounded heaps of ruins in the Bait and Qila river valleys. As there is
 no satisfactory English term, the Pima name has been adopted throughout this memoir.
 
@@ -1788,12 +521,7 @@ villages are built. Casa Grande is 6 miles from the nearest Pima village, which 
 quite recently established by families from points farther down the river.
 
 * " While in New Mexico the chain of traditional information appears almost unbroken as far down
-as San Marcial, in Arizona the folk-lore of the Zufli terminates, according to Mr Cushing, with the north-
-em folds of the Escudilla and of the Sierra Blanca. The remarkable architecture prevalent on the
-
-
-RUSSELL] PREHISTORIC RUINS 25
-
+as San Marcial, in Arizona the folk-lore of the Zufli terminates, according to Mr Cushing, with the northem folds of the Escudilla and of the Sierra Blanca. The remarkable architecture prevalent on the
 posed that the Casa Grande pueblo was under the control of "Siba"
 or ''Si'van^;" indeed it is now frequently designated ''Si'van^ Ki"
 by the Pimas. Fifteen miles southeast of the Casa Grande ruin is
@@ -1810,16 +538,13 @@ of the year only. East of the mountain is a ruin called Kis'tcolt
 Vatclk', Table Tank; on the north is one known as Mo'-ok' Vatclk',
 Sharp Tank; and at the foot of Ta-a't(ikam, on the west, is A'-alt
 Vap'tck', Small Tanks. Southwest of the mountain were situated the
-Pima village of Aktitclny and the two pueblo ruins previously men-
-tioned. There is another small pueblo ruin a few miles northwest of
+Pima village of Aktitclny and the two pueblo ruins previously mentioned. There is another small pueblo ruin a few miles northwest of
 the site of Ak(itclfny, but no others of similar type are known to the
-writer at any point in Arizona south of Picacho. A personal examina-
-tion of all the ruins of the southeastern part of the Territory has shown
+writer at any point in Arizona south of Picacho. A personal examination of all the ruins of the southeastern part of the Territory has shown
 them to be of a different type from those of the upper and lower
 Gila and the Salt river valleys. The ruins along the San Pedro, it is
 true, extend to the southward of the parallel of Picacho, and it is
-believed to be desirable that some of them be explored. Superfi-
-cially they resemble the ruins about SolomonsviUe, where cremation
+believed to be desirable that some of them be explored. Superficially they resemble the ruins about SolomonsviUe, where cremation
 
 Salado, Gila, and Verde has no light shed upon it by their folk-lore tales. *Here th^ statements of the
 Pimas, which Mr Walker has gathered, are of special value; and to him I owe the following details:
@@ -1851,8 +576,6 @@ decadence in architecture long before the advent of the Spaniards." Bandolier in
 Archeol. Inst. Am., 1883-84, 80, 81.
 
 
-26 THE PIMA INDIANS [eth. ann. 26
-
 was the prevailing mode of disposing of the dead, as it was also on the
 lower Gila and the Salt river. Nothing was learned to indicate that
 the Sobaipuris of the San Pedro practised incineration. If some of
@@ -1865,8 +588,7 @@ There is a strong belief among the Pimas that they came from the
 east. It is in that quarter that the abode of their dead is located.
 Their gods dwell there. Their beliefs do not seem to have been
 influenced in this respect in the least through contact with the tribes
-of Yuman stock who have sought a paradise in the opposite direc-
-tion. There are vestiges of a tradition that the Pimas were once
+of Yuman stock who have sought a paradise in the opposite direction. There are vestiges of a tradition that the Pimas were once
 overwhelmed by a large force of warriors who came from the east
 and destroyed nearly all the people and devastated the entire Gila
 valley. This does not appear to be another version of the account
@@ -1890,28 +612,22 @@ it has been surmised that Chichilticalli was the Casa Grande, but this
 statement lacks verification. Aft^r traversing the entire southern
 and eastern part of Arizona the writer can not but believe that it is
 extremely improbable that Coronado saw the Casa Grande and the
-
 o The earliest mention of the Gila origin of the Ilopi theory is that of Oarers: "Also they knew that
 I was padre ministro of the Pimas, who likewise are their enemies. This hostility had been told me
 by the old Indians of my mission, by the Gilej1os,and Coco-Maricopas, from which information I have
 imagined (he discurrido) that the Moqui nation anciently extended to the Rio Gila itself. I take my
 stand (fundome, ground myself) in this matter on the ruins that are found from this river as far us
-the land of the Apaches, and that I have seen between the Sierras de la Florida and San Juan Nopo-
-muzeno. Asking a few years ago some Subaipuris I ndians who were living in my mission of San Xa\ior
+the land of the Apaches, and that I have seen between the Sierras de la Florida and San Juan Nopomuzeno. Asking a few years ago some Subaipuris I ndians who were living in my mission of San Xa\ior
 if they knew who had built those bouses whose ruins and fragments of potter>' (losa for loza) are still
 visible— as, on the supposition that neither Pimas nor Apaches knew how to make (such) houses or
 pottery, no doubt it was done by some other nation— they replieil to me that the Moquis had built
-them, for they alone knew how to do such things, and added that the Apaches who are about the mis-
-sions are neither numerous nor valiant; that toward the north was where there were many powerful
+them, for they alone knew how to do such things, and added that the Apaches who are about the missions are neither numerous nor valiant; that toward the north was where there were many powerful
 people; * there went we,' they said, 'to fight in former times (antiguamente) ; and even though we
 attained unto their lands we did not surmount the mesas whereon they lived.' " Diary in Couos, On
 the Trail of a Spanish Pioneer, New York, 1900, u, 386, 387.
 
 
-RUSSELL] CONTACT WITH SPANIARDS 27
-
-neighboring Pima villages. For a century and a half after that inva-
-sion no white man is known to have reached £he territory of the
+neighboring Pima villages. For a century and a half after that invasion no white man is known to have reached £he territory of the
 Pimas Gilefios.
 
 The eariiest as well as the most important explorer in the history
@@ -1920,10 +636,8 @@ the years 1687 and 1710, jomneyed many a dusty, thirsty league in
 the eager search for souls. In 1694 he reached the Casa Grande in v
 company with native guides who had informed him of the existence
 of the ruin. Absolutely nothing is known about this expeditioiT^
-except that a mass was said witliin the walls of Casa Grande. How-
-ever, it may be safely inferred that Kino visited the near-by Pima vil-
-lages. As the Papagos w^ere at that time also called Pimas it is some-
-times difficult to determine what part the true Pimas played in the
+except that a mass was said witliin the walls of Casa Grande. However, it may be safely inferred that Kino visited the near-by Pima vil-
+lages. As the Papagos w^ere at that time also called Pimas it is sometimes difficult to determine what part the true Pimas played in the
 events chronicled by the padres. Yet it is probable that they are
 referred to in the account of the religious festival which was observed
 in 1698 at Remedies, in PimMa Baja. Among the visitors were
@@ -1933,22 +647,18 @@ and movements of the Spaniards must have been made known to the
 Pimas before the latter saw Kino or any other white man.
 
 Kino diligently strove to establish missions among the many tribes
-that he visited, but was much hampered by lack of funds. He suc-
-ceeded in interesting the authorities sufficiently to induce them to
-send a military expedition to the Gila in 1697 for the purpose of ascer-
-taining the disposition of the Pimas. The party included 20 soldiers,
+that he visited, but was much hampered by lack of funds. He succeeded in interesting the authorities sufficiently to induce them to
+send a military expedition to the Gila in 1697 for the purpose of ascertaining the disposition of the Pimas. The party included 20 soldiers,
 with 3 officers. Juan Mateo Mange was sent with Kino to WTite the
 official reports of the expedition. On the upper San Pedro river
 30 Sobaipuris joined the party, which followed that stream to the
-Gila. They reached the Pima villages on the 21st of November, vis-
-iting and for the first time describing the Casa Grande. The return
+Gila. They reached the Pima villages on the 21st of November, visiting and for the first time describing the Casa Grande. The return
 was by the more direct route of the Santa Cruz valley. It was by
 this route also that Kino in September, 1698, again descended to the
 Pimas with a small party of native guides. He returned by way of ^^^
 Quijotoa (?) and the Gulf.
 
-Early in 1699 Kino, in company with Mange, made liis fourth jour-
-ney to the Pimas l>y way of Sonoita and the lower Gila. The return
+Early in 1699 Kino, in company with Mange, made liis fourth journey to the Pimas l>y way of Sonoita and the lower Gila. The return
 was by way of the Santa CVuz.
 
 A year later Kino again reached the Gila by a new route. From a
@@ -1960,10 +670,6 @@ way of Sonoita and the lower Gila. Among the *^ 40,000 gentiles''
 whom he is said to have baptized there were quite a number of Pimas,
 but as his sojourn among them was never of more than a few days'
 duration his influence could not have been very great. Nevertheless,
-
-
-28 THE PIMA INDIANS [eth.ann.26
-
 he gave away great quantities of beads, and as the people already
 valued highly those of their own manufacture it is probable that they
 readily accepted Kino's statement that magic power resided in the
@@ -1976,8 +682,7 @@ rancherias in Kino's time.
 
 After the death of Kino, in 1711, no Spaniard is known to have
 reached the Gila or even to have entered Arizona for a period of more
-than twenty years. In 1731 two missionaries, Father Felipe Segres-
-ser and Juan Bautista Grashoffer, took charge of the missions of San
+than twenty years. In 1731 two missionaries, Father Felipe Segresser and Juan Bautista Grashoffer, took charge of the missions of San
 y Xavier del Bac and San Miguel de Guevavi and became the first per-
 ^Ljnanent Spanish residents of Arizona. In 1736-37 Padre Ignacio
 Javier Keller, of Suamca, made two trips to the Pima villages on the
@@ -1986,8 +691,7 @@ had been broken up.''** Again in 1743 Keller went up to the Pimas
 and endeavored to penetrate the Apache country to the northward.
 Communications by means of native messengers indicated a desire on
 the part of the Hopis to have Jesuit missionaries come to them from
-Sonora. The point of greatest interest to us is that any communica-
-tion should have existed at all. Keller failed in his attempt on
+Sonora. The point of greatest interest to us is that any communication should have existed at all. Keller failed in his attempt on
 accoimt of the hostility of the Apaches, and Sedelmair, who tried to
 make the joimiey in the following year, was imable to induce the
 Pimas or Maricopas to accompany him. In 1748 Sedelmair reached
@@ -1995,27 +699,21 @@ the Gila near the mouth of the Salt river and journeyed westward.
 Of his trip to the Gila in 1750 little is known.
 
 Accounts of these earliest missionaries of course preceded them by
-means of Papago messengers, who doubtless made clear the distinc-
-tion between the slave-hunting Spanish adventurers and the Jesuits
+means of Papago messengers, who doubtless made clear the distinction between the slave-hunting Spanish adventurers and the Jesuits
 and Franciscans. Fortunately for the Pimas they were quite beyond
-the reach of the former and wore so remote from the Sonoran settle-
-ments that only the most devout and energetic friars ever reached
+the reach of the former and wore so remote from the Sonoran settlements that only the most devout and energetic friars ever reached
 them.
 
 The first military force to be stationed in Arizona was a garrison of
 50 men at Tubac, on the Santa Cruz. This presidio was moved to
 Tucson about 1776, and in 1780 the garrison was increased to 75 men.
 Even when at Tucson the influence of this small force on the Pimas
-could not have been very great. Between 1768 and 1776 Padre Fran-
-cisco Garc^s made five trips from San Xavier del Bac to the Pimas
+could not have been very great. Between 1768 and 1776 Padre Francisco Garc^s made five trips from San Xavier del Bac to the Pimas
 and beyond. The fifth entrada was well described in Garc^s's Diary
 (admirabl}^ translated and edited by Elliott Coues under the title ''On
 the Trail of a Spanish Pioneer"), though he exhibited a pitiful waste
-
 a Bancroft, xvii, 362.
 
-
-RUSSELL] CONTACT WITH SPANIARDS. 29
 
 of opportunities for ethnological observation while among the Pimas.**
 From this time forward until the American occupancy of the Gadsden
@@ -2025,8 +723,7 @@ Pimas either at the post or through small trading parties that went
 from Tucson to the Gila villages.
 
 a Pfefferkorn, who published his Beschreibung der Landschaft Sonora in 1794-95, gives a vexy full
-account of the southern Pima-speaking tribes, but dismisses the "unconverted Pimas" in the follow-
-ing words:
+account of the southern Pima-speaking tribes, but dismisses the "unconverted Pimas" in the following words:
 
 "Hierauf folgen den 0%la hlnunter die noch unbekehrten Pimas, welcho sich auf beyden Seiten des
 Flusses ausbreiten. Die/ies Volk ist in drey sahlreiche Gemeinden getheilet: wovon die st&rkeste ein
@@ -2049,11 +746,9 @@ up in two rows, the men on one side and the women on the other. After we had dis
 came in turn to salute us and offered their hand to the Commander and the three fathers, men and
 women, children and adults. Indeed they all gave token of much satisfaction at seeing us, touching
 their breast with their hand, naming God, and using many other expressions of benevolence. In short,
-their salutation was most lengthy, for almost every one of them bowed to us, saying: ' ' Dios ato m' busi-
-boy," as do the Pimas Christians of Rmeda alta, which signifies ' ' May God aid us." We, on our part,
+their salutation was most lengthy, for almost every one of them bowed to us, saying: ' ' Dios ato m' busiboy," as do the Pimas Christians of Rmeda alta, which signifies ' ' May God aid us." We, on our part,
 must needs return their salutations. They lodged us in a largo hut, which they constructed to that end,
-and in front of it they placed a large cross. Pagans though they were. The river being somewhat dis-
-tant, the Governor ordered his wives to bring water, which they straightway carried to his lodge for
+and in front of it they placed a large cross. Pagans though they were. The river being somewhat distant, the Governor ordered his wives to bring water, which they straightway carried to his lodge for
 the people. These Pimas Gileflos are gentle and kind-hearted Indians. In order to fdte our arrival
 they sought i>ermi8sion of the Commander to dance, and soon the women were moving from mess to
 mess, dancing after their fashion with hands clasped. In short, the whole people gave token of great
@@ -2087,8 +782,6 @@ attended by a goodly niunber of Indians, who preser>'od the utmost decorum and s
 town of Uturituc at eleven o'clock in the morning, and about three in the afternoon we halted on the
 
 
-30 THE PIMA INDIANS [eth. ann. 26
-
 Relations with Americans
 CIVIL and military expeditions
 
@@ -2098,8 +791,7 @@ Pimeria on the north and east. Beaver were then fairly abundant in
 the moimtain streams and down the Colorado Grande to the very end
 in the burning lowlands. The annals of the Pimas make no mention
 of these earliest visitors from the United States, but it is known that
-several parties reached the ^'Pimos Gileflos/' who were found uni-
-formly friendly. The Patties, father and son, journeyed from the
+several parties reached the ^'Pimos Gileflos/' who were found uniformly friendly. The Patties, father and son, journeyed from the
 Rio Grande to trap beaver in the Gila country between 1825 and 1828,
 and in the latter year pushed on to Calif omia." Kit Carson, with a
 party of trappers, returned from his first trip to California by this
@@ -2120,8 +812,7 @@ the Mormon battalion, w^hich opened a practicable wagon road to
 California by way of Tucson and the Pima villages. In his official
 report Colonel Cooke states:
 
-I halted one day near the villages of this friendly, guileless, and singularly inno-
-cent and cheerful people, the Pimos. They were indeed friendly, for they refused
+I halted one day near the villages of this friendly, guileless, and singularly innocent and cheerful people, the Pimos. They were indeed friendly, for they refused
 to surrender supplies that had been left at the villages to be held for the Mormon
 battalion, and they threatened armed resistance to the Mexicans who demanded the
 mules and goods.
@@ -2135,8 +826,7 @@ by the tril)eof the Pimas Gilenos. The soil here is ver>' poor and ralsesa very 
 which and their wretched food the Indians are very ugly, dirty, and repulsive. The river Gila was dry
 in this n»gion, so they obtained! their water by digging wells in the sand. It is only during the season of
 freshets that the river is of any 8er\'ice for the seed lands and fields of the Indians. The banks of the
-river are covered ^^ith a grove of undersized Cottonwood trees. In the evening tobacco was distrib-
-uted among the Indians and glass beads were promised the women for the following day. We asked
+river are covered ^^ith a grove of undersized Cottonwood trees. In the evening tobacco was distributed among the Indians and glass beads were promised the women for the following day. We asked
 the Indians why they lived so far from the river, for formerly they had their town on its banks. They
 replied that they had changed its site because on account of the groves and woods on its banks they
 could defend themselves but ill against the Apaches, but that by living apart from the river they were
@@ -2147,13 +837,9 @@ able to have a clear field for pursuing and killing the Apaches when they came a
 * J. R. Browne, Adventures in the Apache Countn.*. New York. 18«t9, 118.
 
 
-EUSSELL] RELATIONS WTTH-AM ERlUa !N5 "^ • 31
-
-A battalion of dragoons under Maj. L. P. Graham marched west-
-ward to California by way of the Pima villages in 1848. Bancroft
+A battalion of dragoons under Maj. L. P. Graham marched westward to California by way of the Pima villages in 1848. Bancroft
 states that he has a manuscript diary from Capt. Cave J. Coutts, of
-this battalion, in which it is recorded that the Pimas were very hos-
-pitable and exhibited conspicuous signs of thrift.^
+this battalion, in which it is recorded that the Pimas were very hospitable and exhibited conspicuous signs of thrift.^
 
 The parties of the Boundary Survey Commissioners passed down
 the Gila in 1851, and the account of the Pimas by J. R. Bartlett, the
@@ -2169,15 +855,13 @@ with another party, made a second survey and again visited the villages.
 From the time of the discovery of gold in California, in 1849,
 parties of gold seekers, numbering in all many thousand persons each
 year, followed the Gila route, meeting with hospitality from the Pimas
-and almost equally uniform hostility from the Apaches. The loca-
-tion of the Pimas in the midst of the 280-niile stretch between Tucson
+and almost equally uniform hostility from the Apaches. The location of the Pimas in the midst of the 280-niile stretch between Tucson
 and Yuma was a peculiarly fortunate one for the travelers, who could
 count upon supplies and if need be protection at a point where their
 journey otherwise must have been most perilous.''
 
 The United States Government first recognized the value of the
-assistance rendered by the Pimas when by a^t of Congress of Feb-
-ruary 28, 1859, $1,000 was appropriated for a survey of their lands
+assistance rendered by the Pimas when by a^t of Congress of February 28, 1859, $1,000 was appropriated for a survey of their lands
 and $10,000 for gifts.*
 
 a History of Arizona and New Mexico, 479.
@@ -2196,8 +880,7 @@ from a letter in the Alta California, June 28, 1858, quoted in S. Ex. Doc. 1, pt
 sess., 1859.
 
 *• A company of nearly one hundred of their l)est warriors was enlisted into the United States service in
-the latter part of 1865, which served one year with great credit \o themselves and did much good serv-
-ice in quelling our common enemy. Seventy of them have just been mustered out [1867] of the United
+the latter part of 1865, which served one year with great credit \o themselves and did much good service in quelling our common enemy. Seventy of them have just been mustered out [1867] of the United
 States service, after having performed six months' duty as spies and scouts, for which service they ar«
 invaluable." Report of Commissioner of Indian Affairs, 1867, 163.
 
@@ -2229,8 +912,6 @@ invaluable." Report of Commissioner of Indian Affairs, 1867, 163.
 Mowry explains that a larger number of plows would have been included in this lot of tools and imple-
 
 
-32 THE PIMA INDIANS [ith. akk. 26
-
 Maricopa Wells, near the lower villages, became an important stage
 station when the overland mails began to pass late in the fifties.*
 
@@ -2244,8 +925,7 @@ and the records of the Government, a competent agent. Bancroft
 has thus summarized the conditions prevailing during that period: '
 
 In many respects there has been a sad deterioration during forty years of contact
-with civilization, notably by acquiring habits of intemperance, prostitution, and pil-
-fering; yet they are still vastly superior to most other tribes. For several years, from
+with civilization, notably by acquiring habits of intemperance, prostitution, and pilfering; yet they are still vastly superior to most other tribes. For several years, from
 1868, serious troubles with them seemed imminent. Presuming on their military
 services and past immunity from all restraint, they became insolent and aggressive,
 straying from the reservation, robbing travelers, refusing all satisfaction for inroads
@@ -2300,13 +980,10 @@ c S. Ex. Doc. 2, 727, 30th Cong., 1st sess., 1859.
 d Report of Commissioner of Indian Affairs 1803, 380, 1804.
 
 
-BDSSKLL] RELATIONS WITH AMERICANS 38
-
 Agent R. G. Wheeler protested against the diversion of the water
 of the Gila from the Pima reservation at the time the Florence canal
 was projected in 1886 and succeeded in gaining the attention of the
-Department of the Interior which instructed the Director of the Geo-
-logical Survey to investigate the matter. As a result of the investi-
+Department of the Interior which instructed the Director of the Geological Survey to investigate the matter. As a result of the investi-
 gation the following facts were established:
 
 (1) That the water supply of the Pima and Maricopa reservations under present
@@ -2327,8 +1004,7 @@ that should bring a blush of shame to every true American. A thrifty,
 industrious, and peaceful people that had been in effect a friendly
 nation rendering succor and assistance to emigrants and troops for
 many years when they sorely needed it was deprived of the rights
-inhering from centuries of residence. The marvel is that the starva-
-tion, despair, and dissipation that resulted did not overwhelm the
+inhering from centuries of residence. The marvel is that the starvation, despair, and dissipation that resulted did not overwhelm the
 tribe.
 
 AGENTS
@@ -2337,8 +1013,7 @@ In 1857 John Walker was appointed Indian agent for the territory
 embraced in the Gadsden Purchase, with headquarters at Tucson.
 The Pimas were of course within his territory, though his control
 over them could not have been very great with the agency separated
-from the villages by a 90-mile stretch of desert in the scarcely dis-
-puted possession of the Apaches. Walker presented no report to his
+from the villages by a 90-mile stretch of desert in the scarcely disputed possession of the Apaches. Walker presented no report to his
 superior at Santa F6 in 1858, but in 1859 gave some accoimt of the
 condition of the Pimas.
 
@@ -2349,15 +1024,11 @@ the office was abolished. Abraham Lyons was appointed agent for
 the Pimas in 1862, and he also lived at Tucson. Ammi M. White,
 appointed in 1864, was a resident trader. He had built a mill at Casa
 Blanca, which was destroyed by the flood of September, 1868. Levi
-Ruggles, appointed in 1866, administered affairs from Tucson. Dur-
-ing 1867 C. H. Lord acted as deputy agent. Fairly adequate adobe
+Ruggles, appointed in 1866, administered affairs from Tucson. During 1867 C. H. Lord acted as deputy agent. Fairly adequate adobe
 buildings were erected for the agent at Sacaton in 1870, and the agents
-
 a U. S. Oeol. Surv., Water-Supply and Irrigation Papers, no. 33, p. 10.
 26BTH— 08 5
 
-
-84 THE PIMA INDIANS [kph. akk. 26
 
 thereafter resided at that place. The present commodious dwelling
 was erected in 1883. Following is a list of the later agents, with the
@@ -2404,15 +1075,12 @@ were destroyed by fire in November, 1888, and the mission church
 was occupied during the remainder of that year. The capacity of the
 school is now 225, though during our stay at Sacaton more than 300
 were crowded in. Two and three children were apportioned to sleep
-in narrow single beds and even in the hospital the beds were over-
-crowded. For years the accommodations have been inadequate to
+in narrow single beds and even in the hospital the beds were overcrowded. For years the accommodations have been inadequate to
 receive all the children that desired education. Day schools at Gila
-Crossing and Salt River take care of a few, and three or four new build-
-ings for day schools have been erected at Blackwater, Lehi, Mari-
+Crossing and Salt River take care of a few, and three or four new buildings for day schools have been erected at Blackwater, Lehi, Mari-
 copa, and Casa Blanca.
 
 Annals
-
 chronological records
 
 Three chronological records have thus far been preserved from
@@ -2422,13 +1090,10 @@ American tribes. The first of these to be published was the Walum
 by D. G. Brinton." In 1877 Col. Garrick Mallery brought to light
 the "Lone-dog winter count ^' of the Sioux and subsequently secured
 several other records from the same tribe.'' Recently James Mooney
-
 a The Lenape and their I/egcnds, Biinton's Librarj' of Aboriginal American Literature, v, 1885.
 6 A Calendar of the Dakota Nation, Bulletin U. S. Oeol. Surv., lu, no. 1; also Fourth and Tenth
 Annual Reports of the Bureau of Ethnology.
 
-
-BUSSBLL] ANNALS 35
 
 has published a series of Kiowa calendars that resemble those of the
 Sioux, but are more distinctly calendric.**
@@ -2451,7 +1116,6 @@ and among all peoples, but such a use as that made by the San tees is
 not, so far as known, mentioned elsewhere in the literature.
 
 The writer was therefore greatly interested to discover no fewer ,
-
 than five notched calendar sticks among the Pimas. Two sticks _J I
 were ^^toW to him by their possessors. The record covers a period
 of seventy years, dating from the season preceding the meteoric
@@ -2461,8 +1125,7 @@ been lost or buried with their keepers. Juan Thomas, of the village
 of Blackwater, had lost his stick in some inexplicable manner, but he
 was continuing the history with pencil and paper, thus rendering it
 more nearly comparable to the calendars of the Plains tribes. It is
-noteworthy that the change from stick to paper introduced a ten-
-dency to use pictorial symbols rather than merely mnemonic char-
+noteworthy that the change from stick to paper introduced a tendency to use pictorial symbols rather than merely mnemonic char-
 acters, such as are most easily incised on the surface of a stick having
 clearly marked grain. Among the sticks there is an evident increase
 in the number and elaboration of characters which may be attributed
@@ -2473,16 +1136,12 @@ them.
 The year begins with the saguaro harvest, about the month of June.
 At that time, also, the mesquite beans are ripening, as well as the
 cultivated crops. It is the season of feasting and rejoicing. No
-other annual occurrence can compare in importance with these fes-
-tivities, so that it is not surprising that the years should be counted
+other annual occurrence can compare in importance with these festivities, so that it is not surprising that the years should be counted
 by harvests. The Lower California tribes, as described by Baegert
-
 a Calendar Illstorj' of the Kiowa, Seventeenth Annual Report of the Bureau of American Ethnology.
 6 J. E. Seaver, A Narrative of the Life of Mrs. Mary Jemison, 70; cited by Mallery.
 c The Indian Sign Language, 211, 1885; cited by Moondy.
 
-
-86 THE PIMA INDIANS [eth.ann.26
 
 more than a century ago, similarly numbered the years. A space of
 three years would be expressed by the term "three pitahayas/'
@@ -2503,8 +1162,7 @@ references to wheat, which is of course modem.
 
 The months according to KA^niAl tkAk. The numths according to Antonio Azul.
 
-1. Harsany paihitak marsat, Saguaro ■ 1. Peikan' paihitak marsat, WTieat har-
-harvest moon. vest moon.
+1. Harsany paihitak marsat, Saguaro ■ 1. Peikan' paihitak marsat, WTieat harharvest moon. vest moon.
 
 
 2. Harsany paihitak, Saguaro harvest.
@@ -2548,8 +1206,7 @@ harvest moon. vest moon.
 12. Kaitcokollk, Black soodH on waguaroa. 12. Ka-ak, Strong.
 
 As they have no winters the Pimas naturally do not have a ''winter
-count.^' As there are two rainy seasons and neither is of any con-
-sequence as a general rule, while both are sometimes wanting alto-
+count.^' As there are two rainy seasons and neither is of any consequence as a general rule, while both are sometimes wanting alto-
 gether, they could not be expected to mark the flight of years by the
 recurrence of the rains. There are but two seasons in the Gila valley,
 one of torrid heat ^ and one of ideal weather throughout the remainder
@@ -2560,27 +1217,21 @@ change. The year mark is invariably a deep notch across the stick.
 The records of the early years are memorized and there are few
 minor notches to aid in recalling them. The year notches are exactly
 alike, yet on asking a narrator to go back and repeat the story for
-a certain year the writer found that he never made a mistake. Tak-
-ing the stick in hand he would rake his thumb nail across the year
-
+a certain year the writer found that he never made a mistake. Taking the stick in hand he would rake his thumb nail across the year
 a Tho aboriginal inhabitant s of the Callfomiau Peninsula in Smithsonian Report, 1864, 388.
 t> Maximum temi>erature recorded (or a period of nim;teen years at Phoenix was 119° F. Report
 of Chief of Weather Bureau, 1900-1901, i.
 
 
-RUSSELL] ANNALS 37
-
 notch and begin: ^'That notch means/' etc. The interpreter, either
 through imitation or because of the same mode of thought, would then
 take the stick and dig his thumb into the same notch before repeating
-the story in English. Both seemed to endow the stick and the par-
-ticular notch with a definite personality in their minds. That notch
+the story in English. Both seemed to endow the stick and the particular notch with a definite personality in their minds. That notch
 looked exactly like its neighbors but it stood for sometliing different,
 which was apparently recalled as much by the sense of touch as by
 that of sight.
 
-Dots or shallow circular pits and short notches are the most com-
-mon symbols on the sticks. These have no distinctive meaning, and
+Dots or shallow circular pits and short notches are the most common symbols on the sticks. These have no distinctive meaning, and
 are used for recording a great variety of events. The human figure
 is freely used, and may signify that a man killed Apaches or was killed
 by them, that he was bitten by a rattlesnake, struck by lightning, or,
@@ -2598,18 +1249,14 @@ Indians contain much that is trivial and oftentimes omit that which
 is ijnportant. There are obvious reasons for this that have been
 adequately set forth by Mallerj'^,'* and it must also be borne in mind
 that the relative importance of an event differs according as it is
-viewed by Caucasian eyes or by those of the American Indian. Judg-
-mg by the early portions of the records, the conclusion might be
+viewed by Caucasian eyes or by those of the American Indian. Judgmg by the early portions of the records, the conclusion might be
 reached that the purpose was to secure chronologic sequence, though
-the Pimas are not known to have had ceremonies that by their infre-
-quent recurrence would require calendric regulation. However, the
+the Pimas are not known to have had ceremonies that by their infrequent recurrence would require calendric regulation. However, the
 later years are so filled with events that the primary purpose is clearly
 narrative. They are therefore to be designated annals, rather than
 calendars. Moreover, the years are never named. ''In this year
-the crops failed;" **In this year the floods overspread the whole val-
-ley," etc., but never, '*This is the famine year" or *'This is the flood
-year." U])oii analysis the events recorded are found to be distrib-
-uted as follows:
+the crops failed;" **In this year the floods overspread the whole valley," etc., but never, '*This is the famine year" or *'This is the flood
+year." U])oii analysis the events recorded are found to be distributed as follows:
 
 IJattloH or skiniiishcH G6
 
@@ -2625,8 +1272,6 @@ Events relating to whites, but not to Pimas 19
 
 a Tenth Annual Keport of the Bureau of Ethnology, 271.
 
-
-38 THE PIMA INDIANS firrH.ANN.26
 
 Relations with whites, building churches, etc 21
 
@@ -2649,8 +1294,7 @@ THE NARRATIVE
 \% meteoric shower the Yumas, armed wdth clubs, bows, and arrows,
 attacked the Maricopa village. The Yumas surprised the Maricopas
 and captured their women, whom they surrounded and tried to take
-away wath them. They were about to cross the Gila wath their cap-
-tives when the Pimas arrived and attacked them. The women took
+away wath them. They were about to cross the Gila wath their captives when the Pimas arrived and attacked them. The women took
 advantage of the confusion to escape into the chaparral. The Yumas
 fought bravely, but they were overpowered by numbers and few
 escaped to tell of their defeat.
@@ -2680,14 +1324,10 @@ caused it to go down.
 
 1S34: 35
 
-Salt River. This year was long remembered because of the boun-
-tiful crops of wheat, corn, s(juashe&, pumpkins, and watermelons that
+Salt River. This year was long remembered because of the bountiful crops of wheat, corn, s(juashe&, pumpkins, and watermelons that
 were raised. The desert mesas were carpeted with flowers and the
-
 a November 13, ISO.
 
-
-RUSSELL] ANNALS 39
 
 bloom of cacti further transformed them into gardens. ^'Our people
 worshiped the gods in grateful recognition for their protection; we
@@ -2715,8 +1355,7 @@ against an attack from the Apaches. Early in the morning a woman
 started toward the hills to gather cactus fruit. She had not gone far
 when she saw a man mount a horse and start toward her. She
 suspected danger and walked backward for some distance before
-turning to flee. She got halfway to the village before she was over-
-taken by the Apache, with whom she struggled so desperately as to
+turning to flee. She got halfway to the village before she was overtaken by the Apache, with whom she struggled so desperately as to
 raise a cloud of dust. Those who were somewhat sober hastened
 toward the place, but too late to rescue the woman from being roped
 and dragged to death. However, they overtook the party of Apaches
@@ -2739,10 +1378,6 @@ xmder their feet, he ran to the village and gave the alarm. The Pimas
 gathered in suflftcient numbers to surround the Apaches, who
 attempted to reach the hills on their horses. Two horses stumbled
 into a gully, and their riders were killed before they could extricate
-
-
-40 THE PIMA INDIANS CrrH.AK3i.26
-
 themselves. •The others were followed and all killed. "This was
 the only event of the year, and our people were undisturbed further
 in the practice of their customs."
@@ -2751,8 +1386,7 @@ in the practice of their customs."
 
 JL Salt River, Late in the spring a party of Pimas went to Tucson
 J\ to buy clothing and other needed supplies. On their return they
-were ambushed and barely escaped massacre. The Apaches had con-
-cealed themselves on either side of the trail, and when the attack was
+were ambushed and barely escaped massacre. The Apaches had concealed themselves on either side of the trail, and when the attack was
 suddenly made the Pimas were at first panic-stricken, but recovered
 suflSciently to repel their assailants, with the loss, however, of two
 men killed and a boy captured. This youth is said to have been a
@@ -2767,10 +1401,8 @@ approaching horsemen to ask who they were; on receiving no
 answer they shot one of them. An Apache called "Slender Leg"
 was pushed off his mule and two Pimas jumped off their horses and
 tried to hold him, but he was too strong for them and they had to
-tie him. He was taken to the well-swept plaza of the \'illage, ac<;ord-
-ing to the Salt River calendar, or to an open alkali flat near the vil-
-lages, as stateid by the Gila Crossing annalist, where the people gath-
-ered and danced and sang around him. Two widows of men killed
+tie him. He was taken to the well-swept plaza of the \'illage, ac<;ording to the Salt River calendar, or to an open alkali flat near the vil-
+lages, as stateid by the Gila Crossing annalist, where the people gathered and danced and sang around him. Two widows of men killed
 in an ambuscade earlier in the season walked four times around the
 outside of the circle of dancers, and then j)asso(l inside as an avenue
 was opened for them. Tliey carried long dubs of mesquite, \^'ith
@@ -2794,10 +1426,6 @@ said he had made his bow and arrows to use on the enemy and he
 wo\dd keep them in his own hands. Tne Yuma messenger showed
 the Maricopas where to cross the Colorado river and cimducted
 them to the assembled Yumas on the farther side. It was agreed
-
-
-RUSSELL] ANNALS 41
-
 that four from each side should engage in the combat, using sharp
 sticks about 6 feet long (lances) instead of the customary war club.
 
@@ -2812,8 +1440,7 @@ caught in the line of women behind the warriors. K§,(ltci Pai,
 Hawk-tail, also rode through the Yuma lines, and is living to-day
 (1902).
 
-Tcuwut Hakiitany, Earth-crack, challenged a Yuma to single com-
-bat and was wounded, but recovered.
+Tcuwut Hakiitany, Earth-crack, challenged a Yuma to single combat and was wounded, but recovered.
 
 Then the fight became general, most of the Maricopas being killed.
 Many Yumas were also killed. The Pima killed so many w^th his
@@ -2821,8 +1448,7 @@ arrows that they could not reach him with their lances, and he
 escaped, as did some Maricopas, and they reached home in safety.
 A^pap Anton, Maricopa Antoine (pi. xliii, h) also kept his bow and
 arrows, and when closely pressed by the Yumas exclaimed in the
-Pima language: "You can not catch me!" which somewhat con-
-fused his enemies and enabled him to escape.
+Pima language: "You can not catch me!" which somewhat confused his enemies and enabled him to escape.
 
 Salt River. In the autumn the Yumas again came to attack the
 Maricopa village, but did not attempt to surprise it. They formed
@@ -2836,16 +1462,13 @@ In the personal combat which ensuetl the Yuma was killed, the sharp
 end of his opponent's club piercing his side. Then the fight became
 general, each attacking the man opposite liim m the line. There
 were some Mohave Apaches with the Yumas who fought with bows
-and arrows. When they saw the line of Yumas wavermg, they de-
-serted them. The Yumas retreated some distance and again made
+and arrows. When they saw the line of Yumas wavermg, they deserted them. The Yumas retreated some distance and again made
 a stand, and the fight ended in an indecisive manner, with perhaps
 a greater loss to the Maricopas than to the Yumas. After the fight
 the Mohaves want^^tl to scalp the dead enemy, hut the Yuma chief
 said no, they might scalp some Yumas by mistake, and they must
 wait until these had been gathered from the field.
 
-
-42 THE PIMA INDIANS [rrH.ANN.26
 
 Salt River. In the spring the Maricopas, Pimas, and Cocopas went
 on a campaign against the Apaches. They were scouting through
@@ -2866,13 +1489,11 @@ trace of the enemy.
 
 A few days later the Apaches killed a party of Pimas who had gone
 to the mountains to gather mescal. The Pimas hati planned to go
-to the Kwahadk' camp, but changed their minds and camped oppo-
-site them. The Apaches sent down scouts from the hills to see how
+to the Kwahadk' camp, but changed their minds and camped opposite them. The Apaches sent down scouts from the hills to see how
 many there were at the place where the smoke from the mescal pits
 was seen. It was a night attack and many Pimas never wakened
 to see another day; only one escaped to tell the Kwahadk's of the
-massacre. They followed the trail of the Apaches but did not over-
-take them. The dead were buried there by the Kwahadk's, who knew
+massacre. They followed the trail of the Apaches but did not overtake them. The dead were buried there by the Kwahadk's, who knew
 the Pimas well.
 
 In the summer, when the watermelons were ripe, a large force of
@@ -2887,25 +1508,19 @@ their bravest warriors.
 1844r-45
 
 Salt River, The next year the Yumas and Mohaves came to attack
-the Maricopa village. The fight was undecided, but the enemy re-
-treated. One Pima and several Maricopas were killed.
+the Maricopa village. The fight was undecided, but the enemy retreated. One Pima and several Maricopas were killed.
 # Gila Crossing, Salt River. A plague swept through all the tribes
-\ during this year. Those stricken with it usually dietl withbi twenty-
-four hours, but if they recovered they were well again in three days.
+\ during this year. Those stricken with it usually dietl withbi twentyfour hours, but if they recovered they were well again in three days.
 From 4 to 10 died each day. The people of Akfttclny came to the
 Gila and the Gila villagers fled into the desert. The [cholera or]
 
 
-BDSSBLL] ANNALS 43
-
-tcoko viMi^, ''black vomit/'* as it was called, brought all the medi-
-cine-men not in the best repute under suspicion. Four were killed,
+tcoko viMi^, ''black vomit/'* as it was called, brought all the medicine-men not in the best repute under suspicion. Four were killed,
 and the surviving medicine-men were kept busy guarding the camps
 against the plague.
 
 O Gila Crossing. During the winter, when ice was on the water and
 ' snow was evenly sprinkled on the lowlands, the Apaches came to
-
 the village of Rstotlk, where one of the marauders was killed.
 
 The Apaches, accompanied by the Pas)^i4 tribe from the north,
@@ -2922,11 +1537,8 @@ wounded but none were killed.
 O Gila Crossing, A party of Apaches was encamped on Mo'hattlk
 
 " mountain, and two of them came to steal com from the fiekls
-
 at Gila Crossing. The theft was discovered and three Pimas lay in
-
 wait for the thieves. When they again entered the field those lying
-
 in wait sprang upon them and killed one; the other escaped.
 
 Salt River. During the winter the Pimas went on a campaign
@@ -2945,19 +1557,14 @@ by a party from the villages.
 ^
 
 
-GHa Crossing. Three Apaches were going toward the Papago vil-
-lage near M4d,tcpat, or Table moimtain, when a Pima, coming to
+GHa Crossing. Three Apaches were going toward the Papago village near M4d,tcpat, or Table moimtain, when a Pima, coming to
 the Gila river, crossed it and discovered their trail. A party went in
 pursuit and succeeded in killing all three. K&'m^l tk^k's brother was
 in this party of Pimas and was himself killed a few days later in an
-
 o^Aquellas gentes y sua mlnistros gozan por lo general dc buena salud: entrc los naturale^ pasan
 muchos de cien aflos, excepto los pimas altos que s^un se cree por razon de las aguas y sombrfo cauce
-de sua arroyos, son eapuestos & diversos achaques. El mas temible entre ellos cs, el que llaman saguat-
-dodo 6 vdmito amariUo." Alegre, Historia de la Compafila de Jesus en Nueva^Espafia, n, 213.
+de sua arroyos, son eapuestos & diversos achaques. El mas temible entre ellos cs, el que llaman saguatdodo 6 vdmito amariUo." Alegre, Historia de la Compafila de Jesus en Nueva^Espafia, n, 213.
 
-
-44 THE PIMA INDIANS [i!Th.ann.26
 
 ambush into which the Pimas were lured in the Santan hilb. One
 other Pima was killed in this engagement and many were wounded,
@@ -2978,12 +1585,9 @@ pursued to the river, where all were killed in a running fight.
 
 f) OUa Crossing. The Rs&ntlk villagers went to K&'matflk to hunt
 ' deer. They were seen coming by the Apaches, who lay in wait
-
 at the spring, and two were shot before they could reach cover.
 Salt River. The Apaches came to Santan eariy one morning and
-
 killed four Pimas. They were chased, overtaken, and five of them
-
 killed before pursuit was abandoned.
 
 184:8-4Q
@@ -3002,36 +1606,28 @@ enemy were killed.
 1850-51
 
 >6ila Crossing. The Yumas came again to attack the Maricopas
-They surprised tlie village, killed several, and carried their prop-
-erty to a liill near by, where they sang and danced, saying that
+They surprised tlie village, killed several, and carried their property to a liill near by, where they sang and danced, saying that
 they were waiting for the Maricopas to bring their friends, the Pimas,
 to be defeated next. But they underestimated the number and valor
 of the Pimas, who soon put them to flight, leaving many of their dead
-upon the field. One of their chiefs, kno^\^l to the Pimas as Vlsaki-
-kitoAal(t), when he saw most of his men fallen, came back saying
+upon the field. One of their chiefs, kno^\^l to the Pimas as VlsakikitoAal(t), when he saw most of his men fallen, came back saying
 he did not wish to escape alone. He had but a knife in his hand and
 was killed with arrows.
 
 The remnant of the party took refuge in a tliicket near the Estrellas,
 where the pursuers rushed in upon them with horses and killed all.
 Many Pimas were wounded but none killed. A strand of hair was
-
-
-RUSSELL] ANNALS 45
-
 cut from the head of each fallen Yuma, but these have since been lost
 or buried. There were 134 Yumas killed; their bodies were left on
 the field.
 
 1851-52
 
-I J GUa Crossing. Two Apaches were discovered near the Mari-
-copa village by Whyen&n&vim, a Maricopa warrior, who killed one
+I J GUa Crossing. Two Apaches were discovered near the Maricopa village by Whyen&n&vim, a Maricopa warrior, who killed one
 of them before they could escape.
 
 The Pimas went on a campaign against the Apaches on Salt river,
-near where the present reservation is located, and one of their num-
-ber was killed..
+near where the present reservation is located, and one of their number was killed..
 
 I Bldckvxiter, In this year the Apaches raided a Papago village
 Ai near Quijotoa, called Kol Tatk' (mesquite root).**
@@ -3079,8 +1675,6 @@ oThe figure on the Blackwater stick is intended to represent a mesquite root.
 reservation.
 
 
-46 THE PIMA INDIANS [bth. ann. 26
-
 1855-5e
 
 Gila Crossing. SkfiAkoIk was approached one evening by seven
@@ -3104,8 +1698,7 @@ blind Apache was killed as his companions fled.
 
 1 see -57
 
-BldckvxUer. The Pimas and Maricopas joined the white sol-
-diers in a campaign against the Apaches under White Hat.
+BldckvxUer. The Pimas and Maricopas joined the white soldiers in a campaign against the Apaches under White Hat.
 Two Pimas were killed and two wounded, but no Apaches were
 injured. While the Pimas were on their way home still another of
 their party was killed. The Pimas burned their dead. Later they
@@ -3148,8 +1741,7 @@ Pimas and Maricopas shot down the Yumas upon three sides. Soon
 the Yumas began to waver and become exhausted from thirst in the
 heat of the day. They made several attempts to break through the
 line, but failed, and finally gathered in a compact body to make a last
-attempt to reach the river. At that moment the Pimas and Mari-
-copas who were on horseback rushed in upon the enemy and rode
+attempt to reach the river. At that moment the Pimas and Maricopas who were on horseback rushed in upon the enemy and rode
 them down. After a hand-to-hand combat the Yumas were all
 killed except one, who was stunned by the blow of a club and lay
 unconscious under a heap of dead. During the night he recovered
@@ -3158,8 +1750,6 @@ Yumas came here to fight no more."
 
 Blachwater. During the year Pimas were killed in two
 places by the Apaches; three south of the river and one
-
-
 north.^
 
 
@@ -3172,16 +1762,12 @@ Pima.
 Blachvdter. The meteor of 1859 was observed by the
 Pimas, who called it pai-ikam ho-o. During a raid into the
 Apache coimtry three of the enemy were killed and also one
-
-
-a " In 1857, with Mohave, Cocopa, and Tonto allies, they [the Yumas] attacked the Pimas and Papa-
-g:os up the river, and in a great battle were almost annihilated." Bancroft, Arizona and New Mexico,
+a " In 1857, with Mohave, Cocopa, and Tonto allies, they [the Yumas] attacked the Pimas and Papag:os up the river, and in a great battle were almost annihilated." Bancroft, Arizona and New Mexico,
 501.
 
 Cremony visited the Pimas as a captain in the California Column in 1862. In his Life Among the
 Apaches, 148, he mentions this conflict of the Pimas with their old enemies, saying: "The grazing
-ground to which we resorted during our stay near the Maricopa villages had been the scene of a des-
-perate conflict between that tribe and the Pimos, on one side, and the Yumas, Chlmchuevls, and
+ground to which we resorted during our stay near the Maricopa villages had been the scene of a desperate conflict between that tribe and the Pimos, on one side, and the Yumas, Chlmchuevls, and
 Amohaves on the other. Victory rested with the Maricopas and Piraos, who slew over 400 of the allied
 tribes, and so humiliated them that no effort has ever been made on their part to renew hostilities.
 This battle occurred four years before our advent, and the ground was strewed with the skulls and
@@ -3202,8 +1788,6 @@ b The two men in the figure are not meant to represent two killed, but that the 
 twoplaoefl.
 
 
-48 THE PIMA INDIANS [rrH.ANN.26
-
 185Q-eO
 
 Blachvater. The Pimas attacked a party of Apaches and
@@ -3219,7 +1803,6 @@ nobody was sick any more."
 
 pp J Blackwater. The one-armed trader sold his store to Ammi
 ^ M. White during this year and for some reason imknown to
-
 the Pimas threw away his grain sacks.*
 
 Two Pimas were killed by Apaches, but the details concerning
@@ -3234,8 +1817,7 @@ b " Early in 1862 a force of two or three hundred TexanB, under Captain Hunter, 
 from Mesllla and in February took possession of Tucson for the Confederacy. There was, of course,
 little opposition. Union men, if there were any loft, fleeing across the line into Sonora. Not much is
 really known of Hunter's operations in Arizona so far as details are concerned, even the date of his
-arrival being doubtfuL Besides holding Tucson, driving out men suspected of Union sympathies, con-
-fiscating a few mines belonging to Northerners, and fighting the Apaches to some extent, he sent a
+arrival being doubtfuL Besides holding Tucson, driving out men suspected of Union sympathies, confiscating a few mines belonging to Northerners, and fighting the Apaches to some extent, he sent a
 detachment to the Pima villages, and possibly contemplated an attack on Fort Yuma. But— to say
 nothing of the recent floods, which had greatly Increased the difficulties of the route, destroying Qila
 and Colorado cities— the news from California was not reassuring, and Hunter deemed it best to retire.
@@ -3249,19 +1831,16 @@ now and later I do not attempt to follow in detail, left Los Angeles and was con
 in April, and in May followed the Gila route to Tucson. But previously Lieutenant-Colonel West,
 commanding the advance, had sent out some parties from Yuma, and the.se were the only troops that
 came in contact with the Confederates. Jones, in February, was sent with dispatches to Tucson and
-fell into the hands of Hunter, who released and sent him back by another route, bearing the first defi-
-nite news that Tucson had Ix'en occupied. Captain William McCleave, of Company A, First Cavalry,
+fell into the hands of Hunter, who released and sent him back by another route, bearing the first definite news that Tucson had Ix'en occupied. Captain William McCleave, of Company A, First Cavalry,
 being sent out to look for Jones, was captured, with three men, at the Pima villages on the 6th of April
 and was carried to Mesllla, where he was soon exchanged. Captain William P. Calloway was next
-sent up the Gila with a stronger force to rescue McCleave. At the Pima villages he heard of a Confed-
-erate detachment of IG men, under Lieutenant Jack Swilling, and sent Lieutenant James Barrett with
+sent up the Gila with a stronger force to rescue McCleave. At the Pima villages he heard of a Confederate detachment of IG men, under Lieutenant Jack Swilling, and sent Lieutenant James Barrett with
 12 men to cut them off. Pursuing the enemy Into a chaparral, Barrett was killed, with two of his men,
 one or two of the foe l>elng also killed and three taken prisoners. This was the only skirmish of the
 campaign with Confederates, and It occurn»d on the 15th of April at a spot known as El Plcacho."
 Bancroft, xvii, 514.
 
-Both the GUa Crossing and the Blackwater calendars mention the capture of WTiite, but the cal-
-endrists can give no definite Information concerning the events related by Bancroft. The trader was
+Both the GUa Crossing and the Blackwater calendars mention the capture of WTiite, but the calendrists can give no definite Information concerning the events related by Bancroft. The trader was
 of vastly more interest and importance to the Pimas than the whole Confederate or Union army. He
 was agent for the Pimas, an office which he held until 1805. The writer has not found any account of
 his capture in the nx?ords of the period, but it is probable he was soon released. As soon as he was
@@ -3269,17 +1848,13 @@ taken away, the I'imas took possession of his store and quarreled over the distr
 of wheat on hand.
 
 
-RUSSELL] ANNALS 49
-
 BlacJcwater. A man named Thomas [whether given name
-or surname could not be ascertained], who had been trad-
-ing at Gila Crossing, took charge of White's store after the
+or surname could not be ascertained], who had been trading at Gila Crossing, took charge of White's store after the
 latter left. The soldiers from the west fought the soldiers from the
 east at Picacho and were defeated. Then a wliite man known to
 the Pimas as Has Viakam came from the east and traded wth them.
 [John] Walker" came from the west with the California Column
 and learned the Pima language at the same time that Thomas learned
-
 the Maricopa.
 
 isea-ea
@@ -3319,12 +1894,9 @@ at once set off after the enemy. Wlien the Apache who was farthest
 away saw that his companion was in danger he turned back and
 attacked the first pursuer. The other Apache escaped, but the braver
 one was killed. The Pimas returned home, but the Maricopas dragged
-
 a Sco p. 33 for list of Pima agents.
 26 BTH— 08 6
 
-
-50 THE PIMA INDIANS [eth. ann. 26
 
 the body to the buttes at the point where the Maricopa and Phoenix
 railroad now crosses the Gila and left it tied to a post. The Apache
@@ -3339,16 +1911,13 @@ in the saguaro fruit season **as shown by the red on the dead Pima"
 [or the month of June, 1862].
 
 e ^ e^iJH^^ Blachvater, Two med icine-men, father and son, were
-• ** • A/\ killed during the year because of their supposed machin-
-ations against the people.
+• ** • A/\ killed during the year because of their supposed machinations against the people.
 
 I8e3-e4
 
 fl.A Gila Crossing, Salt River. For a short time there was peace
-between the Pimas and Apaches. During this period the Mari-
-copas killed two old men and captured a boy from a party of Apaches
-who came to the Maricopa village. The boy was sold to a half-
-brother of the trader A. M. White [named Cyrus Ijennan], known to
+between the Pimas and Apaches. During this period the Maricopas killed two old men and captured a boy from a party of Apaches
+who came to the Maricopa village. The boy was sold to a halfbrother of the trader A. M. White [named Cyrus Ijennan], known to
 the Pimas as Satclny V&, Chin Beard.
 
 This man took the boy with him on an expedition against the
@@ -3383,8 +1952,6 @@ on the part of the Apache chief Wooisey drew his pistol and shot him dead. "This
 for the signing of the treaty. Simultaneously the whole party commenced firing upon tho Indians,
 slaughtering them right and left. Lennan stood in advance of the Maricopas and was warned by
 
-
-RUSSELL] ANNALS 51
 
 SdU River, While peace prevailed between the tribes a party of
 Apaches came to the Pimas to trade goods for ponies. When near
@@ -3421,8 +1988,7 @@ I V and their ears cut off and nailed on a stick.
 In an effort to establish peace with the Apaches, the soldiers and
 Pima scouts took a wagon loaded with rations to the Superstition
 mountains. The Apaches took it to be a hostile move and attacked
-the party, killing the driver of the wagon. The Apaches were pur-
-sued and several were killed before the trail was lost.
+the party, killing the driver of the wagon. The Apaches were pursued and several were killed before the trail was lost.
 
 
 Woolsey to make sure of a lame Indian with a lance, who was eyeing him suspiciously. 'I'll look
@@ -3444,20 +2010,16 @@ ibid., 1862. 239, 1863.
 \
 
 
-52 THE PIMA INDIANS [eth. axn.26
-
 lees-ee
 
 C^ GUa Crossingj Salt River. The Pimas went on a campaign
-\ against the Apaches and one of their number was killed. His fel-
-lows burned the corpse with the bow and war gear. Dry ironwood
+\ against the Apaches and one of their number was killed. His fellows burned the corpse with the bow and war gear. Dry ironwood
 was used in the cremation.**
 
 In the same engagement another Pima was wounded and came
 home to die.
 
-Gila Crossing, The Pimas soon afterwards went to the moun-
-tains north of Tempe to seek Apaches. Two of their party
+Gila Crossing, The Pimas soon afterwards went to the mountains north of Tempe to seek Apaches. Two of their party
 were killed and a third came home mortally wounded.
 •••• Blackwater. Another war party attacked an Apache camp,
 described as the one at which the children were playing and
@@ -3508,8 +2070,6 @@ of a little rise upon which the present village is located and was within the re
 is but one of many instances where the white settlers of Arizona have not profited by the experience
 
 
-BDSSELL] ANNALS 53
-
 JBlackwater, The Pimas went on a campaign against the
 Apaches with the Papagos, but the parties quarreled and
 separated. The Pimas killed an Apache woman near Salt
@@ -3545,8 +2105,7 @@ and his body was buried.
 1871 72
 
 OUa Crossing. An epidemic of measles prevailed in all the villages
-during this year. The Indians knew absolutely nothing about treat-
-ing the disease, and many died.''
+during this year. The Indians knew absolutely nothing about treating the disease, and many died.''
 
 Salt River. In the winter the Kwahadk's went on the warpath
 against the Apaches and were accompanied by Na-aputk't'. They
@@ -3555,15 +2114,13 @@ there. They followed the trail, however, until they came to a point
 near the present station of Red Rock, where they sent out scouts in
 the night,. who discovered the whereabouts of the enemy by hearing
 one of them cough. They surrounded the camp and attacked it at
-
 of the natives, ancient and niodom. who have located their homes Iwyond the reach of the freshets
 that transform the shallow lK»ds of blistering sand into irresistible torrents that overnm ihe bottom
 lands which may have Ijeen untouched by flood for many years. "The flood of Septemljcr, 1868, was
 perhaps the most destructive ever known, destroying three of the Pima villages and a large amount
 of prop(?rty on the lower Gila." Bancroft, xvii, .WO.
 
-a The main canal is less than 2 miles in length. It has l:>een enlaiigf.Kl several times, so that its capao-
-ity is now 325 cubic feet per second, irrigating over 30.000 acres.
+a The main canal is less than 2 miles in length. It has l:>een enlaiigf.Kl several times, so that its capaoity is now 325 cubic feet per second, irrigating over 30.000 acres.
 
 6 The experienct* of the agency physicians in after years show that the high rat<» of mortality from
 this disease has not Ixwn due to the lack of acquired Immunity, but to the ignorance of the Pimas as
@@ -3572,16 +2129,11 @@ at Sacaton in 18i)9 took a cold water shower bath a^' soon as he was able to be 
 for his rashness.
 
 
-54 THE PIMA INDIANS [eth. ann. 26
-
 daylight. The Apaches ran confusedly about without their weapons;
-
 fifteen were killed and many guns, bows, and quivers were captured.
 
 ^ Blackwater. At the hill, KA'matdlk, somewhat detached
-
 ly^ T from the Sacatons on the northeast, a man was bitten by a
-
 rattlesnake and died.
 At about the same time the Pimas killed an Apache who was known
 as Vakoa, Canteen, near the Superstition moimtains.
@@ -3590,21 +2142,17 @@ as Vakoa, Canteen, near the Superstition moimtains.
 
 GUa Crossing f Salt River. For several years the Pimas had had little
 \ water to irrigate their fields and were beginning to suffer from actual
-want when the settlers on Salt river invited them to come to that val-
-ley. During this year a large party of Rso'ttik Pimas accepted the
+want when the settlers on Salt river invited them to come to that valley. During this year a large party of Rso'ttik Pimas accepted the
 invitation and cleared fields along the river bottom south of their
 present location. Water was plentiful in the Salt and the first year's
-crop was the best that they had ever known. The motive of the Mor-
-mons on the Salt was not wholly disinterested, as they desired the
+crop was the best that they had ever known. The motive of the Mormons on the Salt was not wholly disinterested, as they desired the
 ^ Pimas to act as a buffer against the assaults of the Apaches, who were
 masters of the country to the north and east.^
 
-Salt River, It was during this winter that the United States sol-
-diers and the Pima, Maricopa, and Apache scouts surroimded the
+Salt River, It was during this winter that the United States soldiers and the Pima, Maricopa, and Apache scouts surroimded the
 Superstition Mountain Apaches at the "Tanks" and rained bullets
 into their ranks imtil not a single man remained aUve. ''It was a
-sight long to be remembered,'' said Owl Ear, in narrating the cir-
-cumstances.*
+sight long to be remembered,'' said Owl Ear, in narrating the circumstances.*
 
 
 1873-74:
@@ -3625,8 +2173,7 @@ Gila Crossing, was settled during this year.^
 a By Executive order of June 14. 1879, the land occupied by the Pimas on Salt river wan set apart m
 the Salt River reservation. It embraces about three townships on the north side of the river about
 30 miles north of the original Pima villages. There are several laige ruins and at least one laige
-canal upon the reservation that were built by the Ilohokam. By an arrangement with the canal com-
-panies the Pimas have insured for themselves a constant supply of water, and the Salt Rivercommunity
+canal upon the reservation that were built by the Ilohokam. By an arrangement with the canal companies the Pimas have insured for themselves a constant supply of water, and the Salt Rivercommunity
 is regarded as the most prosperous among the Pimas.
 
 b This sharp engagement took place on the 28th of Decemlx>r, 1872. in the canyon of the Salt river,
@@ -3635,23 +2182,19 @@ On the Border with Crook, 191-200. Tie states that 76 Apaches were kiUed and 18 
 wounded man was overlooked and made his escape. "Lead poured in by the bucketful" and an
 avalanche of bowlders was hurled down hundreds of feet from above upon the enemy.
 
-c There is an unfailing supply of water at this place: the Gila, after flowing 75 miles beneath the bup-
-face, rises to form a stream large enough to irrigate several hundred acres.
+c There is an unfailing supply of water at this place: the Gila, after flowing 75 miles beneath the bupface, rises to form a stream large enough to irrigate several hundred acres.
 
 <* This was a military telegraph built from funds obtained by special appropriations from Congress.
 Arizona was fairly well provided with telegraph lines liy the time the railroad reached Yuma, in 1877,
 as there were more than 1,000 miles in operation in the Territory.
 
 
-RUSSELL] ANNALS 55
-
 The Pimas went on a campaign against the Salt River
 Apaches soon after a heavy rain. When they reached the
 Salt river it was too high to be safely forded, so they built
 a raft and tried to take their saddles and blankets across
 upon it. The raft sank and they lost all their effects.
-Some of the party who had not engaged in the raft enter-
-prise found a safe ford and continued on their raid, in which they
+Some of the party who had not engaged in the raft enterprise found a safe ford and continued on their raid, in which they
 killed several of the enemy, and near Four Peaks captured an
 Apache lad."
 
@@ -3667,10 +2210,8 @@ and dragged him to death.^
 BlacJcwdter. The Apache White Hat killed a Pima.
 
 1875-7e
-
 tGila Crossing. In this year sickness prevailed in the village of
-Rs&niik, apparently the same as in 1866, when the principal symp-
-tom of the disease was shooting pains through the body. Two medi-
+Rs&niik, apparently the same as in 1866, when the principal symptom of the disease was shooting pains through the body. Two medi-
 cine-men were suspected of having caused the trouble by magic means,
 and they were killed to stop the plague.
 
@@ -3687,25 +2228,19 @@ to witness a race with the kicking-ball.
 
 ^ Gila Crossing. There was an Apache village called Hftvany
 ^ Kks at the junction of the Gila and Salt rivers while a truce
-existed between the Pimas and Apaches. During this year an epi-
-demic of smallpox prevailed in that village, as well as in all those of
+existed between the Pimas and Apaches. During this year an epidemic of smallpox prevailed in that village, as well as in all those of
 the Pimas and Maricopas.
 
 a He afterwards became known as Doctor Montezuma, now a prosperous physician practising in
 the city of Chicago.
 
-t> This, the only event of the year in the Gila Crossing record, is unimportant in itself, and yet it illus-
-trates a phase of Pima character that is worthy of notice. In handling horses they exhibit a patient
+t> This, the only event of the year in the Gila Crossing record, is unimportant in itself, and yet it illustrates a phase of Pima character that is worthy of notice. In handling horses they exhibit a patient
 subtlety resembling that of the snake creeping upon its prey, until they have gotten a rope or halter
-on the animal, when their gentleness disappears. Yet in all their harnessing or saddling they mani-
-fest an innate tendency toward carelessness. They always work up on the right instead of the left
+on the animal, when their gentleness disappears. Yet in all their harnessing or saddling they manifest an innate tendency toward carelessness. They always work up on the right instead of the left
 aide of a horse, and they also mount from that side.
 
 
-56 THE PIMA INDIANS [rrH.AN3c.26
-
-In the spring of 1877 the Gila Crossing Pimas and the Gila Mari-
-copa villagers were pitted against each other in a relay race, the first
+In the spring of 1877 the Gila Crossing Pimas and the Gila Maricopa villagers were pitted against each other in a relay race, the first
 between the two tribes.**
 
 Blackwater. While a party was gathering mescal just
@@ -3736,15 +2271,13 @@ A/ of the year was the building of the Southern Pacific railroad
 ^^ along the southern border of the Gila River reservation.
 
 Salt River (a), Blackwater (6). A feud that had originated
-in the quarrel at the Kwahadk' ^^^lage during the preced-
-ing year reached an acute stage in February, 1879. The
+in the quarrel at the Kwahadk' ^^^lage during the preceding year reached an acute stage in February, 1879. The
 majority of the people of Blackwater and the lower villages,
 which were then known as Santan, conspired to kill the
 men of a certain faction during a night determined upon
 several days in advance. A guard was set at Blackwater,
 who was to watch their movements without giving them
-any hint of his purpose. One of those who were prepar-
-ing for the attack at Blackwater had a brother at Casa Blanca, and
+any hint of his purpose. One of those who were preparing for the attack at Blackwater had a brother at Casa Blanca, and
 he feared that this brother might be included in the list of victims
 at the lower villages, so he went one night to warn him or to get
 him to return with him to Blackwater. The next day the brother's
@@ -3756,13 +2289,10 @@ one of the intended victims of the conspiracy formed against them.
 o Tcfrfkils. one of the Maricopa runners, afterwards won a six-day race in San Francisco and was %
 close sFCond in a similar endurance race in New York.
 
-fr The Pimas believe that he froze to death, and if this be true it indicates an unusually low tcmpem-
-ture and that one man at least had verj- slight power of resistance to cold. The lowest temperature
+fr The Pimas believe that he froze to death, and if this be true it indicates an unusually low tcmpemture and that one man at least had verj- slight power of resistance to cold. The lowest temperature
 recorded at the Phoenix meteorological station for a period of sixteen years is 11® F. Bept. of
 Chief of Weather Bureau, 190Q-1901, i.
 
-
-RrssELL] ANNALS 57
 
 The recipient of the news sent one of his family to inform another
 of his party, and so the news was spread so quietly that the guard
@@ -3774,8 +2304,7 @@ their friends attacked their Santan opponents eariy the next morning.
 
 Juan Thomas, his two brothers, father, and uncle were in the party
 attacked. The old man, II^, was the bravest, and fought openly
-with bow and arrows until they succeeded in driving off their assail-
-ants. He was slightly wounded with a bullet in the abdomen and
+with bow and arrows until they succeeded in driving off their assailants. He was slightly wounded with a bullet in the abdomen and
 an arrow^ in the arm, but no one was killed. One of the brothers
 was irrigating his field when a runner came with the news that his
 family was being killed and that he was in danger also. He ran
@@ -3785,8 +2314,7 @@ dodging to escape from the two clumps of mesquite behind which
 they had halted. Then they discovered that they were brothers,
 and they debated long as to what they should do. It is also said that
 they shed tears at the peril of their relatives, to whose aid they could
-not go without weapons. It was also a cause of grief that their fel-
-lows should rise against them. They decided to return to the village,
+not go without weapons. It was also a cause of grief that their fellows should rise against them. They decided to return to the village,
 but by that time the fight had ended.
 
 II&s had come out of liis house and chased those who were trying
@@ -3794,24 +2322,18 @@ to shoot him. They fired several shots and some arrows at him,
 but when he came near they ran away. He called his enemies by
 name, inviting them to come and get satisfaction if they were bent on
 killing him. When the attacking party withdrew, the Thomas family
-went to the Double buttes, and on finding that they were not pur-
-sued they went to Blackwater, where their story so aroused their
+went to the Double buttes, and on finding that they were not pursued they went to Blackwater, where their story so aroused their
 friends that an expedition was organized to seek revenge. They
 secured two boxes of cartridges from the trader at Blackwater and
 came down the river.
 
-They formed a skirmish line as they approached the lower settle-
-ment and met their opponents at the Government school building.
+They formed a skirmish line as they approached the lower settlement and met their opponents at the Government school building.
 The Santan party hastily knocked a few loopholes in the adobe walls
 and gathered in and around the building, to withstand an attack.
-The Blackwater men killed three among those outside the school-
-house and could have killed many more with their superior weapons,
+The Blackwater men killed three among those outside the schoolhouse and could have killed many more with their superior weapons,
 but their thirst for revenge seemed to be satisfied with that number,
-and they did not pursue those who fled across the mesa like fright-
-ened rabbits.
+and they did not pursue those who fled across the mesa like frightened rabbits.
 
-
-58 THE PIMA INDIANS Ieth.asn.26
 
 187Q-80
 
@@ -3833,7 +2355,6 @@ preceding year was hanged at Florence.
 1881-82
 
 Jl GUa Crossing. During a tizwin drunk at Salt River two young
-
 men killed each other. The Casa Blanca people went to Gila
 
 Crossing to participate in a feast and dance.
@@ -3841,7 +2362,6 @@ Crossing to participate in a feast and dance.
 ^V/jJ^ Blackwaier, The Pima police were sent from Sacaton to
 
 A /V arrest some Kwahadk's living at their village about 50 miles
-
 south of the agency. Two were killed.*
 
 1882-83
@@ -3849,9 +2369,6 @@ south of the agency. Two were killed.*
 y f=?^ (rila Crossing (a) , Blackwater (b) . An epidemic of measles
 ^S prevailed among the Pimas and Maricopas, causing the death
 of many persons.
-
-
-1
 
 
 a An event of such rarity that it is mentioned but twice in these records of seventy years.
@@ -3862,8 +2379,7 @@ the few whites with whom they came in contact, and it was a privilege that the K
 but once or tvrico a year. Old inhabitants at Sacaton tell me that the agent was working prisoners
 upon a reservation farm and soiling the crop for his o^i'n profit. The Pim&s had been committing no
 misdemeanors or crimes ttiat ofTcred any excuse for imprisoning them and the crops needed attention,
-but nevertheless he ordered his police to bring in the Kwahadk's dead or alive. One of the young Kwa-
-hadk's frankly declared his innocence of any intentional transgrcsition and defied the police to take him
+but nevertheless he ordered his police to bring in the Kwahadk's dead or alive. One of the young Kwahadk's frankly declared his innocence of any intentional transgrcsition and defied the police to take him
 from his home, lie was promptly shot. As tho polloi* were returning to Sacaton they were overtaken
 by the father of the murdered man. who told them tiiat he had nothing to live for. as they had killed his
 son and they might as well kill him. The police obligingly complied with his request. ' ' Innocent and
@@ -3889,8 +2405,7 @@ the Southern Pacific was run over and killed.**
 
 1884-85
 
-Gila Crossing, An epidemic during this year among the Kwa-
-hadk's caused the execution of two medicine-men who were sus-
+Gila Crossing, An epidemic during this year among the Kwahadk's caused the execution of two medicine-men who were sus-
 pected of bringing the visitation upon the tribe.''
 
 Blackwater, The first wagons issued by the Government
@@ -3898,8 +2413,7 @@ to the Blackwater people were received this year.
 
 1885-88
 
-^ Gila Crossing, Hwela, named for the agent Wheeler, was bap-
-tized this year as the first Christian convert among the Pimas.*"
+^ Gila Crossing, Hwela, named for the agent Wheeler, was baptized this year as the first Christian convert among the Pimas.*"
 It Two youths were thrown from their horses during a rabbit hunt
 and killed.^
 
@@ -3907,8 +2421,7 @@ Blackioater. Two prominent men of Blackwater died.
 
 1888-87
 
-k Gila Crossing. Tizwin was made at Gila Crossing in such quan-
-tities that it was passed around in bowl-shaped baskets. One
+k Gila Crossing. Tizwin was made at Gila Crossing in such quantities that it was passed around in bowl-shaped baskets. One
 man w^as killed.
 
 Ky The first adobe houses were built at Gila Crossing, and their
@@ -3924,17 +2437,13 @@ placed on the track and, perhaps, give concessions of rights of way across the r
 of future extensions. Agent Jackson in his report for 1883 stated that six Pimas had been killed that
 ^ year by falling from trains when dnmk.
 
-ft It will be noticed that such common events as this among the Kwahadk's arc recorded by the calen-
-drists, thus showing how closely related the tribe is to the Pimas.
+ft It will be noticed that such common events as this among the Kwahadk's arc recorded by the calendrists, thus showing how closely related the tribe is to the Pimas.
 
 c Mr C. H. Cook, a Ci\il War veteran, had come as a teacher and missionary among the Pimas at the
-close of the year 1870. A sincere and devout Christian, he labored for nearly fifteen years before the peo-
-ple to whom he has devoted his life l)egan to understand the message that he brought to them. lie
-informs the writer that three or four other men had accepted his teaching Vwfore Hwela, but it is prob-
-able that this year marks the beginning of the conversion, which thereafter advanced ver>' rapidly.
+close of the year 1870. A sincere and devout Christian, he labored for nearly fifteen years before the people to whom he has devoted his life l)egan to understand the message that he brought to them. lie
+informs the writer that three or four other men had accepted his teaching Vwfore Hwela, but it is probable that this year marks the beginning of the conversion, which thereafter advanced ver>' rapidly.
 Mr Cook has descril)ed his experiences among the Pimas and Apaches in a small volume of 136 pages,
-entitled. Among the Pimas, 1893. The chapter on " The Pima Indians, their manners and cus-
-toms." by Rev. Isaac T. Whittcmore, is inaccurate and inadequate.
+entitled. Among the Pimas, 1893. The chapter on " The Pima Indians, their manners and customs." by Rev. Isaac T. Whittcmore, is inaccurate and inadequate.
 
 d These hunts were frequently made and resulted in the destruction of large numbers of hares and
 \ rabbits, two species of the former and one of the latter. They were simply drives by a company of '
@@ -3949,15 +2458,12 @@ which is exceedingly severe on vehicles.
 r
 
 
-60 THE PIMA INDIANS [eth. ann. 26
-
 Gila Crossing J Salt river. The Maricopa and Phoenix raiboad
 was built during this year, and thus connection was established
 between the fertile districts of the Salt river and the Southern
 Pacific railroad."
 
-Salt River. The medicine-man Staups gave a great dance at San-
-tan, which was accompanied by races and other ceremonies which
+Salt River. The medicine-man Staups gave a great dance at Santan, which was accompanied by races and other ceremonies which
 attracted many visitors, among whom were a Yuma and his wife.
 • o o o Blachvater, Juan Thomas was employed as a scout by
 ^ ® ^ the troops who pursued Geronimo during his last flight into
@@ -3967,8 +2473,7 @@ entered the Pima camp thinking that they were friends, and had been
 captured, except seven who broke away. The commanding officer
 having ordered a fresh party of Pimas who had come up, to pursue the
 escaping Apaches, thirty-one Pimas ,and eight soldiers tracked the
-Apaches for two months, until they doubled back to the White moun-
-tains, where they were captured by the white soldiers before the
+Apaches for two months, until they doubled back to the White mountains, where they were captured by the white soldiers before the
 Pimas overtook them.
 
 1887-88
@@ -3988,28 +2493,20 @@ their brothers' industry.
 1 1 During a tizwin carousal which took place later in the year, two
 Gila Crossing men killed each other.
 ^^ It was at this time that ^^a Mexican (sic) counted the bones of
-
 the people." ^
 
 y The Maricopas were all living together at Mo'hattlk mountain
-
 when a quarrel arose in which a medicine-man was killed. His
-
 friends retaliated by killing a medicine-man of the opposite faction.
 
-This resulted in a division of the tribe, some going to the Pima settle-
+This resulted in a division of the tribe, some going to the Pima settlea The road was completed July 2, 1887.
 
-a The road was completed July 2, 1887.
-
-t> This is known as the ' * Sonora earthquake. ' * The shocks were so severe in that state as to be destruc-
-tive to property and human life. At Tombstone, -\riz.. the severe shocks lasted ten seconds, and the
+t> This is known as the ' * Sonora earthquake. ' * The shocks were so severe in that state as to be destructive to property and human life. At Tombstone, -\riz.. the severe shocks lasted ten seconds, and the
 %nbrations continued for a full minute. The earthquake was felt throughout the southern part of the
-Territory, and many ranchmen firmly believe that the drought of the last few years, which has trans-
-formed the grassy mesas into a desert waste, is due to that earthquake. Sec Goodfellow in Science,
+Territory, and many ranchmen firmly believe that the drought of the last few years, which has transformed the grassy mesas into a desert waste, is due to that earthquake. Sec Goodfellow in Science,
 New York, Aug. 12. 1887.
 
-r This is the Pima view of the somatological investigations of Dr Herman F. C. ten Kate, who meas-
-ured 312 Pimas, l)esides many others among the Maricopas. Papagos, Zufiis, etc. His results are briefly
+r This is the Pima view of the somatological investigations of Dr Herman F. C. ten Kate, who measured 312 Pimas, l)esides many others among the Maricopas. Papagos, Zufiis, etc. His results are briefly
 summarized in the Journal of American Ethnology and Archaeology, iii, 119.
 
 
@@ -4051,7 +2548,6 @@ Blackwater.
 /% Gila Crossing, Two tramps killed a man near the Maricopa
 and Phoenix railroad.
 O The Salt River people made tizwin, and during the carousal
-
 which followed a man was shot and killed. The nmrderer was sent
 to Yuma.
 a The Hi'atam villagers who formerly lived at AkQtcIn}^, south of
@@ -4079,18 +2575,13 @@ after drinking it.
 
 a Notwithstanding the fuct that several score of partial and total eclipses of the moon were visible
 In Pimeria during the period covered by these annals, which in that clear atmosphere must have been
-seen, they are mentioned but twice, and thiit in recent times. As it is known from American testi-
-m9ny that the Pimas were profoundly impressed by such phenomena, the failure of the annalists
+seen, they are mentioned but twice, and thiit in recent times. As it is known from American testim9ny that the Pimas were profoundly impressed by such phenomena, the failure of the annalists
 to note them can be accounted for only by their aversion to even a mention of supernatural events
 supposed to be threatening in character.
 
 
-62 THE PIMA INDIANS [eth. ann. 26
-
 \^ At the Salt River settlement a Mexican under the mfluence
-
 of whisky killed a Pima, but the Indians "were good enough not
-
 to want to kiir^ the murderer.
 
 ^ KJ Oila Crossing (a), Salt River , Blachvater (6). In the spring of
@@ -4098,17 +2589,14 @@ to want to kiir^ the murderer.
 (a) 1891 occurred the last and most disastrous of the Gila floods.
 
 e^ The Maricopa and Phoenix Railroad bridge was swept away and
-
 e^ the channels of both the Gila and Salt rivers were changed in
 
 ^^^ many places. The destruction of cultivated lands led to the
-
 change of the Salt River Pimas from the low bottoms to the mesas.
 
 18Q1-Q2
 
 ^ Ttn Oila Cussing, A boarding school ° for Indian children was
-
 established at Phoenix.
 
 1 1 Two men died at Gila Crossing during the autunm, and it was
@@ -4141,15 +2629,13 @@ II
 with whisky, killed each other.
 I In the spring of 1892 the Gila Crossing chief, Ato'wftkam, died.
 
-The Government issued barbed wire for fencing at Gila Cross-
-ing, and directed the people to make a road across the fields, which
+The Government issued barbed wire for fencing at Gila Crossing, and directed the people to make a road across the fields, which
 should be fenced to form a lane.
 
 Blachvater. A woman was gored to death at Blackwater by
 a cow.
 
-The chief, who had been bitten some years before by a rattle-
-snake but had recovered, died in the spring of 1893.
+The chief, who had been bitten some years before by a rattlesnake but had recovered, died in the spring of 1893.
 
 
 a It was opened In a leased hotel building in Septemlwr, 1891. Owing to lack of facilities only boys, to
@@ -4159,8 +2645,6 @@ b The passion for distilleti liquor had arisen within the last quarter of a cent
 wrote, in Novemlxr, 184e, "Aguardiente (brandy) is kno^vn among their chief men only, and the abuse
 of this and the vices which it entails are yet unknown."
 
-
-BDSSBLL] ANNALS 63
 
 18Q3-Q4:
 
@@ -4179,10 +2663,8 @@ the Pimas took place at Blackwater.*
 
 XL Gila Crossing, The Gila Crossing Presbyterian Church was
 VI 3) built at the beginning of the year — that is, during the sunmier
-
 of 1894. It was dedicated in December of that year.^
-i A woman was found dead on the Phoenix road. It is sup-
-posed that she had been killed by a Maricopa or a Chinaman.
+i A woman was found dead on the Phoenix road. It is supposed that she had been killed by a Maricopa or a Chinaman.
 Tp The Gila Crossing people held a dance festival.
 
 
@@ -4229,8 +2711,6 @@ an interest in Christianity among the Gila Crossing villages and had a number of
 when it was considered that, owing to its isolation, the settlement should have a resident missionary.
 
 
-64 THE PIMA INDIANS [bth. ann. 26
-
 Blackwater, Two Christians died in this year, one at Blackwater
 and the other at the Cottonwoods."
 
@@ -4242,7 +2722,6 @@ which one man was killed.
 
 
 t
-
 iV Gila Crossing J Salt River, The Gila Crossing chief fell dead in
 the prisoner's chair when on trial at Sacaton for selling whisky.
 
@@ -4294,8 +2773,6 @@ b The disease also prevailed at Sacaton. Nearly all the children in the school, 
 siclc, but the indefatigable efforts of the agency physician saved all but one, who disolwyed his orders.
 
 
-RUSSELL] ANNALS 65
-
 There was a heavy fall of snow that could be rolled into great balls
 I as it was melting.
 
@@ -4335,16 +2812,13 @@ and fell and perished.
 
 b The agent wisely stipulated that if they received free wire they must leave a lane for a road through
 the fields. The ^idth was not prescril)ed and they made the lane so narrow that two teams can scarcely
-pass each other in it, and it Ixxiomes churned Into mud when the adjoining land is flooded for pur-
-poses of irrigiition. The Hmas have not manifested any striking road-building instinct that would
+pass each other in it, and it Ixxiomes churned Into mud when the adjoining land is flooded for purposes of irrigiition. The Hmas have not manifested any striking road-building instinct that would
 lead an enthusiastic admirer to relate them to the Aztecs or Incas. Year after year they plodded
 through the slough between the agency and the river without making an effort to put in a bridge or
-filling. When one of the (Jovemnient employees was'building a bridge for them several passing team-
-sters preferred risking their t<'ams and wagons in the sea of mud to assisting for a few minutes to put
+filling. When one of the (Jovemnient employees was'building a bridge for them several passing teamsters preferred risking their t<'ams and wagons in the sea of mud to assisting for a few minutes to put
 the bridge in place.
 
-The soil of the reservation is well adapted for road making, and a little ca re would make the thorough-
-fares as hard and smooth as those to \)e found anywhere. However, those upon the tillable lands of
+The soil of the reservation is well adapted for road making, and a little ca re would make the thoroughfares as hard and smooth as those to \)e found anywhere. However, those upon the tillable lands of
 river silt readily cut into light dust that rises in clouds when disturbed. In a few placed this condition
 has been n*medied by resorting to the U^mporary and shiftless expedient of the white settlers, who cover
 the road with straw or corral n>fu.s«». The mesa roads, which inchide all those leading any distance
@@ -4353,14 +2827,12 @@ ruts and renders the road "heavy," and over "adobe" soil which is hard and firm 
 which makes an ideal roadb«»d. Ilill roads are unknown and there are very few traveling sand dunes
 to be crossed near the res<'rvation.
 
-c lILs horse was killed and its bones are certain to \ie pointed out to the stage traveler by the loqua-
-cious driver, John McCoy.
+c lILs horse was killed and its bones are certain to \ie pointed out to the stage traveler by the loquacious driver, John McCoy.
 
 d It may l)e presumed that such occum»nces are rare or they would not l)e deemed worthy of record.
 This woman had gone far out on the desert to search for mesquite lx»ans, as she was without food; indeed
 the whole community was star\'ing lM»cause of the failure of the crops owing to the lack of water in
-the river for their ditches. Rattlesnakes sometimes make their way into the houses and bite the occu-
-pants. Repeated inquiries failed to (»licit information that would indicate that any remedies were used
+the river for their ditches. Rattlesnakes sometimes make their way into the houses and bite the occupants. Repeated inquiries failed to (»licit information that would indicate that any remedies were used
 for snake bites. A common weed (golondrina?) is called snakewivd by a few whites, and is supposed to
 be OBed as a remedy by the Pimas, but I have not yet found a native who ever heard of its being so used*
 
@@ -4372,8 +2844,6 @@ N
 
 II
 
-
-66 THE PIMA INDIANS [irrH.ANN.2«
 
 IQOO-lQOl
 
@@ -4393,8 +2863,7 @@ IQOl 2
 TECHNOLOGY
 The Food Supply
 
-The Pimas subsist upon a mixed diet in which vegetable food pre-
-dominates. In the past it would seem probable that the proportion
+The Pimas subsist upon a mixed diet in which vegetable food predominates. In the past it would seem probable that the proportion
 of meat was greater than at present, though they have long been tillers
 of the soil. Certain articles of their diet appear to be markedly flesh
 producing, and this tendency is at least not diminished by the habits
@@ -4411,8 +2880,7 @@ drop of water that could not gain shelter beneath the sands was
 licked up by the ever-thirsty sun. The fish gathered in the few pools
 that were maintained by the underflow, the ducks and other water
 birds took flight, but the deer and antelope could the more readily be
-stalked because of their resorting to known watering places. With-
-out water in the river and canals there could be no crops, and neces-
+stalked because of their resorting to known watering places. Without water in the river and canals there could be no crops, and neces-
 sity drove the people to seek far afield for the native plants that in
 some degree produce fruits or seed,s even in dry seasons. The fruit
 of the saguaro and the seed or bean of the mesquite were the most
@@ -4425,19 +2893,12 @@ President's visit, lie made no mark upon the calendar stick to commemorate the e
 the circumstana's as a part of the history.
 
 It is not surprising that the Pimas, who had heard for many years of the Great Chiefs in Washington,
-should l>e desin)us of seeing one in the flesh when the opportunity presented itself. The official interpre-
-ter at the agency fn^quently, during the winter of 1901-2, expressed her desire to obtain a good biography
+should l>e desin)us of seeing one in the flesh when the opportunity presented itself. The official interpreter at the agency fn^quently, during the winter of 1901-2, expressed her desire to obtain a good biography
 of the late President. After commenting upon the hideous crime of the assassin at Buffalo she made
 the truthful and suggestive remark that ' no Pima would do such a thing; he would never kill his chief."
 
 
-RUSSELL]
-
-
 THE FOOD SUPPLY
-
-
-67
 
 
 and whenever they got a mile from their own villages they were in the
@@ -4450,15 +2911,12 @@ At other times the very abmidance of water proved disastrous;
 Fig. 2. Fat Louisa.
 
 floods destroyed the canals and swept away the crops. As early as
-1697 Padre Kino reported that owing to the fields havmg been over-
-flowed the Pimas could offer him no pinole,^ but gave mesquite meal
+1697 Padre Kino reported that owing to the fields havmg been overflowed the Pimas could offer him no pinole,^ but gave mesquite meal
 instead.** The resort to uncultivated products such as their Papago
-
 a Manuscript, Hemenway Collection, x, p. 6, copy by Bandelier from Doc. Ills. Mex.
 
 f> Made by grinding parched com into meal and mixing it with water to form a thin gruel; wheat is
-now similarly treated. Pfefferkom gives the following appreciative description of pinole in his Beschrel-
-bung der Landschaft Sonora, the second volume of which was published in 1795: "Auch auf dem Felde,
+now similarly treated. Pfefferkom gives the following appreciative description of pinole in his Beschrelbung der Landschaft Sonora, the second volume of which was published in 1795: "Auch auf dem Felde,
 und auf der Reise, wo keine Bequemlichkeit zum Kochen ist, haben die S<>norer ihre Nahrung von dem
 Mats. Sie nehraen denncithigen Vorrath mit: dieser bestehet in dem Pinole, den Ihnen die Weiber auf
 folgende Art bereiten. Nuchdem der Mais im Wasser etwas geweicht.und hemach getrocknet ist; rosten
@@ -4475,14 +2933,11 @@ wird; so wcnigen Beifall flndet sein Gcschmackbei dem Europ&er; nur Zlmmet, und 
 denselben angenehm machen." (Vol. u, p. 132.)
 
 
-68 THE PIMA INDIANS [eth. ann. 26
-
 cousins to the southward wholly subsisted upon did not prevent the
 Pimas from attaining proficiency in agriculture, as will be seen later,
 and it must many times have preserved them from total extinction.
 With what success they sought for edible plants may be judged from
-the subjoined list, which is believed to be fairly complete. It con-
-tains 22 plants of which the stems, leaves, or flowers were eaten, 4
+the subjoined list, which is believed to be fairly complete. It contains 22 plants of which the stems, leaves, or flowers were eaten, 4
 that furnished roots or bulbs, 24 with seeds or nuts, and 15 that
 supplied fruits or berries. And this in a region that appears to the
 casual visitor to be a desert with but a few thorny shrubs and but one
@@ -4503,32 +2958,26 @@ formed* into loaves, which must have been *'sad" indeed, to judge
 from their modem counterparts. With the advent of the whites
 came the introduction of a new and quickly accepted cereal, wheat;
 and the bread made from it also, without leavening agent, is heavy
-and indigestible. One loaf was obtained (pi. vi, a), said to be a com-
-paratively small one, that weighed 14 pounds and yet was only 3 inches
+and indigestible. One loaf was obtained (pi. vi, a), said to be a comparatively small one, that weighed 14 pounds and yet was only 3 inches
 thick and 20 inches in diameter. No knowledge of the pueblo wafer
-bn»ads exists among the Pimas, who confine their treatment of mes-
-quit<^, com, wheat, and other flour to baking as tortillas or'as loaves
+bn»ads exists among the Pimas, who confine their treatment of mesquit<^, com, wheat, and other flour to baking as tortillas or'as loaves
 in the ashes, frying in suet, or boiling, either in wat^r to form a gruel
 or mush, or with other foods in the shape of dumplings.
 
 A large part of the cereal food of the Pimas is parched before it is
 ground.
 
-The process of parching on, or rather among, the coals is dex-
-terously carrieil out. The coals are raked into the parching pan (pi.
+The process of parching on, or rather among, the coals is dexterously carrieil out. The coals are raked into the parching pan (pi.
 XIX, a) and after the grain has been thrown upon them it is given a
 series of tosses with a quarter-tum to each which redistributes the
 light but bulky coals and the heavier grain. A frequent puff of
-bn^ath curries away the quickly gathering flakes of ashes. The con-
-tents of the pan art^ sc^parated by a few short jerks that cany the
+bn^ath curries away the quickly gathering flakes of ashes. The contents of the pan art^ sc^parated by a few short jerks that cany the
 coals in a mass to the edge of the dish, whence the larger particles are
 scnuHHl otr and the smaller blowni out. Another method of parching
 seeds is to place over the fire an olla that has been broken so that at
 least one siile is wanting, thus admitting the hand to stir the contents
 as they are broN\iied.
 
-
-RUSSELL] THE FOOD SUPPLY 69
 
 Meat is roasted on the coals, a favorite method of cooking dried
 meat or that of small rodents, or it is boiled mitil well done. In the
@@ -4548,11 +2997,9 @@ The evil effects of slovenliness are reduced, however, by the peculiar
 conditions, such as the dry air, which saps the moisture from all
 organic matter, even in the shade; the outdoor cooking place exposed
 to a sun that withers all germs; and the habit of eating all the food
-prepared for each meal, which includes the rule of etic^uettc prescrib-
-ing that one nmst eat all that is set before liim.
+prepared for each meal, which includes the rule of etic^uettc prescribing that one nmst eat all that is set before liim.
 
-The kitchen is an arrow-bush inclosure, about 4 or 5 meters in diam-
-eter (pi. VI, 6), containing its set of half a dozen pottery vessels.
+The kitchen is an arrow-bush inclosure, about 4 or 5 meters in diameter (pi. VI, 6), containing its set of half a dozen pottery vessels.
 In the center are the three stones on which the cooking pot rests.
 Such an inclosure is ((uite common at the present day, though many
 have adoped the oval fireplaces of adobe (pi. vi, c), some obtain iron
@@ -4564,23 +3011,18 @@ PLANTS USED FOR FOOD
 A^nHik i'avaA:,. Atriplex bracteosa var. ; A. coronata Wats. ; A. elegans
 Dietrich. These saltbushes, with a few others as yet unidentified ^
 arc sometimes boiled with other food because of their salty flavor.
-They are cooked in pits with the fruit of the cactus, Opuntia arbo-
-rescens, the method of roasting them being described below. The
+They are cooked in pits with the fruit of the cactus, Opuntia arborescens, the method of roasting them being described below. The
 young shoots of some of them are crisp and tender. Coimnonly
-known as '^sagebrusli,'^ these saltbushes are among the most abun-
-dant plants in that region. There are botli herbaceous and woody
+known as '^sagebrusli,'^ these saltbushes are among the most abundant plants in that region. There are botli herbaceous and woody
 species, the former being eaten by stock and the latter being useful
 for fuel.
 
 A'opa hVdslky Populus deltoides Marsh. The cottonwood occurs in
 a thin fringe, with here and there a grove along the Cfila and Salt
-rivers. In Febniar}^ and March the women send some of the bare-
-foot boys into the tree tops to throw down the catkins, which are then
+rivers. In Febniar}^ and March the women send some of the barefoot boys into the tree tops to throw down the catkins, which are then
 gathered in baskets and carried home to be eaten raw by stripping
 them off the stem between the teeth.
 
-
-70 THE PIMA INDIANS ieth.axn. 26
 
 Aot, Agave americana Linn, (possibly a few related species also).
 Mescal was gathered in times of famine, and it would have been
@@ -4611,8 +3053,7 @@ in the sun, when it was ready for use or for storing away.
 Mescal is now obtained from the Papagos. It is eaten by chewing
 until the juice is extracted and rejecting the fiber. It is used alone
 or together with pinole. Sirup is extracted from the prepared mescal
-by boiling until the juice is removed, which is then thickened by pro-
-longed boiling until it becomes a black sirup, somewhat similar to
+by boiling until the juice is removed, which is then thickened by prolonged boiling until it becomes a black sirup, somewhat similar to
 sorghum. It is inferior to saguaro sirup.
 
 A'pdTij Monolepis chenopoides. The roots are washed, boiled in
@@ -4632,17 +3073,12 @@ without peeling.
 
 Haitf'lcamj Olneya tesota. The nuts of the ironwood tree (pi. vii, a)
 axe parched in an olla, or, what is more usual, the broken half of one,
-
-
-RUSSELL] THE FOOD SUPPLY 71
-
 and eaten without further preparation. The tree grows on the mesas
 on all sides of the villages, where it is very conspicuous for a few days
 in May, when it is covered with a mass of purple flowers.
 
 Ildflcowat, Phoradendron californicum. The berries of the mistletoe
-that grows on the mesquite are gathered and boiled without strip-
-ping from the stem. They are taken in the fingers, and the berries
+that grows on the mesquite are gathered and boiled without stripping from the stem. They are taken in the fingers, and the berries
 stripped off into the mouth as eaten. Various species of mistletoe
 are very abundant on the trees along the Gila, but this one only is
 eaten.
@@ -4653,10 +3089,8 @@ strips and dried, when it is known by a number of different names,
 according to the manner of cutting and the particular variety. This
 species includes the pumpkins proper, the bush scallop squashes, the
 summer crook-necks, and the white or yellow warty squashes. The
-club-shaped, pear-shaped, or long-cylindrical smooth squash is Cucur-
-bita moschata Duchesne. It is extensively groA\Ti by the Pimas. The
-seeds of the pumpkin are parched and eaten. When the dried pump-
-kin is used, it is softened in water and boiled.
+club-shaped, pear-shaped, or long-cylindrical smooth squash is Cucurbita moschata Duchesne. It is extensively groA\Ti by the Pimas. The
+seeds of the pumpkin are parched and eaten. When the dried pumpkin is used, it is softened in water and boiled.
 
 Ila'nUm, Opuntia arborescens. The fruit of this cactus (pi. viii, a)
 is gathered with an instrument that resembles an enlarged wooden
@@ -4673,8 +3107,7 @@ away for future use. In its final preparation it must be boiled. It is
 then salted and eaten with pinole. The acid flavor is usually relieved
 by the addition of various plants cooked as greens.
 
-Ha'rsanyj Cereus giganteus Engelm. The fruit of the giant cac-
-tus, or, as it is more generally known in the Southwest, the saguaro
+Ha'rsanyj Cereus giganteus Engelm. The fruit of the giant cactus, or, as it is more generally known in the Southwest, the saguaro
 (pis. VIII, 6, and ix, c?, d), is gathered in June, and so important is
 the harvest that the event marks the beginning of the new year in
 the Pima calendar. The supply is a large one and only industry is
@@ -4687,8 +3120,6 @@ case of the ^'second harvest'^ of the Sen.**
 
 a Cf . W J MoO«e In Seventeenth Annual Report of Bureaa of American Ethnology, 212.
 
-
-72 THE PIMA INDIANS [eth. ann. 26
 
 The fruit is eaten without preparation when it ripens. It is of a
 crimson color and contains many black seeds about the size of those
@@ -4707,8 +3138,7 @@ any meal — put into water to form a pinole or combined with other
 meal to bake into bread.
 
 Ha'valtj Yucca bacatta. The fruit is boiled, dried, ground on the
-mealing-stone, and boiled with flour. It is also eaten raw as a cathar-
-tic. The stems are reduced to pulp and used as soap. Y. elata is
+mealing-stone, and boiled with flour. It is also eaten raw as a cathartic. The stems are reduced to pulp and used as soap. Y. elata is
 also used as soap.
 
 Uo'ny, Zea Mays. Com, the most important crop of the Pueblo
@@ -4725,8 +3155,7 @@ all the pueblos together. I agrred to this, but on condition that it should be a
 in this what would come to pass. In a little while I heard that they were singing 'a heap' (d« monton) ;
 this was stopped presently, but was followed by* a great uproar of discordant voices, and shouting, in
 which they said, *We are good! We are happy! We know God! We are the f^owB to fight the
-Apaches! Wo are glad the old man (as thoy call me) has come, and not been killedl' This extrava-
-gant shouting {exorbUarUc grUcria), a thing foreign to the seriousness of the Pimas, I knew came from
+Apaches! Wo are glad the old man (as thoy call me) has come, and not been killedl' This extravagant shouting {exorbUarUc grUcria), a thing foreign to the seriousness of the Pimas, I knew came from
 drinking, which produced various elTects. Some came and took me by the hand, saluting me. One
 said, *I am padre de I'edro.' Another said to me, 'Thou hast to baptize a child.' Another, 'This is
 thy home— Ijetake not thysolf to st»e the king, nor to Tucson.' Others made the sign of the cross, partly
@@ -4737,27 +3166,17 @@ in the season of saguaro, and adding that it made his people vomit yellow and ke
 What most pleased me was to see that no woman got drunk; instead of which saw many of them leading
 by the bridle the horse upon which her husband was mounted, gathering up at the same time the clothes
 and )N*ads that the mon scattered al>out, in order that none should bo lost." (Garc^'s Diar>', 438.)
-"The thR-e pitohaya months," says Father Salva-Tierra [describing the saguaro harvest in Cali-
-fornia], " resemble the carnival in some parts of Europe, when the men are in a great measure stupi-
-fied or matl. The natives here also throw aside what reason they have, giving themselves up to feast-
-iiigs, dancings, entertainments of the neighboring rancherias, buffooneries, and comedies, such as they
+"The thR-e pitohaya months," says Father Salva-Tierra [describing the saguaro harvest in California], " resemble the carnival in some parts of Europe, when the men are in a great measure stupi-
+fied or matl. The natives here also throw aside what reason they have, giving themselves up to feastiiigs, dancings, entertainments of the neighboring rancherias, buffooneries, and comedies, such as they
 are; and in these, wliole nights arc spent to the high diversion of the audience. The actors are
-selected for their talent of imitation: and thoy execute their parts admirably well," (Vem>gas, His-
-tory of ralifornia. I, 82.) "The gathering of this fruit may W considered as the harvest of the
+selected for their talent of imitation: and thoy execute their parts admirably well," (Vem>gas, History of ralifornia. I, 82.) "The gathering of this fruit may W considered as the harvest of the
 native inhabitants. Tliey can ^jat as much of it as they please, and with some this food agrees so
 well that they Ix-comc corpulent during that period, and for this reason I was sometimes unai)lc to
 recognize at ftrst sight individuals otherwise perfectly familiar to me, who visited me after having fed
-three or four weeks on these pitahayas." (Jacoi) Baegert, The Al)Original Inhabitants of the Call-
-fomiau Peninsula, in Smithsonian Ileport, 1863, 303.)
-
-
-RUSSELL]
+three or four weeks on these pitahayas." (Jacoi) Baegert, The Al)Original Inhabitants of the Callfomiau Peninsula, in Smithsonian Ileport, 1863, 303.)
 
 
 THE FOOD SUPPLY
-
-
-78
 
 
 The shelled com is ground on the metate and baked in large cakes
@@ -4781,13 +3200,11 @@ latter case a pinch of the meal being taken alternately with a sip of
 water.
 
 Ka'ifsa^ Cicer arietinum Linn. The chick-pea is raised in small
-quantities and is also purchased from the traders. This is the gara-
-banzo of Mexico. The name chicos is sometimes applied to this pea
+quantities and is also purchased from the traders. This is the garabanzo of Mexico. The name chicos is sometimes applied to this pea
 as it is to anything small, especially to small or, rather, sweet com
 that is just old enough for roasting.
 
-Kafj Chenopodium murale. The seed is gathered early in the sum-
-mer and prepared by parching and grinding, after which it may be
+Kafj Chenopodium murale. The seed is gathered early in the summer and prepared by parching and grinding, after which it may be
 eaten as pinole or combined with other meal.
 
 K&'meiLvat. After the August rains this seed is gathered, parched
@@ -4795,13 +3212,7 @@ over coals in the parching pan, ground on the metate, and eaten as
 pinole.
 
 
-74
-
-
 THE PIMA INDIAN8
-
-
-[ETH. ANN. 20
 
 
 Kan'yOj Sorghum vulgare Pers. Sorghum is cultivated when the
@@ -4823,8 +3234,7 @@ them. As already stated, the crop sometimes fails, *' especially in
 Fio. 4. Sheds with caches on roofs.
 
 
-hard times,' ^ as one of our informants naively remarked. The mes-
-quite harvest takes place somewhat later than that of the saguaro.
+hard times,' ^ as one of our informants naively remarked. The mesquite harvest takes place somewhat later than that of the saguaro.
 The beans are gathered and stored in the pod in cylindrical bins on
 the roofs of the houses or sheds (fig. 4). While yet on the trees, the
 bean pods are bored by larvae of the family BruchidaB. ^
@@ -4854,8 +3264,7 @@ Nitrogcn-froe extract 37. 13
 Nutritive ratio 1: 6.8
 
 
-** The amount of celluloso, or woody fiber. Is very much larger in the bean, and the amount of nitrogen-
-free extract considerably smaller; but the albuminoids and fats compare very well indeed. The bean
+** The amount of celluloso, or woody fiber. Is very much larger in the bean, and the amount of nitrogenfree extract considerably smaller; but the albuminoids and fats compare very well indeed. The bean
 pod is 4 to 8 inches in length , and grows in bunches from six to eight pods to the bunch . ' ' Third Annual
 Report, 1888, Texas Agricultural Exx)eriment Station. Reference kindly supplied by Mr Ewell, Bureau
 of Chemistry, Department of Agriculture.
@@ -4863,8 +3272,6 @@ b '* There are two species of Bruchus which are especially common in mesquite se
 L xnMqttite and the screw bean, namely, Bruchus prosopis Lee. and Bruchus desertorum
 ^liininilfy other speciea breed in the seeds." Dr L. O. Howard, Department of Agricoltore,
 
-
-RUSSELL] THE FOOD SUPPLY 75
 
 The beans are prepared for use by being pounded up in a mortar
 with a stone pestle, or, if a large quantity is required, with a large
@@ -4874,27 +3281,23 @@ them by tossing them up in a pan of live coals, and reduce them to
 meal by grinding, whereupon they may be eaten as pinole. This
 has a sweetish taste and is reputed to be very nourisliing.
 
-The catkins of the mesquite are eaten \nthout preparation by strip-
-ping from the stem between the teeth.
+The catkins of the mesquite are eaten \nthout preparation by stripping from the stem between the teeth.
 
 The white gum which exudes from the mesquite Umbs is used in
 making candy.
 
 The inner bark is employed as a substitute for rennet.
 
-Ko'Tdtc vhHtaJdy Parkinsonia microphylla (in the foothills) ; P. tor-
-reyana (on the mesas) (pi. x, i). The paloverde bean was formerly
+Ko'Tdtc vhHtaJdy Parkinsonia microphylla (in the foothills) ; P. torreyana (on the mesas) (pi. x, i). The paloverde bean was formerly
 eaten either as gathered or after being pounded m the mortar. It
 was not eaten as pinole, but was sometimes mixed with mesquite
 meal.
 
 Ko'rtMt, The heads are gathered and washed, sometimes twice,
-then boiled in an olla with a little water. Wheat flour and a sea-
-soning of salt are added and the whole is stirred until the heads fall to
+then boiled in an olla with a little water. Wheat flour and a seasoning of salt are added and the whole is stirred until the heads fall to
 pieces.
 
-Ko'-oku'paU'tik. According to tradition the seeds were eaten in prim-
-itive times, but no one now knows how they were prepared. The
+Ko'-oku'paU'tik. According to tradition the seeds were eaten in primitive times, but no one now knows how they were prepared. The
 plant is now boiled with meat as greens.
 
 Ko'HtcUt, Prosopis pubescens. Screw beans are abundant along
@@ -4903,8 +3306,7 @@ arrow bushes set on end. The beans are placed in layers alternating
 with cocklebur leaves, the whole covered with earth and left to stand
 three or four days, after which they are taken out and spread to dry.
 They are then ready to use or store away in the arrow-bush basket
-bins on the house tops. They are further prepared for food by pound-
-ing up in a mortar, the fine flour then being ready to be eaten as
+bins on the house tops. They are further prepared for food by pounding up in a mortar, the fine flour then being ready to be eaten as
 pinole. The coarser portion is taken up in the hands with water,
 the juice sucked tlirough the fingers, and the remainder rejected.
 
@@ -4922,8 +3324,6 @@ of the prickly pear before it is gathered. It is then peeled and eaten,
 the seeds being throwni away. The Papagos make a sirup from the
 frurt (which is said to cause fever in those not accustomed to its use)
 
-
-76 THE PIMA INDIANS [bth. ann. 26
 
 and dry the fruit as they do that of the saguaro, but the Pimas make
 no further use of it than to eat it raw.
@@ -4943,8 +3343,7 @@ Pap'l'am. The heads are tied in bunches and dried in the sun.
 They are then shelled, screened, the seeds parched, ground on the
 metate, and eaten as pinole. They are "not sweet."
 
-Pavfi^j Phaseolus vulgaris Linn. At least one variety of the com-
-mon kidney bean, pole bean, bunch bean, etc., was known to the
+Pavfi^j Phaseolus vulgaris Linn. At least one variety of the common kidney bean, pole bean, bunch bean, etc., was known to the
 natives before the advent of the Spaniards. Venegas states** that
 "red frixoles, or kidney beans" [Phaseolus sp.], were cultivated by the
 natives of lower California, and this may have been the variety known
@@ -4979,8 +3378,7 @@ have occupied the middle Oila district. Their habitat differs, therefore, from t
 of the stock, and for convenience their territory' will be here designated by the term Plmeria.
 
 Buschmann states in Die Pima-Sprache that " Duflot de Mofras {exploration du territoire dc I' Oregon,
-des Califomics ct de la mcr vermeille T. I.. Par. 1844, p. 208.) setzt die Pimeria alta von den Fliissen Colo-
-rado und Gila an bis zur Stadt lUrmosillo und zum rio de los Ures;'Me Pimeria baxa von da anl)iszuni
+des Califomics ct de la mcr vermeille T. I.. Par. 1844, p. 208.) setzt die Pimeria alta von den Fliissen Colorado und Gila an bis zur Stadt lUrmosillo und zum rio de los Ures;'Me Pimeria baxa von da anl)iszuni
 rio del Fuerte, wolcher die Granze von Sonora und Cinaloa blldet. Er setzt beidc, zu grosse Pimeriaa
 g^eich Ober- und Nieder-Sonora : ' La Sonore se divise en luiute et basse, et prend aussi, b, cause des
 Indiens Pimas, le nom de Pimerin alta y baja.' Arricivita (p. 39C) bestimmt die Pimeria alta so: ' Die
@@ -5006,12 +3404,10 @@ also as soap.
 
 So'-oaotj Sophia pinnata (Walt) Britton. The seeds are parched,
 ground, and mixed with water to form pinole. The Mexicans of
-Arizona use the leaves of this plant in preparing a drink. An infu-
-sion made from the leaves is also employed as a remedy for sores.
+Arizona use the leaves of this plant in preparing a drink. An infusion made from the leaves is also employed as a remedy for sores.
 
 TdJciy Gosypium sp. The cotton plant is no longer raised, but from
-pre-Spanish days down to the last quarter of a centurj^ it was culti-
-vated both for the fiber and the seeds. The latter were pounded up
+pre-Spanish days down to the last quarter of a centurj^ it was cultivated both for the fiber and the seeds. The latter were pounded up
 with mesquite beans in the mortar or they were sometimes parched
 and eat^n without grinding."
 
@@ -5022,8 +3418,7 @@ Tapkali. This is one of the varieties of squash that is cultivated
 by the Pimas at the present time.
 
 Ta'ta d'niiky Atriplex nuttallii. The stems of this saltbush are
-boiled with wheat. They are cut in short lengths and used some-
-times as a stuffing for roast rabbit.
+boiled with wheat. They are cut in short lengths and used sometimes as a stuffing for roast rabbit.
 
 Tela, Salvia columbaria Benth. The seeds when infused in water
 form a pleasant mucilaginous beverage, very popular with the
@@ -5033,10 +3428,8 @@ Tci'&ldi, The fruit of this cactus is brought by the Papagos and
 traded to the Pimas. It is cooked in the same manner as Opimtia
 arborescens.
 
-Tda^iolty Echinocactus wislizeni. The pulp of the visnaga is con-
-sidered valuable in lieu of water to those suffering from thirst. It is
-also eaten after being cut in strips and boiled all day. It is some-
-times boiled with mesquite beans, a layer each in the cooking olla.
+Tda^iolty Echinocactus wislizeni. The pulp of the visnaga is considered valuable in lieu of water to those suffering from thirst. It is
+also eaten after being cut in strips and boiled all day. It is sometimes boiled with mesquite beans, a layer each in the cooking olla.
 It is occasionally boiled with sugar. It is quite a popular confection
 among the whites, who, in some places, obtain the raw material from
 the Papagos.
@@ -5048,8 +3441,6 @@ a r. D. Poston stated in 1804 that be had recently furnished the Pimas with 500 
 though he did not give any reason for doing so. It is fair to pre«ume that the Pimas had sufficient seed
 from the plant that they had raised from time immemorial.
 
-
-78 THE PIMA INDIANS [bth. ann. 26
 
 TciVtipin (Sp.). This pepper is raised by the Fapagos and brought
 to the Pimas.
@@ -5102,8 +3493,6 @@ called tohafs, exudes a clear gum; and that on the stems of some of the
 Compositae is sometimes gathered and chewed by children.
 
 
-RUSSELL] THE FOOD SUPPLY 79
-
 MEDICINAL PIJINTS
 
 A'tafiak. The root of the wild gourd ^ is pounded up in mortars,
@@ -5150,8 +3539,7 @@ on the Gila was also called pihoj, and from it a medicine stick is
 made that will cure diseases of the throat. The writer was unable
 either to verify or to disprove this statement.
 
-Rsios. Two unidentified species of Bigelovia are used as a dress-
-ing for scarified wounds. The bruised leaves are applied to bleeding
+Rsios. Two unidentified species of Bigelovia are used as a dressing for scarified wounds. The bruised leaves are applied to bleeding
 surfaces that have been cut with broken glass.
 
 Rsukaikokukf Larrea mexicana. The leaves of the creosote bush
@@ -5162,8 +3550,6 @@ oin pioneer days the whites used the roots of two species of wild gourds, Cucurb
 and C. digitata, as a cathartic, Doctor Palmer stating that they were " very much beliked by the
 soldiers."
 
-
-80 THE PIMA INDIANS [eth.anx.26
 
 SivitcUt, Rumex hymenosepalus. The root of the canaigre is
 dried, ground and the powder applied to sores.
@@ -5201,8 +3587,7 @@ ANIMALS USED FOR FOOD
 
 Kd'-dtcij or tSLsi'-ikaU, Tayassu angulatum sonoriense. The peccary
 is yet found in the larger mountain chains that were formerly reached
-by the hunters of Pimeria, though the Gila river is about the north-
-em limit of the range of this animal in the West. It could never
+by the hunters of Pimeria, though the Gila river is about the northem limit of the range of this animal in the West. It could never
 have been an important article of diet, and is practically unknown
 to the younger generation.
 
@@ -5216,19 +3601,15 @@ most abundant of the feathered inhabitants of the Gila thickets. It
 is tabued to the women, though no explanation for this could be
 discovered.
 
-Kdfsdn. A "raf was formerly eaten, but it was found impossi-
-ble during my stay to get specimens for identification.''
+Kdfsdn. A "raf was formerly eaten, but it was found impossible during my stay to get specimens for identification.''
 
 a This is similar to, but not identical with, the "cordoncUlo" of the Arizona Mexicans, from which
 an infusion is made that ia used as a tonic and blood purifier. (Thornber.)
 
 6 Mr Fisher, of the Biological Survey, lists the follo>^■ing species of mice and rats for Pimeria: Mus
-alexandrinus, Introduced; Mus musculus, introduct»d; Mus norvegicus, Introduced: Orychomys tor-
-ridus; I'eroniyscus, 2-3 species; Slgmodon hlspidus arlzonse; Relthrodontomys (sp.?) ; Neotoma (sp.7) ;
+alexandrinus, Introduced; Mus musculus, introduct»d; Mus norvegicus, Introduced: Orychomys torridus; I'eroniyscus, 2-3 species; Slgmodon hlspidus arlzonse; Relthrodontomys (sp.?) ; Neotoma (sp.7) ;
 Fiber dbethlcus pallidas.
 
-
-RUSSELL] THE FOOD SUPPLY 81
 
 Kd'vij Castor canadensis frondator. The beaver was common along
 the Gila, and was esteemed highly for food."
@@ -5239,8 +3620,7 @@ more than half -starved condition of the animals suggests anything
 but nourishing viands.
 
 Ko'-oviky Antilocapra americana mexicana. The antelope is now
-unknown in Pimeria, but the hunters of former centuries success-
-fully stalked these , animals upon the mesas, particularly upon the
+unknown in Pimeria, but the hunters of former centuries successfully stalked these , animals upon the mesas, particularly upon the
 Iiigher grassy plains to the eastward.
 
 Ma'kUm, These unidentified worms (?) are plentiful when a rainy
@@ -5254,13 +3634,11 @@ The dry and brittle sticks are eaten at any time wdthout further
 preparation.
 
 Ma^vity Felis hippotestes aztecus. The puma is yet abundant in
-the mountain ranges of Arizona, and in former times one was occa-
-sionally secured by the Pimas when in quest of other game.
+the mountain ranges of Arizona, and in former times one was occasionally secured by the Pimas when in quest of other game.
 
 Rsiflllc. There are at least six species of ground squirrels in this
 region,^ but in the absence of specimens the writer could not learn
-if the Pimas distinguished among them. When water was obtain-
-able it was poured into the burrows of these squirrels until they were
+if the Pimas distinguished among them. When water was obtainable it was poured into the burrows of these squirrels until they were
 driven out, whereupon they were killed wdth clubs or shot with arrows.
 They were tabued to the women under penalty of nosebleed or
 deficiency in flow of milk for their babies.
@@ -5288,14 +3666,11 @@ lotus (Oracle), S. tereticaudus (Fort Yuma).
 26eth— 08 8
 
 
-82 THE PIMA INDIANS [eth.ann.26
-
 Tdpi, Lepiis arizonas. The small cottontail is fairly common in
 river bottoms and on the mesa throughout the Pima country. It is
 shot with arrows made with a straight point without stone or metal
 head. It is included in the list of victims that result from rabbit
-drives in which the hares, Lepus texianus and L. alleni, are the prin-
-cipal desiderata.
+drives in which the hares, Lepus texianus and L. alleni, are the principal desiderata.
 
 Tcirsdnyf Ovis nelsoni. The mountain sheep has served as food
 when obtainable, though it has been many years since they have
@@ -5345,28 +3720,22 @@ eagle feathers at springs. The same tribe at one time sacrificed some children i
 the supply of water, but "instead of bringing them water this dried up all the springs." A few
 mountain sheep remain in the Superstition mountains and in the other high ranges near and on
 the reservation. When climbing the Sierra Estrella, in March, 1902, the writer saw a flock of five
-which did not manifest any such fear at the sight of man as do the mountain sheep of British Colum-
-bia and the more northern Rockies. Indeed, the Pima chief at the foot of the mountains expiattied
+which did not manifest any such fear at the sight of man as do the mountain sheep of British Columbia and the more northern Rockies. Indeed, the Pima chief at the foot of the mountains expiattied
 the reason for their indifference very adequately when he declared the sheep were game fit only for the
 Papagos, who had no fields to look after.
 
 
-RUSSELL] THE FOOD SUPPLY 88
-
 Vatop. There are occasional references to fish in the traditions of
 the Pimas and the notes of Spanish and American travelers sometimes
-mention them. It is certain that at times they caught large num-
-bers of fish, but in seasons of drought the river, then as now, becoming
+mention them. It is certain that at times they caught large numbers of fish, but in seasons of drought the river, then as now, becoming
 wholly dry near the villages, could not be relied upon to furnish
 such a convenient supply of food. Either the long series of dry
 years and the absence of fish have caused the people to forget former
 classifications or else they never distinguished one species from
-another, for they now have but one name for all fresh fish. How-
-ever, there were several species in the Gila and adjoining streams that
+another, for they now have but one name for all fresh fish. However, there were several species in the Gila and adjoining streams that
 were large enough for food."
 
-Wh^aiy Odocoileus hemionus (subspecies ?) . Information concern-
-ing this species was very vague and unreliable, though it seems cer-
+Wh^aiy Odocoileus hemionus (subspecies ?) . Information concerning this species was very vague and unreliable, though it seems cer-
 tain that the black-tail deer was sometimes killed by the Pimas, at
 least before the growing power of the Apaches prevented the former
 from roaming through the mountains that border Pimeria on the
@@ -5418,15 +3787,12 @@ Oila robusta Baird and Oirard. Also described from several Oila stations under v
 Cyprinodon macularius Baird and Oirard. " Rio Oila."
 
 In addition to these may he included the species collected in the San Pedro and Santa Cruz rivers,
-which are both tributaries of the Oila above Pimeila and within reach of Pima hunting parties: Lea-
-ciscus niger (Cope), Tiaroga cobitis Oirard, Agosia oscula (Oirard), Agosia chrysogaster Oirard, and
+which are both tributaries of the Oila above Pimeila and within reach of Pima hunting parties: Leaciscus niger (Cope), Tiaroga cobitis Oirard, Agosia oscula (Oirard), Agosia chrysogaster Oirard, and
 Meda fulgida Oirard.
 
 b It is uncertain whether the burro of the Southwest is 1^ descendant of the Asiatic species of wild
 a, Equus hemionus, E. heniihippus, and E. onager, or of the African, E. africanus and E. somaticus.
 
-
-84 THE PIMA INDIANS [eth. ann. 20
 
 Domestication of Animals
 
@@ -5440,8 +3806,7 @@ Scarcity and want has left them gaunt and weak. They formerly
 served a useful purpose in giving warning of the presence of enemies
 about the villages. There are now no enemies and little within to
 tempt the thief to enter and steal. Dogs are called by the word
-*Hoot/' ^Hoot," 'Hoot/' uttered rapidly in a falsetto voice,. the indi-
-vidual at the same time holding out a morsel of food to lure the
+*Hoot/' ^Hoot," 'Hoot/' uttered rapidly in a falsetto voice,. the individual at the same time holding out a morsel of food to lure the
 animal within reach. A dog that has been bitten by a mad dog
 is saved by having a cross burned on its head.
 
@@ -5449,22 +3814,19 @@ Horses. The horse may have been seen by the Pimas in the
 sixteenth century, but it is doubtful if they obtained this animal
 before the seventeenth. They have been known so long that their
 origin has become accounted for by myths without a shadow of
-historic truth in them. The only individual who ventured to dis-
-pute the commonly accepted mythical origin assured me that they
+historic truth in them. The only individual who ventured to dispute the commonly accepted mythical origin assured me that they
 came from the West. Font, who visited the Gila in 1775, stated
 that his party was met by 18 mounted Pimas; so that the horse was
 evidently in use at that time.
 
 There were very few horses among the Pimas until the last quarter
-of a century. The statements of the old persons agree with the calen-
-dar records, which make it evident that there were horses enough for
+of a century. The statements of the old persons agree with the calendar records, which make it evident that there were horses enough for
 but a small proportion of the warriors who engaged in conflicts with
 the Apaches. Horses stolen in Mexico were sold to the Papagos,
 who in turn sold them to the Pimas at much less than their true
 value. As the number in Pimeria increased, the thieves began to
 operate in both directions, selling Sonoran horses on the Gila and
-Piman mounts in Sonora. However, this practice has been aban-
-doned, and the tribe has quite as many horses as are needed. They
+Piman mounts in Sonora. However, this practice has been abandoned, and the tribe has quite as many horses as are needed. They
 are rather undersized animals, as may be seen from the pinto pony
 in figure 5. As the fields now yield an insufficient supply of food
 for their owners, it follows that there is Uttle grain for the horses,
@@ -5473,21 +3835,13 @@ Their principal food during that season is saltbushes."
 
 The once famous grassy plains that made the Pima villages a
 haven of rest for cavalry and wagon-train stock are now barren,
-
-a Professor Thomber says that " the native saltbushcs, arranged In the order of their Import-
-ance, that are eaten by range stock arc as follows: Woody species, Atrlpiex canescens, A. nuttalUi,
+a Professor Thomber says that " the native saltbushcs, arranged In the order of their Importance, that are eaten by range stock arc as follows: Woody species, Atrlpiex canescens, A. nuttalUi,
 A. polycarpa, A. lentlformis, A. confertlfolla. The herbaceous species that are grazed by stock are:
 Atrlpiex coronata, A. elegans, A. bracteosa. The true greasewood, Sarcobatus vermlcalaris, a species
 otoaely allied to the saltbushes, is also browsed to a consideiable extent.
 
 
-RUSSELL]
-
-
 DOMESTICATION OF ANIMALS
-
-
-85
 
 
 and it is not until the mesquite leaves appear in April that the
@@ -5507,18 +3861,14 @@ Fio. 5. Men and women in modem costume, and pinto pony.
 the Pimas were at least aware of the value of cattle for a long time.
 The custom of killing and eating the cattle at the death of their
 owners contributed materially toward preventing increase in Pima
-herds. Oxen were very scarce for half a centur}^ after their intro-
-duction, and the old men and women speak sadly of the weary
+herds. Oxen were very scarce for half a centur}^ after their introduction, and the old men and women speak sadly of the weary
 waiting for their turn to use the single ox that dragged the wooden
 plow for perhaps a whole village. Oxen are now no longer used;
 with their head yokes and the wooden plows they are of the past,
-
 a In 1846 Emory foimd that "they have but few cattle, which are used in tillage, and apparently all
 iteers, procured from the Mexicans. Their horses and mules are not plenty, and those they possessed
 were priced extravagantly high." Notes, 84.
 
-
-86 THE PIMA INDIANS [rra. ann. 26
 
 and of that period of the Pimas' past that it is best for them to
 forget.
@@ -5534,8 +3884,7 @@ added, the marauders paid dearly. To guard against the thieves it
 was customary to corral all stock within the village at night. When
 it strayed away across the mesas during the day it was sought by
 tracking or by waiting at the water holes, and while so engaged the
-men had many encounters with the enemy, who were ever on the look-
-out for such an opportunity to attack.
+men had many encounters with the enemy, who were ever on the lookout for such an opportunity to attack.
 
 Mules, A few mules are raised, but, like the horses, they are small
 and of little value. .
@@ -5566,13 +3915,11 @@ METHODS
 Irrigation*
 
 The Gila river carries an unusually large amount of suspended
-matter when in flood. As shown by the tests made during the sur-
-veys for the dam which is intended to supply Pimeria with water, it
+matter when in flood. As shown by the tests made during the surveys for the dam which is intended to supply Pimeria with water, it
 carries on an average 10.5 per cent of mud, with a maximum of 20
 per cent.^ The entire bottom land upon which the fields are located
 has been built of this material. It is so light that wagons cut readily
 into it during the dry seasons and work it into fluffy dust several
-
 a "A few chickens and dogs were seen." Emory, Notes, 86.
 6 Water-Supply and Irrigation Papers, no. 33, p. 36.
 
@@ -5594,8 +3941,7 @@ the canals already constructed by their predecessors, hence they
 would be dull indeed if they could not maintain irrigation systems
 sufficient for their needs. The testimony of the early writers is to
 the effect that they possessed canals larger than they required and
-that the water flowed away from the fields in volimie scarcely dimin-
-ished from that at the head gates. The Gila has a uniform fall of
+that the water flowed away from the fields in volimie scarcely diminished from that at the head gates. The Gila has a uniform fall of
 8 feet to the mile at this place, while the canals need not have more
 than 2.
 
@@ -5604,8 +3950,7 @@ with alkali it tends under certain conditions to deposit salts in such
 quantities that the land is rendered unfit for use. The alkali rises to
 the surface in an efflorescence that resembles snow in appearance.
 From early descriptions of the coimtry we learn that alkaline deposits
-were known while the tribe was yet imder purely aboriginal con-
-ditions.*'
+were known while the tribe was yet imder purely aboriginal conditions.*'
 
 The Pimas knew, however, how to deal with this difficulty — they
 flooded the tract repeatedly and in this way washed the alkali out
@@ -5615,15 +3960,11 @@ because of it.
 No very reliable estimate of the total amoimt of land cultivated
 by this people has been made.** Each family cultivates from 1 to
 5 acres. With an abimdance of water and the new needs of the
-tribe it is probable that the size of the individual holdings will rap-
-idly increase. The farms are rectangular, arranged with reference
-
-a "The mode of canal construction employed by these pueblo builders [Ilohokam] was another indi-
-cation of their patience and Industry. Their canals are models for the modem farmer to imitate; yet
+tribe it is probable that the size of the individual holdings will rapidly increase. The farms are rectangular, arranged with reference
+a "The mode of canal construction employed by these pueblo builders [Ilohokam] was another indication of their patience and Industry. Their canals are models for the modem farmer to imitate; yet
 they could have lx«n dug in no conceivable manner save by the laborious process of hand excavation
 with stone or wooden implement^ the earth being borne away by means of blankets, baskets, or rude
-litters. Notwithstanding this, the outlines of at least a hundred and fifty miles of ancient main irri-
-gating ditches may be readily traced, some of which meander southward from the Salt river a distance
+litters. Notwithstanding this, the outlines of at least a hundred and fifty miles of ancient main irrigating ditches may be readily traced, some of which meander southward from the Salt river a distance
 of fourteen miles." P. W. ITodge, "Prehistoric irrigation in Arizona," American Anthropologist, vi,
 324.
 
@@ -5640,26 +3981,21 @@ las ndlpas con ceroo comun, y divldidas las de distintos dueflos, con oeroos par
 ICex., 2d ser.. i, 235.
 
 
-88 THE PIMA INDIANS [eth.ann.26
-
 \ to the supplying canal, and are always fenced with some care (pi.
 XI, a). Before the Pimas obtained barbed wire from the Government
 the fences were of willow wattling or the tops of mesquite trees and
-various kinds of brush. When a tract was newly brought under irri-
-gation a committee of six men was chosen to make allotments to
+various kinds of brush. When a tract was newly brought under irrigation a committee of six men was chosen to make allotments to
 those who had assisted in digging the ditches. They chose the best
 land for themselves, which seems to have been taken as a matter of
 course, in a measure coiripensating for their trouble. The plots were
 from 100 to 200 ''steps'' (see p. 93) in width, according to the number
-in the family to whom they were allotted. The brush was not diffi-
-cult to remove even with the primitive implements at their command;
+in the family to whom they were allotted. The brush was not difficult to remove even with the primitive implements at their command;
 the mesquite trees were not cut down, but their lower branches were
 trimmed so that they did not shade the ground to any considerable
 extent.
 
 The canals were dug with the digging stick and shovel (fig. 10,
 \ a, b)j the former being also used to prepare the easily pulverized
-
 ground and to plant the seed. In addition to the digging stick and
 shovel the primitive agriculturists also used a wooden implement
 which served the purpose of a hoe, though it resembled a weaver's
@@ -5667,18 +4003,15 @@ batten in appearance (fig. 10, c). In comparatively recent times the
 "^ wooden plow (fig. 11) was added to the Ust of implements. From
 the Mexicans they also obtained a hybrid implement (fig. 10, d) that
 combined the functions of spade and hoe. At the present time the
-tribe is supplied with modem agricultural implements by the Gov-
-ernment. The crops, however, are stored in much the same way
+tribe is supplied with modem agricultural implements by the Government. The crops, however, are stored in much the same way
 that was followed in prehistoric times, in circular bins of willow,
 arrow bush, and wheat straw, the last having been used since the
 introduction of wheat.
 
-One of the Pima villages (pi. xi, b) situated southwest of the Mari-
-copa wells was too far from the river to obtain water from it and
+One of the Pima villages (pi. xi, b) situated southwest of the Maricopa wells was too far from the river to obtain water from it and
 depended, as do their kinsfolk and neighbors, the Kwahadk's, already
 referred to, on flood irrigation. To secure the benefit of this, they
-cleared fields on mesa slopes, over which water from the surround-
-ing hiUs might be conducted whenever there were summer rains.
+cleared fields on mesa slopes, over which water from the surrounding hiUs might be conducted whenever there were summer rains.
 Around the lower sides of the diminutive fields low dikes were raised
 to catch and retain the water. On the slopes of the Santan hiUs north
 of the present Pima village of Santan there are several hundred acres
@@ -5686,21 +4019,13 @@ of stony mesa that have been cleared and cultivated (pi. iv, a, 6). The
 rocks have been gathered in rows that inclose rectangular areas of but
 a few square yards in extent. There are about six clumps of creosote
 bush inclosed in it.« This locality adjoins a large ancient canal and
-
 o At various places in the Southwest the writer has seen extensive areas over which the loose bowlders
 that were originally thickly scattered on the surface had been gathered in rounded heaps or in rows
 that divided the ground into rectangles that average about 5 meters to the side. The largest of these
-"fields" personally in8X)ected is north of the town of Pima, nearly 200 miles cast of the Pima reserva-
-tion. On a lava-strewn mesa that is too high to be irrigated and too far from the hills to be flooded
-
-
-RUSSELL]
+"fields" personally in8X)ected is north of the town of Pima, nearly 200 miles cast of the Pima reservation. On a lava-strewn mesa that is too high to be irrigated and too far from the hills to be flooded
 
 
 AGRICULTURE
-
-
-89
 
 
 an extensive ruin of a stone pueblo. Learning that the chief had
@@ -5721,8 +4046,7 @@ women harvested the crops,
 carrying the products in their
 ki&hfts. The men thrashed
 the wheat — with horses after
-those animals were intro-
-duced. Prior to that time,
+those animals were introduced. Prior to that time,
 and even now when the crop
 is small, the women beat out
 the grain >\ith straight sticks.
@@ -5759,8 +4083,7 @@ Fio. 0. Burden V)carer.
 PRODUCTS
 
 Possessed of the foremost American cereal, maize, at least one
-variety of legume, and the cotton plant, as well as species of Cucur-
-bitaceas and other plants, the agriculture of the Pimas was well
+variety of legume, and the cotton plant, as well as species of Cucurbitaceas and other plants, the agriculture of the Pimas was well
 beyond the initial stages before the arrival of the whites.*
 
 Cereals
@@ -5768,10 +4091,8 @@ Cereals
 The Pimas distinguished half a dozen varieties of maize, to which
 they have now added the large com brought by the Americans. The
 first crop is planted in April and the second in July, the first being
-gathered in June and July and the second in October. When gath-
-ering com the women lay aside the best ears for seed ; they are stuck
-in pairs on sticks and carried in the hand. Wheat is now the prin-
-cipal crop, and when a wet season insures sufficient water several
+gathered in June and July and the second in October. When gathering com the women lay aside the best ears for seed ; they are stuck
+in pairs on sticks and carried in the hand. Wheat is now the principal crop, and when a wet season insures sufficient water several
 million pounds are raised. It is sowed in December and reaped
 with hand sickles in June. Of the several varieties ''Sonora'' and
 ''Australian" are favorites. One called skaofkutco was raised before
@@ -5791,14 +4112,12 @@ a " In the year 1858, the first year of the Overland Mail Line, the surplus crop
 pounds, which was purchased by the company; also a large quantity of beans called taperis, and a
 vast quantity of pumpkins, squashes, and melons. In 1859 Mr St John was sent among them as a special
 agent with a supply of seeds and some agricultural implements. That year they sold 250,000 i>ound8 of
-wheat and a large supply of melons, pumpkins, and beans. In 1860 they sold 400,000 pounds of wheat-
-all the Mail Company would purchase. They had more, and furnished the Oovemmcnt and private
+wheat and a large supply of melons, pumpkins, and beans. In 1860 they sold 400,000 pounds of wheatall the Mail Company would purchase. They had more, and furnished the Oovemmcnt and private
 teamsters all that was necessary for transportation from Fort Yuma to Tucson. Beyond this they
 had no market, except for about 40,000 i>ounds of wheat which Mr White purchased for the supply of Fort
 Breckenridge. In 1861 they sold to Mr White 300,000 pounds of wheat, 50,000 pounds of com, 20,000
 pounds of beans, and a large amount of dried and fresh pumpkins, which was all intended for the sup-
-];>ort of the California Column. The greater part of this crop was destroyed or given back to the Indi-
-ans by the Texans under the guerrilla. Hunter, who arrived at the Pimo villages that year, robbed
+];>ort of the California Column. The greater part of this crop was destroyed or given back to the Indians by the Texans under the guerrilla. Hunter, who arrived at the Pimo villages that year, robbed
 Mr White of his property, and took him prisoner in their flight to the Rio Grande. The Plmos sold,
 during the same year, 600 chickens and a large amount of other stuff, showing a graduid increase of
 production under the encouragement of an increased demand. In 1862 they sold to the Government
@@ -5817,39 +4136,32 @@ BUSSELL]
 AGRICULTURE
 
 
-91
-
-
 Oats are seldom raised in that region. They are called "white
 tassels^' by the Pimas. Barley is the universal grain feed of Arizona,
 and there is a ready market for the small quantity the Pimas raise.
 
 Vegetables
 
-Watermelons, muskmelons, pumpkins, and squashes are exten-
-sively cultivated. The watermelons are preserved until after the
+Watermelons, muskmelons, pumpkins, and squashes are extensively cultivated. The watermelons are preserved until after the
 1st of January by burying them in the sands of the river bed. The
 pumpkins, squashes, and muskmelons are cut
 in strips and dried, the best-keeping varieties
 being left in the storehouses until midwinter
 (pi. XXXV, /). According to tradition the
-first pumpkins, called rsas'katftk. were ob-
-tained from the Yumas and Maricopas.*
+first pumpkins, called rsas'katftk. were obtained from the Yumas and Maricopas.*
 There are three species of wild gourds
 that are quite common
 I along the Gila, namely:
 Cucurbita foetidissima
 H. B. K., C. digitata
 Gray, and Apodanthera
-imdulata Gray. Culti-
-vated gourds have been
+imdulata Gray. Cultivated gourds have been
 known to the Pimas for
 a long period — how long
 it is impossible to say.
 The Papagos have a tra-
 I dition that this plant was
 introduced by Navitco, a
-
 deity who is honored by ceremonies at intervals
 of eight years — or, if crops are bountiful, at the
 end of every four years — at Santa Rosa. The
@@ -5859,10 +4171,8 @@ it which sluinks in drying and renders the vessel
 water-tight again. Dippers and canteens are
 occasionally made of gourds, but the chief use of
 gourds seems to be in the form of rattles (fig. 8) which contain a little
-
 a When Garcos was among the Yumas In 1775 they were raising "countless ' ' calabashes and melona—
-"calabazas y melones, perhaps better translated squashes and cantaloupes, or pumpkins and musk-
-melons. The Piman and Yimian tril)e8 cultivated a full assortment of cucurbitaceous plants, not
+"calabazas y melones, perhaps better translated squashes and cantaloupes, or pumpkins and muskmelons. The Piman and Yimian tril)e8 cultivated a full assortment of cucurbitaceous plants, not
 always easy'to identify ])y their old Spanish names. The sandia was the watermelon invariably; the
 melon, usually a muskmelon, or cantaloupe; the calabaza, a calabash, gourd, pumpkin, or squash of
 some sort, including one large rough kind like our crook-neck squash. * * * Major llelntzelman says
@@ -5891,14 +4201,12 @@ Colorado. Considerable quantities are raised and the thrashing is
 done by horses driven in a circle on the same hard floor that is prepared
 for the wheat thrashing.
 
-Not with the withering drought alone has the Gilefto planter to con-
-tend, but also with the myriads of crows that are extravagantly fond
+Not with the withering drought alone has the Gilefto planter to contend, but also with the myriads of crows that are extravagantly fond
 of a com diet, and with the numerous squirrels and gophers that
 thrive apace where protected in a measure from the coyotes, which are
 themselves a menace to the fields. From the birds and predatory
 animals the fields are guarded during the day by the boys, who amuse
-themselves meanwliile by a dozen games that develop skill in rmi-
-ning, and shooting with the bows and arrows which scarcely leave their
+themselves meanwliile by a dozen games that develop skill in rmining, and shooting with the bows and arrows which scarcely leave their
 hands during their waking hours. Scarecrows, *'men artificial," are
 used, but a fluttering rag was never as effective as a feathered shaft
 hurtling from a well-drawn bow. Night marauders were in olden
@@ -5909,7 +4217,6 @@ Sacaton. It is recognized as the most effectually armed of the many
 cacti and is the symbol in Pima lore of impenetrabihty.
 
 Trade
-
 standards of value
 
 For purposes of trade or in gambling the following values were
@@ -5929,11 +4236,8 @@ This corresponds with the Aztec cenyollotli, the Cakchiquel ru vach qux,
 and the Maya betan." It was the basis of a sort of decimal system, as
 follows: Ten ''sticks" made one ''cut" of calico, equivalent to a ''load"
 of wheat, or about 150 pounds. Ten cuts or loads were equivalent to
-
 a D. O. Brlnton, The Lineal Measures of the Seml-civlllzed Nations of Mexico and Central America.
 
-
-BUSSELL] TRADE 93
 
 one horse in value. Two units were employed in measurement of
 distances. One of these is an ancient measurement which it will be
@@ -5952,11 +4256,9 @@ For a long period prior to 1833 the Maricopas lived at Gila Bend
 and came at harvest time to trade with the Pimas. Soon after that
 time they settled beside the Pimas, living upon such intimate terms
 with them that barter between the tribes was of no more consequence
-than between two Pima villages." With all other tribes they were per-
-petually at war, except with their Papago kinsfolk to the southward.
+than between two Pima villages." With all other tribes they were perpetually at war, except with their Papago kinsfolk to the southward.
 These people live in a vast territory of cactus-covered plains, here and
-there interrupted by up-thrust barren peaks that, with striking out-
-lines, form good landmarks and yet offer little to those that hunger
+there interrupted by up-thrust barren peaks that, with striking outlines, form good landmarks and yet offer little to those that hunger
 and are athirst. The Papagos are a dcvsert tribe, and yet so well had
 they mastered their all but hopeless environment that the trade which
 they carried on with the Pimas was by no means one-sided, as may
@@ -5970,14 +4272,11 @@ oblongifoUa; baskets of agave leaf; sleeping mats; kifth^ and fiber
 to make them; maguey fiber for picket lines. They brought the
 dried meat of the mountain sheep, deer meat, deer tallow in small
 oUas, buckskins, dried beef, tallow, cheese, and cords of human hair.
-Cattle were formerly traded ^^sight unseen," but the modern *'educa-
-tion" of the Papagos led them to exaggerate the good qualities of
+Cattle were formerly traded ^^sight unseen," but the modern *'education" of the Papagos led them to exaggerate the good qualities of
 their stock and even to deal in '^fictitious values," or cattle that the
 new Pima owner sought in vain to find, until finally the Pimas would
-consider no proposition to trade stock unless the animals were exhib-
-ited. Of mineral products they brought red and yellow ochers for
+consider no proposition to trade stock unless the animals were exhibited. Of mineral products they brought red and yellow ochers for
 face and body paint, and the buff beloved by Pima weavers. They
-
 o The author of the Rudo Ensayo, who wrote in 1762, stated that "theae very numerous nations
 (Opas and Maricopas] inhabit both sides for a distance of 36 leagues down the river, and at the far end
 of their territory there is a very abundant spring of hot water a short distance from the river to the
@@ -5988,10 +4287,7 @@ Oult^ras translation in Records of the American Catholic Historical Society, v, 
 /
 
 
-94 THE PIMA INDIANS [eth. axx. 26
-
-made religious pilgrimages to the salt lakes below the Mexican bound-
-ary to obtain the sacred salt. They lived on pinole during the
+made religious pilgrimages to the salt lakes below the Mexican boundary to obtain the sacred salt. They lived on pinole during the
 journey and walked with their eyes fixed upon the traO, looking
 neither to the right nor to the left.
 
@@ -6020,8 +4316,7 @@ In recent years there has been some trade carried on in colored
 earths and salt with the once hostile Yimias and Mohaves.
 
 From the seventeenth century the Pimas sent well-armed bands
-through the Apache cordon to trade at the Spanish and Mexican set-
-tlements of Sonora. The latter also sent trading parties from Tucson
+through the Apache cordon to trade at the Spanish and Mexican settlements of Sonora. The latter also sent trading parties from Tucson
 and other towns to barter with the Gilefios. Lastly, American
 traders appeared about 1850, and for many years there have been
 half a dozen stores on the reservation. These are under bond to limit
@@ -6042,8 +4337,6 @@ thousand pounds annually from them." (John Walker In S. Ex. Doc. 2, 720, 36th Co
 scruples to Interfere seriously with trade.
 
 
-russell] abtifacts 95
-
 Artifacts
 
 The manufactures of the Pimas were few in number and simple in
@@ -6060,8 +4353,7 @@ knife there could have been Uttle done in wood working; architecture
 would have been modified; agriculture, dependent upon irrigation,
 would have been all but impossible. In short, these three simple
 implements, made by striking one stone against another, have suflSced
-to transform the Pimas from the slaves of a harsh environment, com-
-pelled to rend their prey with tooth and nail, into an agricultural
+to transform the Pimas from the slaves of a harsh environment, compelled to rend their prey with tooth and nail, into an agricultural
 people who adapt the environment to their needs and make some
 provision, however slight, for the future.
 
@@ -6071,17 +4363,14 @@ Weapons
 
 Bcv). First in importance among weapons must be placed the
 bow and the arrow. Pima bows are simple, undecorated, and not
-very carefully made. Those which exhibit weakness through split-
-ting or otherwise are bound with fresh sinew in bands which shrink
-around the arms at the point where reenforcement is needed. War-
-riors made their bows of mulberry wood <* obtained in the Superstition
+very carefully made. Those which exhibit weakness through splitting or otherwise are bound with fresh sinew in bands which shrink
+around the arms at the point where reenforcement is needed. Warriors made their bows of mulberry wood <* obtained in the Superstition
 and Pinal mountains. A bow that has been long used, especially in
 successful warfare, becomes a highly prized possession with which its
 owner is loath to part. The writer was so fortunate as to secure
 such a specimen (pi. xiii, a) which has the graceful compound curve of
 the conventional bow; it is of mulberry wood and has a neatly
-twisted, two-strand sinew string.* Hunting bows*" (pi. xiii, h) are fre-
-quently made of osage orange wood, a material that is now obtain-
+twisted, two-strand sinew string.* Hunting bows*" (pi. xiii, h) are frequently made of osage orange wood, a material that is now obtain-
 able from the whites along the Salt river. When mulberry wood
 was not available willow was used, and most of the hunting bows
 which men as well as boys continue to make for hunting hares and
@@ -6097,28 +4386,15 @@ f> Length 1.350 m., width at grip 26 nmi., thickness 18 mm.
 c Length 1 .365 m., width at grip 26 mm., thickness 22 mm.
 
 
-96
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 Arrows. The arrows of the Pimas are made from the straight
 stem of the arrow bush. The Kwahadk's and Papagos sometimes
 sold arrows of yucca stem to the Gilefios, but these were scarcely
 equal in quality to those made of wood. The hunting arrows**
 (pi. XIII, c) have two split feathers, two hand's breadths in length.
 War arrows ^ have three feathers, less than half as long and slightly
-
 curved. All arrow shafts are measured
-
 t^ - ^j- and cut the length from tip of forefinger
-
 t .■ Wt to nipple of breast of the maker. Both
-
 bows and arrows are sometimes stained
 with the blood of the jack rabbit, and
 war arrows may be dyed at the ends with
@@ -6127,12 +4403,10 @@ Opuntias. The quiver is made of wild-cat
 skin (pi. XIII, d).
 
 War dub. The club was of scarcely less
-importance than the bow, and it was cus-
-tomary for a portion of each band of war-
+importance than the bow, and it was customary for a portion of each band of war-
 riors to fight with shield and club alone.*"
 
-Lance. A short sharpened stick was some-
-times used by the Pimas, who adopted it
+Lance. A short sharpened stick was sometimes used by the Pimas, who adopted it
 from the Yumas and Maricopas after the
 Spaniards supplied steel heads for the weapon. The sticks were colored
 red with mineral paint."*
@@ -6151,8 +4425,7 @@ seizing continued from the point 3 cm. along the shaft. The feathers are 0.10 cm
 c Bartlett, usually an admirable observer, failed to notice that the irar club was a popular Pima
 weapon. He says: "The only weapon used by these tribes is the bow and arrow. Xhe short club of
 the Yumas and the long lance of the Apaches I never saw among them." (Personal Narrative, n, 237.)
-The clubs were made of mesquite root or of ironwood, weighed about 2 pounds, and in general appear-
-ance resembled the old style potato mashers of New England kitchens. (Fig. 9.) The handle was
+The clubs were made of mesquite root or of ironwood, weighed about 2 pounds, and in general appearance resembled the old style potato mashers of New England kitchens. (Fig. 9.) The handle was
 brought to a sharp point, which was almost as effective as a dagger in a back-handed blow. The club
 was carried thrust point downward through the belt. One club was obtained from Its owner and
 another found in a cache of personal property that had been made in the hills at the death of the owner.
@@ -6174,16 +4447,9 @@ Fio. 0. War clubs.
 BU8SELL]
 
 
-ARTIFACTS
-
-
-97
-
-
 Agricultural Implements
 
-Digging stick. The earliest agricultural implement was the dig-
-ging stick. It was used in planting maize and other crops, as a lever
+Digging stick. The earliest agricultural implement was the digging stick. It was used in planting maize and other crops, as a lever
 to pry out bushes when clearing the ground, as a pick when digging
 irrigating ditches, and in case of surprise it made an effective weapon
 of defense. It was made of ironwood or from the spiny tree, Zizyphus
@@ -6201,21 +4467,17 @@ curve of the trunk from which it
 came.** (Fig. 10,6.)
 
 Hoe. Another implement of
-early adoption by the Pimas com-
-bined the functions of spade and
+early adoption by the Pimas combined the functions of spade and
 hoe. It was used to loosen the soil
 around plants and to cut away
 weeds. It was made of ironwood
 and was tliin, hard, and heavy.
 As it was quite short and curved
 but slightly it could be used only
-when the workman was in a kneel-
-ing or sitting position. It was
+when the workman was in a kneeling or sitting position. It was
 sharpened along the convex curve
-at the wider end. The entire im-
-plement was so thin that it must
-have chafed the hands. But one specimen was found on the reserva-
-tion (fig. 10, c).^
+at the wider end. The entire implement was so thin that it must
+have chafed the hands. But one specimen was found on the reservation (fig. 10, c).^
 
 Dibble. The implement described above was superseded by one
 obtained from the Mexicans who frequently came to trade with the
@@ -6241,23 +4503,13 @@ Fio. 10. Agricultural implements, a, Digging
 stick; b, shovel; c. hoc; d, dibble.
 
 
-98
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 29
-
-
 with a steel blade that was straight on one side and rounded on the
 other.**
 
 Plow. Of comparatively modem introduction, the wooden plow is
 of but passing interest in our present researches. It is. a survival of
 European culture that effectively influenced the Pimas for but one
-generation, or from 1850 to 1880, when the influx of Americans cre-
-ated a demand for wheat which the Pimas were able to supply in part
+generation, or from 1850 to 1880, when the influx of Americans created a demand for wheat which the Pimas were able to supply in part
 as they could not have done without this implement. By the end of
 
 
@@ -6279,23 +4531,13 @@ latter being a branch that set at a convenient angle, about 70 degrees,
 with the trunk of the tree from wliich the bottom of the plow was
 cut (fig. 11).^ The tongue was held in place by a mesquite pin
 passing through the bottom and a slot in the butt of the tongue and
-tightened by two wedges which were adjusted by means of a mes-
-quite mallet carried for the purpose.*^
+tightened by two wedges which were adjusted by means of a mesquite mallet carried for the purpose.*^
 
 a Length, 1.090 m.; length of blade, 0.215 m. to top of socket; width, 0.115 m.
 
 t> Two specimens were collected; only one other was seen or heard of on the reservation. The laiger
 one is complete, with tongue. It is 0.900 ra. long; handle, 0.850 m., and tongue 3.490 m.
 c A mallet in the collection measures 0.380 m. in length and 5 cm. In diameter.
-
-
-RUSSELL]
-
-
-ARTIFACTS
-
-
-99
 
 
 Yoke, With the introduction of cattle the Pimas obtained their
@@ -6311,8 +4553,7 @@ straight, but with sections hollowed to fit the necks of the team. **
 
 Household Utensils
 
-Mortar. Perhaps the mor-
-tar should be placed first in
+Mortar. Perhaps the mortar should be placed first in
 importance among the utensils
 of this class. There are two
 forms, one (fig. 13, a) with the
@@ -6320,8 +4561,7 @@ hole sunk in the end of the
 log, and which may be either
 sharpened at the other end
 and set permanently in the
-ground or cut flat at the op-
-posite end so that it will stand
+ground or cut flat at the opposite end so that it will stand
 upright and may be moved
 about. The other style (fig.
 13, h) lies horizontal, with the
@@ -6340,7 +4580,6 @@ in solid stone are not uncommon in Arizona. The writer saw a row
 of them at the end of a cliff ruin of eight or ten rooms in Aravaipa
 canyon. There are several in a rough hillock in Ilarshaw canyon,
 Patagonia mountains. The base of the conical hill at Tucson is well
-
 o There are two specimens in the collection. The larger is 1.450 ra. long; 10 cm. in diameter at the
 middle, with notches for ni<!ck8: 30 cm. wide. The second specimen is 1.200 m. long.
 
@@ -6352,10 +4591,7 @@ tyjM in the collection measures 37 cm. in height, 32 cm. in diameter; the cavity
 FlQ. 13. a, 6, Mortarn; c, wooden pestle; d, bread tray.
 
 
-100 THE PIMA INDIANS [eth.ans.26
-
-pitted with them. They are occasionally met with almost any-
-where in the eastern half of the Territory. With that portion west
+pitted with them. They are occasionally met with almost anywhere in the eastern half of the Territory. With that portion west
 of the Rio Verde the writer is unacquainted. Reference to the pages
 devoted to a description of the plants that furnish food for the Pimas
 will show how extensively the mortar is. used in grinding seeds.
@@ -6371,8 +4607,7 @@ Fio. 14. a, Doughnut fork; b, ladle; c, unflnishf'd ladle.
 
 Bread tray. Neatly made trays of mesquite, rarely of cottonwood,
 are used, and appear to be among the most prized of the household
-utensils (fig. 13, d). They are employed for a variety of purposes be-
-sides that of mixing bread. '^ Smaller trays and plates — circular, ellip-
+utensils (fig. 13, d). They are employed for a variety of purposes besides that of mixing bread. '^ Smaller trays and plates — circular, ellip-
 tical, and rectangular — are sometimes obtained from the Papagos.
 
 a One specimen, the only one seen, was secured. It is 1.210 m. long and the head is 0.335 m. in
@@ -6383,33 +4618,20 @@ long; they are three in number and of the same piece of wood as the body of the 
 round shallow tray, no. 76051, in the Nationai Museum that is 46 cm. in diameter.
 
 
-RUSSELL]
-
-
-ARTIFACTS
-
-
-101
-
-
 Fig. 15. Pottery paddle.
 
 
 Fork. In frying doughnuts it is necessary to have some instrument
 with which to remove them from the fat. A slender sharpened rod
 of arroww^ood is used for this purpose (fig. 14, a).«
-Ladle, Ladles arc said to be of recent intro-
-duction, the Pimas having obtained them from
+Ladle, Ladles arc said to be of recent introduction, the Pimas having obtained them from
 the Papagos, who in turn had derived the art of
-making them from the Mexicans. They are com-
-monly made of mesquite, though the Papagos
+making them from the Mexicans. They are commonly made of mesquite, though the Papagos
 make them of paloverde wood. The bowls are
-not rounded, but are made in the shape of a flat-
-tened cone, as they
+not rounded, but are made in the shape of a flattened cone, as they
 can be more readily
 worked into that
-form with a straight-
-bladed knife.^
+form with a straightbladed knife.^
 
 Pottery paddle, A
 paddle of cottonwood is used to shape
@@ -6432,7 +4654,6 @@ of large arrowbush rods, which are
 quite straight and of uniform diameter.
 The rods are tied to cross pieces, as shown in figure 16, a, or are held
 by twisted cords of hide, as in figure 16, h. The latter specimen was
-
 o The specimen collected is 45 cm. long.
 
 t The finished sptx-imen in the collection is rather smaller than the average (fig. 14, 6) . It is 0..'W4 m.
@@ -6457,22 +4678,11 @@ tnp8 was seen at nearly every house during the winter of 1901-2.
 FiQ. 16, o. Hanging shell.
 
 
-102
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 serving as a door when purchased, and the fact that a "Melicano"
 wanted it caused its owners great astonishment and amusement.
 Indeed, the Pimas manifested a lively interest in our purchases of
-
 household articles and never
-failed to laugh at the spec-
-tacle presented by the little
+failed to laugh at the spectacle presented by the little
 wagon half buried beneath
 its load of unassorted
 objects.
@@ -6484,19 +4694,16 @@ whether they are made for
 the large eagle or for the
 small Sonora dove, as in the
 case of the specimen" figured
-(fig. 17). They are of arrow-
-wood, laid up in log-cabin
+(fig. 17). They are of arrowwood, laid up in log-cabin
 style or tied to transverse
 bars, as in the house doors.
 Kidhd frame. It is to be
-remembered that the pecu-
-liar form of carrying basket
+remembered that the peculiar form of carrying basket
 is made possible by the use
 of the wooden frame. It is
 fully described on page 140.
 Fire driU. In primitive times fire was kindled by the Pimas by
-means of a two-part drill (fig. 18, a),* the simplest and most wide-
-spread form of fire drill. The operator knelt upon the ends of the
+means of a two-part drill (fig. 18, a),* the simplest and most widespread form of fire drill. The operator knelt upon the ends of the
 hearth stick and twirled the upright stick between his palms. The
 hearth was of saguaro wood or of
 any other soft wood if that were not
@@ -6525,23 +4732,15 @@ Fia. 16, b. Door.
 BUSSBLL]
 
 
-ARTIFACTS
-
-
-108
-
-
 s
 
 
 Miscellaneous
 
 Sagvuro hook. The fruit of the giant cactus grows at so great a
-height" that it can not be reached without the aid of some long-
-handled implement for dislodging it. Hooks ^ are made by attach-
+height" that it can not be reached without the aid of some longhandled implement for dislodging it. Hooks ^ are made by attach-
 ing, by means of maguey fiber, a straight piece of wood to the end
-of a long cactus rib. Doctor McGree has called the writer's atten-
-tion to the fact that the angle at which the hook stands is of great
+of a long cactus rib. Doctor McGree has called the writer's attention to the fact that the angle at which the hook stands is of great
 ceremonial importance among the Papagos, but there would seem to
 be no significance attached to it by the
 Pimas, who have not been so dependent
@@ -6595,39 +4794,28 @@ Fig. 18. a, Fire drill: 6, saguaro
 hook: c, ha'ndm tweezers.
 
 
-104
-
-
-THE PIMA INDIANS
-
-
 [STU. ANN. 26
 
 
 Fio. 19, a. Cradle frame.
 
 
-hood made of willow bark in the checker style of weaving, the sur-
-face being ornamented in geometric patterns colored black and red.
+hood made of willow bark in the checker style of weaving, the surface being ornamented in geometric patterns colored black and red.
 Over the hood a loose piece of cloth may be thrown to protect the
 occupant from flies. The babies when strapped closely in the cradles
 are frequently carried on the heads of their mothers, who may at the
-
-same time have no insignifi-
-cant burdens in their hands.
+same time have no insignificant burdens in their hands.
 When the children are about
 a year old they are carried
 astride the hip, unless upon
 a journey, when they are
 shifted around to the back,
-still astride,** and there sup-
-ported by a shawl or large cloth bound around the waist.^ The
+still astride,** and there supported by a shawl or large cloth bound around the waist.^ The
 writer has seen women with children of 2 or 3 years on their backs,
 each carrying a sack of wheat on her head and Ughter bundles in
 her hands.*'
 
-Paint brush. The lines of pigment with which the face was for-
-merly ornamented were applied by means of slender bits of arrow-
+Paint brush. The lines of pigment with which the face was formerly ornamented were applied by means of slender bits of arrow-
 wood two or three inches long. The Kwahadk's were accustomed to
 gather the tufted ends of the
 arrow -bush branches and
@@ -6635,8 +4823,7 @@ carry them southward into
 Papagueria to be used as
 paint brushes.
 
-Calendar sticks. The Pi-
-mas keep a record of pass-
+Calendar sticks. The Pimas keep a record of pass-
 ing events by means of
 sticks carved with arbitrary
 mnemonic symbols. There
@@ -6644,13 +4831,11 @@ are five such records in the
 tribe to-day — or were a year
 ago. The oldest of these
 sticks bears the history of
-seventy years. There were other sticks before these, but the vicis-
-situdes of war, fire, and the peculiar burial customs of the people
+seventy years. There were other sticks before these, but the vicissitudes of war, fire, and the peculiar burial customs of the people
 made away with them.'* There are three sticks in the collection,
 which have been designated Gila Crossing, Blackwater, and Casa
 Blanca calendars,* from the names of the villages whence they
 came. The Casa Blanca stick (fig. 20, a) is of willow, peeled,
-
 a Doctor Palmer says that as soon as a child is old enough to stand alone the mother carries it on an
 immense cincture of bark worn on her back. The author saw no such cinctures in use and believes
 that their use has been abandoned.
@@ -6668,82 +4853,51 @@ of the woodworker's skill.
 Fio. 19, b. Cradle.
 
 
-RUSSELL]
-
-
-ARTIFACTS
-
-
-105
-
-
 slightly flattened, but otherwise bearing no signs of preparation
-
 for the vsymbols that occupy the greater part of one side.^ The
 
-Gila Crossing calendar (fig. 20, h) is a pine stick on which the rec-
-ord was copied several years ago from a stick yet in the same
-
+Gila Crossing calendar (fig. 20, h) is a pine stick on which the record was copied several years ago from a stick yet in the same
 village. The record begins on the back,
-
 passes over the lower end in the figure,.
 
 and extends again to the back over the
-
 upper end.^ The Blackwater stick (fig.
 
 20, c) is of saguaro wood smoothed and
-
 carved for the writer by the keeper of the
-
 record, who lost the original some years
-
 ago and who has since been using paper
 
 •and pencil, but the same symbols.*
 
 Spurs. Wooden spurs were made from
-
 crotched limbs of mesquite of suitable
-
 size. They were attached to the foot
-
 by a deerskin thong fastened to form
-
 two loops of equal size, one passing
-
 over the instep and the other under the
-
 heel of the foot. So rare have they now
-
 become that the writer spent six months
-
 on the Gila River reservation without
-
 discovering
 any, and
 therefore
 hired an
 old man to
 make a pair
-for the col-
-lec tion.
-Soon after-
-wards a single old spur was found, which
+for the collec tion.
+Soon afterwards a single old spur was found, which
 diflFers from those made to order only in
 having deerskin instead of maguey fiber
 fastenings (fig. 21).*'
 
-Saddle. . Wooden saddletrees are some-
-times made, both for riding and pack
+Saddle. . Wooden saddletrees are sometimes made, both for riding and pack
 saddles. The former are covered with
 rawhide, shrunk on, and provided with
 stirrups of mesquite or wallow wood.
 
 They are not common and are at best but crude imitations of the
-
 saddles made by the whites. Saddle blankets for use with them
-
 are of matted grass or maguey fiber.
 
 
@@ -6764,15 +4918,6 @@ c Length, 1.395 m.; diameter. 20 mm.
 d Length, 0.152 m.; spread across fork, 9 cm.
 
 
-106
-
-
-THE PIMA INDIANS
-
-
-[ ETH. ANN. 26
-
-
 Fio. 22. AwL». a, Wooden
 handle; b, gum handle.
 
@@ -6784,17 +4929,14 @@ At present the points are of pieces of umbrella rib set in wooden
 handles of native manufacture (fig. 22, a).^ It will be observed that
 the upper end of the handle is provided with a button, so that it
 may be held between the third and fourth fingers while
-the thumb and other fingers are engaged in the manipula-
-tion of the basket spHnts. Handles of round balls of
+the thumb and other fingers are engaged in the manipulation of the basket spHnts. Handles of round balls of
 creosote gum* are also used (fig. 22, 6).^
 
 II Rope twister. This apparatus is probably
 
 I of Eiu-opean origin. It consists of a pin or
 
-I handle of hard wood, such as mesquite or wil-
-
-l low, which is thrust through a hole near the
+I handle of hard wood, such as mesquite or will low, which is thrust through a hole near the
 
 ^^^k end of another stick, which acts as a spindle
 ^^^H whorl. The latter piece has a button at the
@@ -6814,8 +4956,7 @@ bound together with
 cotton twine of native
 spinning, either with
 or without feathers
-attached to each sep-
-arate stick. There
+attached to each separate stick. There
 are six &'mXna bundles
 in the collection. One
 was made by Kd'm&l
@@ -6841,12 +4982,6 @@ d Length of pin, 0.254 m.; diameter, 8 mm.; length of spindle, 32 cm.
 
 
 BDSSELL]
-
-
-ARTIFACTS
-
-
-107
 
 
 FiQ. 24. A'mlDa with reed
@@ -6875,26 +5010,21 @@ feathers being from a red-colored bird.
 
 The fifth, bundle contains three sets of 4
 sticks each, but they are so old and broken
-that their original length can not be deter-
-mined. They also have red feathers bound to them (pi. xiv, c).
+that their original length can not be determined. They also have red feathers bound to them (pi. xiv, c).
 
 The sixth bundle is very small and very old and it is probable
-that the unusual number of sticks — 5 — is due to the fact that a por-
-tion of the bundle has crumbled with
+that the unusual number of sticks — 5 — is due to the fact that a portion of the bundle has crumbled with
 age (pi. XIV, e).
 
 Animal efiigies. Wooden images of
 reptiles and the like are used in the
 medicine-men's efforts to cure certain
 diseases. Two such specimens were
-collected. One is intended to repre-
-sent a homed toad (fig. 25, a),^ the
+collected. One is intended to represent a homed toad (fig. 25, a),^ the
 other a lizard (fig. 25, h) .* They are either carelessly or clumsily made.
 Mask, During his stay among the Pimas the writer heard of but
-two wooden masks be-
-ing in their possession.
-One of these was col-
-lected and is here de-
+two wooden masks being in their possession.
+One of these was collected and is here de-
 picted in figure 26/
 Doctor Hough called his
 attention to the fact
@@ -6908,8 +5038,6 @@ FiQ. 25, 6. Lizard efflgy.
 
 
 made by the Yaquis of Sonora, and it
-
-
 a Length. 0.155 m.; diameter, 21 mm. The feathers are a trille shorter than the sticks.
 
 f> Length. 0.136 m.; diameter, 10 mm.
@@ -6923,37 +5051,22 @@ d Length, 10 cm.; width. 42 mm.
 /Length, 0.206 m.; width. 0.153 m.
 
 
-108
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
-is probable that the conception, if not the mask itself, was im-
-ported from the southward along ^ith the masked Xavitco cere-
+is probable that the conception, if not the mask itself, was imported from the southward along ^ith the masked Xavitco cere-
 monies, despite the assertion of its former owner to the contrary,
 because it represents a liigher degree of skill in woodworking
-
 than any piece of carving that the
 writer has seen done by a Pima.
 It is of Cottonwood, perforated for
-the insertion of horsehair eye-
-brows, chin whisker, and two tufts
+the insertion of horsehair eyebrows, chin whisker, and two tufts
 on the center of each cheek, and is
 ornamented by an interrupted
-scroll and other lines unmistak-
-ably intended to be decorative.
+scroll and other lines unmistakably intended to be decorative.
 The mouth contains a half dozen
-pegs, giving a verj- realistic rep-
-resentation of teeth.
+pegs, giving a verj- realistic representation of teeth.
 
 Wand. There are two wands or
 ceremonial sticks in the collection
-(fig. 27).® The longer is of grease-
-wood, Sarcobatus vermicularis, the
+(fig. 27).® The longer is of greasewood, Sarcobatus vermicularis, the
 material prescribed for ia'kita, or
 ceremonial paraphemaUa of this
 class. It is spotted \nth black
@@ -6976,25 +5089,15 @@ Southwest, or, if arrow points exceed them in numbers, the former is at
 Fig. 27. Ceremonial wands.
 
 
-least the most noticeable. About nearly every ruin one sees the frag-
-ments of broken nie tales, in some cases to the number of several score,
+least the most noticeable. About nearly every ruin one sees the fragments of broken nie tales, in some cases to the number of several score,
 as at the niin near Patagonia, in the Sonoita valley, where sixty
-
-
 a Length of the longer figure, 76 cm.; of the shorter, 28 cm.
 
 
 rdssell]
 
 
-ARTIFACTS
-
-
-109
-
-
-metates were counted on the ground (every one had been intention-
-ally broken), and there must have been a much larger number beneath
+metates were counted on the ground (every one had been intentionally broken), and there must have been a much larger number beneath
 the surface. Some of those found in the Hohokam ruins are of lava
 and have legs several inches in length. Most of these are hollowed
 out, as are those of the Hopis, whereas the metates of the Pimas are
@@ -7036,15 +5139,6 @@ a An average-sized specimen in the collection weighs 4) pounds; it is 253 mm. lo
 diameter (fig. 29).
 
 
-110
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 cylinder weighing 20 pounds that requires both hands to wield it.
 Many of these are obtained from the ruins, but some are shaped by
 pecking. This is not all done at once, but, a suitable stone having
@@ -7052,11 +5146,9 @@ been selected, it is shaped little by little, day by day, as the owner has
 leisure for the work. This suggests that much of the stonework of
 primitive peoples which excites our admiration for their patience has
 been done in this manner, the implement being in use continually and
-
 the task of pecking it
 into more convenient or
-more pleasing shape be-
-ing taken up from time
+more pleasing shape being taken up from time
 to time as ''knitting
 work/'
 
@@ -7105,18 +5197,10 @@ straightencr.
 BCSSELL]
 
 
-ARTIFACTS
-
-
-111
-
-
 Arrowheads
 
-A great portion of those used by the Pimas were made by the Hoho-
-kam. However, the Pimas always had a few arrowhead makers who
-worked in obsidian, shale, or flint. They produced small heads vary-
-ing from 1 to 2 J cm. in length by 1 in breadth. Those represented in
+A great portion of those used by the Pimas were made by the Hohokam. However, the Pimas always had a few arrowhead makers who
+worked in obsidian, shale, or flint. They produced small heads varying from 1 to 2 J cm. in length by 1 in breadth. Those represented in
 figure 30 are old points. The heads are stemless, sometimes having
 shoulders for the sinew seizing. One man was found who continues
 to make arrowheads, which he sells to the whites.
@@ -7147,8 +5231,7 @@ them.
 Crystals
 
 Crystals and curiously shaped stones of all kinds were preserved in
-the outfits of the medicine-men. Several such specimens were pur-
-chased and some were found in a cache among the hills (fig. 32) .'^
+the outfits of the medicine-men. Several such specimens were purchased and some were found in a cache among the hills (fig. 32) .'^
 
 o A specimen ( Ilohokam) in the colloction (ftg. 31) has ]>een shapt'd to represent some animal (?). It
 is 92 mm. long and 60 mm. wide.
@@ -7173,7 +5256,6 @@ Magic Tablets
 Th^ ^olkrtv>a contains two tablets which were obtained from
 nMdknxv^'-men and half of one which was found in the cache above
 f^^TTPii to ^fi^. 33, a, J, r). Two hare ornamental borders, while
-
 the third is quite smooth to the rounded
 margin; it has the figure of a horse scratched
 on one side and that of a man on the other.*
@@ -7192,8 +5274,7 @@ abundant in early days.
 It was believed that if
 a man lost a turquoise
 the mishap was due to
-magic, and as a result he would be afilicted iKnth some mysterious ail-
-ment which could be cured only by a medicine-man skilled in the
+magic, and as a result he would be afilicted iKnth some mysterious ailment which could be cured only by a medicine-man skilled in the
 cure of the "doctor's disease." He would use another piece of tiu>
 quoise or a slate or a crystal, placing the stone in
 water and giving the latter to the patient to drink.
@@ -7211,8 +5292,7 @@ purpoHo of expelling disease.
 
 » Till' Innt tiibli't In 122 nun. long by 50 mm. wide; It is 6 mm. thick at one side and tapers to 2 mm.
 Ml III*' othi-r. 'V\w lurK«'iit niMcimon la 151 mm. long by 94 mm. wide and 10 mm. thick; the border is 10
-iiuii. widi'. iiiarkrd thus: XXXX. The l)roken specimen ia87 mm. wide: its length can not bedeter-
-iiiliH'd, Tin* .X patt«<m at the ituirgin runs over to the surface of the reverse side.
+iiuii. widi'. iiiarkrd thus: XXXX. The l)roken specimen ia87 mm. wide: its length can not bedeteriiiliH'd, Tin* .X patt«<m at the ituirgin runs over to the surface of the reverse side.
 
 '• I^'MKlli. 4M nun.; liitiTmil diameter, 16 mm.; maximum external diameter, 26 mm.
 
@@ -7225,15 +5305,6 @@ Flo. 33. a, 6. c. Magic tablcto.
 Fio. Si. Stone pipe.
 
 
-RUSSELL]
-
-
-ARTIFACTS
-
-
-113
-
-
 \
 
 
@@ -7244,41 +5315,28 @@ Saddle I
 In addition to the wooden saddletrees already mentioned the
 
 Pimas made them each of two rolls of grass or straw, inclosed in blue
-
 denim or canvas and bound with a network of rawhide. A specimen <*
 
 in the collection (pi. xv, a, h) has two such rolls fastened together with
-
 both horsehair and maguey cords. The top is covered vritl\ leather
-
 taken from two old boot legs. One
-
 stirrup is wanting; the one that
-
 remains is of native manufacture.
 
 The accompanying cinch (pi. xv,c)**
 
 is of horsehair neatly twisted and
-
 quite strong and serviceable. When
-
 used, it was passed over the saddle
-
 instead of being attached to it. A
 
 Pima is rarely seen riding bareback,
-
 and most have good saddles of
 
 American manufacture. Bartlett
-
 states that those who rode bareback
-
 at the time of his visit in 1850 thrust
-
 one foot under a loosely fastened
-
 surcingle.*^
 
 Saddlebag
@@ -7299,12 +5357,9 @@ Head Kings
 The round-bottomed water jars and many similar heavy burdens
 besides were borne upon the heads of the women with the aid of the
 rings of willow bark in the early days, and now with rings of rags
-wrapped with cotton cloth.** Of less common use are the agave-
-leaf rings, which should be classed as twined basketry.^ They are
-
+wrapped with cotton cloth.** Of less common use are the agaveleaf rings, which should be classed as twined basketry.^ They are
 o Length, 60 cm.; diameter of rolls at the middle, 10 cm. They are tliickened slightly at the ends to
 form pommel and cantlc
-
 t> Length, 75 cm.; width, 7 cm.
 
 c Narrative, ii, 237.
@@ -7314,15 +5369,6 @@ diameter.
 
 « Diameter of specimen collected, 10 cm.; height, 1(>5 mm.
 26 ETH— 08 10
-
-
-114
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 folded at each margin so that a ring is made up of three thicknesses
@@ -7341,8 +5387,6 @@ Rope
 Picket ropes of maguey fiber (figs. 37, J and 38) are brought by
 the Papagos to trade to the Pimas. They are about 10 m. long and
 1 cm. in diameter, made of four 2-ply strands. They are strong, but
-
-
 a h
 
 Fio. 37. a, Horsehair halter; b, maguey rope.
@@ -7385,9 +5429,6 @@ made of seven wing feathers of a hawk (fig. 39, h) which have been
 joined by laying a strip of cotton cloth on the quill of each feather
 
 
-116
-
-
 THK PIMA INDIANS
 
 
@@ -7404,7 +5445,6 @@ War Headdress V
 
 At Gila Crossing we were so fortmiate as to secure a specimen of
 an old Pima headdress made from the hair of an Apache and the wing
-
 feathers of three species of large raptorial
 birds (fig. 40). The hair is about 45
 cm. long and is gathered in strands 1
@@ -7420,8 +5460,7 @@ hawk feathers to the nimiber of five,
 symbolizing keenness of vision by day;
 on the right are two eagle feathers, the
 symbol of swiftness. Thus the wearer
-of this headdress possessed the cour-
-age and cunning of the hated enemy,
+of this headdress possessed the courage and cunning of the hated enemy,
 the keen sight by day and by night of
 the birds that have great magic power, according to Pima belief, and
 the s\\dftness as a trailer of the king of birds, which occupies a
@@ -7437,8 +5476,7 @@ river, where the majority of the villages are situated, they now make
 use of maguey fiber, Agave lecheguea. Yucca paccata, etc. (fig. 41,6).*^
 
 a The general use of human hair for cords and in headdresses by the Pimas suggests Lower Califomian
-affinities, as we are told by V^enegas that the natives ol that peninsula were accustomed to adorn them-
-selves on ceremonial occasions w.th "a large cloak covering them from their head to their feet, and
+affinities, as we are told by V^enegas that the natives ol that peninsula were accustomed to adorn themselves on ceremonial occasions w.th "a large cloak covering them from their head to their feet, and
 entirely composed of human hair." 1 1. story of Callfom a. i, 99.
 
 6 Length of specimen florurcd. 22 cm.; diameter, 37 mm.
@@ -7449,24 +5487,13 @@ e Length of specimen flguied, 17 cm.; diameter, 18 mm.
 Fio. 39. a, Fetish; b, hair ornament.
 
 
-RUSSELL]
-
-
-ARTIFACTS
-
-
-117
-
-
 These fibers make very satisfactory brushes, but they are not so stiff
 as brushes made of bristles. The fibers are not set in a handle but
-are tied in a round bundle a little below the middle, tlien folded out-
-ward from the center so that the upper end or handle is round and
+are tied in a round bundle a little below the middle, tlien folded outward from the center so that the upper end or handle is round and
 smooth while the lower end includes all the free fiber ends. Twine
 is then wrapped in a coil around the upper end downward until the
 brush end remains just long enough to give the fibers play in passing
-through the hair. The wrapping may be either of fiber or of horse-
-hair; in the latter case pleasing geometric patterns are often worked
+through the hair. The wrapping may be either of fiber or of horsehair; in the latter case pleasing geometric patterns are often worked
 out with contrasted black and white threads. The specimen illus-
 
 
@@ -7477,15 +5504,8 @@ iA.
 
 
 JS^^^^mmKlM ^ ' iJ^H ^B^^^lr
-
-
 r
-
-
 m
-
-
-1
 
 
 I
@@ -7499,8 +5519,7 @@ I
 
 FiQ. 40. War headdress.
 
-trated in figure 41, 6 is bound with maguey fiber which has been deco-
-rated with three lines of purple dye, put on after the wrapping has
+trated in figure 41, 6 is bound with maguey fiber which has been decorated with three lines of purple dye, put on after the wrapping has
 been completed.
 
 Skin Dressing
@@ -7513,18 +5532,11 @@ became adept through training from childhood, rawhide was employed.
 So the needs which dressed leather alone could satisfy were but few,
 
 
-118
-
-
-THE PIMA INDIANS
-
-
 I jrrH. ANN. 26
 
 
 and it is probable that GilefLo women did little more than enough
 skin dressing to keep the art alive among them. At present there are
-
 very few who know anything about
 it; and this is the method which
 they say V'long ago make it."
@@ -7538,8 +5550,7 @@ used — brains and saguaro seeds.
 The former were kept dried into a
 cake with dry grass until they were
 needed; when they were softened
-in water. The seeds were avail-
-able at any time, as they were
+in water. The seeds were available at any time, as they were
 always kept in store as an article
 of food.
 
@@ -7552,19 +5563,15 @@ Fire Bag
 
 
 Fig. 41. UalrbruBbea. a, Sacaton grass roots;
-
 b, maguey fiber. Leather bags were used to carry
-
-flint and steel, and a specimen of these comparatively modem arti-
-cles is shown in figure 42. It is ornamented with tin bangles and
+flint and steel, and a specimen of these comparatively modem articles is shown in figure 42. It is ornamented with tin bangles and
 glass beads.
 
 Tobacco Pouches
 
 Tobacco was not recognized by
 the Pimas as a narcotic that would
-stunt the growth in youth or injuri-
-ously affect the heart as age ad-
+stunt the growth in youth or injuriously affect the heart as age ad-
 vanced, nor yet as a solace for
 leisure moments. It was to them
 a plant of divine origin that in its
@@ -7580,21 +5587,14 @@ been deposited by worshipers. It is uncertain how far thLs form of
 Fio. 42. Fire bag.
 
 
-RUSSELL]
-
-
 AKTIFACTS
-
-
-119
 
 
 cigarette was in use by the Pimas. Most of those found were made
 by the Hohokam."
 
 To carry this sacred powder it was necessary to have something
-more than an ordinary receptacle, and so pouches were made of buck-
-skin, ornamented in vivid colors with symbols of the sun and pro-
+more than an ordinary receptacle, and so pouches were made of buckskin, ornamented in vivid colors with symbols of the sun and pro-
 vided with rattles that tinkled with every motion of the wearer.
 Both in shape and in ornament they closely resemble the tobacco
 pouches of the Apaches. There are two specimens in the Natioi^al
@@ -7602,8 +5602,6 @@ Museum. No. 27840 (fig. 43, a) is of buckskin,'' doubled so that
 the opening of the pouch on the unomament^d half is covered
 by the fold. The margin is ornamented by a fringe of short strings
 of buckskin passed through holes along the edge of the pouch, most
-
-
 c
 
 
@@ -7632,7 +5630,6 @@ hang it up when not in use.
 
 Another pouch, no. 27839 (fig. 43, 6, c), is of soft deerskin, with
 a red fringe made by parallel cuts along the edge. There are a few
-
 o At the present time most men and some women smoke cigarettes rolled in corn husks or paper,
 obtained, as is much of the tobacco, from the whites. The native tobaccos a re : Nicotiana trigonophylla,
 known as vi'opal vi'offl, "like tobacco." gathered near Babcquivari by the l*apagos and brought
@@ -7642,12 +5639,6 @@ though the use of tobacco is not encouraged. The father's favorite saying In rep
 tobacco is. •• I will give you some when you kill a coyote."
 
 & I/cngth, 10 cm.: width, 11 cm.; 114 bangles.
-
-
-120
-
-
-THE PIMA INDIANS
 
 
 [KTII. ANN. 26
@@ -7667,8 +5658,7 @@ Sling
 Slings were used by Pima youths before the advent of the whites.
 They were of the usual elongated oval shape. The National Museum
 contains a sling, no. 76031, that was obtained from
-the Pimas half a c-entury ago. It is of leather, prob-
-ably cut from a boot leg, with strings 68.5 cm. long.
+the Pimas half a c-entury ago. It is of leather, probably cut from a boot leg, with strings 68.5 cm. long.
 The imperforate center is 18 by 7 cm. (fig. 44).
 
 Shield
@@ -7683,8 +5673,7 @@ presenting a more difficult target, and of bewildering
 the enemy and thus unsteadying their nerves through
 the suggestion of magic, which plays a larger
 part in the warfare of the American Indian than is
-generally known. The preparation for a war expe-
-dition is an invocation to the gods and the cere-
+generally known. The preparation for a war expedition is an invocation to the gods and the cere-
 monies during the journey are incantations for the
 development of magic power that shall not only
 render the party invincible but shall induce its magic
@@ -7708,13 +5697,7 @@ Fig. a. Sling.
 o Length, 17 cm.; width, 16 cm.
 
 
-RUSSELL]
-
-
 AKTI FACTS
-
-
-121
 
 
 handle of convenient size for grasping. The handle is slightly concave
@@ -7726,8 +5709,7 @@ of the disk. When not in use, it was carried by a sling strap that
 Fig. 45. o. Shield; b, reverse of shield.
 
 
-passed through two holes at the border 24 cm. apart. It is orna-
-mented by an ogee swastika in blue, red, and white.
+passed through two holes at the border 24 cm. apart. It is ornamented by an ogee swastika in blue, red, and white.
 
 There are also two models of Pima shields in the National Museum.
 One is a small painted disk of rawhide; the other is a hoop with
@@ -7735,24 +5717,13 @@ One is a small painted disk of rawhide; the other is a hoop with
 
 Fig. us, a , b. Models of shields.
 
-muslin stretched over it. The former, no. 76073 (fig. 46, 6), is orna-
-mented with a cross in white, blue, red, and yellow. The latter, no.
+muslin stretched over it. The former, no. 76073 (fig. 46, 6), is ornamented with a cross in white, blue, red, and yellow. The latter, no.
 76028 (fig. 46. a), is 225 mm. in diameter, or about one-third the full
 size. The design in red and yellow is also in the form of a cross.
 
 
-122
-
-
-THE PIMA INDIANS
-
-
-[ ETH. ANN. 28
-
-
 A similar shield decorated with swastika in red and white (fig. 47)
-was collected in 1887 by Mr F. W. Hodge, of the Hemenway Expedi-
-tion, and by him presented to the Free Museum of the University of
+was collected in 1887 by Mr F. W. Hodge, of the Hemenway Expedition, and by him presented to the Free Museum of the University of
 Pennsylvania.
 
 Sandals
@@ -7760,8 +5731,7 @@ Sandals
 Some protection for the feet was necessary when on journeys across
 the stony mesas and mountains that surround the Pima villages.
 
-Rawhide was the most widely used ma-
-terial and the sandal was the form of foot
+Rawhide was the most widely used material and the sandal was the form of foot
 gear. It was kept in place by a single
 thong, which passed through two holes in
 the front of the sandal, so as to go between
@@ -7769,8 +5739,7 @@ the first and second and the fourth and
 fifth toes, then backward obhquely across
 the foot, so that the two parts crossed each
 other over the instep, down through a hole
-in the end of a heel plate and aroimd be-
-hind the heel, where it was doubled back
+in the end of a heel plate and aroimd behind the heel, where it was doubled back
 and forth two or three times before passing
 through the hole in the opposite end of the
 heel plate, and so on forward again. The heel plate passes transversely
@@ -7792,8 +5761,7 @@ removing the hair. The two
 straps collected were the only
 ones seen. It is some years
 since they were last used for
-this purpose, and it is not sur-
-prising that most such straps
+this purpose, and it is not surprising that most such straps
 should have l>een employed
 for other needs (fiij. 49).
 
@@ -7812,12 +5780,6 @@ Tho ''rope.'' as it is universally known in the Southwest, is of rawhide
 BU88ELL.]
 
 
-ARTIFACTS
-
-
-123
-
-
 '1^^' -«r^ -*-
 
 
@@ -7828,54 +5790,29 @@ Fig. 49. Yoke straps.
 
 
 made in a 4-ply braid, rounded by poundin^:: when wet. The sHp
-
 nooso at the outer end is supplied with an ingenious loop made by
-
 folding a heavy piece of
-
 rawhide three or four
-
 times and bringing the
-
 ends together to form
-
 an oval ring. The end
-
 of the rope is passed
-
 through a longitudinal
-
 slit in one end of the ring
-
-and by a braided en-
-largement prevented
-
+and by a braided enlargement prevented
 from being pulled out
-
 again. A strip of rawhide
-
 about 1 cm. in width is
-
 rolled in the interior of
-
 the ring, and passing
-
 through a transverse
-
 cut close to one end it
-
 is continued around the
-
 outside, being itself slit
-
 where the rope enters
-
-the ring, and also pass-
-ing under two loops made by catching up the outer layer of hide
-
+the ring, and also passing under two loops made by catching up the outer layer of hide
 on the ring it then passes through a
-transverse slit in the outer and over-
-lapping end of the ring and is knotted.
+transverse slit in the outer and overlapping end of the ring and is knotted.
 It therefore passes twice around the
 ring and is the only means of uniting
 the ends of it. When hardened the
@@ -7887,8 +5824,7 @@ IIoRNKi) Toad Effic.y
 Among the most highly prized objects
 made of leather by the Pimas, found
 by the writer, was a life-sized elligy of a
-horned toad. It is of deerskin, orna-
-mented with white heads, ns shown in
+horned toad. It is of deerskin, ornamented with white heads, ns shown in
 figure 50, a. It was used in the cure
 of the toad disease by being passed
 over the alTected part. This act and
@@ -7899,12 +5835,6 @@ o Length of lariat, 13.93 in.; diameter, 9 mm. Length of loop ring, G cm.; width
 
 
 Fio.50,a. Horned toadelligy, of (liMfskin.
-
-
-124
-
-
-THE PIMA INDIANS
 
 
 [ETIi. ANN. 1!6
@@ -7921,31 +5851,23 @@ POTTERY
 not skillful potters. Their work is
 decidedly inferior to that of the
 Kwahadk's, whirh in turn appears
-to be improving as a result of a mod-
-em demand for it. It is probable
-that the best potters among the Pi-
-mas are of Kwahadk' descent, or have
+to be improving as a result of a modem demand for it. It is probable
+that the best potters among the Pimas are of Kwahadk' descent, or have
 learned the art from that tribe. A
 great part of the Pima ceramic ware
-is plain and undecorated. The cool-
-ing ollas in which water is kept about
+is plain and undecorated. The cooling ollas in which water is kept about
 
 ' their homes are the only vessels that
-are generally decorated. The pot-
-ters aver that the designs are copied
+are generally decorated. The potters aver that the designs are copied
 from the Hohokam potsherds that
-bestrew the mesas and that the sym-
-bolism is absolutely unknown to them.
+bestrew the mesas and that the symbolism is absolutely unknown to them.
 Furthermore, many of the smaller
 decorated pieces are traded from both
 the Kwahadk's and the Papagos, the
 latter bringing them filled with cactus
 
 The vessels here illustrated were made
-
-
 sirup to exchange for grain
-
 by Sala Hina (fig. 51), one of the best potters on the Gila
 
 
@@ -7957,26 +5879,20 @@ to heat is generally made
 from clay obtained among
 the Sk&s5wallk hills, which
 lie on the southern border
-of the Gila River reserva-
-tion. The material is a dry
+of the Gila River reservation. The material is a dry
 granular clay combined
 with quartz pebbles and
 feldspathic detritus. The
 place where it occurs looks
 much more like a stone
-
 quarry than like a clay pit ^^^ ,j g^^^ ,j,^^
 
 (pi. XVI, a). Indeed, a
-
-great part of the mass is sharp, angular stone, which must be win-
-nowed out by hand in the shallow baskets.
+great part of the mass is sharp, angular stone, which must be winnowed out by hand in the shallow baskets.
 
 
 99.90
 
-
-BUssELL] ARTIFACTS 125
 
 The process is well illustrated in plate xvi, 6."
 
@@ -7996,9 +5912,7 @@ The water coolers are usually made without this coating of ocher.
 
 Black gum is used for decoration. This is obtained by boiling in
 a small earthen pot, or in a segment of a large one, mesquite chips
-
-o Samples of this clay wore submitted toDoctor Wiley, Chief of the Bureau of Chemistry of the Depart-
-ment of Agriculture, who aacertained the percentage composition of the material to \>e as follows:
+o Samples of this clay wore submitted toDoctor Wiley, Chief of the Bureau of Chemistry of the Department of Agriculture, who aacertained the percentage composition of the material to \>e as follows:
 
 Percent Ferwnt
 
@@ -8015,7 +5929,6 @@ Lime, CaO 2. 35 I
 Magnesia, MgO 1. 44
 
 Alkalies, KjO and NaaO 5.81 ,
-
 lie also explains the general method of determination.
 
 For industrial purposes an attempt is made to separate the proximate constituents of a clay by
@@ -8071,8 +5984,6 @@ I
 ioa2i I
 
 
-126 THE PIMA INDIANS [bth.ann.26
-
 from portions of the tree on which black gum has dried into hard
 scales. After boiling, this dye is in the form of a very thin liquid
 which is so pale that it is scarcely distinguishable on the dark clay,
@@ -8101,16 +6012,13 @@ centimeters from the center (see pi. xvn, a, where the vessel shown
 in the potter's lap has just been taken from the olla over which it
 was molded). The new bottom is allowed to dry an hour in the
 sun before it is removed and the process of coiling begun. Dipping
-the fingers in water, the operator moistens the edges of the new ves-
-sel, which has dried enough to retain its shape. Then taking one of
+the fingers in water, the operator moistens the edges of the new vessel, which has dried enough to retain its shape. Then taking one of
 the prepared balls of clay she rapidly rolls it between the palms
 until it is lengthened into a cylinder about 20 cm. long, wliich is
 laid on the margin of the vessel and pinched into shape. One or
 perhaps two more rolls are laid on to complete the circuit and then
-the paddle is applied with the right hand in quick taps to the out-
-side while the circular stone is held on the inside with the left (pi.
-XVII, 6). The handle of the paddle is held downward so that the trans-
-verse concavity of the instrument is adapted to the horizontal con-
+the paddle is applied with the right hand in quick taps to the outside while the circular stone is held on the inside with the left (pi.
+XVII, 6). The handle of the paddle is held downward so that the transverse concavity of the instrument is adapted to the horizontal con-
 vexity of the growing vessel, which is held in the lap and the coils
 applied only so fast as they dry sufficiently to cause it to hold its
 shape. For this reason it is customary for a potter to model three
@@ -8119,10 +6027,6 @@ for the last layer to dry. As each coil is finished it is placed where
 the sun can shine upon it and the work progresses much faster than it
 could in a less arid climate. As soon as the vessel has been l)uilt up
 a little way so there is room for the paddle to be used above the plane
-
-
-nrssELL] ARTIFACTS 127
-
 of the bottom it is placed on the ground and a little loose soil is
 drawn up to serve as a support and in this it is turned slowly with
 the hands as required (pi. xvii, c). As the lower coils become dry
@@ -8170,22 +6074,11 @@ in decoration.^
 Ollas with angular profile are not uncommon (fig. 55).
 
 Cooking pots (pi. xviii, a) are more numerous than the water
-
-
 a The larger specimen (fig. 58. 6) coUeotod is 0,387 m. high, 0.275 in. in diam«'tor at the top, and l.lfil m.
 in its maximum eimimforence. The decoration is derived from the llohokam pottery of theCasa
 Blanca district.
 
 f> Height, O.aaO m.: diameter at top, 0.175 m.; maximum cinrimiference. O.JJiV) m.
-
-
-128
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 coolers. Every kitchen contains several; some of them broken in
@@ -8202,7 +6095,6 @@ They form a distinct type unlike any other aboriginal ware known to
 the \vTiter.^
 
 Canteens were formerly made of pottery^, but they have been
-
 oThc sjKX'iTnon shown in pi. xviii, a. is 0.285 m. high, 0.255 m. in diameter at the top. 0.950 m. in
 maximum circuinfcri'nce.
 
@@ -8213,15 +6105,8 @@ ftPl.xvin.fe. reprTson!8 0Tirof t heso vessels, which Is 0.159 m. high, 0.195 m.
 BUSSELL]
 
 
-ARTIFACTS
-
-
-129
-
-
 superseded by the cheap and scarcely less fragile metal ones of
-American manufacture. They were globular in form, and not pro-
-vided with projections or loops for the attachment of straps. In
+American manufacture. They were globular in form, and not provided with projections or loops for the attachment of straps. In
 fact, they were intended to be carried in the w^oman^s ki&h^; men on
 the warpath or traveling far from water must learn to endure thirst,
 but the women when compelled to go far for wood or cactus fruit were
@@ -8250,8 +6135,7 @@ with geometric designs to which no meaning can be ascribed by their
 makers.^
 
 
-o There are three specimens in the collection. PI. xviii, c is 0.195 m. high, O.GOO in. in circiiaifer-
-enco, with an oixmlng ut the top 31 nun. in diameter. PI. xviii. d is 0,135 m. high, O.Sii.') m. in cireum-
+o There are three specimens in the collection. PI. xviii, c is 0.195 m. high, O.GOO in. in circiiaiferenco, with an oixmlng ut the top 31 nun. in diameter. PI. xviii. d is 0,135 m. high, O.Sii.') m. in cireum-
 ferenee. and has an opening 29 nun. in diameter. PI. xviii. e is a douhie-neeked canteen.
 
 i Represents a pan that is 0.445 m. long, 0.354 m. wide, 0.117 m. high.
@@ -8264,12 +6148,6 @@ mm. high and 84 mm. in diameter.
 26 ETU— 08 11
 
 
-130
-
-
-THE PIMA INDIANS
-
-
 [BTH. ANN. 26
 
 
@@ -8278,27 +6156,18 @@ the hillK.
 
 
 Plates (pi. XIX, Cj f) are now obtained from the Kwahadk's, but it is
-
 doubtful if the latter made them before the advent of the whites.
 
 They are polished and decorated in a manner similar to the cups. ^
 
 Fanciful figures of a variety of shapes are made by the Kwahadk's in
-
 imitation of American crockery, and the like,
-
 and are traded to the Pimas, who sometimes
-
 sell to gratify the desires of tourists for
-
 souvenirs, the seller being as ignorant of the
-
 fact that the buyer wishes to get specimens
-
 of Pima handiwork as the latter is of the fact
-
 that the ware is packed on the heads of
-
 women from the villages of another tKbe 30
 
 to 50 miles to the southward.
@@ -8310,13 +6179,11 @@ characteristic- polish and the decoration of
 Kwahadk' ware. They are of interest because they show the Pima
 method of treatment of the human figure in clay modeling, and also
 the manner in which the face was painted. The larger effigy'' has
-light brown lines on the body, both front and back, which repre-
-sent a necklace, belt,
+light brown lines on the body, both front and back, which represent a necklace, belt,
 skirt (perhaps), and
 what would seem to be
 the V-shaped opening
-at the neck of an up-
-per garment. The face
+at the neck of an upper garment. The face
 is painted in vertical
 stripes of red and blue,
 as was the custom with
@@ -8348,15 +6215,8 @@ e Height, 20 cm.
 kusskll]
 
 
-ARTIFACTS
-
-
-131
-
-
 purpose, so far as the writer is aware. The collection contains one
-very old spoon of Pima manufacture," which is practically an elon-
-gated bowl (pi. XX, a). Another specimen^ was made for us to illus-
+very old spoon of Pima manufacture," which is practically an elongated bowl (pi. XX, a). Another specimen^ was made for us to illus-
 trete the t>'pe, which, though rare, is well recognized (pi. xx, b). The
 collection contains also a bowl (pi. xx,c), two coiled bowls (pi. xx,(f),
 and two decorated bowls (pi. xx, e).
@@ -8369,8 +6229,7 @@ by stock, however extreme may be their hunger.
 BASKETRY
 
 The art of basket making is practised in nearly every Pima home.
-The more skillful basket makers produce wares that are useful, dur-
-able, and handsome.
+The more skillful basket makers produce wares that are useful, durable, and handsome.
 The work, which is
 done by the women,
 requires much time and
@@ -8381,8 +6240,7 @@ been taken from them,
 some women have been
 induced to begin the
 manufacture of baskets
-without having re-
-ceived the necessary
+without having received the necessary
 training in girlhood and
 without any prido in
 the finished product, as
@@ -8410,12 +6268,6 @@ a Length, HS mm.: width. 74 mm.: dopth, 25 mm.
 6 Length, I'M mm.: width, 25 mm.: depth, CO mm.
 
 
-132
-
-
-THE PIMA INDIANS
-
-
 fKTH. AXX. 26
 
 
@@ -8423,8 +6275,6 @@ length. The bark is removed by catching it at the middle of the
 twig in the teeth and raising it far enough to insert the thumbs of
 both hands between the bark and the wood, and then running the
 thumbs outward to the ends of the twig. Two such movements
-
-
 a b e
 
 FiQ. 57. a, Willow splints; b, nutrtynia; e, cottonwood.
@@ -8441,15 +6291,6 @@ strips may bo as even as possible. These strips arc kept in coils,
 which are from 10 to 15 cm. in diameter (fig. 57, a). Willow bark is
 also used in basketry, both alone (cradle shields) and in conjunction
 with other materials (grain baskets).
-
-
-RUSSELL]
-
-
-ARTIFACTS
-
-
-133
 
 
 The stems of the cat-tail, Typha angustifoHa Linn., are used as
@@ -8503,27 +6344,19 @@ They are valued somewhat more highly than the willow splints, and
 Flo. 59. Mart>Tiia pod.
 
 
-134
-
-
-THE PIMA INDIANS
-
-
 [ETU. ANN. 2Q
 
 
 hence a higher price is sometimes demanded for baskets in which a
 large amount of devil's claw is used.
 
-Loaves of the agave are sometimes used, but baskets of this mate-
-rial are obtained chiefly from the Papagos. Wood from the slender
+Loaves of the agave are sometimes used, but baskets of this material are obtained chiefly from the Papagos. Wood from the slender
 branches of cottonwood is sometimes used to take the place of willow,
 but it is less durable and soon becomes yellow. It is prepared in
 the same manner and kept in the same sort of coils as the willow
 (fig. 57, c).
 
-Wheat straw is extensively used in the manufacture of the jar-
-shaped grain baskets. It is of modem introduction, and has not fully
+Wheat straw is extensively used in the manufacture of the jarshaped grain baskets. It is of modem introduction, and has not fully
 supplanted the ancient style of grain bin.
 
 
@@ -8544,8 +6377,6 @@ Plate XXI, c illustrates the crucifixion thorn, Holocantha (^inoryi,
 surrounded by saltbushos.
 
 
-BrssKLL] ARTIFACTS 135
-
 Implements
 
 The only implements used in the manufacture of the conmion
@@ -8558,8 +6389,7 @@ Method
 
 The ordinary baskets are made by the process known as coiling.
 The center is of devil's claw^, wliich is generally started as a coil, but is
-sometimes made by the process called checker weaving for a few cen-
-timeters before beginning the coil. The half stalks of the cat-tail are
+sometimes made by the process called checker weaving for a few centimeters before beginning the coil. The half stalks of the cat-tail are
 again split before being used and about a dozen of these splints are
 taken to form a foundation. The other two materials, willow and
 deviFs-claw splints, are kept in water at the time of use to render
@@ -8595,12 +6425,7 @@ The designs upon these old-style baskets are often very pleasing
 and even remarkably good. When (questioned as to the meaning of
 the elements of these patteirns, the basket makers invariably replied:
 ** I don't know; the old women make them in tliis way. They copied
-
-
-136 THE PIMA INDIANS [eth. ann. 26
-
-the patterns long ago from the Hohokam pottery." While these state-
-ments are true in the main, some of the elements will be seen to be of
+the patterns long ago from the Hohokam pottery." While these statements are true in the main, some of the elements will be seen to be of
 wide distribution and some are peculiar to the Pacific coast. There
 are three common designs: Those embodying the fret, the equal-anned
 cross, and the spiral. Nearly all that do not represent these directly
@@ -8616,19 +6441,16 @@ side. The elements of the design are, first, a series of four radiating
 arms of black separating the petal-like areas which are usually in
 the shape of spherical triangles. The second element is a series of
 encircling lines that lie parallel to the radiating bars and follow their
-outline entirely around the basket, having also rectangular enlarge-
-ments where they change direction to cross the ends of the bars or to
+outline entirely around the basket, having also rectangular enlargements where they change direction to cross the ends of the bars or to
 follow along their sides. It is just such a design as might easily
 originate in pottery decoration where a complete line may be traced
 continuously, but it is not one that can be easily explained if it is
-assumed that it originated in basketry, especially when it is remem-
-bered that these people prepare no pattern whatever beforehand, but
+assumed that it originated in basketry, especially when it is remembered that these people prepare no pattern whatever beforehand, but
 develop the designs upon the baskets as previously conceived in the
 mind.
 
 The volute, or whorl, is a common motive in primitive art, and is
-especially frequent in Southwestern basketry. As the angular weav-
-ing necessitates irregularities in the lines of curvature, they are not
+especially frequent in Southwestern basketry. As the angular weaving necessitates irregularities in the lines of curvature, they are not
 infrequently modified by terrace-Uke enlargements. Terraces are used
 in combination with nearly all the other elements known to the basket
 maker.
@@ -8670,24 +6492,20 @@ center, elsewhere invariably a solid disk of black. It looks as if the
 maker had changed the design after starting the six rather irregular
 bars of black from the center. In c the six radiating lines advance
 toward the periphery by the interpolation of an indei)endent motive
-that will be seen later in upright shapes. Baskets d and e are orna-
-mented with five pairs of whorled lines that contain squares of black,
+that will be seen later in upright shapes. Baskets d and e are ornamented with five pairs of whorled lines that contain squares of black,
 which may also be regarded as an independent motive. In / the
 number 5 again reappears and also the simple motive of c, but this
 time in white on a black ground. This is called by some the ** coyote
 track.'' It is well shown in plates xxix and xxx.
 
 Plate XXIV, a, illustrates a combination of the broken whorled
-lines of the preceding plate with a pattern obtained by the chil-
-dren at school in an earl}^ stage of their instruction in drawing. At
+lines of the preceding plate with a pattern obtained by the children at school in an earl}^ stage of their instruction in drawing. At
 the margin is the diamond pattern that has the effect of netting.
 In 6, although the lines do not radiate from the center, they have
 something of the whorled effect, and they unite with the fret of the
-preceding illustrations a new element — the terrace — which is so com-
-mon on the ancient pottery of Arizona. The parts are in five, there
+preceding illustrations a new element — the terrace — which is so common on the ancient pottery of Arizona. The parts are in five, there
 being two reduplications of the unit in the outer row to one m the
-inner. In c the parts are again in six. The central portion is diffi-
-cult to analyze, but the outer repeats the terrace, together with a fret
+inner. In c the parts are again in six. The central portion is difficult to analyze, but the outer repeats the terrace, together with a fret
 that by its l)readth of line at the center suggests the form of the
 cross known as the swa^stika. Basket d has the fret combined with
 the terrace, being similar to the first basket in the last figure. The
@@ -8701,9 +6519,6 @@ the limbs of some giant spider. They will be seen to be nearly the reverse
 of the white arms of the design in basket c. Basket d represents a
 
 
-138
-
-
 THE VTMA INDIANS
 
 
@@ -8714,11 +6529,9 @@ Fio. 61. Basket with scroll decoration.
 
 
 variant that was seen in a few shallow baskets and which occasionally
-appears in the upright forms, as in plate xxx, ;. It resembles a gigan-
-tic pictograph upon an ancient altar near Sacaton, the largest picto-
+appears in the upright forms, as in plate xxx, ;. It resembles a gigantic pictograph upon an ancient altar near Sacaton, the largest picto-
 graph the writer has seen in Arizona. Baskets e and/, and also a, h,
 and c, plate xxvi, contain designs that are perhaps the most abundant
-
 to be f oimd in Pima basketry. The
 patterns are whorled frets with many
 modifications. The decorative effect
@@ -8726,38 +6539,31 @@ is enhanced by the addition of the
 triangular element, to which the same
 name, mo^ilmvltcka, ** triangle," is
 applied as to the terrace. It is seen
-to be an independent element com-
-pleted by an extended hook. In
+to be an independent element completed by an extended hook. In
 plate XXVI, a, c, the triangle at the
 margin is relieved with white, but in h
 it appears in its more common form.
 In plate xxv, /, the mode of origin
-of the triangle is seen in the termi-
-nal enlargement of a segment of the terrace. The triangle gives color
+of the triangle is seen in the terminal enlargement of a segment of the terrace. The triangle gives color
 balance to the whole, as in 6, and also fills space due to the elements
 of the main figure being carried as a whole nearly straight to form
 an equal-armed figure on a spherical surface. These designs are
 usually in fours, though sometimes in threes and fives. Figure 61
 includes two designs with dissimilar elements which adapt equally
-well rectangular designs to a hemi-
-spherical surface. The design, while
+well rectangular designs to a hemispherical surface. The design, while
 clumsily made and unsymmetrical,
-is yet pleasing by the at least par-
-tial harmony of design and form.
+is yet pleasing by the at least partial harmony of design and form.
 The motive in tliis design will be
-recognized by students of CaUfor-
-nian basketry. The basket shown
+recognized by students of CaUfornian basketry. The basket shown
 in figure 62 is a rarely beautiful one,
 having simplicity of design pleasing
 by its rhythm or repetition and colors
 well proportioned.
 
-Plate XXVII contains several exam-
-ples of good baskets. The second
+Plate XXVII contains several examples of good baskets. The second
 has many triangles, those along the margin suggesting a mode of
 origin of what is known as the ''top-knot" design. The outer band
-on this basket has tlu^ appearance of having been added as an after-
-thought, but such was not the case, as the device is not unconunon
+on this basket has tlu^ appearance of having been added as an afterthought, but such was not the case, as the device is not unconunon
 and occurs in the unusually fine basket shown in c. The latter is the
 
 
@@ -8766,8 +6572,7 @@ Fio. 62. Kaskot with scroll-feot d<«oratlon.
 
 BUSSELLJ ARTIFACTS 139
 
-largest basket in the collection, yet it is so well proportioned, not-
-withstanding the reduction of the number of repetitions to three, that
+largest basket in the collection, yet it is so well proportioned, notwithstanding the reduction of the number of repetitions to three, that
 an artistic design is produced. The warp coils grow successively
 narrower from the center, thus making the walls thin and flexible.
 Figures d and e contain modifications of the ecjual-armed cross, with
@@ -8776,11 +6581,9 @@ of the triangle. These two baskets are examples of one of the oldest
 designs. It is also seen in the upright basket, plate xxxii, c. The
 white in /suggests the rattlesnake rattle design.
 
-Plate XXVIII introduces a new design which the Pimas call si'sitcut-
-ci'flfk, 'Wery much figured '' or '^complicated.'' Analysis shows c and
+Plate XXVIII introduces a new design which the Pimas call si'sitcutci'flfk, 'Wery much figured '' or '^complicated.'' Analysis shows c and
 d to be much simpler than they appear at first sight. The elements
-in d are an equal-armed cross and parallel lines around it, with enlarge-
-ments wherever they change direction. The effect of the whole is
+in d are an equal-armed cross and parallel lines around it, with enlargements wherever they change direction. The effect of the whole is
 suggestive of a flower wdth four petals. In a the petals appear largely
 in white. This flower design is said to be of recent origin. Sala
 Hina, who is perhaps 70 years of age, declares that it was unknown
@@ -8821,12 +6624,6 @@ meaning of which is absolutely unknown to them.
 5. Mo'timvltcka, '*triangidar," all triangles and terraces.
 
 
-140
-
-
-THE PIMA INDIANS
-
-
 fETH. AXX. 2(5
 
 
@@ -8860,28 +6657,14 @@ KlAHA
 In the Golden Age of Pimeria all burdens were borne by the women,
 either upon their heads with the aid of the head ring or upon their
 ' backs with the unique contrivance which they call ki&ht, (fig. 63),
-a name that it may be well to retain for the purpose of precise descrip-
-tion, as the term "carrying basket" suggests the conical receptacle
+a name that it may be well to retain for the purpose of precise description, as the term "carrying basket" suggests the conical receptacle
 of other tribes, which is an entirely different affair. The ki&hA,
 thougli un>yieldy in appearance, is yery light and strong, and heavy
-loads of wood and other bulky articles may be piled upon the frame-
-work, as may be seen in the series of pictures (pi. xxxiv a, 6, c, d),
+loads of wood and other bulky articles may be piled upon the framework, as may be seen in the series of pictures (pi. xxxiv a, 6, c, d),
 which illustrate the manner in which the kikhk is loaded wliile sot
 on the ground with the two long front frariie sticks and a separate
 helping stick (fig. 64), forming a tripod. After loading the kialul,
-the old dame is seen in h rising to lier feet witli tlie aid of tlie lielp-
-ing stick. Had she had to carry a l)ab\^ in its cradle she would have
-
-
-RUSSELL]
-
-
-ARTIFACTS
-
-
-141
-
-
+the old dame is seen in h rising to lier feet witli tlie aid of tlie lielping stick. Had she had to carry a l)ab\^ in its cradle she would have
 placed it in a horizontal position on the top of the heap of mesquite
 wood; as it was, her load weighed nearly 100 pounds, yet she knelt
 down, engaged her head under the canying strap, and struggled to
@@ -8902,8 +6685,7 @@ become inured to the fatigue of long journeys, and they
 learn to preserve their kiAh&s with care from rain. The
 maiden must have long and gaily-spotted frame sticks
 at the front of her ki&h&, which are wound with long
-hair cords. She uses a helping stick that is orna-
-mented with a long deerskin fringe pendent from the
+hair cords. She uses a helping stick that is ornamented with a long deerskin fringe pendent from the
 binding at the crotched end (fig. 64). As she walks
 along with the sharpened end of the stick thrust into
 the load the fringe hangs above and fon^^ard of her
@@ -8913,8 +6695,7 @@ surprising that it should have caught the attention of
 every passing traveler, whose illustrations of it are
 uniformly bad.**
 
-As the age of the owner advances she becomes care-
-less of the appearance of her ki&h&, the spots on the
+As the age of the owner advances she becomes careless of the appearance of her ki&h&, the spots on the
 frame are less frequently renewed, the cordage grows
 short and worn, and tlie foresticks of the frame are cut
 down in length. However, her burdens do not diminish,
@@ -8924,8 +6705,7 @@ pounds at a load.
 
 The kiulu\ is of entirely different materials from the ordinary Pima
 baskets. Wood is used for the four frame sticks, two at the front
-and two at the rear. Saguaro ribs arc invariabh' used for the pur-
-pose, as they are very light, symmetrical, straight, and sufficiently
+and two at the rear. Saguaro ribs arc invariabh' used for the purpose, as they are very light, symmetrical, straight, and sufficiently
 strong. The hoop is a double band of willow.
 
 o"They are highly prized by their owners, as they are very useful to them, and are nmde with
@@ -8935,15 +6715,6 @@ Bartlett, Personal Narrative, ii, 236.
 
 Fig. 04. Uolping
 stick.
-
-
-142
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. -0
 
 
 Agave leaf serves for the front matting or apron that rests against
@@ -8958,8 +6729,7 @@ drawing the hoop as high as possible to tighten the net, wound from
 10 to 50 times around the frame sticks.
 
 The maguey, Tasylirioni wheeleri, furnishes the fiber for the net
-(fig. 38). Yucca elata is also a valuable fiber plant and it is prob-
-able that the Papagos obtain netting material from Agave hetera-
+(fig. 38). Yucca elata is also a valuable fiber plant and it is probable that the Papagos obtain netting material from Agave hetera-
 cantha. The first twox)f these plants are foimd on the higher hills
 
 
@@ -8977,20 +6747,10 @@ in diameter will be sufficient for a ki&htl net. Such a roll of fiber is
 easily transported, and is a recogiiized article for barter between
 Pimas and Papagos. The spinning of ki&h& thread is a social event,
 and the women gather for the purpose and gossip merrily as they
-twist the 2-piy twine, which is rolled into balls that may also be bar-
+twist the 2-piy twine, which is rolled into balls that may also be barbukskll]
 
 
-bukskll]
-
-
-ARTIFACTS
-
-
-148
-
-
-tered or kept for some time before being made into the nets of con-
-ventional pattern (fig. 63)."
+tered or kept for some time before being made into the nets of conventional pattern (fig. 63)."
 
 After the net has been bound to the hoop by a spirally wound cord
 that completely covers the latter, it is colored with red and blue dyes
@@ -9027,15 +6787,6 @@ dlamo*er at the butt. The shorter sticks are 70 cm. long. The hoop is 65 cm. in 
 is 58 cm. long by 28 cm. wide. The heiidband is 35 cm. long and 8 cm. wide. The accompan>ing
 helping stick is 1.90 m. long and 22 mm. in diameter; the notch is 6 cm. long and 35 cm. wide at thio
 opening.
-
-
-144
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 The former type is furnished with a bottom of willow branches.
@@ -9079,9 +6830,6 @@ BDSSBLL]
 ABTIFACTS
 
 
-145
-
-
 Minor Types
 
 Rectangular trinket baskets (fig. 68, a) are made of agave leaves,
@@ -9096,8 +6844,7 @@ in description — they are exactly
 like the weft) are cut and the
 ends show on the inside of the
 lid. The weft is continued to
-the margin, turned back on it-
-self at right angles to form what
+the margin, turned back on itself at right angles to form what
 looks like a separate ring aroimd
 the lid; at a height of 5 or 6 cm.
 it is again folded in and the ends
@@ -9119,7 +6866,6 @@ FiQ. 68. b. Medicine basket.
 
 Food bowls of remarkably fine workmansliip and graceful shape
 were carried by warriors on the warpath. They were used to mix
-
 o The collection contuins a 8j)ecimcn of average sir.e, which measures 19 cm. in height, 17 by 18 cm. at
 the base, and 10 cm. squ&re at the top.
 
@@ -9127,15 +6873,6 @@ t> The collection contains one very old medicine basket which is 29 cm. long, 10
 deep.
 
 26 ETH— 08 12
-
-
-146
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 pinole in and also served as drinking cups. They were light and
@@ -9155,17 +6892,13 @@ are supposed to have been adopted from the Papagos (see p. 113).
 Fio. 70. Slooplng mat.
 
 
-Oviil sieves were made of willow rods, and wore vctv us(»ful in chMin-
-nig seeds, and in separating juice from pulp in a variety of plants
+Oviil sieves were made of willow rods, and wore vctv us(»ful in chMinnig seeds, and in separating juice from pulp in a variety of plants
 
 
 RUR8ELL]
 
 
 AKTIFACTS
-
-
-147
 
 
 (fig. 69, a). They have been supplanted by a wire sieve ° made by
@@ -9189,8 +6922,7 @@ beneath the baby's head
 The convexity of the rolls
 prevents the hood from
 slipping past the bar and
-the weight upon them in-
-sures stability, while at
+the weight upon them insures stability, while at
 the same iiir^e the hood
 may be readily detached.
 
@@ -9208,7 +6940,6 @@ They are woven in a diagonal pattern, each splint passing under
 three others before appearing again, and the wrong side being rough.*^
 The splints are softened by soaking at the time of weaving and
 become somewliat stifl' when dried. The warp and woof are alike,
-
 a Twenty-six cm. in <iijinii'ter at the top and 22 at the bottom. Then' an- 7 cdils in the rim, making
 it 4 cm. deep.
 
@@ -9243,17 +6974,14 @@ about 15 cm.
 textiles
 Spinning
 
-The Pimas no longer spin and weave ; the art is dying with the pass-
-ing of the older generation. It was with difficulty that enough raw
+The Pimas no longer spin and weave ; the art is dying with the passing of the older generation. It was with difficulty that enough raw
 
 
 Fio. 72. Model of loom
-
 cotton of Pima raising was secured to make the beginning of a piece
 of cloth on the small model loom shown in figure 72. This loom was
 made by the writer's old friend Kft'mftl tk&k, who, though an adept in
-weaving, could not spin and had to engage a woman to do that por-
-tion of the work. She removed the seeds by first spreading out the
+weaving, could not spin and had to engage a woman to do that portion of the work. She removed the seeds by first spreading out the
 cotton and beating it with a switch.
 
 K^'m&l tk&k succeeded in finishing the spinning (see spindle, fig.
@@ -9268,12 +6996,6 @@ dry]. I ler left leg was tucked under her seat and her foot turned sole upwards.
 KU88ELL]
 
 
-ARTIFACTS
-
-
-149
-
-
 Fortunately, Doctor Palmer obtained in 1885 a complete loom with
 sample balls of cotton thread (fig. 74) from the Pimas. The warp is
 smoothly and evenly spun into a thread about 1 nmi. in diameter.
@@ -9281,33 +7003,27 @@ The woof threads are softer and are about 3 nun. in diameter; the ball
 (Museum no. 76012) is 61 cm. in circumference.
 
 Sinew from the back and legs of deer was made into
-thread and was used in tying cradle bars, shield han-
-dles, arrows, ki&hil frames, and even tattooing needles.
+thread and was used in tying cradle bars, shield handles, arrows, ki&hil frames, and even tattooing needles.
 
 An unidentified species of grass, called &'kivlk by
 the Pimas, is said to have been spun into thread in
 ancient times. According to the myth, it supplied
-the son of Com Woman with material for his bow-
-string. When there is sufficient rain, this grass
+the son of Com Woman with material for his bowstring. When there is sufficient rain, this grass
 grows on the Mo'hatdk hills, north of Gila Crossing.
 
 Weaving
 
 The art of weaving was not highly developed
-among the Pimas, yet the few simple fabrics of cot-
-ton which they produced sufficed to satisfy their
+among the Pimas, yet the few simple fabrics of cotton which they produced sufficed to satisfy their
 needs for clothing and adornment." Unlike their
 neighbors, they have all but abandoned the art of
-weaving; at no time in their history have they ad-
-vanced as far as the Pueblo tribes. Where they
+weaving; at no time in their history have they advanced as far as the Pueblo tribes. Where they
 learned the art or if they developed it themselves we
 may not know. We can only hazard the guess that
 they had the ingenuity to imitate the fabrics which
-the Hohokam left behind or which the Pimas actu-
-ally saw them using.
+the Hohokam left behind or which the Pimas actually saw them using.
 
 Early accounts of the Pimas ^ contain references to their fields of
-
 the next was a spindle about 18 inches long, with a single fly of four or six inches. Ever and anon she
 gave it a twist in a dexterous manner, and at its end was drawn a coarse cotton thread." (Notes, 85.)
 
@@ -9330,22 +7046,14 @@ bartering corn. l)0«ns, and other produce, or horses at the rate of one horse f
 b Bartlett (lo8cri]>es the rima method of weaving as follows: " In weaving, the wan> i.s attached to two
 sticks, an<l strotehed upon the ground by means of stakes. Kach alternate thn»ad of the warp is passed
 round a pietn^ of cane, whieh. being lifted, opens a passage for the shuttle in the manner of a sley. The
-operator sits in the fashion of a tailor, and, raising the sley with one hand, with the other passes the shut-
-tle, which is simply a pointed stick ^^ith the thread wound upon it, iK'twiHjn the threads of the warp.
+operator sits in the fashion of a tailor, and, raising the sley with one hand, with the other passes the shuttle, which is simply a pointed stick ^^ith the thread wound upon it, iK'twiHjn the threads of the warp.
 The work is l>eaten up after the passage of each thread by the use of a sharp smooth-i'dged instrument
 made of hard wood. The operation of course progresses slowly, and from the length of time consumed
 In spinning and weaWng they set a high i)rice upon th<'ir blankets, asking for them ten or twelve dollars
-in money, or a new woolen blanket of (K|ual size. The weaving is generally done by the old men." (Per-
-sonal Narrative, ii, 225.)
+in money, or a new woolen blanket of (K|ual size. The weaving is generally done by the old men." (Personal Narrative, ii, 225.)
 
 
 Fig. 73. Spindle.
-
-
-150
-
-
-THE PIMA INDIANS
 
 
 [ ETH. AXX. 20
@@ -9372,9 +7080,6 @@ native cotton, but very little information is obtainable concerning the
 
 
 ^
-
-
-1
 
 
 i0^
@@ -9415,9 +7120,7 @@ piece.
 
 Implements and methods. The loom was simpler than that used by
 the surrounding tribes and was spread horizontally instead of being
-set upright. Four stakes were first driven firmly in the ground out-
-
-alt Is of interest to note that this division of labor differs from that of the Hopis and the Ziiflis.
+set upright. Four stakes were first driven firmly in the ground outalt Is of interest to note that this division of labor differs from that of the Hopis and the Ziiflis.
 b A siiinple of the mineral used was found upon analysis to contain 30.52 per cent ferric oxide.
 
 
@@ -9443,8 +7146,7 @@ had been slipped through the open shed from the right under each
 lower warp thread and pushing the rod through the loop from the left.
 
 The weaver sat upon his haunches on the ground or on the cloth
-when it was finished too far for him to reach from the end. He low-
-ered the lease rod beyond the lieddle and gathered the upper threads
+when it was finished too far for him to reach from the end. He lowered the lease rod beyond the lieddle and gathered the upper threads
 in front of the heddle on a slender sharpened rod, which enabled him
 to lift them high enough to pass the shuttle through. The shuttle was
 an arrowwood stick to one end of which the weft thread was tied and
@@ -9467,15 +7169,8 @@ grooves separated by a distance equal to the width of the cloth. In
 each groove was placed a section of willow or arrowwood stem an inch
 in length, bound with a heavy thread around the stretcher. The outer
 end of the short stick was sharpened so that it might be pushed
-
 a length of the si)wimen coUoctod. 11 cm. It is shown in fig. 72 at tho nutrgin of the finished cloth,
 where it was pushed under a few threads to hold it in position for photographing.
-
-
-152
-
-
-THE PIMA INDIANS
 
 
 [ ETII. ANN. 26
@@ -9532,17 +7227,10 @@ mm
 
 
 Sp
-
-
 m
 
 
 IMi
-
-
-1
-
-
 fM^
 
 
@@ -9550,22 +7238,17 @@ L* «
 
 
 Wsf
-
-
 a b
 
 Fio. 75. a, Old belt headband; 5, new beJt headband. ,
 
 
 The
-
-
 to order and is of a much simpler design and style of weaving,
 colors are black, white, and red.
 
 There are two belts or headbauds in the National Museum that
 were collected by Bartlett in 1850. One of these, no. 1789.11, is a
-
 a Doctor Palmer collected a Pima loom in 1885, which is now in the National Museum, no. 76006. The
 beams are of cactus wood, 1.410 m. long, 6cm. in diameter. The heddle Is of arrowwood, the same length
 as the beams, and is 8 mm. in diameter. The blanket, which is about half finished, is 57 cm. wide and
@@ -9578,8 +7261,6 @@ b Length, 1.000 m.; width, (io nun.
 
 e 1/cngth, 2.270 m.; width, 57 mm.
 
-
-RUSSELL] ARTIFACTS 153
 
 fine specimen of double weaving." It is of tightly twisted cotton
 thread in dark blue, red, yellow, and whit^. The fringe threads are
@@ -9595,8 +7276,7 @@ compensatory improvement in other directions.^
 ARCHITECTLTRE
 
 In their natural state the Pimas built dwellings of four different
-ty^pes besides a storehouse. First in importance is the round, flat-
-roofed ki, which resembles an overturned wash basin in shape.
+ty^pes besides a storehouse. First in importance is the round, flatroofed ki, which resembles an overturned wash basin in shape.
 Notwithstanding the fact that some have declared that the Piman
 ki' suggests the pueblo style of architecture and should therefore be
 admitted as evidence of relationship between the Ilohokam and
@@ -9607,61 +7287,46 @@ distant from Pimeria. The ki is built by the men, who gather in
 parties of ten or fifteen for the purpose — a custom which affords
 another instance of a different division of labor from that in vogue
 among the Pueblos, as with them the house building is the work of
-women/ Though the Pimas have had an example of pueblo struc-
-ture at their very doors ever since they have inhabited the Gila
+women/ Though the Pimas have had an example of pueblo structure at their very doors ever since they have inhabited the Gila
 valley, in the nol)le Casa Grande, the walls of which yet rise 30 feet
 above the plain, and have seen the adobe buildings of the Spaniards
 and Mexicans for three hundred and fifty years, nevertheless they
 have continued to construct houses of the simplest type that are but
 little better than temporary shelters. The first Piman adobe house
 was built by the head chief, Antonio Azul, twenty-two years ago,
-and since that time the people have made very commendable prog-
-ress. Some villages — such, for example, as Blackwater — now contain
+and since that time the people have made very commendable progress. Some villages — such, for example, as Blackwater — now contain
 few dwellings that are not of adobe. However, there are others,
 such as SkA'kalk, that retain the old-time ki. As an inducement
 toward progress, the Indian Department or its authorized agent has
 stipulated that a man must cut off his long hair and build an adobe
 house before he may receive a wagon from the Government. The
-
 n length, 2 in.; width, ♦icm.; length of fringe, 15 cm.
 
 ft Length, 2.(KJ m.: width, «m mm. The fringe is 20 cm. in length and neatly braided.
 
 c Frobel, who viMited the Pimas half a century ago, says of their weaving. ■ Man w Qrdc sich al)erirren
 wenn man giaubtc. dass diese KUnste durt'h die Bekchnmg zum Christenthum ])ofordert worden seien.
-Im Gegentheilo sind sie <ladurch in V'crfjill gerathen. dcnn bei den heidnifK'hen Pimas findet uian dle-
-selben in eincm hoheren (Jrade vou Vollkommenhelt." Aiis Amerika. li, 440.
+Im Gegentheilo sind sie <ladurch in V'crfjill gerathen. dcnn bei den heidnifK'hen Pimas findet uian dleselben in eincm hoheren (Jrade vou Vollkommenhelt." Aiis Amerika. li, 440.
 
 <*lt is worthy of note that the southern California Coahuilla [Kawia] similarly differ from other
-American Indians. In that tribe, also, the houses (jacals) aro built by the men. See D. P. Bar-
-rows in American Anthropologist, n. s., 1901, iii, 71)5.
-
-
-154
-
-
-THE PIMA INDIANS
+American Indians. In that tribe, also, the houses (jacals) aro built by the men. See D. P. Barrows in American Anthropologist, n. s., 1901, iii, 71)5.
 
 
 fETH. A XX. liO
 
 
 old custom of destroying the buildings at the death of their owners
-has practically disappeared, but its retarding influence upon archi-
-tectural development continued throughout the aboriginal period.
+has practically disappeared, but its retarding influence upon architectural development continued throughout the aboriginal period.
 
-Usually but one family occupies a single dwelling, though some-
-times two and even three related families live together. If there
+Usually but one family occupies a single dwelling, though sometimes two and even three related families live together. If there
 are two, their sleeping mats are plac^ on each side of the entrance,
 so that in sleeping the heads may be toward the east, the door being
 on that side in order that tlie inmates may rise early to greet the
-Day god as he appears over the distant summits of the Sierra Tor-
-tilla. A more practical motive for placing the doors on the east
+Day god as he appears over the distant summits of the Sierra Tortilla. A more practical motive for placing the doors on the east
 side is to avoid the southwest winds which blow in the afternoon
 during nearly the entire year and which are especially strong during
 the month of March. The wind usually begins to blow at about 10
-in the morning and increases to a velocity of 10 miles an hour by mid-
-afternoon, after which it decreases
+in the morning and increases to a velocity of 10 miles an hour by midafternoon, after which it decreases
 until midnight.
 
 Types
@@ -9674,8 +7339,7 @@ entirely of cottonwood, though
 other timber is sometimes used.
 The lighter framework showTi in
 plate XXXV, a, is of willow, on
-which is laid the arrowwood, cat-
-tail reeds, wheat straw, cornstalks,
+which is laid the arrowwood, cattail reeds, wheat straw, cornstalks,
 or similar material that supports
 the outer layer of earth.
 The roof is supported by four crotched posts set in the ground
@@ -9695,11 +7359,8 @@ Fig. 76. Diagram of houfie. Scale: 1 inch — 10
 feet.
 
 
-a '• For the larger dwellings nine are used -three on eaeh side and one in the tenter." Bartlett, Per-
-sonal Narrative, ii, L'.'lX
+a '• For the larger dwellings nine are used -three on eaeh side and one in the tenter." Bartlett, Personal Narrative, ii, L'.'lX
 
-
-EUHSELL] ARTIFACTS 155
 
 Lieutenant Emory estimated the size of the ki at from 25 to 50
 feet in diameter," which is much too high. From 10 to 25 feet
@@ -9730,11 +7391,9 @@ Height of door .81
 
 Width of d<K)r .01
 
-The absence of a smoke hole is noteworthy, as it is almost univer-
-sally present in primitive dwellings. Its absence can not be explained
+The absence of a smoke hole is noteworthy, as it is almost universally present in primitive dwellings. Its absence can not be explained
 by the fact that the mildness of the cUmate permits the Pimas to
-spend most of their time in the open air and build their fires out-
-side, because in winter fires are maintained within to such an extent
+spend most of their time in the open air and build their fires outside, because in winter fires are maintained within to such an extent
 that the roofs become loaded with masses of soot. Tt would seem
 probable that the roofs were not provided with openings in order
 that the houses might be as little open to the attack of the Apaches
@@ -9749,8 +7408,7 @@ by slats woven together with rawhide, or by loose sticks of wood
 
 In each village a low rectangular council house afforded a meeting
 place for the men and at times the women also of the community.
-Rev. C. II. Cook informs the writer that he has addressed an audi-
-ence of as many as 80 persons in one of these houses, all bending low
+Rev. C. II. Cook informs the writer that he has addressed an audience of as many as 80 persons in one of these houses, all bending low
 to avoid the smoke. The last council hous(» was destroyed at
 P6-eptcIlt in January, 1002.
 
@@ -9759,14 +7417,11 @@ which was a mere shelter of branches to aflord protection from
 the sun.
 
 The fourth type of dwelling is the arbor, or, as some of the early
-writers termed it, ''the bower." It is a cottimwood framework sup-
-ported by crotched posts, roofed with arrowwood and earth, afford-
+writers termed it, ''the bower." It is a cottimwood framework supported by crotched posts, roofed with arrowwood and earth, afford-
 mg a shade from the sun, from which protection is desirable during
 
 <i Notes, p. tA.
 
-
-156 THE PIMA INDIANS Ikth.ann.26
 
 the greater part of the year. The roof furnishes a convenient place
 for drying squashes, melons, fruit, and, in the old days, cotton,
@@ -9783,13 +7438,11 @@ as well. From a hygienic point of view it is a great pity that the
 Pimas are learning to build adobes, for the tendency is for them
 to live indoors and to abandon the healthful arbors, every inch of
 whose floors is purified by a burning sun that throws its sterilizing
-rays well under the arbor during the ihoming and afternoon. Tuber-
-culosis is present in nearly every family, and it is difiicult, if not
+rays well under the arbor during the ihoming and afternoon. Tuberculosis is present in nearly every family, and it is difiicult, if not
 impossible, for the agency physician to induce those stricken with
 it to remain out of doors; they invariably confine themselves within
 the bacilli-laden dwellings. The arbor is kept well swept and clean,
-as is the entire yard about the house, so that a more healthful habi-
-tation could not be devised. Occasionally one or more sides of it
+as is the entire yard about the house, so that a more healthful habitation could not be devised. Occasionally one or more sides of it
 may be inclosed with arrowwood through which the cool breezes
 readily find their way.
 
@@ -9803,8 +7456,7 @@ XXXV, /. Plate IX, 6, illustrates the okatilla, Fouquiera splendens,
 as it grows on the mesas within 2 miles of Sacaton. Each stem is
 crowned with a brilliant spray of scarlet flowers. Plate xxxv, d,
 shows the framework of a storehouse at the right and the finished
-wall of arrow bush in the center. Plate xxxv, «, is a complete store-
-house with arro^^wood bins for mesquite beans on the roof. Some-
+wall of arrow bush in the center. Plate xxxv, «, is a complete storehouse with arro^^wood bins for mesquite beans on the roof. Some-
 times mud or adobe is added to the walls, which renders the structure
 equivalent to the Mexican jacal. The most noticeable feature is the
 door, made by piling up a great heap of unwieldy logs before the
@@ -9813,8 +7465,7 @@ opening.
 While not to be dignified by the name of house or dwelling, the
 Pima kitchen is an extremely practical afl'air, as will be realized by
 anyone who attempts to cook on an open fire exposed to storms.
-Plates VI, bj and xxxvi show the manner of arranging these wind-
-breaks, for they are nothing more. In exposed situations the sand
+Plates VI, bj and xxxvi show the manner of arranging these windbreaks, for they are nothing more. In exposed situations the sand
 
 
 RUSSELL ] ARTIFACTS 157
@@ -9827,13 +7478,11 @@ years.
 CLOTHING
 
 The description of Pima clothing need not be long. Throughout
-fully three-fourths of the year clothing for protection is quite unnec-
-essary in that region, and that worn in winter was of the simplest
+fully three-fourths of the year clothing for protection is quite unnecessary in that region, and that worn in winter was of the simplest
 character. The history^ of Pima clothing may be divided into four
 periods, namely: The first, in which natural products, little modified,
 were employed; the second, in which native textiles were introduced;
-the third, in which more or less remote imitations of Mexican cos-
-tumes were in vogue; and the present period, when very plain and
+the third, in which more or less remote imitations of Mexican costumes were in vogue; and the present period, when very plain and
 serviceable clothing is purchased from the whites.
 
 Materials ani> Types
@@ -9844,8 +7493,7 @@ flexible inner bark of the willow, which is used by some among the
 Colorado River tribes to the present day. During the brief season
 when the temperature approached the freezing point at night the
 men wore deerskin shirts, and when abroad upon stony trails
-encased their feet in red-dyed moccasins, also of deerskin. P'or pro-
-tection at home both sexes wore rawhide sandals, which appear to
+encased their feet in red-dyed moccasins, also of deerskin. P'or protection at home both sexes wore rawhide sandals, which appear to
 Caucasian eyes all too scant protection for the feet where nature arms
 most species, animate or inanimate alike, with tooth and claw."
 
@@ -9871,8 +7519,6 @@ appropriately made of the crucifixion thorn, Ilolocantha emoryi, as it grows abu
 mesas between the Gila \'illagert and the Salt Kiver Pima settlement. 30 miles northward. It becomes
 a amali leafless tree that is a tangle of thorny spikes, each a hand's breadth in length (pi. xxi, c).
 
-
-158 THE PIMA INDIANS [eth. ann. 26
 
 able for winter blankets was rabbit skins, which were cut in strips
 and b.raided together in the manner customary among so many
@@ -9908,8 +7554,7 @@ Pride of person manifested itself among the men in the care of
 the hair and the elaboration of the designs painted uix)n the skin.
 Feathers and beads were also worn in abundance. When through
 uncleanly habits a man became too filthy his associates said " skulof,''
-**He smells like an old man." But the whole tribe has a charac-
-teristic odor that is easily detected by the nasal organs of the whites;
+**He smells like an old man." But the whole tribe has a characteristic odor that is easily detected by the nasal organs of the whites;
 even the scIuk)1 children who are regularly bathed and well clothed
 exliibit this characteristic.
 
@@ -9922,26 +7567,19 @@ began to braid or twist their hair into skeins, which retained the
 hairs shed -anil other tilings besides — a man^elously convenient
 abiding place for microbes. It was the fashion to wear the skeins
 cut s(|uarely across at the bottom, and they did not scniple to piece
-out their shorter locks with hair from the tails of their horst^s. Soino-
-times, indeed, they even added the hair of their women, who trinuned
-
-
-BUSSELL] PERSONAL DECORATION 159
-
+out their shorter locks with hair from the tails of their horst^s. Soinotimes, indeed, they even added the hair of their women, who trinuned
 their hair in mourning for lost relatives. The skeins were from 1
 to 2 cm. in diameter; the hair of one old man, purchased from him,
 is 1.1 m. long; one of the skeins has been broken in the middle
 and tied in a hard knot. Such flowing locks could not, of course,
 be worn unconfhicd at all times; they were usually wound around
-the head and inclosed beneath a headband or l)y a cord of varie-
-gated colors (pi. xi.iii,tf; sec also fig. 75). The earlocks that are the
+the head and inclosed beneath a headband or l)y a cord of variegated colors (pi. xi.iii,tf; sec also fig. 75). The earlocks that are the
 pride of so many tribes were sometimes braided by the Pimas and
 ornaments of shell, heme, and, later, tin and scarlet cloth, were tied
 to them. The front hair was cut squarely across the forehead.
 
 The eyelashes and eyebrows were not t ampered \vith, but the scanty
-beard was plucked out with tweezers. The hair of children was for-
-merly *'cut" with a burning brand whenever it reached their shoul-
+beard was plucked out with tweezers. The hair of children was formerly *'cut" with a burning brand whenever it reached their shoul-
 ders, in order that it might grow more abundantly. The portion cut
 off was mixed with nuid and plastered on the head again for a few
 hours that it might improve the growth of the new hair. It was an
@@ -9963,8 +7601,7 @@ pride of Pima women ; twice at least each day it was brushed until it
 shone in smooth, ebony waves that were ever luxuriantly abundant.
 ** Every once in a while," or about onc^ a week, the hair was treated
 to a mud bath made by mixing black river nmd with mescjuite gum
-and allowing the plaster to remain over night (pi. xxxviii, c). Sonie-
-times the gum was diluted with warm water and applied as a wash
+and allowing the plaster to remain over night (pi. xxxviii, c). Sonietimes the gum was diluted with warm water and applied as a wash
 before the mud was laid on. The mud killed the vermin and cleansed
 the hair as does soap The gum is believed to darken the hair and
 prevent it from growing gray. The Pimas declan* that when widows
@@ -9973,21 +7610,11 @@ from being burned by the sun. The method of cleaning the hair
 above described is still practised, even by the yomiger generation.
 
 
-160
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 NAILS
 
 
 Finger nails were bitten off when they reached a troublesome
-length. The nails of the toes received little attention, and in old per-
-sons to-day they are seen of inordinate length, curled over the ends
+length. The nails of the toes received little attention, and in old persons to-day they are seen of inordinate length, curled over the ends
 of the toes.
 
 TEETH
@@ -9996,19 +7623,16 @@ Many brown teeth were seen,
 but no satisfactory information
 was obtained as to the cause.
 All agreed that the red berry
-of Licium fremontii would tem-
-porarily blacken the teeth, but
+of Licium fremontii would temporarily blacken the teeth, but
 as the Kwahadk^s and Papagos,
 who do not eat this berry, have
 the darkened teeth, some other
 cause must be sought. Rumex
-berlandieri, Rumex hymenose-
-palus, and a thorny weed called
+berlandieri, Rumex hymenosepalus, and a thorny weed called
 by the Pimas sd/MJcam iavak
 are also said to blacken the
 teeth. Charcoal was used to
-clean the teeth before the ad-
-vent of the whites, and the prac-
+clean the teeth before the advent of the whites, and the prac-
 tice is still continued.
 
 PAINTING
@@ -10024,11 +7648,9 @@ mother's milk *Ho improve his skin.^' Thereafter the paint was
 mixed with grease or the grease was applied to the skin first and the
 paint was added. In cold weather the grease and color were applied
 to prevent chapping and even for the sake of warmth. Usually the
-
 a Upon the four samples of face paint that were collected at Sacaton and submitted for analysis the
 following report was received: "It was found that with the exception of traces of manganese in 24884
-and 24887 the color of these substances in due to varying amounts of iron as modified by the pres-
-ence of and combination ^%ith other substances which by themselves possess practically no coloring
+and 24887 the color of these substances in due to varying amounts of iron as modified by the presence of and combination ^%ith other substances which by themselves possess practically no coloring
 power.
 
 **The percentages of iron (cnlculiitod ns ferric oxide) found in these samples are as follows:
@@ -10046,18 +7668,15 @@ BU88BLL] PERSONAL DECORATION 161
 face alone was painted, but during festivals and on other special
 occasions the entire body was painted. On dress occasions the lines
 on the face were made much narrower, and instead of being applied
-with the hands the color was laid on with a splinter or twig of arrow-
-wood 2 mm. wide by 80 mm. long. Both men and women painted
-their bodies and both used the same colors on their faces, but in dif-
-ferent proportions. The men used more black and were especially
+with the hands the color was laid on with a splinter or twig of arrowwood 2 mm. wide by 80 mm. long. Both men and women painted
+their bodies and both used the same colors on their faces, but in different proportions. The men used more black and were especially
 careful to intensify the tattoo marks. The women also emphasized
 the tattooing, and there were black lines, therefore, under the eyes of
 both sexes, sho^^ong that the permanent embellishment was regarded
 as especially significant.
 
 The designs were simple vertical and transverse lines, as shown in
-plate XXXVIII, d. The paint was not often washed off, but addi-
-tional lines were added as the design became effaced. Each person
+plate XXXVIII, d. The paint was not often washed off, but additional lines were added as the design became effaced. Each person
 painted his own face and used an olla of water as a mirror. The men
 painted the hair of the frontal region either white or red in preparing
 for a dance, and never both colors at the same time. The women
@@ -10068,8 +7687,7 @@ XVI, a), the yellow pollen of the cat-tail, Typha angustifoliaLinn., was
 used. Red was obtained from the Mohaves, and in recent years from
 the Yumas. From the latter also was bartered the bluish black
 specular iron ore that gliste*ned on the warrior^s cheeks.. Red and white
-were brought by the Papagos from out of the vast desert to the south-
-ward, the mineral resources of which are yet scarcely known to the
+were brought by the Papagos from out of the vast desert to the southward, the mineral resources of which are yet scarcely known to the
 invading race. Lastly, diamond dyes were used to some extent, but
 their day was short, for now no Pima paints at all. Indeed, it was
 with difficulty that two persons could be hired to paint their faces
@@ -10094,41 +7712,24 @@ in diameter (fig. 78).
 26 ETU— 08 13
 
 
-162
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
-Both men and women did the work, but the female artist was pre-
-ferred, as ^'she was more careful." Their fees were small and uncer-
+Both men and women did the work, but the female artist was preferred, as ^'she was more careful." Their fees were small and uncer-
 tain, as the operation was not one calculated to expand the heart of
 the victim and induce him to pay generously. The lines were drawn
 on the face first in dry charcoal, then some of the powdered charcoal
 was mixed with water, and the thorns were dipped into this and
-pricked into the skin along the outlines. As the operation pro-
-gressed the face was frequently washed to see if the color was being
-well pricked in. Two operations were necessary, though it some-
-times took more; one operation occupied an entire day. For four
+pricked into the skin along the outlines. As the operation progressed the face was frequently washed to see if the color was being
+well pricked in. Two operations were necessary, though it sometimes took more; one operation occupied an entire day. For four
 days thereafter the face remained swollen, and throughout that
 period the wound was rubbed with charcoal daily. At the end of that
-time a wash of squash seeds macerated in water was applied. Some-
-times the lips were slow in healing and the individual was compelled
+time a wash of squash seeds macerated in water was applied. Sometimes the lips were slow in healing and the individual was compelled
 to subsist upon pinole, as the swollen lips and chin forbade partaking
 of solid food; during this time the squash applications were continued.
 
 The men were tattooed along the margin
-
 jf N of the lower eyelid and in a horizontal line
-
 m^ across the temples. Tattooing was also
 
-■ carried across the forehead, where the pat-
-
-r^^^ ^L tern varied from a wavy transverse line to
+■ carried across the forehead, where the patr^^^ ^L tern varied from a wavy transverse line to
 
 ^^^ ^^^ ^f short zigzag vertical lines in a band that
 
@@ -10141,7 +7742,6 @@ r^^^ ^L tern varied from a wavy transverse line to
 The women had the line imder the lids,
 Pio.ra. Tattooing outfit, a, Ilea- ^ ^id the men; but instead of the lines
 quite charcoal; 6, wiuow char- upon the forehead they had two vertical
-
 coal; c. needles. y^^^ ^^ ^^^j^ ^j^^ ^j ^j^^ ^j^^ ^j^^j^ ^^_
 
 tended from the hp to the inferior margin of the jaw and were united
@@ -10150,8 +7750,7 @@ the mucous membrane of the lip on* either side.
 
 The tattooing was done between the ages of 15 and 20; not, it
 would seem, at the time of puberty, but at any time convenient to the
-individual and the operator. Oftentimes a bride and groom were tat-
-tooed just after marriage. All the older Pimas are tattooed, but the
+individual and the operator. Oftentimes a bride and groom were tattooed just after marriage. All the older Pimas are tattooed, but the
 young people are escaping this disfigurement. As in the case of
 painting, the practice of the art is passing away and the meaning of the
 designs is unkno^\Ti. The Pimas aver that the lines prevent wrinkles;
@@ -10162,19 +7761,12 @@ husband," is untenable, as we shall see when we come to study their
 marriage customs.
 
 
-RUSSELL]
-
-
 ORNAMENTATION
-
-
-168
 
 
 ORNAMENTS
 
-Both sexes, but especially the men, wore strands of beads sus-
-pended from their ear lobes and necks. The beads and gorgets were
+Both sexes, but especially the men, wore strands of beads suspended from their ear lobes and necks. The beads and gorgets were
 of disks cut from seasliells, stone, more or less wTought, hone carved
 and decorated, small deer bones without other manipulation than
 drilling, and turcjuoise, which was usually rubbed into flat rectangular
@@ -10190,17 +7782,14 @@ therein a skewer of neatly polished bone, or else suspended from it a
 bit of turcjuoise or a shell. Two men yet living in the Santan \'illage
 have pierced noses, though they long ago
 abandoned the practice of wearing anything
-in them. Indeed, all the old-time orna-
-ments have been al)an(loned, and the Pimas
-exhibit a marked contrast to the bead-
-covered Navahos and other tribesmen.
+in them. Indeed, all the old-time ornaments have been al)an(loned, and the Pimas
+exhibit a marked contrast to the beadcovered Navahos and other tribesmen.
 
 The men ornamented their long rope-like
 locks with the soft breast feathers of the
 eagle, turkey, or other large bird. The war
 headdresses were of eagle, hawk, and owl
-wing feathers. We secured one that con-
-tained the hair of an Apache warrior in
+wing feathers. We secured one that contained the hair of an Apache warrior in
 addition to the feathers (fig. 40).
 
 Contestants in the relay and distance
@@ -10213,8 +7802,7 @@ husks, in recent years colored red or blue by boiling with calico.
 Ornamentation
 
 We have seen that the Pimas, by means of paint, tattooing, and
-ornaments, had developed the art of personal decoration to a consid-
-erable extent. When we examine their implements and weapons it
+ornaments, had developed the art of personal decoration to a considerable extent. When we examine their implements and weapons it
 soon becomes evident that their taste for ornamentaticm was more
 rudimentary. Indeed, their desire for embellishment seldom reached
 expression in carving: it was confined chiefly to painting, as in the
@@ -10233,12 +7821,9 @@ downward us shown in flgure 79. The upper pair are wound with blue strings termi
 b'lfl at the tips. Total length, 237 mm.; spread of hooks, 170 mm.
 
 
-164 THE PIMA INDIANS [bth.ann.26
-
 ing upon shields, cradle hoods, ki&h&s, and tobacco pouches was of a
 crude sort and manifestly inferior to that upon the person. The
-moderately smooth finish given to all weapons, to trays, ladles, pot-
-tery paddles, fire-drills, awls, pestles, axes, basketry, and some
+moderately smooth finish given to all weapons, to trays, ladles, pottery paddles, fire-drills, awls, pestles, axes, basketry, and some
 pottery was of course based upon utilitarian motives, though the
 gratification of esthetic needs must have been subsidiary thereto
 and concomitantly developed. That the desire for embellishment
@@ -10255,8 +7840,7 @@ of stones within easy reach of the villages suitable for roughening the
 grinding surfaces of metates, yet the Pimas take the axes that are
 almost perfect in symmetry and poUsh and batter them into shapeless
 masses for the purpose. To the writer this affords an argument
-stronger than all the surmises of the early Spanish writers to the con-
-trary that the Pimas are not the descendants of the Hohokam.
+stronger than all the surmises of the early Spanish writers to the contrary that the Pimas are not the descendants of the Hohokam.
 Furthermore, the poverty of design and the absence of symbolism
 are a very strong indication of relationship with the California tribes
 rather than with the Pueblos.
@@ -10282,10 +7866,6 @@ If the baskets of the Pimas are compared with those of the Yavapais
 (pi. xxxiii, a, hj Cj d), who have also begun to use similar motives
 very recently, we see that the latter tribe manifests superior taste.
 The Yavapai baskets were the only ones at the Fort McDowell
-
-
-BussELL] ORNAMENTATION 166
-
 camps at the time of the writer's visit, so that they were certainly
 not selected specimens, whereas the Pima baskets, and particularly
 the upright forms, which the writer did not collect himself, were better
@@ -10309,8 +7889,7 @@ unornamt»nted, as we have seen, and the decorations that are used
 are applied with indifferent taste. Though they have abundant
 examples of fictile ware scattered over their fields, much of which
 is embellished by indented coils, they seem never to have conceived
-the idea of utilizing this simple though effective form of ornamenta-
-tion. The pottery illustrated in this memoir is rather better, than
+the idea of utilizing this simple though effective form of ornamentation. The pottery illustrated in this memoir is rather better, than
 the average Pima ware. The Kwahadk' pottery, while superior to
 the Piman, is yet lacking in symmetry. It is pleasing by reason of
 the rich brown color and the polish that almost equals a glaze, but
@@ -10323,31 +7902,19 @@ by the Apaches and Yumas until they had no energy or inclination
 left for indulging their esthetic tastes, for this is not true. They
 whipped the Yumas until the latter were ready to accept peace upon
 any terms, as appears from the calendar records, which are well
-authenticated bv white testimony. They kept the Apaches in whole-
-some fear of their clubs and arrows and made frequent raids into
+authenticated bv white testimony. They kept the Apaches in wholesome fear of their clubs and arrows and made frequent raids into
 the enemy's territory. They never hesitated to attack the Apaches
 in equal numbers and fight hand to hand. In short, they were not
 the degenerates that some have considered them, an error that the
 records of Pima scouts accompanying the United States army in
 Apache campaigns would do much to dispel." Their backwardness
-
 a Early accounts of the Pimas unifonnly testify to their ability to fight their enemies. They "have .
 everl>een numerous and brave." wrote darc^^s a century and a quarter ago (Schoolcraft, ill, 299),
 and in IK'>9 Mowry dit'hired. "The Pimas and Apaches wage hereditar>' and fierce war, in which the
 Pimas are generally the victors." Arizona and Sonora, third edition, p. 30.
 
 
-166
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
-can not be explained by their environment, because the same sur-
-roundings produced the superior cultiwe of the Hohokam, which
+can not be explained by their environment, because the same surroundings produced the superior cultiwe of the Hohokam, which
 there is no reason to believe was not indigenous. It may be
 surmised that the Pimas would have accomplished more in recent
 years in the art of ornamentation if they had adopted the curved
@@ -10362,11 +7929,9 @@ Musical Instruments
 
 
 , The Pimas have four kinds of musical
-instruments — the flute or flageolet, the bas-
-ket drum, the scraping stick, and the rattle,
+instruments — the flute or flageolet, the basket drum, the scraping stick, and the rattle,
 the last having many forms. They say
-that the first two instruments were adopt-
-ed from the Maricopas within a century or
+that the first two instruments were adopted from the Maricopas within a century or
 two. If this be true Pima attainments in
 instrumental music must have been of a
 very modest character indeed. There are
@@ -10389,8 +7954,7 @@ diaphragms, of which the two end ones are perforated, while the
 middle one is so arranged that the air may pass over its edge from
 one section into the other. This is done by burning a hole through
 the shell of the cane on each side of the diaphragm and joining them
-by a furrow. With such an opening in the upper section the instru-
-ment can not be played unless a piece of bark or similar material be
+by a furrow. With such an opening in the upper section the instrument can not be played unless a piece of bark or similar material be
 wrapped over all but the lower portion of the furrow to direct the air
 into the lower section. The forefinger of the left hand is usually
 employed as a stop if no permanent wrapping directs the current of
@@ -10401,9 +7965,6 @@ BUH8ELL]
 
 
 MUSICAL INSTRUMENTS
-
-
-167
 
 
 the second section." As there are but three finger holes the range
@@ -10431,11 +7992,9 @@ during the singing of ceremonial songs.
 When one end of the stick is laid on
 an overturned basket and another
 stick or a deer's scapula is draA\Ti
-quickly over the notches the result-
-ing sound from this compound instru-
+quickly over the notches the resulting sound from this compound instru-
 ment of percussion may be compared
-with that of the snare drum. How-
-ever, it is usually held in the hand and
+with that of the snare drum. However, it is usually held in the hand and
 rasped with a small stick kept for
 the purpose. So important are these
 instruments in Pima rain ceremonies that they are usually spoken of
@@ -10448,8 +8007,6 @@ are six small notches at the side of the handle, possibly fulfilling
 some mnemonic purpose. At the base of the series of notches is a
 broad X ; there is another at the middle, and evidences of a third
 appear at the tip, which is broken away. There are 36 deep transverse
-
-
 b c d e f
 
 Fig. 81. Scraping stick?.
@@ -10461,17 +8018,7 @@ among the triU's on the Colorado. Young men serenade their female friends with t
 Pac. R. U. Rep., ii. 52.
 
 6 Length of nut4«a (fig. 80), 364 mm.; diameter, 22 iimi.: b, length, 518 nmi.; diameter, 23 mm.; r, length,
-512 mm.; diameter. 22 mm. FluU> r has an old pale yellow necktie tied around the middle as an orna-
-ment and to direct the air past the diaphragm.
-
-
-168
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
+512 mm.; diameter. 22 mm. FluU> r has an old pale yellow necktie tied around the middle as an ornament and to direct the air past the diaphragm.
 
 
 notches on the lower part and 49 on tKe upper.^ This stick was
@@ -10484,10 +8031,8 @@ rougher and are undoubtedly of Pima make. The two large ones
 RATTLES
 
 The gourd rattle is used in most Pima ceremonies. It is made by
-
 fitting a wooden handle to a gourd in which gravel have been placed.
-The handle passes through the center and, re-
-duced in diameter, projects slightly from the
+The handle passes through the center and, reduced in diameter, projects slightly from the
 larger end, as shown in figure 82,*^ which also
 illustrates the distribution of the perforations,
 which are said to be for the purpose of * letting
@@ -10495,38 +8040,28 @@ the sound out." It wnll be observed that the
 sacred number 4 is represented by the principal
 lines of holes extending longitudinally. About
 a dozen specimens were seen and none were
-decorated in any way except in the arrange-
-ment of the perforations; the
+decorated in any way except in the arrangement of the perforations; the
 handles were invariably rudely
 made.
 
 A di^k rattle that has been
-used in the Navitco ceremo-
-nies was secured at the village
+used in the Navitco ceremonies was secured at the village
 of Pe'-eptcflt. It is not a
 Pima instrument, but whether
 Papago or Yaqui the writer
 can not say. It c^ontains two
-
 sets of four tin disks loosely held by wires passing
-
 through a wooden handle. The sound emitted
-
 resembles that of tambourine rattles (fig. 83).^
 From the same individual who used the disk
-
 rattle the writer obtained a rattle that had been
-
 used as a belt during the Navitco ceremonies.
 
 It is made of successive layers of canvas, red
-
 cotton cloth, oilcloth, and an old braided hatband, to which are
-
 attached by leather strings 21 brass cartridge shells (fig. 84).
 
 There are two sets of cocoon rattles in the collection that were worn
-
 on the calves of the legs in certain ceremonies. The cocoons were
 
 
@@ -10548,13 +8083,7 @@ c length, 332 nmi.; diameter, 90 mm.; diameter of handle, 25 mm.
 d Length, 247 mm.; diameter, 36 ram.; diameter of disks, 40 mm.
 
 
-RUSSELL]
-
-
 MUSICAL INSTRUMENTS
-
-
-169
 
 
 obtained from the Papagos or Yaqiiis of Sonora. They are of a
@@ -10574,8 +8103,7 @@ Fio. 85. Cocoou rattlo^
 
 
 At the village of Stu'aton Flats at least one turtle-shell rattle is
-still used in the treatment of the ** turtle disease," although no speci-
-men of such rattle was seen.
+still used in the treatment of the ** turtle disease," although no specimen of such rattle was seen.
 
 
 a" The lliiiihola use the coioons of Attacus orizaba for necklaces." Luinholtz, Symbolism of the
@@ -10585,8 +8113,6 @@ b Each cocoon now measures 30 nmi. in length by 25 mm. in breadth. The entire st
 long.
 
 
-170 THE PIMA INDIANS [eth. ann. 26
-
 Hoof rattles, usually of dewclaws, were of universal distribution
 among the American Indians and were common among the Pimas,
 though none are to be found at the present day. Bartlett figures
@@ -10594,12 +8120,10 @@ such a rattle in his Personal Narrative (ii, 223).
 
 Dancing
 
-Dancing was frequently indulged in by both sexes and w^as accom-
-panied by song, together with instrumental music furnished by the
+Dancing was frequently indulged in by both sexes and w^as accompanied by song, together with instrumental music furnished by the
 basket drum and the rattle. The dancers stood in a circle with arms
 extended across the shoulders of those adjoining. This position did
-not permit much freedom, and movements were confined to stamp-
-ing the feet and bending the body. When food was plentiful dances
+not permit much freedom, and movements were confined to stamping the feet and bending the body. When food was plentiful dances
 might occur at any time. Their number increased and their moral
 character sadly deteriorated as the men relaxed their vigilance after
 peace was made with the Apache^s. The energy formerly expended
@@ -10625,25 +8149,20 @@ since the introduction of knives and firearms, men were sometimes
 killed. The Government has prohibited "tizwin drunks,'* as they
 are called by the whites, though they are still surreptitiously held.
 
-The simp of the saguaro fruit is boiled for two days in the prepa-
-ration of the liquor, and in the meantime the people gather and
-dance in the plaza nearest to the spot where the large ollas are sim-
-mering. During the final carousal all the men and some of the women
+The simp of the saguaro fruit is boiled for two days in the preparation of the liquor, and in the meantime the people gather and
+dance in the plaza nearest to the spot where the large ollas are simmering. During the final carousal all the men and some of the women
 become intoxicated. Through the influence of the missionaries,
 the native police under the agent\s orders, and the actively exerted
 influence of the more intelligent men in the tribe, the custom is dying
 out. The subchief, K^enu\-& (pi. ii, c), at Gila Crossing has been a
 zealous advocate of temperance for a number of years, and it is
 not unlikely that the folly of such debaucheries was apparent to
-
-
 ttisHKi.Ll ATHLETIC SPORTS 171
 
 some nienibers of the Pima community during preceding generations
 before outside influences were brought to bear upon them. Indeed,
 some measure of pnidence was enforced by the fact that the Apaches
-were hovering upon the outskirts of the viUages watcliing for an oppor-
-tunity to attack when the warriors were incapacitated for resistance.
+were hovering upon the outskirts of the viUages watcliing for an opportunity to attack when the warriors were incapacitated for resistance.
 
 The ''Name song'' is a social device that accomplishes the ends of
 organized charity, together with those of the ordhiarv' festival. If a
@@ -10654,8 +8173,7 @@ evening to learn the names of the residents and to arrange these names
 in the song, which provides places for two names in each stanza.
 There are seventy stanzas in the song, and if there are more than
 twice that number of visitors it may be repeated and' other names
-substituted. Each visitor assumes the name of a resident of the vil-
-lage as a seal of fellowship and for the purpose of contributing to the
+substituted. Each visitor assumes the name of a resident of the village as a seal of fellowship and for the purpose of contributing to the
 pleasure of the festivities of the morrow, when the strangers come
 into the village to sing. As the song is sung and a name is called the
 T^dfe or daughter of the person of that name runs with some light
@@ -10674,8 +8192,7 @@ ices as singers, and they receive verj^ substantial rewards. Etiquette
 requires that the visit be returned withhi a reasonable time late
 the same season or during the following year. However, when the
 nomadic Papagos come to give the Pimas entertainment the visit can
-so seldom be returned that the gifts are more of the nature of ex-
-changes by barter, with the advantages in favor of the Papagos.
+so seldom be returned that the gifts are more of the nature of exchanges by barter, with the advantages in favor of the Papagos.
 The Pimas always received the Papagos cordially, though rarely
 returning their visits — so rarely that in tlie last fifty ycirs the Pimas
 have sung the name song but twice in Papagueria, the two visits
@@ -10687,19 +8204,7 @@ The men re(;eived thorough training in speed and endurance in
 ninning during their raids into the Apache country, but they had few
 sports that tended toward physical improvement except the foot
 races. Sometimes a woman ran in a contest against a man, she
-
-
-172
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
-throwing a double ball by means of a long stick, while he kept a kick-
-ing ball before him. But the women seldom ran in foot races, though
+throwing a double ball by means of a long stick, while he kept a kicking ball before him. But the women seldom ran in foot races, though
 their active outdoor life, engaged in the various t^ks that fell to
 them, kept them in fit condition. However, they had an athletic
 game which corresponded in a measure to the races of the men and
@@ -10709,8 +8214,7 @@ Ai-D<y
 • •
 Two of the swiftest runners among the women acted as leaders
 and chose alternately from the players until all were selected in two
-groups. Two goals were fixed about 400 yards apart, one side say-
-ing, *'To the trail is where we can beat you,'' while the other party
+groups. Two goals were fixed about 400 yards apart, one side saying, *'To the trail is where we can beat you,'' while the other party
 declared, "To that mesquite is where we can beat you.'* Two lines
 were formed about 25 yards apart, and the ball was put in play by
 
@@ -10737,7 +8241,6 @@ hear of races taking place that exceed 20 miles in length.
 
 The kicking ball, when of wood, resembles a croquet ball in size,
 but it is usually covered with a coating of creosote gum. These balls
-
 a The stick in the collection is of willow. 1.2;*) m. long, with a maximimi diameter of 18 mm. The balls
 are in pairs, 1') cm. apart, conntx.>ted by a 4-8trand 2-ply leather thong, the balls being mere knotty
 enlargements of the thong (Hg. 8(), a, 6).
@@ -10747,9 +8250,6 @@ BUS8ELL]
 
 
 ATHLETIC SPORTS
-
-
-173
 
 
 Fig. 87. Kicking balls, a. Wood coveo'd with gum;
@@ -10775,9 +8275,7 @@ less supernatural significance.
 Two youths will sometimes
 run long distances together,
 first one and then the other
-
-kicking the ball, so that it is almost constantly in the air. The cus-
-tom of using these balls is rapidly disappearing, as, it is to be regretted,
+kicking the ball, so that it is almost constantly in the air. The custom of using these balls is rapidly disappearing, as, it is to be regretted,
 are the other athletic games of the Pimas.
 
 RELAY RACES
@@ -10785,15 +8283,12 @@ RELAY RACES
 At various points in Arizona the writer has found what appear to
 have been ancient race tracks situated near the ruins of buildings.
 One of these was seen on the south bank of the Babacomari, 3 miles
-
 above the site of old Fort Wallen. It
 ^^ ', I is 5 m. wide and 275 m. long. It is lev-
 
 *^ eled by cutting down in places and the
-
 rather numerous bowlders of the mesa
-are cleared away. In the Sonoita val-
-ley, 2 miles east of Patagonia, th(*re is
+are cleared away. In the Sonoita valley, 2 miles east of Patagonia, th(*re is
 a small ruin with what may have been a
 race track. It is 6 m. wide and 180 m.
 long. At the northern end stands a
@@ -10817,9 +8312,6 @@ Fio. S8. Kicking balls, a, Stonr covort'd
 with gum; b, without covering.
 
 
-174 THE PIMA INDIANS
-
-
 Ijmi, ANN. 26
 
 
@@ -10827,8 +8319,7 @@ one they sent a messenger to convey the information that in four or
 five days, according to the decision of their council, they wished to
 test their fortunes in a relay race, and that in the meantime they were
 singing the bluebird (or, as the case might be, the humming-bird)
-songs and dancing in preparation. Both had the same time to prac-
-tise and the time was short; in this preparation the young men ran
+songs and dancing in preparation. Both had the same time to practise and the time was short; in this preparation the young men ran
 in groups of four or five. There wore 40 or 50 runners in each village,
 and he who proved to be the swiftest was recognized as the leader
 who should run first in the final contest. It was not necessary that
@@ -10879,15 +8370,11 @@ KUHSELL]
 GAMES
 
 
-175
-
-
 ably owing to the fear of provoking Navitco, the deity who gave the
 gourd to man.
 
 In common with other American Indians the Pima knew naught
-of *'hick'' or ''chance." He felt liimself aided or opposed by super-
-natural beings, whose assistance he sought by gifts of beads and other
+of *'hick'' or ''chance." He felt liimself aided or opposed by supernatural beings, whose assistance he sought by gifts of beads and other
 sacrilices deposited on altars in the recesses of the hills, which will be
 described later. A favorite place of prayer for gamblers was the
 ceremonial hill northeast of Casa Blanca, near the center of Pimeria.
@@ -10901,8 +8388,7 @@ KIKTS
 
 Under the name of ''ghing-skoot" this game has been described
 as played by the Papagos.** The Pima name of the game is ki°ts, of
-the sticks Id^tsktit. Four sticks are used in playing. The set col-
-lected (fig. 89) ^ is of giant cactus wood. The
+the sticks Id^tsktit. Four sticks are used in playing. The set collected (fig. 89) ^ is of giant cactus wood. The
 sticks are not named "old man," "old woman,"
 etc., as among the Papagos, but are designated as
 follows:
@@ -10945,21 +8431,11 @@ The counts are kept upon a rectangle marked upon the ground
 usually approximating 12 by 8 feet, having 10 holes or pockets,
 counting the corners each time, along each side. At two alternate
 corners are 2 quadrants called ki, '^houses,*' of 5 holes each, not
-
 oCiilin in Report National Miiwum, 189«, 738. Uls description is from notes and material collected
 by MeClee.
 
 6 length. 222 mm.; width, 17 mm.; thicknras, 7 mm.; hemispherical in section; not colored on
 either side.
-
-
-176
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 counting the comer holes, called ut'pa, "doors."" The stick used
@@ -10989,8 +8465,7 @@ HAEYO
 
 
 This game affords considerable amusement for the spectators as
-well as the participants. Four men provide themselves with moder-
-ately large stones, hayakttt, which they throw between two holes set
+well as the participants. Four men provide themselves with moderately large stones, hayakttt, which they throw between two holes set
 about 50 feet apart. All stand at one hole and try successively to
 throw into the other. If but one succeeds in throwing into the hole
 he and his partner are carried on the backs of their opponents across
@@ -11007,14 +8482,10 @@ small bean'* is used by the Papagos and a
 ball of black mesquite gum by the Pimas.
 It is placed in one of four joints of reed.
 The reeds are then filled with sand, all being
-concealed under a blanket, and the oppo-
-nents guess which reed contains the ball.
+concealed under a blanket, and the opponents guess which reed contains the ball.
 
-The reeds are called vftpfttaktit (vdpfttai, lay), '* laying imple-
-ments" (fig. 91).*^ Reed a, called kuU, **old man, " has 17 longitudinal
+The reeds are called vftpfttaktit (vdpfttai, lay), '* laying implements" (fig. 91).*^ Reed a, called kuU, **old man, " has 17 longitudinal
 rows of 8 spots each; reed ft, dks, '*old woman," is unmarked; reed c,
-
-
 e d
 Fio. 91. Canes used in v&pAtaL
 
@@ -11026,32 +8497,23 @@ a Culln in Report National Museum, 189<), p. 739.
 e The collection contains one set of reeds which are 27 cm. long and 22 mm. in diameter.
 
 
-RUSSELL]
-
-
 GAMES
-
-
-177
 
 
 Fio. 92. Diagram used in v&putta.
 
 
-hota stcok, "middle black," has 6 longitudinal rows; reed d, ma-
-atcoAolt, has 5 rows around the open end.
+hota stcok, "middle black," has 6 longitudinal rows; reed d, maatcoAolt, has 5 rows around the open end.
 
 One hundred grahis of com are placed between the players in a
 hole, from which they are taken as won and placed in a hole in front
 of each player. When a player ^^dns all the com, he puts up a stick
-in the sand. The number of sticks may be from 1 to 10, as deter-
-mined beforehand. Each player cancels one of his opptment's sticks
+in the sand. The number of sticks may be from 1 to 10, as determined beforehand. Each player cancels one of his opptment's sticks
 when he wins one himself.
 
 Two players confine their attention to the guessing; one on each
 side fills the reeds; one on each side watbhes the counting. Four
 men, one at each comer, hold the
-
 blanket, under which the filling is done, * ^
 
 and sometimes oner suggestions to the
@@ -11068,10 +8530,8 @@ reeds and places his ball in one and the opponent then decides
 which pair it is in by laying one reed across the other in the pair
 which he thinks does not contain it. Then he pours out the sand
 of first one then the other. If he has guessed right, he does not
-
 score, but continues the
-play by filling and offer-
-ing to his opponent. If
+play by filling and offering to his opponent. If
 he guesses wrong, the
 opponent scores 4 and 6
 additional if the ball is
@@ -11108,16 +8568,14 @@ line the width of one man and the length of a jump toward the goal.
 If the first guess is correct, the object is passed to him and there is
 no jumping imtil a guess fails."
 
-The boys play several simple games which develop skill in shoot-
-ing the arrow or in running In the former class may be included
+The boys play several simple games which develop skill in shooting the arrow or in running In the former class may be included
 the following game:
 
 VATAMnMnilTC HAKOAOLIWIA
 
 The players stand in a circle while a boy runs around outside,
 dragging at the end of a string a bundle of rags. When the play
-begins each boy deposits an arrow in a heap and the one who trans-
-fixes the bundle as it flies past is entitled to the pile of arrows. At
+begins each boy deposits an arrow in a heap and the one who transfixes the bundle as it flies past is entitled to the pile of arrows. At
 the end the best marksman may have nearly all the arrows. The
 same runner continues throughout the game and receives a few arrows
 as compensation for his services.
@@ -11147,24 +8605,19 @@ The title given above signifies '* prickly-pear standing opposite."
 There are usually four players, though sometimes two engage in
 this shooting game. Prickly-pear leaves are set up opposite each
 other at a distance of about 30 yards. The game is to pierce the
-
 a The obje?t is calbvl rs\ika, "slave." It is 40 or 50 ram. in diameter, is pitted in the center "to
 prevent cheuting." and may be of either pottery or stone.
 
 
-BLSSKLL] GAMES 179
-
 leaf with an arrow, and when four are playing the two partners
 share equally the winnings or losses. Arrows, bows, and such similar
-property as these ragged urchins possess are wagered. A bow is con-
-sidered worth from 10 to 20 arrows, according to quality.
+property as these ragged urchins possess are wagered. A bow is considered worth from 10 to 20 arrows, according to quality.
 
 KaORSA
 
 Either two or four may play. The game consists in shooting an
 arrow so that it will lie on the ground at a distance of about 100
-feet and then shooting two more arrows with the intention of cast-
-ing them across the first.
+feet and then shooting two more arrows with the intention of casting them across the first.
 
 KWAITUSiwiKftT
 
@@ -11211,34 +8664,24 @@ Two play, each using her own set of sticks, but exchanging them
 Fio. 94. Oaming stones.
 
 
-180
-
-
-THE PIMA INDIANS
-
-
 [BTH. ANN. 26
 
 
 alternately, so that first one set is in use and then the other. They
 are held loosely in the right hand and are thrown from the end of the
 metate or any other convenient stone. If all fall red side up one
-
 point is scored by a mark in the sand.
-If all are black two are counted. Win-
-ning four points completes the game.^
+If all are black two are counted. Winning four points completes the game.^
 
 TCXlLIKIwiKfrr
 
-This is the Gilefio form of the wide-
-spread dart -and -ring game. It is
+This is the Gilefio form of the widespread dart -and -ring game. It is
 not exclusively a woman's game, but
 was sometimes played by them. The
 younger generation knows nothing
 about it. The apparatus consists of
 a series of rings cut from cultivated
-gourds (fig. 96). They vary in di-
-ameter from 3 to 12 cm., and are
+gourds (fig. 96). They vary in diameter from 3 to 12 cm., and are
 strung on a 2-ply maguey fiber
 cord 50 cm. long. They are kept from slipping off at one end by
 a rectangular piece of gourd a little larger than the opening in the
@@ -11253,32 +8696,20 @@ Fio. 06. Dart-and-ring game.
 
 
 ened. The game is to toss the rings up by a swing and, while holding
-the butt of the stick, thrust the dart through as many of them as pos-
-sible. If the thrower fails she hands the apparatus to her opponent,
-but she continues throwing as long as she scores, and counts the num-
-ber of rings that are caught on the dart. In the specimen collected
-
-
+the butt of the stick, thrust the dart through as many of them as possible. If the thrower fails she hands the apparatus to her opponent,
+but she continues throwing as long as she scores, and counts the number of rings that are caught on the dart. In the specimen collected
 a This is Himilar to the game described in Report National Museum, 1896, 742.
-
-
-RUSSELL]
 
 
 GAMES
 
 
-181
-
-
 Fig. 97. Diagram
-used in tculikl-
-wlkat.
+used in tculiklwlkat.
 
 
 there are 14 rings, but only a few may be caught at a single throw.
-A certain number of marks, 2, 3, or 4, agreed upon in advance, con-
-stitute the game. These marks are made upon a diagram laid out in
+A certain number of marks, 2, 3, or 4, agreed upon in advance, constitute the game. These marks are made upon a diagram laid out in
 the sand in the form of a whorl (fig. 97). The scoring
 commences in the center, called the tcimni ki, '^ council ; ; *. ,* ,* *
 
@@ -11292,8 +8723,7 @@ brings her counter to the same hole as that of her opponent she
 but this is not done if she passes her opponent's position.
 
 Two specimens were obtained at Sacaton which were probably
-used in games by the Hohokam, illustrations of which are here pre-
-sented for the benefit of those engaged in special researches concern-
+used in games by the Hohokam, illustrations of which are here presented for the benefit of those engaged in special researches concern-
 ing gaming devices.
 
 CUP STONE
@@ -11303,8 +8733,7 @@ which was obtained from a Pima who had found it
 in one of the Gila Valley ruins west of the Casa
 Grande (fig. 98). Doctor Fewkes has called the
 writer's attention to the fact that it resembles the
-wooden cups used by the Ilopis in a game not un-
-like the European *' shell game.""
+wooden cups used by the Ilopis in a game not unlike the European *' shell game.""
 
 RING STONE
 
@@ -11328,20 +8757,16 @@ o It is 9<) mm. long, fv? mm. in diameter, with cavity 2() mm. in (linmetcr ami 
 b Diameter of ring, 115 mm.; internal diameter, 45 mm.; thicluiejis, 55 mm.
 
 
-182 THE PIMA INDIANS [kth. ann. 26
-
 SOCIOLOGY
 
 Family Organization
-
 belatioxs before marriage
 
 Accurate information concerning the relations between the sexes
 before marriage can only be obtained from the oldest persons among
 the Pimas, as the moral atmosphere has been heavily clouded since
 the advent of the Americans and since the peril from the Apaches has
-ceased to exist. With all their surplus energies expended in war-
-fare, the young men formerly lived exemplary lives as compared with
+ceased to exist. With all their surplus energies expended in warfare, the young men formerly lived exemplary lives as compared with
 the youths of the last generation, who would chase and even lasso
 any girl that they could catch. Nevertheless, the conditions were
 never as bad as among the Yumas of that period .« Before the Pimas
@@ -11354,10 +8779,8 @@ PUBERTY DANCE
 B
 
 A girl reached the age of puberty at 11 or i^, flnmAfimflfl <ua Aorly
-
 as 10. Th e acquirement by a young woman of the (to them) wholly
-mysterious functional characteristics of the age of puberty ren-
-dered her an object of concern and distrust to the elders. When
+mysterious functional characteristics of the age of puberty rendered her an object of concern and distrust to the elders. When
 'the fact was discovered her mother selected some favorite w^oman
 friend, not a relative , in whose charge she placed the girl for a period
 of four days. During this time the preceptress taught her how to . r '-
@@ -11376,21 +8799,16 @@ the fire or her teeth would come out.
 There was ' 'danger'' in the girl that must be breathed out by songs
 ere she, the members of her family, and the community as a whole
 were exempt from the hazard of the lightning stroke and other
-perils. Woe to the girl who concealed her condition, for the medicine-
-man's magic would enable him to discover the culprit and should
-accident befall he would ascribe it to her. As a matter of fact, how-
-ever, some girls avoided the ''coming-out" ceremonies as lon^^ as
+perils. Woe to the girl who concealed her condition, for the medicineman's magic would enable him to discover the culprit and should
+accident befall he would ascribe it to her. As a matter of fact, however, some girls avoided the ''coming-out" ceremonies as lon^^ as
 possible and when the parents wore poor no dance was hckl. When
 tlie parents had a sufficient supply of food on hand to entertain with
 becoming liospitality they invited friends ami neij^hbors to participate
-
 a Compare Husliiig. The (Jrejit West ami the Pacific C(>;ist. 3i)l.
 
 
 ^-^
 
-
-RUSSELL] FAMILY ORGANIZATION 183
 
 in a dance tliat occupied four nights . The father and mother did not
 dance, but they took care to select the best girls to dance with their
@@ -11421,8 +8839,7 @@ The youth of Pimeria marry '^early and often. '^ In the majority
 of cases the choice is made by the girl who seeks to avoid an alliance
 with a lazy man. A handsome fellow is of course desired, but when
 she '* knows in her heart" that he is the right man even the homely
-youth is chosen. As to what is the ideal of physical beauty, ques-
-tioning naturally elicited only general information. For example,
+youth is chosen. As to what is the ideal of physical beauty, questioning naturally elicited only general information. For example,
 he must be tall and strong; dark, because he will not wrinkle as soon
 as the lighter colored; he must not be too fat. The woman must not
 be fat nor yet thin; *'she must have good hair and a good face."
@@ -11441,10 +8858,6 @@ a young married friend who pleads his cause while he sits in the
 background. After several nights of woomg by proxy, if liis cause
 is favored he remauis and is accepted as a husband without further
 ceremony. For four days they remain at her home and on the evening
-
-
-184 THE PIMA INDIANS [bth. axn. 26
-
 of the fourth day they go to the home of his parents. At dawn the
 next morning the mother-in-law gives the bride a large basket of
 wheat to grind on the metate. She is expected to have completed
@@ -11491,17 +8904,10 @@ DURATION OF UNION
 
 Separation was lightly regarded and easily effected. The woman
 usually took the initiative, by either going to the home of her parents
-or going away with another man. Sometimes such remarks as " Rain-
-bow Leaves is trying to get Sand Cloud's husband away from her,"
-"Dawn Tinkle has changed husbands," were heard. Notwithstand-
-
-
-RUSSELL] FAMILY ORGANIZATION 185
-
-ing the natural independence of the women, they made an effort to
+or going away with another man. Sometimes such remarks as " Rainbow Leaves is trying to get Sand Cloud's husband away from her,"
+"Dawn Tinkle has changed husbands," were heard. Notwithstanding the natural independence of the women, they made an effort to
 retain the affection of worthy husbands, and even resorted to suicide
-when deserted. Moreover, the desirabihty of lastin<^ unions was rec-
-ognized by some, as, for example, by the father of wise old Sala
+when deserted. Moreover, the desirabihty of lastin<^ unions was recognized by some, as, for example, by the father of wise old Sala
 Hina. ''Work well at hoine,*' he told her, ''Go not to others for the
 morsel they must needs in hospitality bestow, and then when you
 serve faitlifully your husband he will provide well for you. If the
@@ -11546,10 +8952,6 @@ in which a cloth had been spread. The placenta was buried in a hole
 and covered with ashes. The mother bathed in the river immediately
 after deliver}^ and until the umbilicus of the child was healed she
 dared not eat salt. At times much pain was suffered, and some died
-
-
-186 THE PIMA INDIANS [eth. ann. 26
-
 in labor, in \vliich case, if the child lived, it was taken in charge by
 the maternal grandmother.
 
@@ -11559,8 +8961,7 @@ pregnant in the meantime she induced abortion by pressure upon
 the abdomen. The unborn was sacrificed because it was believed
 to be prejudicial to the welfare of the nursing child, which the
 mother loved the more "because she could see it." Illegitimate
-children were aborted at three or four months. One case of abor-
-tion at seven months was reported, but it was done with the aid of
+children were aborted at three or four months. One case of abortion at seven months was reported, but it was done with the aid of
 the medicine-man. These operations were usually successful, but in
 a small percentage of cases they caused the death of the woman.
 
@@ -11579,8 +8980,7 @@ Pima women at one of the upper villages. Intermarriage with the
 desert-dwelling Kwahadk's has been fairly common. The father of
 Sala Hina was a Kwahadk' and prominent in Piman history as the
 man who brought the first cattle to the tribe. The few Kwahadk'
-women among the villages make the peculiar pottery that is char-
-acteristic of their tribe, and which should not be confounded with
+women among the villages make the peculiar pottery that is characteristic of their tribe, and which should not be confounded with
 that of the Pimas. Detecting a slight dialectic difference in the
 speech of one of the temporary interpreters the author learned upon
 inquiry that his mother had been a Kwahadk'. Another interpreter
@@ -11598,15 +8998,10 @@ and there is both traditional and liistorical evidence of the final
 amalgamation of the remnants of that tribe with the Pinuis. Soni*^
 were captured ])v the Apaches, as shown by Bourko in his resoarclu.^
 upon the clans of that tribe. "The Apaches have also anion*; them
-
-
 urssELL]
 
 
 FAMILY ORGANIZATION
-
-
-187
 
 
 Tze-kinne, or wStone-house people, descendants of tlie cliff-dwelling
@@ -11617,12 +9012,10 @@ flee to the Pimas for refuge about a century a^ro." "
 CEllEMOXY OF PrRIFlCATIOX
 
 As soon as a cliild beo:an to creep about it was taken by the parents
-some afternoon to the medicine-man in order that the rite of purifica-
-tion might be administered and the child's future be rendered free
+some afternoon to the medicine-man in order that the rite of purification might be administered and the child's future be rendered free
 from harmful magic influences. Putting
 a sacred pebble and an owl feather into
-a seashell containing water, the medi-
-cine-man waved an eagle feather (fig. 100)
+a seashell containing water, the medicine-man waved an eagle feather (fig. 100)
 about, while the parents and the child
 drank the water and ate some white ashes
 or a little mud. This simple ceremony
@@ -11634,8 +9027,7 @@ further precaution the mother must not
 eat salt for four days thereafter.
 
 This appears at first glance to be a
-modification of the Christian rite of bap-
-tism. Further investigation seems to
+modification of the Christian rite of baptism. Further investigation seems to
 show that it is similar to that and also to
 a purely aboriginal ceremony that in the
 opinion of the writer was practised before
@@ -11643,8 +9035,7 @@ the advent of the friars. The Pimas
 declare that their '* medicine-men got
 it up themselves." Cushing found '4hat
 the Zuf\i of to-day are as eager as were
-their forefathers for baptism and for bap-
-tismal names additional to their own.
+their forefathers for baptism and for baptismal names additional to their own.
 
 But it must be remembered,'^ he continues, '^that baptism
 purification of the head by sprinkhng or of the face by washing with
@@ -11666,8 +9057,6 @@ the
 6 Cushing in Thirtivnth Annual Koport of the Bun>^u of Ethnology, 335.
 
 
-188 THE PIMA INDIANS [eth.ann.29
-
 trol for the purpose; this procedure must have caused trouble very
 soon had the ceremony been wholly unknown to the natives."
 
@@ -11678,8 +9067,7 @@ the following manner: The friends, or godparents, accompanied by
 other visitors, come for four successive mornings and seat themselves
 just before sunrise on the ground before the house in which the child
 hves. First one and then another of the company holds the child for
-a moment, but if it is a boy the kftmpalt, godfather, repeats a cere-
-monial speech, passes his hands across the limbs of the infant and
+a moment, but if it is a boy the kftmpalt, godfather, repeats a ceremonial speech, passes his hands across the limbs of the infant and
 holds it aloft to receive the first rays of the rising sun; then he bestows
 upon the boy the name by which he shall be known throughout Ufe —
 though- nicknames are common and often supplant the baptismal
@@ -11726,14 +9114,10 @@ BUS8ELL]
 FAMILY ORGANIZATION
 
 
-189
-
-
 NAMES
 
 
-The names of the Pimas proved so interesting to the present investi-
-gator that a number of examples were recorded, as follows:
+The names of the Pimas proved so interesting to the present investigator that a number of examples were recorded, as follows:
 
 
 Rainl)ow
@@ -11959,7 +9343,6 @@ So ring- Leaves
 Nlorning- Water-Grass
 
 Morn ing- Leaves
-
 vSun- Leaves
 
 !{()W-End
@@ -12070,16 +9453,13 @@ Dew- Woman
 Butterfly
 
 
-190 . THE PIMA INDIANS [eth. ann. 26
-
 EDUCATION
 
 In addition to the education that every Pima child received by the
 method of imitation and apprenticeship, careful oral instruction in
 moral, religious, and other matters was also given by the elders.
 While yet quite young the Pima lad was taken up in his father's arms
-at daybreak and held there while he was told something of the mys-
-teries of the great Sun god that nearly every morning in the year rises
+at daybreak and held there while he was told something of the mysteries of the great Sun god that nearly every morning in the year rises
 bright and free from clouds above the Sierra Tortilla. As he grew too
 big to be held in arms he had to sit up very straight and pay strict
 attention while his father or guardian lectured to him on the proper
@@ -12112,8 +9492,7 @@ councilings. Above all, talk not foolishly yourself. Bathe in the
 cold water of the early morning, that you may be prepared for the
 purification ceremony after killing an enemy."
 
-Thus the lad was taught fortitude, courage, forbearance, unselfish-
-ness, industr}^ — qualities that might well be adapted to the changed
+Thus the lad was taught fortitude, courage, forbearance, unselfishness, industr}^ — qualities that might well be adapted to the changed
 conditions and incorporated in the system of instruction of the wliite
 nian\s ^'Indian schools." As time went on he learned that if he
 profited by tlie rdvice given liim he would become a desirable* party
@@ -12121,17 +9500,13 @@ for some soft-voiced home keeper, and with his marriage liLs (education
 coi.sod.
 
 
-BCssELL] FAMILY ORGANIZATION 191
-
 As a hunter he made his debut by giving away all the first deer
 that he killed. Afterwards he took his choice of the meat before
 sharing with his fellows.
 
-Every youth when about 20 years old was told the ancient tra-
-ditions, or Ha-ak Aga, Storj^ of Hfi,-&k. For four da^^s and four
+Every youth when about 20 years old was told the ancient traditions, or Ha-ak Aga, Storj^ of Hfi,-&k. For four da^^s and four
 nights he rcnuiined with the keeper of the legends, who was usually
-a man selected as tribal historian because of possessing a good mem-
-ory. Durmg that period he was not allowed to eat salt. Tliis and
+a man selected as tribal historian because of possessing a good memory. Durmg that period he was not allowed to eat salt. Tliis and
 similar tabus with reference to salt may have been due to contact
 with the Papagos or to survival from the period when the Pimas
 lived by the sea.
@@ -12153,8 +9528,7 @@ As in the case cited, one parent may neglect the training of the
 children. It rarely happens that both are wholly indifferent. They
 are inclined to punish the cliildren more than do the members of any
 other tribe with which I am acquainted. The youngsters are seldom
-whipped, but they may be scolded, slapped, or shaken for their mis-
-demeanors until they become 10 or 12 years old. If a girl stum-
+whipped, but they may be scolded, slapped, or shaken for their misdemeanors until they become 10 or 12 years old. If a girl stum-
 bles and breaks an olla when going for water, her elders take some
 of the broken pieces and scratch her naked arm. The girls begin
 to assist in the cooking at 7 or 8 and at 9 or 10 they begin to make
@@ -12163,8 +9537,7 @@ making more than the single basket required during their puberty
 ceremonies.
 
 The younger girls make very realistic rag dolls, which they carry
-through the drama of life with as great seriousness and '^make-
-believe" us their wliite sisters. The writer once came upon them
+through the drama of life with as great seriousness and '^makebelieve" us their wliite sisters. The writer once came upon them
 when they had twenty or more figures variously j)ose(l around them
 as spectators of tlie burial of a whole family, witli accompanying
 destruction of C ' make-believe ") property. In addition to '^ funerals,"
@@ -12172,10 +9545,6 @@ they had parties for which they ground wheat for pinole, though an
 adult observer would have said that they were grinding up weed
 seed. The 'dishes" were molded with mud on their little bro^\^l
 elbows and were ready for use after scarcely more than a minute's
-
-
-192 THE PIMA INDIANS [bth. ann. 26
-
 drying in the sun. One form of mischievous activity was to play
 hide-and-seek in the wheat fields, but such a game was brief and apt
 to be attended with unpleasant consequences. In the evenings they
@@ -12194,11 +9563,9 @@ There was no parental prohibition against destroying birds' nests,
 though the warning "If you touch quail eggs you will go blind''
 served most effectually to protect one species at least. The owl was
 not so much a bird of evil as of mystery and death, and its feathers
-were sought for their magic potency in medicine and other ceremo-
-nies. If a lad shot one, he had to pluck the feathers from the bird
+were sought for their magic potency in medicine and other ceremonies. If a lad shot one, he had to pluck the feathers from the bird
 before it died or the magic power of the plumes was lost. Besides
-the bow and arrows the Pima youngsters possessed the sling of raw-
-hide, which, by the usual process of evolution, came to be made in later
+the bow and arrows the Pima youngsters possessed the sling of rawhide, which, by the usual process of evolution, came to be made in later
 years of boot leg. From the scanty Mexican population with which
 they came in contact they learned to use stilts, but none were seen
 in use during the writer's stay among them. As they grew older
@@ -12214,25 +9581,18 @@ tribes. As they were a sedentary people, the custom of abandoning
 the aged on the march could not prevail. As a matter of fact, the old
 and helpless were not killed by the active members of the community,
 though they were sometimes neglected until they starved to death and
-sometimes they set fire to their houses to commit suicide. Tlie heart-
-lessness of youtli sometimes manifested itself in such acts as throw-
+sometimes they set fire to their houses to commit suicide. Tlie heartlessness of youtli sometimes manifested itself in such acts as throw-
 ing stones at aged persons, merely "to see them act like children."
 
 One case observed may be mentioned — that of an old man at
 Sacaton dragging out a miserable existence. Totally blind and
 scarcely able to walk, he lived in a bnisli shelter about 8 feet square
 that contained a Utt Je straw and the single blanket that served to cover
-him. When he ventured a])road into the world the Umits of his jour-
-
-
-BDSSELL] FAMILY ORGANIZATION 193
-
-neys were prescribed by the length of the rope which was attached by
+him. When he ventured a])road into the world the Umits of his journeys were prescribed by the length of the rope which was attached by
 one end to his doorpost. His food was cooked by some of liis adult
 grandchildren who occupied a house near at hand. His time was
 spent absolutely alone in the shelter, wliich was as devoid of utensils or
-furnishings as any dog kennel. And yet, with a pride that is death-
-less in the human soul, he boasted of tiie time wlien lie was a man
+furnishings as any dog kennel. And yet, with a pride that is deathless in the human soul, he boasted of tiie time wlien lie was a man
 among men and overcame the ferocious Apaches on tlie latter'sown
 ground.
 
@@ -12251,8 +9611,7 @@ none dying to give place to the oncoming generation.
 
 Again and again the information was elicited that those who died
 during the day were killed by the Sun, while those who died during
-the hours of darkness were killed by Night. This the author inter-
-prets to mean that the prayers that were regularly addressed to Sun
+the hours of darkness were killed by Night. This the author interprets to mean that the prayers that were regularly addressed to Sun
 and Night were for preservation, and that death resulted from some
 lapse or inattention on the part of these two deities. This agrees
 w^ith the equally emphatic statements that "death is always due to
@@ -12272,14 +9631,10 @@ a, 6, c). Now a round hole is dug to a depth of 5 or feet, then a
 small cluimber is scooped out on the west side, in wliich tlie body is
 extended, with the head to the south. Billots of wood are then
 placed so as to lean against the roof over the body, so that in filling
-the grave no earth falls uj)on it. Medicine-men are buried in a sit-
-ting position, and in several instances have been buried in isolated
+the grave no earth falls uj)on it. Medicine-men are buried in a sitting position, and in several instances have been buried in isolated
 places wliich have acquired special sacredness.
 
 26 ETH— 08 15
-
-
-194
 
 
 THK PIMA INDIANS
@@ -12291,8 +9646,7 @@ THK PIMA INDIANS
 The dead are never cremated, as they are by the adjoining tribes on
 the west. There is an apparent exception to this rule in the occasional
 \ cremation practised while on the warpath. The writer is unable to
-account for this, unless it be due either to the influence of the Mari-
-copas or to a survival pointing toward western affinities of the Piman
+account for this, unless it be due either to the influence of the Maricopas or to a survival pointing toward western affinities of the Piman
 stock. So far as ascertained, no disinterment for removal had ever
 been made by the Pimas. They never buried beneath the floors, as
 did the Hohokam.
@@ -12314,15 +9668,10 @@ about and are liable to touch sleeping persons, this meaning that the
 one touched must accompany the visitor back to the land of shades.
 
 When a householder died his ki was formerly burned — an excellent
-hygienic precaution, but detrimental to the development of architec-
-ture. The other structures about the premises were either burned or
+hygienic precaution, but detrimental to the development of architecture. The other structures about the premises were either burned or
 piled on the grave. Personal property was similarly destroyed, and
 if there was any live stock, it was killed and eaten by anyone who
 chanced to be on liand, though the immediate relatives never partook
-
-
-RUssKLL] SOCIAL ORGANIZATION 195
-
 of such food." When a husband was so fortunate as to possess two
 blankets, his widow sometimes kept one of them. The name of the
 deceased was not mentioned thereafter, and all things possible were
@@ -12331,11 +9680,9 @@ that the rites of mourning were i)ractised for some time.
 
 The death of a pauper who had nothing to leave at the grave
 released a vexed soul to wander about until some one in charity placed
-an offering on the grave. Sometimes the paraphernalia of a medicine-
-man, when it was not handed down to a successor in the family, was
+an offering on the grave. Sometimes the paraphernalia of a medicineman, when it was not handed down to a successor in the family, was
 concet^Ied in an olla in the hills instead of being destroyed. More
-rarely these caches were made of the property of ordinar}' men. Fig-
-ure 101 shows such a cache, wliich was found in a rugged granite hill
+rarely these caches were made of the property of ordinar}' men. Figure 101 shows such a cache, wliich was found in a rugged granite hill
 about 4 miles south of Casa Blanca. The olla was covered with a
 bowl, and as neither was broken it was perfectly water-tight. Among
 the contents of the cache (pi. xl) were a number of crj^stals and
@@ -12358,33 +9705,26 @@ burned.
 Very few widows mourned for the full period of four years.
 During that time they were compelled to remain at home, to refrain
 from washing their hair, and to cry aloud the name of the deceased
-every morning at daybreak. They were allowed to bring their blank-
-ets up around under the armpits, but not over the shoulders, even in
+every morning at daybreak. They were allowed to bring their blankets up around under the armpits, but not over the shoulders, even in
 the coldest weather. When the chemise was adopted, as the blankets
 went out of use, it was customary to revert to the blankets during
 the period of mourning.
 
 Social Organization
-
 officers
 
 The Pimas are governed by a head chief and by a chief for each
 village. These men are assisted by village councils, which do not,
-the author believes, appoint any representatives to the tribal coun-
-
-a Compare Bourke. " When a Mohave dies, there Is a feast made of some of his horses and other
+the author believes, appoint any representatives to the tribal couna Compare Bourke. " When a Mohave dies, there Is a feast made of some of his horses and other
 odibles: but none of his clansmen will eat of It." Journal of American Folk-Lorc , ii, 184.
 
-
-196 THE PIMA INDIANS Ieth. axn. L»0
 
 cils. The office of head cliief is not hereditary, though the present
 incumbent succeeded his father. He is elected by the village chiefs.
 
 The present head chief is Antonio Azul (pi. ii, a), known among liis
 people as Uva-a'tOka, Spread I^eg, from a peculiarity in his gait;
-also as Ma'vit Ka'wutam, Puma Shield, and by other names less ele-
-gant. The calendar records are silent upon this, and as to the date
+also as Ma'vit Ka'wutam, Puma Shield, and by other names less elegant. The calendar records are silent upon this, and as to the date
 of his accession, reference to it in contemporary literature has been
 seen. He became chief before 1864, as Poston mentions in his report
 as special commissioner in that year that Antonio had just had his
@@ -12392,8 +9732,7 @@ commission revoked for bad conduct.**
 
 Antonio's father had been the preceding head chief. He was knowTi
 as Culo Azul, also as Ti'ahiatam, Urine. His predecessor was Rs&n'tall
-Vi'akam, who was killed by Apaches before K&m&l tk&k, who is prob-
-ably 75 years old, w^as bom. His predecessor was named O'slvf,
+Vi'akam, who was killed by Apaches before K&m&l tk&k, who is probably 75 years old, w^as bom. His predecessor was named O'slvf,
 Joseph. No recollection of any earlier chief remains. In the Rudo
 Ensayo Tavanim6 is named as the chief about the year 1757,'' and
 it is possible that he was the predecessor of O'sXvf.
@@ -12411,15 +9750,13 @@ At the command of each coimcil was a messenger who might be
 sent to summon those required by that body.
 
 Any man of acknowledged courage might, with the approval of
-his fraternity (the information obtained at this point was some-
-what vague — perhaps '^ neighbors" or ''the community'* is the better
+his fraternity (the information obtained at this point was somewhat vague — perhaps '^ neighbors" or ''the community'* is the better
 ♦/crm), organize a war party. He was then called TcunyXm or
 Tcu'ylnyXm, Smoker, or War Speaker. His name and authority ended
 upon returning from the campaign.
 
 It is important to note that the tribe acted as a unit against the
-Apaches. With their compact territory and well-developed agri-
-culture they might well have easily developed yet further their
+Apaches. With their compact territory and well-developed agriculture they might well have easily developed yet further their
 division of labor and estabUshed a warrior class. Then, w4th their
 increasing numbers under the stimulus of material well-being, they
 might have easily extended their power. No neighboring tribes
@@ -12432,8 +9769,6 @@ and blood.
 u ScM' Iteport of Cominissioner of Indian AlTairs 1S(>4. 153. l.siio.
 Mioconis Anu'rican (.'atholic Ilistori.-al Sock'ty. v, 129.
 
-
-RUSSELL] SOCIAL ORGANIZATION 197
 
 GENTE8
 
@@ -12471,16 +9806,13 @@ sold to the Spaniards or Mexicans. These captives were well treated,
 but their origin was never forgotten and the fear and suspicion of the
 tribe found expression at times in the decrees of the medicine-men
 that certain misfortunes were caused by the presence of the aliens.
-Somewhat rarely the girls were married into the tribe and an appre-
-ciable amount of foreign blood was introduced in this way which
+Somewhat rarely the girls were married into the tribe and an appreciable amount of foreign blood was introduced in this way which
 doubtless had its effect upon the vigor of the race.
 
 SOCIAL MORALS
 
-It would be a more agreeable task to write of the morality of primi-
-tive Pimas than of that which developed as a result of contact with
+It would be a more agreeable task to write of the morality of primitive Pimas than of that which developed as a result of contact with
 Spaniards and Americans. To the honesty and virtue of the tribe a
-
 o The same divisions exist among the Papagos, and Jos6 Lewis, the Papago who interpreted for
 Professor McGee, submitted specimens of the ant as examples of the insect referred to as " o'himal."
 
@@ -12489,14 +9821,10 @@ esclavos & los mas, y estos & los Espaf&olos, que los compran en cortas cantldad
 Sanchez, Theatro Americano, 17<<8, pt. 2, i, 396.
 
 
-198 THE PIMA INDIANS [bth. ann. 26
-
 score of writers have testified, leading to the belief that moral stand-
 \ ards in Pimeria at least equaled if they did not resemble our own.
-Life and property were seciu^. By their industry they had mas-
-tered the difficulties of their environment. The relations of the
-sexes and the division of labor had been adjusted in a manner credit-
-able to them.**
+Life and property were seciu^. By their industry they had mastered the difficulties of their environment. The relations of the
+sexes and the division of labor had been adjusted in a manner creditable to them.**
 
 The law of vengeance operated to prevent homicide. ''Speak not
 foolishly/* said the elders; ^'do not quarrel and kill your neighbor, for
@@ -12573,8 +9901,7 @@ white man's whisky and those who followed the immemorial custom
 of getting dnmk on native-brewed liquors during the saguaro harvest.
 
 Laziness was condemned, and boys and girls were taught to spin
-and delve — how well may be judged from the fact that the tribe pro-
-duced a large surplus crop year after year during the early period of
+and delve — how well may be judged from the fact that the tribe produced a large surplus crop year after year during the early period of
 American occupancy of the region and at the same time fought back
 the Apaches and aided the soldiers materially, while the Americans
 and Mexicans with all their soldiers and outside resources were
@@ -12588,13 +9915,11 @@ branches. Batliing was a daily practice.
 Public opinion strongly condemned lying. Stinginess could not be
 more abhorred. The chiefs, especially, were expected to bestow
 liberally all gifts within their control. The present chief has had a
-canny sense of thrift and possesses a large bank account, which ren-
-ders him much less popular than he might otherwise be.
+canny sense of thrift and possesses a large bank account, which renders him much less popular than he might otherwise be.
 
 FORMULAS OF POLITENESS
 
-No conventional words of greeting were in use before the intro-
-duction of the wSpanish and American forms. Tciars tain wu'sahain,
+No conventional words of greeting were in use before the introduction of the wSpanish and American forms. Tciars tain wu'sahain,
 ^'the god sends his regards," were the closing words of any speech.
 H&'iku-ult, ''good-bye," was the usual response of the hsteners.
 Sometimes in finishing astory thenarratorexclainied atoa'tdk, ''anus,"
@@ -12604,39 +9929,30 @@ na'wotc, '' friend." The same exp'ressicmsare used in accepting a gift.
 
 Hand shaking was unknown until introchiced by tlie whites, though
 it is now universally practised.'' It is said that the custom of kissing
-
 a "Antonio and his son hiul tipfH'd flngfrs and gruntod in tok«Mi of joy," wrot4^ ,1. R. Brownt*. in
 desc'rihing tho nuHiting of the chief and his 8on after a long separation. Adventures in the Apache
 Country, 84.
 
 
-200 THE PIMA INDIANS [eth. ann. 26
-
 was confined to mothers and infants. Accurate information of the
-primitive custom can not now be obtained. Formerly, when long-
-separated friends met they expressed their joy in tears. The terms
+primitive custom can not now be obtained. Formerly, when longseparated friends met they expressed their joy in tears. The terms
 expressing their degrees of relationship or simply *' friend '* were
 sometimes used.
 
-Guests were offered pinole upon arrival if it were not near meal-
-time. Pinole was easily prepared without cooking and stayed hun-
+Guests were offered pinole upon arrival if it were not near mealtime. Pinole was easily prepared without cooking and stayed hun-
 ger. At meals guests were helped to food in a dish apart from the
 common bowl out of which the family ate.
 
 Intertribal Relations
-
 alliances
 
-The relations of the Pimas to their neighbors had a profoimd in-
-fluence upon their social organization and general cultural develop-
+The relations of the Pimas to their neighbors had a profoimd influence upon their social organization and general cultural develop-
 ment. They held possession of the best agricultural lands in their
 section of the Southwest, and were compelled to fight for the privilege.
 Their alhance with the Maricopas entailed a long and sanguinary
 struggle with the Yumas, which resulted in what Bancroft has termed
-**the almost total annihilation'' of the latter tribe. From the Mari-
-copas they received, however, efficient aid against their principal
-enemy, the Apaches. Thus the Pimas learned the advantages of con-
-federation, and there is reason to believe that their culture, based
+**the almost total annihilation'' of the latter tribe. From the Maricopas they received, however, efficient aid against their principal
+enemy, the Apaches. Thus the Pimas learned the advantages of confederation, and there is reason to believe that their culture, based
 on a thrifty system of agriculture, in time might have surpassed
 that of the Hohokam. The Yavapais were sometimes hostile, but do
 not appear to have been very formidable opponents.** In the Annals
@@ -12659,16 +9975,12 @@ cultivation of the crops that are usually considered the portion of the
 stronger sex when it is learned that tliis plan was necessary in order
 to maintain pickets constantly for long periods, and that an armed
 guard was the sole guaranty of safety to the villages. Every three
-
 o Oarc6fl relates in his Diary that the ** Yabipais Tejiia," (Yavapais] have "in some way remained
 enemies of the Pimas and Cocomaricopas Oilefios." Couea', On the Trail of a Spanish Pioneer, u, 449.
 
 
-RUSSRLL] INTERTRIBAL RELATIONS 201
-
 or four days small parties of five or ten would come to steal live ^^
-stock or to kill any individual that might have gone some little dis-
-tance from the villages. Larger war parties came once or twice a
+stock or to kill any individual that might have gone some little distance from the villages. Larger war parties came once or twice a
 month, though longer periods sometimes elapsed without a visit
 from the Apaches. Chief Antonio declares that the Apaches formerly
 lived farther away from the Pimas, and hence their raids were less
@@ -12676,21 +9988,17 @@ frequent than they were during the middle portion of the last century.
 At all events the activity of the enemy became sufficient to cause the
 abandonment of the outlying villages east of the present agency of
 Sacaton and the concentration of the tribe into seven villages upon
-the Gila plain. On stormy winter nights, when the noise of the ele-
-ments might afford cover for the approach of the enemy, sentinels
+the Gila plain. On stormy winter nights, when the noise of the elements might afford cover for the approach of the enemy, sentinels
 were posted about the camps. These men were accustomed to build
-little shelters of brush and leave smoldering fires in them, then con-
-ceal themselves in the darkness near by and watch for marauders that
+little shelters of brush and leave smoldering fires in them, then conceal themselves in the darkness near by and watch for marauders that
 might attempt to steal toward the light. In this way the main trails
-were guarded, and the coyote-like curs at the houses afforded addi-
-tional security from surprise. They supposed that the Apaches
+were guarded, and the coyote-like curs at the houses afforded additional security from surprise. They supposed that the Apaches
 always guarded their own camps.
 
 When a cliief '^felt in his heart '^ that he would like to avenge liis
 people for some particularly flagrant outrage, or that he desired the
 honors that reward the successful warrior, he went from settlement
-to settlement making an appeal for followers by repeating conven-
-tional speeches of magic character. The arrangements for the cam-
+to settlement making an appeal for followers by repeating conventional speeches of magic character. The arrangements for the cam-
 paign were speedily made. The preparation of the roasted meal for
 pinole required much less time than the ceremonies necessary to
 secure the requisite amount of magic power to insure victory. The
@@ -12699,8 +10007,7 @@ horse, by one or more women. These women were chosen from those
 who had recently lost kinsmen in battle and they were invariably
 accompanied by a male relative. At night the party was surrounded
 by pickets, who came in to report at intervals. During the evening
-a set speech was repeated by a man whose office it was to keep appro-
-priate speeches in memory. These were arranged in order, as *' first
+a set speech was repeated by a man whose office it was to keep appropriate speeches in memory. These were arranged in order, as *' first
 night,^' ''second night,'' etc., and were '^ adapted" for the occasion,
 though based upon the supposed speeches of the gods at the time of
 the creation. The valor of the party was roused by t!ie recital of deeds
@@ -12710,13 +10017,10 @@ enable them to overcome but would also attack the magic power of
 the enemy. Then, of course, if the magic power of the enemy were
 defeated, the Pimas could easily ove;*power the Apaches." After the
 speech the warriors sang the magic war songs, a'-atan nyul, while the
-
 a "The Pimas, though not an aggressive, are a brave and warlike race. They are the dread of the
 Apache, who always avoids them." Sylvester Mowry in S. Ex. Doc. U, pt. 1, 587, 35th Cong., Ist
 sess.. 1858.
 
-
-202 THE PIMA INDIANS [eth. asn. 26
 
 makai, or magician, swung an owl feather over them. At the close of
 the songs he foretold the number of the enemy that would be killed.
@@ -12741,13 +10045,10 @@ of rawhide and short but heavy clubs of mesquite and ironwood.
 Their appeal to the God of War was expressed by the sun symbols
 that decorated the shields, and the latter were kept swiftly rotating
 upon the supple forearms of their bearers as the advance was made
-for hand-to-hand conflict. The frequent use of the figure, '* like pred-
-atory animals or birds of prey," in the ceremonial speeches imbued
+for hand-to-hand conflict. The frequent use of the figure, '* like predatory animals or birds of prey," in the ceremonial speeches imbued
 all with the spirit of agility and fierceness that manifested itself in the
-leaps from side to side and the speed of their onward nish. Crouch-
-ing low, springing quickly with whirling shield that concealed the
-body, in feather headdress and battle colors, they must have pre-
-sented a terrifying spectacle. f* Their courage can not be questioned,
+leaps from side to side and the speed of their onward nish. Crouching low, springing quickly with whirling shield that concealed the
+body, in feather headdress and battle colors, they must have presented a terrifying spectacle. f* Their courage can not be questioned,
 and in some conflicts, of which there is independent white testimony,
 they killed several hundred warriors. But these were rare occasions,
 and their raids usually terminated with the loss of a man or two and
@@ -12760,15 +10061,12 @@ the San Xavier settlement, 200 Papagos, and about 500 Pimas he
 went up the Gila a distance of about 50 miles and encountered the
 enemy in the rough country around Riverside. The Apaches tied
 the bushes together to prevent the mounted warriors from getting
-
 o •* In battle tho Indians are not quiet for u moment, but, with constantly l)ended kiuvs. leap mpidly
 from side to side, waving their shield 'and its long streamers, for the purpose of dazzling the eyos of
 their adversaries. Apaches are said to oil their joints before going to battle, in order to make them
 supple." Whipple, Ewbank.and Turner. Report upon the Indian TrilM's, in Pacific Railroad Reports,
 ni, 30.
 
-
-BUSSELL] INTERTRIBAL RELATIONS 203
 
 through, so that the Pimas fought on foot. Without the advantage
 of surprise tlie ardor of the latter soon cooled, and being of divided
@@ -12782,8 +10080,7 @@ Three Pima women kno\vTi to Sika'tcu went out on the mesa to
 gather cactus fruit. Another woman was asked to accompany them,
 but at first she refused to go because she had had a bad dream.
 After the others had started she set out to follow them and ran into
-a trap set for them at the hills south of the villages. The four cap-
-tives were forced to walk naked before their enemies. Two were
+a trap set for them at the hills south of the villages. The four captives were forced to walk naked before their enemies. Two were
 soon killed by the wayside. That night two Apaches were detailed
 to watch the other two women. These men relaxed their vigilance
 toward morning, whereupon the captives gathered all the bows and
@@ -12792,8 +10089,7 @@ to strangle their captors and partially succeeded. They then made
 their escape. One of these brave women is yet living.
 
 It was customary for the Pimas to attack the Apaches at night or
-at the earliest dawn. This required careful scouting during the pre-
-ceding day in order to locate the position of the enemy, who were
+at the earliest dawn. This required careful scouting during the preceding day in order to locate the position of the enemy, who were
 always at least equally alert and wary, without betraying their own
 presence.
 
@@ -12802,8 +10098,7 @@ young Apache and liis wife in the Sierra Tortilla. The man escaped,
 but the woman, named Hitalu'I, was captured and brought to the
 villages, where she was questioned through L^'lall, an Apache woman
 who had been captured in childhood. The chief asked about the
-attack that had recently been made upon a party of Pimas at Ta-a't{i-
-kam. She replied, '^I shall tell you the tnith about that. I shall
+attack that had recently been made upon a party of Pimas at Ta-a't{ikam. She replied, '^I shall tell you the tnith about that. I shall
 never take my life to my people again. I am here to my death.''
 She was soon led to the open ground east of the Double buttes, where
 a death dance was held with the captive in the center of a group of
@@ -12819,12 +10114,7 @@ the Apaches were spurred on to constantly renewed attacks for the
 sake of the plunder that they might secure. Thus the feral pauper
 preyed upon the sedentary toiler, but paid dearly in blood for his
 occasional prize of grain or live stock. The effect upon the two tribes
-
-
-204 THE PIMA INDIANS [eth. ann. 26
-
-of SO strenuous a life was begmning to manifest itself in an inter-
-esting manner at the time of the intervention of the Americans.
+of SO strenuous a life was begmning to manifest itself in an interesting manner at the time of the intervention of the Americans.
 The Spaniards and Mexicans had shown their utter incapacity to
 cope with the Apaches, and their presence in Sonora was rather an
 aid to the enemy than otherwise. The Pimas were compelled to
@@ -12845,11 +10135,9 @@ tended to fix them.
 
 Lustration
 
-There was no law among the Pimas observed with greater strict-
-ness than that which required purification^ and expiation for the deed
+There was no law among the Pimas observed with greater strictness than that which required purification^ and expiation for the deed
 that was at the same time the most lauded — the killing of an enemy.
-For sixteen days the warrior fasted in seclusion and observed mean-
-while a number of tabus. This long period of retirement immediately
+For sixteen days the warrior fasted in seclusion and observed meanwhile a number of tabus. This long period of retirement immediately
 after a battle greatly diminished the value of the Pimas as scouts and
 allies for the United States troops operating against the Apaches.
 The bravery of the Pimas was praised by all army officers having any
@@ -12858,16 +10146,13 @@ of their unreliability, due solely to their rigid observance of this
 religious law.
 
 Attended by an old man, the warrior who had to expiate the crime
-of blood guilt retired to the groves along the river bottom at some dis-
-tance from the villages or wandered about the adjoining hills. Dur-
+of blood guilt retired to the groves along the river bottom at some distance from the villages or wandered about the adjoining hills. Dur-
 ing the period of sixteen days he was not allowed to touch his head
 with his fingers or his hair would turn white. If he touched his face
 it would become wrinkled. He kept a stick to scratch his head witli,
 and at the end of every four days this stick was buried at the root and
-
 a"All savages have to undergo certain ceremonies of lustration after returning from the war-path
-where any of the enemy have been killed. With the Apaches these are baths in the sweat-lodge, accom-
-panied with singing and other rites. With the Pimas and Maricopas these ceremonies are more elabo-
+where any of the enemy have been killed. With the Apaches these are baths in the sweat-lodge, accompanied with singing and other rites. With the Pimas and Maricopas these ceremonies are more elabo-
 rate, and necessitate a seclusion from the rest of the tribe for many days, fasting, bathing, and singing.
 The Apache ' bunches ' all his religious duties at these times, and defers his bathing until he gets home,
 but the Pima and Maricopa are more punctilious, and resort to the rites of religion the moment a single
@@ -12875,13 +10160,10 @@ one, either of their own numbers or of the enemy, has been laid low." John G. Bo
 with Crook, New York, 1891, 203.
 
 
-EUSSELL] INTERTRIBAL RELATIONS 205
-
 on the west side of a cat's claw tree and a new stick was made of
 greasewood, arrow bush, or any other convenient slirub. He then
 bathed in the river, no matter how cold the temperature. Tlie feast
-of victorv' wliicli his fi*iends were observing in the meantime at the vil-
-lages lasted eiglit days. At the end of that time, or when his period
+of victorv' wliicli his fi*iends were observing in the meantime at the villages lasted eiglit days. At the end of that time, or when his period
 of retirement was half completed, the warrior might go to his home to
 get a fetish made from the hair of the Apache whcmi lie had killed.
 The hair was wrapped in eagle down and tied with a cotton string and
@@ -12906,8 +10188,7 @@ not wdiolly approved by the leaders, as is shown by the invariable
 formula that closed every war speech that w^as delivered while the
 party w^as on the campaign: '^ You may think this over, my relatives.
 The taking of life brings serious thoughts of the waste ; the celebration
-of victory may become unpleasantly riotous." Throughout the cere-
-monies the women of the tribe play a prominent part, particularly
+of victory may become unpleasantly riotous." Throughout the ceremonies the women of the tribe play a prominent part, particularly
 in mourning for relatives if any have fallen victims to the attacks of
 the Apaches.
 
@@ -12931,8 +10212,6 @@ the circle of s])ectators twenty men and two or more young women.
 \
 
 
-206 THE PIMA INDIANS (eth. ann.26
-
 according to the number of female relatives of those killed in battle
 kept nmiiing. In addition to these forty horsemen also circled from
 left to right about the whole gathering.
@@ -12951,8 +10230,7 @@ usually told in the presence of the women, and consequently they
 know only imperfect fragments of them.
 
 The myths are not related in the summer because of the fear of
-being bitten by rattlesnakes, which of course hibernate. No informa-
-tion was obtainable that the Pimas believe that the snakes then carry
+being bitten by rattlesnakes, which of course hibernate. No information was obtainable that the Pimas believe that the snakes then carry
 venom, nor why the snakes should bite those who disregard the tabu.
 The Pimas do not hesitate to kill rattlesnakes except in certain cases.
 
@@ -12962,8 +10240,7 @@ In the beginning there was notliing where now are earth, sun, moon,
 stars, and all that we see. Ages long the darkness was gathering^
 until it formed a great mass in which developed the spirit of Earth
 Doctor, who, like the fluffy wisp of cotton that floats upon the wind,
-drifted to and fro without support or place to fix himself. Con-
-scious of his power, he determined to try to build an abfding plai»e,
+drifted to and fro without support or place to fix himself. Conscious of his power, he determined to try to build an abfding plai»e,
 so he took from his breast a little dust and flattened it into a cake.
 Then he thought within himself, **Come forth, some kind of plant,"
 and there appeared the creosote bush. Placing this in front of him,
@@ -12991,8 +10268,6 @@ a-Siiinketalk," from tcu-utc, smoke, and nyi&k, talk. This myth is also called I
 Telling."
 
 
-RUSSELL] MYTHS 207
-
 Earth Magician shapes this world;
 
 Earth Magician makes its mountains-
@@ -13002,13 +10277,11 @@ Into the eartli the magician glances;
 Into its mountains he may sec
 
 Next Kartli Doctor croated some black insects, tcotctk ikt&ny,
-which made bhick gum on the creosote bush. Then he made hia-
-pitc, the termite," wliich worked upon and increased the small begin-
+which made bhick gum on the creosote bush. Then he made hiapitc, the termite," wliich worked upon and increased the small begin-
 ning until it grew to the proportions of our present earth. As he
 sang and danced the wonderful world developed, and then he made
 a sky to cover it, that was shaped Hke the round house of the Pimas.
-But the earth shook and stretched so that it was unfit for habita-
-tion. So Earth Doctor made a gray spider, which he commanded to
+But the earth shook and stretched so that it was unfit for habitation. So Earth Doctor made a gray spider, which he commanded to
 spin a web around the unconnected edges of earth and sky. Wlien
 this was done the earth grew firm and sohd.
 
@@ -13050,8 +10323,6 @@ a Tormes flavip«'s Koll. It^was formerly Ix^lleved that if anyone ate food prep
 was contained in anything upon which this insect lived that person's teeth would fall out.
 
 
-208 THE PIMA INDIANS [etu. anx. 26
-
 Then he sang:
 
 I have made the moon!
@@ -13086,10 +10357,8 @@ drew it across the sky to form the milky way.
 When the earth was thus prepared for habitation. Earth Doctor
 created all maimer of birds and creeping things. Next he formed
 images of clay, which he commanded to become animate human
-beings, and they obeyed him. For a time they increased and over-
-spread the earth imtil it became so populous that food became scarce
-and there was not sufficient water to supply their needs. Of sick-
-ness and death they knew nothing, and their nimoJbers grew apace.
+beings, and they obeyed him. For a time they increased and overspread the earth imtil it became so populous that food became scarce
+and there was not sufficient water to supply their needs. Of sickness and death they knew nothing, and their nimoJbers grew apace.
 Hungering, they began to kill one another and Co eat human flesh.
 Earth Doctor pitied them in their extremity, but could devise no
 plan for relieving their distress, except to destroy all, and this he at
@@ -13111,8 +10380,6 @@ there was no response. Then ho created a race of men, as ho had
 done before; those were the Rs&sanatc.
 
 
-BUSSBLL] MYTHS 209
-
 Out in the west beneath the toahafs bush the moon gave birth to
 Coyote and then went down. Coyote grew«apace, and when large and
 strong he came to the land where lived the Pinla nation.
@@ -13123,8 +10390,7 @@ Doctor and spoke roughly to him, and Earth Doctor trembled before
 his power. The people increased in numbers, but Elder Brother
 shortened their lives, and they did not overrun the earth as they
 had done before. But this did not satisfy Elder Brother, who
-announced to Earth Doctor that he would destroy the latter's peo-
-ple, and this is how he accomplished the second destruction of the
+announced to Earth Doctor that he would destroy the latter's people, and this is how he accomplished the second destruction of the
 world :
 
 Elder Brother created a handsome youth, whom he directed to go
@@ -13141,8 +10407,7 @@ time of the marriage. This was the child that caused the flood which
 destroyed the people and fulfilled the plans of Elder Brother. Several
 years were necessary to accomplish these things, and during this time
 the people were amazed and frightened at the signs of Elder Brother^s
-power and at the deeds of his agent. At the time of the commence-
-ment of these strange events Elder Brother began to make a jar or olla
+power and at the deeds of his agent. At the time of the commencement of these strange events Elder Brother began to make a jar or olla
 of some substance, either bush or gum. Wlien this should be finished
 the flood would come. How? This is the way in which it came:
 The handsome young man, whom Elder Brother sent about among
@@ -13162,8 +10427,6 @@ cholla cactus. When she had obeyed him he placed the thorns upon
 her, telling her not to be afraid of the young man, but that when he
 26 KTH— 08 16
 
-
-210 THE PIMA INDIANS [eth. ann. 26
 
 came she should take good care of his bow, arrows, shield, war club,
 spear, or any other weapon he might bring. At this the maiden
@@ -13185,8 +10448,7 @@ and we will take care of it. We have been outwitted and our plan
 defeated, but that is the best we can do." The young man went after
 the child, the screams of which shook the earth and could be heard for
 a great distance. Earth Doctor then called his people together and
-told them there would be a great flood. After describing the calam-
-ity that would befall them, he sang:
+told them there would be a great flood. After describing the calamity that would befall them, he sang:
 
 Weep, my unfortunate peoplel
 
@@ -13249,8 +10511,7 @@ found that its tears were welling up in a great torrent that cut a gorge
 before it. He bent over the child to take it up, but at that moment
 they both became birds and flew above the earth over which the
 floods were spreading. It is said that five birds in all were saved
-from all those that had been previously known. These were Koli-
-vltcdkam' ITiklvIk (flicker), Vipisimal, Kis6pT, and Nyul (vulture).
+from all those that had been previously known. These were Kolivltcdkam' ITiklvIk (flicker), Vipisimal, Kis6pT, and Nyul (vulture).
 They clung by their beaks to the sky to keep themselves above the
 waters, but the tail of the flicker was washed by the waves, and that
 is wh\^ it is stiff to this day. Finally, as they were threatened with
@@ -13357,8 +10618,6 @@ when the waters reache<l that height. When the waters rose to the crest of foam,
 the Bobetlor (for in those days aniimils could speak) and the latter raised him up from below. A few
 
 
-RUSSELL] MYTHS 213
-
 Coyote was carried southward by the drifting log to the place
 where all the driftwood of the flood was collerted. To this day the
 place is referred to as Driftwood mountain, though its exact location
@@ -13380,8 +10639,7 @@ all parts of the land. At length he met Coyote and Earth Doctor.
 Each claimed to have been the first to appear after the flood, but
 finally Elder Brotjier was admitted to have been the first, and
 he became the ruler of the w^orld, and is accey)te(l as such by many
-to this day. Jilder Brother on becimiing the chief ruler told his sub-
-ordinates to search for the center of the land, which is known as hik,
+to this day. Jilder Brother on becimiing the chief ruler told his subordinates to search for the center of the land, which is known as hik,
 navel. lie sent Earth Doctor to the east and Coyote to the west.
 The latter returned first, and a long time afterwards Earth Doctor
 came in. They all went some distance east and again the messengers
@@ -13389,7 +10647,6 @@ were sent out — (\yote east and Earth Doctor west. This time
 Earth Doctor returned first, so they all journ(\ved yet farther east
 before sending out the messengers, (\iyote was sent west this time
 and again returned first. Then all moved east a little farther, and
-
 daya later the Bebedor «cnt the Iliimmlng-bini (Sheparosiis) and the coyote to bring him* mud, and
 when it was brought he made from it various men, some of whom turned out pood iind others bad.
 These men spread over the land up and down the river. Not long afterwards he sent some of his men
@@ -13400,8 +10657,7 @@ he sent other men downstrejim to look after those who were thrro. They returned,
 had been well received and that the people there spoke anothrr languiigr. which, however, they had
 been able to understand. Then the Bebedor told them that the men who dwelt downstream were the
 good men, who extondod as far jts the Opas. with whom thoy were frit'iidiy: and that the others who
-dwelt up.stream were the had men an«l were the Apjiches. their eneniit's. The n»>lM»ti()r once grew wrath-
-ful with the people. Hid sl»«w many of them, converting them into Sji^'uaros in thnt land. The Saguaros
+dwelt up.stream were the had men an«l were the Apjiches. their eneniit's. The n»>lM»ti()r once grew wrathful with the people. Hid sl»«w many of them, converting them into Sji^'uaros in thnt land. The Saguaros
 is a green trunk. a([iie(>us. of f;iir height, of uniform circuinferencr. and pcrfj'cTly .st might from its base
 to its top, with rows of thick thorns which extend along its whole length ami usually with two (»r three
 branches of thosanic shape which look like arms. Once again di«l the Ik'l'e<lor luvonie wrathful against
@@ -13416,8 +10672,6 @@ afterwards persuade him to tell us anything else: for he kept Siiying that he kn
 atory 1 have related in the phraseology you have doubtless noticed in order better to adapt it to the
 fashion in which the Indians explain it."
 
-
-214 THE PIMA INDIANS [eth. ann. 26
 
 from that point both returned at the same time, so they knew they
 were at the middle of the land.
@@ -13446,16 +10700,13 @@ he was doing until all was finished, and then all that they had made
 should be showed at once. A moment later Elder Brother said he
 was ready and asked the others to show what they had made. So
 Coyote and Earth Doctor brought their work before him. Coyote
-had made all the web-footed animals, snakes, and birds. Earth Doc-
-tor had made creatures resembling human beings, but they were
+had made all the web-footed animals, snakes, and birds. Earth Doctor had made creatures resembling human beings, but they were
 deformed — some having "but one leg, others inmiense ears, some with
 imperforate bodies, others with flames of fire in their knees.^
 
-Elder Brother told Coyote to throw the animals which he had cre-
-ated into the water. He told Earth Doctor to place his creatures
+Elder Brother told Coyote to throw the animals which he had created into the water. He told Earth Doctor to place his creatures
 in the west. Both obeyed. After throwing his beings into the west
-Earth Doctor sank into the earth, but while his body was yet half-
-way down Elder Brother jumped and tried to grasp it. He was not
+Earth Doctor sank into the earth, but while his body was yet halfway down Elder Brother jumped and tried to grasp it. He was not
 successful, and Earth Doctor disappeared. Elder Brother in trying
 to hold Earth Doctor got his hands covered with dirt and blood,
 like those of a man killing an animal. He shook his hands and the
@@ -13469,12 +10720,9 @@ days, one of the Apache group (they were divided into equal groups)
 came to life and said, "It*s very cold,'' and began to sway its body
 back and forth. Earth Doctor said,*' Oh, I didn't think you would
 bo the first to awake!" and he was so angry he took all the Apaches
-
 rt There is no generic name for these monsters. Earth Doctor is supposed to have created them thus
 in order that they might not become rivals to his uudcrworrd iwople for the possession of the earth.
 
-
-RUSSELL] MYTHS 215
 
 up in his hand and threw them over the mountain. That made them
 angry, and that is why they have always been so fierce.
@@ -13488,8 +10736,7 @@ to cure sickness, and the like.
 These people occupied this country from that time forward and
 multiplied in numbers. The Yumas and Maricopas were at first
 united, but the Maricopas left the Yumas and joined the Pimas,
-finally settling in the Salt River valley, where they formed perma-
-nent settlements. They tried to build canals, but were not successful,
+finally settling in the Salt River valley, where they formed permanent settlements. They tried to build canals, but were not successful,
 on account of the hard rocks and soil.
 
 The Maricopas asked Elder Brother for advice or assistance. He
@@ -13513,8 +10760,7 @@ Brother took pity upon him and pulled a hair from his own lip to cut
 in short pieces to serve as teeth for Soft Child. ^'Now," said he, "if
 anyone bothers you again, bite him.'* In the evening TS^-fipi, Rabbit,
 came to Soft Child as he sat at the door and scratched him as he had
-so often done before. Soft Child raised his head and bit his tor-
-mentor as Elder Brother had instructed him to do. Feeling the bite.
+so often done before. Soft Child raised his head and bit his tormentor as Elder Brother had instructed him to do. Feeling the bite.
 Rabbit scratched Soft Child again, and again was bitten; then he ran
 about telling that Soft Child was angry and had bitten him twice.
 Again he went to him and again he was bitten twice. During the
@@ -13523,7 +10769,6 @@ the dark hours he sufTered and throughout the next day; often he
 called to those around him to prepare a place that might give him
 rest. No bed that they could make brought any ease to his stricken
 frame. He asked for sea sand that he might lie upon it and cool his
-
 a" Go in Ap." An unknown trilK) that is believed by the Pimas to hiive lived somewhere in the
 northwest, perhaps the Iliialapis [Walapjii.]
 
@@ -13569,7 +10814,6 @@ ran away with it. The people pursued, but Coyote outstripped
 them. South of the Sierra Estrella Coyote stopped and laid the heart
 upon the an bush, but the people came up and he fled again. To this
 day that halting place is called Andkam Tcikwoanylk, Place of the
-
 o "When Matyavela died, Mustam-ho, by his diroction, started in tocremate him. The Coyote wanted
 to eat the corpse. At that time there was no fire on earth. The Blue Fly put a star in the sky; * Go
 over there and get me some of that fire/ ho said to the Coyote. The Coyote was fooled, and scampered
@@ -13587,8 +10831,6 @@ Cosmogony and Theogony of the Mohave Indians of the Hio Colorado. Arizona. Journ
 Folk- Lore, ll, 188.
 
 
-RUSSELL] MYTHS 217
-
 Uprooted An Bush. Near KiMtoak' he stopped again upon a
 mountain to eat the heart, but he saw that it was covered with ashes,
 so he shook it and the ashes fell and covered the mountain, so that it
@@ -13605,10 +10847,8 @@ Mavit, Puma, and Rsu-u-(i, Wolf, joined their fortunes and went
 hunting together. One day Wolf said, *'I wonder where is our
 brother, Coyote; suppose I call him.'^ So he took the kidney of a deer
 and roasted it and the wind carried the appetizing odor toward the
-south. When Coyote smelled it he said, ''Surely, these are my broth-
-ers, who wish me to return." So he ran to the ])lace where Puma
-and Wolf were living. When he reached them he was in great dis-
-tress, for when he ate food it fell from him as wheat falls from the
+south. When Coyote smelled it he said, ''Surely, these are my brothers, who wish me to return." So he ran to the ])lace where Puma
+and Wolf were living. When he reached them he was in great distress, for when he ate food it fell from him as wheat falls from the
 broken sack. Finally, Puma and Wolf stitched his skin until it
 retained the food he ate. Then they all went in search of wives.
 Coyote found a woman and called to the others, who came to see her.
@@ -13624,27 +10864,22 @@ passus ingressa esset, *'Siste! Siste!" exclamavit Coyote, ^'Doleo;
 paulum me dimitte." Ubi quod poposcit fecerat, copulare potuit.
 Mulierem turpiter dum domum iebant (-oyote egit. This was the
 cause of much trouble, for she belonged to a tribe that had great magic
-power. They tried to induce her to return, but she would not. Fur-
-thermore, Puma refused to restore her to her friends. Then the Rsar-
+power. They tried to induce her to return, but she would not. Furthermore, Puma refused to restore her to her friends. Then the Rsar-
 sdkatc A-tltam," magicians, revenged themselv(\s l)y (h'iving the deer,
 the antelop(% and every animal that is swift of foot and soft of fur and
 useful to human kind into a cave in the Aloam or Yc^ilow mountain,
 which lies south of the present Pimeriaand northeast of Baboquivari.
 This deprived the tribes of men of their chief support, and messengers
-were sent to see if some means could not be found by which the impris-
-oned animals could be liberated. One by one these agents failed to
+were sent to see if some means could not be found by which the imprisoned animals could be liberated. One by one these agents failed to
 
 "The luirago that distorts the early morning landwape In Plmeria Is called rsarsilkatc, and it is
 bellevod that it Is the spirits of the ancient magicians returned to earth.
 
 
-218 THE PIMA INDIANS [eth. ann. 26
-
 accomplish the task assigned to them. Year after year they returned
 without success. At last Coyote was sent to liberate the inhabitants
 of the cave, who exclaimed as they saw him coming, '*Now, we have
-a visitor who will do us harm." They thought to appease his appe-
-tite by offering a piece of meat in the hope that he would eat it and go
+a visitor who will do us harm." They thought to appease his appetite by offering a piece of meat in the hope that he would eat it and go
 away. When Coyote had roasted the meat in the fire and looked
 about him, he saw the gate of the cave and this is what happened :
 * * Where shall I put this meat ? It is hot. Where shall I put it ? It is
@@ -13685,22 +10920,16 @@ Then he showed that he had magic power, for he was able to go out
 and bring in deer without taking days of time like other hunters. He
 built a house (Va'-aki, now one of the ruins of Salt river), married, and
 settled down. Vantre was a thief, gambler, liar, and profligate who
-came to the house of A-anhitttpakI Si'van^", who, knowing his char-
-acter, did not wish to see him. Vantre brought four reeds filled with
+came to the house of A-anhitttpakI Si'van^", who, knowing his character, did not wish to see him. Vantre brought four reeds filled with
 tobacco, lighted one, and smoked it. A-anhittipakt Si'van'' would
 not speak to him and Vantre finally wont away. This happened three
 nights, but not a word was spoken until the fourth night, when
 A-anhiti1pakI told Vantre he would be his frienrl if Vantre would stop
 lying, stealing, and the like. He wouhl make the sticks called
-
-
-BUSSELL] MYTHS 219
-
 ki°tcs, and with them Vantre might win if he wished to gamble. He
 placed such magic power in the markings on the sticks that no one
 could win from Viintre. Elder Brother recognized the power in the
-sticks and told the people that they were powerless to win from Van-
-tre. Elder Brother told the man at whose house Vantre gambled
+sticks and told the people that they were powerless to win from Vantre. Elder Brother told the man at whose house Vantre gambled
 that if he would let his son and daughter work for him (Klder Brother),
 he would arrange it so that Vantre could not win from others. The
 man agreed. Elder Brother sent the son to a roosting place of large
@@ -13742,8 +10971,6 @@ there is a picture of him with the arrows in his hand, on the dollar.
 So the Americans must have knowai about him.)
 
 
-220 THE PIMA INDIANS tETii.ANN.26
-
 When Eagle was away Earth Doctor climbed the cliffs to his
 house, singing as he ascended :
 
@@ -13757,15 +10984,13 @@ With his shining power,
 
 Up the cliff, steep and smooth.
 Up the cliff, steep and smooth,
-
 lie climbs, step by step.
 
 He then carried on the following conversation with Eagle's wife:
 
 *Tan this baby talk?"
 
-*'No; he doesn't say very much and doesn't seem to know any-
-thing; he's too small."
+*'No; he doesn't say very much and doesn't seem to know anything; he's too small."
 
 *'Does Eagle ever sleep in the daytime?"
 
@@ -13789,8 +11014,7 @@ Ilaya yakahai yahai mo! Hay a yakahai mo!
 I am slei^py, I am sleepy.
 Haya yakahai yahai mo! I am sleepy.
 
-When Eagle returned, the baby tried to tell him what had hap-
-pened, and liis father inquired, **What made him say that? He
+When Eagle returned, the baby tried to tell him what had happened, and liis father inquired, **What made him say that? He
 never talked that way before ; besides, I smell scmiebody. Some one
 must have been here."
 
@@ -13813,8 +11037,6 @@ said:
 
 *^Oh, notliing; I was just playing with the baby; that's all."
 
-
-BUSSELL] MYTHS 221
 
 So he went to sleep ao^ain and again she whistled ; he awoke again
 and asked:
@@ -13842,8 +11064,7 @@ He arranged four periods, and each period contained four days. So
 to this day the man who kills an Apache must live sixteen days in
 the woods and subsist upon pinole.
 
-While these events were occurring here the people about Baboqui-
-vari wished to have Elder Brother come to them.
+While these events were occurring here the people about Baboquivari wished to have Elder Brother come to them.
 
 At the time when Elder Brother transformed Vantre into an eagle
 strange tilings happened to the people of Casa Grande. There is a
@@ -13859,15 +11080,12 @@ There were people living at some tanks on the east side of the
 mountains (Ta'-at<ikam) north of Picacho, and among them was a
 man named Tarsnamkam, Meet the Sun. He saw the beautiful stones
 used at Casa Grande and wished to get some of them ; but how was
-
-
 o" Mr J. D. Walkor. an old rrsidrnt of the \icinity of Casii Grande, who has boon to me personally
 an excellent friond and valuable informant, told me this tale:
 
 " ' The Gila I'imas claim to have been created on the banks of the river. After n^siding there for some
 time a great Hood came that destroyed the tribe, with the exception of one man, called Ci-ho. lie was
-of small stature and b«»came the ancestor of the present IMmas. The tribe, beginning to grow In num-
-bers, built the villages now in ruins and also spread to the north bank of the river. But there appeared
+of small stature and b«»came the ancestor of the present IMmas. The tribe, beginning to grow In numbers, built the villages now in ruins and also spread to the north bank of the river. But there appeared
 a monstrous eagle, which, occasionally assuming the shape of an old woman, ^isited the pueblos and
 stole women and children, carrying them to his abode in an inaccessil)le clifl. On one occasion the
 eagle seir.ed a girl with the intention of making of her his wife. Ci-ho thereupon went to the clifl, bat
@@ -13875,8 +11093,6 @@ found it impossible to climb. The girl, who was still alive, shouted down to him
 the asi.'ent. When the eagle came back Ci-ho slew him with a sword, and thus ]il)erated his people
 from the scoui^ge.' " A. F. Bandelier, Papers Archeol. Inst., ser. iv, pt. u, 462-4G3.
 
-
-222 THE PIMA INDIANS [eth. ann. 26
 
 he to do it? He made a fine green bird, 8tcu-ut<ik o'-oftk, parrot, and
 sent it to Casa Grande, telling it to swallow all the green stones it
@@ -13918,8 +11134,7 @@ either raw or cooked food. The people tried to ,kill her, because she
 killed and ate their children. She went to the moimtain Ta'-atdkam
 and lived there for a while in a cave. Then she went to Baboquivari
 for a time and then to Poso Verde, where she was killed by Elder
-Brother. As Elder Brother and the people were preparing to over-
-come the magic power of HtV&k they san<i; together:
+Brother. As Elder Brother and the people were preparing to overcome the magic power of HtV&k they san<i; together:
 
 Dazzling power has Elder Brother,
 
@@ -13957,8 +11172,7 @@ Throw a great stone.
 When he killed HA-ftk a great feast was made, just as when Eagle
 was killed, and to this day the cave remains there where Hfi,-ak was
 killed, and 2 or 3 miles distant is a stone inclosure, Hfi,-fi,k moakkfit,
-Place whore II&-tlk was killed. The people formerly placed offer-
-ings within the inclosure to bring theni good luck.
+Place whore II&-tlk was killed. The people formerly placed offerings within the inclosure to bring theni good luck.
 
 Another version of the same story states that VaktcuktcXth&p, the
 mosquito hawk, wished to marry the virgin at Casa Blanca, who had
@@ -13975,8 +11189,7 @@ she told her grandsons to go and see if they could find any of Hfi,-&k's
 blood, and if so to bring it to her. After the boys had brought the few
 drops of blood which they found among the rocks she put it into a
 dish and told them to look at it after four days. When they did so
-they found two eggs in the dish. On reporting this to their grand-
-mother she told them to look again after four more days. When they
+they found two eggs in the dish. On reporting this to their grandmother she told them to look again after four more days. When they
 looked they saw two little birds, at which their grandmother told them
 to look again at the end of four days. When they came to look they
 found two very beautiful birds. After four days the people came and
@@ -13995,15 +11208,12 @@ In proof of the story we may see the stone there to the present day.
 SS4 THK POfA IVDIABB [R
 
 ikftor the people had kOled Hiplk th^ feDo^
-boys, who had gone towaid the eeet with their penote. Hie pur-
-a doud of duet ae they went akng, which betrayed their
+boys, who had gone towaid the eeet with their penote. Hie pura doud of duet ae they went akng, which betrayed their
 I on the trail to the boys, who ezckimed, ''What diall we do ! "
 At length they aet free the pairota, which flew up into the mountaina,
-irtieie they concealed themaelvea in the foreet. Following their ex-
-ample, the boya haatened to the aame place, irtieie they au cce o a fully
+irtieie they concealed themaelvea in the foreet. Following their example, the boya haatened to the aame place, irtieie they au cce o a fully
 eluded the panaen. After the people had abandoned the aearch the
-boya went back to their former hcnne and f oond that thor grand-
-mother had been killed. She had left directaona which they canned
+boya went back to their former hcnne and f oond that thor grandmother had been killed. She had left directaona which they canned
 oat. They gave the body proper burial in the aand. At the end of
 louT-day periods she had told them to viait her grave until they saw a
 plant growing out of it; four daya after it appeared they were to
@@ -14024,29 +11234,23 @@ women.'' He showed them how to collect the bark of the tree which
 induces aleep.^ "Make this into a powder," said he, "and when you
 wish to overpower anyone just shake this before ihem." Then Elder
 Brother left the youths, who followed his instructions and found the
-love philter and the sleeping powder to be irresistible. But the peo-
-ple were incensed at their use of the charms and finally killed them.
+love philter and the sleeping powder to be irresistible. But the people were incensed at their use of the charms and finally killed them.
 
 Elder Brother continued to live in the cave at Baboquivari for
 some time. He went about the country from village to village seeking
-to do mischief. He sang the song of the menstrual period and accom-
-panied it by reviling the family of the young girls. At last the people
+to do mischief. He sang the song of the menstrual period and accompanied it by reviling the family of the young girls. At last the people
 could endure his pranks no longer and drove him away. He went to
 Mo^hatftk mountain, north of the Gila, and the people there gathered
 to destroy him.
 
 Elder Brother went into his house and the people came and clubbed
 him to death. They pounded his head until it was flat, then dragged
-
 a Tcuumt hidsik, a whitish lichen gathennl by the Pimas and kept In little bags or in hollow reeds
 3 or 4 inches long.
 
-^KA'sUakiU (" to make sleep"), said by the Papagos to stand on a mountain al>out 40 miles south-
-west of Peso Verde. So po we rf ul is it supposed to I le that those who go to gather the bark are overcome
+^KA'sUakiU (" to make sleep"), said by the Papagos to stand on a mountain al>out 40 miles southwest of Peso Verde. So po we rf ul is it supposed to I le that those who go to gather the bark are overcome
 with ileep if they do not hasten when cutting it.
 
-
-RUSSBLL] MYTHS 225
 
 him into the woods and left him there. The news was spread about
 the country that he was dead, but the next day he reappeared among the
@@ -14103,8 +11307,6 @@ mountain.
 26 KTH— 08 17
 
 
-226 THE PIMA INDIANS [eth. ann. 26
-
 After his death' his skeleton was exposed for a long time, until one
 day some boys were playing near where it lay. They heard a strange
 noise like thimder that shook the earth, though there were no clouds
@@ -14144,8 +11346,7 @@ Elder Brother told Coyote not to go near them until all had come
 forth. Coyote did not heed the caution, but went and looked down the
 hole and laughed, which caused the opening to close. Five gentes**
 had come out, and it is supposed that those that were shut in belonged
-to yet other gentes. Upon their emergence Elder Brother and his fol-
-lowers danced and sang as follows:
+to yet other gentes. Upon their emergence Elder Brother and his followers danced and sang as follows:
 
 Together we emerge with our rattles;
 Together we emerge with our rattles,
@@ -14164,8 +11365,6 @@ The land trembles with our dancing and singing.
 
 a See p. 197 .
 
-
-RUSSELL] MYTHS 227
 
 On these Black mountains all are singing,
 
@@ -14198,8 +11397,7 @@ Their chief wuth magic power fears me.
 In their house of adolxi w^e see their chief.
 
 The chief of this extensive pmeblo was Kia-atak Si'van>'. His
-forces w^ere defeated and his pueblo overrun by Ehler Brother's war-
-riors, who next moved to the villages about 4 miles west of Santan,
+forces w^ere defeated and his pueblo overrun by Ehler Brother's warriors, who next moved to the villages about 4 miles west of Santan,
 where they sang:
 
 Some will truly see;
@@ -14253,8 +11451,7 @@ fog throu^ whidi he continued his flight. Hie god of the fog drove
 it into the sky and he was seen escaping. He now realized that he
 had but one more chance for his life. When the fog had formed
 douds in the sky he took his bdt and threw it upward and climbed
-up and laid himself against the douds as a rainbow. It was impossi-
-ble for the god of the rainbow unaided to bring him down; he made
+up and laid himself against the douds as a rainbow. It was impossible for the god of the rainbow unaided to bring him down; he made
 several unsuccessful attempts before he hit upon the expedient of
 making some spiders which he sent after the rainbow. They f onned
 a web ov^r the bow and brou^t it to the earth and destruction.
@@ -14263,8 +11460,7 @@ Elder Brother's warriors were so astonished at the prowess of
 Tco'tcAk T&'tai SiVan^ that they thought he must have a strange
 heart, so they cut it open to see and, sure enough, they found within
 it a round green stone about the size of a buUet. The stone is kept
-to this day in a medicine basket which they captured with his grand-
-son. Before he had undertaken his flight he had told the boy,
+to this day in a medicine basket which they captured with his grandson. Before he had undertaken his flight he had told the boy,
 Kft'k&nyip, to go with his basket and hide under a bush; after the
 grandfather should be killed the lad should come, touch him, and
 swallow the odor of the body and he would acquire the power of
@@ -14343,22 +11539,15 @@ notliing but green plants and game found in the mountains. So one
 day K^'krinylp went to the mountains to searcli for })ro visions for his
 wife. lie killed a deer which it took him some time to dress. In the
 meantime the Apaches surrounded him. He fought bravely, but they
-succeeded in killing him. His father-in-law awaited his coming dur-
-ing the evening and through the night; then he called the people
+succeeded in killing him. His father-in-law awaited his coming during the evening and through the night; then he called the people
 together and told them that his son-in-la^v had disappeared. All
 searched until his body was found. Tliis they burned to ashes before
-
-
-230 THE PIMA INDIANS [eth.ann.26
-
-returning to their homes. After this event the people moved south-
-ward as far as Santa Rosa. There K&'kd'nyTp's son was bom. He
+returning to their homes. After this event the people moved southward as far as Santa Rosa. There K&'kd'nyTp's son was bom. He
 was named Pat' A'-anukam, and under his mother's care became a
 brave and noted man. While yet a boy he one day accompanied the
 people on a hunting expedition. Some of the hunters asked him many
 questions to learn if his mother thought about marrying them.^ He
-told his mother about these inquiries, which caused her to weep bit-
-terly. She told him how his father had been killed. After hearing
+told his mother about these inquiries, which caused her to weep bitterly. She told him how his father had been killed. After hearing
 this sad story he went into the council house and told the people that
 he wished to see the springs and other places where the Apaches
 obtained drinking water, and also to see the traUs they used. His
@@ -14406,8 +11595,6 @@ he cried.
 Sandy Coyote stopped and tried to restore his sight, but without
 success, finally concludmg that they had better return to their father
 
-
-EDSSBLL] MYTHS 231
 
 Coyote for assistance. After they had returned to land and Coyote
 had restored the sight of Yellow Coyote the two brothers went to
@@ -14464,8 +11651,6 @@ tried to enter he was caught by sticks and held fast in the doorway.
 a See p. 175.
 
 
-282 THE PIMA INDIANS [bth. ann. 2«
-
 He saw that the house was divided into two parts before him; even
 the fireplace was divided, and no one said a word to indicate which
 side he should enter. For a long time he was silent. Then he said :
@@ -14496,8 +11681,7 @@ dreamed that I had in my right hand a green ball, which I threw or
 kicked with my right foot toward the east. After I had kicked four
 times I reached the place where the sun comes up. When I turned
 around the darkness came behind me, but I kicked the ball four
-times and reached the place where the sun goes down, and the dark-
-ness did not catch me."
+times and reached the place where the sun goes down, and the darkness did not catch me."
 
 All his party were glad to hear of Black Beetle's dream, saying that
 it was a sign of good luck. So the next day Yellow Coyote said to
@@ -14519,15 +11703,12 @@ and see what kind of looking woman my elder brother's wife is."
 a Itany is the namo given % aaltbush, Atriplcx sp., tho seed of wl^ioh tt eatoii by tho Pi mas.
 
 
-sussBLL] MYTHS 238
-
 But the fire would not biUTi, and he got angry, exclaiming, '^What
 shall I do ? Here is that dirty syphilitic woman. I know her. I have
 passed her house many times, and I never thought she was to be my
 brother^ s wife. When she came in I smelled her breath, and the
 odor filled the house. What a lunatic my brother is to bring such a
-woman into the house." Then he covered the embers of the smol-
-dering fire and laid down to sleep.
+woman into the house." Then he covered the embers of the smoldering fire and laid down to sleep.
 
 After four days Yellow Coyote went away in the evening toward
 the southeast and came home with a wife at midnight. She belonged
@@ -14535,8 +11716,7 @@ to the people living on the Gila river supposed to be the ancestors of
 the Pimas, and her name was Ho-ony Of'I," Com Woman. When
 they entered the house Sandy Coyote said, '*I am going to build a
 fire and see what kind of looking woman my younger brother's
-wife is." But the fire would not burn, and he became angry, ex-
-claiming, *^What shall I do? Here is that dirty syphilitic woman.
+wife is." But the fire would not burn, and he became angry, exclaiming, *^What shall I do? Here is that dirty syphilitic woman.
 I know her. I have passed her house many times, and I never
 thought she was to be my brother's wife. When she came in I
 smelled her breath, and the odor filled the Louse. What a lunatic
@@ -14567,11 +11747,8 @@ and ate it. After that the boy killed many birds, rats, cottontails,
 and large hares. From time to time his mother made larger arrows
 and a heavier bow for him. One day he came running to his mother
 asking for a yet larger bow that he might kill a mule deer. She told
-
 a There is a conflict of opinion as to which of these two women was married by Sandy Coyote.
 
-
-284 THE PIMA INDIANS [kth. ann. 26
 
 Him that oiily a grown man and not even he single handed could kill
 a mule deer. But he insisted, saying that he could kill it. So she
@@ -14600,8 +11777,7 @@ have found a home somewhere in this country, for this is his arrow."
 
 Sandy Coyote admitted that it was his son's [nephew's] arrow.
 ''Give it to me, and I will some day go there and give it to him," he
-said. The next day Sandy Coyote searched for and found his broth-
-er's widow and her son. When he reached their house he went in
+said. The next day Sandy Coyote searched for and found his brother's widow and her son. When he reached their house he went in
 and saw them eating a dish of meat. ^'Here, take your arrow,"
 said he. ** You shot a deer, which carried it away and your father's
 brother found it, brought it to his home, and inquired whose it was.
@@ -14621,14 +11797,9 @@ home to my own people, where I may get sometliing to bring to you,
 and then you may go and play ki"ts with Sandy Coyote, who killed
 j'^our father: I think you are clever enough to beat him now. " For
 mail}' daj's he waited for his mother to return, and at last he went
-
-
-RUSSELL] MYTHS 235
-
 after her. On the way he saw two attractive girls approaching him.
 Turning aside, he lay down beside the trail and began to sing a
-pleasing song just after the girls had passed liim. Surprised at hear-
-ing a voice behind them, they looked back to see wlience it came,
+pleasing song just after the girls had passed liim. Surprised at hearing a voice behind them, they looked back to see wlience it came,
 but could find no one. They saw nothing except a dead body that
 was well advanced with decay. WTien they started on they heard
 the singing again, but when they renewed the search they could find
@@ -14653,15 +11824,13 @@ elder girl came and discovered the young man, and she also came to
 him. But the younger said, "You scolded me for bringing liim here;
 now you may go out and leave him to me. "
 
-Finally the young man said, "Go out, both of you, and cook some-
-thing for me to eat; I am hungry." So they both went to do as he
+Finally the young man said, "Go out, both of you, and cook something for me to eat; I am hungry." So they both went to do as he
 wished. The next day the husband of the two young women came
 home, and was very angry at finding the young man there.
 
 "Put up one of your wives, ^' said he, "and we will have a game.''
 
-The young man said, "I have nothing to wager." But the hus-
-band replied, "Put up one of your wives." Then the young man
+The young man said, "I have nothing to wager." But the husband replied, "Put up one of your wives." Then the young man
 said, "You must put up your shirt.'' And it was the turn of the
 husband to reply, "I have no shirt."
 
@@ -14709,8 +11878,7 @@ now before they begin to build their nests. "
 Then the young man said, "Well, if I go and bring those eggs to.
 you and show you that I was telling the truth I shall win our wager,
 if I do not bring them you shall win. '' So the young man went out
-and brought the eggs. After the wager had been .paid they pre-
-pared for another game and another wager was laid. When they
+and brought the eggs. After the wager had been .paid they prepared for another game and another wager was laid. When they
 were ready the young man cut his toe nail and threw it into the
 west, where it hung, looking like the rim of the new moon.
 
@@ -14740,11 +11908,8 @@ So Sandy Coyote thought he could do it easily, and took hold of
 the young man to carry him to the other side, but he found the man
 so heavy that ho could not move liim. So Sandy Coyote lost again,
 and was comf)ello(i to admit that he had lost all that he had. The
-young man said lie would like to have Sandy Coyote wager him-
-self, if he had nothing else, and the other agreed to this.
+young man said lie would like to have Sandy Coyote wager himself, if he had nothing else, and the other agreed to this.
 
-
-RUSSELL] MYTHS 237
 
 When they were ready to throw tlie ki"ts the young man said,
 ''Your cane is looking at me very sharply; I would like to have it
@@ -14769,12 +11934,10 @@ they went on agam and camped in the evening. That night the
 elder wife turned herself into a black spider. At the end of the next
 day's journey they camped again, and that night the remaining wife
 turned herself into a yellow spider. The young man was left alone
-the next day, hut he hoped to reach his mother's people, and so jour-
-neyed on until nightfall, when he camped. Durhig the night he
+the next day, hut he hoped to reach his mother's people, and so journeyed on until nightfall, when he camped. Durhig the night he
 turned himself hito a rough black lizard.
 
-Even to this day Coyote is known as the wise one. It is dan-
-gerous to kill or harm liim, for he will avenge himself by stealing or
+Even to this day Coyote is known as the wise one. It is dangerous to kill or harm liim, for he will avenge himself by stealing or
 doing worse mischief. He knows well the house of th(» one who tries
 to injure him, no matter where the deed may have been performed.
 And yet he is not always unfriendly, for if he is heard to cry out as
@@ -14803,55 +11966,37 @@ must speedily beset the ethnological investigator as soon as the older people sh
 I* Rsukoi.
 
 
-288 THE PIMA INDIANS [eth. axn. 26
-
 time this darkness was still on yet. so the first he made water, when
-
 he had done this work, he took the water and throught up in Heaven.
 
 which means stars, also he made the moon and mialk-way. to give
-
 more Ught. he also made the sun. which is greater then what he made.
 
 now in those day's there, at a ceatan day. He sitted himself to made
-
 a j&rst man out of a very hard mud. and there was another man name
 
 (Sis Hia.) and (Gia- (via mack)
 
 These two men begain too make all kinds of living creaters. and when
-
 these two men made men out of hard mud the pleaced at a house to
-
 see what will be, in a day or two.
 
 now when these men pleaced at. they want a Uttle way to
-
 see what will be done with they work, so the haerd sone one speacking
-
 in that house, but could not understand, next there was another one
-
 speacking in our Lounger and Sie Hia) said that he imderstand that
-
 will be great wares to all nathion, not very long after this poeple at
 
 Mesa trying to make a ditch, so they gather one day saking each other
-
 of way to get water.
 
 And one of these pearty said that there was man name Cea-gens who
-
 knows much about ditch, so the send for, when this Cea-vens) came
-
 to there camp, and told them that the must make a spath out of a
-
 tree call (Oie a came) so they work on for quite a while.
 
 while the working this man Cea-ven went away for some reason,
-
-while he way. these poeple at mesa had a great trouble anong them-
-
-self.
+while he way. these poeple at mesa had a great trouble anong themself.
 
 there where begain they war.
 
@@ -14884,8 +12029,6 @@ and would not let his brother give what he got first.
 a Club. b Shield.
 
 
-RDSSELL] MYTHS 239
-
 CHILDREN OF CLOUD
 
 [Told by Inasa]
@@ -14893,8 +12036,7 @@ CHILDREN OF CLOUD
 When the Hohokam dwelt on the Gila and tilled their farms about
 the Great Temple that we call Casa Grande there wa.s eliagrin among
 the young men of that people, for the prettiest woman would not
-receive their attentions. Slie would accept no man as her hus-
-band, but Cloud came out of the east and saw her and determined tc
+receive their attentions. Slie would accept no man as her husband, but Cloud came out of the east and saw her and determined tc
 marr^' her. The maiden was a skillful mat maker, and one day she
 fell asleep when fatigued at her labor. Then Cloud sailed through the
 skies above and one large rain drop fell upon her; immediately twin
@@ -14903,8 +12045,7 @@ boys were bom."
 Now all the men of the pueblo claimed to be the father of these
 children. After enduring their clamors for a long time the woman
 told her j>eople to gather in a council circle. Wlien they had come
-she placed the children within the circle and said, ''If they go to any-
-one Jt w^ill prove that he is their father." The babies crawled about
+she placed the children within the circle and said, ''If they go to anyone Jt w^ill prove that he is their father." The babies crawled about
 within the circle but climbed the knees of no one of them. And so it
 was that the woman silenced them, saying, ''I wish to hear no one of
 you say, 'these are my children,' for they are not."
@@ -14915,8 +12056,7 @@ we call father^ Who can we nm to as he returns from the hunt and
 from war and call to as do our playmates?"
 
 And the mother answered: "In the morning look toward the east
-and you will see white Cloud standing vertically, towering heaven-
-ward; he is your father."^
+and you will see white Cloud standing vertically, towering heavenward; he is your father."^
 
 '^Can we visit our father?" they inquired.
 
@@ -14940,11 +12080,8 @@ Earth was asleep and a drop of rain fell upon her, causing conception) two gods 
 thousands of miles away from here." Journal of American Folk-Lore, ii, 178.
 
 6 Among the Navahos Sun is the father of the twins who grow to manhood in four days and then set
-out to find their parent. See Washington Matthews, The Navajo Mythology, in American Antiqua-
-rian, V. 216, 1883.
+out to find their parent. See Washington Matthews, The Navajo Mythology, in American Antiquarian, V. 216, 1883.
 
-
-240 THE PIMA INDIANS [eth. axn. 26
 
 *'Show me that you are my children/' said he; *4f you are, you can
 do as I do/' Then the yoimger sent the chain Ughtning with its
@@ -14953,8 +12090,7 @@ distant diapason tones. "You are my children," exclaimed Cloud,
 "you have power like unto mine.'' As a further test he placed them
 in a house near by where a flood of rain had drowned the inmates.
 "If they are mortals," thought he, "they will be drowned like the
-others." Unharmed by the waters about them, the children demon-
-strated their power to survive, and Cloud then took them to his home,
+others." Unharmed by the waters about them, the children demonstrated their power to survive, and Cloud then took them to his home,
 where they remained a long time.
 
 When they longed to see their mother again. Cloud made a bow
@@ -14964,8 +12100,7 @@ journeyed, and admonished them against speaking to anyone that
 they might meet on the way. As the boys were traveling toward
 the westward, they saw Raven coming toward them, but tliey
 remembered their father's injunction against speaking and turned
-aside so as not to meet him. They also turned aside to escape meet-
-ing Roadrunner, Hawk, and Eagle. Eagle said: "Let's scare those
+aside so as not to meet him. They also turned aside to escape meeting Roadrunner, Hawk, and Eagle. Eagle said: "Let's scare those
 children." So he swooped down over their heads, causing the boys
 to cry from fright. "Oh, we just wanted to tease you, that's all;
 we don't mean to do you any harm," said Eagle.
@@ -14982,8 +12117,7 @@ transformed into the largest mescal that was ever known. The place
 was near Tucson.
 
 This is the reason why mescal yet grows on the mountains and why
-the thunder and lightning go from place to place — because the chil-
-dren did. This is why it rains when we go to gather mescal."
+the thunder and lightning go from place to place — because the children did. This is why it rains when we go to gather mescal."
 
 a A similar version of this myth was related to Lieutenant Emory by the interpreter of the Chief Juan
 Antonio LIunas. This man said: •' That in bygone days a woman of surpassing beauty resided in a
@@ -14992,15 +12126,12 @@ court to her. She received the tributes of their devotion— grain, skins, etc.�
 favor in return. Her virtue and her determination to remain unmarried were eqtially firm. There
 came a drouth which threatened the world ^^ith famine. In their distress the people applied to her,
 and she gave com from her stock, and the supply seemed to be endless. Her goodness was unbounded.
-One day as she was lying asleep with her body exposed a drop of rain fell on her stomach, which pro-
-duced conception. .\ son was the issue, who was the founder of a new race wliich built all these houses,"
+One day as she was lying asleep with her body exposed a drop of rain fell on her stomach, which produced conception. .\ son was the issue, who was the founder of a new race wliich built all these houses,"
 
 When he was asked if he believed the story he replied: " No; but most of the riinos do. We know,
 in truth, nothing of their origin. It is all enveloped in mystery." W. H. Emorj', Notes of a Military
 Reconnoissance, S. Kx. Doc. 41. 83. 3()th Cong., first sess., 1848.
 
-
-RUSSELL] MYTHS 241
 
 SKULL AND HIS MAGIC
 
@@ -15029,11 +12160,9 @@ ORIGIN OF THE HORSE
 
 Two brothers w^ho lived apart from their kinsfolk were skillful deer
 hunters. Day by day they followed the deer and antelope, and when
-their chase was successful they carried the game home on their shoul-
-ders. This was heavy work, and at last the elder in the goodness of
+their chase was successful they carried the game home on their shoulders. This was heavy work, and at last the elder in the goodness of
 his heart took pity on his younger brother, saying: "You must help
-me to carry out my plans and I shall become transformed into some-
-thing that will be useful to you. Shoot an arrow through my body
+me to carry out my plans and I shall become transformed into something that will be useful to you. Shoot an arrow through my body
 from front to back and another from side to side; cut me transversely
 into four pieces and throw them into the water. In four days you
 may come back and see what has happened."
@@ -15046,13 +12175,10 @@ warning, and ho had provided himself with a rope, which he tied around
 the neck of one of the horses, took a half hitch in its mouth, and rode
 it home, driving the others.
 
-Thereafter horses multiplied in Pimeria and in time all were pro-
-vided with nionnts, though had it not been for the sacrifice of the
+Thereafter horses multiplied in Pimeria and in time all were provided with nionnts, though had it not been for the sacrifice of the
 good brother we should never have had any.
 26 CTU— 08 18
 
-
-242 THE PIMA INDIANS [btth. ann. 20
 
 Another version
 
@@ -15076,7 +12202,6 @@ result of his sacrifice. When the young man returned he found two
 horses, a male and a female.
 
 Nursery Tales
-
 the five lhtle orphans and their aunt
 
 Five Httle Indians (not Pimas) were once left orphans because their
@@ -15084,8 +12209,7 @@ parents had been killed by Apaches, and they got their aunt (their
 mother's younger sister) to come and live with them. She had no
 man, and it was very hard for her to take care of them. One day the
 children all went away to hunt, and they were met by five little rabbits
-(cottontails) in the mountains. The oldest of the rabbits came run-
-ning to the children and crying, * 'Don't shoot me; I have something
+(cottontails) in the mountains. The oldest of the rabbits came running to the children and crying, * 'Don't shoot me; I have something
 to tell you." So the children stood still and the rabbit said, **The
 Apaches have come to your place and burned down all the houses;
 you had better go home now." But the children surrounded the
@@ -15101,11 +12225,8 @@ looked so unnatural in death that they thought it was somebody else,
 and that their aunt had gone away. They had never soon a dead
 person before. So they said , ' ' Let us dig a big hole and make a fire all
 day long and j)ut hot stones in it, for she has gone to the mountains to
-
 o Twenty-five miles southwest of Tucson.
 
-
-RUSSELL] NURSERY TALES 248
 
 get some mescal. '^ So they did, and waited all day long till sunset,
 when she usually came, but she did not come. Then they said, **She
@@ -15162,8 +12283,6 @@ Coyote asked it the same question. There w^as no answer, and Coyote
 said, "I know it w^as you, because you do not answer." So he bit
 into it very hard and it killed him.
 
-
-244 THE PIMA INDIANS [eth. ann. 26
 
 THE WOMAN AND COYOTE
 
@@ -15240,8 +12359,7 @@ of hawks, and they fell upon the Apaches and beat them all to death
 with their w^ngs.
 
 Then they turned back into the boy again and he and his mother
-started home. But when they reached the place where the grand-
-mother had turned back they could go no farther. They turned into
+started home. But when they reached the place where the grandmother had turned back they could go no farther. They turned into
 saguaros, one on each side of the road.
 
 THE BIRDS AND THE FLOOD
@@ -15292,8 +12410,7 @@ On the fourth morning it shed all its feathers and came out in its
 bare skin, but on the fifth morning it came out with blue feathers.
 
 All this while Co^'ote had been watching the bird; he wanted to
-jump in and get it, but was afraid of the water. But on that morn-
-ing he said, "How is this all your ugly color has come out of you,
+jump in and get it, but was afraid of the water. But on that morning he said, "How is this all your ugly color has come out of you,
 and now you are all blue and gay and beautiful? You are more
 beautiful than anything that flies in the air. I want to be blue, too."
 Coyote was at that time a bright green. *' I only went in four times,"
@@ -15310,8 +12427,7 @@ And to this day all coyotes are the color of dirt.
 
 THE BOT AND THE BEAST
 
-Once an old woman lived with her daughter, son-in-law, and grand-
-son. They were following the trail of the Apaches. Whenever a
+Once an old woman lived with her daughter, son-in-law, and grandson. They were following the trail of the Apaches. Whenever a
 Pima sees the track of an Apache he draws a ring around it with a
 stick, and then he can catch him sooner. But at night while they
 were asleep the Apaches came and grasped the man and woman by
@@ -15321,8 +12437,7 @@ had to live on berries, but in one place a strange beast, big enough
 to swallow people, camped by the bushes. The grandmother told
 the boy not to go there, but he disobeyed her; he took some very
 sharp stones in his hands and went. As he came near the animal
-began to breathe and the boy just went inside of him and was swal-
-lowed all up. But with his sharp stones he cut the intestines of the
+began to breathe and the boy just went inside of him and was swallowed all up. But with his sharp stones he cut the intestines of the
 beast so that he died. When the grandmother came to hunt for
 the boy he came out to meet her and said, **I have killed the animal."
 
@@ -15367,20 +12482,17 @@ until finally the oldest boy said, '^I will turn into a saguaro, so I
 shall last forever, and bear fruit every^ summer." And the younger
 said, ''Well, I will turn into a palo verde and stand there forever.
 These mountains are so bare and have nothing on them but rocks,
-so I will make them green.'' The old woman heard the cactus whis-
-tling and recognized the voice of her grandson; so she went up to it
+so I will make them green.'' The old woman heard the cactus whistling and recognized the voice of her grandson; so she went up to it
 and tried to take it into her arms, and the thorns killed her.
 
 And that is how the saguaro andrpalo verde came to be.
 
 Abstracts of Myths
-
 the creation myth
 
 Out of primeval darkness spirit of Earth Doctor developed. He
 first created creosote bush from dust. Next created black ants and
-termites; these caused the world to develop and P^arth Doctor cre-
-ated the sk^^ Then made gray spider and commanded it to spin
+termites; these caused the world to develop and P^arth Doctor created the sk^^ Then made gray spider and commanded it to spin
 web connecting edges of earth and sky. Threw blocks of ice into
 the sky for sun and moon and spray of water for stars; large stars
 made from magic crystal, and milky way by walking stick dipped in
@@ -15390,8 +12502,7 @@ of clay. Earth became overpopulated, as there was no death yet,
 
 348 THK PIMA nr0IA3ti \wxm.^m-lM
 
-«o Eftjth Doctor pullc^l the sky down t>n the earth and cfnish^ erery-
-thini^ to death. But he came through a hole to the other &icle and
+«o Eftjth Doctor pullc^l the sky down t>n the earth and cfnish^ ererythini^ to death. But he came through a hole to the other &icle and
 madi^ a new creation. Alter a time Eider Brother, a riTal to Earth
 Doctor, arose and threatened to destroy the people again- This
 aee^iin pitched » through the rhild of Elder Brothers agent and South
@@ -15404,8 +12515,7 @@ Doctor
 
 After the flood Eld<?r Brother wft« the ruler and Earth Doctor and
 Coyote his suhordinatefi. WTien they found the middle of the land
-they all took part in a new creation- First death caused by Eattle-
-anake hitinji: Rabbit, Burning i^oqjse stolen by Coyote: afterwards
+they all took part in a new creation- First death caused by Eattleanake hitinji: Rabbit, Burning i^oqjse stolen by Coyote: afterwards
 he abu^icd the woman and in retaliation the magicians concealed all
 file useful nnlmals in a cave; thene released by Coyote.
 
@@ -15429,8 +12539,7 @@ above tmder his leadership and conquered the people there.
 
 OOTOTB
 
-After closing up by his laughter the hole through which the imder-
-world people were coming up, Coyote wandered to the west, and one day
+After closing up by his laughter the hole through which the imderworld people were coming up, Coyote wandered to the west, and one day
 made two other coyotes from his image ih the water, Sandy Coyote
 and Yellow Coyote. They sailed on logs across the water, but Yellow
 became blind and they turned back and went to live near the Grand
@@ -15440,8 +12549,6 @@ latter won for Yellow. Sandy finally won Yellow's body and soul
 and killed him. Death finally avenged by his son, who won from
 Sandy by stratagem.
 
-
-RUSSELL] ABSTRACTS OF NURSERY TALES 249
 
 CHILDREN OF CLOUD
 
@@ -15495,12 +12602,9 @@ she was standing on a stump; when he jumped he was drowned in
 the deep water.
 
 
-250 THE PIMA INDIANS (eth-axx.26
-
 THE PIMA CAPTIVE AND HER SOX
 
-Boy whose mother captured by Apaches lived with his grand-
-mother. Quarreled with her and started to find his mother. Reach-
+Boy whose mother captured by Apaches lived with his grandmother. Quarreled with her and started to find his mother. Reach-
 ing her he turned into a dove, and she carried him home; Apaches
 heard her talking in her language to it, so the chief crushed it in his
 hand; pieces flew up through the smoke hole and turned into flock
@@ -15541,19 +12645,15 @@ their religion comprised a belief in the supernatural or magic power of
 animals, and especially in the omnipotence of the Sun. When in
 mourning, sick, or in need, the Pima addressed his prayers to the Sun in
 the morning: Tars! Oek i'up sInha-IkuHtOk iup In'yimak kuVkutCQd!
-*'Sun! Kindly help me through the day!" Or at nightfall his peti-
-tion was raised: Stcoho'komam ! Oek iup slnh^'IkuHtOk iup Inylmak
+*'Sun! Kindly help me through the day!" Or at nightfall his petition was raised: Stcoho'komam ! Oek iup slnh^'IkuHtOk iup Inylmak
 kukutftki! ''Darkness! Kindly help me through the night!" The
 followint^ form of supplication was often employed: Tars! Pa'pCititcfi
 slnhtl'l-iku[ldi], contracted from Tars! Pa'pCit itcok'si slnhA'IkuIt,
 *'Sun! There, have mercy on me." When weary upon a journey, the
 
 
-RUSSELL] RELIGION 251
-
 Sun was appealed to, and the first whifF of cigarette smoke was puffed
-toward him. The disk was not regarded as the "shield" or '* head-
-dress/' but as the veritable person of the god. lie moves unceasingly
+toward him. The disk was not regarded as the "shield" or '* headdress/' but as the veritable person of the god. lie moves unceasingly
 around the flat earth, going beneath the western rim and passing
 across below to rise in the east.
 
@@ -15572,21 +12672,17 @@ them. The former governs the winds, the rains, etc. ; sometimes he
 is called Tciors, Dios [Spanish]. Their names are pronounced when
 a person sneezes, or, he may simply exclaim 'pit}^ me,' referring
 tacitly to one or the other of these two deities. There is a puzzling
-mingling of the old and the new in the myths, though it seems prob-
-able that the greater part of them have been of ancient origin with
-recent adaptation of Earth Doctor and Elder Brother from the Chris-
-tian religion. Among the Pimas themselves opinion is divided as to
+mingling of the old and the new in the myths, though it seems probable that the greater part of them have been of ancient origin with
+recent adaptation of Earth Doctor and Elder Brother from the Christian religion. Among the Pimas themselves opinion is divided as to
 whether the myths have been largely adopted from the Papagos.
 
-At the solstitial point in the northeast lives Tcopiny Makai, Sink-
-ing Magician, who also has a ^' house'' in the northwest. In the
+At the solstitial point in the northeast lives Tcopiny Makai, Sinking Magician, who also has a ^' house'' in the northwest. In the
 southeast lives Vakolif Makai, South Magician, who also occupies
 the corresponding point in the southwest. Along the Sun's path are
 the houses of the four minor gods:
 
 Wupuki Makai, Lightning Magician, is the southernmost, and when
-the Sun is in his neighborhood we have lightning that is not accom-
-panied by thunder.
+the Sun is in his neighborhood we have lightning that is not accompanied by thunder.
 
 Toahim Makai, Thunder Magician, causes the thunders that are
 heard during the second month.
@@ -15605,18 +12701,13 @@ wise.
 When a coyote comes by moonlight and sees the shadow of a
 chicken he can pounce upon the shadow and so bring down the bird
 within reach. He has been known to steal a baby from between its
-
-
-252 THE PIMA INDIANS [eth. ann.26
-
 sleeping parents^ an informant declared. Considering the manner
 in which the moon is supposed to have originated, it is strange that
 it should contain the figure of a coyote. No explanation of this
 belief was found.
 
 The stars are living beings: Morning Star is the daughter of a
-magician; her name is Su'mas Ho'-o, Visible Star. Polaris is the Not-
-walking Star, but is otherwise not distinguished from his fellows.
+magician; her name is Su'mas Ho'-o, Visible Star. Polaris is the Notwalking Star, but is otherwise not distinguished from his fellows.
 Possibly this term has been adopted since the advent of the whites.
 Once a mule \\dth a pack load of flour was going along in the sky,
 but he was fractious and not gentle, as is the horse. He bucked oflF
@@ -15636,8 +12727,7 @@ of a death, it was believed that it was waiting for the soul. Referring
 to the diet of the owl, dying persons sometimes said, ''I am going
 to eat rats." Owl feathers were always given to a dying person.
 They were kept in a long rectangular box or basket of maguey leaf.
-If the family had no owl feathers at hand, they sent to the medicine-
-man, who always kept them. If possible, the feathers were taken
+If the family had no owl feathers at hand, they sent to the medicineman, who always kept them. If possible, the feathers were taken
 from a Uving bird when collected ; the owl might then be set free
 or killed. If the short downy feathers of the owl fell upon a person,
 he would go blind. Even to-day the educated young people are
@@ -15646,7 +12736,6 @@ owl."
 
 By some it is said that after death souls go to the land of the
 dead in the east.^ All souls go to Si'allk Rs&n, Morning Base, or
-
 a " Ha\ing Ijoen askod what information they possosflcd of their ancestors (a7i/rpa»ad«M), they told
 mc about the same things as (Jo mismo poco mas 6 mrnos que) the (Fimas [Maricopas?]) Gilefios said
 to the aefior comandante, and Padre Font put in his diary, concerning the deluge and creation; and
@@ -15675,13 +12764,11 @@ land of the living by the chasm called Tcu'wut Hi'ketany, Earth
 Crack. When one of the writer's interpreters had gone to school at
 Hampton, Va., lier associates said that she had gone to the abode of
 spirits. All is rejoicing and gladness in that other world. There
-they will feast and dance, consequently when one dies his best cloth-
-ing must be put on and his hair must be dressed with care, as Ls the
+they will feast and dance, consequently when one dies his best clothing must be put on and his hair must be dressed with care, as Ls the
 custom in preparing for an earthly ceremony. No idea of spiritual
 reward or punishment for conduct in this life exists.
 
-Again, the souls of the dead are supposed to hang about and per-
-form unpleasant pranks with the living. They are liable to present
+Again, the souls of the dead are supposed to hang about and perform unpleasant pranks with the living. They are liable to present
 themselves before the living* if they catch the right person alone at
 night. The ghost never speaks at such times, nor may any but
 medicine-men speak to them. If one be made sick by thus seeing
@@ -15690,13 +12777,11 @@ offending soul and tell it to be quiet, "and they always do as they
 are bid.'^ Old Kisatc, of Santan, thought that the soul continued
 to reside in the body as that was "its house." During his youth
 he had accompanied a medicine-man and a few friends to the grave
-of a man who had been killed near Picacho, about 40 miles south-
-east of Sacaton. The medicine-man addressed the grave in a long
+of a man who had been killed near Picacho, about 40 miles southeast of Sacaton. The medicine-man addressed the grave in a long
 speech, in which he expressed the sorrow and regret of the relatives
 and friends that the corpse should thus be buried so far from home.
 Kisatc avers that the spirit within the grave replied to the speech by
-saying that he did not stay there all the time, but that he occasion-
-ally went over to hang about the villages, and that he felt unhappy
+saying that he did not stay there all the time, but that he occasionally went over to hang about the villages, and that he felt unhappy
 in the state in which he found himself. Of course the medicine-men
 claim to be in communication with the spirits of the departed as well
 as with supernatural beings capable of imparting magic power.
@@ -15713,7 +12798,6 @@ dreams.
 To dream of the dead causes sickness in the dreamer and if he
 dream of the dead for several nights in succession he will die. Dreams
 are not consulted for information concerning future action except in
-
 ish the corn in thf valleys nn<l the grass on tho hills? Therefore it is that when we are in need we
 pray to Estsamiltehi. th«' (Joddess of the Sunset Land.
 
@@ -15760,8 +12844,7 @@ to form furrows about 50 cm. wide (fig. 102). The body furrow is
 35 m. long and has a small heap of stones at the head, another
 at a distance of 11 m. from the first, and another at the junction of
 body and legs. The latter are 11m. long and 1 m. apart. The
-arms curve outward from the head and terminate in small pyra-
-mids. In all the piles of stone, which have a temporary and modem
+arms curve outward from the head and terminate in small pyramids. In all the piles of stone, which have a temporary and modem
 appearance, are glass beads and rags, together wth fresh creosote
 branches, showing that the place is yet visited. The beads are
 very old and much weathered. Beside the large figure is a smaller
@@ -15770,23 +12853,15 @@ have slept one night at this place before reaching H4-&k Tcia
 H^k, a cave in the Ta-attikam mountains, where she remained for
 some time.
 
-I'aksk', Place of Sacrifice, is a heap of stones on a knoll near Black-
-water where it is probable that a Hohokam or Pima medicine-man
+I'aksk', Place of Sacrifice, is a heap of stones on a knoll near Blackwater where it is probable that a Hohokam or Pima medicine-man
 has been buried.
-
-
-RUSSELL]
 
 
 RELIGION
 
 
-255
-
-
 Pat'anlkam, Place of the Bad One, is the name of a ^rave at Gila
-Crossing. It seems probable that the grave of some ITohokam medi-
-cine-man has been taken for that of the son of Kakanyp.
+Crossing. It seems probable that the grave of some ITohokam medicine-man has been taken for that of the son of Kakanyp.
 
 There is another similarly inclosed but iinnamod grave at Gila
 Crossing, also one between Sweetwater and Casa Blanca, and there
@@ -15819,8 +12894,6 @@ cover all the winds of heaven rushed forth and blew away all the
 people thereabout.
 
 
-256 THE PIMA INDIANS Ieth.ans.26
-
 Near the summit of one of the lava-formed Santan hills is a small
 cave in which the Hohokam placed sacrifices. A number of articles
 were discovered there a quarter of a century ago and sent to some
@@ -15836,8 +12909,7 @@ which they were scratching their own heads at the time.
 
 When a medicine-man dies his paraphemaUa, if not transmitted to
 his descendants, may be placed in an olla and hidden under a heap of
-stones in the hills. He may also sacrifice a part of his stock in a simi-
-lar way during his Ufetime. The property of warriors is sometimes
+stones in the hills. He may also sacrifice a part of his stock in a similar way during his Ufetime. The property of warriors is sometimes
 similarly cached.
 
 Such places were formerly respected by the tribe, but they are now
@@ -15853,8 +12925,7 @@ villages.
 Medicine- MEN
 
 There are three classes of medicine-men among the Pimas. Those
-who treat disease by pretended magic are known as Si'atcokam, Exam-
-ining Physicians. As many women as men belong to this order,
+who treat disease by pretended magic are known as Si'atcokam, Examining Physicians. As many women as men belong to this order,
 to which entrance is gained chiefly through heredity. This is the
 most powerful class in the community, though its members pay for
 their privileges at imminent risk. How great this risk is may be seen
@@ -15881,13 +12952,11 @@ simple remedies, yet they are the true })hysicians of the Pimas. It
 may be that among the many empiric remeches which they employ
 some will be found to possess true therapeutic (jualities.
 
-The traditional history of the tribe tells of many famihes of medi-
-cine-men, and the profession was very generally handed dovv^l from
+The traditional history of the tribe tells of many famihes of medicine-men, and the profession was very generally handed dovv^l from
 father to son. Those receiving magic power in this manner were
 somewhat more highly regarded than others. A second method by
 which a person might secure power was by what might be termed a
-process of natural selection; anyone who recovered from a rattle-
-snake bite on the hand or near the heart might become a medicine-
+process of natural selection; anyone who recovered from a rattlesnake bite on the hand or near the heart might become a medicine-
 man or medicine-woman. A third method was by dreams and
 trances. Kisatc said that during his youth he had dreamed every
 night that he was visited by some one who endowed him with magic
@@ -15897,16 +12966,14 @@ These dreams are not sought by fasting or other unusual ccmditions,
 nor does the person to whom they come seclude liimself from his
 fellows.
 
-Several informants declared that '^any man who received instruc-
-tion from a medicine-man and learned to do some little tricks could
+Several informants declared that '^any man who received instruction from a medicine-man and learned to do some little tricks could
 become a medicine-man." The process of acquiring power was called
 va'Ikita, '* getting power" (literally, "pouring in olla"). The novice
 was tested, either alone or along with one or more fellow-aspirants,
 by the medicine-man, who had the youth kneel before him on all fours,
 and then threw four sticks, each about S inches long, at him. If
 the novice fell to the ground during the throwing he was '^shot" with
-the power and could then take the next degree. This was admin-
-istered by the instructor, who ^* coughed up" tcu'tcaka (word of
+the power and could then take the next degree. This was administered by the instructor, who ^* coughed up" tcu'tcaka (word of
 unknown meaning), white balls the size of mistletoe berries, and
 rubbed them "into" the breast of the novice. Another informant
 said that the novice swallowed the balls. Four or five balls were thus
@@ -15918,8 +12985,6 @@ off the supply continued undiminished.
 
 Sometimes the doctor w^ished to teach the youth, in which case the
 latter paid nothing for his instruction." But the usual fee was a
-
-
 a "The Indians of the nation of Loretto had schools, whereby these professors instructed their youths
 In the above opinions, and some other needless puerilities: but recommended to them as tniths of great
 importance. In order to this, their pupils attended them to caves or solitary places, at a distance
@@ -15930,11 +12995,8 @@ importance. In order to this, their pupils attended them to caves or solitary pl
 V
 
 
-258 THE PIMA INDIANS [bth. ann. 26
-
 horse, ^'a piece of calico/' or the like. Throughout the period of his
-initiation the novice was not permitted to go near a woman's men-
-strual lodge nor might he allow anyone to know that he was learning;
+initiation the novice was not permitted to go near a woman's menstrual lodge nor might he allow anyone to know that he was learning;
 that impUed that he should not practise until the end of the novitiate
 period, usually two years, sometimes four. When at length he began
 to practise his success depended on his abiUty to develop dreams
@@ -15955,8 +13017,7 @@ found to contain wheat instead of earth. Four grains were given
 to each one present, to be buried at the comers of the fields or the
 four grains together at the center.
 
-For a consideration the Makai would go to a wheat field and per-
-form rites which he assured the owner would result in a heavy yield
+For a consideration the Makai would go to a wheat field and perform rites which he assured the owner would result in a heavy yield
 of wheat. After rolling and smoking a cigarette at "iBach comer of
 the field, he would go to the center of it and bury a stick (&'mlna)
 3 or 4 inches long.
@@ -15976,7 +13037,6 @@ imitated by concealing several grains of wheat in the hair and shaking
 them down upon the soil. Then by a dextrous manipulation of a
 previously prepared series of young wheat shoots the growth was
 represented up to the point where a stalk 2 feet in length was
-
 from the woods: and there they taught them to form certain figures on tablets, and when perfect in
 these, they were taught others, as children In our schools are taught to write. . . . Rut their
 most usual device was to hold up in their hands some little tablets of wood made ^*ith great labour, for
@@ -15985,8 +13045,6 @@ some grotesque figures, affirmed to be the true copy of the table, which the \is
 at his departure to heaven: and these figures were the same which the Loretto professors [medicine-men]
 taught the boys at their private academy." Venegas, History of California, i, 98, 100.
 
-
-BUSSBLL] LEGERDEMAIN 259
 
 slipped from the long coils of hair at the operator's shoulders and shown
 to the awe-stricken spectators as a fully developed plant.
@@ -16040,10 +13098,6 @@ them in the following manner: The person possessing the necessary
 power may be going along in some quiet place when all of a sudden
 a man will be seen approaching. The stranger never reaches him
 but will be seen to disappear; then if the Si'atcokam searches about
-
-
-260 THE PIMA INDIANS [eth. ann. 26
-
 the spot where the man was last seen, he will find a transparent
 crystal, h&'tai tftn'tam, stone white, which contains a spirit that will
 aid him in all his subsequent undertakings and which will desert the
@@ -16061,8 +13115,7 @@ The Si'atcokam carries his tcaekut or staff in hand when called to
 treat the sick. lie begins by singing the **cure songs'' or causing
 them to be simg for the purpose of aiding him in correctly diagnosing
 the case. Then he puffs out cigarette smoke over the body of the
-patient in order that he may ^*see'' the disease. Most common ail-
-ments are attributed to certain definite causes and the diagnosis is
+patient in order that he may ^*see'' the disease. Most common ailments are attributed to certain definite causes and the diagnosis is
 easy. When he is well paid for his services he may sing more than
 one night before announcing the name of the disease. If he is too
 hasty he may ^^see'' the bear when it is really the deer that is causing
@@ -16071,13 +13124,11 @@ fails, he must call in a fellow-practitioner. The case of Sala Hina is
 an interesting and instructive one and will illustrate very adequately
 these peculiar methods. Several years ago Sala carelessly ate some
 weed which poisoned her and she had barely strength enough to reach
-home. As close relatives are not allowed to treat a patient, a neigh-
-boring medicine-man was called in. Her husband rolled a cigarette
+home. As close relatives are not allowed to treat a patient, a neighboring medicine-man was called in. Her husband rolled a cigarette
 for the learned doctor, who smoked it, but however skillfully he
 spread the smoke cloud over the groaning patient he could not '*see''
 the cause of the trouble. Then another Si'at(»()kam was called in and
-a cigarette was rolled for him and he peered through the veil suffi-
-ciently to see ''something." But he could not tell just what it was
+a cigarette was rolled for him and he peered through the veil sufficiently to see ''something." But he could not tell just what it was
 and advised sending for another medicine-man who was a specialist
 in intangible shapes. Sala was suffering the greatest agony in the
 meantime. If she moved she **felt full of pins inside.'' Those about
@@ -16086,21 +13137,17 @@ arrived and smoked his cigarette, blowing the smoke across the
 patient from a distance to dispel the unusually heavy darkness. He
 said he must have his gourd rattle and magic feathers brought before
 he could see clearly. Meanwhile the husband had ])rought in a fourth
-medic ino-man. Number four then smoked a cigarette and pro-
-
-u ■ Small rock crystals, siii)i>osed to hv producod by the shumans, an? thought to Ix' dead or cvon
+medic ino-man. Number four then smoked a cigarette and prou ■ Small rock crystals, siii)i>osed to hv producod by the shumans, an? thought to Ix' dead or cvon
 living -a kind of astral bodies of the Theosophists. Such a rock crystal is called tevali (plural
 tevuH'r) or 'grandfather' the same name as is given to the majority of the gods. Hut it may,
-however, reprost^ni any ixTson or n^lative, in accordance with the directions of the shaman." Lum-
-hollz, Symlx)llsm of the lluichol Indians, 03.
+however, reprost^ni any ixTson or n^lative, in accordance with the directions of the shaman." Lumhollz, Symlx)llsm of the lluichol Indians, 03.
 
 
 RDS8ELL] CAUSE AND TREATMENT OF DISEASE 261
 
 nounced the verdict of death. Poor Sala had been compelled to lie
 quiet to avoid the torture from the *'pins" but her mind was active
-and she understood every word that was said in her presence. Deter-
-mined to do what they could, the last two arrivals set to work singing.
+and she understood every word that was said in her presence. Determined to do what they could, the last two arrivals set to work singing.
 Number three sang four songs, followed by four more songs from
 •number four. Then number three sang four more, and so they
 alternated all night. Toward morning they jmt ashes into a cup of
@@ -16146,24 +13193,18 @@ Payment is promised to the Si'atcokam when they are called in. It
 may be a horse, cow, some wheat, a basket, or similar property. If
 he contracts to sing three nights and to receive a horse in payment,
 he will not receive the horse if the patient dies after he has sung two
-
-
-262 THE PIMA INDIANS rirrH.ANN.26
-
 nights, but will receive some compensation. The death of the patient
 does not annul the obligation under any circimistances.
 
 In addition to the animals, birds, and reptiles that cause disease,
-the variety of human ailments and the fertiUty of the native's imagi-
-nation necessitated the invention of yet other causes. These were
+the variety of human ailments and the fertiUty of the native's imagination necessitated the invention of yet other causes. These were
 sometimes superhimian, but only too often the tribe merely descended
 to the level of the African savage, and accused some medicine-man of
 the crime of causing disease. There would seem to be some reason
 in this if the medicine-man who had the case in hand were the one
 accused, but that was not the custom; it was a rival practitioner who
 bore the onus and frequently paid the penalty with his Uf e, as may be
-seen from the accompanying annals. It would seem that every epi-
-demic of any extent that ever afflicted the Pimas caused an almost
+seen from the accompanying annals. It would seem that every epidemic of any extent that ever afflicted the Pimas caused an almost
 wholesale destruction of medicine-men. In individual cases of maUce
 on the part of the medicine-man the treatment is to sing the medicine
 song and afterwards to place four magic stones in a cup of water,
@@ -16178,14 +13219,12 @@ by the maUcious medicine-man. When foimd the object must not be
 touched, for fear of death, but the mere discovery renders it harmless
 to the person against whom it was aimed.
 
-Sometimes the medicine-man causes sickness by ''shooting'* char-
-coal, made from the burned body of an enemy, into some one who
+Sometimes the medicine-man causes sickness by ''shooting'* charcoal, made from the burned body of an enemy, into some one who
 does not notice it at the time, but whose body bums in consequence.
 If it is sucked out before it is entirely consumed the charcoal loses
 its power and the patient recovers.
 
-The badger causes a severe throat disease, which, however, is con-
-sidered to be of rare occurrence. The remedy is to sing the badger
+The badger causes a severe throat disease, which, however, is considered to be of rare occurrence. The remedy is to sing the badger
 song (p. 321) and to press the tail of the badger on the patient's neck.
 
 The bear causes swellings upon the body, headache, and fever.
@@ -16236,8 +13275,7 @@ mouse is used.
 The ground s(|uirrel of the mesas causes nosebleed.
 
 There are but four birds that cause disease. There appears to have
-been no conscious classification in the minds of the Pimas in attribut-
-ing certain afflictions to the birds. These diseases are all of a different
+been no conscious classification in the minds of the Pimas in attributing certain afflictions to the birds. These diseases are all of a different
 nature, and are similar to those assigned to mammals and reptiles.
 
 The eagle causes hemorrhage. The remedy is to sing the eagle song
@@ -16254,15 +13292,10 @@ for four days.
 The owl throws people into trances and fits. They are restored by
 having the owl song (p. 311) sung while six owl feathers mounted on
 a stick are swung over them. The cry-^ of the small owl, kokovol(t),
-in the night is a bad sign. When the large owl utters a sound re-
-sembling human speech sickness may be expected.
+in the night is a bad sign. When the large owl utters a sound resembling human speech sickness may be expected.
 
 The vulture or turkey buzzard causes sores, especially syphilis, and
 sore eyes on the baby if the parent eat a dead animal just before the
-
-
-264 THE PIMA INDIANS (irrH.ANN.26
-
 child is bom. The remedy is to sing the buzzard song and pass the
 wing feathers of the buzzard over the child.
 
@@ -16290,14 +13323,12 @@ the parts affected with an image in wood or stone of the rattlesnake.
 
 The bite of the rattlesnake is cured by sucking the wound every
 morning for four days. Others suck it one or two days, and also
-ligature the limb with horsehair, or draw a circle around it with char-
-coal to define the limit of the swelling. The Papagos and Mexicans
+ligature the limb with horsehair, or draw a circle around it with charcoal to define the limit of the swelling. The Papagos and Mexicans
 use the plant Euphorbia marginata to poultice snake bites, and it is
 possible that some Pimas use it also, though the writer was unable to
 find anyone who knew of its being so used.
 
-While the rattlesnake is dreaded and under circumstances previ-
-ously mentioned is regarded as possessing magic power, he occupies a
+While the rattlesnake is dreaded and under circumstances previously mentioned is regarded as possessing magic power, he occupies a
 far less important place in Pima thought than in that of the Ilopis.
 It is said to be imlucky to come upon two rattlesnakes, one soon
 after the other, when engaged in searching for anything. If a child
@@ -16317,10 +13348,7 @@ out the shell, which is then mounted on a handle, and some gravel
 j)ut into it.
 
 
-RUSSELL] CAUSE AND TREATMENT OF DISEASE 265
-
-A butterfly with striped wings causes internal pains. The treat-
-ment consists in singing the butterfly song (p. 295) and pressing the
+A butterfly with striped wings causes internal pains. The treatment consists in singing the butterfly song (p. 295) and pressing the
 body of the patient with four or five images of the butterfly cut from
 deerskin.
 
@@ -16380,8 +13408,6 @@ assistant blows through a tube, called the tcunylm cigarette, upon
 \
 
 
-266 THE PIMA INDIANS [eth. ax:«. 26
-
 the forehead, chin, breast, and stomach of the patient. The tube
 has a bunch of feathers attached called a-an kiattlta, and these are
 next swept in quick passes downward over the body. The &'mina
@@ -16391,8 +13417,7 @@ flat upon his breast and rubbed. Finally, the assistant repeats the
 speech of Siu-u at the time when that deity restored himself to life,
 at the same time making passes toward the patient.
 
-Magic influence exerted by evilly disposed persons, especially medi-
-cine-men, may cause a particular ailment, called ** doctor's disease,''
+Magic influence exerted by evilly disposed persons, especially medicine-men, may cause a particular ailment, called ** doctor's disease,''
 in the cure of which the slate tablets found in the ruins are believed
 to be most efiicacious. The information was given that no marking
 was made on the slates; they were simply placed in a vessel of water
@@ -16406,10 +13431,8 @@ immediately recovered.
 Navitco (fig. 26) is an evil spirit adopted from the Papagos. His
 home is in the moimtain called Papak, Frog. ^ This spirit causes
 the knees to swell and the eyes to become inflamed. It may safely
-be inferred that this disease has been a common one, as it is the prac-
-tice to treat several at one time in a somewhat more elaborate cere-
-monial than is usual in the treatment of other diseases. One medi-
-cine-man personates Navitco, another known as E&kspakam accom-
+be inferred that this disease has been a common one, as it is the practice to treat several at one time in a somewhat more elaborate cere-
+monial than is usual in the treatment of other diseases. One medicine-man personates Navitco, another known as E&kspakam accom-
 panies him; both are masked. At a signal from Navitco, given by
 throwing com meal on the baskets, 15 or 20 persons appointed for
 the purpose sing the Navitco song (p. 326) , accompanied by the notched
@@ -16418,8 +13441,7 @@ eagle feathers imtil he has presumably drawn out all disease. He then
 throws away the feathers. He is followed by K&kspakam, who seats
 himself before each patient to give him an opportunity to touch the
 mask and then the swollen knees. When the singers have finished,
-they rub the notched sticks over their own bodies to prevent conta-
-gion. All concerned in the ceremony must not eat salt for four days
+they rub the notched sticks over their own bodies to prevent contagion. All concerned in the ceremony must not eat salt for four days
 thereafter.
 
 The Navitco medicine-men also claim to possess the power to bring
@@ -16449,8 +13471,7 @@ family of a naming age at the time is ever cliristened thus. The
 godparents must give the child some wheat or corn each year until it
 grows up, and the parents give a basket each year in return.
 
-Even horses may become sick through the evil influence of mali-
-cious medicine-men, who, it is said, ' ^ shoot ^* hve coals into them-7-
+Even horses may become sick through the evil influence of malicious medicine-men, who, it is said, ' ^ shoot ^* hve coals into them-7-
 coals that have been taken from an Apache fire. The remedy is of
 a similar magic character. A reputable medicine-man is called in,
 who diagnoses the case and decides from what direction the coal was
@@ -16462,14 +13483,12 @@ and immediately fills his mouth with water, after which he casts out
 the coal.
 
 The transparent trick of sucking a hair from the body is resorted to
-in veterinary practice in a manner similar to that pursued when treat-
-ing hiunan ailments.
+in veterinary practice in a manner similar to that pursued when treating hiunan ailments.
 
 Prevalent Diseases"
 
 Consumption is the most frequent and fatal disease, due to poverty
-of diet and contagion. The Pimas do not attempt to prevent infec-
-tion. Their former treatment was a diet of mountain turtle and
+of diet and contagion. The Pimas do not attempt to prevent infection. Their former treatment was a diet of mountain turtle and
 sun-dried beef.
 
 Dysentery is common in summer because of the peculiar habit, by
@@ -16488,25 +13507,14 @@ Government sent a physician to the agency, the missionary, Rev.C. H.
 
 
 a From 1892 until 1895 Dr A. E. Harden held the position of ugimcy physician at Sacaton and from
-1900 until the time of the writer's visit to the Pimas in 1902 continued his practice as missionary phy-
-sician among the IMmas. The writer is indebted to him for the greater portion of the informacion
+1900 until the time of the writer's visit to the Pimas in 1902 continued his practice as missionary physician among the IMmas. The writer is indebted to him for the greater portion of the informacion
 relating to the d^rce of prevalence of disease.
-
-
-268
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 Cook, supplied the Pimas with vaccine. They retained some of their
 old dread of the demon and continued to place the bandages with
 which the arm had been dressed upon a certain mesquite tree, not
-daring to bum them for fear of oflFending. Smallpox has usually-
-been brought to the Pimas by the Papagos from Mexico. Measles
+daring to bum them for fear of oflFending. Smallpox has usuallybeen brought to the Pimas by the Papagos from Mexico. Measles
 appears every three or four years, but does not seem to be any more
 fatal than among the whites, though it is more likely to be followed
 by consumption.
@@ -16639,8 +13647,7 @@ LINGUISTICS
 
 V0CABUT.ARIES
 
-There are four short vocabularies of the Pima language in manu-
-script in the possession of the Bureau of American Ethnology:
+There are four short vocabularies of the Pima language in manuscript in the possession of the Bureau of American Ethnology:
 
 Words
 
@@ -16659,8 +13666,7 @@ Maricopa interpreter. Buschmann's vocabulary also includes words
 obtained by Doctor Coulter, which were published by Gallatin in
 Transactions of the American Ethnological Society, volume li, page
 120, and by Scoujer in the Journal of the Koyal Geographical Society of
-London, volume xi, page 248. Buschmann further dn^w from Pfeffer-
-korn's Beschreibung der Landschaft Sonora, volume 11, passim; three
+London, volume xi, page 248. Buschmann further dn^w from Pfefferkorn's Beschreibung der Landschaft Sonora, volume 11, passim; three
 words from Miihlenfordt's Schilderung der Repubhk Mejico, volume
 II, page 225; and words from the Lord's Prayer in Pima as given by
 Hervas in Saggio Practico Delle Lingue (p. 124-125). There are 182
@@ -16675,20 +13681,10 @@ In the Journal of the Royal Geographical Society for 1841, page 248,
 there is a Pima vocabulary of 38 words that was collected by a Doctor
 Coulter; w^liere, it is not stated. The orthography is not explained.
 
-In his Opuscula, page 351, R. G. Latham has published a vocab-
-ulary of 27 words, stating neither from whom it was derived nor where
+In his Opuscula, page 351, R. G. Latham has published a vocabulary of 27 words, stating neither from whom it was derived nor where
 it was written. In his Natural History of the Varieties of Man,
 Latham devotes three pages to quotations from Lieutenant Emory
 descriptive of the "Pimos/'
-
-
-270
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 As examples of the orthography and extent of these vocabularies,
@@ -16701,8 +13697,6 @@ Enfi^lah
 
 
 Coulter
-
-
 lAtham
 
 
@@ -16716,11 +13710,7 @@ T^thfttn
 
 
 Man
-
-
 tiuot
-
-
 huth
 
 
@@ -16731,8 +13721,6 @@ Salt
 
 
 Woman
-
-
 ub&
 
 
@@ -16740,26 +13728,18 @@ hahri
 
 
 Light
-
-
 tai
 
 
 Indian
-
-
 huup
 
 
 Day
-
-
 tashimdt
 
 
 Boy
-
-
 andi
 
 
@@ -16770,8 +13750,6 @@ Btuttkum
 
 
 Chief
-
-
 capit
 
 
@@ -16782,8 +13760,6 @@ Bcapit
 
 
 Father
-
-
 niook
 
 
@@ -16794,8 +13770,6 @@ Bton
 
 
 Mother
-
-
 intui
 
 
@@ -16806,86 +13780,56 @@ JOtd
 
 
 Body
-
-
 nionh
 
 
 Mountain
-
-
 toak
 
 
 Head
-
-
 nemdh
-
-
 mouk
 
 
 White
-
-
 stoxa
 
 
 Hair
-
-
 ptmuk
 
 
 House
-
-
 nihki
 
 
 Ear
-
-
 nfiank
-
-
 ptnahauk
 
 
 Door
-
-
 pualit
 
 
 Noee
-
-
 tahnk
 
 
 Bow
-
-
 fiik&t
 
 
 Mouth
-
-
 chinite
 
 
 Arrow
-
-
 napot
 
 
 Tongue
-
-
 neuen
 
 
@@ -16896,20 +13840,14 @@ ahan
 
 
 Tooth
-
-
 ptahan
 
 
 .He
-
-
 yeutah
 
 
 Beard
-
-
 chinyo
 
 
@@ -16920,164 +13858,106 @@ One
 
 
 Hand
-
-
 noh
-
-
 mahahtk
 
 
 Two
-
-
 kuak
 
 
 Foot
-
-
 tetaght
 
 
 Three
-
-
 vaik
 
 
 Heart
-
-
 ip6t<ik
 
 
 Four
-
-
 kiik
 
 
 Sky
-
-
 ptchuwik
 
 
 Five
-
-
 puitas
 
 
 Sun
-
-
 tash
-
-
 tahs
 
 
 Nine
-
-
 humukt
 
 
 Moon
-
-
 maskat
-
-
 mahsa
 
 
 Ten
-
-
 huistemam
 
 
 Star
-
-
 non
 
 
 Eleven
-
-
 maatd
 
 
 Snow
-
-
 chiah
 
 
 Twelve
-
-
 kdohk
 
 
 Fire
-
-
 tahi
 
 
 Brave
-
-
 tiout
 
 
 Water
-
-
 ehofltik
-
-
 suntik
 
 
 Bad
-
-
 mumko
 
 
 Sea
-
-
 kakatchck
 
 
 Good
-
-
 skukit
 
 
 River
-
-
 akdmtili
 
 
 Great
-
-
 vdhdvakuitch
 
 
 Lake
-
-
 vo
 
 
@@ -17094,19 +13974,13 @@ During a stay of seven months among the Pimas not a single native
 song was ever heard from a man, woman, or child. This is in striking
 contrast with the writer's experience among most other tribes that
 have not been longer in contact with the whites. Not half a dozen
-individuals can be found in the upper villages who know any consid-
-erable number of the old songs. And yet the number of these songs
+individuals can be found in the upper villages who know any considerable number of the old songs. And yet the number of these songs
 is very great and most of them are by no means unpleasing even to a
 Caucasian ear. The songs are in series that are known to different
 individuals. Thus, the songs sung at the puberty dances are in series
-that are started by the first singer to arrive upon tlie scene in the even-
-ing. If another singer arrives first during the next evening the series
+that are started by the first singer to arrive upon tlie scene in the evening. If another singer arrives first during the next evening the series
 of songs for the night is changed; though all belong to the general
 class of ''menstrual songs.'' Sometimes a festival is inaugurated
-
-
-RCSSELL] SONGS 271
-
 because of the accidental presence of some one who knows a group, as
 the '^Bluebird songs'' or the "Swallow songs." Examples of all the
 principal groups of songs are here recorded. They include:
@@ -17125,21 +13999,17 @@ used in the ceremonial preparations for hunting, but which are now
 employed in the magical treatment of disease.
 
 Medicine songs ; this is the largest class ; every conceivable ailment
-has its appointed song, ascribed to some animal or natural phenome-
-non or even supernatural agency. Many of these are from the Papagos.
+has its appointed song, ascribed to some animal or natural phenomenon or even supernatural agency. Many of these are from the Papagos.
 
 Puberty songs; some are especially for this ceremony, though any
 festal songs may be sung at this time.
 
-Rain songs; these contain interesting references to deities not else-
-where mentioned. So far as known, their source has not yet been
+Rain songs; these contain interesting references to deities not elsewhere mentioned. So far as known, their source has not yet been
 ascertained.
 
 War songs; these were numerous and of great importance in the
 ceremonies.
 
-
-272 THE PIMA INDIANS [wra. axx. L'6
 
 ARCHAIC SON68
 
@@ -17172,7 +14042,6 @@ II
 Tcuwutr Makai tcuwutu nata; Tcuwutu Makai tcuwutu nata, himlo.
 
 Earth Doctor earth make: Earth Magician earth make, going,
-
 hinilo, hiinlo, himutc'o-o. (Repeat)
 
 going, going, going (causal).
@@ -17180,7 +14049,6 @@ going, going, going (causal).
 * Tcuwutu Makai tfiv'a ku natfi; Tcuwuti: Makai tavakfi
 
 Earth Doctor mountain kind of make; Earth Doctor mountain
-
 natfi, himlo, hiuilo, himlo, himutco-o. (D. C. to*)
 
 make, going. going, going, going.
@@ -17217,8 +14085,6 @@ i Makes all larger, larger, larjjer.
 "* Into its mountains he may see.
 
 
-BuasELL] ABCHAIC SONGS 273
-
 IV
 
 THE CREATION OF THE Sl'J
@@ -17226,7 +14092,6 @@ THE CREATION OF THE Sl'J
 Vanylfi^i Tarsaiwu natakahi; vanyifigi Tarsal natakahi, hiyanyi
 
 Tarn Sun made; lam Sim madL-. here me
-
 taniai ya-ahai punanaitco-o. (Repeat)
 
 above * both directions throw.
@@ -17256,7 +14121,6 @@ THE CREATION OF THE MOON
 Van3'ingi Marsatu natakahi; vanyiiigi Marsatu natakahi; hiyan^M
 
 Tarn Moon make; I am Moon make; here me
-
 taniai ya-ahai punanaitco-o. (Repeat)
 
 above " both directions throw.
@@ -17286,7 +14150,6 @@ THE CREATION OF THE STARS
 Vanyifigi Yo-ohowu natii; vanvingi Yo-ohowi nata, tamaiwu nangita
 
 I am Star^ make; 1 am Star-^ mako. above throw
-
 tcuwutr nianiasi-i. (Repeat)
 
 earth litzht.
@@ -17311,15 +14174,12 @@ And placed them to illumine.
 26 ETH— 08 20
 
 
-274 THE PIMA INDIANS [eth. axn. 26
-
 Flood Songs by Earth Doctor
 thb wabnino op the flood
 
 Haya, rsa-ahingu nyhu-umatcita tcomunga wu-uwusi nyuinahi-imu;
 
 We«p, pitiable me people yoa will all see happen ;
-
 haya.» rsa-ahlDgu nyhu-cinatcita tcomcilga wu-uwusi nyuinahi-imu.
 
 weep, pitiable me people yoa will all *' see happen.
@@ -17331,7 +14191,6 @@ That water that land dissolve.
 *Haya, rsfi-Shingu nyhia-atconyi tcomungfi wu-uwusi mamatcu-u;
 
 Weep, pitiable my relatives yoa will all learning;
-
 haya, rsfi-fihingu nyha-atconyi tcomunjga wu-uwusi mamatcu-u.
 
 weep, pitiable my relatives you will all learning.
@@ -17365,7 +14224,6 @@ Aha! Aha! Flood, flood, Aha!*' Remember pitiable making.
 haiya I haiya I yina, vina, hai-iya I Punha rsahika tconyihi-i. Hamai
 
 Aha! Aha! Flood, flood. Aha! Remember pitiable maUng. Here
-
 pa-apaitcomhi nyhu-umatcita rsahika himuna-a. (Repeat)
 
 before me me people pitiable going.
@@ -17377,8 +14235,6 @@ See the doom awaiting them !
 Haiya! Haiya! Flood! Flood! Hai-iya!
 Here are my doomed people before me.
 
-
-RUSSELL] ARCHAIC SONGS 275
 
 Flood Songs by South Doctor
 on superstition mountain befork thk flood
@@ -17431,7 +14287,6 @@ BEFORE THE PEOPLE TURNED TO STONE ON SUPERSTITION MOUNTAIN
 Sihaitcohal Sihaitcoha! Nyhanaka wuwunia sihaitcolial Wuwuma
 
 PowerlesH! Powerless! My magic crystal with [)owerIe88l With
-
 siamhu nyhataitco. . (Repeat)
 
 right petrify.
@@ -17472,7 +14327,6 @@ As 1 journey to and fro, to and fro.
 T&nyo wumA: tanyo wuma kukUa. Sundai wumfl, simdai wumA
 
 Who I with; who I* with fluid. Who . with, who with
-
 tahiwa.
 
 sit.
@@ -17480,7 +14334,6 @@ sit.
 Itafllgu nyo-osihaka wcma kukiwa. ItaSgu nyfi-Atahaka wumfl
 
 Thlsmycane with . ituid. This mycryital with
-
 tahiwa. (Repeat)
 ■It.
 
@@ -17501,14 +14354,11 @@ My staff and my crystal
 They shall bide with me.
 
 
-RUSSELL] ARCHAIC SONGS 277
-
 Post-Flood Sonus hy Elder Brother
 at the central part of the eahtm
 Ka^u nvutvji worsn hiku nyi vvundil vanyuina; kjitu nyutva worsa
 
 There ' I <nme navel "" land I'sw, there * I came
-
 hikil nyi wi ndu vaiiyrina. (Repeat)
 
 navel * latnl 1 see.
@@ -17516,7 +14366,6 @@ navel * latnl 1 see.
 * Kau' nyutva worsa hiku navdilgu vaiiviina; katu nvLtva worsa
 
 There " I «jime navel mountain f M,*e; Un-re " I came
-
 hikil navaH^u \ anyiina. (Repeat to *)
 
 navel mountani i s^ee.
@@ -17535,7 +14384,6 @@ CLIMBIN(i THE CLIFFS TO AITACK EAIJLE
 Kand vavai taiMuyniu, kand vavai tapinymu. Kand vavai tapinymu,
 
 I'p steep bank smooth, up steep bank smooth. Ip steep l)ank smwth
-
 kand vavai tapinymu. Vapat teotcoa kainatoa hiiiiL iia. (Repeat)
 
 up bank snunnh. Points stick after Koing.
@@ -17543,7 +14391,6 @@ up bank snunnh. Points stick after Koing.
 Kand vavai nainnynul, kand vavai napinymu, vapat teotcoa kainatca
 
 Cp stone smooth; up stone smooth, i>oints stick after
-
 himuna. (Repeat)
 
 Koing.
@@ -17580,15 +14427,12 @@ U\) the cliff, steep and smooth,
 He climbs step by step.
 
 
-278 THE PIMA INDIANS [eth. axx.26
-
 ELDER BBOTHER A8 A FLY
 
 Song sunrj by Elder Brother as fte concealed himself in the form of a fly
 Himovali movali moko, himovali movali moko. Hivany ta sikasiimo,
 
 (?) fly die. (?) fly die. I will sleep,
-
 hivanytS sikasiimo. (Repeat)
 
 I will sleep.
@@ -17631,7 +14475,6 @@ Haya yakahai yahai mo! I am sleepy.
 DEfirrBUcrioN op HA-Ak
 
 As they prepare to destroy the female monster^ IFd-dhj Elder Brother and the people
-
 sing together
 
 I
@@ -17639,7 +14482,6 @@ I
 Ta-anunama Lital liawuli voponak nyuhuna. AmunyutS
 
 Dazzling power Elder ^Brother winds tie "i^Inglng. Then sing
-
 mulivak wu-umany voponak nyu-uhuna\
 
 came swiftly together ' tie, singing.
@@ -17649,7 +14491,6 @@ II •
 KovakovB, kovakovB, kovakov«, kovakov«. Ivali Moahanan-
 
 (?) (?) (?) (?) (jreat Mo'hutaka
-
 i namn vu-una. Kovakovu, kovakovB.
 
 top singing. (?) (?)
@@ -17681,7 +14522,6 @@ III
 Aniwokilna, anayokilna, hayokilna. Tcu-unarsatV ySvatcuki;
 
 \'^) " (?) (?) ("M " cigarette;
-
 kasinakon yavatcuki. Anayokflna, anayokflna, hayokuna.
 
 sleep-induciiitf ' oigarette. '^(?) ' (?) ' (?)
@@ -17693,7 +14533,6 @@ This all sharps mountains moving near their well iu*ar having mortar
 
 
 Vaj wutama vopahimu. Vaj wutama vopahimil. Vaj wutama
-
 steep bank on throw. (Repeat)
 
 vopahimfl.
@@ -17738,15 +14577,12 @@ We go; w(> go; we go; wc go.
 Huk asinyr apr ka'na. Hita tuvavaki ahiya wunaiiita. Vatcikia
 
 That iiio plcast's ('). This home liore woleH\e. we
-
 himu; vatcikia hiiiu; huk ixsiin^u apu ka'na. ^
 
 go: wi' p>: iliHt mtT pleat's (?i
 
 
 Tratislat
-
-
 ion
 
 
@@ -17759,8 +14595,6 @@ We jjfo happily we go.
 aTcr-iimrsaf is the name of a former Pueblo chief who lived near Mo'hatilk mountain.
 
 
-280 THE PIMA INDIANS Tbth. anx. 26
-
 II
 
 Vatci'ki mutdu; vatciki mutdu. Vatciki mutdu; vatciki mutdu.
@@ -17770,7 +14604,6 @@ We run; we run. We run; we run.
 Vatciki munu; vatciki munu. Iluk&sinyamu kana. Hita tuy&itaka
 
 We run; we run. That me pleases (?). This our country
-
 hiya. Vavoydk vatciki munu. Hukasinyamu kana.
 
 here. To leave we hasten. That me pleases (?).
@@ -17819,7 +14652,6 @@ Kusi tcokwe tat&vaku tamait' a-ahuka nyuhunatci sisiv&ta
 Kind of black mountains on • all come singing head-dresses '
 
 monuva-a
-
 waving.
 
 Kotca wus sita-ahuka; kotca wus sita-ahuta.
@@ -17863,7 +14695,6 @@ I
 Kan(d)ukai inoki va-aki ku-uka ania va-aki ta-amai sivany
 
 YoiuliT <l»'a(l liabitation standing. Tln'rr Imbitution at that place he runs
-
 miTniLda-a\ Sa-jlhaiur luaopanil kama iko-osi-i-i.^
 
 about, Yellow hands having fabric.
@@ -17886,7 +14717,6 @@ Mud their house in they stay, mud their house.
 Kutda maka hitcr, kotxlena sinyu-upuitaka kutda ahamo-olina.
 
 In one hav- see, he was me afraid in they stay,
-
 ing powtT
 
 Pipinu havavahaki kutda maka hitcu.
@@ -17925,7 +14755,6 @@ As thejf approached Sweet irater
 Katdu kariy uvu-untdai sikamuniali ; katdu katouvu-utdai
 
 There * land plenty beads; tht- re earth
-
 sikaniumali. Ku-u naiiyuta-a wo-orsai-i'. (Repeat from ho^rinninj^)
 
 plenty beads. The somebody come out.
@@ -17953,16 +14782,10 @@ He knows what will l)efall him.
 a Iko-osi-i-i' i« for Iks, meaning almost any textile fabric.
 
 
-1
-
-
 ■
 
 
 ^^^V^282
-
-
-THE PIMA INDIANS
 
 
 f ctit. ^7i}^. 26 ^^1
@@ -17975,23 +14798,15 @@ jl« ihtp approneheti Ctutti ffinmyt
 
 
 ^H^ Kui^i kf
-
-
 ivuhnka
 
 
 .; kuisi kawihuku^ varalmkt kutda
-
-
 makaht ^^M
 
 
 ^m
-
-
 iimK'uiu
-
-
 very ailT^i.-olt* houi*
 
 
@@ -18017,8 +14832,6 @@ Witb its ma^ic power >
 
 
 ^^^^^1 Hava'Dvi
-
-
 yali nyangfa, liava'nyi yali tiyft-akii.
 
 
@@ -18064,18 +14877,9 @@ yamukfl iiytiita tAnfilikfl konyonyo!.
 Above Oil^ Cmn/thktj
 
 
-1
-
-
 ^^^^^H NuTiyiki
-
-
 va-aJio
-
-
 tn ts k ai f i i y a r i y I wo r mt iiy i; k
-
-
 hi 111 una T
 
 
@@ -18101,8 +14905,6 @@ TrrimiMil ^^^1
 
 
 yoahana hckatcT nilmaiiua siaiiii
-
-
 kokoinaiAoaki-i. ^^|
 
 
@@ -18110,23 +14912,13 @@ kokoinaiAoaki-i. ^^|
 
 
 lir>3iUrig
-
-
 wUh my eiit^my r'orrxi't
-
-
 innrLtitiitihin. ^^^|
 
 
 ^^^^H Natiyiki vl-ikiho
-
-
 nmkai hiyanyi worKanyi^k
-
-
 him una
-
-
 ktlsikni ^H
 
 
@@ -18137,8 +14929,6 @@ lomgJclHa her^ um iimtM^
 
 
 WCBt
-
-
 i»ed»rlv« ^^H
 
 
@@ -18146,8 +14936,6 @@ i»ed»rlv« ^^H
 
 
 oahana
-
-
 liukaid mtmaiiiia si a rial kakan»isi-L
 
 
@@ -18155,11 +14943,7 @@ liukaid mtmaiiiia si a rial kakan»isi-L
 
 
 ^^^^^^K cjjL(ur«tto
-
-
 holding
-
-
 with my uiiemjr Hght miiltu fiU^t^p^
 
 
@@ -18167,8 +14951,6 @@ with my uiiemjr Hght miiltu fiU^t^p^
 
 
 ^^^^^V Hivanvi
-
-
 worrtanvL'k hiuitiia TciTnar.^aii vflvateuk!
 
 
@@ -18182,8 +14964,6 @@ M ri 1 ■'^1
 
 
 vvt^nt Tf^rTMiHJif
-
-
 fllTiin-ffi'
 
 
@@ -18191,9 +14971,7 @@ fllTiin-ffi'
 
 
 hvkatd nAmaiiDa siftmu kokomaiAoatd-i. Hiyaii]ri worsanyuk himuna
-
 wHh mjmumf eoffaet inoMitetkm. Heveme fooie w«&t
-
 kasikfin ftywatcukl yoahana hirkatdt namaiina sUtmu kfikft-fisi-i.
 
 Mdcttre olgMetle holding wtOi nyenfliny eomet make deep.
@@ -18205,36 +14983,27 @@ Mdcttre olgMetle holding wtOi nyenfliny eomet make deep.
 Haiisi tcu-imfiki pahaka pahivwoa. BUiierii tcu-unftki pahafif^r^
 
 '* — " bine 9mlt pott tall on. Bmal} bine eagle
-
-
 pahimroa tcuirwuna s-trtpava worsanu-u. (D. C.)
 
 puttAilon land middle oenMKwt
-
-
 put
 
 Hiyuiyi paiitcomi yahaiiAa kukivwa tAvanyi yosiailga hukio
 
 Here me before me to and tto itand it wai my cane already
-
 sunamatcu-u.
 
 know. , . ,
 
 
 Between Tempe and Phoenix
-
-
 hamanyu tfitahivwoaka
-
 there me sit
 
 
 Hamukfi vanytritahimu
 
 Some will yon look for
-
 hamuka nyuinahi. (D. C.)
 
 you will you look for.
@@ -18249,11 +15018,8 @@ Pitiable enemy drunken you will take.
 
 
 nytjitahimu
-
 you look for
 
-
-BDSSELL] FESTAL SONGS 283
 
 FESTAL SONCJS
 
@@ -18266,9 +15032,7 @@ I
 Makai kik(i) n\^uitoota. *Makai kik(i) nyuitcota itiiny tiinulikany
 
 Magician houses singiiiK to. Magician houses 'sinking to this my shining
-
 rsursuj tcotcoa kony am nyui tco. (Repeat. Then repeat twice
-
 my stmight stand I ' there singing to.
 
 from *)
@@ -18278,13 +15042,9 @@ II
 Toutcupavfi yohovfi wupungu vaifimna; *tcutcupavfi yohovfi
 
 Protititute women Tiret came running: prostitute women
-
 wupun^u vaitimuna, teutcrtafigi yiasinga yokatc. Vaifiinflna
-
 tifHl came running, blue ' flowers '^ Ijolding. Came running,
-
 siyaliilji^u tatangio vavanvinangi tconyopitci nyunyakimu. (Repeat
-
 east direction tiling slow ' talking.
 
 stanza; then repeat twice from *)
@@ -18297,11 +15057,8 @@ III
 Vanyingi nyonvi'ia himuhuna; * vanyingi nyonyi;[a himuhuna
 
 I tun "<T<K>lved going; I am 'crooked going
-
 honunyngr. \rhrAuiva himukai kikivanu kahate manguvak
-
 we.sl. ' Toward going to rainfM)\vs with swing the arms
-
 gamonya himiliina. (Repeat same as above)
 
 there f going.
@@ -18330,18 +15087,13 @@ To the land of rainbows I'm i:()ini:,
 Swiiiy:ing my arms as 1 jonrm y mi
 
 
-284
-
-
 THE FIMA INDIANS
 IV
 
 
 T£iiHnHniA eialJk varsatca imt na; *taimiiiiuiu sialik var&atca miukik
 Djailnmnia yoipikot Aimutia mar^ata iriiLna tarsaiAa tcur^at^iaiu
-
 mt? rir(ii,rhirijL; '^ pk'lii4e*'. Como nunjii nmii; tfiiii ftprK'n.r
-
 uLiiA^; V**vava piihitiiuna. (Heptmt stanza; then rc^peat twice from *)
 
 rUwM ^ higtr li fling.
@@ -18351,7 +15103,6 @@ Huvati*ondn v3niriinia *TTiornolyohofi; valfimtTiatcuvufigi tnamat£k;
 viUtiuHTia wusftt maiiiLnania tt^uAahangi yon^unyi aak vat vantjfr
 
 Onme ni titling «iU tLerc hijM^f hfMdds cIdiioc t^hi^lUK' It tbiLl ifthakliig
-
 nyihinu a. (Kf^jjeat m aliove)
 
 
@@ -18364,14 +15115,10 @@ w
 A]iw!J» kauiaM^i takutiad tnakai
 
 Kind of itmy AphSor mHxii'iiui
-
-
 tamai; waporidak umr^atyalthinit iia
-
 haniukai kukiwoak yopatti hvaiinukaiih ;ptyuimi tcutiatigi teiaikond
 
 I he I* KtiirMl ' I Ml II tftK &fv gr<^a v*jne
-
 kat«^ yovaya pLihiaiuna-a. (K*>poai a.^ alHJve)
 
 with * nibJii^ blK^K^r.
@@ -18398,8 +15145,6 @@ Who ties the Sun while the Moon rolls on.
 Turn back, the green staff raising higher.
 
 
-RUSSELL] FESTAL SONGS 285
-
 TciiTCiiKA Nyiii, Namk Song
 [By Vlrsak VAl-1, Hawk FlyiuK)
 
@@ -18409,18 +15154,15 @@ The son^ may begin with any stanza, but the name of the place where
 the dance is held must be inserted as the Hrst name: thus, in the stanza
 below, the name of the village would be substituted for ""Ma-akahi."
 
-1
 
 Halakoit namani' vapaka wornanyuk mahainama tcUAcli. (Repeat)
 
 (?) top ree<ls arose* placing increasi' in
-
 heiKht.
 
 HitaAU (Ma-akahi) moa-akatc yahakaha hukatcai pawusika kopatc
 
 This [ ] kills with paintod with it all over hair
-
 maitcu-u.
 
 knock down.
@@ -18428,7 +15170,6 @@ knock down.
 Hitavu Hivayomi pukatc yahakaha hukatcai pawusika katStc
 
 This ( * ] catch painted with it all over bow
-
 maitcu-u. (Repeat)
 
 knock down.
@@ -18438,7 +15179,6 @@ II
 Hahikoit, ma-akahi wuma worsahi; halakoit (ma-akahi) wuma
 
 (?» magician with came np: ( 'i magician with
-
 worsamu.
 
 came up.
@@ -18472,8 +15212,6 @@ Ma-akahi tie*? the enemy's hair;
 Ilivavomi kills the eneinv's l)<)w.
 
 
-286 THE PIMA INDIANS [eth. ann. 26
-
 III
 
 Siyal wutcfika huma-akahi yahandak maitcu-u.
@@ -18487,7 +15225,6 @@ West under magician reed colored knock down.
 Ma-akahi sap&Auhu nya-fiku ko-opatc maitcu-u; Hivayomi sapaAuhu
 
 [ ] correct talk hair knockdown; [ ] correct
-
 tcohi ka-atktc maitcu-u.
 
 do bow knock down.
@@ -18497,7 +15234,6 @@ IV
 Imovali k&v&haiki, kSvahaiki, kaivaya, mokovaya tam&hi, (Repeat)
 
 Near to rumbling, rumbling, passing, waving top go,
-
 tamamhu.
 
 top go.
@@ -18505,7 +15241,6 @@ top go.
 Hitavu Ma-akahi pahangu Aupuhava kavandaimu na-aka worsabi;
 
 This [ ] eagle like shield grasp arofte;
-
 hitava Hivayomi virsanga vupuhava. rsfinvitcuki muka worsamu.
 
 this [ ] hawk like club graaping arose.
@@ -18561,15 +15296,11 @@ RrSSKLL]
 FESTAL SONGS
 
 
-287
-
-
 VI
 
 Kakatak taimii pahangu naiwo-orsa, Yakinuii taniai virsangfl
 
 CrooktMl top eagle arost?, rivtr top hawk
-
 naiwo-orsa.
 
 arose.
@@ -18577,7 +15308,6 @@ arose.
 Hitavu Ma-akahi pahaili^u wunu nyuliaki kaAi lianda tangu
 
 This [ ] eagle with * talk shioM grasp
-
 kaworsalii.
 
 arise and go.
@@ -18585,8 +15315,6 @@ arise and go.
 IlitaviJ Hivayonii virsafiga wumu nyahaka rsiiiiyi-itcuki puhuka
 
 Thi.»< [ ' ] hawk with " talk club grasp arise
-
-
 worsamu.
 
 and nin.
@@ -18606,17 +15334,10 @@ Full-lottved bow*^ catch
 Ma-akahi moaka hi-iya vu-unfifiginga vovapa;
 
 ■ '" ' dizzy brougnt;
-
-
 lya
-
 here
-
 iya
-
 here
-
-
 vawoAapa.
 
 brought.
@@ -18624,32 +15345,19 @@ brought.
 vawovapa.
 
 broughtt
-
-
 hi-iya
-
 here
-
-
 kill
-
 vunavainofigi
-
 dnink
-
-
 here
-
 vovapa.
 
 brougnt.
 
 
 Hivayomi
-
-
 mipuhi
-
 catch
 
 
@@ -18666,7 +15374,6 @@ There 1
 
 
 gamonyi
-
 there I
 
 
@@ -18678,12 +15385,10 @@ mununa; gamonyi munuhuna.
 
 
 gamonva
-
 there I "
 
 
 mununa;
-
 nin: ^' there f run; " there T run.
 
 Itavu Ma-akahi paha yonanda hak tanl imuna; hitava Hivayoma
@@ -18710,7 +15415,6 @@ With liair trophies our courage is renewe<l.
 
 Many of the enemy's hows we've eapture<l.
 Ma-akalii l)ravely endures fasting;
-
 lliviiyonii bravely endures all thirst.
 
 There I am going; there I am going.
@@ -18721,12 +15425,6 @@ Ma-akalii's eagle- feathered arrows!
 llivayonii's strong hawk-feathered arrows!
 
 
-288
-
-
-THE PIMA INDIANS
-
-
 [ETH. ANX. 26
 
 
@@ -18734,49 +15432,26 @@ IX
 
 
 kainamu ny&kna
-
 flounds talk
-
-
 yoviva
-
 woman
-
-
 kainama
-
 sounds
-
-
 kaiyava
-
 here
-
-
 nyuhuna
-
 sing
-
-
 yaliva
-
 child
-
-
 sipuhiino
-
 take
-
-
 sipuhiino
-
 take
 
 
 HaliAuta sihufli na-anak&
 
 Brother older incoherent
-
 kaiyavr nyakna hatcyahaini.
 
 here talk accomplish.
@@ -18784,7 +15459,6 @@ here talk accomplish.
 HaliAuta sihuni na-anaka
 
 Brother older incoherent
-
 nyuhuna hatcyahami.
 
 sing accomplish.
@@ -18792,7 +15466,6 @@ sing accomplish.
 Itavu Ma-akabi na-anaka kainamu nyfikna yoviva sipuhiino kaivavu
 
 This [ ] incoherent sounds talk woman take fiere
-
 nyakna hatcyahami.
 
 talk accomplish.
@@ -18800,7 +15473,6 @@ talk accomplish.
 Itavu Hivayomi na-anaka kainama nyuhuna yaliva sipuhinio
 
 This [ ] Incoherent sounds sing " child take
-
 kaiyava nyuhuna hatcyahami.
 
 here " sing accomplish.
@@ -18823,10 +15495,7 @@ XI
 
 
 vawu-upa
-
 like
-
-
 vatcohina.
 
 appearance.
@@ -18889,7 +15558,6 @@ Nafiu suku Ma-akai taiwonyuk kavaiulai paimiteo yavahiinr
 yavahimu yavahimu yavahi, naiiu suka Hivayomi taiwonyuk
 
 (?) ' (••) " (?) 1 gue»i that [ ' ] arose
-
 rsanyitcuki muHteo, yavahimu vavamhu.
 
 club make run, ' (?) ' (?)
@@ -18917,7 +15585,6 @@ I
 Tarsaii gamai yononyimuta kun(d)a mananahiwoakai taniaikil
 
 Sun there ' gorfown in sit there
-
 pahaka nyunyui kop iyu rsanawoitoo. (Repeat)
 
 Eagle ' w>ng« you here commence.
@@ -18945,14 +15612,11 @@ We begin singing the eagle songs.
 26 ETH— 08 21
 
 
-290 THE PIMA INDIANS [eth. axn. 26
-
 II
 
 Yai kapi worsa, y&i kapi worna; Hatcuwu:|u Makai, yfii kapi
 
 Now order arises. dow cHrder arises: be Earth Doctor. now order
-
 worsa (Repeat)
 
 ariacv.
@@ -18960,7 +15624,6 @@ ariacv.
 Yai kapi worsa, hinavat awutcfi tcut nyunyui tcoma worsana
 
 Now order arises. hidden below from sonics there arise
-
 tcuwu:>u ySinukama tcoatooaii. (Repeat)
 
 land after planted.
@@ -18982,8 +15645,6 @@ Tcuwu!|u sapanyiki nyui siyalifigfl tan^o tcut Itfii yahai tcuwu^u
 Land right I see, east direcuon from Elder child land
 
 Brother
-
-
 sapanyiki nyui. (Repeat)
 
 right I see.
@@ -18996,7 +15657,6 @@ IV
 Tavangfl mai-i, tavangfi niai-i; iionoiiyikfl tangio tcu^, Toakoatam
 
 Mountain win, mountain win; west direction from, White-Eater
-
 havivihi tavukfl mai-f. (Repeat)
 
 she remained mountain win.
@@ -19004,7 +15664,6 @@ she remained mountain win.
 Tfivangfi mai-i, hononyikfi tangio tcu^, Toakoatam havivihi
 
 Mounta!fii win, west direction from, White-Eater she remained
-
 tavukfi mai-i. (Repeat)
 
 mountain win.
@@ -19041,7 +15700,6 @@ V
 HononyT ikamoisi iwujj^iom kuna ka-ayoHka hawus anyivia
 
 West ^ there reddish in there bird tliey all came
-
 haniinyi wrnga iiyi.
 
 there *^ urouiid me.
@@ -19088,7 +15746,6 @@ steep hou.'ie ^ windy.
 Hitu ma-akahi yuwulikatci opainana vitana, kanu v^avai kokoana
 
 Thi.s magician windy with tuni back wind lx)rne. yonder cliff end
-
 iyainiu.
 
 roll.
@@ -19135,8 +15792,6 @@ Of the sacred eagle feathers.
 i;
 
 
-292 THE PIMA INDIANS [eth. axx. 26
-
 III
 
 Pahaku yaitanga mutfinyunu. (Repeat)
@@ -19150,7 +15805,6 @@ Agreeaole sounding thud rolling thunder.
 then sing all twice)
 
 Tran^UUioii
-
 lu the distant land of Eagle,
 
 In the distant land of Eagle
@@ -19163,11 +15817,9 @@ KikitAval Nvfli, Swallow Song
 
 A song for tiestas that is accompanied by (lancing.
 
-1
 Kikitaval! yofifigu hiyany wuwuma nyunyui ivama rsars&nfltco
 
 Swallow birds nere with me songs more commence
-
 hiyamy wuwuma nyuhiJta-a. (Repeat)
 
 here with me singing.
@@ -19182,11 +15834,8 @@ II
 Vavaisa ninitfivali nam kuka-a, vavaisa ffifnitavali nam kuka-a;
 
 Rocks swallows meet standing, rocks swallows meet standing;
-
 ku^ama nyovapa-a, ku^ama nyovapa-a, hanany wuwukany tcutania
-
 there me brought, there me brought, there me around blue
-
 kikihyatfl wovakimbii. (Repeat)
 
 rainbows appeared.
@@ -19194,7 +15843,6 @@ rainbows appeared.
 Vavaisa ninitavali nam kuka-a ku^ama nyovapa-a hantiny wuwukany
 
 Rocks swallows meet standing there me brought there me ftround
-
 t<»,utangia kikihya^fl wovakimhu. (Repeat)
 
 blue rainbows appeared.
@@ -19224,9 +15872,7 @@ III
 Teotcoka kinitaAa|(l hiatavaiAuka, hiatuvaiAika nionyi vanyimu^a
 
 Bbu'k swallow i they ) here nin- (thoy) hen- run- in<»k' loa<Jiiig me
-
 ning came, ning came
-
 kanu' kai-iiiy vanviini^ja. (Repeat)
 
 tht're me * brouK^ht me.
@@ -19242,7 +15888,6 @@ IV
 Ilaiya! R.sainga U'.UAuiigi pi yunanirita-a kahosivali Auputeiihfi
 
 Ala's! Poor clouds not *^ discoverable far in tlie east under
-
 taAanga itcu-u:)aa hamu katcu konya-am hiniulivrka-a. (Repeat)
 
 mountain in there lay I there arrived running.
@@ -19250,7 +15895,6 @@ mountain in there lay I there arrived running.
 TcuAuiigi pi yunangita-a kaho siyali Auputeaha taAanga itcu-uta-a
 
 Clouds not ( discoverable far in the east unaer mountain in there
-
 hainu katcu konya-am himuliAuka-a. (Repeat)
 
 lay I there arrived running.
@@ -19259,11 +15903,8 @@ lay I there arrived running.
 Vatciki hyoatu punga hihivaka nyuhuna, vaUiki yoa tapunga
 
 We are basket scraping 'singing, we are "^ basket
-
 hihivaka nyuhuna; hodony muia vahamutanyi' konyuiigu kaitconga
-
 scraping singing: evening jn thud ' i am listening
-
 hitanjn yahana kokana tcufa kianfi rsaitconga. (Repeat)
 
 thisnfy "feathers lips clouds there hanging.
@@ -19271,7 +15912,6 @@ thisnfy "feathers lips clouds there hanging.
 Vatciki hyoata punga hihivaka nyuhirna; hodony mu:)a vahaniutanyu
 
 We are basket scraping singing: evening" in thud
-
 konyungu kaitconga hitan3a yahana kokana tcufa kianu rsaitconga.
 
 iam listening this my 'feathers tips clouds there hanging.
@@ -19307,8 +15947,6 @@ From my feathers clouds are shaking.
 1^ ;
 
 
-294 THE PIMA INDIANS [eth. ann. 26
-
 '; Yanyu tan&nadungil kamuddkai vapamoi(d) rsorsonaki; namba
 
 I am dizzy run bog water; there
@@ -19316,7 +15954,6 @@ I am dizzy run bog water; there
 I nanyinyivjha ku^a uk makafa:) nyuta-a vapaaka n/afingi rsa-aka ihya
 
 1 came in there tadpole singing reeds bark girdle here
-
 vanyuta. (Repeat)
 
 singing.
@@ -19340,7 +15977,6 @@ VTl
 Hodony kfinyunyuAund katcu tamai sitcuna-fiki vangitcud y&imcna
 
 Evening land lay top very blue dragon fly going
-
 rsona-aki nanamai, Auafigihya hunyul mamai kany rsotangi tcoakana.
 
 I water top, hanging hfs tail with water stick in.
@@ -19350,8 +15986,6 @@ rl (Repeat)
 *^ Kony hya-ama nyinyiviha kanyuita hunyul mamai kany rsonangi
 
 I there came see his tail with water
-
-
 tcoakana yanakuAi rsamhonyu.
 
 stick iq flapping rustling.
@@ -19363,11 +15997,8 @@ VIII
 1 1 , Himonyi munu-una, himonyi munu-una; tcokaffgia sisikimu,
 
 \\ ' There I run, there I run; darkness rattling,
-
 tcokangia sisikimu-u, tciavoid hyfisinga kony hunga siffinatcama
-
 darkness rattling, visnaga ^flowers I that wear in hair
-
 nyuimulhimu. (Repeat)
 
 singing place going to.
@@ -19375,7 +16006,6 @@ singing place going to.
 Himonyi munu-una, tcokangia sisikimu, tcokangia sisikimu-u,
 
 There I run, darkncHs rattling, darkness rattling,
-
 tciavojd hyasinga kony hunga sifanatcama nyuimulhimu. (Repeat)
 
 visnaga flowers I that wear in hair singing place going to.
@@ -19402,8 +16032,6 @@ Thence I run as the darkness gathers,
 In fluttering darkness to the singing place.
 
 
-EUSSELL] CIRCLING SONGS 295
-
 IX
 Sikiila imuta vanyi kinyonyoi vawrpa nyiwoata-a, hai-i3'^al
 
@@ -19412,7 +16040,6 @@ Round Koinjf I vulture likr * I make. haiya!
 TamaiAi^ katciinu ])ar8a vanyolina kanyrita-a ittivaTiya ipuinanga
 
 Top ln>inK lu'jir by to I .stay 'sf,- this' breath
-
 tcutcunangu-v. (Repeat)
 
 blue.
@@ -19420,7 +16047,6 @@ blue.
 TamaivT' katciiuu parsa vanyolina kanyuita-a itavanya ipuinanga
 
 Top layiiiK nearby to I stay '.-oe tliis " breath
-
 tcutcunaiigu-iT. (Kopeat)
 
 blue.
@@ -19431,9 +16057,7 @@ Aungihomi nakamula, AUngihomi nakaniula; hiaAat n\^uihunda
 
 Rcadish bat, reddiBh bat; here " song end
 
-Aakamunanahakimu pahanga viviilgi hukanyi sivanatconaha Afikamu-
-
-rejoices eagle down that T put in head drefw re-
+Aakamunanahakimu pahanga viviilgi hukanyi sivanatconaha Afikamurejoices eagle down that T put in head drefw re-
 
 nanahakimu pawoi ya^i-imu.
 
@@ -19464,7 +16088,6 @@ I
 Y&kimaii nyunyui rsanatco, ySkimap nyunyui rsanatco; *vatS
 
 Butterfly «ong commence, butterfly song commence ; they
-
 tcotconaku yahaipu vapaki(f)wa koinoinanyi yovaiya pumuhimu-u.
 
 dance either side to and fro .smoke * ' raise*^ higher.
@@ -19475,9 +16098,7 @@ II
 Yakimaj yofinu, yiikimap yofinu, *molK)m()i nyuhiAu rsfinatco
 
 Butterfly * l>ird, butterfly hinl, inuiiy ' souk commence
-
 wiihuwri iivi nuduna kita rsarsanuk koniiiii. (Repeat all;
-
 toward i run house close to du>t.
 
 then rept^at twice from*)
@@ -19497,8 +16118,6 @@ I run to where the du.st arises,
 Clo.se to the walls of the house.
 
 
-296 THE PIMA INDIANS [eth. ann. 26
-
 III
 
 Vanyiki yumotci nyunyuiAu rsfi-natco. (Repeat)
@@ -19508,7 +16127,6 @@ lam now song commence.
 *Konyami kakayak wuhuAui nyi mudukai konyka wumaika
 
 I there heard toward me run I that with
-
 wunianyi rsSnawoitco. (Repeat all; then repeat twice from*)
 
 with him commence.
@@ -19517,11 +16135,8 @@ IV
 Yonofangu yahaka mohofi *yakanyhi wuwumu rsSnawoitco, .
 
 Cat-tail leaf woman here me with commence,
-
 hinhovat wuganya himihimu iakonga nyi iovaha hayany
-
 in there round going here my taldng here
-
 imamai*s&ku mawoihimuna-a. (Repeat all; then repeat twice from *)
 
 my breast touch.
@@ -19543,11 +16158,8 @@ VI
 Mokali n&vangu kuhuka, mokali tfivangu kuhuka ; * yaifingia
 
 Dead mountam standing, dead mountain standing; hurry
-
 imukama tciviyaka nyuitana sikoli kakiwonda yrwuhulitc
-
 run arrive see younger brother I guess wind his
-
 an avaiyu ngagaiva munduhuna-a. (Repeat as above)
 
 there pass across run.
@@ -19596,7 +16208,6 @@ VII
 Mavai Navangu,
 
 Mjiayul inouiitiun,
-
 tc'Uwii inakiomaini'
 
 land strip
@@ -19610,23 +16221,14 @@ Ma-ilyal
 
 
 Navaii^u,
-
 nioiintain,
 
 
 * hana\ anyi wutcoma,
-
 yoiMhr ' before
-
-
 lamavaki
-
 house
-
-
 yrndafit^a
-
-
 y()lu)f(i) yuhuinuna-a.
 
 woman laughing.
@@ -19651,14 +16253,8 @@ came running kind that
 
 
 Foam
-
-
 headband
-
-
 blue
-
-
 water.
 
 
@@ -19722,19 +16318,14 @@ Trikapd).
 
 
 unj; ill thf
-
-
 rning, and during the next day ili.- wumrn play the game called
 
-
-298 THE PIMA INDIANS [eth.axx.26
 
 II
 
 Huwuli mulitcona, * huwuli mulitcona hukanyki takalimu wusi
 
 Wind, make it run, wind malceitran that I with talcal(d) all
-
 kukuhuva-a. (Repeat m above)
 
 win.
@@ -19760,18 +16351,14 @@ I
 Momoi ySnama humiaki nyi&kimu. (Kepeat) *Konyu simS
 
 Many people together talking. That I there
-
 kukiwak yosi kawonaku naitcona kitfivali yofingn nyap&yanufigu
-
 stand stick ball throw swallow bird me flapping
-
 vimu. (Repeat all; then repeat twice from *)
 
 II
 Tcokoikamu tfin&vangu *kamova hondonyingu pars&va kukiniuta
 
 Black mountain far went this side stand
-
 samuka wuwui pamumulimu tarsal yunda nyoka wungany naipimu.
 
 toward run sun in middle round run.
@@ -19783,9 +16370,7 @@ III
 Tavvot yatamu *komfl8 siny wunata-aku vany mulitco kamova
 
 Who man you me with me run there
-
 tcokama ii^^uitaimu hinavany iiyongi ta nuniamanguvi yukaimu
-
 goal looking there me In front of waving the hands his shadow ?
 
 (Repeat as above)
@@ -19809,8 +16394,6 @@ The slui'low of whose hamls I see?
 
 (J.SUMK the i-voiiiiiK hc-fnie tht' dtiy of the f(K>t raci,'.
 
-
-RUSSELL] HUNTING SONGS 299
 
 Vlpth'Ai Nyhi, Lay Son - fi
 [By Virsak VAM]
@@ -19847,7 +16430,6 @@ KatjtApi NyiIi, Dati-ra Song ''
 Tahaiva siyali kukim, *t&haiva siyali kukim: kutii nyi worsanyflk
 
 White moVniiig Htand, white morning stand: in f arose
-
 hi-im. (Repeat from*)
 
 go.
@@ -19878,16 +16460,12 @@ I>rincipally depended hikju in eases of sickness where the characteristic sympto
 di/./.incss.
 
 
-300 THE PIMA INDIANS [eth. ann.26
-
 II
 
 Katundami** ya-ahangu, *katundami ya-ahangu; konyitcoma
 
 . Thomapple leaves, thornapple leaves: I that
-
 hofigiyak nan:|ahangu rsakali mmnulihimu. (Repeat all; then repeat
-
 eat dizzy stagger run.
 
 from *)
@@ -19895,7 +16473,6 @@ from *)
 Katundaini yasingu, * katundami yasingu ; tcoma hiySku navahamo
 
 Thomapple flowers, thornapple flowers; that drink drunk
-
 rsakali mumulihimu, (Repeat from *)
 
 stagger run.
@@ -19905,7 +16482,6 @@ Ill
 Kakata kuviholi y&namu nyfiita-a, * hiyavS ny iahu vatany , mumoak
 
 Bows great remaining man following, here overtook heme, killed
-
 inyi, wopa hitany yahailga hikomiaka r8olinga-a. (Repeat from *)
 
 me, left this * my horns cut off throw away.
@@ -19913,9 +16489,7 @@ me, left this * my horns cut off throw away.
 Vapakfi kuviholi yanamu nyfiita-a, *hiyava nyiahu vat&ny,
 
 Reeds great remaining man following, here overttwk he me,
-
 mumoak inyi, wopa hitany nfinbavia hikomiaka rsolinga-a. (Repeat
-
 killed me, left this my feet cut of! throw away.
 
 from *)
@@ -19925,7 +16499,6 @@ IV
 Momovali n&takimu, * momovali n&takimu, ka:|oho miawaka hamS
 
 Fly crazy, fly crazy, there drop there
-
 yanaki taimhu-u. (Repeat from *)
 
 flap.
@@ -19933,7 +16506,6 @@ flap.
 * YfikimalinavakShi, y&kimali navak&hi, ka^loho miawaka ham& tapai
 
 Butterfly drunk, " Butterfly drunk, there drop there open
-
 kimu-u. (Repeat from *)
 
 and shut wingn.
@@ -19965,16 +16537,13 @@ The drunken butterflies sit
 With opening and shutting wings.
 
 
-ft \ native thomapple, Datura meteloides 1). ('. It is yiopularly bcliove<l that if one eat an undi-
-vided r(H)t it will render liini temi>orarily insane, but if the root be divided or branchint,' it is
+ft \ native thomapple, Datura meteloides 1). ('. It is yiopularly bcliove<l that if one eat an undivided r(H)t it will render liini temi>orarily insane, but if the root be divided or branchint,' it is
 innocuous. There is a tra<lition that a man at Blackwater ate of the root and direeted that he be
 locked in an empty house until the elTectvS should wear off. He was locked in at noon and toward
 eveniniu: he wjis seen running through tlu' thickets toward the river a couple of miles distant. He
 recovered his senses when in the midflle of a thorny thicket of mcMiuites. His limbs were .'scratched
 and bruised, yet he ha<l been un(;onscious of any injury until the moment of recovering his wits.
 
-
-RUSSELL] HUNTING SONGS 301
 
 PiHOT Nyiii, Pihol Song
 
@@ -19986,14 +16555,9 @@ Yali teovu makai tcokak ut iniiutatc yoai tookak yoapa,
 Younger hare iimgiciHii blackness in ninninK hlaek-tnikMl meat bring
 
 .leer
-
-
 sialim antil yoapa, sialiin antii yoapa-a. Yali kaAu iiiakai tcokak ut
-
 morning I will 'brin^'. morning I will * bring. Yonii«er bmlger muKieiun blnekne-ss in
-
 niU4utatc \'Oai tatii
-
 running black-tnile"! fee
 deer
 
@@ -20019,19 +16583,14 @@ Had ) no clouds, had 1 no clouds. had 1 no clouds.
 Kahova siyalT \vutc4i sahania Ikoj kukate yamha nyu vaita, nany pia
 
 Distant east under yellow (?) standing ^ there me calling, had I no
-
 yuwulik. nany pia hayuwuli-ika-a. Kamhova hondony wutca siihama
-
 wind. hud 1 no wind. There west * under yellow
 
 Iko| kukate yaniha nyu vaita. nanv pia yuwulik. nany pia
 
 (?) standing ' there me calling, ha«l 1 no *' wind. had K no
-
 hayuwuli-ika-a. Kamhova hondony wutou sahama Ikoj kukatc
-
 wind. There west ' under yellow c'l standing
-
 yamha nvu vaita, nany pai touwukik, nany ])ia hatcuwuki-ika-a.
 
 there me calling, had I no clouds, had 1 no clouds,
@@ -20053,8 +16612,6 @@ In the west the Y^'ellow Ikol
 ('ailed me. I had no winds or iloiids.
 
 
-802 THE PIMA INDIANS [eth.ann. 26
-
 MEDICINE SONGS
 
 ToATCiTA Nvai, Ccrk Songo
@@ -20065,11 +16622,8 @@ I
 Hodony Aungiomima kfiihowa nyopinyima, hodony Aungiomima
 
 Evening red not yet sink, evening red
-
 kaihowa nyopinyima; *kony suna yuna tcomu nahivaka nyuina
-
 not yet sink; me I in there dt see
-
 itanyi rs&vikdna sikfij munukai mu^a sisinyi bikimu.
 
 my gourd round run in rattling hikimu.
@@ -20077,9 +16631,7 @@ my gourd round run in rattling hikimu.
 Hodony Aungiomima k&ihowa nyopinyima, hodony Aungiomima
 kfiihowa -nyopinyima; **kony suna yuna tcomu nahivaka nyuina
 itanyi matcuowina sikSf munukai mu^ pupunai hikimu. (Repeat
-
 feathers rumbling
-
 to*)
 
 Kony suna yuna tcomu nahivaka nyuina itanyi rsavikdna sikfij
@@ -20093,7 +16645,6 @@ munukai mu)a sisinyi, hikimu. (Sing from **)
 Kony suSa yuna tcomu nahivaka nyuina itanyi matcuowina sik&i
 
 (?)" (?) (?) (?) (?) (?) (?) feathers
-
 munukai mu^ pupunai hikimu. (Repeat all four times)
 
 II
@@ -20102,11 +16653,8 @@ Kus sitcofia muAany vftfOfnyi taiima. (Repeat)
 Kind of all night he me shaking.
 
 Kaho makai kiyundavam nyoapaimu kus sitcoiia muAany vaninyi
-
 up there maglcian'H house me brought kind of all night he me
-
 in there
-
 taiima. (Repeat second line; then repeat all four times)
 
 Hhaking.
@@ -20134,19 +16682,13 @@ a This song was sung by a Blackwater medicine-man when making his diagnosis of a
 thiH connection read the history of Sala Hina's treatment when i)oisoned (p. 2()0).
 
 
-RUSSELL] MEDICINE SONGS 303
-
 III
 Alisi yoti-amu vavatcosi hutcu] ya-ana yopanaka yukatc vanyi
 
 Kind of yellow wroii himself 'fentliers * pull out "^ with it make me
-
 tcupaftcona *hiyanyi inainfitainu maAursapaiinii: tci wunda wusika
-
 prostitute 'here* my head clasp hands laud all over
-
 mumi'huUmu. (Repeat; then repeat twice from*; repeat all four
-
 run.
 
 times)
@@ -20156,11 +16698,8 @@ IV
 Alisi tc*L:tcunani kalakamu *tcuwi:nda lonitan(u) tcutani \- uwulhula
 
 Kind of blue kakakamu land edge Idue " wiud
-
 vairsapaiimu tata yirwulhula vipiahimu vatai huAuiidak tcunyuwuna
-
 lying on white wind left make wind land
-
 kopanyima. (Repeat as above)
 
 dust.
@@ -20169,9 +16708,7 @@ dust.
 Mamursanil tanali kia nyu^a villi kukionyfit. *Amuka valnvuihita
 
 M(K>nH shine here me in here standi You uwix will see
-
 nalo-oji tcutani vapukanyi kohona varsoi muk nyi naiiamu. (Repeat
-
 women blue reed me " blow far distant me meet.
 
 as above)
@@ -20185,7 +16722,6 @@ Haiya! Haiya! Gourd there rattling.
 Kon\^u wuwuiAa himfik am nyuita himan vait<;okimu rsavikohot
 
 That" I toward go there Bee laying gourd
-
 man sisikimu. (Repeat; then repeat all four times)
 
 there rattling.
@@ -20221,20 +16757,15 @@ When 1 go to see it there
 1 surely find it rattling.
 
 
-304 THE PIMA INDIANS (eth.axx.26
-
 VII
 
 Kote yumoiva loiony taimu, kotc jumoiva lo^ony taimu; ha
 
 We * DOW eTening taimu, we now eTening taimu; oar
-
 rsursupinyimu * krsu tata mahamaaia kiili tavali matcrwoena nin^
 
 younger brrHben kind of white headed Jiwal low (bird) wing feathers four
-
 kaya putanyinaha kiya loiony taiiniu. (Repeat: then repeat twice
-
 there mttiing here evening tailmu.
 
 from *. Sing all four times)
@@ -20243,9 +16774,7 @@ VIII
 Litai [Makai *vapaka likotcuku kamo nyi paitcomi vopa
 
 Elder Brother reed magician cut yonder me beiore in front throw
-
 kuirsapaiimr kriqak tcuAani kaitanima. (Repeat from *. Sing all
-
 step on in clouds M>unding.
 
 four times)
@@ -20255,9 +16784,7 @@ IX
 Alisi k&kamaki Wumukali * vfiviki s'oam aiitc^o tconyitcokimu
 
 Kind of gray Coyote he is yellow something making
-
 p'mumrs brk vamSt an kiwonatcona. (Repeat all; then repeat twice
-
 meddler that snake there belt.
 
 from*)
@@ -20266,11 +16793,8 @@ X
 Aliwusi tcutfini papat lohoji namkak varso nyi nanamuk kamhony
 
 Kind of blue frog woman meet there me meet somewhere
-
 puitcokimu * kaho sialinr. MarsS 8Utata tcuAakia paiteotco hamuiiu
-
 carry me yonder east. Front white clcNids there stand there
-
 yainuka painy pii tcokimu. (Repeat all: then repeat twice from *)
 
 after me * carry me.
@@ -20306,14 +16830,11 @@ Blue Fn»ir-woinan met and carrir»l me
 To whert* the oK»ii<l< are standing'.
 
 
-RFSSELL] MEDICINE SONGS 305
-
 XI
 
 Kokaki monioviny tcuf uhulimu * kun ja kus kaniaki Wumukali,
 
 Wood triangle * rising in kind of gniy Coyote,
-
 naiwonyima ivanu kaiAr niatcuowina hukanyai n\i tanalhitaiinu.
 
 arose at one side of the back wing feathers with it nVe shine.
@@ -20325,7 +16846,6 @@ Yainupanu tiitAvaHa * ku^ana Litai tcunyuwunda tcopolitaiimu
 Dead tiehi mountain in Elder * land rectangular
 
 Brother
-
 k6nyu hunu yunda mavavaka nyuina konyu hunu iiyuita-miu.
 
 I in that " in enter tfiere see 1 in that * siiw.
@@ -20334,11 +16854,8 @@ XIII
 Alwus yoa-am vavatcosi *kahamova muhumukS tcutcakamu
 
 Kind of ^ yellow wren yonder distant caves
-
 t^tavanu woeka punyi puitcokiinu kamodanyi mamaitcomhi
-
 mountain toward there me carry me before me close to
-
 pakunyim tcukahiiiia.
 
 thump so far.
@@ -20348,15 +16865,10 @@ XIV
 Alwusu kakamani Ta'^rai wotu makai kanihu mama^atc piohokimu
 
 Kind of gray Koad-runner he magician he young his hungry
-
 tcom rsoakiinonha *hia tataiwonyk tcutcuwuna tcutcumaka
-
 then cry here arose lands everywhere
-
 mumuhulima alAapayoli inumoahak kuAarsatc kahi yan matai
-
 running milnpeds killed approaching across *thcre carry
-
 tcona.
 
 on back.
@@ -20392,14 +16904,11 @@ Millipede that he carried home.
 26 ETH— 08 22
 
 
-306 THE PIMA INDIANS [eth.ann. 26
-
 XV
 
 Alwusu tcotcok kfimkitcuma ^tcokafii fiiopoidak varsatc
 
 Kind of black turtle darkness maae a belt toward
-
 vfiitcokimu am kai panyumunda tcokaki yoi!u nyitaimu.
 
 laying there make shake darkness shaking nyitaimu.
@@ -20408,7 +16917,6 @@ XVI
 Icupaf yohofi naiwonyk *an&vany wuwukany mumuhuliniu y&vany
 
 Harlot woman arose and run around me me ran here me
-
 pamarsalpu mamakuAa.
 
 breast beat the air.
@@ -20420,7 +16928,6 @@ XVII
 Ainfi smamatcun rsursupinyi *inanu tarsai kabo toconyihima
 
 Hurry know younger brothers around sun up there come up
-
 yfiifia smamatcun rsursupinyi kfisikSyany mamaka himu.
 
 hurry know my younger orothers drowsiness gave himu.
@@ -20458,13 +16965,9 @@ Chief told, chief told, chief ^ told, chief told.
 Kuwusi kuhunga siyali worsa kundangu pahaka wuwumia nyukai,
 
 Kind of good morning rise at the same lime eagle with "sanif,
-
 sivany lahai, sivany lahai. Kuwusi kuhunga hondony tcopi kundanga
-
 chief told, chief told. Kind of good evening sank at the same time
-
 virsaka wuwumia nyukai, sivany lahai, sivany lahai. (Repeat four
-
 hawk with sang, chief told, chief told.
 
 times)
@@ -20479,12 +16982,9 @@ When the morning dawn is here;
 Hawk sinjjrs with him at even.
 
 
-BUssELL] MEDICINE SONGS 307
-
 Kanikutcut, kamkutcut, papt vatcivi varso hutcui rsotk ut vatx.*ivi,
 
 Turtle, turtle, where «wira there pond water in swim
-
 kosta, kosta, kosta, kosta, kosta, kosta. (Repeat four times)
 
 (?) (?) (?) (?) (?) (*■)
@@ -20547,7 +17047,6 @@ I
 RsaTiigali tcrpati voliof, *kaihova yon(d)()nyiina iiyi moitaku
 
 Pitiable j>ro>iitutt' *W(>man, not yet * evening' nu- wnil
-
 yahasiiiu; kahova uyaTnaka t<?upatia nyi moitaku yahasimu.
 
 flower up ' after pnwtitute ine ln-iirt ' llower.
@@ -20564,15 +17063,6 @@ While the evening yet is young.
 My heart glows with the singing.
 
 
-308
-
-
-THE PIMA INDIANS
-
-
-[ ETH. ANN. 26
-
-
 1 l>
 
 
@@ -20581,7 +17071,6 @@ II
 Ya-ai vavaitcotcom hanavany Aunganyi ng&ngSkl nyukai *hami
 
 That stone standing there firound two sing there
-
 tamai tcokangi huwun(d)aku noahimu kSinaku yahai yananguhuAa.
 
 top black wind roaring after back and forth flutter.
@@ -20593,7 +17082,6 @@ III
 Ya-ai t&hai Jfgiwolik, *hami tamai sutcunangi mamahat nyu-uhuna
 
 That white Ngiwolik, there top green frog singing
-
 kusu tcunangi tcuvaki kahatc raomoi nyuhuna. (Repeat as above)
 
 kind of blue clouds lay many singing.
@@ -20624,9 +17112,7 @@ I
 Makai ki wupuku nyuitco, *inakai ki wupuku nyuitco, sikoj tarsal
 
 Magician house nrst sing to, magician house first 'sing to, round sun
-
 tcursunying tarsal slsv&n huwuwum haimhuna-a. (Repeat; then
-
 arose sun rays with go.
 
 repeat from*. Sing all four times)
@@ -20640,23 +17126,15 @@ II
 Tcutcupavi yohofi
 
 Prostitute women
-
-
 kakawondu Aaifimuna,
-
 group come running,
-
 figlnglkoatcl Afi!fimuna-a
-
 crowns come running.
 
 
 kaka wondu Ajilfimuna, *tcutcupavl yohofi
-
 group come running, prostitute "women
-
 tcutcupavi Aaifununa hlklmoll y&slka
-
 prostitute come running (a plant) " flower
 
 (Repeat as above)
@@ -20680,17 +17158,13 @@ Harlots came witli hikimoli,
 Flower crowns upon their heads.
 
 
-RUSSELL] MEDICINE SONGS 809
-
 III
 Hali wusu tcotcok tcosokali *Hitai mulkon kjiinak tata tcuAahangi
 
 That kind of black liziird Elder of runiiinK lollowiii^' white clouds
 
 Brother trail
-
 nyuyripa nrmavitc ainak kuhuwus tataiii rsorsonoinu-. (Repeat as
-
 cam'e out arms followiiiK kind of white im»>]s.
 
 above)
@@ -20700,7 +17174,6 @@ IV
 Yali vaAungam navafigu *tamai tcokaki yondunyihimu, wukanyi
 
 That filoiiy mountain top darkness * go down, round
-
 minyumu tataip yoakongimu. (Repeat as above)
 
 going backward " sKjatter.
@@ -20709,11 +17182,8 @@ going backward " sKjatter.
 Hali wusu Aupufiffiom vapamandu takunandu vinyina tcoikatc
 
 That kind of reddish snakes spider string like
-
 yondunyu, kamovingi yondonyika va^vana takunandu vinyina tcoika
-
 came down west "^ direction stretched spider string like
-
 there.
 
 
@@ -20753,15 +17223,11 @@ KAkai Nvni, Rattlesnake Song
 T
 
 Yalova yondonaa kanyuhuta, *yalova yondonaa kanj-uhuta;
-
 p:arly ' oveninjs' 1 fing, ' early * evening' 1 sing:
 
 kaniodanyi niamatconu nyunyui Auinamatiikainiu konj^hunga
-
 ahead of me in front * songs ojnn I that
-
 wuhuAunia nionioiva iiyi:hu-una. (Repeat from beginning; then
-
 with many .singing.
 
 repeat twiei^ from *)
@@ -20779,18 +17245,13 @@ And I join in singing many.
 • I
 
 
-310 THE PIMA INDIANS [eth. axx.26
-
 II
 
 K&mundaku nfinfivaka worsanyimu, *hamali mamarsaka likorsapi
 
 KA'matdk mountain came forth, there near low clouds
-
 nyuyapakimu-u. Kamundaku nanavaku miapitaimu kokongama
-
 came out. KA'matdk mountain closer top
-
 nynyapakimu. (Repeat as above)
 
 came out.
@@ -20800,11 +17261,8 @@ Ill
 Tfiwondu yahanama iyatcom umasi, *'tfiwondu yahanama iyatcom
 
 Who man here appear, who man here
-
 umasi? Konyi tcoma yangamu kfikfiiva yulina pifiviki yungai
-
 appear? I there ' homed snake think not him
-
 wonda tciyatcomu raamasimu? (Repeat as above)
 
 here appear?
@@ -20813,7 +17271,6 @@ IV
 Tcotcoku yakimaii nyu-una, tcotcoku yfikimaii nyu-una; *va-aki
 
 Black butterflies dng, black butterflies fdng; ruins
-
 rsfirsSnanu y&-ana ko-onyufiigu marsfiviki nyo-onyi yabimu-una.
 
 
@@ -20844,24 +17301,18 @@ As I go past the foundations
 Below, of the ancient house.
 
 
-BUSSBLL] MEDICINE SONGS 311
-
 TcoKOT Nvni, Owl Song
 
 [By VirsHk VAM]
 
-1
 
 YahalT Kiimrndiik naniivangu, * inoiva hondoiiifiga kongana
 
 Large KA'iniittik mountain, many evenings summit
 
 Aupun<2riohonu kony hunga wuwui nyuinunduk imukai, inomoi
-
 reddish I that toward * to siiim' going, many
-
 nyunyui wuwusi narnukimu. (Repeat from beginning: then repeat
-
 songs all meet.
 
 twice from *)
@@ -20871,11 +17322,8 @@ II
 Tcokot ya-atama muumuka nyuhuna kony kaitcongatci wuwuiny
 
 Owl ' man far singing I hearing toward
-
 haimiuhuna. * Momoi yo-ofi m&m&tama tcupafinga-a amif&iAuku
-
 going back and Many women top prostitute there come
-
 forth.
 
 kayuhinui kainakimu-i'. (Repeat as above)
@@ -20889,11 +17337,8 @@ III
 Teokot yofiiTgu kokowoi(d) yS-atama tcoma sinyi wupavingi
 
 Owl * bira small owl " man try me like
-
 tcohikamr ya-ahana kony yudanyi amuAulhangi taimu hano
-
 class ' feathers I ' " with " to make wind there
-
 kokonganu kakamaiwakimu. (Repeat as above)
 
 points ashy.
@@ -20905,9 +17350,7 @@ IV
 Reddish water you slowly me make drink:
 
 pianyiugi papaki navahamo kam siyalika wohoirsakal
-
 not I slowly drunk there "ea^t toward
-
 himumuihimu-u. (Repeat as above)
 
 wobble run.
@@ -20943,8 +17386,6 @@ I try to w^alk straight toward the east,
 And find my footsteps staggering.
 
 
-813 THE PIMA INDIANS [btu.ann.26
-
 Kakattoo NyaI, Quail Bosb
 [By Sutatki]
 
@@ -20953,7 +17394,6 @@ I
 K&kHmangi kakaitcovd kakawcx^a miyanyita. A^^^^^R^^ mulivak
 
 Oray quails bunched grouping. Coyote came ranning
-
 tatai panyuinahimu. (Repeat four times)
 
 above looking.
@@ -20963,7 +17403,6 @@ II
 Tcutcunangi kakaitcova kakawo;il \raiAukai, AU^^^^^R^-li nyuinakfl
 
 Blue quails bunched ran together, Ck>yote saw
-
 kakai vanyuinahimu-i:. (Repeat four times)
 
 sidewise looking.
@@ -20985,7 +17424,6 @@ I
 Tatai, Tatai, sivSlik ma-aka, Tatai, Tatai, sivfilik ma-aka
 
 Roadrunner, Roadrunner, bushy head, Roadrunner, Roadrunner, bushy head
-
 kita Aungany rsursulu, poi! poi! poil (Repeat four times)
 
 house round alwayn, poi ! poi ! poi !
@@ -20995,7 +17433,6 @@ II
 Tatun((i)ai, Tatun(da)i piwopusa; Tatun(d)ai, Tatirn(d)ai, piwopusa,
 
 Roadrunnere, Roadrunners uimttended; Rondninnors, Roadrunnere, unattended,
-
 masika hohotc'Ut uteiawa. (Repeat four times)
 
 morning lizards he devours.
@@ -21017,8 +17454,6 @@ He eats lizards in the morning;
 He eatH solitary lizards.
 
 
-RUSSELL] MEDICINE SONGS 818
-
 III
 Alisi Aupuiigi wopuikam Qtan(d)ai, alisi Aupungi wopuikam
 
@@ -21036,9 +17471,7 @@ IV
 Konyi kamo yangitaka mumuliliimu, konyi kamo yangitaka
 
 I there hide had runniUK, 1 there hide
-
 mumulihimu kamangi tcosoka|i moakai vakatc ki-iina ho-o. (Repeat
-
 bad running gray lizard kill stomach fat eat.
 
 four times)
@@ -21047,7 +17480,6 @@ four times)
 Kac^o tcuof koi kuka kciiganu kiahasi liaopa| mat ta^ tcoi-ika
 
 Over yonder long mesquite stand tops basket hawk young talon like
-
 kofiganu kiahasi. (Repeat four times)
 
 tops basket.
@@ -21056,9 +17488,7 @@ VI
 Konyi ngaino rsaliika mumulihimu ama aitcovasi nyaikuita ama
 
 I there pitiable had running there something lucky there
-
 aitcovasi uyiiikuita hiya vany mosi yun(d)a siviahawa. (Repeat four
-
 something lucky here my vulva in put penis.
 
 times)
@@ -21068,7 +17498,6 @@ VU
 Moi ya-atama, moi ya-atamaka; siAungivia, siAungivia ma-atama
 
 Many people, many people: red penis, crown
-
 ikitanyi hivami nyum(d)a rsotaki vitciwanyu. (Repeat 'our times)
 
 cut from there water whirlpool.
@@ -21116,11 +17545,8 @@ I
 Halapita nyuitamokam of!nga *hihyavat tatamaiva limunatc! hyana
 
 Bometning Inaccessible bira here top walking feathers
-
 kuviny kainhikimu am tgai kukiAakai tatai mamfitcuka tconyopiny
-
 wave BouDding there you stand up head slow
-
 kaibama. (Repeat; then repeat twice from *)
 
 
@@ -21133,11 +17559,8 @@ II
 Vanyifi^ rsahingu hyat&ta vin&kfi tcunyuwutu rs&rs&nu vamhoikimu
 
 I am pitiable here we flooded . land bases caving in
-
 baya-ava banyi supunyu, kamova siyalikA naifonyima baya-ava banyi
-
 cry see afrai<f, there before east came out cry see
-
 supunyu kamova hondonylkfi naifonyima bayava banyi supunyu.
 
 afraia there west direction came "out cry see afraid.
@@ -21168,9 +17591,7 @@ Tocrt Nvnl, Hare Song
 I
 
 Rsursui tcotanyuk nyubuta, * rsursuj tcotanyuk nyuhuta; hiya nyi
-
 straight danced singing, straight danced singing: here me
-
 tamai yuwuli mutakimu-u. (Repeat all; tben repeat twice from*)
 
 top wind roaring.
@@ -21178,14 +17599,12 @@ top wind roaring.
 II
 
 *kakai tcotanyuk nyuhuta; hiya nyi
-
 horizontal danced singing: here nie
 
 
 Kakai tcotanyuk nyuhutii.
 
 Horizontal danced "singing,
-
 taniai tcuvangi mutakiniu-u.
 
 top clouds roaring.
@@ -21205,7 +17624,6 @@ While the wind is roaring,
 While the wind i:^ roaring.
 
 Hare is dancing and sinking;
-
 liare is dancing and siniring,
 Wliile the clouds are roaring,
 
@@ -21218,7 +17636,6 @@ III
 Tcokondii va-ana vamutfini sesivSnatco, * tcokondu yana vamutfim
 
 Owl Itoatlu-rs flop headdresx, owl fenthcrs flop
-
 sesivtinatco; inimuka tcun^^uwuta tanumaiu' kakatu namukimu.
 
 lieaddress: far country top bow made.
@@ -21230,7 +17647,6 @@ IV
 Kakamaki Nahakifi *hondonyi simamatcima kuliunda mataiwonyukai
 
 Gray Moiisr evening very know in camo out running
-
 tcokaiiginga ipoiwa. (Repeat as above)
 
 darkness breath.
@@ -21239,11 +17655,9 @@ darkness breath.
 VatA masi, vatfi masi, siSmu, t&ny kokopaimu; *vatfi masi,
 
 I guess morning, 1 guaaH morning, right I nnut; I guess morning,
-
 vata inasi, siamu tany kokopaimu; vatfi nuisi, vata masi, siiimu
 
 I guess morning, right I " snut; I guess morning, I guefw morning, right
-
 tany kokopaimu-u. (Repeat as above)
 
 I shut.
@@ -21278,11 +17692,8 @@ I
 Hodony ka nyunyuT rsarsaii, *kat<'ini tan^n5 tcii: yi'wi:hui(t)
 
 Evening* at ' songs commence, lnyiiiK (lirctti(»n fn»ni * wind
-
 mindrkai vata inrinrlnania mundukai vata yonginyi: tcopina wufui
-
 running was trrrible running was * shaking* north toward
-
 nyi pahiva viyoho!i(d)a.
 
 Die tail wind V)lc\v over. »
@@ -21302,7 +17713,6 @@ a Sung rapidly while *he wide of a basket is beaten to carry the rhythm.
 
 TwhaBjgv yatmnQ, *Piilmfi||Ti jiifuiriA koiuus huku vaiiy vAnnm
 hiikrniinri, koniUH huku vaiiy vtinHin batcoua-a vahama t4?oikama^ nyi
-
 miirU\ )-<iU Hmt thiit 'my tim% mad# moni loolu^
 
 iiiioitiiktl vaJjama teuiiiga*^Bi^^l^MHn^BCS^^™
@@ -21328,13 +17738,10 @@ That made my heart grow stronger.
 >
 
 
-RUSSELL] MEDICINE SONGS 817
-
 III
 Sikali rsonukarna, *sikali rsonukanm; ku^jafi^u Panai sitcunakimu
 
 Around water, uroiiiul water; there in Cityote blue
-
 maniasiiia konyung^a wuwi i vapaimuna. (Repeat as above)
 
 dyed i in toward run.
@@ -21356,11 +17763,8 @@ I
 Vavaki yuwu^a, vavaki yuwma; * konyuka wuteama yukahimuna,
 
 Ruins ' windy, ruins " windy; 1 tnat under put in the shade of
-
 wuteama yrkahiinuna; kungu nyaliailga yuwrnna, kun^^u
-
 under 'put in the shade of; large horns * windy, that
-
 nahanaka yuwi drna. (Repeat; then repeat twice from *)
 
 ' my ears *' windy.
@@ -21370,7 +17774,6 @@ II
 Hama xnwi nyofigitcu, haraa muja nyongitei:; kingamateomu
 
 Over there run '^whaking, over there run 'shaking: ahead
-
 vapaimuhu *kaho nyainak kangata tataiuilihi kaiya muka nyaihini na.
 
 run many up * after bows shining here far * me reach.
@@ -21396,30 +17799,21 @@ For bows and arrows pursued me,
 Manv bow^s were on mv trail.
 
 
-818 THE PIMA INDIANS [eth.axx. 26
-
 III
 
 Tfiwoniju kaviyo, t&womv kaviyo; hiya mukfiva puny namukimuna
 
 What hone, what horse: here far in meet me
-
 hanii nySina, hami nyaina, biyonyoena, siyonyoena; rsahavasi
-
 there after, there after, tryfng to catch up, tryiug to catch up; how
-
 inamangia hiniu kunyl yalhimuna. (Repeat)
 
 slowly going I * reaching.
 
 *Ho-o koakam kaviyo hiya mukava puny namukimuna hami
-
 star forehead horse here far me meeting me there
-
 nySina, hami ny&ina, siyonyoena, siyonyoena; rsahavasi
-
 after, there after, trying to catch up, trymg to catch up; how
-
 mamangia himu kunyiyaihimuna. (Repeat from *)
 
 slowly going reaching me.
@@ -21432,11 +17826,8 @@ We here sit, we here sit.
 Siyalika vavanyima nyunyui kotcungu wus am yanga, j-atcimtcia
 
 East'dircction there songi we are all there * uing, we here
-
 p&kaitcuna. Hondonyika vavanyima nyunyui kotcungu wus am
-
 sit. West direction there 'aongn we are all there
-
 yanga, yatcimtcia ptlkaitcuna.
 
 sing, we here sit.
@@ -21466,9 +17857,7 @@ I
 Nanyi wonda tcotcokii tcodohom, *hiyavany tamai kakayu vaopa
 
 Was 1 black bear, here me " top across stretched
-
 sikadakahimu kaiiihti nyuita yanakuvia sima hanvu-u. (Repeat all;
-
 around Koing there 'see ' waving dew falling.
 
 then repeat twice from *)
@@ -21486,13 +17875,10 @@ You see the light <le\v falling.
 •ixtineliino'" uh'<1 u^ a rain .M)nK.
 
 
-BUSSBLL] MEDICINE SONGS 319
-
 II
 Kaliwusi Aungihoini rsotangi *konyaina ihyokr; kanio nva imuhai
 
 Kind of reddish water 1 there (frink; there t going
-
 nyu^a vaniomokimu vany tgisumuhunyu-i . (Kepoat as above)
 
 me in dead I * afraid.
@@ -21502,9 +17888,7 @@ Ill
 NyunyuiAu rsarsana; *wuwui nya himunahany nya sikoli nyunyui
 
 Songs commence; toward ! going cry *I younger songs
-
 bn^ther
-
 simamatcimu-i . (Repeat as alM)ve)
 
 know.
@@ -21535,9 +17919,7 @@ Hon(d)oiiy siAupungiomi kony ainatca ihiinrna-a; itanyimoina
 Evening ' reddiNli I after go; lhis*my many
 
 Aupuilgioini ivasi yasiinuna-a wuwui nyokai Aapafiganyi nyuwun(d)u
-
 reddish makes ' flowers toward " go holes " land
-
 yaihiinuna. (Repeat four times)
 
 reaching.
@@ -21547,11 +17929,8 @@ II
 Pahangu mateuwuina ngin^Tkava yuwijn(d)a, pahaiigu matcuwuina
 
 Eagle's wing feathers four * windy, eagle's wing feathers
-
 ngiiigikava y i:\vi n(d)a; yakavany woa kiiviki nyiina tanalinga
-
 four * windy; * here me ' turn Ut 'see »ihlning
-
 inMnioI kayukayainina. (Repeat four times)
 
 soul croMsed.
@@ -21573,9 +17952,6 @@ I stir the air. When I turn
 My magic power is crossed.
 
 
-820
-
-
 TBE PIMA INmAKS
 
 
@@ -21586,9 +17962,7 @@ III
 
 Tcuwxrnda nyi tnoata-a, luitlkaAM tiuwundn nyi moatn-a; tnaikawa
 monginaiiu tSnalliigii hiniomehirm* kamo tjdauv i niaitcooii rsahifi|:fn
-
 inln^uiot nhiaiug I'JtiKik' tiirn» hji? ' Ik? tore pUJjible
-
 tcoliifijsraimtJ-u, (Repeat four times)
 
 iijil-nm ranee*
@@ -21607,12 +17981,8 @@ I
 NamiBgi v&i^inT upiiiyi, namiitgi v&winy upinvi; moi AiTvapamandu
 
 ^ymt) about tmly* ulmta, Ruy me iitK>ut irtil^*^ KTrMhtL eiidDy !>aakiw
-
 nyi moitta iHohiwa rsotiaki riHnmnhii tivofijtJ \m himuhuDa, (Hepeat
-
 miitioti
-
-
 four times)
 
 
@@ -21624,7 +17994,6 @@ Vapi jfiivikia himu konvi nytrina him, vapi jSivikia himu kmy!
 You iiQt quirk go I ' MM? go^ y^"* "^ dot quick go I
 
 njuina hfm: ki^si tarsal kam hayo-oslf worsaovimhu apl iimaiar!#tka
-
 fite go : kill*! c^f stin thvTn tre^A gr(>>4'1iij; there timi^
 
 kutiga mipoita ka tnu.\uiia-a. (Repeat four time*i)
@@ -21644,10 +18013,7 @@ WU
 
 
 n^iiyi, yo-osa kiyolhimu haoavaiiy wun^fanyi; yo-osa kopalt
-
 rouur].* * tree* ^ bUiug ilhert^ I rounil; trees ftuH^aown
-
-
 aiijlwibimcna-a. (Rei^eat four time^)
 
 oVL*rilirowtit
@@ -21679,8 +18045,6 @@ That gnaws the trees of the forest,
 I
 
 
-BUSSBLL] MEDICINE SONGS 321
-
 KAF(<y) Nvn!, Badger Song
 (By Sutatki]
 
@@ -21689,9 +18053,7 @@ I
 Vanyi rsnika vanyunyui pimamatoiraa; * tarsal vayon(d)onyu,
 
 I ' i)itiHble those songs not know; sun * set,
-
 nyunyui pimatcivaiyanga. (Repeat; then repeat twice from*. Sing
-
 sonjjs not knowVing.
 
 thus four tunes)
@@ -21701,15 +18063,10 @@ II
 Tarsal 3^on(d)onyikon(d)a nyunyuwun(d)a, tarsal yon(d)onyikon(d)a
 
 Sun sets '' land, sun "^ sets
-
 nyunyuwun(d)a; am miyun(d)anga *kusukamangi t€okon(d)a
-
 land; there in there kind of gray owl
-
 nyinyivimu hana vany wunganyi nyongorsa-ali kohota itala
-
 came address there me" around Tow hooting this
-
 nyimoinailga kayovaiya puihimu. (Repeat as above)
 
 my heart ^ higher lifting.
@@ -21719,11 +18076,8 @@ Ill
 Kan(d)onga nyaAiun(d)a siAapawany, kouyufigu ainaka imuna
 
 There land sleeping, I there after going
-
 tanalingu kakavitci vavanha, havanyi ! Maman(d)a vamingi
-
 shining narrow stretch, haya! My young you
-
 rsainganhi teomali kopanyu. (Repeat eight times)
 
 pitiable making dust.
@@ -21733,13 +18087,10 @@ IV
 Tarsaingamu kavai * kahova yon(d)ony tatania kukiwaku yaitco
 
 Sun there up there up there west direction stand something
-
 tcomr nyani kuwusi tanunamu rsavikon(d)a hon(d)onyi tatanifi
-
 there 'tell kind of shining gourd rattle west * direction
 
 Aukainakimu. (Repeat; then repeat twice from*. Sing all four
-
 sounding.
 
 times)
@@ -21776,21 +18127,14 @@ You are sounding your gourd rattle.
 26 ETH— 08 23
 
 
-322 THE PIMA INDIANS [bth. ann. 20
-
-
 Tcuwun(d)a muihimu, tcuwun(d)a muihimu ; konyika yu^ tcoma
 
 Land burning, land burning; I in there
-
 worsanyimu, konyu yu;a haptinyunahungu hanavany Aunganyitc(i)
 
 rise go, I "in there I looking around me behind me
-
 nyuin&hafigu hanavata vunganyl tcuwun(d)a kakavitc tcama
-
 looking many around land narrow there
-
 tcunSkimu. (Repeat eight times)
 
 
@@ -21803,17 +18147,12 @@ VI
 Vanyu pinyi mamatcuka vam& nyiwabana, *vanyu pinyi
 
 I not know surely more I make, I not
-
 mamatcuka vama nyiwabana; kusi tcupafi kama anyitaka
-
 know surely more I make ; very prostitute hold feel
-
 siamanyi mamukaha kony liunga imoitaka tcama yon(d)onyinga
-
 right give I that take in there went "
 
 wuwui tcutcumfi. (Repeat; then repeat from*. Sing all four
-
 toward reached.
 
 times)
@@ -21829,7 +18168,6 @@ Remaining Crooked mountain me before pointed shadow remaining,
 Crooked mountain, me before curved shadow in " songs
 
 Aukaivfi nakimu rsaikala nyimoitanga tcupafi tcona. (Repeat; then
-
 sound pitiable " my heart prostitute. (?)
 
 repeat from *. Sing four times)
@@ -21839,11 +18177,8 @@ vni
 KakaitcoAu yahala hon(d)onyinga vungioma makfi nataimhu
 
 Quails small evening glow arrive make
-
 hapaviiii nyonyopitci nyunyukamu tcokangingu tangiomakai
-
 there slowly "^ fly darkness stripped
-
 niamanamu tanitAimu. (Repeat eight times)
 
 crown throw on.
@@ -21879,8 +18214,6 @@ C(,)mvH UH the (]uails tly slowly,
 And it Hetties (n\ the young.
 
 
-RUSSELL] MEDICINE SONGS 828
-
 WkhIm Nyni, Lightning Song
 [By Sutatki]
 
@@ -21889,11 +18222,8 @@ I
 Weytima hiniunatcia himunania kaiyani kaiyany, sikoli, mumuka
 
 Weham went going li«tVn ficre, youii^ror fur
-
 brother
-
 yohosi mumoahi [tataka sitana-aj. (Siii*^ four times, alterDating the
-
 tree kill half split.
 
 last two words with the one precedinjif)
@@ -21902,9 +18232,7 @@ II
 Rsai kanya sikoli kaino nyimuitcoka, kanio nyimuitcoka, hana nyi
 
 Pitiable I " younger there me carry, there ' me carry, there me
-
 brother
-
 wuwuneratci tanavaii^a tcotcim parsA nvoAana. (Repeat four times)
 
 arouiid mountain stand near by there carry.
@@ -21915,7 +18243,6 @@ Ill
 ^upuiigiomi vapamand tcouiaiya weyami, tcoiiiaiya weyami,
 
 Reddisli snakes tries to make liglitninK. tries to make ligliitnlng,
-
 kahova yosi tapa kukiwopa pivan^u nakaka. (Repeat four times)
 
 there up 'tree on stand noti" do.
@@ -21927,7 +18254,6 @@ Rsai kanya sikoli teokangi noahimtconakia vapahimu vanyu
 Pitiable I '^ younger darknens rojirin^ ^'oinjjr running I
 
 brother
-
 pina-akak tamai Aukahatcimu parsapr katawa. (Repeat four times)
 
 not do top sky nearby sIuma.
@@ -21959,8 +18285,6 @@ But it fail^ and they vet stand.
 (Translation of fourth stanza omitted)
 
 
-824 THE PIMA INDIANS [eth. ann. 26
-
 HawmD Nyiii, Wind Song
 [By Ha-ata]
 
@@ -21969,7 +18293,6 @@ I
 Yuwujdi nyuhuma, *hiyawu rsfinahatco, kamo danyimamaitcoma
 
 Wina sing, here commence, there my in front
-
 tcunyuwuta nyonyoahangu-u. (Repeat all; then repeat twice from *)
 
 land stretching.
@@ -21979,7 +18302,6 @@ II
 Yuwuhuld ki-iki mumunaiku, *yuwuhuld ki-iki mumunaikr;
 
 Wind house thunder. wind house thunder;
-
 konyi kamho imuna tcuwun'ja tcutcumfika mumunaiku-u. (Repeat
 
 I there going land covered thunder.
@@ -21991,7 +18313,6 @@ III
 Himo t^tfivaka yuwuhtrm, *hiino tatavaka yuwuhu^a, himo
 
 There mountain *' windy, there mountain windy, there
-
 t&v£vaka yuwuhtn^; wusika simaihangindangu tciya muliva-a.
 
 mountain " windy, all over centlpeds here came running.
@@ -22005,7 +18326,6 @@ Tcotcok vapamanda huwuling *tcotcok vapamanda huwuling;
 Black snake wind, black snake wind:
 
 ngai hiyata nyuiyuta rauliva kungata nyuiyut pimihivi. (Repeat
-
 t£(it here *^ song in came running that song in tie around.
 
 as above)
@@ -22048,7 +18368,6 @@ MEDICINE SONGS 325
 
 
 Vanvi naiwonyim *vasipi muhuk naiwoiiyuka mi itco vanyita
-
 lam caineoiit eiip of water hold mine vwi illy make drink I
 
 imiiaku naiwoiiyuka sisikali imundulu iia-a. (Ke[U'at as above)
@@ -22059,7 +18378,6 @@ VI
 Tata vanami ivakimu, tata yanami ivakiinu; kunda nyi niulivukai
 
 White * cactus leaves, white " cactus leaves; in I came running
-
 rsaifiKi-^ niL niulihi-i. (Repeat as above)
 
 poor running.
@@ -22087,11 +18405,8 @@ I
 Kokopu nyunyui rsarsan, * kokopu nyun^'ui gando vingi rsarsan;
 
 Fetii^n " Hong commence. feti.«»h " song there commence;
-
 woivanya iniuna piavat mat^'imaka rsarsan, tcokangi mu^a sigi
-
 toward going not know commence, night in very
-
 kony imuna-a. (Repeat all ; then repeat twice from *. Sing four times)
 
 noiyy
@@ -22102,7 +18417,6 @@ II
 Kokopu nyunyui t<!ot'coahimu, * kokopu, nyunyui tcotcoahimu;
 
 Fetish song stood, fetish song stood;
-
 kaiyiik wuwui vapa himu^a sitcupafinga-a. (Repeat as above)
 
 heard toward run going crazy.
@@ -22135,7 +18449,6 @@ III
 Rsfiiganywana, rs&iganywtlna; wusikfiiny nangioma, rsfiiganywfina.
 
 Poor me, poor me; all over me stripping, poor me,
-
 wusik&iny nafigioraa knyuhuna-a. (Repeat as above)
 
 all over me stripping singing.
@@ -22145,9 +18458,7 @@ IV
 Tcokangi nyuimujhimu, tcokaHgi nyuirauihimu; Sivat T&nfifaffgu
 
 Night sing going, night sing going; Sievat mountain
-
 wuwui vanyuimulhimu konvhungu wuwui tcomu vapahimu. (Repeat
-
 toward lead me i that toward there running.
 
 as above) ^
@@ -22182,9 +18493,7 @@ II
 Elat vavaiworsunyu, kat vavaiworsunyu ; sami worsuiiyihimu
 
 There stone wall arose, there stone wall arose; there arowc
-
 sahapa kainama kohai, sami worsunyu, sami worscnyihimu. (Sing
-
 pleasing sound bum open, there arose, there arose.
 
 once and dance)
@@ -22243,9 +18552,7 @@ Ill
 HaliAuta sihufigia wowosaiku teutcuwutu, tamhaiAu iinukai hunga
 
 That our older brother lirst came out lands, topmost go that
-
 to walk
-
 tfisi vahoraii hivava tcohinyu-u. (Repeat)
 
 very more here looks.
@@ -22253,7 +18560,6 @@ very more here looks.
 *Tcutcuwuta tamhaiva himukai tanalika nyinioitangu hiyaAu
 
 Land topmost go shining my heart fiere
-
 vamhonyu-u. (Repeat as above)
 
 more.
@@ -22262,7 +18568,6 @@ IV
 Tcuwun'^u luakahi * tcuwun^u niakahi; wumatci papamo wuwumia
 
 Land magician, land magician; with angry with
-
 himukai vavakia sihainyingi tco-o. (Repeat as above)
 
 go ruins wasted make.
@@ -22298,29 +18603,18 @@ And with his magic power
 He destroyed all the houses.
 
 
-828
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 hi i
 
 
 Sitcokai
 
 BUu:k
-
 wopona-a.
 
 tie.
 
 
 vaman^tco, * sitcokai
-
 snake made, black
 
 (Repeat as above)
@@ -22329,17 +18623,12 @@ VI
 
 
 vamaQ!^tco,
-
 snake made,
-
-
 hukanyi
-
 with I
 
 
 vavaki
-
 rains
 
 
@@ -22396,22 +18685,14 @@ II
 Hiatat
 
 Here we
-
 gaHgata
-
 bOWH
 
 
 vinak
-
 flood
-
-
 sivai
-
 bitter
-
-
 yuwu:ja.
 
 wind.
@@ -22420,15 +18701,12 @@ wind.
 nyuitco, momoi
 
 Hinging to, many
-
-
 repeat twice from*)
 
 
 *Hiat&t vinfik sivai yuwu'ja; momoi
 
 Here we flood bitter ^ wind; many
-
 gangata nyuitco hoho.
 
 bows Hinging to.
@@ -22458,19 +18736,14 @@ intended to a.s«ist in the cure of the patient. Retiring to a structure tempora
 and sleeping mats, the participants, not necessarily medicine-men, make a number of images of
 animals and edible i»lant'<, which they take, one at a time, to the patient, and allow him to touch.
 After he has touched the oliject carried by each man in the party of singers they retire to get a
-second supply. This is repeated a number of times until the cure is supposed to have been com-
-pleted.
+second supply. This is repeated a number of times until the cure is supposed to have been completed.
 
-
-RUSSELL] MEDICINE SONGS 329
 
 III
 Nanyi wot navitcho komsap iiaka tumaikatcim makahap
 
 I * Hin Navileo you talk about layint; through
-
 put head
-
 mulitcota navitcho kaliatc mulitco hoho. (Repeat as above)
 
 run Navitc'o like run.
@@ -22479,7 +18752,6 @@ IV
 Yo-osa ikomiakahi, *yo-();>a ikomiakahi, yo-osa ikomiakahi nisi:rsu[
 
 sticks cut, "sticks cut, "^ stick«> cut (straight
-
 tcotamhu. (Repeat as above, dancing)
 
 Traiislaiwn
@@ -22500,11 +18772,8 @@ I
 Kiiniundak navafiga kunda kaniomoi nyuiiyui kaihinia, *Kaniundak
 
 KA'matilk mountain in many ' songs listen, KiVmatOk
-
 navafiga kunda kaniomoi nyunyui kaihima; kunda nyi muliAaku
-
 mountain in many "songs listen; in I came running
-
 yakaimu niudaAu rsarsavaiku. (Repeat all; then repeat twice from*.
 
 sang within echoed.
@@ -22516,11 +18785,8 @@ II
 Hodonyisi miamundamursarsana, *hodonyi8i miamunda mursarsana;
 
 Evening close to foundations, evening close to foundations;
-
 kunda kanyunyawojd anyuyapaka hiya avaivaka nyimoina
-
 in * demons appeared here came running my soul
-
 kuuangiomahimu. (Repeat as above)
 
 stripped.
@@ -22542,18 +18808,13 @@ And demons appeare<l running
 To strip and expose my soul.
 
 
-330 THE PIMA INDIANS [eth. axx. 26
-
 III
 
 Tcuvai Tanavafiga muna nyun\^u kaimu, *Tcuvai Tanfivaiiga muna
 
 Tcuva Toak mountain in "hole," Tcuva Toak mountain in
-
 nyunyu; kaimukunda nyunyukaimu, kunda nyhivaka nyuta, kunda
-
 hole; In " hole In In " 1 enter see, in
-
 kanyunyawo](d) aimohiva. (Repeat as above)
 
 demons breath out
@@ -22562,11 +18823,8 @@ IV
 Nyunyawoi(d) iyahala, *hiya vaiAukahi, huAusyasingam nyu
 
 Demons boys, here came running, many flowerB me
-
 rsa-akima kukimu kamo mumuka kaAuka tcuny ujunda huku namanha
-
 graKp standing there far hard land that top
-
 nyoAapimu nyimoitangu j^ovaiya puihimu. (Repeat as above)
 
 bring me to my heart lift higher.
@@ -22595,7 +18853,6 @@ I
 Aika piworsanj'mhu, aika piworsanyrahu; *hukia tovatcoma
 
 Hurry come out. hurry come out; ^ already bectime
-
 yondohonyu katcokani rsarsavaikimu. (Repeat; then repeat from *.
 
 go down that night echoing.
@@ -22607,7 +18864,6 @@ II
 Tcovak niohof(i), *tcovak mohof(i); kasingu pivayu rsumatcona
 
 Virgin woman, virgin woman; sleepy not' indilTert^nt
-
 hamukai nyunarsuna-a hamukai, nyunarsuna-a tcokangik yaitaimu.
 
 there ' wake there, " wake night 'think about.
@@ -22633,9 +18889,7 @@ III
 Harsaii}" ^^ainainafi^i:, * harsiiny yainainan^r; kadomia woissimu
 
 Giant " * cactus l)r()kcu. jfitint " * cuctiis lirokon; there piled
-
 kudafio^r nahaiia miawoitangu wuvn'tcinir yovaiya muniuhuk
-
 in there feathers drop laying * nii^e' higher
 
 MaU'ipant yailii. (Repeat as al>ove)
@@ -22647,7 +18901,6 @@ IV
 Hali pufigr kavanyuk vany puitcokimu itali yoof(i) kakayaku
 
 Small that rumbling l' carrying this 'woman heard
-
 vapikakarsa itany tata;an kokokana hotc* hairsa, hairsa.
 
 they not sleep this on feel there points nail broke, broke.
@@ -22658,11 +18911,8 @@ Tcokafigi inamahanga woisi, tcokafigi mamahanga woisi; konyi
 Night branch thrown night branch thrown I
 
 down, down,
-
 suka wutca mingi worsa, konyisuka wutca mifigi worsa nyahaiiu
-
 in under there gone part, I in under there gone past my feathera
-
 maikomia.
 
 cut off.
@@ -22692,7 +18942,6 @@ I
 Hi-ihi\^anaiho-(); *Nyunyui rsanatcona, hanyunyui rsanatcona;
 
 ('!) Song commence, ou'r song commence;
-
 havatumahainaniu rsanatcota, hitciya yahina-a. (Repeat from *)
 
 pleasing commence, (?)*^ "^ ('.')
@@ -22720,14 +18969,11 @@ Singing of the large com. Hitciya yahina-a.
 Singing of the small corn. Hitciya yahina-a.
 
 
-832 THE PIMA INDIANS [eth. ann. 26
-
 U
 
 Hi-ihiyanaiho-o, tcunoiii hononyina kusimfi kQdavat iangfita
 
 (?) blue evening drops in there ceremonial nticks
-
 nyuitco, yahaiva monananka niniv&i kuna-a, hitciya yahina.
 
 sing to, all around tassels waving there, (?) * (?)
@@ -22735,19 +18981,12 @@ sing to, all around tassels waving there, (?) * (?)
 T&haiva sia-alina kukiva kudavat iangfita nyuitco, yahaiva
 
 White dawn rises there ceremonial sticks sing to, all around
-
 monanaka ninivai kuna-a, hitciya yahina-a. Tcutani hononyina
-
 tassels waving there, (?) (?) Blue evening
-
 kusimfi kudavat iangfita nyuitco, yo-ony6i mondanaka ninivai
-
 drops in there ceremonial sticks sing to. com " tassels waving
-
 kuna-a, hitciya yahina. Tahaiva sia-alitla kukiva kudavat ' iangfita
-
 there (?) (?) White dawn rises there ceremonial sticks
-
 nyuitco, ya-ali yahaka ninivai kuna-a, hitciya yahina-a.
 
 sing to, squash "leaves waving there, (?) (?)
@@ -22757,7 +18996,6 @@ III«
 Hi-ihiyanaiho-o, *tcuwuna mumunai, tcuwuna mumunai; vatciki
 
 (?) earth rumbling, earth rumbling; we are
-
 yoa iwuna; tcuwuna mumunai; wU8ik& ^| noaH^ hitciya yahina-a.
 
 basket sounding earth rumbling; everywhere J| I^iiSing"*^ ^^^ ^^^
@@ -22794,30 +19032,19 @@ Earth is rumbling, everywhere raining.
 uSong not A(>comi>anied with dancing.
 
 
-BUSSELL] KAIN SONGS 333
-
 IV
 
 Hi-ihiyanaiho-o, *Pahangu matcnvwena yopanha, sia-alingfi
-
 r') Kagle lost wing fcatluTs * pull out, oast
-
 tanio vayolinha ^ufi^i na tx'uwangimuta-a, hitciya yahina-a. Pahanga
-
 dirt'ftion poiut out hirge clouds there. ( 'i' * (?) Eagle
-
 vifiginga yopanha, hononyiigu tamo vayolinha: ya-ahi ikoniainuka-a,
-
 soft leathers ' pull (»ut. west" direetioii point out; "small clouds there,
-
 hitciya yahina. (Repeat from *) Ilamo vakT wutco vanoahimu
 
 (?) I.') There house below rumbling
-
 gungufia onyoimrta-a, hitciya yahina-a. Hamo vaki witco
-
 large com there, (?) " *' (?) There house below
-
 vanyokonlia, ya-ahi onyoimuta-a, hitciya yahina.
 
 raining, small corn there. (?) * ' (?)
@@ -22844,16 +19071,12 @@ It is raining; small corn is there.
 Ho-oNYi Nvni, Corn SoN(i«
 
 [By Kft'mAl tkak]
-1
 
 Hi-i-lo-o ya-a-a. Ta-ama wus si ny ulna yali kak aonyoi vworsanyu
 
 (?) (?) Who all seeing 'that two coni stiinding
-
 ta-ama wus sinyuina siko-oholi, hi-ilo-o ya-a-a. Ta-iima wus sinyuina
-
 who all seeing younger brother, (?) "^ (?) Who all seeing
-
 yalikiik ali worsanyu; tA-ama wus sinyuina siko-oholi, hi-ilo-o ya-a-a.
 
 that two squai*h standing; who all seeing younger brother, (?) " (?)
@@ -22861,13 +19084,10 @@ that two squai*h standing; who all seeing younger brother, (?) " (?)
 Ta-atukam hutama onyoi vworsanyu, ta-ama wus sinyuina siko-oholi,
 
 Ta-atOkam that top*com standing, who all seeing younger brother,
-
 hi-ilo-o ya-a-a. Ta-atukam huta-ama ali vworsanyu ta-iima wus
 
 (?) ^ ("i Ta-atukani that top squash stan<linK" who all
-
 sinyuina, siko-oholi, hi-ilo-o ya-a-a. (Ended by singing hi-ilo-o
-
 seeing younger brother. (?) * (?)
 
 
@@ -22875,7 +19095,6 @@ woihtJ)
 
 
 TraiLMiafitui
-
 lli-ilo-o yii-a-al He who sees everytliing
 
 Sees tlic two stalks of corn stiindintr;
@@ -22896,34 +19115,22 @@ for many years and then returned to live at the mountain north of Pieacho, Ta-at
 sang as al>ove.
 
 
-334 THE PIMA INDIANS [eth.ann.26
-
 II
 
 Hi-ilo-o ya-a-a. Ta-at{lkam bu t&nSvangu tatamana tcuvwaki
 
 (?) (7) Ta-atOkam that mountain topmost clouds
-
 rsaika-a amfinus sikai-itamu toabimu, hi-ilo-o ya-a-a. Ta-atfikam hu
-
 suspended there makes yery loud rumbling, (?) (?) Ta-atOkam that
-
 tfinSvangfi tatamana hikom hu rsaika-a, amatlus sikai-ttama tcokoDa,
-
 mountain top above clouds that suspended, there makes very loud raining,
-
 hi-ilo-o ya-a-a. Tcu-unangi huvwatcona tcuwaki yokanyi sanavwu
 
 (?) (?) Blue bluebird clouds holding there
-
 rsaika-a amaiius sikaitamu toahimu, hi-ilo-o ya-a-a. Sa-a-hani« hu
-
 suspended there makes very loud rumbling, (?) " (?) Yellow that
-
 vanyokona hikom ha yokanyi sanfivwu rsaika-a, amfinus sikaitama
-
 bird clouds that holding there suspended, there makes very loud
-
 tcokona, hi-ilo-o ya-a-a.
 
 raining. (?) (?)
@@ -22933,7 +19140,6 @@ Ill
 Hi-ilo-o ya-a-a. I-itfii vahimo'ina huwunduka kahonu; Ta-atfikam
 
 (?) (?) Elder Brother breathe out wind over there: Ta-atOkam
-
 hu ta-ama tcuwaki vo-orsa vasitumahfiitamu toahimu, hi-ilo ya-a-a.
 
 that above clouds very pleasant to appear rumbling, (?) (?)
@@ -22941,19 +19147,14 @@ that above clouds very pleasant to appear rumbling, (?) (?)
 I-itai vahimoina huwunduka kahonu; Ta-atukani hu ta-amu hikomu
 
 Elder Brother breathe out wind over there; Ta-atGkam that alx)ve clouds
-
 rsaika vasitumahclitama tcokona, hi-ilo-o ya-a-a. Hami yuna, sami
-
 suspended pleasant appear raining, (?) * (') There " in. there
-
 yutda, hamanyi yolihina kanyu-u vasitumahaita-amu toahimu, hi-ilo-o
-
 in, there me stay smg very pleasant appears rumbling, (?)
 
 ya-a-a. Hami yuna, sami yutda, hamanyi yolihina kanyu-u vasitu-
 
 (?) There in, there in, there me stay sing pleasant
-
 mahaita-ama tcokona, hi-ilo-o ya-a-a. (hi-ilo-o woih«)
 
 to hear again raining, (?) (?)
@@ -22993,14 +19194,11 @@ uSa-a-lmin iroin Sa-jiin, is a .S»iuu"a I'djuigo word.
 /
 
 
-RUSSELL] WAR SONGS 335
-
 WAR SONGS
 
 R^.vi Nvni, Straight Song«
 
 [I?y Virsiik VAM]
-1
 
 Hihi tcotook Aiyanpiinji iiyunyuwunda tania nrimiva aihivaihi
 
@@ -23012,7 +19210,6 @@ Tama numulva aihivaihi vutano^uvi. (Repeat)
 
 Top . fame ruuniiiK (!) (?)
 
-11
 
 Hihi himtco himtco, himtco, vitco tailguvi himtco, vitco tanguvi.
 
@@ -23057,15 +19254,6 @@ And his hide tanned for leather.
 believeil to be a very old song original with the Hmaa
 
 
-336
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 WolutA Nvai, Tie Song a
 [By Vlreak VAl-1]
 
@@ -23075,12 +19263,8 @@ I
 Tfinfibfili vavanyimhu yanama hiyava tcimyivia hiyava nyinyivia
 
 Shining row man here came here "^eame
-
 kanyhuina tcokangiku yai
-
 see darkness uer
-
-
 yahatcimu. (Repeat four times)
 
 collected.
@@ -23091,7 +19275,6 @@ n
 Panai yahaji kavahanda kikitaka kunda tcomu narsawopimu vanyu
 
 Coyote young shield house in there sat lam
-
 ingi sahai mundatcoma ihinaha kimu. (Repeat four times)
 
 like in there shouting.
@@ -23101,16 +19284,13 @@ m
 Panai yahap tcokaffgl yawolima vuvuikanyi vanyi mulimu kuda
 
 Coyote young darkneas tied toward me leadmg me in
-
 m£nyoapa han&va uyi wukangi yavatcukia kiftgi kahimuna. (Repeat
-
 brought mo there me aroimd cigarettes four departures.
 
 four times)
 Mfihyal navanga kuka tamai virsaku vanyi Aumukai munda teoma
 
 Mahyal mountain standing top hawk ^ereme with in there
-
 putfihSkimu. (Repeat four times)
 
 flop.
@@ -23138,21 +19318,15 @@ aged companion appointed for each Huceessful warrior,
 fc Mahyal ia the Pima name of the mountains about Silver KIuk-
 
 
-EUSSELL] WAR SONGS 337
-
 Ma-Atk' Ny.iI, S<'au» Song<^
 [By Vireak VAM]
 
-1
 
 Siyalingu tan^rio yatamu taiwonyu, *sivalingu tanprio yatamu
 
 ^ Eiist clircrtioii ' niHii arose, o&si diroclion * man
-
 taiwonyu: kuliiwrsi ya.sikamu n3-iivat€uki vany iianainr koina
-
 iiro-se; kind of ' flowers cigarettes 1 ' meet there
-
 hakoma hanyu. (Repeat all; thou repeat twice from*)
 
 Hmoking.
@@ -23168,7 +19342,6 @@ Drunk false »iid, drunk me about said, there far running.
 *R8aingal anyimoinaiiga wuwumu navamo Kakandaku uanhavailgu
 
 Pitiful my son! with drunk Crooked mountain
-
 yailiimu. (Repeat twice from*)
 
 moving toward.
@@ -23178,13 +19351,11 @@ Ill
 Kamo nya hiiiiuna, * kamo nya himuna; kusi Aufigiomi navaita
 
 There 1 K". there I go; kind of reddish liijuor
-
 nyitcona pia nyiki uavamok rsakalai mumuhulimu. (Repeat twice
 
 1 cau8e<l not me drunk stagger run.
 
 to drinlc
-
 from *)
 
 IV
@@ -23192,13 +19363,9 @@ IV
 Yahandu kavinyik, *yahandu kavinyik; kunda tgali iiyohonyoiAu
 
 Sandy liill.' ' sandy hill; in kind of ' vultiire
-
 taiwonyuk liana vany wukany tcuwut 'jamu tanahali. (Repeat all;
-
 como out there my " around land on shining,
-
 running
-
 then repeat twice from*)
 
 TraiisUtdoH
@@ -23226,19 +19393,13 @@ Sliining ujyon the land aroun<l.
 26 KTH— 08 24
 
 
-SS8
-
-
 THK PIM^ INDIA Nit
-
-
 tKTll* A|t}(.M
 
 
 KiikdEnaki UtktrtSt makaiil^ U-v, ^ kitkuiiiaki tftkut^t makainga
 
 Gray HpiiliT rutiKit^lf^ti hml, fCi^)' Ji]iH!»r mrtfflrljiii
-
 tcu;kum tco[K?lirna kthata nmkai nyahafij^n, Imiya, liiyiu biytikii hitiiu.
 
 (Repeat a>< above)
@@ -23248,7 +19409,6 @@ VI
 Kabovn binakimu ^kahovii hirmkimu: yattMAu titranga wrtoAva
 
 C[> there f^houting^. nji tbi^rr ibotitlrig; " Atcl (liH urid^r
-
 hinakiniu ylitani haw us am rsftjkil vukaitcutia. (Hcj>eat m aliove)
 
 i^lioutlDg peoitlu nil ihtjrt' pimt nnUI.
@@ -23273,7 +19433,6 @@ PatamahimLV, patamahniiu, vapi yilljinm idviahimu narl^csi
 Where jfriing, whiTO golntf , titit " t(Uh*t otjjJH^ 1 guus«
 
 yokiyupai niokouama muhlAup^ kama hyc»va kukiniu> Hay a
-
 atreftdy iMjmewh<^rf rlic lire Uke th^n* dtBtkut ttmtid. (?)
 
 Ill ai lo III ane. ( Re pea t ad I i b . )
@@ -23291,24 +19450,14 @@ Ill
 
 
 Kandflgall
-
 fftrdown
-
-
 vavai t&nnD(d)Ama
-
 rooks ^.-.^-^
 
 
 yovi naputhifigi rsaitc unda
-
-
 you
-
-
 in
-
-
 yaflgitftka mundukai samu tamai pahaflgu namuku kakuvihimu.
 
 nide nm there top eagle meet whipping.
@@ -23345,9 +19494,6 @@ KirsSKLL]
 
 
 SPEECHES
-
-
-339
 
 
 Speeches
@@ -23441,17 +19587,10 @@ purpose.
 Komtava Sis .Makai spada jllitrUv tatcoa. It tcuwLl
 
 Y«»ii wore Kldor Hr«>tliiT iimKiciaii ill plan <U'sir<'<l. This Irtiul
-
 tcrkitc aitk' si-inuutateotk am s'ap t< r rma-a. It ta-ata-ak
-
 place<l by i<>ll.)\\f«l v.r> many plans then- ri^nt rov.-rf.l. J his niouuUins
-
-
 him
-
-
 sarsruulkam
-
 springs
 
 Tt OS
@@ -23469,21 +19608,13 @@ tcotcoatc aitk si iniaitatcotk am sap ko-oki .
 handiwork f(tll<>\v«'(l vtry niany plans there ri^ht lip^.
 
 rsorsoki tatoatc aitk' si-imaitcotk' am s a[) tcu rma-a
-
 water plar«Ml followed very many plan.s ihrre riulit
-
 ku-ursatc aitk si imaitatcotk' am sap ko-oki . Am ki ik ha tcux
-
 put followed very many plans there right tip>^. Then; four times bounce
-
 himitcotk' am tcoika kopal hutculwoltc. Ka-am katckahimitc am
-
 pushed there elsewhere turne<l down slide. There remains there
-
 oTli«-' ruin n ivw miles jsouth of Tempe.
 
-
-340 THE PIMA INDIANS [eth.axx.26
 
 Elder Brother, as he re^ifained consciou8nes8, rose on hands and feet
 and swayed unsteadily from side to side. He thought of the world
@@ -23501,54 +19632,34 @@ magicians and even ground his own house into the earth. He stamped
 upon the orator, the warrior, the industrious, and the provident
 woman, and crushed them down. Then he sank beneath the surface
 of the earth. He reappeared in the east and made from the point of
-
-
 utcuklta. Ka^si-itatakrsk' ivam(pi) am uvwukatc inyunhak tcum
-
 it life. With hia hands raised there around look he
-
 nyui fivapi hukam haltco kanhastcoik. It wusk' ap tcum
-
 saw not them thing famiZ/ar. This all that he
-
 umatciamahimflk piunaka. Im ho^^inyik woJ Aatuva kus tcutakf
-
 it ponder falls. In west toward lay kind of blue
 
 UAamatfita hokit am woihyamAk am pui vatak os. Am ki-!k
-
 snake beside there went to there catch wet tree. There four
-
 hikomiak am uwutcfi toak am sikommo. Kotak tan£likaU' am
-
 cut there under placed there conjure. That rays there
-
 maorsatiikit siwoAak towe katclm tcuwirj, tam am kokoAa. Towe
-
 between the fingers opi>o8lte fixed country on there reach. Opposite
-
 katcim tcuwui maska olt'; towe tcotcim ta-ata-ak Aupukioiiiitk'
 
 fixed country clear remains; oppoMite fixe<l mountains reddish
-
 tcotcoa. Tak hap tcoikani tcoin nyi itok am uta tcorsal ihuhumid.
 
 made and That this thing he * saw there hi murmur laugh,
-
 erected.
 
 Im ho'jinyik taki6 tcut ihimitc kus tcok uka-amhaiAakita. Huk
 
 In west direction from pushed kind of black his haze. That
-
 hukatc itakihonflk uta pimiiska iolinilk sa-apf ita-atan. Tin katcim
-
 with strip in invinlble hold manner made. In laying
-
 takio ihimitc kus ta-at'kf uka-amhaiwakita huk hukatc isita-akihonuk
-
 direction pushed kind of blue his haze that with strip thoroughly
-
 uta pimaska iolinuk sa-ap ita-atan.
 
 in invisible stay hold manner made.
@@ -23556,29 +19667,18 @@ in invisible stay hold manner made.
 Im sialik taki6 tcut ihimitc kus tantam ukahaiAakita huk hukutc
 
 In east direction from pusheil kind of white his haze that with
-
 sitakihonuk uta pimaska iolinuk sa-ap itiitan. Tt tutainu tcut ihotony
-
 strip in invisible hold manner made. This above from down
-
 kus tcutaki ukil-amhaiAakita huk hukutc sita-akihonuk uta pimaska
-
 kind of blue his haze that with strip in invisil>le
-
 iolinuk sa-ap itatan. Tni ho^inyik takio tcut himitc kus tcoak
-
 hold manner rnmle. In sunset «lirt'<'ti<Mi inun imshf<l kind of black
 
 UAanmtutak huk hukutc isiAotk' inita. Tin katcim takio tcut
-
 his snake that with it ti«' tinish. In layiiiiir diivction fr<»m
-
 ihimitc kus ta-at'ki' uAainatutak huk hukutc isivotk' nata. Tm
-
 pushed kind of blue liis snake that with it tie finis.li. In
-
 sialik takio tcut ihimitc ki:s til n tan u^amatutak' huk hukutc
-
 ea.st direction from pushed kind of white his .snake that with
 
 
@@ -23595,60 +19695,32 @@ he sat down looking like a ghost. A voice from the darkn(»ss asked,
 had done for them the people hated him. Renewing his power four
 times in the east at the place where the sun rises, he blew his hot
 breath upon the people, which like a weight held them where they
-
-
 isivotk' nat&. It tutamu tcut ihotiny kus tcu-utaki UAamatatflk
-
 tie tiiiiah. This ab<ive from down kind of blue his Mnnke
-
 huk hukiitc isivotk' nata. Am ivorsanyuk am siukuirs. Ava
-
 that with tie finish. There arose there stamp on. It was
-
 hupai taha kus makait'kam a-Stam kotak am sikuihitcony ata-am
-
 where sittine: having? i>owers people that there stamp <lo\vii " then
-
 of magician
-
 pai-itc siukuirs. Ava hupai taha kus nyiakam a-atam kotak am
-
 further stamp on. It wa.s where flitting kind of 'orator man that there
-
 sikuihitcony ata-am pai-itc si-ikuirs. Ava hupai taha kus siakam
-
 stamp down * thon further stamp on. Then wherr Hitting kimi oi hrave
-
 a-iitam tak am sikuihitcony, avawot iwus taam siuki irs. Ava hupai
-
 man that there .^^tamp down,*^ it was last then stamj) <l<nvn. Then where
-
 tahaku ofi stcopoihitilkam ku ofi stcotcukitukam kot huk
-
 sitting kind of woman energetic gathers kind of woman stored that that
-
 hawunatk' am sikuihitconyitk' am tco-opi\ Am kamalm miarspahimilk
-
 together tliere .xtamp down there sank. Tliere thin cover with earth
-
 sialik takio ma-akanyik am tcut kus tant^lm i Aakita itcu. Kus
-
 east direction eruption there from kind of white his trail i»ut up. Kindof
-
 ku-uki'-uitam ta-ata-ak tc»otcoatc ursarsan ap vapa-aAany. Hi k wusk
-
 hirge mountain.s made and its bases there seeping. * That all
-
 erected
-
 uta vapki'hitc hukutc huk uipiltak ivaositahim. Rsarsanukam
-
 in enters and returns with that his soul moisten. Si>rings
-
 rsorsoki tatoatc haakia nanukatcoikara mamtlthat katcp ui-intc
-
 water placed many various water plants witli it covered
-
 wuo(f)utck huk wusk ut mawopite hukutc huk ui-iputak ivaositahim.
 
 lays that all in dips with that his soul wet.
@@ -23658,45 +19730,21 @@ Kus ku-ukutiun o-os tcotcoatck' huk wusk ap mawopitc hikatc
 Kindof large trees made and erected that all there dip|)e«l with
 
 •uma-a hukr Pa-ak umoa-akut
-
 cover at Kaglc he kill
-
 woitcotk' pitciinuk woitcotk napatoAak vi itckut tcoik tcivia. Hastco
-
 straight to goarouiKl straight t(» ."iitting ( .' j restinlih-s eanu*. What
-
 puhimutk' tt-iviak vi-itckut tcoik'tc' tcivia. Ili-Iks, nanypini akit
-
 grasp canie (?) resemblance «'amc. Yes, I thus told
-
 spathillitk tatcoa tcuwu; ttcuki humabi tarsa. Ta am sialik woa
-
 think evil desires eountry for me placed human set. There east toward
-
 ki-ik aprsars, AataAa tcu-i:ma-a t^us tcutcrsatckut ki-ik ap (m)aitam
-
 four renewals, therefore reached .sun i»laee of coming up four there groups
-
 kaviitltk' ki-ik ap (m)aitam tcutany. AvaAiit kuirspakutatc wus kas
-
 hollow Umr there groups thu<l. it wa«^ stepping place all over
-
 huwulhakitak wus kas tcuAakitak tcum pipapaki huk uta ap
-
 windy all over cloudy not slowly that in there
-
-
 huk uiputiik ivaositahim. AataAa tci
-
 that hiM.soul wet. Tlierefore c
-
-
-342
-
-
-THE PIMA INDIANS
-
-
 fETH. ANN. 26
 
 
@@ -23721,92 +19769,62 @@ takuirspan utco kotak uta ap siukuirs.
 enougn remilt that '" "*
 
 kas huvuhSkitak wus
-
 over windy all
-
 takrspam utco kotak
-
 may put the hand that
 result
-
 i-ipoiAoak koiwoa itak'tc'kowa
 
 Dfeath about to shoved
-
 throw down
-
 itakk'tc'kowa
-
 shoved.
 
 
 mtiin
 
 WUS kas
-
 all over
-
 hikto/ka
-
 short pi ere
 
 
 Avawot takrspakutatc wus
-
 in there stamp. It wa.s place for han<l hi.** all
-
 k&s tcuAakitak tcompipapak'l huk uta apta
-
 over cloudy if not slowly that in there
-
 uta ap si-itakrs. Am iAorsanyik koiwoa
-
 in there put his hand. There arose *^ about to
-
 throw down
-
 paitcH)k koiwoa i-ipoiwoa koiwa
-
 further about to breath about to
-
 throw down thr«)W<!own
 
 Am pai-itcok kolwa i-ipoiwoak kolwa itakk'tc' koiwa
 
 There further about to breath about to shoved about to
-
 throw down thmw down throw down.
 
 Avawot iwurs ta-am i-ipoiwoak koiwa itakk'tc kowa. Avawot uta
 
 It was final there breath about to shoved. It was in
-
 throw down
-
 katcim viikitatc kotak iai katcim takio vakitatc wus kas payokatak
-
 route that follow laying direction nuite all over irecklnce
-
 iiahakititak a-an kiatuta hokituk vi-ik kiatuta hokitilk os
-
 earrings feathers string side down string edge tree
-
 hiasitiisti* hokituk kak sivantc koAatc sikopal woihim.
 
 Uower stuck edge that drugs jerks facedown thrown,
-
 on urtificial
 
 Nanilk i ait taki6 vakitiitc wus kas payokatak wis kas iiahakiatiik
 
 North fifld direction route all over necklaces all over earrings
-
 a-an kiatuta hokitak vi-Ik kiatuta hokituk os hikutc ka liiasi taste'
 
 feathers string?* edge down strings edge tree short piece flowers stu<'k on
-
 artiticial flowers
-
 hokituk kak sihopanytc.
 
 edge that uproot.
@@ -23814,7 +19832,6 @@ edge that uproot.
 Sitcuxhini tcotahim. Kahupai tahii kus makait'kam Ti-atam
 
 .lumping high continue. Where set kind of having ]>owers of man
-
 magician.
 
 kak am sitcuxhim tcotahim. Aatava tcu-iinaa ku nyiakutiim os.
@@ -23828,18 +19845,13 @@ Straight tt» go around straight to sitting ('!) resembles came.
 Hastco puihimi'tk' tcivmk viitcki^t tcoik'tc' tcivia. lli-iks, nanypim
 
 Wh.il K'ra^p eamt' C'l ri-semlilcs caint'. Yes. 1 thus told
-
 akit s[)atlialitk tatcoa trrwi j ttn ki lirinata tarsa. P ata kaitain
-
 think e\ il tl«'sirr> countrv lor mr hiiinan -«'t. So iioi^c
-
 pluc-.l
 
 
 • Wood -ImviiiK"-
 
-
-RUSSELL] SPEECHES 343
 
 Arrivinj^ at the drinking place of the Sun he knelt down in the
 tracks made by the Sun to drink, and saw a dark-blue stone. ^' He
@@ -23852,84 +19864,47 @@ the earth they caused the magicians to jump. Reaching the place
 where the sun sets he slid down four times l)efore he reached the
 place where Earth Doctor lived.
 
-'" Why do you come looking like a ghost?" asked the god. ''Not-
-withstanding all that 1 have done for them the people hate me," he
+'" Why do you come looking like a ghost?" asked the god. ''Notwithstanding all that 1 have done for them the people hate me," he
 answered. By Earth Doctor's order the wind from the west caught
 him up and carried him far to the east, then brought him back and
 threw him violently down. . . . The south wind carried him to
-
 tcutcua aAawot i ta kukam vaokatc tiik siam kioAlt katk' ap isi
-
 guid it was in sUuuliiiK stulk that riKlit ciil an mini there more
-
 kamurspitc avawot kasivoltatc tak ap vanytc k' ku sialik
-
 carry on the rump it was t-hrysiilis that there pimk kin«l ot east
 
 Aukiomilikatc wis ka itakihonuk Aunatk^ ap isi kamurspitc' avawot
-
 dawn all over strip with it there more carry on the rump it was
-
 ulutatc kas siam tcokut mat,sik ak tc korsa ip takitcony vi-ikam
-
 skin how proper owl h«K)k call nape persist shove " remainder
-
 ap isi kakamhaitckatat. Im mot katcim takio mamhakatc
-
 there more cut eheek hair. In thlH direction laying direetion hraneh
-
 tak ap molimlk siam amina vupatk' sikapitckatk rsak. Avawot
-
 that there break ri^ht eeremonial like sticks hound hold. It was
-
 uta katcim vakitatc kotak iai katcim takio vakitatc wls kas
-
 in laying route that follow laying direction route all over
-
 payokatiik wus kas nahakiatak a-an kina-atutn hokituk vi-ik kiatuta
-
 necklaces all over earrings feathers strings edge down strings
-
 hokituk OS hikutc'ka hiasitastc hokituk kak sivantc koAatc sikopal
-
 edge tree cut stnek np edge that pull by jerking facedown
-
 artilieial How
-
 woihim. Nanuki ait takio Aakit^itc wus kas payokatak wus kas
-
 lay. North field direction route all over n'eeklaees all over
-
 nahakiatak a-an kiatuta hokituk vi-ik kiatuta hokituk os hikitc'ka
-
 earrings leathers strings edge down strings edge tn-e shortcut
-
 hiasitastc' hokituk kak sihopauytc sitcuxhim tcotahiin. Ka hupai
-
 stnek up edge thai uproot jumping high continue. Where where
-
 artilieial How
-
 taha kus nyakain a-atam kak am sitcuxhim tcotahim. \ataAa
-
 setting kind of 'talking man that there jumping hii.di eoiitiuue. I'lierefore
-
 tcu-i rna-a ku tars i-ikut rsotaki kaot tan w^oikotatc wus kas
-
 reach kiinl oi sun drinking jilaee water that was knee placi- tor knirliug all ovi-r
-
 huwuihakitak wus kas tcuAakitak. Tcum j)ii)a|)aki huk uta apta
-
 wind> all o\er cloudy. Not vl,,uly that in there
-
 tiin woim utco tak uta ap sitanwoa. Kaot takrspakotatc wus kas
-
 npkneenotpui rtsuli thai in there stamp knee. That wa- handhold all over
-
 huAulhakitak wus kas tcuAakitak. Tcum pinapaki huk i tii apta
-
 windy all over cloudy. Not slowly that in higher
-
 takrspam utco tak uta ap si-itakrs. Am i-itcomalkatk' am i.
 
 mayplacehan<l result thai in there put hand. There he stoope<l there drink.
@@ -23937,8 +19912,6 @@ mayplacehan<l result thai in there put hand. There he stoope<l there drink.
 
 "Square, rough edged; causes consumption if one finds it and does not projK^rly cure for it.
 
-
-344 THE PIMA INDIANS [eth. ann. 26
 
 the north; the east wind carried him to the west; the wind from the
 zenith carried him to the sky; all returned to throw him violently down.
@@ -23955,7 +19928,6 @@ the black water where lay the raven feathers. He came out by the
 Am tcum nyu! kuk uta am kuk stcu-utak! hatai taplnya. Kot
 
 There he naw that in there stand blue 8tone nmooth. That
-
 huk wctca am maorsk am takltha huk A-aps' kam uamlna.
 
 that under there thru8t in there relinquish that enemies' power short sticks.
@@ -23963,15 +19935,10 @@ that under there thru8t in there relinquish that enemies' power short sticks.
 Nyiiikutam os ufimlna viak huk rsa-ak i&I. AAawot uta katclm
 
 Talking tree short sticks left that grasp he followed. It was in laying
-
 vfikitatc kotak idi katcim takid vfikltatc wus kas payokatak wus
-
 trail that he follow laying direction trail all over necklaces all
-
 kas nahakiatak a-an kia-atuta hokltak vi-ik kiatuta hokitvk os
-
 over earrings feathers strings sides down strings edge tree
-
 hiktc'ka hia^itastc' hokitvk kak sivanltckovatc sikopaj woihim.
 
 short sticks artificial edge that Jerks face down thrown.
@@ -23979,29 +19946,20 @@ short sticks artificial edge that Jerks face down thrown.
 Na-anki' Sit takId v&kitatc' wus kas payokatak wus kas nahakiatak
 
 North field direction traU all over necklaces all over earrings
-
 a-an kiatuta hokitvk vi-Ik kiatuta hokitvk os hik'tcka hiasitastc'
 
 feathers strings edge down strings edge tree shortcut artificial
-
 hokitvk kak sihopanytc' sitcuxhim tcotahim. Kahupai taha kus
-
 edge that uproot Jumping high going. Where sitting kind of
-
 siakam a-atam kak am sitcuxhim tcotahim. AataAa tcu-unia-a
-
 brave man that there jumping high going. Tbtrefore rf»uh
-
 ku taJ8 hotokot ki-ik ap maitam sutapionytc katc kotak jiitk'
 
 kind of sun every other four there groups Hmooth' lay that followed
-
 evening
-
 ki-ikhii itapionyik imho tuAutca s papaki tcu ku sis makai.
 
 four tlmejii slides there us under slowly discover kind of older bmther
-
 inagiciun.
 
 Woitcotk' pitcimk' woitcotk' napatoAak vi-itckut tcoi ik'tc tcivia.
@@ -24011,15 +19969,11 @@ straight to go around straight to sit flat (?) resembles eanie.
 Hastco puIhiniAt'k' tcivia, hastco puihimdt'k' tcivia, hastco puihiniutk'^
 
 What do you wi.^h to get come, what do you wisli to get come. what do you wish to get
-
 tcivia, hastco puihiiuut'k' tciviak vi-itckut tcoik'te' tcivia. Hi-iks,
-
 eonie, what do you wish U) get came (?) resembles came. Yes,
-
 nanypim akit spathalitk' tatcoa tccvLi nytcuki huinata tarsa p ata
 
 I thus told think evil desires land for'me placed i>e(»i)le set herald
-
 kaitain tcut<*u. Ata-im ho^inyik takio tcit aitktci t tcivia.
 
 noise said. Far in west directicm from after came.
@@ -24027,39 +19981,27 @@ noise said. Far in west directicm from after came.
 Im sialik woi tcuxhimtcotk' sialik parsainatkitk' opain tar.sowa im
 
 In east towanl jumping hlKh east turn baek near home set in
-
 katciin takiotcut aitktcut tcivia. Na anki ait woi t^ uxhiintcotk'
 
 laying direelion from follow came. North lieUl toward juini»inK hi>;h
-
 na-unkf ait parsaipatkitk' opain tarswoa. Tin sialik takiotcrt
-
 north fichl turn Imck near home sft. In «;i«-t <lirtHti<iM
 
 aitk'tcL't tcivia. Ho^inyik woi tcuxliinitcotk' lioiinyik parsainatkitk'
 
 follow caiiK'. Wfvt toward jumpiu^' h'\^\\ \Nt •^l turiird hack iinir
-
 opam tarswoa. ft taiurtcit aitktci t tcivia. Taui atcini woi
-
 home set. Here above ftjllow came. Top sky toward
-
-
-RUSSELL] SPEECHES 345
-
 blue water where lay the bluebird's feathers. He came out by the
 yellow water where lay the hawk feathers. He found so many people
 that he feared th(»y could not be conquered. But he o;nawed the magic
 power of their loader until he weakened it. Th(»n he returned to the
-council in the nether world, where his power as a maij^ician wavS recog-
-nized, and he was placed on a mat with Ekh^r Brother.
+council in the nether world, where his power as a maij^ician wavS recognized, and he was placed on a mat with Ekh^r Brother.
 
 The peo[)le wen^ now ready to do whatever Elder Brother desired of
 them and, like tierce predatory animals or raptorial birds, th(»y poured
 out of the underworld and fell upon the inhabitants of the upper
 world, whom they conquered without difficulty. The victors swept
-
-
 tcuxhimtcotk tam atcira parsainatkitk' opam tarswoa haapatavaita-fita.
 
 bounding top 8k y turned back near home set done.
@@ -24067,55 +20009,35 @@ bounding top 8k y turned back near home set done.
 An wukatc huk tcuwu; itaki6mk hastcoprs ali wupatk' ikiimfik huk
 
 There uround that land Ntripped re»enibles young make like hold that
-
 uta am tarswoa. Kawot ku kakai tax ajitcikltc " pawois tax aiitcikitc
-
 in there set. That wns kind of g^iONt root cigarette his pawois root cigurette his
-
 kotak ap parsa i-ipfilhuiAoa kota slam uiAakitat kavaot kus kamaki
-
 that there near he puffed that right left it was kind of gray
-
 tcufha rsaikatc kotak ap imflk rsarsoa. Kota am tcopinyk am sialik
-
 gopher pet that there my cry. That there sank * there east
-
 taki6 ma-akaniik am kis tantara rso-otaki' tcu. Ku Pa-ak pahiwoa
-
 direction im)j> out there kind of white water diseov- Kind of Kak\*-' tail
-
 ered.
 
 kate am simairsk tcu. Am pai-itc tc^opinyik am mu-akanyik am kus
-
 lay there covered i)la('ed. There further sank* there pop out* there kind of
-
 tcok rso-otaki Uiv. Ku liaAany a-an kaU' Hiairsk am tcu. Am
-
 black water diseov- Kind of raven feathers lay eovered there placed. There
-
 ered.
 
 pai-itc tcopinyk am ma-akanyk am kus tcu-itaki rsotaki tcu.
 
-further sank there pop out there kind of Mue water discov-
-
-ered.
+further sank there pop out there kind of Mue water discovered.
 
 HuAatcot a-an katc nairsk am tcu. Am pai-itc tcopinyk am
 
 Bluebird feathers lay covered there placed. There further sank" there
-
 ma-akanyk am kus soam rso-otaki tci'. Ki' Aatcokok a-an katc
-
 pop out" there kind of yellow water diseov- Kind of hawk featliers lay
-
 ered.
 
 mairsk am tcu. Am tcopinyk am ma-akanyk am ikoatcitk' am
-
 covered there placwl. There sank* there pop out " there look around there
-
 tcum nyui. Tt Aakuta katcim pipapaki hastco katc tcoitcim tcoi-ik.
 
 he saw. This trail laying not slowly what lay manner thing.
@@ -24123,28 +20045,18 @@ he saw. This trail laying not slowly what lay manner thing.
 Avak tcom sitairstc takatk' u-ulit huk makai. Kota am wukatc
 
 They tirmly seate<l think that nuit'iciun. That there around
-
 katcim na-anka tcoi-itckatc sisarspal ki-ikoniia. Puk am opam
-
 laying all ItelongiuKs short bite olT. Tt)<»k there home
-
 tcopi'. Ki-ik a]) ma-akanyk makai na-ata tcr-umuk liokit an takita.
 
 sank. Four there pop out * nuigician tire «'overe«l beside release.
 
 8'makai-itakain a-atain vaksitk' tam tarswoa. Tak uta huk isi
-
 powerful HiaKi'iau luau placed for on set. TIutc in that ready
-
 kuirsk kukiAak nyui siapaki-ulika tcuwi ja niitutani lAujmki' o-ofik
-
 stamped vt.nxl n'le sons land rMnnini: likt- birds
 
 « AjUclkltc from Papago
-
-
-346 THE PIMA INDIANS [eth.axn.26
-
 the property and everything relating to the conquered from the face
 of the earth.
 
@@ -24152,13 +20064,9 @@ Consider the magic power which abode with me and which is at your
 service.
 
 ta-atam UAupakitk' nyulnyk tarn ap uiaAak ap piatco tatkitcotk' ap
-
 flying nke fly on there seize there nothing wrestle there
-
 sutapam pui. Am Aukiltc katclm nanandka tcoltckatc si-iiiasik
-
 smooth catch. There around laying all helongings gather
-
 s'papaki' kaAolkatk' s'papakf hahak inyr woa.
 
 slowly bundled slowly revolve me throw down.
@@ -24166,7 +20074,6 @@ slowly bundled slowly revolve me throw down.
 Hapkvk humus uhitk' tatcoa aAaot kus ku-uk toakak konta ap puk
 
 YOU may think desire it was kind of good life I took there took
-
 antaAaioapa.
 
 brought.
@@ -24187,8 +20094,7 @@ names one by one of the medicine-men, who take their position behind
 the lire, facing toward the east. Then the names of those who will
 sing are called. The leading singer sits behind the medicine-men and
 his assistants place themselves on either side of him and around the
-tire. Then tiie orator is named and takes his place with the medicine-
-men. When the leader announces that it is time for the ceremony to
+tire. Then tiie orator is named and takes his place with the medicinemen. When the leader announces that it is time for the ceremony to
 begin, "tiie orator recites the following:
 
 Tnini<lntl(n\
@@ -24205,33 +20111,22 @@ Black Mocking Bird lives in the west. I had considered my relation-
 NYi Hums hapa tcoik' kotcs huk utu tathaktc haps ma-atc
 
 Not liki:' thi^i condition that for in .sitling in therefore understand
-
 halt CO, a-ak. Ivavawot qetiii' ki. huk uta amkatc' huk'' koU'k^
 
 thin;? iounM-l. It was (?) house, for in lays brand
-
 vi-ituk. Oatcikf tan huk wot amukuk kotc hukap hawaktc hap
-
 reinnniit. Ci-iart-tt.' knee that one stan<lin?,' I'dU u hieli inlialinj; there.
 
 fore
-
 samatc hailco ak. Ivota tcuwu4 humol utcu aujuta hjlintc katc
-
 kiiciw ihiim (•'•unsel. Thru earth lu-w was made in moving? lay
-
 amuta tcotcoaktc katc;. Ava iin hoilnyik takio kus tcok
-
 ill iii-.itvil iiii'l lay. As you toward \vt'>t dirretion kindof hhick
 
 I'Ktii'ctiii'^ know
-
 rso-ok kontak hap tcoikam mamatcuk ap imuk rsarsoa kotap
-
 moekiuy I lufl tiu-nioir that (-las'* guessiMy jii\ \\rt>p beeau.se
-
 hinl visiltle
-
 uT'm.- -o-ci'.l.d 'I vvw kiia. make rain.
 
 "I; vli'Mik i.. -cause ii w a^ Wft autl spongy at that tinu-. ■ likf the w ct l»ank of the rivi-r."
@@ -24251,15 +20146,6 @@ I!
 r: ■
 
 
-348
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 ship to him and guessed what should be the right manner in which to
 address him. Because of my entreaty he was disposed to be friendly
 toward me.
@@ -24270,13 +20156,10 @@ behind you. Your people will henceforth entreat your assistance
 from a distance.
 
 When the land was new I knew of a Blue Mocking Bird in the
-south, and I called on him also for help, and he came. He gave com-
-mands to control the hills, mountains, trees, everything. But still
+south, and I called on him also for help, and he came. He gave commands to control the hills, mountains, trees, everything. But still
 the earth continued shaking.
 
 Yes, Blue Mocking Bird, if your plans have failed, go hence and
-
-
 sinyhai-ikui-itam ctatk' amitcfit tcivia.
 
 friendly felt from came.
@@ -24285,55 +20168,31 @@ friendly felt from came.
 Ha-akia haitco ua-aka It
 
 Many thingn hiflcuunsel this
-
 tcuwu'j tcumflk vaopanilk tcuwu) tcovitflk ap kuorspahimfik ap
 
 '-" ever>'where Htretclied land hills on touching on
-
-
 land
-
-
 t&ta-ak kokok ap kuktiorspahim&k o-os kokok ap kukuorspahimiik
-
-
 mountain tops
-
 nata. Avak
-
 finish. Then
-
-
 on toucned
-
 hukutc tcflmsi
-
 with covering
-
-
 trees tops on touched
-
 katclkfik ak hap tc^umtco. Ava
-
 remain fixed deter- he made it has As you
-
 mining since failed. know
 
 Ahu-u, kus tcok rso-ok
 
 Yes, kind of black moi>king
-
-
 amuta h£lntc katc amuta tcotcoaktc katc
-
 in moving lay in inserte<l and lay.
 
 projecting bird
-
 vatclmpiam utc^on hukflm tcoitcik kop varsatc" iolinhi kus tcoitcik
-
 may try your plan you farther stay kind of black
-
 uhuwulik kus tcoitcik utcuwakik kSmisahi ap kukiovan.
 
 your wind kind of black your clouds carried behind there stand.
@@ -24341,76 +20200,42 @@ your wind kind of black your clouds carried behind there stand.
 Huk'hum huraata hupai tcukak* apamuk mimhi rsasoakan kop
 
 That your people some time future my entreaty you
-
 pimasktt vai-iwuiiikan p'ata tcu-uk va-arsatc iol(t). Ini ka-atcim^
 
 unseen will help, he said near ntay. Thi?* laying
-
 takio kus tatk' rso-ok kontiik hap tcoikani luaniutcik ap iruftk
-
 direc- kind blue nicK'kiuK I wan thi>re- I know guossinj,' to my
-
 tiou of bird fort"
 
 rsarsoa tap sinyhai-ikui-itain utatk' amtcut tcivia. Ha-akia haitco
-
 weep eouse- *^ friencily fell from come. Many things
-
 quently
-
 ua-aka it tcuwui tcu-umk vaopanfik tcuwu; tcovitk ap
-
 hi.s advice this land covering stretched land hill to
-
 kuowurspahiriiuk ap ta-ata-ak ko'kok ap kukuowursuahiinuk o-so
-
 touchra trees
-
-
 touching on moimtain topN on
-
 ap kukuowui'spahirniik na-atti. Avak
-
-
 t«>uched
-
-
 finish.
 
 
 Then
-
-
 hukutc tcomsi katckak
-
 with that for the remain
-
 purp<»se
-
 amuta tcotcoaktc'
 
 in inserted and
-
 projecting
-
-
 katc
-
 lay
-
-
 a-ak hap tcumtco. Ava amuUi baintc
-
 tixed deter- he made it has Ah you in moving
-
 mining since failed. know
-
 katc. Ahu-u, kus tatk' rso-ok vatcuin piani utcon liukurn tcoitcik
-
 lay. Yes. kind of blue mwking bird \o\it may try your plan
-
 kop varsatc iolinli! kus talk' uhuwulik kus tatk' utouwakik
-
 farther slay kind of blue your wind kind oi blue your clouds
 
 
@@ -24419,8 +20244,6 @@ speaking of an object clo»-e by it no one is approachiuK or seeking' it.
 '' From I'apak'o.
 ^Speaker lierc point>« to the 'luarti-r about whicb be is >peiikinK.
 
-
-RUSSELL] SPEECHES 3-49
 
 leave the blue wind and blue clouds behind \^ou. Your people will
 henceforth entreat your assistance from a distance.
@@ -24435,17 +20258,13 @@ behind you. Your people will henceforth entreat your iissistance
 from a distance.
 
 Then, above me enveloped in darkness lived the magician Kuvik,
-on whom I called for help. He came in a friendly spirit, with com-
-mands that would control the hills, mountains, trees, ever^^thing.
+on whom I called for help. He came in a friendly spirit, with commands that would control the hills, mountains, trees, ever^^thing.
 The earth became much quieter, but still moved somewhat.
 
 
 kamirshi ap kukiovan. Huk hum huma-ata hrpai tcukak apamuuk
-
 carried there stand. That ycnir people some time ftiture
-
 behind
-
 mimhi rsasoakan kop ]>imaska vaiwrmkan p'atatci -uk varsatc iol(t).
 
 my entreaty you nnseen will help he stii<l farttier Htay.
@@ -24453,90 +20272,48 @@ my entreaty you nnseen will help he stii<l farttier Htay.
 Im sialik taklo kus tantam I'so-ok kontak hap tcoikam mamutcfik
 
 This east «Hn'tti<)n kind of white mocking I was determin- 1 know guessing
-
 bird ing
-
 apimuk rstisoa tap' sanyhai-ikui-itam utatk' am tcut tcivia. Ha-akia
-
 to my weep he * friendly felt from come. Many
-
 haltco ua-aka it tcuwti tcumk vaopanuk tcuwu; tcovituk ap
-
 things his advice this land covering stretched hind hill there
-
 kuowurspahinu'lk ta-at*ik kokok kukrorspahimuk o-os kokok ap
-
 touching mounUiins tops touched trees tops there
-
 kukuorspaliimfik na-atii. Avak hukatc tcomsi katckak a-ak
-
 touched linish. Then with forihepur|K»c remain rixed
-
 hap tcumtco. Ava amuta haintc katc amita tcotcoaktc
-
 deter- he made it haw Aa you in inoviug lay in inserte<l and
-
 mining since failed. know projecting
-
 katc. Ahu-u, vatcim piam utcon hukilm tcoitcik kop varsatc iolinhl
-
 lay. Yes, may try your plant you farther stay
-
 kus tata uhuwulik kus tata utcuwukik kamirshi ap kukiovan.
 
 kind white your wind kind of white your clouds carried there stand,
-
 of behind
 
 Huk hum humata hupai tcukak apa mu-uk mimhi rsarsoakan
 
 That your people some time from far my entreaty
-
 kop pimaskii vai-iwumkan. Ava! *' lat tain huk stcohokam
-
 your unseen assistance. As you know! Here al>«>vc that darkness
-
 kusikalk'tc' ka-atc. Ava! Uta siamp uolintc hi k Kuvik karskam
-
 enveloping l hen-. As you know! In right held that Vi-ik nest
-
 ma-akai. Kontak hap tcoikam mamrtcik ap iiuuk rsarsoa. Kotap
-
 magician, I was that kind of guessing to my weep. Because
-
 sAnghai-ikui-itani utatk ha-akia haitco ua-aka rsa-aku amt<*ut
-
 friendly ft-lt many things his advice K'rasj»ing from
-
 tcivia. Ha-akia liaitco ua-aka it tcuwu:^ tci iiiuk va()j)anilk tcuwuj
-
 conie. Many things his advice this land covering str<'tchc<l land
-
 tcovitk ap kuorspahimuk tatak kokok ap kukuorspahimuk o-os
-
 hill to touching mountain tops to touched trees
-
 kokok ap kukuorspahimuk na-atak ata hukatc am hu-us tatalim
-
 tops to toucne«l finish fly with that from little quiet
-
 utcu. Am ha-as ihikava amuta haintc katc amuta tcotcoak tc/ kat(»\
 
 remain. From brief time in moving there in inserte<l and lay.
 
 pn)jecting
-
-
 a Ava means " a» you know," but is here an interje<'tion.
-
-
-350
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
 
 
 Then, there was a Gray Spider in the west.^ I called on him for
@@ -24555,59 +20332,38 @@ that the earth became quieter.
 Im ho:>inyik taki6 kus kamaki taktat. Kontak hap' tcoikam
 
 In Miinset direction kind of gray spider. I was that class
-
 mamfitcik ap imflk rsarsoa. Kotap sinyhai-ikul-itam utatk' o-os
-
 guessing to my weep. fiecauae ' friendly felt trees
-
 uhikiaka rsa-ak amtcut tcivia. It tcuwu; hohokitak sikoapitk'
 
 bundles of grasping from come. This land edges tirmly sewed
-
 sticks together
-
 natfi. Imhoi^inyik woi ivanyonfik am kus tcok mawatatfik' kus
-
 finish. In sunset toward pull from kind of black four corners of kind
-
 the earth tied of
-
 with something
-
 tcok va-aki katc am si maitcoyitiik' kus tcotcik'k' oniil katc
-
 black house with from firmly envelope kind of black two- feathered lay
-
-
 am si kuowurs.
 
 from very hold down.
 
 mawatatfik' kus
-
 four comers of kind of
 the earth tied
 with something
-
 tatk' omfl katc
-
 blue two-feathered lay
 
 
 Im ka-atck' woi ivanyunak am kus tatk'
 
 In laying toward pull from kind of blue
-
 tatk' va-aki katc am si maitconytk' kus
-
 blue house lay from firmly envelope kind of
-
-
 am SI
 
 from firmly
-
-
 kuowurs.
 
 hold down.
@@ -24618,54 +20374,26 @@ from
 Im
 
 In
-
-
 sialik woi ivanyonuk
-
 east toward p\ill
-
-
 am
-
 from
-
-
 kus tantam mawatatflk' kus
-
 kind of white four comers of kind of
-
-
 tantam
-
 white
-
-
 va-aki
-
 house
-
-
 katc am si
-
 lay from tirmly
-
-
 four comers of
-
 the earth tied
-
 with something
-
 maitcoyitiik kus tata omu katc am si kuowurs. Huk
-
 envelope kind of white two-feathered lay from firmly hold down. That
-
 arrow
-
 ata hukiitc^ amahava tatfilim utcu. Im ho;inyik takio kus tcok
-
 was with it make quiet remain. In sunset direction kind of black
-
 iitcuvik. Kontak hap tcoikam mamatcuk ap imuk rsarsoa.
 
 measuring I was that class K"<^s8ing to my weep.
@@ -24674,28 +20402,23 @@ measuring I was that class K"<^s8ing to my weep.
 Kotap' sinyhai-ikui-itam utatk' amtcut ki-ikha
 
 BecHiLse " friendly felt from four times
-
 rsa-arspal ua-aminilk am siam utcutantatk' unatii.
 
 short broken from riRht itself on ]>osts tlnish.
 
 taki6 kus tatk' atcuvik kontak hap tcoikam
-
 direction kin<l of blue measuriiiK worm I was tlmt class
-
 iniuk rsarsoa.
 
 my weep.
 
 
 iutcovitkatk' am
-
 raises up from
 
 Ini ka-atcim
 
 III layinp
-
 mamutcik ap
 
 ^MRssiiiK to
@@ -24703,8 +20426,6 @@ mamutcik ap
 
 ' Noi ji nmKi<'iiiii. " jn>[ a ui^^c man.'
 
-
-RUSSELL] SPEECHES 351
 
 Then, in the west there was a Black Measuring Worm that was
 friendly to me and came in answer to my entreaty. lie came in four
@@ -24721,55 +20442,34 @@ lengths covered the other parts in a curved outer layer, thus finishing
 the framework.
 
 Then, in the west there was a Blue Gopher who came with plenty
-of brush which he placed layer above layer around the house, cover-
-ing it as with thin clouds. Around the house were four gopher hills
+of brush which he placed layer above layer around the house, covering it as with thin clouds. Around the house were four gopher hills
 with which he covered it with earth in a thin, even layer, as snow
 
 
 Kotap' sinyhai-ikui-itam utatiik amtcut ki-ikha irtcovitakatflk
 
 Because ' friendly felt from four times raise up
-
 am rsarspal uaminuk am siamp kakai-i uvaopa. Tm sialik takio kus
-
 from short broken from right level it laying. In east direetion kindof
-
 tantam atcuvik kontak hap tcoikam mamtcik ap imuk rsarsoa. Kotap
-
 white metu5uring worm I was that class guessing to my weep. Because
-
 sinyhai-ikui-itam utatuk amtcut ki-ikha iutcovitakatuk am rsarsp&l
-
 friendly felt from four times he it raise up from shorx
-
 uaminuk am siamp rsu-ursurl uvaopa'. Im nanuk' aitu taki6 kus
-
 it broken from right straight it laying. In north Held direction kindof
-
 wuklum actuvik k5ntak hap tcoikam mamtcik ap imuk rsarsoa. Kotap
-
 reddish measuring wonn I was that cla-ss guessing to my weep. Because
-
 sinyhai-ikui-itam utatk' amtcut ki-ikha iutcovitakatuk am rsarspal
-
 friendly he felt from four times he it raiscnl from short
-
 uaminuk am siamp ukikiatatk' unata. Im katcim taki6 kus tatk'
 
 it broken from right curve themselves finish. In laying direction kind of blue
-
 tcufha kontak hap tcoikam mamtc^uk ap inulk rsarsoa. Kotap
-
 gopher I was that class guessing to my weep. Because
-
 sinyhai-ikui-itam utatk' ha-akia rsai umoa-atak amtcut tcivia. Huk
-
 friendly felt many graxs killed from came. That
-
 itcu^wulitk' hrkutc ap isirsa-itcitk' nata. Krs krk karaalt
-
 he raised with that to he thoroughly covered finish. Kind of trood thin
-
 tcuwakita ak hap tco. An wukatcik ti cw i i ki-ik jip mo-oat.
 
 clouds make iind has failed. There behind land lour (<. gopher hills.
@@ -24781,7 +20481,6 @@ That pushe<l with that to he covere<l dirt tini-^li.
 Kus kuk krfainta ak hap tco. An wrkut( ik icrwr; itakiomftk
 
 Kind of gCMxl -ft make an<l has failed. There antimd dirt clean
-
 hastcopsp' all muwrpatikituk im kamuk it rta imr tarsowa.
 
 what thing yoiuii: your likenes.s in hold lliis in here place.
@@ -24789,7 +20488,6 @@ what thing yoiuii: your likenes.s in hold lliis in here place.
 Siwat muhutam ko-otck' ipuk imu wutcantcu. Oatcik' tan huk
 
 Flame ligl»t bnmd betook here lowtr place. <'i^arette knee that
-
 woi am kui. Tak ap ko-orsk vamusk am sialik woi si-ipueva.
 
 towani from stand. That to stick smoke fnmi east toward i>ufT.
@@ -24797,26 +20495,13 @@ towani from stand. That to stick smoke fnmi east toward i>ufT.
 Ta-am kus tatam utcotcua hirauk sialik suuapuk tcuma. Kus tata
 
 Then kind of white stand went east slowly reached. Kind of white
-
-
 lI
 
 
 •A
 
 
-352
-
-
-THE PIMA INDIANS
-
-
-(ETH. ANN. 26
-
-
 i
-
-
 covers the gfround. Looking around the earth I selected one to take
 me up like a little boy and place me in the house. He placed a brand
 of fire down l^efore me and a cigarette also. Lighting the cigarette
@@ -24839,23 +20524,15 @@ as a garden, and the}" will not be as poor as they have been.
 kikihat uvaopanflk sialik sipapfik tcumaa. Wutcfi tcuwu^
 
 rainbows stretched east slowly reached. Below land
-
 s'ahamasma ukahimflk sialik supapflk tcumaa. Wutca tcuwu^
 
 beautiful shadow goes cast slowly reached. Below land
-
 s'ahamasama mamftthat'tk' utcu. Huk tam wors hukunanflkfi
-
 beautiful branched placed. That on grow that different
-
 tcolkam mukaiitiita. Kursavatk^ vaok tatany hahak skuk motatdk
-
 sort your seeds. Very large stalk wide " leaf good tassel
-
 hi£sik hikiim pimokam kai-iktc' pai. Ta-am amutco ta-am si&m
-
 flowers those undying grains ripe. Then was made then good
-
 hasitcok puk kantc^u. Kaot taas sisiwutak'tc' huk uta ap kokokuva.
 
 intend take placed. It was Hun rays that in to had ended.
@@ -24863,53 +20540,31 @@ intend take placed. It was Hun rays that in to had ended.
 Kotak wunatflk am hasitcok pa-ak wutcum kupi haskam haitco
 
 That wa8 together from intend Hwallow happy nothing not noticing thing
-
 tatam. Kus kuk mu viapoku-ulika, skuk mu tcuhiaka wum
-
 feeling. Kind of go<xl your Hons, good your daughters with
-
 kupi haskam haitco tatam. Kota humaka vi-ikam kulimhakam
-
 nothing not noticing thing feeling. That one remnant old man
-
 fik' ap tcinyivak wutcum kti-Sk ho^ony uwue nviatc kanivamp'
 
 old to put mouth inanimate two evenings opposite give sight forward
-
 woman against
-
-
 panymut. Hapiikhums ilulitk' tatcoak
-
 crawling. Perhap.*} will think desire
-
 hukflt' tcuwutika kotc huk nyuitan
-
 that land our we that *" try
-
 t'tat'kan.
 
 ourselves feel.
 
 
 humok
-
-
 aithr
-
 think
-
-
 hap masin
-
 deter- venture
 mining
-
 natc apahap, rsasaikam
-
 our right thing discouraged
-
-
 li
 
 
@@ -24921,8 +20576,7 @@ If
 
 GOING TO WAR
 
-Beaiuso I wms a boy I did not understand these thincrs. When any-
-one was preparini( food I stood with folded arms. They ^ave me
+Beaiuso I wms a boy I did not understand these thincrs. When anyone was preparini( food I stood with folded arms. They ^ave me
 food so hot that it l>urned me. I went with a hunting party. They
 killed a little bird and gave it to me. I thought it was good to eat, so
 I carried it home to my mother and threw it down before her. When
@@ -24939,115 +20593,57 @@ and I slept well. The next day we continued to the camping place
 Konyo vaw6;aps alik'tc' ithap tcoikam pimatc. Hastco
 
 Bet-ause I WH8 younif this kind not know. What thing
-
 haUjonyi woi krkitc nyi va-&k kfimflt^?. Koma hastco stanyik
-
 cooked* toward MUinding luy Htomach hold. You what hot
-
 nyuma konta nyu papaitcitiik ho. Hastco ala-aitamult ka-atc kont
-
 me give I was me burned eat. What huntinx place I
 
 huk aitk' iwors. Komuta hastco kutivitc mat moak nyu
-
 that alter k<>- Vou what kutiviit* young kill me
-
 tcultsp. Konyak skuk hastco mokik ak'tc' kahap tcontcdk'tc'
 
 carry at nip. I wa« good what shoot and kill telling from bringing
-
 ipuk an nyu akitak wutca iwoa kota-amtci m nyuitak
-
 letch there me mother under to blame for then she saw
-
 knocking down
-
 kamko-okam itanewa' ha-akia ukokoi mata. Kota hupai tcukak
 
 '" ' ^ " That sometime then
-
 iwoa ithap tcoikam
-
 to blame f(»r this kind
-
 knocking <l()wn
-
 haitco has utcok'tcim. Kota it imho nyu uta kikiva kontak puk
-
 anything making acn-ident. That this there me in stand I was nold
-
 iwors. A-atam hrpai ta wotatcum kuhas rlata kont huk pihas
-
 rise. I'eoplf where sit imi>ortant kind «►[ regard I that no
-
 ulitak huk woi ivapuk'ki. Ithap tcoTkain nyi tatcoi ipuk
-
 think that toward pjiss through. This kind ilie plans fet^h
-
 an wa:tca iwoa. Kotnps nyu hai-kui-itani i tatuk an puik
-
 there un<ler to Mann- for lie was me friendly felt there grasp
-
 knocking down.
 
 haitco n^ii aka. Am tcotcoi huk siali kontak am sihasi;rsolkahim
-
 thing me adviee. There appoint that mornings I was there clear away with
 
 84^mething
-
 kot am hinulk am uai kont huk puk iwors. llimuk hupai
-
 that there going there reach I was that grasp rise. Going some
 
 26 ETii— 08 26 353
 
 
 tumeil back
-
-
 sat
-
-
 many
-
-
 her cry open,
-
-
 am kookituk
-
-
 ipuk
-
-
 in
-
-
 nyu wutca
-
-
 there ended
-
-
 fetch
-
-
 in
-
-
 me under
-
-
-354
-
-
-THE PIMA INDIANS
-
-
-[ETH. ANN. 26
-
-
 agreed upon and there I slept well. The next day we reached the land
 of the Apaches, where I was afraid. I kept my body protected with
 my shield and carried my club in hand. I could not rest for fear.
@@ -25061,52 +20657,35 @@ the Apaches. Then as I sat below the mountain I swayed from side
 to side looking for the enemy. Again I remembered what my mother
 had told me of the perils among the enemy. The next day I arose and
 went to the springs of the Apaches, where I saw a gourd drinking cup,
-with which I cleared away the surface of the water and drank. Think-
-ing that perhaps my father had been brought to that place by the
+with which I cleared away the surface of the water and drank. Thinking that perhaps my father had been brought to that place by the
 Apaches, I was alarmed and feared that I must already be in danger,
 because I had drunk the water belonging to the enemy. The next day
-
-
 going there reach
-
 kaatc. Hakf
-
 there. Hide
-
 siumairstc katc.
 
 very covered lay.
 
 
 difficult
-
 rsfipalk katc
-
 short lay
-
 hap intatam.
 
 witn feelingH.
 
 
 tcuwu^ matcolitfik huk tam ho:|inyik woak s'aptahatam kfi!. Eota
-
 land appointed that over evening overthrow right feeling sleep. That
-
 mass! kont worsanyik himflk hupai tcuwu'j matcolMk huk tam
-
 morning I was went going some land appointed that over
-
 ho()iny!k woak s'aptahatam kfii. Kota masi kont worsanyik
-
 evening overthrow right feeling sleep. That morning I was went
-
 himfik ap ai A-fip tcuwutaka huk n&tak!k katc siukafwkatc'
 
 L._ ,- Apache land that madness lay
-
 sikfilk' katc umairstc' katc, os
-
 round lay covered lay, stick
 
 Ava-ara a-ai nyu ia^. Konya
@@ -25120,33 +20699,23 @@ Yes, this is what whs meant as said that me mother 1 was feelings.
 Eota masi kont himflk ap ai A-ap tdaka kok huk naAamfltak
 
 That morning I went there reach Apache mountain it that drunkenness
-
 katc siukakavitc kat<^', tcotc. Kat molinyik
-
 lay ver>' resembling lay small mountain Bow broken
-
 peaks stand.
 
 katc siutcutanytc tcotc. K5t huk wutc^ ap nyu tarsuvak
-
 lay very strengthen standing. It that under there me sat
 
 SAa-am a-ai nyu ia:>. Konya hap inta'tani, ahu-u, it aks
-
 and then swaying me rolling. I was witn feelings, yes, this is
-
 hap a-aktc' hap kai-itc huk nyu akitilk panyu intatam. Kota masi
-
 what was meant as said that me mother 1 was feelings. That morning
-
 kont worsanyik hiniuk ap ai A-ap rsotaki. Avawo^ nyu ma-&
 
 I was rose going there reach Apache water.
 
 hikivanvik'tc' hukatc'p' umairstc' kiitc kus kuk
-
 cut out roughly that with covers lay kind of good
-
 n^-u karsova hainyik.
 
 me skull broken.
@@ -25154,35 +20723,21 @@ me skull broken.
 am vasipuk ap i.
 
 tliere lake tlicre <lrink. I was
-
 kont worsanyik hiniuk
-
-
 va-apk'
 
 reed
-
-
 takrsdnj^ik
-
 strip *
 
 
 huk hokit ap katc huk
-
 that iK'side to there lay that
-
 hukuU' kamikrfitckuAti
-
 with it kncK'k down
-
 anhotcum
-
-
 it was me hair
-
 maniatho:> Apa^jak
-
 water plants like
 
 Konta huk ipiik
@@ -25190,10 +20745,7 @@ Konta huk ipiik
 I was that lake
 
 Any a has too
-
 sometliing
-
-
 tryiiiK
 
 
@@ -25205,15 +20757,9 @@ to grasp.
 Kota
 
 That
-
-
 masi
-
 morning I whs
-
-
 ap ai
-
 there roach
 
 
@@ -25231,8 +20777,7 @@ what my mother tried to tell me. This is what one feels in the land of
 the Apaches.
 
 My friend Co3'ote went toward the east to spy upon the enemy. I
-relied upon him for information and assistance and put away my imagi-
-nar}" fears. He looked carefully about and returned to tell me that
+relied upon him for information and assistance and put away my imaginar}" fears. He looked carefully about and returned to tell me that
 he had found the Apache fires. Then our party, with the courage of
 fierce predatory animals and raptorial birds, ran toward the enemy.
 Nothing could stop us and we swept them away with scarcely any
@@ -25244,27 +20789,18 @@ speed onh' four times during the march.
 A-ap rsotiiki. Kawot nyu woihifi tcokolitak'tc' hvkatcp umairstc,
 
 Apache water. That \va.s my face black paint at once covered,
-
 wuska s'mataimaki huk hokit ap katc huk nyu kiirsova hainyik,
-
 all over ashcH resemble that beside to there, lay that me skull broken.
 
 Kus kuk kaAa^k hao wupa'^ak kont huk am puk hukatckam
 
 Kind of good hollow cup nke I was that there take with it
-
 ikufwitckuAa am vasipk' ap i. Ava saso-ofw(u). Map ku-uk
-
 it kno<*k there take there drink. And smell. Close to stimding
-
 huk hatai ap wutcii huk tcuwu; sva-avan^ntc katc. Avawo; nyu
-
 that stone there under that earth wet lay. It was me
-
 fi-aktc hap ti'oi-ik, an Aukatc huk nyu huwulik ki-ikha siilitAp
-
 tears as it is there around that me wind four times twisting
-
 konya huk parsa aptcim nyu hadrsap ka-am a-ai himin na^kit.
 
 I was that front oi there me stick to was swaying going to and fro.
@@ -25272,66 +20808,43 @@ I was that front oi there me stick to was swaying going to and fro.
 Konya hap intatam; ahu-u, it aks hap ak'tc' hap kaitc huk nyu akitak
 
 I was witn feelings; yes, this is what was meant as said that me mother
-
 panya intatam. Kaim sialik taki6 kus kamaki't' uwumakalt
 
 I was feelings. Far away east direction kind of gray our friend
-
 kotpk' A-ap s'kakikam kont ap imilk rsarsoa kotap sinyhai-ikui-itam
-
 able Apache trailer I was there my cry he was friendly
-
 utatilk ametcut wupuk tcivia. Ami utcuwulitk' am tcu A-ap
-
 felt from first came. There he raised himself there saw Apache
-
 nanta worsanyik wukutc pitcimitahimuk tcoikam nyrnarsunahimuk
-
 fires rose ' an)und around going ai>peaniM(c " me look carefully
-
 opam tcivTak nyi: akit. /Fcuwuia mututam o-ofik ta-atam uwupakik
-
 turn around <'aine ine tell. (iround on running birds Hy it like
-
 huk nyi via^nlkr-rlakak nyunyik tarn ap uiava ap piatco
-
 that nie M)ns *jump on then- alight on there nothing
-
 tatukitcotuk ap sutapan) pui. Wukutc katciin nanukatcoitcikatc
-
 easily cai)tnre there sweep clean catch. Around home <»eenf)ationH
 
 si-inasik supapaki kawolkatk' puk opam ha-ahak inyuoa. Kotak
-
 all gathered slowly packed grasp turn around niearound. With that
-
 nyu viikita skoivritiun utcu kont huk Tiitilk ki-ik aprsorsilk
-
 me trail steep false appearance I was that followed four incantations
-
 ap nyu tcuwutika tam oapa. Hikutc am simaisk tcu huk
-
 there me country on brought. With it there entirely left that
 
 (Covered
 
 
-356 THE PIMA INDIANS Ieth.ann.26
-
 The news of victory which 1 brought caused my people to rejoice
 with singing and dancing. There was a magician's house, enveloped
 in white winds and white clouds, into which we went to perform our
-ceremonies. The captives excited the children, who ran about bewil-
-dered.
+ceremonies. The captives excited the children, who ran about bewildered.
 
 You ma}'^ think this over, my relatives. The taking of life brings
 serious thoughts of the waste ; the celebration of victory may become
 unpleasantly riotous.
 
 nyu tcuwutlka. Avawo^ makai ki, stfita huwullkfltc si-ipistc
-
 me country. It was that magician house, white wind with entirely around
-
 tfita tcuvak katc si-ima!tconitc ku-uk. Kdnt huk uta am va-aki'
 
 to put clouds lay entirely epvelope stand. I was that in there get into
@@ -25339,19 +20852,14 @@ to put clouds lay entirely epvelope stand. I was that in there get into
 A-fip all nyu pui, kot huk uta am rsdrsoa. K6t huk a-akfitc
 
 Apache young me captive, it that in there cry. It that tears
-
 stcuhutftkim sfika-akal hihimflk sku-uk nyu viapapu-ullka ap kui,
-
 blue curves going good me sons there drop.
 
 sku-uk nyu tcuihiyaka ap kui. S'ha-ap hap(ik humrsa ulitk'
 
 good me daughters there drop. That way you you will think
-
 tatcoa, na-ank& tcoikam nyu imikf kotc humo hap pa:|(ima ta-atan
-
 want various things me relatives we now that lazy make
-
 huk pat rsfilka natc apohSp taka!h£kim kaltc.
 
 that despised slave we right think disturbance said.
@@ -25368,8 +20876,7 @@ was thought that the time had come for considering these things in
 council, my brothers. Then wood was gathered and a fire kindled,
 the flames of which burst forth, reaching to the sky and causing a
 portion of the earth to fold over, disclosing the under side, where a
-reddish mountain stood. After these things had happened the enter-
-prise was decided upon.
+reddish mountain stood. After these things had happened the enterprise was decided upon.
 
 Then my breast was tightened and my loins girded; ni>' hunger was
 appeased; sandals witli strings were made for my feet; my canteen
@@ -25377,33 +20884,22 @@ appeased; sandals witli strings were made for my feet; my canteen
 Ahu-u, rsaik tahatam nyu kikifi. Kiiva humo it Aakta katcim
 
 Yes, sad feelings me brothers- It whh how this thing spread laying
-
 in-law. on the grr^und
-
 to sit uiM)n
-
 ha-akia a-anfikatc umairstcaip tcom katc. Tam tiita-ak tcotcoatc
-
 iminy feathers with he covered it lay. On mountain his standing
-
 ha-akia suvikitjik tea-ip U^om tcotc. Tam tataf tcom ihivathik
-
 many lets down with it stands. On sun it came but
-
 pitanuliktc ihi. Tam tc^ohokomolitatc tcom i-ia vathik piikutaktc' i-ia.
 
 ray not shone came. On darkness his it came but he no darkncKS came
-
 rolling rolling.
 
 Tava it hapa utco moi manukS tcoikan nyi-imil(i). Avao^ hutcrl nya-&
 
 It was this was happened many different class my relatives. It was alone me
-
 vakomakitak kdnta inasik am sia-fim nai-i. Kota am u-u;a sitoahimfik
-
 bones old I was gathered there right kindle It was there within rumbling
-
 fire.
 
 am sisiAil') muk tamat<^im supapak(!) maxanilk skoiAa^am i-inairs,*
@@ -25413,39 +20909,24 @@ there flames burning sky slowly open hollow fold.
 Tuwoi katcim tcrwii maskii o|(t) tuwoi tcotcim tata-ak wipkiomitk'
 
 opposite laying lan<l to cause hold opposite standing mountain make red
-
 to bring
 to view
-
 tcotcoa ttak haptcoikam tcom nyui. Kotjiva it ha})a rtco moi nanilkS
 
 st^mds I that class then saw. It was this was hai*- many kind
-
 pt-nccl
-
 tcoikam nyimik(i). Avao^ hutcxT| nyana-ain kontak ap isitcutk ap
-
 sort my relative^. It was alone my ribs I was thtrc very saw there
-
 ipfitat. Avao:| lirter| nyhihi k6nta ivanyoiiuk hrkatc sis iCuu ho^a
-
 make heart. It was alone my" bowels I was stfet<"h with v»ry ]>rop<'r across
-
 nywo. Kao:) hi t( r| iiyhahap k5nta hastco skr rk hok(i) ak pa-ak
-
 tied. It was alone my intestines I was what gofnl IcmkI inlenti swallowed
-
-
 iThis speech is believed to be based u\Hni an adventure in which a Pima gambled with the
 Apaches and lost all his property. Overcome by the pa.ssion for gambling, he wagered the life of
 his brother and lost. The striking figures of speech indicate the speaker's greed.
 
 b Here « — a mere hissing.
 
-367
-
-
-RUSSELL] SPEECHES 359
 
 in his blood, you who twist the hair of the Apache and tie your kifiha
 with it." Thus 1 addressed her and she gave me a ])undlc of power
@@ -25463,8 +20944,6 @@ and he gave me power which I carried awaj^ beneath my arm.
 I thought of South Doctor and finally prayed to him. I said to him,
 "Yes, you who can make the Apache bow as harmless as a rainbow, his
 arrows like the white tasseled grass, his arrow shafts like soft down,
-
-
 ukiaha. A-ap kop kop s'akrsp iraulutcotc hukatc sis ia-amp ipuphu.
 
 his kiaiiA. Apache hair you left make run with very right tighten.
@@ -25472,11 +20951,8 @@ his kiaiiA. Apache hair you left make run with very right tighten.
 S ha-ap any a ikaitam wumatc nyiak kota hastco sku-ukam ak sis
 
 Way r noise with talk it was what ^rood said very
-
 kavitcim nyhukrsp(i) Ttak siskavitcim hukrsk am tai-iwors. Ap
-
 narrow "m<' huKgea 1 that very narrow hugged there go out running. There
-
 kuirsk tcux iahaprnytco. Ava it tam kus tcohokom sikiilkU; katc.
 
 stepped lM)und here approach. It was this on kind of darkness round lay.
@@ -25484,7 +20960,6 @@ stepped lM)und here approach. It was this on kind of darkness round lay.
 Ava utii s'ia-amp uolintc ku vidarskam makai. Kontak hap
 
 It was in right being held kind of down nest magician. I was that
-
 tcoi-ikam supapaki tcuma-a. Anya hap kai-itam wumatc nyiak.
 
 class slowly correct. I that loud«i with talk.
@@ -25492,49 +20967,31 @@ class slowly correct. I that loud«i with talk.
 Ahu-u, kopavaapim olintc. A-ap kat s'ia-am sikikia. A-ap o-o katc
 
 Yes, you there hold. Apache bow right heinl too Apacne arrow lay
-
 much.
 
 kaisipirsp. A-ap kia-a:^ak A-Sp tatakatc sis vinam wo|. A-ap
-
 across bincf. Apache bowstring Apache sinew his tighten knot. Aptiche
-
 vanam A-fip ta^arsakatc simai-itcontc kux. Hrk u^ak A-ap kops
-
 headdress Apache sandals with cover stand. That in .\pache hair
-
 tcotcopolimp ia-aks. Tcotcopoli^ ap tcotc a-avaptck(i) tatantc hutcu[
 
 squarely piles. Made corners there .stands cigarettes knees alone
-
 kodrsjintc ku nanuka masma uhiasitahim. Stiitam uhiasitahini
-
 smoking kind of different colors blossoms. White blossoms
-
 stcotckom uhiasitahim sunanafkim uhiasitahim supitumukim
-
 black blossoms glittering blossoms dirty
-
 uhiasitahim s'oa-ama uhiasitahim. S'ha-ap anyai kaiitam wumatc
-
 blo.s.v()in^ yellow blossoms. Way T noise with
-
 nyiak. Kota hastco sku-ukam ak siskavitcim nyhukrsp(i) kontGk
-
 talk. It was what g<x>d tell very narrow nu- hugged I was
-
 siskavitcim hukrsk am tai-iwonyilk kaiirsp inataki. In ku Vakolo
-
 very narrow huKg<'l there go out running straddle cainc. In kind of South
 
 Makai kontak hap tcoi-ikam supakak(i) tcuma-ak anya hap kai-itam
 
 Doctor I was that cla.ss slowly covere<l T that h)ud
-
 wumatc nyiak. Ahu-u, kopaAa apim oliny. A-ap kat kopa kus
-
 with talk. Yes, you there hold*. Apache how you kind of
-
 ku-uk kiahai wupakit. A-iip o-o kopa kus statu mo]atkam wupakit.
 
 good rainbow liken. Apatthe arrow you kind of whiti? ta.s.vel liken.
@@ -25542,15 +20999,11 @@ good rainbow liken. Apatthe arrow you kind of whiti? ta.s.vel liken.
 A-ap vat kopa kus ku-uk vik(i) wupakit. A-ap ors kopaprs pit
 
 Apacne arrow- you kind of gootl down liken. Apache arrow- you make mud
-
 shaft head
-
 a in this manner or in this wise, what was said or how the voice is modulated.
 
 
 THlf PniA HfPlAHg
-
-
 tlCTM. A5*!f*2SS
 
 
@@ -25570,8 +21023,6 @@ which I caught under my arm and ran home, with four slackenings of
 speed. The home magician gave me a sieat of honor. The cigarette
 smoked, and I took it and, drawing in a cloud of ^moke, breathed it
 forth in the direction of the enemy. The power grew and shone on
-
-
 kfima[k wupdkKt.
 
 
@@ -25591,23 +21042,17 @@ ptAmcm
 A' lip ktjp kopa sia-a?n vi-!tcwo[ Mi'ptklt
 
 AfMU!hv tiAlr yfiu right {?) jAen,
-
 wtrmat4t nyifik kota hantco nkt-TTkam ak
-
 k5ntak Biskavitclm hukrnk am UTwonyAk am hotinjik woi ki-ikiLp
 
 I wju narrow Uuijri^mt ihetv bci nut nixv thi-re west t^wftnl fotir
-
 r^rs ku Aks Makai 8upapak(T) tcumti-ak any a hap kal-itam wumate
 
 Kiww- kind OH KftidcUn slowly eoirered T tlvftt loud wUh
-
 till or Woman
-
 nyiak. Ahu-u, kopova apim olinv* A-ap kat sla-ani haxoatc s ia-am
 
 '^talk^ Y&iy yon tWrf hold, Ap&i^liv \ntw rSglit makvaTlnff rlgtit
-
 mulTtcitakrit' wupikiL A-ap o-o kop ki-irBonytc rkoawtrtca ^ikikimt.
 
 run net J if en* ApHMhe ftrrow yon rrmih " Mn fnj-ebcttd very rlTVlt*.
@@ -25617,27 +21062,19 @@ helnw
 A-ap vSt kop taprsatc A-flp u-utkatc [mprsa iwupt kantc s i£*jim
 
 AfuicQu &rmw you. tipUi Apache blooil with in front of r&dden tiffhi
-
 forc!!*bflIt
-
 ka-ftmhairsiikot wupAkIt A4p ors kopa kus ku-uk ha<atak6t
-
 nf^mv nkti. Ap«che amiw j'oti head kind of good liifftnjmf lit uHed
-
 for polteiry jutrVlli*
 
 wupfiklt A-fip kop kopa s'la^am iHiki^a-B. S'ha-ap nyal kaiiam
 
 IHttiti, Aiqicbe hair you riifbt burk yinll*'. ^^^ly 1 l<Hid
-
 wrmntc nyittk. Kaoi uwuDWue kokokam k6ta pinyhoAitct
 
 ^'illi talk. It wa.'^ fAoiiiM points tt wasii not mc prevent
-
 sli^kavitcfm nyhukrsp(i) k6ntak ^i^kavitcim hukrsk am tai-hvonyuk
-
 very nurftivr me hn^r^vj i wius very uam>w huj^ge^l tbtsne go ont niiinTtig
-
 am wct43om ki-!k ap rsitrsk makai nata tcLinflk ho kit an takiltfi.
 
 tb«ro U> lonr there rtsne¥^&i8 mtM^rieiiin liru covert^t edgcn Un*n.^ r^l viu*e»
@@ -25645,7 +21082,6 @@ tb«ro U> lonr there rtsne¥^&i8 mtM^rieiiin liru covert^t edgcn Un*n.^ r^l viu*
 Smakaitkani d-dtam ^ivaknitk' tarn tariisuwoa* Avao; makai oatek'
 
 Expert Miigiclan people pitine prepnred on ''Itthiif. It wa-^ mu^t^ian clgafftte
-
 uitik iHtmiiSthlng
 
 
@@ -25653,31 +21089,20 @@ I
 
 
 -'j^n'iMt to -it
-
 tfintc hutcu[ koijrsanyitc kuk.
 
 knee alone smoking stand.
 
 woi siAostanfik taihiwoa. K6ta
-
 toward puffed sat. It was there kind of white
 
 
 Kdntak ap sih&A&k am ny£p{itak
 
 I was there inhale there my enemy
-
 am kus tatam utcotcoahimfik ap
-
-
 erected
-
-
 there
-
-
-RUSSELL] SPEECHES 361
-
 and on until it slowly disclosed the eneni\\ The Pima magician
 desired that the earth move, the trees take on their leaves, the land
 be softened and improved, that all be straightened and made correct.
@@ -25686,69 +21111,43 @@ about it. Their springs were made larger and they were gathered
 about them. Their game was gathered together. Some of the eneni}^
 were in the west and they said, ''We know that harm may come to
 us if we go to that place, but we will not heed our own misgivings."
-The}' started on their journey and camped on the Avay. In the morn-
-ing they arose and continued, reaching their friends' i^amp during the
+The}' started on their journey and camped on the Avay. In the morning they arose and continued, reaching their friends' i^amp during the
 day, where they saluted them. In the distant east were other enemies
 who heard that their friends were gathering. When they heard of it
 they said, "AVe know that harm may come of it if we go to that place,
 
 
 8upapak(i) tcuma-ak nyuapilta. Tcuwu:^ hokit ap sikaj ihi os ap
-
 slowly covered me enemy. Land edjje there around came tree there
-
 ku-ukam shahaktcotk' wutca tcuwLi maikatk' s'aptahatcotk'
 
 stand si'U'ct »i tret? with under land softened Matiufied
-
 many leaves
-
 rsulutcotk' woitcotk' ivantckuwoak huk tam ap takta. Avak
-
 straight to^\a^(i jerked that on there release. It was
-
 hastco kai-ikam matcdm sista^anyim katc i-iiit kont huk tam ap
-
 what plants with seed considered very wide lay thought I was on there
-
 sihumap ioi. Rsarsanukam rsorsokia tcum sistatanyim wutck' u-ulit
-
 together hold. Springs waters then very wide lay he thought
-
 k6nt huk tiun ap sihumap io(. Hastco riimututam matc6ra
 
 I was that on there together hold. What walking considered
-
 sistatanvim junuiik u-ulit kont huk tam ap siluniap io|. Kota am
-
 very wltie haunts thought I was that on there together hold. It was there
-
 tc6m ka hotinyik taki6 takam kus mas sunyapnta. ^]mokikatc ot
-
 then here west toward sitting kind of kindly appearance His dead he
-
 me enemy.
 
 pik u-ullttamtc am tcom kaiak pi-inakak worsanyk himilk hupai
-
 like he thought there then heard impossible arose go somewhere
-
 tcuwu:^ matcolitk' tam kursk kai. Imasi kot worsanuik himuk tataf
-
 land considere<l on fall sleep. Next he arose go sun
-
 carefully morning
-
 hupai tcok tciviak skai-itamp uimA. Ava kamuk sialiitk ap uolintc
-
 somewhere there arrive very loud {?). It was distant east there being
-
 held
-
 kus mas sunyapnta. ^]mokikatc ot pik i -ulittamtc am tcom kaiak
-
 kind friendly appearance His dead he like it he thought there then heard
-
 of me eiicniy.
 
 pi-inakak worsjuiyik himuk hupai tcuwu; matcolitk tam kursk kai.
@@ -25766,26 +21165,13 @@ morning where
 Avaoi ku tahrikiho koi-irsiim kutars sisi(f)t{ikatc no-omovitc pum
 
 It was kind ul «(Mhiiual dye kind of sun headdress triangles he
-
 rays
-
 a-ai kak sivantckuwomtc hukatc sisiamp i tcutcuhitc katc. Kota
-
 figured that jerked with right it covered lay. It was
-
 uta hux isikuirsk kuxiwoak nyu viapa ku-uluka. Tcuwu^fi
-
 in already firmly st«'pped stand me boy reared. Land
-
 mututam, o-ofik ta-atimi uwupakitk n^^unyik tam ap uiwoak ap
-
 running birds flying liken fly on there alighted there
-
-
-363
-
-
-THE PIMA INDIANS
 
 
 I jcTii. Asy. 20
@@ -25795,8 +21181,7 @@ but we must go*" They Ettarted on their journej and ctimped once
 before arriving and saluting their friecd!^. They fcoolc suu^s rays and
 ptiinti^d triangles on their blankets-
 
-WHiile this wan happt^ning among them my young men were prepar-
-ing t^ tight They ruf^hed upon them tike fl^'ing birds^ and i^wept them
+WHiile this wan happt^ning among them my young men were preparing t^ tight They ruf^hed upon them tike fl^'ing birds^ and i^wept them
 from the eaiih. Starting out upon my trail I reached the tirst water,
 whence I sent my swiftest young men to carry the message of victory
 to the old people at home, Beforti the Magician 'h door the earth was
@@ -25814,7 +21199,6 @@ u n p leas ant ly ri ot o i is.
 pta-atco tatkttcotk' ap sutupam puL Tait nyu vilk!ta skoeAa^am
 
 Udlhtriiif wfcsLLq th&ru ihmcH>t]ii uike. Thnt tUia uie trail Jnol lowed
-
 ut4»u kiSntflk altk* am ki-Ikap r^ars* Hokitka rsotaki tarn sti
 
 Alter thuru four ronowaU, Hilge w^ivr on \t'Ty
@@ -25824,7 +21208,6 @@ Amtcut mamtcuk am t^ot^ oaa kcs eteo-otcoaatcmakiun
 Theru IrwiJQ g\iv^ thvev ntntu] kJrul ot swiftest
 
 K6ta. ki'ikap n^rsk muUfkait kai-ite kulivi-ikara
-
 it wfLN ffpiLT timei^ f enuwal^ ^'Ami^ ntiinlDg noilfjr rjld lunn tvtutkin
 
 Ava am makai kitclk amuk tcuwuj tco!-iste katc-
@@ -25834,38 +21217,24 @@ It wiu thtTe magJolun di^or thero It-Vid pt^fwdcred U>%
 mumutak tcitcivi ktrs ku-uk nyti viapSku-ulka kus
 
 Tuti pluy k I nil of gtyod ton buy rt«i>^d kinr! of
-
 tcuhyaka wum mawfirsk tarn mumutak tcitcivi, Kus
-
 ilauK^jlcr wLEh eli^pkis tanuilH on run jiLaj. Kind of
-
 viapSku-uika kus kr-ck paihiwoate sijtat kus ku-uk
-
 noy i¥iin:-d kind ut gin^d UlU touch kind nf gixxt
-
 tcunhyaka krs ku-uk tairsfik(i) ukoa wutca kikoatk' wum
-
 ddu^hter kind uf giKHl i<patn uerfofehcfwl under crown with
-
 mawarsk tarn mumutak k^itcivi* Kotak huwuikati^ am sivanvi^kumiak
-
 cljvHp hfttids on ran play. Jt wo-t h In wind thert: i>r(ikc?n
-
 tamati'tm partm pia-atcokam an haha|rs. Amtcut ko-okoewa si-isiAil;
-
 apy 114^1 by nntKinK thore aiJek-*. Thor^ ffom dtm'n tliiiin'^
 
 ihohotk' kovipkam sisiatcotcokaiii teutcuwLtj tco-oteoritk' tarn am
-
-
 lllid t WAd
-
 htjmaptol(d).
 
 Ode make.
 
 ayu vipiapka,
-
 me boj.
 
 Sks vi-lkam*
@@ -25878,22 +21247,13 @@ It W'&N
 
 ku*uk
 ku-uk
-
 nyu
-
 tnf
-
-
 tarn
-
 an
-
 nyn
-
 me
-
 nyu
-
 me
 
 
@@ -25917,42 +21277,27 @@ Tliure frcjm
 
 
 I here
-
 kuvipkam
 
 Murvfvin^
 
 ko-okoewa
-
 duviii
-
-
 de»cetid(fa gnrvfvlug |>owe'ful magiclnns
-
 kokokoa. Amtt^'ut ko-okoewa
-
 toiicb^^ Tilt: re from down
-
 sisiatcott^okam tataak kokok ap
-
 powerful majErLclnn>i inoiLiiitiLlnN peukji ttiere
-
 si-IsiAat ihohotk kuvipkam sisiatcotcokam rs^rsSnilkau] rHors(jk(i)
 
 flames descended jturvrvlDg p<jwerful nmgiclwHH ^printfa wnter*
 
 vufutelm tam kokokoa. Amteut ko-okoewa si-isiAa^ ihuhntk
-
 lasrlng on touched. There from down flames descended
-
 kuvipkam sisiatcotcokam o-os kokok ap rsarsai-iwa. S'ha-ap hap
-
 surviving powerful mafdcian trees tope there hang. Way that
-
 bnms£ ulitk' tatcoa nanfika tcoi-Ikam inyi-imik(i) kotc humo hap
-
 you think plan different sorts my relatives we now that
-
 pa!)ma tata huk pa:) rsaika natc apahapta kaihakim kaitc.
 
 lazy make that bad slave way right noise said.
@@ -25972,22 +21317,14 @@ I grasped the cane and thrust it into the corner of the house and there
 came forth a kind of white water. Afterward there came forth a kind
 of white dragon flies, which circled about four times before they sank.
 In the south stood a blue house with a blue cane before it. Thrusting
-
-
 lat tiiva tcutcka nanilka tcoi-ikam nyi imik(i). IIuk(i)attavainatak
 
 Here we canK' various classes my relatives. Already we finished
-
 hai-itcot aka. Hi k(i) isivakitk' tcu. Konta im sia-lik hikio kus tatam
-
 something toll. Already planned trail placed. I wax in east direction kind of shining
-
 hiasitk' am nyu Aakita hokit am takita. Kota am nyu Aakita fiitk
-
 urtiticial there my trail edge there dropped. I was there my trail after
-
 flower
-
 ku nanuka masma rhiasitahimuk ap katcim tcuwu^u supapaki t(*umfi-a.
 
 kind diflerent appearance like a wave there laying land slowly cover.
@@ -25997,58 +21334,36 @@ of llowers eame
 Kot ap katcim tcuwuH' kunanuka masma hia. Ap kukam os
 
 That there laying land kind of various fnll-blown tiowers. There standing tree
-
 kinds
-
 kunananka tcoi-ikam hia. Kota am tcum nyui kuny aputak hastco
-
 various classes full-blown flowers. I was there then see my" enemy what
-
 sku-ukam u|(d)itk' am ubi tcorsal ihuhumiha.^ Kaot muk mamakai
-
 good thought there in slowly he laughed. It was far magicians
-
 tadrsa pamutaktc' s'ha-apai utcoktc. Ava im t<*uwu') s'utafitcotc'
 
 placed unite correct result. It was in landmark center
-
 kiJtan:>am hatai tunata katc. Huk woi am ki krk oatck(T) tantchutcui
-
 kind of white stone our fire lay. That toward there standing eigarette knee itself
-
 koirsantc krk kontak ap sihavak am sia-alik woi si-iphrewoa. Kota
-
 smokes .stand 1 was there inhale there east toward exhale. I was
-
 am kus tatam i'tcotcoahimuksialiksupapak(i) tcrnm-a. Ava apa kuk
-
 there kind of white stand east slowly cover. It was there stand
-
 krtan^am va-akitcik parsa ap kux krtan]am tciaikot. Kontak ipfik
-
 whitish h(»nse before there sta,nd whitish cjine. I was grasp
-
 hukatc ap itcojk' ap sitcoa-akat. Kota a]) nyrlMpri kis tata rsotak(i).
 
 with there made there stick. I was tlure canif <>ut kiiid of white water,
-
 corner
 
 II rk uitk' a]) nyi iapa krs tata vaktcutcr]ha[)i. Am ki-ikha si-iskat
 
 That aflcr there came out kind of white dragon flies. There four times around
-
 hihimuk am koavit t('otcp(i). Tm katcim takio krs tatk(I) va-aki kux
-
 going there <lown sink. In layitig direction kind of blue house stand
 
 
 "A "half laugh; more than a smile and less than a hearty laugh."
 
-363
-
-
-364 THE PIMA INDIANS Ieth.axx. 26
 
 the cane into a corner there came out a blue water and then blue
 dragon flies, which flew about four times and then went back. In the
@@ -26056,52 +21371,34 @@ west stood a black house with a black cane before it. This I thi-ust
 into a comer and there came forth a black water followed by black
 dragon flies, which flew around four times and then sank down. In
 the north stood a yellow house with a yellow cane before it, which I
-took and thrust into the corner. There cAme forth yellow water fol-
-lowed by yellow dragon flies, which circled about four times and then
+took and thrust into the corner. There cAme forth yellow water followed by yellow dragon flies, which circled about four times and then
 sank down.
 
 On the mountain tops was a yellow spider magician, upon whom I
 called for help. He went to the enemy, darkened their hearts, tied
 their hands and their bows, and made them grow weak as women.
 Then he pushed us on to destroy the enemy. We rushed upon the
-
-
 tcuk pars£ ap kux kus tatk(i) tcifiikot. Kontak ipuk hukatc ap
-
 in front stand kind of blue cane. I was grasp with there
-
 itcolk' ap sitcoa-akat. Kota ap nyuifipa kus tatk(i) rsotak' kuk aitk'
 
 made there stick. I was there came out kind of blue water that after
-
 comer
-
 ap nyui&pa kus tatk(i) vaktcutcu^hfip(I). Am ki-Ikhfi si-Iskal hihimuk
-
 there came out kind of blue dra^n flies. There four times around going
-
 am koavit tcotcp(I). Im ho:jinyIk takid kus tcok va-aki kuk tcuk
-
 there down sink. In sunset direction kind of black house stands in
-
 pars£-ap kux kus tcok tci&ikot. Kontak ipuk hukatc ap itoojk' ap
-
 front of there stands kind of black cane. I was grasp with there mane there
-
 comer
-
 sitcoa-akat. Kotaap nyui&pa kus tcotck' rsotak' kuk aitk' ap nyuiap&
 
 stick. I was there came out kind of black water that • after there came out
-
 kus tcotck' vaktcutcu;hSpi. Am ki-ikha si-iskfil hihimuk am koavit
-
 kind of black dragon flie^. There four times around going there down
-
 tcotcp(i). Im naniik(i) ait takid kus oam va-aki kux tcuk parsa-ap
 
 Hint. In north field direction kind of yellow house stands front
-
 kux kus oam tciaikot. Kontak ipuk hukatc ap itco|k' ap sitcoa-akat.
 
 stands kind of yellow cane. I was grasp with there made there stick.
@@ -26111,7 +21408,6 @@ stands kind of yellow cane. I was grasp with there made there stick.
 Kota ap nyuiapa kus oa-am rsotak kuk aitk ap nvuiapa kus oa-am
 
 I was there came out kind of yellow water that after there came out kind of yellow
-
 vaktcutcu:>hap(i). Am ki-ikha si-iskal hihimuk am koavit tcotck(i).
 
 dragon flioH. There four times around going there down sink.
@@ -26119,23 +21415,14 @@ dragon flioH. There four times around going there down sink.
 Avak atfik ap uolintc' kus oam takfitat makai. Kontak hap tcoi ikani
 
 It was near there being held kind of yellow spider magician. I was that class of
-
 mamfitcuk ap iinukrsarsoa tapsinyhiii-ikui-itam utatk' amt^it ki-ikha
-
 guess there address cry he friendly felt from four times
-
 skawo| tahiwoak ap supapak(i) tcuma-a kuny a-apflta. Hux ipiiiiaska
-
 cnmch set there slowly cover my enemies. Already not visible
-
 ipfitatc kakhai wopotk' naniivitc kakhai wopotk' kat kiattatc kakhai
-
 his soul crossed tied his hands crossed lied bow string crossed
-
 wopotk' ataprs hastco pat Aupatk ap woa. Huk aitk' inyoihai kont
-
 tied he made what Dad like Ih^Tc throw. That after me pu.sh I was
-
 huk aitk' ita-ak ap kursk ap pia-atro tatkitcotk' ap srtapam pui.
 
 that after jiinipfd there fall th«'re nothing' wrestle there smooth take.
@@ -26145,8 +21432,6 @@ An wukatc katcini naiiukii tcoi-itrkatc si-inasik srpapak kaAojkatk
 .\bout iirrnnid luring vjirious helonjriiiKs gathered slowly gr»)Ui)e<l
 
 
-RLssELL] SPEECHES 365
-
 Apaches and killed them without difficulty. With gladness in my
 heart I feathered the evidences of my victory and turned toward home.
 You may think this over, my relatives. The takin<^^ of life brings
@@ -26155,17 +21440,11 @@ unpleasantly riotous.
 
 
 pi'k opani ha-ahakinyuwoak nytcuwuu'ka tani oa-ana. llrk hukatc
-
 take homo wan 1 face tunu-d ' my land on hroiiKnl. That wfth
-
 am simai-irsk tcrk nytcuwLiuka. S'ha-ap hap hi uisa liitk' tatcoa
-
 there covered phiced * my land. That way that yon thought desired
-
 kotc hrmo hap padma tatanfik pat rsaika natc a|)ahripta kai-ihakim
-
 we now that lazy made bad slave way right noise
-
 kai-itc.
 
 said.
@@ -26194,8 +21473,6 @@ Hef¥
 
 
 tcot-fkani
-
-
 nyi-imlk0)»
 
 my ri?JAtivea.
@@ -26206,7 +21483,6 @@ my i^ry.
 
 
 vaprs
-
 there
 
 
@@ -26215,31 +21491,20 @@ Muk mamakai
 
 
 UiVfk tcutcka nanuka
-
 we ciimc vtiHtJiiii
-
 matai-Tt43 uta kopa[ kat« muk \ avan v!m
-
 amhi^ in Im^it itttwn lay f&t citUituiing
-
 lying
-
 tadrsa pamfitak imitc rsoak. Vik Ia](d) Makai inutc rsoak. Tava
-
 pliUHtfl uDlte my cry, [towu lli^JL Magiciitii iiiy cry. It w«i
-
 kv vi-itckiit itcursatk' iiAfikTta skoeAa^am itetr. Kotuk aitk*^ am
 
 Itjnd pr <Ie«r fii«c:n4 hl!i triLiI down pinL'tMl. Ua then after ttaere
-
 uiatenk t^*uwLT|£ mutetamOk .*4kai'itamp uim/ Paitcp' l iatcuk o-ofik
-
 groijj»eil t^iiid niiiiilnf Innd iiamitig. I^'iirther f^nniped hinls
-
 ta-atamilk' ^kai-itamp uim. Am imitcp uiatcuk tcuwuia mututamfik
 
 Dyiu^ Lund immitig^ Thvi^ furttier jc^rDii].ied latid rtitinLtig
-
 j^kai-itamp uim. Pa!tcp' n iatcuk o-ofik ta-atamtik ^kai-itatnp rrfm.
 
 lout! ntunlng. Fiirthtff pnp^iiiutl btrda (lying Imul nuialni;.
@@ -26247,58 +21512,35 @@ lout! ntunlng. Fiirthtff pnp^iiiutl btrda (lying Imul nuialni;.
 Vatai-ip uptcirrsatck' kus kamak(!) usiAcrta ihodonyftk hrkatc
 
 Tliey were ri»lni|r kind of gray Ucji4 drtyan bring dmvn with
-
 slkopai punv ati'- Vatai-ip uptcurnatek' kiTi^tcutak(i) ukamhai^iakita
-
 faro do wntny self put arouiid They w(?rB lisiDif kJnd of blue hazy
-
-
 ihrriw
-
 ihodonyltk
-
-
 uet^k.
 
 
 uta piina£$kfl myolintlk Inyil pupnhL Ava It tarn kus
-
 hflUi^ doMfti iu in^'iitble m^ bis Id mu c»rry, It wns thl'^ lop kinil of
-
 oam ha A ant a kontak hap teol-ikam mamiltcuk ap imtik rs^tr^oa kotap
-
 yellow rt^ven iiimiflr 1 wo-h thiit v*rt of irucff!) there timnins fry it w6m
 
 HinvhuI^ikuMtam utatk' kilkha am uta siknkafk ihodonykuk
 
 Uk iub frtondly leii four tlmc.'^ there In (M^olcJlDg brltij^ d^wn
-
 tcLTwi:^ an katetm kakhai ^*ikuofdrs. Humat^kam ap luniututam
 
 Uftd fllMmi luylnij^ oni^Hed gabbed. PtTtpIti thort^ movlitg
-
 huk ipiniaykii u-uj itcursutctk' hithAtai tattnain s^aliama^silnm
-
 thai iiivl»lblt blood briiijif up ntono^ setting' ttn** npt*eflnince
-
 isipanymat. Huk fitflk' ap uolintc kus oam tSkdt&t makai. Kontak
-
 fall in drops. That side of there he stays kind of Yellow Spider Magician. I was
-
-
 a Living in the ruin at Tempe.
 Mmitc, past tense; uim, present,
 relationship and person addressed.
 
 
 Both convey the meaning of addressing by naming speaker's
-
-
 ik
-
-
-RUSSELL] SPEECHES 367
-
 called for help. He went to the enemy, darkened their hearts, tied
 their hands and their bows, made them grow^ weak as women. Then
 he pushed us on to destroy the enemy. Wo rushed upon the Apaches
@@ -26316,31 +21558,18 @@ In the evening Blue Bird sang, because he was glad. Shaking his
 feathers he ti-ansformed the land into a habitable world again, as
 smooth as the moss under the bushes. In the evening Yellow^ Bird in
 the gladness of his heart sang, shaking his yellow feathers.^ Mountain
-
 hap tcoi-ikam mamucuk ap imfik rsarsoa tap sinyhiii-ikul-itam
-
 that sort of guess there naming cry he " iiie friendly
-
 utatk' amtcut ki-ikha skaAof tahiwoak ap srpapak(i) tcuma-a kuny
-
 felt from four times erouoh set there slowly arrive my
-
 a-apilta. Hul ipimaska iputatc kakhai wopotk' nanavTtc kakhai
-
 enemy. Already invisible houI crossed tied hands his crossed
-
 wopotk kat kiatutatc kakhai wopotk' ataprs hastco pat Aupiitk ap
-
 tietl bow string crossed ued he made what bad like there
-
 woa. Huk aitk' inyoihai kont huk aitk' ita-ak ap kirsk ap
-
 throw. That after rhe push I was that after fly there fall there
-
 pia-atco tatkitcotk ap sutapam pui. An wukatc katcim nanfika
-
 nothing wrestle there clean catch. About around laying different
-
 tcoi-itckatr si-inasik supapak kaAo|katk' puk opam ha-ahiik inyuwoa.
 
 occupations Kathere<l slowly ffrouped catch turn face me home.
@@ -26348,37 +21577,21 @@ occupations Kathere<l slowly ffrouped catch turn face me home.
 Huk tam ap takutax nyu kotck(i) vi-itak, tafkoau smo-okuk tam
 
 That top there release my brand remainiuK, flint sharp on
-
 ap takutak hukat<;uk ukikiat ho^^aAakihak ak hap tco. Hukatcuk
-
 there release with abandoned disturb told that made. With
-
 ukop hixiArmhak ak hap tcok huk tam ap takuta. Kotak hukatcuk
-
 hair cut roughly told that made that on there release. It was with it
-
 tcuwii am rta sipuputk' utcu. Stcohokmom am uta sikikifk
-
 land there in roar lay. Darkness there in tremble
-
 utcu. Tata-ak tcotcTm am uta sirsarsafk rtcotcoa o-os tcotcim
-
 lay. Motintains stand there in echiwd stainN trees standing
-
 am uta simokiofk utcotcoa-akuk tam pita liodontam itco. Kota
-
 there in wnvc<i somelMxly placed in on not cainpiiin place make. It was
-
 a standing position
-
 humaka vi ikam nyuaputji hupaitcut mutate hrk turn kur-^k tcum
-
 one reniaiuiuK me enemy wherefrom nuininK that on fall then
-
 karsk hr-us tcohok uta pi-inakak kotk' hasteoi-ikani kaAa|k' ap
-
 sleep night part of iii).,'ht in <'an not stand firr what sort of hollow there
-
 itcum vakiamhi. Kota hodonuk huAatcot makai s hux utatk kox.
 
 he entrr. It was evening Blue Bird Magician Khid tilled sing.
@@ -26386,12 +21599,8 @@ he entrr. It was evening Blue Bird Magician Khid tilled sing.
 Kus tcuhutak(i) uwapa ikik(i). Kotak hukatcuk tcilwu^ s'ahamasma
 
 Kind of blue his feathers shake. It was with it land fine appearance
-
-
 a The yellow flowers that color the mountains.
 
-
-368 THE PIMA INDIANS [eth.axx.26
 
 tucked these feathers under his belt to improve his appearance. In
 the evening glad Mocking Bird* sang and shook his white feathers
@@ -26403,25 +21612,15 @@ unpleasantly riotous.
 
 
 mamathatk' uteu. Kota hodondk vatcokok makai s'hux utatk' kox
-
 water plants lay. Itwa« evening Yellowbh Magician glad felt sing
-
 kus oa-am uwapa ikikf. Kotak liuxatc{ik tata-ak tcotcim s^^ahamasma
-
 kind of yellow his featben sliake. It was with it mountain stand fine appearance
-
 s'oa-am hihifurspatakdtc tcotc. Kota hodondk rsok makai s'hux
-
 yellow tuck under stand. It was evening Mocking Bird Magician glad
-
 utatk' kox kus tata uwapa ikikl. Kotak huxat^cfik tcuwu^ wrska
-
 felt sing kind of white his feathers shake. It was with it land all over
-
 t£natk' utcu. S'ha-ap hap humsfi ulitk' tatcoa kotc humo hap pa!Una
-
 white lay. Way that you thought desire way now that lazy
-
 tfitandk pat rsaika natc apahapta kaihakim kai-itc.
 
 made bad slave way proper noise set.
@@ -26443,32 +21642,19 @@ gray, so that we may become invisible to our enemies. He examines
 his equipment, his shield and club, his sandal strings and the netting
 of his gourd canteen are tightened, his headdress is moistened and
 shaped, his black paint is renewed that he may be properly painted
-
-
 lat' tava tcutcka nanuka tcoi-ikam nyimiki. S lia-ap ant, hrms.
 
 Here i)ljice we vari<»us clawjies} relatives. That I. yes,
-
 itata, OS nyr molrna wisk ap iwoetahi ka-am smatc' ait himuk am
-
 do tree liie Imtken all there distribute there know after p»inju: there
-
 utcumii-ak himrdv am i tcuma-a. Kota hupaitci t muu'tam nyimiki
-
 nrri\e K<'i'i^ there arrive. It was where ironi nmiiiiiK' relatives
-
 atavai tcivia. Avaprskam katc huk hasteony ])at liohoki katc
-
 had came. lie was lay that what my* l)ail fcxxl lay
-
 ukukosit. Rsotaki nyi; vasipitc ip uv^avinvit. Kota imasi, kota
-
 he eats. Water me take with he quenelied. It was niornlnjir. it was
-
 itany ipum hutculuwa kus tcutaki n3^ho:>inyik kis tcutiiki nyhakoata
-
 now you slide kind of bine me evening kin<i of blue * me ring
-
 kontak hap tcoi-ikam takutak' huk uta am s'iam vakitk' tarsuwa.
 
 with that that sort of release that in there right enter placed.
@@ -26476,23 +21662,15 @@ with that that sort of release that in there right enter placed.
 Kota imasi kota itany ipum hutculuwa kus tcutaki nyho;inyik
 
 It was morning it was now' you slide kind of blue * evening
-
 kus tcutaki nyhaxoata kontak hap tcoi-ikam takutak' huk uta am
-
 kind of blue ' me ring with it that .sort of relensr that in there
-
 s'iani vakitk' tarsuwa. Kota-ama pi-ipuk nyunya konta iworsanyik
-
 right enter placed. It was the in breathfes'^ ^il^•nt I was an>se
-
 tcuwu; tciakasik sikuirsk kukiwa. Kota ama mukai tcokaki ikui
-
 land rock shelter sti'i)pe(l strKKl. It was tli«'ii magician (larkiie>s fell
-
 uhokit an oama i hokit an nrata'* tak' si-ivantcki wiik' hrkatc sis
 
 Bide by side there yellow si<lc l>y side there ashy that jerk with very
-
 ia-amp mai irsk t( r. Anya huk wukatc am taktc amhrnyuwa.
 
 good covered |»la<ed, I w*as that an)Uii(l there -ittiii- preparing,
@@ -26504,7 +21682,6 @@ Me .shield renew ^tick short me touetli.r. Me sandal
 ^ivinukutcot nyr vaka sisuvinam pihiwuk. Nvr sivrta sihiavtck'
 
 strings tighten nie gourd tightening envelope. Me headdress soften
-
 woehya nytcokolitc ap uta ip sintatak, huk wukatc amiltiiktc'
 
 ince me black paint there in with .sprea<l. that around sitting
@@ -26523,8 +21700,7 @@ f KTH. ASN. 20
 
 
 for the \s^t journej if he i^hould take it. He extendi hk hand^i toward
-the four Ciirdinal p<jints thsit he may foretell the retsult of the exiK?di-
-tioH, We went into the enetuy's eountry and our i^cout saw tlie tun-
+the four Ciirdinal p<jints thsit he may foretell the retsult of the exiK?ditioH, We went into the enetuy's eountry and our i^cout saw tlie tun-
 itmk rnnniu^^ which the Apaches hare stiLrted^utid he tmili^ theiii until
 he eornes u[>on tlie Apaches wiirmiu^ thein?^el v^es about their fire.
 
@@ -26557,15 +21733,11 @@ nyui-!tanflk ap jtitliiva! umanu^sltam s'ha-afwivat utc^okt^-iTiuk
 HBW then* nruTloilow appt'Mi^ uiiO dl>- thitliimniicT be miidi^
 
 t«ol ftekate p'auv avai-!kaTtc mokiak'^te* knl kate puny hokau*rt. Tm
-
 pni'jii'ny I ' MnjjH Letl filtUii^ big \ay m^ wtirmiiiij. In
-
 r.si liteotk ta-ak in kur?ik (ivaMpuny akit,
-
 iitfiii^liN!in.*j| fly Iti Nil hi* int? ' tolrl.
 
 takT6 tcut ta-ak hu kur^k iival Ipuuy akit
-
 lUjroi-iJi^rt (rtmi fljF In fill hv me "^ tuM.
 
 liiti* nyiatc nyuT-Ktunk ap filth! val uniama^itam sha-aimval ctcokteluflk
@@ -26573,30 +21745,20 @@ liiti* nyiatc nyuT-Ktunk ap filth! val uniama^itam sha-aimval ctcokteluflk
 Afti.']' irmkluiy * siH'^ifix' tliero i^ltt^r apr^c^Lir that miLniuT lii'dm-H
 
 teot-itekatf panv aval-ikaitc mokiakte kill katc puny hokati\ tm
-
 lir'»ficrty 1 * iiMiihvr tell iiitllnx lUyf iity mp* wiirmliig. lu
-
 h«nJuy!k takI5 teut ta*ak !m kur^k fivai ipuny akit Ini ku l*a*ak
-
 wtwi iUnnSim imm dy In (aU he me* tohi. In kimlof h^gk
-
 kars takl6 tcut ta-ak irn kcrHk avai-ipuny akit, Ahu-ukra, apa katc
-
 ru-xt ■lLr<?ellon innn Ry hi ItiW ht^ mv toh). Yen. Uuti.^ Uy
-
 ap Aite nyiatc nyui-Ttank ap atthivai umamamtam ^^'hrnip^lvat
-
 thifTi* fliJU?T loiLiklag " nf^itkg ihi-TQ fnJIovv fippt'ur stvl liifytiijiear, ihiit way
-
 rteokt(inilk teoi-itckatc pa- any avaMkaite naokhiktc; kulkatc^ puu}^
 ho kate it. Tm ku rsotaki wormltak taklfd teut ta-ak im kursk fivai
 
 ^'HmiUi^. hi kind of wnUir Mdgln tllTfciion Irora tly Ln fall hi?
 
 Ipuny akit, pany ftvai'fkaJtc kof^ has uteo. Teuwui tiitalTm katc os
-
 me *" told, I * frfitd h*jw ivlmt ch^ lAnd i^tAtiuimry Lay tree
-
 tiitillini kux ta-rtta-ak tatalim teotc hastco vfipfikaai tStiilim aainiulik.
 
 fttAtiotMifv, nUioc] nKjimtttiii pitiitiotmry ^Ij^rt't wbnt MRh huir Ptjittotmry undisturbed,
@@ -26604,21 +21766,10 @@ fttAtiotMifv, nUioc] nKjimtttiii pitiitiotmry ^Ij^rt't wbnt MRh huir Ptjittotmry
 Ahu-ukrs, hap a-atcok'tc' kahim hiap kukiwahai s'ha-akok iuwoan
 
 Yes, there stay direction stand turn and look some one
-
 pavai i utcoktcink teoi-itckatc p'any avai-ikaitc mokiaktc kulkatc puny
-
 manner he stays belongings lay I said sitting big lay me
-
 hokatcit. Im ku Pa-ak k&rs takid tcut ta-ak im kursk aval ipuny
-
 warming. In kind of £agle nest direction from fly in fall he me
-
-
-1
-
-
-RUSSELL] SPEECHES 371
-
 the west soinethincr told me that there were an Apa(?he and his nepliew
 there who killed some ^ame and carried it home, to r(»tiirn at once for
 more.-' ''Yes/' I said, '' like foolish children, they wish to die with
@@ -26633,23 +21784,15 @@ snake glided upon them from the other sid(\ Another crept up
 behind the shelter of the trees. Render yourselves invisible upon the
 gray earth! Crawd through the arroyos, advance slowly. I select a
 patient aide, telling him what he shall do. He called loudly to another
-
 akit. Ahu-ukrs, hapa-atcoktc' kahim hiap kukiwahai s'ha-akok iuwoan
-
 told. Yes, there stay direction sUiiid turn and look someone
-
 pavai utcoktcinuk tcoi-itckate pa-any avai-ikaitc mokiaktc kulkatc^
 
 manner he stays belongings lay I said sitting? big lay
-
 puny hokatcit. Aik wask ap kakaitc^Jtk' humiap i oirnan kony am
-
 mt! * warming. Now all there notify gather crowd I * there
-
 iw^orsrnyhi hai-itcova am tcotan p any avai-ikaitc mokiaktc kiikatc
-
 arose* snuu'thiiig understan<l I * nianinr sitting big lay
-
 pcny hokatcit. Kotava vCihCi wusk ap kakaitc kotavai i humia]) uoj.
 
 me* warming. It was true all there notify tlun- wt-rr gather crowd.
@@ -26657,7 +21800,6 @@ me* warming. It was true all there notify tlun- wt-rr gather crowd.
 Konta iworsanyik tcrwL) tcitikasik sikuirsk kL kiwa. Tm hotinyik woi
 
 J was arose ^ land nn-k shelter stepia-d stand. In sunset toward
-
 s'hovitam inawak sialik woi s'hovitam mawak rsriitcotk s hovitam mawa.
 
 seltish ri'iK h for cjist toward selfish reaeli for stniiu'ht scliivh reach for.
@@ -26665,35 +21807,20 @@ seltish ri'iK h for cjist toward selfish reaeli for stniiu'ht scliivh reach for.
 Kotaim ho^inyik takiotcrt tn-akim kursk avai-iprny akil. A-aj)huk
 
 Jt was in sunset direction from Hy in fall he nie ' toM. Apaclie that
-
 utcotco; wi nu k rmoa-a humo im imat kakha atai imat. Ahi hi a-alva
-
 hernephew with game now in carry twice they carry, Ve^. children
-
 na;a uki apst oa-apaim uovitak suAumam ualitak si Aumam skr-uk
-
 crazy his house there fetch <langhter coax his son coax goo<l
-
 hastco rtcol Ttak suAumam. Im sialik takio tcut ta-ak im kursk avai-i
-
 what his things coax. In east direction from fly in fall he
-
 pun\^ akit. In kus viipaik tamilk viipak mol-ipa-atoa hastco
-
 me " told. In kind brul^ top trails many appeared what
-
 pulhyamkotatc sAitcitckamaip umaslt. Ahuhr,a -ulAa nata uki apst
-
 gathered places fresh appears. Yes, chiMnn cra/y his house there
-
 oa-apaim rofitak sUAumam lalitak suAumam ski rk hastco itcoT-itak
-
 bring hisdauirhter e«»ax his son coax gcxxl what things
-
 suAumam. Kota-ama hLinaka vi-ikam nyu viajmUi -rluka ta-ama
-
 coax. It \\!i>- then one remainder nie sou then
-
 ki;ofha stcoviatkam tcok(rit). Humaka hatai ma-jltcotk kaipanynn.
 
 wildcat sly a^^uuie llesli. One stone li.;i<l eume crawling.
@@ -26701,22 +21828,13 @@ wildcat sly a^^uuie llesli. One stone li.;i<l eume crawling.
 Ata-ama hrmaka vi-ikam nyu viapaki -ulrka ta-ama shamaki vamat
 
 .\nd then om- niuainder lue st>n then ^vuy siuike assume
-
 tcokut. Ilumaka osikatc ma-at<.*otk' kaipanynn. Ata-ama humaka
 
 Hesh. One tree hishead came crawliu;,'. And then one
-
 vi-ikam nyu viapaku-uluka ta-ama skamak! tcrwr^ tcokut. Ilumaka
-
 remaining me .son and then gray ground a>sinue lle.sh. One
-
 vi-irsany ma-atcotk' kaipanynn. Konyak aitc ipkukhim. Awao^ sistco
-
 small arroyo head came crawling. ' 1 wa.s after advancing slowly. U was very
-
-
-372 THE PIMA INDIANS fETn.ANN.2«
-
 to accompany him to see what shall happen. He reached a gap in
 the mountain and peeped through. Calling to his companion he told
 him to look and see what is before them. There the}' saw a fire built
@@ -26728,8 +21846,6 @@ Apaches, so that we caught up our belongings. Our leader said that
 some of our friends must have shown themselves, which would cause
 the Apaches to take the alarm and to depart. As we listened the sun
 went down and the messenger arrived. He told us to hide and our
-
-
 papkikam nyimiki kontak mamutcuk am kuik aAa uwumkam akit.
 
 patient my relative!* I wan guef«ing there appoint and liis companion told .
@@ -26737,7 +21853,6 @@ patient my relative!* I wan guef«ing there appoint and liis companion told .
 Aik rsasikotc vaphai hai-itco va-amtctan p'ata kai-itam tcutcu. Atava
 
 Hurry then we run something understand he loud naid. Then
-
 vaha vapk toa-akatc rsa-ajk' am spa-apak(i) ikoatcitk uAumkam akit.
 
 true run mountain like his gap there slowly peeped his companion told.
@@ -26745,17 +21860,11 @@ true run mountain like his gap there slowly peeped his companion told.
 Aik miaki-iolin kony am inytcu Aulithi haitco va-amtctan pata kaitam
 
 Hurry here hold I there raised something understand junt as loud
-
 tcutcu. Tava vaha miak i-ioT(t). Ta-am i-itcuAuptk' tcum nyui kota
-
 said. That true here hold. And then he raised there saw then
-
 humaka orsan ap atavai inai. Huk u)ak a-ap kuli s'ap kaitam a-a
-
 one stump there built Are. That in Apache old right sound bones
-
 rsanv sku-uk viapai s'ap kai-itam rsavaj hinuk' sku-uk tcuhya
-
 pounillng good boy right iHjund adult condition shout good girl'
 
 s'ap kai-itam rsava[ t(*utciak, kotaam tcum kayak uAumkam akit.
@@ -26765,67 +21874,41 @@ right sound adult condition laugh, then there heard his companion told.
 Kamai opam kuksimhai hupait imik(i) tcu-ukhi akitank hupai
 
 There homeward fall at intervals where relatives found told where
-
 hastcoi-ikam kiiAajk' ap itcom u-ustan. Kony hajm tcoi-ikahim
-
 somewhere hollow there try hid. I here was like
-
 hiwukatc pitciniTthai tcuwu; tcumihiakhai hr-us tcohok uta
-
 around lay going around earth covenKl little dark in
-
 hastcoi-kani kaviliik ap haprs itcom humu kakan. Kotava vaha opam
-
 what kind hollow there will you look. He then true homeward
-
 kuksimfik woitcok tcorsaj tcovinyhim. Kota katho nyu wukatcilk
-
 full at intervals straight hlowly chortling. Then there me behind
-
 hastco pat koa-aki tatuki' varsai tatuku.
 
 what Dad flrewrx)d wrestle grans wrcHtle.
 
 utcuki hukt
-
 showed our
-
 imik(i) tuwoi tc^orsal tcovinyhim pata kai-itam tcutcL'. Kotava vaha
-
 relatives tons slowly choirtle not loud kept saying. Then true
-
 rsam piatcu-uk hai-itco kai-iham kotak tataf vaprs kain tcom kuvitp
-
 silent nothing something listen that sun westward glance
-
 kotak uta vai-i tcivia. Ilaspk' umakitaii iianukii iiyinuk(i) im-anysapa
-
 then in here came. Undecided told various Velativcs I guess right
-
 tcivia. Kotrs liapa tcoi-IkailiTnihai hupai htistcoi Tkain kaviilik ap
 
 CHiiic. rerhapx uc in siime <'oii(lilioii whero wluitkind hollow there
-
 itcom tr-rstuii p'atu kai-ituin tcrtc-r. Kava vahri hastcoi Tkam
-
 try huh.' not lotKl keptsayiim. II \nu> true wluitkind
-
 kavsipk ap isiatuviiitc tai-ihiin. Ka-ani ha]) tcoi ikahimtc' wor.sanyik
-
 hollow lluTf n-troat sitting. Thrrt- tlnTo \va^ in tliut j'on«lition arose*
 
 wrkatc ])it('iiiiitaliimuk tcoi-ikani nyrnarsunaliiiiiuk hi -istcohok ita
-
 uroun<I goin^' ar(.»un»l kind ' examine in the night into
 
 
 Rsam piatcu-uk hai itco kai-iham na-aks hupai va
 
 Silent nothing something listen might \vhere
-
-
-KITSSKLL] SPEECHES 373
-
 scout would come for us during the night. We went and concealed
 ourselves in a cave. Tlie scout came for us and we mistook him for
 the Apaches and wrestled with the grass and stones in our efforts to
@@ -26846,24 +21929,15 @@ was frightened and tried to hide himself.
 I sent the men with shield and club in two })arties in the east and
 west direction to meet at the camp of the Apaches. Souk* went straight
 with me. There, gathered about a stump, are the Apacluvs. When
-
-
 tuwoe rsanionyim. Kota katho nyi; wukatruk liastco pat koa-ak(i)
 
 us making,' I'loisr. It was behind nie at that place what bad tirewocKl
-
 tatrku varsai tatrku. Rsam piatcu-uk hai-itco kai-iham na-aks
-
 wrestle ^ra-s u resile. Silent nothing said M.nnihJMK li>ten might
-
 hupaiAa I tciki liikt imik(i) tuwoe rsamonyim p'ata kai-itam
-
 wiiere sh(»\vt<l our relatives usstraight ujakiu;,' iiois<' not loud
-
 ti'Utcr. Kotava vaha rsam piatcu-uk hai-itco kai-iham kotak i;ta
-
 kept >«i\ injJT. Il wns trur silent nothing said something lisi»'n that in
-
 vai teivia. llaspk rmakitan nanukii nyimik(i) na-amysupa tcivia.
 
 here eaine. ru<le(id<<l told various relatives KUf^sVi^'ht ••aine.
@@ -26871,58 +21945,32 @@ here eaine. ru<le(id<<l told various relatives KUf^sVi^'ht ••aine.
 Pia-ava wukatc hatai ta pia-ava wukatc os ku-ik p'ata kai-itam
 
 Not good around sl«)ue sitting not good Hroun<l tree stand not loud
-
 tcutcu. Kota-ama niakai tcokak(i) ikuT, uhokit an oama thokit
-
 kept Maying. Ami the magician darkness fall. si<le by side there vidlow sidt- by side
-
 an mata. Kotak ivantc(u)kovak hukatc sisiamp mairsk tci'. Ivotak
-
 there ashy. That jerked with very right eov»'rc<l placed. That
-
 uta am kurs karsk am pa;atp utcutckihim. Hi -is tcohok rta am
-
 in there fall sleep there i)erhaps of himself dreampt. Sonir night in there
-
 bad
 
 Inyiak hap utatam rsat utco tava hi kial ])rikrni sii-rhuki
-
 waked that Icli liiniMli how do it was loii^' atjo c.it" h liiin older brother
-
 nydrsi pitc huntata nyhaki vat hik t<'i\ia. Kipiny nyrita
-
 younger brother niotlu-rs lather's I guess be <-aiiu'. N.. tiling' %een
-
 yoiniLMT l.roth.r younger brother
-
 hrmatekam \ant hik rsakit ai-Tmi;. Krpiny iiyi ilu ha.>teo hohokl
-
 peopb' k'liesv -ot in among going. Nolliin;} 've.ii what food
-
 vant hik ho. Krpiny nyrita rsotak(i) vasip(i) \aiil hik i. Kupiny
-
 guess ate. Nodijri;: seen water take L:iie>v ilrink. .Nothing
-
 nyuita hastco troi-itak vant hik tcoi it t . llap ala-atatk'
 
 "seen what property guess «>wn. I liai lie thought
-
 amahavai)k mok kate. Awao) kaof(w)k takakam kont am rta taf
-
 there then died lay. it was hard n»ole<l I then' in split
-
 tapanuk sia-alik takio pitcimitk' hotinyik takio pitcimitk' s'iamp
-
 in half east direction go around sunset tlirection carrv around right
-
 unam. Kontak hastco pat wi:m rsi'lit<*ut ita. Apai-T humaka
-
 meet. I w&H what uad with straightened jump. Up there one
-
-
-374 THE PIMA INDIANS fETH.ANx.eo
-
 our men heard of this from a messenger they sprang upon the enemy.
 We killed one who slipped upon the grass and fell down hill and
 another who stumbled upon a branch. We cleaned up everything
@@ -26933,8 +21981,7 @@ I turned back and my trail was downward. I reached home after
 slackening speed four times. When at the first drinking plaice I sent
 four of my sons to give notice of our approach. They told the old
 men and the old women at the villages and they rose and cleaned their
-faces and brushed their hair smooth. Then I came bringing the evi-
-dences of my victory. My land rejoiced with me and the mountain
+faces and brushed their hair smooth. Then I came bringing the evidences of my victory. My land rejoiced with me and the mountain
 donned its headdress, the trees took on gladness. We notified our
 relatives to the east, west, and south, that we might rejoice together.
 
@@ -26943,57 +21990,33 @@ serious thoughts of the wavSte; the celebration of victory may become
 unpleasantly riotous.
 
 orsan ap p'ata kai-itam tcutcu. Kontak aitk' ita-ak ap kursk
-
 stump there not loud kept saying. I was after jumped pul against foot
-
 ap pia-atco tatiikitcotk' ap sutapam pui. Kao^j utcinykatc stco
-
 there nothing wrestle there smooth catch. It was his mouth with expert
-
 moa-atkamtc' ap ki-irsk ap itcuAaim. Kao) uhotckatc stco
-
 killing ' there bite there drag. It was his nails with expert
-
 moa-atkamtc' ap hokrsk'an itcuAaim. An wxrkatc katcim nanfika
-
 killing grasp there drag. There around laying various
-
 tcoi-itc(i) katc sinasik supapak kaAoi(d) katk puku opam ha-ahok
-
 powdered ground lay gathered slowly group took homeward face
-
 inyuwa. Kota it nyu wakita skoiwa^am utcu. Kontak aitk' ap
 
 I. That this me trail steep incline placed. I was after there
-
 ki-ikap rsars. Kao; rsotakiu nyi-ikdttc' kanvai*san pukukrsa kont
-
 four renewals. It was water drmkiug place near by fall I was
-
 huk uta am kursk am i. Kao!) kus tcootcoa-atcmakam hun3'U
 
 that in there fall there drink. It was kind of Hwifte^t my
-
 vipiapka kont hamam tcuk am hatcotcoa-a. Kota ki-!kap rsarsk
-
 youths I was had found there appointed. That four renewals
-
 mulifkai ikai-!tc kuli vi-ikam Sks vi-ikam. Kota kat si-itatakrsk
-
 center running to old remainder female remainder. That there put hands
-
 ivamik uwoihia mawoak kamiutakoa uhakvatutak uta mawoak kam
-
 arose his face touch rub off his mistletoe like head in put hand brush
-
 kaniutap ka. Konyak aitck' kus s'aptahatkam nyu moa-a oa-atc
-
 smooth. I was after kind of good feelings me killing holding
-
 antavai-i oa-apa. Huk hukatc am simai-irsk tcuk nytcuwu'jfika
-
 then brought. That with there covered placed my land
-
 nytata-aka isisisAutatc os nyu ku-ursa isitaktcotk isikok(I).
 
 my mountain very headdress tree my planted grasp put on top.
@@ -27001,19 +22024,12 @@ my mountain very headdress tree my planted grasp put on top.
 Hotinyik taki6 takam tuimik(i) kaitanuk sumatchait imutan
 
 Sunset direction sitting our relatives notify inform addreas
-
 katcim takid takam tuimik(i) kaitanuk sumatchait imutan sia-alik
-
 laying direction sitting our relatives notify inform address east
-
 taki6 takam tuimik(i) kaitanfik sumatchait imutan. S'ha-ap
-
 direction sitting our relatives notify inform address. That way
-
 hapuk humsH ulitk tatcoa kotc humo hap patmatatan huk pat
-
 that you think desires for now that lazy make that nad
-
 rsaika natc* apahiipta kaihakim kai-itc.
 
 slave guess on which noise said.
@@ -27031,12 +22047,9 @@ and I could not reach them all. I stood in the center of the world and
 looked about me. To the westward extended the black trail as far as
 the base of the black reed. I made four passes downward and four ^
 passes upward as l^efore. Again I returned and stood in the middle of
-
-
 la-ataAa tci-utcka nanukii teoi-ikam nyi-imik(i). Kavaot nyu
 
 We have come various clasKes ' rclaiivcs. It was me
-
 teuwutuka kontak knirsk im kukiAak im aai nyrnhak term nyul.
 
 land that stepped on in stood in looking an)un<l then saw.
@@ -27044,183 +22057,105 @@ land that stepped on in stood in looking an)un<l then saw.
 Im sialik woi kus toa han(y) tcukrsantalik katc kont huk aitk'
 
 In east toward kind of white my *' drawn line lay I that after
-
 am ki-ik p'tcikak ap tcu-uma-ak tcum nyuik ap rsant ap kuk
-
 there four cominj? there covered then *saw there base there stand
-
 krs toaha vapk. Kont ap rsant ap mawoak im koavit itakid
-
 kind of white reed. I was there base there reach in <lown strip
-
 kait tcuwr:^ ki-ik ap utam katc kak am pia-is kontak am
-
 this land four t here on top of lay this there not ricli 1 wtus there
-
 anotner
-
 pihukaitcotk' am tcux itaki6 kait tamkatcim ki-ik ap utam katc
-
 mistaken there bound atrip this above laying four there on top of lay
-
 anotner
-
 kak am pia-is kontak am pihukaitcotk' am opam hap intcok im
-
 this there not rich I was there mistaken there homewani that went as in
-
 before
-
 tcuwu) s L taf kukiwoa. Am a-ai nyunhak tcum nyuik im ho!|inyik
-
 land center stand. There look m various then " saw in west
-
 directions
-
 woi kus tcok nyi: tcokrsantalik katc. Kont huk aitk am
-
 toward kind of bhiek my drawn line lay. J was that after there
-
 ki-ik p'tcukak ap t<»u-uma-ak tcum nyuik ap rsant ap kuk
-
 four Koing tliere there covered then saw there hase lliere stand
-
 kus tcok vapk . Kont ap rsant ap mawoak Tin koavit itakid
-
 kind of black reed. I wa>* there base tiiere rent h in down strip
-
 kait tcuwu4 ki-ik ap utam katc kak am pia-is kontak am
-
 this lan<l four there on top of lay this there not rich 1 was there
-
 another
-
 pihukaitcotk am tcuxit^ikio kait tamkatcim ki-ik ap utam katc
-
 mistaken tliere bound strip this above laying tour there on ton of lay
-
 another
-
 kak am pia-is kontak am pihukaitcotk' am opam hap intcok
-
 this there not ricli I was there mistaken then; homewani that went a.s
-
 before
-
 im tcuwui s utaf kukiwoa. Am a-ai nyunhak tcum nyuik
-
 in land center stand. There in various directions then saw
-
 looking
-
-375
-
-
-876 THE PIMA INDIANS [eth. ann. 26
-
 the earth. Looking about me I saw in the south ^ the Sea god, to whom
 I loudly cried for swiftness, dreams, visions, magic bow and arrows,
 immunity from cold, thirst, and hunger, and accuracy of aim. These
 favors he gave me tied in a bundle and I bore them away to my home.
 In the north were the four living streams* stretching in a line, behind
-which sat the Apache magician. His camp tire shone out upon a red-
-dish reed, which I went and easily pulled out, though I thought I could
+which sat the Apache magician. His camp tire shone out upon a reddish reed, which I went and easily pulled out, though I thought I could
 not. With this reed I scattered the fire, destroyed his food and water.
-I did this because 1 feared him, yet when 1 had finished I was not satis-
-fied. I returned to my home and stood in the center of the land.
+I did this because 1 feared him, yet when 1 had finished I was not satisfied. I returned to my home and stood in the center of the land.
 Again I looked around me and saw in the heavens Talking Tree.
 
 avarsan hut vata katc kont huk woT iahap nyu tcotcohimiik
-
 theru then that laid lay I was that toward hero me coming
-
 ap supapak(i) tcuum&-a. Anya-am sisk ai-itam imutc rsoak. Kota
-
 there slowly covered. iVas very loud address cry. This
-
 pinyi; hovitc ku naniika tcoi-ikam ukuofkutalik sku-uk tcu-utclk(i)
 
 notmc uusulflnh kind of various things his strength good dreams
-
 tSnalim haitco nyuita. S'apfikam kat kia-atkam sulu ta-atam vapk
-
 visible something "saw. (lood bow string straight fly reed
-
 tcoi-ita. HuoAastalik kostallk piohokistalik tcoatcmatalik suliw!
 
 smooth. Inured to cold inured to inured to hunger swift accurate
-
 thirst of dim
-
 tallk. llakia katcim nankoaa tcoi-itcik pinyuhovitcitk' siskavitcim
 
 Many laying various occupations unselfish very narrow
-
 huntak(i). Kontak siskavitcim tak opam ha-ahak inj^u woa. Kaim
-
 held. I was ver>' narrow hold liome- face me toward. In this
-
 ward diriK'tion
-
 imnuk(i) ait woi ku vipukam rsorsok(i) ki-ik apmaitam wuArftc
-
 north field toward kind of remainders waters four successive stay
-
 konyak kakhai am sikukshim. Kainot wukatc katcimtc huk
 
 I was across there falling. In this around lay stay that
-
 wrkatouk makai am ta. Ha-as siAftt muhvtam nata. An wukatcik
-
 anmnd about magician there sitting. Large flames light fire. About around
-
 stcohokmom sitaiiattc' katc, huk hokit am am katcik' s'wukiom
-
 darknc««H shone lay that edge there there staid reddish
-
 rsotakitc' huk utca am ku-uk huk kus svvukiom vapk. Am
-
 water that in there stand that kind of reddish reed. Tliere
-
 pihupai iniacut hastcokatc tatcoi-itcim tcoi-ik. Kontak huk(i)
 
 nowhere near something powerless condition. I was that
-
 sispathiik ulitk huk imulivitahimk antaprssuputam antcum
-
 very determined thought that dodging toward I feared there I
 
 puk antaprskam hop(u). Antak hukatc huk makai nata am a-ai
-
 grasp I did pulled out. Then with that magician fire there both
-
 sikantat. SkaAakam hastco hohokitc ap iawoitc. Kus vavinyikam
-
 dire<ti<>ns <:loylng what plenty of there thrown Kind of quenching
-
 s<'atteri*d. food away.
 
 rsotiiki vasipitc; up sivasipowitc. Antak am (p)rstcum hukaiitcotk
-
 water take a drink tliere empty. Then there make that resemble
-
 in a enp for some one
 wholsab.sent
-
 tatcoa, kaowo^i pihukai-i. Kont opam hapintcok im tcuwu)
 
 plan, it was not that. 1 was homeward just as before in land
-
 s'utaf kukivoak am a-ai nvunhak tcum nyri. Ava ittamatcim
-
 center stand tin-re lx»th <lireeti<)ns then saw. It was this above
-
 l<H>king
 
 "Vala Katc. ^VipOkam.
 
-
-BUssELL] SPEECHES 377
 
 Branches ext<}nded in the four directions; that toward the west held
 the bhu'k wind, which came down upon me and, taking mo by the hair
@@ -27235,28 +22170,16 @@ grasped, swung, and slowly carried me to the edge of the earth. This
 he did to inure me to hardship. Now I thought that all was done, but
 it was not.
 
-I returned to my home and stood in the middle of the land. Look-
-ing about 1 again saw above me Talking Tree, bearing on its western
-
-
+I returned to my home and stood in the middle of the land. Looking about 1 again saw above me Talking Tree, bearing on its western
 parsa kuk hunyiaktam os. Am a-ai snanitUtc krk. Tm hotinyik
-
 near tnnt kin«l tnlking tree. There both directions siaiul. In sunset
-
 uiunr branclK's
-
 wo! imamahaktc hrk tam am kuk krs tcok 1iL()Al|((1). Amtcut
-
 towur«l hniiicli that on there stand klnti <tf bhu'k wind. Therefrom
-
 a-akrsp ihodonyik iany ma-atam n^^u rsak tamatcim parsa ki-ik ap
-
 down wcnidowii hi-re overliefl<l me grasp above near below four there
-
 sinyrvitotk' amtci t srpapak(i) inyu hodontahinulk tcrwu:! hohokit ap
-
 me swing thenMnmi slowly me down land edges there
-
 a-ai sinyu kukioliktc. Avapihaskam haitco tathiik nyuaktc ap nyi: tco.
 
 both me tix at I'dLres. it was nothing wlmt feel ine told there hu: do.
@@ -27270,59 +22193,35 @@ Tl was in (Mi-an toward branch that top tliere stand tliui kind of bitter wind.
 Amtcrt a-aUrsp ihodonyik iany ma-atiuu nyr rsak taniatcim parsa
 
 Therefrom down went ilo'wn here head top lue gra«<p sky near
-
 ki-ikap sinyu vitotk' am tcut supapak(r) imyu hodontahnnuk tcuwu;
-
 four times me swing there from slowly me lowered land
-
 hohokit ap a-ai sinyu kukioliktc. Ava pihai»kam haitco tathak nyu
-
 edges there lK.)th me stiindlng. It was nothing thing feel me
-
 directions
-
 aktc' ap nyu tco. Im sialik woi imamahaktc' huk tam am kuk huk
-
 t4)ld there nw do. In east toward bmnch that on there stand that
-
 kus toahi wild. Amtcut a-akrsp ihodonj^k iany ma-atam nyu rsak
-
 kind of white wind. Therefrom down went <iown liere head tof) me grasp
-
 tamatcim parsa ki-ikap sinyu vitotk' amtcrt supapaki inyu
-
 sky near four times me swing from slowly me
-
 hodontahimuk tcrwr:| hohokit ap a-ai sinyikrkioliktc'. Avapihaskam
-
 loweri'd land edge-^ there both m\- >tan«i. It wa> lujthing
-
 direction'^
 
 haitco tathak nyi aktc' ap nyutco. Srhl krkam turn am krk ku
-
 thing Iffl liie tol<l tlh-re ine do. Stniiudit -t.mdin- oii tlurc >tandkindof
-
 vinyom hi wiid. Amtcut a-akrsp ihodonyik iany ma atani nyu rsak
-
 licking wind. Therefroni down lowered liere lic.id lop liie gra.sp
-
 tamatcim parsa ki-ikap sinyu vitotk' amtcrt srj)apak(i) inyu
-
 sky nt'ar four tiuH-s me swing from sltiwly me
-
 hodontahimuk tciwi) hohokit ap a-ai sinyr krkiollktc . Ava
-
 lowered land e<lges there both me stand. It wa.S
 
 <lirections
-
 pihaskam haitco tathak nyu akt<.;' ap nyi tco. Hap atjivainytco.
 
 nothing thing feel nie told there ine do. There finished tests.
 
-
-878 THE PIMA INDIANS [bth.an.v.26
 
 branch the black lightning. This came in a thunderbolt, which* split
 the earth and made a furrow toward the north an far as the Apaches.
@@ -27339,10 +22238,7 @@ rushed upon the Apaches and killed them without difficulty. With
 
 Kontak amursptcum hukai-itcotk' t'tcoa kao^ pihukai-i. Kont opam
 
-I was there theu that thing (or that) desires it was not that. I was home-
-
-ward
-
+I was there theu that thing (or that) desires it was not that. I was homeward
 hapinytco. Im tcuwuij sVtaf kuklwoak am a-ai nyunhSk tcum nyui.
 
 JiiHt as before. In land center stand there both "looking then saw.
@@ -27352,86 +22248,49 @@ directions
 Konta tamatcim wol inyiak tcum myui. Ava it tamatcim parsa kuk
 
 I was sky toward l<>ok then saw. It was this sky near stand
-
 huk ku myiaktam ostc am a-ai sunanaldtc' kuk. Im ho4in\^ik woi
-
 that kind of talking tree there both branches stand. In sunset toward
-
 directions
-
 inaldk' apta kus tcok woeham. Am u^ sikfiponyik ihodonyk amt
-
 branch there kind of black lightning. There in explosion descended there
 
 Hitting
 
 Lia sikukioAvoak huk tcuwu'^ am kavitc sihioftanuk tuwoe katcim
-
 in stand firm that land there narrow furrowed us opposite laying
-
 tcuwu; tam am kokowoitc. Huk fiitk' huk viapal ipfitak am
-
 land on there points reach. That after that youth soul there
-
 sitaniilltk' aptco. Aptarsa prsoi(d) huk nyr apfitak huki atava nyu
-
 visible that do. Disclose throw that my enemy that me
-
 woitatk' haptco. Im katck' woi inaldk' apta kus tatk(i) woeham. Am
-
 forme made. In ocean tow^ard branch there kind of blue lightning. There
-
 sitting
-
 uta sik&p&nyk ihodonyik o-os aptcotcim am uta sitafutrsk am a-ai
-
 in explosion descended trees standing there in split there both
-
 sinyuntc. Aptarsa prsoi(d) huk nyu apfitak huk(i) atava nyu woetatk'
 
 directions Disclosed through that my enemy that me forme
-
 throw.
 
 haptco. Im sialik woi inaldk' apta kus toaha woehfim. Am uta
-
 made. In east toward branch there kind of white lightning. There in
-
 sitting
-
 sikapanyk ihodonyik ta-ata-ak tcotcim am uta sikamtrsk am a-ai
-
 explosion descended mountain standing there in split there both
-
 directions
-
 sinyuntc. Aptarsa prsoi(d) huk nyu apfltak huk(I) atava nyu
-
 thrown. Disclosed through that my enemy that me
-
 woetatk' haptco. SuT(d) kukamt apta kus stcutak(i) woeham. Am
-
 for me made. Straight standing sitting kind of blue lightning. There
-
 there
-
 uta sikapanyik ihodonyik huk tutamatcim am uta sik&mfltanflk ap a-ai
-
 in explosion descended that our sky there In split there both
-
 directions
-
 sitarswoa. Aptarsa prsoi(d) huk nyu apiitak huk(i) atava nyu
 
 Hy apart. Disclosi'd through that my enemy that me
-
 woetatk' haptco, Huk aitk' inyof-ihai. Kont huk liitk' ita-ak ap
-
 for mc made. That after me pushed. I was that after jumped there
-
-
-BUSSELL] SPEECHES 379
-
 gladness in my heart I giithered tiie ovidonees of my victory and
 turned toward homo.
 
@@ -27441,23 +22300,15 @@ unpleasantly riotous.
 
 
 kursk ap i)ia-atco tatkitcotk ap sutapam put. An wukatc katcim
-
 fell UuTt' notliiii^' wrc'slle there smooth take About around laying
-
 nankatcoi i tcikatc simasik supapak(i) kawoikatk puk opam ha-ahak
-
 various beloiiKintrs j^athered slowly grouped grasp honn'- around
-
 lay ward
-
 iniyu woa. Ilapuk humsa ulitk tatcoa nanka tcoi-ikam n3'U imik(i)
 
 me towanl. You now thought desire various sorts me relatives
-
 koto humo hap patmatatan huk pat rsaika natc apa-apta kaihakiui
-
 wc DOW that lazy make that oad slave us right discord
-
 kai-itcitan.
 
 said.
@@ -27479,31 +22330,20 @@ we went on. I brought my young men together to kill rabbits, rats,
 Tat tava tcutcka nandka tcoi-ikam nyi-imik(i). Tava ho:)inyik ikui
 
 Here wc came various clajtses my relatives. It was evening fall
-
 kuny huk uta moi-i nanukS tcoi-itcik tam mai-i tcuxitahim kuny
 
 I that in many different mrts on there placed for I
 
 a-apfita. Katatc s'ahatatctahim vapatckate s'ahatatctahim kakilftA-
 
-enemy. hovf his c&ww to dislike reed his cause to dislike be-
-
-tahimfik kasitahimilk s'ha-ap it&ta. Kota ho^inyik ikui kun}' huk uhi
-
+enemy. hovf his c&ww to dislike reed his cause to dislike betahimfik kasitahimilk s'ha-ap it&ta. Kota ho^inyik ikui kun}' huk uhi
 witch make sleepy projHjr make. It was evening fall I * that in
-
 moi-i nanfika tcoi-itcik tam mai-i tpuxitahim kuny fi-aputa. Ofitatc
-
 many ciifTerent sorts on there placed for I ^ enemy. Woman
-
 desire for
-
 wumatc vainultatc s ahatattttahimuk alitatc kainkimtatc sMhiitatctahim
-
 gather to lay with desire make dislike child his desire to embniec causes to dislike
-
 kakai^utahimuk kasitahiinuk s'ha-ap itata. Kota lu):)rnyik ikui kuny
-
 bewitch make sleepy proper make. It was eveniiig fall I
 
 huk uta moT-i naiiuka tcoi-itcik tam niai-i tcuxitahim kuny Ti-iiputa.
@@ -27513,43 +22353,26 @@ that in many different sorts on there placed for my " enemy.
 Wupa tcoi-ikani wumatc fiimulukatc wumatc nyiakiintatc s'ahata-
 
 Fellow-nian sort of with accompany with address make
-
 tctahim kakaitutahimuk kasitahimuk s'ha-ap itTita. Kota hotinyik
-
 dislike bewitch make sleepy proi>er make. It was evening
-
 iki I kuny huk uta moi-i nanuka tcoi-itcik tam niai-i tcuxitaliini kuny
-
 fall I ' that in many different sorts on there placed for my *
 
 ii-aputa. Hastco holiokimtatc rsot:iku) vasipitc i-iintatc sYihatatctahiin
-
 enemy. What eating <le8ire for water drink drinking make dislike
-
 desire for
-
-kakaitutahimuk kasitahimuk s'ha-ap itata. Ava it kuhirnutani s^hjltu-
-
-bewiteh make sleepy proper make. It was this kind of going
-
+kakaitutahimuk kasitahimuk s'ha-ap itata. Ava it kuhirnutani s^hjltubewiteh make sleepy proper make. It was this kind of going
 kai-ip inraahitcai-ip kamo-o. Kontavai-i ipui siAa; iiuhutain nyu
-
 hurry bend afternoon. I was catch flames burning n'ly
-
 kotak rsotaki nyu vasip(i). Varsun alhia tam atava utiu siatcokani
 
 !«tiek water me <lrink. Y()n<ier >iiiiill s.-n on tliey Juy lUML'ioiI
 
 nyu tcokakita kontuk tairsk tahiwoa. Am wrtcoin tatcoip srtatkim
-
 my <l}irkin-.s I \vll•^ pn-ss siltinu'. 'rh«n- bilnre me tlimkiim a«lji;stii!^r
 
 ■'Snn«i HilK in the K<-erv«.ir. u llohoknm r.--erv<'ir a i.'u miles iMtrth ot the l)«.uhle luitte-.
 
-3S0
-
-
-RUSSELL] SPEECHES 381
 
 and quiiils. Al)out noon wc moved on to Salt river and camped again
 in the evening. We had too nmch food and ate it half cooked. Next
@@ -27563,12 +22386,8 @@ antelope, beyond the red hill. Knowing the location of the small
 springs, they went to the low mountain. Others 1 told to grasp their
 weapons and run in a westerl}' direction. They ran through hushes
 and met those who ran in a line along the dry water courses until they
-
-
 kusTm. Kota s'hatkai nyu masitato kontavai ipui sjArq muhrtam nyu
-
 difficulties. It was hurry me early morning I was take llanus burning me
-
 kotak. Kamaintala ipupuhimuk varsun tcutckikut am antaAa ter.
 
 brand. Before me soon earned yonder rcplnec tlure I was placed
@@ -27576,75 +22395,44 @@ brand. Before me soon earned yonder rcplnec tlure I was placed
 Kota prstci ni sikftl muk tataf kotavai hrmap iojt krny yipiapka
 
 It was then round running sun I was ronu- loi,'i'tlu*r I * youths
-
 krnya am ha-akit. Kota ap ikukukuk alnaktc' aimrtrtam alkikW
 
 I w»is there tol<l. It was there striking little ear moving little house
-
 takam ala-antcta-atam tarspi ha-apam tiita. Varsan ki' mrtatam tani
-
 sitting small feathers way perform. Yonder kind of running top
-
-ataAa Ltcu siatcokam ntatajka kontuk tiiirsk taihiwoa. Ila-akia nyu-
-
-they plaee magieian my nun I was press sitting. Many my
-
+ataAa Ltcu siatcokam ntatajka kontuk tiiirsk taihiwoa. Ila-akia nyuthey plaee magieian my nun I was press sitting. Many my
 moaa tayak pa wutcom itatcoip sutatkim ki sim. A\ a it kihimutam
-
 killing raw before swallow thinking adjusting ditlirult. It was this kind of going
-
 s'hatkai-ip unadahitciap kamo-o. Kontavai ipui siAju muhutam nyu
-
 quiekly curved afternoon. 1 was grasp thmies burning my
-
 kotak rsotaki nyu vasip(i). Va-arsany nu'limlk hohokit an alsopatkam
-
 brand water me drink. Dry washes junction edges about eat'sclaw
-
 va-atkak konyuk aitc' pinatai hap tcoi-iteik. Alhatai kux piak
-
 dry wash I was after unfinished there eondition at the Small stone go around
-
 time of going. standing
-
 antaAa pitc. Alhaitkam tcotck' ap atava uteu siatcokam ntcokakita
 
 I was go around. Small iron tree standing there they placed magician my darkness
-
 kontuk tairsk tahiwoa. Ha-akia nyu moaa tayak pa wutcom tatcoip
 
 I was press sitting. Many me killing raw swallow before thinking
-
 siitatkim kusim. Kota s'hatkai nyu masTtatc kontavai ipui siAat
-
 adjusting ditlleult. It was (juiekly me early moriiinj^; 1 was grasp flame
-
 muhutam nyu kotak(T). Kamaint ala ipupuhnnTik varsi nv tcutckikut
-
 burning my brand. Before I soon carry yonder * ceremimial
-
 ground
-
 am antava tcu. Kota prstcom sikttl na k talaf kotavai-i humap iold
-
 there I was placed. It was make round run sun it was unite
-
 kun}' vapiapka konya am ha-akit. Kota am rsarsk taitcitk' ipum
-
 my *^ youtlis I was there told. It was tht n- Kra^-p ran up you
-
 athai. A|(d) rsarsukik kakhaip ukakutahiinrik al Aik Kamaik
-
 run after. Small canyons crossed they killinu' -innll red thin
 
 Taxtcoi'Mm iava. Aid i\sotak(i) worsutak amtcrt takitak takitakai(d)
 
 end of in lull. Small water came therelrom n-lrasr release small
-
 hatai kux ap haahok i-iwoa huk wupukatc. Konyak vi-Ikam akituk
-
 stone standing there face home that first. I was remainder told
-
 kunv vipiapka kota am rsarsk hodon takio ipum athai. Ai(d)
 
 my" youths it was there grasp sunset direction you run after. Small
@@ -27652,21 +22440,17 @@ my" youths it was there grasp sunset direction you run after. Small
 <i Camel Back mountain, near Scottsdale.
 
 
-382 THE PIMA INDIANS [bth. ann. 26
-
 reached the place where many yuccas stood. They proceeded in two
 lines, with a narrow interval between them. Unacquainted with the
 country they went forward, finding deer and antelope, which they
 killed. Camping on the summit of the small mountain they ate their
 venison half raw. There they made preparations for continuing, as the
-time fled swiftly on. Taking up ray possessions and a supply of veni-
-son for the next day I went forward to camp at the small Gravelly
+time fled swiftly on. Taking up ray possessions and a supply of venison for the next day I went forward to camp at the small Gravelly
 Water. I renewed preparations when I halted at nightfall. Morning
 came quickly and I went on. During the next day I addressed my
 young men, telling them to go and kill mountain sheep. They went
 on to the spring under the kam tree, where they camped and continued
 their preparations for war. Morning came quickly and I conjured the
-
 rsarsai-ikam fiitk' ursarsaittahimilk ai(d) vaptfipat kitcik an im iaAa.
 
 grassy after penetrate small shade door about in fall.
@@ -27676,61 +22460,35 @@ abandoned
 Ai(d) va-arsany mulinuk amtcut takit&k takitak ai(d) otilkoa ta^^hak
 
 Small dry wanhes Junction therefrom release release small yucca setting
-
 ap hahok i-iwoa huk wupukatc. Ata ha-asp rsapalt nyu vi-i konta
-
 there face home that first. It was small narrow me remain- I was
-
 der
-
 iwors hastco pat wum. Hap horsp al(d) t€otcoi-ikam sitatakhim
-
 arose what oad with. That way small appearance handle
-
 utarspi matc»k' tatkA tcotck paphaikam nj^u viptckot tata vapkam nyu
 
 I not know wrestle black tails me deer white bellies me
-
 viptckot ntarspi ha-apam tata. Varsatc al(d) vapilk tam ataAa utcu
-
 deer I not way make. Up there small rcod top they stay
-
 siatcokam utatajka ttuk tairsk tahiwoa. Ha-akia nyu moa-a t&yak pa
-
 magician my sun I press sitting. Many my killing raw
-
 wutcom tatcoip sutatkim kusim. Ava it kuhimAtam .s'hatkai-ip
-
 swallow thinking adjusting difficulties. It was this kind going hurry
-
 before
-
 unadahitcaiip kamo-o. Kontavai ipui siAa^ muhrtam nyu kotak
-
 bond afternoon. I was gnusp flume burning my brand
-
 rsotak(i) nyu vasip(i). Konyarsp koewoa sihutcuiwoehim. A)(d)
 
 water iiiy drink. I was Htop down slide. Small
-
 a-atiikam rsotaki tam atava utcu siatcokam ttcokakita ttuk tairsk
-
 gravelly water top they placed magician my darkness I press
-
 tahiwoa. Am wut(;om tatcoTp sutatkim kusim. Kota s'hatkai-i
-
 sitting. There before thinking fixing difRculties. It wa« quickly
-
 nymasitatc kontavaii ipui siAfq muhutam nyu kotak(i). Kamaint ala
-
 me early morn- 1 waf» grasp flame burning my brand. Before I soon
-
 ing
-
 ipupuhimfik varsuny tcutckikut am antava tcu. Kota prstcom sikaj
-
 carry yonder " ceremonial place there 1 was placed. It was made round
-
 milk tataf kotavaii huniap \o\ kuny vipiiipka kunya am ha-akit.
 
 run sun it was come together I ' youths I wiCs there told.
@@ -27738,40 +22496,26 @@ run sun it was come together I ' youths I wiCs there told.
 Kotaprs am skavitcim nyu pia-aj ttarspi matck' tatk' rsum mamam
 
 It was there narrow me surround I not know wrestle kind heads
-
 tuhuhumakilt. Varsatc ai(d) kani wutca rsanak ap atava itcu
-
 our ones. Up there small kAni (tree) under spring there they placed
-
 siatcokam Ttcokakita koiituk tair.sk tahiwoa. Wi tconi tatcoip
-
 magician my darkness 1 was press sitliuK. Before thinking
-
 sutatkim kusiiu kota s hatkai-T nyniasitatc koiitak aiim li katc s'ahata-
 
 H<ljusting ditVieiillies J \va» <niiikly me%'arly morninK J was liaiiiits his eaUM"
 
 tctahiniuk katalc s'ahatatctahiniuk \ apatrkatc s'ahatatctaliiinuk rsotaki
-
 to dislike bow his cause to dislike ree«l his eause to dislike water
-
-
-RUSSELL] SPEECHES 383
-
 enemy's magician. May he not lilce his bow and arrows. In drinking,
 may he swallow hut his image reflected in the water. May he grasp
 the l)mnches of trees and fall under them exhausted. I sent my 3'oung
 men east, west, and toward tlie center. The scout to tlic east saw the
 freshly broken grass trodden by the enemy, lie sent a messenger to
 inform us of his discovery and to state that he would report as soon as
-darkness fell. Hastening to make ready, those in the lead rushed for-
-ward. The scout to the west ran in, telling of the discovery of signs
-in a canyon in that direction. 1 sent two experienced men to investi-
-gate; they moved carefully forward and discovered a camp of Apaches.
+darkness fell. Hastening to make ready, those in the lead rushed forward. The scout to the west ran in, telling of the discovery of signs
+in a canyon in that direction. 1 sent two experienced men to investigate; they moved carefully forward and discovered a camp of Apaches.
 Like birds my young men swept down upon and surrounded the
 enemy. I sent my white power and my bhie to aid them. After
-
-
 vasipitc siwutcii olinfik tcii. Kota ita-ak uta am vataprs u-ukutak pa.
 
 drink very under hold put. It was jumped in there fall his Hhadow swaUow.
@@ -27779,23 +22523,15 @@ drink very under hold put. It was jumped in there fall his Hhadow swaUow.
 Avaot osukat<' mamhaktc' huk isipui kotak wrtca am kurskai-ipop
 
 U was tree liis branch that granp it was imdcr there fall exhausted
-
 kontak ha]) tcoi-ikam term nyui-itak im sia-al wol wapai itcotk' hoj!-
 
-I was that sort then * saw in ea>i toward sent running sun-
-
-nyik woi wapai Ttcotk' ita wapai-itc. Huk aitk' kal hi -rkia rsars kota
-
+I was that sort then * saw in ea>i toward sent running sunnyik woi wapai Ttcotk' ita wapai-itc. Huk aitk' kal hi -rkia rsars kota
 st't toward soul run niuj; in mee. That after not vtt any moves it was
-
 sia-al takio tci t ta-ak iakursk hastco wapakam ki ikmiakatc* o-ok in
-
 eiv-st direction from llt-w here fall what hairy traees take in
-
 irso|(d). Kota am tconi nyuik nyi-imik(i) am wis tcukaitam utatk'
 
 throw. It was tlu-re lu'fore seen niy relatives thrre all prompt one felt
-
 am pi itcivix tcr. Kota hodon takio tcut ta-ak iakrrskaipi ny akit.
 
 there not allow st-e. It was sunset direction from fl<'w here toM fall mr ' told.
@@ -27805,23 +22541,14 @@ each other
 Humaka rsakik isipitcimim tcoi-ik am asutakowoim tcoi-ik am asuta-
 
 One canyon turn like there end ot hill mav like there maybe
-
 loucli
-
 hama tcol-ik. Avaot kus kamak(i) tcokiit makai kontak hap tcoi-ikam
-
 sitting like. It was kind gray owl magician I was that sort
-
 mamtcik ap imuk rsarsoa kotap sinhai-itam rtatk' worsanyik wukatc
-
 guess there f ) cry 1 wius friendly felt arose "^ around
-
 pitcimitahimuk ha-akia stcohokmomkatc mai-irsk aj) woak opam tciviak
-
 gr)ing many darknesH with covered there throw home- came
-
 ward
-
 nyu akit. Kotak uta hux isikuirsk kukiwoa kuny viapaku-ulka.
 
 me told. Tl was in already standi firmly on stand my' sons.
@@ -27829,35 +22556,19 @@ me told. Tl was in already standi firmly on stand my' sons.
 TcrwLia muti tain o-ofik ta-atam uwupakitk' nrnyik tam ap uiawa
 
 Land rnnninK birds flying assume form fly on there alight
-
 kavap(uk)' itci'Arlitk hikatc ap inuk ap tatk . Kao] hi s tandam nyu
-
 reed Icn^'tlxn with it there inclose there u rcstlc It wa- kind of wliite me
-
 piahakut kontuk teix ihimtcotk' hukatc ap ainu ikate hokit ap tarsk
-
 instrument 1 was hound no with it there urouiKl hi< edy:e there set
-
 hap titta. Kaoj krs tci'tak(T) nyu piahakut kontak terx ihiintcotk'
 
 that make. It was kind (»f hhie me instrunieni I wn-^ hound pushed
-
 hukatc ap ainuikatc hokit ap tarsk hap tata. Anta am vara hap
-
 with It there haunts Ids e<lge there set that make. I th<'re more that
-
 inytcok ])ia-atco pix imyu mulunaki. Kao; taprs katatc kontuk puk
-
 sanie way nothing take me turn around. It was ins how I was catch
-
 as before
-
-im tcuwu:^ s'utdaftcotk' kursk kai-ipop. Amtcut mamtcuk am hat-
-in land center fall exhausted. Therefrom guess there make
-
-
-884 THE PIMA INDIANS [eth. ann. 20
-
+im tcuwu:^ s'utdaftcotk' kursk kai-ipop. Amtcut mamtcuk am hatin land center fall exhausted. Therefrom guess there make
 destroying these Apaches I went on, but killed only an old woman/*
 I took their bows and then fell exhausted. Next I sent the swiftest
 young men to carry home the news of victory to the old men and
@@ -27871,35 +22582,19 @@ unpleasantly riotous.
 cotcoa kus tcotcoaatemakam nyu vipiapka kota ki-ik ap rsars. Ata
 
 ' stand kind of swiftest me youthH it was four there renewals. Tliey
-
 them
-
-mulifkai kai-itc kuli vi-ikam aks vi-ikam. Konj'ak aitc' kus s'ap-
-
-came running notify old man remainder old remainder. I was after kind good
-
+mulifkai kai-itc kuli vi-ikam aks vi-ikam. Konj'ak aitc' kus s'apcame running notify old man remainder old remainder. I was after kind good
 woman
-
 tahatkam nyu moa-a oa-atc antavaii oapa. Tak hukatc huk tcuwu;
-
 feelings me killing held I was had brought. That with that land
-
 am uta sipuputk' utcu. Tak hukatc stcohokmom am uta sikikifk
-
 there in roared self stay. That with it night there in shake
-
 utcu tata-ak am uta sirsarsafk utcotcoa. O-os tcotcim am uta
-
 self stay mountain there in echoed stand. Trees standing there in
-
 simokofk utcotcoa. S'ha-ap hap humsfi ulitk'' tatcoa nanilkS tcoi-ikam
-
 shaking stand. Way that you thought desire different sorts
-
 inyi-imiki kotc humo hap patma tatan huk pa:> rsaika natc apahapta
-
 my relatives we now that lazy make that oad slave we proper
-
 kaihfiklm kai-itc.
 
 noise said.
@@ -27912,55 +22607,36 @@ THK WAKPATH, FOFKTU SPKKCH
 
 We have come thus far, my brothers. In the east there is White
 Gopher, who is skillful with his teeth. He was friendly and came to
-me after comin*^ out to the surface four times on the journey. Look-
-ing in all directions he saw that a plan had l)een formed, in accordance
+me after comin*^ out to the surface four times on the journey. Looking in all directions he saw that a plan had l)een formed, in accordance
 with which he slowly approached the enemy, appearing at the surface
 four times during the journey. He gnawed the power of the enemy
 and sank their springs. He saw that the wind of the enemy was strong
 and he cut it up. He gnawed in short pieces their clouds. They had
-
 lat tava tcutcka nanuka tcoi-ikam nyi-imik(T). Ava im sia-lik
 
 Here we came various classes my relative-^. It was in oast
-
 taki6 kr tainrun Tcufha. Kotpk' hastco ski-itckatkani kontak hap
-
 diret'tion kin<l of white ^opJi^T. He is what gnawer I was that
-
 tcoi-ikam mamtci k ap imuk rsarsoa kotap sinyhai-ikui-itam utatk^
 
 sort ^,'^e^'- there my cry it was * friendly felt
-
 amt<!Ut ku tan^am utcohokik woak huk aitk aj) ki-ikap
-
 therefrom kind of white itself darkened lay that after there four
-
 na-akanuk makai natji tcumuk hokit an tahiwoa. Am a-ai
-
 appeamnees inaKieian lire all over edges about sitting,'. Tliere four
-
 nyunhak term nyrlk avak makai vakit^i tanattc katc. Kot huk
-
 directions lookinj^ then saw it was magician trail whitish lay. That that
-
 fiitk' am ku ttntam utcohokik woak huk aitk' ap ki-ikap
-
 after there kin<l of white itself darkened throw that alter there four
-
 na-akanuk ap supapak(i) tcuma-ak n3^u aaputa. Avak tcuw^ut ap
-
 appearances there slowly covered my enemy. It was land there
-
 katc toa-ak ap kuktc' tcom s\'naki-itc kux u-ulit kotak am
-
 lay mountain there standing it hanging standing lie he was there
 
 Ixdieves
-
 sirsa-arspaj ki-ikoamia. Avak rsarsanftkam rsotak(i) tiita-atc tcom
 
 8hort bitten off. It was springs waters put it it
-
 s'unaki-itc wutc i -ulit tak am siki-ikarsahimuk am sitco-otcpit.
 
 hanging layini; believes that there continue biting there sink it.
@@ -27968,35 +22644,22 @@ hanging layini; believes that there continue biting there sink it.
 Avak huwuikatc ava tcom tcoviomatk' u-iiit tak am sirsii-arspai
 
 It was win<l lay it wa^ it like land thought that there short
-
 ki-ikoamia. Avak tcuAakikatc ava tcom stcova-akupatk'
 
 bitten otT. It wa^ clouds his it was it very sprinkle
-
 u-ulit tak am >irsa-aispa| ki-ikoamia. Avak humatckam
-
 bethought that thin ^hort l)itten otT. It was people
-
 huk tarn aj) uimutrtam vatcom sku-rk ti r-utc kat
-
 that on there haunts not k«»x1 dreams he
-
 u-i'lit tan((l)iiini liaiteo nyuitatk' u-rlit tak am sirsa-arspal
-
 thought hriK'litly suiuetliiuK false seeing he thou^'ht that tli<Te short
-
 ki-ikoamia. Avak humatckam huk tam ap aimututam
-
 bitten olT. it was |»eople that (»u tliere haunts
-
 vatcom s'apukam kat kia-atkam, rsul ta-atam vapu(k)
 
 not be^t \h)w string, straight tlying retnl
 
 L'H tmi— 08 27 385
-
-
-386
 
 
 TWE PIMA IHDIANa
@@ -28020,87 +22683,56 @@ after t-ircling « round, howling, four times on the way. He f^uekod in ->^
 tbe power nt the eoeiny, their spring*^, tree.s^ wiudS| cloud^^j dream^^ ^
 
 tcoi-Tts rijtakQtcJtk' u-ulit tak am nirs^i-fin^paJ ki4kosmia. An
-
 cL^n hiul griLsper] be. thi>ujtbt time ih&Tc short bnu^ni^fJ. AUittt
-
 wrkiite katcini nanfika teoi-itekate si-ina'^ik svpa|mk(i) kaA<>ikatk'
 
 n round liLf 4iff<rrtnt }M'h>n^n|ij^^ gvtlbt^tvd NlJiwly :^'njLUi4
 
 puk opam ha-wkok i-iwoa. Ap opam kr tiintHm rt**ohok!k
-
 fiMtk liumuwufft nirti unnmd. 'nj**rc hmtit- wiiPl khid of whlH' iMiOt flarktiK'sl
-
 woak &Uk n\) ki-ikap niH-akaii mukui nata tcuinflk hokJt am
-
 plttfinl Hitler thi^n^ itun i4p|>ciirinu't!« irijitfi<'tnia
-
 takflta. Hmakaitkani a^atuui i^ivaks^Ilk
-
 wUh HtijnrmliiK
 Kjin-iul to nH tm
-
 fitrpapak(T) kaAo|katk^ pux am opam ku tan^iini iteohoklk woak
-
 fiitk' ap ki-Ikap mit-akau UAaMkut t<.*uniA-S. Hrk hrkat^
 
 Aftrr iheixn four dpfH^iiirunoc'!i IiU hc^ ooine. Thikt with
-
 y'lmi itrokiii t tatk' kofc hck hukat^* hirk teuwri am it^i niprputk
 
 (!ytiri*it Mt In* tbut ii'Ub ihm lunrt Mipte in nwir
-
 utcu, Im kateim takfo kus tectakO) tuwumukai woLpk' ha.stco
-
 plBPi<(K III biyiiig illrticdoit kiiul of Uhm ourwIdiUi eiipprt ivli&t
-
 toikok s'hokimutnm koritak hap teoi-Ikam mamii^uk ap imiik
-
 i*>n. gucHi tbere my
-
 utatk' amtcrt kvn gtcutak{i)
 
 f^l! tlu^rtt frf>tn kLnil or blue
-
 ki-ikhft sikAl mutk' hihinakhtrndk
-
 four round run ^houtln^
 
 
 nata tc*i rnflk
 Uiiu Ui Vfy Ci wt >a * V i -ika m
-
 tup sal. ac^iimiRfli!f
-
-
 rsftrsoa kotap sinyh^-ikui-itam
-
 ery It * friptidly
-
 utcohokik woak huk filtk' ap
-
 biMJtMPir tbrow ihM ufter tbere
-
 dftrkt^tjt'd
-
 makai nata t^^umtlk hokltan temakiwoa
-
 itiK^k^fitii flre evi'rywbere cil|?t£fl Untdn
-
-
 uyvL Avak makai valuta tamlte kate.
 rtt'ohoklk woak huk aitk' ki-ikha
-
 bin l(Mi'l| diirkene«l ihrow thj:tt alict tocir tiui<?f<
 
 ^upapak(I) tccmS-ak nyr fiaputa,
-
 toa-»k ap kuxtc ti^om s unaki-ite kux
 
 Avak rsfirsanfikam r8orsok(I) tfita-atc tcom s'unaki-itc wukatc os
 
 It was springs waters placed it hanging round tree
-
 ap kukam tcom s'unaki-itc tcotck u-ulit tak am sihafw(u).
 
 there standing it hanging stand he thought that there inhale.
@@ -28120,26 +22752,18 @@ KotL'k aitk' kvs .stcctftk(i)
 I[ H-i«> iLricr kind nf blue
 
 .sik^l tuL'tk' hihinaklmk ap
-
 nnjiitiil nitL Hhoutitig there
 
 Avak teuwLT^ ap kat-c
-
 a Will* land I ben? lay
 
 U-ulit kotak am rtihafw(n),
-
 be thougbt tt AviLfl thf.'^Tv Inbnkv
-
-
 rs
-
-
 ui-ssELL] SPEECHES 387
 
 and magic power, also their how.s and arrows. ( Jatherin^ up their
-other possessions he turned toward home. Enveloped in his })lue (hirk-
-ness he eanie to nic, circlintj^ around, howlin<jf. four times on the jour-
+other possessions he turned toward home. Enveloped in his })lue (hirkness he eanie to nic, circlintj^ around, howlin<jf. four times on the jour-
 ney. Leaving all that he l)rou(i:ht, he went home. trav(»lintf throuijfh
 his blue darkness and cirelin^ around, howlin^^-. four times on thcMvav.
 He rejoiced at his deeds, jumping in the four direetiouN, and in the
@@ -28148,8 +22772,7 @@ morning all rejoiced with him.
 In the west is Hlack Kangaroo Mouse, an expert thief, upon whom
 1 called for help. Hi* was friendly to i\u\ and enveloped na* in his
 mantle of darkness, making four halts on the way. After surveying
-the situation hti ai)proved of my plan. Sending forth his hlack dark-
-ness he pushed his way through it to the enemy, making four stops on
+the situation hti ai)proved of my plan. Sending forth his hlack darkness he pushed his way through it to the enemy, making four stops on
 the way. He opent^d the .sack containing the most prized magic prop-
 
 Avak tcuvakikatc tcom stcova-akupatk' i-i lit tak am sihafw(u).
@@ -28157,9 +22780,7 @@ Avak tcuvakikatc tcom stcova-akupatk' i-i lit tak am sihafw(u).
 It was cloud.s}ii> it sprinkle thon^MU tlml tlKTo inhale.
 
 Avak humatckam Ink tam ap aimrtrtam vatcom sku-uk
-
 n WrtH pcopk' ilmt on then? haunt-- it was gcMwl
-
 tcr-rtckatvk r-rlit taiuam haitco nyuitatk' u-rlit tak am ^ihafw(u).
 
 rlroHUi iliouuht white thing ' seen Ihouu'ht tlmt there inhale.
@@ -28167,1229 +22788,43 @@ rlroHUi iliouuht white thing ' seen Ihouu'ht tlmt there inhale.
 Avak hrmatckam Ink tam ap aimuti'^am vatcom sai)rkam kat
 
 It was proph' that «»n there haunts it wa*- l)e>t bow
-
 kia-atkam rsij ta-atam vaprk' tcoi-ita rsiikitcitk r-i lit tak
-
 string straight Hying reed clean had graspfd he thought that
-
 am sihafw(u). An wrkatc kat<*im namlka tcoi-itckatc sinasik
-
 thi're inhale. About rouinl lay dilTerent b«'l(»n;;ini:s gathered
-
 supapak(i) kawojkatk' prk ha-ahak i-iwoa. A|) opam kus
-
 slowly grouped take turned bjuk. 'I lure homeward kin<l of
-
 stcvtak(i) I'tcohokik woak huk aitk' ap ki-ikha sika] mrtk'
 
 blue itself durknud throw that after there lour round run
-
 makai nata hokit an takuta. Smakaitkam a-atam isivakssitk
-
 maKician lire edge alM)Ut release. Expert musician peoph- a i»r«'i)are<l i)la<?e
-
 with -oiiietning
 spread to sit on
-
 tam tArsi'woa. Vi-ikam srpapak(i) kawo|katk' pik opam kus
-
 on placed. K« mainder slowly group<Hl take homeward kind of
-
 stci'tak(i) I'tcohokik woak aitk' a]) ki-ikhtl sika] mrtk'
 
 blue itself dark«ne<l throw after there f(»ur round run
-
 hihinakhinn'ik lAaikut tciina-a. Hukatc s'hai-itcokam i tatk'tc' am
-
 sh<»uting his he«l covered. With i-ouc..ii felt there
-
 a-aip tcr^akiwoa. Hukat<' hi'k sia-aj tcotcim am rta
-
 all din-etions tlnid. With that ea^t vtniidiiii: tluT.- in
-
 yirsarsafuktc tcote. Im hotinyik takio krs tcok naliakia.
 
 <'eho«-d ^tand. In suiiset <lireetion kind ci l>la<'k kangaroo
-
 lliousc.
 
 Wot])k hast<'o> iskMUi kontak hap tcoi-ikam uianirt<i k ;ip iinuk
 
 Exjiert sonifthin- i..!.l..i- | ujis that sort -n.— thrrc my
-
 rsarsoa kotak >inyh:n-iki i-itam rtatk' amtci t ki^ >tcok i tcoliokik
-
 cry itwa^ ' iriiiiiHy fi-li there li'-tn kiii'l <'i l.l;i( Ix it-tli (jarkfued
-
 woak aitk ap ki-ikha tahiwoak makai nata lerniuk hokit an
-
 throw aitrr 'l.-if ii.iir sitting nuigician lii'- <..\<rttl «-.i-(v about
-
 tahiwoa. Am a-ai nymhak tcom nyiik a\ak makai vakita
-
 sit. Ihi'ie Jill' dire<tions looking then saw it wa- mauieiau trail
-
 sitanjuutc katc. Kot hi k aitk' kis stcok rtcohokik woak
-
 brightly lay. It that after kin<l of bla<k itst If darkened throw
-
 hrk aitk' am ki-ikha tahiwoak ap sr[)apak(i) tcrma-a huk
-
 that after there :our sitinig there slowly covered that
-
-
-z
-o
-
-<
-O
-<
-CO
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PU II
-
-
-b TCO'KUT NAK, holding a CALENDAR STICK
-
-
-a ANTONIO AZUL
-
-
-C KAEMA-A
-
-THREE OF THE AUTHOR'S PIMA INFORMANTS
-
-
-BUREAU OF AMERICAN ETHNOLOQY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. Ill
-
-
-CASA GRANDE RUIN
-
-
-• ^i
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. IV
-
-
-^ .
-
-
-' ^^"^i^^f^^
-
-
-B^^^?^^
-
-
-^^^^^^p^^^^^B
-
-
-flb_A^
-
-
-^^B^^^^^^B ^^^^1
-
-
-K
-
-
-M
-
-
-^^^^^^^^^p
-
-
-— I
-
-
-•^^S^^^^^^^^H
-
-
-^^^^^K
-
-
-~^~ ^J.
-
-
-"SiiirT^^i^fc^ M ^^~^^^^^^VI
-
-
-^^B "^^
-
-
-^ :
-
-
-^^^^I^BI^Ifeiii
-
-
-^^M^^^^^^^^M
-
-
-■^^
-
-
-^^d^^^^^^^^l
-
-
-rt SANTAN 'FROM THE WEST >
-
-
-h RUIN BELOW SANTAN (FROM THE WEST)
-
-
-r SWEETWATER i FROM THE SOUTHWEST)
-
-THREE PREHISTORIC PIMA RUINS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. V
-
-
-(t CASA BLANCA < FROM THE WEST)
-
-
-h SCHOOLHOUSE RUINS
-
-CASA BLANCA AND RUINS OF FIRST SCHOOLHOUSE
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PU VI
-
-
-C FIREPLACES
-
-
-■^
-
-
-r|i s ^^wT^^^^^^^^^I
-
-
-^^^
-
-
-I * ^^^^^1
-
-
-1^
-
-
-1^"%^
-
-
-"^^^^^l^
-
-
-KS
-
-
-Em
-
-
-^m^*^j>j^'^^^'^^
-
-
-.j^^^l
-
-
-m
-
-
-i
-
-
-^^H^Bita
-
-
-^jgjU^^^g
-
-
-^^1
-
-
-^H
-
-
-a FOURTEEN-POUND WHEAT LOAF; CORN BREAD; DOUGHNUTS
-
-PIMA BREAD, KITCHEN, AND FIREPLACES
-
-
-<
-
-
-CO
-
-<
-
-o
-
-o
-z
-<
-
-Q
-O
-O
-
-^
-
-Z
-O
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. VIII
-
-
-<f HA'NUM cactus 'OPUNTIA ARBORESCENS'
-
-
-h SAGUARO FOREST (CEREUS GIGANTEUS)
-
-TWO VARIETIES OF CACTUS
-
-
-z
-o
-
-
-UJ
-
-O
-
-u
-
->
-
-
->
-
-
-1
-
-
-iS'l
-
-
-~"^===^^:^^
-
-
-jL^ m
-
-
--3s
-
-
-1
-
-
-J
-
-
-IliHH^
-
-
-•/, —
-
-z •-
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. X
-
-
-a MESQUITE fPROSOPIS VELUTINA)
-
-
-*^^r^^^'^Sw^^9^^^^^^^^^Em^^^^BP^m^^'^^^^^ ^y '/ '^^■^^^k
-
-
-<
-
-
-^
-
-
-f-- ■•'*..^
-
-
-fr PALOVERDE iPARKfHSON(A TORREYANA^
-
-MESaUITE AND PALOVERDE
-
-
-Hi
-
-O
-
-z
-
-Hi
-
-
->
-
-o
-
--I
-
-UJ
-
-g
-
-CD
-
-<
-I-
-z
-
-D
-0.
-
-o
-
-CO
-
-D
-H
-O
-
-<
-
-o
-
-<
--I
--I
-o
-z
-o
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XIII
-
-
-^^^^^^^^^ • ^^^^^^^^^fc^
-
-
-1
-
-
-a WAR BOW
-
-
-<
-
-<
-
-
-Z ;
-
-Z
-
-<
-
-X
-I-
-X
-
-
-<
-
-I I
-UJ o
-
-o
-
-o
-
-z
-<
-
-UJ
-
-J
-o
-o
-
-^
-
-o
-
-z
-
-9
-
-a:
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XVl
-
-
-^1
-
-
-i
-
-
-iriH
-
-
-■
-
-
-WM
-
-
-^^^R^ 1 1 ' ' • '" ^^^^^^^^^fc
-
-
-^^^-^^^
-
-
-a SKASOwALIk hills CLAY PIT
-
-
-mMJff^^'j^M t
-
-
-[jl^ll^ ^ ^
-
-
-^'#^ ■ jllLadL^'/jft
-
-
-__ n^
-
-
-IPI
-
-
-. -^s^^^ Mam
-
-
-e CLAY PIT NEAR THE GILA
-
-
-")
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XVII
-
-
-^f^^Sk
-
-
-a ROLLING CLAY
-
-
-b SMOOTHING SURFACE AFTER APPLYING COIL
-
-
-i SUPPORTING VESSEL ON LOOSE SAND d DECORATING EXTERIOR
-
-PIMA WOMAN MAKING POTTERY
-
-
-TWENTY-SrXTH ANNUAL REPORT PL. XVMI
-
-
-m DOUBLE-NECKED CANTEEN
-POTTERY-POTS AND CANTEENS
-
-
-I
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XVl
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XX
-
-
-a ANCIENT SPOON
-
-
-h NEW SPOON
-
-
-d COILED BOWLS
-
-
-e DECORATED BOWLS
-
-POTTERY-SPOONS AND BOWLS
-
-
-BUREAU OF AMERICAN
-
-
-ETHNOLOGY
-
-
-fe^i^"- '^tf^^^^^^L
-
-
-tii.r':T*" '.'l^UH
-
-
-IIy imi
-
-
-%j \^V ^t '^t-^i^^Si^^H
-
-
-HHjE^/T^ii^ ' fw §S
-
-
-Wf
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXII
-
-
-g h
-
-BASKETS DECORATED WITH THE FRET
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXIII
-
-
-C f
-
-BASKETS DECORATED WITH THE FRET
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXIV
-
-
-• f
-
-
-BASKETS
-
-
-rh.
-
-
-BUREAU OF AMERICAN ETHNOLOGY TWENTY-SIXTH ANNUAL REPORT PL. XXV
-
-
-BASKETS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXVI
-
-
-BASKETS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXVII
-
-
-BASKETS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXVIII
-
-
-^
-
-
-lik
-
-
-m
-
-
-^H
-
-
-H
-
-
-X
-
-
-P
-
-
-« f
-
-BASKETS DECORATED WITH FLOWER-LIKE PATTERNS
-
-
-BUREAU OF AMERICAN ETHNOLOGY TWENTY-SIXTH ANNUAL REPORT PL. XXIX
-
-a h
-
-
-^J
-
-
-Wr-Vj^^H
-
-
-g h i
-
-BASKETS, UPRIGHT FORMS
-
-
-^
-
-
-rv
-
-
-BUREAU OF AMERICAN ETHNOLCXSY
-
-a b
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXX
-d e
-
-
-,^
-
-
-i sSf ISHP^
-
-
-1=^
-
-
-m^
-
-
-C 'i^
-
-
-f Wop ^a^K^
-
-
-jin
-
-
-■^is|t^
-
-
-1
-
-
-J
-
-
-W'
-
-
-■
-
-
-1
-
-
-H
-
-
-5.
-
-
-^■B
-
-
-H^H
-
-
-^^^^H~t
-
-
-■K.^ »«fT7n
-
-
-^-^^^H
-
-
-j?V^
-
-
-H^^^l
-
-
-^^^^^^H F
-
-
-)00^
-
-
-A
-
-^^L"^
-
-
-]^^^H
-
-
-^-"-^
-
-
-^^^^
-
-
-^^H
-
-
-BASKETS, UPRIGHT FORMS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXI
-
-
-« f
-
-BASKETS, UPRIGHT FORMS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXII
-
-
-j k I
-
-BASKETS, VARIANTS OF UPRIGHT FORMS
-
-
-<^
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-■
-
-
-^k,;\i MA
-
-
-|,|
-
-
-1
-
-
-^^^ ^
-
-
-ij
-
-
-^^P^Ir-V
-
-
-Ka
-
-
-^H
-
-
-■^^^J^^^l"! ^M
-
-
-^H
-
-
-* J ^^ ^i"^ i^fe^^^B
-
-
-HH
-
-
-^^^HST^BI^^ ^^^vIS^!
-
-
-f ji^^3
-
-
-flS^Tk^^^^esCT^
-
-
-'*»i-^^
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXIII
-
-
-YAVAPAI BASKETS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXIV
-
-
-a LOADING THC KIAHA
-
-
-h RISING WITH THE LOAD
-
-
-C THE LOAD IN POSITION d REMOVING THE LOAD
-
-WOMAN WITH KIAHA
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXV
-
-
-^
-
-
-1 A 1 ^H
-
-
-pPfnl^H
-
-
-■jHriAH^fli
-
-
-Bex ^ "i ™WBI
-
-
-Ww
-
-
-K - If flHtlO^H
-
-
-tPpq^HH
-
-
-m
-
-
-^
-
-
-a FRAMEWORK OF HOUSE
-
-
-(I SHED FRAME
-
-
-^^^1
-
-
-^M
-
-
-/> BLANKET DOOR
-
-
-/'STOREHOUSE AND WAGON SHED
-
-
-C EARTH-COVERED HOUSES c SHED DOOR
-
-HOUSES AND SHEDS
-
-
-z
-<
-
-o
-<
-
-Q.
-
-o
-z
-<
-
-z
-u
-I
-o
-
-i«^
-
-I
-
-CO
-
-D
-CD
-
-o
-<
-
-
-z
-<
-
-o
-<
-
-Q.
-O
-
-z
-<
-
-z
-u
-I
-o
-
-I-
-
-
-I
-
-CO
-
-D
-CD
-I
-
-o
-<
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXVII
-
-
-PIMA MAN, SHOWING COSTUME WORN IN HOT WEATHER
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXVIII
-
-
-PIMA WOMEN, SHOWING MODES OF HAIRDRESSINQ AND FACE PAINTING
-
-
-BUREAU OF AMERICAN ETHNOLCXSY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XXXIX
-
-
-a CEMETERY AT SACATON
-
-
-h CEMETERY AT STATANYIK
-
-
-C GRAVE AT STATANYIK
-
-CEMETERIES AND GRAVE
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XL
-
-
-liliMi!.
-
-
-OBJECTS FROM HAHATESUMIEHlN SHRINE
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XLI
-
-
-h HAHATESUMIEHiN SHRINE
-
-
-C SHRINE NEAR DOUBLE BUTTES
-
-CEREMONIAL HILL AND SHRINES
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XLII
-
-
-^^^^^^^r
-
-^L''^
-
-
-4, \
-
-
-< /I
-
-
-\'
-
-
-/ If,
-
-
-PIMA MEN AND BOY
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XLIII
-
-
-b MARICOPA ANTOINE
-
-
-jjirirtw
-
-
-C KOSPITO
-ELDERLY PIMA MEN
-
-
-n
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XLIV
-
-
-p1
-
-
-Rm
-
-
-a vi-cOk-ra-e-hjn
-
-
-b ka'mal tkAk, thin leather
-PIMA MEN
-
-
-/Ts
-
-
-BUREAU OF AMERICAN ETHNOLOGY TWENTY-SIXTH ANNUAL REPORT PL. XLV
-
-
-PIMA BOYS
-
-
-BUREAU OF AMERICAN ETHNOLOGY
-
-
-TWENTY-SIXTH ANNUAL REPORT PL. XLVI
-
-
-PIMA BOY AND WOMEN
-
-
-BUREAU OF AMERICAN ETHNOLOGY TWENTY-SIXTH ANNUAL REPORT PL. XLVII
-
-
-1
-
-
-@
-
-
-^^fff^fS/tj^*JKI^^^!S^^\^
-
-
-PIMA GIRLS
-
-
-^^4
-
-
-STANFORD UNIVERSITY LIBRARIES
-
-STANFORD AUXILIARY LIBRARY
-
-STANFORD, CALIFORNIA 94305-6004
-
-(415) 723-9201
-
-All books may be recalled after 7 days
-
-DATE DUE
-
-
-%

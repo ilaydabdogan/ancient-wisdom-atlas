@@ -1,121 +1,5 @@
 # The Eskimo of Baffin Land and Hudson Bay, Part I
 
-BULLETIN
-
-
-OP THE
-
-American Museum of Natural
-History.
-
-Vol. XV, Part I, 1901.
-
-
-New York :
-
-Published by order of the Trustees.
-1901.
-
-
-LIST OF ANTHROPOLOGICAL PAPERS FROM THE
-BULLETIN OF THE AMERICAN MUSEUM OF
-NATURAL HISTORY.
-
-PRICE
-
-A Table of the Geographical Distribution of American Relies
-in a Collection exhibited in the American Museum of
-Natural History, with Explanatory Text, by A. E. Doug¬
-lass (Vol. VIII, 1896). 22 pp. $0.75
-
-The Temple of Tepoztlan, Mexico, by M. H. Saville (Vol.
-
-VIII, 1896). 6 pp., 5 pi.50
-
-A Rock Painting of the Thompson River Indians, British
-Columbia, by James Teit, edited by Franz Boas (Vol.
-
-VIII, 1896). 4 pp.. .30
-
-The Decorative Art of the Indians of the North Pacific Coast,
-
-by Franz Boas (Vol. IX, 1897). 54 pp.75
-
-An Ancient Figure of Terra Cotta from the Valley of Mexico,
-
-by M. H. Saville (Vol. IX, 1897). 4 pp., 2 pi.40
-
-The Huichol Indians of Mexico, by Carl Lumholtz (Vol. X,
-
-1898) . 14 pp., 2 pi.50
-
-Marked Human Bones from a Prehistoric Tarasco Indian
-
-Burial-Place in the State of Michoacan, by Carl Lumholtz
-
-and Ales Hrdlicka (Vol. X, 1898). 20 pp., 5 pi.60
-
-Description of an Ancient Anomalous Skeleton from the Valley
-of Mexico, with Special Reference to Supernumerary and
-Bicipital Ribs in Man, by Ales Hrdlicka (Vol. XII, 1899).
-
-28 pp., 5 pi.5c
-
-The Eskimo of Smith Sound, by A. L. Kroeber (Vol. XII,
-
-1899) . 64 pp., 4 pi.80
-
-Symbolism of the Arapaho Indians, by Alfred L. Kroeber (Vol.
-
-XIII, 1900). 16 pp.25
-
-A Shell Gorget from the Huasteca, Mexico, by Marshall H.
-
-Saville (Vol. XIII, 1900). 6 pp.25
-
-An Onyx Jar from Mexico, in Process of Manufacture, by M.
-
-H. Saville (Vol. XIII, 1900). 4 pp., 1 pi.30
-
-Cruciform Structures near Mitla, by Marshall H. Saville (Vol.
-
-XIII, 1900). 18 pp., 10 pi.. . 1.00
-
-A Bilateral Division of the Parietal Bone in a Chimpanzee, with
-
-a Special Reference to the Oblique Sutures in the Parietal,
-
-by Ales Hrdlicka (Vol. XIII, 1900). 16 pp.30
-
-A Bronze Figurine from British Columbia, by Franz Boas (Vol.
-
-XIV, 1901). 2 pp., 1 pi. : 25
-
-A. J. Stone’s Measurements of Natives of the Northwest Terri¬
-tories, by Franz Boas (Vol. XIV, 1901). 16 pp., 5 pi. .80
-
-The Eskimo of Baffin Land and Hudson Bay, by Franz Boas
-
-(Vol. XV, 1901). 370 pp., 4 pi. 3.00
-
-Basketry Designs of the Indians of Northern California, by
-
-Roland B. Dixon (Vol. XVII, 1902). 32 pp., 37 pi. 1*50
-
-
-TRrucfcerbocfeer press, mew 3i)orfe
-
-
-BULLETIN
-
-OF THE
-
-American Museum of Natural History.
-
-
-Volume XV, 1901.
-
-
 I.—THE ESKIMO OF BAFFIN LAND AND HUDSON
 
 BAY.
@@ -162,9 +46,6 @@ Conclusion.355
 to
 
 
-2 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 List op Tales prom Cumberland Sound.
 
 
@@ -199,14 +80,11 @@ Man.174
 
 Constellation.174
 
-11. Origin of Thunder and Light¬
-
-ning .175
+11. Origin of Thunder and Lightning .175
 
 12. Origin of Fog.176
 
 13. How Children were formerly
-
 obtained.178
 
 14. Ititaujang.179
@@ -218,7 +96,6 @@ obtained.178
 17. Mangegjatuakdju.189
 
 18. The Emigration to the Land
-
 beyond the Sea.191
 
 19. The Spider.193
@@ -254,7 +131,6 @@ beyond the Sea.191
 34. The Girls who married Animals. 217
 
 35. Origin of the Red Phalarope and
-
 of the Web-footed Loon . . 218
 
 36. The Owl and the Lemming . . 219
@@ -307,32 +183,23 @@ Seal .235
 
 53. Tales of Angakut.240
 
-54. The Old Woman who trans¬
+54. The Old Woman who transformed herself into a Man . . 248
 
-formed herself into a Man . . 248
-
-55. The Man who transformed him¬
-
-self into a Woman .... 249
+55. The Man who transformed himself into a Woman .... 249
 
 56. The Woman who transformed
-
 herself into a Bear .... 251
 
 57. The Woman who became a Bear
-
 and killed her Enemy . . . 252
 
-58. The Artificial Skull that fright¬
-
-ened People to Death . . . 254
+58. The Artificial Skull that frightened People to Death . . . 254
 
 59. The Boy who harpooned the
 
 Whale.255
 
 60. The Bear that was transformed
-
 into Geese.256
 
 61. The Hermit . 257
@@ -344,12 +211,9 @@ into Geese.256
 Water.259
 
 64. The Woman who could not be
-
 satiated.260
 
-65. The Women who lived by Them¬
-
-selves .261
+65. The Women who lived by Themselves .261
 
 66. Tale of an Agdlaq.262
 
@@ -388,9 +252,6 @@ Raven.303
 81. Podluksak. . . .... 305
 
 
-i goi.] Boas, Eskimo of Baffin Land and Hudson Bay . 3
-
-
 List of Tales from the West Coast of Hudson Bay.
 
 
@@ -409,7 +270,6 @@ Page.
 6. The Black Bear.308
 
 7. How Children were formerly
-
 obtained.309
 
 8. Qaudjaqdjuq.309
@@ -450,9 +310,7 @@ Bird.320
 
 23. The Soul.321
 
-24. The Old Woman and her Grand¬
-
-child .323
+24. The Old Woman and her Grandchild .323
 
 25. The Angagok who became a
 
@@ -473,21 +331,16 @@ House .331
 30. The Owl and the Bear . . 332
 
 
-4 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 INTRODUCTORY.
 
 During a journey to Baffin Land which I undertook in 1883-
-84 for the purpose of geographical and ethnological investi¬
-gations, I spent considerable time at the Scottish Whaling
+84 for the purpose of geographical and ethnological investigations, I spent considerable time at the Scottish Whaling
 Station, Kikkerten, the property of Mr. Crawford Noble, of
 Aberdeen. During that year the station was in charge of
 Capt. James S. Mutch of Peterhead, Scotland, whose kindly
 interest and assistance facilitated my work very considerably.
 Ever since that time Captain Mutch has manifested a keen
-interest in Eskimo ethnology, and has utilized his almost un¬
-interrupted stay in Cumberland Sound to carry on inquiries
+interest in Eskimo ethnology, and has utilized his almost uninterrupted stay in Cumberland Sound to carry on inquiries
 on this subject. From time to time he has sent me valuable
 replies to inquiries regarding obscure points; and in 1897,
 when returning to Cumberland Sound, he kindly consented
@@ -514,9 +367,6 @@ gave me most interesting information on Hudson Strait. His
 successor in command of the schooner “Era,” Capt. George
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 5
-
-
 Comer, brought home from time to time interesting material
 from Hudson Bay, and, when starting on a two-years’ journey
 in 1897, promised to bring back a collection and notes from the
@@ -524,8 +374,7 @@ Eskimo of that region. On his observations and collections is
 based the following description of the Hudson Bay tribes.
 
 The material here presented supplements and rectifies in
-very material points my earlier description. 1 The illustra¬
-tions were drawn by Mr. Rudolf Weber.
+very material points my earlier description. 1 The illustrations were drawn by Mr. Rudolf Weber.
 
 In the spelling of Eskimo words, Kleinschmidt’s system has
 been adhered to, except that q is used for the velar k> and x for
@@ -538,9 +387,6 @@ retained. Such words are printed in Italics.
 For earlier literature, see ibid., pp. 410-412.
 
 
-6 Bulletin American Museum oj Natural History. [Vol. XV,
-
-
 I. TRIBAL DIVISIONS AND NUMBERS.
 
 The tribal divisions of the Eskimo of Cumberland Sound
@@ -549,14 +395,12 @@ have been discussed in my description of the Central Eskimo. 1
 The principal tribes on the west coast of Hudson Bay are the
 Aivilirmiut, between Repulse Bay and Chesterfield Inlet, and
 the Kinipetu of Chesterfield Inlet. South of the latter are the
-Koungmiut, Sauniktumiut, and the Padlimiut of Port Chur¬
-chill. The name Kinipetu is said to be derived from ki'nipoq
+Koungmiut, Sauniktumiut, and the Padlimiut of Port Churchill. The name Kinipetu is said to be derived from ki'nipoq
 (“it is wet”), while their proper name is Kiaknukmiut.
 
 The Aivilik say that another tribe who lived at Nuvuk, at
 the mouth of Wager River, was exterminated by them in a
-war-expedition headed by their chief, Oudlinuk. The Inuis-
-suitmiut were another tribe, who, up to about the year 1800,
+war-expedition headed by their chief, Oudlinuk. The Inuissuitmiut were another tribe, who, up to about the year 1800,
 occupied the region of Pikiulaq (Depot Island). They set out
 to avenge the death of the people of Nuvuk, but, when they saw
 the destruction wrought by the people of Aivilik, they returned
@@ -570,8 +414,7 @@ of the Aivilik, comprising 248 individuals, — 61 men, 80
 women, 65 boys, 42 girls.
 
 It appears, on the whole, that the number of children is
-very small. Captain Comer mentions, however, two Kini¬
-petu women who had had nine and eight children respectively.
+very small. Captain Comer mentions, however, two Kinipetu women who had had nine and eight children respectively.
 
 The statures and weights of nine men and twelve women
 are given on p. 8.
@@ -580,18 +423,12 @@ are given on p. 8.
 1 The Central Eskimo, pp. 419 ft.
 
 
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay. 7
-
-
 Number or Kinipetu, Number op Aivilik,
 March 12, 1898. March 3, 1898.
 
 
 * Four of these men do not belong to the tribe, but live in it with Aivilik wives.
 There are also four women brought in by marriage.
-
-
-8 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Men.
@@ -622,7 +459,6 @@ Weight.
 
 118 “
 
-1607
 
 J5S
 
@@ -634,9 +470,6 @@ J5S
 
 163 “
 
-1500
-
-121
 
 1620 “
 
@@ -652,7 +485,6 @@ J5S
 
 I 5 2 4 “
 
-140
 
 1632 “
 
@@ -684,30 +516,19 @@ J 5 62
 *57 “
 
 
-1575
-
 i6 5
 
 
 1594 ‘
 
-171
 
 Average 1620
 
-170
 
 I I 5 l8
 
-138
 
 Cases 9
-
-9
-
-12
-
-12
 
 
 Captain Comer remarks that the Kinipetu are, on the whole,
@@ -716,9 +537,6 @@ are more voluminous. They are cleanlier than the Aivilik,
 because they live to a great extent on caribou, while the
 Aivilik live principally on seal and walrus, whose blubber soils
 all their belongings.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 9
 
 
 II. MATERIAL CULTURE.
@@ -739,8 +557,7 @@ The ribs are placed over the long strips. They are about
 26 cm. apart. The length of the bottom is about 4.40 m.; its
 greatest width, near the centre, is 38 cm. At the sides of the
 bottom the ribs are sharply bent upward. Their outer ends
-are mortised into two strips 11 cm. high, which form the gun¬
-wale of the boat. The gunwale extends much farther forward
+are mortised into two strips 11 cm. high, which form the gunwale of the boat. The gunwale extends much farther forward
 and abaft than the bottom, its projection forward being about
 127 cm., abaft 33 cm. The height of the tip of the bow over
 the bottom is 32 cm., that of the stem 12 cm. The deck rises
@@ -762,19 +579,10 @@ The beam in front of the manhole is 3 m. from the bow end.
 1 L. C.y p. 486.
 
 
-IO Bulletin American Museum of Natural History . [Vol. XV,
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 11
-
-
 It is bent upward so that its top is 31 cm. above the bottom.
-The beam abaft the manhole is flat. The centre of the man¬
-hole is 200 cm. from the bow end of the flat bottom and
+The beam abaft the manhole is flat. The centre of the manhole is 200 cm. from the bow end of the flat bottom and
 240 cm. from its stem end, or 333 cm. from the extreme bow
-and 267 cm. from the extreme stern. The ribs are strength¬
-ened by an additional strip, which is lashed to them on the out¬
-side, between the gunwale and the side strips of the bottom.
+and 267 cm. from the extreme stern. The ribs are strengthened by an additional strip, which is lashed to them on the outside, between the gunwale and the side strips of the bottom.
 This strip extends forward from the manhole to a point near
 the end of the flat bottom. The bottom under the manhole is
 strengthened by a number of broad and thin pieces of wood,
@@ -805,21 +613,14 @@ ends are thicker, and each has a perforation, in which a line is
 inserted that runs across the deck from one side to the other.
 The point of the harpoon is placed under this line, while its
 butt-end rests under a pair of lines just in front of the
-
-
-12 Bulletin American Museum of Natural History. [Vol. XV,
-
 manhole. This pair of lines also holds the receptacle for the
 harpoon-line. The specimen here figured (Fig. 2) has a bottom
 consisting of three boards. The middle one extends beyond
 the rim of the receptacle in the form of a handle, which is
 shoved under the deck-lines of the boat. The rim is pegged
-and tied to the bottom. On the right-hand side of the recep¬
-tacle is an ivory hook for holding the shaft of the harpoon.
-Attached to the end of a line about 5 cm. long, on the right-
-hand side of the manhole, is a small ivory implement (Fig.3)
-which probably serves to hold the harpoon¬
-line, the coils of which are placed on the
+and tied to the bottom. On the right-hand side of the receptacle is an ivory hook for holding the shaft of the harpoon.
+Attached to the end of a line about 5 cm. long, on the righthand side of the manhole, is a small ivory implement (Fig.3)
+which probably serves to hold the harpoonline, the coils of which are placed on the
 receptacle, while its hind end is attached to
 the seal-skin float which is carried on the
 kayak behind the manhole.
@@ -845,15 +646,11 @@ tribe. For this reason the ribs of their kayaks are made of
 three pieces,— one for the bottom, and one for each side. In
 all other respects the kayaks are of similar construction ; only
 the stern projection of the Smith Sound kayak is shorter, and
-therefore rises more steeply from the flat bottom. The follow¬
-ing table of measurements illustrates the similarity of these
+therefore rises more steeply from the flat bottom. The following table of measurements illustrates the similarity of these
 kayaks.
 
 1 A. L. Kroeber, The Eskimo of Smith Sound (Bulletin Am. Mus. Nat. Hist., Vol.
 XII, p. 272).
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 13
 
 
 Cumberland
@@ -880,135 +677,62 @@ Length of bottom.
 
 44 o
 
-475
 
 45 6
 
 Length of stem projection.
 
-127
-
-126
-
-72
 
 Length of stem projection.
 
-Distance from bow to centre of man-
+Distance from bow to centre of manhole.
 
-33
+Distance from stem to centre of manhole.
 
-39
-
-32
-
-hole.
-
-Distance from stem to centre of man-
-
-333
-
-360
-
-300
-
-hole.
-
-267
-
-280
-
-260
 
 Length of manhole.
 
-65
-
-57
 
 40 .
 
 Height of bow over bottom.
 
-32
-
-39
-
-27
 
 Height of deck at bow end of bottom.
 
-27
-
-34
-
-26
 
 Height of deck at centre of manhole. .
 
-20
-
-22
-
-22
 
 Height of stem over bottom.
 
-12
-
-18
-
-l6
 
 Width of deck at bow end of bottom..
 
-22
-
-20
 
 IO
 
 Width of deck at widest part.
 
-56
-
-62
-
-56
 
 Width of deck at stern end of bottom.
 
-17
-
-17
-
-18
 
 Width of bottom at widest part.
 
-38
-
-44
-
-45
 
 Width of manhole.
 
 Elevation of front beam of manhole
 
-48
 
 5 1
 
-47
 
 over deck.
 
 T 3
 
-10
-
-12
 
 Weight.
 
@@ -1021,8 +745,7 @@ Weight.
 
 The deck attachments are also much alike. 1
 
-The kayak harpoon, 2 of which I have measured six speci¬
-mens, varies from 155 to 166 cm. in length, including the
+The kayak harpoon, 2 of which I have measured six specimens, varies from 155 to 166 cm. in length, including the
 movable tusk. The harpoon-head (to'kang) is rather large
 and wide, with two barbs, and blade parallel to the plane of
 the barbs (Fig. 4, a). No specimen has been found in which
@@ -1039,15 +762,11 @@ and serves to exhaust the animal and to prevent its sinking.
 The dart is hurled with the throwing-board (Fig. 6). For this
 
 
-1 The specimen figured in Vol. XII, p. 281, Fig. 17, as a hand-support of a harpoon-
-shaft, probably served the same purpose as the one shown in Fig. 4 of this paper, and
+1 The specimen figured in Vol. XII, p. 281, Fig. 17, as a hand-support of a harpoonshaft, probably served the same purpose as the one shown in Fig. 4 of this paper, and
 was an attachment at the right-hana side of the manhole.
 a Boas, The Central Eskimo, etc., p. 489.
 
 8 See pp. 68, 78.
-
-
-14 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 reason its butt-end is flattened to fit the
@@ -1066,35 +785,25 @@ d (3§|t7 a )» Small ivory point for winter harpoon; e (sSi^e),
 The lance with detachable point (Fig.
 7) is much used in hunting caribou in
 ponds. Its point is very short, and has
-
-
 b
 
 
 ). Bladder-dart.
 ;th, 160 cm.
 view ; b , Details
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 15
-
-
 no barbs. Its blade resembles that of the lance used for
 despatching walrus. 1
 
-A number of peculiar bone points, the uses of which are un¬
-known to me, are represented in Fig. 4, e , /, g.
+A number of peculiar bone points, the uses of which are unknown to me, are represented in Fig. 4, e , /, g.
 
 The modem winter harpoon is made of wood with iron
 point, 2 while the ancient harpoon had a bone point firmly
-attached to the wooden shaft (Fig. 8). Its butt-end was pro¬
-vided with a stout bone point, which served to break ice, hard
+attached to the wooden shaft (Fig. 8). Its butt-end was provided with a stout bone point, which served to break ice, hard
 snow, etc.
 
 The head of the winter harpoon (nau'lang) 3 is much smaller
 than that of the kayak harpoon. Fig. 4, 6, shows a specimen
-similar to the one figured on p. 473 of my paper on the “ Cen¬
-tral Eskimo,” but in better preservation. It had two points
+similar to the one figured on p. 473 of my paper on the “ Central Eskimo,” but in better preservation. It had two points
 like the large harpoon-head. The perforation at the tip shows
 that the inserted blade was either of slate 4 or metal. These
 heads are much thinner than the ones before described.
@@ -1105,14 +814,12 @@ parallel to the axis of the harpoon-head at the end of the
 groove thus produced. In order to hold the point of the shaft
 in this groove, a string, probably made of sinew, was tied
 around it, passing through the holes on each side of the groove.
-A similar arrangement is found on the primitive harpoon-
-points from Southampton Island. 6 The harpoon-head shown
+A similar arrangement is found on the primitive harpoonpoints from Southampton Island. 6 The harpoon-head shown
 in Fig. 4, d, is evidently made in imitation of the modern iron
 nau'lang.
 
 The harpoon-line of the nau'lang passes through a small
-loop which is provided near the butt-end of the shaft. At¬
-tached to the line is a small hook (akparaiktung). When
+loop which is provided near the butt-end of the shaft. Attached to the line is a small hook (akparaiktung). When
 the harpoon-head strikes an animal and becomes detached,
 the line slips through this loop until the hook catches in the
 loop, thus holding harpoon and shaft together. The three
@@ -1122,9 +829,6 @@ small ivory attachments shown in Fig. 10 probably serve
 
 
 1 L. c., p. 494. 9 L. c. t p. 471. 3 L. c ., pp. 471, 473. 4 L. c., p. 506. 5 See p. 69.
-
-
-16 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 Fig. 6 ( 3 fg s ).
@@ -1137,8 +841,7 @@ Fig. 7 (sris). . Lance for
 Kayak, used in hunting
 Caribou. Length, 195 cm.
 
-a , General view; by De¬
-tail of point.
+a , General view; by Detail of point.
 
 
 Fig. 8( 3 f§ 5 ). Details of Ancient
@@ -1149,17 +852,13 @@ harpoon, 160 cm.; of foreshaft,
 a, Point; b y Joint; c , Butt.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 17
-
-
 another purpose. They are slightly grooved on their lower
 sides, which suggests that they are also attachments to lines,
 but their form is not serviceable for catches like those here
 
 
 Fig. 10, a (gUfob), b
-(aS^a), c U§g 5 ). Attach¬
-ments for- Lines. £ nat.
+(aS^a), c U§g 5 ). Attachments for- Lines. £ nat.
 size.
 
 
@@ -1173,12 +872,10 @@ Designs representing Hind Part of Seal.
 
 (inHfea), b (gf§ya), c (g|§yb), d (gfjga), e
 (3!( 35 §g), g h (gf§gb), Z (giJg),
-
 r).
 
 
-described. The hand-support of the shaft of the winter har¬
-poon is generally long and slender, and has a notched head 1
+described. The hand-support of the shaft of the winter harpoon is generally long and slender, and has a notched head 1
 
 
 1 L. c., pp. 488, 489. b,c, d , Fig. 418, ibid ., seetn to be supports for the winter spear,
@@ -1187,13 +884,9 @@ not for kayak spears.
 [June, /qoi.] 2
 
 
-18 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 (Fig. n). The series shows that the implement suggested to
 the makers the hind part of a seal, and that to a greater or
-less extent some of its forms may be considered as convention¬
-alized representations of the hind part of the seal. The notch
+less extent some of its forms may be considered as conventionalized representations of the hind part of the seal. The notch
 
 
 Fig. 12. Clasps for Coils of Harpoon-line.
@@ -1212,31 +905,20 @@ cases they have the forms of simple hooks (Fig. 12, d). A
 1 L. c., p. 474.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 19
-
-
 number of implements used by the seal-hunter are strapped to
 the coil. These implements are strung on a ring (Fig. 13)
 made of thong, which has a buckle attached to it (a, ft), by
 means of which it is fastened to the coil. The attachments
 are many short straps with toggles at their ends, which are
 pulled through the lower jaw of the seal when it is dragged
-
-
-from its hole to the sledge. 1 A case with ivory pegs for clos¬
-ing the wounds of the animal 2 is also attached to this ring.
+from its hole to the sledge. 1 A case with ivory pegs for closing the wounds of the animal 2 is also attached to this ring.
 The buckles consist of eye and toggle. 3 The former is of oval
 or triangular form (Fig. 14, e , g), or is square with a short stem
 
 1 L. c.y p. 480, Figs. 403-406. 2 L. c.y p. 479, Fig. 401. 3 L. c., p. 560, Fig. 514.
 
 
-20 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 •r
-
-
 for the attachment of the string (Fig. 14, /, h). The decoration
 of more elaborate forms consists in notches around the rim
 (i, /, k ). The etched rim of Fig. 14, /, may be considered as
@@ -1251,10 +933,8 @@ conventionalized double Fig ' 15 ' Buckk in f°™ an Animal.
 . (From Boas, Central Eskimo, etc., Fig. 514,/!)
 
 animal forms, but no good
-
 series of this ornament is available. Fig. 15 shows a buckle
-representing an animal form, probably an ermine, which sug¬
-gests one way in which the notched forms may be considered.
+representing an animal form, probably an ermine, which suggests one way in which the notched forms may be considered.
 A series of forms of toggles passed through the seal’s jaws is
 shown in Fig. 16. All these are perforated, the perforation
 being wide at one end for the reception of the knot at the end
@@ -1273,9 +953,6 @@ Most of the cases holding the pegs for closing the wounds
 
 
 1 See also l. c., p. 481, Fig. 404.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 21
 
 
 of the seal are made of wood (Fig. 17). The pegs are inserted
@@ -1297,8 +974,7 @@ Fig. 17, a b ( 3 §^). Cases for Pegs for closing Wounds of Seal. £ nat. size.
 Fig. 18 (3353a). Wooden Plug for closing Wounds of Seal. Length, n cm.
 
 
-A curious implement (shown in Fig. 19) is said to be an ear-
-trumpet, used by hunters at the seal-hole to hear more readily
+A curious implement (shown in Fig. 19) is said to be an eartrumpet, used by hunters at the seal-hole to hear more readily
 the noise made by the emerging seal. It consists of two parts,
 — a walrus tusk which is split in two, hollowed out, and the
 parts tied together again; and an ear-piece drilled out in the
@@ -1312,9 +988,6 @@ bear-skin, and places his harpoon on two supports which
 coast of Hudson Bay.
 
 
-2 2 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 are put into the snow 1 (Fig. 20). The pegs which serve as
 supports for the harpoon are also carried on the strap to which
 the seal-straps and pegs for closing the wounds are attached
@@ -1326,33 +999,26 @@ Fig. 19 Ear-trumpet of
 Sealer. Length, 40 cm.
 
 
-The large kayak harpoon was de¬
-scribed before in connection with the
+The large kayak harpoon was described before in connection with the
 harpoon-head of the spear used in
 winter. To the line of the kayak
-harpoon is at¬
-tached the large
+harpoon is attached the large
 seal-float and the
 drag, which hinder
 the movements of
-the seal and pre¬
-vent its sinking
+the seal and prevent its sinking
 after it is dead.
 
 The float 2 consists
-of a whole seal¬
-skin. The fore-flip¬
-pers are sewed up;
+of a whole sealskin. The fore-flippers are sewed up;
 the hind - flippers
 and the tail are cut
-out, and closed air¬
-tight by tying the
+out, and closed airtight by tying the
 edges of the hole
 around a piece of
 wood. Small holes
 made accidentally
-in skinning the ani¬
-mal, eyes, and ears,
+in skinning the animal, eyes, and ears,
 are closed by means
 of buttons (Fig. 21, Fig 20
 a), into the groove
@@ -1360,11 +1026,7 @@ of which the skin 27 cm ' ; b ' 15 cm -
 
 
 b
-
-eal-
-
-
-is tightly drawn. The blow-piece is always placed at the
+ealis tightly drawn. The blow-piece is always placed at the
 mouth part of the seal. It is either of the form of a button
 with marginal groove into which the skin is tied (Fig. 21, 6),
 
@@ -1375,9 +1037,6 @@ with marginal groove into which the skin is tied (Fig. 21, 6),
 2 L.c., p. 492.
 
 
-igoi.] Boas , Eskimo of Baffin Land and Hudson Bay. 23
-
-
 or it is somewhat higher, with one conical or cylindrical end
 (Fig. 21, c , d ), which is placed on the inner side of the skin.
 The blow-piece is closed with a wooden stopper.
@@ -1385,15 +1044,12 @@ The blow-piece is closed with a wooden stopper.
 Captain Mutch also succeeded in obtaining two specimens
 of the old whaling-harpoon used by the Eskimo. It agrees
 well with the model on which I based my former description. 1
-The shaft is a heavy piece of wood 260 cm. long, with a fore¬
-shaft 37 cm. long, made of bone of the whale, and spliced to
+The shaft is a heavy piece of wood 260 cm. long, with a foreshaft 37 cm. long, made of bone of the whale, and spliced to
 the wooden shaft. The harpoon-point (Fig. 22) consists of
 two parts,—a large one with four notches at its barb end ( b );
 and a narrow one (a), which bears the blade. The large head
 is attached to the shaft by means of a double heavy thong ( d )
 made of ground-seal hide. The blade (a) is attached to this
-
-
 a b c d
 
 Fig. ax. Button and Blow-pieces for Seal-floats. \ nat. size.
@@ -1422,18 +1078,12 @@ shaft three barbed points are attached in a circle around it.
 1 L.c., p. 499.
 
 
-24 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 Fig. 22 (g| 2 y). Foreshaft and End of Line of Whaling-harpoon. Length of point and
 foreshaft, 62 cm.
 
 Fig. 23 (gf?7)* Ancient Foreshaft of Whaling-harpoon. Length, 50 cm.
 
 Fig. 24, a (gl^e), b ( g j$ 5 ). Barbs of Bird-spears. \ nat. size.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 25
 
 
 They are firmly tied to it with two bands, which pass through
@@ -1456,26 +1106,20 @@ gone out of use. Fig. 26 represents an old arrow-head made
 of bone.
 
 
-An implement used to kill wolves has frequently been de¬
-scribed. 2 A long strip of whalebone is rolled up, wrapped in a
+An implement used to kill wolves has frequently been described. 2 A long strip of whalebone is rolled up, wrapped in a
 piece of blubber or meat, and allowed to freeze. The wolf
-swallows it, and when the meat melts, oris digested, the whale¬
-bone opens and tears the walls of the stomach. Sometimes
+swallows it, and when the meat melts, oris digested, the whalebone opens and tears the walls of the stomach. Sometimes
 two pointed strips of whalebone crossing at right angles are
 used for this purpose (Fig. 27).
 
 
 Wooden powder-measures have come
-into use since the introduction of muzzle¬
-
-
-loading guns (Fig. 28).
+into use since the introduction of muzzleloading guns (Fig. 28).
 
 
 Arrow - head.
 
 Length, 44 Fig. 27 (3^1). Implement for killing
-
 mm. Wolves. Diameter, 12 cm.
 
 
@@ -1494,22 +1138,14 @@ regard to methods of fishing. An iron hook is attached to a
 2 L. c., p. 510.
 
 
-26 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 wooden buoy-(Pig. 29) which is provided with. natch.ca fox
-winding the fish-line. This arrangement recalls the fishing-
-tackle of the tribes of the west coast of Hudson Bay. 1 In Fig.
+winding the fish-line. This arrangement recalls the fishingtackle of the tribes of the west coast of Hudson Bay. 1 In Fig.
 
 
 30, 6, is shown 'an ivory
 carving representing a fish,
 over which are attached to
-
-
 a
-
-
 the line a number of small
 
 
@@ -1522,22 +1158,17 @@ ably served the same end, although its dark color does not
 seem favorable for an effective decoy.
 
 The method of fastening the side barbs of the fish-spear
-(Fig. 31) to the shaft by means of a band extending to the op¬
-posite half of the shaft is quite typical. 2 The fish, after being
+(Fig. 31) to the shaft by means of a band extending to the opposite half of the shaft is quite typical. 2 The fish, after being
 caught, is strung on needles attached to long thongs (Fig. 32). 3
 
 1 See p. 84 ; also Fig. 119. 2 See also /. c., p. 512, Fig. 453, b. 3 See also /. c., p. 514.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 27
 
 
 Fig. 31 (sf§g). Fish-spear. Length,
 63 cm.
 
 
-During the nesting season, dove-
-kies were caught in small bag-nets
+During the nesting season, dovekies were caught in small bag-nets
 made of thong, which were attached
 to long handles (Fig. 33).
 
@@ -1550,8 +1181,7 @@ The one-edged butcher-knife (Fig.
 
 
 34, a) is evidently
-a later intro¬
-duction. Small
+a later introduction. Small
 knives, fitting
 the hand more
 or less closely, are
@@ -1561,8 +1191,7 @@ have not seen any
 with crooked
 point, like the
 carving - knives
-of the North Pa¬
-cific coast, while
+of the North Pacific coast, while
 knives of this
 type are used on
 the west coast of
@@ -1580,9 +1209,6 @@ Some of these
 Fig. 32 a,b). Needles for 1 L ' c •> P- 517, Fig. 460.
 
 stringing Fish. . \ nat. size. 2 See p. 88.
-
-
-2 8 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 tools are made of thick pieces of iron filed to a triangular
@@ -1626,14 +1252,9 @@ a (atSsX b (sfSsX c (sf?2 a )i d (uS?r)» «? (af i^)» ^(sff^^CsiTs).
 wood, to furnish a hold for the first and second fingers, while
 the thumb and the other fingers grasp the handle. From this
 form has evidently developed the modern form (Fig. 41, i), the
-
-
-3 2 Bulletin American Museum of Natural History . [Vol. XV,
-
 handle of which is made of a piece of wood with grooves for the
 tips of the first and second fingers, while the blade is made of
-tin. Another specimen (Fig. 41, h) is made in the same man¬
-ner, but a piece of a long bone is used as a blade instead of tin.
+tin. Another specimen (Fig. 41, h) is made in the same manner, but a piece of a long bone is used as a blade instead of tin.
 
 
 The form of scraper shown
@@ -1645,8 +1266,7 @@ which are shown in Fig. 41,
 probably served the purpose
 of softening rather than of
 cleaning the skins. The
-stone blades varied consid¬
-erably in size and in form.
+stone blades varied considerably in size and in form.
 Some were very long, and
 hafted in short wooden
 handles; while others were
@@ -1655,17 +1275,12 @@ Fig. 39, a b (sf&j). Woman’s Knives, very short, and had longer
 £ nat. size. (See p. 28.) J
 
 handles. In most cases
-the handle is hollowed out so as to fit the stone, which is ce¬
-mented in. Often the stone has a small groove (Fig. 41. b)
-
-
-34 Bulletin American Museum of Natural History. [Vol. XV,
+the handle is hollowed out so as to fit the stone, which is cemented in. Often the stone has a small groove (Fig. 41. b)
 
 
 which serves as a hold for the thong by which it is tied to the
 handle (Fig. 41, c, /, g). In later times wire was used in place of
-thongs. While most of the stone scrapers are thick, and bev¬
-elled on both sides (Fig. 41, d , /), a few have a convex face
+thongs. While most of the stone scrapers are thick, and bevelled on both sides (Fig. 41, d , /), a few have a convex face
 on one side, while the other is flat (Fig. 41, a). A very few are
 made of thin stone (Fig. 41, g), which is fitted into a slit of
 the handle. The most characteristic form of handle is shown
@@ -1681,12 +1296,9 @@ are pinned. While visiting Cumberland Sound, I collected
 one old ivory needle-case which had a hole for keeping needles. 1
 A similar one was collected by Captain Mutch (Fig. 43).
 While the former had a notch at the middle for a strap by
-which to suspend it, the present specimen has two perfora¬
-tions, evidently for the same purpose.
+which to suspend it, the present specimen has two perforations, evidently for the same purpose.
 
-In my description of the Central Eskimo I omitted a dis¬
-cussion of the forms of knots and splices. I requested Cap¬
-tain Mutch to make a full collection of these. The types of
+In my description of the Central Eskimo I omitted a discussion of the forms of knots and splices. I requested Captain Mutch to make a full collection of these. The types of
 knots obtained by him are given in Fig. 44. Prof. Otis T.
 
 
@@ -1701,15 +1313,10 @@ k ( 3 $Sib), i ( 3 S§«a), Running bow-fines ; j ( 3 $b 7 c), Bow-line ; k ( 3 
 l (3$8 7 a), Square knot with two cut splices ; m ( 3 i8r a ), Single true-lover’s knot; n ( 3 §8®a), Splice.
 
 
-36 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 Mason has had the kindness to name these knots for me.
 Their most remarkable feature is the little slit near the end of
-the line, through which the end is drawn, thus forming a tog¬
-gle (Fig. 44, b, e , m). The knots in Fig. 44, a-g, serve to make
-a loop at the end of a line. The first two (a and b) are bow¬
-lines or overhand loops, which differ only in that the second
+the line, through which the end is drawn, thus forming a toggle (Fig. 44, b, e , m). The knots in Fig. 44, a-g, serve to make
+a loop at the end of a line. The first two (a and b) are bowlines or overhand loops, which differ only in that the second
 has the peculiar toggle before referred to. In the following
 knots ( c-e , and g) the loop is formed by running the fore end
 through a slit in the standing part, g differs from c in that
@@ -1719,8 +1326,7 @@ the standing part first by being trapped four times around
 with sinew, then run through both, and finished off with a
 knot. Fig. 44, h-j, shows running loops made by means of
 the overhand knot (Fig. 44, a and b). This knot is turned to
-the right in h , to the left in i. Fig. 44, k-n , represents vari¬
-ous forms of splices.
+the right in h , to the left in i. Fig. 44, k-n , represents various forms of splices.
 
 
 Fig. 45. Swivels. £ nat. size.
@@ -1731,11 +1337,6 @@ Z (3331a).
 
 In order to prevent lines from becoming kinked, swivels are
 used. The simplest type (Fig. 45, a, b ) consists of a bar with
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 37
-
-
 three perforations. The middle one is of conical form at one
 side, and serves to hold the head of an ivory nail. The two
 lateral ones are of conical form at the opposite side of the bar,
@@ -1752,12 +1353,10 @@ ivory nail which turns in the lower hole. In a
 few specimens the upper part is perforated only
 on one side (Fig. 45, h , i).
 
-The methods employed in mending and join¬
-ing are also of some interest. Splices between
+The methods employed in mending and joining are also of some interest. Splices between
 two sticks or bones are generally made by a
 slanting cut along each part. When one of the
-parts is short, a straight joint becomes neces¬
-sary. This is often used in piecing together the
+parts is short, a straight joint becomes necessary. This is often used in piecing together the
 movable foreshafts of harpoons. This is done
 by drilling two holes either parallel or at right
 angles to each other through both parts (Fig.
@@ -1786,17 +1385,12 @@ o (si 15). Harpoon
 1 L. c p. 529.
 
 
-38 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 antlers with the skull attached. In former times the crossbars
 were made of bone or of antler (Fig. 47).
 
 Under the foremost crossbar a hole is drilled through each
-
 runner. A very stout thong
-(pitu), consisting of two sepa¬
-rate parts, passes through the
+(pitu), consisting of two separate parts, passes through the
 holes, and serves to fasten the
 dog’s traces to the sledge. A
 button at each end of this thong
@@ -1805,8 +1399,7 @@ the hole of the runner (Fig. 48).
 The thong consists of two parts,
 the one ending in a loop, the
 other in a peculiar kind of clasp
-(partirang). Fig. 50, a, repre¬
-sents the form commonly used.
+(partirang). Fig. 50, a, represents the form commonly used.
 The end of one part of the thong
 is fastened to the hole of the
 clasp, which, when closed, is stuck
@@ -1817,8 +1410,7 @@ Fig. 47 (sfsff)* Part of Old Crossbar
 of Sledge. Length, 21 cm.
 
 
-Fig. 48, a (gfSy), b (gfggb). But¬
-ton for holding Pitu.
+Fig. 48, a (gfSy), b (gfggb). Button for holding Pitu.
 
 
 end (see Fig. 49). The dog’s traces are strung upon this
@@ -1826,14 +1418,8 @@ line by means of the uqsim, an ivory implement with a large
 and a small eyelet (Fig. 49). The line is tied to the former,
 while the latter is strung upon the pitu.
 
-The dogs have harnesses (ano) made of seal-skin or some¬
-times of caribou-skin, consisting of two bights passing under
+The dogs have harnesses (ano) made of seal-skin or sometimes of caribou-skin, consisting of two bights passing under
 the forelegs. They are joined by two straps, one passing over
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 39
-
-
 the breast, the other over the neck. The ends are tied together
 on the back, whence the line runs to the sledge.
 
@@ -1858,18 +1444,11 @@ handle. The two parts of the thong are firmly connected
 by a braided wrapping, which extends to the end of the handle.
 The two parts of the thong are wrapped with an additional
 thong for 4 cm. above the end of the handle. A number of
-
-
-40 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 strips of skin are placed along the upper part of the handle,
 and firmly wrapped with a stout thong, thus holding the whip
 thong in place.
 
 When travelling in soft snow, round snowshoes, with wooden
-
-
 mum
 
 
@@ -1892,15 +1471,11 @@ a (asSod), b (af^sc), c (aiasd), d (a§§sC).
 1,1 used.
 
 i '' | Snow blocks, which are used for building houses, were
-
 cut with snow-knives made of bone (Fig. 53). Only a
-few small knives are contained in Captain Mutch’s col¬
-lection ; but it is probable that in olden times much
-Ij in longer ones, made of ivory and whalebone, were em-
-yj fe ployed. 1 The base of the house, after its completion,
+few small knives are contained in Captain Mutch’s collection ; but it is probable that in olden times much
+Ij in longer ones, made of ivory and whalebone, were emyj fe ployed. 1 The base of the house, after its completion,
 is often covered with loose snow. For this purpose
-snow-shovels were used. No complete specimen was ob¬
-tained from Cumberland Sound, but the bone edge of a
+snow-shovels were used. No complete specimen was obtained from Cumberland Sound, but the bone edge of a
 shovel collected by Captain Mutch (Fig. 54) suggests that it
 must have resembled the type of shovel used on the west
 coast of Hudson Bay. 2 The bone implement illustrated in
@@ -1910,9 +1485,6 @@ coast of Hudson Bay. 2 The bone implement illustrated in
 
 
 2 See p. 96.
-
-
-£901.] Boas , Eskimo of Baffin Land and Hudson Bay . 4 1
 
 
 Fig. ss probably served as a maul for breaking bones, frozen
@@ -1925,8 +1497,7 @@ which serves for cooking (Fig. 56, b , c) is crescent-shaped,
 Fig. 52 (stStt). Snowshoe. Diameter, 64 cm.
 
 
-with straight wick edge. Some lamps have a separate recep¬
-tacle for blubber near the rear end (Fig. 56, c). A very small
+with straight wick edge. Some lamps have a separate receptacle for blubber near the rear end (Fig. 56, c). A very small
 lamp often bums in the rear of the snow house 1 or on the
 
 
@@ -1946,15 +1517,9 @@ Fig- 57 (3x81)* Soapstone Kettle. Length of bottom, 23 cm. ; width,
 12 cm. (See p. 47.)
 
 
-44 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 Fig. 58, a (3593), b Wooden Dishes. Diameter, a, 18 cm. ; b , 34 cm. ; c, 66 cm.
 
 (See p. 47.)
-
-
-.] Boas , Eskimo of Baffin Land and Hudson Bay. 45
 
 
 Fig. 62, a £ (ails)* Wooden Boxes. Length,
@@ -1962,22 +1527,16 @@ Fig. 62, a £ (ails)* Wooden Boxes. Length,
 , 14 cm. (See p. 48.)
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 4 7
-
-
 floor near the entrance (Fig. 56, a). The kettle of this region
-has a narrow rim and wide bottom (Fig. 57). 1 At each cor¬
-ner are one or two perforations for passing
+has a narrow rim and wide bottom (Fig. 57). 1 At each corner are one or two perforations for passing
 through the thongs by means of which the
 kettle is suspended. Dishes are made of
 wood (Fig. 58). Most of these consist of a
 flat, thick bottom, on which a wooden rim is
-
 laid, which is
 pegged to the
 bottom. The
-bottom is hol¬
-lowed out in
+bottom is hollowed out in
 the middle,
 which is much
 thinner than
@@ -1990,8 +1549,7 @@ which is bent
 around the
 bottom. The
 ends of the
-sides are bev-
-elled and
+sides are bevelled and
 overlap. The
 joint is made
 by pegs, and
@@ -2000,7 +1558,6 @@ by a strip of
 bone or ivory
 which is
 placed on the
-
 outer side of the rim. Most of the large dishes are oval,
 while the small ones are round. A few fragments collected by
 Captain Mutch show that trays hollowed out of solid blocks
@@ -2015,13 +1572,9 @@ Fi g- 63 ( 3 f?s). Ladle or Shovel.
 Length,
 
 
-Fig. 64 ( 3 §§j). Imple¬
-ment for squeezing Water
+Fig. 64 ( 3 §§j). Implement for squeezing Water
 out of Skins. Length,
 34 cm. (See p. 48.)
-
-
-48 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 of wood were also used. The fragment shown in Fig. 59, a,
@@ -2030,21 +1583,17 @@ still shows an ivory strip with which its edge was overlaid.
 
 This tray seems to have been of rectangular
 shape, with thick ends and thin sides. Another
-fragment (Fig. 59, b) suggests that an orna¬
-mental strip may have been attached to it.
+fragment (Fig. 59, b) suggests that an ornamental strip may have been attached to it.
 
 Near the entrance of the house stands the
 large leather bucket, a simple vessel with flat
 round bottom and straight sides. In it lies
 the leather cup (Fig. 60) with hollow rim, into
 which a wooden handle is inserted. The
-
-
 spoons shown in Fig. 61 are so small
 that it seems doubtful if they were
 used for eating. Small trinkets
-are kept in wooden boxes with slid¬
-ing covers or with close-fitting lids
+are kept in wooden boxes with sliding covers or with close-fitting lids
 (Fig. 62).
 
 The use of the implement shown
@@ -2053,20 +1602,13 @@ have been used as a ladle or shovel.
 
 For squeezing the water out of
 wet skins, a bone implement is used
-with a rather sharp edge and some¬
-what hollow blade, through which
-the water runs off (Fig. 64). To re¬
-move snow from clothing, a wooden
+with a rather sharp edge and somewhat hollow blade, through which
+the water runs off (Fig. 64). To remove snow from clothing, a wooden
 beater is used (Fig. 65). The
 handles of both these implements
 are sometimes carved so as to fit
-
-
-the hand closely. The back¬
-scratcher, which is so widely used
+the hand closely. The backscratcher, which is so widely used
 by all Eskimo tribes and by the
-
-
 peoples of Siberia and eastern Asia,
 is found here also (Fig. 66). The
 specimen in Captain Mutch’s
@@ -2077,18 +1619,13 @@ collection consists of a piece ^
 
 
 Fig. 65 ugg*). of whalebone the end of
-
 now-beater. . .
 
 Length, 43 cm. which is sharply turned.
 
 
-Fig. 66 ( 3 §g 7 ). Back¬
-scratcher. Length, 30
+Fig. 66 ( 3 §g 7 ). Backscratcher. Length, 30
 cm.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 49
 
 
 The style of clothing of the Cumberland Sound Eskimo 1
@@ -2108,12 +1645,6 @@ to Hudson Strait and westward to Southampton Island.
 
 
 1 L. c pp. 455 ff.
-
-
-4
-
-
-50 Bulletin American Museum of Natural History . [Vol. XV
 
 
 The man’s jacket is characterized by a straight cut and a
@@ -2137,16 +1668,12 @@ Fig. 69. Woman’s Summer Jacket.
 
 
 sharply against the lower part of the sleeve, and extends upward
-over the shoulders. The lower rim of the whole jacket is orna¬
-mented with a narrow dark strip which borders on a wider
+over the shoulders. The lower rim of the whole jacket is ornamented with a narrow dark strip which borders on a wider
 light strip. These are also carried along the slit in front.
 The trousers reach up to the waist, and are held by a string
 
 
 Land and Hudson Bay .
-
-
-5 2 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 that passes through the waist seam. They have no slits.
@@ -2159,13 +1686,7 @@ Fig. 71. Woman in Winter Costume. (See p. 54.)
 
 band, runs up and down, while below it runs transversely.
 The stockings, slippers, and shoes, and the inner garments,
-were described in detail in my previous report. The winter gar-
-ments are made of caribou-skin. The contrast of light and
-
-
-54 Bulletin American Museum of Natural History . [Vol. XV,
-
-
+were described in detail in my previous report. The winter garments are made of caribou-skin. The contrast of light and
 dark skin on the man’s jacket (Fig. 68) is not so strong as on
 the summer jacket.
 
@@ -2183,7 +1704,6 @@ Fig. 81. Ivory Carvings. § nat. size. (See p. 56.)
 « Man ; b GSi*)i Woman ; c, d y e G«?ff h, a, i), Dice in form of women; f Gf$x)>
 
 Dice in form of bird ; g, h Gfgg, Polar bears; i G§tt>), Head of fox \j G§?<j), Walrus ;
-
 k Giss), Polar bear ; l GS8t). Head of fox.
 
 of decoration as the summer jacket. Women wear short
@@ -2195,10 +1715,6 @@ the same style of garment as men. At that age their jacket is
 cut with a short wide tail (Fig. 73). Infants’ garments are
 made of skins of caribou fawns. They consist of a shirt
 which has a short slit in front and a hood (Fig. 74). Women’s
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 55
-
 jackets are sometimes ornamented with bone or ivory beads
 (Fig. 75), which form a fringe around the lower edge. Fig.
 76 represents a curious double button, made of wood, which
@@ -2212,18 +1728,12 @@ a (3283)1 Seal; b (3*83)1 Polar bear; c (3887), Head of polar bear ; d (3*83)1 S
 Woman.
 
 
-for suspending a needle-case or a small pouch from the cloth¬
-ing. Fig. 7 7 represents a small ivory carving, said to be used
+for suspending a needle-case or a small pouch from the clothing. Fig. 7 7 represents a small ivory carving, said to be used
 in connection with the clothing, the use of which, however, is
 not known to me.
 
 A number of new games are contained in this collection,—'
 a wooden top, which is probably spun on the ice (Fig. 78); a
-
-
-56 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 sling for throwing stones, made of leather, and provided with
 thongs (Fig. 79); and a buzz (Fig. 80), which is cut out of a
 piece of skin. A number of dice carved in the form of birds,
@@ -2231,14 +1741,12 @@ men, and women, are shown in Fig. 81, c-f. In the same
 figure a number of realistic carvings are reproduced, some of
 which serve as attachments to lines, while others are not
 made for any practical use. They are of the same type as
-the Eskimo carvings from other eastern tribes. A few wood-
-carvings, somewhat large in size, are also remarkably good
+the Eskimo carvings from other eastern tribes. A few woodcarvings, somewhat large in size, are also remarkably good
 pieces of workmanship (Fig. 82).
 
 SOUTHAMPTON ISLAND.
 
-A most interesting part of Captain Comer’s collection con¬
-sists of material collected on Southampton Island. This tribe,
+A most interesting part of Captain Comer’s collection consists of material collected on Southampton Island. This tribe,
 on account of the inaccessibility of the shores of Southampton
 Island, has had hardly any contact with other tribes or with
 Europeans. They were visited for a few hours by Capt. G. F.
@@ -2247,23 +1755,19 @@ of the tribe, I will quote here Lyon’s description of his visit. 1
 
 “Sailing along the shore, we had heard loud shouting, and when the
 day broke, saw seven natives following us by the water’s edge. They
-were now abreast the ship, and as it was desirable to obtain observa¬
-tions, I landed with some of the officers and two boats, but the sky was
+were now abreast the ship, and as it was desirable to obtain observations, I landed with some of the officers and two boats, but the sky was
 too cloudy to favour our getting sights for the chronometers.
 
 “While yet a mile from the beach, a native was seen coming off to us,
 and as he approached, we observed, that instead of a canoe he was seated
-on three inflated seal-skins, connected most ingeniously by blown intes¬
-tines, so that his vessel was extremely buoyant. He was astride upon
+on three inflated seal-skins, connected most ingeniously by blown intestines, so that his vessel was extremely buoyant. He was astride upon
 one skin, while another of a larger size was secured on either side of it,
 so that he was placed in a kind of hollow. His legs, well furnished with
 seal-skin boots, were immersed nearly to the knee in water, and he rowed
-with a very slender soot-stained paddle of whale’s bone, which was se¬
-cured to his float by a thong.
+with a very slender soot-stained paddle of whale’s bone, which was secured to his float by a thong.
 
 “On approaching, he exhibited some little signs of fear ; his teeth
-chattered, and himself and seal-skins trembled in unison. It was evi¬
-dent from the manner of this poor fellow, that he had come off as a kind
+chattered, and himself and seal-skins trembled in unison. It was evident from the manner of this poor fellow, that he had come off as a kind
 of herald from his tribe, and as I felt for his alarm, I threw him a string of
 beads, which he received in great trepidation, and placed, with trembling
 
@@ -2271,13 +1775,8 @@ beads, which he received in great trepidation, and placed, with trembling
 1825), pp. 54 ff.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 5 7
-
-
-fingers, across a large bunch of hair which protruded from his fore¬
-head. A few friendly signs which accompanied my gift gave him a little
-more confidence, and he soon came alongside, after having, as a peace¬
-offering, thrown me a couple of dried salmon and a very rude arrow,
+fingers, across a large bunch of hair which protruded from his forehead. A few friendly signs which accompanied my gift gave him a little
+more confidence, and he soon came alongside, after having, as a peaceoffering, thrown me a couple of dried salmon and a very rude arrow,
 headed with a roughly-chipped flint: at my request he jumped into our
 boat, and taking his skins in tow, we rowed for the beach; but our new
 acquaintance was not a very quiet passenger, for he stood up repeatedly
@@ -2288,15 +1787,11 @@ called himself Nee-a-kood-loo, and as we made for the beach I found,
 that although he understood me a little, and used a few words with
 which I was acquainted, yet he spoke a language differing very materially
 from that of any other Esquimaux whom we had seen. He chattered
-and chuckled rapidly and delightedly to himself, and always with down¬
-cast eyes. At a long shoal point we jumped on shore to his six country¬
-men, who appeared to have neither word nor gesture of salutation, and
+and chuckled rapidly and delightedly to himself, and always with downcast eyes. At a long shoal point we jumped on shore to his six countrymen, who appeared to have neither word nor gesture of salutation, and
 each, as I approached him, presented me with two half-dried salmon,
 evidently intended as a peace-offering; for the donors drew back on my
-accepting the fish, as if they expected no equivalent. Observing a dirty-
-looking bone in each man’s hand, I asked what they were, and the poor
-creatures told me they were their ‘ Pannas’ or knives; which on exami¬
-nation I found to be formed of a rough piece of chipped flint something
+accepting the fish, as if they expected no equivalent. Observing a dirtylooking bone in each man’s hand, I asked what they were, and the poor
+creatures told me they were their ‘ Pannas’ or knives; which on examination I found to be formed of a rough piece of chipped flint something
 like a poplar-leaf in form, and clumsily lashed to small bone handles of
 about six inches in length. Such were the only cutting instruments of
 these wretched people. I purchased each man’s panna for either the
@@ -2318,13 +1813,7 @@ lakes, several birds were shot by the officers; but although the natives
 saw them fall, they expressed neither surprise, fear, nor curiosity about
 the guns. We passed several small store-houses, of about six feet in
 height by ten in diameter, built of rough slabs of lime-stone, rudely but
-regularly piled up, and Neeakoodloo opened one to shew me that it con¬
-tained a quantity of split salmon, suspended by the tails in such a manner
-
-
-58 Bulletin American Museum of Natural History . [Vol. XV,
-
-
+regularly piled up, and Neeakoodloo opened one to shew me that it contained a quantity of split salmon, suspended by the tails in such a manner
 that no small a-nimak could reach them. As we walked forward, my
 companion, who went at a rapid impatient pace, talked incessantly to
 himself with his eyes fixed on the ground, occasionally elevating his voice,
@@ -2335,11 +1824,9 @@ forward, but soon relapsed again into his merry soliloquy. If I spoke,
 he answered with a lively ‘Hai!’ but never waited or endeavoured to
 comprehend me, and again began chuckling to himself. He seemed
 quite ignorant of the word Kayak, although he knew what an Oomiak
-was, and pointed to the ship; and I observed that he called dogs ‘ Tchien-
-miuk,’ which differs very much from the Igloolik name ‘Rain-meg.’
+was, and pointed to the ship; and I observed that he called dogs ‘ Tchienmiuk,’ which differs very much from the Igloolik name ‘Rain-meg.’
 Several other words were equally different, and his language, which was
-pronounced shortly, appeared in consequence to abound in mono¬
-syllables.
+pronounced shortly, appeared in consequence to abound in monosyllables.
 
 “We found two tents, very small, and full of holes, by which both
 wind and rain might enter in all directions. They were of badly-dressed
@@ -2356,27 +1843,19 @@ and had the same cast of countenance, save that she squinted abominably
 — a defect I have witnessed but in one other instance amongst these
 people. The other women had the broad flat faces and high cheek bones
 usually met with. I had no sooner entered Neeakoodloo’s tent, than
-remembering, I suppose, my present to him, he took up a large new deer¬
-skin, rolled it neatly up, and threw it towards me, repeating at the same
+remembering, I suppose, my present to him, he took up a large new deerskin, rolled it neatly up, and threw it towards me, repeating at the same
 moment ‘ Kooyenna.’ The tent floors, with the exception of the small
 space allotted for sleeping on, were entirely strewed with salmon and
 their offal; and, as I saw no lamp, and but one miserably-constructed
 cooking-pot, I suspect that the fish are generally eaten raw. About two
-dozen dogs were lying near the tents, but, with their usual fear of stran¬
-gers, all ran off on our approach. I saw no sledges.
+dozen dogs were lying near the tents, but, with their usual fear of strangers, all ran off on our approach. I saw no sledges.
 
 “There were none of those little domestic toys in these tents which
 we had always found with our Winter friends, and it was not until our
-visit was nearly over that I discovered the women used very ingeniously-
-formed bone needles, which of course were purchased by an abundant
+visit was nearly over that I discovered the women used very ingeniouslyformed bone needles, which of course were purchased by an abundant
 supply of steel ones. They had also a couple of little iron needles of their
 own manufacture; these were apparently made from two small nails,
 not much reduced in thickness, and having such diminutive eyes that
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 59
-
-
 they could never have been of any service. The bone needles were
 formed from the pinions of birds, which are far harder, and at the same
 time more plastic, than any other bones.
@@ -2392,24 +1871,20 @@ and in a rougher style than any we had hitherto seen. Yet this scarcity
 of wood did not prevent their gladly selling the bows; and I afterwards
 learnt that one with five arrows was purchased for a livery button. I
 distributed knives, boarding-pikes, and beads, to the whole of this little
-tribe, and observed that each individual, on receiving a present, immedi¬
-ately offered to the donor the choice of their property, the most valuable
-of which, in their own estimation, were small rolls of dried salmon-
-skins, and little pieces of flint for the purpose of making knives and
+tribe, and observed that each individual, on receiving a present, immediately offered to the donor the choice of their property, the most valuable
+of which, in their own estimation, were small rolls of dried salmonskins, and little pieces of flint for the purpose of making knives and
 arrows. Poor Neeakoodloo, on receiving two knives for himself and wife,
 appeared quite distressed at my refusing the dirty pieces of stone and
 fish-skins which he offered me; and fancying that I rejected them as not
 being good enough, he took a sharp flint, and began cutting up a large
-seal-skin, the only one in his possession, for my acceptance; on my re¬
-fusing this also, he again warmly repeated his thanks for the knives.
+seal-skin, the only one in his possession, for my acceptance; on my refusing this also, he again warmly repeated his thanks for the knives.
 
 “The women were slightly tattooed on the face in small dots, probably
 from their having no needles of sufficient fineness to draw a sooted thread
 under the skin in lines, as is the usual Esquimaux custom.
 
 “The hands were not marked, and their hair was twisted into a short
-club, which hung over each temple. I purchased two little bone orna¬
-ments, which had been used as pendants to these locks, and on one of
+club, which hung over each temple. I purchased two little bone ornaments, which had been used as pendants to these locks, and on one of
 them were about a. dozen small irregularly-shaped pieces of lead, strung
 alternately with square-cut pieces of the claw of some bird. The women
 wore no breeches, but had little thigh wrappers, and very high boots,
@@ -2422,17 +1897,10 @@ more exposed. As they wore gloves, the reversed skin of the dovekie,
 merely dried, without farther preparation, and the long stiffened neck part
 pointed forward in such a manner as to be always in the way. The only
 other peculiarity consisted in each man having an immense mass of hair
-as large as the head of a child, rolled into the form of a ball, and project¬
-ing from the rise of the forehead. One of these bundles, which I caused
+as large as the head of a child, rolled into the form of a ball, and projecting from the rise of the forehead. One of these bundles, which I caused
 a man to open, consisted of six long strings of his own locks, originally
 plaited, but now so matted with dirt, deer’s fur, &c., as to resemble a
-
-
-6 o Bulletin American Museum of Natural History . [Vol. XV,
-
-
-rough hair tether. These extraordinary tresses were bound tightly to¬
-gether at their base, and measured above four feet.
+rough hair tether. These extraordinary tresses were bound tightly together at their base, and measured above four feet.
 
 “ I found that the place whence the salmon were procured, was a rapid
 little streamlet, running over a gravelly bed, at about a hundred paces
@@ -2443,13 +1911,11 @@ tents, was a large winter hut standing near the sea-beach, but I had no
 time to visit it. On our return to the boats, I desired the natives to open
 their salmon stores, and bring a quantity of fish after us, which they
 gladly acquiesced in, and we carried off a large and most welcome supply
-to the ship. Not one of the strangers begged, or became in any way trou¬
-blesome, but even to the moment of our departure, conducted themselves
+to the ship. Not one of the strangers begged, or became in any way troublesome, but even to the moment of our departure, conducted themselves
 so as to shew us how grateful they were for our presents to them.
 
 “ From their total want of iron, and from their extreme poverty, I am
-led to imagine that these people had never before seen Europeans; al¬
-though it is not improbable they may have observed the Hudson’s Bay
+led to imagine that these people had never before seen Europeans; although it is not improbable they may have observed the Hudson’s Bay
 ships pass at a distance in the offing, on some occasions, when they may
 have been driven by bad weather a little out of their annual course. The
 good behaviour of these poor savages was therefore quite natural to
@@ -2460,37 +1926,28 @@ treachery.
 “At four a m., on the 29th, the wind being light and contrary, with
 continued rain, I landed with two boats to procure water abreast of the
 ship, on a flat lime-stone beach, lying in long irregular ridges to seaward;
-and the tide having ebbed a little, the small rippling sea marked the posi¬
-tion of the shoals by breaking on them. Near our landing-place were the
+and the tide having ebbed a little, the small rippling sea marked the position of the shoals by breaking on them. Near our landing-place were the
 remains of a large Esquimaux establishment, and had it not been for the
 state in which we found some stored provisions, I should have imagined
-that no person had been there for some years. These hoards were care¬
-fully deposited in small buildings, such as I have before described, and
+that no person had been there for some years. These hoards were carefully deposited in small buildings, such as I have before described, and
 consisted of the bodies of skinned birds, suspended by the legs, pieces of
 walrus, carcasses of seals, bags of blubber, and one leathern sack full
 of king-ducks, uncased, and with all their feathers yet on, smelling most
 offensively. On a high pile of stones, near the beach, were placed a
 broken bow, a flint arrow, and knife, with a coarsely-constructed spear,
-and some fragments of skin and walrus flesh. These articles may prob¬
-ably have been the property of some man who lay buried near the pile,
+and some fragments of skin and walrus flesh. These articles may probably have been the property of some man who lay buried near the pile,
 but I could discover no grave. Not far from this, and near a very small
 hut, built of peat, was a large inverted cooking-pot, composed of thin
 slabs of lime-stone, very clumsily cemented together; and beneath it was
 a flint knife, a piece of ivory, and a short splinter of decayed drift wood.
 Some sledge runners, of the whale’s jaw, lay buried beneath a few large
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 61
-
-
 stones; and as they were quite black with soot, it is probable they had
 answered the purpose of roof-rafters to some winter-hut. Several other
 long spars of bone were lying round in the same smoky state; and as no
 wood is procured in this desolate region, they may be considered as the
 store timber of the poor Esquimaux. Eight or ten double piles of stones,
 for the purpose of supporting canoes, were erected along the beach; and
-farther inland stood six large bone, or winter, huts, in a very dirty dilapi¬
-dated state; and as mosses and grasses were growing on their seats and
+farther inland stood six large bone, or winter, huts, in a very dirty dilapidated state; and as mosses and grasses were growing on their seats and
 sleeping places, they must have been long forsaken. Of the immense
 quantity of bones which lay scattered around, those of the deer were
 most numerous. At a short distance from the shore, on one of the shingle
@@ -2502,8 +1959,7 @@ which contained a dead person, sewed up in a skin, and apparently long
 buried. The body was so coiled up, a custom with some of the tribes of
 Esquimaux, that it might be taken for a pigmy, being only two feet four
 in length. This may account for the otherwise extraordinary account
-given by Luke Fox, of his having found bodies in the islands in the ‘ Wel¬
-come * which were only four feet long.
+given by Luke Fox, of his having found bodies in the islands in the ‘ Welcome * which were only four feet long.
 
 “ Near the large grave was a third pile of stones, covering the body of a
 child, which was coiled up in the same manner. A snow buntin had
@@ -2512,8 +1968,7 @@ and its now forsaken, neatl)#built nest, was found placed on the neck of
 the child. As the snow buntin has all the domestic virtues of our English
 red-breast, it has always been considered by us as the robin of these
 dreary wilds, and its lively chirp and fearless confidence have rendered
-it respected by the most hungry sportsmen. I could not on this occa¬
-sion view its little nest, placed on the breast of infancy, without wishing
+it respected by the most hungry sportsmen. I could not on this occasion view its little nest, placed on the breast of infancy, without wishing
 that I possessed the power of poetically expressing the feelings it excited.
 Both graves lay north-east and south-west. Before going on board I
 placed boarding-pikes, men’s and women’s knives, and other articles,
@@ -2524,21 +1979,16 @@ piles of stones.
 shingle lime-stone, in which were several imperfect fossil remains, and a
 few pieces of madrepore were also picked up. The greatest attraction,
 however, was in the quantity of fine flints and pretty veined agates,
-which lay broken all along the beach. It would appear from the weap¬
-ons found on this day, as well as others purchased before, that the natives
+which lay broken all along the beach. It would appear from the weapons found on this day, as well as others purchased before, that the natives
 only make use of the dark-coloured flints, which may be in consequence
 of their finding the veined stones more liable to split.”
-
-
-62 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 In later times a number of short visits to Southampton
 Island must have been made by whalers wintering in Hudson
 Bay, although no printed records of such visits are extant. A
 number of specimens that can now be identified as coming
-from Southampton Island are figured in J. E. Nourse’s “Nar¬
-rative of the Second Arctic Expedition made by Charles F.
+from Southampton Island are figured in J. E. Nourse’s “Narrative of the Second Arctic Expedition made by Charles F.
 Hall. ,, 1 I found a harpoon-head from that island in the
 Sloane collection in the British Museum, and another one in
 the Sturgis collection in the American Museum of Natural
@@ -2559,28 +2009,20 @@ specimen by a string is a wide ring of leather, which is
 worn over the joint of the fourth finger of the right
 hand. The flint which is to be worked is placed on the skin
 pad in the hollow of the left hand. The flaker is firmly
-grasped by the right so that the fourth finger is near its taper¬
-ing end. Then flakes are removed from the flint by pressure,
+grasped by the right so that the fourth finger is near its tapering end. Then flakes are removed from the flint by pressure,
 the second joint of the fourth finger, which would strike the
 flint, being protected by the ring. Arrow-points, harpoon and
 lance points, and knives, are made of this material. It would
 seem that the Eskimo first make the diamond-shaped forms
-shown in Fig. 84, a-d. By flaking the base of these, arrow-
-points with slender stems are made (Fig. 84, e-l). The
+shown in Fig. 84, a-d. By flaking the base of these, arrowpoints with slender stems are made (Fig. 84, e-l). The
 elongated points (Fig. 84, r, s) may have been used as knives.
-A supply of these points wrapped simply in a long strip of seal-
-intestine, and the flaker, are generally carried in the tool-pouch
+A supply of these points wrapped simply in a long strip of sealintestine, and the flaker, are generally carried in the tool-pouch
 
 
 1 U. S. Naval Observatory, 1879, p. 169.
 
 
 Fig. 83 ( 2 |§ 3 a). Flaker for making Arrow-points. Length, 20 cm
-
-
-Bulletin American Museum of Natural History. [Vol. XV,
-
-
 of the quiv is of the same type as that of Cumberland
 
 Sound and Smith Sound. 1
@@ -2592,11 +2034,7 @@ Captain Comer’s collection vary from
 120 to 130 cm. in length. They are
 made of wood, and have a strong sinew
 backing. This is the type called by
-Murdoch the Arctic type." The speci¬
-mens show that originally
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 65
+Murdoch the Arctic type." The specimens show that originally
 
 
 The bow shown in Fig. 85, a, consists of a single piece of
@@ -2608,8 +2046,7 @@ knobs to which the bowstring is fastened, forming seven
 strands. These are held together near the ends of the bow
 by a cross-tie, the string being wrapped twice around the
 strands and tied around notches in the sides of the bow. At
-one end the tip of the bow is strengthened by a piece of seal¬
-skin placed under the backing. At the same end, 7 cm. from
+one end the tip of the bow is strengthened by a piece of sealskin placed under the backing. At the same end, 7 cm. from
 the tip, to a point 15 cm. from the same, both the inner and
 the outer sides of the bow are strengthened by a strip of
 whalebone, which is firmly lashed to the bow. This
@@ -2619,8 +2056,7 @@ whalebone running from a point 10 cm. from the end to
 a point 50 cm. from the end of the bow, which is placed
 along the back of the bow over the strengthening previously
 described, but under the sinew backing. It is held in place
-only by the secondary backing, which will presently be de¬
-scribed. The longitudinal backing described before is
+only by the secondary backing, which will presently be described. The longitudinal backing described before is
 strengthened by a secondary series of strands, beginning
 about 20 cm. from the ends of the bow. The method of
 application of these is shown in Fig. 86. The inner side
@@ -2640,9 +2076,6 @@ side of its centre it is wrapped with sinew. The distance be-
 \June y igoi.] 5
 
 
-66 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 tween the wrapped places is about 9 cm., while the wrapping
 itself extends for a distance of about 5 cm.
 
@@ -2655,19 +2088,15 @@ point 28 cm. from the tip of the bow. At the other end a
 strip of whalebone extends from a point 13 cm. from the tip
 of the bow to 21.5 cm. from the tip of the bow* At this
 end the bow is further strengthened by a piece of wood
-or whalebone firmly lashed to its inner side before applica¬
-tion of the backing. The sinew backing of the bow is twisted
+or whalebone firmly lashed to its inner side before application of the backing. The sinew backing of the bow is twisted
 in the middle, as described before, and held in place by a sinew
 string passed five times through the twisted backing, and tied
-a few times around it. There is no strengthening in the mid¬
-dle of the bow.
+a few times around it. There is no strengthening in the middle of the bow.
 
 A third bow (^f^) is 124 cm. long. It is also of the same
 make. It is strengthened on one side, a distance of 26 cm.
 to 39 cm. from the end, by a strip of wood attached on
-the inner side. At the corresponding point of the oppo¬
-site end of the bow, it is strengthened by a close wrap¬
-ping of sinew string. The back is strengthened by a single
+the inner side. At the corresponding point of the opposite end of the bow, it is strengthened by a close wrapping of sinew string. The back is strengthened by a single
 strip of whalebone, 13 cm. long, in the centre of the bow.
 The backing is twisted in the manner described above, but
 the fastening of the wrapping is much more elaborate than
@@ -2677,17 +2106,10 @@ then continued over the bow and the backing by nine more
 strands, and carried on eight times more around the backing
 alone, and is finally closed by winding the sinew twice around
 this whole central wrapping between the backing and the
-body of the bow. Evidently the maker found, after the back¬
-ing was applied, that it was not quite tight enough, and for
+body of the bow. Evidently the maker found, after the backing was applied, that it was not quite tight enough, and for
 this reason applied a number of transversal wooden wedges
 between the backing and the body of the bow, over and just
-outside of the places where the body of the bow is strength¬
-ened as above described. On one side the backing was
-
-
-68 Bulletin American Museum of Natural History. [Vol. XV,
-
-
+outside of the places where the body of the bow is strengthened as above described. On one side the backing was
 provided with a protective wrapping of sinew string before
 the wedges were driven in.
 
@@ -2700,15 +2122,12 @@ length. The tip of the foreshaft is cut out on one
 I side to receive the base of the flint head, which
 
 I is fastened with a wrapping of sinew. The splice
-between foreshaft and shaft of the arrow is gen¬
-erally slanting, but in one case at least (Fig. 85, c f )
+between foreshaft and shaft of the arrow is generally slanting, but in one case at least (Fig. 85, c f )
 
 9 the foreshaft is inserted in the shaft. While all the
 modern arrows of Cumberland Sound are feathered
 with two feathers, there are a number in the present
-| collection that have three spiral feathers, but at¬
-tached to the characteristic flat rear end of the ar-
-h row. The nock
+| collection that have three spiral feathers, but attached to the characteristic flat rear end of the arh row. The nock
 
 ! is always
 
@@ -2720,16 +2139,13 @@ h row. The nock
 
 \
 
-yv The harpoon-
-
-i points are of ^ m o
+yv The harpooni points are of ^ m o
 
 I two distinct * P I
 
 types, — one u I
 
 i i! with a single ^ f
-
 barb (Fig. 87,
 
 1 ‘ a), the other
@@ -2742,8 +2158,7 @@ i T h e s t o n e
 
 » points are
 either parallel
-'or at right an¬
-gles to the ax-
+'or at right angles to the ax-
 
 Fig. 88( 2 §^j. i s, around d
 
@@ -2751,16 +2166,9 @@ Flint Head, which the head Fig. 89. Flint Points for Harpoons and Lances. £ nat
 Length, 193 _ size.
 
 cm. turns when „ i^c), b (,«,»), c (rffce), d (,»,b),
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 69
-
-
-disengaged from its shaft. It would seem that the single-
-barbed point shown in Fig. 87, e, serves the same purpose as
+disengaged from its shaft. It would seem that the singlebarbed point shown in Fig. 87, e, serves the same purpose as
 the detachable lance-head used in Cumberland Sound, which
-was described onp.14. The kayak lance (Fig. 88) is quite simi¬
-lar to the one used in Cumberland Sound, 1 except that it has
+was described onp.14. The kayak lance (Fig. 88) is quite similar to the one used in Cumberland Sound, 1 except that it has
 a flint head. In both lances and harpoons the attachment of
 the foreshaft to the main shaft is identical with the one used
 by other Central tribes. 3 A small piece of ivory is always
@@ -2771,12 +2179,9 @@ points of lances and harpoons are quite large (Fig. 89).
 No flint knives, such as are described by Captain Lyon,
 were collected by Captain Comer. He secured, however, the
 back of a knife (Fig. 90). This is a long piece of bone with a
-slit on one side, into which the stone or metal blade was in¬
-serted. The same method of attachment was used in the an¬
-cient woman’s knives of slate (see p. 28) and also in the knives
+slit on one side, into which the stone or metal blade was inserted. The same method of attachment was used in the ancient woman’s knives of slate (see p. 28) and also in the knives
 of meteoric (?) iron from Smith Sound, one of which is said
-to be in the possession of Lieut. R. E. Peary. Their snow-
-knives are also very primitive (Fig. 91). They are made of
+to be in the possession of Lieut. R. E. Peary. Their snowknives are also very primitive (Fig. 91). They are made of
 whalebone or of ivory. The whalebone blade (Fig. 91, b, c)
 is lashed to a wooden handle, while the ivory knife shows a
 much more intricate method of joining. Both the bone
@@ -2803,9 +2208,6 @@ tools. It looks as if at one time it might have served as a knife.
 2 L. c., Fig. 420, p. 489.
 
 
-70 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 c
 
 
@@ -2813,9 +2215,6 @@ Fig. 90 ( T ?§ 7 ) Back of Knife. Length, 22 cm.
 
 Fig. pi. Snow-knives, i nat. size, a (if g*), Made of bone; b ( 5 §#s), c (sfSs), Made
 of whalebone.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. fi
 
 
 Knives are carried in seal-skin pouches provided with a
@@ -2829,8 +2228,7 @@ four points they are joined by means of narrow strips of
 whalebone, which pass through slits in the bottom of the
 toboggan. These slits are made by splitting off the upper
 layer of the whalebone, so that the cross-lashing does not
-appear on the lower side of the toboggan, which in this man¬
-ner is kept perfectly smooth.
+appear on the lower side of the toboggan, which in this manner is kept perfectly smooth.
 
 The eyes for stringing the traces of the dogs to the sledge
 (Fig. 96) resemble those used by other tribes.
@@ -2841,12 +2239,6 @@ Fig. 94 (sflhb). Knife-case. Length, 25 cm.
 Fig. 95 (ttIf)* Toboggan. Length, 151 cm.
 
 Fig. 96 Gii^sf^e). Eyes for Dog’s Traces. £ nat. size
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 73
-
-
-74 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 Fig. ioo (2125)•
@@ -2860,14 +2252,10 @@ Fig. 102 (*f §ia,b). Hair-ornaments. £ nat.
 size.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 75
-
-
 Almost all the cups and dishes of this tribe are made of
 whalebone (Fig. 97). The bottom is generally made of bone,
 to which the whalebone is sewed. The sides are closed with
-whalebone sewing, and the handle is made of the same ma¬
-terial. A wooden dish is shown in Fig. 98. It is interesting
+whalebone sewing, and the handle is made of the same material. A wooden dish is shown in Fig. 98. It is interesting
 as showing a curious patch made of leather and cemented to
 the wood.
 
@@ -2877,8 +2265,7 @@ limestone cemented together with a mixture of oil, soot, and
 blood (Fig. 99). The shape of both lamp and pot is evidently
 derived from that of the soapstone lamps and pots of other
 tribes. The slabs composing the bottom and sides of the pots
-are sewed together with whalebone. One pot in the col¬
-lection is 47 cm. long, 23 cm. wide, and 13 cm. high. The
+are sewed together with whalebone. One pot in the collection is 47 cm. long, 23 cm. wide, and 13 cm. high. The
 thickness of the limestone slabs of which it is made is less
 than 10 mm.
 
@@ -2891,20 +2278,12 @@ Fie. 103 ( 5 f§ 7 ). Ivory Fig. 104 Gffo). Snow-goggles. Width, 14.5 cm.
 Comb. Length, 9.5 cm.
 
 
-No new information in regard to their clothing was ob¬
-tained. A few buttons (Fig. ioi) probably served for attach¬
-ments to needle-cases or for holding coils of lines (see p. 55).
+No new information in regard to their clothing was obtained. A few buttons (Fig. ioi) probably served for attachments to needle-cases or for holding coils of lines (see p. 55).
 The curious hair-pendants described by Lyon are evidently
 still in use (Fig. 102). Of these, several were obtained. All
-
-
-76 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 are made of ivory, and ornamented with dots. A small ivory
 comb (Fig. 103) resembles those used by other tribes. The
-type of snow-goggles (Fig. 104) is identical with that com¬
-monly used in Cumberland Sound.
+type of snow-goggles (Fig. 104) is identical with that commonly used in Cumberland Sound.
 
 The whole tribe seems to number only 57 souls. Captain
 Comer describes some of their winter huts as built of the
@@ -2919,8 +2298,7 @@ The implements used by the Kinipetu and Aivilik are, on
 the whole, very much alike, and may be described together.
 The kayak used by the tribes of the west coast of Hudson
 Bay differs from the kayak of Davis Strait and Baffin Bay
-in being much lighter and in having a rounded bottom. In¬
-stead of the flat bottom described above, the kayak has
+in being much lighter and in having a rounded bottom. Instead of the flat bottom described above, the kayak has
 rounded ribs, which are attached to eight longitudinal strips
 (Figs. 105, 106). The kayak is covered with the inner skin of
 the seal, and for this reason is much lighter than the kayaks
@@ -2964,44 +2342,14 @@ Weight.
 
 860 cm.
 
-104
-
-106
-
-463
-
-397
-
-44
-
-42
-
-47
-
 
 i5-5
 
-28
-
-30
-
-42
-
-8
-
-
-15
 
 36 lbs.
 
 
-77
-
-
 a Gl§ga), Aivilik lake-kayak (length, 75 cm.); b Gssga), Aivilik sea-kayak (length, 80 cm.) ; c (5887), Kinipetu kayak (length, 104 cm.).
-
-
-78 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 The Aivilik build their kayaks for hunting caribou in
@@ -3048,12 +2396,6 @@ delicate rod of ivory, attached to a fine string of sinew and a
 See p. 13.
 
 
-8o Bulletin American Museum of Natural History . [Vol. XV,
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 81
-
-
 leather ring, is inserted in the seal-hole (Fig. 112). When the
 seal reaches the breathing-hole, it strikes the light rod, and
 by this means the approach of the seal is indicated.
@@ -3085,12 +2427,10 @@ between the backing and the body of the bow. At each end
 the wrapping is secured by a number of secondary strands
 or rings of the same character as those described before
 (p. 65). These are here also held in place by a number of
-notches in the sides of the bow. On the inner side, at a dis¬
-tance of 9 cm. from the middle, are two very small horn
+notches in the sides of the bow. On the inner side, at a distance of 9 cm. from the middle, are two very small horn
 pegs placed in an eccentric position, the one a little to the
 right, the other a little to the left, of the middle line of the
-bow. They protrude about 3 mm. above the surface. Pos¬
-sibly they may serve to hold the bowstring in position when
+bow. They protrude about 3 mm. above the surface. Possibly they may serve to hold the bowstring in position when
 the bow is strung.
 
 The specimen illustrated in Fig. 114, b, differs somewhat
@@ -3099,14 +2439,10 @@ from the one before described. It consists of two pieces of
 [ October , igoi\ 6
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 83
-
-
 horn with slanting joint and copper rivets. The primary
 backing is strung seven times up and down the bow, and is
 fastened in the middle as before described. There are only
-two windings at each end to hold the backing in place, al¬
-though the side of the bow is provided with three notches
+two windings at each end to hold the backing in place, although the side of the bow is provided with three notches
 to hold these fastenings.
 
 A third bow from Boothia Felix (^f?^) resembled the one
@@ -3121,8 +2457,6 @@ usedj(Fig.ii5,a). The strands are spread
 apart by means of a marline - spike
 made of bone, for insertion of the toggle
 (Fig. 115, b). No arrows were collected
-
-
 a b
 
 
@@ -3141,45 +2475,30 @@ Slate arrow-head ; (csflfo), Bone
 point with iron head.
 
 
-by Captain Comer, but a few foreshafts and points are con¬
-tained in the collection. One of the foreshafts is barbed.
+by Captain Comer, but a few foreshafts and points are contained in the collection. One of the foreshafts is barbed.
 The point is made of metal (Fig. 116, c). In olden times slate
-
-
-84 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 points were used in place of metal points (Fig. 116, b ). The
 bone point (Fig. 116, a) shows that in some cases at least the
 points were inserted in the shaft, not lashed to it, as is usual
-on Southampton Island and in Cumber¬
-land Sound. The bone foreshafts of ar¬
-rows, and other wooden or bone shafts,
-are straightened by means of a bone im¬
-plement (Fig. 117), which is provided
+on Southampton Island and in Cumberland Sound. The bone foreshafts of arrows, and other wooden or bone shafts,
+are straightened by means of a bone implement (Fig. 117), which is provided
 with holes of various diameters, the
 shaft being inserted in the hole of
 proper size.
 
-In fishing, the three-
-pointed fish-spear 1 is em¬
-ployed extensively. Gen¬
-erally it is provided with
+In fishing, the threepointed fish-spear 1 is employed extensively. Generally it is provided with
 a very long shaft, and in
 some cases the points are
 made of musk-ox horn
 (Fig. 118). A peculiar form
 of fishing-tackle is used by
 the tribes of the west coast
-of Hudson Bay. The fish-
-line is made of braided
+of Hudson Bay. The fishline is made of braided
 sinew. It is attached to
 a peculiar bone reel? on
 which it is wound when
-not in use. The hook con¬
-sists of a piece of bone to
+not in use. The hook consists of a piece of bone to
 Fig. ii 7 straightener w hi c h, at the present day,
-
 for Arrow-shafts. Length, 33 cm. 7 x J 1
 
 a metal hook is attached
@@ -3194,15 +2513,11 @@ mouth (Fig. 121).
 
 Fig. zi8
 
-Barb of Fish-
-spear. Length, 13
+Barb of Fishspear. Length, 13
 cm.
 
 
 1 See p 26.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 85
 
 
 Captain Comer collected a curious snare made of whalebone,
@@ -3222,20 +2537,13 @@ made of musk-ox horn (Fig. 123). The scoop is tied to a long
 handle, which fits into a groove on its lower side.
 
 Among the series of knots collected by Captain Comer, no
-
-
-88 Bulletin American Museum of Natural History. [Vol. XV,
-
-essentially new forms were found. The only difference be¬
-tween the knots of this region and those of Cumberland
+essentially new forms were found. The only difference between the knots of this region and those of Cumberland
 Sound consists in the fact that instead of using slits, the
 Eskimo seem to prefer to turn over the ends of the lines, and to
 make loops by sewing the end to the standing part (Fig. 124).
 
 The old double-bladed knife is still extensively used by the
-people of this area (Fig. 125). Some of the large double-
-
-bladed knives collected by
+people of this area (Fig. 125). Some of the large doublebladed knives collected by
 Captain Comer are of the
 same type as those found
 by Parry in Iglulik in 1821.
@@ -3248,10 +2556,8 @@ This knife has a very long
 handle, and the blade is
 generally protected by a
 leather shaft. The handle
-has no grooves for the fin¬
-gers, such as are found on
-knives from British Colum¬
-bia and Alaska. Teeth
+has no grooves for the fingers, such as are found on
+knives from British Columbia and Alaska. Teeth
 mounted on the ends of
 pieces of wooden shafts are
 used for whetting knives
@@ -3259,30 +2565,19 @@ used for whetting knives
 
 The axe illustrated in
 Fig. 128 has a mounting
-similar to that of the prim¬
-itive bone axe described
+similar to that of the primitive bone axe described
 Fig. 127 (2773)* Fig. 128 ( 5 f§ 7 ). Axe. on p. 69. The blade is
 
 Knife-sharpener Length, 25 cm. .. r .11. ...
 
-Length,9cm. made of metal; but, with¬
-
-out any doubt, in former
+Length,9cm. made of metal; but, without any doubt, in former
 times bone axes were used in this region also. The end of the
 handle is perforated, probably for suspending the axe from
 the sledge or in the house.
 
 
-1901:] Boas , Eskimo of Baffin Land and Hudson Bay .
-
-
-90 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-In olden times, when wood was scarce, sledges were some¬
-times made of walrus-hide cut lengthwise, rolled up tightly,
-and then frozen. Cross-pieces of bone were tied to the run¬
-ners. The shoeing was made of a mixture of powdered moss
+In olden times, when wood was scarce, sledges were sometimes made of walrus-hide cut lengthwise, rolled up tightly,
+and then frozen. Cross-pieces of bone were tied to the runners. The shoeing was made of a mixture of powdered moss
 and water. This shoeing was covered with ice in the same
 manner as described in my paper on the Central Eskimo. 1 At
 the present time, sledges about 16 feet long are used, the
@@ -3291,44 +2586,34 @@ to turn upwards about 3 feet from the front end, the tip being
 8 inches high. The cross-pieces extend 4 inches over each
 side, and have rounded ends. The shoeing is made of whales'
 jaws. The runner itself is two inches wide, and is covered
-with hoop-iron. • In order to prevent the runners from split¬
-ting, a number of bolts or long spikes are passed through them.
-When dragging home a piece of walrus, three ribs are some¬
-times stuck into the meat to serve as runners.
+with hoop-iron. • In order to prevent the runners from splitting, a number of bolts or long spikes are passed through them.
+When dragging home a piece of walrus, three ribs are sometimes stuck into the meat to serve as runners.
 
 The whip used by the people of the west coast of Hudson
 Bay is similar to the one used in Cumberland Sound (Fig.
-129). The length of the handle of the specimen here de¬
-scribed is 28 cm., while the thong is 6 m.
+129). The length of the handle of the specimen here described is 28 cm., while the thong is 6 m.
 long. The method by which the handle part
 of the thong is increased in thickness is
 somewhat complicated. The extra thickness
 is obtained by braiding in additional strips of
 thong. The details of the method of insertion
-are illustrated in Fig. 130. After three addi¬
-tional thongs have been inserted (6, c, d), a
+are illustrated in Fig. 130. After three additional thongs have been inserted (6, c, d), a
 fourth thong ( e) } which is not split, is pulled
-in at one side, and out at the other side be¬
-tween the braids.
+in at one side, and out at the other side between the braids.
 
 The implements used for preparing skin
 differ somewhat in form from those used in
 Cumberland Sound. A bone comb with wide
 teeth is used for combing caribou-skins, and
-Fig. 131 (aft*). Fur- t 0 remove the loose hair (Fig. 131). The in¬
-ner side of the skin is scraped with a bone
+Fig. 131 (aft*). Fur- t 0 remove the loose hair (Fig. 131). The inner side of the skin is scraped with a bone
 scraper made of the split leg-bone of the caribou (Fig. 132).
 
 
 1 p . 534.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 9 1
-
-
 Other scrapers, which serve to remove the flesh and soften
-the skin, are shown in Fig. 133. While the implement de¬
-scribed before is used with its long edge, like a beaming-knife,
+the skin, are shown in Fig. 133. While the implement described before is used with its long edge, like a beaming-knife,
 the second form is used with its narrow edge, like the metal
 and stone scrapers described on pp. 32-34.
 
@@ -3344,16 +2629,10 @@ Fig. 133. Skin-scrapers made of Bone. £ nat. size, a ( 2 §§ 5 ), b (sits), c 
 The handle end is sometimes covered with skin and moss (Fig.
 133, c )- The Eskimo evidently prefer, on handles to such
 implements, a knob extending towards the left-hand side. In
-one specimen (Fig. 133, d) this is secured by lashing an addi¬
-tional piece of bone to the end of the handle. It is interesting
+one specimen (Fig. 133, d) this is secured by lashing an additional piece of bone to the end of the handle. It is interesting
 to note that the handles of stone scrapers of the Kinipetu
 (Fig. 134) are fashioned in the same way. The stone blade is
 inserted in the handle. Probably the antler is steamed, and
-
-
-92 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 the stone pushed into it while hot. In a few specimens (Fig.
 134, a, b) a metal blade is substituted for the stone blade.
 Quite a number of scrapers of the Kinipetu are made entirely
@@ -3368,11 +2647,6 @@ the bone scrapers, and the stone scrapers with bone handles,
 the end of the handle being turned to the left. I presume
 these peculiar stone scrapers are a later development from
 forms previously described. The water is squeezed out of
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 93
-
-
 wet skins with hollow bone scrapers, some of which have
 handles snugly fitting the fingers (Fig. 135).
 
@@ -3389,9 +2663,7 @@ cases of wood or
 ivory of peculiar
 form (Fig. 136).
 Most of them are
-somewhat rectan¬
-gular in cross-sec¬
-tion, and inlaid
+somewhat rectangular in cross-section, and inlaid
 with black horn or
 wood. Some are
 made of ivory, and
@@ -3403,21 +2675,16 @@ leather bag filled
 with moss, into
 which the needle
 is pushed (Fig.
-136, d). The nee¬
-dle-cases from
+136, d). The needle-cases from
 Cumberland Sound
 described before
-(p. 34) are of differ¬
-ent design. Almost
+(p. 34) are of different design. Almost
 all the needle-cases
 from the west coast
 
 
 ^ Hudson Bay Fig. 135, a (sfSsc), b (s®§ B a), c (jfigb). Implements for squeezing
 have numerous ^ ater out Wet Skins. 3 nat. size.
-
-
-94 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 carvings as attachments, and most of them are provided
@@ -3441,28 +2708,21 @@ similar to that of Southampton Island. In one specimen
 1 Kroeber, /. c., p. 286.
 
 
-96 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 figured here, the joint between the ivory knife and the bone
 handle is slanting (Fig. 138, 6), while in another specimen
 (Fig. 138, a) the ivory extends some distance along the bone
 handle to which it is sewed. After the snow vault for the
 house is finished, the Eskimo cover a considerable portion of
-
-it with loose snow. For this pur¬
-pose a snow-shovel (Fig. 139) is
+it with loose snow. For this purpose a snow-shovel (Fig. 139) is
 used, which is made of a number
 of strips of wood sewed together.
 The shovel has a bone handle
 and bone edge. In the middle a
 second handle is provided for the
-left hand. The snow house dif¬
-fers from that of Cumberland
+left hand. The snow house differs from that of Cumberland
 Sound in that the bed platform
 is not in the rear of the house,
-but at the side (Fig. 140). Cap¬
-tain Comer describes a snow
+but at the side (Fig. 140). Captain Comer describes a snow
 house built Feb. 21, 1898, for
 three families consisting of
 twelve people, as follows: The
@@ -3477,32 +2737,20 @@ The entrance passage consisted
 of three elongated vaults, each
 3.5 m. long and 2 m. wide at the widest part. A store-room
 was attached to each side of the main building. One was
-used for provisions, the other one for clothing. The store¬
-room used for provisions generally faces northward.
+used for provisions, the other one for clothing. The storeroom used for provisions generally faces northward.
 
 Formerly the Aivilik built houses of bones of whales and of
 turf. Some of these may still be seen at Nuvuk in Repulse
-Bay. The skull-bones of five whales were used for the founda¬
-tion of one of these.
+Bay. The skull-bones of five whales were used for the foundation of one of these.
 
 
 77 cm.
 
 
-i9oi.] Boas , Eskimo of Baffin Land and Hudson Bay . 97
-
-
 [October, ipoi.]
 
 
-7
-
-
-9 8 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-The household furniture consists of bedding made of caribou-
-skins, lamp, pot, dishes, leather buckets, ladles, and spoons.
+The household furniture consists of bedding made of caribouskins, lamp, pot, dishes, leather buckets, ladles, and spoons.
 The lamps are of the same shape as those previously described
 (P- 4 i).
 
@@ -3512,26 +2760,20 @@ Fig. 141 (si?*). Kettle from Boothia Felix. Length, 46 cm.; width, 24cm.
 
 The collection contains a kettle of the Netchillik from
 Boothia Felix (Fig. 141), which is of the same form as the one
-from Iglulik illustrated by Parry. 1 Buckets are made of seal¬
-skin (Fig. 142). Generally a cup made of seal-skin stands
+from Iglulik illustrated by Parry. 1 Buckets are made of sealskin (Fig. 142). Generally a cup made of seal-skin stands
 alongside of the bucket. Dishes are made of wood (Fig. 143).
-Some of them are oval, shallow trays, while others are rectangu¬
-lar in outline, with thin sides and thick ends. They are some¬
-times edged with ivory either all round or only at the ends.
+Some of them are oval, shallow trays, while others are rectangular in outline, with thin sides and thick ends. They are sometimes edged with ivory either all round or only at the ends.
 Almost all the spoons and ladles of these tribes are made of
-the horn of the musk-ox. Most of them are of the character¬
-istic type represented in Fig. 144, a, while some have longer
+the horn of the musk-ox. Most of them are of the characteristic type represented in Fig. 144, a, while some have longer
 handles bent at a sharp angle (Fig. 144, b). Spoons with
 long handles, made of the same material, seem to be quite
 rare (Fig. 145). Smaller spoons are more rounded (Fig. 146).
 
-Before entering the snow house, the Eskimo carefully re¬
-move the snow and frost from their clothing by means of a
+Before entering the snow house, the Eskimo carefully remove the snow and frost from their clothing by means of a
 wooden snow-beater (Fig. 147). The winter clothing is not
 taken into the hut, but deposited in a store-room outside.
 
-The collection contains a great number of small bone imple¬
-ments, most of which are provided with a hole at one end for
+The collection contains a great number of small bone implements, most of which are provided with a hole at one end for
 
 1 Journal of a Second Voyage for the Discovery of a North-west Passage (London, 1824),
 p. 548.
@@ -3544,21 +2786,15 @@ Fig. 145.
 
 
 Fig. 144. Ladles of Musk-ox Horn, a (sfSub), Length, 19.5 cm.; b Length of
-
 bowl, 16 cm.; c ( 2 £§b). Length, 18 cm.
 
 Fig. 145 Horn Spoon. Length, 38 cm.
-
-
-1 02 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 suspension. These are said to be used to extract the marrow
 from bones (Fig. 148).
 
 When blubber is scarce, the Aivilik and Kinipetu burn turf
-
-
 and moss. This is dug with
 
 
@@ -3574,14 +2810,12 @@ The clothing of the Aivilik
 and of the Kinipetu differs very
 much from that of the Eskimo
 of Cumberland Sound. It seems
-that they do not wear any seal¬
-skin clothing, but caribou-skin
+that they do not wear any sealskin clothing, but caribou-skin
 is worn in both summer and
 winter. The inner garments are
 also made of caribou-skin, and
 are of the same cut as the outer
-garments. The cut of the Kini¬
-petu clothing is the same as that
+garments. The cut of the Kinipetu clothing is the same as that
 of the Aivilik; but the Kinipetu
 seem to have obtained cloth
 of European manufacture for a
@@ -3603,21 +2837,12 @@ tail which reaches to the ground
 
 
 (Fig. i£o). It has no slits on the sides. The trousers are
-
-
 practically of the same cut as those of Cumberland Sound.
 
 
 The men wear over their stockings outer shoes made entirely
-
-
 of the skin of caribou-legs (Fig. 154, a, c).
 
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 103
-
-
-104 Bulletin American Museum of Natural History. [Vol. XV,
 
 The dress of the women (Plates III, IV) consists of a jacket
 (Figs. 151,152), very short breeches, long stockings reaching
@@ -3630,10 +2855,6 @@ pointed flap in front, and a very long flap behind. The hood
 is large, and has a small opening. On each side, in front, a
 skin loop is provided, which serves for attaching a thong that
 passes along the back. This thong serves to support the
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 105
-
 child when carried in the hood. The thong is fastened to the
 loops in front by means of two large wooden buttons. The
 needle-case is generally worn suspended from two pieces of
@@ -3651,9 +2872,6 @@ one sewed on. Over the stockings are worn seal-skin slippers,
 
 
 WiM
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 107
 
 
 which reach a little above the ankles (Fig. 154, b). The hair
@@ -3681,7 +2899,6 @@ tribes on the west coast of Hudson Bay (Fig. 156). Most of
 
 
 108 Bulletin Anierican Museum of Natural History. [Vol. XV,
-
 the modern combs have etched designs or other forms of
 elaborate decoration. Among all these tribes, the women
 tattoo their faces and their arms. The designs show slight
@@ -3703,12 +2920,6 @@ While almost the whole culture of these tribes is purely
 
 
 1 Parry, l.c., p. 548.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 1 09
-
-
-IIO Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Eskimo, their pipes show a very strong Indian influence (Fig.
@@ -3748,19 +2959,12 @@ turn. 1
 
 Another game is as follows:
 A large cake of ice is formed
-in the shape of a top (kipe-
-kutuk) with a flat surface and
+in the shape of a top (kipekutuk) with a flat surface and
 a dull point which fits into a
 shallow hole. One man sits
 down on the piece of ice, while
-
-
 two others spin it around by
-
-
 means of sticks. This game is often indulged in at the floe
-
-
 edge, when waiting for the pack-ice jto come in with the tide.
 
 
@@ -3770,9 +2974,6 @@ Generally a man who is the butt of all the others is in-
 1 Boas, /. c., p. 568.
 
 
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay . ill
-
-
 duced to sit on this top, and is spun around until he is made
 sick.
 
@@ -3780,11 +2981,8 @@ Small hoops of whalebone (terkutuk) are joined crosswise
 (Fig. 161). Then they are placed on the ice or hard snow
 when the wind is blowing. The young men run to catch them.
 
-Boys play hunting seals. Each of them has a small har¬
-poon and a number of pieces of seal-skin with many holes.
+Boys play hunting seals. Each of them has a small harpoon and a number of pieces of seal-skin with many holes.
 Each piece of skin represents a seal. Each of the boys also
-
-
 has a hip-bone of the seal. Then one boy moves the piece of
 skin which represents a seal under the hole in the hip-bone,
 which latter represents the blowing-hole in the ice. While
@@ -3796,8 +2994,6 @@ The little harpoons are made by the fathers of the boys, the
 pieces of skin are prepared by their mothers (Fig. 162).
 
 
-I I 2 Bulletin American Museum of Natural History. [Vol. XV,
-
 A game of blind-man’s-buff is described as follows: One of
 the women closes her eyes, and gropes around, trying to find
 another one, who endeavors to keep out of her way. As soon
@@ -3808,8 +3004,6 @@ is caught tries to catch another woman.
 The bones from the seal-flippers are also used for a game.
 Each bone represents a certain animal or an old or a young
 person. They are divided into two equal parts. One bone is
-
-
 picked up from each pile, held up a few inches, and then let
 drop. Should one land right side up, it is looked upon as
 though it had thrown the other down in a fight. The one
@@ -3819,13 +3013,10 @@ This is carried on until one side wins. Then the last bone to
 win is called the bear, being the strongest of all. The player
 who has lost the game so far takes the bone, holds it to his
 forehead, and lets it drop. If it should land right side up,
-it is looked upon as though the bear had thrown him. Other¬
-wise he is stronger than the bear. Children also use these
+it is looked upon as though the bear had thrown him. Otherwise he is stronger than the bear. Children also use these
 bones for playing house.
 
 The game of cup-and-ball is played with an implement
-
-
 with four holes drilled into its short edge. It is caught on a
 wooden or bone pin. This game is also played with the
 shoulder-bone of the seal (Fig. 164).
@@ -3841,8 +3032,7 @@ great many carvings in ivory and in
 soapstone. A few of the best-executed
 carvings are shown in Fig. 167.
 
-One rather curious specimen (Fig. 168) is a flat ivory pen¬
-dant used as an ornament on a woman’s jacket. It is said to
+One rather curious specimen (Fig. 168) is a flat ivory pendant used as an ornament on a woman’s jacket. It is said to
 
 [October , igoi .] 8
 
@@ -3850,12 +3040,8 @@ dant used as an ornament on a woman’s jacket. It is said to
 b
 
 
-Fig. 168 (sISt). Ivory Pen¬
-dant, Front and Back Views.
+Fig. 168 (sISt). Ivory Pendant, Front and Back Views.
 Length, 5 cm.
-
-
-1 14 Bulletin American Museum of Natural History, [Vol. XV,
 
 
 come from Victoria Land, and to show the cut and decoration
@@ -3864,9 +3050,6 @@ front of the pendant represents the short front tail and the
 white spots on the breast part of the jacket, while that
 on the reverse side represents the long flap and the shoulder
 ornamentation.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 11 5
 
 
 III. SOCIAL ORGANIZATION.
@@ -3885,8 +3068,7 @@ leader of the tribe. He had three wives, by one of whom he
 had two children, by the second three, and by the last five.
 When he died, his nephew, on account of his ability, became
 his successor as a leader of the tribe. His name is Tesiaq,
-and he is called Harry by the whalers. Captain Comer con¬
-tinues: “Harry, when born, was blessed by his grandfather
+and he is called Harry by the whalers. Captain Comer continues: “Harry, when born, was blessed by his grandfather
 with much ceremony, that he might become a great hunter
 and whaleman. All skins taken by him should be prepared
 only by the very best workers. His guardian spirit would
@@ -3908,9 +3090,6 @@ a Scotch steamer, gave one of their children to an Aivilik
 family in exchange for a gun.
 
 
-116 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 The hunter who first strikes a walrus receives the tusks and
 one of the fore-quarters. The person who first comes to his
 assistance receives the other fore-quarter; the next man, the
@@ -3921,10 +3100,8 @@ them to assist in hunting walrus.
 
 A person who has unwittingly damaged the property of
 another regrets that he has been the cause of loss, particularly
-if the owner should comfort him by minimizing the impor¬
-tance of the accident. If, on the other hand, the owner
-should express his annoyance, the offender will take com¬
-fort, “because it is sufficient for one person to feel annoyed.”
+if the owner should comfort him by minimizing the importance of the accident. If, on the other hand, the owner
+should express his annoyance, the offender will take comfort, “because it is sufficient for one person to feel annoyed.”
 
 The meetings of strangers are accompanied by ceremonies
 which generally take the form of contests. 1 The strangers
@@ -3948,15 +3125,11 @@ few years ago a Netchillik who could not endure the pressure
 of the knife of his opponent suddenly stabbed arid killed him.
 He fled during the night.
 
-The Netchillik are reputed to be quarrelsome and treach¬
-erous. Captain Comer mentions the case of a man who in a
+The Netchillik are reputed to be quarrelsome and treacherous. Captain Comer mentions the case of a man who in a
 fit of rage tore his wife’s clothes off. When she crouched on
 
 
 1 L. c., p. 609.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 117
 
 
 the ground for shame, his father tried to interfere, when he
@@ -3971,8 +3144,7 @@ name, one of them will relinquish his name, and be given a
 present in return.
 
 Orphans and aged people who become a burden to the tribe
-may be killed. Some instances of these practices are de¬
-scribed by Captain Comer. A woman now living near Repulse
+may be killed. Some instances of these practices are described by Captain Comer. A woman now living near Repulse
 Bay had an idiotic child. Though the child was cared for
 till it was about fourteen years old, it never grew, and was
 always carried on its mother’s back. The child’s father died
@@ -3980,8 +3152,7 @@ about ten years ago, and the mother could hardly get a living,
 and no man wanted to take her with the child. Though she
 loved it, she realized that it would always remain a burden.
 The child’s name was Nuliayoq, named after the ruler of all
-sea or land animals. When she decided that she must dis¬
-pose of the child, she placed it on the ground and killed it by
+sea or land animals. When she decided that she must dispose of the child, she placed it on the ground and killed it by
 putting her foot on its chest. She afterwards became lame
 in that leg and foot. It is believed that the spirit Nuliayoq
 was offended by her. It might seem that the last statement
@@ -3992,30 +3163,20 @@ Among the Netchillik, people who become sick and infirm
 without prospect of recovery commit suicide or are hung.
 
 When a travelling party run short of provisions, they
-sometimes leave a woman or an old person who may hin¬
-der their progress in a small snow hut, in which such person
+sometimes leave a woman or an old person who may hinder their progress in a small snow hut, in which such person
 is walled up. In case the party succeed in reaching their
 destination and replenishing their stock of provisions, they
 return for the deserted one.
 
 People who have made themselves obnoxious are disposed
-of by common consent. An angakok discovered that an¬
-other angakok had wished a great many of the Eskimo to die.
+of by common consent. An angakok discovered that another angakok had wished a great many of the Eskimo to die.
 This matter was talked over, and it was decided that the
-
-
-I I8 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 hostile angakok should be disposed of. One day, when he had
 made a hole in the ice of a pond, and was reaching down to
 clean out the broken pieces of ice, he was stabbed in the back
 by an old man, who received the thanks of the others for his
 feat. The wife of the murdered man went to live with a
 young man.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 1 19
 
 
 IV. CUSTOMS AND RELIGIOUS IDEAS.
@@ -4033,19 +3194,15 @@ his village. When her father carried her back in his boat, the
 petrel caused a heavy gale. In order to save himself, Sedna’s
 father threw her overboard; and when she clung to the boat,
 he cut off the joints of her fingers one by one. As they fell
-into the water they were transformed into whales, ground-
-seals, and common seals. Finally he knocked out one of her
-eyes. Then she went to the lower world, of which she be¬
-came the mistress. Her father, on reaching his village, lay
+into the water they were transformed into whales, groundseals, and common seals. Finally he knocked out one of her
+eyes. Then she went to the lower world, of which she became the mistress. Her father, on reaching his village, lay
 down on the beach and covered himself with his tent. The
 rising tide swept over him, and he also went-down, and now
 lives in Sedna’s house.
 
-This woman, the mother of the sea-mammals, may be con¬
-sidered as the principal deity of the Central Eskimo. She
+This woman, the mother of the sea-mammals, may be considered as the principal deity of the Central Eskimo. She
 has supreme sway over the destinies of mankind, and almost
-all the observances of these tribes are for the purpose of re¬
-taining her good will or of propitiating her if she has been
+all the observances of these tribes are for the purpose of retaining her good will or of propitiating her if she has been
 offended. She is believed to live in a lower world, in a house
 built of stone and whale-ribs. In accordance with the myth,
 she is said to have but one eye. She cannot walk, but slides
@@ -4058,8 +3215,6 @@ his tent. Her dog, which, according to one version of the
 
 
 120 Bulletin Ametkan Museum of Natural History. [Vol. XV,
-
-
 myth, was her husband, guards the entrance, being stationed
 on the floor of the house.
 
@@ -4071,12 +3226,10 @@ If, during the three days that the soul stays with the body, any
 taboo or proscribed custom is violated, the violation (pitsse'te)
 becomes attached to the animal’s soul, and causes it pain.
 The soul strives in vain to free itself of these attachments,
-but is compelled to take them down to Sedna. The attach¬
-ments, in some manner not explained, make her hands sore,
+but is compelled to take them down to Sedna. The attachments, in some manner not explained, make her hands sore,
 and she punishes the people who are the cause of her pains by
 sending to them sickness, bad weather, and starvation. If,
-on the other hand, all taboos have been observed, the sea-
-animals will allow themselves to be caught: they will even
+on the other hand, all taboos have been observed, the seaanimals will allow themselves to be caught: they will even
 come to meet the hunter. The object of the innumerable
 taboos that are in force after the killing of these sea-animals,
 therefore, is to keep their souls free from attachments that
@@ -4088,8 +3241,7 @@ the effect of contact with a corpse, which causes objects
 touched by it to appear dark in color; and they can see the
 effect of flowing human blood, from which a vapor rises that
 surrounds the bleeding person and is communicated to every
-one and every thing that comes in contact with such a per¬
-son. This vapor and the dark color of death are exceedingly
+one and every thing that comes in contact with such a person. This vapor and the dark color of death are exceedingly
 unpleasant to the souls of the sea-animals, that will not come
 near a hunter thus affected. The hunter must therefore
 avoid contact with people who have touched a body, or with
@@ -4100,55 +3252,38 @@ If any one who has touched a body or who is bleeding should
 allow others to come in contact with him, he would cause
 them to become distasteful to the seals, and therefore to
 Sedna as well. For this reason custom demands that every
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 121
-
 person must at once announce if he has touched a body, and
 that women must make known when they are menstruating
 or when they have had a miscarriage. If they do not do so,
 they will bring ill luck to all the hunters.
 
 These ideas have given rise to the belief that it is necessary
-to announce the transgression of‘any taboo. The trans¬
-gressor of a custom is distasteful to Sedna and to the animals,
+to announce the transgression of‘any taboo. The transgressor of a custom is distasteful to Sedna and to the animals,
 and those who abide with him will become equally distasteful
 through contact with him. For this reason it has come to
 be an act required by custom and morals to confess any and
-every transgression of a taboo, in order to protect the com¬
-munity from the evil influences of contact with the evil-doer.
-The descriptions of Eskimo life given by many observers con¬
-tain records of starvation, which, according to the belief of
+every transgression of a taboo, in order to protect the community from the evil influences of contact with the evil-doer.
+The descriptions of Eskimo life given by many observers contain records of starvation, which, according to the belief of
 the natives, was brought about by some one transgressing a
 law and not announcing what he had done.
 
-I presume the importance of the confession of a transgres¬
-sion, with a view to warning others to keep at a distance from
-the transgressor, has gradually led to the idea that a trans¬
-gression, or, we might say, a sin, can be atoned for by confes¬
-sion. This is one of the most remarkable traits among the
-religious beliefs of the Central Eskimo. There are innumer¬
-able tales of starvation brought about by the transgression
+I presume the importance of the confession of a transgression, with a view to warning others to keep at a distance from
+the transgressor, has gradually led to the idea that a transgression, or, we might say, a sin, can be atoned for by confession. This is one of the most remarkable traits among the
+religious beliefs of the Central Eskimo. There are innumerable tales of starvation brought about by the transgression
 of a taboo. In vain the hunters try to supply their families
 with food; gales and drifting snow make their endeavors
 fruitless. Finally the help of the angakok is invoked, and he
 discovers that the cause of the misfortune of the people is
 due to the transgression of a taboo. Then the guilty one is
-searched for. If he confesses, all is well: the weather moder¬
-ates, and the seals allow themselves to be caught; but if
+searched for. If he confesses, all is well: the weather moderates, and the seals allow themselves to be caught; but if
 he obstinately maintains his innocence, his death alone will
 soothe the wrath of the offended deity.
 
-While thus the reason why the taboos are rigorously en¬
-forced by public opinion appears clear, the origin of the taboos
+While thus the reason why the taboos are rigorously enforced by public opinion appears clear, the origin of the taboos
 themselves is quite obscure. It is forbidden, after the death
 of one of the sea-mammals that originated from Sedna’s
 fingers, or after the death of a person, to scrape the frost
 from the window, to shake the beds or to disturb the shrubs
-
-
-122 Bulletin American Museum of Natural History . [Vol. XV,
-
 under the bed, to remove oil-drippings from under the lamp, to
 scrape hair from skins, to cut snow for the purpose of melting
 it, to work on iron, wood, stone, or ivory. Furthermore,
@@ -4185,20 +3320,13 @@ clothing that has never been used while hunting walrus. The
 winter clothing, which is made of caribou-skin, must be
 completed before the men will go off to bunt walrus. As
 soon as the first walrus has been killed, a messenger goes from
-village to village and announces the news. All work on cari¬
-bou-skins must cease immediately. When the caribou-hunting
+village to village and announces the news. All work on caribou-skins must cease immediately. When the caribou-hunting
 season begins, all the winter clothing, and the tent that has
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 123
-
-
 been in use during the walrus-hunting season, are buried, and
 not used again until the following walrus-hunting season. No
 walrus-hide, or thongs made of such hide, must be taken
 inland, where is the abode of the caribou. No caribou-skin
-must be cleaned while the people are living on the ice. Cari¬
-bou-bones must not be broken until after the caribou-hunting
+must be cleaned while the people are living on the ice. Caribou-bones must not be broken until after the caribou-hunting
 season. Seal-bones must not be given to the dogs. At times
 they are put into the sea, so that they may be out of reach of
 the dogs.
@@ -4210,8 +3338,7 @@ during the walrus season.
 
 The soul of the salmon is considered to be very powerful.
 Salmon must not be cooked in a pot that has been used for
-boiling other kinds of meat. It is always cooked at some dis¬
-tance from the hut. Boots that were used while hunting
+boiling other kinds of meat. It is always cooked at some distance from the hut. Boots that were used while hunting
 walrus must not be worn when fishing salmon, and no work
 on boot-legs is allowed until the first salmon has been caught
 and placed on a boot-leg.
@@ -4222,28 +3349,19 @@ the same day.
 
 Among the Nugumiut of Frobisher Bay, seal may be eaten
 during the walrus-hunting season on the same day with
-walrus-meat only after one has changed one’s clothing. Sal¬
-mon may not be eaten on the same day as walrus is eaten.
+walrus-meat only after one has changed one’s clothing. Salmon may not be eaten on the same day as walrus is eaten.
 Seal, caribou, and salmon may be eaten on the same day.
 Walrus and caribou may be eaten on the same day. A
 person who eats walrus and caribou on the same day is called
 ‘ ‘ nokoeyewyourlow . ’ ’
 
 If a person has been eating or hunting walrus, he must
-change his clothing before eating seal and before going cari¬
-bou-hunting, else these transgressions will become fastened to
+change his clothing before eating seal and before going caribou-hunting, else these transgressions will become fastened to
 the walrus’s soul. When the caribou-hunting season begins,
 the winter clothing $nd winter tents are buried under stones,
 and new clothing is put on, and new tents are made. The
-old ones have become “ shongeyew ,” that is, tabooed. Cari-
-
-
-124 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-bou-meat and salmoif'and walrus-meat must not be put into
-the same boat. When there is any caribou-meat or caribou-
-antlers in a boat which goes walrus-hunting, the boat is liable
+old ones have become “ shongeyew ,” that is, tabooed. Caribou-meat and salmoif'and walrus-meat must not be put into
+the same boat. When there is any caribou-meat or caribouantlers in a boat which goes walrus-hunting, the boat is liable
 to be broken by the walrus.
 
 The fact that these taboos are not restricted to caribou and
@@ -4276,22 +3394,15 @@ their effect upon man also, who appears to them of a dark
 color, or surrounded by a vapor which is invisible to ordinary
 man. This means, of course, that the transgression also
 affects the soul of the evil-doer. It becomes attached to it,
-and makes him sick. The angakok is able to see these attach¬
-ments with the help of his guardian spirit, and is able to free
+and makes him sick. The angakok is able to see these attachments with the help of his guardian spirit, and is able to free
 the soul from them. If this is not done, the person must die.
 In many cases the transgressions become fastened also to
 persons who come in contact with the evil-doer. This is
 especially true of children, to whose souls the sins of their
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 125
-
-
 parents, and particularly of their mothers, become readily
 attached. Therefore, when a child is sick, the angakok, first
 of all, asks its mother if she has transgressed any taboos.
-The attachment seems to have a different appearance, accord¬
-ing to the taboo tha,t has been violated. A black attachment
+The attachment seems to have a different appearance, according to the taboo tha,t has been violated. A black attachment
 is due to removing oil-drippings from under the lamp, a piece
 of caribou-skin represents the scrapings removed from a
 caribou-skin at a time when such work was forbidden. As
@@ -4299,10 +3410,8 @@ soon as the mother acknowledges the transgression of a taboo,
 the attachment leaves the child’s soul, and the child recovers.
 
 A number of customs may be explained by the endeavors
-of the natives to keep the sea-mammals free from contami¬
-nating influences. All the clothing of a dead person, the tent
-in which he died, and the skins obtained by him, must be dis¬
-carded; for if a hunter should wear clothing made of skins that
+of the natives to keep the sea-mammals free from contaminating influences. All the clothing of a dead person, the tent
+in which he died, and the skins obtained by him, must be discarded; for if a hunter should wear clothing made of skins that
 had been in contact with the deceased, these would appear
 dark, and the seal would avoid him. Neither would a seal
 allow itself to be taken into a hut darkened by a dead body;
@@ -4311,8 +3420,7 @@ and would be avoided.
 
 While it is customary for a successful hunter to invite all
 the men of the village to eat of the seal that he has caught,
-they must not take any of the seal-meat out of the hut, be¬
-cause it might come in contact with persons who are under
+they must not take any of the seal-meat out of the hut, because it might come in contact with persons who are under
 taboo, and thus the hunter might incur the displeasure of the
 seal and of Sedna. This is particularly strictly forbidden in
 the case of the first seal of the season.
@@ -4324,19 +3432,11 @@ body would become attached to the souls of other seals, which
 would take the transgression down to Sedna, thus making
 her hands sore.
 
-Cases of premature birth require particularly careful treat¬
-ment. The event must be announced publicly, else dire re¬
-sults will follow. If a woman should conceal from the other
+Cases of premature birth require particularly careful treatment. The event must be announced publicly, else dire results will follow. If a woman should conceal from the other
 people that she has had a premature birth, they might come
 near her, or even eat in her hut of the seals procured by her
-
-
-126 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 husband. The vapor arising from her would thus affect
-them, and they would be avoided by the seals. The trans¬
-gression would also become attached to the soul of the seal,
+them, and they would be avoided by the seals. The transgression would also become attached to the soul of the seal,
 which would take it down to Sedna.
 
 The following stories are told to illustrate the effect of the
@@ -4355,8 +3455,7 @@ never had a premature birth. Her father, Kudlu, was very
 angry with her, and asked her to confess, since that was best,
 and since everybody would be pleased; but she did not yield.
 When Mikiju, Kunu’s sister, and she herself were alone, the
-former talked with her earnestly, and finally obtained a con¬
-fession from her. At this moment Kunu’s mother came into
+former talked with her earnestly, and finally obtained a confession from her. At this moment Kunu’s mother came into
 the tent. Kunu went out, and her sister told all she had
 learned. Naxojassi, however, had died in the mean time.
 Some time afterwards Kunu’s husband divorced himself from
@@ -4372,13 +3471,7 @@ him back again. They did so day after day, but they were
 unsuccessful. Tadlo thought that there must be some cause
 for their misfortunes. One day he said to his wife and sister,
 “ Did either of you ever give birth to a stillborn child, and did
-you not tell about it, or was there a time when you were men¬
-struating and did not tell about it? ” Then his sister began to
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 127
-
-
+you not tell about it, or was there a time when you were menstruating and did not tell about it? ” Then his sister began to
 cry. His wife said, “I never gave birth to a stillborn child,
 and I always informed you when I was menstruating.” Tadlo
 spoke again, and said to his sister, who was quite angry,
@@ -4417,11 +3510,6 @@ asked him where the whale was. He replied, “Over yonder
 on the beach.” Then they both exclaimed, “We shall not
 he hungry any more!” On the following day they went to
 the place where the whale was fastened, and they filled many
-
-
-128 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 skins with meat and blubber, until they thought they had
 enough. Another day he found a number of white whales
 on the beach, which he killed. Then he went home and told
@@ -4447,11 +3535,9 @@ a while his soul returned to his body. He awoke as from a
 stupor, and told them that when he asked her why she made
 such dreadful weather, she said, '‘There are two women
 among you who are not good.” Then Tadlo ordered these
-women to be called into the hut. He continued his incanta¬
-tions all the time until some one told him that they had come.
+women to be called into the hut. He continued his incantations all the time until some one told him that they had come.
 Then he asked one of them, “What did you do? Sedna told
-me that you did not inform the people when you were men¬
-struating.” She replied, “I did not inform the people. I
+me that you did not inform the people when you were menstruating.” She replied, “I did not inform the people. I
 did not know enough to do so.” Then the angakok said,
 “ Now it will be well, since you have told me.” Then he said
 to the other woman, “Sedna told me you were bad. What
@@ -4463,9 +3549,6 @@ you for telling me. In a short time we shall have better
 weather, and shall have enough to eat.”
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 129
-
-
 During that night the wind was very strong, and on the
 following morning all the rough ice was driven out of the
 fiord. But during the day the wind fell, and towards night
@@ -4475,8 +3558,7 @@ the ice was not yet strong enough to walk on. Night followed,
 and day came again. Now they tried the ice, and found it
 strong enough; and all those who were able to walk went
 sealing. In a very short time a seal was caught. Tadlo told
-the men to take it to the huts, and he called every one to par¬
-take of it. He asked them not to divide it, but to eat it
+the men to take it to the huts, and he called every one to partake of it. He asked them not to divide it, but to eat it
 entirely. He told them to keep the skin, bones, intestines,
 and blubber. These he ordered to be put into the skin, and
 to be cast into the sea. Sedna had told him to do so. On
@@ -4492,24 +3574,17 @@ easily see them when they wished to fetch them.
 Other infractions of taboos are punished in similar ways, as
 illustrated by the following tale: —
 
-The people had their snow houses on the ice near Aqba'q-
-tung. A woman had cleaned a one-year-old caribou-skin
+The people had their snow houses on the ice near Aqba'qtung. A woman had cleaned a one-year-old caribou-skin
 while living there. In consequence of this, one night the floe
 broke up right under their houses. The people were unable
 to escape on their sledges. They took their cups, knives,
-harpoon-lines, and spears in their hands; and their dogs fol¬
-lowed them. Then they started for the shore. They trav¬
-elled day and night for many days. They were suffering
+harpoon-lines, and spears in their hands; and their dogs followed them. Then they started for the shore. They travelled day and night for many days. They were suffering
 from hunger and thirst, and were finally compelled to drink
 their own urine, which they passed into the cups. After some
 time, many of them lost their strength, and died on the ice.
-Finally only Okoko , and his two wives Punyepung and Ata-
-tootjavung , and also Kouttoolaw , and his wife Escemingeyeu ,
+Finally only Okoko , and his two wives Punyepung and Atatootjavung , and also Kouttoolaw , and his wife Escemingeyeu ,
 
 [November, iqoi .] 9
-
-
-130 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 survived, and reached the shore. It was springtime when
@@ -4533,8 +3608,7 @@ a child which is given the name of the departed. The other
 soul goes to one of the lands of the souls. Of these there are
 several. There are three heavens, one above another, of
 which the highest is the brightest and best. Those who die
-by violence go to the lowest heaven. Those who die by dis¬
-ease go to Sedna’s house first, where they stay for a year.
+by violence go to the lowest heaven. Those who die by disease go to Sedna’s house first, where they stay for a year.
 Sedna restores their souls to full health, and then she sends
 them up to the second heaven. They become omiktu'miut ,
 or inhabitants of Omiktu , in which place there are many
@@ -4551,33 +3625,22 @@ not far from Sedna’s house. It is said that some souls go to
 Tukeychwen, a place of which no full description is given.
 
 In the spring, Alipa'q is much nearer to the earth than at
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 131
-
-
-other times of the year. When it is summer here, it is win¬
-ter there. When it is winter here, it is summer there. Every
+other times of the year. When it is summer here, it is winter there. When it is winter here, it is summer there. Every
 fall and every spring the earth turns over. The winter is on
 the lower side. For this reason the seasons in Alipa'q are the
 reverse of what they are here.
 
 The souls of the deceased stay with the body for three
-days. If a taboo is violated during this time, the transgres¬
-sion becomes attached to the soul of the deceased. The
+days. If a taboo is violated during this time, the transgression becomes attached to the soul of the deceased. The
 weight of the transgression causes the soul pain, and it roams
 about the village, endeavoring to free itself of its burden.
-It seeks to harm the people who, by their disobedience to cus¬
-tom, caused its sufferings. It brings heavy snowfalls, sick¬
-ness, and death. Such a soul is called a “tupilak.’ ’ Toward
+It seeks to harm the people who, by their disobedience to custom, caused its sufferings. It brings heavy snowfalls, sickness, and death. Such a soul is called a “tupilak.’ ’ Toward
 the middle of autumn it hovers around the doors of the huts.
 Those who can see the tupilak are called “eoyew .” When
 an angakok discovers the tupilak, he calls the people, who
-assemble, and prepare to free it of its burden. All the anga-
-kut (plural of angakok), go in search of it, each a knife in
+assemble, and prepare to free it of its burden. All the angakut (plural of angakok), go in search of it, each a knife in
 hand. As soon as they find it, they stab it with their knives,
-and thus cut off the transgressions. Then the tupilak be¬
-comes a soul again. The knives with which it was stabbed
+and thus cut off the transgressions. Then the tupilak becomes a soul again. The knives with which it was stabbed
 are seen by the people to be covered with blood.
 
 The soul may also be offended by singing and dancing
@@ -4587,8 +3650,7 @@ of food. They had built a large dancing-house, where they
 went at night to amuse themselves. During the winter an
 old woman named Pisekse died, leaving a son to mourn for
 her. He staid in their stone house for four days after her
-death. Then she was buried. Meanwhile the people con¬
-tinued to sing and dance in the dancing-house. One day a
+death. Then she was buried. Meanwhile the people continued to sing and dance in the dancing-house. One day a
 woman came to see the young man. He asked her to tell
 the people not to make so much noise in the singing-house;
 but they did not mind his request. He asked them once
@@ -4596,18 +3658,12 @@ more to wait until the third night after the death of his
 mother was over. He was afraid her soul might become
 angry. The people did not mind what he said. Then the
 old woman’s soul arose from her grave. After the third night,
-
-
-13 2 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 one of the people who had been in the singing-house died.
 When the young man heard of it, he said, “ I expected it. I
 told them not to make so much noise.” On the next morning
 another person died. The following day three people died,
 and the day after four more died. A great many people
-died, until only a few were left. Finally a young man be¬
-came sick, and when he knew that he was near his death, he
+died, until only a few were left. Finally a young man became sick, and when he knew that he was near his death, he
 said, “ Don’t make any more people die.” The following
 year many people were sick on the north shore of Cumberland
 Sound. All this was owing to the soul of the old woman
@@ -4616,8 +3672,7 @@ being disturbed and having become a tupilak.
 After the three days are over, one soul goes to its place
 of destination, either to heaven or to Sedna’s abode. The
 other soul stays with the body. When, later on, a child is
-named after the deceased, this soul enters its body and re¬
-mains there for about four months. It is said that the soul
+named after the deceased, this soul enters its body and remains there for about four months. It is said that the soul
 enters the body because it is in want of a drink. It is believed
 that its presence strengthens the child’s soul, which is very
 light, and apt to escape from the body. After leaving the
@@ -4641,13 +3696,7 @@ still sick in bed. If people should eat of a seal from which
 the mother of a new-born child has partaken, the child’s soul
 might become so light that it would fly out of its body.
 
-Evidently the Eskimo believe in the possibility of trans¬
-migration of souls. There is one tradition in which it is told
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 133
-
-
+Evidently the Eskimo believe in the possibility of transmigration of souls. There is one tradition in which it is told
 how the soul of a woman passed through the bodies of a great
 many animals, until finally it was born again as an infant. 1
 In another story it is told how a hunter caught a fox in a trap,
@@ -4691,9 +3740,6 @@ At one time a number of people died in a village. There
 
 
 1 See p. 232. a See p. 234. 3 See p. 252.
-
-
-134 Bulletin American Museum of Natural History. [Vol. XV
 
 
 was a man at that place who felt something in his body that
@@ -4743,14 +3789,9 @@ It is one of their chief duties to cure the sick and to pro-
 6 See p. 249. 7 See p. 242. 8 See p. 243. 9 See p. 244. 10 See p. 246.
 
 
-1901 .] iBoas, Eskimo of Baffin Land and Hudson Bay . 135
+pitiate Sedna and the souls of offended animals. This subject has been described in connection with the Sedna beliefs.
 
-
-pitiate Sedna and the souls of offended animals. This sub¬
-ject has been described in connection with the Sedna beliefs.
-
-A number of additional points, however, remain to be men¬
-tioned. When an angakok finds that the soul of a child does
+A number of additional points, however, remain to be mentioned. When an angakok finds that the soul of a child does
 not like the name that has been given to it, he gives the child
 the name that belonged to its soul in a previous existence.
 
@@ -4763,8 +3804,7 @@ in this case the “ keleyew.” Then the latter summons the
 soul of a dead person. As soon as it appears, the head of the
 keleyak becomes so heavy that it cannot be lifted. Now he
 asks, “ Is the soul of so and so present ?” If he mentions
-the correct name, the head cannot be lifted. Then he con¬
-tinues to ask questions as to the nature and outcome of the
+the correct name, the head cannot be lifted. Then he continues to ask questions as to the nature and outcome of the
 disease, which are supposed to be answered by the soul of the
 dead person, which makes it impossible for the head to be
 lifted if the answer is affirmative, while the head is raised easily
@@ -4775,8 +3815,7 @@ The people also believe in witchcraft (ilisineq). When a
 man has divorced himself from his wife, she may make him
 sick. They believe that an angakok can bewitch his enemies
 if he wishes to do so. If a person who used to bring home a
-seal or two every night in the winter is all of a sudden un¬
-successful, the people know that he has been bewitched. The
+seal or two every night in the winter is all of a sudden unsuccessful, the people know that he has been bewitched. The
 person who bewitched him has the power to make the seals
 avoid the hole at which the person is waiting, and go instead
 to the hole at which he himself is waiting. It is said that
@@ -4788,9 +3827,6 @@ supernatural powers. The following tales set forth the ideas
 held in regard to this subject:—
 
 Among a boat’s crew who one summer went to Lake
-
-
-* 36 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Netchillik to hunt caribou, was a man by the name of Ek -
@@ -4814,16 +3850,14 @@ quarters near the sea. A few of the crew had been successful,
 but one in particular, whose name was Koobelwakjew , was not
 very well pleased. When the others spoke of returning to
 winter quarters, he grew angry. Ekkoma observed him, and
-then went up to him, and said, “Come, now, be merry! To¬
-morrow you will cut a sufficient number of caribou on a
+then went up to him, and said, “Come, now, be merry! Tomorrow you will cut a sufficient number of caribou on a
 small island” (meaning one of the islets towards the head of
 Lake Netchillik). -They camped one night, and the next
 day they started in the direction of the island mentioned by
 Ekkoma. They went quite close to it. As the island was flat,
 and not very high above the level of the water, they did not
 think there would be any caribou there; so Koobelwakjew said
-to Ekkoma , “Where are the caribou that you told me yester¬
-day were on this islet?” The boat was just passing around
+to Ekkoma , “Where are the caribou that you told me yesterday were on this islet?” The boat was just passing around
 the end of the islet. Then Koobelwakjew saw the antlers of
 many caribou. As soon as they noticed the boat, they raised
 their heads, jumped up, and took to the water. The boat
@@ -4834,23 +3868,16 @@ the skins were all dried.
 One day, on their way home, they were short of fresh water.
 Among their number were an old woman and her adopted son,
 who had not yet grown to manhood. The boy was almost
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 137
-
-
 ready to cry, because he was very thirsty. In the evening,
 after it had grown dark, the boat rounded the point of an
 . island, on which they intended to camp. They went into an
-opening, and looked for water. Ekkoma and the boy re¬
-mained in the boat together. The people did not find any
+opening, and looked for water. Ekkoma and the boy remained in the boat together. The people did not find any
 water, for it was all frozen. Then Ekkoma said, “ I will go up
 and look for water. If I go, I shall find it.” He went ashore,
 and soon he came back and told them to fetch water. They
 went to the same place where they had been before, and now
 they saw water. Ekkoma said, ‘‘Give the water to the men
-and to the boy. If you give it to the women, it will all dis¬
-appear. Let them melt some snow.”
+and to the boy. If you give it to the women, it will all disappear. Let them melt some snow.”
 
 The people pitched their tents on shore, the old woman and
 the boy occupying one by themselves. They looked for a
@@ -4887,8 +3914,6 @@ will bring back much meat and blubber.
 2 See p. 140.
 
 
-138 Bulletin American Museum of Natural History. [Vol. XV,
-
 The same end is sought in the following manner: the
 hunter’s wife or mother throws into the water a piece of
 meat which she spears with the hunter’s harpoon.
@@ -4900,8 +3925,7 @@ would become hard.
 Pyrites are believed to drive away spirits, as is illustrated
 tn the following tale, told by an Eskimo: —
 
-One winter a number of us arranged to go and bring walrus-
-meat down from the caches. We were coming back slowly;
+One winter a number of us arranged to go and bring walrusmeat down from the caches. We were coming back slowly;
 and, in order to urge on our teams, we began crying, “Ha,
 ha, ha! the moon begins to come to us! the moon begins to
 come to us! ” We were not thinking that it was really so, but
@@ -4929,16 +3953,9 @@ soon reached here.
 
 Religious Ceremonials. —The most important object of
 the religious ceremonies of the Eskimo is to appease the wrath
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 139
-
-
 of Sedna, of the souls of animals, or of the souls of the dead that
 have been offended by the transgressions of taboos. This is
-accomplished by the help of the guardian spirits of the anga-
-kut. The most important ceremony of the Eskimo is cele¬
-brated in the fall. 1 At that time Sedna visits her people.
+accomplished by the help of the guardian spirits of the angakut. The most important ceremony of the Eskimo is celebrated in the fall. 1 At that time Sedna visits her people.
 She gives them food in abundance if they do as they have
 been told. At that season the people try to divine the future
 through their angakut. They gather in one of the houses,
@@ -4967,9 +3984,7 @@ feels kindly towards the people if they have succeeded in
 cutting her. If there is no blood on the knife, it is an ill
 omen. As to the reason why Sedna must be cut, the people
 say that it is an old custom, and that it makes her feel better,
-that it is the same as giving a thirsty person drink. Pos¬
-sibly the object is to cut off the transgressions that are at¬
-tached to her, as is done in the case of the. tupilak. 2
+that it is the same as giving a thirsty person drink. Possibly the object is to cut off the transgressions that are attached to her, as is done in the case of the. tupilak. 2
 
 On the following day Sedna sends her servant, who is
 
@@ -4980,9 +3995,6 @@ On the following day Sedna sends her servant, who is
 See p. 131.
 
 
-140 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 called Qailertetang, to visit the tribe. She is represented by
 a man dressed in a woman’s costume and wearing a mask
 made of seal-skin (Fig. 169). She is believed to be a large
@@ -4990,29 +4002,23 @@ woman of very heavy limbs, who comes to make good weather
 and “to make the soul of men calm like the sea.” She carries
 harpoon-line, harpoon, and drag, because she is a seal-hunter,
 but she also carries a skin-scraper. She is dumb, but she sees
-
 everything the people do. She
-likes to see them enjoy them¬
-selves, and at her advent a
+likes to see them enjoy themselves, and at her advent a
 festival is celebrated.
 
-Captain Mutch gives the fol¬
-lowing description of this fes¬
-tival:—
+Captain Mutch gives the following description of this festival:—
 
 On this day all the people
 have attached to their hoods
 a piece of skin (koukparmiu'-
 tang) of the animal which
-their mothers used when clean¬
-ing them when they were born.
+their mothers used when cleaning them when they were born.
 The skins of ptarmigan, golden
 plover, Stercorarius sp., goose,
 owl, and others, are used for
 this purpose. If they should
 not wear this piece of skin,
-they would be subject to sick¬
-ness; and severe punishment
+they would be subject to sickness; and severe punishment
 would be inflicted upon them
 if they should wear the skin
 of any other kind of animal.
@@ -5032,37 +4038,27 @@ Fig. 169 (silo)- Mask of Qailertetang.
 Height, 32 cm.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 14 1
-
-
 together. They, arrange themselves so that those born during
-the summer stand close to the water, and those born in the win¬
-ter stand inland; and then they pull at the rope to see whether
+the summer stand close to the water, and those born in the winter stand inland; and then they pull at the rope to see whether
 summer or winter is the stronger. If winter should win,
 there will be plenty of food; if summer should win, there
-will be a bad winter. Then they place a tub near the Qailer-
-tetang, and every one brings some water and empties it into
+will be a bad winter. Then they place a tub near the Qailertetang, and every one brings some water and empties it into
 the tub. Now one after another comes and sips a little of the
 water, and says, “ I was born in such and such a place during
-
 the season of -,” whatever place or season it may be;
-
 and they wish for calm weather, and that the souls in their
 bodies may be calm, like the weather, for then they will be
 healthy and have long life.
 
-Then the men are placed by the Qailertetang in a row, oppo¬
-site to the women. The Qailertetang takes one of the men by
+Then the men are placed by the Qailertetang in a row, opposite to the women. The Qailertetang takes one of the men by
 the hand and leads him to one of the women. She joins their
-hands, and the two run away, while the Qailertetang pre¬
-tends to try to catch them. Then they go to the man’s house.
+hands, and the two run away, while the Qailertetang pretends to try to catch them. Then they go to the man’s house.
 Thus they continue until all the men and women have been
 mated. This, however, is not an actual exchange of wives.
 
 The autumnal festival is celebrated in a somewhat different
 manner by the Nugumiut of Frobisher Bay. Three masked
-persons, representing supernatural beings, make their ap¬
-pearance. Two of these are called Ekko and Ekkotow (Fig.
+persons, representing supernatural beings, make their appearance. Two of these are called Ekko and Ekkotow (Fig.
 170, a, 6). They first walk around the huts, and then
 they are led into the dancing-house. In moving about, they
 jump violently. The Ekko carries a kayak-scraper in his
@@ -5077,11 +4073,6 @@ Ekko and Ekkotow . The third of these beings is called
 “ Noonagekshown” (Fig. 170, c ). He carries a spear in his
 hand and a drag on his back, and is bound all over with
 ground-seal lashings. A great many objects are hanging down
-
-
-14 2 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 from his dress. His face is covered with dog-skin. He
 appears in the spring and in the autumn, and, like Ekko ,
 brings health to the sick, and fair weather, and consequently
@@ -5105,11 +4096,7 @@ a (3125)1 Ekkotow ; b GHt), Ekko; c (3123)1 Noonagekshown.
 
 Customs regarding Birth and Death. —The regulations
 regarding birth are closely connected with the belief that the
-vapor arising from the mother is offensive to the souls of sea-
-animals
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 143
+vapor arising from the mother is offensive to the souls of seaanimals
 
 
 According to tradition, in the early times of our world two
@@ -5133,8 +4120,7 @@ lost, because it keeps the soul from danger.
 “A woman who is with child may eat of any part of the
 seal except the kidneys, because they make it dark for the
 child in the womb. She fastens her front hair at the sides
-with rings of thread, else it might strangle the child.” Ak¬
-koolookjo said, “When a child is born, the mother shall not
+with rings of thread, else it might strangle the child.” Akkoolookjo said, “When a child is born, the mother shall not
 eat of the seal’s intestines, else she will die.”
 
 She also said, “A woman who has a new-born child, afid
@@ -5145,18 +4131,11 @@ her husband, it may cause the death of one of her relatives.
 After the birth of a child, women shall not go visiting until
 they are clean. At that time, about two or three months
 after the birth of the child, they shall also change their dress.
-The mother puts away her own clothing and that of the in¬
-fant, also her blanket. This is called ‘ keeneatoon.’ If the
-mother does this, she is respected by every one, and is al¬
-lowed to visit the houses. If a woman who has a child less
+The mother puts away her own clothing and that of the infant, also her blanket. This is called ‘ keeneatoon.’ If the
+mother does this, she is respected by every one, and is allowed to visit the houses. If a woman who has a child less
 than one year old eats the intestines of seals, she will waste
 away without feeling sick. A year after the birth of a child,
 when the moon is in the same phase as at the time of birth,
-
-
-144 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 the mother will go to every door of the village in which she
 is living, and may visit a few huts. After that she is at
 liberty to partake of any part of the seal or of any other
@@ -5172,15 +4151,13 @@ of which it is fastened, and returns to the house from which
 the body was taken. There he has to stay for three days and
 three nights. The male relatives may leave the house for a
 short time, but the women must stay inside all the time. On
-the fourth day they take a cup, knife, and a small harpoon-
-head to the grave, that the soul of the dead one, if it should
+the fourth day they take a cup, knife, and a small harpoonhead to the grave, that the soul of the dead one, if it should
 wish to go sealing, may have the implements ready. The
 relatives of the dead person continue to sleep in the house for
 another night, while the other people are under no taboo.
 The soul of the deceased is supposed to leave the house after
 the fourth night. On the fifth day the relatives take their
-clothing to a place some distance away. If there is a scar¬
-city of skins, they may retain part of the clothing. The
+clothing to a place some distance away. If there is a scarcity of skins, they may retain part of the clothing. The
 clothes of those people who happened to be in the tent when
 the person died are also deposited at the same time. The
 tent itself is destroyed, the cover being deposited at a distant
@@ -5189,8 +4166,7 @@ spot.
 Should a person who lived with the deceased keep and
 wear any clothing he had on while the breath was leaving the
 body, it will appear of dark color to seals or to other animals
-which he is going to hunt. If he should go out hunting sea-
-mammals wearing this clothing, the seal’s soul would see it,
+which he is going to hunt. If he should go out hunting seamammals wearing this clothing, the seal’s soul would see it,
 and would keep away, because his clothes are darkened by
 the breath of the dead person.
 
@@ -5198,11 +4174,6 @@ The following actions are forbidden for three days after a
 death has occurred: to work or move caribou, walrus, seal,
 ground-seal, bear, intestines; to work on iron, wood, bone,
 stone, ice, snow, heather; to empty the oil-drippings from
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 145
-
-
 lamps, to clean lamps. Women must not comb their hair,
 and must not wash their faces. Sexual intercourse is also
 forbidden.
@@ -5232,9 +4203,7 @@ place of Sedna. Lyon 1 has given the tradition referring to
 her, which agrees in all essentials with the Sedna legend. He
 also mentions that she is sometimes called Ai-willi-ay-00
 (Avilayoq), the name given to Sedna in the tradition recorded
-on p. 163. She is the mistress of both sea-animals and land-
-animals, and withholds them if offended by the people. Cap¬
-tain Comer thinks, however, that there may be two deities of
+on p. 163. She is the mistress of both sea-animals and landanimals, and withholds them if offended by the people. Captain Comer thinks, however, that there may be two deities of
 the same name, one of which has control of the land-animals,
 while the other has control of the sea-animals. This
 would agree with Captain Lyon’s description of the beliefs
@@ -5249,23 +4218,13 @@ She will then wait at the entrance to the inlet, and upset the
 [. November , /90/.]
 
 
-10
-
-
-146 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-boats and kayaks. All accidents and misfortunes are as¬
-cribed to her wrath. If these people try to assist a starving
+boats and kayaks. All accidents and misfortunes are ascribed to her wrath. If these people try to assist a starving
 family, and are prevented from doing so by bad weather,
-this is thought to be proof that Nuliayoq wants the suf¬
-ferers to perish. Sometimes Nuliayoq will ask the deity of
+this is thought to be proof that Nuliayoq wants the sufferers to perish. Sometimes Nuliayoq will ask the deity of
 lightning to strike those who have offended her.
 
-Thunder-storms are believed to be produced by three sis¬
-ters,— Kadlu, who makes the thunder; Ignirtoq, who makes
-the lightning; and a third one, whose name could not be as¬
-certained, who makes the rain. During thunder-storms the
+Thunder-storms are believed to be produced by three sisters,— Kadlu, who makes the thunder; Ignirtoq, who makes
+the lightning; and a third one, whose name could not be ascertained, who makes the rain. During thunder-storms the
 women make to each of them an offering of a small piece of
 white-tanned seal-skin, into which a needle is pushed, and of
 pieces of ivory. These are deposited at some distance from
@@ -5290,8 +4249,7 @@ Northern Lights are the spirits above at play.
 
 It is believed that the souls of the dead, if they so choose,
 may return and be born again. An old man who died in
-1896 said at his death that he would be born again by a cer¬
-tain woman. Some time after this the woman gave birth to
+1896 said at his death that he would be born again by a certain woman. Some time after this the woman gave birth to
 a girl, who was believed to be the old man returned. Another
 man, who died in 1885, said that he would be born again as
 a child of his own daughter. The latter had one son; and
@@ -5300,9 +4258,6 @@ one returned. There was one woman who had no children,
 
 
 1 See p. 160.
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 147
 
 
 and who wished to take this boy. The mother did not want
@@ -5320,12 +4275,10 @@ to the Nuliayoq legend.
 
 The remarkable notion that confession of the transgression
 of a taboo will atone for the sin committed, is common to the
-Eskimo of the northwest coast of Hudson Bay and of Cumber¬
-land Sound. Captain Comer tells a story which makes this
+Eskimo of the northwest coast of Hudson Bay and of Cumberland Sound. Captain Comer tells a story which makes this
 quite clear. A famine which prevailed in 1883 was believed
 to have been brought about by a woman who had failed to
-announce a miscarriage, and who had continued to eat seal-
-meat. The angakok discovered her transgression, but, since
+announce a miscarriage, and who had continued to eat sealmeat. The angakok discovered her transgression, but, since
 she refused to confess, Nuliayoq punished the whole tribe
 by withholding the food-supply and sending bad weather.
 Many people starved; and it was not until the woman herself
@@ -5336,8 +4289,7 @@ caught in abundance.
 Following is a list of taboos and regulations recorded by
 Captain Comer: —
 
-No work must be done for three days after a bear or ground-
-seal has been killed. The women must not comb their hair.
+No work must be done for three days after a bear or groundseal has been killed. The women must not comb their hair.
 The bedding must not be disturbed until late on the day when
 a ground-seal has been caught.
 
@@ -5349,11 +4301,6 @@ cooked.
 When a seal is brought into the snow house, a piece of snow
 is dipped into the kettle and held over its mouth, allowing the
 melting snow to drip into it. This signifies giving a drink to
-
-
-148 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 the seal, and is intended to please Nuliayoq. After the seal
 has been cut up and put away, a handful of snow is put down
 in the place where the seal was carved. The snow is then
@@ -5365,23 +4312,20 @@ cut the hair off from seal-skins, except from seals caught
 before the ice formed in the fall. They must not mention the
 names of any animals.
 
-No work on caribou-skins must be done during the walrus¬
-hunting season, or while the people are living on the ice. If
+No work on caribou-skins must be done during the walrushunting season, or while the people are living on the ice. If
 the camp should be moved to the ice late in the fall, before the
 work on caribou-skins is quite completed, the women must
 take the skins to the shore every day, and complete their work
 there. If clothing made of caribou-skins must be patched up
 with new skins before the snow houses are occupied in the fall,
-the tent cover must be turned inside out while the work is be¬
-ing performed. The meat and skins of caribou killed in the
+the tent cover must be turned inside out while the work is being performed. The meat and skins of caribou killed in the
 fall of the year, and cached for winter use, must not be eaten
 on the same day with walrus-meat. They must not be taken
 into a snow house standing on the ice of the sea through the
 doorway, but through a hole cut in the rear. All bedding
 made of caribou-skins must be taken in the same way when the
 snow house is built. Caribou killed in mid-winter during the
-walrus-hunting season may be eaten together with walrus-
-meat, and may be taken into the snow house through the
+walrus-hunting season may be eaten together with walrusmeat, and may be taken into the snow house through the
 doorway. After the full moon of March, caribou meat and
 skins may be taken into the hut through the doorway.
 
@@ -5398,17 +4342,13 @@ key-block of the snow house is cut with a knife in all directions.
 This is believed to bring good luck and to drive away sickness.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 149
-
 Soon after the sealing begins, a piece of white caribou-skin
 and a bit of thread are carried out and deposited on the ice.
 
-No work on seal-skins must be done during the caribou¬
-hunting season. Seal-meat and caribou-meat must not be
+No work on seal-skins must be done during the caribouhunting season. Seal-meat and caribou-meat must not be
 eaten on the same day.
 
-Hair of caribou-skins must not be cut during the musk¬
-ox-hunting season.
+Hair of caribou-skins must not be cut during the muskox-hunting season.
 
 There are a number of other taboos that do not seem to have
 any immediate relation to the Sedna myth.
@@ -5418,8 +4358,7 @@ taken out of the skulls until the latter part of April, when the
 ground-seals have their pups. Work on old tusks may be done.
 
 Work on iron is forbidden during the season for hunting
-musk-oxen (March). It was said that the ill luck of a hunting-
-party was due to the fact that one of the men had sharpened
+musk-oxen (March). It was said that the ill luck of a huntingparty was due to the fact that one of the men had sharpened
 his lance with a file, while in another case a man caused ill luck
 to his hunting-companion by making a hole in his knife when
 attaching it to a new handle. Captain Comer also states that
@@ -5443,26 +4382,18 @@ small pieces of seal-skin under a stone as an offering to
 Nuliayoq.
 
 When the natives of the Aivilik and Iglulik are off hunting
-on the ice, the bedding must not be raised up, as it is be¬
-lieved that that would cause the ice to crack and drift off,
+on the ice, the bedding must not be raised up, as it is believed that that would cause the ice to crack and drift off,
 and in that way the men would be liable to be lost. After the
 return of the men, the bedding may be taken up and brushed.
 
 I mention here the belief that in cutting a line in two, the
-
-
-1 5° Bulletin American Museum of Natural History . [Vol. XV,
-
-
-knife should not be drawn straight across, but a little slant¬
-ing. This will prevent the line from snapping.
+knife should not be drawn straight across, but a little slanting. This will prevent the line from snapping.
 
 The fear of the effect of contact with menstruating women
 or with women who have had a miscarriage is found here also.
 Women in such condition must be isolated.
 
-It is said that a woman did not inform the people of a mis¬
-carriage. In consequence a famine set in. The people moved
+It is said that a woman did not inform the people of a miscarriage. In consequence a famine set in. The people moved
 camp in order to try another hunting-ground. On their
 journey the woman was killed by Nuliayoq, who took her
 down to her abode.
@@ -5471,9 +4402,7 @@ Another case is told of a woman who was accidentally shot
 in the leg. The mishap was interpreted as her punishment
 for not having told of a miscarriage.
 
-If a woman should become tired while travelling, it is be¬
-lieved that she is being punished by Nuliayoq for the trans¬
-gression of some taboo.
+If a woman should become tired while travelling, it is believed that she is being punished by Nuliayoq for the transgression of some taboo.
 
 To kill an albino caribou would bring sickness and death to
 the hunter. It is said that an Eskimo a few years ago shot
@@ -5482,11 +4411,9 @@ pursued it in his kayak, and killed it. A few months later
 he was covered with boils, and died. The Eskimo say that if
 he had eaten out of a dish by himself, and had refrained from
 eating certain parts of the caribou-meat, he might have
-escaped death; but since he did nothing by way of repent¬
-ance, Nuliayoq caused his death.
+escaped death; but since he did nothing by way of repentance, Nuliayoq caused his death.
 
-A number of proscriptions have reference to certain lo¬
-calities.
+A number of proscriptions have reference to certain localities.
 
 No woman is allowed to look at a large pond near Iglulik
 while it is open. Should she do so, she would become blind.
@@ -5500,9 +4427,6 @@ some company.
 
 When travellers approach a hill in Tununirn, they must turn
 a somersault. Only old people are exempt from this custom.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 15 1
 
 
 In olden times Marble Island was a low black rock on which
@@ -5552,13 +4476,9 @@ When hunting walrus, a seal-skin float is often attached to
 1 See Boas, The Central Eskimo, p. 607. 2 For other amulets of children, see p. 143.
 
 
-15 2 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 the line. The walrus will sometimes attack it and destroy
 it. If a dried, newly-born lemming is put inside the float, the
-walrus will not touch it. 1 The natives say that if whaling-
-boats would carry a dried lemming, the whale would not hurt
+walrus will not touch it. 1 The natives say that if whalingboats would carry a dried lemming, the whale would not hurt
 the boat.
 
 It is believed that some seals, when coming up to their hole
@@ -5571,8 +4491,7 @@ and landed it on the ice, he may pick up the stone. This
 insures good luck in sealing. The stone turns into pyrites
 when thrown over the shoulder.
 
-It would seem that the hair of a successful hunter is con¬
-sidered as a charm. This is suggested by the following incident
+It would seem that the hair of a successful hunter is considered as a charm. This is suggested by the following incident
 told by Captain Comer: “We had taken a number of whales,
 much more than have been taken for many years from here,
 which has given some of the natives the impression that I
@@ -5602,14 +4521,10 @@ has a dried skin of a small mammal attached to the inside. This may be considere
 as evidence that the same belief exists among the Alaskan Eskimo.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 153
-
-
 If a person born during a storm should fall into the sea, or
 even get wet with salt water, a storm would ensue.
 
-When a sick person sneezes, it is considered a sign of ap¬
-proaching recovery.
+When a sick person sneezes, it is considered a sign of approaching recovery.
 
 The Aivilik believe in a monster called tupilak (Fig. 171),
 which is said to look somewhat like a bear.
@@ -5645,9 +4560,6 @@ A person who wants to become an angakok must receive the
 1 Rink, Tales and Traditions of the Eskimo, p. 53.
 
 
-1 54 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 power from an old angakok, who puts his hands upon his head
 and thus transmits the power to him. Others, it is said,
 placed worms on their fore-arms, and allowed them to eat the
@@ -5655,8 +4567,7 @@ flesh of the arms. When the wound healed over, the person
 would have become a great angakok.
 
 The angakut, by the help of their guardian spirits, are able
-to discover the causes of disease, famine, and other misfor¬
-tunes, and to bring relief to the sufferers. The guardian
+to discover the causes of disease, famine, and other misfortunes, and to bring relief to the sufferers. The guardian
 spirits mentioned by Captain Comer as belonging to certain
 angakut are a large bear with a man’s head, a bear living under
 ground, and a being with the head of a walrus.
@@ -5686,17 +4597,10 @@ a large wooden hoop covered with deer-hide (Fig. 172).
 One angakok who was trying to cure a child fasted all day
 in order to please his guardian spirit.
 
-The methods of discovering causes of bad luck and of dis¬
-ease are similar to those practised in Cumberland Sound. In
-cases of famine the last resort is a visit to Nuliayoq. Accord¬
-ing to Captain Comer’s description, the angakok summons
+The methods of discovering causes of bad luck and of disease are similar to those practised in Cumberland Sound. In
+cases of famine the last resort is a visit to Nuliayoq. According to Captain Comer’s description, the angakok summons
 his guardian spirit, who, in the case described, had the shape
 of a huge bear, and together they started for Nuliayoq’s
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 155
-
-
 abode. On the way they fell in with a tupilak, 1 which tried
 to prevent them from reaching Nuliayoq; but finally it was
 vanquished, and they induced Nuliayoq to send good weather
@@ -5713,24 +4617,19 @@ gether. It was night- lj O, ' |||
 time, and the moon was !|j|
 
 full. All of a sudden he j fr/y \m
-
 saw a sledge coming | /yy/ |H|l
-
 toward him. It stopped I l'//// iBfl
-
 a short distance from : H
 
 the seal-hole, and the J ^'/{/y/'' i||J
 
 man on the sledge mo- j ' /ywy/ i ll
-
 tioned him to come. I 'syyy/f, \ iff
 
 Then he cast the strap I 'V///yy/\ '{K|
 
 off his legs, went to the rf/yy/ ' /m
 sledge, sat down on it, | JjjjSj
-
 and off they went. Soon \\ 'wyy// ////jjffw
 he felt that his sledge I
 was moving up through ^ yy/J'KI
@@ -5744,13 +4643,11 @@ another wall of ice v|
 ahead. In this there was ®
 
 an entrance, through * b
-
 wbicb ViP WPltnlrl tn cn a a X Drum; b (2333 b). Drumstick.
 
 WHICH ne was 101a to go. Diameter of drum, 87 cm. ; length of drumstick, 27 cm.
 
 He did so, although he
-
 was afraid. Inside he saw a house. A woman and a little
 boy were sitting there. The latter asked his mother for some
 meat. She gave the boy a piece, and offered some to the
@@ -5760,9 +4657,6 @@ meat. She gave the boy a piece, and offered some to the
 
 
 2 See p. 1T5.
-
-
-156 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 visitor; but the latter turned his back to her, and hid the
@@ -5775,14 +4669,12 @@ man who had returned from the moon helped him to haul it
 out. They ate the liver and returned home. Soon afterward
 the man who had visited the moon became sick, and one of
 the angakut discovered that he had visited the moon, who
-was offended because upon his return he had eaten seal-
-liver. The man nodded assent to this, and soon recovered.
+was offended because upon his return he had eaten sealliver. The man nodded assent to this, and soon recovered.
 
 I will insert here a few descriptions of incantations given by
 Captain Comer, because it is not quite clear what part of the
 performance is a general feature of these ceremonies, and what
-may be individual peculiarities of certain angakut or of par¬
-ticular incantations.
+may be individual peculiarities of certain angakut or of particular incantations.
 
 On the evening of the 7 th of April some of my natives told
 me that if I wanted to know where our hunters were, I could
@@ -5807,14 +4699,10 @@ take them. He went outside; and while he was gone, two
 hatchets which lay on the floor were put away out of sight.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 15 7
-
-
 In a few minutes he came in. It seemed that his guardian
 spirit could not be interested. The angakok said something
 to one of the women. She made some reply, and pretended
-to throw something away, with the remark, “Begone, be¬
-gone!” probably addressed to some evil spirit. Then all the
+to throw something away, with the remark, “Begone, begone!” probably addressed to some evil spirit. Then all the
 natives said the same. Then the angakok went out again, and
 then all commenced shouting, “Go on, go on!”
 
@@ -5843,19 +4731,13 @@ and seemingly tried to injure the bystanders. I pretended to
 be afraid of him, and drew back farther, when one of the
 natives told me he would not hurt any one. After going
 round and bumping up against every thing and every body, he
-went out again: Again more cries of “Go on!” Soon he re¬
-entered and described where his guardian spirit had seen the
+went out again: Again more cries of “Go on!” Soon he reentered and described where his guardian spirit had seen the
 hunters. They were one day’s travel south of Wager River,
 and there were a number of other people with them. They
 were also all well.
 
 Then one of the Aivilik natives performed an incantation.
 When he came in, he hopped around on the floor, and went
-
-
-1 5 8 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 out again. Then more cries of “Go on!” When he came in,
 he told that the natives were much nearer, and would be there
 in three days.
@@ -5887,9 +4769,7 @@ people must exchange wives. The women must spend the
 night in the huts of the men to whom they are assigned. If
 any woman should refuse to go to the man to whom she is
 assigned, she would be sure to be taken sick. The man and
-the woman assigned to him, however, must not be near rela¬
-tives. The following day is spent in games. This celebra¬
-tion seems to be somewhat similar to the fall festival of the
+the woman assigned to him, however, must not be near relatives. The following day is spent in games. This celebration seems to be somewhat similar to the fall festival of the
 tribes of Davis Strait. 1 The men and women first rub noses,
 and then spend the day playing nugluktuq and roulette.' 2
 On this day the bedding must not be disturbed until late in
@@ -5898,9 +4778,6 @@ the day.
 The method of discovering the cause of sickness by head-
 
 1 See pp. 139, 140. 2 See p. no.
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 159
 
 
 lifting 1 is also practised in this region. Parts of the body
@@ -5919,8 +4796,7 @@ It is not clear whether witchcraft is considered as distinct
 from the art of the angakok. Captain Comer mentions one
 case in which sickness was ascribed to witchcraft. A few
 years ago an old man had his toes frozen so that they had to
-be cut off. When a boy happened to see his feet, he re¬
-marked, “ Oh, you have no toes, have you? ” This made the
+be cut off. When a boy happened to see his feet, he remarked, “ Oh, you have no toes, have you? ” This made the
 old man, who was an angakok, angry, and he wrought a spell
 to make the boy and others sick. The boy is weak-minded up
 to this time, and this is supposed to be due to the spell of the
@@ -5937,17 +4813,13 @@ allowed to eat of a caribou shot through the heart, or of a
 seal that died under water without having come up once to
 breathe, or of a walrus the intestines of which have been cut.
 This law must also be observed by the mother of an infant.
-Therefore the natives make it a point not to kill seals out¬
-right, but to let them blow once before despatching them.
+Therefore the natives make it a point not to kill seals outright, but to let them blow once before despatching them.
 Families who are expecting a child to be born live in a hut
 by themselves, although their porch may lead off from that
 of a larger hut.
 
 
 1 See p. 135.
-
-
-*16o Bulletin American Museum of Natural History . [Vol. XV,
 
 
 For three months after the child is born, the mother must
@@ -5968,8 +4840,7 @@ man. No fat must be on the meat which the mother eats, else
 the angakok’s power to remove sickness from the child will be
 impaired. After she has finished eating, she pulls gently, first
 on the right leg and left arm, and then on the left leg and right
-arm, of the child. Then the child is placed in a sitting posi¬
-tion, and it is put through the motions of paddling a kayak.
+arm, of the child. Then the child is placed in a sitting position, and it is put through the motions of paddling a kayak.
 Then the mother darts her fork into the dish out of which she
 has been eating. This represents harpooning a seal. Next
 the child’s hands are put through the motions of pulling a bow
@@ -5994,12 +4865,8 @@ their parents that this act pleases the man in the moon, who
 is watching them; that when they grow older and go sealing.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 161
-
-
 the seals will come to them to be caught, for it is understood
-that seals do not like to be caught by lazy people. This prac¬
-tice is kept up throughout the winter.
+that seals do not like to be caught by lazy people. This practice is kept up throughout the winter.
 
 Boys begin to go sealing at an early age. When a boy kills
 his first seal, he has to perform certain ceremonies. As soon
@@ -6012,8 +4879,7 @@ boy’s mother gathers all the bones and throws them into a
 seal-hole. It is believed that these bones will become seals
 which the boy is to catch in later life.
 
-In one particular case a boy’s grandfather gave the instruc¬
-tions for this ceremony before the boy went out on his first
+In one particular case a boy’s grandfather gave the instructions for this ceremony before the boy went out on his first
 seal-hunt, and also directed that some caribou-meat should be
 cooked with the seal-meat, because that would make the boy
 successful in caribou-hunting.
@@ -6045,9 +4911,6 @@ told that Nuliayoq had taken them. A number of objects,
 [. November , / go /] H
 
 
-162 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 such as matches, lead, and a horn spoon, were deposited at the
 head end of the grave. Before leaving the body, the visitors
 walked around, muttering prayers.
@@ -6074,9 +4937,6 @@ else she will die.
 1 See also p. 151.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 163
-
-
 V. TRADITIONS.
 
 TALES FROM CUMBERLAND SOUND.
@@ -6092,15 +4952,13 @@ white men, others Inuarudligat, Ijiqat, and Adlet. The
 children made a great deal of noise, which annoyed Avilayoq’s
 father, so that he finally took them across to the island
 Amituaqdjuausiq. Every day Avilayoq sent her husband
-across to her father’s hut to get meat for herself and her chil¬
-dren. She hung around his neck a pair of boots that were
+across to her father’s hut to get meat for herself and her children. She hung around his neck a pair of boots that were
 fastened to a string. The old man filled the boots with meat,
 and the dog took them back to the island.
 
 One day, while the dog was gone for meat, a man came to
 the island in his kayak, and called Uinigumissuitung. “ Take
-your bag and come with me!” he shouted. He had the ap¬
-pearance of a tall, good-looking man, and the woman was
+your bag and come with me!” he shouted. He had the appearance of a tall, good-looking man, and the woman was
 well pleased with him. She took her bag, went down to the
 kayak, and the man paddled away with her. After they had
 gone some distance, they came to a cake of floating ice. The
@@ -6113,9 +4971,6 @@ he wore snow-goggles made of walrus-ivory, and he said, “ Do
 you see my snow-goggles ? ’ ’ and then laughed at her because
 she began to cry.) Then he went back into his kayak, and
 they proceeded on their journey.
-
-
-164 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 Finally they came to a place where there were many people
@@ -6145,24 +5000,17 @@ young woman to show her hand, as he was very anxious to see
 at least part of her body; but she did not move. Then he
 asked her to show her mitten, but she did not respond to
 his request. In vain he tried in many ways to induce her to
-show herself; she kept in hiding. Then he began to cry, rest¬
-ing his head on his arms, that were crossed in front of the man¬
-hole of the kayak. Avilayoq’s father paddled on as fast as he
+show herself; she kept in hiding. Then he began to cry, resting his head on his arms, that were crossed in front of the manhole of the kayak. Avilayoq’s father paddled on as fast as he
 could, and the man fell far behind.
 
 It was calm at that time, and they continued on their way
-home. After some time they saw something coming from be¬
-hind toward their boat. They could not clearly discern it.
+home. After some time they saw something coming from behind toward their boat. They could not clearly discern it.
 Sometimes it looked like a man in a kayak. Sometimes it
 looked like a petrel. It flew up and down, then skimmed over
 the water, and finally came up to their boat and went round and
 round it several times, and then disappeared again. Suddenly
 ripples appeared, the waters began to rise, and after a short
 time a gale was raging. The boat was quite a distance from
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 165
-
 shore. The old man became afraid lest they might be drowned;
 and, fearing the revenge of his daughter’s husband, he threw
 her into the water. She held on to the gunwale; then the
@@ -6175,8 +5023,7 @@ ground-seals. Still she clung to the boat; then he chopped
 off the last joints of her fingers, which became transformed
 into seals. Now she clung to the boat with the stumps of her
 hands, and her father took his steering-oar and knocked out
-her left eye. She fell backward into the water, and he pad-
-died ashore.
+her left eye. She fell backward into the water, and he paddied ashore.
 
 Then he filled with stones the boots in which the dog was
 accustomed to carry meat to his family, and only covered the
@@ -6205,11 +5052,7 @@ dog?” His daughter did not reply. Early in the morning he
 spoke to her in the same way, but his daughter remained silent.
 
 
-166 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-The following night a man came into the hut who wore trou¬
-sers of red dog-skin. He sat down next to the girl, and then
+The following night a man came into the hut who wore trousers of red dog-skin. He sat down next to the girl, and then
 lay down with her. He cohabited with her, and when on the
 following morning he left the hut, he dragged her along, as
 dogs do. It was her father’s dog that had assumed the shape
@@ -6240,8 +5083,7 @@ his little ones. When the dog reached the bottom of the
 sea, Sedna took him into her house.
 
 Now the woman was all alone with her dogs on the island,
-and the old man went across regularly to supply her with seal-
-meat. Finally he complained to his daughter, saying that he
+and the old man went across regularly to supply her with sealmeat. Finally he complained to his daughter, saying that he
 was tired of supplying the pups with meat. Then she became
 angry, and resolved to avenge the death of her husband. She
 said to her pups, “When my father comes back, go down to the
@@ -6249,19 +5091,12 @@ beach and lap the blood off the cover of his kayak. Then
 attack him, and devour him.” When the father arrived,
 bringing meat for the pups, they ran down to the beach and
 lapped the blood off the cover of the kayak. The old man
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 167
-
-
-scolded them, and tried to drive them away. Then they at¬
-tacked him, and devoured him.
+scolded them, and tried to drive them away. Then they attacked him, and devoured him.
 
 The woman felt sorry for her pups, because she had no food
 for them. She took the sole of one of her boots, made masts
 of whalebone, and transformed it into a ship. She gathered
-material of different kinds, which was to serve for their pro¬
-visions. Then she told some of her children to go aboard, and
+material of different kinds, which was to serve for their provisions. Then she told some of her children to go aboard, and
 said, “Whatever country you may reach, you will make things
 beautiful for yourselves. You are crying for food all the time,
 and I have nothing to give you.” When a fair wind from the
@@ -6287,39 +5122,28 @@ short, because her children were away such a long time.;
 
 A long time ago a woman transformed her old seal-skin
 jacket into a walrus. She put antlers on its head, and then
-put it into the water. It looked very well. Then she trans¬
-formed her trousers into a caribou. The black part became
+put it into the water. It looked very well. Then she transformed her trousers into a caribou. The black part became
 the back of the animal, while the white part became its belly.
 The waistband was used to make its legs, and the connecting
 parts of the trousers were used to make its loins. Then she put
 tusks in its head. It looked very well, and she set it free.
 When the caribou saw a man, it went up to him and killed him
-
-
-168 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-with its tusks. Then she called both the walrus and the cari¬
-bou to come to her. She took the tusks out of the caribou’s
+with its tusks. Then she called both the walrus and the caribou to come to her. She took the tusks out of the caribou’s
 head and put them into the walrus’s head, and she took the
 antlers from the walrus and put them on the caribou’s head.
 She also took out some of the caribou’s teeth, and she kicked
-its forehead so that it became flat, and so that the eyes pro¬
-truded. In this way she punished it for having killed the man.
+its forehead so that it became flat, and so that the eyes protruded. In this way she punished it for having killed the man.
 Then she said to the caribou, “You shall never come near the
-walrus. Stay far away inland.’’ Ever since that time, when¬
-ever a caribou smells a man, it is afraid.
+walrus. Stay far away inland.’’ Ever since that time, whenever a caribou smells a man, it is afraid.
 
 4. Origin of the Narwhal.
 
 Once upon a time there lived north of Padli a woman who
 had two step-children,—a blind boy and a girl. One day a bear
 came to their house and looked in at the window. The mother
-gave a bow and arrow to the blind boy, and aimed the ar¬
-row for him. Then she told him to shoot, and he killed the
+gave a bow and arrow to the blind boy, and aimed the arrow for him. Then she told him to shoot, and he killed the
 bear. He said, “ Indeed, I have killed it.” The step-mother
-replied, “No, no, your arrow only struck the side of the win¬
-dow.” The blind boy heard the growling of the bear grow
+replied, “No, no, your arrow only struck the side of the window.” The blind boy heard the growling of the bear grow
 weaker and weaker, until the animal fell over, and tumbled
 down from the roof of the house into the snow. .The woman
 went out and skinned the bear, but she told the girl not
@@ -6339,17 +5163,11 @@ top of my kayak!” He did so, and the bird paddled away
 with him to the middle of the lake. Then suddenly the bird
 dived with him, and staid below water for quite a while.
 When they came up again, the boy found himself on top of a
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay . 169
-
-
 kayak, and the bird asked him, “Can you see now?” He
 replied, “No, I cannot see;” but he could discern a shimmer
 of light. Then the bird dived with him again, and staid under
 water much longer. When they came to the surface, the bird
-asked him again, “Can you see now?” The blind boy re¬
-plied, “ I can see better now, but not very well.” They dived
+asked him again, “Can you see now?” The blind boy replied, “ I can see better now, but not very well.” They dived
 again, and staid under water still longer. When they came
 up again, the bird asked him, “ Can you see now? Can you see
 that lake and the things that look like pins in the water?”
@@ -6372,8 +5190,7 @@ whales.” She agreed. When they reached the floe-edge, he
 said to his mother, “ Make fast the end of the line around your
 waist, and hold on to it when I harpoon a white whale. You
 shall help me hold it.” Now a white whale emerged. It
-was of a dark color. Then the woman shouted to her step¬
-son, “Harpoon that one!” But he replied, “No, it is too
+was of a dark color. Then the woman shouted to her stepson, “Harpoon that one!” But he replied, “No, it is too
 strong.” Quite a number of white whales emerged, but he
 waited until a very large one came near, then he speared it
 with his harpoon. Then he pretended to help his mother hold
@@ -6386,15 +5203,11 @@ whale dived again, and took the woman along. Then they
 heard her crying, “Luk!” and her head went under water.
 
 
-I 7 ° Bulletin American Museum of Natural History . [Vol. XV,
-
-
 When the whale came up again, she lay on her back. She
 took her hair in her hands, and twisted it into the form of a
 horn. Again she cried, “0 stepson! why do you throw me
 into the water? Don’t you remember that I cleaned you
-when you were a child?” She was transformed into a nar¬
-whal. Then the white whale and the narwhal swam away.
+when you were a child?” She was transformed into a narwhal. Then the white whale and the narwhal swam away.
 
 The boy returned to the shore. He left that place with his
 sister, and they went travelling for a long time. Finally they
@@ -6427,14 +5240,8 @@ but just took a piece of fat, which they chewed and spit out
 again. They had no anuses.
 
 The girl married one of these men. Soon she was with
-child. One day her mother-in-law made some thread of cari¬
-bou-sinew, which she plaited. The young man asked, “Why
+child. One day her mother-in-law made some thread of caribou-sinew, which she plaited. The young man asked, “Why
 are you making that thread?” The woman replied, “It is
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . J 7 1
-
-
 for your sister, — to sew her up after they have taken out her
 child.” The young man said, “That is not necessary. She
 does not need to be sewed up; she can give birth by herself.”
@@ -6460,41 +5267,31 @@ built a snow house for her, and closed the door with a snow
 block, intending to let her starve to death; but her younger
 sister, who loved her, made a small hole through the wall of
 the snow house, and passed pieces of seal-meat to her. After
-some time the elder sister said, when the younger one was giv¬
-ing seal-meat to her, “I am not like other people. Hair is
+some time the elder sister said, when the younger one was giving seal-meat to her, “I am not like other people. Hair is
 growing all over my body and on my limbs.”
 
 After a while the elder sister also said to her, ‘ ‘ Do not bring
 me any more meat.” She replied, “ I shall continue to bring
 you meat, for I want you to live.”
 
-Soon the father and mother discovered the girl giving seal-
-meat to her elder sister. The father said, “ It is not well that
+Soon the father and mother discovered the girl giving sealmeat to her elder sister. The father said, “ It is not well that
 you give her food. She is not nice. It is best to let her die.
 Do not give her any food.” But the girl insisted on giving
 some of her own seal-meat to her elder sister.
 
 One day when she took seal-meat to her elder sister, she
 looked into the house through the hole, and saw that her
-
-
-1 7 2 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 sister’s body was covered with hair. The elder sister knew at
 once that the girl had seen her, and she said, “Leave this
 place! I shall soon go out of this snow house.” She made a
 number of wooden pegs, and gave them to her younger sister,
-saying, “ When you move from this place, you will hear some¬
-thing pursuing you while you are travelling. Then lie down
+saying, “ When you move from this place, you will hear something pursuing you while you are travelling. Then lie down
 on your face, and put these pegs around you. I am going to
 turn into an agdlaq. I shall pursue you; but by the pegs I
 shall recognize you.”
 
-About this time the father decided to desert his elder daugh¬
-ter. The people loaded their sledges and left. When they
-had been on their way for some time, the girl heard some¬
-thing following their steps. She ran ahead, lay down on the
+About this time the father decided to desert his elder daughter. The people loaded their sledges and left. When they
+had been on their way for some time, the girl heard something following their steps. She ran ahead, lay down on the
 snow, put the wooden pegs around her, as she had been told to
 do by her sister, and hid her face in her hands. She staid
 there for some time. Soon the agdlaq came up to her; but
@@ -6547,8 +5344,7 @@ ashore, and walruses were left at Lake Netchillik.
 8. Origin of Sun and Moon.
 
 In a village a woman lived in a hut all by herself. One
-evening, while the people were assembled in their dancing-
-house, a man went to the woman, put out her lamps, and
+evening, while the people were assembled in their dancinghouse, a man went to the woman, put out her lamps, and
 compelled her to cohabit with him. After this he came every
 night at the time when the people were in the dancing-house.
 The woman wished to know who he was. She asked him
@@ -6563,12 +5359,8 @@ people were laughing at her own brother, who bore the marks
 of her fingers on the left side of his face. Then she took a
 knife, cut off her left breast, and offered it to him, saying,
 “ Eat this.” She took up a piece of wood, such as is used for
-trimming lamps, and lighted it. He also took a trimming-
-stick in his left hand, lighted it, and followed her. She went
+trimming lamps, and lighted it. He also took a trimmingstick in his left hand, lighted it, and followed her. She went
 out of the house and ran around it, pursued by her brother.
-
-
-1 74 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Finally the latter fell. The flame on his stick went out, while
@@ -6579,11 +5371,9 @@ the sky. She became the sun, and he became the moon.
 
 Outakalawaping was an old man. An orphan boy named
 Elaakjewwakjew used to visit him; and as soon as the old
-man saw him, he would shout, “ Why did you eat your moth¬
-er’s tail?” Then the orphan boy would run away. Once
+man saw him, he would shout, “ Why did you eat your mother’s tail?” Then the orphan boy would run away. Once
 upon a time he went into another house; and one of the boys,
-who knew what the old man was in the habit of saying, ad¬
-vised him, when the old man should again say, “ Why did you
+who knew what the old man was in the habit of saying, advised him, when the old man should again say, “ Why did you
 eat your mother’s tail?” to reply, “Why did you put your
 first wife in the crack in the ground-ice? Why did you put
 her in the crack in the floe-ice? ” The boy went back into the
@@ -6602,19 +5392,14 @@ Once upon a time a bear was being hunted by seven (ten ?)
 sledges. The traces of a number of dogs had been cut, and
 the dogs were in hot pursuit. When they had come up close
 to the bear, some of the men jumped off their sledges, and ran,
-urging the dogs along. One shouted to another, “Your mit¬
-ten has fallen off from the sledge! Go and get it! You can
+urging the dogs along. One shouted to another, “Your mitten has fallen off from the sledge! Go and get it! You can
 see it by the moon’s light!” 1 While the sledges were thus
 hurrying along, one of the men said, “I do not feel my feet
-touching the ground;” and another one rejoined, “The run¬
-ners of my sledge are rising.” They were transferred to the
+touching the ground;” and another one rejoined, “The runners of my sledge are rising.” They were transferred to the
 sky, and became constellations.
 
 
 1 It seems that the man thus snoken to jumped off, and was left behind.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 175
 
 
 11. Origin of Thunder and Lightning.
@@ -6628,8 +5413,7 @@ other, “the people would catch them: let us make lightning,
 that they cannot catch.”
 
 They continued to ask each other what to do. Every time
-the first girl proposed to make various animals, such as cari¬
-bou, whales, agdlaq, polar bears, and white whales; but the
+the first girl proposed to make various animals, such as caribou, whales, agdlaq, polar bears, and white whales; but the
 other always answered, “No, the people can catch them: let
 us make lightning, that they cannot catch.” Finally they
 both agreed that they would make lightning.
@@ -6647,20 +5431,13 @@ they came.
 
 
 Kadlu and Kamaluninga make thunder-storms. The
-women give them a piece of whitened skin and flint. Some¬
-times angakut go to visit them. Once upon a time an anga-
-kok visited Kamaluninga at her house. After he had been
-there for a short time, she arose and went to look for some¬
-thing inside the tent. The angakok became afraid, and went
+women give them a piece of whitened skin and flint. Sometimes angakut go to visit them. Once upon a time an angakok visited Kamaluninga at her house. After he had been
+there for a short time, she arose and went to look for something inside the tent. The angakok became afraid, and went
 away wondering what she was looking for. Other visitors
 were treated in the same way. In their country the air is
 exceedingly cold in winter, but it becomes warm in spring,
 and they go sealing. They do not leave their hut much till
-spring. At that time the sides of their huts crack like gun¬
-shot. They crack still louder when summer is approaching.
-
-
-176 Bulletin American Museum of Natural History. [Vol. XV,
+spring. At that time the sides of their huts crack like gunshot. They crack still louder when summer is approaching.
 
 
 The visitors see the lightning, which is of the size of kayaks,
@@ -6669,8 +5446,7 @@ allow the thunder to touch the earth, but send it along not
 far from the ground. If the thunder should touch the ground
 as one touches it with the toes of one's boots, lightning would
 flash out of it. When they wish to hunt caribou, they throw
-their thunderbolt, which touches the ground where the ‘cari¬
-bou are. It is said that when the two sisters were young, they
+their thunderbolt, which touches the ground where the ‘caribou are. It is said that when the two sisters were young, they
 stole a boy, whom they still keep.
 
 12. Origin of Fog.
@@ -6692,22 +5468,14 @@ up and saw him. He arose at once, and ran after the man,
 who tried to escape; but Nareya overtook him and killed
 him. When the hunter did not return to the village, his
 friends became very anxious, and one of them went in search
-of him. He did not find him; but on his return, he discov¬
-ered that the bodies of the dead had been taken away from
+of him. He did not find him; but on his return, he discovered that the bodies of the dead had been taken away from
 the graves. Finally he came to the place where Nareya was
 lying, at the side of the water.
 
-Then he went home and told what he had seen. The peo¬
-ple did not know what to do. One of them offered to pretend
+Then he went home and told what he had seen. The people did not know what to do. One of them offered to pretend
 to be dead and to have himself buried under stones. He
 expected that he would be taken away like the bodies of the
-dead, and that he would thus discover the robber. The peo¬
-ple carried him out of the house, and covered him up with
-
-
-i90i.] Boas , Eskimo of Baffin Land and Hudson Bay . 177
-
-
+dead, and that he would thus discover the robber. The people carried him out of the house, and covered him up with
 stones. When it was nearly morning, Nareya discovered
 the new grave. He took the stones off, fastened a thong
 around the body in two places, put it on his back, and carried
@@ -6739,8 +5507,7 @@ soon continued his pursuit. When he had nearly reached the
 fugitive, the latter, by means of sorcery, made a great many
 berries. When Nareya saw them, he stopped, and picked
 and ate a great many. Meanwhile the man had run over a
-hill. When he reached the foot of the hill, and saw the mon¬
-ster gaining upon him, he made a river. Nareya reached
+hill. When he reached the foot of the hill, and saw the monster gaining upon him, he made a river. Nareya reached
 the river, and, on seeing the man on the other side, he asked
 him, “How did you cross?” The man replied, “I drank all
 the water until I was able to wade through the river.” Then
@@ -6752,8 +5519,6 @@ of water that it made him burst, and he died. A mist arose
 [November, igoi\ 12
 
 
-178 Bulletin American Museum of Natural History. [Vol. XV,
-
 from him, and from it all the mist and fog originated. The
 man lost his way in the fog, but after some time it cleared
 away, and he reached home safely.
@@ -6763,8 +5528,7 @@ away, and he reached home safely.
 Akkalookjo and his wife Owmirneto were living at Kinerto.
 They had no children. One day Owmirneto went out early.
 She found a baby girl, which she took home and brought up
-as her own. When the child was almost grown up, Owmir¬
-neto found another baby girl, which she took and brought up
+as her own. When the child was almost grown up, Owmirneto found another baby girl, which she took and brought up
 as her own. When this child was almost grown up, she found
 a third one; and after a number of years, when the third also
 was almost grown up, she found a fourth one. All these she
@@ -6777,8 +5541,7 @@ whom she had found went about looking for children; and
 Owmirneto found another baby child. When this one was
 almost grown up, Owmirneto and the two girls whom she
 had found first were again looking for children. Her first
-daughter found anotb er girl. About this time her third daugh¬
-ter began to look for children too, while Owmirneto had grown
+daughter found anotb er girl. About this time her third daughter began to look for children too, while Owmirneto had grown
 so old that she did not look for any more to bring up. About
 this time the third girl found a child; and when this one had
 grown up, the first girl found another one.
@@ -6793,11 +5556,6 @@ for children. Finally she found a chrysalis. She allowed it
 to suck the blood from her own body. Therefore she needed
 a vast amount of food, and she had to go to the houses of her
 neighbors to ask for it. Her husband was so young that he
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 1 79
-
-
 did not go sealing yet. When she had eaten enough, she
 went home, and let the chrysalis suck her blood. While she
 was outside, she left the chrysalis in her stocking and in one
@@ -6814,9 +5572,7 @@ woman was away. It left its bed, and began to suck blood
 out of the man’s side. It hurt him, and he threw it into the
 porch, where the dogs were. He heard them howling when
 they were bitten by the chrysalis. Very soon they stopped.
-They had killed it and devoured it. Its blood was spat¬
-tered all over the porch and over their pelts. When the wo¬
-man came back, she saw the blood, and asked her husband,
+They had killed it and devoured it. Its blood was spattered all over the porch and over their pelts. When the woman came back, she saw the blood, and asked her husband,
 "Is that the blood of the chrysalis?” She looked at her
 trousers, and found that the chrysalis had disappeared. Then
 her husband told her what had happened. He said, “That
@@ -6837,10 +5593,6 @@ the women observed him. They cried and asked him for
 their clothes. He gave them to three of them, but those of
 the last one he kept. The other women put on their boots
 and jackets, and at once they were transformed into geese,
-
-
-180 Bulletin American Museum of Natural History . [Vol. XV,
-
 and flew away. The remaining woman asked again and
 again for her jacket; but instead of giving it to her, he
 merely asked, “Will you be my wife?” She did not reply,
@@ -6859,8 +5611,7 @@ among them. Suddenly she noticed some of the blood of the
 whale on her dress. Then she began to cry. She left the
 people, took her child, and went along the beach. Soon she
 found some feathers, which she placed between her fingers
-and between those of the boy. At once both were trans¬
-formed into geese, and flew away. The people who had seen
+and between those of the boy. At once both were transformed into geese, and flew away. The people who had seen
 the transformation called to the man, whose name was
 Ititaujang, saying that his wife and child were flying away.
 Then he left the whale and followed them to the land of the
@@ -6883,9 +5634,6 @@ tried to go around it, but he had to cohabit with it and then
 step right over it.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 181
-
-
 After he had passed this last obstacle, he went on for a long
 time. Finally he saw a man. When he looked at him, he
 noticed that he could look through his body. He had no
@@ -6900,8 +5648,7 @@ direction,’’ pointing towards Ixalu'qdjung’s back. The latter
 rejoined, “If you had come the other way, I should have
 killed you with my hatchet.’’ He did not want any one to
 see that he had no intestines. Then Ititaujang asked, “Do
-you know where my wife is?” Ixalu'qdjung replied, “Lis¬
-ten!” Then they heard distant voices, and that of the lost
+you know where my wife is?” Ixalu'qdjung replied, “Listen!” Then they heard distant voices, and that of the lost
 wife among them. The people were on the other side of the
 river. The traveller asked Ixalu'qdjung to help him to cross
 the river, which was very deep. Then Ixalu'qdjung cut off
@@ -6925,11 +5672,6 @@ ground here is boiling.” By that time the man had arrived at
 the door of the hut, and he entered. Inside he saw his wife
 and an old man. The latter said, “ Bring me the chest with
 the feathers.” The woman gave him the chest; and as soon
-
-
-182 Bulletin American Museum of Natural History. [Vol. XV
-
-
 as he took it, the woman, the child, and the old man were
 transformed into birds. Then the man became very angry.
 He took his knife and cut open his wife’s belly while she was
@@ -6937,8 +5679,7 @@ flying away, and eggs fell out of it. 1
 
 15. Kiviuq .
 
-Once upon a time there was a boy who lived with his grand¬
-mother. They were very poor. Since they had no seal-skins,
+Once upon a time there was a boy who lived with his grandmother. They were very poor. Since they had no seal-skins,
 the old woman made a shirt of skins of sea-gulls for him. One
 day he was playing with the other children of the village, who
 made fun of him on account of his poverty, and tore his shirt.
@@ -6948,9 +5689,7 @@ until finally the old woman had used up all her thread, and
 was unable to mend them. She was very sorry for the boy.
 She was a great angakok, and determined to take revenge on
 the people who maltreated them. She told the boy what to
-do. Then she wrought a spell. The floor of their hut dis¬
-appeared, and in its place was an underground channel lead¬
-ing down to the sea. The boy was transformed into a young
+do. Then she wrought a spell. The floor of their hut disappeared, and in its place was an underground channel leading down to the sea. The boy was transformed into a young
 seal, which swam through the channel and re-appeared in front
 of the village, in the sea. Soon the people saw it, and went in
 pursuit in their kayaks. The young seal went on and on,
@@ -6971,9 +5710,6 @@ reached a small island. It looked quite reddish. He went
 
 
 1 See another version on p. 328.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 183
 
 
 ashore, and fell asleep. After he had taken a good rest, he
@@ -7016,11 +5752,6 @@ them yourself; you see where they are.” Kiviuq replied,
 “I have been trying to take them, but every time I stretch
 out my hand, they fly up into the air, and fall back as soon as
 I withdraw it.”—“Yes,” retorted the old woman, “I put
-
-
-184 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 them on the drying-frame.” When the old woman refused
 to give them to him, Kiviuq called to his guardian spirit, a
 bear, to come. As soon as he had called the bear, it was
@@ -7039,8 +5770,7 @@ hut, the door appeared again. Again he tried to rush out.
 He succeeded in escaping, although the door shut so suddenly
 that it tore off part of the tail of his jacket. He ran down to
 his kayak, but the old woman took hold of its bow and almost
-upset it. Kiviuq shouted, “I shall kill you with my har¬
-poon!” The old woman retorted, “I shall kill.you with my
+upset it. Kiviuq shouted, “I shall kill you with my harpoon!” The old woman retorted, “I shall kill.you with my
 knife!” Then Kiviuq threw his spear at her, but it only
 grazed her hair, as she dodged quickly. She let go of the
 kayak, and Kiviuq paddled away as fast as he could.
@@ -7062,11 +5792,6 @@ hole in the bone was full of dirt. He cleaned it out, and
 went off.
 
 After a long time he saw a hut on shore. He landed and
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 185
-
-
 went up to it. In the hut he found an old woman and her
 daughter. Near the door of the hut he noticed a large piece
 of driftwood, which was the younger woman’s husband.
@@ -7084,8 +5809,7 @@ After a few days he said again that he had lost his mittens,
 and repeated this several times. As a matter of fact, he had
 not lost them, but only wanted his wife to make him several
 pairs of new mittens. He intended to return home, and
-wanted to use the new mittens on his return journey, to re¬
-place each pair after it had been worn out by paddling.
+wanted to use the new mittens on his return journey, to replace each pair after it had been worn out by paddling.
 
 One day while Kiviuq was off sealing, the old woman said
 to her daughter, “ There are lice in your head. Let me louse
@@ -7103,13 +5827,9 @@ and went away never to return.
 He travelled a long time in search of his home, and finally
 discerned some huts. It was his own village. Those who
 had been children when he went away were now grown up.
-Kiviuq’s wife had taken another husband, but now she de¬
-serted him, and returned to Kiviuq. All his children had
+Kiviuq’s wife had taken another husband, but now she deserted him, and returned to Kiviuq. All his children had
 grown up. His oldest son was a good hunter, and was now
 in command of a whaling-boat.
-
-
-186 Bulletin American Museum of Natural History . [Vol. XV
 
 
 16. Qaudjaqdjuq.
@@ -7134,11 +5854,8 @@ when Qaudjaqdjuq was all alone, he said, “ Brother Moon, up
 there, come down to me in the morning/’ Very soon the
 Moon came down with his dog-team, bringing his wife.
 
-There was a large dancing-house, built of stone, in the vil¬
-lage. The people assembled there every night. They had
-one large chamber-pot in this dancing-house, and it was Qau-
-djaqdjuq’s duty to empty it whenever required. He was un¬
-able to carry it with his hands alone; he had to hold it with
+There was a large dancing-house, built of stone, in the village. The people assembled there every night. They had
+one large chamber-pot in this dancing-house, and it was Qaudjaqdjuq’s duty to empty it whenever required. He was unable to carry it with his hands alone; he had to hold it with
 his teeth also. When he came back into the dancing-house,
 after having emptied the pot, the people used to hang him by
 his nostrils to a pair of bear’s tusks; therefore his nostrils
@@ -7153,13 +5870,7 @@ his brother alone in the house, and walled up the doorway with
 large bowlders.
 
 The Man in the Moon asked his brother to bring in his seat
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 187
-
-
-from his sledge. The boy went to the door of the dancing-
-house, and asked one of the people to hand him that seat.
+from his sledge. The boy went to the door of the dancinghouse, and asked one of the people to hand him that seat.
 The people were still engaged in walling up the doorway, but
 one of them passed the seat to him. There was a dead
 ermine in it. The Man in the Moon restored it to life; then
@@ -7185,24 +5896,17 @@ the Man in the Moon said to Qaudjaqdjuq, “I am goingto
 whip you; and when I ask you, ‘ Do you feel sore?’ you must
 answer, ‘No, I am not sore.’” Now the Man in the Moon
 took up his whip, and whipped the boy until be fell down.
-Then he asked him, “Do you feel sore, brother?” Qau¬
-djaqdjuq replied, “ No, I am not sore.” The boy arose again,
+Then he asked him, “Do you feel sore, brother?” Qaudjaqdjuq replied, “ No, I am not sore.” The boy arose again,
 and the Man in the Moon whipped him a second time until
 the boy fell down. Again he asked him, “ Do you feel sore?”
 Qaudjaqdjuq replied in the same way as before. Now he was
 very much larger. The Man in the Moon whipped him a
-third time, and asked him the same question; and Qaudjaq¬
-djuq replied that he did not feel sore at all. This time he
+third time, and asked him the same question; and Qaudjaqdjuq replied that he did not feel sore at all. This time he
 did not fall over after he had been whipped. He had grown
 much larger. Thus the Man in the Moon whipped him six
 times. Then he had become a very large and strong man.
 
 The Man in the Moon then wished for three bears to visit
-
-
-188 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 the village. It did not take long for the bears to come.
 When the people saw them, they were afraid, and said,
 “Where is Qaudjaqdjuq? Let us give him to the bears to
@@ -7216,8 +5920,7 @@ did not believe it. Qaudjaqdjuq went down to the bears. He
 took one of them by its hind-legs, struck it against the ground,
 and killed it. The second and the third bear fared no better.
 Then the people were much afraid of him, and ran away in
-all directions. But he pursued them, and, as soon as he over¬
-took a man, he took him up, struck him against the rocks, and
+all directions. But he pursued them, and, as soon as he overtook a man, he took him up, struck him against the rocks, and
 thus killed him. When he took hold of them thus, he would
 say, “ Do you remember when you made me clean your dirty
 lamps, and when you made me enjpty your dirty pots, and
@@ -7244,9 +5947,6 @@ The other woman began to squint in her right eye, because
 she was always looking stealthily in that direction.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 189
-
-
 17. Mangegjatuakdju.
 
 Mangegjatuakdju lives underground in a gravel-bank.
@@ -7260,13 +5960,10 @@ right into the entrance of the house. When Mangegjatuakdju
 saw them inside of her house, she shut the door. Now the
 two girls looked about inside, and saw a corpse. Quite a
 number of human heads were lying about, and decomposed
-matter was running down from the noses of the skulls. Man¬
-gegjatuakdju was sitting on a platform at the side of the door¬
-way through which the children had entered. She was biting
+matter was running down from the noses of the skulls. Mangegjatuakdju was sitting on a platform at the side of the doorway through which the children had entered. She was biting
 a stone, and had her eyes shut, and her hands over her ears.
 The children said, “ Go on biting as hard as you can, and shut
-your ears.” The old woman did not move. Then the chil¬
-dren became afraid of her, and tried to run away; but the door
+your ears.” The old woman did not move. Then the children became afraid of her, and tried to run away; but the door
 of the house was shut. Then they determined to try to make
 a hole in the roof. They found a small seal-bone, with which
 one of the gills began to scrape away the sand on the roof of
@@ -7275,8 +5972,7 @@ to prevent her from seeing what they were doing. The child
 in the hood had taken a human jaw which was lying on one of
 the shelves, and was playing with it. During all this time the
 children shouted and made a noise, so that the woman might
-not hear them trying to make a hole in the roof. Once Man¬
-gegjatuakdju opened her eyes; then they covered the hole up
+not hear them trying to make a hole in the roof. Once Mangegjatuakdju opened her eyes; then they covered the hole up
 with a leg of one of their trousers, that she should not see what
 they were doing. When the hole was large enough, one of
 the girls climbed up, with the help of her friend who was
@@ -7285,11 +5981,6 @@ they continued to shout, to prevent Mangegjatuakdju from
 hearing what was going on. Then the girl who had remained
 in the hut handed the child up through the hole, and finally
 climbed, out herself, assisted by her friend. When the last
-
-
-T 90 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 girl had just reached the outside of the hut, Mangegjatuakdju
 discovered that they were escaping. She took ^ hold of the
 tail of the girl’s jacket, but it tore off. After the children
@@ -7309,8 +6000,7 @@ house. Then one man went in, holding one end of the rope,
 while the others remained outside, holding the other end.
 The man who went in was a good whaler; and the people said
 as he was going in, “ Does not this man know how to catch
-whales? Let him cut off the nails of your toes.” Then Man¬
-gegjatuakdju held out her foot and asked him to cut her nails.
+whales? Let him cut off the nails of your toes.” Then Mangegjatuakdju held out her foot and asked him to cut her nails.
 She said, “ If you cut the nails on my toes, I will look for the
 lice in your head;” and while she was speaking, she hid her
 hatchet under her. The man pretended to cut her nails, but
@@ -7329,11 +6019,6 @@ once more!” She said, “My liver is like copper; my heart
 is a hammer.” Finally the men hauled her out of the house,
 and she died. Her back was worn through by being dragged
 over the ground. Then they cut her open to see if what she
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 19 1
-
-
 had said Was true. They found that her heart, her liver, her
 kidneys, and her intestines were like those of any human being.
 
@@ -7352,14 +6037,12 @@ bite of the seals that had been caught. They lived in this
 way for some time, when one day the man who had been at
 Qenertung all winter caught a seal, a small portion of which
 he gave to the other men. In the evening he cut it up in his
-hut, and invited them to partake of it. Some of the men re¬
-mained outside, while one of their number assisted in carving
+hut, and invited them to partake of it. Some of the men remained outside, while one of their number assisted in carving
 the seal. Suddenly the host saw that the trousers-legs of his
 companion were shaking, and this frightened him. When
 the seal was all cut up, he went outside to wash his hands
 with snow. Then one of the other men jumped up and tried
-to throw him, but was unable to do so. He called for assist¬
-ance; and the person who had helped cut the seal came out
+to throw him, but was unable to do so. He called for assistance; and the person who had helped cut the seal came out
 of the hut, took the man whom they were attacking by the
 feet and threw him down. Then he killed him with his
 knife. They dragged the body away from the hut.
@@ -7374,11 +6057,6 @@ when opportunity should offer. The boy was afraid to do so,
 but his mother urged him on until he consented. The boy’s
 grandmother said, “You do not need to be afraid. You can
 easily escape from them. We shall leave as soon as he is
-
-
-192 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 killed, while it is dark, and we shall be far away before they
 know anything about it; and if they should catch up with us,
 I can cut the ice and set it adrift.’’ Then his mother told
@@ -7395,8 +6073,7 @@ dogs of the pursuers, however, went much faster than theirs,
 and they soon began to catch up with the fugitives. The
 old woman was lying on the sledge, and to all appearances
 did not notice the approach of their pursuers; but the boy
-was afraid, and began to cry, “ Where is the one who prom¬
-ised to break the ice when our pursuers were gaining on us?”
+was afraid, and began to cry, “ Where is the one who promised to break the ice when our pursuers were gaining on us?”
 Then the old woman raised her head, and said, “I am here,
 my boy.” Now the dogs of the pursuers were close up to
 them. Then she raised her bare hand, and extended only
@@ -7419,11 +6096,6 @@ that it had increased very much in bulk. It was enough for
 the framework of a boat. He began to build a kayak; and
 when it was finished, the old woman said,“ This is not like the
 kayaks which I used to see.” The man replied, “I do not
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 193
-
-
 know how to build any other kind.” Then the boy wished
 to have a kayak also, and he built one like those he used to
 see in his own country; but the other man was not pleased
@@ -7432,8 +6104,7 @@ boy, he cut a hole in it, put in a large stone, and pushed it into
 deep water, where it sank. Then he built another kayak of
 the same pattern as his own, and gave it to the boy. When
 the girl was old enough to marry, the boy took her for his
-wife. Both families continued to increase, and their descend¬
-ants still live in the land beyond the sea.
+wife. Both families continued to increase, and their descendants still live in the land beyond the sea.
 
 19. The Spider .
 
@@ -7473,9 +6144,6 @@ of his adventures.
 IS
 
 
-i 9 4 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 20. Ijimagasukdjukdjuaq.
 
 Ijimagasukdjukdjuaq and his wife lived in a large village.
@@ -7509,21 +6177,13 @@ belonged should come. Some time afterwards she heard steps;
 .a man arrived, and, behold! it was her brother. They went
 together to his home, where there were quite a number of huts,
 and she staid there. After some time, Ijimagasukdjukdjuaq
-went in pursuit of his wife. The people cried, “ Here Ijima¬
-gasukdjukdjuaq the cannibal is coming!” Ijimagasukdjuk¬
-djuaq replied, “ Who told you so? ” They shouted back, “ The
+went in pursuit of his wife. The people cried, “ Here Ijimagasukdjukdjuaq the cannibal is coming!” Ijimagasukdjukdjuaq replied, “ Who told you so? ” They shouted back, “ The
 woman who passed here in a boat told us so.” They did not
 tell him that his wife was staying with them.
 
 In the evening the people went into the dancing-house, and
 invited him to join them. In the dancing-house they had two
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 195
-
-
-supports put up and a tight-rope stretched across. Ijimaga-
-sukdjukdjuaq’s brother-in-law said to his friends, “Bring in
+supports put up and a tight-rope stretched across. Ijimagasukdjukdjuaq’s brother-in-law said to his friends, “Bring in
 my harpoon. I want to go caribou-hunting to-morrow.”
 Meanwhile the other people were swinging on the tight-rope.
 They had their hands tied to a stick by which they hung across
@@ -7562,11 +6222,6 @@ where a number of walrus had made a hole through the ice.
 He got ready to harpoon them, and as soon as one appeared,
 he harpooned it. Then he took hold of his line, and got in
 position to hold the walrus when it should dive. While he
-
-
-196 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 was standing there, he stumbled on a small piece of ice which
 was probably thrown out by the walrus when they made the
 hole. He fell down, and, as the end of his line was fastened
@@ -7606,11 +6261,6 @@ approaching on the ice. She cried, “That is not a bear, it is
 a little fox. 77 When it came nearer, she took it up. It was a
 bear, although she called it a fox. She said to her husband,
 “ Do you see those bunches of seaweed? When you see the
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 19 7
-
-
 spaces between them filled, that you may call a bear.” What
 she called seaweed were two islands with an enormous
 space between them. She went to sleep again. After a
@@ -7618,8 +6268,7 @@ while he saw something coming which filled the space
 between the islands. He took a stone and struck the head
 of the giantess until she awoke. He shouted, “ There is a
 large bear yonder!” She jumped up, saw the bear, and said,
-'‘Indeed this is a bear!” Before she went in pursuit, how¬
-ever, she put her husband inside the loop at the side of
+'‘Indeed this is a bear!” Before she went in pursuit, however, she put her husband inside the loop at the side of
 her boot, which is used for tightening the shoestrings. She
 took a stone and killed the enormous bear with it. Then
 she took it ashore, flensed it, and put the meat away. They
@@ -7627,11 +6276,9 @@ had no house, but they lived on the land, the sky being
 their roof.
 
 Forte coniunx coire voluit. Ilia negabat, cum diceret
-eum in vaginam certe incasurum. Vehementius autem ob-
-secrantem comas suas comprehendere iussit. Tamen in
+eum in vaginam certe incasurum. Vehementius autem obsecrantem comas suas comprehendere iussit. Tamen in
 vaginam incidit. Mane viro frustra quaesito, lente meiebat,
-si forte eum inveniret. Ad extremum ossa eius humi de-
-cidebant, ex quo intellexit eum in vagina plane elixum esse.
+si forte eum inveniret. Ad extremum ossa eius humi decidebant, ex quo intellexit eum in vagina plane elixum esse.
 Postea terrae adfixa concrevit.
 
 24. The Cannibal Woman .
@@ -7647,11 +6294,7 @@ He took hold of her with one hand, and with the other he
 untied the lashing from his sledge, and then bound her to it.
 Then he started off for his village. There he told the people
 that he had found this woman, who had certainly killed his
-friend; and he stabbed her with his knife. Then he discov¬
-ered that she was an amawallow [?].
-
-
-198 Bulletin American Museum of Natural History. [Vol. XV,
+friend; and he stabbed her with his knife. Then he discovered that she was an amawallow [?].
 
 
 25. The Man in the Moon.
@@ -7667,8 +6310,7 @@ Moon, and his dogs Terie'tiaq and Kanageak. The Man in
 the Moon shouted to her, “Come outside!” She obeyed, and
 he asked her to sit down on his sledge. Then he told her to
 shut her eyes, and not to open them until they arrived at
-their destination. She shut her eyes, and off they went up¬
-wards through the air. After a short time the Man in the
+their destination. She shut her eyes, and off they went upwards through the air. After a short time the Man in the
 Moon said, “Now open your eyes.” She replied, “I thought
 we had arrived.” She looked about, and saw a snow house.
 They entered. Inside she found everything very nice. The
@@ -7684,8 +6326,7 @@ was gone. She was very much surprised to see everything so
 clearly, although such a long distance off.
 
 Then the Man in the Moon said to her, “A woman named
-Ululiernang will come in very soon. Do not laugh at any¬
-thing she may do, else she will cut out your intestines. She
+Ululiernang will come in very soon. Do not laugh at anything she may do, else she will cut out your intestines. She
 is very fond of such food. If you feel that you cannot help
 laughing, put your left hand under your knees, and then raise
 it with all the fingers bent down from the second joint except
@@ -7693,11 +6334,6 @@ the middle finger, which you must extend.” He had hardly
 finished speaking, when Ululiernang came in. She had a flat
 dish and a woman’s knife. She put them down, and began a
 number of antics. She took the front flap of her jacket, made
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 199
-
-
 it into a round shape, and put it to one side, as though she
 were going to say, “Don’t move off that way!” and she cut
 many capers, trying to induce her to laugh. When the visitor
@@ -7718,8 +6354,7 @@ Her husband told her how badly he had felt when he
 found she had gone. He had thought her dead. Then
 she told her husband all that had happened.
 
-After a while her child was born. It was a boy. Her hus¬
-band was off sealing, and she was alone. Then she heard
+After a while her child was born. It was a boy. Her husband was off sealing, and she was alone. Then she heard
 something fall, and went out to see what it was. She found a
 caribou’s ham, which she took into the hut. In the evening
 her husband arrived, and when he saw the caribou-meat, he
@@ -7727,8 +6362,7 @@ asked her where she had obtained it. She told him that it fell
 down from heaven. She said, “It is from the Man in the
 Moon. He told me that he would send me something.” After
 some time, when the meat had all been eaten, the man went
-off sealing again. The woman had no oil for her lamp. Sud¬
-denly she saw some oil dripping, first into one lamp, then into
+off sealing again. The woman had no oil for her lamp. Suddenly she saw some oil dripping, first into one lamp, then into
 the other. When the lamps were full, she cried, “That’s
 enough! ” She knew that this also was a gift from the Man in
 the Moon. In the evening her husband arrived. He was
@@ -7740,9 +6374,6 @@ On the following day her husband went out sealing again.
 While he was away, she heard something fall down, and, on
 going outside, found another caribou’s ham. In the evening
 her husband returned. He had caught a seal. He asked,
-
-
-200 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 “Have you more caribou-meat?”—“Yes,” she replied, “the
@@ -7759,8 +6390,7 @@ From that time on, no more caribou-meat fell down from
 heaven, and her lamps were no longer filled with oil. Soon
 she became sick. The caribou-meat was all gone, and she
 died. Her child died also. The change from caribou-meat
-to seal-meat diet while the child was still young was so injuri¬
-ous that it caused the child’s death.
+to seal-meat diet while the child was still young was so injurious that it caused the child’s death.
 
 26. Stories about Dwarfs.
 
@@ -7786,9 +6416,6 @@ its neck. The stranger said, “ I did not wish to kill your dog.
 See what I have done! ” He was an inuarudligang.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 201
-
-
 Pupekalle and his son were out caribcpu-hunting in Akudnirn
 in summer. One day, while they were oft in their kayaks,
 they saw a great many people, who came up to them. They
@@ -7799,8 +6426,7 @@ resembled the spear-heads of the Eskimo. They swung them
 around their heads, and threw them at Pupekalle and his son,
 who were trying to escape. Pupekalle paddled in a zigzag
 course, so as to make it difficult for his pursuers to aim at him,
-while his son kept on in a straight line. At times their mis¬
-siles almost struck them, and finally Pupekalle’s son was
+while his son kept on in a straight line. At times their missiles almost struck them, and finally Pupekalle’s son was
 killed. The father went home and told his people, crying,
 how his son had been killed. He staid for a long time,
 mourning the loss of his child. Some of the people did not
@@ -7813,26 +6439,17 @@ then told his friends that the next summer he should go to
 avenge the death of his son. When summer came, one of his
 friends wished to accompany him; but Pupekalle said, “ I was
 alone when I met these people, and I want to meet them
-alone;” but finally he accepted his friend’s offer to accom¬
-pany him. They travelled for a long time, until they saw a
-few huts. There they stopped. Pupekalle told his com¬
-panion to wait outside, and said, “Perhaps they will kill me.
+alone;” but finally he accepted his friend’s offer to accompany him. They travelled for a long time, until they saw a
+few huts. There they stopped. Pupekalle told his companion to wait outside, and said, “Perhaps they will kill me.
 Then go back and tell the people what has happened to me.
 When night comes, I shall go down alone to meet them.” In
 the evening he went down to the huts. He entered the first
 one, and found a knife lying just above the entrance. He
-took it, and struck the people with it, as though he were strik¬
-ing dogs with a stick. He killed them all. They were all
+took it, and struck the people with it, as though he were striking dogs with a stick. He killed them all. They were all
 young people. Then he went into a second hut. There he
 found men and women. He killed them all with his knife.
-Some of the men would raise their arms to defend them¬
-selves, but he cut them all to pieces. After he had killed all
+Some of the men would raise their arms to defend themselves, but he cut them all to pieces. After he had killed all
 the people, he went into a third hut, in which he found many
-
-
-202 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 women and a few men. He killed most of them also. He
 spared only two women, who said they were really people, not
 dwarfs like the others. One of these women was with child.
@@ -7852,8 +6469,7 @@ desirable to them, and went home.
 
 
 An old woman and her grandson were living all alone. Their
-people had deserted them. They were staying in a small side-
-room of a large hut. In the evening a number of dwarfs
+people had deserted them. They were staying in a small sideroom of a large hut. In the evening a number of dwarfs
 arrived. They entered at the door, and when they did not
 see a light, they thought that the house was deserted. They
 brought in the walrus-meat that they had on their sledge,
@@ -7863,8 +6479,7 @@ The old woman heard the dwarfs talking, and finally noticed
 that they had become quiet. Then she said to her grandson,
 “ Go into the porch, where they have their meat. Touch your
 tongue, and draw your finger along the meat where it lies on the
-ground, touching both the meat and the ground, and be care¬
-ful not to make any noise.” The boy did so, and then crawled
+ground, touching both the meat and the ground, and be careful not to make any noise.” The boy did so, and then crawled
 back to his grandmother.
 
 The dwarfs were up again with the dawn, and prepared to
@@ -7873,11 +6488,6 @@ was taking the meat out of the porch. She found that one of
 the pieces of meat was very heavy, so that she could not lift it.
 She shouted to her husband, “Yesterday it was not heavy,
 but now I cannot lift it. ” Her husband retorted, ‘ ‘ Then leave
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 203
-
-
 it here,” and they went off. The old woman and the boy were
 now supplied with food enough to keep them for a long time.
 
@@ -7918,15 +6528,9 @@ any harm.” The visitor told her to stop calling; but she paid
 no regard to him, and called her son again. Soon he arrived
 in his kayak, and a great many other people came with him.
 They were Adlet. They did not wear any shoes. Merkinook
-
-
-204 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 was their chief. He went into the hut, and fastened the door
 on the inside. His people wanted to kill the two strangers.
-They were howling outside like dogs, and took their whaling-
-lances and tried to stab the visitors through the window,
+They were howling outside like dogs, and took their whalinglances and tried to stab the visitors through the window,
 but Merkinook told them to stop. He broke off with a stone
 the points of their lances as soon as they pushed them into the
 house. Finally the people desisted, and went to their huts.
@@ -7934,8 +6538,7 @@ Merkinook said to the two strangers, “My people need very
 much sleep; but when they have rested, we will accompany
 you on your way home.” On the following day all the people
 arose and went off together with the two visitors. They went
-on until night came; then they separated, and the Adlet re¬
-turned home. When the two visitors looked back at the
+on until night came; then they separated, and the Adlet returned home. When the two visitors looked back at the
 Adlet, they saw them moving very fast, as though a herd of
 caribou were running. The Adlet were in the habit of cutting
 out part of their insteps in order to increase their speed. 1 The
@@ -7965,9 +6568,6 @@ sealing. They always come home before the others. They
 1 See p. 2 o5.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 205
-
-
 live in this hut. They asked me to watch it while they are
 away. I shall ask them to protect you against the other
 Adlet. They are their chiefs.” When the sons arrived, their
@@ -7990,14 +6590,11 @@ together.
 One day the old man told the husband, “If you love your
 wife, and if you pity her, you must do as follows: ‘Quae
 simul atque menstruare coepit, cura ut in omnia deinceps
-tuguria earn de ducas. Turn viri egressi, cum renonem ad-
-portaverint, ubi recumbat, cum ea coibunt. Sic omnis san¬
-guis impurus expelletur.’ ” Ille paruit, et filiis Adlae senis
+tuguria earn de ducas. Turn viri egressi, cum renonem adportaverint, ubi recumbat, cum ea coibunt. Sic omnis sanguis impurus expelletur.’ ” Ille paruit, et filiis Adlae senis
 adiuvantibus per omnia tuguria earn circumducebat, dum
 sanies omnis emitteretur. Finally she was so weak that her
 husband had to carry her along; but, since all the bad blood
-was now out of her body, she became, after she had recov¬
-ered, exceedingly strong and fleet of foot.
+was now out of her body, she became, after she had recovered, exceedingly strong and fleet of foot.
 
 Then the old man told the woman to run a race with their
 dogs. He told her to run around a high hill and back again
@@ -8008,11 +6605,6 @@ to run as fast as a caribou. One day, when the man and the
 Adlet returned from hunting, the two sons of the old Adla
 said that they were surprised that the man could not run as
 fast as they did. Then the old Adla told them to take him to
-
-
-206 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 a lake. He took off his boots, and let him sit with his legs in
 the water up to the knees, until his legs became numb. Then
 they took him out of the water, and the two sons of the old
@@ -8047,16 +6639,10 @@ while he was sealing, three Adlet — a man, his wife, and their
 son — arrived at his hut. They went in and sat down, and
 the woman took off her breeches. Then they began to eat
 seal, crunching the flesh and bones. After a little while the
-young man looked out of the window-opening, and then con¬
-tinued eating. After a short time the woman said, “ I did not
+young man looked out of the window-opening, and then continued eating. After a short time the woman said, “ I did not
 bring in the wood I was carrying.”
 
 Up to this time the two Eskimo women had been sitting
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 20 J
-
-
 silently by. Now one of them winked to the other one, and
 said, “I will go outside and clear the ventilator.” She went
 out and climbed to the top of the house, and while there she
@@ -8075,36 +6661,25 @@ killed him when he left the hut. The woman still continued
 eating for some time after the men had gone away; but she
 also saw the man, and escaped at once without taking time to
 put on her breeches. The Eskimo did not succeed in killing
-her. The owner of the house put the bodies away, and cov¬
-ered them with snow. Then his wives told him what had hap¬
-pened. That night a gale of wind was blowing, and the Adla
+her. The owner of the house put the bodies away, and covered them with snow. Then his wives told him what had happened. That night a gale of wind was blowing, and the Adla
 woman was without her breeches. They were large enough
 to make a pair for each of the Eskimo women.
 
 
-Unoko and Makulu lived at Kumakdju. One time, in sum¬
-mer, they heard something breathing not far from their tents.
+Unoko and Makulu lived at Kumakdju. One time, in summer, they heard something breathing not far from their tents.
 Their dogs howled, and acted as though they were much
 afraid. They crawled up on top of the tent. Then the men
-heard another peculiar noise, as though somebody were carry¬
-ing a young dog away. On the following morning they saw
+heard another peculiar noise, as though somebody were carrying a young dog away. On the following morning they saw
 footprints of Adlet. It looked as though they had worn a
 piece of skin on the sole of each foot. It is said that the Adlet
 do not wear boots.
 
 
 Eavarnan was an Adla girl who lived with the Eskimo.
-From time to time she went to visit her own people, and slan¬
-dered the Eskimo. The latter used to go off hunting. One
+From time to time she went to visit her own people, and slandered the Eskimo. The latter used to go off hunting. One
 day they went out in their kayaks to hunt seal. When the
-
-
-208 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 weather was fine, the Adlet used to go hunting in the same
-manner; but that day they went up to the tents of the Es¬
-kimo and killed all the women. Eavarnan did not go back
+manner; but that day they went up to the tents of the Eskimo and killed all the women. Eavarnan did not go back
 with her people, but waited for the Eskimo to return; and
 when they arrived, she went to the edge of the water, and
 shouted, “Who wants to marry me? ” Several shouted back,
@@ -8120,13 +6695,11 @@ After some time the men decided to avenge the death of
 the women, and two men started out for the village of the
 Adlet. One of the two men had beautiful clothing made from
 the skin of a fresh-water seal; the other one wore his usual
-clothing. They went secretly in a roundabout way to the vil¬
-lage of the Adlet, and found the men all at home. There was
+clothing. They went secretly in a roundabout way to the village of the Adlet, and found the men all at home. There was
 one large tent and many small ones. They saw all the people
 going into the large tent. When they were all in, the man
 who had the fresh-water-seal clothing went in at the door,
-while the other one staid outside watching. The man suc¬
-ceeded in reaching the door unobserved, and found all the
+while the other one staid outside watching. The man succeeded in reaching the door unobserved, and found all the
 people eating from a large dish which was placed in the middle
 of the house. He was bold enough to step right among them,
 and to kill them all. Then he shouted, “ That is nice! ” They
@@ -8134,23 +6707,16 @@ gathered all the property of the Adlet, carried it home, and
 reported what they had done.
 
 
-It was in Akudnirn. One day a man, and his wife Muma-
-tchea , went out young-sealing. She carried a child on her
+It was in Akudnirn. One day a man, and his wife Mumatchea , went out young-sealing. She carried a child on her
 back. After they had travelled along for a while, their dogs
 took a scent, and soon they came to a village of the Adlet.
 The Adlet saw the strangers coming, and went down to the
 shore to meet them. The Eskimo were afraid, and while still
 at a distance from the shore, they stopped their dogs. The
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 209
-
-
 woman got off the sledge, her husband covered her with snow,
 and placed the sledge over her so that she was hidden between
 the runners. It was in vain. The Adlet found her, and, by
-order of their chief, took sledge, man, and woman to their vil¬
-lage. The Eskimo were taken into the chief’s house.
+order of their chief, took sledge, man, and woman to their village. The Eskimo were taken into the chief’s house.
 
 On the following day all the Adlet went off sealing. While
 they were away, the Eskimo were left in charge of the chief’s
@@ -8167,8 +6733,7 @@ the Adlet watched how he did it, for they had never before
 seen a seal caught in that manner. Then they went home.
 After they had arrived, the chief said to the Eskimo man, “All
 my men think a great deal of you. They have never seen a
-man catch a seal the way you did to-day. You are very skil¬
-ful.” After this the chief and his wife were much in love with
+man catch a seal the way you did to-day. You are very skilful.” After this the chief and his wife were much in love with
 the Eskimo, and the chief and he went sealing together.
 
 One day while the men were out sealing, the chief’s wife gave
@@ -8179,8 +6744,7 @@ the time it was done, while he was off sealing. He was very
 angry. He said to the Eskimo, “Go home! that harm may
 not befall you.” He was breathing fire from his nostrils.
 
-The Eskimo family started. When they were a short dis¬
-tance from the Adlet camp, they saw a great fire rising from it.
+The Eskimo family started. When they were a short distance from the Adlet camp, they saw a great fire rising from it.
 The chief had probably burned his wife and his brother.
 
 28. Stories about Tornit .
@@ -8190,9 +6754,6 @@ who were a tall and strong race of people. They lived in large
 stone houses. They did not know how to dress skins. After
 
 [.December , i<?oi.] 14
-
-
-2 io Bulletin American Museum of Natural History . [Vol. XV,
 
 
 a caribou had been killed, they would wet its skin and wrap it
@@ -8207,11 +6768,9 @@ and matter oozed out. This operation cured the headache.
 
 A number of Eskimo, a tuneq, and the sister of the latter,
 went to the island Kaxodlu, near Padli, to catch fulmars. The
-tuneq climbed the steep island. He caught a great many ful¬
-mars which were nesting on the cliffs. When he thought he
+tuneq climbed the steep island. He caught a great many fulmars which were nesting on the cliffs. When he thought he
 had enough, he walked to the edge of the cliff and tried to
-descend. When he looked down, he thought he saw his sis¬
-ter’s lower parts bare, and whichever way he looked he saw
+descend. When he looked down, he thought he saw his sister’s lower parts bare, and whichever way he looked he saw
 the same thing. Therefore he staid on the cliff. He lived on
 young fulmars as long as he could catch them, but finally he
 died.
@@ -8228,23 +6787,16 @@ of the hill, and that this was the cause of his misfortune.
 
 A number of Tornit were living in Saumia. Near by lived
 another race of people called Ketch-wey-ews or Ken-wey-ews
-(Hawks). The latter had long nails, and were a wicked, mur¬
-derous band, who finally turned into birds of prey.
+(Hawks). The latter had long nails, and were a wicked, murderous band, who finally turned into birds of prey.
 
 Among the Tornit was a great angakok. One day his
 friends told him that four Eskimo were approaching who were
 returning from the caribou-hunt. He was asked to go out to
 7 meet them. The angakok rubbed his hands on the bottom of
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 211
-
-
 his cooking-pot to blacken them, and then joined his friends,
 who stood looking at the four strangers. One of these had on
 a new jacket made of the skin of young seals, the flesh side of
-which was white. The angakok went to meet him, and ex¬
-pressed his admiration of the new jacket, passing his blackened
+which was white. The angakok went to meet him, and expressed his admiration of the new jacket, passing his blackened
 hands over it until both back and front were of nearly the
 same color as the bottom of the pot on which he had blackened
 his hands.
@@ -8278,12 +6830,8 @@ happened.
 
 
 1 The Eskimo say, that, according to the custom of the Tornit, the game belongs
-to the hunter who sees it first. According to the custom of the Eskimo, the game be¬
-longs to the hunter who hits it nearest to a vital part. The bear belongs to the hunter
+to the hunter who sees it first. According to the custom of the Eskimo, the game belongs to the hunter who hits it nearest to a vital part. The bear belongs to the hunter
 who is the first to wound it.
-
-
-2 12 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 29. Story about A diet and Tornit.
@@ -8299,8 +6847,7 @@ the children except one boy, who escaped, ran to the parents
 of the children, and told them what had happened. The
 Adlet were all assembled in their dancing-house. Then they
 ran to the door of the hut in which all the children had been
-murdered, and tried to enter through the door and the win¬
-dow. When the man saw them coming, he made a rush, and
+murdered, and tried to enter through the door and the window. When the man saw them coming, he made a rush, and
 succeeded in escaping. Although the Adlet are fleet of foot,
 the man was still fleeter. After he had run for some time, a
 gale arose, and the snow began to drift. Then the Adlet gave
@@ -8318,18 +6865,11 @@ there were several dwellings. The man said to his wife, “ Let
 us see who is living here;” but before he reached the snow
 houses, he saw the people coming out of them. They were
 real men. Then they both went down to meet them, and
-the man said, “ I was not sure whether you were men or Ad¬
-let.” Now he told them of his adventures. The people in¬
-vited them into their houses; and when night came, they all
+the man said, “ I was not sure whether you were men or Adlet.” Now he told them of his adventures. The people invited them into their houses; and when night came, they all
 went to sleep. But the man and his wife were unable to sleep
 because of large lice which tormented them. On the following
 day he told the people that it was too hot in the house for his
 wife’s health, and he built a house for himself. There they
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 213
-
-
 lived some time, and the man went hunting with the other
 people. Finally they decided to move on.
 
@@ -8353,8 +6893,7 @@ warned him, saying, “It is still too warm. The mosquitoes
 will kill you.” The man took his advice and staid at home.
 After some time, however, he became impatient again, and,
 notwithstanding the tuneq’s warning, he insisted on going
-out. The tuneq said, “I do not want you to die; the mos¬
-quitoes are dreadful, they will certainly kill you;” but the
+out. The tuneq said, “I do not want you to die; the mosquitoes are dreadful, they will certainly kill you;” but the
 man replied, “I will only go for a single day. I will kill them
 with my stick.” About this time it was nearly autumn. The
 man went out, saying that he would just try, and if he found
@@ -8371,9 +6910,6 @@ her husband had died.
 
 Once upon a time two women had lost their way, and finally
 came to Aukinerbing, where there was a village of Ijiqan.
-
-
-214 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 When the latter saw the two women, they asked them to come
@@ -8393,8 +6929,7 @@ although you have lived with the Ijiqan?” Then the two
 girls caught the ball, and said, “We are very anxious to play
 well, but we cannot do so.” Then one said to the other, “ Let
 us try to see how quick we can run.” Their hair was not
-braided, but was hanging down their backs loose. They be¬
-gan to run around the island, and ran as fast as caribou. Their
+braided, but was hanging down their backs loose. They began to run around the island, and ran as fast as caribou. Their
 hair was streaming behind. They had gone around the island
 in a very short time. Then they came down to the ice again,
 jumping and running. The people were much amazed at
@@ -8404,26 +6939,18 @@ which they gave them made them fleet of foot.”
 
 31. The Takeychwen.
 
-Kingatcheta and Kevung were two men who lived at Kin-
-gawa. Kolane was the wife of the former. One day a great
+Kingatcheta and Kevung were two men who lived at Kingawa. Kolane was the wife of the former. One day a great
 many men were out sealing in their kayaks. When they
 rounded a point of land, they saw a boat fast to a whale. They
 saw the people lancing the whale, but within a short time
 whale and boat had disappeared behind a point of land. After
 some time they reached the dead whale, and saw that it was
-covered with seaweed. All the men were afraid. But Kin¬
-gatcheta and Kevung wished to examine the whale. When they
+covered with seaweed. All the men were afraid. But Kingatcheta and Kevung wished to examine the whale. When they
 came near, they saw that what had looked like seaweed were
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay . 215
-
-
 harpoon-lines, and that the people in the boat, who had killed
 the whale, were Takeychwen . When the Takeychwen saw that
 the whale was dead, they paddled up to it. They had been
-very angry on seeing the numerous kayaks of the Eskimo ap¬
-proaching, fearing that they would have to divide the whale
+very angry on seeing the numerous kayaks of the Eskimo approaching, fearing that they would have to divide the whale
 with them; but they welcomed the two men who had had the
 courage to come. They invited them to take home some of
 the whale-skin. The two men did so, and took the whale-skin
@@ -8459,11 +6986,6 @@ mother told the girl to go out and see what had arrived this
 time. The girl went out and then ran in again. When her
 mother asked, “Who is making that noise?” she replied,
 “There are many bears.” The mother said, “Run and tell
-
-
-216 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 them that I do not want them.” She ran out and sent them
 away.
 
@@ -8488,8 +7010,7 @@ thread, but in place of them she used strings to fasten the skins
 together. The flesh of the foxes she used for food. When
 every part of her dress — jacket, shirt, trousers, and stockings
 — was made, she left the place where they had been living.
-She followed the shore until she reached the head of Cumber¬
-land Sound. There she met people with whom she staid.
+She followed the shore until she reached the head of Cumberland Sound. There she met people with whom she staid.
 
 33. The Raven and the Gull . 1
 
@@ -8507,9 +7028,6 @@ it to me,” said the old man, “ I can eat it.” Then he told the
 
 
 1 Compare p. 301, and Journal of American Folk-I*ore, Vol. II, p. 128.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 217
 
 
 boy to bring in scrapings of whalebone. He offered this to the
@@ -8537,8 +7055,7 @@ the girl gathered some grass, and made a rope to lower herself
 down by. Every now and then she tried it to see if it would
 reach the foot of the cliff. One day, when she knew that it
 was long enough, she sent the Owl away to fetch food; and
-when he had left, she threw down her line. Her father fas¬
-tened the end of it to a rock, and she slid down to the foot of
+when he had left, she threw down her line. Her father fastened the end of it to a rock, and she slid down to the foot of
 the cliff, and went to her mother’s dwelling. When the Owl
 came back and found his wife gone, he was very angry. He
 went to the hut, and cried for his wife. The father of the
@@ -8549,15 +7066,8 @@ took his bow and shot an arrow through the Owl’s heart. As
 soon as the bird was dead, it was transformed again into a
 bone.
 
-The whale’s bone, which the other girl had wished for a hus¬
-band, also came to life again. She had to live in the Whale;
-
-
-218 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-and whenever she went outside, a line was fastened to her, be¬
-cause the Whale was afraid she might escape. One day, when
+The whale’s bone, which the other girl had wished for a husband, also came to life again. She had to live in the Whale;
+and whenever she went outside, a line was fastened to her, because the Whale was afraid she might escape. One day, when
 she was walking about outside, she saw a boat. She fastened
 the line to which she was tied to the shore, and went aboard.
 The Whale did not know that his wife had escaped. The
@@ -8570,8 +7080,7 @@ tear it to pieces. Meanwhile the boat succeeded in getting
 away some distance from the Whale ; but he continued his
 pursuit, and came quite close. Then the woman threw one of
 her mittens into the water. Again the Whale flew into a rage,
-and tore up the mitten, making the sea foam. When he con¬
-tinued to pursue the boat, the woman threw one of her boots
+and tore up the mitten, making the sea foam. When he continued to pursue the boat, the woman threw one of her boots
 into the water. He tore up the boot, and meanwhile the boat
 had almost succeeded in reaching the coast. He rushed after
 them, and when he came close up to the boat, the woman
@@ -8587,8 +7096,7 @@ but the bone did not respond.
 35 - Origin of the Red Phalarope and of the Web-footed Loon , 1
 
 Katsu , an old woman, had an adopted son. One day
-while the boy was out in his kayak there arose a strong land-
-breeze. The boy tried hard to reach the shore, but in vain.
+while the boy was out in his kayak there arose a strong landbreeze. The boy tried hard to reach the shore, but in vain.
 For three days he struggled against the wind. The old
 woman, who saw him, ran up and down the beach, crying,
 “Grandson, paddle, paddle harder!” His face became quite
@@ -8597,11 +7105,7 @@ red from the effort, and blood began to stream over his cloth-
 1 Compare p. 343, and Journal of American Folklore, Vol. VII, p. 49.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 2 19
-
-
-ing. Still the old woman continued to shout to him, “ Grand¬
-son, paddle, paddle, paddle harder! I have no other boy.
+ing. Still the old woman continued to shout to him, “ Grandson, paddle, paddle, paddle harder! I have no other boy.
 Paddle harder!” And then she burst into tears, wailing,
 4 ‘Ah, ah, ah! Ah, ah, ah, kayalau!” She wore long boots;
 and as she had been walking up and down the beach a great
@@ -8641,9 +7145,6 @@ sledges to turn back home, as his game had escaped.
 1 Compare p. 319, and Journal of American Folk-I^ore, Vol. X, p. in.
 
 
-220 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 37. The Bear and the Caribou . 1
 
 When I was hunting to-day, I saw a large Bear meet a
@@ -8652,16 +7153,14 @@ the stronger. The Caribou consented. They linked arms,
 and the Bear said, “Yours is so much smaller than mine, I
 am afraid I shall break it.” The Caribou retorted, “It is
 strong enough for me to run and jump with.” The Bear
-saw that his arm was ever so much thicker than the Cari¬
-bou’s. Now they began to pull, until finally the Bear’s arm
+saw that his arm was ever so much thicker than the Caribou’s. Now they began to pull, until finally the Bear’s arm
 broke. The Caribou left the Bear in great agony.
 
 38. The Ptarmigan and the Snow Bunting . 2
 
 One evening a boy asked his grandmother to tell him
 a story; but she only replied, “Go to bed and sleep. I
-have no story to tell.” Then the boy began to cry, and in¬
-sisted that she should tell him a story. Then the old woman
+have no story to tell.” Then the boy began to cry, and insisted that she should tell him a story. Then the old woman
 began to rock herself from side to side, and to say, “ I will tell
 you a story. I will tell you a long story about the lemming
 without hair, that was in that place in the porch there. It
@@ -8689,12 +7188,8 @@ very sharp; ” and the Raven said, “ I should like to trim your
 3 Compare p. 320, and Journal of American Folk-Lore,'Vol. VII, p. 49.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 221
-
-
 dress.’’ The Owl agreed, and the Raven took some soot from
-her lamp, and made the spots which we now see on owl-
-feathers. The Owl was very patient until she was told that
+her lamp, and made the spots which we now see on owlfeathers. The Owl was very patient until she was told that
 the decoration of her dress was finished. Then the Owl asked
 permission to decorate the Raven’s dress. First she made
 for her boots of whalebone. The Raven agreed, but soon
@@ -8703,8 +7198,7 @@ could not do her work well if she did not sit still, but to no
 purpose. The Raven would move from one foot to the other,
 and jump about. Finally the Owl said, “I am going to spill
 all the oil in my lamp over you, if you do not sit still.” Since
-the Raven continued to hop about, the Owl became im¬
-patient, and emptied the lamp-oil over her. Thus the Raven
+the Raven continued to hop about, the Owl became impatient, and emptied the lamp-oil over her. Thus the Raven
 became black all over, and flew away, crying, “Qaq, qaq!”
 
 40 . The Foxes.
@@ -8720,8 +7214,7 @@ wife to make foot-protectors for the young Foxes, and early
 the next day they all started. When running along the ice,
 they took the scent, and soon found that it came from a dead
 whale which lay in the ground-ice. They went right into
-the whale, and lived on its meat. Then they were well sup¬
-plied. They lived in a house that was all meat.
+the whale, and lived on its meat. Then they were well supplied. They lived in a house that was all meat.
 
 One day they saw a number of Wolves coming. The Foxes
 were afraid of them. They thought the Wolves might want to
@@ -8731,11 +7224,6 @@ He jumped on top of the whale, and shouted to the Wolves,
 “I smell a whale here, but I cannot see it! There are only
 rocks here.” The Wolves believed the Fox, and departed.
 When they had gone, the Fox ran back into the whale, and
-
-
-222 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 said, “ I thought it was a whale.” He had caused it to appear
 to the Wolves to be a rock.
 
@@ -8776,11 +7264,6 @@ away again. After this it did not return again.
 Once upon a time there was a man who went out sealing,
 while his wife went to gather heather. She came home in the
 evening, having gathered only a very little. After some
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 223
-
-
 time the man became suspicious that there might be some
 reason why she did not gather more heather than she did; but
 he dismissed the matter from his mind again. When she
@@ -8822,12 +7305,7 @@ faithless wife. One day he pretended to go out hunting, but,
 instead of searching for seals, he collected all kinds of insects,
 — spiders, beetles, and others. These he collected in his
 mitten; and when he came home, he placed the mitten under
-
-
-224 Bulletin American Museum of Natural History . [Vol. X V,
-
-the blanket on the bed, unobserved by his wife. In the even¬
-ing, when they went to bed, the insects came out of the
+the blanket on the bed, unobserved by his wife. In the evening, when they went to bed, the insects came out of the
 mitten, and crawled into all the openings of the woman, and
 made holes through the thinner parts of her skin, through
 which they crawled into her body. They ate her up entirely,
@@ -8840,8 +7318,7 @@ One day, when he arrived home in the evening, he found
 that some one had cooked seal-meat for him, which was still
 warm. He was much surprised, not knowing who had done
 it. Another day, returning from the hunt, he again found
-seal-meat cooked. It was quite hot, but he did not see any¬
-body. The third day, when he returned, the seal-meat was
+seal-meat cooked. It was quite hot, but he did not see anybody. The third day, when he returned, the seal-meat was
 still boiling, but there was no sign of a woman. Another
 day, when, he had gone out hunting again, he saw, on his
 return, a pretty young woman coming from his wife’s grave.
@@ -8851,8 +7328,7 @@ to the grave. As soon as she was out of sight, the man took
 the fox-skin from the drying-frame. She felt at once when he
 touched it. She came forth and asked for the skin; but he
 replied, “You are my wife now.” But she remained silent,
-and asked again for her fox-skin, saying, “Give me my fox-
-skin; it has a bad smell.” The man kept the skin, and said,
+and asked again for her fox-skin, saying, “Give me my foxskin; it has a bad smell.” The man kept the skin, and said,
 “You shall be my wife.” She did not give any answer, but
 merely asked again for her fox-skin, saying that it had a bad
 smell. The man replied, “You shall be my wife; and if I
@@ -8865,9 +7341,6 @@ This time she freely consented. Then he invited her to go
 into the hut, and when she again asked for her fox-skin, he
 gave it to her. They lived for some time in the hut, and they
 loved each other.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 225
 
 
 Once upon a time a man, the Raven, and his wife came
@@ -8890,11 +7363,9 @@ running out of the house. Then the Raven regretted that
 he had broken his promise, and was afraid that he might
 lose his own wife.
 
-Meanwhile the Raven’s wife had been with the Fox’s hus¬
-band. He found that her body was covered with dirt, and
+Meanwhile the Raven’s wife had been with the Fox’s husband. He found that her body was covered with dirt, and
 that she smelled very bad; and he shouted, “ Oh, how bad you
-smell!” Then he went out of his hut, and he saw the foot¬
-prints of his wife in the snow. She had not had time to put
+smell!” Then he went out of his hut, and he saw the footprints of his wife in the snow. She had not had time to put
 her hands and her feet into the fox’s skin, and had for this
 reason retained her hands and her human feet and her boots.
 He followed her tracks, and found that they ended at a
@@ -8907,25 +7378,19 @@ it, “Smoke is coming out of your head.” In this way quite
 a number of insects and worms were sent out of the hole,
 and to each of them he said the same. Finally his wife
 asked him to come in. She told him to shut his eyes, to
-turn both sides of his jacket inward, and to come in back¬
-ward. He complied with her instructions, and backed into
+turn both sides of his jacket inward, and to come in backward. He complied with her instructions, and backed into
 [November. igoi.] 15
 
 
-226 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 the fox’s hole. When he got inside, he saw a large dog in one
-comer of the room. It was his wife’s son. His wife ap¬
-peared to him again in human shape as he had known her.
+comer of the room. It was his wife’s son. His wife appeared to him again in human shape as he had known her.
 The fox’s hole seemed to him like a hut. What he believed
 to be a dog was really a spider.
 
 43. The Insects.
 
 One winter all the people of Shomucktoun (an Eskimo
-camping-place) moved to another camping-place, leaving be¬
-hind two women, a mother and her daughter. The mother’s
+camping-place) moved to another camping-place, leaving behind two women, a mother and her daughter. The mother’s
 name was Gwedlaping , and the daughter’s Pet-all-ow-a.
 Oweekshaw , the son of Gwedlaping , had left with the rest of
 the people, who were all hunters.
@@ -8950,18 +7415,12 @@ husbands from among them.
 One day while the women were living with the insects, a
 man on a sledge came up to the old hut in Shomucktoun. No
 one was to be seen there, and he wondered what had become
-of the two women. As he was unable to do more than con¬
-jecture, he went back and told Oweekshaw that he had seen
+of the two women. As he was unable to do more than conjecture, he went back and told Oweekshaw that he had seen
 nothing of his mother or sister, but that their boots and
 other things were inside their hut.
 
 The next year the women went to the camping-place where
 the people had gone. They told them how kind the insects
-
-
-1901.]. Boas , Eskimo of Baffin Land and Hudson Bay. 227
-
-
 had been to them, — how they had given them food, and had
 asked them to come and live with them; how the old woman
 had remarked to them that she should look much better if she
@@ -9004,11 +7463,6 @@ become himself like a raven.
 Now the mother thought of avenging the death of her
 husband. She said to her boy, “ I think you are now able to
 look out for yourself. You must avenge the death of your
-
-
-228 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 father.” Then the boy replied, “I want to go and see those
 people who killed him.” Before he set out, his mother took
 the body of a dog, and set it up as though it were alive. She
@@ -9023,11 +7477,9 @@ they went on, and built a house not far from the shore.
 The boy had made a great many arrows, and early in the
 morning he said to his mother, “Go on shore and tell those
 men to come here. Tell them that I am ready to be awakened.
-But do not go into the houses, only call them through the win¬
-dows.” The woman went, and stepped up to the windows
+But do not go into the houses, only call them through the windows.” The woman went, and stepped up to the windows
 while the people were still in bed, and said, “ My son sends me
-to tell you to come down to him. He is ready to be awak¬
-ened.” Then she went back. The men jumped up, and
+to tell you to come down to him. He is ready to be awakened.” Then she went back. The men jumped up, and
 went down to the ice. They were intending to kill the boy,
 who had set up the dog near his hut. The men began to shoot
 their arrows at him, but he dodged them, jumping about like
@@ -9049,9 +7501,6 @@ white, others brown, and some speckled. These he was going
 to harness up.
 
 When he was ready to start, he cried out, “Haa, haa, haa,
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay. 229
 
 
 Attongey! Haa, haa, haa, Attongey , Attongey!" At once
@@ -9096,8 +7545,6 @@ empty, she put it back between her legs; and when she took
 
 
 230 Bulletin American Museum of Naturat History. [Vol. XV,
-
-
 it away again, it was still empty. The old woman tried again
 and again, but always found the plate empty. 1 She died
 soon after.
@@ -9107,8 +7554,7 @@ Attongey resolved to escape from them. Therefore one
 night he cut the lashings with which the bars of the sledges
 were tied to the runners. He cut them on the lower side of
 the bars on the inside of the runners, so that the people
-should not notice what he had done. Then he got his dog-
-sledge ready, and, when all was done, he re-entered the snow
+should not notice what he had done. Then he got his dogsledge ready, and, when all was done, he re-entered the snow
 house, and played cup-and-ball with the people. The carving
 that they were using was very pretty. First he sat down while
 playing with it; but after a while he arose, went out with
@@ -9121,8 +7567,7 @@ to Attongey , their sledges broke down, owing to the lashings
 being cut. Attongey made considerable headway before his
 pursuers had repaired their runners. Once more they nearly
 caught up with Attongey , when their sledges broke down again.
-In their eagerness of pursuit, they had only placed the cross¬
-bars on the runners, without properly lashing them. Again
+In their eagerness of pursuit, they had only placed the crossbars on the runners, without properly lashing them. Again
 they set up the sledges and followed. By this time Attongey
 was far ahead. Soon they were close beside him, when the
 sledges broke down again. At last they gave up the pursuit
@@ -9141,20 +7586,15 @@ the mixture, but in reality let it drop into the plate, and that the woman tried
 imitate him.
 
 
-J90i.] Boas , Eskimo of Baffin Land and Hudson Bay . 231
-
-
 he saw plenty of seal-meat in different places. He was given
-some cooked seal. When it was time for the woman’s hus¬
-band to come home, she told the man to lie down under the
+some cooked seal. When it was time for the woman’s husband to come home, she told the man to lie down under the
 inner skin lining of the house, where she would cover him
 over, and she warned him not to make any noise.
 
 Soon her husband came home. He said, “Where is the
 rest of the cooked meat? Who has eaten it?” The woman
 never ate anything, for she had no stomach. Only Kooloome
-ate of the game that he obtained. Therefore he was sur¬
-prised and angry to see all the meat gone. When she saw
+ate of the game that he obtained. Therefore he was surprised and angry to see all the meat gone. When she saw
 his bad humor, she said, “A man came here and said that
 near by there are a great many people who have resolved to
 kill you.” She continued, pointing to the place where she
@@ -9185,11 +7625,6 @@ time during the winter the people were again very hungry.
 There were hardly any seals to be had. When he went again to
 the hut of the bones to fetch meat, some one saw him, and soon
 every one knew that he went out nights and returned with a
-
-
-232 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 load of seal-meat. The people asked him, “Where do you
 get your seal-meat? Go, and we will follow you to the place.”
 He went, and they followed. When they found the hut of
@@ -9219,8 +7654,7 @@ channel through which they had passed had closed again.
 
 They arrived at their destination, and commenced work
 on their seal-skins. The women chewed them, and the men
-rubbed them and wrung them until they were soft. Nowa¬
-days the men do hardly any work of this kind.
+rubbed them and wrung them until they were soft. Nowadays the men do hardly any work of this kind.
 
 48. Transmigrations of the Soul of a Woman.
 
@@ -9230,11 +7664,6 @@ would not recover, they left her alone. A wolf passed by
 while she was still alive, and swallowed her. After some
 time she passed out of the wolf. A fox came running by
 while she was lying on the snow, and she went into it. She
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 233
-
-
 lived in the fox for some time, until she was digested by it,
 and passed out. While she was lying on the snow a bear
 came by, and she jumped into the bear. She passed through
@@ -9246,8 +7675,7 @@ the water. Then a ground-seal came. She entered it. After
 she had passed through it, and was floating about in the
 water, a walrus came. She entered it, and became a walrus.
 She joined the other walruses which were blowing in the
-water. After a little while they all descended to the feeding-
-ground. She tried to go with them, but was unable to dive.
+water. After a little while they all descended to the feedingground. She tried to go with them, but was unable to dive.
 When the other walruses came up again, she asked them,
 '‘Why am I unable to go to the bottom of the sea?” They
 replied, “When you go down, you must strike your flippers
@@ -9274,29 +7702,21 @@ towed the caribou ashore, cut them, and buried them under
 stones, that they might be brought to the village in the winter.
 The woman felt very badly when the stones were heaped over
 her. She thought, “ How long shall I have to lie here? How
-
-
-234 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 long will it be before they come back in the winter?” After
 she had lain there some time, one of her hips began to feel
 very tired. She was unable to turn over, or even to move
 the least bit. After she had waited for a long time, she
 heard some people coming. She knew it, although she had
-passed through so many animal forms. Her meat had re¬
-mained soft, while all the other caribou were frozen hard.
+passed through so many animal forms. Her meat had remained soft, while all the other caribou were frozen hard.
 But when the Eskimo came, she hardened herself; and when
-the stones were taken off, she looked just like frozen caribou-
-meat.
+the stones were taken off, she looked just like frozen cariboumeat.
 
 All the meat was put upon the sledges and taken to the
 huts. Then the people ate it. She was eaten by a woman.
 Then the woman was with child, and after a little while gave
 birth to a girl. When the child was bom, it tried to speak,
 but it could only cry. When it was old enough to speak,
-the child said, “Now I am able to tell you what I tried to-
-say when I was born; but I could not speak then, for when
+the child said, “Now I am able to tell you what I tried tosay when I was born; but I could not speak then, for when
 I tried to speak, I only cried.” Then she told them of all
 that had happened to her.
 
@@ -9322,18 +7742,13 @@ fox, because he knew it was his mother.
 1 Compare p. 303.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 235
-
-
 50. The Man who caught the Ground-Seal.
 
-One day in the early summer two young men from Sha-
-maneto or Shoumane went sealing in their kayaks. The name
+One day in the early summer two young men from Shamaneto or Shoumane went sealing in their kayaks. The name
 of one of them was Koocharoun. One day Koocharoun's
 friend caught a ground-seal. At Koocharoun's request they
 towed it to a piece of ice, and were about to cut it up when
-Koocharoun killed his companion. Then with his sealing¬
-line he fastened the ground-seal to the body of the man and'
+Koocharoun killed his companion. Then with his sealingline he fastened the ground-seal to the body of the man and'
 threw it into the water, and both sank.
 
 After he had thus disposed of the body, he went home and
@@ -9364,15 +7779,9 @@ dancing-house, where he told how Koocharoun had murdered
 him. He had returned to life.
 
 The parents of the murdered man had not yet heard of the
-return of their son, nor that he had been murdered by Koocha¬
-roun. The people did not dare to tell them of what had
+return of their son, nor that he had been murdered by Koocharoun. The people did not dare to tell them of what had
 happened. They were afraid that the father might accuse
 them of not telling the truth, and might kill them. Finally
-
-
-236 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 some one suggested that a certain old woman should go and
 inform them. Although she was much afraid, the people
 prevailed upon her to go. She entered the parents’ house,
@@ -9383,9 +7792,7 @@ that he wanted to kill the woman for thus insulting them.
 The wife gave it to him, but begged of him to wait, saying,
 '“Let us go and see him of whom she speaks.” The man
 handed the knife to the old woman, and told her to use it
-to sharpen her knife on. Then they all went to the dancing-
-house. There the parents saw their son. Then they re¬
-turned home, and left their son in the dancing-house. The
+to sharpen her knife on. Then they all went to the dancinghouse. There the parents saw their son. Then they returned home, and left their son in the dancing-house. The
 father took his large sledge and put on it walrus-tusks, a
 kayak, and many other things, for he owned considerable
 property. The place where his hut stood was on the brow
@@ -9404,18 +7811,12 @@ geese,' of which they got a great many. They were now on
 their way back to Tininiqdjuaq. One evening the man had
 finished making a snow house, and the women had taken all
 their utensils inside through a hole cut for the purpose. They
-had spread the beds, and were trimming the lamps, and begin¬
-ning to boil the meat. The dogs were still fastened to the
+had spread the beds, and were trimming the lamps, and beginning to boil the meat. The dogs were still fastened to the
 sledge, and the man was engaged in finishing the entrance to
 the snow house. Suddenly he heard several bursts of laughter.
 He shouted to the women, “Why are you laughing?” He
 received no reply. He asked again, and still there was no
 reply; the women only continued to laugh. Then he went
-
-
-igoi.] Boas , Eskimo of Baffin Land and Hudson Bay . 237
-
-
 into the house to find out the cause of their merriment. He
 cut a hole at the place where he was intending to make the
 doorway. When the hole was large enough, he saw the
@@ -9455,11 +7856,6 @@ at Anarnitung. One night the old woman saw the wall of
 her stone house opening from side to side, and they could
 see the stars through the opening. The lamps nearly went
 out. The child was in bed. It felt cold, crawled down
-
-
-238 Bulletin American Museum of Natural History.[Y ol. XV,
-
-
 under the blanket, and pretended to be asleep. The old
 woman asked the child, ‘‘Are you asleep?” but the child
 did not reply. It was afraid to answer. The old woman
@@ -9473,8 +7869,7 @@ saw the old woman, it moved away. Then she returned into
 the house. The child came forth from the blanket, and
 asked her, “What did you see?” The lamps were now
 much brighter without having been touched. She did not
-want to frighten the child, and said, “I did not see any¬
-thing,” and sat down on her seat. The rent in the side of
+want to frighten the child, and said, “I did not see anything,” and sat down on her seat. The rent in the side of
 the house closed again. They staid on for a long time.
 One day towards the close of winter a sledge arrived, and
 on the following day they were taken by their visitors to
@@ -9498,16 +7893,10 @@ revive her spirits, she put some of the oil-drippings from
 the lamp into her mouth. Then she went out into the
 porch, and heard the same noise as she had heard before;
 but it was moving away, and she saw something red like a
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 239
-
-
 star. She went back into the hut, and, there she found the
 boy sitting up. The lamp was burning again, and the child
 asked his grandmother if she had seen anything. But she
-said, in order not to frighten the child, that there was noth¬
-ing outside. After some time a sledge came, and she told
+said, in order not to frighten the child, that there was nothing outside. After some time a sledge came, and she told
 the people of what had happened.
 
 Many people were wintering at Qamaqdjuin, in Saumia.
@@ -9519,9 +7908,7 @@ breathing-hole of a seal for a whole day, and in the evening
 he succeeded in catching the animal. He covered it over
 with snow, and went back home; but as the night was very
 dark, he missed the track. After he had gone for a long
-time, he saw light coming from three windows. He won¬
-dered what it might be. While he was still on the ground-
-ice, a man came from the huts and spoke to him about the
+time, he saw light coming from three windows. He wondered what it might be. While he was still on the groundice, a man came from the huts and spoke to him about the
 sick girl. He said, “I have never visited your place, but
 a short time ago I learned that your daughter was sick.
 My name is Anasato (‘breath’). Give her my name, and
@@ -9542,18 +7929,11 @@ both of these names, and she grew quite strong and healthy.
 
 One day in the early autumn a man named Kating went
 from his tent in Sauniqtung to a hilltop a short distance
-
-
-240 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 away from the village. While there he saw a boy running
 from one tent to another, gathering arrows. Finally he
 saw him enter one of the tents, in which he remained. The
-people of the place all wanted to have Rating killed. There¬
-fore the boy was sent to gather the arrows, which Rating
-might have used to defend himself. Rating became frigh¬
-tened, and went down to his tent. There his wife, Atchina,
+people of the place all wanted to have Rating killed. Therefore the boy was sent to gather the arrows, which Rating
+might have used to defend himself. Rating became frightened, and went down to his tent. There his wife, Atchina,
 told him that his people wanted to kill him, and advised
 him to escape in a boat.
 
@@ -9588,18 +7968,12 @@ were nearly starving to death. Ashewaahallow was a great
 shaman. The people wanted her to visit Sedna in order
 to tell her that they were starving. She consented, and
 after some incantations, her soul went down to Sedna. After
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 241
-
-
 some time her body revived, because her soul had come back
 to it. Then she told the people that Sedna had promised
 to send two young whales, and that one of them would be
 without a tail. She added that the whales would come as
 soon as the weather became calmer. On the following day,
-when the men were off in their kayaks, a young whale with¬
-out a tail appeared, which they killed; and soon another
+when the men were off in their kayaks, a young whale without a tail appeared, which they killed; and soon another
 one came, which they also killed.
 
 
@@ -9638,13 +8012,9 @@ him. They started, and when they reached Ningiu’s tent,
 [November, igo/.] 16
 
 
-242 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 they asked him, “What did you do to those men who came
 here a short time ago? When they came back, one of them
-became sick, and very soon died.” Ningiu replied, speak¬
-ing very slowly, “I was not desirous that they should come
+became sick, and very soon died.” Ningiu replied, speaking very slowly, “I was not desirous that they should come
 to kill me. They came to kill me. When I asked them,
 ‘Where do you come from?’ and ‘What do you want here?*
 they only said, ‘We came from over yonder. We did not
@@ -9655,8 +8025,7 @@ strangers left without taking vengeance upon Ningiu.
 
 Another year Ningiu went caribou-hunting all alone.
 There was a very large bowlder inland far away from the
-sea. Two men from the same camp to which Ningiu be¬
-longed were hunting in this region, and were sitting at the
+sea. Two men from the same camp to which Ningiu belonged were hunting in this region, and were sitting at the
 side of this large bowlder. Ningiu saw them without being
 discovered, and he went up to them in the shelter of the
 rock. When he reached it, he could see them through a
@@ -9675,15 +8044,12 @@ in the directions he pointed, and found great abundance of
 caribou. Ningiu returned home.
 
 After he had rested a while, he went hunting with his son
-Kudlu. One night, while Kudlu was asleep, Ningiu was talk-
-to himself. When Kudlu awoke, he asked his father who
+Kudlu. One night, while Kudlu was asleep, Ningiu was talkto himself. When Kudlu awoke, he asked his father who
 had come to the place where they had been sleeping. But
 Ningiu replied, “Stop! Don’t inquire. Let us go look for
 caribou to-morrow. If you were to see them to-morrow,
 your eyes would become sore.”
 
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 243
 
 On the following morning they started, and soon saw two
 caribou, a dam and a fawn. Ningiu said to his son, “I will
@@ -9693,8 +8059,7 @@ looked at the animals with his head bent to one side. The
 caribou were on the point of running away, but they stood
 quite still. Suddenly they made a start. Ningiu did not
 move, but simply looked at them, and suddenly they fell
-down dead. When they reached home, Kudlu told the peo¬
-ple what he had seen, how his father stood still, and how
+down dead. When they reached home, Kudlu told the people what he had seen, how his father stood still, and how
 the caribou gazed at him spellbound, and how they fell
 dead after they had just started to run away. He believed
 that his father had a double [?].
@@ -9708,8 +8073,7 @@ be in need.” Soon after that he became unconscious. He
 died and was buried. His family staid in the tent for three
 nights. After that Kudlu and his brother went sealing in
 their kayaks. While the brother caught a common seal,
-Kudlu succeeded in killing a ground-seal. On the follow¬
-ing day they went hunting again, and Kudlu in his kayak
+Kudlu succeeded in killing a ground-seal. On the following day they went hunting again, and Kudlu in his kayak
 caught a whale. They towed it home and had plenty to
 eat.
 
@@ -9724,11 +8088,6 @@ angakok, wished that the fire-drill of the hunters would
 not work. These people tried very hard to make fire with
 their fire-drill; but they used up the drill without having
 any success. Finally they said to one another, “These two
-
-
-244 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 hunters may have a piece of wood with which we may be
 able to make fire.” One of them went to see Owleyjen , and
 said to him, “We have been trying to make fire here. Our
@@ -9740,8 +8099,7 @@ Owleyjen's hut; and as soon as he brought it, Owleyjen said,
 again to make fire, and their fire-drills worked at once. The
 man who had brought Owleyjen the lamp and the oil now
 brought him also a light, saying that they had succeeded
-in obtaining fire. Owleyjen and Akuto laughed at their suc¬
-cess in obtaining a lamp and oil. The following morning
+in obtaining fire. Owleyjen and Akuto laughed at their success in obtaining a lamp and oil. The following morning
 they returned the lamp and went home.
 
 Some time in the spring these people met again. The
@@ -9764,13 +8122,9 @@ and shook the needle out of the moss on to the cover.
 
 At Kingawa there lived a man named Utsunang, and his
 wife Ishamaloo, an angakok. Another man, named Kunek,
-and his wife Kumangan, lived at the same place. Utsu¬
-nang needed a piece of wood to make a kayak. Kunek, who
+and his wife Kumangan, lived at the same place. Utsunang needed a piece of wood to make a kayak. Kunek, who
 owned a piece of wood, refused to give him any, and left
 with his wife, erecting his tent on a small island.
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 245
 
 
 During the next night Utsunang heard a noise. It sounded
@@ -9814,8 +8168,6 @@ named Eterseoot , who had two husbands. Not far from
 her place lived a man. Kowertse, who had lost his wife. Ko -
 
 
-246 Bulletin American Museum of Natural History. [Vol. XV,
-
 wertse believed that Eterseoot had caused his wife’s death,
 and he made up his mind to kill her; but people warned
 him, saying that she was a powerful angakok. She never
@@ -9829,13 +8181,11 @@ wished her dead. Kowertse travelled to Isortuqdjuaq, and
 Eterseoot went to meet him. When they met, she said, “I
 know why you have come here, and what you intend to do.”
 —“Yes,” retorted Kowertse , “I intend to kill you.” He
-took his knife and stabbed her several times. Then Eter¬
-seoot cried for some one to come, but Kowertse continued to
+took his knife and stabbed her several times. Then Eterseoot cried for some one to come, but Kowertse continued to
 cut her until he was sure that she would die.
 
 Kowertse left her and went to one of the huts. Several
-people went to Eterseoot. She said to them, “I cannot re¬
-cover, but put me on a skin, and carry me into my hut.”
+people went to Eterseoot. She said to them, “I cannot recover, but put me on a skin, and carry me into my hut.”
 She asked them to put her down in the rear of the hut, and
 repeated, “I cannot recover.” But she did not remain
 there long. She raised herself, and walked to the place
@@ -9858,8 +8208,6 @@ am alive and whole; but he is sick, although he has not
 been cut or scratched.” Very soon he died.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 247
-
 A great angakok and three other men with their wives
 left the sea one spring to go hunting caribou. When they
 left, every one was in good health; but they had not been
@@ -9877,8 +8225,7 @@ blow life into the dead. They said, “He is the only great
 angakok.” The man who was restored to life lived to be
 very old.
 
-One time in the winter a man wished to be made an anga¬
-kok. He asked the great angakok to initiate him, to which
+One time in the winter a man wished to be made an angakok. He asked the great angakok to initiate him, to which
 the latter consented. He said, “You must die first. That
 is the best way of becoming an angakok.” He died, and
 the people took him away and covered him with stones.
@@ -9894,16 +8241,10 @@ move around the body, speaking to it. He kept the body
 at his right hand side. After he had gone once around
 it, he blew into the collar of the jacket. He went around it
 once more, lifted the sleeve of the jacket, and blew into it.
-He went around again, and blew under the legs of the trou¬
-sers. He walked around once more, and blew on one foot.
+He went around again, and blew under the legs of the trousers. He walked around once more, and blew on one foot.
 Then he went around again, and blew on the sole of the other
 foot, next under the other leg of the trousers and under the
 other sleeve, and finally on the face. Then the body was
-
-
-248 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 alive again, and the man arose. Now he had become an
 angakok.
 
@@ -9936,8 +8277,7 @@ not eat it. They slept again, and on the following day she
 caught a seal in the ground-ice. She took it home, and cut
 it. It was much better, but still they could not eat it. They
 slept again, and the following day she went off with her
-sledge and her dogs. Now she caught a seal on the floe-
-ice. When they cut it, they found that it was very good,
+sledge and her dogs. Now she caught a seal on the floeice. When they cut it, they found that it was very good,
 and they ate of it. They went to bed, and on the next day
 the old woman went out again on the floe-ice sealing, and
 she caught another seal, which was very good. They lived
@@ -9945,9 +8285,6 @@ in this way for some time. Sometimes she went hunting
 
 
 1 See p. 323.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 249
 
 
 with her dogs, and sometimes she went afoot. After some
@@ -9976,14 +8313,12 @@ Powmenakjwane was a harpooneer at Saunituqdjuaq.
 ■One day he caught a seal. The line fell foul of his penis,
 and he broke it. Owing to this accident, he was compelled
 to give up whaling and to stay ashore. He thought he was
-•of no further use as a man, and decided to transform him¬
-self into a woman. He made woman’s clothing for himself,
+•of no further use as a man, and decided to transform himself into a woman. He made woman’s clothing for himself,
 put it on, and then wanted to have a husband. His mother
 said to him, “Next year you must make another suit of
 clothing for your own use.” [?] He did so; and one day,
 while his mother was out visiting, he put on his new suit.
-When she came back from visiting, he had on his new cloth¬
-ing, and arose and said to her, “Tell me if there are any bad
+When she came back from visiting, he had on his new clothing, and arose and said to her, “Tell me if there are any bad
 parts to my clothing.” She looked at him and said, “They
 look very well; but when you were born, you were a male,
 not a female.” This made him very angry. He flew into
@@ -9992,29 +8327,22 @@ was laid bare. When his mother saw this, she fell dead.
 Then he put the skin back on his face.
 
 
-250 Bulletin American Museum of Natural History . [Vol. XV r
-
-
 •Some years after the death of his mother, he adopted a.
 child. The people were afraid of his supernatural powers,,
 and wished to kill him. One day, when he was visiting in
 one of the houses, and eating seal-meat, his adopted child
 asked for a small piece of blubber to eat with the meat it
-was holding in its hand. Powmenakjwane replied to the-
-child, “I have no blubber for you. I am a woman.” But
+was holding in its hand. Powmenakjwane replied to thechild, “I have no blubber for you. I am a woman.” But
 the child retorted, “I saw some time ago that you have
 a penis. You are no woman.” Powmenakjwane became
 angry, and tore off the skin from his face. As soon as the
 child saw the skull-bones, it fell dead.
 
-After some time a woman loaned her husband to Pow¬
-menakjwane. On the following day Powmenakjwane went,
+After some time a woman loaned her husband to Powmenakjwane. On the following day Powmenakjwane went,
 out of the hut and exposed his privates to the sun in order
 to dry them. Then the woman who had loaned him her
-husband happened to come that way, and saw him. Pow¬
-menakjwane , however, had not noticed her; and she ran
-away as fast as she could, took off her garments, and cov¬
-ered herself with her blanket. She did not tell any one of
+husband happened to come that way, and saw him. Powmenakjwane , however, had not noticed her; and she ran
+away as fast as she could, took off her garments, and covered herself with her blanket. She did not tell any one of
 what she had seen. Powmenakjwane followed her to her
 hut, and asked if she had seen him, which she denied. Then
 he asked her, “ Did you tell any one that you saw me sitting
@@ -10025,24 +8353,16 @@ One day quite a number of people were eating whale skin
 and meat in Powmenakjwane's hut. The people noticed
 that there were human entrails under the lamp. They
 threw them out of the door, and the dogs ate them, and one
-of the dogs ate part of the heart. Powmenakjwane was eat¬
-ing of the whale-meat all the time, still he continued to feel
+of the dogs ate part of the heart. Powmenakjwane was eating of the whale-meat all the time, still he continued to feel
 hungry, so that finally he began to worry; and he said, “I
 must have lost my entrails. I have been eating for a long
 time now, and I do not feel satiated.” Then he used his
-supernatural powers, and found that he had lost his en¬
-trails, which had been thrown to the dogs. As soon as he
+supernatural powers, and found that he had lost his entrails, which had been thrown to the dogs. As soon as he
 discovered this, he put on his boots, went out of the house,
 and caught the dogs that had eaten his entrails. He took
 them away from them, and replaced them in his own body;
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 251
-
-
 but he was unable to. find part of his heart, which had
-been eaten by a dog that some time ago had fed on a hu¬
-man body. Then he cried, “Oh! I cannot recover part
+been eaten by a dog that some time ago had fed on a human body. Then he cried, “Oh! I cannot recover part
 of my heart, and I must die.” Then he made a grave for
 himself of stones and whale-bones, and soon he was dead.
 
@@ -10068,8 +8388,7 @@ Then the old woman said to the girl, “Go on ahead. Do
 not be afraid. If you should meet a bear, walk up to it and
 sit on its back.”
 
-The girl went on. When she was out of sight, her grand¬
-mother transformed herself into a bear, which followed the
+The girl went on. When she was out of sight, her grandmother transformed herself into a bear, which followed the
 girl. When the girl saw it, she stopped, and the bear walked
 up to her. She sat down on its back, and they travelled
 on in the direction of the place where the girl’s father and
@@ -10081,19 +8400,10 @@ during the night, as it is cold on the ice at night.” When
 the girl had gone, the bear resumed the form of the old
 woman.
 
-The child went to her mother’s porch and said, “Grand¬
-mother has come. May she come in during the night, for
-
-
-252 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-it is very cold outside?” The girl’s father refused admit¬
-tance to his mother. Then the child went back to the old
+The child went to her mother’s porch and said, “Grandmother has come. May she come in during the night, for
+it is very cold outside?” The girl’s father refused admittance to his mother. Then the child went back to the old
 woman, who asked her, ‘‘What did your father say?”—
-“ He said ‘ Don’t come here,’ ” replied the child. The grand¬
-mother told the girl to go up and tell him that her grand¬
-mother wanted to come in for a drink. The father said,
+“ He said ‘ Don’t come here,’ ” replied the child. The grandmother told the girl to go up and tell him that her grandmother wanted to come in for a drink. The father said,
 “No, she shall not come in here.” The girl went back to
 her grandmother and told her what the father said. The
 old woman replied, “Tell him that grandmother is hungry
@@ -10125,12 +8435,7 @@ not seen him. On the following day the other men said to
 Pupewalow , “What did you do with Analookashaw 1 s son?
 Where did you leave him?” But Pupewalow only said he
 had not seen him. When the young man did not return,
-the people thought that he had died, Analookashaw be¬
-lieved that Pupewalow had killed her son, although no one
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 253
-
+the people thought that he had died, Analookashaw believed that Pupewalow had killed her son, although no one
 had told her. She went to his house and said, “Is my son
 dead? Did you stab him or kill him?” He denied his
 guilt, but she knew that he had killed him, because she was
@@ -10149,43 +8454,31 @@ close to his legs, and rested her arms on his knees. Then
 she opened her mouth with her hands, and asked Pupewalow
 to look and see that her teeth had been almost worn down,
 and that she had lost many. She said, “I shall die soon,
-
 and my soul will enter a bear. It will come and devour
-
 you if you do not confess that you killed my son. If you
 confess, I shall not wish to die; and you also may live if you
 confess.” She moved about the hut, and Pupewalow saw
 the bear-skull in her hood, which she intended should come
 to life and devour Pupewalow for killing her son.
 
-Now the other people became suspicious, and said, “Cer¬
-tainly, he did kill Analookashaw's son;” but he would not
+Now the other people became suspicious, and said, “Certainly, he did kill Analookashaw's son;” but he would not
 confess. During the same winter the old woman died and
 was buried. One day in spring, Pupewalow and another
-man were sealing close together, sitting at the breathing-
-
-holes of seals not far away from the winter village. Ana -
+man were sealing close together, sitting at the breathingholes of seals not far away from the winter village. Ana -
 
 lookashaw's soul had gone into a bear which was sitting near
 the ground-ice. The bear was trying to find Pupewalow,
 but, since it was not able to see him from the ground-ice,
 it went up the hill. There the bear discovered him sitting
 at the seal-hole. It moved down the hill slowly until it
-came to Pupewalow . Suddenly the friend of the latter dis¬
-covered the bear, and shouted to Pupewalow to look out;
+came to Pupewalow . Suddenly the friend of the latter discovered the bear, and shouted to Pupewalow to look out;
 but the latter did not understand him. The other shouted
 a second time, “The bear is close to you. Look out!” This
-
-
-254 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 time Pupewalow understood, and looked up; but at the
 same moment the bear jumped at him and knocked him
 down. As soon as he arose, it knocked him down again.
 His friend went to his assistance, but the bear meanwhile
-had killed him and torn him up. His friend did not ven¬
-ture near, but turned and ran home as fast as he could. He
+had killed him and torn him up. His friend did not venture near, but turned and ran home as fast as he could. He
 told the people what he had seen.
 
 Those on shore had seen the bear killing Pupewalow , and
@@ -10215,15 +8508,9 @@ bear did not move again.
 There once lived at Kingawa, side by side, five families
 and also an old woman and her grandchild. All but one of
 these families were unkind to this old woman. Whenever
-any of them had seals, all they would give her was the back¬
-bone or hind-quarters, after all the good meat had been cut
+any of them had seals, all they would give her was the backbone or hind-quarters, after all the good meat had been cut
 off. This the old woman would boil. In this way she lived
 for a long time. Once in a while her only friend would get
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 255
-
-
 a seal, and then they would have a nice time, and she would
 be cheered up for a while.
 
@@ -10259,15 +8546,11 @@ you will have to be harpooneer.” The boy replied, “I do
 not know how to harpoon whales.” But the man insisted.
 
 After some time, when the weather was fair, he said to
-the boy, “Come, we will go whaling to-day.” But the lat¬
-ter retorted, “My muscles are not strong enough yet.” He
+the boy, “Come, we will go whaling to-day.” But the latter retorted, “My muscles are not strong enough yet.” He
 was compelled to go along, however. “Come,” said the
 man, “you know that the whale-skin is not tough. You
 said so the other day. You think it is soft and tender, and
 that it is easy to drive a harpoon through it.”
-
-
-256 Bulletin American Museum of Natural History. [Vol. XV r
 
 
 The boat was manned, and they went off. The boy was
@@ -10291,11 +8574,9 @@ seen a boy kill a whale.” They towed it ashore; and all
 talked about the boy who, although so small, had killed a
 whale with one thrust of his harpoon. It took days to cut
 up the carcass, because it was so large. Late in the fall the
-boy said, “I use only a whalebone knife when I eat whale-
-meat, whale-meat is so tender.” Some time after this, when
+boy said, “I use only a whalebone knife when I eat whalemeat, whale-meat is so tender.” Some time after this, when
 he was larger, he said, “I am still like a woman: I can only
-go out and sit about. I am not a man yet, although I har¬
-pooned a whale when I was a little boy.”
+go out and sit about. I am not a man yet, although I harpooned a whale when I was a little boy.”
 
 60. The Bear that was transformed into Geese.
 
@@ -10309,11 +8590,6 @@ to walk. She was afraid, and only cried, “ Kengu'qdjuit! ”
 rocking its head. It stretched out its head. When the
 woman cried out, “Geese!” for the first time, one of the
 ears of the bear fell off, and flew away as a goose. When
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay . 257
-
-
 she cried again, the other ear fell off; and as she went on
 crying, one part after another of its body came off, and was
 transformed into geese.
@@ -10338,8 +8614,7 @@ cloud of geese arose from the bear’s body.
 
 One day a man who lived in Saumia asked two girls to
 accompany him while he went sealing. Soon he found a
-seal-hole, and sat down to wait for the seal to rise. Mean¬
-while the girls went ashore to look for ptarmigan. While
+seal-hole, and sat down to wait for the seal to rise. Meanwhile the girls went ashore to look for ptarmigan. While
 they were running about, they saw a hut at a place where
 they did not know any people were living. They approached
 and looked in at the doorway. On one side of the hut, at
@@ -10354,10 +8629,6 @@ Iowa . I have killed a man, and now I live with my family
 all alone. We do not wish to live with other people.” The
 
 [. November , iqoi.\ ij
-
-
-258 Bulletin American Museum of Natural History. [Vol. XV,
-
 younger woman looked as though she were suffering great
 pain. After a little while, the old woman said, “Will you
 be one of us? We ar e Naaquaran.” Then the man asked,
@@ -10369,15 +8640,13 @@ the place, they found no one there.
 
 62. Karnapik , the Cannibal.
 
-One winter the people at Anarnitung were starving. Kar-
-napik’s daughter was dying, and he had given up all hopes
+One winter the people at Anarnitung were starving. Karnapik’s daughter was dying, and he had given up all hopes
 of her recovery. Then he asked his wife to give him a piece
 of rope to tie her up in a blanket. He intended to take her
 out of the house through the porch. His wife, however,
 asked him to wait and keep her a little longer. After some
 time the daughter died. Her father was so hungry that he
-wished to eat of her, and, although he resisted the tempta¬
-tion for some time, both father and mother finally gave way
+wished to eat of her, and, although he resisted the temptation for some time, both father and mother finally gave way
 and ate of her flesh. Thus they lived until they had eaten
 her entirely.
 
@@ -10389,8 +8658,7 @@ number, and they all ate of his flesh. When they had eaten
 it all, he again stepped in front of his house and shouted
 through his trumpet, “Kill another one!” This time they
 killed more than one person, and they all ate of the flesh.
-When they had finished, and became hungry again, Karna¬
-pik again used his dreadful trumpet, and shouted, “Kill
+When they had finished, and became hungry again, Karnapik again used his dreadful trumpet, and shouted, “Kill
 another one!”
 
 Now they had killed quite a number, and only a few people
@@ -10398,14 +8666,8 @@ were left. They boiled the human flesh in Karnapik’s house,
 and when it was done he invited the survivors to come and
 partake of it. When all the flesh was gone and the people
 became hungry, Karnapik again blew his trumpet, and
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 259
-
-
 shouted, “Kill another one!” Thus their number became
-less every day. Karnapik’s wife boiled the flesh, and in¬
-vited the people to come and partake of it. After a few
+less every day. Karnapik’s wife boiled the flesh, and invited the people to come and partake of it. After a few
 meals it was all gone. Finally only two persons were left.
 When Karnapik shouted through his trumpet, “Kill another
 one!” one of these killed the other one, and Karnapik’s wife
@@ -10429,8 +8691,7 @@ of them probably died through want.
 
 63. The Man who drank too much Water .
 
-At Kudlookto , in Kingawa, there were a number of per¬
-sons who were sealing and caribou-hunting. One day some
+At Kudlookto , in Kingawa, there were a number of persons who were sealing and caribou-hunting. One day some
 of them went off to hunt caribou in the lakes. They killed
 a great many. They towed them ashore, cut them, and
 covered the meat to protect it from wolves, foxes, and birds,
@@ -10440,13 +8701,7 @@ One man, by the name of Orriotto , chopped the meat with
 his axe, and passed it round to the others. He himself did
 not want anything to eat. When they reached home, he
 was very thirsty, and drank so much that he could neither
-sit nor lie, but he had to hold on to a rope, which was fas¬
-tened from the top of the hut, to ease his weight while he
-
-
-260 Bulletin American Museum of Natural History . [Vol. XV,
-
-
+sit nor lie, but he had to hold on to a rope, which was fastened from the top of the hut, to ease his weight while he
 was resting on his knees. He was utterly unable to leave
 this position. He could not even pass his urine. It took
 him a whole day to recover. After this they went sealing.
@@ -10474,23 +8729,15 @@ and do just the same. When she saw soup boiling over the
 fire, or a pot full of boiling blood for dog’s food, she would
 ask to be given some of it; and when the people said that
 it was not yet done, or that it was dog’s food and not fit for
-man to eat, she would insist, or even take some of it with¬
-out the permission of the people. For this reason her hus¬
-band, Ataaurala, became afraid of her, and deserted her.
+man to eat, she would insist, or even take some of it without the permission of the people. For this reason her husband, Ataaurala, became afraid of her, and deserted her.
 
-All the people moved away, leaving her and Attoowo be¬
-hind; but the two women succeeded in following them.
+All the people moved away, leaving her and Attoowo behind; but the two women succeeded in following them.
 As soon as they arrived, Akpukatoo did as she had done
 before. Then the people said, “Surely she will finally want
 to eat man. She is never satisfied, no matter how much
 she may have had. She is eating, eating, all the time.”
 Her children were not like their mother. They never asked
 for any food. The people were afraid of her; and one night
-
-
-I90i.] Boas , Eskimo of Baffin Land and Hudson Bay . 261
-
-
 they walled up the door and window of her house, so that
 she and her children could not get out.
 
@@ -10510,8 +8757,7 @@ Once a man named Kiniksalao wanted to marry Kingood -
 lee, his wife’s sister; but the latter did not want him. Neither
 did his wife, Nouletoo, wish him to marry her sister. So he
 pondered what he had best do. He thought he would either
-kill his sister-in-law, or kill his wife and then marry her sis¬
-ter. The two women consulted their mother, Nukatating .
+kill his sister-in-law, or kill his wife and then marry her sister. The two women consulted their mother, Nukatating .
 They wished to leave the place, but their mother advised
 them to stay. Nevertheless they resolved to escape and
 live alone. Their mother felt sorry because they insisted.
@@ -10531,11 +8777,6 @@ They succeeded in killing a great many in this manner.
 
 Finally they moved on, and went down to the sea. There
 they built a stone house. After some time they found a
-
-
-262 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 dead whale. They carved its meat and blubber, and were
 well supplied. A short distance from their house, near the
 window, they built a fox-trap, and caught a number of foxes.
@@ -10550,8 +8791,7 @@ mistake: there is your wife over there.”
 
 66. Tale of an Agdlaq.
 
-Early one autumn three brothers went out caribou-hunt¬
-ing together beyond Aggo, not far from a large lake. They
+Early one autumn three brothers went out caribou-hunting together beyond Aggo, not far from a large lake. They
 were all walking along together one day, when they saw
 an agdlaq pursuing them. The oldest said, “Let us go to
 the lake. It is frozen over, and the ice is slippery.” Soon
@@ -10575,11 +8815,6 @@ ashore. The parts were all covered up under the snow
 except one shoulder, which they dragged to their home.
 When they reached there, some of the other men had not yet
 returned from their day’s hunt. Their father, too, was off
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 263
-
-
 in his kayak, but he came back soon after their arrival.
 Those who were at home told the father that all his sons
 had nearly been killed by an agdlaq. The father said,
@@ -10590,17 +8825,14 @@ clever that no beast is able to catch him.”
 
 One day the men of Padli were out seal-hunting, when
 they saw a bear coming toward them. Among the hunters
-was Acherelwa , a man whose dogs were very good bear-
-hunters. He set them loose to attack the bear. They kept
-it at bay, and made it lie down without so much as attempt¬
-ing to defend itself. The dogs began to tear its ears, and
+was Acherelwa , a man whose dogs were very good bearhunters. He set them loose to attack the bear. They kept
+it at bay, and made it lie down without so much as attempting to defend itself. The dogs began to tear its ears, and
 soon tore the animal all to pieces.
 
 
 A man named Kutshung lived near Qamaqdjuin. One
 day he was off caribou-hunting; and while he was looking
-about for tracks, a bear came up to him from behind. Kut¬
-shung discovered the bear while it was still some distance
+about for tracks, a bear came up to him from behind. Kutshung discovered the bear while it was still some distance
 off, and succeeded in reaching shelter. The bear had not
 seen him, but was on the scent of his track. When it came
 near enough, Kutshung shot it with his arrows. He hit its
@@ -10612,15 +8844,10 @@ when he saw a bear quite close by. He hit it with an arrow.
 The bear turned to attack Kulwa , who ran away. While
 he was running, he slipped and fell. Then the bear suddenly
 turned around and ran towards the edge of the water, looking
-back every now and then. Kulwa was just raising him¬
-self when the bear looked back for the first time. He pur¬
-sued it, and might have caught up with it had it not jumped
+back every now and then. Kulwa was just raising himself when the bear looked back for the first time. He pursued it, and might have caught up with it had it not jumped
 into the water and swam a short distance to a cake of ice,
 on which it died. The ice drifted away, and Kulwa was
 unable to get the bear.
-
-
-264 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Another day, in winter, while the hunters were sealing,
@@ -10653,19 +8880,13 @@ Qamaqdjuin. One day a bear came into the entrance of
 Oonoko's hut, which was built of large stones. The people
 heard the dogs barking, and trying to jump on top of the
 hut. They were much frightened. Oonoko had had great
-success in sealing, and had a good supply of meat and blub¬
-ber in his hut. He opened the door wide enough to pass
+success in sealing, and had a good supply of meat and blubber in his hut. He opened the door wide enough to pass
 a piece of blubber out to the bear. The bear devoured it.
 Thus he continued to pass out meat and blubber to the bear,
 but still the animal tried to come into the hut. Oonoko
 had in his hut a large penis-bone of a walrus. With this
 he struck the bear on the nose. Meanwhile Weba had gone
 down to the porch of Oonoko's hut, and shot the bear with
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 26.5
-
-
 his arrows until he killed it. Then the men put a tope around
 its body, pulled it out of the porch, and skinned it.
 
@@ -10682,40 +8903,32 @@ it with his harpoon. When it turned to catch him in his
 new position, he took up his lance and threw it again. After
 the bear was dead, the men came up to see it, and addressed
 Outerertalow , saying, “You are not afraid of bears!” He
-replied, “ No, I am not afraid of a bear when I have my har¬
-poon fastened in its body. I can jump aside when it comes
+replied, “ No, I am not afraid of a bear when I have my harpoon fastened in its body. I can jump aside when it comes
 toward me.”
 
 
 One time the people at Padli were packing up their sledges
-to move camp. An old woman started off on foot, expect¬
-ing the sledges to overtake her. She had a staff in her hand.
+to move camp. An old woman started off on foot, expecting the sledges to overtake her. She had a staff in her hand.
 After she had travelled for some time, she saw a bear coming
-up to her, which tried to kill her. She took one of her rabbit-
-skin mittens, put it on the end of her staff, pushed it into
+up to her, which tried to kill her. She took one of her rabbitskin mittens, put it on the end of her staff, pushed it into
 the bear’s mouth, and thus killed it.
 
 
 Some people were living on a small island. One day the
 men went out in a boat to hunt walrus, which were seen not
 very far away. They left a woman named Neneala , and
-her two sons Punyeyloo and Kuminik , on the island. Sud¬
-denly the woman saw something moving. She thought it
+her two sons Punyeyloo and Kuminik , on the island. Suddenly the woman saw something moving. She thought it
 was a rabbit, and said to the boys, “Look at that rabbit!”
 But, lo! it was a bear. The boys were frightened, and ran
 down to the shore where the boat was expected to land,
 while Neneala ran up the hillside.
 
 
-266 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 The bear first pursued the boys, but then changed its
 course and pursued the woman. She fell down and kicked
 the bear’s head with her foot. Then the bear tore her breasts,
 and began to devour her. The people in the boat heard
-the cries of the boys; and when they saw the bear devour¬
-ing the woman, they tried to frighten it away, but did not
+the cries of the boys; and when they saw the bear devouring the woman, they tried to frighten it away, but did not
 succeed. The boys jumped into the boat. Koolek , the
 woman’s husband, wanted to go ashore to kill the bear, but
 the people dissuaded him, saying that he too would be killed.
@@ -10748,15 +8961,9 @@ sledges; and when some distance away, he ran ahead. Now
 he passed the sledges like a flying duck, and in a very short
 time caught up with the bears. When they saw the single
 boy coming up, they all attacked him; but when they tried
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay. 267
-
-
 to bite and strike him, he jumped over them. Thus he kept
 the bears pursuing him for some time. Meanwhile the
-sledges were coming nearer. They saw the bears attack¬
-ing the boy. But before the sledges had time to come up
+sledges were coming nearer. They saw the bears attacking the boy. But before the sledges had time to come up
 to him, he killed one bear with his spear, and then the second
 and the third one in the same way. The people said to him,
 “What did you do to your knees to learn to run so fast?”
@@ -10769,8 +8976,7 @@ the bears.
 
 Nipatchee had hunted caribou for many summers in the
 region beyond Padli. One day when he was out hunting,
-he discovered a great spar (from the description it was per¬
-haps thirty-five feet long and twenty inches thick). The
+he discovered a great spar (from the description it was perhaps thirty-five feet long and twenty inches thick). The
 outside of it was stone, but the inside was good wood, which
 he used for making arrows. From that time on, he visited
 this place regularly to take wood from the spar for his arrows,
@@ -10789,14 +8995,10 @@ of the arrows, he said, “Perhaps they are mine. When I
 was up there ptarmigan-hunting, I lost one.”
 
 One time Nipatchee and his wife were off caribou-hunting,
-when the other people met them. When they saw a cari¬
-bou at a distance, Nipatchee took an arrow and his bow and
+when the other people met them. When they saw a caribou at a distance, Nipatchee took an arrow and his bow and
 pursued it. The caribou heard him, and ran away as fast
 as it could. Nipatchee , who was very swift of foot, ran
 until he came close enough to shoot an arrow into the caribou.
-
-
-268 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 The others then went i*p to him. When the caribou was
@@ -10807,8 +9009,7 @@ up with the caribou, and killed it with his arrows. The
 other people followed, and cut up the caribou which he had
 killed. Then they moved on.
 
-At the next hunting-place they saw two caribou. Ni¬
-patchee pursued them, and when quite close shot his arrow,
+At the next hunting-place they saw two caribou. Nipatchee pursued them, and when quite close shot his arrow,
 which passed through both of them, and then bounded along
 the ground till its force was spent. The others went up
 to where the caribou were lying dead, and cut, cleaned, and
@@ -10837,10 +9038,6 @@ their winter clothing. Then the brothers said to each other,
 Let us go and get some for our winter jackets.” They went
 off in their kayaks, but stopped at Kutsaw , which is not far
 from Niutang. They landed, and carried their kayaks
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 269
-
 across land to Isortuaqdjuin. There is a lake near the head
 of this place. Here they watched the caribou crossing the
 lake, and they caught enough to make a pile of skins as
@@ -10864,8 +9061,7 @@ skins until they could come back for them during the winter.
 When they reached home, they told the people that they
 did not get any ducks, but that they got caribou near KuU
 saw. They went sealing with the other men in their kayaks.
-They did no t tell them about the great number of caribou-
-skins, nor about the woman. After a while the sea froze
+They did no t tell them about the great number of caribouskins, nor about the woman. After a while the sea froze
 over, and they went hunting at the breathing-holes of the
 seals. After a short time a seal was caught, and the women
 began to prepare winter garments. As soon as there was
@@ -10881,11 +9077,6 @@ woman?” Then the brothers told how they had met her
 during the summer. The people were surprised to see the
 great number of skins. They staid at the lake over night.
 The following morning the sledges were ready, and they all
-
-
-270 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 started back. Soon they reached Niutang; and the people, to
 seeing the strange woman, wondered where she came from.
 
@@ -10916,9 +9107,7 @@ small: my sons are much larger than you are. Your muscles
 are very slight. All you can do is to sit down in front of the
 lamp and cook seal-meat.” Thus she taunted him every day.
 
-One day these people were in their kayaks, hunting cari¬
-bou on the lake. The two brothers were pursuing two cari¬
-bou. Then Uktowyouakjew jumped into his kayak, and
+One day these people were in their kayaks, hunting caribou on the lake. The two brothers were pursuing two caribou. Then Uktowyouakjew jumped into his kayak, and
 shouted to his wife to bring his paddle. He made his kayak
 fly as though it had wings, and very soon he overtook the
 two persons. He shot along right between their kayaks,
@@ -10926,11 +9115,6 @@ and was moving so fast that the rush of the water upset
 them. Then he took the caribou by their antlers, and
 drowned them by holding their heads under water. He
 towed them back to the shore, and then helped the brothers
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 271
-
-
 out of the water. He cut up his caribou, and said to the
 old woman, “Your sons look like men when they are in their
 kayaks. You think no other man is their equal in strength.
@@ -10939,11 +9123,9 @@ Uktowyouakjew and his wife were asleep, the brothers left
 the place.
 
 
-A man named Kudlang and his son were out caribou-hunt¬
-ing near Ugdjuktung, in Saumia. When they came to a lake,
+A man named Kudlang and his son were out caribou-hunting near Ugdjuktung, in Saumia. When they came to a lake,
 they saw a caribou standing in the water on the opposite
-side, throwing the water about with its antlers. On com¬
-ing nearer, they were much surprised to hear the noise it
+side, throwing the water about with its antlers. On coming nearer, they were much surprised to hear the noise it
 was making, dashing its antlers against the rocks. They
 stopped, and after some consideration Kudlang told his
 boy that he would try to shoot the caribou. He crept up
@@ -10957,8 +9139,7 @@ and, on seeing Kudlang , started to attack him. The man
 ran around the bowlders in order to escape it. Finally the
 caribou ran right up to a bowlder, struck it with its head,
 and fell down dead. Then Kudlang called the boy to come.
-He said to him, “This is not a caribou. It smells quite dif¬
-ferent. Its hind-quarters are bare, and its antlers are
+He said to him, “This is not a caribou. It smells quite different. Its hind-quarters are bare, and its antlers are
 worn off from striking against the bowlders.” They took
 off the skin, cut it open, and in its stomach found great
 tufts of moss that had not been chewed. The flesh tasted
@@ -10970,11 +9151,6 @@ k flesh up and went home.
 One winter the people in Aggo started off sealing, when
 they saw a whale in a large hole that it had kept open to
 breathe in. There was no open water near by. One of
-
-
-272 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 the hunters put his hand into the whale’s blow-hole. The
 whale closed it, and the man, who could not free his hand, was
 taken down under water. The other men were waiting near
@@ -10991,8 +9167,7 @@ the following day they cut it up, and began to take home
 the meat, blubber, and skin.
 
 
-At Isortuqdjuaq, in Kingawa, the beach is full of bowl¬
-ders. One morning when Ohkoko went out of his house,
+At Isortuqdjuaq, in Kingawa, the beach is full of bowlders. One morning when Ohkoko went out of his house,
 he saw a whale stranded. He took his lance and tried to
 kill it. The whale made the bowlders and the mud fly,
 striking them with its tail. Then Ohkoko put stones on
@@ -11007,17 +9182,11 @@ for that winter.
 
 A number of people lived at Isortuaqdjuin, in Kingawa.
 One day in spring Kooban was out looking for young seals,
-and when near the water-hole at Echayaling , he saw a num¬
-ber of killer-whales which had kept a place open during the
+and when near the water-hole at Echayaling , he saw a number of killer-whales which had kept a place open during the
 winter. Their back-fins were covered with ice, and they
 were very thin and weak. Kooban went home and told the
 other people what he had seen. On the following day they
 all went to see the killer-whales. They discussed how they
-
-
-1901 .] Boas, Eskimo of Baffin Land and Hudson Bay . 273
-
-
 could best kill them. They took their kayak spears and
 harpooned them; but they did not cut them up, because
 they thought they would not have enough blubber, and that
@@ -11047,10 +9216,8 @@ for many days.
 Nutaakdju , and his wife Inukdjua, lived at Kimaksook.
 One day Nutaakdju caught a killer-whale, and the people
 saw him towing it to an island. They went off in their
-kayaks to assist him; but when they came near enough to-
-see him more distinctly, they saw him and his kayak diving
-up and down just as killer-whales do. They became frigh¬
-tened, and ran to the shore. When they looked back again
+kayaks to assist him; but when they came near enough tosee him more distinctly, they saw him and his kayak diving
+up and down just as killer-whales do. They became frightened, and ran to the shore. When they looked back again
 from shore, they saw Nutaakdju towing the killer-whale as
 before, but he was going very fast. Nutaakdju landed, and
 began to cut his game. They continued to watch him, and
@@ -11060,16 +9227,12 @@ even recognized the fin on his back. They heard Nutaakdju
 [November, /go/.] . 18
 
 
-274 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 calling out to them to come to assist him, but they were
 afraid to go. After some time, however, they made up
 their minds to go to Nutaakdju , and they saw that he had
 his normal form. He was not a killer-whale. They told
 him of what they had seen; but Nutaakdju simply laughed
-at them, and said, “I was no killer-whale: I was only play¬
-ing with delight.''
+at them, and said, “I was no killer-whale: I was only playing with delight.''
 
 
 In Sikosuilaq, while the men were off sealing in winter,
@@ -11087,8 +9250,7 @@ they had made a snow house for him to stay in.
 
 Spring came, and the seals were seen on the ice. The
 men had long given up all hope of seeing Ulireyak again.
-‘One day Keenaroun, and his wife Queanato, were out seal¬
-ing. They were trying to catch both young and old seals.
+‘One day Keenaroun, and his wife Queanato, were out sealing. They were trying to catch both young and old seals.
 Suddenly their dogs scented something. The man followed
 them through heavy snowdrifts, and kept sounding all the
 time in order not to pass the burrow of the young seals.
@@ -11102,11 +9264,6 @@ in the ice, and the inside of his hut was very filthy. They
 took him on their sledge, and offered him some seal-meat,
 which, however, he refused. He only asked for a small piece
 of the intestines. His voice was very weak. He took just
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 275
-
-
 two mouthfuls, and felt as if he had had enough. They took
 him home, and all the people were surprised that he should
 have lived so long without food. The young man recovered.
@@ -11116,42 +9273,32 @@ who had treated him so kindly.
 
 70. Tale of a Fisherman.
 
-In Tolariak , north of Padli, the people were hunting cari¬
-bou, and catching salmon in a lake. A boy who was fishing
+In Tolariak , north of Padli, the people were hunting caribou, and catching salmon in a lake. A boy who was fishing
 with a sealing-harpoon had become fast to a salmon. He
 had wound a bight of the harpoon-line round his wrist. The
 salmon was so large that it dragged him into the water and
 drowned him. The whole fall and winter the people had
 a great many salmon and caribou, and they had to travel a
-great many times with their sledges to their summer hunting-
-ground to bring the provisions home.
+great many times with their sledges to their summer huntingground to bring the provisions home.
 
 71. Tales of Accident and Starvation.
 
-There was a camp near Qivitung, on the floe-ice, some dis¬
-tance from the land. The people had been living there for
+There was a camp near Qivitung, on the floe-ice, some distance from the land. The people had been living there for
 some time, when all of a sudden a heavy swell came and
 broke up the ice under the houses, compelling the inmates
 to make their way to the land the best they could. In one
 of the houses was an old man. The ice broke right under
 the house, and split it in two, leaving the old man in one
 half. He refused to join the people, and staid where he was.
-His son, with whom he was living, had a wife and three chil¬
-dren. The youngest child was still in its mother’s hood.
+His son, with whom he was living, had a wife and three children. The youngest child was still in its mother’s hood.
 Now, however, the mother took it out of her hood, and put
-in the next older child. She left her oldest and her youn¬
-gest with their grandfather in the ruined hut.
+in the next older child. She left her oldest and her youngest with their grandfather in the ruined hut.
 
 While trying to reach the shore, some of the people fell
 between the cracks of the ice, and many of them were drowned.
 The son of the old man led the way. The women had not
 had time to take any of their belongings except their knives
 and needle-cases. The men had only their spears, knives, and
-
-
-276 Bulletin American Museum of Natural History . [Vol.‘XV,
-
-
 harpoon-lines. After five days of dangerous travelling, they
 reached the shore. They had no food, and no water to
 drink. On reaching land, they searched for a pond. They
@@ -11166,13 +9313,11 @@ that there was plenty for all of them. Some of them had
 drunk too much water, and complained of feeling cold;
 while others, who had not taken so much, said that they felt
 warm and comfortable after drinking. Those who had
-taken too much water died before they reached the old camp¬
-ing-place on shore, and only a very few of the people who
+taken too much water died before they reached the old camping-place on shore, and only a very few of the people who
 had left the village survived to sing their old songs.
 
 
-At Isortuqdjuaq, in Kingawa, the people had been hunt¬
-ing caribou. In the fall, when they were preparing to move
+At Isortuqdjuaq, in Kingawa, the people had been hunting caribou. In the fall, when they were preparing to move
 camp, the frost set in very suddenly, covering the sea with
 ice. Heavy snows fell, and they were unable to leave. Soon
 they were starving. Many people died; but in one house
@@ -11191,11 +9336,6 @@ in the house denied that it was there, saying she had not seen
 it; but Quawallow insisted, saying that she had seen its
 tracks leading in, but not coming out again. She searched
 for her dog, and finally, when she lifted the heather, found
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 277
-
-
 its skinned body. She became very angry, and took it
 home. There she told her children that the woman had
 killed her dog with the intention of eating it. Soon the
@@ -11213,16 +9353,14 @@ had been heard from them. Rating's friends were very
 kind to him, and after a while he forgot his starving mother,
 his brothers, and his sisters. After a few days he was ready
 to return. The people gave him a whalebone toboggan and
-an old dog, and loaded the toboggan with whale-meat, whale-
-skin, and blubber. When he was ready to start, they said
+an old dog, and loaded the toboggan with whale-meat, whaleskin, and blubber. When he was ready to start, they said
 to him, “Stay here. Probably your mother is dead by this
 time;” but Rating replied, “No, I think she is alive;” and
 he started on his way to Kingawa. When he reached there,
 he went to the window of his mother’s hut, and asked, “Are
 you all dead?” His mother replied, “No: there is life in
 us yet.” Then he went in, and gave them the whale-meat
-and whale-skin, and his mother told him of what had hap¬
-pened while he was away.
+and whale-skin, and his mother told him of what had happened while he was away.
 
 They continued to stay in this place. Rating went out
 sealing. He found a seal-hole, and went back home. He
@@ -11231,17 +9369,11 @@ return for a long time: therefore he staid at home for two
 days. On. the third day he went to the seal-hole and waited
 for the seal to come. On the following morning the seal
 came, and he harpooned it, cut it up, and took it home. When
-his brothers and sisters saw it, they thought it was delight¬
-ful, and they started a fire and cooked the meat. Then
+his brothers and sisters saw it, they thought it was delightful, and they started a fire and cooked the meat. Then
 they felt better, and Rating went to bring the rest of the
 meat home.
 
 Rating's mother did not feel very well. She wished to
-
-
-278 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 have a ptarmigan. Rating succeeded in killing one. Then
 she felt better, but soon afterward she grew worse again.
 Then she wished for a piece of caribou-meat. Rating went
@@ -11274,17 +9406,11 @@ Not very long ago two boats were whaling near Niutang.
 One of them succeeded in getting fast to a whale. Suddenly
 the whale, which had dived, rose under one of the boats,
 and upset it. The crew were thrown into the water, and
-were nearly drowned, but the crew of the other boat suc¬
-ceeded in rescuing them. They placed the men over the
+were nearly drowned, but the crew of the other boat succeeded in rescuing them. They placed the men over the
 thwarts of their own boat, on their stomachs, until they
 had vomited all the salt water, and they recovered. The
 whale, however, was lost. During the same fall, as the
 weather was very bad, they caught no whales, and were
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 279
-
-
 starving. They succeeded in getting a caribou or two, but
 not enough for their needs.
 
@@ -11305,8 +9431,7 @@ put it on their backs, and carried it home.
 
 
 At a place named Ichagatto , near Sikosuilaq, while the
-ice was forming on the ponds, a number of men were cross¬
-ing a lake on their way to the caribou-hunting grounds.
+ice was forming on the ponds, a number of men were crossing a lake on their way to the caribou-hunting grounds.
 The ice was still thin; and three of the men — Noodlooapik ,
 Angmatcheak , and Angoomishik — broke through, and were
 unable to get out again. Pudawallow and Mikiejew tried
@@ -11315,8 +9440,7 @@ ropes were too short. The cold water soon benumbed them,
 and they were drowned.
 
 Mikiejew ran to the shore and called his mother. She
-came to him as fast as she could, and, while they were walk¬
-ing to the hole through which the men had broken, Mikiejew
+came to him as fast as she could, and, while they were walking to the hole through which the men had broken, Mikiejew
 told her of what had happened. Mikiejew’s mother, when
 seeing the bodies, thought they were rocks. She tried to
 pull them out of the water, but she broke through herself,
@@ -11329,11 +9453,8 @@ with a long stick. Then they drew them back, and took
 
 
 280 Bulletin American Museum of Naturat History. [Vol. XV,
-
-
 them to shore. The old man said, “Was it not too bad for
-them to try to walk on the ice when it was so thin?” Puda-
-wallow replied, “We thought it was strong enough/’ Then
+them to try to walk on the ice when it was so thin?” Pudawallow replied, “We thought it was strong enough/’ Then
 they all went back to their homes. Then the old man said
 again, “Was it not too bad for them to try to walk on the
 ice when it was so thin?” And Pudawallow and Mikiejew
@@ -11346,8 +9467,7 @@ One day Noodelwa and Ekkomalo were going to move from
 Ssauniqtung to a camp on the ice. They asked Akygerjew>
 who was very fleet-footed, to accompany them. After they
 had gone some distance, their dogs took a scent and began
-to run. Soon they saw a stranger sitting at the breathing-
-hole of a seal. When he saw the sledge coming, he jumped
+to run. Soon they saw a stranger sitting at the breathinghole of a seal. When he saw the sledge coming, he jumped
 up, and started to run away. The dog-team was not very
 far from him, and the three men tried to kill the stranger.
 They shot arrows at him, but they missed him.
@@ -11356,8 +9476,7 @@ The stranger was very fleet of foot, and soon got out of
 reach of his pursuers. Then Noodelwa jumped off the sledge
 and began to run after the stranger. The latter, however,
 proved to be much the faster, and after a short while was
-far ahead of Noodelwa. Then the latter gave up the pur¬
-suit, and said to Akygerjew , “Jump off the sledge and run
+far ahead of Noodelwa. Then the latter gave up the pursuit, and said to Akygerjew , “Jump off the sledge and run
 after him! If you kill him, we will give you his kayak.”
 But Akygerjew did not respond. After a short time they
 said again, “Try to catch him, and we will give you his
@@ -11367,13 +9486,9 @@ ahead of the sledge, and began to draw near to the fugitive.
 When the latter saw that his pursuer was gaining on him,
 he threw off his jacket in order to run more quickly; but
 nevertheless Akygerjew came nearer and nearer. Then the
-fugitive turned to one side in order to escape; but Akyger¬
-jew was now within shooting distance, and sent an arrow
+fugitive turned to one side in order to escape; but Akygerjew was now within shooting distance, and sent an arrow
 after him. It was a bird-arrow with blunt head, so that,
 even if it had hit him, it would not have killed him.
-
-
-.1.901.] Boas, Eskimo of Baffin Land and Hudson Bay. 281
 
 
 The fugitive, however, turned back, and shouted, “Stop
@@ -11417,15 +9532,11 @@ and dodged the arrows. They were unable to hit him.
 The men then went away, being afraid of his great powers.
 
 
-282 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 Noonatoo , and his wife Punewishik , were living at A Ik jaw r
 near Kivetoo. Okoweecheak was living at another place
 near by. Okoiveecheak had been starving for some time.
 One day Noonatoo found that some of his dogs were missing.
-He was searching for them, and finally went to Okowee¬
-cheak's hut to inquire about them. He saw that their tracks
+He was searching for them, and finally went to Okoweecheak's hut to inquire about them. He saw that their tracks
 led to the hut, but found no traces of their having returned.
 To his question whether he had seen his dogs, Okoweecheak
 replied, “ Some of them came, but they have run away again.’’
@@ -11448,23 +9559,15 @@ soon they arrived at Noonatoo's hut, where they put up their
 tent. Then Punewishik told her husband that she had seen
 a fresh dog’s skin among Okoweecheak's goods. Now they
 knew that Okoweecheak had eaten their dogs ; and Noonatoo
-forbade his wife to give them any seal-meat. When Noo¬
-natoo's sister came to his house, they did not give her any¬
-thing to eat. After some time, she came again, and staid
+forbade his wife to give them any seal-meat. When Noonatoo's sister came to his house, they did not give her anything to eat. After some time, she came again, and staid
 with her brother. Then Noonatoo went to Okoweecheak's hut,
 walled in the door, and left him to starve to death.
 
 
 In Sikosuilaq a man by the name of Keyoota, and a second
-party consisting of Kemebiiktuak , and his two brothers-in-
-law Eeachak and Sikeaksheak f were out hunting walrus,
+party consisting of Kemebiiktuak , and his two brothers-inlaw Eeachak and Sikeaksheak f were out hunting walrus,
 when the ice broke- up, and they went adrift. Eeachak
 saved himself on a high piece of ice. While the others were
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 283
-
-
 jumping from one cake of ice to another, Keyoota stabbed
 Kemebiiktuak , and pushed his body into the water. Eeachak
 did not know this. As soon as he came near to Keyoota , the
@@ -11482,8 +9585,7 @@ took the knife and killed Sikeaksheak.
 The hunters were drifting for several days, but finally
 they succeeded in reaching the land-floe, and returned to
 the shore. They landed at a village not far from their home.
-The people were surprised to see the hunters coming with¬
-out any game. The travellers told them that Kemebiiktuak ,
+The people were surprised to see the hunters coming without any game. The travellers told them that Kemebiiktuak ,
 Eeachak , and Sikeaksheak had separated from them, and
 that they did not know what had become of them. Keyoota
 asked the people for a pair of old worn-out trousers; but
@@ -11499,18 +9601,12 @@ In Akudnirn there was a woman who had two sons. The
 elder one was a very strong man; but the other people feared
 and hated him, because he was a bad man, and because he
 cohabited with his mother. His mother also was angry with
-him on account of his bad ways. Her younger son, Keyak¬
-juak, said to her one day, “I think I am able to throw my
+him on account of his bad ways. Her younger son, Keyakjuak, said to her one day, “I think I am able to throw my
 brother;” but she told him that it would not be right for
 him to do any harm to his brother. Keyakjuak had a cousin
 who also wished to kill the bad man.
 
 One day Keyakjuak and his cousin were out together. The
-
-
-284 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 one said to the other, “Let us see which is the stronger.”
 The cousin jumped at Keyakjuak , and tried to take him by
 one of his legs, but Keyakjuak jumped back. Now they
@@ -11523,8 +9619,7 @@ Another day Keyakjuak and his cousin were together, and
 they saw the bad man coming toward them. When he was
 near by, they took him by the legs and threw him down.
 Keyakjuak took his knife, stabbed his brother, and killed
-him. They carried his body away some distance, and cov¬
-ered it with stones.
+him. They carried his body away some distance, and covered it with stones.
 
 After several days the people shouted to Keyakjuak ,
 “Your brother is calling from his grave.” Keyakjuak said,
@@ -11532,14 +9627,12 @@ After several days the people shouted to Keyakjuak ,
 stones, and put in his arm to feel whether his brother was
 alive, but he found that he was stiff and cold. After some
 time, when Keyakjuak and his cousin were again together,
-Keyakjuak's mother asked, “Who killed my son?” Ke-
-yajuak replied, “My cousin and I killed him.”
+Keyakjuak's mother asked, “Who killed my son?” Keyajuak replied, “My cousin and I killed him.”
 
 Autumn came. The people were playing at ball. Keyak -
 juak's opponent, after he had played with him for some
 time, suddenly stared at him. Keyakjuak asked, “Why
-do you stare at me?” but he received no answer. Keyak¬
-juak repeated his question. He noticed that the man was
+do you stare at me?” but he received no answer. Keyakjuak repeated his question. He noticed that the man was
 very angry. Then he took him by the knees, shouting, “I
 have caught a stranger!” and walked away with him towards
 a bowlder, intending to knock him against it; but his cousin
@@ -11547,39 +9640,29 @@ ran after him, and said, “Although your brother was a bad
 man, you must, not kill other people too.” Then Keyakjuak
 let the man go.
 
-The following summer the people were out caribou-hunt¬
-ing. One day a large buck came in their way, and all the
+The following summer the people were out caribou-hunting. One day a large buck came in their way, and all the
 people shot their arrows at it and killed it. Keyakjuak and
 his cousin were the first to speak. His cousin said, “I hit
 it first.” But Keyakjuak said, “No, I do not think so. It
 was my arrow that killed it.” They kept on quarrelling
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay ' 285
-
-
 for some time, and finally another man said that he had
-killed it. Then Keyakjuak grew angry, and took the cari¬
-bou by the hind-legs and dashed it to pieces on the rocks.
+killed it. Then Keyakjuak grew angry, and took the caribou by the hind-legs and dashed it to pieces on the rocks.
 Then nobody dared to claim it.
 
 
-Once upon a time there was a man at Padli named Kana-
-tchea. His mother’s name was Totlaving. He was always
+Once upon a time there was a man at Padli named Kanatchea. His mother’s name was Totlaving. He was always
 in bad humor, and would strike his wife almost every day.
 His mother was the only person who loved him. Kanatchea
 was a very good sealer, and he generally came home with a
 number of seals. Sometimes he would catch an old male
 seal, and would say to it, “Why do you come to me? I
 don’t want to see your face. It reminds me too much of
-my own angry face.” Then he would take the harpoon-
-point out of it, and put it back into the water.
+my own angry face.” Then he would take the harpoonpoint out of it, and put it back into the water.
 
 One winter Kanatchea said to his mother, “Mother, what
 would you like to eat?” She replied, “I wish something
 that you cannot obtain now. I should like some berries.”
-It was not the season in which berries are found. He har¬
-nessed up his team, and soon returned, bringing berries for
+It was not the season in which berries are found. He harnessed up his team, and soon returned, bringing berries for
 his mother. Again he went hunting and caught a great
 many seals. One day he staid at home. Then he tied a
 pair of his wife’s trousers in a knot, suspended them with
@@ -11588,9 +9671,7 @@ and when the part between the legs became visible he would
 begin to laugh. Again he went sealing, and, as usual, caught
 a great many seals. Another evening he suspended a dog
 from the tent-poles. Then he asked his mother again,
-“What would you like to eat?” She replied, “Some whale-
-skin,” which was also out of season at that time. He har¬
-nessed his dogs and went off, and soon returned, bringing
+“What would you like to eat?” She replied, “Some whaleskin,” which was also out of season at that time. He harnessed his dogs and went off, and soon returned, bringing
 some whale-skin. After some time he asked his mother
 again what she would like to eat, and she asked for salmon,
 although it also was out of season. He went off, and in the
@@ -11598,11 +9679,6 @@ evening returned with quite a number of salmon.
 
 • In summer they staid at Akpan. There his mother died.
 Then he moved slowly from Akpan to Padli. It took four
-
-
-286 Bulletin American Museum of Natural History. [Vol. XV.
-
-
 days to reach the latter place. There he made a grave for
 his mother. After she was buried, he moved to Qivitung.
 He staid there, at a place named Ackerwallee. There he
@@ -11613,8 +9689,7 @@ to pass the time. One day they were trying to make fire with
 the fire-drill; and whenever the drill slipped and fell down,
 they would laugh. Kanatchea also tried his hand at making
 fire with the drill. When the drill slipped, he became very
-angry, took a knife, and cut one of his nephews. The chil¬
-dren ran home, wading through the river, which was quite
+angry, took a knife, and cut one of his nephews. The children ran home, wading through the river, which was quite
 deep. Kanatchea pursued them. About this time the
 father of the children and his friends had assembled on the
 bank of the river, having heard of what had happened. They
@@ -11622,8 +9697,7 @@ saw Kanatchea crossing; and when he had nearly reached
 the bank, they shot their arrows at him. He was not killed,
 but went back to his own hut. Then all the people went
 across to see if he was fatally wounded. When they came
-to the hut, they heard him groaning, and saw his dogs howl¬
-ing, and trying to rush in; but Kanatchea 1 s wife kept them
+to the hut, they heard him groaning, and saw his dogs howling, and trying to rush in; but Kanatchea 1 s wife kept them
 away. Then the people ordered her to allow the dogs to go
 in. As soon as she did so, the dogs rushed into the hut
 and devoured Kanatchea.
@@ -11636,17 +9710,11 @@ a child about two years old which she was carrying in her
 hood, went away some distance from the huts, where the
 people could not see her. There she took the boy from her
 hood, put him to sleep, and covered him with her outer
-jacket. Then she left, and went away to meet her brother-
-in-law. They took his kayak, carried it overland, and
+jacket. Then she left, and went away to meet her brotherin-law. They took his kayak, carried it overland, and
 eloped.
 
 When the child awoke and found that his mother had
 left him, he began to cry. The people heard him, and soon
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay , 287
-
-
 found him all alone. They led him back to the huts; but,
 since he was clad in his mother’s jacket, he stumbled while
 walking, and reached the hut only with difficulty. Then
@@ -11687,18 +9755,12 @@ Meanwhile the boy had grown old enough to go hunting
 caribou and seals. One summer he had procured a great
 many caribou-skins. Then his mother asked him for a skin
 to make a pair of trousers for herself; but the boy refused it,
-
-
-288 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 saying, “No. I have not forgotten what you did to me.
 You left me on the ground all alone, not caring what might
 become of me.”
 
 
-One spring Kokoparoolee 1 s brother went out hunting young-
-seals, and became snow-blind by exposing his eyes too much
+One spring Kokoparoolee 1 s brother went out hunting youngseals, and became snow-blind by exposing his eyes too much
 to the sun’s rays. Four young men, his enemies, who were
 also out hunting, took this opportunity to attack him. He
 was unable to defend himself, and the oldest of the four men
@@ -11714,8 +9776,7 @@ and it was again time for hunting young-seals, the four
 young men moved to a place which is favorable for their
 pursuit. When they were settled, three of them went out
 sealing. The one who had stabbed Kokoparoolee 1 s brother
-was at home. He had to stay in bed because he was snow-
-blind. His wife saw Kokoparoolee coming, and rolled her
+was at home. He had to stay in bed because he was snowblind. His wife saw Kokoparoolee coming, and rolled her
 husband up in seal-skins, of which they were going to make
 a new tent. Soon Kokoparoolee arrived. He saw the outer
 jacket and the spear of one of the men in a small snow house
@@ -11734,11 +9795,6 @@ him approaching on his sledge. While the sledge was still
 some distance off, the eldest one asked, “Who are you?”—
 “ I am Kokoparoolee , the young girl of whom you have no fear.”
 As soon as he came close enough, he shot the two elder ones
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 289
-
-
 with his arrows. The youngest one ran to the shore. As
 soon as the others were disposed of, Kokoparoolee followed
 until he came within throwing distance. The young man
@@ -11756,24 +9812,19 @@ to find it.
 
 Another summer came, and Kokoparoolee was making a
 kayak. One day a boat arrived, and one of the crew went
-up to Kokoparoolee's tent. When he came near, Kokopa¬
-roolee jumped over his kayak to the other side. The stranger
+up to Kokoparoolee's tent. When he came near, Kokoparoolee jumped over his kayak to the other side. The stranger
 went slowly round towards Kokoparoolee , but the latter
-jumped across again to the other side. In this way they con¬
-tinued, but the stranger did not succeed in reaching him.
+jumped across again to the other side. In this way they continued, but the stranger did not succeed in reaching him.
 While he went round and round the kayak, trying to catch
 Kokoparoolee , one of the other men took a human skull from
 the shore to their boat. Finally the stranger gave up trying.
 He went back to the boat and told his companions that he
 was not able to catch their enemy. Before the boat left,
 they put the human skull into the water at the place where
-they started. They thought that it would frighten Koko¬
-paroolee to death.
+they started. They thought that it would frighten Kokoparoolee to death.
 
-The boat left; and when it was some distance off, Koko¬
-paroolee went down to the shore. There he saw the skull. %
-As he coijld not reach it with his hands, he took a kayak-
-paddle and lifted it out of the water. Then he jumped into
+The boat left; and when it was some distance off, Kokoparoolee went down to the shore. There he saw the skull. %
+As he coijld not reach it with his hands, he took a kayakpaddle and lifted it out of the water. Then he jumped into
 the kayak and took it some distance from shore. The people
 in the other boat went to a place not very far away, and
 there they all died, but Kokoparoolee lived on.
@@ -11782,28 +9833,18 @@ there they all died, but Kokoparoolee lived on.
 [. December , igoi.]
 
 
-19
-
-
-290 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 There once lived at Kutsaw , in the region of Kingnait, a
 powerful man by the name of Kunikjwak. Nearer the
-head of Kingnait lived * another man by the name of Pud¬
-lookshine.' Once upon a time Kunikjwak's son abducted
+head of Kingnait lived * another man by the name of Pudlookshine.' Once upon a time Kunikjwak's son abducted
 Pudlookshine's wife. Pudlookshine was afraid to take her
 back, for he feared that Kunikjwak , being so powerful, would
-assist his son. However, he went to visit his wife occasion¬
-ally. Pudlookshine's sister lived at Aggagidjen.
+assist his son. However, he went to visit his wife occasionally. Pudlookshine's sister lived at Aggagidjen.
 
 One day Kunikjwak's son went home with a seal. He
 was just cutting it up, when Pudlookshine arrived at the
 door of his snow house. Kunikjwak saw Pudlookshine , and
-said to him, “They tell me you want to kill some one.” Ku¬
-nikjwak's son remarked, “Indeed!” Kunikjwak repeated
-this falsehood. Then his son rushed out to attack Pudlook¬
-shine, who stood still until he saw the young man running
+said to him, “They tell me you want to kill some one.” Kunikjwak's son remarked, “Indeed!” Kunikjwak repeated
+this falsehood. Then his son rushed out to attack Pudlookshine, who stood still until he saw the young man running
 towards him with a knife; then he fled, running round the
 hut, and round a boat that stood near by. After a while
 he grew tired and stopped. At the same time he thrust out
@@ -11812,8 +9853,7 @@ could not stop himself, and rushed into the sharp knife,
 which pierced his heart. Then Pudlookshine ran away as
 fast as he could, following one of the sealing-tracks.
 
-Kunikjwak and one of his friends harnessed their dog-
-teams and went in pursuit. After Pudlookshine had gone
+Kunikjwak and one of his friends harnessed their dogteams and went in pursuit. After Pudlookshine had gone
 some distance, he jumped from one track to another, and
 then covered himself over with snow. As it was night, and
 the snow was falling heavily, he thought his pursuers might
@@ -11846,8 +9886,7 @@ his friends all his adventures. His brother-in-law promised
 to protect him, and he lived there for a long time.
 
 One summer Kunikjwak had caught a whale at a place
-not far from Aggagidjen, and was flensing it. Pudlook¬
-shine and his brother-in-law were a short distance away.
+not far from Aggagidjen, and was flensing it. Pudlookshine and his brother-in-law were a short distance away.
 As the sky was clear, and they were in the direct rays of the
 sun, they were not seen at first by the whalers. But when
 Kunikjwak discovered them, he ordered his friends to stop.
@@ -11867,8 +9906,7 @@ Pudlookshine replied, “I am not going to run away,” but
 he disappeared behind the stone wall. The crew of the
 boats ran up quickly. They did not see Pudlookshine's
 brother-in-law, who shot the men with his bow and arrows
-as soon as they appeared on the stone wall. Then Pudlook¬
-shine and his brother-in-law went down to the boat.
+as soon as they appeared on the stone wall. Then Pudlookshine and his brother-in-law went down to the boat.
 Kunikjwak met them on the beach, and tried to crush
 Pudlookshine with his bow; but the latter cut him across his
 belly with a knife, so that his bowels fell out. Kunikjwak
@@ -11876,16 +9914,12 @@ went to his boat and lay down in it. His crew pushed off,
 and they went home, leaving their dead on shore.
 
 
-292 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 Near Kimaksoo there once lived a very tall man whose
 name was Seacolearseawetto. He had a sister who was
 also very tall. He took her for his wife, as there was no
 other woman tall enough for him. His kayak was larger
 than any other. Common seal-skins were not large enough
-to cover it, so that ground-seals had to be used for this pur¬
-pose. His float was a ground-seal skin.
+to cover it, so that ground-seals had to be used for this purpose. His float was a ground-seal skin.
 
 He went sealing or whaling, no matter how strong the
 wind was blowing. When he killed a whale during a storm,
@@ -11906,12 +9940,8 @@ and did not mind his choosing their best seals.
 
 When the ice was strong enough to bear the tall, heavy
 man, he went sealing with the others. Whenever he was
-unsuccessful, he took some of the seals caught by his com¬
-panions. Finally they resented this imposition, and de¬
-cided to kill him by means of a ruse. They agreed to go
-sealing again, and to sleep all night on the ice. Seacolear¬
-seawetto said, “ I have never staid out over night. I can¬
-not go into a small snow house on the ice.” They replied,
+unsuccessful, he took some of the seals caught by his companions. Finally they resented this imposition, and decided to kill him by means of a ruse. They agreed to go
+sealing again, and to sleep all night on the ice. Seacolearseawetto said, “ I have never staid out over night. I cannot go into a small snow house on the ice.” They replied,
 “ Do as we do. The first time we sleep in a small snow house,
 we fasten our legs together at the ankles, the knees, and just
 above the knees, and we fasten our hands behind our backs
@@ -11920,11 +9950,6 @@ self to the small space.” Finally they persuaded him to
 join them. At night he fastened his legs together, and his
 companions fastened his hands behind his back. Then he
 went to sleep. When they were quite certain that he was
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 293
-
-
 sound asleep, they all fell on him with their knives and tried
 to kill him. He awoke, and broke his fastenings, but their
 knives had gone too deep. He was too weak to harm them,
@@ -11953,22 +9978,15 @@ caribou-skins from the people, but he met with refusal.
 Therefore he resolved to kill the people who had not granted
 his request. He visited the house in which a man lived
 whom he had in vain asked for the skins. While he was
-inside, the men of the village hid themselves near the en¬
-trance. As soon as he came out of the doorway, they jumped
+inside, the men of the village hid themselves near the entrance. As soon as he came out of the doorway, they jumped
 up, took hold of him, threw him down, and stabbed him
-with their knives, but they did not quite kill him. He suc¬
-ceeded in reaching his own house. As soon as he entered
+with their knives, but they did not quite kill him. He succeeded in reaching his own house. As soon as he entered
 his dwelling, his wife went out. She saw the men coming
 who had stabbed him, and was about to re-enter, a,s she
 wished to save her husband, who was alone in the house,
 groaning with pain. The pursuers warned her not to enter,
 telling her that her husband would certainly kill her; but
 she did not listen to their advice. As soon as she had
-
-
-294 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 entered, her husband stabbed her. She ran out screaming,
 and soon died. About the same tim eApartsoo died.
 
@@ -11982,8 +10000,7 @@ the other people saw it, they exclaimed, ‘‘Oh, you have
 taken a nice lot!” Then they went home.
 
 
-Inutalu was living in a village in Kingnait Fiord, in Cum¬
-berland Sound. He was a bad man, who had murdered many
+Inutalu was living in a village in Kingnait Fiord, in Cumberland Sound. He was a bad man, who had murdered many
 people. One day his mother heard him muttering, ‘‘Where
 shall I go to kill some one?” She said, “You are not alseep.
 You will soon find some one.” Inutalu launched his boat,
@@ -12009,11 +10026,6 @@ were all standing together outside. Suddenly one of them
 shouted, “Look over yonder! There is a whale blowing!”
 Then another cried out, “There, look at that whale blowing
 in line with Aupaluktu!” Another exclaimed, “Here’s
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 295
-
-
 another one blowing in line with Qa'tsaq!” Inutalu turned
 around to look in the direction indicated; then one of
 the men caught him by the leg and threw him down; two
@@ -12045,33 +10057,23 @@ above the doorway, and saw that the people were not asleep.
 Therefore they left without attacking Koomungaping.
 
 On the following day, Kooleegowya and Kunooshaw went
-off to hunt the seals which were basking on the ice. Koo¬
-mungaping had a litter of young dogs not far from Ooryew 1 s
+off to hunt the seals which were basking on the ice. Koomungaping had a litter of young dogs not far from Ooryew 1 s
 tent. He was standing with a friend near the pups. They
 did not speak of the events of the previous night, but both
 were thinking much about them, and were pretending that
 they had not been frightened. Suddenly Koomungaping
-and his friend saw Ooryew coming out of his tent. Koo¬
-mungaping asked him if he wished to have a young dog.
+and his friend saw Ooryew coming out of his tent. Koomungaping asked him if he wished to have a young dog.
 Ooryew stepped up to them and expressed his wish to have
 one. Then Koomungaping took out one of the pups, and
-
-
-296 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 said, “This one is a female. Perhaps you prefer a male.”
 Ooryew answered, “ Yes.” Then Koomungaping 1 s friend took
 one out, looked at it, and said, “This one is the same as the
 one you have,” meaning that it also was a female. Now
 Koomungaping pointed to a pup of a certain color, and said
 to Ooryew , “Take that one and see what it is.” Then he
-went to the rear of the dogs’ shelter, leaving Ooryew stand¬
-ing on the front side. Ooryew had pulled his left arm out
-of his sleeve before he came to them, and he was still hold¬
-ing it inside his jacket when he stretched his right arm out
-to take from the shelter the pup designated by Koomunga¬
-ping. While he was bending down, Koomungaping caught
+went to the rear of the dogs’ shelter, leaving Ooryew standing on the front side. Ooryew had pulled his left arm out
+of his sleeve before he came to them, and he was still holding it inside his jacket when he stretched his right arm out
+to take from the shelter the pup designated by Koomungaping. While he was bending down, Koomungaping caught
 him by his jacket and threw him down, and both men fell.
 Ooryew tried hard to free himself; but while he was held
 down by Koomungaping , the latter’s friend stabbed him
@@ -12089,8 +10091,7 @@ In the evening, when Kooleegowya and Kunooshaw were seen
 coming back, Koomungaping , his friend, and another man
 who had joined them, concealed themselves between the
 hummocks of the ground-ice. Koomungaping and one of
-the men went one way, while his friend took a stand by him¬
-self. Kunooshaw 1 s attention was attracted by numerous
+the men went one way, while his friend took a stand by himself. Kunooshaw 1 s attention was attracted by numerous
 sea-gulls which had gathered over the track along which
 Ooryew 1 s body had been dragged to the crack in the ice. He
 went along the ground-ice to see why the gulls had gathered.
@@ -12101,13 +10102,9 @@ which entered his side and killed him. When Kooleegowya ,
 who was following Kunooshaw at some distance, found Kunoo -
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 297
-
-
 shaw lying dead, he turned and ran away; but Koomunga -
 ping and his friend pursued him, and the friend killed him
-with his arrows. They dragged the bodies to the ground-
-ice, and pushed them under the ice at the same place where
+with his arrows. They dragged the bodies to the groundice, and pushed them under the ice at the same place where
 they had put Ooryew’s body. Then they went home.
 
 That night they slept very quietly, for they were no longer
@@ -12120,8 +10117,7 @@ afraid of them.
 In Akudnirn lived a married couple who were bringing
 up a young girl named Kutchaping and an orphan boy named
 Emataloo. The children frequently gambled together. When
-they became older, Kutchaping went to visit the girl’s rela¬
-tives at a distant place.
+they became older, Kutchaping went to visit the girl’s relatives at a distant place.
 
 One day, when Emataloo was almost grown up, he said to
 his foster-father, “Let us try who is the stronger.” They
@@ -12133,8 +10129,7 @@ now old enough to go sealing with the other men. After
 some time he again asked his foster-father to try his strength
 with him. They were now nearly equal in strength, but in
 their contest Emataloo did not show his full strength. At
-times the man and youth went, sealing together, and occa¬
-sionally the father would say jestingly, “You who have the
+times the man and youth went, sealing together, and occasionally the father would say jestingly, “You who have the
 making of a man, come, see who is the stronger.” One day
 they wrestled, and the boy threw his foster-father. Another
 time, when they reached home at night, the boy said, “You
@@ -12144,15 +10139,9 @@ where blubber and meat are kept. Then he cohabited with
 his foster-mother, whose name was Atalee. The foster-father
 did not dare to show his anger, because he feared the youth.
 Another day, when they came home from sealing, Emataloo
-
-
-298 Bulletin American Museum of Natural History . [Vol. XV.
-
-
 said again, as he was wont to do, “ You who are a man, come
 and let us try who is the stronger.’’ Again the boy threw
-the man, when Atalee jumped up, intending to help her hus¬
-band, but the youth threw both of them into the place where
+the man, when Atalee jumped up, intending to help her husband, but the youth threw both of them into the place where
 blubber and meat were kept. The boy thought, “They had
 no mercy on me when I was weak: now that I am strong, I
 will have my revenge. The place for blubber and meat is
@@ -12178,8 +10167,7 @@ to try to find her brother, who was living near Padli. She
 succeeded in leaving her husband’s house without being
 noticed. She did not know the exact place where her brother
 was living at that time. It is a long distance from Aggo to
-Padli. She had been walking for a long time, and was grow¬
-ing thin and faint. One day she saw a fox-trap. She went
+Padli. She had been walking for a long time, and was growing thin and faint. One day she saw a fox-trap. She went
 into it, and made up her mind to stay until some one came
 to look after it. She had not been there long, when two boys
 went to look after this fox-trap. The woman heard them
@@ -12189,11 +10177,6 @@ But the boys ran away. The woman shouted, “Don’t be
 afraid! My name is Takak .” But they did not understand
 her, because her cries sounded like, “I am glad, although I
 am starving.” The boys stopped a short distance from the
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 299
-
-
 fox-trap and listened to the cries of the woman. One of
 them shouted back, “If you are a human being, you will be
 able to see our tracks and follow us to our huts!” They
@@ -12206,8 +10189,7 @@ to eat since she had left Aggo.
 
 
 Nanwalokdjua , and his wife Koneruakdju , lived in Aggo.
-One morning, when the woman came into the hut, her hus¬
-band asked, “How is the weather to-day?” She retorted,
+One morning, when the woman came into the hut, her husband asked, “How is the weather to-day?” She retorted,
 “Go out and see yourself.” This made him angry. He
 asked his wife to give him her hand. He took it, and pulled
 her fingers apart, so that the hand was torn up to the wrist.
@@ -12223,21 +10205,13 @@ believed that Akkalow had intended to kill the husband of
 a woman named Unaq.
 
 
-About eighty years ago, in Aggo, Aako murdered Unuk-
-chea . The relatives of the murdered man were living in
-Cumberland Sound. After some time the news of the mur¬
-der reached them, while they were living in Kingnait. As
+About eighty years ago, in Aggo, Aako murdered Unukchea . The relatives of the murdered man were living in
+Cumberland Sound. After some time the news of the murder reached them, while they were living in Kingnait. As
 soon as they heard of it, they made up their minds to avenge
 his death. The names of the relatives of the murdered man
 were TJnakjew and Etookshakjwen . They were brothers.
 The older people of the village advised them to go across
-land to Padli, and then to travel northward; but they de¬
-cided to go by boat around Cape Mercy, although they were
-
-
-300 Bulletin American Museum of Natural History . [Vol. XV,
-
-
+land to Padli, and then to travel northward; but they decided to go by boat around Cape Mercy, although they were
 warned of the dangers of the pack-ice. It took them a whole
 year to reach Padli. There they waited; and when the ice
 broke up in summer, they travelled on to Aggo. Unakjew
@@ -12265,8 +10239,7 @@ and the latter fell down. They stepped up to him, and asked,
 “Are you much hurt?” and he replied, “No. Only my arm
 is broken.” But in a short time he was dead.
 
-They continued to live there for some time, and Etookshak¬
-jwen married a young girl. After some time they started
+They continued to live there for some time, and Etookshakjwen married a young girl. After some time they started
 to return to their home; but before leaving, the mother of
 the young woman advised her, when her husband caught
 a bear, a walrus, a ground-seal, or any other kind of game,
@@ -12280,15 +10253,9 @@ caught a bear, she put some blood under their chins.
 In the fall they reached Padli, and prepared to winter
 there. The weather was very-tempestuous, and soon they
 were starving. Unakjew was unable to rise because he was
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 3 01
-
-
 so much weakened by hunger. Etookshakjwen continued to
 try to find game, no matter how unfavorable the weather.
-One day while he was walking overland he saw some fox-
-dung, although the snow was drifting about him. Then he
+One day while he was walking overland he saw some foxdung, although the snow was drifting about him. Then he
 thought, “The foxes must be near by,” and began to sound
 the snow all around. Soon he discovered a hollow. He
 dug through the snow, and discovered a bear's den; and
@@ -12302,8 +10269,7 @@ a hill, and noticed some newly formed ice in the bay. He
 went there at once, and succeeded in catching a ground-seal.
 He cut it up and took it home. Then he told the people
 modestly, “I have caught a little ground-seal,” although it
-really was an old, large male. He went out with his dog-
-team and brought it back. When they had eaten it all, the
+really was an old, large male. He went out with his dogteam and brought it back. When they had eaten it all, the
 weather still continued to be cold and tempestuous, although
 by this time spring had come. Then Etookshakjwen's wife,
 after singing for some time in a loud voice, said to him, “ When
@@ -12327,9 +10293,6 @@ Son. There is a person away there.
 
 
 1 Compare p. 216.
-
-
-302 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 Father . Where is he?
@@ -12399,22 +10362,16 @@ Grandson. Grandmother, tell me a story!
 1 Compare p. 220.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3°3
-
-
-Grandmother . From there, from there, from the little cor¬
-ner of the tent, came a little lemming that has no hair at all,
+Grandmother . From there, from there, from the little corner of the tent, came a little lemming that has no hair at all,
 that went under a person’s arm-pit.
 
 The grandmother now tickled the boy, and he flew away.
 Then she called out, ‘‘Grandson, grandson! where is he,
 where is he?”
 
-The lad who flew away, and his grandmother, became ptar¬
-migans; and the peculiar cry of these birds is interpreted as
+The lad who flew away, and his grandmother, became ptarmigans; and the peculiar cry of these birds is interpreted as
 “Nauk, nauk” (“Where, where?”), — an imitation of the
-grandmother’s cry. The red mark over the eye of the ptar¬
-migan is said to be the result of the grandmother’s weeping
+grandmother’s cry. The red mark over the eye of the ptarmigan is said to be the result of the grandmother’s weeping
 for her grandson.
 
 75. The Song of the Raven.
@@ -12427,8 +10384,7 @@ killed the Raven by twisting its neck. The Raven, while
 dying, cried, “I am taken by the neck in the hole (wound)!
 Oh, where is the light now? My dear little children! I
 think of them only. They are wandering about unfledged,
-unprotected from the cold. 0 Aimakta, Nuimakta, Atse-
-naktok, Tokoyatok, Ovayok, Makkongayok, Akpayok!” 1
+unprotected from the cold. 0 Aimakta, Nuimakta, Atsenaktok, Tokoyatok, Ovayok, Makkongayok, Akpayok!” 1
 
 76. The Fox*
 
@@ -12452,15 +10408,11 @@ her. She left her home and went away, walking on the ice,
 * See p. 234.
 
 
-304 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 and weeping bitterly. Her husband followed her on his
 sledge; and when she saw him, she said, “Oh that I might
 become a raven!” She was turned into a raven, and flew
 to the top of an iceberg. Her husband drove along by the
-side of the iceberg, but, since he did not see his wife, he re¬
-turned home.
+side of the iceberg, but, since he did not see his wife, he returned home.
 
 As soon as the man had returned home, the raven flew
 away, and in the evening alighted on a rock near Niutang.
@@ -12477,8 +10429,7 @@ wife.
 
 78. Kalluapik.
 
-A man named Kalluapik met a lad who was doing some¬
-thing to his feet. The man questioned him, saying, “What
+A man named Kalluapik met a lad who was doing something to his feet. The man questioned him, saying, “What
 are these?”—“My feet,” replied the boy. “What is the
 matter with them?” said Kalluapik. The lad answered,
 “These are my poor feet, which cannibals have tried to eat.”
@@ -12500,9 +10451,6 @@ of an unwelcome visitor. — E.J. Peck.
 2 See p. 196.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3°5
-
-
 were unable to escape. It is also said of him that he caught
 whales just as one would catch sculp ins, by straddling a fiord
 and fishing in this manner.
@@ -12515,8 +10463,7 @@ just a little to eat; but one day, when that poor boy went to
 catch gulls, he caught a whale instead. He made it fast with
 some whalebone which he attached to its tail. Then he went
 home to tell of his good fortune. An old man derided him,
-saying, “What, is this mite of a boy making a man of him¬
-self ?”
+saying, “What, is this mite of a boy making a man of himself ?”
 
 The old woman with whom he lived said, “Go and tell
 those outside.” Now the old woman gave him a knife; and
@@ -12526,8 +10473,7 @@ they gave the old woman some nice dressed skins.
 81. Podluksak , 1
 
 Podluksak was a murderer. He had stolen the wife of
-one of three men, a father and his two sons. These deter¬
-mined to kill Podluksak. They pursued him, but when near
+one of three men, a father and his two sons. These determined to kill Podluksak. They pursued him, but when near
 a boat, he suddenly sat down, holding his knife over his
 shoulder. One of the two sons stumbled, fell on the knife,
 and was killed. Then Podluksak continued his flight on
@@ -12549,17 +10495,13 @@ stabbed and killed the murderer of his son.
 1 Compare p. 290.
 
 
-306 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 TALES FROM THE WEST COAST OF HUDSON BAY.
 
 i. Origin of the Caribou.
 
 A long time ago a spirit came to a village and married a
 woman. He did not need any food, and did not go hunting:
-therefore the men told him repeatedly that he had to pro¬
-vide for his wife, and that he must go hunting. Finally he
+therefore the men told him repeatedly that he had to provide for his wife, and that he must go hunting. Finally he
 grew angry, and with his spear made a hole in the ground.
 Out jumped a caribou, which he killed and took home. The
 next time he went, a man followed him secretly, and saw how
@@ -12594,9 +10536,6 @@ Very soon the light on the brother’s knife went out, and that is
 
 
 1 See No. 8, p. 173.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3 °7
 
 
 why there is no warmth in the moon. He is still in pursuit
@@ -12637,8 +10576,7 @@ Once upon a time there were a brother and a sister. Their
 parents were dead. The girl, who had grown up to be a
 woman, had not obeyed the laws of the tribe, and had made
 herself offensive to the other people: therefore they did not
-allow her to stay in the village, and she had to live by her¬
-self in an old hut. She had no clothing, and hair began to
+allow her to stay in the village, and she had to live by herself in an old hut. She had no clothing, and hair began to
 grow all over her body. Her brother used to go to see her,
 
 
@@ -12649,9 +10587,6 @@ grow all over her body. Her brother used to go to see her,
 
 
 3 See No. 5, p. 171.
-
-
-308 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 because he was very fond of her. One day the girl said to
@@ -12682,8 +10617,7 @@ Soon the black bear came in the form of a person, and when
 he saw the new grave, he opened it, put a line around the
 supposed body, and dragged it off to his home. While on
 the way, the man held on to the grass and to bushes, so that
-the Bear found it very hard work to drag him along. Fi¬
-nally, on reaching home, the Bear placed the man against the
+the Bear found it very hard work to drag him along. Finally, on reaching home, the Bear placed the man against the
 wall, intending to thaw the body preparatory to cooking it.
 Now the Bear lay down to sleep, being very tired. After a
 while the man blinked with his eyes. At once the young
@@ -12696,9 +10630,6 @@ was going out to get water. He also discovered a hatchet
 1 See No. 12, p. 176.
 
 
-I90i.] Boas , Eskimo of Baffin Land and Hudson Bay . 3°9
-
-
 lying close by. He seized it, killed the Bear, and ran out
 of the house. The woman saw what had happened. She
 transformed herself into a bear and gave chase. When the
@@ -12708,8 +10639,7 @@ and the pursuing Bear. While the Bear was running up the
 hill, he was swiftly running down on the other side; but after
 the Bear had once reached the top of the hill, she began to
 gain on him. When she came quite close, the man wrought
-another spell, and made a river between himself and his pur¬
-suer. When the Bear came to the bank of the river, she
+another spell, and made a river between himself and his pursuer. When the Bear came to the bank of the river, she
 asked the man how he had succeeded in crossing. He told
 her that he had made a passage across by drinking the water.
 Then the Bear jumped into the river and began to drink and
@@ -12729,8 +10659,7 @@ children. 1
 8. Qaudjaqdjuq . 2
 
 [Captain Comer gives only an abstract of this legend,
-noting the differences from the version recorded in the “Cen¬
-tral Eskimo,” p. 630.]
+noting the differences from the version recorded in the “Central Eskimo,” p. 630.]
 
 A boy went sealing with his sister close to the edge of the
 ice. Suddenly a gale arose, which broke the ice. The boy
@@ -12744,9 +10673,6 @@ of ice for a knife. They warned him not to let any one see it.
 1 See No. 13, p. 178. 9 See No. 16, p. 186. 8 Perhaps the same ones who found ii n
 
 
-310 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 After he had lived in this manner for some time, the Man
 in the Moon took pity on him. He came down and called
 the boy to come out of the house. In order to make the
@@ -12754,8 +10680,7 @@ boy strong, he threw him down repeatedly until he was able
 to lift a heavy bowlder.
 
 When the boy was strong enough, the Moon Man said that
-on the following day he would send three bears, and he ad¬
-vised him what to do. Then he returned to the moon, while
+on the following day he would send three bears, and he advised him what to do. Then he returned to the moon, while
 the boy went home and lay down in the porch.
 
 When the bears came, the men went out to kill them, but,
@@ -12784,15 +10709,11 @@ delayed. Then he beat her again.
 
 9. Kukiyarayatoapkin . 1
 
-Once upon a time it happened that the children in a vil¬
-lage were lost one after another. One day two girls who
+Once upon a time it happened that the children in a village were lost one after another. One day two girls who
 had taken their baby sisters out in their hoods were playing
 
 
 1 See No. 17, p. 189.
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 3 11
 
 
 outside the huts. They saw a piece of ivory on the ground
@@ -12820,24 +10741,16 @@ securing the door, the younger girl made an opening through
 the side of the house, through which she crawled. Then she
 helped the older one to crawl out also. When, after a while,
 the witch turned round, she found that the girls were gone.
-They ran home to their father’s house and told what had hap¬
-pened. Then the people went to the house of the witch. One
+They ran home to their father’s house and told what had happened. Then the people went to the house of the witch. One
 man went in, and said to the old woman, “ Don’t you want to
-have your toe-nails cut? I can do it very nicely.” She con¬
-sented, and raised her foot to have her nails cut. The man
+have your toe-nails cut? I can do it very nicely.” She consented, and raised her foot to have her nails cut. The man
 took it, and, while pretending to cut her nails, he slipped a
 line around her ankles, and then called to the other people
 to pull her out of the house. She braced her feet against the
 doorway, but the people pulled so hard, that her legs broke,
 and they dragged her to their village. Then she told the
-people that her teeth were made of flint, her stomach of cop¬
-per, her liver of lead, and her knees of beads. The people
+people that her teeth were made of flint, her stomach of copper, her liver of lead, and her knees of beads. The people
 killed her with their spears, and when they cut her up, they
-
-
-3 1 2 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 found that her body was organized just as she had said. They
 divided the flint, lead, copper, and beads among themselves;
 but when they woke up on the following morning, they found
@@ -12856,14 +10769,12 @@ This offended Nuliayoq, who withheld the seals from the
 people, who became very hungry. Then Igimagajug killed
 his father-in-law and his mother-in-law, and ate them. He
 killed all the other people near by, and ate them. His wife
-became afraid that he might want to eat her also, and there¬
-fore one day when he was away sealing, she prepared to
+became afraid that he might want to eat her also, and therefore one day when he was away sealing, she prepared to
 escape. She was a powerful angakok. She made a figure
 by filling her clothing with moss. She told it to turn its
 back toward the door when Igimagajug should enter, and to
 cry, “ Uk, uk /” if Igimagajug should stab it with his knife.
-Then she built a small snow house near by, and made a peep¬
-hole in its walls.
+Then she built a small snow house near by, and made a peephole in its walls.
 
 Soon Igimagajug came back from hunting. The figure
 turned its back upon him, and he stabbed it. Then it cried
@@ -12880,9 +10791,6 @@ He asked the line a question, and when the answer was in
 
 
 1 See No. 20, p. 194.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3*3
 
 
 the affirmative, the line would become heavier; but if the
@@ -12927,13 +10835,9 @@ other people rushed upon Igimagajug , and killed him with
 their spears.
 
 
-314 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 11. Inupajukjuk.
 
-A long time ago there was a man by the name of Inupa¬
-jukjuk. He was so large that he could scoop up a walrus
+A long time ago there was a man by the name of Inupajukjuk. He was so large that he could scoop up a walrus
 in the hollow of his hand. He used to speak of whales as of
 codfish. One day he walked out into the water and caught
 two whales, one in each hand. Two people watched him.
@@ -12946,14 +10850,11 @@ They wrestled, and endeavored to throw each other down.
 The other man had remained small, and he cut the sinews
 in the heel of Inupajukjuk. The latter fell and was stabbed
 to death, but before dying he called his wife to come and help
-him. She came at once, and seized the man who had trans¬
-formed himself into a giant. She hit him on the head, and
+him. She came at once, and seized the man who had transformed himself into a giant. She hit him on the head, and
 it seemed as though she were going to kill him, when the
 other man cut the sinews in her heel, and she fell and was
-killed. Then the two men started to go to the house of Inupa¬
-jukjuk. On the way they found the young child of the latter,
-which his wife had dropped when she went to help her hus¬
-band. It was lying on the ground, crying. The man who
+killed. Then the two men started to go to the house of Inupajukjuk. On the way they found the young child of the latter,
+which his wife had dropped when she went to help her husband. It was lying on the ground, crying. The man who
 had remained small tried to raise the baby’s head, but it was
 so large that he could not lift it. Then they went up to the
 house, and, on looking into the doorway, they saw two large
@@ -12974,8 +10875,7 @@ be seen.
 
 12. The Tornit . 1
 
-In early times the Tornit, a race of very large people, in¬
-habited the country. They quarrelled with the Eskimo
+In early times the Tornit, a race of very large people, inhabited the country. They quarrelled with the Eskimo
 because the latter intruded upon their land. This made the
 Tornit angry, who broke the ground with their lances and
 spears, and split the rocks into pieces.
@@ -12993,8 +10893,7 @@ came back from hunting, and saw their houses destroyed
 and their wives and children slain,, and also the dead Tuneq,
 they went in pursuit.
 
-Finally they reached the village of the Tornit, and pre¬
-tended to be friendly toward them. The Tornit were building
+Finally they reached the village of the Tornit, and pretended to be friendly toward them. The Tornit were building
 a large house for a dance. The people helped them; but when
 the Tornit were putting on the top blocks, they killed them
 with their spears.
@@ -13008,8 +10907,7 @@ whenever one of the children became tired, the people would
 drill a hole in its forehead. Most of them were despatched
 in this way. Only two arrived, — one boy and one girl.
 
-The Tuneq boy became a great hunter. His mode of spear¬
-ing game was to lie down, rest the spear on the top of his
+The Tuneq boy became a great hunter. His mode of spearing game was to lie down, rest the spear on the top of his
 back, and then with a throwing-stick fling the spear a great
 distance perfectly straight.
 
@@ -13017,16 +10915,11 @@ distance perfectly straight.
 1 See No. 28, p. 209.
 
 
-316 Bulletin American Museum of Natural History . [Vol. XV,
-
-
 One day the people wanted to see him fling his spear, and
 they told him to try to hit a dog. He said that he did not
-like to kill a dog, but was told that the dog was old and use¬
-less. Finally he consented, and cast his spear, which went
+like to kill a dog, but was told that the dog was old and useless. Finally he consented, and cast his spear, which went
 right through the dog’s body. 1 The Tuneq took his spear,
-ran off, and was never seen afterwards. The girl was mar¬
-ried by one of the people.
+ran off, and was never seen afterwards. The girl was married by one of the people.
 
 It is said that in the Iglulik country the land still shows
 how the Tomit tore it up with their harpoon-shafts when
@@ -13043,8 +10936,7 @@ of an ordinary man. They are believed to live in the country
 between Wager River and Chesterfield Inlet. A few years
 ago an Aivilik man saw the tracks of two of these dwarfs in
 the snow near Wager River. Their footprints were about
-four inches long. A Kinipetu claims to have met an Inua-
-rugdligaq near Chesterfield Inlet. The dwarf approached,
+four inches long. A Kinipetu claims to have met an Inuarugdligaq near Chesterfield Inlet. The dwarf approached,
 and stopped a few steps from him. ’ Then he used his power
 to make himself as large as the man, and proposed a test of
 strength. They commenced to wrestle, and finally the man
@@ -13064,8 +10956,6 @@ passing through the entrance, the woman’s child dropped
 1 See p. 200.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3 1 7
-
 out of her hood and was devoured by the dogs. When she
 found that she had lost it, she began to cry; but her husband
 told her to dance and to enjoy herself, she might have another
@@ -13079,8 +10969,7 @@ that when a boy he met with two men of this race. He was
 hunting with his father, who had killed two caribou, when
 they saw two very large men coming towards them. The
 strangers did not say a word, but picked up the caribou as
-though the weight were nothing, placed them on their shoul¬
-ders, and went off with them, Siksik’s father offering no
+though the weight were nothing, placed them on their shoulders, and went off with them, Siksik’s father offering no
 resistance.
 
 . 15. Story of Three Girls?
@@ -13112,9 +11001,6 @@ her father gave the power to speak. Soon the Whale shouted
 
 
 9 See No. 34, p. 217.
-
-
-318 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 and asked her, “Are you ready to come back?” The Buckle
@@ -13156,11 +11042,6 @@ climbed down, was taken into the boat, and they returned
 home. When the Eagle came home and found that she was
 gone, he flew to the village and tried to recover her. He
 broke the window of her father’s house with his wings, but
-
-
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 319
-
-
 her father shot him with an arrow and killed him. The
 people point out the Eagle's cliff up to the present day. They
 say that the people used to cut off pieces from the line until
@@ -13179,8 +11060,7 @@ then said to the Lemming, “Two dog-teams are coming!"
 This frightened the Lemming so that he came up close to
 the hole, pretending that he would rather be eaten by the
 Owl than caught by the dogs. He said, “ I am very fat, and
-you can have a good meal. Take me! If you wish to cele¬
-brate before eating me, I will sing while you dance." The
+you can have a good meal. Take me! If you wish to celebrate before eating me, I will sing while you dance." The
 Owl agreed, drew himself up, and the Lemming began to
 sing while the Owl danced. When dancing, the Owl looked
 up to the sky and forgot about the Lemming. While he was
@@ -13195,8 +11075,7 @@ but to throw some dirt into the Owl’s face, which he did.
 At one time the Caribou and the Bear had a trial of strength.
 They locked their fore-arms and tried to pull. The Bear said
 to the Caribou, “I do not think you can stand the strain
-without your leg breaking." But the Caribou replied, say¬
-ing that he was not afraid, since his legs were strong. Then
+without your leg breaking." But the Caribou replied, saying that he was not afraid, since his legs were strong. Then
 they pulled, and the Caribou proved to be the stronger.
 
 
@@ -13204,9 +11083,6 @@ they pulled, and the Caribou proved to be the stronger.
 
 
 a See No. 37, p. 220.
-
-
-320 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 18. The Ptarmigan and the Small Bird . 1
@@ -13234,9 +11110,7 @@ The Crow and the Loon met, and, since both were good
 dressmakers, they agreed to make a suit of clothes for each
 other. They sewed the skins together with thread which
 they rubbed with lampblack. The Crow took the needle
-first, and passed it in and out of the skin which she was work¬
-ing until the seam had gone all round the Loon’s body, there¬
-fore the Loon is speckled. Then the Loon took the needle
+first, and passed it in and out of the skin which she was working until the seam had gone all round the Loon’s body, therefore the Loon is speckled. Then the Loon took the needle
 and commenced work on the Crow. But the latter would
 not sit still; and at last the Loon lost patience, and poured
 the contents of the lamp over the Crow, thus making her black
@@ -13256,9 +11130,6 @@ ran away. The Owl’s wife shouted to him, “ Let one of them
 2 See No. 39, p. 220.
 
 
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 321
-
-
 go,and kill the other!” but he replied, “The Moon will soon
 disappear, and then we shall be hungry. We qeed both of
 them.” The Rabbits ran on; and when they came to a
@@ -13272,8 +11143,7 @@ Once upon a time a Fox met a Rabbit, and asked him if
 he had recently caught any seal. The Rabbit became angry
 on account of this question, and said to the Fox, “ Yes, if you
 follow my tracks backward, you will find one I have just
-killed.” The Fox went along the Rabbit’s tracks, but, in¬
-stead of finding a seal, he only found the place where the
+killed.” The Fox went along the Rabbit’s tracks, but, instead of finding a seal, he only found the place where the
 Rabbit had spent the time sleeping in the sun by the side
 of some rocks. He ran away, and whenever he met an
 animal, he would tell him that the Rabbit was a great liar.
@@ -13282,18 +11152,15 @@ animal, he would tell him that the Rabbit was a great liar.
 
 A long time ago some men who were at play caught a loon.
 For sport they pulled out nearly all its feathers, leaving only
-one long feather in each wing, and let it go. In the follow¬
-ing winter a great fall of snow set in, and, although the people
-had stores of walrus-meat buried under stones, they were un¬
-able to reach them on account of the depth of the snow. Many
+one long feather in each wing, and let it go. In the following winter a great fall of snow set in, and, although the people
+had stores of walrus-meat buried under stones, they were unable to reach them on account of the depth of the snow. Many
 died of starvation. This storm was caused by the loon in
 revenge for the ill treatment it had received.
 
 23. The Soul . 1
 
 Once upon a time an old woman who had died was buried,
-and then a raven came and began to eat her. Her soul en¬
-tered the body of the raven, and she became a raven. The
+and then a raven came and began to eat her. Her soul entered the body of the raven, and she became a raven. The
 raven laid its eggs; but a man came and shot the bird, took
 it into his house, and gave it to a dog to eat. Then the
 woman’s soul entered the dog. When the dog was struck
@@ -13303,9 +11170,6 @@ woman’s soul entered the dog. When the dog was struck
 
 
 1 See No. 48, p. 232.
-
-
-322 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 by the natives, it pretended to be sick, and cried, “Ma, ma,
@@ -13326,15 +11190,13 @@ was killed. Then the woman’s soul became a caribou, and
 the caribou had young ones. Soon winter set in, and the
 ground was frozen and covered with snow. The caribou
 said to the others, “Why can I not find anything to eat?”
-And the others told it to scratch away the snow with its fore¬
-feet, and it would find moss underneath. The caribou did
+And the others told it to scratch away the snow with its forefeet, and it would find moss underneath. The caribou did
 not like its companions, and went off in the direction of a
 village, where it was seen and killed by a man. Now the
 soul went into a walrus, and the walrus had young ones.
 This walrus became hungry and went down to the bottoffi
 of the sea to dig clams, but the clams would not open their
-shells, and it came up still hungry. It said to the other wal¬
-ruses, “ I cannot get anything to eat. The clams refuse to
+shells, and it came up still hungry. It said to the other walruses, “ I cannot get anything to eat. The clams refuse to
 open their shells for me.” Then the other walruses said,
 “ When you go to the bottom of the sea, say, ‘ Eok , eok , eok ! ’ ”
 It did so, and as soon as it said, “ Eok! ” the clams opened
@@ -13348,8 +11210,6 @@ holes in the ice. You go to that hole, I will go to this one.”
 But the seal in which the woman’s soul was embodied said,
 
 
-1901 .] Boas , Eskimo of Baffin Land and Hudson Bay . 3 2 3
-
 “ No, when that hunter was a boy, he was lazy. He would
 not put snow into his mother’s kettle. 1 He does not deserve
 to have good luck.” The other seal went to his hole, and
@@ -13357,8 +11217,7 @@ the hunter threw it with his harpoon, but only wounded it.
 The wounded seal cried out, “You have hurt me, and your
 harpoon is cold.” The two seals went together, and the one
 in which the woman’s soul was embodied told its companion
-to go to the other hole, but the seal refused because the hun¬
-ter had been lazy as a boy. Then the seal in which the soul
+to go to the other hole, but the seal refused because the hunter had been lazy as a boy. Then the seal in which the soul
 was embodied went to the good hunter, who killed it and
 took it home. When they arrived at the house, the seal
 staid close to the harpoon, and said, “Why does not the
@@ -13371,9 +11230,7 @@ the old woman. When she came to be about eight or ten
 years of age, she would go out to see what game the hunters
 brought in, and she recognized her old companions, and told
 them by what name each was known among his own kind.
-When she grew older, she told the other people in what ani¬
-mals her soul had been, and what the animals liked and dis¬
-liked. She told them that while she was a walrus, other
+When she grew older, she told the other people in what animals her soul had been, and what the animals liked and disliked. She told them that while she was a walrus, other
 Calluses used to come up and kiss her until her nose
 became sore. She also told them that the ground-seals were
 very good, but that they always looked very angry. She
@@ -13394,9 +11251,6 @@ the old woman wrought a spell to induce the foxes to come
 
 
 2 See No. 40, p. 221; No. 54, p. 248.
-
-
-324 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 to her house. At first the caribou came. When they heard
@@ -13426,8 +11280,7 @@ woman asked her to invite them in; and when the whole
 house was full, she shut the door. The old woman took a
 stick and killed them all.
 
-Now they wanted blubber for their lamp. Then the grand¬
-mother took the strap from her waist, and made a harpoon
+Now they wanted blubber for their lamp. Then the grandmother took the strap from her waist, and made a harpoon
 and a line out of it. She urinated, and thus melted a hole
 in the ice, and soon a seal came up, which she harpooned and
 caught. Now they had plenty of blubber.
@@ -13435,17 +11288,9 @@ caught. Now they had plenty of blubber.
 Now she had all she wanted except a man. Therefore she
 transformed herself into a man by making a penis out of the
 bone for trimming the lamp, and by making her testicles out
-of fire-stones. Then she wanted to go sealing. She trans¬
-formed her privates into a sledge. Then she defecated, and
+of fire-stones. Then she wanted to go sealing. She transformed her privates into a sledge. Then she defecated, and
 wiped herself with snow. She transformed the pieces of
-snow with which she had wiped herself into dogs by throw-
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 3 2 5
-
-
-ing them on the ground. She made a kayak out of the tattoo¬
-ing on her forehead, and a paddle out of the tattooing on
+snow with which she had wiped herself into dogs by throwing them on the ground. She made a kayak out of the tattooing on her forehead, and a paddle out of the tattooing on
 her cheeks. Then she married the girl, who was soon with
 child. One day when she was out sealing, a man came to
 the snow house. When he saw the sledge, he asked, “ Who
@@ -13454,18 +11299,15 @@ the dogs?”—“Grandmother.”—“Who made the kayak?”
 —“Grandmother did.”—“And who is the father of your
 child?”—“Grandmother.” While the man was in the hut,
 the grandmother returned from sealing, and, looking through
-the entrance, she saw the man’s legs. Then she was over¬
-come with shame, and dropped down dead. The man wanted
+the entrance, she saw the man’s legs. Then she was overcome with shame, and dropped down dead. The man wanted
 to take the young woman home with him, and they sat down
-on the sledge; but when he whipped the dogs, they were trans¬
-formed into snow, and the sledge was retransformed into
+on the sledge; but when he whipped the dogs, they were transformed into snow, and the sledge was retransformed into
 what it had originally been. Then they walked on to the
 camp. Soon afterwards the young woman died.
 
 25. The Angakok who became a Woman . 1
 
-There was a man who was a great hunter and a great anga¬
-kok. One day the people, went whaling in their kayaks.
+There was a man who was a great hunter and a great angakok. One day the people, went whaling in their kayaks.
 This man, when near enough, harpooned a whale; and the
 latter struck him with its tail, and crippled him, so that he
 could no longer go hunting. On account of this he made up
@@ -13481,13 +11323,9 @@ not been a successful hunter. When the couple went out
 caribou-hunting, the man who had transformed himself into
 a woman took bow and arrows, and killed many caribou.
 On their return to the village, the other people remarked
-that the man who had before been so unsuccessful had be¬
-come a great hunter.
+that the man who had before been so unsuccessful had become a great hunter.
 
 1 See No. 55, p. 249.
-
-
-326 Bulletin American Museum of Natural History. [Vol. XV
 
 
 After some time the woman who had been a man had a
@@ -13505,13 +11343,10 @@ killed.” And, although the people did not tell, he killed the
 person who had made the suggestion.
 
 Then it was decided that they would have a great feast,
-and that the angakok was to be invited. While he was eat¬
-ing, another powerful angakok assumed the form of a spirit,
+and that the angakok was to be invited. While he was eating, another powerful angakok assumed the form of a spirit,
 and crawled from under the lamp into her,’ tore out her heart
 and intestines, and then carried them outside, where he fed
-them to the dogs. One-half of her heart he kept for him¬
-self. The woman felt at once that the food which she swal¬
-lowed did not cause the same feeling as usual, and she soon
+them to the dogs. One-half of her heart he kept for himself. The woman felt at once that the food which she swallowed did not cause the same feeling as usual, and she soon
 discovered what had happened. • She put on her boots, went
 out of the house, and gathered up her intestines and the half
 of her heart that was given to the dogs, but she could not find
@@ -13525,14 +11360,9 @@ of them were brothers, while the fourth one had taken their
 sister as wife. They went out to the floe-edge. Suddenly
 the ice broke away, and carried them out of sight of land.
 After some time the floe of ice became smaller and smaller.
-Then the oldest brother, who was a great angakok, sum¬
-moned his guardian spirit, a large bear, and told him of their
-plight. Then the ice floe began to tip up, and when it be¬
-came quite steep, the oldest brother slid off into the sea.
+Then the oldest brother, who was a great angakok, summoned his guardian spirit, a large bear, and told him of their
+plight. Then the ice floe began to tip up, and when it became quite steep, the oldest brother slid off into the sea.
 When he came up again, he was transformed into a bear.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 3 2 7
 
 
 The other brothers followed his example, and when they
@@ -13557,11 +11387,9 @@ you would rather marry a dog,” to which she replied that she
 would.
 
 Her father had a dog that transformed himself into a man.
-Since the skin on the dog’s belly was white, he had the appear¬
-ance of having on a handsome coat with white fur. After
+Since the skin on the dog’s belly was white, he had the appearance of having on a handsome coat with white fur. After
 dark he entered the house and asked the woman to marry him.
-On the following morning she discovered that what she be¬
-lieved to be a man was a dog. In time she gave birth to some
+On the following morning she discovered that what she believed to be a man was a dog. In time she gave birth to some
 pups. The father put his daughter, the dog, and the young
 pups on an island, and the old dog would swim back and forth
 from the island to the mainland to bring food to his family.
@@ -13577,9 +11405,6 @@ drowned.
 
 
 1 Compare p. 165.
-
-
-328 Bulletin American Museum of Natural History . [Vol. XV,
 
 
 From this time on, the father used to carry meat to his
@@ -13610,8 +11435,7 @@ At Amitoq there once lived a man and his wife. The man
 wished his children to be very strong. For this reason he
 made the mother, after each child was born, sit on the floor
 of the hut with her feet raised to each side of the doorway.
-In this position she had to eat, taking a large piece of half-
-cooked meat in both hands, and tearing off pieces with her
+In this position she had to eat, taking a large piece of halfcooked meat in both hands, and tearing off pieces with her
 teeth, while the fat ran down her arms. While she was doing
 this, her husband remained in the entrance-way and kept off
 the dogs with his whip. This made the children exceedingly
@@ -13625,24 +11449,17 @@ Artinarkjuark , and one half-brother.
 He had two wives ,—Eccootlikechark and Arknuckkaark.
 The former was thin and lean, while the latter was very stout.
 Eccootlikechark was jealous of the other wife, and used to
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay. 3 2 9
-
-
 taunt her, saying that she had large hips and did not look
 well; while Arknuckkaark would retort that the other one
 had legs as thin as the pieces of bone which are used to dig
 marrow out of broken bones.
 
 Armuckjuark was a successful whaler. He liked best to go
-off in his kayak when a strong southeasterly wind was blow¬
-ing. He would go out alone, carrying a large float made of
+off in his kayak when a strong southeasterly wind was blowing. He would go out alone, carrying a large float made of
 the skin of a ground-seal; and when he had killed a whale,
 he would leave it, and the whale would soon drift ashore.
 Between times he used to go home and tell the people to
-be on the lookout for a whale. He was not a good caribou-
-hunter, however, because he could not paddle on the lakes as
+be on the lookout for a whale. He was not a good caribouhunter, however, because he could not paddle on the lakes as
 quickly as others. His uncle, particularly, used to pass by
 him in his kayak and kill the caribou before he could reach
 them.
@@ -13653,36 +11470,27 @@ required both of them to carry it. He took his brother
 Artinarkjuark into his kayak and started. His uncle followed
 him, and soon passed him. This enraged Armuckjuark , who,
 with a powerful stroke of his paddle, made the water whirl so
-rapidly that his uncle was capsized and drowned. Artinark¬
-juark did not like the way in which his brother was acting,
+rapidly that his uncle was capsized and drowned. Artinarkjuark did not like the way in which his brother was acting,
 and as soon as they reached the shore he jumped out of the
 kayak and went to his tent.
 
-Later in the winter the people went to fetch some caribou-
-meat from their caches. When they returned, Eccootlikechark
+Later in the winter the people went to fetch some cariboumeat from their caches. When they returned, Eccootlikechark
 distributed it. Soon she returned and told her husband that
 she had met his half-brother in one of the entrance-passages,
 and that in trying to pass her he had tried to overcome her.
 In fact, they merely happened to meet, and in trying to pass
-each other had always moved to the same side. Armuck¬
-juark believed his wife. The next morning he arose early,
+each other had always moved to the same side. Armuckjuark believed his wife. The next morning he arose early,
 went to his half-brother’s house, and said that he was going
 to kill him. His half-brother said, “Wait until I am dressed.”
 He got up, and as soon as he was dressed, Armuckjuark
 stabbed him with his knife. Then their mother began to cry.
 She was sad over the loss of her child, and told Armuckjuark
-
-
-33 ° Bulletin American Museum of Natural History . [Vol. XV,
-
-
 that his wife had deceived him, and had lied in regard to his
 half-brother, and ended by saying that she hoped Armuck -
 juark would not die if he should be stabbed by the other
 people.
 
-Armuckjuark returned to his house. Early the next morn¬
-ing he asked Eccootlikechark which way the wind was blowing.
+Armuckjuark returned to his house. Early the next morning he asked Eccootlikechark which way the wind was blowing.
 She retorted that he might find out by going out himself.
 Then he took hold of her hand with both of his, pulled her
 fingers apart, and split her hand and arm up to the elbow. 1
@@ -13720,17 +11528,13 @@ the people who were pursuing him came to the tent. Then
 1 Compare p. 299.
 
 
-i9oi.j Boas , Eskimo of Baffin Land and Hudson Bay . 33 1
-
-
 his mother made him lie down on the ground, and covered
 him up. The people asked the old couple if they had seen
 any one coming that way. They replied that no one had
 come, and invited them to rest, and gave them to eat. Soon
 the people left, believing Artinarkjuark to be dead.
 
-Soon his wounds healed, and he staid with his parents, hunt¬
-ing. During this time he made a beautiful set of clothing for
+Soon his wounds healed, and he staid with his parents, hunting. During this time he made a beautiful set of clothing for
 himself, and one for a woman. In winter he went back to
 his own village, and when the people saw him coming they
 recognized him at once. The man who had stabbed him in
@@ -13738,8 +11542,7 @@ the side, and who thought that he had died of his wound, had
 carried a charm as a protection against Artinarkjuark's spirit.
 When he saw Artinarkjuark alive, he dropped the charm when
 no one was looking. Artinarkjuark now called his wives, one
-of whom came quickly. He asked her to take off her old duck-
-skin suit, which he tore to pieces, and gave her the beautiful
+of whom came quickly. He asked her to take off her old duckskin suit, which he tore to pieces, and gave her the beautiful
 clothes which he had made. He would not have the other
 woman because she did not come at once when he had called.
 
@@ -13767,16 +11570,12 @@ but at that moment the man jumped through the window and
 1 See Boas, Central Eskimo, p. 636.
 
 
-33 2 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 made his escape. He told his companion what had happened
 to him, and from this time on he was a great angakok.
 
 30. The Owl and the Bear .
 
-Once upon a time an Owl was watching the hole of a Lem¬
-ming, when a Bear came near. The Owl said to the Bear,
+Once upon a time an Owl was watching the hole of a Lemming, when a Bear came near. The Owl said to the Bear,
 “ Why are you always walking about? ”
 
 The Bear . Why are you always standing by the side of the
@@ -13799,9 +11598,6 @@ and, when he was close to the Bear, the latter caught him
 in his mouth and killed him.
 
 
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay . 333
-
-
 VI. TEXTS FROM CUMBERLAND SOUND.
 
 I. ITIQTAUJAQ.
@@ -13809,370 +11605,22 @@ I. ITIQTAUJAQ.
 The following version was recorded and translated by
 Rev. E. J. Peck: —
 
-Inuk angutilukaq atelik Itiqtaujamik nuliaqanginame
-A person an ugly man having Itiqtaujaq as he had no wife
-the name
-
-soursit najaksuktut tupimgme, ananangit umiartangmeta,
-
-children staying at in the tent, their mothers since they had
-home gone in a boat,
-
-tamna Itiqtaujaq tupimgmut panganungmat atausirngmik
-
-that Itiqtaujaq to the tent when he went to one
-
-its entrance
-
-nukakpiamik anijuqarpoq, aningmat, anijoq oqautiva,
-
-boy there was one because he the one who he said
-
-who went out, went out, went out to him,
-
-“ Najoksuktut piulenginikanijuqagle.”- 4 Kinauna, oqarqa?”-
-“Those who stay one of their let her come “Who is he, did he
-at home best ones out.”— say?” —
-
-“Netsiasuase taimaliniaqutit ” tamna nukakpiaq oqarpoq
-
-44 Netsiasuase you will make it so ” that boy said
-
-kinaunaraktaugame Netsiasuasemik qaujimanginame, tamna
-
-when he was asked who Netsiasuase because she did that
-
-he was not know,
-
-nukakpiaq anijoqangemet, Itiqtaujaq nunamut pisulerpoq.
-boy because he did Itiqtaujaq to a country began to
-not go out, walk.
-
-Arngnalukanik takugame tessingmetunik iperaksaktunik
-
-Women when he saw those in a lake wading,
-
-ijeraktoqtune upalorpat qaujetinagit kamingit tigudlugit.
-
-hiding he went to not letting their boots taking
-
-them them know them.
-
-Qaujegamik kamingmingnik tuksialukput, “ Kamika qaikik!”
-When they about their boots they begged, “My boots bring
-knew them!”
-
-Ilungit tunidlugit, atausiup kamingit tuninagit, kaming-
-
-Some of giving them, one her boots not giving for
-
-them them,
-
-
-334 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-mingnik tuksiangmet oqautiva, “ Nuliaqtareniarapkit.”
-her boots because she he said to her, “ For I will have you for
-begged my wife.”
-
-Aqaqp°q. Oqautiva, “ Qainiarapkik angeruvit qainiaq-
-
-She said, He said to “ For I will bring if you I will
-
-“No!” her, them to you consent bring
-
-taka. ’ ’—‘ ‘ Kamika qaikik. ’ ’—‘‘ Nuliaqtareniarapkit. ’ ’ Asuila
-
-them.” — “ My boots bring “ For I will have you for So it hap-
-
-them.”— my wife.’ pened
-
-angemgmet. Tunivak. Nuliarilerpoq. Narrelerpoq. Tamna
-that she He gave She came to be She began to That
-consented, them to her. his wife. be pregnant.
-
-nulianga Nugluk emingmet angomik qitorngaqalerpoq.
-
-his wife Nugluk when she to a male she began to have
-gave birth a child.
-
-Nutaraulaktune angijolungmet inuit aqvimgmeta, aqvio-
-Having been an when he began the when they had when
-infant to be large people caught a whale,
-
-lungmeta arngnalukelo neqemik tigolungmeta, tamna Itiq-
-
-they were and the women the meat when they were that Itiq-
-flensing taking it,
-
-the whale,
-
-taujap nulianga sujangaingmet, uingata neqemik egitsi-
-
-taujaq his wife because she was her hus- meat because
-clean, band
-
-vegingmago qialiktune imaup sinane pisulerpoq. Sulungnik
-
-he threw it weeping the at its she began Feathers
-
-upon her water edge to walk.
-
-nuatsilune amissulungmeta, suluit aggangme akonaujangenut
-picking up when they became the her own to their joints
-many, feathers hands
-
-kaputidlugit, eminelo tingivok. Inuit takogamik tingingmet
-inserting them, and her they two The when they that she
-son flew away, people saw flew away
-
-oqarput, “Itiqtaujap nulia tingitaqpoq.” Taimaliolungmeta
-
-said, “ Itiqtaujaq his wife has learned to This being so,
-
-fly.”
-
-Itiqtaujaq maliksarpoq ingertune. Imaq ingerpoq: —
-
-Itiqtaujaq followed at singing. Thus he sang: —
-once
-
-
-Avunga avunga pisukpagasukpunga qilaup putuanut, tingmi-
-North- north- I am inclined to the sky to its hole, the
-ward ward walk
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay. 335
-
-
-tjetnunanut. Nutitauq una? Ukusikdjuagle tirtituqagle
-birds to their What is it that But a large kettle boiling much
-country. appears ?
-
-uniakvekaujajutjangitoq negukvekaujajutjangitoq kisi-
-
-being like a place that being like a place that only
-
-cannot be passed, cannot be avoided
-
-anitauq ogitigut maujaraktunga kangirivuka.
-
-also through I who am like one I passed them,
-
-those stepping from one piece
-cooking, of ice (meat) to another
-
-Avunga avunga pisukpagasukpunga qilaup putuanut, tingmi-
-North- north- I am inclined to walk the sky to its hole, the
-ward ward
-
-tjetnunanut. Nutitauq una? Qudliqdjuagle eqtuktoq-
-birds to their What is it that But a large lamp but that
-country. appears?
-
-djuagle uniakvekaujajutjangitoq nigovekaujajutjangitoq
-
-large being like a place that being like a place that
-
-flame cannot be passed, cannot be avoided
-
-kisianitauq oqomatigut maujaraktunga kangirivara.
-only also through pieces I who am like one I passed it.
-of blubber, stepping from
-
-one piece to another
-
-Avunga avunga pisukpagasukpunga qilaup putuanut, ting-
-North- north- I am inclined to walk the sky to its hole, the
-ward ward
-
-mitjet nunanut. Nutitaut okoa? Aktaqoagle ingmenule
-
-birds to their What are those But two but to
-
-country. that appear? monsters themselves
-
-okoa mikiotejuk kisianiletauq aqoatjuka ilakungortugit
-
-these biting off but only also my coat- they mutilate
-
-from each other tails them
-
-kangirivuka.
-
-I passed them.
-
-Avunga avunga pisukpagasukpunga qilaup putuanut, tingmi-
-
-North- north- I am inclined to walk the sky to its hole, the
-ward ward
-
-tjet nunanut. Nutitaut okoa? Ujarasukjuk ingmenule
-
-birds to their What are those Two large but to
-
-country. that appear? stones themselves
-
-okoa kasutjatuqdjuak kisianiletauq aqoatjuka ilakungor-
-these the large ones but only also my coat- they muti-
-closing quickly tails
-
-together
-
-tugit kangirivuka.
-
-late I passed them.
-
-
-336 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-Avunga avunga pisukpagasukpunga qilaup putuanut, ting-
-North- north- I am inclined to walk the sky to its hole, the
-ward ward
-
-mitjet nunanut. Nutitauq una? Eqaluqdjuq eqa-
-birds to their Who is it appears? Eqaluqdjuq one
-country. that
-
-liuktuqdjuaq.
-
-busily engaged in
-making fishes.
-
-Tamnagoq inuk takogamiuq upalerpa qaujeqaqtinago,
-That one it man when he saw he met before he knew it,
-is said him him
-
-tamna Eqaluqdjuq tapsominga Itiqtaujamik aperevoq,
-
-that Eqaluqdjuq that one Itiqtaujaq he ques-
-
-one tioned,
-
-‘ 4 Nakit tikipinga ? ’ ’ Tamnagoq Itiqtauj aq kiovoq, 4 4 Uvungat
-
-“Where do you come That one it Itiqtaujaq replied, “ From
-
-from tome?” is said here
-
-senevudliaqungne tikipagit.” Tamnagoq Eqaluqdjuq oqar-
-close to your side I came to That one it Eqaluqdjuq said,
-you.” is said
-
-poq, “Uvangat tagva tikitguvinga ulimasukgaloaktutit. ,,
-
-“From here this if you had I indeed being inclined to
-
-is so come to me chop you with my axe.”
-
-Tamnagoq Eqaluqdjuq eqalungnik senayoq qijungmik uli-
-That one it Eqaluqdjuq salmon he who wood
-is said made
-
-mavlugo imanut igipungmagit umarput. Tamnagoq Itiqtau-
-
-chopping to the when he threw they be- That one it Itiqtau-
-
-lt water them came alive. is said
-
-jaq aperevoq tapsominga Eqaluqdjungmik, 44 Nuliakakvika
-
-jaq questioned that one Eqaluqdjuq, “My places
-
-having a wife
-
-qauj elauksimungenevigit ? ’ ’— 4 4 Kinakakoa qeqertapekulung-
-
-have you not known of them ? ”— “ What are on the beautiful
-
-these little island
-
-me kitgutjaujatarput?”—“Oma eqalup pamiadlogo singanut
-looking like stones ? ”— “This salmon of its tail to the end
-qajartorlutit upalikit sikungerlutit. ,,
-you going in you meet closing your
-a kayak them eyes.”
-
-Asuila. Ikivoq sikungertune qajartalektune uigasakgame
-So it He em- closing his eyes getting a kayak when he almost
-happened, barked opened his eyes
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3 37
-
-
-qajaugasarpoq pautinga nunamut aktosingmet, erninegoq
-
-he almost cap- his paddle to the land when it touched, his son it
-sized is said
-
-oqautiva, “Ananagoq atergle tikitgama.” Asuila, majo-
-he said “Your mother,” “let her for I have So it hap- he go¬
-to him, he said, come down, arrived.” pened,
-
-artune ananane oqautiva, “Atatagagoq tikingmet aterit!”
-ingup his mother he said “ My father said for he has go
-
-to her, come down!”
-
-Tamna anananga kiovoq, “Atatalena tikenasuga, atatalena
-That his mother replied, “But your mine what I but your
-
-father thought would father
-not come for a
-long time,
-
-navoqoangnut 1 nelevoqoangnut 1 qemajuvavoq.”
-to the great to the great we two left
-
-distance distance him.”
-
-Aterngmet majoalirpoq seneligle tamna oqarpoq, “Ikter-
-
-When (the (the father) but she that one said, “Great
-son) went down went up had one
-
-by her side
-
-vikdjuaq pingna qaitjuq sulungnik tetirtoq.” Aqonaujang-
-box that bring it feathers bring full.” To his finger-
-menut kapojurtutelugit tingivoq nunaqatingedlo. Nulianga
-
-joints causing them to he flew and his neighbors. His wife
-be put on away
-
-tingelangmingmet tamna pilungmago manikdjuit katakatut.
-also beginning to that one when he many eggs many fall-
-
-fly away cut her ing out.
-
-
 Translation.
 
 There was a man named Itiqtaujaq who had no wife, and
 because he wanted a wife he went in search of one. Some
 children (young people) were staying in a tent while their
-mothers were away in a boat. Itiqtaujaq, during his wander¬
-ings, saw this tent, and on going to the door of the same, a lad
+mothers were away in a boat. Itiqtaujaq, during his wanderings, saw this tent, and on going to the door of the same, a lad
 came out. Itiqtaujaq then said to the lad, “Let one of the
 most beautiful girls come out.” The lad went in and delivered
 Itiqtaujaq’s message; but one of the girls said, “What doep
 
-
 [December, jgor J
-
 
 1 Said to be an obsolete word.
 
-
-3 3 8 Bulletin American Museum of Natural History . [Vol. XV,
-
 he call himself? Who is he?” The lad answered, ‘‘He told
-me to say that he is called Netsiasuase.” The girl, not know¬
-ing a man so called, did not heed his request; and the lad,
+me to say that he is called Netsiasuase.” The girl, not knowing a man so called, did not heed his request; and the lad,
 having no message to deliver, did not go out to Itiqtaujaq.
 Itiqtaujaq now journeyed on again, and came to another land.
 Here he saw some women walking with bare feet in a lake (by
@@ -14185,8 +11633,7 @@ one); and when she asked for her boots, he said to her, “ I will
 have thee for a wife.”—‘‘No,” she said; but he said to her,
 “ I will give thee thy boots if thou consentest to be my wife.”
 —“Bring my boots,” she kept on calling out. “I will have
-thee for a wife,” he kept on saying. At last, when she con¬
-sented, he gave her boots to her. She then became his wife.
+thee for a wife,” he kept on saying. At last, when she consented, he gave her boots to her. She then became his wife.
 She conceived and brought forth a child, and they had a son.
 
 Now, when this child grew up, the people caught a whale;
@@ -14197,8 +11644,7 @@ threw some meat on her garments. Being displeased, she
 went away by the seashore, weeping. Now, there was a lot
 of feathers by the shore. She picked these up and put them
 between her finger-joints, and both she and her son then flew
-away. When the Eskimo saw her fly away, they said, “ Itiq¬
-taujaq’s wife is flying away.” Because they said so, Itiqtaujaq
+away. When the Eskimo saw her fly away, they said, “ Itiqtaujaq’s wife is flying away.” Because they said so, Itiqtaujaq
 followed after her, singing, in this manner, —
 
 “Away there, away there! I am ever inclined to walk to the
@@ -14212,11 +11658,6 @@ Away there, away there! I am ever inclined to walk to
 the hole of heaven, to the land of the birds. Now,
 what is this which appears again? It is a great lamp
 which is burning brightly. Now, this lamp can in no
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 339
-
-
 wise be passed by going around it, but only by stepping
 on the burning pieces of blubber did I pass on.
 
@@ -14242,8 +11683,7 @@ is busily engaged in making fishes.”
 Now it is related that before Eqaluqdjuq knew of the other
 man’s coming, he (Itiqtaujaq) went to him. When he
 reached Eqaluqdjuq, he (Eqaluqdjuq) said to him, “From
-where, from what direction, didst thou come to me?” Itiq¬
-taujaq answered, “Just close from thy side I reached thee.”
+where, from what direction, didst thou come to me?” Itiqtaujaq answered, “Just close from thy side I reached thee.”
 It is related of Eqaluqdjuq that he said to Itiqtaujaq, “ If thou
 hadst approached me from my front (in the direction of my
 face), I would certainly have chopped thee with my axe.”
@@ -14262,9 +11702,6 @@ So he embarked, having the fish’s tail for a canoe. While
 he was going to the islands, (out of curiosity) he just opened
 his eyes (a little way), and he was almost capsized. When
 the paddle of his canoe touched the land, he opened his eyes
-
-
-34 ° Bulletin American Museum of Natural History. [Vol. XV,
 
 (wide), and saw his son. “ Let thy mother come down to the
 beach,” he said, “for I have arrived.” The son then went up
@@ -14289,22 +11726,15 @@ a native of Cumberland Sound.
 Tavunga avunga pisupagasupunga tigmidjen nunanun, silap
 North- north- I am inclined to walk the birds their coun- the
 ward ward try to, world
-
-putuanun. Nutitaun okoa? Quliqdjuaq una niguvikssau-
-
-its hole to. Who are those A lamp that being like
+putuanun. Nutitaun okoa? Quliqdjuaq una niguvikssauits hole to. Who are those A lamp that being like
 that appear ?
 
 vadjut j angitung qangij oqssauvadjut j angitung kisiani
 a place that cannot being like a place that cannot be only
 be avoided passed
-
 okoa oxomeangitigun maojardlunga tavunga imna
-
 those through pieces of I step up there that
-
 blubber one
-
 pisutalupurnalirmijunga.
 
 I one who must walk again. (?)
@@ -14312,19 +11742,12 @@ I one who must walk again. (?)
 Tavunga avunga, ... (as before). Ukusikdjuarle tirti-
 
 North- north- etc. But a large but one
-
 ward ward, kettle that
-
 tukdjuarle nuname mane niguvikssauvadjutj angitung
 is boil- on the now being like a place that cannot be
 ing much land avoided
 
-
 1 See also F. Boas, Central Eskimo, p. 655.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 341
-
 
 kisiani okoa ovingnitigun maojardlunga, ... (as before),
 only those through those I step, etc.
@@ -14333,11 +11756,8 @@ cooking
 Tavunga, ... (as before). Aktlirtuang okoa miketuqdjuang
 
 Northward, etc. Two aktlaq those biting
-
-kisiani okoa aqoardjukadle ilakungu'luin, pisutalupurna-
-only those but my coat- they mutilate, I one who must
+kisiani okoa aqoardjukadle ilakungu'luin, pisutalupurnaonly those but my coat- they mutilate, I one who must
 tails walk
-
 lirmijunga.
 
 again. (?)
@@ -14345,19 +11765,14 @@ again. (?)
 Tavunga, ... (as before). Okpadjuang okoa nuname mane
 
 Northward, etc. Two thighs those on the now
-
 land
-
 nigovikssauvadjurtjangitung kisiani okoa pilaomejoving
-
 being like a place that cannot only those ?
 
 be avoided
-
 pisutalupurnstlirmi j unga.
 
 I one who must walk again.(?)
-
 
 “ Nakin tikipinga? ”—“ Manga sivuardnin tikipagin.” —
 “Where did you come “ Here from your front I came to
@@ -14366,17 +11781,11 @@ from tome?”— you.” —
 ‘‘Manga tagva. Tunune tikikuvinga omunga ulimasukgalo-
 “From it is so. From the if you come with this I will chop you
 here back to me one with
-
-arikin. ,, —“ Nuliaqavika qaujimangnieletin? ”—“ Kanakakoa
-
 my axe.” — “My wife’s may you not know “What are
-
 place them?”— these here
-
 qeqertakulume qigotluitlerpun? ”— 44 Uitaililutit qajartulirin,
 on the small looking like stones?”—“ Keep your go in kayak,
 island eyes shut
-
 uij eragovin qaj auterperavin.” — “ Anaigoung atirdlen.” —
 every time you you capsize.” — “Your mother let her come
 open your eyes he says down.”—
@@ -14384,22 +11793,13 @@ open your eyes he says down.”—
 “Atatagoung tikingmen aterit!”—“Atatlena tikinesuga,
 
 4 4 My father said for he has go down! ’ ’— 4 4 But your mine what
-
 come father I thought
-
 would not come
 for a long time,
-
-atatlena javaqduanun qimajujavong, silap putuanun qima-
-but your to the great we two left him, the to its hole we
+atatlena javaqduanun qimajujavong, silap putuanun qimabut your to the great we two left him, the to its hole we
 father distance sky
-
 jujavong. ,,
 two left him.”
-
-
-34 2 Bulletin American Museum of Natural History. [Vol. XV,
-
 
 The following version of the song was sung at Qivitung on
 Davis Strait by an old woman: —
@@ -14407,79 +11807,19 @@ Davis Strait by an old woman: —
 Tavunga avunga aivirgasupunga pisupagasupunga qilap
 North- north- I am inclined to I am inclined to walk the
 ward ward travel (?) sky
-
-putuanun, tigmidjen nunanun, tavunga imnapisutalunga-
-to its hole, the birds to their north- that where I must
+putuanun, tigmidjen nunanun, tavunga imnapisutalungato its hole, the birds to their north- that where I must
 country, ward
-
-palirmigema. Taimnatauq, quliqtuaq irtirtuktuaq
-go on. (?) That also, a large lamp a large flame
-
-kisianitauq oqomeangitigun maojartlunga qangimijiqo-
-onlyalso through pieces of I step (?)
-
-blubber
-
-taimangaima sapidlirigema, tavunga ima aitadlunge-
-
-when I am tired northward thus when I must
+taimangaima sapidlirigema, tavunga ima aitadlungewhen I am tired northward thus when I must
 already,
-
 apalirmigema.
 travel on.
-
-Ukusikdjuaq tirtituqdjuaq, kisianitaoq ovingitigun mao-
-A large kettle boiling much, only also through those
-
-cooking
 
 jartlunga qangimijiqotaimangaima ... (as before).
 I step (?) etc.
 
-Taimnatauq, takoataoq aktartuqdjuang mikietuqdjuang
-That also, those also two aktlaq biting much
-
-kisianitauq aqorikuluving qangimijiqotaimangaima . . .
-only also having small (?) etc.
-
-coat-tails (?)
-
-(as before).
-
-Takoataoq uj arasukdjung qaj artaqtuqdjung kisianitaoq
-
 Then also two large stones closing quickly (?) only also
 
-aqoritiving qangimijiqotaimangaima ... (as before),
-having coat- (?) etc.
-
-tails (?)
-
 2. THE GIRLS WHO WERE CRUSHED BY A LARGE ROCK.
-
-Taipkoatauq amaktuaquk niviarsiak imnag 5 q senianetoq
-Those also who carried in- two girls a cliff it is which was
-fants in their hoods said by the side
-
-imnaaluk okpitangmet ilingatangmet kauktaulungnarpuk
-
-the dread- when it fell when it so they two were crushed
-ful cliff over happened
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 343
-
-
-toqungnarpuk ujaraqenut adliutjaugamik pitsiulaungnarpuk
-
-they were killed by the stones because they were they turn into sea-
-
-shut in pigeons
-
-taipkoa inuk amaktuaquk.
-
-those two who carried infants
-persons in their hoods.
 
 Translation .
 
@@ -14491,37 +11831,23 @@ were turned into sea-pigeons.
 
 3 . THE WOMAN WHO BECAME A LOON.
 
-Taimnalo qarsartivenuk erngautanga qajaqtoartune
-And that one who became a loon her grandson goingaboutin
-
-a kayak
-
 savingmet nunamauunailingmet taimna ananatsianga
-when he was when he did not come that one his grand-
-separated to the land mother
-
-qaigalalungnerpoq imaq: “Erngautaq, akssut paorit!”
-
+when he was when he did not come that one his grandseparated to the land mother
 she commenced to thus: “Grandson, strongly paddle!”
 
 shout
 
 Taimna emgautalik maliksanerpoq qarsauktune erngauta-
-That one having a she followed when she be- her grand-
-grandson came a loon
-
+That one having a she followed when she be- her grandgrandson came a loon
 menik. Savingmet erngautanga qajaqtoartoq soruseq
 son. When he was her grandson going about in the boy
 separated a kayak
-
 taimna ananatsianga nipatuinalungnorpoq erngautamenik
 that one his grand- she only cried for pain for her grandson
 mother
-
 ungajoq erngautaq nunamauunailingmet qajaqtoartune.
 she who her grand- when he did not come going about in
 longed son to the land a kayak,
-
 for
 
 Translation.
@@ -14530,74 +11856,11 @@ And there was one who became a loon. Her grandson
 went away in his kayak, and was driven away from the land.
 His grandmother began to shout, “Grandson, pull hard, pull
 hard!” The woman, while following her grandson, was
-
-
-344 Bulletin American Museum of Natural History. [Vol. XV,
-
 turned into a loon. When he was driven away.from the land,
 his grandmother continued to cry from grief, because she
 longed for her grandson, who could not reach the land again.
 
 4. BALL-SONG. — I. 2
-
-(B) Qolurpajause qolurperpajause sugivanga pangmane,
-(P) Qoleqpayuse qoleqpayuse sugevangma pangmane,
-You are up on you who are up thou descend- mine above
-high on high est on me me,
-
-(B) majoriva pangmane. Aivagouq niaqoa akdjekavong
-(P) majoreva pangmane. Aiviupgoq neaqoa akssakavoq
-it goes up mine above A walrus it its head it rolls
-again me. is said
-
-(B) pangmane, akdjaguteqortuta saema, aksseguteqortuta
-(P) pangmane, akssakotekoktota samma, okigeyakoktota
-mine above let us cause them to samma, let them be for us
-me, turn round repeatedly quite light
-
-(B) sema, sadla', sadlala', atagoana ijijivatseung tigmia-
-(P) samma, sala, salala, atagoana ilagevapsiuq tingmiak-
-samma, sala, salala, one going for he is your a little bird
-
-down partner
-
-(B) raqdjung ijivatse'ung audlartoung audlartoung qigo-
-(P) juq ilagevapsiuq audlartoq qigu-
-
-for he is your he who goes he who goes to a
-
-partner away away heap
-
-(B) nun amama; audlatadlirivung qaqovaitsiarane
-
-(P) nut qigunut amama; audlaktalerevoq qagutseararane
-of to a heap amama; it is going away not calling out
-stones of stones again
-
-(B) qaqoaqdjutartune tusaguadlirame
-
-(P) qaguaqdjutaqtune tusayuanarane aujegame mamutje-
-one getting a little not being heard when it is for it eats
-voice much summer with a
-
-relish
-
-(P) game eqaluktorame aija. Pangniqdjuaq nedlarpoq
-because it eats aija. The caribou rests
-
-fish buck
-
-(P) kutsenatarejarame.
-because it has fat again
-on its hind quarters.
-
-1 The cry of the loon is said to be the longing cry of the old woman.
-a See Boas, l. c., pp. 570, 657. The first line is the song as recorded by myself in
-1883; the second line, the record made by Mr. Peck.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 345
-
 
 Translation .*
 
@@ -14615,20 +11878,11 @@ buck lies down, for its haunches are fat again.
 I recorded another song quite similar to the preceding in
 1883: —
 
-Qolurpajause qolurperpajause sugivanga pangmane, ma-
-joriva pangmane. Aivagouq niaqoa aqsagotidorkulu oqigi-
-mine above A walrus its head it rolls (?) when
-
-me. it is said they
-
-arkodulu sala, atagoana ijijivatseung tigmeraqdjung audlar-
-are light sala, one going for he is your a little bird he who
+arkodulu sala, atagoana ijijivatseung tigmeraqdjung audlarare light sala, one going for he is your a little bird he who
 for us (?) down partner goes
-
 toung qigonun uqalirotiune atinikun pokierpoq, akakaja.
 away to a heap turning into a from un- it escapes, akakaja.
 of stones rabbit der me
-
 
 Translation.
 
@@ -14640,14 +11894,8 @@ down is a little bird. He who goes away to the heaps of
 stones turns into a rabbit which escapes from under me.
 Akakaja.
 
-
-. 1 The ball-songs are very disconnected, and difficult to understand. The free trans¬
-lation is therefore somewhat doubtful in its connections. The game is played with
+. 1 The ball-songs are very disconnected, and difficult to understand. The free translation is therefore somewhat doubtful in its connections. The game is played with
 several small pebbles, which are thrown and caught in one hand. — E. J. Peck.
-
-
-346 Bulletin American Museum of Natural History. [Vol. XV,
-
 
 5. BALL-SONG. — II. 1 2
 
@@ -14660,16 +11908,11 @@ never uppermost you,
 
 (B) aileta, ailita, ailita, kokilita, kokilita nanunudlo tuk-
 
-(P) aileta, — — kokileta, kokileta nanunulo tuk-
-
-let us let us let us let us pick let us pick and to the and
-
+(P) aileta, — — kokileta, kokileta nanunulo tuklet us let us let us let us pick let us pick and to the and
 go, go, go, our teeth, our teeth, bears
 
 (B) tunudlo qatiktanudlo. Sunauvaina puirvalang, manu-
-(P) tunulo qatiktanulo. (menu-
-
-to the and to those It was this it was a blow- to the
+(P) tunulo qatiktanulo. (menuto the and to those It was this it was a blow- to the
 caribou that are assembled. ing seal, collar
 
 (B) minun kokilita. Aqbing taqtatsivung taqtalaitsivung
@@ -14680,202 +11923,15 @@ pillar ) 4 snow snow
 
 (B) aigema ailigema qamamanga ttimamanga tuqojaq
 (P) aigama una
-
 for I go this for I begin (?) (?) the larynx
-
 way to go
 
-(B) qutormiutang anirnirdliaqdjuaraqdjung poqdjuatale
-
-the collar-bone (?) (?)
-
-(B) qoretsinatale alixaga maqoning, alixaitsira pingaso-
-
-(?) my sister two, my— three
-
-(B) ning uvangale atautsiming niuqtuqaraka qajurtuqavaka
-
-but I one
-
-(B) imirpaka.
-
-NOTE.
-
-This song is very disconnected; and the end, which is not contained
-in Mr. Peck’s version, is so doubtful that I have not attempted a
-translation. The following rendering was obtained by Mr. Peck
-from the Eskimo. “The player addresses another one as follows:
-‘This my stone which is never uppermost, I send it to you. Take it!
-Now let us go to the bears and the caribou that are gathered together.
-Let us pick our teeth! These small caterpillars which move up and
-down are like ourselves walking in the soft, sloppy snow; for we go
-up and down.’”
-
-
-1 The first line is the song as recorded by myself in 1883 ; the second line, the record
-made by Mr. Peck.
-
-2 Words in parentheses are translations of Mr. Peck’s version.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 347
-
-
-6 . BALL-SONG.-III.
-
-
-Igdluaquapik!
-
-Dear partner!
-
-
-pataqtualaugluk
-let us two strike
-very hard (with
-our palms),
-
-
-qailaurit
-
-come,
-
-
-patalaugluk patatalaugluk
-let us two strike let us two go
-(with our palms), on striking
-
-(with our palms)
-
-
-igdlukitaqatalaugluk.
-let us two play ball
-together.
-
-
 7. BALL-SONG. — IV.
-
 
 Nutale okoa? amarauqet tikigaptigo
 But new those ? many wolves for we come
 ones ap- to them
-
 pearing
-
-
-neresimajuqet
-those who are
-eating much
-
-
-nerij omatangmelaptalo sinigonaj angmenatiglo
-
-and we also wish to get food and they would not also
-
-wish to sleep;
-
-uivarenarivavut uivavave! imnaluk amgnaluk
-
-we go around them uivavave! that great the big
-
-one woman
-
-
-qaqqaqet
-the moun¬
-tains
-
-Palungaluk
-
-Palungaluk
-
-
-pingujauktuqongmet pinguktataignarapko pamiadluatarpoq;
-for she pushes back when I first pushed her she lost the tail of
-much her j acket;
-
-
-oja sivaya qamane.
-
-boiled dry inside,
-
-food boiled
-
-(seaweed) seaweed
-
-
-Pisereniartara
-I will have this
-for my song
-
-
-piserijaulerpa?
-
-
-is it not made a
-song?
-
-
-NOTE.
-
-The ball-player seems to consider four subjects, — the wolves, the
-mountains, a woman named Palungaluk, and boiled seaweed in a house.
-The following is said to be the meaning of the song: “What are these
-which come so unexpectedly in sight ? They are wolves which we have
-reached, which have satiated themselves, and which do not sleep.
-They pursue the caribou on the mountains; and we avoid these
-mountain-tops by going around them while the wolves pursue the
-caribou over the mountains. And that great clumsy woman, Palun¬
-galuk, who always pushed her neighbors, but the first time I pushed
-her she fell down, and in falling the tail of her jacket was broken off.
-And the boiled seaweed and the dry boiled seaweed is inside the house.
-This is the song which I will have for my song. Is it not made a song ? ”
-
-
-348 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-8 . BALL-SONG.-V.
-
-Amarogle malingnikpoq tuktomigle tuktomigle maling-
-
-But a wolf followed but the but the he fol-
-
-caribou caribou
-
-nikpoq malingnikpoq. Tulugaq pangina qauqpaktoq ;
-
-lowed he followed. The raven up there who always calls
-
-qauq;
-
-sunauvagoq. Operngaqtenik nunivakgame; audlangoyaqtuta,
-
-what is it ? it Things of the for he (the raven) we going
-
-is said. spring gets berries; travelling,
-
-qemuksingoyaktuta; audlartulo makoa, qemuksuktulo makoa;
-we driving with a and these, these, and these who these;
-sledge; who go go driving
-
-travelling
-
-tamna pegakaktune; uimgangnak iluangetoq atoasoq.
-that one having been don’t be tired being not being of
-awake; good no use.
-
-NOTE.
-
-The composer of the song is said to refer to the following: A wolf
-followed a caribou and killed it. A raven came and ate of the carcass.
-Having satisfied its hunger with meat, the raven feasted upon berries,
-which are uncovered in the spring-time, when the snow melts. Now
-the composer fancies himself with his family moving about in spring
-on loaded and on empty sledges. He also thinks of his neighbors
-moving about in the same manner. He now considers the long days in
-spring, and thifiks of a good hunter being awake day and night. He
-addresses him: “Don’t be weary, for of what use is the hunter who
-cannot be awake day or night!”
 
 9. BALL-SONG.-VI.
 
@@ -14883,965 +11939,6 @@ Nerlasalo kangoatsalo aulajut qangidlajut ukiarultomut
 And many and many those those which to the place
 geese small geese which pass by without winter
 move
-
-ailungmegutik utilungmegutik amatauq taipkoa pilau juge-
-
-when they are when they are again also those they did
-going again returning again also.
-
-vut. Ugjuaqtaline ugjuqtalinijuqaminegoq eqaqtuegame
-In the place in his own place which has for he had it
-having ground-seals ground-seals, it is said in mind
-
-pangniqangnuglo nuqatukaniglo. Inung imna uvamnule
-
-and the buck and the nice Man that but to me
-
-caribou young caribou.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 349
-
-
-nelangailoatsiaungnarivoq ipsomanema satortome tainak-
-he is able to make himself (of) that one in the place for it
-quite deceptive. of flat stones
-
-sojungmet taivara. Iglomiulegoq aso, nerevujujut aqpe-
-
-was so called I named But the people it is those who berries
-
-it. of a house it so, are accus-
-
-is said tomed to eat
-
-niglo paungeniglo naujanekiaq neqeqarpaktutik ukiaqsevuk-
-(rubus ) blueberries I do not know they are accus- those who
-and about gulls tomed to have spend the au-
-
-food tumn at a cer-
-
-tut. Atataquauluga oqaunavara aperenavara nau tuktu?
-tain My wonderful I like to tell I like to ask where a cari-
-place. father him him bou ?
-
-Taika, taika, qeqertaqausaktalingme pukugpoq, pukomak-
-
-There, there, at the place having a it eats only one
-
-small island berries, little one
-
-tuaqoq, pukugpoq, pukugpoq.
-
-eating it eats it eats
-
-berries, berries, berries.
-
-
-350 Bulletin American Museum of Natural History. [Vol. XV,
-
-
-VII. LIST OF ANGAKOK WORDS 1 COLLECTED BY
-REV. E. J. PECK.
-
-
-ENGLISH.
-
-ANGAKOK WORD.
-
-ORDINARY WORD.
-
-his or her adopted
-
-kwaluksotyanga panniksanga
-
-daughter
-
-
-air
-
-nakjuk
-
-silla
-
-angakok
-
-takreoot
-
-angakok
-
-— one who is acquiring
-
-
-the art of the anga¬
-
-koumuksakkak
-
-angakokteratak-
-
-kok
-
-
-tok
-
-animals, small land, or
-
-
-small land birds
-
-tingmityet
-
-noonameootet
-
-beads
-
-noovela
-
-sappemgat
-
-bears, polar
-
-orksualet
-
-nennuet
-
-bed platform
-
-nellaktokvik
-
-iglek
-
-berries
-
-tekkonatinget
-
-paungat
-
-bird
-
-kungatauk
-
-tingmeak
-
-one who gives birth
-
-
-to a child
-
-oodlalayok
-
-oodlalayok
-
-blanket of bed
-
-oolegooveak
-
-kipik
-
-boat
-
-agyak
-
-oomeak
-
-bones
-
-auvet
-
-sounet
-
-caribou (pi.)
-
-kungelit
-
-tuktoet
-
-cascade
-
-makkeyok
-
-koaluk
-
-child
-
-kalluketok
-
-soorsuk
-
-—, his
-
-kwanga
-
-kittornganga
-
-— having a child
-
-puyuaktok
-
-kittorngalik
-
-childless, one who is,
-
-kwakangetok
-
-kittomgakangetok
-
-clothing
-
-annukset
-
-annoat
-
-clothing, material for
-
-okomatiksamik
-
-annoaksamik
-
-1 In this list Mr. Peck’s spelling has been retained.
-
-i = ai
-
-u often = a
-
-
-ou = an
-
-kr = q
-
-
-oo = long u y = j
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay. 351
-
-
-ENGLISH.
-
-ANGAKOK WORD.
-
-ORDINARY WORD.
-
-they two who converse
-
-kannuksoktook
-
-okaraseyaktook
-
-cup for drinking
-
-neooreoot
-
-—
-
-dead
-
-poodlakangetok
-
-tokkongayok
-
-— one just deceased
-
-poodlasuktok
-
-tokkoataktok
-
-dogs
-
-pungoet
-
-kingmet
-
-one who dreams
-one who dresses cari¬
-
-kotyayok
-
-sinnatuktok
-
-bou-skins
-
-those who drive an
-
-ivyorittok
-
-tedlikseyok
-
-empty sledge
-
-kallaluktut
-
-kemmuksuktut
-
-ears
-
-sudluktak
-
-seootek
-
-one who eats
-
-Ipuktok
-
-nerreyok
-
-elderly person
-
-okamalisayok
-
-ittokvalektok
-
-entrails
-
-toungarat
-
-erkravenet
-
-— of animals
-
-searoat
-
-inneloet
-
-European
-
-kidlalet
-
-kablunak
-
-eyes
-
-tekkonatek
-
-eyek
-
-father, his
-
-nayungmata
-
-atatanga
-
-feet
-
-tudlatit
-
-ittitget
-
-one who files
-
-neooaktok
-
-aggaktok
-
-fish
-
-mingereat
-
-ekalloet
-
-floor of house
-
-tootak
-
-nettuk
-
-his foster-mother
-
-pokroaluksotyanga amgnaksanga
-
-foxes, small
-
-pissukkat
-
-terreanakuloet
-
-grandchild, his
-
-kenaluanga
-
-erngouta
-
-gun
-
-kangarkse
-
-kokkeoot
-
-hand and fingers
-
-issakratit
-
-aggat
-
-hare
-
-pokkokte
-
-ukkaluk
-
-harpoon
-
-ayakkut
-
-oonak
-
-head
-
-kungerk
-
-neakok
-
-heart of seal
-
-kouktetak
-
-omet
-
-heather
-
-kungolooat
-
-keyuktat
-
-house
-
-nukvik
-
-iglo
-
-household goods
-
-sagungit
-
-attokpuktangit
-
-husband
-
-piggaktwayinga
-
-ooinga
-
-ice
-
-sedluk
-
-sikko
-
-infant
-
-nalungeak
-
-nootarak
-
-
-3 5 2 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-ENGLISH.
-
-ANGAKOK WORD.
-
-ORDINARY WORD.
-
-iron
-
-kidlak
-
-savearak
-
-island
-
-poktayok
-
-kikkerktak
-
-jaw-bones
-
-tamokratek
-
-aglerok
-
-kayak
-
-agyakruk
-
-kayak
-
-kettle
-
-onuktut
-
-ookushik
-
-kidneys
-
-tarngningek
-
-taktook
-
-lamp
-
-nennuk
-
-kodluk
-
-land
-
-erka
-
-noona
-
-he leaves him
-
-tokakpa
-
-kemmukpa
-
-one left by him
-
-tokalauktanga
-
-kemmalauktanga
-
-liver
-
-kirak
-
-tingok
-
-lungs
-
-annukterkvik
-
-poovat
-
-mainland
-
-nuyuvik
-
-illuelak
-
-man (male)
-
-piggaktwayok
-
-angot
-
-married couple
-
-sennalearek
-
-noolearek
-
-meat
-
-Tput
-
-nerke
-
-morning
-
-makkepok
-
-kauvok
-
-mother, his
-
-pokranga
-
-anananga
-
-mountain
-
-kattunanga
-
-kakkak
-
-narwhals
-
-keangolotelet
-
-argluet
-
-needle (see to sew)
-
-kakkidlout
-
-mekkut
-
-night
-
-ingepok
-
-oonukpok
-
-old person (see elderly)
-
-okamalenuk
-
-ittualuk
-
-paint
-
-mingoaroot
-
-amearoot
-
-person (human being)
-
-tau
-
-inuk
-
-porch of house
-
-argvek
-
-soksuk
-
-property
-
-tiggomayangit
-
-perkoyangit
-
-one who rejoices
-
-allerkterreyok
-
-kooveasuktok
-
-his relative
-
-kaumauyeyanga
-
-illageyanga
-
-he relates
-
-ooverkraserk-
-
-sukpok
-
-oonipkakpok
-
-salt water
-
-mammattok
-
-tarreok
-
-saw
-
-kipesuak
-
-kiblut
-
-sculpin
-
-otayok
-
-kunnayok
-
-seals
-
-angmeasityet
-
-netset
-
-— small
-
-ongatseakuloet
-
-netseakuloet
-
-— harp seals
-
-atat
-
-klrolet
-
-
-1901.] Boas, Eskimo of Baffin Land and Hudson Bay. 353
-
-
-ENGLISH.
-
-ANGAKOK WORD.
-
-ORDINARY WORD.
-
-groundseals
-
-muktat
-
-okjuet
-
-seaweed
-
-aktagangit
-
-kuanne
-
-one who sees
-
-tekkonangmetok
-
-tekkoyok
-
-one who sews
-
-kakkidlaktok
-
-muksuktok
-
-ships
-
-agyakrukyet
-
-oomeakret
-
-shore
-
-kigleanga (its
-* shore)
-
-sikyak
-
-one who sings
-
-errenaktok
-
-ingerktok
-
-one who sings frequently errenatyesuktok
-
-ingerkattaktok
-
-skin, seal
-
-kissiveak
-
-kissik
-
-— sealskin for boot-
-
-
-legs
-
-erkaktat
-
-erkakte
-
-— caribou
-
-okomut
-
-tuktoayak
-
-sledge
-
-kulatotik
-
-kumotek
-
-sleep out, one who goes
-
-mukklyok
-
-sinniktareak-
-
-to
-
-
-simayok
-
-snow for making water
-
-nungoak
-
-anneoo
-
-sorrel
-
-klrranget
-
-kongolet
-
-soul
-
-toungomassinga
-
-tarninga
-
-— one who has a
-
-poodlalik
-
-annemgnelik
-
-stomach
-
-illelukvik
-
-akkearok
-
-stone
-
-okomukkut
-
-ooyarak
-
-strength
-
-akshuotit
-
-nukket
-
-tent
-
-tukkatak
-
-tupek
-
-thong
-
-searoak
-
-akshunak
-
-trousers
-
-akkokrooak
-
-koglek
-
-turf, peat
-
-mekkoveanga
-
-idyu
-
-unmarried woman
-(having no husband)
-visitor who comes from
-
-senneleakangetok
-
-ooerkangetok
-
-a distance
-
-iggeaktut
-
-neorkgoyut
-
-one who walks
-
-toodlanuktok
-
-pissuktok
-
-walrus (pi.)
-
-tiktaalet
-
-Ivet
-
-one who washes
-
-kappoaktitseyok
-
-ermiktok
-
-whales
-
-tatangealoet
-
-agvealoet
-
-— white whale
-
-pooeyat
-
-killalukket
-
-killaloat
-
-
-S3
-
-
-[ December , iqoi\
-
-
-354 Bulletin A fnerican Museum of Natural History. [Vol. XV,
-
-
-ENGLISH.
-
-wife
-
-wind
-
-wintering-place
-
-wolves
-
-wood
-
-one who works
-— at various things
-{see strength)
-young person
-
-
-ANGAKOK WORD.
-
-iokkayak
-
-sennaleanga
-
-sudlomik
-
-mungetoktevik
-
-singaktit
-
-angotvuk
-
-issareyok .
-
-akshuaktok
-
-erkeuksuktok
-
-
-ORDINARY WORD.
-
-nulleak
-
-nooleanga
-
-annore
-
-okkealevik
-
-amaukkut
-
-keyuk
-
-sennayok
-
-kadyuktok
-
-oovitgak
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 355
-
-
-CONCLUSION.
 
 The preceding description of the Eskimo of Cumberland
 Sound and of the western coast of Hudson Bay shows that
@@ -15853,40 +11950,31 @@ Greenland and of Alaska. The opinion which I expressed
 elsewhere 1 —namely, that the Eskimo between King William
 Land, Smith Sound, and Labrador, may be considered as one
 of the main subdivisions of this people — seems to be well
-borne out by the new facts here presented. From the obser¬
-vations on the language of the Smith Sound Eskimo made by
+borne out by the new facts here presented. From the observations on the language of the Smith Sound Eskimo made by
 Dr. A. L. Kroeber, it would seem that the last-named tribe
 occupies an intermediate position. 2 I am inclined to consider
 their arts as similar to those of the central Eskimo, while their
 language seems to be nearer to that of Greenland.
 
 Notwithstanding the far-reaching similarity between the
-tribes of Baffin Bay and Hudson Bay, a number of interest¬
-ing differences may be noted. While some of their implements
-are almost identical in shape, — such as throwing-sticks, har¬
-poon-shafts, knives, — others show typical differences. The
+tribes of Baffin Bay and Hudson Bay, a number of interesting differences may be noted. While some of their implements
+are almost identical in shape, — such as throwing-sticks, harpoon-shafts, knives, — others show typical differences. The
 light kayak of Hudson Bay differs very much from that of
 Baffin Land; the harpoon-points from Cumberland Sound
 cannot be mistaken for those from Hudson Bay. The sides
 of soapstone pots of Baffin Land converge toward the top,
 while those of Hudson Bay diverge upward. The cup-and-ball
 game of Baffin Land is played with figures made in imitation of
-animals, while in Hudson Bay another form is in use. The dif¬
-ference in costume is very striking. It would seem that a some¬
-what intermediate style of clothing is worn on the northern
-
+animals, while in Hudson Bay another form is in use. The difference in costume is very striking. It would seem that a somewhat intermediate style of clothing is worn on the northern
 x Central Eskimo, p. 420.
 
 a A. L. Kroeber, The Eskimo of Smith Sound (Bulletin American Museum of Natural
 History, Vol. XII, »p. 321).
 
 
-35 ^ Bulletin American Museum of Natural History . [Vol. XV,
-
 part of the west coast of Baffin Bay, but no specimen from
 this region is available for detailed comparison. One of the
-most curious parts of the Hudson Bay costume is the enor¬
-mous ankle-pouch of the women. It is difficult to explain
+most curious parts of the Hudson Bay costume is the enormous ankle-pouch of the women. It is difficult to explain
 the origin of such a fashion. At the present time the women
 of Baffin Land wear boots similar to those of the men, short
 drawers, and a pair of leggings. It would seem, however, that
@@ -15931,13 +12019,9 @@ To a certain extent the differences in art and implements
 1835).
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 357
-
-
 may be explained as due to the influence of surroundings.
 One of the most remarkable features of this kind is the
-occurrence of limestone lamps and limestone pots on South¬
-ampton Island, the natives of which are unable to procure
+occurrence of limestone lamps and limestone pots on Southampton Island, the natives of which are unable to procure
 steatite, of which lamps and pots are ordinarily made. It is
 very striking that in this case the form of the object has been
 so persistent that a material which might be considered hardly
@@ -15946,21 +12030,17 @@ been given the desired shape.
 
 The implements of the tribes of the west coast of Hudson
 Bay are different from those of Baffin Land on account of the
-occurrence of the musk-ox, the horns of which are exten¬
-sively used for making spoons, ladles, and bows. I will call
+occurrence of the musk-ox, the horns of which are extensively used for making spoons, ladles, and bows. I will call
 attention here to the gambling-game played on the west coast
-of Hudson Bay with a ladle of musk-ox horn, 1 while in Cum¬
-berland Sound it has degenerated to a regular roulette. 2 The
+of Hudson Bay with a ladle of musk-ox horn, 1 while in Cumberland Sound it has degenerated to a regular roulette. 2 The
 Kinipetu live so far inland, and it is so much easier for them
 to obtain wood, that their arts are considerably affected by
 this fact.
 
-The stone skin-scrapers of the Kinipetu tribe deserve spe¬
-cial mention in this connection. Among the more northern
+The stone skin-scrapers of the Kinipetu tribe deserve special mention in this connection. Among the more northern
 tribes, most of the scrapers have bone handles of peculiar
 form, into many of which a stone blade is fitted. 3 Among the
-Kinipetu are found a number of very curiously shaped skin-
-scrapers made entirely of stone, the form of which suggests
+Kinipetu are found a number of very curiously shaped skinscrapers made entirely of stone, the form of which suggests
 that they are an imitation of the bone scrapers of the more
 northern regions. It is hardly conceivable to my mind that
 the curious form of these scrapers should have developed in
@@ -15977,9 +12057,6 @@ confessed that she had given birth to it, the angiaq felt a pain
 1 See p. no. 2 Boas, Central Eskimo, p. 568. * See p.«
 
 4 Rink, /. e., p. 45. * Rink, /. c., p. 440.
-
-
-358 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 in its head, lost its senses, and died. At another place J it
@@ -16028,9 +12105,6 @@ a See before, pp. 120,125.
 4 See before, p, 135 ; Rink, /. c., p. 49.
 
 
-1901.} Boas , Eskimo of Baffin Land and Hudson Bay . 359
-
-
 Following is a list of traditions common to various Eskimo
 tribes: 1
 
@@ -16068,8 +12142,7 @@ p. 173), Cumberland Sound (p. 216).
 Amarkuagsak. Greenland (Rink, p. 466), Smith Sound (Kroeber, p.
 179), Cumberland Sound (p. 163), Labrador (H. I. Smith, Journal
 of American Folk-Lore, 1894, p. 209), Ungava (Turner, p. 262),
-West Coast Hudson Bay (p.327), Alaska (Boas, Journal of Ameri¬
-can Folk-Lore, 1894, p. 205).
+West Coast Hudson Bay (p.327), Alaska (Boas, Journal of American Folk-Lore, 1894, p. 205).
 
 Torait. East Greenland (Holm, p. 52), Cumberland Sound (p. 209),
 Labrador (Rink, p. 469), West Coast Hudson Bay (p. 315).
@@ -16077,9 +12150,7 @@ Labrador (Rink, p. 469), West Coast Hudson Bay (p. 315).
 A Woman who was mated with a Dog. Greenland (Rink, p. 471),
 East Greenland (Holm, p. 56), Smith Sound (Kroeber, p. 168),
 Cumberland Sound (p. 165), Ungava (Turner, p. 261), West Coast
-Hudson Bay (p. 327), Point Barrow (Murdoch, American Natural¬
-ist, 1886, p. 594), Port Clarence, Alaska (Boas, Journal of Ameri¬
-can Folk-Lore, 1894, p. 207).
+Hudson Bay (p. 327), Point Barrow (Murdoch, American Naturalist, 1886, p. 594), Port Clarence, Alaska (Boas, Journal of American Folk-Lore, 1894, p. 207).
 
 
 1 Besides the works quoted heretofore, the following have been used: —
@@ -16098,9 +12169,6 @@ David Cranz. Historic von Gronland. Leipzig, 1765. (Quoted: Cranz.)
 E. Petitot. Traditions indiennes du Canada nord-ouest. Paris, 1886. (Quoted(Petitot.)
 
 
-360 Bulletin American Museum of Natural History. [Vol. XV,
-
-
 Owl and Lemming. Cumberland Sound (p. 219), West Coast Hudson
 Bay (p. 319), Norton Bay (Nelson, p. 514).
 
@@ -16117,8 +12185,7 @@ Qautipalung. Smith Sound (Kroeber, p. 172), Cumberland Sound
 
 Orion. Greenland (Cranz, p. 295), Smith Sound (Kroeber, p. 173),
 Cumberland Sound (p. 174), Point Barrow (Simpson in Further
-Papers relative to the Recent Arctic Expeditions. Printed Jan¬
-uary, 1855, p. 940).
+Papers relative to the Recent Arctic Expeditions. Printed January, 1855, p. 940).
 
 Owl and Raven. Smith Sound (Kroeber, p. 174), Cumberland Sound
 (p. 220).
@@ -16165,11 +12232,7 @@ The Lost Daughter. Greenland (Rink, p. 186), Cumberland Sound
 (p. 178).
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay , 36 1
-
-
-A Lamentable Story. Greenland (Rink, p. 232), Smith Sound (Kroe-
-ber, p. 172), Ungava (Turner, p. 262), West Coast Hudson Bay
+A Lamentable Story. Greenland (Rink, p. 232), Smith Sound (Kroeber, p. 172), Ungava (Turner, p. 262), West Coast Hudson Bay
 (Boas, Central Eskimo, p. 639).
 
 
@@ -16184,8 +12247,7 @@ Sound (p. 200), West Coast Hudson Bay (p. 316).
 Curiosity of inlanders. Greenland (Rink, p. 218), Cumberland Sound
 (p. 205).
 
-Persons pulling off skins from bones. Greenland (Rink, p. 219), Cum¬
-berland Sound (p. 249), West Coast of Hudson Bay (p. 325).
+Persons pulling off skins from bones. Greenland (Rink, p. 219), Cumberland Sound (p. 249), West Coast of Hudson Bay (p. 325).
 
 Head-lifting. Greenland (Rink, pp. 269, 467), Cumberland Sound (p.
 135), West Coast Hudson Bay (p. 158), Alaska (Nelson, p. 433).
@@ -16217,32 +12279,24 @@ Arrows in body so numerous that dead cannot touch ground. East
 Greenland (Holm, p. 37), Cumberland Sound (p. 289), Bering
 Strait (Nelson, p. 329).
 
-Moon man marries woman. East Greenland (Holm, p. 47), Cumber¬
-land Sound (p. 205).
+Moon man marries woman. East Greenland (Holm, p. 47), Cumberland Sound (p. 205).
 
 Giantess's husband. East Greenland (Holm, p. 86), Cumberland
 Sound (p. 197).
 
-Origin of caribou. Cumberland Sound (p. 167), Point Barrow (Mur¬
-doch, American Naturalist, 1886, p. 595).
+Origin of caribou. Cumberland Sound (p. 167), Point Barrow (Murdoch, American Naturalist, 1886, p. 595).
 
 Origin of fishes. Greenland (Cranz, p. 262), Cumberland Sound (Boas,
 Central Eskimo, p. 617), Point Barrow (Murdoch, l. c ., p. 595).
 
 Thunder and lightning. Greenland (Cranz, p.296), Cumberland Sound
-(p. 175), West Coast Hudson Bay (p. 146), Point Barrow (Mur¬
-doch, /. c.,p. 595).
-
-
-362 Bulletin American Museum of Natural History . [Vol. XV,
+(p. 175), West Coast Hudson Bay (p. 146), Point Barrow (Murdoch, /. c.,p. 595).
 
 
 It appears from this extended list that the folk-tales of
 the Eskimo are very uniform. Among thirty-one tales that
 have been recorded in both Greenland and Cumberland Sound,
-nineteen are common to both regions. In character, the Cum¬
-berland Sound tales are evidently very similar to those of Lab¬
-rador. Even the names of the heroes in these two countries
+nineteen are common to both regions. In character, the Cumberland Sound tales are evidently very similar to those of Labrador. Even the names of the heroes in these two countries
 are often the same. We find, for instance, the hero of the
 tale Attongey (p. 228) given as Atungak in Labrador, Sea -
 colearseawetto (p. 292) as Sikuliarsiujuit, Uktowyonakjew
@@ -16251,8 +12305,7 @@ The conservatism with which complex tales are retained, the
 parts of which have no inner connection, is very remarkable.
 The most striking example is the tale of “The Faithless
 Wife,” the first part of which deals with a woman who had
-for a lover the spirit of a pond, an element undoubtedly de¬
-rived from Indian sources. The second part relates how the
+for a lover the spirit of a pond, an element undoubtedly derived from Indian sources. The second part relates how the
 husband, after killing his faithless wife, marries a fox. 1 This
 is also true of apparently trifling tales of wars and quarrels
 which one might be inclined to consider as quite recent, if it
@@ -16260,11 +12313,9 @@ were not for their wide distribution. For this reason, I have
 recorded all tales of this character, no matter how trifling
 they appeared. The conservatism of the Eskimo, which is
 brought out in language, customs, beliefs, and folk-lore, is
-very curious when compared with the tendency to differen¬
-tiation found among almost all other peoples.
+very curious when compared with the tendency to differentiation found among almost all other peoples.
 
-A comparison of the culture of the Eskimo of Alaska as de¬
-scribed by Nelson, 2 with that of the eastern Eskimo, also brings
+A comparison of the culture of the Eskimo of Alaska as described by Nelson, 2 with that of the eastern Eskimo, also brings
 out the fundamental sameness of all Eskimo culture. It is
 evident that the fundamental forms of weapons, utensils, and
 implements, and of the clothing and tattooing, of the Alaskan
@@ -16283,9 +12334,6 @@ the Bureau of American Ethnology, Part I, Washington, 1899).
 3 See before, p. 132; and Nelson, l. c., p. 289.
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3^3
-
-
 enters the body of the person bearing his name. 1 Girls are
 often exposed immediately after birth or during the first few
 years of their lives. 2 The carving of a whale is put into the
@@ -16302,8 +12350,7 @@ exchange of articles. 8 Among the games that are common to
 Alaska and to the eastern tribes, I may mention the games
 nuglutang, 9 arm and finger pulling, wrestling, 10 the buzz. 11
 Festivals in the singing-house are common to all the tribes,
-and songs in which two persons taunt each other are a princi¬
-pal feature in their assemblies. 12 The aurora is believed to be
+and songs in which two persons taunt each other are a principal feature in their assemblies. 12 The aurora is believed to be
 1 See before, p. 132; and Nelson, l. c. } p. 364.
 
 2 Boas, /. c. f p. 580; and Nelson, /. c., p. 289.
@@ -16316,7 +12363,6 @@ pal feature in their assemblies. 12 The aurora is believed to be
 
 8 See before, p. 144; and Nelson, /. c., pt>. 312, 3^ 364.
 
-7 See Boas, l. c. y p. 614; Kroeber, Bulletin American Museum of Natural History,
 Vol. XII, p. 313 ; and Nelson, l. c. y p. 315.
 
 8 Boas, l. c. y p. 569 ; and Nelson, 1 . c., p. 333.
@@ -16340,11 +12386,7 @@ Vol. XII, p. 313 ; and Nelson, l. c. y p. 315.
 20 See before, p. 124. 91 See before, p. 148.
 
 
-364 Bulletin American Museum of Natural History . [Vol. XV,
-
-
-Skins of small mammals are attached inside of floats to pre¬
-vent their being tom. 1
+Skins of small mammals are attached inside of floats to prevent their being tom. 1
 
 While some of these ideas and customs are of such character
 that they might perhaps spring up independently among
@@ -16367,8 +12409,7 @@ the Woman” 4 and of “The Mother of the Sea-Mammals” 6
 are also found. The legends of the origin of the caribou, of
 fishes, of thunder and lightning, and of the Orion, also occur. 6
 
-The occurrence of the myth of the mother of the sea-
-mammals all the way from Alaska to Greenland, and the
+The occurrence of the myth of the mother of the seamammals all the way from Alaska to Greenland, and the
 frequent connection of this myth with ideas in regard to the
 souls of men and of animals, indicate that it is a fundamental
 idea common to all the Eskimo tribes.
@@ -16385,14 +12426,10 @@ as animals. As long as the soul is near the body, actions that
 
 1 See before, p. 152. 8 kelson, l. r. y p. 514. * Nelson, l. c., p. 482.
 
-4 J. Murdoch, The American Naturalist, i886 t p. 594: and Boas, Notes on the Es¬
-kimo of Port Clarence, Alaska (Journal of American Fotk-hore, Vol. VII, 1894, p. 207).
+4 J. Murdoch, The American Naturalist, i886 t p. 594: and Boas, Notes on the Eskimo of Port Clarence, Alaska (Journal of American Fotk-hore, Vol. VII, 1894, p. 207).
 • Boas, Journal of American Folk-I<ore, Vol. VII, 1894, p. 205.
 
 6 Boas, l. c., p. 642. See, also, detailed list above.
-
-
-i9oi.] Boas , Eskimo of Baffin Land and Hudson Bay . 3^5
 
 
 might hurt it must be avoided. It is a well-known fact that
@@ -16417,8 +12454,7 @@ sea-mammals and the ideas regarding the souls of men and
 animals was also an original feature of Eskimo beliefs, which
 gradually disappeared in Greenland, and perhaps also in the
 west. At least, the disconnected beliefs of the Greenlanders
-are more easily interpreted in this manner than by the as¬
-sumption of a later systematization of these beliefs among the
+are more easily interpreted in this manner than by the assumption of a later systematization of these beliefs among the
 Central tribes. This point may perhaps be cleared up by
 more detailed researches among the Alaskan Eskimo.
 
@@ -16443,15 +12479,12 @@ three-feathered arrow of Southampton Island, which was
 3 See p. 109.
 
 
-366 Bulletin American Museum of Natural History. [Vol. XV,
-
 described before, 1 may be considered as an original Eskimo
 invention, since all the eastern Eskimo seem to use the arrow
 with two feathers.
 
 The importation of foreign ideas is nowhere demonstrated
-more clearly than in the folk-lore of these tribes. A com¬
-parison of the traditions from the west coast of Hudson Bay
+more clearly than in the folk-lore of these tribes. A comparison of the traditions from the west coast of Hudson Bay
 with those of the rest of North America proves clearly that
 borrowing has taken place. It has been shown elsewhere 2
 that such importation has even extended to Baffin Bay and to
@@ -16483,7 +12516,6 @@ According to Nelson’s description, the whole social struc-
 1 See p. 68.
 
 2 F. Boas, Indianische Sagen von der Nord-Pacifischen Kiiste Amerikas (Berlin,
-
 i 895 )jJ>. 349 . . .
 
 3 F.Boas, Indianische Sagen, etc., p. 229; I,. Farrand, Traditions of the Chilcotin
@@ -16500,13 +12532,9 @@ Natural History, Vol. II, p. 86); I*. Farrand, Traditions of the Chilcotin India
 
 7 Rink, l, c ., p. 155.
 
-8 See Petitot, l. c., pp. 154, 380 (Athapascan); A. I,. Kroeber, Cheyenne Tales (Jour¬
-nal of American Folk-Fore, 1900, Vol. XIII, p. 180).
+8 See Petitot, l. c., pp. 154, 380 (Athapascan); A. I,. Kroeber, Cheyenne Tales (Journal of American Folk-Fore, 1900, Vol. XIII, p. 180).
 
 • See Petitot, pp. 41,137.
-
-
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 3^7
 
 
 ture, the customs and beliefs, of the Alaskan Eskimo, are
@@ -16517,8 +12545,7 @@ The difference between the art of the eastern Eskimo and
 that of the Alaskan Eskimo is very striking. In the east we
 find hardly any attempt to decorate implements, while in
 Alaska there is a very strongly developed tendency to do so.
-Realistic carvings representing animals are exceedingly fre¬
-quent in both regions. Those made by the eastern tribes are
+Realistic carvings representing animals are exceedingly frequent in both regions. Those made by the eastern tribes are
 partly made simply for the pleasure of carving, partly adapted
 to definite purposes. In Alaska the fundamental character
 of these carvings remains the same, but they are at the same
@@ -16526,8 +12553,7 @@ time frequently decorated with engraved patterns. The few
 etchings that occur among the eastern Eskimo either consist
 simply of dots or lines, 1 or they are clearly of very recent
 origin, being due to European influence. 2 Even the inlaid
-patterns on needlecases and pipes 8 must, I believe, be in¬
-cluded in this class.
+patterns on needlecases and pipes 8 must, I believe, be included in this class.
 
 I am inclined to believe that the strong tendency among
 the Alaskan Eskimo to decorate all their utensils with painted
@@ -16538,23 +12564,17 @@ the North Pacific coast, from whom they have adopted, not
 only a large portion of their mythology, but also many of their
 arts; while, on the other hand, they are in very close contact
 with the Athapascan tribes of the interior of Alaska and of
-the Northwest Territories. The similarity of Eskimo etch¬
-ings to the scratched birch-bark designs of the Athapas¬
-cans is so striking, that a common origin seems exceedingly
+the Northwest Territories. The similarity of Eskimo etchings to the scratched birch-bark designs of the Athapascans is so striking, that a common origin seems exceedingly
 likely. For this reason, I cannot quite agree with the opinion
 expressed by Professor Otis T. Mason, 4 who believes that this
 branch of Eskimo art is entirely due to contact with the whites.
-It is very likely, as Professor Mason suggests, that the exu¬
-berant development of this art dates from the introduction of
+It is very likely, as Professor Mason suggests, that the exuberant development of this art dates from the introduction of
 
 \ Central Eskimo, pp. 523, 531, 532, 555, 559, 567 ; and in this paper, pp. 74, 107, 109.
 
 * See pp. 94, 107, 109.
 
 4 American Anthropologist, Vol. XI, p. 356.
-
-
-368 Bulletin American Museum of Natural History. [Vol. XV,
 
 
 iron and steel tools, but its character is certainly purely
@@ -16564,22 +12584,18 @@ to the same indigenous source.
 
 When we compare the description of the Point Barrow tribe
 given by Murdoch 1 with the data recorded by Nelson, the
-much greater simplicity of the customs at Point Barrow be¬
-comes at once apparent. This I believe will be found true,
-notwithstanding the fact that Murdoch had very little oppor¬
-tunity to observe the inner life of these people. A study of
+much greater simplicity of the customs at Point Barrow becomes at once apparent. This I believe will be found true,
+notwithstanding the fact that Murdoch had very little opportunity to observe the inner life of these people. A study of
 the available collections brings out so strikingly the great
 abundance of masks and carvings in the extreme south, and
-the rapid decrease in their number northward, that the char¬
-acter of their geographical distribution must be considered
+the rapid decrease in their number northward, that the character of their geographical distribution must be considered
 proof that these carvings are due to contact with the elaborate
 art of the Indians of the North Pacific coast. In fact, the
 forms of the masks would hardly be intelligible without a
 knowledge of the masks of the Tlingit. Although masks are
 found in many parts of the world, such complex forms as
 occur among the Eskimo and Indians of Alaska are rare.
-Here we see, among both Indians and Eskimo, animals at¬
-tached to parts of the face, parts of the body attached to the
+Here we see, among both Indians and Eskimo, animals attached to parts of the face, parts of the body attached to the
 mask, in order to bring together in the compass of the mask
 the whole individual to be represented. Notwithstanding the
 difference in style, these features are so striking that they
@@ -16593,8 +12609,7 @@ characteristic of other Eskimo tribes is exceedingly small.
 
 The impression which I receive from the available portion
 of Alaskan Eskimo folk-lore is, that here the old original
-stock of legends is practically swamped by recent introduc¬
-tions from the south, while the current beliefs and practices
+stock of legends is practically swamped by recent introductions from the south, while the current beliefs and practices
 have remained more constant than the elaborate stories.
 
 
@@ -16602,11 +12617,8 @@ have remained more constant than the elaborate stories.
 Annual Report of the Bureau of Ethnology, Washington, 1892).
 
 
-1901.] Boas , Eskimo of Baffin Land and Hudson Bay . 369
-
 This would be in accordance with the theory that ritual is
-more permanent than the explanatory tradition, — a conclu¬
-sion which I previously drew, based on a study of the tribes
+more permanent than the explanatory tradition, — a conclusion which I previously drew, based on a study of the tribes
 of British Columbia. 1
 
 Another very striking feature brought out in Nelson’s
@@ -16652,248 +12664,21 @@ culture of the Alaskan Eskimo is very greatly influenced by
 * Property-marks of Alaskan Eskimo, American Anthropologist, N. S., Vol. I, p. 602.
 
 
-37 ° Bulletin American Museum of Natural History . [Vol. XV.
-
-
 that of the Indians of the North Pacific coast and by the
 Athapascan tribes of the interior. This is in accord with the
 observation that their physical type is not so pronounced as
 the eastern Eskimo type. I believe, therefore, that H. Rink’s 1
-opinion of an Alaskan origin of the Eskimo is not very proba¬
-ble. If pure type and culture may be considered as signifi¬
-cant, I should say that the Eskimo west and north of Hudson
+opinion of an Alaskan origin of the Eskimo is not very probable. If pure type and culture may be considered as significant, I should say that the Eskimo west and north of Hudson
 Bay have retained their ancient characteristics more than any
 others. If their original home was in Alaska, we must add
 the hypothesis that their dispersion began before contact with
 the Indians. If their home was east of the Mackenzie, the
 . gradual dispersion and ensuing contact with other tribes
-would account for all the observed phenomena. A final solu¬
-tion of this interesting question might be obtained by means
+would account for all the observed phenomena. A final solution of this interesting question might be obtained by means
 of archaeological research on the coast of Bering Sea. On the
-whole, the relations of North Pacific and North Asiatic cul¬
-tures are such, that it seems plausible to my mind that the
+whole, the relations of North Pacific and North Asiatic cultures are such, that it seems plausible to my mind that the
 Alaskan Eskimo are, comparatively speaking, recent intruders,
 and that they at one time interrupted an earlier cultural
 connection between the two continents.
 
 1 Journal of the Anthropological Institute, 1890, pp. 452 £F.
-
-
-ERRATA.
-
-On p. 82, Fig. 114, b, “ T ffr” should read “
-
-On p. 182, footnote “ p. 328 ” should read “ p. 337.”
-
-
-Tribe.
-
-
-Bulletin A. M. N. H.
-
-
-Vol. XV, Plate IV.
-
-
-Eskimo Woman. Aivilik Tribe.
-
-
-Continued fro77i 4th page of cover.)
-
-Vol. III. Anthropology (not yet completed).
-
-Part I.—Symbolism of the Huichol Indians. By Carl Lumholtz. Pp. 1-228,
-pll. i-iv, and 291 text figures. May, 1900. Price, $5.00.
-
-Vol. IV. Anthropology (not yet completed).
-
-Jesup North Pacific Expedition.
-
-Part I.—Traditions of the Chilcotin Indians. By Livingston Farrand. Pp.
-1-54. June, 1900. Price, $1.50.
-
-Part II. —Cairns of British Columbia and Washington. By Harlan I. Smith
-and Gerard Fowke. Pp. 55-75, pll. i-v, and 9 text figures. January,
-1901. Price, $1.50.
-
-Part III.—Traditions of the Quinault Indians. By Livingston Farrand, as¬
-sisted by W. S. Kahnweiler. (in press.)
-
-Vol. V. Anthropology (not yet completed).
-
-Jesup North Pacific Expeditio7i.
-
-Part I. —Kwakiutl Texts. By Franz Boas and George Hunt. (In press.)
-
-Vol. VI. Anthropology.
-
-Hyde Expedition.
-
-The Night Chant, a Navaho Ceremony. By Washington Matthews. (In press.)
-
-Vol. VII. Anthropology (not yet completed).
-
-Jesup North Pacific Expeditio7i.
-
-Part I. —The Decorative Art of the Amur Tribes. By Berthold Laufer.
-Pp. 1,-79, pH* i-xxxiii, and 24 text figures. December, 1901. Price, $3.00.
-
-ETHNOGRAPHICAL ALBUM.
-
-Jesup North Pacific Expeditio7i.
-
-Ethnographical Album of the North Pacific Coasts of America and Asia. Part
-I, pp. 1-5, pll. 1-28. August, 1900. Sold by subscription, price $6.00.
-
-BULLETIN.
-
-
-The matter in the ‘ Bulletin ’ consists of about twenty-four articles per
-volume, which relate about equally to Geology, Palaeontology, Mammalogy,
-Ornithology, Entomology, and (in the recent volumes) Anthropology, except
-Vol. XI, which is restricted to a 4 Catalogue of the Types and Figured Speci¬
-mens in the Palaeontological Collection of the Geological Department.’
-
-
-Volume I,i88i- 86.Price, $5.00
-
-“ II, 1887-90. “ 4.75
-
-“ III, 1890-91. “ 4.00
-
-“ IV, 1892 “ 4.00
-
-“ V, 1893 “ 4.00
-
-“ VI, 1894 “ 4.00
-
-“ VII, 1895 “ 4.00
-
-“ VIII, 1896. “ 4.00
-
-“ IX, 1897. “ 4.75
-
-“ X, 1898. “ 4.75
-
-
-Volume XI, Part I, 1898, I
-
-“ “ “ II,1899
-
-“ “ “IILrgoo
-
-“ “ “ IV, 1901
-
-“ 44 (Complete).
-
-44 XII, 1899.
-
-44 XIII, 1900.
-
-44 XIV, 1900.
-
-44 XV, Part I, 1901
-
-
-nee, 1.25
-2.00
-2.00
-1-75
-5.00
-4.00
-4.00
-4.00
-3.00
-
-
-AMERICAN MUSEUM JOURNAL.
-
-
-The 4 Journal ’ is a popular record of the progress of the American Museum
-of Natural History, issued monthly, from October to May, inclusive,—eight
-numbers a year. Price, $1.00 a year, 10 cents a number.
-
-
-For sale by G. P. Putnam’s Sons, New York and London ;
-
-J. B. Bailliere et Fils, Paris ; R. Friedlander & Sohn, Berlin ;
-
-and at the Museum.
-
-
-PUBLICATIONS
-
-OF THE
-
-American Museum of Natural History
-
-The publications of the American Museum of Natural History consist of
-the ‘ Bulletin,’ in octavo, of which one volume, consisting of about 400 pages,
-and about 25 plates, with numerous text figures, is published annually; and
-the ‘ Memoirs,’ in quarto, published in parts at irregular intervals. Also an
-‘Ethnographical Album,’ issued in parts, and the ‘American Museum
-Journal.’
-
-MEMOIRS.
-
-Each Part of the ‘ Memoirs’ forms a separate and complete monograph,
-with numerous plates.
-
-Vol. I (not yet completed).
-
-Part I.—Republication of Descriptions of Lower Carboniferous Crinoidea
-from the Hall Collection now in the American Museum of Natural His¬
-tory, with Illustrations of the Original Type Specimens not heretofore
-Figured. By R. P. Whitfield. Pp. 1-37, pH. i-iii, and 14 text cuts.
-September 15, 1893. Price, $2.00.
-
-Part II.—Republication of Descriptions of Fossils from the Hall Collection in
-the American Museum of Natural History, from the report of Progress for
-1861 of the Geological Survey of Wisconsin, by James Hall, with Illus¬
-trations from the Original Type Specimens not heretofore Figured. By
-R. P. Whitfield. Pp. 39-74, pll. iv-xii. August 10, 1895. Price, $2.00.
-Part III.—The Extinct Rhinoceroses. By Henry Fairfield Osborn. Parti.
-
-Pp. 75-164, pll. xiitf-xx, and 49 text cuts. April 22, 1898. Price, $4.20.
-Part IV.—A Complete Mosasaur Skeleton. By Henry Fairfield Osborn. Pp.
-
-165-188, pll. xxi-xxiii, and 15 text figures. October 25, 1899.
-
-Part V.—A Skeleton of Diplodocus. By Henry Fairfield Osborn. Pp.
-189-214, pll. xxiv-xxviii, and 15 text figures. October 25, 1899. Price
-of Parts IV and V, issued under one cover, $2.00.
-
-Part VI.—Monograph of the Sesiidae of America, North of Mexico. By Wil¬
-liam Beutenmuller. Pp. 215-352, pll. xxix-xxxvi, and 24 text cuts.
-March, 1901. Price, $5.00.
-
-Part VII.—Fossil Mammals of the Tertiary of Northeastern Colorado. By
-W. D. Matthew. Pp. 353-447, pll. xxxvii-xxxix, and 34 text cuts. No¬
-vember, 1901. Price, $3.00.
-
-Vol. II. Anthropology.
-
-Jesup North Pacific Expedition.
-
-Part I.—Facial Paintings of the Indians of Northern British Columbia. By
-Franz Boas. Pp. 1-24, pll. i-vi. June 16, 1898. Price, $2.00.
-
-Part II.—The Mythology of the Bella Coola Indians. By Franz Boas. Pp.
-
-25-127, pll. vii-xii. November, 1898. Price, $2.00.
-
-Part III.—The Archaeology of Lytton, British Columbia. By Harlan I.
-
-Smith. Pp. 129-161, pi. xiii, and 117 text figures. May, 1899. Price, $2.00.
-Part IV.—The Thompson Indians of British Columbia. By James Teit.
-Edited by Franz Boas. Pp. 163-392, pll. xiv-xx, and 198 text figures.
-April, 1900. Price, $5.00.
-
-Part V.—Basketry Designs of the Salish Indians. By Livingston Farrand.
-
-Pp. 393-399, pll. xxi-xxiii, and 15 text figures. April, 1900. Price, 75 cts.
-Part VI.—Archaeology of the Thompson River Region. By Harlan I. Smith.
-Pp. 401-442, pll. xxiv-xxvi, and 51 text figures. (With title-page, con¬
-tents, and index to Vol. II.) June, 1900. Price, $2.00.
-
-{Continued on jd page of cover.}

@@ -1,52 +1,5 @@
 # Polynesian Mythology and Ancient Traditional History of the New Zealand Race
 
-h'OLlte^lAN
-
-
-"t|!S|f
-
-
-AND
-
-
-ANCIENT TRADITIONAL HISTORY
-
-
-OF THE
-
-
-NEW ZEALAND RACE,
-
-
-AS FURNISHED BY THEIR PRIESTS AND CHIEFS.
-
-
-BY SIE GEOEGE GREY,
-
-LATE GOVEKNOR-IN-CniEF OF NEW ZEALAND.
-
-
-LONDON:
-JOHN MURRAY, ALBEMARLE STREET.
-
-1855.
-
-
-J3L
-G7
-
-
-LIBRARY
-
-75724S
-
-UNIVERSny OF TORONTO
-
-
-LONDON: PRINTED BY WOODFALL AND KINDER,
-ANGBL COURT, SKINNBR STREET.
-
-
 PREFACE.
 
 
@@ -102,7 +55,6 @@ Again, I found that any tale of sorrow or suffering, passing through the medium 
 
 
 PKEFACE. ir
-
 fell much more coldly on my ear, than what it
 would have done had the person mterested addressed the tale dh^ect to myself; and in like
 manner an answer delivered through the intervention of a thii-d person, appeared to leave a very
@@ -126,7 +78,6 @@ These reasons, and others of equal force, made me
 feel it to be my duty to make myself acquainted,
 with the least possible delay, with the language of
 the New Zealanders, as also with their manners,
-
 a 2
 
 
@@ -279,7 +230,6 @@ and form of construction of that language, which,
 
 
 PREFACE. Xi
-
 perhaps, from its unusualness, may prove unpleasant to the European ear and mind, and tliis must
 be essentially the case in a work like the present,
 no considerable continuous portion of the original
@@ -369,7 +319,6 @@ The Childken op Heaven and Earth .... 1
 
 The Legend of Maci 10
 
-The Legend of Tawhaki 59
 
 Rupe's Ascent into Heaven 81
 
@@ -592,8 +541,6 @@ corresponding names to himself and to his progeny
 the mighty winds.
 
 He next sends forth fierce squalls, whirlwinds,
-
-
 dense clouds, massy clouds, dark clouds, gloomy
 thick clouds, fiery clouds, clouds which precede
 hurricanes, clouds of fiery black, clouds reflecting
@@ -718,12 +665,9 @@ B 3
 
 
 had been hidden from hhn in the earth — but Tumatauenga, or man, still stood erect and unshaken
-
 upon the breast of his mother Earth ; and now at
 length the hearts of Heaven and of the god of
-
 storms became tranquil, and their passions were
-
 assuaged.
 
 Tu-matauenga, or fierce man, having thus successfully resisted his brother, the god of hurricanes
@@ -775,7 +719,6 @@ upon his brothers Rongo-ma-tane and Haumia-tikitiki ; he soon found them by thei
 and he scraped into shape a wooden hoe, and
 plaited a basket, and dug in the earth and pulled
 up all kinds of plants with edible roots, and the
-
 j * See next page.
 
 
@@ -788,8 +731,7 @@ tlieir having deserted him and left him to fight
 alone against Tawhiri-ma-tea and Rangi.
 
 When his brothers had all thus been overcome
-by Tu', he assumed several names, namely, Tu-kariri, Tu-ka-nguha, Tu-ka-taua, Tu-whaka-heke-tangata, Tu-mata-wha-iti, and Tu-matauenga ; he assumed one name for each of his attributes dis-
-played in the victories over his brothers. Four of
+by Tu', he assumed several names, namely, Tu-kariri, Tu-ka-nguha, Tu-ka-taua, Tu-whaka-heke-tangata, Tu-mata-wha-iti, and Tu-matauenga ; he assumed one name for each of his attributes displayed in the victories over his brothers. Four of
 his brothers were entirely deposed by him, and became his food ; but one of them, Tawhiri-ma-tea,
 he could not vanquish or make common, by eating
 him for food, so he, the last born child of Heaven
@@ -904,8 +846,6 @@ known to us and to our mother as our brother, you
 know that our mother used to come and sleep with
 us every night, and as soon as the day broke she
 was gone, and, lo, there was nobody but oui'selves
-
-
 sleeping in the house, and this took place night
 after night, and how can we tell then where she
 went or where she lives?" But he answered,
@@ -1069,8 +1009,6 @@ as day dawned, she disappeared ; the httle fellow
 now felt quite suspicious at such strange proceedings on the part of his mother every morning.
 But at last, upon another night, as he slept again
 with his mother, the rest of his brothers that
-
-
 night also sleeping with them, the little fellow
 crept out in the night and stole his mother's apron,
 her belt, and clothes, and hid them; then he went
@@ -1096,8 +1034,6 @@ stopped closely up.
 At last up she jumped ; and finding herself quite
 naked, began to look for her clothes, and apron,
 but could find neither; then she ran and pulled
-
-
 out the tilings with which the chinks in the windows and doors were stopped up, and whilst doing
 so, oh, dear ! oh, dear! there she saw the sun high
 up in the heavens ; then she snatched up, as she
@@ -1125,8 +1061,6 @@ He covered up the hole again and returned to
 the house, and waking up his brothers who were
 still sleepmg, said, " Come, come, my brothers,
 rouse up, you have slept long enough ; come, get
-
-
 up ; here we are again cajoled by our mother/'
 Then his brothers made haste and got up ; alas!
 alas! the sun was quite high up in the heavens.
@@ -1153,8 +1087,6 @@ in this long-continuing world."
 
 Little Maui then answered, " What you say
 is truly quite correct ; but such thoughts and sayc
-
-
 ings would better become me than you, for in
 the foaming bubbles of the sea I was nm-sed and
 fed : it would please me better if you would think
@@ -1180,8 +1112,6 @@ singing and dancing, he had on that occasion transformed himself into the likene
 birds, of every bird in the world, and yet no single
 form that he then assumed had pleased his brothers ;
 but now when he showed himself to them, transformed into the semblance of a pigeon, his brothers said, " Ah ! now indeed, oh, brother, you do
-
-
 look very well indeed, very beautiftil, very beautiful, much more beautiful than you looked in any of
 the other forms which you assumed, and then changed
 from, when you first discovered yourself to us."
@@ -1209,7 +1139,6 @@ him could have helped thinking of the proverb — "A
 stupid pigeon sits on one bough, and jumps not
 from spray to spray." Early the next morning, he
 said to his brothers, as was first stated, "Now do you
-
 c 2
 
 
@@ -1241,8 +1170,6 @@ perhaps, be pleased with it, but if I find it a bad,
 di&agreeable place, I shall be disgusted with it."
 They replied to him, " What you say is exceedingly
 true, depart then upon your journey, with your
-
-
 great knowledge and skill in magic." Then their
 brother went into the wood, and came back to them
 again, looking just as if he were a real pigeon.
@@ -1304,8 +1231,6 @@ the ground, they all ran to catch him, but lo, the
 pigeon had turned into a man.
 
 Then all those who saw him were frightened at
-
-
 his fierce glaring eyes, -which were red as if painted
 with red ochre, and they said, " Oh, it is now no
 wonder that he so long sat still up in the tree ; had
@@ -1333,8 +1258,6 @@ near her, " Where do you come firom ? fi-om the westward?" and he answered, "No.
 north-east then?" "No." " From the south-east
 then?" "No." "From the south then?" "No."
 " Was it the wind which blows upon me, which
-
-
 brought you here to me then ?" when she asked
 this, he opened liis mouth and answered, " Yes."
 And she cried out, " Oh, this then is indeed my
@@ -1392,7 +1315,6 @@ and this he did for many days. At last, Muriranga-wheriua suspected that somethi
 going on, and the next time he came along the
 path carrying the present of food, the old chieftainess sniffed and sniffed until she thought she
 smelt something coming, and she was very much
-
 c 3
 
 
@@ -1485,8 +1407,6 @@ might not be seen by the sun ; and at night
 they renewed their journey, and before dawn
 they halted, and hid themselves again ; at length
 they got very far, very far, to the eastward, and
-
-
 came to the very edge of the place out of which
 the sun rises.
 
@@ -1516,8 +1436,6 @@ At last the sun came rising up out of his place,
 like a fii-e spreading far and wide over the mountains and forests ; he rises up, his head passes
 through the noose, and it takes in more and more
 of his body, until his fore-paws pass through ; then
-
-
 are pulled tight the ropes, and the monster began
 to struggle and roll himself about, whilst the snare
 jerked backwards and forwards as he struggled. Ah!
@@ -1543,8 +1461,6 @@ grumblings of his wives and children, at his laziness
 in not catching fish for them. Then he called
 out to the women, " Never mind, oh, mothers, yourselves and your children need not fear. Have not
 I accomplished all things, and as for this little feat,
-
-
 this trifling work of getting food for you, do you
 think I cannot do that ? certainly ; if I go and get
 a fish for you, it will be one so large that when
@@ -1574,8 +1490,6 @@ As soon as it was dark night Maui went down
 to the shore, got into his brothers' canoe, and hid
 himself under the bottom boards of it. The next
 forenoon his brothers came down to the shore to go
-
-
 fishing again, and they had their canoe launched,
 and paddled out to sea without ever seeing Maui,
 who lay hid in the hollow of the canoe under the
@@ -1691,8 +1605,6 @@ be completed in order. We shall thus all be purified. I will then return, and we
 this fish in safety, and it shall be fairly portioned
 out to tliis one, and to that one, and to that other ;
 and on my arrival you shall each have your due
-
-
 share of it, and return to your homes joyfully ; and
 what we leave behind us will keep good, and that
 which we take away with us, returning, will be
@@ -1722,8 +1634,6 @@ That is the reason that this island is now so
 rough and uneven — that here stands a mountain —
 that there lies a plain — that here descends a vale —
 that there rises a chff. If the brothers of Maui
-
-
 had not acted so deceitfully, the huge fish would
 have lain flat and smooth, and would have remained as a model for the rest of the earth, for the
 present generation of men. This, which has just
@@ -1752,8 +1662,6 @@ to get a light, he found every fire quite out — he
 could nowhere get a light.
 
 When Maui's mother heard this, she called out
-
-
 to the servants, and said, " Some of you repair to
 my great ancestress Mabu-ika ; tell her that fire
 has been lost upon earth, and ask her to give some
@@ -1781,8 +1689,6 @@ But Maui said, " No, I only want to bring fire
 away for men, that is all, and I '11 retm'n again as
 soon as I can do that?" Then he went, and
 reached the abode of the goddess of fiii-e ; and he
-
-
 was SO filled with wonder at what he saw, that for
 a long time he could say nothing. At last he said,
 " Oh, lady, would you rise up ? Where is your fire
@@ -1811,8 +1717,6 @@ dra^vn out her nail to produce fire for liim, he
 thought it a most wonderfiil tiling ! Then he went
 a short distance oftj and when not very far
 from her, he put the fire out, quite out ; and
-
-
 returning to her again, said, " The light you
 gave me has gone out, give me another/' Then
 she caught hold of another nail, and pulled it out
@@ -1839,8 +1743,6 @@ escape, but the fire followed hard after liim, close behind him ; so he changed 
 eagle, and flew with rapid flight, but the fire pursued, and almost caught him as he flew. Then the
 eagle dashed down into a pool of water ; but when
 he got into the water he found that almost boihng
-
-
 too : the forests just then also caught fire, so that
 it could not alight anywhere, and the earth and
 the sea both caught fire too, and Maui was very near
@@ -1902,8 +1804,6 @@ with that of Maui, and Maui thinking he felt a fish
 pulling at his own line, drew it in quite delighted;
 but when he had hauled up a good deal of it, there
 were himself and his brother-in-law pulling in their
-
-
 lines in different directions, one drawing the line
 towards the bow of the canoe, the other tow^ards
 the stern. '
@@ -2059,8 +1959,6 @@ strength and power, gone as slowly as he does now,
 not a remnant of mankind would have been left
 living upon the earth, nor, indeed, would anything
 else have survived. But I laid hold of Tama-nuite-Ra, and now he goes slowly, for I smote him
-
-
 again and again, so that lie is now feeble, and
 long in travelling his course, and he now gives but
 very little heat, having been weakened by the
@@ -2091,8 +1989,6 @@ found her fast asleep.
 Then Maui addressed them all, and said, " My
 little friends, now if you see me creep into this old
 cliieftainess, do not laugh at what you see. Nay,
-
-
 nay, do not I pray you, but when I have got altogether inside her, and just as I am coming out of
 her mouth, then you may shout with laughter if
 you please." And his little friends, who were
@@ -2149,8 +2045,6 @@ of the ancestors from whom each family is descended, and upon other similar occa
 * Inhabitants of "New Zealand,
 
 
-THE LEGEND OF TAWHAKI.
-
 Now quitting the deeds of Maui, let those of Tawhald be recounted. He was the son of Hema
 and Urutonga, and he had a younger brother
 named Karihi. Tawhaki having taken Hinepiripiri as a wife, he went one day with his brothersin-law to fish, from a flat reef of rocks which ran
@@ -2170,8 +2064,6 @@ were questioned by their young sister, who asked,
 had last arrived, answered her, "Why, the others
 all went home together long since." So the young
 wife suspected that they had killed her husband,
-
-
 and ran off at once to search for him ; and she
 found where he had been buried, and on examining
 him ascertained that he had only been insensible,
@@ -2198,10 +2090,6 @@ might often be recalled to his mind.
 
 As soon as Tawhaki had recovered fi:"om his
 wounds, he left the place where his faithless brothersin-law lived, and went away taking all his own warriors and their families with him, and built a fortified village upon the toj) of a very lofty mountain,
-
-
-THE LEGEND OF TAWHAKI. 61
-
 where lie could easily protect himself; and they
 dwelt there. Then he called aloud to the Gods, his
 ancestors, for revenge, and they let the floods of
@@ -2260,10 +2148,6 @@ those you speak of return home?'" And she replied,
 the ocean." Then Karihi asked her, "What did
 they save you alive for?" And she answered,
 " They saved me alive that I might watch for the
-
-
-THE LEGEND OF TAWHAKI. 63
-
 rising of the dawn ; they make me ever sit watching here at the door of the house, hence this people
 have named me 'Tatau/ or 'the door ;' and they
 keep on throughout the night calling out to me,
@@ -2296,8 +2180,6 @@ death. So they climbed up to the ridge-pole of the
 house, upon the outside of the roof, and made holes
 in the thick layers of reeds which formed the thatch
 of the roof, and crept into them and covered themselves up ; and their mother called to them, saying, " When it draws near dawn, come down again,
-
-
 and stop up every chink in tlie house, so that no
 single ray of light may shine in."
 
@@ -2365,8 +2247,6 @@ shone brightly upon the earth, and rose high in the
 heavens ; and the old man again called out, " Ho,
 Tatau there ; is not it dawn yet ?" And she
 answered, "Yes." And then she called out to her
-
-
 children, " Be quick, pull out the things with which
 you have stopped up the window and the door."
 
@@ -2398,8 +2278,6 @@ she stole to his side and laid herself down by him.
 come on shore with the Ponaturi, and escaped out of the house by
 its power of leaping, gaining the water again by successive springs.
 
-
-THE LEGEND OF TAWHAKI. 67
 
 He, wlien disturbed by her, thought that it was only
 some female of this lower world, and slept again ;
@@ -2465,8 +2343,6 @@ was torn by regrets for his wife and his little girl.
 One moon had waned after her departure, when
 
 
-THE LEGEND OF TAWHAKI. 69
-
 Tawhaki, unable longer to endure such sufferings,
 called out to his younger brother, to Karihi, saying,
 " Oh, brother, shall we go and search for my little
@@ -2496,8 +2372,6 @@ she sat at the place where they touched the earth,
 and held the ends of one of them in her hands.
 
 This old lady was at the moment employed in
-
-
 counting some taro roots, which she was about to
 have cooked, and as she was bhnd she was not
 aware of the strangers who stole quietly and silently
@@ -2525,10 +2399,6 @@ feel anybody ; when she had thus swept her weapon
 all round her, she sat down and put it under her
 again. Karihi then struck her a blow upon the
 face, and she, quite frightened, threw up her hands
-
-
-THE LEGEND OF TAWHAKI. 71
-
 to her face, pressing tliem on the place where she
 had been struck, and crying out, " Oh ! who did
 that?" Tawhaki then touched both her eyes, and,
@@ -2653,8 +2523,6 @@ common slave, conveys impressions to their minds of which we can
 form no accurate notion.
 
 
-THE LEGEND OF TAWHAKI. 75
-
 women from the village in the forest gathering
 firewood, and as soon as they saw him, one of them
 observed to her companion, " I sa}^, here is a
@@ -2715,10 +2583,6 @@ As before, he said, "Yes," and when they started
 he remained behind, and after the others were all
 out of sight he took an axe, and began again to
 adze away at the canoe they had been working at ;
-
-
-THE LEGEND OF TAWHAKI. 77
-
 and LaviDO' finished liis work he returned ao-ain
 to the village, and once more walked straight up
 to the fire of Tango tango, and remained there
@@ -2747,8 +2611,6 @@ turned off the path on one side, and hid themselves
 in the thick clumps of bushes, in a place from
 whence they could see the canoes. Then Tawhaki,
 going a little way back into the forest, stripped off
-
-
 his old cloaks, and threw them on one side, and
 then repeating the necessary incantations he put
 off his disguise, and took again his own appearance,
@@ -2775,12 +2637,7 @@ Just at this moment Tawhaki reappeared at
 the village, having again disguised himself, and
 changed his appearance into that of an ugly
 old man. But Tangotango immediately questioned
-him, saying, " Now tell me, who are you ? " Tawhaki made no reply, but walked on straight to-
-
-
-THE LEGEND OF TAWHAKI. 79
-
-wards lier. She asked him again, " Tell me, are
+him, saying, " Now tell me, who are you ? " Tawhaki made no reply, but walked on straight towards lier. She asked him again, " Tell me, are
 you Tawhaki ? " He murmui-ed " Humph " in
 assent, still walking on until he reached the side of
 
@@ -2877,8 +2734,6 @@ they treated her in this manner the heai't of Hinauri became gloomy with grief a
 so she began to utter incantations against them,
 and repeated one so powerful that hardly had
 she finished it when the two women fell flat
-
-
 eupe's ascent into heaven. 83
 
 on the ground with the soles of their feet projecting upwards, and lay quite dead upon the
@@ -2909,8 +2764,6 @@ this inhabited?" and the people dwelling there
 answered him, " They are inhabited." And he
 ao-ain asked them, " Can I reach those heavens ? ''
 and they replied, "You cannot reach them, the
-
-
 heavens above these are those the boundaries of
 which were fixed by Tane."
 
@@ -2939,8 +2792,6 @@ slaves soon made the fire burn up brightly, and
 brought hollow calabashes, all ready to have food
 placed in them, and laid them down before Rehua.
 AH this time Rupe was wondering whence the food
-
-
 rupe's ascent into heaven. 85
 
 was to come from with which the calabashes, which
@@ -2966,8 +2817,6 @@ days, and the calabashes still stood near him untouched.
 At last, Rupe ventured to ask Rehua, saying,
 " 0 Rehua, has a confused murmur of voices fi'om
 the world below reached you upon any subject regarding which I am interested V And Rehua answered liim, " Yes, such a murmuring of distant
-
-
 voices has reached me firom the island of Motu-tapu
 in the world below these."
 
@@ -2996,8 +2845,6 @@ so she asked him, saying, " What is the cause
 which has made you thus come here ?" and the
 pigeon immediately began to open and shut its
 little bill, as if it was trying to speak. His young
-
-
 eupe's ascent into heaven. 87
 
 sister now called out to Tinirau, " Oh, husband,
@@ -3034,8 +2881,6 @@ new-born baby : in a moment they were gone.
 Thus the brother and sister departed together, with
 the infant, carrying with them the placenta to
 bury it with the usual rites ; and they ascended up
-
-
 to Reliua, and as they passed through the air, the
 placenta was accidentally dropped, and falling into
 the sea, was devoured by a shark, and this circumstance was what caused the multitude of
@@ -3104,8 +2949,6 @@ Sbortly afterwards, Kae said it was necessar}^ for
 bim to return to bis own village, wbicb was named
 Te Tibi-o-Manono ; so Tinirau ordered a canoe to be
 got ready for bim to take bim back, but Kae made
-
-
 kae's theft of the whale. 91
 
 excuses, and said he did not Kke to go back in the
@@ -3139,8 +2982,6 @@ body of Tutunui on shore, intending to feast upon
 it ; and this circumstance became afterwards the
 cause of a war against that tribe, who were called
 " The descendants of Poporokewa." When they
-
-
 had dragged Tutunui on shore, they cut its body
 up and cooked it in ovens, covering the flesh up
 with the fragrant leaves of the Koromiko before
@@ -3202,8 +3043,6 @@ had uneven teeth that lapped across one another,
 and thus discover which was Kae.
 
 In order, therefore, to make them laugh, Raukatauri exhibited all her amusing tricks and games ;
-
-
 she made them sing and play upon the flute, and
 upon the putorino, and beat time with castanets
 of bone and wood whilst they sang ; and they
@@ -3233,8 +3072,6 @@ and those who were watching him closely at once
 recognised him, for there they saw pieces of the
 flesh of Tutunui still sticking between his teeth,
 and his teeth were uneven and all overlapped one
-
-
 kae's theft of the whale. 95
 
 anotlier. From this circumstance a proverb has
@@ -3267,8 +3104,6 @@ enchanted sleep, the women ranged themselves in a
 long row, tlie whole way from the place where Kae
 was sleeping down to their canoe ; they all stood
 in a straight line, with a little interval between
-
-
 each of them ; and then two of them went to fetch
 Kae, and lifted the old magician gently up, rolled
 up in his cloaks, just as he had laid himself down
@@ -3297,8 +3132,6 @@ and resting upon the pillar in its centre.
 
 When Tinirau heard that the old magician had
 been brought to his village, he caused orders to be
-
-
 kae's theft of the whale. 97
 
 given to liis tribe that when he made his appearance in the morning, going to the house where Kae
@@ -3437,8 +3270,6 @@ agreed in this purpose, they began without delay to
 build canoes for its execution.
 
 They named some of their canoes the Whiritoa,
-
-
 the Tapatapaliukarere, the Toroa-i-taipakilii, the
 Hakii-ere, and the Mahunu-awatea, and to all the
 other canoes which they prepared for this purpose
@@ -3717,7 +3548,6 @@ two fountains ; then he laid down liis two-handed
 
 
 THE ADVENTURES OF RATA. Ill
-
 wooden sword on the gi'ound, at the edge of the
 fountain where he dressed his hair, and kneeling
 down on both knees beside it, he loosened the
@@ -3748,8 +3578,6 @@ found a very tall tree, quite straight throughout its
 entire length, he felled it, and cut off its noble branching top, intending to fasliion the trunk into a canoe ;
 and all the insects which inhabit trees, and the
 spirits of the forests, were very angry at this, and
-
-
 as soon as Rata had returned to the villao-e at evening, when his day's work was ended, they all came
 and took the tree, and raised it up again, and the
 innumerable multitude of insects, birds, and spirits,
@@ -3814,8 +3642,6 @@ Avhere the tree was lying upon the ground. Lo, a
 rush upon them is made by Rata. Ha, he has
 seized some of them ; he shouts out to them, saying,
 — " Ha, ha, it is you, is it, then, who have been
-
-
 exercising your magical arts upon my tree?" Then
 the children of Tane all cried aloud in reply, —
 " Who gave you authority to fell the forest god to
@@ -4268,8 +4094,6 @@ and if they give you all these things, then dance
 and sing for them. Then I your brother will go
 and seat myself just outside the doorway of the
 house, and when you rush out, I '11 bolt the housedoor and window, and when they try to pursue
-
-
 and catch you, the door and window will be
 bolted fast, and we two can escape without danger."
 Then he finished talkinsr to him.
@@ -4447,8 +4271,6 @@ tribe by a landslip. The axe Tutauru was only
 lately lost by Puraliokura and his brother Reretai,
 who were descended from Tama-ihu-toroa. When
 Ngahue, retm-ning, arrived again in Hawaiki, he
-
-
 found tliem all engaged in war, and when they
 heard his description of the beauty of this country
 of Aotea, some of them determined to come here.
@@ -4520,8 +4342,6 @@ wife, Kearoa on board, that she may make the
 canoe clean or common, with an offering of seaweed to be laid in the canoe instead of an offering
 of fish, for you know the second fish caught in a
 canoe, or seaweed, or some substitute, ought to be
-
-
 offered for the females, the first for the males ;
 then my canoe will be quite common, for all the
 ceremonies will have been observed, which should
@@ -4583,8 +4403,6 @@ the horizon, and ascertain whether we are near it,
 or very far off." But in the first place he felt some
 suspicions about his wife, lest Tama-te-kapua should
 steal her too, for he had found out what a treacherous person he was. So he took a string and tied
-
-
 one end of it to his wife's hair, and kept the
 other end of the string in his hand, and then he
 climbed up on the roof. He had hardly got on the
@@ -4643,8 +4461,6 @@ head I" Ngatoro sat astern Hstening ; the same
 cries of distress reached him a second time. Then
 
 * The people of New Zealand have another name for this whirlpool ; they call it, " the steep descent where the world ends." ,
-
-
 up sprang Tama-te-kapua, aud he in despair shouted
 out, " Oh, Ngatoro, Ngatoro, aloft there ! Do you
 hear ? The canoe is gone down so much by the
@@ -4674,8 +4490,6 @@ A great part of their provisions were lost as the
 canoe was sinking into the whirlpool. Thence
 comes the native proverb, if they can give a
 stranger but little food, or only make a present of
-
-
 a small basket of food, " Oh, it is the half-filled
 basket of Whakaoti-rangi, for she only managed to
 save a very small part of her provisions." Then
@@ -4705,8 +4519,6 @@ shortly afterwards the ornaments of Tauninihi were
 found by Mahina on the beach of Mahiti. As soon
 as Tauninihi heard they had been picked up, he ran
 to Mahina to cret them a&iin, but Mahina would
-
-
 not give them up to him ; thence this proverb for
 anything which has been lost and is found by
 another person, " I will not give it up, ' t is the red
@@ -4735,8 +4547,6 @@ by the Tainui had evidently been carefully dried
 over the fire before they had been fixed in the
 gi'ound. The people who had come in the Tainui
 also showed part of a rope which they had made
-
-
 fast to its jaw-bone. When these things were seen, it
 was admitted that the whale belonged to the people
 who came in the Taimii, and it was surrendered to
@@ -4799,8 +4609,6 @@ of Marama-kiko-hura ; then at once the canoe
 glided easily over the carefully-laid skids, and it
 soon floated securely upon the harbour of Manuka,
 The willing crews urged on the canoes with
-
-
 their paddles ; tliey soon discovered the mouth of
 the harbour upon the west coast, and passed out
 through it into the open sea ; they coasted along
@@ -4892,8 +4700,6 @@ a carved two-handed sword, a sword the handle of
 wliich was decked with i-ed feathers, Rua' held a
 similar weapon. Tama' first struck a fierce blow at
 Rua'. Rua' parried it, and it glanced harmlessly
-
-
 off; then E.ua' threw away his sword, and seized
 both the arms of Tama-te-kapua ; he held his arms
 and his sword, and dashed him to the earth. Tama'
@@ -4924,8 +4730,6 @@ have been no men since that time so taU as those
 heroes. The only man of these later times who
 was as tall as these was Tu-hou-rangi : he was nine
 feet high ; he was six feet up to the arm-pits. This
-
-
 generation have seen liis bones, they used to be
 always set up by the priests in the sacred places
 when they were made high places for the sacred
@@ -4985,8 +4789,6 @@ session.
 Tama-te-kapua, when dying, told his children
 where the j^recious ear-drop Kaukau-matua was,
 which he had hidden under the Avindow of his
-
-
 house ; and his children returned with Ngatoro to
 Maketu, and dwelt there ; and as soon as Ngatoro
 arrived, he went to the waters to bathe himself, as
@@ -5111,8 +4913,6 @@ to show that he claimed it ; the marks he left were
 fairies. Some of the generation now living have
 seen these spirits j they are mahcious spirits. If you
 take embers from an oven in which food has been
-
-
 cooked, and use them for a fire in a house, these
 spirits become offended ; although there be manypeople sleeping in that house, not one of them
 could escape (the fairies would, whilst they slept,
@@ -5171,8 +4971,6 @@ lying, thatched over with reeds and dried branches
 and leaves ; then he slung a dart, the point of
 which was bound round with combustible materials, over to the other side of the river ; the point
 of the dart was hghted, and it stuck right in the
-
-
 dry thatch of the roof over the Arawa, and the
 shed of dry stuff taking fire, the canoe was entirely
 destroyed.
@@ -5203,8 +5001,6 @@ country, saw the fire, for the bright glare of the
 gleaming flames was reflected in the sky, lighting
 up the heavens, and they all thought that it was the
 village at Maketu that had been burnt ; but those
-
-
 persons who were near Waitaha and close to the
 sea-shore near where the Arawa was, at once said,
 " That must be the Arawa which is burning ; it
@@ -5235,8 +5031,6 @@ after the deeds of Tu', the god of war; if you do
 you will perish, as if swept off" by the w^inds,
 but rather follow quiet and useful occupations, then
 you will die tranquilly a natural death. Depart,
-
-
 and dwell in peace with all, leave war and strife
 behind you here. Depart, and dwell in peace. It is
 war and its evils which are driving you from hence ;
@@ -5262,8 +5056,6 @@ could not help saying to one another, " It was upon
 account of war and its consequences, that we deserted our own country, that we left our fathers,
 our homes, and our people, and war and evil are
 following after us here. Yet we camiot remain
-
-
 patient under such an injury, every feeling urges us
 to revenge this wrong/'
 
@@ -5330,8 +5122,6 @@ house.
 
 She then said to her daughter, " Now depart,
 and when you reach your uncle Ngatoro, and your
-
-
 other relations, tell them that they have been
 cursed by Manaia, because the food in my oven was
 not cooked upon the occasion of a great assembly
@@ -5388,8 +5178,6 @@ believe that the trees are there at the present
 day).
 
 Then the other three women continued their
-
-
 journey, and they at length reached the summit of
 a hill, and sat down there to rest themselves,
 and whilst tlicy were resting, Haungaroa thought
@@ -5641,8 +5429,6 @@ this thigh ;" and a third, " That head is mine ;"
 for the blood shed from striking their noses during
 the previous night was now quite clotted on their
 bodies ; and the priests of those who were lying
-
-
 in the ovens having hidden themselves in the
 bushes of the shrubbery round the sacred jjlace,
 could not be seen by the priests of the town of
@@ -5705,8 +5491,6 @@ it, and had occupied its banks.
 
 Rangitu, who did not see them, as soon as he
 got to the edge of the stream, dipped his calabash
-
-
 to fill it, and as it did not sink easily, being
 empty and very light, lie stooped down and
 put his hand upon it to press it under the water ;
@@ -5822,8 +5606,6 @@ the day, burst forth the winds, and the rain, and
 the lightning, and the thunder, and into the harbour poured all the mountainous waves of the sea,
 and there lay the host of Manaia overcome with
 sleep, and snoring loudly ; but when the ancient
-
-
 priest and liis wife heard tlie rushing of the winds
 and the roaring of the waves, they closed their
 house up securely, and lay composedly down to rest,
@@ -5996,8 +5778,6 @@ lips: and when he saw this he ran off* with all his
 speed, but he was soon caught by the woman,
 not being able to go so fast as she could, for her
 feet bore her along, and wings were upon her
-
-
 arms, like those of a bird, and she brought him to
 her house, and they slept there.
 
@@ -6053,8 +5833,6 @@ along she kept calling out, " Step out, stretch
 along ; step out, stretch along. There you are,
 O Hatupatu, not far from me. There you are, 0
 Hatupatu, not far from me. Step out, stretch
-
-
 along ; step out, stretch along. There you are, 0
 Hatupatu, not far from me now."
 
@@ -6110,8 +5888,6 @@ should hear ; and I, moreover, will not sleep here
 with you, my parents, it is better for me to go
 and remain in the cave you have dug to keep your
 sweet potatoes in, that I may overhear each day
-
-
 what they say, and 1 11 take all my meals there."
 So he went, and he said, " Lei my father sleep with
 me in the cave in the night, and in the daytime
@@ -6170,8 +5946,6 @@ off the blows, and whirling round his wooden sword,
 two of tlie three were felled by the blade of it,
 and one by a blow from the handle ; then they sprang
 up, and rushed at him once more ; over they go
-
-
 again, two felled by the blade of his sword, and
 one by the handle ; it was enough' — they gave in.
 Then their father said to them, " Oh ! my sons, I
@@ -6352,8 +6126,6 @@ the enemy is already upon them in full charge. It
 is over ; all the divisions of Hatupatu's brothers
 are broken and flying in confusion ; what did it
 matter whether they were many or few, they were
-
-
 all cowards. Their enemies saw no brave men's
 faces, only the black backs of heads running away.
 All this time the division of Hatupatu appears
@@ -6415,8 +6187,6 @@ into the lake, and repeats a thanksgiving to
 the gods.
 
 When he had ended this, he promoted in honour
-
-
 his last-born child, and debased in rank his eldest
 sons.
 
@@ -6511,8 +6281,6 @@ After killing the poor boy, Turi cut the
 heart out of his body, which was eaten by himself and his friends; but when, shortly afterwards,
 a chieftainness, named Hotukura, sent up a present of baskets of food to their sacred ^^I'ince, to
 Uenuku, carried in the usual way by a long
-
-
 procession of people, some of Turi's friends
 pushed into the basket of baked sweet potatoes
 prepared for Uenuku the heart of Te Hawepotiki,
@@ -6820,8 +6588,6 @@ At last the seams of Turi's canoe opened in holes
 in many places, and the water streamed into it,
 and they rapidly dipped the bailers into the water
 and dashed it out over the sides ; Turi, in the
-
-
 meanwhile, reciting aloud an incantation, which
 was efficacious in preventing a canoe from being
 swamped ; they succeeded at length, by these
@@ -6882,8 +6648,6 @@ sun sets/' Turi replied, " Why, did not Kupe,
 who had visited these islands, particularly tell us ?
 Now mind, let nothing induce you to turn the
 prow of the canoe away from that quarter of the
-
-
 heavens in which the sun rises." However, Potoru
 still persisted in his opinion, and at last Turi gave
 up the point, and let him have his own way ; so
@@ -6938,8 +6702,6 @@ having sent one party before him, under Pungarehu, ordering them to plant the st
 berries of the Karaka-tree, which they had brought
 with them, all along their route, in order that so
 valuable an article of food might be introduced
-
-
 into these islands. Turi, who followed with another party after Pungarehu, gave names to all
 the places as they came along ; when he reached
 the harbour of Kawhia, he gave it that name or
@@ -7173,7 +6935,6 @@ L 3
 
 
 226 POLYNESiiUsr mythology,
-
 attack them, so that their numbers dwindled away,
 till at length Manaia becjan to reflect within
 himself, saying, " Ah, ah, my warriors are wasting
@@ -7233,8 +6994,6 @@ him by the head and slay him/' At length his
 feet could no longer touch the bottom, and he
 found himself swimming close to the canoe ; then
 Manaia seized him by the head, with one blow of
-
-
 his stone battle-axe he clave it, and his brother-inlaw perished.
 
 Having thus slain his victim, he caught up his dog
@@ -7296,8 +7055,6 @@ yet seen \' thus all were led to leave their proper
 work, and to wander a long way along the shore,
 exploring the new country, and seeking for a site
 for their future home ; at last they found that little
-
-
 by little they had been drawn a long Avay from the
 spot where they had landed, and from the whale
 which they had found.
@@ -7419,8 +7176,6 @@ order to obtain possession of it.
 Manaia was the ancestor of the Ngati-Awa tribe ;
 he fought two great battles in Hawaiki, the names
 of wliich were Kirikiriwawa and Rotorua ; the
-
-
 fame of his iveapons resounded there — their names
 were Kihia and Rakea ; and there also was known
 the fame of his son, of Kahu-kaka-nui-a-Manaia, of
@@ -7453,8 +7208,6 @@ of this third son, that Rangi-Uru eloped with
 Tuwharetoa, who had come to Rotorua as a stranger
 on a visit. From tliis affair sprang Tutanekai,
 who was an illegitimate child ; but finally, "Whakaue and Rangi-Uru were united again, and she
-
-
 had another son whose name was Kopako ; and
 then she had a daughter whom they named Tupa ;
 she was the last child of Whakaue.
@@ -7517,8 +7270,6 @@ your female friends to teU him of your love, perchance he will not be pleased wi
 " However, after they had thus met for many,
 many days, and had long fondly glanced each at the
 other, Tutanekai sent a messenger to Hine-Moa, to
-
-
 tell of Ills love ; and when Hine-Moa had seen the
 messenger, she said, ' Eh-hu ! have we then each
 loved alike?'
@@ -7576,8 +7327,6 @@ of them for each side, and she went out upon a
 rock, which is named Iri-iri-kapua, and from thence
 to the edge of the water, to the spot called Wairerewai, and there she threw off" her clothes and cast
 herself into the water, and she reached the stump
-
-
 of a sunken tree which used to stand in the lake,
 and was called Hinewhata, and she clung to it
 with her hands, and rested to take breath, and
@@ -7793,8 +7542,6 @@ him a child named Paka.
 "When Maru-tuahu came to man's estate, he took
 up his club, and asked his mother, saying, " Mother,
 show me the mountain range that is near my
-
-
 father's abode ;" and the mother said, " Look my
 child towards the place of sunrise." And her son
 said, "What, there?" and he Avas answered by his
@@ -7915,8 +7662,6 @@ together to Hotunui, and then- father Te Whatu, to
 inform them who was coming, as they had previously left the old men waiting for their return ;
 but pi-esently the two girls changed their plan, and
 arranged between themselves, that the youngest
-
-
 should run quickly to tell Hotunui that his son
 was coming, and that the eldest sister should
 be left to lead Maru-tuahu to the village ; and
@@ -7976,8 +7721,6 @@ to her.
 The feast being ended, they left the common
 part of the fortress where food was eaten, and
 moved on one side, to the sacred precincts. When
-
-
 the evening came on a fire was kindled in tlie
 house, and the eldest girl not seeing her younger
 sister, went to her father to ask for her, and was
@@ -8039,8 +7782,6 @@ fish ; and he only looked up at me. Again I
 asked him for some fish ; and then he said. Who
 sent you here to fetch fish, pray? Then I told
 him, Hotunui sent me down to bring up some fish
-
-
 for him, lie quite longs to taste them ; then the
 man cursed you, saying to me, Is Hotunui's head
 the flax that grows in the swamp at Otoi ; or is
@@ -8101,8 +7842,6 @@ As they were to stretch the great net made up
 of all the small ones upon the next morning, on
 that evening they put all the nets and ropes
 into the water to soak them, in order to soften the
-
-
 flax of wliicli they were made, so that they might
 be more easily stretched ; and when the morning
 dawned those who had come for the purpose began
@@ -8161,8 +7900,6 @@ was then named Pukeahau, but which was afterwards called Kariliitangata (or, men
 weio-hts which were attached to the net to sink
 it), upon account of the thousand people who were
 there slain by treachery in the net of Maru-tuahu ;
-
-
 for men were the weights that were attached to
 that net to sink it. After the death of all these
 people, the country they inhabited became the property of Maru-tuahu, and his heirs dwell there to
@@ -8222,8 +7959,6 @@ This was quite enough ; poor little Te Kahureremoa felt entirely overcome with s
 the basket of fish, dropping it just where she was,
 and ran back into the house, and began to sob and
 cry; then her thouglits suggested to her, that after
-
-
 this, it would be better that she should be no
 more seen by the eyes of her father, and that her
 father's face should be no more seen by her, and
@@ -8464,8 +8199,6 @@ nobly -born person asking after another ; " and the
 slave said, "Well, if it is my mistress you are
 aslcing about, the young lady's name is Te Kahureremoa;" and he answered her, "What! is this
 Te Kahureremoa, the daughter of Paka?" and the
-
-
 slave replied, "Yes, do you think there are more
 Pakas than one, or more Te Kahureremoas than
 one ? — this is really she ;" and the young chief said,
@@ -8724,8 +8457,6 @@ from them ; and although many warriors and armies
 went to the Sacred Mount to try to destroy the
 sorcerers to whom the head belonged, and to carry
 it off as a genius for their own district, that its
-
-
 magical powers might be subservient to them,
 they all perished in the attempt. In short, no
 mortal could approach the fortress, and live ;
@@ -8786,8 +8517,6 @@ they went safely on, and reached Te Weta ; there
 the heart of Hakawau's friend began to beat again,
 and he said, " I feel sure that we shall perish
 here ;" however they passed by that place too in
-
-
 safety, and on tliey went, and at length tliey
 reached the most fatal place of all — Wainiatuku,
 Here they smelt the stench of the carcases of the
@@ -8843,8 +8572,6 @@ When all the evil spirits who had been subject
 to the old sorcerer had been thus destroyed, Hakawau walked straight up towards the fortress of
 this fellow, in whom spirits had dwelt as thick as
 men stow themselves in a canoe, and whom they
-
-
 had used in like manner to cany them about. When
 the watchmen of the fortress, to their great surprise, saw strangers coming, Puarata hurried to his
 magic head, to call upon it; his supplication was
@@ -8901,8 +8628,6 @@ called out to them not to go immediately, but to
 take some food first ; but Hakawau answered, " Oh,
 we ate only a little while ago ; not far from here
 we took some food." So Hakawau would not remain longer in the fortress, but departed, and as
-
-
 he started, lie smote his hands on the thi*eshold of
 the house in which they had rested, and they had
 hardly got well outside of the fortress before every
@@ -8932,8 +8657,6 @@ been fishing had made them in the night-time, not
 that morning, nor in the day ; and he said to
 himself, " These are no mortals who have been
 fishing here — spirits must have done this ; had
-
-
 they been men, some of the reeds and grass which
 they sat on in their canoe would have been lying
 about." He felt quite sure from several circumstances, that spirits or fairies had been there ; and
@@ -8994,10 +8717,7 @@ rises."
 Kahukura kept on stringing his fish with the
 rest of them. He had only a very short string,
 and, making a slip-knot at the end of it, when
-
 o
-
-
 he liad covered the string with fish, he lifted them
 lip, but had hardly raised them from the ground
 when the slip-knot gave way fi-om the weight
@@ -9197,7 +8917,6 @@ comb, made from the bone of a whale, and a
 plume of the long downy feathers of the wliite
 heron, the emblems of his chieftainship. Then was
 heard by all, the voice of the aged man as he
-
 o 3
 
 
@@ -9297,8 +9016,6 @@ After this the people of Waikato thought, for a
 long time, "Well, what had we better do now
 to destroy these enemies of ours V And seeing no
 way to accomplish this, they determined to make
-
-
 peace with them ; so, at last, they arranged a peace,
 and it appeared to be a sure one.
 
@@ -9359,8 +9076,6 @@ knew that she could not dance so well, or so
 becomingly, if she pressed on before the measure was completed, but that when the beating
 time by the assembly with their feet and hands,
 and the deep voices of the men, were all in exact
-
-
 unison, was the fitting moment for her to bound
 forward into the dance, with the becoming gestures.
 
@@ -9414,8 +9129,6 @@ me, ' Sirrah, I want water, fetch me some ;' call
 loudly, so that the father of the young girl may
 hear ; then he will probably say to his daughter,
 ' My child, my child, why do you let our guest call
-
-
 so 6 POLYNESIAN MYTHOLOGY.
 
 in tliat way for water, without running to fetch
@@ -9475,8 +9188,6 @@ not you have remained at my father's house until I
 brought the water for you ? " Then Te Ponga answered, " You are the water that I tliirsted for."
 And as the maiden listened to his words, she
 thought within herself, " He, then, has fallen in love
-
-
 witli me ;" and she sat down, and he placed himself
 by her side, and they conversed together, and to
 each of them the words of the other seemed most
@@ -9797,8 +9508,6 @@ France's library.
 
 Dr. Barney, in common with most other modern writers
 on the subject, says, " the intervals of the close enharmonic tetrachord
-
-
 z3±
 
 
@@ -9911,14 +9620,11 @@ observed in the tuning of an organ. Dr. Maxwell makes
 2025 , . ,. . , 32768 , . ^ ,
 
 — — — the maj. diesis, and „ the mm. But the sense m
-
 which I shall use it is that of the ancient quarter-tone,
-
 being an approach to the quarter of a tone major, or rather
 
 243 .
 the division of the limma ■-— into two unequal parts; this
-
 is called the Aristoxenian diesis quadrantalis ; which is re-
 
 P 3
@@ -9929,17 +9635,14 @@ presented nearly by 120 being the lo^^•est note; then
 116-60: ] 13-39.
 
 I shall not trouble the reader -with chronological or
-
 scholastic differences ; the diesis of Archytas being given by
 
 Vincent as 115-5- : 119|, that of Eratosthenes as 117 : 114,
-
 for keen indeed must be the ear that could discern be-
 
 15 24
 
 tweeu --— and — (except in harmony) ; much more difficult
-
 still would it be to discover a difference between 116-60 :
 
 l]3-39andll4or —.
@@ -10071,8 +9774,6 @@ extreme.
 
 I here beg to state that, though with great care and the
 assistance of a graduated monochord, and an instrument
-
-
 divided like the intervals of the Chinese kin, 1 have endeavoured to give an idea of those airs of New Zealand which
 I heard, yet so difficult is it to discover the exact interval,
 that I will not vouch for the mathematical exactness : neither will I pledge myself not to have written a chromatic
@@ -10100,7 +9801,6 @@ NOTATION.
 
 The notation that I have adopted is, for the enharmonic
 diesis, the St. Andrew's cross or saltier x, quarter tone or
-
 half sharp; the usual tt for the sharp; and J for threequarter sharp. In like manner, the -^ for quarter tone
 or half flat ; b for the flat ; and '^ (or I might have said i^)
 for the three-quarter flat.
@@ -10113,8 +9813,6 @@ In my notation, also, it must be observed, that a sign
 
 Jl or b never conveys its influence beyond the note to which
 it is attached ; thus
-
-
 would read E half-flat, E natural, E half-sharp, E natural ;
 and is a delicate expression of the chromatic
 
@@ -10126,8 +9824,6 @@ and is a delicate expression of the chromatic
 
 
 ^t
-
-
 or of the diatonic
 
 

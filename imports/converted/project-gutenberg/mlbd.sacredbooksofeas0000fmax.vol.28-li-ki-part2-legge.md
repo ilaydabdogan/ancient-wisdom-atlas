@@ -1,243 +1,5 @@
 # The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism, Part IV; Sacred Books of the East, Vol. 28)
 
-THESACRED BOOKS
-OF THEEAST |
-
-
-Volume 28 | eS
-
-
-i i
-~ SACRED BOOKS OF CHINA
-THETEXTSOFCONFUCIANISM
-
-
-Part IV
-The Li Ki, XI - XLVI
-
-
-THE
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED BY
-VARIOUS ORIENTAL SCHOLARS
-
-
-EDITED BY
-F. MAX MULLER
-
-
-VOLUME 28
-
-
-SACRED BOOKS OF THE EAST
-
-
-(50 VOLUMES)
-Series Editor : F. Max-Miiller
-ISBN: 978-81-208-0101-1 (Set) pita
-These volumes of the Sacred Books of the East series include translations of
-all the most important works of the seven non-Christian religions that have
-exercised a profound influence on the civilisations of the continent of Asia.
-The Vedic Brahmanic system claims 21 volumes, Buddhism 10, and Jainism
-2;8 volumes comprise Sacred Books of the Parsis;2 volumes represent Islam;
-and 6 the two main indigenous systems of China. Translated by twenty
-leading authorities in their respective fields, the volumes have been edited
-by the late F. Max Miller. The inception, publication and the compilation of
-these books cover almost 34 years.
-I. BUDDHISM
-Vol. 49: Buddhist Mahayana Texts (2 Parts)
-Vol. 11: Buddhist Suttas
-Vol. 10: The Dhammapada and Sutta Nipata
-Vols. 35 & 36: The Questions of King Milinda (2 Parts)
-Vol. 21: The Saddharma Pundarika or the Lotus of the True Law
-Vols. 13, 17 & 20: Vinaya Texts (3 Parts)
-II. CHINESE
-Vol. 19: The Fo-Sho-Hing-Tsan-King
-Vols. 3, 16, 27, 28, 39 & 40: The Sacred Books of China (6 Parts)
-III. A GENERAL INDEX
-Vol. 50: A General Index to the Names and Subject-matter of the Sacred Books
-of the East
-; IV. ISLAM
-Vols. 6 & 9: The Qur'an (2 Parts)
-V. JAINISM
-Vols. 22 & 45: The Jaina Sutras (2 Parts)
-VI. PARSIS
-Vols. 5, 18, 24, 37 & 47: Pahlavi Texts (5 Parts)
-Vols. 4, 23 & 31: The Zend-Avesta (3 Parts)
-VII. VEDIC-BRAHMANIC SYSTEM
-Vol. 8: The Bhagavadgita with the Sanatsujatiya and the Anugita
-Vols. 29 & 30: The Grihya-Sutras: Rules of Vedic Domestic Ceremonies (2 Parts)
-Vol. 42: Hymns of the Atharva Veda together with Extracts from the Ritual
-Books and the Commentaries
-Vol. 7: The Institutes of Vishnu
-Vol. 25: The Laws of Manu
-Vol. 33: The Minor Law Books
-Vols. 2 & 14: The Sacred Laws of the Aryas as Taught in the Schools of
-Apastamba, Gautama, Vasishtha and Baudhayana (2 Parts)
-Vols. 12, 26, 41, 43 & 44: The Satapatha Brahmana According to the Text of
-the Madhyandina School (5 Parts)
-Vols. 1 & 15: The Upanishads (2 Parts)
-Vols. 34 & 38: The Vedanta Sutras (2 Parts)
-Vol. 48: The Vedanta-Sutras (with the commentary by Ramanuja)
-Vols. 32 & 46: Vedic Hymns (2 Parts)
-
-
-THE
-SACRED BOOKS OF CHINA
-
-
-The texts of Confucianism
-
-
-Translated by
-JAMES LEGGE
-
-
-Part IV
-The LI KI, XI—XLVI
-
-
-MOTILAL BANARSIDASS PUBLISHERS
-PRIVATE LIMITED ¢ DELHI
-
-
-Reprint: Delhi, 1964, 1967, 1970, 1976, 1986, 1992, 2001, 2008
-First published by the Oxford University Press, 1885
-
-
-© MOTILAL BANARSIDASS PUBLISHERS PRIVATE LIMITED
-All Rights Reserved
-
-
-ISBN: 978-81-208-0129-5
-
-
-MOTILAL BANARSIDASS
-
-
-41 U.A. Bungalow Road, Jawahar Nagar, Delhi 110007
-8 Mahalaxmi Chamber, 22 Bhulabhai Desai Road, Mumbai 400 026
-203 Royapettah High Road, Mylapore, Chennai 600 004
-236, 9th Main III Block, Jayanagar, Bangalore 560 011
-Sanas Plaza, 1302 Baji Rao Road, Pune 411 002
-8 Camac Street, Kolkata 700 017
-Ashok Rajpath, Patna 800 004
-Chowk, Varanasi 221 001
-
-
-UNESCO COLLECTION OF REPRESENTATIVE WORKS— Indian Series
-This book has been accepted in the Indian Translation Series of the
-UNESCO Collection of Representative Works, jointly sponsored
-by the United Nations Educational Scientific and Cultural
-Organization (UNESCO) and the Government of India
-
-
-PRINTED IN INDIA
-
-
-BY JAINENDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS,
-A-45 NARAINA, PHASE-I, NEW DELHI 110 028
-AND PUBLISHED BY NARENDRA PRAKASH JAIN FOR
-MOTILAL BANARSIDASS PUBLISHERS PRIVATE LIMITED,
-BUNGALOW ROAD, DELHI 110 007
-
-
-RASHTRAPATI BHAVAN,
-New DELHI 4
-June 10, 1962
-
-
-I am very glad to know that the Sacred Books of the
-East, published years ago by the Clarendon Press, Oxford,
-which have been out of print for a number of years, will now
-be available to all students of religion and philosophy. The
-enterprise of the publishers is commendable and I hope the
-
-
-books will be widely read.
-
-
-S. RADHAKRISHNAN
-
-
-PREFATORY NOTE TO THE NEW EDITION
-
-
-Since 1948 the United Nations Educational, Scientific
-and Cultural Organization (UNESCO), upon the recom-
-mendation of the General Assembly of the United Nations,
-has been concerned with facilitating the translation of the
-works most representative of the culture of certain of its Mem-
-ber States, and, in particular, those of Asia.
-
-
-One of the major difficulties confronting this programme
-is the lack of translators having both the qualifications and
-the time to undertake translations of the many outstanding ©
-books meriting publication. To help overcome this difficulty
-in part, UNESCO’s advisers in this field (a panel of experts
-convened every other year by the International Council for
-Philosophy and Humanistic Studies), have recommended that
-many worthwhile translations published during the 19th century,
-and now impossible to find except in a limited number of
-libraries, should be brought back into print in low-priced
-editions, for the use of students and of the general public. The
-experts also pointed out that in certain cases, even though
-there might be in existence more recent and more accurate
-translations endowed with a more modern apparatus of scholar-
-ship, a number of pioneer works of the greatest value and
-interest to students of Eastern religions also merited republi-
-cation.
-
-
-This point of view was warmly endorsed by the Indian
-National Academy of Letters (Sahitya Akademi), and the
-Indian National Commission for UNESCO.
-
-
-It is in the spirit of these recommendations that this
-work from the famous series “‘Sacred Books of the East’’ is
-now once again being made available to the general public
-as part of the UNESCO Collection of Representative Works.
-
-
-PUBLISHER’S NOTE
-
-
-First, the man distinguished between eternal and perish-
-able. Later, he discovered within himself the germ of the
-Eternal. This discovery was an epoch in the history of the
-human mind and the East was the first to discover it.
-| To watch in the Sacred Books of the East the dawn of
-this religious consciousness of man, must always remain one
-of the most inspiring and hallowing sights in the whole history
-of the world. In order to have a solid foundation for a com-
-parative study of the Religions of the East, we must have before
-all things, complete and thoroughly faithful translation of their
-Sacred Books in which some ofthe ancient sayings were pre-
-served because they were so true and so striking that they
-could not be forgotten. They contained eternal truths, ex-
-pressed for the first time in human language.
-
-With profoundest reverence for Dr. S. Radhakrishnan,
-President of India, who inspired us for the task; our deep
-sense of gratitude for Dr. C. D. Deshmukh & Dr. D. S.
-Kothari, forencouraging assistance; esteemed appreciation of
-UNESCO for the warm endorsement of the cause; and finally
-with indebtedness to Dr. H. Rau, Director, Max Miller
-Bhawan, New Delhi, in procuring us the texts of the Series
-for reprint, we humbly conclude.
-
-
-mt Eek I.
-
-
-A COLLECTION OF TREATISES ON THE RULES
-OF PROPRIETY OR CEREMONIAL USAGES.
-
-
 BOOK XI. YU 3A0
 
 
@@ -294,8 +56,7 @@ morning meal in it. At midday he partook of
 what was left in the morning. He had music at
 his meals. Every day a sheep and a pig were
 killed and cooked; and on the first day of the
-month an ox in addition. There were five bever-
-ages :—water, which was the principal; rice-water,
+month an ox in addition. There were five beverages :—water, which was the principal; rice-water,
 spirits, must, and millet-water.
 
 5. When he had done eating, he remained at
@@ -316,16 +77,13 @@ An intercalary month was an irregular arrangement of the year.
 It and the previous month formed one double month. The shutting
 half the door showed that one half of the time was passed. There
 remained the other leaf to be given—in the temple or in the palace
-—to the king for all the ceremonies or acts of government ap-
-propriate in such a position for the whole intercalary month.
-Something like this is sketched out as the meaning by the Xhien-
-lung editors,
+—to the king for all the ceremonies or acts of government appropriate in such a position for the whole intercalary month.
+Something like this is sketched out as the meaning by the Xhienlung editors,
 
 ? These were so named from the form in which they were made,
 the cloth being cut straight and square,
 
-* And judged, it is said, of the character of the measures of govern-
-ment; but this is being ‘over-exquisite’ to account for the custom.
+* And judged, it is said, of the character of the measures of government; but this is being ‘over-exquisite’ to account for the custom.
 
 
 SECT. I. YU 3Ao. 3
@@ -334,15 +92,13 @@ SE ee ee
 7. The princes of states, in sacrificing, wore their
 dark-coloured square-cut robes. At court-audiences
 (of the king), they wore the cap of the next inferior
-degree of rank to their own?, They wore the skin-
-cap, when listening to the notification of the first
+degree of rank to their own?, They wore the skincap, when listening to the notification of the first
 day of the month in the Grand temples; and their
 court robes when holding their daily audience in
 the inner court-yard.
 
 8. (Their ministers and officers) entered (the
-palace) as soon as they could distinguish the dawn-
-ing light 2, and the ruler came out daily (to the first
+palace) as soon as they could distinguish the dawning light 2, and the ruler came out daily (to the first
 court, inside the Kha gate), and received them.
 (After this audience), he retired, and went to the
 great chamber, there to listen to their proposals
@@ -368,8 +124,7 @@ court. See Book II, ii, 8 ; iii, 8, et al.
 
 * They sat or waited, not inside the chamber, but outside.
 Some Great officer might wish to bring a matter before the ruler
-which he had not ventured to mention in public. The ruler, there-
-fore, would give him a private audience ; and did not feel himself
+which he had not ventured to mention in public. The ruler, therefore, would give him a private audience ; and did not feel himself
 free from business till‘all had withdrawn.
 
 
@@ -397,8 +152,7 @@ the ruler did not have full meals nor music. If
 the year were not abundant, he wore linen, and
 stuck in his girdle the tablet of an officer*. Duties
 were not levied at the barrier-gates and dams;
-the prohibitions of the hills and meres were en-
-forced, but no contributions were required (from
+the prohibitions of the hills and meres were enforced, but no contributions were required (from
 hunters and fishermen). No earthworks were
 undertaken, and Great officers did not make (any
 new) cafriages for themselves.
@@ -434,8 +188,7 @@ officer had a covering of deer skin, edged with
 leopard’s fur; as also had an ordinary officer for
 his sacred carriage},
 
-14. The regular place for a gentleman was ex-
-actly opposite the door, (facing the light). He slept
+14. The regular place for a gentleman was exactly opposite the door, (facing the light). He slept
 with his head to the east. When there came
 violent wind, or rapid thunder, or a great rain, he
 changed (countenance). It was the rule for him
@@ -443,8 +196,7 @@ then, even in the night, to get up, dress himself,
 put on his cap, and take his seat.
 
 15. He washed his hands five times a day. He
-used millet-water in washing his head, and maize-
-water in washing his face. For his hair (when wet)
+used millet-water in washing his head, and maizewater in washing his face. For his hair (when wet)
 he used a comb of white-grained wood, and an ivory
 comb for it when dry. (After his toilet), there
 were brought to him the (usual) cup and some
@@ -468,9 +220,6 @@ strangely constructed. It is supposed that the ruler’s carriage at
 the beginning of it was also a sacred one.
 
 2 Came up on the raised hall, that is.
-
-
-6 THE Li Ki. BK. XI.
 
 
 he passed the night in vigil and fasting, occupying
@@ -554,12 +303,8 @@ should not eat largely; when eating at another's,
 
 1 And also any tablets or other things to be referred to.
 ? Tasting the things before the ruler to see that they were good
-
-
 and safe.
 ’ That is, touched those parts with his fingers to see that no
-
-
 grains were sticking to them.
 
 
@@ -581,10 +326,8 @@ cup, he then returned his empty.
 The rule for a superior man in drinking (with the
 ruler) was this :—When he received the first cup, he
 wore a grave look; when he received the second, he
-looked pleased and respectful. With this the cere-
-mony stopped. At the third cup, he looked self-
-possessed and prepared to withdraw. Having with-
-drawn, he knelt down and took his shoes, retired out
+looked pleased and respectful. With this the ceremony stopped. At the third cup, he looked self-
+possessed and prepared to withdraw. Having withdrawn, he knelt down and took his shoes, retired out
 of the ruler’s (sight) and put them on. Kneeling on
 his left knee, he put on the right shoe; kneeling on
 the right knee, he put on the left one’.
@@ -630,8 +373,7 @@ having been thus employed, be put away or disused *.
 tassels descending to the breast, was used at the
 capping of the son of Heaven. The cap of black
 linen, with strings and tassels of various colours, was
-used at the capping of a feudal prince. A dark-
-coloured cap with scarlet strings and tassels was worn
+used at the capping of a feudal prince. A darkcoloured cap with scarlet strings and tassels was worn
 by a feudal lord, when fasting. A dark-coloured
 cap with gray strings and tassels was worn by officers
 when similarly engaged.
@@ -659,10 +401,8 @@ in deep mourning for him.
 
 
 10 THE Li Kf. BK. XI.
-served to mark the idle and listless officer’. A dark-
-coloured cap with the roll round it of white silk was
-worn by one excluded from the ranks of his com-
-peers *,
+served to mark the idle and listless officer’. A darkcoloured cap with the roll round it of white silk was
+worn by one excluded from the ranks of his compeers *,
 
 4. The cap worn in private, with the roll or border
 attached to it, was used by all from the son of Heaven
@@ -709,8 +449,7 @@ SECT. II. yu 3Ao. Il
 ee oe 6 [
 
 If the upper garment were of one of the correct
-colours, the lower garment was of the (correspond-
-ing) intermediate one},
+colours, the lower garment was of the (corresponding) intermediate one},
 
 9. One did not enter the ruler’s gate without the
 proper colours in his dress; nor in a single robe
@@ -741,15 +480,11 @@ he wore one of embroidered silk over it to display it®.
 
 1 The five ‘correct’ colours were azure FF ; of varying shade),
 scarlet Cis carnation, the colour of the flesh), white, black, and
-yellow. The ‘intermediate’ were green (SK), red (AL), jade-
-
-
-green (24), purple (%), and bay-yellow (yn fi).
+yellow. The ‘intermediate’ were green (SK), red (AL), jadegreen (24), purple (%), and bay-yellow (yn fi).
 
 
 2 See the concluding article in the ‘ Narratives of the School.’
-The words of Confucius are understood to intimate a condemna-
-tion of Ki Khang-3ze.
+The words of Confucius are understood to intimate a condemnation of Ki Khang-3ze.
 
 3 Made of black lamb’s fur and white fox-fur.
 
@@ -808,8 +543,6 @@ and of what fish, I do not know.
 
 SLCT. Il. YU 3Ao. 13
 a re ee Os
-
-
 officers might use bamboo, adorned with ivory at the
 bottom.
 
@@ -817,15 +550,13 @@ bottom.
 and at trials of archery, there was no such thing as
 being without this tablet. It was contrary to rule to
 enter the Grand temple without it. During the five
-months’ mourning, it was not laid aside. When en-
-gaged in the performance of some business, and wear-
+months’ mourning, it was not laid aside. When engaged in the performance of some business, and wear-
 ing the cincture, one laid it aside. When he had put
 it in his girdle, the bearer of it was required to wash
 his hands ; but afterwards, though he had something
 to do in the court, he did not wash them (again).
 
-When one had occasion to point to or draw any-
-thing before the ruler, he used the tablet. When he
+When one had occasion to point to or draw anything before the ruler, he used the tablet. When he
 went before him and received a charge, he wrote it
 down on it. For all these purposes the tablet was
 used, and therefore it was ornamental.
@@ -903,8 +634,6 @@ SECT. II. YU 8Ao. 15
 
 
 ne nn, oe ee ee
-
-
 inches (wide)'. In variegated girdles, the colours
 for a ruler were vermilion and green; for a Great
 officer, cerulean and yellow; for an (ordinary) officer,
@@ -913,8 +642,7 @@ round the body a second time, appeared to be 4
 inches. On all girdles which were tucked in there
 was no needlework.
 
-24. (An officer) who had received his first com-
-mission wore a cover of reddish-purple, with a black
+24. (An officer) who had received his first commission wore a cover of reddish-purple, with a black
 supporter for his girdle-pendant. One who had
 received the second commission wore a scarlet cover,
 (also) with a black supporter for the pendant; and
@@ -931,8 +659,7 @@ pheasants’. |
 
 27. (The cords that formed the loops and buttons)
 were 3 inches long, equal to the breadth of the
-girdle. The rule for the length of the sash (descend-
-ing from the girdle) was, that, for an officer, it should
+girdle. The rule for the length of the sash (descending from the girdle) was, that, for an officer, it should
 
 
 1 This, according to the A/ien-lung editors, was the girdle or
@@ -959,8 +686,7 @@ parts, and the sash will be equal to two of them.
 The sash, the knee-covers, and the ties are all of
 equal length?.’
 
-28. (The wife of a count or baron) who had re-
-ceived a degree of honour from the ruler’ wore a
+28. (The wife of a count or baron) who had received a degree of honour from the ruler’ wore a
 pheasant cut out in silk on her robe ; (the wife of the
 Great officer of a count or baron), who had received
 two degrees, wore a robe of fresh yellow; (the wife
@@ -968,8 +694,7 @@ of a Great officer), who had received one degree, a
 robe of white; and the wife of an exainaty officer,
 a robe of black.
 
-29. Only the ladies of honour® received their de-
-gree of appointment, when they presented their
+29. Only the ladies of honour® received their degree of appointment, when they presented their
 cocoons. The others all wore the dresses proper to
 them as the wives of their husbands.
 
@@ -1008,16 +733,14 @@ Section ITI.
 
 1. All (officers) in attendance on the ruler let the
 sash hang down till their feet seemed to tread on
-the lower edge (of their skirt), Their chins pro-
-jected like the eaves of a house, and their hands
+the lower edge (of their skirt), Their chins projected like the eaves of a house, and their hands
 were clasped before them low down. Their eyes
 were directed downwards, and their ears were higher
 than the eyes. They saw (the ruler) from his girdle
 up to his collar. They listened to him with their
 ears turned to the left ”.
 
-2. When the ruler called (an officer) to his pre-
-sence, he might send three tokens. If two of them
+2. When the ruler called (an officer) to his presence, he might send three tokens. If two of them
 came to him, he ran (to answer the message); if
 (only) one, he yet walked quickly. If in his office,
 he did not wait for his shoes; if he were outside
@@ -1045,9 +768,6 @@ left to hear him.
 
 3 That the more honourable visitor might not have the trouble
 of responding with a bow.
-
-
-[28]
 
 
 18 THE Li Kt. BK, XI.
@@ -1118,8 +838,7 @@ of the virtues (which he should cultivate).
 
 9. The son of Heaven had his pendant composed
 of beads of white jade, hung on dark-coloured
-strings; a duke or marquis, his of jade-beads of hill-
-azure, on vermilion strings; a Great officer, his of
+strings; a duke or marquis, his of jade-beads of hillazure, on vermilion strings; a Great officer, his of
 beads of aqua-marine, on black strings; an heir-son,
 his of beads of Yii jade, on variegated strings; an
 ordinary officer, his of beads of jade-like quartz, on
@@ -1147,8 +866,7 @@ more general application.
 20 THE Li Kt. BK. XI.
 
 
-with an embroidered edging. His sash was embroi-
-dered, and (also) the strings for the button-loops (of
+with an embroidered edging. His sash was embroidered, and (also) the strings for the button-loops (of
 his girdle). With sucha string he bound up his hair.
 The embfoidered border and strings were all red.
 
@@ -1174,10 +892,8 @@ the offering, the host apologised, saying that the food
 was not worthy of such a tribute. When the guest
 was enjoying che viands, the host apologised for their
 being scanty and poor. When the host himself put
-down the pickle (for the guest), the guest himself re-
-moved it. When the members of a household ate
-together, not being host and guests, one of them re-
-moved the dishes; and the same was done when a
+down the pickle (for the guest), the guest himself removed it. When the members of a household ate
+together, not being host and guests, one of them removed the dishes; and the same was done when a
 company had eaten together. At all festival meals,
 the women (of the house) did not remove the dishes.
 
@@ -1199,8 +915,7 @@ put down the first slice of a melon as an offering, ate
 the other slices, and threw away the part by which
 they held it. When others were eating fruits with
 a man of rank, they ate them after him; cooked
-viands they ate before him?. At meetings of re-
-joicing, if there were not some gift from the ruler,
+viands they ate before him?. At meetings of rejoicing, if there were not some gift from the ruler,
 they did not congratulate one another ; at meetings
 of sorraw’,....,
 
@@ -1209,8 +924,7 @@ took them in his hand. If he were running, he
 thrust them in his breast?.
 
 16. When Confucius was eating with (the head
-of) the Ai family, he made no attempt to decline any-
-thing, but finished his meal with the rice and liquid
+of) the Ai family, he made no attempt to decline anything, but finished his meal with the rice and liquid
 added to it, without eating any of the flesh®.
 
 17. When the ruler sent (to an officer) the gift of
@@ -1220,8 +934,6 @@ wore them on the same occasion. (In the case of
 similar gifts to a commissioner from the king), until
 his (own) ruler had given him orders to use them, he
 did not dare at once to do so®*. When the ruler’s
-
-
 at
 
 
@@ -1229,8 +941,7 @@ at
 
 ? Fruits Were the productions of nature, and there could be no
 poison in them. Cooked food might have been tamperéd with,
-and those in attendance on a superior man first tasted it as a pre-
-cautior for his safety.
+and those in attendance on a superior man first tasted it as a precautior for his safety.
 
 * The conclusion is evidently lost.
 
@@ -1241,9 +952,6 @@ of courtesy in his host.
 
 6 This sentence is perplexing, and there are different views in
 interpreting it. I have followed Aang Hsiian.
-
-
-22 THE Li Ki. BK. X..
 
 
 gift reached him, he bowed his head to the ground
@@ -1271,8 +979,7 @@ make obeisance, lest the ruler should come to
 respond to him,
 
 20. When a Great officer went (next day) to do
-obeisance for the ruler’s gift, he retired after per-
-forming the ceremony. An officer, (doing the same),
+obeisance for the ruler’s gift, he retired after performing the ceremony. An officer, (doing the same),
 waited to receive the ruler’s acknowledgment (of his
 visit), and then retired, bowing again as he did so;
 but (the ruler) did not respond to his obeisance.
@@ -1290,8 +997,7 @@ therefore these accompaniments were sent with them.
 
 Sect. II. VU Bho. 23
 EE  eE si (ata a
-it; and also went to his house to repeat the obei-
-sance. He did not, however, wear the clothes
+it; and also went to his house to repeat the obeisance. He did not, however, wear the clothes
 (which might havé been the gift), in going to make
 that obeisance.
 
@@ -1314,13 +1020,11 @@ say, in making obeisance for it, that he did so for
 his father.
 
 22. If the ceremony were not very great, the
-(beauty of the) dress was not concealed. In accord-
-ance with this, when the great robe of fur was worn,
+(beauty of the) dress was not concealed. In accordance with this, when the great robe of fur was worn,
 it was without the appendage of one of thin silk to
 display it, and when (the king) rode in the grand
 carriage, he did not bend forward to the cross-bar
-(to show his reverence for any one beyond the ser-
-vice he was engaged on)’.
+(to show his reverence for any one beyond the service he was engaged on)’.
 
 
 ? He would say, for instance, that it was for some member of
@@ -1340,8 +1044,7 @@ the solstitial sacrifice to Heaven, which itself so occupied the mind
 23. When a father’s summons came to him, a son
 reverently obeyed it without any delay, Whatever
 work he had in hand, he laid aside. He ejected
-the meat that was in his mouth, and ran, not con-
-tenting himself with a measured, though rapid pace.
+the meat that was in his mouth, and ran, not contenting himself with a measured, though rapid pace.
 When his parents were old and he had gone away,
 he did not go to a second place, nor delay his return
 beyond the time agreed on; when they were ailing,
@@ -1372,8 +1075,6 @@ post; if on his own business, on the east of it.
 brought their feet together step by step when they
 walked ; a Great officer stepped along, one foot after
 the other; an ordinary officer kept the length of his
-
-
 of the sovereign that he was supposed to think of nothing else.
 The paragraph might have had a more appropriate place in the
 seventh Book or the ninth.
@@ -1387,8 +1088,7 @@ wished to push on (and did so), they were not
 allowed to alter the motion either of hands or feet.
 In turning their feet inwards or outwards, they did
 not lift them up, and the edge of the lower garment
-dragged along, like the water of a stream. In walk-
-ing on the mats it was the same.
+dragged along, like the water of a stream. In walking on the mats it was the same.
 
 When walking erect, (the body was yet bent, and)
 the chin projected like the eaves of a house, and
@@ -1396,8 +1096,7 @@ their advance was straight as an arrow. When
 walking’ rapidly, the body had the appearance of
 rising constantly with an elevation of the feet.
 When carrying a tortoise-shell or (a symbol of) jade,
-they raised their toes and trailed their heels, present-
-ing an appearance of carefulness.
+they raised their toes and trailed their heels, presenting an appearance of carefulness.
 
 27. In walking (on ‘the road), the carriage of the
 body was straight and smart; in the ancestral temple,
@@ -1413,8 +1112,7 @@ kept quiet and composed. No sound from him broke
 the stillness, and his head was carried upright. His
 breath came without panting or stoppage, ands his
 standing gave (the beholder) an impression of
-virtue. His looks were grave, and he sat like a per-
-sonator of the dead'. When at leisure and at ease,
+virtue. His looks were grave, and he sat like a personator of the dead'. When at leisure and at ease,
 and in conversation, he looked mild and bland.
 
 
@@ -1434,8 +1132,7 @@ unrest. Their eyes looked startled and dim, and
 their speech was drawling and low.
 
 31. The carriage of a martialist was bold and
-daring; his speech had a tone of decision and com-
-mand; his face was stern and determined; and his
+daring; his speech had a tone of decision and command; his face was stern and determined; and his
 eyes were clear and bright.
 
 32. He stood with an appearance of lowliness, but
@@ -1461,8 +1158,7 @@ better with them than adopt the sense given by the commentators.’
 But these binomial combinations, which are often repetitions of
 the same character, are only onomatopoietic in the sense in which
 all words, sensuously descriptive at first, are applied by the mind
-to express its Own concepts; metaphorical rather than onomato-
-poietic. They are very common in the Shih, or Book of Poetry,
+to express its Own concepts; metaphorical rather than onomatopoietic. They are very common in the Shih, or Book of Poetry,
 and in all passionate, descriptive composition. So it is in other
 languages as well as Chinese.
 
@@ -1472,8 +1168,7 @@ of the son of Heaven;’ the relation of a feudal lord
 expressed itself by ‘So and So, the guardian of such
 and such a territory.’ If the fief were on the borders,
 he used the style—‘So and So, the minister in such
-and such a screen.’ Among his equals and those be-
-low him, he called himself ‘The man of little virtue.’
+and such a screen.’ Among his equals and those below him, he called himself ‘The man of little virtue.’
 The ruler of a small state called himself ‘The
 orphan.’ The officer who answered for him (at a
 higher court) also styled him so’.
@@ -1490,11 +1185,9 @@ own court), called himself by his name; (at another
 court), his attendant described him as ‘ The rightful
 son of our unworthy ruler.
 
-35. A ruler’s son (by an inferior lady) called him-
-self ‘ Your minister, the shoot from the stock.’ An
+35. A ruler’s son (by an inferior lady) called himself ‘ Your minister, the shoot from the stock.’ An
 (ordinary) officer styled himself ‘ Your minister, the
-fleet courier ;’ to a Great officer, he described him-
-self as ‘The outside commoner. When a Great
+fleet courier ;’ to a Great officer, he described himself as ‘The outside commoner. When a Great
 officer went on a mission about private affairs, a man
 of his private establishment went with him as‘ his
 spokesman, and called him by his name.
@@ -1540,26 +1233,22 @@ to the east as the most honourable position®. The
 places of the marquises were at the east of the
 
 
-* See introductory notice, vol. xxvii, pp. 28-30. On the oppo-
-site page there is the plan of the Hall, as given in Morrison’s
+* See introductory notice, vol. xxvii, pp. 28-30. On the opposite page there is the plan of the Hall, as given in Morrison’s
 Dictionary, vol. i, part i, page 512. Compare it with the less
 complicated figure in vol. xxvii, page 252.
 
 2 See vol. xxvii, page 111, paragraph 11.
 
 $ Many chronological and other perplexing questions arise in
-connexion with the great audience described in this and the para-
-graphs that immediately follow. The time should be referred,
+connexion with the great audience described in this and the paragraphs that immediately follow. The time should be referred,
 I think, to the inauguration of Lo as the eastern capital of Kau,
 probably in B.c. 1109, at the close of the duke of Kau’s regency
 for the young king Khang; see the Shf, V, xiii. That ‘the son
 of Heaven’ must be understood of king Kang himself, and not of
-the duke of K4u, is a point, it seems to me, that no Chinese com-
-mentator should ever have called in question.
+the duke of K4u, is a point, it seems to me, that no Chinese commentator should ever have called in question.
 
 * The three Kung, I suppose, mentioned in vol. iii, page 227,
-paragraph 3. The duke of Xau was himself one of them ; but per-
-haps, during his regency, another had been appointed in his place.
+paragraph 3. The duke of Xau was himself one of them ; but perhaps, during his regency, another had been appointed in his place.
 
 5 The text here simply = ‘the east the upper. The nearer
 one was to the king, the more honourable was his position.
@@ -1570,8 +1259,7 @@ one was to the king, the more honourable was his position.
 
 eastern steps, with their faces to the west, inclining
 to the north as the most honourable position. The
-lords of the earldoms were at the west of the west-
-ern steps, with their faces to the east, inclining also
+lords of the earldoms were at the west of the western steps, with their faces to the east, inclining also
 and for the same reason to the north. The counts
 were on the east of the gate, with their faces to the
 north, inclining to the east as the more honourable
@@ -1625,13 +1313,11 @@ When king W4 died, king Aang being young and
 weak, the duke took the seat of the son of Heaven,
 and governed the kingdom. During six years he
 gave audience to all the princes in the Hall of
-Distinction ; instituted ceremonies, made his instru-
-ments of music, gave out his (standard) weights
+Distinction ; instituted ceremonies, made his instruments of music, gave out his (standard) weights
 and measures‘, and there was a grand submission
 throughout the kingdom.
 
-7. In the seventh year, he resigned the govern-
-ment to king Aang; and he, in consideration of the
+7. In the seventh year, he resigned the government to king Aang; and he, in consideration of the
 duke’s services to the kingdom, invested him with
 (the territory about) AZii-fi% seven hundred lt
 square, and sending forth a thousand chariots of
@@ -1666,13 +1352,11 @@ to the duke of Au with the ceremonies and music
 proper at a sacrifice by the son of Heaven.
 
 8. Thus it was that the rulers of Ld, in the first
-month of spring, rode in a grand carriage, display-
-ing the banner, suspended from its bow-like arm,
+month of spring, rode in a grand carriage, displaying the banner, suspended from its bow-like arm,
 with the twelve streamers, and having the sun and
 moon emblazoned on it, to sacrifice to God in the
 suburb of their metropolis, associating Hau Ai as
-his assessor in the service ;—according to the cere-
-monies used by the son of Heaven”.
+his assessor in the service ;—according to the ceremonies used by the son of Heaven”.
 
 g. In the last month of summer, the sixth month,
 they used the ceremonies of the great sacrifice in
@@ -1694,8 +1378,7 @@ the cross-binders.
 10. (The singers) went up to the hall (or stage),
 
 
-1 This is one of the gross exaggerations in the Book. The mar-
-quisate of Lf was only a hundred If square on its first constitution.
+1 This is one of the gross exaggerations in the Book. The marquisate of Lf was only a hundred If square on its first constitution.
 
 * Of this and many of the statements in the paragraphs that
 follow, see the fourth of the ‘Praise Odes of Lf,’ in the Shih,
@@ -1729,8 +1412,7 @@ officers assisted the ruler; their wives‘ assisted his
 wife. Each one discharged the duty proper to him
 or her. Any officer who neglected his duty was
 severely punished; and throughout the kingdom
-there was a great acknowledgment of, and sub-
-mission to, (the worth of the duke of Au).
+there was a great acknowledgment of, and submission to, (the worth of the duke of Au).
 
 12. (In La) they offered (also) the sacrifices of
 summer, autumn, and winter (in the ancestral
@@ -1778,12 +1460,10 @@ carriage (adorned with jade), or that of Kau.
 
 16. They had, as flags or banners, that of (Shun),
 the lord of Yui; the yak’s tail of the sovereign of
-Hsia; the great white flag of Yin; and the cor-
-responding red one of Au.
+Hsia; the great white flag of Yin; and the corresponding red one of Au.
 
 
-* The five gates of the royal palace, beginning with the outer-
-most, were the Kao (3), the Kha (Ji), the Kih (44),
+* The five gates of the royal palace, beginning with the outermost, were the Kao (3), the Kha (Ji), the Kih (44),
 the Ying (fe), and the La (BS) ; the palaces of the princes
 wanted the Kao and Ying gates. The grand temples appear to
 have been constructed on a similar plan, to the east of the palace.
@@ -1845,13 +1525,11 @@ D2
 
 
 which were struck!; the sounding stone of jade; the
-instruments rubbed or struck, (to regulate the com-
-mencement and close of the music)*; the great lute
+instruments rubbed or struck, (to regulate the commencement and close of the music)*; the great lute
 and great cithern; the medium lute and little cithern’:
 —the musical instruments of the four dynasties.
 
-22. The temple of the duke of La was main-
-tained from generation to generation like that of
+22. The temple of the duke of La was maintained from generation to generation like that of
 (king) Wn (in the capital of Xu), and the temple of
 duke Wd in the same way like that of (king) Wa +.
 
@@ -1859,14 +1537,11 @@ duke Wd in the same way like that of (king) Wa +.
 Yii, in connexion with which were kept the stores
 of (sacrificial) rice®; the hsii school of the sovereign
 of Hsia; the school of Yin, in which the blind were
-
-
 so that it is not worth while to reproduce them here. There is a
 figure also of the reed pipe, which can only have been something
 a little superior to the early ‘ oaten pipe’ of the west.
 
-1 This also is represented in the AX/ien-lung edition; but how any-
-thing like music could be brought from the pillows I do not know.
+1 This also is represented in the AX/ien-lung edition; but how anything like music could be brought from the pillows I do not know.
 The two characters, supposed to give the name, are found, perhaps,
 in the Shu, II, iv, 9, used with verbal force of playing on the lute.
 
@@ -1885,8 +1560,7 @@ Bh. XII. MING THANG WEI. 37
 eee UL LU
 
 
-honoured'; and the college of KAu, with its semi-
-circle of water.
+honoured'; and the college of KAu, with its semicircle of water.
 
 
 24. They had the tripods of Kung? and Kwan?;
@@ -1901,8 +1575,7 @@ son of Heaven.
 four legs ; that of Yin supported on a single pillar ;
 the drums of Au, pendent from a stand; the
 peal of bells of Sui‘; the differently toned hing
-(sonorous stones) of Sha5; and the organ of Nii-
-kwa °, with its tongues.
+(sonorous stones) of Sha5; and the organ of Niikwa °, with its tongues.
 
 26. They had the music-stand of Hsia, with its
 face-board and posts, on which dragons were carved;
@@ -1930,11 +1603,8 @@ was a great state, south of W4, on the seaboard.
 Nang. Various fabulous marvels are related of
 him or her (for many hold the name to be that
 of a female) in the account of the five Tis, prefixed
-to Sze-ma Xhien’s histories. The organ is re-
-presented thus—
+to Sze-ma Xhien’s histories. The organ is represented thus—
 
-
-38 THE Li KI. BK. XII.
 
 27. They had the two tui of the lord of Yii (for
 holding the grain at sacrifices); the four lien of Hsia;
@@ -1984,9 +1654,6 @@ and there will be more hereafter.
 BK, XII. MING THANG WEI. 3
 
 
-39
-
-
 32. They used (the names) of the 50 officers of the
 lord of Yii; of the 100 of the sovereigns of Hsia;
 of the 200 of Yin; and of the 300 of KAu'.
@@ -2005,8 +1672,6 @@ Its rites, music, punishments, laws, governmental
 proceedings, manners and customs never changed.
 Throughout the kingdom it was considered the state
 which exhibited the right ways; and therefore
-
-
 dependence was placed on it in the matters of
 ceremonies and music*.
 
@@ -2041,8 +1706,7 @@ When he exchanged this band for the cincture (in
 the case of mourning for his mother) ?, this was
 made of linen cloth.
 
-(A wife) *, when wearing the (one year’s mourn-
-ing) of sackcloth with the edges even, had the
+(A wife) *, when wearing the (one year’s mourning) of sackcloth with the edges even, had the
 girdle (of the same), and the inferior hair-pin (of
 hazel-wood), and wore these to the end of the
 mourning.
@@ -2056,14 +1720,12 @@ and women the same after the female fashion.
 
 * This was done after the slighter dressing of the corpse. The
 cincture (wan, Ff) is mentioned in the first paragraph of the
-Than Kung (vol. xxvii, page 120). The hempen band being re-
-moved, one of linen cloth, about the breadth of which there are
+Than Kung (vol. xxvii, page 120). The hempen band being removed, one of linen cloth, about the breadth of which there are
 different accounts, was put round the hair on the crown, taken
 forward to the forehead, there crossed, taken back again, and
 knotted at the back of the hair.
 
-° The text does nct mention ‘the wife’ here; but a com-
-parison of different passages shows that this sentence is only
+° The text does nct mention ‘the wife’ here; but a comparison of different passages shows that this sentence is only
 applicable to her.
 
 
@@ -2076,16 +1738,14 @@ distinction between them }.
 pared and fashioned (at the end) was of eleococca
 wood %.
 
-4. When the grandfather was dead, and after-
-wards (the grandson) had to go into mourning for
+4. When the grandfather was dead, and afterwards (the grandson) had to go into mourning for
 his grandmother, he, being the representative of the
 family (through the death of his father), did so for
 three years.
 
 5. The eldest son, (at the mourning rites) for his
 father or mother, (before bowing to a visitor who
-had come to condole with him), first laid his fore-
-head to the ground (as an expression of his sorrow).
+had come to condole with him), first laid his forehead to the ground (as an expression of his sorrow).
 
 When a Great officer came to condole (with an
 ordinary officer), though it might be (only) in a case
@@ -2100,8 +1760,7 @@ bowed her head to the ground before she saluted
 two cinctures, but in the name. ‘There probably came to be some
 difference between them; but what it was I cannot discover.
 
-2 This is found also in the I Li, XXXII, 5; but the inter-
-pretation there is as difficult as here. The translation of the first
+2 This is found also in the I Li, XXXII, 5; but the interpretation there is as difficult as here. The translation of the first
 character (H. zhii) by ‘dark-coloured’ is from Khung Ying-ta.
 The paring away the end of the dryandria branch was to make
 it square. The round bamboo was carried in mourning for a
@@ -2121,8 +1780,7 @@ nor why the two are brought together.
 a visitor; but in mourning for others, she did not
 do so}.
 
-6. The man employed to preside (at the mourn-
-ing rites) was required to be of the same surname
+6. The man employed to preside (at the mourning rites) was required to be of the same surname
 (as the deceased parent) ; the wife so employed, of
 a different surname ?.
 
@@ -2135,8 +1793,7 @@ worn of them), the three closest degrees become
 expanded into five, and those five again into nine.
 The mourning diminished as the degrees ascended
 or descended, and the collateral branches also were
-correspondingly less mourned for; and the mourn-
-ing for kindred thus came to an end *.
+correspondingly less mourned for; and the mourning for kindred thus came to an end *.
 
 9. At the great royal sacrifice to all ancestors,
 the first place was given to him from whom the
@@ -2146,8 +1803,7 @@ to be established four ancestral shrines*. In the
 
 
 1 The ‘others,’ according to Kang, must be understood of her
-own parents. She was now identified with a family of another sur-
-name; and her husband’s relatives were more to her than her own.
+own parents. She was now identified with a family of another surname; and her husband’s relatives were more to her than her own.
 
 2 The son and his wife who should have presided are supposed to
 be dead. The wife elected for the office would be the wife of some
@@ -2156,8 +1812,7 @@ other member of the family, herself therefore of a different surname.
 * The three closest degrees are ‘father, son, and son’s son.’
 Add the grandfather and grandson (counting from the son), and
 we have five; great-grandfather and great-grandson (here omitted),
-and we have seven. Then great-great-grandfather and great-great-
-grandson, make nine ; and the circle of kindred, for whom mourn-
+and we have seven. Then great-great-grandfather and great-greatgrandson, make nine ; and the circle of kindred, for whom mourn-
 ing should be worn, is complete. See Appendix, Book II, vol. xxvii.
 
 * This statement about the four shrines has given accasion to
@@ -2175,14 +1830,12 @@ the ancestor (of a branch of the same line), his
 successor was its Honoured Head, and he who
 followed him (in the line) was its smaller Honoured
 Head. After five generations there was a change
-again of the Honoured Head; but all in continu-
-ation of the High Ancestor.
+again of the Honoured Head; but all in continuation of the High Ancestor.
 
 11. Hence the removal of the ancestor took
 place high up (in the line), and the change of the
 Honoured Head low down (in it). Because they
-honoured the ancestor, they reverenced the Hon-
-oured Head; their reverencing the Honoured Head
+honoured the ancestor, they reverenced the Honoured Head; their reverencing the Honoured Head
 was the way in which they expressed the honour
 which they paid to the ancestor and his immediate
 successor },
@@ -2219,15 +1872,13 @@ was placed along with that of his grandfather, and
 shared in the offerings made to him.
 
 14. Nor could any of them sacrifice to their
-father ; showing that (the eldest son was the repre-
-sentative of) the Honoured Head.
+father ; showing that (the eldest son was the representative of) the Honoured Head.
 
 15. (In the distinctions of the mourning) for the
 kindred who are the nearest, the honoured ones to
 whom honour is paid, the elders who are venerated
 for their age, and as the different tributes to males
-and females; there are seen the greatest manifest-
-ations of the course which is right for men.
+and females; there are seen the greatest manifestations of the course which is right for men.
 
 16. Where mourning would be worn from one’s
 relation with another for parties simply on the
@@ -2247,8 +1898,7 @@ offered the united sacrifice to all ancestors *.
 
 * Khung Ying-té specifies six cases coming under the former
 of these cases, and four under the second. It is not necessary
-to set them forth, The Ahien-lung editors say that the para-
-graph has reference only to the practice of the officer; for a
+to set them forth, The Ahien-lung editors say that the paragraph has reference only to the practice of the officer; for a
 Great officer did not wear mourning either for his wife or
 mother’s kin.
 
@@ -2279,8 +1929,7 @@ personator wore only the dress of an officer ”.
 
 20. If a wife were divorced while wearing the
 mourning (for her father or mother-in-law), she put
-it off. If the thing took place while she was wear-
-ing the mourning for her own parents, and before
+it off. If the thing took place while she was wearing the mourning for her own parents, and before
 she had completed the first year's mourning, she
 continued to wear it for the three years; but if
 that term had been completed, she did not resume
@@ -2298,21 +1947,16 @@ years was (held to be) for three years; and that
 
 1 The sackcloth for one year, without carrying the staff.
 
-2 Both the cases in this paragraph can hardly be taken as any-
-thing more than hypothetical. On the concluding statement, the
+2 Both the cases in this paragraph can hardly be taken as anything more than hypothetical. On the concluding statement, the
 Khien-lung editors ask how the robes of a king could be exhibited
 in the ancestral temple of an officer.
-
-
-46 THE Li Ki. BK. XI11.
 
 
 which lasted for one complete year for two years’.
 The mourning for nine months and that for seven
 months? was held to be for three seasons; that for
 five months for two; and that for three months for
-one. Hence the sacrifice at the end of the com-
-pleted year was according to the prescribed rule ;
+one. Hence the sacrifice at the end of the completed year was according to the prescribed rule ;
 but the putting off the mourning (or a part of it)
 then was the course (prompted by natural feeling).
 The sacrifice was not on account of the putting off
@@ -2398,9 +2042,6 @@ wife of an officer.
 doubts as to the interpretation of it.
 
 
-48 THE Li Ki. BK, X{lIl.
-
-
 Section II.
 
 
@@ -2428,10 +2069,8 @@ application. The character is explained by ve the symbol of
 ‘being at rest.’ The mourners had done all they could for the
 body of the deceased. It had been laid in the grave; and this
 sacrifice of Repose was equivalent to our wish for a departed friend,
-‘Requiescat in pace.’ It was offered in the principal apart-
-ment of the house. It remained only to place with an appropriate
-service the tablet of the deceased in its proper shrine in the an-
-cestral temple next day. The staff was discarded by the mourner,
+‘Requiescat in pace.’ It was offered in the principal apartment of the house. It remained only to place with an appropriate
+service the tablet of the deceased in its proper shrine in the ancestral temple next day. The staff was discarded by the mourner,
 it is said, to show that his grief was beginning to be assuaged.
 He and the others would pass from the principal apartment to
 others more private; and on leaving the temple, would have to
@@ -2452,8 +2091,7 @@ SECT. II. SANG FO HsIAo ki. 49
 mourning for the same time as his wife, (the son's
 mother).
 
-5. In putting off the mourning attire, they com-
-menced with what was considered ‘most important.
+5. In putting off the mourning attire, they commenced with what was considered ‘most important.
 In changing it, they commenced with what was
 considered least important.
 
@@ -2461,8 +2099,7 @@ considered least important.
 it, they did not open the door of the temple!. All
 wailed in the (mourning) shed (at other times).
 
-7. In calling the dead back, and writing the in-
-scription (to be exhibited over the coffin), the
+7. In calling the dead back, and writing the inscription (to be exhibited over the coffin), the
 language was the same for all, from the son of
 Heaven to the ordinary officer. AA man was called
 by his name. Fora wife they wrote her surname,
@@ -2475,8 +2112,7 @@ unhemmed sackcloth (at the end of the wailing),
 and the hempen girdle worn when one (first) put
 on the hemmed sackcloth (of one year’s mourning),
 were of the same size. The girdle of dolychos
-cloth assumed (as a change) in the hemmed sack-
-cloth mourning, and that of hempen cloth at the
+cloth assumed (as a change) in the hemmed sackcloth mourning, and that of hempen cloth at the
 (beginning of the) nine months’ mourning, were of
 the same size. When the occasion for assuming.
 the girdle of the lighter mourning occurred, a man
@@ -2509,20 +2145,17 @@ burial of the father. The sackcloth worn at her
 interment was the unhemmed and jagged’.
 
 11. A Great officer reduced the (period of)
-mourning for a son by a concubine ?; but his grand-
-son, (the son of that son), did not reduce his
+mourning for a son by a concubine ?; but his grandson, (the son of that son), did not reduce his
 mourning for his father.
 
-12. A Great officer did not aaclile at the mourn-
-ing rites for an (ordinary) officer.
+12. A Great officer did not aaclile at the mourning rites for an (ordinary) officer.
 
 13. For the parents of his nurse* a man did not
 wear mourning.
 
 14. When the husband had become the successor
 and representative of some other man (than his
-own father), his wife wore the nine months’ mourn-
-ing for his parents-in-law +.
+own father), his wife wore the nine months’ mourning for his parents-in-law +.
 
 15. When the tablet of an (ordinary) officer was
 placed in the shrine of (his grandfather who had
@@ -2531,8 +2164,6 @@ officer) was changed (for that due to a Great officer).
 
 16. A son who had not lived with his step-father
 (did not wear mourning for him). (They) must
-
-
 deep mourning, a fresh death in his circle required him to add
 to it something of a lighter mourning.
 
@@ -2550,8 +2181,7 @@ SECT. Il. SANG FO ustAo xt. 51
 
 
 have lived together and both be without sons to
-preside at their mourning rites; and (the step-
-father moreover) must have shared his resources
+preside at their mourning rites; and (the stepfather moreover) must have shared his resources
 with the son, and enabled him to sacrifice to his
 grandfather and father, (in order to his wearing
 mourning for him) ;—under these conditions they
@@ -2573,8 +2203,7 @@ a grandfather who had been the lord of a state;
 it was placed in that of a brother of the grandfather
 who had been an (ordinary) officer or a Great
 officer. The tablet of his wife was placed by the
-tablet of that brother’s wife, and that of his concu-
-bine by the tablet of that brother’s concubine.
+tablet of that brother’s wife, and that of his concubine by the tablet of that brother’s concubine.
 
 If there had been no such concubine, it was
 placed by the tablet of that brother’s grandfather ;
@@ -2628,7 +2257,6 @@ dignity of his ancestors; but those who had become distinguished
 glorified their meaner ancestors.
 
 2 It is difficult to say exactly what is the significance of the
-
 in the text here.
 
 * Meaning, say some, performed the than sacrifice at the
@@ -2647,18 +2275,15 @@ is much conflict of opinion.
 SECT. II. SANG FU Hsrdo xi. 53
 _——— oS a ae
 the hair-pin, (died), though neither could her death
-be said to be premature; yet, (if they died child-
-less), those who would have presided at their rites,
+be said to be premature; yet, (if they died childless), those who would have presided at their rites,
 if they had died prematurely, wore the mourning for
 them which they would then have done}.
 
-26. If an interment were delayed (by circum-
-stances) for a long time, he who was presiding over
+26. If an interment were delayed (by circumstances) for a long time, he who was presiding over
 the mourning rites was the only one who did not
 put off his mourning. The. others having worn the
 hempen (band) for the number of months (proper in
-their relation to the deceased), put off their mourn-
-ing, and made an end of it 2.
+their relation to the deceased), put off their mourning, and made an end of it 2.
 
 27. The hair-pin of the arrow-bamboo was worn
 by (an unmarried daughter for her father) to the
@@ -2690,9 +2315,6 @@ and then put it on again for the occasion.
 * Should form part of the first paragraph of Section }.
 
 
-54 THE Li xi. BK. XIII.
-
-
 personator. The officers having announced that
 these were over, he resumed his staff, bowed to the
 guests (who had arrived in the meantime), and
@@ -2709,8 +2331,7 @@ to his place for wailing.
 
 As the father did not preside at the mourning
 rites for the son of a concubine, that son’s son
-might carry his staff in going to his place for wail-
-ing. Even while the father was present, the son of
+might carry his staff in going to his place for wailing. Even while the father was present, the son of
 a concubine, in mourning for his wife, might carry
 his staff in going to that place.
 
@@ -2745,11 +2366,9 @@ to the deceased in his illness, came in to preside at
 the rites for him, he did not change the mourning
 which he might be wearing. In ministering to one
 more honourable than himself, the rule required a
-person to change the mourning he might be wear-
-ing, but not if the other were of lower position }.
+person to change the mourning he might be wearing, but not if the other were of lower position }.
 
-33. If there had been no concubine of her hus-
-band’s grandmother by whose tablet: that of a
+33. If there had been no concubine of her husband’s grandmother by whose tablet: that of a
 deceased concubine might be placed, it might be
 placed by that of the grandmother, the victim
 offered on the occasion being changed.
@@ -2761,8 +2380,7 @@ put in its place, her father-in-law presided.
 
 35. An (ordinary) officer did not take the place
 of presiding (at the mourning rites) for a Great
-officer. It was only when he was the direct de-
-scendant of the Honoured Head of their branch of
+officer. It was only when he was the direct descendant of the Honoured Head of their branch of
 the surname that he could do so.
 
 36.. If a cousin arrived from another state (to
@@ -2784,11 +2402,6 @@ to his rank; but this was not required on the late arrival of a
 relative.
 
 8 These articles were the contributions of friends and those
-
-
-56 THE Li Ki. BK. XiLI.
-
-
 played, a portion of them might be put into the
 yrave; if they were comparatively few as displayed,
 they might all be put into it.
@@ -2821,8 +2434,6 @@ by that of her who was the mother of her husband's
 father ?.
 
 43. In the case of a wife dying while her husband
-
-
 prepared by the family. They were displayed inside the gate of
 the temple on the east-of it when the body was being moved, and
 in front of the grave, on the east of the path Jeading to it.
@@ -2836,7 +2447,6 @@ her husband's father’ is simply ‘ the nearest’ in the text.
 
 
 SECT. IL. SANG FO ustio xt, oy;
-
 a a es
 was a Great officer, and his ceasing, after her death,
 to be of that rank; if his tablet were placed (on his
@@ -2847,19 +2457,16 @@ officer) became a Great officer after her death, then
 the victim at the placing of his tablet by hers was
 that due to a Great officer '.
 
-44. A son who was or would be his father’s suc-
-cessor did not wear mourning for his divorced mother.
+44. A son who was or would be his father’s successor did not wear mourning for his divorced mother.
 He did not wear such mourning, because one engaged
 in mourning rites could not offer sacrifice’.
 
 45. When a wife did not preside at the mourning
 rites and yet carried the staff, it was when her
-mother-in-law was alive, and she did so for her hus-
-band. A mother carried the eleococca staff with
+mother-in-law was alive, and she did so for her husband. A mother carried the eleococca staff with
 its end cut square for the oldest son. A daughter,
 who was still in her apartment unmarried, carried a
-staff for her father or mother. If the relative super-
-intending the rites did not carry the staff, then this
+staff for her father or mother. If the relative superintending the rites did not carry the staff, then this
 one child did so*.
 
 
@@ -2914,8 +2521,7 @@ The relatives all did so.
 
 48. When they put off the mourning for one who
 had died prematurely, the rule was that at the
-(accompanying) sacrifice, the dress should be dark-
-coloured. When they put off the mourning for one
+(accompanying) sacrifice, the dress should be darkcoloured. When they put off the mourning for one
 fully grown, they wore their court robes, with the
 cap of white, plain, silk.
 
@@ -2943,8 +2549,7 @@ and put on the cincture in the apartment on the east.
 In the girdle (or the cincture), he proceeded to the
 appointed place, and completed the leaping. He
 then went out from the door (of the coffin-room),
-and went to (the mourning shed). The wailing com-
-mencing at death had by this time ceased. In three
+and went to (the mourning shed). The wailing commencing at death had by this time ceased. In three
 days he wailed five times, and thrice bared his chest
 for the leaping.
 
@@ -2954,11 +2559,9 @@ event of her death), her mother-in-law wore for her
 (only) the five months’ mourning ?.
 
 
-1 The scope of this paragraph is: plain enough; but the con-
-struing of it is difficult. I have translated after Ain Hao’s text,
+1 The scope of this paragraph is: plain enough; but the construing of it is difficult. I have translated after Ain Hao’s text,
 which contains a character more than that of the X/ien-lung
-edition. The son and his wife could not become the repre-
-sentatives of the family. Various reasons are suggested by the
+edition. The son and his wife could not become the representatives of the family. Various reasons are suggested by the
 commentators for the fact. The text supposes the death of the
 wife to take place before that of her mother-in-law.
 
@@ -2983,8 +2586,7 @@ these were examined (and approved) by the ruler,
 were able to carry their sacrifices up to their high
 ancestor.
 
-2. The field of Mti-yeh was the great achieve-
-ment of king Wd. When he withdrew after the
+2. The field of Mti-yeh was the great achievement of king Wd. When he withdrew after the
 victory, he reared a burning pile to God; prayed at
 the altar of the earth; and set forth his offerings in
 the house of Mti*. He then led all the princes of the
@@ -3015,8 +2617,7 @@ honour to the most honourable. He regulated the
 places to be given to his sons and grandsons below
 him ;—showing his affection to his kindred. He
 regulated (also) the observances for the collateral
-branches of his cousins ;—associating all their mem-
-bers in the feasting. He defined their places
+branches of his cousins ;—associating all their members in the feasting. He defined their places
 according to their order of descent; and his every
 distinction was in harmony with what was proper
 and right. In this way the procedure of human
@@ -3051,21 +2652,18 @@ vessels and weapons, and distinctions in dress :—
 62 THE Li Kt. BK. XIV.
 
 
-these were things, changes in which could be en-
-joined on the people. But no changes could be
+these were things, changes in which could be enjoined on the people. But no changes could be
 enjoined upon them in what concerned affection for
 kin, the honour paid to the honourable, the respect
 due to the aged, and the different positions and
 functions of male and female.
 
-6. Members of the same surname were united to-
-vether in the various ramifications of their kinship,
+6. Members of the same surname were united tovether in the various ramifications of their kinship,
 under the Heads of their different branches'. Those
 of a different surname? had their mutual relations
 regulated principally by the names assigned to
 them. Those names being clearly set forth, the
-different positions of males and females were de-
-termined,
+different positions of males and females were determined,
 
 When the husband belonged to the class of
 fathers [or uncles]’, the wife was placed in that of
@@ -3084,14 +2682,8 @@ of different surnames, and receiving different names or appellations
 from the places of their husbands in the family roll.
 
 * Fathers’ and ‘mothers’ here are really uncles and aunts,
-
-
 the 4@ for the former being equivalent to {A AX 4c; and
-
-
 the +} for the latter to {A AL #¥. The uncles were of the
-
-
 same category as the father in respect to age, and the aunts in the
 same category as the mother.
 
@@ -3104,8 +2696,6 @@ BK. XIV, TA KWAN. 63
 
 
 2S ii — ee
-
-
 importance in the regulation of the family ;—was
 not anxious care required in the declaration of it?
 
@@ -3126,13 +2716,11 @@ time, and the kinship disappeared as time went on,
 marriage be contracted between parties (so wide
 apart)'? But there was that original surname tying
 all the members together without distinction, and the
-maintenance of the connexion by means of the com-
-mon feast?;—while there were these conditions, there
+maintenance of the connexion by means of the common feast?;—while there were these conditions, there
 could be no intermarriage, even after a hundred
 generations. Such was the rule of Aau’*.
 
-g. The considerations which regulated the mourn-
-ing worn were six:—first, the nearness of the kinship‘;
+g. The considerations which regulated the mourning worn were six:—first, the nearness of the kinship‘;
 
 
 ' Khan Hao says that under the Yin dynasty intermarriages
@@ -3151,15 +2739,11 @@ time the distinction between man and beast.’
 * As between parents and children.
 
 
-64 THE Li Ki. BK. XIV.
-
-
 second, the honour due to the honourable’; third,
 the names (as expressing the position in the relative
 circle)?; fourth, the cases of women still unmarried
 in the paternal home, and of those who had married
-and left it*; fifth, age‘*; and sixth, affinity, and ex-
-ternal relationship °.
+and left it*; fifth, age‘*; and sixth, affinity, and external relationship °.
 
 10. Of the considerations of affinity and external
 relationship there were six cases :—those arising
@@ -3215,8 +2799,6 @@ S
 
 
 a
-
-
 oa
 
 
@@ -3238,23 +2820,20 @@ the continuator of his grandfather ?.
 
 14. When any other son but the eldest became
 an ancestor of a line, he who succeeded him became
-the Honoured Head (of the branch); and his suc-
-cessor again became the smaller Head}.
+the Honoured Head (of the branch); and his successor again became the smaller Head}.
 
 15. [here was the (great) Honoured Head whose
 tablet was not removed for a hundred generations.
 There were the (smaller) Honoured Heads whose
 tablets were removed after five generations. He
-whose tablet was not removed for a hundred gener-
-ations was the successor and representative of the
+whose tablet was not removed for a hundred generations was the successor and representative of the
 other than the eldest son (who became an ancestor
 of a line); and he was so honoured (by the members
 of his line) because he continued the (High) ancestor
 from whom (both) he and they sprang; this was
 why his tablet was not removed for a hundred
 generations. He who honoured the continuator
-of the High ancestor was he whose tablet was re-
-moved after five generations. They honoured the
+of the High ancestor was he whose tablet was removed after five generations. They honoured the
 Ancestor, and therefore they reverenced the Head.
 The reverence showed the significance of that
 honour.
@@ -3318,20 +2897,17 @@ ancestor came the respect and attention shown to
 the Heads (of the family branches), By that respect
 and attention to those Heads all the members of
 the kindred were kept together. Through their
-being kept together came the dignity of the an-
-cestral temple. From that dignity arose the im-
+being kept together came the dignity of the ancestral temple. From that dignity arose the im-
 portance attached to the altars of the land and
 grain. From that importance there ensued the
 love of all the (people with their) hundred surnames.
 From that love came the right administration of
-punishments and penalties. Through that adminis-
-tration the people had the feeling of repose. Through
+punishments and penalties. Through that administration the people had the feeling of repose. Through
 that restfulness all resources for expenditure became
 sufficient. Through the sufficiency of these, what
 all desired was realised. The realisation led to all
 courteous usages and good customs; and from these,
-in fine, came all happiness and enjoyment :—afford-
-ing an illustration of what is said in the ode :—
+in fine, came all happiness and enjoyment :—affording an illustration of what is said in the ode :—
 ‘Glory and honour follow WAn’s great name,
 And ne'er will men be weary of his fame ?.’
 
@@ -3365,8 +2941,7 @@ be reported.
 
 2. If it were on an occasion of mourning, the
 visitor said he had come as a servant and helper; if
-he were a youth, that he had come to perform what-
-ever might be required of him. If the visit were at
+he were a youth, that he had come to perform whatever might be required of him. If the visit were at
 the mourning rites for a ruler or high,minister, the
 language was, ‘I am come to be employed by the
 chief minister of the household*.’
@@ -3408,8 +2983,7 @@ hand for the previous ruler, he said, ‘I present
 these products of my fields to the officers,’
 
 6. A carriage and horses presented for a funeral,
-entered the gate of the ancestral temple. Contri-
-butions of money and horses with the accompanying
+entered the gate of the ancestral temple. Contributions of money and horses with the accompanying
 presents of silk, the white flag (of a mourning
 carriage) and war chariots, did not enter the gate of
 the temple‘.
@@ -3419,10 +2993,8 @@ the temple‘.
 
 1 About to proceed to the royal court.
 
-2 In the Kau Li, Book I, 35, we find that among the function-
-aries attached to the ‘ Treasury of Jade,’ there were eight men
-thus denominated ‘valuers.’ There were officers, probably, per-
-forming a similar duty in the department to which the charge of
+2 In the Kau Li, Book I, 35, we find that among the functionaries attached to the ‘ Treasury of Jade,’ there were eight men
+thus denominated ‘valuers.’ There were officers, probably, performing a similar duty in the department to which the charge of
 the offering in this paragraph would be consigned.
 
 3 The things presented here are called ‘articles (coarse), shells
@@ -3439,12 +3011,10 @@ distinction made between these contributions,
 
 delivered his message, he knelt down and left the
 things on the ground. The officer of communication
-took them up. The presiding mourner did not him-
-self receive them.
+took them up. The presiding mourner did not himself receive them.
 
 8. When the receiver stood, the giver stood,
-neither knelt. Parties of a straightforward charac-
-ter might, perhaps, do so.
+neither knelt. Parties of a straightforward character might, perhaps, do so.
 
 9. When (the guest was) first entering, and it was
 proper to give the precedence to him, the officer of
@@ -3468,8 +3038,7 @@ at such and such an accomplishment ?’
 
 11. (A man sought to) give no occasion for doubt
 about himself, nor to pass his judgment on the
-articles of others. He did not desire the (posses-
-sions of) great families, nor speak injuriously of the
+articles of others. He did not desire the (possessions of) great families, nor speak injuriously of the
 things which they valued.
 
 12. Sweeping in general was called sAo. Sweep-
@@ -3498,15 +3067,13 @@ own mind. On the matter of right he might be
 questioned, but not on what was in his own mind,
 
 14. When others more honourable and older than
-one’s self took precedence of him, he did not pre-
-sume to ask their age. When they came to feast
+one’s self took precedence of him, he did not presume to ask their age. When they came to feast
 with him, he did not send to them any (formal)
 message. When he met them on the road, if they
 saw him, he went up to them, but did not ask to
 know where they were going. At funeral rites for
 them, he waited to observe the movements (of the
-presiding mourner), and did not offer his special con-
-dolences. When seated by them, he did not, unless
+presiding mourner), and did not offer his special condolences. When seated by them, he did not, unless
 ordered to do so, produce his lutes. He did not
 draw lines on the ground; that would have been an
 improper use of his hand. He did not use a fan.
@@ -3561,8 +3128,7 @@ from others, or sought to engage in their service.
 In this way superiors had no ground for offence,
 and inferiors avoided all risk of guilt.
 
-20. They did not spy into privacies nor form inti-
-macies on matters aside from their proper business.
+20. They did not spy into privacies nor form intimacies on matters aside from their proper business.
 They did not speak of old affairs, nor wear an
 appearance of being in sport.
 
@@ -3601,22 +3167,15 @@ good in himself what is doubtful in words (which
 he has heard) ?.
 
 23. The style prized in conversation required
-that it should be grave and distinct. The demean-
-our prized in the court required that it should be
+that it should be grave and distinct. The demeanour prized in the court required that it should be
 
 
 ' These cautions are expressed enigmatically in the text. The
 expurgated edition gives only the third and fourth, which P. Callery
-translates thus :—‘ L’>homme de lettres s’applique 4 la vertu par-
-dessus tout, et ne s'adonne que d’une facon secondaire 4 la culture
+translates thus :—‘ L’>homme de lettres s’applique 4 la vertu pardessus tout, et ne s'adonne que d’une facon secondaire 4 la culture
 des arts libéraux, semblable en cela a l’ouvrier qui suit d’abord les
 procédés fondamentaux de son art, et ne discute qu’aprés les
-
-
 changements 4 introduire dans leur application.’
-
-
-74 THE Li xi. BK. XV.
 
 
 well regulated and urbane; that at sacrifices was to
@@ -3640,8 +3199,7 @@ was said, ‘ He is able to guide the plough;’ if he
 were still young, it was said, ‘He is able to carry
 firewood,’ or ‘ He is not yet able to do so ®*.’
 
-25. When carrying a symbol of jade, a tortoise-
-shell, or the divining stalks, one did not walk
+25. When carrying a symbol of jade, a tortoiseshell, or the divining stalks, one did not walk
 hastily. Nor did he do so in the raised hall, or
 on a city wall. In a war chariot he did not bow
 forward to the cross-bar. A man in his mail did
@@ -3651,15 +3209,13 @@ not try to bow *.
 were on receiving a gift from the ruler, (only) made
 
 
-‘ This paragraph is in the expurgated edition, in the com-
-mentary to which, however, the whole is understood with reference
+‘ This paragraph is in the expurgated edition, in the commentary to which, however, the whole is understood with reference
 to the heir-son of the kingdom or a state; and P. Callery translates
 accordingly :—‘ (L’héritier présomptif du tréne) doit avoir,’ &c.
 
 ? Compare vol, xxvii, page 115, paragraph 4.
 
-* Compare vol. xxvii, page 72, paragraph 30; page 96, para-
-graph 39; et al.
+* Compare vol. xxvii, page 72, paragraph 30; page 96, paragraph 39; et al.
 
 
 BK. XV. SHAO ft. 75
@@ -3711,17 +3267,13 @@ hands.
 curtsy.
 
 
-76 THE Li Ki. BK. XV.
-
-
 the highest grade, five; and one of the lowest
 grade, three}.
 
 34. People did not speak of the age of the
 horses or of the carriages of those who pos
 sessed such attendant carriages; nor did they put
-a value on the dress, or sword, or horses of a gentle-
-man whom they saw before them.
+a value on the dress, or sword, or horses of a gentleman whom they saw before them.
 
 35. In giving (to an inferior) or offering to a
 superior, four pots of spirits, a bundle of dried
@@ -3776,18 +3328,15 @@ sharp-edged weapons, the handle was presented. In
 the case of all sharp-pointed andsharp-edged weapons,
 the point was turned away in handing them to others.
 
-39. When leaving the city, in mounting a war-
-chariot, the weapon was carried with the point in
+39. When leaving the city, in mounting a warchariot, the weapon was carried with the point in
 front ; when returning and entering it again, the
 end. The left was the place for the general and
 officers of an army; the right, for the soldiers.
 
 40. For visitors and guests the principal thing
 was a courteous humility ; at sacrifices, reverence ;
-at mourning rites, sorrow; at meetings and re-
-unions, an active interest. In the operations of
-war, the dangers had to be thought of. One con-
-cealed his own feelings in order to judge the better
+at mourning rites, sorrow; at meetings and reunions, an active interest. In the operations of
+war, the dangers had to be thought of. One concealed his own feelings in order to judge the better
 of those of others.
 
 41. When feasting with a man of superior rank
@@ -3851,10 +3400,7 @@ BK. XV. SHAO f, 79
 
 
 a eereetretereenpeirsteineeereerrerenemnne meena
-
-
-bar on the right and left (to the father of charioteer-
-ing), and then drank off the cup.
+bar on the right and left (to the father of charioteering), and then drank off the cup.
 
 47. Of all viands which were placed on the stands,
 the offering was put down inside the stand.
@@ -3872,8 +3418,7 @@ did not cut out the central portion of them*; when
 viands were served up with sauce, they did not add
 condiments to it.
 
-In selecting an onion or scallion for a gentle-
-man, they cut off both the root and top.
+In selecting an onion or scallion for a gentleman, they cut off both the root and top.
 
 When the head was presented among the viands,
 the snout was put forward, to be used as the
@@ -3913,8 +3458,7 @@ shalots were sliced, and added to the brine to soften
 the meat.
 
 50. When the pieces of the divided body were on
-the stand, in taking one of them to offer and in return-
-ing it?, they did not kneel. So it was when they
+the stand, in taking one of them to offer and in returning it?, they did not kneel. So it was when they
 made an offering of roast meat. If the offerer,
 however, were a personator of the dead, he knelt.
 
@@ -3929,8 +3473,7 @@ same things were intimated to a blind musician by
 the one who bid him. Ata drinking entertainment,
 when the host carried a light, or bore a torch before
 them, the guests rise and decline the honour done
-to them. On this he gave the torch to a torch-
-bearer, who did not move from his place, nor say a
+to them. On this he gave the torch to a torchbearer, who did not move from his place, nor say a
 word, nor sing ”.
 
 53. When one was carrying in water or liquor
@@ -3939,15 +3482,12 @@ and food to a superior or elder, the rule was not to
 
 ? The lungs.
 
-* In the 80 Awan we have many accounts of these entertain-
-ments. The singing was almost always of a few lines from one of
+* In the 80 Awan we have many accounts of these entertainments. The singing was almost always of a few lines from one of
 the pieces of the Shih King, expressing a sentiment appropriate
 to the occasion. /The custom was like our after-dinner speeches
 
 
 ;
-
-
 and toasts.
 
 
@@ -3971,8 +3511,7 @@ The principal mourner spread out the portions,
 and gave them to his messenger on the south of
 the eastern steps, bowing twice, and laying his head
 to the ground as he sent him away; when he
-returned and reported the execution of his com-
-mission, the mourner again bowed twice and laid
+returned and reported the execution of his commission, the mourner again bowed twice and laid
 his head to the ground.
 
 If the sacrifice were a great one, consisting of the
@@ -3986,8 +3525,7 @@ was the left quarter, divided into five portions.
 55. When the revenues of a state were at a low
 ebb, the carriages were not carved and painted;
 the buff-coats were not adorned with ribbons and
-cords; and the dishes were not carved; the su-
-perior man did not wear shoes of silk; and horses
+cords; and the dishes were not carved; the superior man did not wear shoes of silk; and horses
 were not regularly supplied with grain.
 
 
@@ -4002,14 +3540,12 @@ RECORD ON THE SUBJECT OF EDUCATION’.
 
 1. When a ruler is concerned that his measures
 should be in accordance with law, and seeks for the
-(assistance of the) good and upright, this is suf-
-ficient to secure him a considerable reputation, but
+(assistance of the) good and upright, this is sufficient to secure him a considerable reputation, but
 not to move the multitudes.
 
 When he cultivates the society of the worthy, and
 tries to embody the views of those who are remote
-(from the court), this is sufficient to move the multi-
-tudes, but not to transform the people.
+(from the court), this is sufficient to move the multitudes, but not to transform the people.
 
 If he wish to transform the people and to perfect
 their manners and customs, must he not start from
@@ -4018,8 +3554,7 @@ the lessons of the school?
 2. The jade uncut will not form a vessel for use;
 and if men do not learn, they do not know the way
 (in which they should go). On this account the
-ancient kings, when establishing states and govern-
-ing the people, made instruction and schools a
+ancient kings, when establishing states and governing the people, made instruction and schools a
 primary object ;—as it is said in the Charge to
 Yiieh, ‘The thoughts from first to last should be
 fixed on learning 2.’
@@ -4053,8 +3588,7 @@ for the larger districts there was the hsii; and in
 the capitals there was the college.
 
 5. Every year some entered the college, and
-every second year there was a comparative examina-
-tion. In the first year it was seen whether they
+every second year there was a comparative examination. In the first year it was seen whether they
 could read the texts intelligently, and what was the
 meaning of each; in the third year, whether they
 were reverently attentive to their work, and what
@@ -4072,8 +3606,7 @@ firmly established and would not fall back, they
 1 Vol. ili, page 117.
 
 2 The hamlet was supposed to contain twenty-five families; the
-neighbourhood 500; and the district 2,500. For the four insti-
-tutions, P. Callery adopts the names of school, college, academy,
+neighbourhood 500; and the district 2,500. For the four institutions, P. Callery adopts the names of school, college, academy,
 and university. It would be tedious to give the various explanations
 of the names Hsiang and Hsii.
 
@@ -4085,18 +3618,15 @@ ene eM
 were said to have made grand attainments. After
 this the training was sufficient to transform the
 people, and to change (anything bad in) manners
-and customs. Those who lived near at hand sub-
-mitted with delight, and those who were far off
+and customs. Those who lived near at hand submitted with delight, and those who were far off
 thought (of the teaching) with longing desire.
 Such was the method of the Great learning; as is
 said in the Record, ‘The little ant continually
 exercises the art (of amassing)*.’
 
 6. At the commencement of the teaching in the
-Great college, (the masters) in their skin caps pre-
-sented the offerings of vegetables (to the ancient
-sages), to show their pupils the principle of rever-
-ence for them; and made them sing (at the same
+Great college, (the masters) in their skin caps presented the offerings of vegetables (to the ancient
+sages), to show their pupils the principle of reverence for them; and made them sing (at the same
 time) the (first) three pieces of the Minor Odes of
 the Kingdom, as their first lesson in the duties of
 officers?. When they entered the college, the drum
@@ -4129,8 +3659,7 @@ BK. XVI. HSIo Kt. 85
 
 
 ee
-they could not transgress the order of study (im-
-posed on them). These seven things were the
+they could not transgress the order of study (imposed on them). These seven things were the
 chief regulations in the teaching. As it is expressed
 in the Record, ‘In all learning, for him who would
 be an officer the first thing is (the knowledge of)
@@ -4148,17 +3677,14 @@ tune, he cannot quietly enjoy his lutes; if he do not
 learn extensively the figures of poetry, he cannot
 quietly enjoy the odes; if he do not learn the varieties
 of dress, he cannot quietly take part in the different
-ceremonies; if he do not acquire the various accom-
-plishments, he cannot take delight in learning.
+ceremonies; if he do not acquire the various accomplishments, he cannot take delight in learning.
 
 9. Therefore a student of talents and virtue
 pursues his studies, withdrawn in college from all
-besides, and devoted to their cultivation, or occu-
-pied with them when retired from it, and enjoying
+besides, and devoted to their cultivation, or occupied with them when retired from it, and enjoying
 himself. Having attained to this, he rests quietly
 in his studies and seeks the company of his teachers;
-he finds pleasure in his friends, and has all con-
-fidence in their course. Although he should be
+he finds pleasure in his friends, and has all confidence in their course. Although he should be
 separated from his teachers and helpers, he will not
 act contrary to the course ;—as it is said in the
 Charge to Yiieh, ‘ Maintain a reverent humility, and
@@ -4173,19 +3699,16 @@ the text of the Shii.
 86 THE Li &t. BK. XVI.
 
 
-10. According to the system of teaching now-a-
-days, (the masters) hum over the tablets which they
+10. According to the system of teaching now-adays, (the masters) hum over the tablets which they
 see before them, multiplying their questions. They
 speak of the learners’ making rapid advances, and
 pay no regard to their reposing (in what they
 have acquired). In what they lay on their learners
 they are not sincere, nor do they put forth all their
 ability in teaching them. What they inculcate is
-contrary to what is right, and the learners are dis-
-appointed in what they seek for. In such a case,
+contrary to what is right, and the learners are disappointed in what they seek for. In such a case,
 the latter are distressed by their studies and hate
-their masters; they are embittered by the diff-
-culties, and do not find any advantage from their
+their masters; they are embittered by the diffculties, and do not find any advantage from their
 (labour). They may seem to finish their work, but
 they quickly give up its lessons. That no results
 are seen from their instructions :—is it not owing to
@@ -4193,18 +3716,15 @@ these defects ?
 
 11. The rules aimed at in the Great college
 were the prevention of evil before it was manifested;
-the timeliness of instruction just when it was re-
-quired; the suitability of the lessons in adaptation
+the timeliness of instruction just when it was required; the suitability of the lessons in adaptation
 to circumstances ; and the good influence of example
 to parties observing one another. It was from
 these four things that the teaching was so effectual
 and flourishing.
 
-12. Prohibition of evil after it has been mani-
-fested meets with opposition, and is not successful.
+12. Prohibition of evil after it has been manifested meets with opposition, and is not successful.
 Instruction given after the time for it is past is done
-with toil, and carried out with difficulty. The com-
-munication of lessons in an undiscriminating manner
+with toil, and carried out with difficulty. The communication of lessons in an undiscriminating manner
 and without suitability produces injury and disorder,
 and fails in its object. Learning alone and without
 friends makes one feel solitary and uncultivated,
@@ -4227,8 +3747,7 @@ he opens the way but does not conduct to the end
 not dragging produces harmony. Strengthening and
 not discouraging makes attainment easy. Opening
 the way and not conducting to the end makes (the
-learner) thoughtful. He who produces such har-
-mony, easy attainment, and thoughtfulness may be
+learner) thoughtful. He who produces such harmony, easy attainment, and thoughtfulness may be
 pronounced a skilful teacher.
 
 14. Among learners there are four defects with
@@ -4239,8 +3758,7 @@ which they proceed); and some, in the readiness
 with which they stop. These four defects arise
 from the difference of their minds. When a teacher
 knows the character of his mind, he can save the
-learner from the defect to which he is liable. Teach-
-ing should be directed to develope that in which
+learner from the defect to which he is liable. Teaching should be directed to develope that in which
 the pupil excels, and correct the defects to which he
 is prone.
 
@@ -4270,8 +3788,7 @@ teacher demands the greatest care; as it is said in
 the Record, ‘ The three kings and the four dynasties
 were what they were by their teachers '’
 
-17. In pursuing the course of learning, the diff-
-culty is in securing the proper reverence for the
+17. In pursuing the course of learning, the diffculty is in securing the proper reverence for the
 master. When that is done, the course (which he
 inculcates) is regarded with honour. When that is
 done, the people know how to respect learning.
@@ -4302,8 +3819,7 @@ a ae | |
 indifferent, yet makes double the attainments of
 another, and in the sequel ascribes the merit (to the
 master). The unskilful learner, while the master is
-diligent with him, yet makes (only) half the attain-
-ments (of the former), and in the sequel is dissatis-
+diligent with him, yet makes (only) half the attainments (of the former), and in the sequel is dissatis-
 fied with the master. The skilful questioner is
 like a workman addressing himself to deal with a
 hard tree. First he attacks the easy parts, and
@@ -4338,8 +3854,6 @@ not mention any different reading in his examination of the text
 
 
 (a ia 4K fH, chapter 917); and I do not see any reason for
-
-
 al:ering the translation which I first made.
 
 
@@ -4365,8 +3879,7 @@ between them. The drum has no special relation
 to any of the musical notes; but without it they
 cannot be harmonised. Water has no particular
 relation to any of the five colours; but without it
-they cannot be displayed’. Learning has no. par-
-ticular relation to any of the five senses ; but without
+they cannot be displayed’. Learning has no. particular relation to any of the five senses ; but without
 it they cannot be regulated. A teacher has no
 
 
@@ -4418,8 +3931,7 @@ Section I.
 
 
 1. All the modulations of the voice arise from the
-mind, and the various affections of the mind are pro-
-duced by things (external to it). The affections thus
+mind, and the various affections of the mind are produced by things (external to it). The affections thus
 produced are manifested in the sounds that are
 uttered. Changes are produced by the way in which
 those sounds respond to one another; and those
@@ -4430,8 +3942,7 @@ harmony with them of the) shields and axes’, and of
 the plumes and ox-tails*, constitutes what we call
 music.
 
-2. Music is (thus) the production of the modula-
-tions of the voice, and its source is in the affections
+2. Music is (thus) the production of the modulations of the voice, and its source is in the affections
 of the mind as it is influenced by (external) things.
 
 
@@ -4479,8 +3990,7 @@ order in government is made to appear.
 4. All modulations of the voice spring from the
 minds of men. When the feelings are moved within,
 they are manifested in the sounds of the voice ; and
-when those sounds are combined so as to form com-
-positions, we have what are called airs. Hence, the
+when those sounds are combined so as to form compositions, we have what are called airs. Hence, the
 airs of an age of good order indicate composure and
 enjoyment. The airs of an age of disorder indicate
 dissatisfaction and anger, and its government is per-
@@ -4511,10 +4021,8 @@ shang be irregular, (the air) is jerky; the offices of
 the state are decayed. If io be irregular, (the air)
 expresses anxiety; the people are dissatisfied. If
 kih be irregular, (the air) expresses sorrow ; affairs
-are strained. If yii be irregular, (the air) is ex-
-pressive of impending ruin; the resources (of the
-state) are exhausted. If the five notes are all irre-
-gular, and injuriously interfere with one another,
+are strained. If yii be irregular, (the air) is expressive of impending ruin; the resources (of the
+state) are exhausted. If the five notes are all irregular, and injuriously interfere with one another,
 they indicate a state of insolent disorder ; and the
 state where this is the case will at no distant day
 meet with extinction and ruin?.
@@ -4524,8 +4032,7 @@ age of disorder, showing that those states were near
 such an abandoned condition. The airs near the
 river Pd, at the mulberry forest, were those of a
 state going to ruin*. The government (of Wei) was
-in a state of dissipation, and the people were unset-
-tled, calumniating their superiors, and pursuing their
+in a state of dissipation, and the people were unsettled, calumniating their superiors, and pursuing their
 private aims beyond the possibility of restraint.
 
 
@@ -4534,16 +4041,14 @@ private aims beyond the possibility of restraint.
 * See Confucian Analects, XV, 10, 6.
 
 * This place was in the state of Wei. See the ridiculous incident
-which gave rise to this account of the airs in Sze-ma Ahien’s mono-
-graph on music, pages 13, 14.
+which gave rise to this account of the airs in Sze-ma Ahien’s monograph on music, pages 13, 14.
 
 
 SECT. I. YO xt. 95
 
 
 7. All modulations of sound take their rise from
-the mind of man; and music is the intercommunica-
-tion of them in their relations and differences. Hence,
+the mind of man; and music is the intercommunication of them in their relations and differences. Hence,
 even beasts know sound, but not its modulations :
 and the masses of the common people know the
 modulations, but they do not know music. It is only
@@ -4568,8 +4073,6 @@ not in the perfection of the airs; the (efficacy) of the
 ceremonies in the sacrificial offerings was not in the
 exquisiteness of the flavours. In the lutes for the
 Khing Miao the strings were of red (boiled) silk,
-
-
 and the holes were wide apart; one lute began, and
 
 
@@ -4595,8 +4098,7 @@ flavour left undeveloped.
 
 10. Thus we see that the ancient kings, in their
 institution of ceremonies and music, did not seek
-how fully they could satisfy the desires of the appe-
-tite and of the ears and eyes; but they intended to
+how fully they could satisfy the desires of the appetite and of the ears and eyes; but they intended to
 teach the people to regulate their likings and
 dislikings, and to bring them back to the normal
 course of humanity.
@@ -4616,8 +4118,7 @@ his Heavenly principle is extinguished.
 man is affected; and when his likings and dislikings
 are not subject to regulation (from within), he is
 changed into the nature of things as they come before
-him ; that is, he stifles the voice of Heavenly prin-
-ciple within, and gives the utmost indulgence to the
+him ; that is, he stifles the voice of Heavenly principle within, and gives the utmost indulgence to the
 desires by which men may be possessed. On this we
 have the rebellious and deceitful heart, with licentious
 and violent disorder. The strong press upon the
@@ -4631,15 +4132,13 @@ the timid; the diseased are not nursed; the old and
 young, orphans and solitaries are neglected :—such
 is the great disorder that ensues.
 
-13. Therefore the ancient kings, when they insti-
-tuted their ceremonies and music, regulated them by
+13. Therefore the ancient kings, when they instituted their ceremonies and music, regulated them by
 consideration of the requirements of humanity. By
 the sackcloth worn for parents, the wailings, and the
 weepings, they defined the terms of the mourning
 rites. By the bells, drums, shields, and axes, they
 introduced harmony into their seasons of rest and
-enjoyment. By marriage, capping, and the assump-
-tion of the hair-pin, they maintained the separation
+enjoyment. By marriage, capping, and the assumption of the hair-pin, they maintained the separation
 that should exist between male and female. By the
 archery gatherings in the districts, and the feastings
 at the meetings of princes, they provided for the
@@ -4651,8 +4150,7 @@ secured the harmonious utterance of their voices;
 the laws of government were designed to promote
 the performance (of the ceremonies and music);
 and punishments, to guard against the violation of
-them. When ceremonies, music, laws, and punish-
-ments had everywhere full course, without irregu-
+them. When ceremonies, music, laws, and punishments had everywhere full course, without irregu-
 larity or collision, the method of kingly rule was
 complete.
 
@@ -4670,9 +4168,6 @@ ceremonies and music of the ancient kings were designed to
 [23] H
 
 
-98 THE Li xi. BK. XVII.
-
-
 15. Similarity and union are the aim of music;
 difference and distinction, that of ceremony. From
 union comes mutual affection; from difference, mutual
@@ -4685,8 +4180,7 @@ manifestations.
 16. Through the perception of right produced by
 ceremony, came the degrees of the noble and the
 mean; through the union of culture arising from
-music, harmony between high and low. By the ex-
-hibition of what was to be liked and what was to be
+music, harmony between high and low. By the exhibition of what was to be liked and what was to be
 disliked, a distinction was made between the worthy
 and unworthy. When violence was prevented by
 punishments, and the worthy were raised to rank,
@@ -4700,17 +4194,11 @@ without. Music, coming from within, produces the
 stillness (of the mind); ceremonies, coming from
 without, produce the elegancies (of manner). The
 highest style of music is sure to be distinguished by
-its ease; the highest style of elegance, by its un-
-demonstrativeness.
+its ease; the highest style of elegance, by its undemonstrativeness.
 
 18. Let music attain its full results, and there
-would be no dissatisfactions (in the mind); let cere-
-mony do so, and there would be no quarrels. When
-
-
+would be no dissatisfactions (in the mind); let ceremony do so, and there would be no quarrels. When
 regulate the minds of men in their likings and dislikings; and the
-
-
 fourth, that that regulation was in harmony with the will of Heaven,
 as indicated in the nature of man.
 
@@ -4722,8 +4210,7 @@ the kingdom, there would be what might be described
 as music and ceremony indeed. Violent oppression
 of the people would not arise; the princes would
 appear submissively at court as guests; there would
-be no occasion for the weapons of war, and no em-
-ployment of the five punishments!; the common
+be no occasion for the weapons of war, and no employment of the five punishments!; the common
 people would have no distresses, and the son of
 Heaven no need to be angry :—such a state of things
 would be an universal music. When the son of
@@ -4747,8 +4234,7 @@ mutual respect and love.
 
 20. The occasions and forms of ceremonies are
 different, but it is the same feeling of respect (which
-they express). The styles of musical pieces are dif-
-ferent, but it is the same feeling of love (which they
+they express). The styles of musical pieces are different, but it is the same feeling of love (which they
 
 
 1 The ‘five punishments’ were branding on the forehead, cutting
@@ -4775,19 +4261,16 @@ the axe are the instruments of music; the curvings
 and stretchings (of the body), the bending down and
 lifting up (of the head); and the evolutions and
 numbers (of the performers), with the slowness or
-rapidity (of their movements), are its elegant ac-
-companiments. The dishes, round and square, the
+rapidity (of their movements), are its elegant accompaniments. The dishes, round and square, the
 stands, the standing dishes, the prescribed rules and
-their elegant variations, are the instruments of cere-
-monies ; the ascending and descending, the positions
+their elegant variations, are the instruments of ceremonies ; the ascending and descending, the positions
 high and low, the wheelings about, and the changing
 of robes, are their elegant accompaniments.
 
 22. Therefore they who knew the essential nature
 of ceremonies and music could frame them; and
 they who had learned their elegant accompaniments
-could hand them down. The framers may be pro-
-nounced sage; the transmitters, intelligent. Intelli-
+could hand them down. The framers may be pronounced sage; the transmitters, intelligent. Intelli-
 gence and sagehood are other names for transmitting
 and inventing.
 
@@ -4806,8 +4289,7 @@ ee eS ee, ae
 carried to excess, confusion (of ceremonies) would
 appear; if the framing of music were carried to
 excess, it would be too vehement. Let there be an
-intelligent understanding of the nature and inter-
-action of (heaven and care and there will be the
+intelligent understanding of the nature and interaction of (heaven and care and there will be the
 ability to practise well both ceremonies and music.
 
 24. The blending together. without any mutual
@@ -4832,8 +4314,7 @@ natural even to the people’.
 
 
 26. When the (ancient) kings had accomplished
-their undertakings, they made their music (to com-
-memorate them); when they had established their
+their undertakings, they made their music (to commemorate them); when they had established their
 
 
 1 The eleven paragraphs ending with this form the second
@@ -4841,18 +4322,15 @@ chapter of the Book, called by Lifi Hsiang Yo Lun (44 Afni)»
 while the third chapter, extending to the end of the section, is called
 Yo Li (4 HP), as if the two were an expansion of the statement
 in the seventh paragraph, that music is ‘the intercommunication
-of the modulated sounds and the mind in their relations and dif-
-ferences.’
+of the modulated sounds and the mind in their relations and differences.’
 
 
 102 THE Li Kt. BK. XVIT.
 
 
 government, they framed their ceremonies. The
-excellence of their music was according to the great-
-ness of their undertakings; and the completeness of
-their ceremonies was according to the comprehen-
-siveness of their government. The dances with
+excellence of their music was according to the greatness of their undertakings; and the completeness of
+their ceremonies was according to the comprehensiveness of their government. The dances with
 shields and axes did not belong to the most excellent
 music!, nor did the sacrifices with cooked flesh mark
 the highest ceremonies’.
@@ -4862,30 +4340,25 @@ therefore they did not each adopt the music of his
 predecessor. The three kings belonged to different
 ages, and so they did not each follow the ceremonies
 of his predecessor. Music carried to an extreme
-degree leads to sorrow, and coarseness in cere-
-monies indicates something one-sided. To make
+degree leads to sorrow, and coarseness in ceremonies indicates something one-sided. To make
 the grandest music, which should bring with it no
-element of sorrow, and frame the completest cere-
-monies which yet should show no one-sidedness,
+element of sorrow, and frame the completest ceremonies which yet should show no one-sidedness,
 could be the work only of the great sage.
 
 28. There are heaven above and earth below, and
 between them are distributed all the (various) beings
-with their different (natures and qualities) :—in ac-
-cordance with this proceeded the framing of cere-
+with their different (natures and qualities) :—in accordance with this proceeded the framing of cere-
 monies. (The influences of) heaven and earth flow
 forth and never cease; and by their united action
 (the phenomena of) production and change ensue :—
 in accordance with this music arose. The processes
 of growth in spring, and of maturing in summer
-(suggest the idea of) benevolence ; those of in-gather-
-ing in autumn and of storing in winter, suggest
+(suggest the idea of) benevolence ; those of in-gathering in autumn and of storing in winter, suggest
 
 
 * As being, I suppose, commemorative of the achievements of
 war, and not the victories of peace ; and as marking a progress of
-society, and a departure from the primitive era of innocent simpli-
-city and reverence.
+society, and a departure from the primitive era of innocent simplicity and reverence.
 
 
 SECT. 1. Yo xt. 103
@@ -4896,8 +4369,7 @@ righteousness to ceremonies.
 29. Harmony is the thing principally sought in
 music :—it therein follows heaven, and manifests the
 spirit-like expansive influence characteristic of it.
-Normal distinction is the thing aimed at in cere-
-monies :—they therein follow earth, and exhibit the
+Normal distinction is the thing aimed at in ceremonies :—they therein follow earth, and exhibit the
 spirit-like retractive influence characteristic of it.
 Hence the sages made music in response to heaven,
 and framed ceremonies in correspondence with earth.
@@ -4915,15 +4387,13 @@ movement and repose follow each other (in the course
 of nature) led to the consideration of affairs as small
 
 
-* On the first of these two paragraphs, P. Callery says :—‘The cele-
-brated Encyclopzedist, Ma Twan-lin (Book 181), says that this passage
+* On the first of these two paragraphs, P. Callery says :—‘The celebrated Encyclopzedist, Ma Twan-lin (Book 181), says that this passage
 is one of the most marvellous that ever were written, and he draws
 from it the proof that the work could not have been written later
 than the Han, “because reckoning from that dynasty, there did
 not appear any author capable of conceiving ideas so profound,
 and expressing them in language so elevated.”’ P. Callery adds,
-‘ As regards the origin of the Li X71, the reasoning of the Encyclo-
-pedist appears to me passably (passablement) false ; as to the
+‘ As regards the origin of the Li X71, the reasoning of the Encyclopedist appears to me passably (passablement) false ; as to the
 intrinsic worth of the passage, I leave it to the reader to form his
 judgment from the translation, which I have endeavoured to render
 as faithful as possible.’
@@ -4931,9 +4401,6 @@ as faithful as possible.’
 In the passage of Ma Twan-lin, however, that author is simply
 quoting the words of Afi Hsi (Ta Aw4n, Book 37), and expresses
 no opinion of his own.
-
-
-104 THE Li Ki. BK, XVII.
 
 
 —
@@ -4944,8 +4411,7 @@ are grouped together, and the things (of the earth)
 are distinguished by their separate characteristics ;
 and this gave rise to (the conception of) natures and
 their attributes and functions. In heaven there are
-formed its visible signs, and earth produces its (end-
-less variety of) things; and thus it was that cere-
+formed its visible signs, and earth produces its (endless variety of) things; and thus it was that cere-
 monies were framed after the distinctions between
 heaven and earth.
 
@@ -4961,8 +4427,7 @@ proceed. Thus it was that music was framed to
 indicate the harmonious action of heaven and earth.
 
 32. If these processes took place out of season,
-there would be no (vigorous) life; and if no dis-
-tinction were observed between males and females,
+there would be no (vigorous) life; and if no distinction were observed between males and females,
 disorder would arise and grow :—such is the nature
 of the (different qualities of) heaven and earth.
 
@@ -4982,8 +4447,7 @@ things), and ceremonies had their place on the com-
 SECT. Il, YO Ki. 108
 
 
-pletion of them. Their manifestation, being cease-
-less, gives (the idea of) heaven; and again, being
+pletion of them. Their manifestation, being ceaseless, gives (the idea of) heaven; and again, being
 motionless, gives (the idea of) earth, Through the
 movement and repose (of their interaction) come all
 things between heaven and earth. Hence the sages
@@ -5024,18 +4488,15 @@ Its breath amidst the season’s calm,
 Brings to their wealth a large increase.’
 
 The invention of the Ain or lute, here ascribed to Shun, is also
-attributed to the more ancient Tis, Shan Nang and Ff-hsi. Per-
-haps Shun was the first to make it with five strings. Khwei was
+attributed to the more ancient Tis, Shan Nang and Ff-hsi. Perhaps Shun was the first to make it with five strings. Khwei was
 his minister of music ; see vol. iii, pages 44, 45.
 
 
 106 THE Li Kt. BK. XVII.
 
 
-had those rows made short. On seeing their panto-
-mimes, one knew what was (the degree of) their
-virtue, (just as) on hearing their posthumous designa-
-tions, we know what had been (the character of) their
+had those rows made short. On seeing their pantomimes, one knew what was (the degree of) their
+virtue, (just as) on hearing their posthumous designations, we know what had been (the character of) their
 conduct.
 
 3. The Ta Kang expressed the brilliance (of its
@@ -5051,17 +4512,14 @@ arise (among the people); if wind and rain do not
 come in their due proportions, famine ensues. The
 instructions (of their superiors) are the people’s cold
 and heat; if they are not what the time requires, an
-injury is done to society. The affairs (of their supe-
-riors) are the people’s wind and rain; if they are not
-properly regulated, they have no success. In accord-
-ance with this, the object of the ancient kings in their
+injury is done to society. The affairs (of their superiors) are the people’s wind and rain; if they are not
+properly regulated, they have no success. In accordance with this, the object of the ancient kings in their
 practice of music was to bring their government into
 harmony with those laws (of heaven and earth). If
 it was good, then the conduct (of the people) was
 like the virtue (of their superiors).
 
-5. (The feast on) grain-fed animals, with the ad-
-junct of drinking, was not intended to produce evil,
+5. (The feast on) grain-fed animals, with the adjunct of drinking, was not intended to produce evil,
 and yet cases of litigation are more numerous in
 consequence of it :—it is the excessive drinking which
 produces the evil. Therefore the former kings framed
@@ -5089,8 +4547,7 @@ atthem. The music was intended to illustrate virtue ;
 the ceremonies to restrain excess.
 
 6. Hence the former kings, on occasions of great
-sorrow, had their rules according to which they ex-
-pressed their grief; and on occasions of great happi-
+sorrow, had their rules according to which they expressed their grief; and on occasions of great happi-
 ness, they had their rules by which they expressed
 their pleasure. The manifestations, whether of grief
 or joy, were all bounded by the limits of these rules’.
@@ -5108,8 +4565,7 @@ energy of their physical powers and the intelligence
 of the mind; but for their (affections of) grief,
 pleasure, joy, and anger there are no invariable rules.
 They are moved according to the external objects
-which excite them, and then there ensues the mani-
-festation of the various faculties of the mind.
+which excite them, and then there ensues the manifestation of the various faculties of the mind.
 
 9. Hence, when a (ruler’s) aims are small, notes
 
@@ -5163,11 +4619,9 @@ manifested in their conduct. Each occupied quietly
 
 SECT. IT. YO Ki. 109
 Sp ee ee
-in its proper place, and one did not interfere in-
-juriously with another.
+in its proper place, and one did not interfere injuriously with another.
 
-11. After this they established schools for (teach-
-ing their music),and different grades (for the learners).
+11. After this they established schools for (teaching their music),and different grades (for the learners).
 They marked most fully the divisions of the pieces,
 and condensed into small compass the parts and
 variations giving beauty and elegance, in order to
@@ -5185,8 +4639,7 @@ endeavour to see its depths.’
 12. When the soil is worn out, the grass and trees
 on it do not grow well. When water is often troubled,
 the fish and tortoises in it do not become large.
-When the energy (of nature) is decayed, its pro-
-duction of things does not proceed freely. In an age
+When the energy (of nature) is decayed, its production of things does not proceed freely. In an age
 of disorder, ceremonies are forgotten and neglected,
 and music becomes licentious.
 
@@ -5211,12 +4664,10 @@ music and ceremonies) }.
 
 14. Whenever notes that are evil and depraved
 affect men, a corresponding evil spirit responds to
-them (from within); and when this evil spirit accom-
-plishes its manifestations, licentious music is the
+them (from within); and when this evil spirit accomplishes its manifestations, licentious music is the
 result. Whenever notes that are correct affect men,
 a corresponding correct spirit responds to them
-(from within); and when this correct spirit accom-
-plishes its manifestations, harmonious music is the
+(from within); and when this correct spirit accomplishes its manifestations, harmonious music is the
 result. The initiating cause and the result correspond
 to each other. The round and the deflected, the
 crooked and the straight, have each its own category ;
@@ -5225,17 +4676,14 @@ one another severally according to their class.
 
 15. Hence the superior man returns to the (good)
 affections (proper to his nature) in order to bring his
-will into harmony with them, and compares the dif-
-ferent qualities (of actions) in order to perfect his
+will into harmony with them, and compares the different qualities (of actions) in order to perfect his
 conduct. Notes that are evil and depraved, and sights
 leading to disorder, and licentiousness, are not allowed
-to affect his ears or eyes. Licentious music and cor-
-rupted ceremonies are not admitted into the mind to
+to affect his ears or eyes. Licentious music and corrupted ceremonies are not admitted into the mind to
 affect its powers. The spirit of idleness, indifference,
 depravity, and perversity finds no exhibition in his
 person. And thus he makes his ears, eyes, nose, and
-mouth, the apprehensions of his mind, and the move-
-ments of all the parts of his body, all follow the course
+mouth, the apprehensions of his mind, and the movements of all the parts of his body, all follow the course
 that is correct, and do that which is right.
 
 
@@ -5252,8 +4700,7 @@ Se 7
 16. After this there ensues the manifestation (of
 the inward thoughts) by the modulations of note and
 tone, the elegant accompaniments of the lutes, small
-and large, the movements with the shield and battle-
-axe, the ornaments of the plumes and ox-tails, and the
+and large, the movements with the shield and battleaxe, the ornaments of the plumes and ox-tails, and the
 concluding with the pipes and flutes'. All this has
 the effect, of exhibiting the brilliance of complete
 virtue, stirring up the harnioniene action of the four
@@ -5266,14 +4713,12 @@ image ef earth ; in tein beginning and ending, an
 image of the four seasons; in the wheelinaar and
 revolutions (of the pantomirnes), an image of the
 wind and rain. (The five notes, like) the five colours,
-form a complete and elegant whole, without any con-
-fusion. (The eight instruments of different materials,
+form a complete and elegant whole, without any confusion. (The eight instruments of different materials,
 like) the eight winds, follow the musical accords,
 without any irregular deviation. The lengths of all
 the different notes have their definite measurements,
 without any uncertainty. The small and the great
-complete one another. The end leads on to the be-
-ginning, and the beginning to the end. The key
+complete one another. The end leads on to the beginning, and the beginning to the end. The key
 notes and those harmonising with them, the sharp and
 the bass, succeed one another in their regular order.
 
@@ -5291,8 +4736,7 @@ Ez? THE Li Ki. BK. XVII.
 
 
 18. Therefore, when the music has full course, the
-different relations are clearly defined by it; the per-
-ceptions of the ears and eyes become sharp and
+different relations are clearly defined by it; the perceptions of the ears and eyes become sharp and
 distinct ; the action of the blood and physical energies
 is harmonious and calm; (bad) influences are removed,
 and manners changed ; and all under heaven there is
@@ -5302,10 +4746,8 @@ entire repose.
 music there is joy.’ Superior men rejoice in attaining
 to the course (which they wish to pursue); and
 smaller men in obtaining the things which they desire.
-When the objects of desire are regulated by a consider-
-ation of the course to be pursued, there is joy without
-any disorder. When those objects lead to the forget-
-fulness of that course, there is delusion, and no joy.
+When the objects of desire are regulated by a consideration of the course to be pursued, there is joy without
+any disorder. When those objects lead to the forgetfulness of that course, there is delusion, and no joy.
 
 20. It is for this purpose that the superior man
 returns to the (good) affections (proper to his nature),
@@ -5318,13 +4760,11 @@ his virtue.
 
 21. Virtue is the strong stem of (man’s) nature, and
 music is the blossoming of virtue. Metal, stone, silk,
-and bamboo are (the materials of which) the instru-
-ments of music (are made). Poetry gives expression
+and bamboo are (the materials of which) the instruments of music (are made). Poetry gives expression
 to the thoughts; singing prolongs the notes (of the
 voice) ; pantomimic movements put the body into
 action (in harmony with: the sentiments). These
-three things originate in the mind, and the instru-
-ments of the music accompany them.
+three things originate in the mind, and the instruments of the music accompany them.
 
 22. In this way the affections (from which comes
 the music) are deeply seated, and the elegant display
@@ -5352,14 +4792,12 @@ music, and regulates its ornaments.
 performers) to be in readiness, and (the pantomimes)
 take three steps to show the nature of the dance.
 This is done a second time and they begin to move
-forward; and when they have completed their evolu-
-tions, they return and dress their ranks. However
+forward; and when they have completed their evolutions, they return and dress their ranks. However
 rapid their movements may be, there is nothing
 violent in them; however mysterious they may be,
 they are not beyond the power of being understood.
 One, studying them alone, finds pleasure in the object
-of them, and does not tire in his endeavours to under-
-stand them. When he has fully understood them,
+of them, and does not tire in his endeavours to understand them. When he has fully understood them,
 he does not keep what he desires to himself. Thus
 the affections (of joy) are displayed; the (ideal) of
 righteousness is established; and when the music is
@@ -5389,8 +4827,7 @@ carrying the mind back to what originated them.
 is (the gift) of the son of Heaven; the flag with
 dragons, and a nine-scolloped border, was the banner
 (conferred by) the son of Heaven; that with the
-azure and black edging exhibited the precious tor-
-toises, and was (also the gift of) the son of Heaven,
+azure and black edging exhibited the precious tortoises, and was (also the gift of) the son of Heaven,
 and when these were followed by herds of oxen and
 sheep, they were the gifts bestowed on the feudal
 lords’.
@@ -5401,15 +4838,13 @@ Section III.
 
 1. In music we have the expression of feelings
 which do not admit of any change; in ceremonies
-that of principles which do not admit of any altera-
-tion. Music embraces what all equally share; cere-
+that of principles which do not admit of any alteration. Music embraces what all equally share; cere-
 mony distinguishes the things in which men differ.
 Hence the theory of music and ceremonies embraces
 the whole nature of man.
 
 2. To go to the very root (of our feelings) and
-know the changes (which they undergo) is the pro-
-vince of music; to display sincerity and put away all
+know the changes (which they undergo) is the province of music; to display sincerity and put away all
 that is hypocritical is the grand law of ceremonies.
 Ceremonies and music resemble the nature of Heaven
 and Earth, penetrate to the virtues of the spiritual
@@ -5421,22 +4856,18 @@ Hsiang (44 Je), meaning the natural symbols of music
 
 
 SECT. III. YO Kt. IIs
-
-
 raise up those whose seat is below, They give a sort
 of substantial embodiment of what is most subtle as
 well as material, and regulate the duties between
 father and son, ruler and subject.
 
-3. Therefore, when the Great man uses and ex-
-hibits his ceremonies and music, Heaven and Earth
+3. Therefore, when the Great man uses and exhibits his ceremonies and music, Heaven and Earth
 will in response to him display their brilliant influences.
 They will act in happy union, and the energies (of
 nature), now expanding, now contracting, will proceed
 harmoniously. The genial airs from above and the
 responsive action below will overspread and nourish
-all things. Then plants and trees will grow luxuri-
-antly; curling sprouts and buds will expand; the
+all things. Then plants and trees will grow luxuriantly; curling sprouts and buds will expand; the
 feathered and winged tribes will be active; horns and
 antlers will grow; insects will come to the light and
 revive ; birds will breed and brood; the hairy tribes
@@ -5466,13 +4897,8 @@ rejaillissant (sous tous les @tres de la nature).’
 I 2
 
 
-116 THE Li Ki. BK. XVII.
-
-
-the same way), the spreading of the mats, the dispos-
-ing of the vases, and the arranging of the stands and
-dishes, with the movements in ascending and descend-
-ing, are but the small accessories of ceremonies ; and
+the same way), the spreading of the mats, the disposing of the vases, and the arranging of the stands and
+dishes, with the movements in ascending and descending, are but the small accessories of ceremonies ; and
 hence there are the (smaller) officers who direct them.
 The music-masters decide on the tunes and the pieces
 of poetry; and hence they have their places with
@@ -5487,8 +4913,7 @@ the manner of the Shang dynasty’, have their places
 5. It is for this reason that the practice of virtue
 is held to be of superior worth, and the practice of
 any art of inferior; that complete virtue takes the
-first place, and the doing of anything, (however in-
-genious, only) the second. Therefore the ancient
+first place, and the doing of anything, (however ingenious, only) the second. Therefore the ancient
 kings had their distinctions of superior and inferior, of
 first and last ; and so they could frame their music and
 ceremonies for the whole kingdom?
@@ -5500,16 +4925,13 @@ I listen to the ancient music, I am only afraid that
 I shall go to sleep. When I listen to the music of
 
 
-* Which was distinguished for the plain simplicity of its ob-
-servances.
+* Which was distinguished for the plain simplicity of its observances.
 
 * With this ends the seventh chapter, called Yo King (44 TF),
 ‘The attributes of Music.’
 
 * The marquis Wan ruled in Wei from B.c. 425 to 387. He is
 said to have received the classical books from 3ze-hsia, when that
-
-
 disciple of Confucius must have been a hundred years old, and
 was blind, in B.c. 407.
 
@@ -5520,8 +4942,7 @@ Kang and Wei, I do not feel tired; let me ask why
 I should feel so differently under the old and the
 new music.’
 
-7. 3ze-hsia replied, ‘In the old music, (the per-
-formers) advance and retire all together ; the music
+7. 3ze-hsia replied, ‘In the old music, (the performers) advance and retire all together ; the music
 is harmonious, correct, and in large volume; the
 stringed instruments (above) and those made from
 gourd shells with the organs and their metal tongues
@@ -5559,17 +4980,13 @@ xiven in the plates to the Ahien-lung edition; but there is much
 118 THE Li Kt. BK. XVII.
 
 
-10. The marquis asked him to explain, and 3ze-
-hsid replied, ‘In antiquity, Heaven and Earth acted
-according to their several natures, and the four sea-
-sons were what they ought to be. The people were
+10. The marquis asked him to explain, and 3zehsid replied, ‘In antiquity, Heaven and Earth acted
+according to their several natures, and the four seasons were what they ought to be. The people were
 virtuous, and all the cereals produced abundantly.
-There were no fevers or other diseases, and no ap-
-paritions or other prodigies. This was what we call
+There were no fevers or other diseases, and no apparitions or other prodigies. This was what we call
 “the period of great order.” After this arose the
 sages, and set forth the duties between father and
-son, and between ruler and subject, for the guid-
-ance of society. When these guiding rules were
+son, and between ruler and subject, for the guidance of society. When these guiding rules were
 thus correctly adjusted, all under heaven, there was
 a great tranquillity; after which they framed with
 exactness the six accords (upper and lower), and
@@ -5577,8 +4994,6 @@ gave harmony to the five notes (of the scale), and
 the singing to the lutes of the odes and praise-songs ;
 constituting what we call “the virtuous airs.” Such
 virtuous airs constituted what we call ‘‘ Music,” as is
-
-
 declared in the Book of Poetry (III, i, ode 7, 4),
 
 
@@ -5685,18 +5100,14 @@ sound of his organs, pipes, and flutes, he thinks of
 his officers who gather the people together.
 
 ‘The drums and tambours give out their loud
-volume of sound, which excites the idea of move-
-ment, and tends to the advancing of the host. When
+volume of sound, which excites the idea of movement, and tends to the advancing of the host. When
 the ruler hears the sounds of his drums and tam-
 
 
 SECT. NI, YO Kt, 121
 a Si ee
 bours, he thinks of his leaders and commanders.
-When a superior man thus hears his musical instru-
-ments, he does not hear only the sounds which they
-
-
+When a superior man thus hears his musical instruments, he does not hear only the sounds which they
 emit. There are associated ideas which accompany
 these!.’
 
@@ -5709,8 +5120,7 @@ long?’ The answer was, ‘To show (the king’s)
 anxiety that all his multitudes should be of one
 mind with him.’
 
-‘How is it that (when the performance has com-
-menced) the singers drawl their notes so long, and
+‘How is it that (when the performance has commenced) the singers drawl their notes so long, and
 the pantomimes move about till they perspire ?’
 The answer was, ‘To show his apprehension that
 some (princes) might not come up in time for the
@@ -5751,8 +5161,7 @@ should be no such sounds in the Wa.’
 
 ‘But if there should be no such sound in the W4,
 where does it come from?’ The answer was, ‘ The
-officers (of the music) failed to hand it down cor-
-rectly. If they did not do so, the aim of king Wa
+officers (of the music) failed to hand it down correctly. If they did not do so, the aim of king Wa
 would have been reckless and wrong.’
 
 The Master said, ‘ Yes, what I heard from Aang
@@ -5770,12 +5179,10 @@ pantomimes stand with their shields, each erect and
 firm asa hill, representing the attitude of king Wa.
 The violent movements of the arms and fierce
 stamping represent the enthusiasm of Thai-kung.
-The kneeling of all at the conclusion of the perform-
-ance represents the government (of peace, instituted)
+The kneeling of all at the conclusion of the performance represents the government (of peace, instituted)
 by (the dukes of) Adu and Shao.
 
-18. ‘Moreover, the pantomimes in the first move-
-ment proceed towards the north (to imitate the march-
+18. ‘Moreover, the pantomimes in the first movement proceed towards the north (to imitate the march-
 ing of king Wd against Shang); in the second, they
 show the extinction of Shang ; in the third, they show
 the return march to the south; in the fourth, they
@@ -5789,8 +5196,7 @@ SECT. It, YO Ki. 123
 
 left and right; in the sixth, they again unite at the
 point of starting to offer their homage to the son of
-Heaven. Two men, one on each side of the per-
-formers, excite them with bells, and four times they
+Heaven. Two men, one on each side of the performers, excite them with bells, and four times they
 stop and strike and thrust, showing the great awe
 with which (king Wa) inspired the Middle states.
 Their advancing with these men on each side shows
@@ -5801,8 +5207,7 @@ waited for the arrival of the princes.
 19. ‘And have you alone not heard the accounts
 of Mi-yeh ? King Wd, after the victory over Yin,
 proceeded to (the capital of) Shang; and before he
-descended from his chariot he invested the descen-
-dants of Hwang Ti with Ai; those of the Ti Yao
+descended from his chariot he invested the descendants of Hwang Ti with Ai; those of the Ti Yao
 with Ad; and those of the Ti Shun with Aan.
 When he had descended from it, he invested the
 descendant of the sovereign of Hsia with At;
@@ -5813,23 +5218,20 @@ and employed him to restore to their places the
 officers who were acquainted with the ceremonial
 usages of Shang. The common people were relieved
 from (the pressure) of the (bad) government which
-they had endured, and the emoluments of the multi-
-tude of (smaller) officers were doubled.
+they had endured, and the emoluments of the multitude of (smaller) officers were doubled.
 
 ‘(The king then) crossed the Ho, and proceeded
 to the west. His horses were set free on the south
 of mount Hwa, not to be yoked again. His oxen
 were dispersed in the wild of the Peach forest, not
 to be put to the carriages again. His chariots and
-coats of mail were smeared with blood, and des-
-patched to his arsenals, not to be used again. The
+coats of mail were smeared with blood, and despatched to his arsenals, not to be used again. The
 
 
 124 THE Li Kt. BK, XV1.
 
 
-shields and spears were turned upside down and con-
-veyed away, wrapped in tiger skins, which were styled
+shields and spears were turned upside down and conveyed away, wrapped in tiger skins, which were styled
 “the appointed cases.” The leaders and commanders
 were then constituted feudal lords; and it was known
 throughout the kingdom that king Wa would have
@@ -5845,8 +5247,7 @@ consisted in going through (so many) buffcoats
 ceased. They wore (only) their civil robes and caps,
 with their ivory tokens of rank stuck in their girdles;
 and the officers of the guard put off their swords.
-(The king) offered sacrifice in the Hall of Distinc-
-tion, and the people learned to be filial. He gave
+(The king) offered sacrifice in the Hall of Distinction, and the people learned to be filial. He gave
 audiences at court, and the feudal lords knew how they
 ought to demean themselves. He ploughed in the
 field set apart for that purpose, and the lords learned
@@ -5874,8 +5275,6 @@ SECT. III, YO Ki. 125
 
 -_——...
 __ eee
-
-
 breast bared and cut up the animals. He (also)
 presented to them the condiments and the cups.
 He wore the royal cap, and stood with a shield
@@ -5892,8 +5291,7 @@ and long-continuing action! ?’
 23. A superior man says : ‘Ceremonies and music
 should not for a moment be neglected by any one.
 When one has mastered completely (the principles
-of) music, and regulates his heart and mind accord-
-ingly, the natural, correct, gentle, and honest heart
+of) music, and regulates his heart and mind accordingly, the natural, correct, gentle, and honest heart
 is easily developed, and with this development of the
 heart comes joy. This joy goes on to a feeling of
 repose. This repose is long-continued. The man
@@ -5901,11 +5299,9 @@ in this constant repose becomes (a sort of) Heaven.
 Heaven-like, (his action) is spirit-like. Heaven-like,
 he is believed without the use of words. Spirit-like,
 he is regarded with awe, without any display of rage.
-So it is, when one by his mastering of music regu-
-lates his mind and heart.
+So it is, when one by his mastering of music regulates his mind and heart.
 
-24. ‘When one has mastered completely (the prin-
-ciple of) ceremonies so as to regulate his person ac-
+24. ‘When one has mastered completely (the principle of) ceremonies so as to regulate his person ac-
 cordingly, he becomes grave and reverential. Grave
 and reverential, he comes to be regarded with awe.
 If the heart be for a moment without the feeling of
@@ -5925,10 +5321,8 @@ without gravity and respectfulness, indifference and
 rudeness show themselves. |
 
 25. ‘ Therefore the sphere in which music acts is
-the interior of man, and that of ceremonies is his ex-
-terior. The result of music is a perfect harmony,
-and that of ceremonies a perfect observance (of pro-
-priety). When one’s inner man is (thus) harmonious,
+the interior of man, and that of ceremonies is his exterior. The result of music is a perfect harmony,
+and that of ceremonies a perfect observance (of propriety). When one’s inner man is (thus) harmonious,
 and his outer man thus docile, the people behold his
 countenance and do not strive with him; they look
 to his demeanour, and no feeling of indifference or
@@ -5943,18 +5337,14 @@ outward manifestation and application, and under
 heaven nothing difficult to manage will appear.” ’
 
 26. Music springs from the inward movements (of
-the soul); ceremonies appear in the outward move-
-ments (of the body). Hence it is the rule to make
+the soul); ceremonies appear in the outward movements (of the body). Hence it is the rule to make
 ceremonies as few and brief as possible, and to give
-to music its fullest development. This rule for cere-
-monies leads to the forward exhibition of them, and
+to music its fullest development. This rule for ceremonies leads to the forward exhibition of them, and
 therein their beauty resides; that for music leads to
 the introspective consideration of it, and therein its
-beauty resides. If ceremonies demanding this con-
-densation were not performed with this forward
+beauty resides. If ceremonies demanding this condensation were not performed with this forward
 exhibition of them, they would almost disappear
-altogether ; if music, demanding this full develop-
-ment, were not accompanied with this introspection,
+altogether ; if music, demanding this full development, were not accompanied with this introspection,
 it would produce a dissipation of the mind. Thus it
 
 
@@ -5962,16 +5352,9 @@ SECT. IU, Yo xi.
 
 
 Sie... ee ee ee
-
-
-124
-
-
 is that to every ceremony there is its proper response,
-and for music there is its introspection. When cere-
-monies are responded to, there arises pleasure; and
-when music is accompanied with the right intro-
-spection, there arises the (feeling of) repose. The
+and for music there is its introspection. When ceremonies are responded to, there arises pleasure; and
+when music is accompanied with the right introspection, there arises the (feeling of) repose. The
 responses of ceremony and the introspection of music
 spring from one and the same idea, and have one and
 the same object.
@@ -5994,8 +5377,7 @@ tunes and words of the Y4 and the Sung to guide
 pleasure, without any intermixture of what was bad,
 while the words should afford sufficient material for
 consideration without causing weariness; and the
-bends and straight courses, the swell and diminu-
-tion, the sharp angles, and soft melody throughout
+bends and straight courses, the swell and diminution, the sharp angles, and soft melody throughout
 all its parts, should be sufficient to stir up in the
 minds of the hearers what was good in them, without
 inducing any looseness of thought or depraved air
@@ -6006,8 +5388,6 @@ kings when they framed their music.
 
 
 128 THE Li Kt. BK. XVII,
-
-
 ministers, high and low, listen together to the music,
 and all is harmony and reverence ; at the district and
 village meetings of the heads of clans, old and young
@@ -6017,8 +5397,7 @@ brothers and cousins, listen together to it, and all is
 harmony and affection. Thus in music there is a
 careful discrimination (of the voices) to blend them
 in unison so as to bring out their harmony; there‘is
-a union of the (various) instruments to give orna-
-mental effect to its different parts; and these parts
+a union of the (various) instruments to give ornamental effect to its different parts; and these parts
 are combined and performed ‘so as to complete its
 elegance. In this way fathers and sons, rulers and
 subjects are united in harmony, and the people of the
@@ -6036,20 +5415,15 @@ carriage of the person receives gravity. From the
 way in which (the pantomimes) move to their several
 places, and adapt themselves to the several parts (of
 the performance), the arrangement of their ranks is
-made correct, and their order in advancing and re-
-tiring is secured. In this way music becomes the
+made correct, and their order in advancing and retiring is secured. In this way music becomes the
 lesson of Heaven and Earth, the regulator of true
-harmony, and what the nature of man cannot dis-
-pense with.
+harmony, and what the nature of man cannot dispense with.
 
 30. It was by music that the ancient kings gave
 elegant expression to their joy; by their armies and
 
 
 SECT. UI. Yo xi.
-
-
-129
 
 
 axes that they gave the same to their anger. Hence
@@ -6067,8 +5441,7 @@ heard that in the music and words belonging to it
 there is that which is specially appropriate to every
 man; what songs are specially appropriate to me ?’
 The other replied, ‘I am but a poor musician, and
-am not worthy to be asked what songs are appro-
-priate for particular individuals ;—allow me to repeat
+am not worthy to be asked what songs are appropriate for particular individuals ;—allow me to repeat
 to you what I have heard, and you can select for
 yourself (what is appropriate to you). The generous
 and calm, the mild and correct, should sing the
@@ -6107,8 +5480,7 @@ proper laws, and all things are nourished and thrive.
 32. ‘What are called the Shang’ were the airs and
 words transmitted from the five Tis ; and having been
 remembered by the people of Shang, we call them
-the Shang. What are called the A/i were trans-
-mitted from the three dynasties; and having been
+the Shang. What are called the A/i were transmitted from the three dynasties; and having been
 remembered by the people of Ai, we call them the
 Kht. He who is versed in the airs of the Shang
 will generally be found to manifest decision in the
@@ -6116,8 +5488,7 @@ conduct of affairs. He who is versed in the airs of
 the Xi, when he is attracted by the prospect of
 profit, will yet give place to others. To manifest
 decision in the conduct of affairs is bravery; to give
-place to others in the prospect of gain is righteous-
-ness. Who, without singing these songs, can assure
+place to others in the prospect of gain is righteousness. Who, without singing these songs, can assure
 himself that he will always preserve such bravery and
 righteousness ?
 
@@ -6128,8 +5499,7 @@ off; and the finale resembles (the breaking) of a
 willow tree; emphatical notes seem made by the
 
 
-? All the other pieces of song mentioned in the preceding para-
-graph are well known, as the divisions under which the odes of the
+? All the other pieces of song mentioned in the preceding paragraph are well known, as the divisions under which the odes of the
 Shih King are arranged. What are called the Shang and Xi
 are lost, but some account of them is given in this paragraph.
 When it is said that the people of Shang remembered the airs and
@@ -6146,8 +5516,7 @@ those prolonged on the same key are like pearls
 strung together. Hence, singing means the prolonged
 expression of the words ; there is the utterance of the
 words, and when the simple utterance is not sufficient,
-the prolonged expression of them. When that pro-
-longed expression is not sufficient, there come the
+the prolonged expression of them. When that prolonged expression is not sufficient, there come the
 sigh and exclamation. When these are insufficient,
 unconsciously there come the motions of the hands
 and the stamping of the feet?’
@@ -6161,8 +5530,7 @@ about music®.
 puisse comparer des airs 4 des objets, ou a des accidents matériels,
 comme nous disons de tel motif musical qu'il est “Large,” “Sec,”
 “Dur,” etc., il faut avouer que les comparaisons adoptées par
-lartiste Chinois sont, en général, fort mauvaises, c'est une ampli-
-fication gatée de ce qu'il a dit plus haut.’
+lartiste Chinois sont, en général, fort mauvaises, c'est une amplification gatée de ce qu'il a dit plus haut.’
 
 2 This and the two preceding paragraphs form the eleventh
 chapter of the Book, the last of those of which the text has been
@@ -6188,8 +5556,7 @@ pennon of his flag.
 
 (For the carriage with the bier) there was a pall,
 and attached to it a fringe made of black cloth, like
-a lower garment, serving as a curtain (to the tem-
-porary coffin), and the whole was made into a sort
+a lower garment, serving as a curtain (to the temporary coffin), and the whole was made into a sort
 of house by a covering of white brocade. With this
 they travelled (back to his state), and on arriving
 at the gate of the temple, without removing the
@@ -6212,20 +5579,15 @@ in his house.
 SECT. I. PT. I. SA kt.
 
 
-133
-
-
 In the case of a Great officer they made a pall of
 cloth, and so proceeded homewards. On arriving at
-the house, they removed the pall, took the (tem-
-porary) coffin on a handbarrow, entered the gate, and
+the house, they removed the pall, took the (temporary) coffin on a handbarrow, entered the gate, and
 proceeding to the eastern steps, there halted and
 removed the barrow, after which they took the body
 up the steps, right to the place where it was to be
 coffined.
 
-3. The pall-house made over the body of an ordi-
-nary officer was made of the phragmites rush; and
+3. The pall-house made over the body of an ordinary officer was made of the phragmites rush; and
 the fringe for a curtain below of the typha.
 
 4. In every announcement of a death to the ruler
@@ -6239,24 +5601,19 @@ his emoluments. I venture to announce it to your
 officers’.’ If the announcement were about the death
 of his wife, it was said, ‘ The inferior partner of my
 poor ruler has ceased to receive her emoluments.’
-On the death of a ruler’s eldest son, the announce-
-ment ran, ‘The heir-son of my unworthy ruler, so
+On the death of a ruler’s eldest son, the announcement ran, ‘The heir-son of my unworthy ruler, so
 and so, has died.’
 
 5. When an announcement of the death of a Great
 officer was sent to another of the same grade. in the
 Same state, it was said, ‘So and so has ceased to
 receive his emoluments. The same terms were
-employed when the announcement was to an ordi-
-nary officer. When it was sent to the ruler of an-
+employed when the announcement was to an ordinary officer. When it was sent to the ruler of an-
 other state, it ran, ‘Your lordship’s outside minister,
 
 
 * Not daring to communicate the evil tidings directly to the
 ruler.
-
-
-134 THE Li Ki. BK, XVIII.
 
 
 my poor Great officer, so and so, has died.’ If it
@@ -6319,8 +5676,7 @@ of a Great officer; but his place was only the same
 as that of a son by the proper wife who was not a
 Great officer.
 
-11. When the son of an ordinary officer had be-
-come a Great officer, his parents could not preside
+11. When the son of an ordinary officer had become a Great officer, his parents could not preside
 at his mourning rites. They made his son do so;
 and if he had no son, they appointed some one to
 perform that part, and be the representative of the
@@ -6335,12 +5691,10 @@ and the usual mourning shoes. His cap was of
 black material, without any fringe. The diviner
 wore a skin cap.
 
-13. If the stalks were employed, then the mani-
-pulator wore a cap of plain silk, and the long robe.
+13. If the stalks were employed, then the manipulator wore a cap of plain silk, and the long robe.
 The reader of the result wore his court robes.
 
-14. At the mourning rites for a Great officer (pre-
-paratory to the interment), the horses were brought
+14. At the mourning rites for a Great officer (preparatory to the interment), the horses were brought
 out. The man who brought them wailed, stamped,
 and went out. After this (the son) folded up the
 offerings, and read the list (of the gifts that had
@@ -6385,8 +5739,7 @@ with pheasants on it, descending below the (bamboo)
 catch for water.
 
 21. (The tablet of a grandson who had been) a
-Great officer was placed (in the shrine of his grand-
-father who had (only) been an officer ; but not if he
+Great officer was placed (in the shrine of his grandfather who had (only) been an officer ; but not if he
 
 
 1 Paragraph 18 in the ordinary editions is before 16. The
@@ -6422,8 +5775,7 @@ in the shrine of his grandfather, and was used at
 sacrifices. That of an unmarried daughter was placed
 in the shrine of her grandmother, but was not used
 at sacrifices. The (tablet of) the son of a ruler was
-placed in the shrine of (one of) the sons (of his grand-
-father), that grandfather having also been a ruler.
+placed in the shrine of (one of) the sons (of his grandfather), that grandfather having also been a ruler.
 
 24. When a ruler died, his eldest son was simply
 styled son (for that year), but he was treated (by
@@ -6436,8 +5788,6 @@ the mourning of nine months, he changed it for the
 hempen-cloth proper to the nine months; but he
 did not change the staff and shoes.
 
-
-138 THE Li xi. BK, XVII.
 
 26. In mourning for a parent, (after a year) the
 sackcloth of the nine months’ mourning is preferred;
@@ -6483,8 +5833,6 @@ SECT. I. PT. Il. 3A xt. 139
 
 
 —_—_—_—_—_————————— as er
-
-
 relatives. If one of them took her place (and acted
 as mistress of the establishment), she did not wear
 mourning for the relatives’,
@@ -6510,12 +5858,10 @@ arrived to offer condolences, (the president) took the
 proper place, wailed, bowed to the visitor, and leaped.
 
 3. At the wailing for a Great officer, another of
-the same rank, wore the conical cap, with a sack-
-cloth band round it. He wore the same also when
+the same rank, wore the conical cap, with a sackcloth band round it. He wore the same also when
 engaged with the coffining.
 
-If he had on the cap of dolichos-cloth in mourn-
-ing for his own wife or son, and were called away
+If he had on the cap of dolichos-cloth in mourning for his own wife or son, and were called away
 to the lighter mourning for a distant relative, he put
 on the conical cap and band.
 
@@ -6527,9 +5873,6 @@ staff, but not for that son’s son; he went without it
 of the duties; but she had not the position of wife. Anciently, a
 feudal ruler could only, in all his life, have one wife, one lady, that
 is, to be called by that name.
-
-
-140 THE Li Ki. BK. XVIII.
 
 
 to the place of wailing. (An eldest son), going to wail
@@ -6577,8 +5920,6 @@ SECT. I. PT. I, gA Kt. 14!
 
 
 TT eS a ae
-
-
 grave) was according to that of the parcels of flesh
 to be conveyed. Each one had a pall of coarse cloth.
 All round were ornamental figures. These parcels
@@ -6623,8 +5964,6 @@ three cubits long, with its handle and end carved.
 
 
 142 THE Li xt. BK. XVIII,
-
-
 or a Great officer was of five colours; that used for
 another officer, only of two.
 
@@ -6638,8 +5977,7 @@ the tray for the mats was put in.
 18. The spirit-tablet (which had been set up over
 the coffin) was buried after the sacrifice of Repose.
 
-19. (The mourning rites for) all wives were ac-
-cording to the rank of their husbands.
+19. (The mourning rites for) all wives were according to the rank of their husbands.
 
 20. (Visitors who had arrived) during: the slighter
 dressing of the corpse, the more complete dressing,
@@ -6647,8 +5985,7 @@ or the opening (the enclosure where the coffin was),
 were all saluted and bowed to (after these operations
 were finished).
 
-21. At the wailing morning and evening, (the cof-
-fin) was not screened from view. When the bier had
+21. At the wailing morning and evening, (the coffin) was not screened from view. When the bier had
 been removed, the curtain was no more suspended.
 
 22. When the ruler came to condole, after the
@@ -6662,8 +5999,7 @@ which he put down (by the bier the gifts which the
 ruler had brought).
 
 23. When 3ze-k4o was fully dressed after his
-death, first, there were the upper and lower gar-
-ments both wadded with floss silk, and over them a
+death, first, there were the upper and lower garments both wadded with floss silk, and over them a
 suit of black with a purple border below; next, there
 was a suit of white made square and straight, (the
 
@@ -6673,8 +6009,7 @@ ee le
 suit belonging to) the skin cap; next, that belonging
 to the skin cap like the colour of a sparrow’s head ;
 and next, (that belonging to) the dark-coloured cap,
-with the square top. 3&ng-;ze said, ‘In such a dress-
-ing there should be nothing of woman’s dress.’
+with the square top. 3&ng-;ze said, ‘In such a dressing there should be nothing of woman’s dress.’
 
 24. When an officer died on some commission,
 upon which he had gone for his ruler, if the death
@@ -6706,13 +6041,9 @@ dressing here is that of the corpse of a Great officer, and there is
 no evidence that the disciple ever attained to that rank ; and I am
 inclined to doubt, with Kiang A 4o-hsit and others, whether the
 party in the text may not have been another 3zce-kao. The caps
-of the last three suits are understood to be used for the suits them-
-selves, with which they were generally worn. 3ang-3ze’s condemna-
+of the last three suits are understood to be used for the suits themselves, with which they were generally worn. 3ang-3ze’s condemna-
 tion of the dressing was grounded on the purple border of one of
 the articles in the first suit. See Analects X, 4.
-
-
-144 THE Li Ki. BK. XVIII.
 
 
 skin cap; next, the dark-coloured cap with the square
@@ -6721,18 +6052,14 @@ next, a girdle of red and green; over which was laid
 out the great girdle.
 
 27. At the slight dressing of the corpse the son
-(or the presiding mourner) wore the band of sack-
-cloth about his head. Rulers, Great officers, and
+(or the presiding mourner) wore the band of sackcloth about his head. Rulers, Great officers, and
 ordinary officers agreed in this.
 
-28. When the ruler came to see the great dress-
-ing of the corpse, as he was ascending to the hall,
-the Shang priest spread the mat (afresh), and pro-
-ceeded to the dressing.
+28. When the ruler came to see the great dressing of the corpse, as he was ascending to the hall,
+the Shang priest spread the mat (afresh), and proceeded to the dressing.
 
 29. The gifts (for the dead, and to be placed in
-the grave), contributed by the people of Li, con-
-sisted of three rolls of dark-coloured silk, and two of
+the grave), contributed by the people of Li, consisted of three rolls of dark-coloured silk, and two of
 light red, but they were (only) a cubit in width, and
 completing the length of (one) roll’.
 
@@ -6760,11 +6087,9 @@ of silk should be twenty-five cubits wide, and eighteen cubits long.
 SECT. I. PT. I, SA KI. 145
 ee
 returning and saying, ‘My orphaned master is waiting
-for you.’ On this the visitor advanced. The mourn-
-ing host then went up to the reception hall by the
+for you.’ On this the visitor advanced. The mourning host then went up to the reception hall by the
 steps on the east, and the visitor by those on the
-west. The latter, with his face to the east, communi-
-cated his message, saying, ‘Our ruler has heard of
+west. The latter, with his face to the east, communicated his message, saying, ‘Our ruler has heard of
 the bereavement you have sustained, and has sent
 me to ask for you in your sorrows.’ The mourning
 son then bowed to him, kneeling with his forehead
@@ -6773,8 +6098,7 @@ steps, and returned to his place.
 
 31. The attendant charged with the jade for the
 mouth of the deceased, and holding it in his hand—
-a flat round piece of jade—communicated his instruc-
-tions, saying, ‘Our ruler has sent me with the gem
+a flat round piece of jade—communicated his instructions, saying, ‘Our ruler has sent me with the gem
 for the mouth.’ The officer in waiting went in and
 reported the message, then returning and saying,
 ‘Our orphaned master is waiting for you. The
@@ -6782,11 +6106,9 @@ bearer of the gem then advanced, ascended the steps,
 and communicated his message. The son bowed to
 him, with his forehead to the ground. The bearer
 then knelt, and placed the gem on the south-east of
-the coffin, upon a phragmites mat; but if the in-
-terment had taken place, on a typha mat. After
+the coffin, upon a phragmites mat; but if the interment had taken place, on a typha mat. After
 this, he descended the steps, and returned to his place.
-The major-domo, in his court robes, but still wear-
-ing his mourning shces, then ascended the western
+The major-domo, in his court robes, but still wearing his mourning shces, then ascended the western
 steps, and kneeling with his face to the west, took
 up the piece of jade, and descending by the same
 steps, went towards the east (to deposit it in the
@@ -6806,20 +6128,16 @@ returned and said, ‘Our orphaned master is waiting
 for you.’ Then the other took up first the cap with the
 square top and robes, with his left hand holding the
 neck of the upper garment, and with his right the
-waist. He advanced, went up to the hall, and com-
-municated his message, saying, ‘Our ruler has sent
+waist. He advanced, went up to the hall, and communicated his message, saying, ‘Our ruler has sent
 me with the grave-clothes.’ The son bowed to him,
 with his forehead to the ground ; and when the bearer
 laid down the things on the east of the coffin, he
 then went down, and received the skin cap of the
 sparrow’s-head colour, with the clothes belonging to
-it inside the gate, under the eaves. These he pre-
-sented with the same forms; then the skin cap and
-clothes which he received in the middle of the court-
-yard ; then the court robes ; then the dark-coloured,
+it inside the gate, under the eaves. These he presented with the same forms; then the skin cap and
+clothes which he received in the middle of the courtyard ; then the court robes ; then the dark-coloured,
 square-cut garments, which he received at the foot
-of the steps on the west. When all these presenta-
-tions were made, five men from the department of
+of the steps on the west. When all these presentations were made, five men from the department of
 the major-domo took the things up, and going
 down the steps on the west, went away with them
 to the east. They all took them up with their faces
@@ -6833,22 +6151,16 @@ the carriage and horses.’ The officer in waiting
 went in and informed the presiding mourner, and
 returned with the message, ‘ The orphan, so and so,
 is waiting for you.’ The attendant then had the
-team of yellow horses and the grand carriage ex-
-hibited in the central courtyard, with the front to
-the north ; and with the symbol in hand he commu-
-nicated his message. His grooms were all below, on
+team of yellow horses and the grand carriage exhibited in the central courtyard, with the front to
+the north ; and with the symbol in hand he communicated his message. His grooms were all below, on
 
 
 SECT. I. PT. Ik SA xt.
 
 
-147
-
-
 the west of the carriage. The son bowed to him,
 with his forehead to the ground. He then knelt,
-and placed his symbol in the corner, on the south-
-east of the coffin. The major-domo then took the
+and placed his symbol in the corner, on the southeast of the coffin. The major-domo then took the
 symbol up, and proceeded with it to the east. :
 
 34. The message was always delivered with the
@@ -6866,20 +6178,16 @@ horses went out, and returned to his piace outside
 the gate.
 
 35. The chief visitor then, (wishing) to perform
-the ceremony of wailing, said, ‘ My ruler, being en-
-gaged in the services of his own ancestral temple,
+the ceremony of wailing, said, ‘ My ruler, being engaged in the services of his own ancestral temple,
 could not come and take part in your rites, and has
-sent me, so and so, his old servant, to assist in hold-
-ing the rope. The officer in waiting (reported his
+sent me, so and so, his old servant, to assist in holding the rope. The officer in waiting (reported his
 request), and returned with the message, ‘The
-orphan, so and so, is waiting for you. The mes-
-senger then entered and took his place on the right
+orphan, so and so, is waiting for you. The messenger then entered and took his place on the right
 of the gate. His attendants all followed him, and
 stood on his left, on the east. The superintendent
 of ceremonies introduced the visitor, and went up
 on the hall, and received his ruler’s instructions, then
-descending and saying, ‘ The orphan ventures to de-
-cline the honour which you propose, and begs you
+descending and saying, ‘ The orphan ventures to decline the honour which you propose, and begs you
 to return to your place. The messenger, however,
 replied, ‘My ruler charged me that I should not
 
@@ -6891,12 +6199,10 @@ L 2
 
 demean myself as a visitor or guest, and I venture
 to decline doing as you request.’ The other then
-reported this reply, and returned, and told the mes-
-senger that the orphan firmly declined the honour
+reported this reply, and returned, and told the messenger that the orphan firmly declined the honour
 which he proposed, and repeated the request that he
 would return to his place. The messenger repeated
-his reply, saying that he also firmly declined (to re-
-turn to his place). The same message from the
+his reply, saying that he also firmly declined (to return to his place). The same message from the
 mourner was repeated, and the same reply to it,
 (after which) the mourner said, ‘ Since he thus firmly
 declines what I request, I will venture respectfully
@@ -6906,16 +6212,14 @@ The messenger then stood on the west of the gate,
 and his attendants on his left, facing the west. The
 orphaned mourner descended by the steps on the east,
 and bowed to him, after which they both ascended
-and wailed, each of them leaping three times in re-
-sponse to each other. The messenger then went
+and wailed, each of them leaping three times in response to each other. The messenger then went
 out, escorted by the mourner outside of the gate,
 who then bowed to him, with his forehead down to
 the ground.
 
 36. When the ruler of a state had mourning rites
 in hand for a parent, (any officer who was mourning
-for a parent) did not dare to receive visits of con-
-dolence (from another state).
+for a parent) did not dare to receive visits of condolence (from another state).
 
 37. The female relatives of the exterior kept in
 iheir apartments; the servants spread the mats; the
@@ -6931,9 +6235,6 @@ leant on the coffin and leaped. The wife with her
 SECT. I. PT. SA xt.
 
 
-149
-
-
 face to the east, also leant on it, kneeling ; and then
 she got up and leaped ?.
 
@@ -6942,8 +6243,6 @@ for an officer which agree with those used on the
 death of the son of Heaven :—the torches kept
 burning all night (when the coffin is to be conveyed
 to the grave); the employment of men to draw the
-
-
 carriage ; and the keeping of the road free from all
 travellers on it.
 
@@ -6960,8 +6259,7 @@ Section II. Part I.
 
 
 1, When a man was wearing mourning for his
-father, if his mother died before the period was com-
-pleted, he put off the mourning for his father (and
+father, if his mother died before the period was completed, he put off the mourning for his father (and
 assumed that proper for his mother). He put on,
 however, the proper dress when sacrificial services
 required it; but when they were over ', he returned
@@ -6969,23 +6267,19 @@ to the mourning (for his mother).
 
 2. When occasion occurred for wearing the
 mourning for uncles or cousins, if it arrived during
-the period of mourning for a parent, then the pre-
-vious mourning was not laid aside, save when the
+the period of mourning for a parent, then the previous mourning was not laid aside, save when the
 sacrificial services in these cases required it to be so;
 and when they were finished, the mourning for a
 parent was resumed.
 
-3. If during the three years’ mourning (there oc-
-curred also another three years’ mourning for the
+3. If during the three years’ mourning (there occurred also another three years’ mourning for the
 eldest son), then after the coarser girdle of the
 Kiung hemp had been assumed in the latter case,
 the sacrifices at the end of the first or second year’s
 mourning for a parent might be proceeded with.
 
-4. When a grandfather had died, and his grand-
-son also died before the sacrifices at the end of the
-first or second year had been performed, (his spirit-
-tablet) was still placed next to the grandfather's.
+4. When a grandfather had died, and his grandson also died before the sacrifices at the end of the
+first or second year had been performed, (his spirittablet) was still placed next to the grandfather's.
 
 5. When a mourner, while the coffin was in the
 house, heard of the death of another relative at a
@@ -6993,8 +6287,7 @@ house, heard of the death of another relative at a
 
 * That is, the sacrifices regularly presented at the end of the
 first and second year from the death. The translation here and in
-the next three paragraphs, if it were from an Aryan or Semitic lan-
-guage, could not be said to be literal; but it correctly represents
+the next three paragraphs, if it were from an Aryan or Semitic language, could not be said to be literal; but it correctly represents
 the ideas of the author.
 
 
@@ -7011,8 +6304,7 @@ of the day before.
 about to take part in a sacrifice at his ruler’s, if,
 after the inspection of the washing of the vessels to
 be used, his father or mother died, he still went to
-the sacrifice ; but took his place in a different apart-
-ment. After the sacrifice he put off his (sacrificial)
+the sacrifice ; but took his place in a different apartment. After the sacrifice he put off his (sacrificial)
 dress, went outside the gate of the palace, wailed,
 and returned to his own house. In other respects
 he acted as he would have done in hurrying to the
@@ -7023,8 +6315,7 @@ when he returned, proceeded to wail (for his deceased
 parent).
 
 When the death that occurred was that of an
-uncle, aunt, or cousin, if he had received the pre-
-vious notice to fast, he went to the sacrifice; and
+uncle, aunt, or cousin, if he had received the previous notice to fast, he went to the sacrifice; and
 when it was over, he went out at the ruler’s gate, put
 off his (sacrificial) dress, and returned to his own
 house. In other respects he acted as if he had been
@@ -7040,15 +6331,11 @@ at home; and they fail to see how the condition supposed could
 have existed.
 
 
-152 THE Li xi. BK, XVIII.
-
-
 7. 3ang-3ze asked, ‘When a high minister or
 Great officer is about to act the part of the personator
 of the dead at a sacrifice by his ruler, and has
 received instructions to pass the night previous in
-solemn vigil, if there occur in his own family occa-
-sion for him to wear the robe of hemmed sackcloth,
+solemn vigil, if there occur in his own family occasion for him to wear the robe of hemmed sackcloth,
 what is he todo?’ Confucius said, ‘ The rule is for
 him to leave his own house, and lodge in the ruler’s
 palace till the service (for the ruler) is accomplished.
@@ -7068,8 +6355,7 @@ a death occurred in the family of a brother or
 cousin, the sacrifice was postponed till the burial of
 the dead had taken place. If the cousin or brother
 were an inmate of the same palace with himself,
-although the death were that of a servant or con-
-cubine, the party postponed his sacrifice in this way.
+although the death were that of a servant or concubine, the party postponed his sacrifice in this way.
 At the sacrifice the mourner went up and descended
 the steps with only one foot on each, all assisting
 him, doing the same. They did so even for the
@@ -7115,8 +6401,7 @@ they are written.’
 mourning of other men to diminish it, nor will he do
 so with his own mourning’.
 
-14. Confucius said, ‘Shao-lien and T4a-lien de-
-meaned themselves skilfully during their mourning
+14. Confucius said, ‘Shao-lien and T4a-lien demeaned themselves skilfully during their mourning
 (for their parents). During the (first) three days
 they were alert; for the (first) three months they
 manifested no weariness; for the (first) year they were
@@ -7148,12 +6433,10 @@ severest form in mourning.
 16. (The grief) in mourning for a wife was like
 that for an uncle or aunt; that for a father’s sister
 or one’s own sister was like that for a cousin; that
-for any of the three classes of minors dying prema-
-turely was as if they had been full-grown.
+for any of the three classes of minors dying prematurely was as if they had been full-grown.
 
 17. The mourning for parents is taken away (at
-the end of three years), (but only) its external sym-
-bols ; the mourning for brothers (at the end of one
+the end of three years), (but only) its external symbols ; the mourning for brothers (at the end of one
 year), (and also) internally.
 
 18. (The period of mourning) for a ruler’s mother
@@ -7182,12 +6465,10 @@ Sikes
 
 
 In condoling with mourners on occasion of a death,
-and i inquiring for one who is ill, there will be some-
-thing in his face and diggiised manner different
+and i inquiring for one who is ill, there will be something in his face and diggiised manner different
 from other men. He who is thus affected is fit: to
 wear the three years’ mourning. So far as other
-mourning is concerned, he may walk right on (with-
-out anythin) having such an effect on him.
+mourning is concerned, he may walk right on (without anythin) having such an effect on him.
 
 20. The sacrifice at the end of the second! year
 is signalized by the principal mourner putting off
@@ -7206,8 +6487,7 @@ he had bared his breast, a Great officer arrived (ona
 visit of condolence), although he might be engaged
 in the leaping, he put a stop to it, and went to
 salute and bowtohim. Returning then, he resumed
-his leaping and completed it, after which he re-
-adjusted his dress and covered his breast.
+his leaping and completed it, after which he readjusted his dress and covered his breast.
 
 In the case of a visit from another officer, he went
 on with his leaping, completed it, readjusted his
@@ -7224,9 +6504,6 @@ of the highest grade, there were offered a boar anda
 some other occasion of mourning.
 
 
-156 THE Li KI. BK. XVIII.
-
-
 ram; at the conclusion of the wailing, and at the
 placing of his spirit-tablet, there was, in addition, the
 bull. On the similar occasions for a Great officer of
@@ -7236,8 +6513,7 @@ victim, and in the others the boar and the ram.
 24. In consulting the tortoise-shell about the burial
 and sacrifice of Repose, the style of the petition was as
 follows :—A son or grandson spoke of himself as ‘the
-sorrowing,’ (when divining about his father or grand-
-father); a husband (divining about his wife) said,
+sorrowing,’ (when divining about his father or grandfather); a husband (divining about his wife) said,
 ‘So and so for so and so;’ an elder brother about
 a younger brother, simply said, ‘So and so;’ a
 younger brother about an elder brother said, ‘ For
@@ -7252,15 +6528,12 @@ a staff.
 
 26. (The custom of) making a hole in the napkin
 (covering the face of the dead) by which to introduce
-what was put into the mouth, was begun by Kung-
-yang ia ?.
+what was put into the mouth, was begun by Kungyang ia ?.
 
 27. What were the grave-clothes (contributed to
 the dead)? The object of them was to cover the
-body. From the enshrouding to the slighter dress-
-ing, they were not put on, and the figure of the body
-was seen. Therefore the corpse was first en-
-shrouded, and afterwards came the grave-clothes.
+body. From the enshrouding to the slighter dressing, they were not put on, and the figure of the body
+was seen. Therefore the corpse was first enshrouded, and afterwards came the grave-clothes.
 
 28. Some one asked 3ang-3ze, ‘After sending
 
@@ -7272,12 +6545,8 @@ shrouded, and afterwards came the grave-clothes.
 SECT. InsP. I. SA Ki.
 
 
-157
-
-
 away to the grave the offerings to the dead, we wrap
-up what remains ;—is this not like a man, after par-
-taking of a meal, wrapping up what is left (to take
+up what remains ;—is this not like a man, after partaking of a meal, wrapping up what is left (to take
 with him)? Does a gentleman do such a thing ?’
 3ang-3ze said, ‘Have you not seen what is done at a
 great feast? At a great feast, given by a Great
@@ -7317,9 +6586,6 @@ something wanting at the beginning of this paragraph.
 
 
 A A s
-158 THE LI KI. BK. XVIII.
-
-
 mourning for three years is like that of beheading ;
 that arising from the one year’s mourning, is like the
 stab from a sharp weapon.’
@@ -7342,8 +6608,7 @@ condolence.
 
 33. When one was occupied with the nine months’
 mourning, if the burial had been performed, he
-might go and condole with another mourner, retir-
-ing after he had wailed without waiting for any other
+might go and condole with another mourner, retiring after he had wailed without waiting for any other
 part of the mourner’s proceedings.
 
 During the mourning for one year, if before the
@@ -7363,9 +6628,6 @@ but did not take part in the (principal) ceremony.
 ’ That is, in putting down the offerings to the deceased.
 
 
-159
-
-
 SECT. Il. PT. I. SA RT.
 
 
@@ -7376,15 +6638,13 @@ SS Sheree eet then
 he had been accustomed to pass with a hasty step},
 (at the interment of his dead relative), he retired
 when the bier had passed out from the gate of the
-temple. If they had been on bowing terms, he re-
-tired when they had reached the station for wailing.
+temple. If they had been on bowing terms, he retired when they had reached the station for wailing.
 If they had been in the habit of exchanging inquiries,
 he retired after the coffin was let down into the grave.
 If they had attended court together, he went back
 to the house with the other, and wailed with him. If
 they were intimate friends, he did not retire till after
-the sacrifice of Repose, and the placing of the spirit-
-tablet of the deceased in the shrine.
+the sacrifice of Repose, and the placing of the spirittablet of the deceased in the shrine.
 
 35. Condoling friends did not (merely) follow the
 principal mourner. Those who were forty (or less)
@@ -7400,8 +6660,7 @@ this was contrary to the rules. If he through satiety
 forgot his sorrow, that also was contrary to the rules.
 It was a distress to the wise men (who made the
 rules) to think that a mourner should not see or hear
-distinctly; should not walk correctly or be uncon-
-scious of his occasion for sorrow ; and therefore (they
+distinctly; should not walk correctly or be unconscious of his occasion for sorrow ; and therefore (they
 enjoined) that a mourner, when ill, should drink wine
 and eat flesh; that people of fifty should do nothing
 to bring on emaciation; that at sixty they should not
@@ -7417,8 +6676,7 @@ be emaciated; that at seventy they should drink
 liquor and eat flesh:—all these rules were intended
 as preventives against death.
 
-37. If one, while in mourning, was invited by an-
-other to eat with him, he did not go while wearing
+37. If one, while in mourning, was invited by another to eat with him, he did not go while wearing
 the nine months’ mourning or that of a shorter period;
 if the burial had taken place, he might go to another
 party’s house. If that other party belonged to his
@@ -7446,8 +6704,7 @@ was used instead of the ordinary one.
 
 41. During the course of mourning, from that worn
 for five months and more, the mourner did not wash
-his head or bathe, excepting for the sacrifice of Re-
-pose, the placing the spirit-tablet in the shrine, the
+his head or bathe, excepting for the sacrifice of Repose, the placing the spirit-tablet in the shrine, the
 assuming the dress of lien silk, and the sacrifice at
 the end of a year.
 
@@ -7463,8 +6720,7 @@ he himself did not ask to see any person. He might
 do so when wearing the mourning of five months.
 When wearing that for nine months, he did not carry
 the introductory present in his hand (when seeking
-an interview). It was only when wearing the mourn-
-ing for a parent that the mourner did not avoid
+an interview). It was only when wearing the mourning for a parent that the mourner did not avoid
 seeing any one, (even) while the tears were running
 from him.
 
@@ -7473,8 +6729,7 @@ years might execute any orders of government after
 the sacrifice at the end of a year. One mourning
 for a year, might do so when the wailing was ended ;
 one mourning for nine months, after the burial ; one
-mourning for five months or three, after the en-
-coffning and dressing.
+mourning for five months or three, after the encoffning and dressing.
 
 44. 3ang Shan asked 3ang-;ze, saying, ‘In wailing
 for a parent, should one do so always in the same
@@ -7488,15 +6743,13 @@ Par? I.
 
 1. After the wailing was ended, there commenced
 the avoiding of certain names. (An officer) did not
-use the name of his (paternal) grandfather or grand-
-mother, of his father’s brothers or uncles; of his
+use the name of his (paternal) grandfather or grandmother, of his father’s brothers or uncles; of his
 father’s aunts or sisters. Father and son agreed
 in avoiding all these names. The names avoided
 by his mother the son avoided in the house.
 Those avoided by his wife he did not use when at
 her side. If among them there were names which
-had been borne by his own paternal great-grand-
-father or great-grand-uncles, he avoided them (in all
+had been borne by his own paternal great-grandfather or great-grand-uncles, he avoided them (in all
 places).
 
 [28] M
@@ -7557,13 +6810,11 @@ relatives, however near, could preside at them. If
 no distant relative even of her husband could be
 found, then a neighbour, on the east or the west, was
 employed. If no such person (suitable) could be
-found, then the head man of the neighbourhood pre-
-sided. Some say, ‘One (of her relatives) might
+found, then the head man of the neighbourhood presided. Some say, ‘One (of her relatives) might
 preside, but her tablet was placed by that of the
 (proper) relative of her husband.’
 
-7. The girdle was not used along with the sack-
-cloth band. That band could not be used by one
+7. The girdle was not used along with the sackcloth band. That band could not be used by one
 who carried in his hand his jade-token; nor could it
 be used along with a dress of various colours.
 
@@ -7592,14 +6843,10 @@ integrity is also doubted.
 M 2
 
 
-164 THE Li Ki. BK, XVIII.
-
-
 11. When the mother of { Lif died, his assistants
 in the rites stood on his left; when I Lid died, they
 stood on his right. The practice of the assistants
-(at funeral rites) giving their aid on the right, origin-
-ated from the case of { Lia’.
+(at funeral rites) giving their aid on the right, originated from the case of { Lia’.
 
 12. The mouth of the son of Heaven was stuffed
 after death with nine shells; that of a feudal lord,
@@ -7647,8 +6894,7 @@ there were 500 men to draw the ropes. At each of
 the four ropes they were all gagged. The minister
 of War superintended the clappers; eight men with
 these walking on each side of the bier. The chief
-artizan, carrying a shade of feathers, guided the pro-
-gress (of the procession). At the burial of a Great
+artizan, carrying a shade of feathers, guided the progress (of the procession). At the burial of a Great
 officer, after they had gone up and made the bier
 ready, 300 men drew the ropes ; four men with their
 clappers walked on each side of the bier; and its
@@ -7673,8 +6919,7 @@ a worthy Great officer, but made it difficult
 for his inferiors (to distinguish themselves from
 him).
 
-‘A superior man will not encroach on (the observ-
-ances of) those above him, nor put difficulties in the
+‘A superior man will not encroach on (the observances of) those above him, nor put difficulties in the
 way of those below him.’
 
 
@@ -7713,8 +6958,7 @@ occupy an Office, and have not well described its
 duties; if he describe its duties well, but do not
 carry them into practice ; if he have got his office,
 and lost it again; if he be charged with the care of
-a large territory, and the people be not correspond-
-ingly numerous; if another, in a charge like his own,
+a large territory, and the people be not correspondingly numerous; if another, in a charge like his own,
 have more merit than he.
 
 21. Confucius said, ‘In bad years they used in
@@ -7805,8 +7049,7 @@ called him by the name given to him on his maturity.
 movements within his state, and did not try to avoid
 calamities coming from without.
 
-31. The treatise on the duties of the Chief Inter-
-nuncius says, ‘The length of the long symbol of
+31. The treatise on the duties of the Chief Internuncius says, ‘The length of the long symbol of
 rank was for a duke, nine inches; for a marquis or
 
 
@@ -7829,8 +7072,7 @@ of your family first begin to be in office?’ The
 answer was, ‘My ancestor held a small office under
 duke Wan.’
 
-33. When a temple was completed, they pro-
-ceeded to consecrate it with the following cere-
+33. When a temple was completed, they proceeded to consecrate it with the following cere-
 mony :—The officer of prayer, the cook, and the
 butcher, all wore the cap of leather of the colour
 of a sparrow’s head, and the dark-coloured dress
@@ -7863,12 +7105,10 @@ marquis of Lfi from B.c. 626 to 609.
 170 THE Lf Ki. BK. XVIII.
 
 
-was so, and they all retired, after which he an-
-nounced it to the ruler, saying, ‘ The blood-conse-
+was so, and they all retired, after which he announced it to the ruler, saying, ‘ The blood-conse-
 cration has been performed.’ This announcement
 was made at the door of the back apartment of the
-temple, inside which the ruler stood in his court-
-robes, looking towards the south. This concluded
+temple, inside which the ruler stood in his courtrobes, looking towards the south. This concluded
 the ceremony, and all withdrew’.
 
 When the great apartment (of the palace) was
@@ -7883,18 +7123,15 @@ blood of a young boar.
 34. When a feudal lord sent his wife away, she
 proceeded on her journey to her own state, and was
 received there with the observances due to a lord’s
-wife. The messenger, acéompanying her, then dis-
-charged his commission, saying, ‘My poor ruler, from
+wife. The messenger, acéompanying her, then discharged his commission, saying, ‘My poor ruler, from
 his want of ability, was not able to follow ker, and
 take part in the services at your altars and in your
 ancestral temple. He has, therefore, sent me, so
-and so, and I venture to inform your officer ap-
-pointed for the purpose of what he has done.’ The
+and so, and I venture to inform your officer appointed for the purpose of what he has done.’ The
 officer presiding (on the occasion) replied, ‘ My poor
 ruler in his former communication did not lay (her
 defects) before you, and he does not presume to do
-anything but respectfully receive your lord's mes-
-sage. The officers in attendance on the commis-
+anything but respectfully receive your lord's message. The officers in attendance on the commis-
 
 
 1 This ceremony is also described in the ‘ Rites of the greater
@@ -7910,18 +7147,15 @@ the lady on her marriage, and those on the other
 side received them.
 
 35. When the wife went away from her husband,
-she sent a messenger and took leave of him, say-
-ing, ‘So and so, through her want of ability, is not
+she sent a messenger and took leave of him, saying, ‘So and so, through her want of ability, is not
 able to keep on supplying the vessels of grain for
-your sacrifices, and has sent me, so and so, to pre-
-sume to announce this to your attendants. The
+your sacrifices, and has sent me, so and so, to presume to announce this to your attendants. The
 principal party (on the other side) replied, ‘ My son,
 in his inferiority, does not presume to avoid your
 punishing him, and dares not but respectfully receive
 your orders. The messenger then retired, the
 principal party bowing to him, and escorting him.
-If the father-in-law were alive, then he named him-
-self; if he were dead, an elder brother of the hus-
+If the father-in-law were alive, then he named himself; if he were dead, an elder brother of the hus-
 band acted for him, and the message was given as
 from him; if there were no elder brother, then it
 ran as from the husband himself. The message, as
@@ -7947,8 +7181,7 @@ provisions !,”’
 172 THE Lf KI. BK, XVIII.
 
 
-37. A bundle of silk (in a marriage treaty) con-
-tained five double rolls, each double roll being forty
+37. A bundle of silk (in a marriage treaty) contained five double rolls, each double roll being forty
 cubits in length.
 
 38. At the (first) interview of a wife with her
@@ -7963,8 +7196,7 @@ Although not engaged to be married, the rule
 was for a young lady to wear the hair-pin ;—she was
 thus treated with the honours of maturity. The
 (principal) wife managed the ceremony. When she
-was unoccupied and at ease, she wore her hair with-
-out the pin, on each side of her head.
+was unoccupied and at ease, she wore her hair without the pin, on each side of her head.
 
 39. The apron (of the full robes) was three cubits
 long, two cubits wide at bottom, and one at the top.
@@ -7984,8 +7216,6 @@ THE GREATER RECORD OF MOURNING RITES.
 
 
 Section I,
-
-
 t. When the illness was extreme, all about the
 establishment was swept clean, inside and out. In
 the case of a ruler or Great officer, the stands, with
@@ -7994,8 +7224,7 @@ removed; in that of an officer, his lute and cithern.
 The sufferer lay with his head to the east, under the
 window on the north. His couch was removed (and
 he was laid on the ground). The clothes ordinarily
-worn at home were removed, and new clothes sub-
-stituted for them. (In moving the body) one person
+worn at home were removed, and new clothes substituted for them. (In moving the body) one person
 took hold of each limb. _ Males and females changed
 their dress?. Some fine floss was put (on the mouth
 and nostrils), to make sure that the breath was gone.
@@ -8018,9 +7247,6 @@ might be properly received.
 mansion of a Great officer to the Grand chamber in the palace.
 
 
-174 THE Li Ki. BK. XIX.
-
-
 wife of a high minister, in an inferior chamber, but
 the corpse was then removed to the higher chamber.
 The wives of officers died in their chambers.
@@ -8031,8 +7257,7 @@ forests and copses, the forester arranged the steps
 (by which to go up on the roof); and if there were
 no forests, one of the salvage men (employed about
 the court in menial offices) did so. An officer of low
-rank performed the ceremony. All who did so em-
-ployed some of the court robes (of the deceased) :—for
+rank performed the ceremony. All who did so employed some of the court robes (of the deceased) :—for
 a ruler, the robe with the descending dragon; for the
 wife, that with the descending pheasant; for a Great
 officer, the dark robe and red skirt; for his recognised
@@ -8042,8 +7267,7 @@ his wife, the dark dress with the red border. In all
 cases they ascended from the east wing to the middle
 of the roof, where the footing was perilous. Facing
 the north, they gave three loud calls for the deceased,
-after which they rolled up the garment they had em-
-ployed, and cast it down in front, where the curator
+after which they rolled up the garment they had employed, and cast it down in front, where the curator
 of the robes received it, and then they themselves
 descended by the wing on the north-west.
 
@@ -8057,8 +7281,7 @@ called it back.
 
 Connected with the Grand chamber were two smaller apartments.
 It is mentioned in the 30 Awan, under z.c. 627, that duke Hst of
-Lfi died ‘in the small apartment ;’ which has always been under-
-stood as discreditable to him.
+Lfi died ‘in the small apartment ;’ which has always been understood as discreditable to him.
 
 
 SECT. I, SANG TA xt. 175
@@ -8071,8 +7294,7 @@ had been married was not employed. In all cases of
 calling back the soul, a man was called by his name,
 and a woman by her designation. Nothing but the
 wailing preceded the calling the soul back. After
-that calling they did what was requisite on an occa-
-sion of death.
+that calling they did what was requisite on an occasion of death.
 
 5. Immediately after death, the princinal mourners
 sobbed'; brothers and cousins (of the deceased)
@@ -8089,8 +7311,7 @@ north. His wife knelt on the west; the wives, aunts,
 sisters, their daughters and grand-daughters, whose
 husbands were of the same surname as he, stood
 (behind her) on the west; and the wives, his relatives
-of the same surname, whose position had been con-
-firmed in their relation to their husbands, at the head
+of the same surname, whose position had been confirmed in their relation to their husbands, at the head
 of all the others married similarly to husbands of
 other surnames, wailed above in the hall, facing the
 north.
@@ -8104,22 +7325,17 @@ east, and the wife, presiding, on the west. The
 expression to their grief.
 
 
-176 THE Li Ki. BK. XIX.
-
-
 husbands and wives (among the relations) whose
 positions had been officially confirmed, sat (or knelt);
 others who had not that confirmation, stood.
 
-At the rites for a deceased officer, the son pre-
-siding, uncles, brothers, and cousins, with their sons
+At the rites for a deceased officer, the son presiding, uncles, brothers, and cousins, with their sons
 and grandsons, all sat (or knelt) on the east; the
 wife presiding, aunts, sisters, and cousins, with their
 female children and grandchildren, all sat (or knelt)
 on the west.
 
-Whenever they wailed by the corpse in the apart-
-ment, the presiding mourner did so, holding up the
+Whenever they wailed by the corpse in the apartment, the presiding mourner did so, holding up the
 shroud with his two hands at the same time.
 
 8. At the mourning rites of a ruler, before the
@@ -8162,8 +7378,7 @@ The confirmed wife (of a Great officer) went out
 (in the same way) on the arrival of a message from
 the ruler’s wife.
 
-The wife of an officer, if not engaged in the dress-
-ing, (also) went out to receive the confirmed wife (of
+The wife of an officer, if not engaged in the dressing, (also) went out to receive the confirmed wife (of
 a Great officer).
 
 11. At the slighter dressing, the presiding mourner
@@ -8199,16 +7414,14 @@ directly towards the officers.
 
 
 lord, above in the hall. With regard to the wives of
-Great officers and of other officers, she bowed speci-
-ally to each whose position had received the official
+Great officers and of other officers, she bowed specially to each whose position had received the official
 appointment; to the others she gave a general
 bow ;—all above in the hall.
 
 14. When the mourner had gone to his own place
 (after bowing to his visitors), he closed the robe which
 was drawn on one side, covering his breast, put on his
-girdle and head-band, and leapt. When the mourn-
-ing was for his mother, he went to his place, and tied
+girdle and head-band, and leapt. When the mourning was for his mother, he went to his place, and tied
 up his hair, after which he put down the offerings by
 the body. The visitors who had come to condole,
 covered their fur robes, put the roll at the back of
@@ -8216,8 +7429,7 @@ their caps, assumed their girdles and head-bands, and
 leapt in correspondence with the mourner.
 
 1s. Atthe funeral rites for a ruler, the chief forester
-supplied wood and horns; the chief of the salvage-
-men supplied the vases for water; the chief of the
+supplied wood and horns; the chief of the salvagemen supplied the vases for water; the chief of the
 slaughtering department supplied boilers; and (an
 officer from the department of) the minister of War
 (saw to the) hanging of these. Thus they secured
@@ -8296,8 +7508,7 @@ day his sons and his wife assumed the staff. On the
 fifth day, when the corpse was put into the coffin,
 his daughters who had become the wives of Great
 officers were allowed to use it. His (eldest) son and
-Great officers used it outside the door of the apart-
-ment (where the coffin was); inside the door they
+Great officers used it outside the door of the apartment (where the coffin was); inside the door they
 carried it in their hands (but did not use it). The
 wife and his daughters, the wives of Great officers,
 used the staff in their rooms; when they went to
@@ -8380,8 +7591,7 @@ below, paragraph 26.
 182 THE Li Kt. BK. XIX.
 
 
-lower servants holding up the sheet, and two per-
-forming the washing ; having put the water in basins,
+lower servants holding up the sheet, and two performing the washing ; having put the water in basins,
 to which they took it with ladles. In washing they
 used napkins of fine linen, and in drying the body
 the ordinary batliing clothes. Another servant
@@ -8400,8 +7610,7 @@ glutinous millet; and for an ordinary officer, that
 from maize-water. After this, some of the forester’s
 department made a sort of furnace at the foot of the
 wall on the west ; and the potter brought out a large
-boiler, in which the servant in charge of the apart-
-ments should boil the water. The servants of the
+boiler, in which the servant in charge of the apartments should boil the water. The servants of the
 forester’s department brought the fuel which he had
 removed from the crypt in the north-west of the
 apartment, now converted into a shrine, to use for
@@ -8456,8 +7665,7 @@ rules were observed.
 (only) coarse rice and water to drink ;—he did not
 
 
-1 This paragraph is the 23rd in the Ahien-lung edition, con-
-fessedly out of place.
+1 This paragraph is the 23rd in the Ahien-lung edition, confessedly out of place.
 
 
 184 THE Lf Kft. BK, XIX.
@@ -8539,8 +7747,7 @@ ordinary officer, on one of phragmites grass.
 
 2. At the slighter dressing one band of cloth was
 laid straight, and there were three bands laid
-cross-wise. The sheet for a rulers body was em-
-broidered; for a Great officer's, white; for an
+cross-wise. The sheet for a rulers body was embroidered; for a Great officer's, white; for an
 ordinary officer's, black :—each had one sheet.
 
 There were nineteen suits of clothes!; those for
@@ -8551,11 +7758,6 @@ There were nineteen suits of clothes!; those for
 ? So in all our dictionaries ; as in Medhurst, K — Fit: ‘a suit
 of clothes.’ But why nineteen suits? A 4ng and Ying-ta say, ‘ To
 make up ten, the concluding number of heaven; and nine, that of
-
-
-186 THE Li Ki. BK. XIX.
-
-
 the ruler, displayed in the corridor on the east ; and
 those for a Great officer, or a common Officer, inside
 the apartments :—all with their collars towards the
@@ -8619,8 +7821,7 @@ called a suit.
 
 6. All who set forth the clothes took them from
 the chests in which they had been deposited ; and
-those who received the clothes brought (as con-
-tributions) placed them in (similar) chests. In
+those who received the clothes brought (as contributions) placed them in (similar) chests. In
 going up to the hall and descending from it, they
 did so by the steps on the west. They displayed
 the clothes without rumpling them. They did not
@@ -8631,8 +7832,7 @@ coarse dolychos fibre, or of coarse flax.
 arms bared ; those who moved it into the coffin, had
 their breasts covered. At the funeral rites for a
 ruler, the Great officer of prayer performed the
-dressing, assisted by all the members of his depart-
-ment; at those for a Great officer, the same officer
+dressing, assisted by all the members of his department; at those for a Great officer, the same officer
 stood by, and saw all the others dress the body ;
 at those of a common officer, the members of that
 department stood by, while other officers (his
@@ -8687,8 +7887,7 @@ south. Inferior officers spread the mats. The Shan g
 officers of prayer spread the strings, the coverlet,
 and clothes. The officers had their hands over the
 vessels. They then lifted the corpse and removed
-it to the place for the dressing. When the dress-
-ing was finished, the superintendent announced the
+it to the place for the dressing. When the dressing was finished, the superintendent announced the
 fact. The son then (seemed to) lean on it, and
 leaped while his wife did the same, with her face
 to the east.
@@ -8698,8 +7897,7 @@ they were about to proceed to the great dressing,
 and the tie-strings, coverlets, and clothes had all
 been spread out, the ruler arrived, and was met by
 (the son), the principal mourner. The son entered
-before him, (and stood) at the right of the gate, out-
-side which the exorcist stopped. The ruler having
+before him, (and stood) at the right of the gate, outside which the exorcist stopped. The ruler having
 put down the vegetables (as an offering to the spirit
 of the gate), and the blesser preceding him, entered
 and went up to the hall. He then repaired to his
@@ -8710,23 +7908,16 @@ row ascending to the east. The presiding mourner
 was outside the apartment (where the corpse was),
 facing the south. His wife presiding was on the west
 of the body, facing the east. When they had moved
-the corpse, and finished the dressing, the steward re-
-ported that they had done so, and the presiding
+the corpse, and finished the dressing, the steward reported that they had done so, and the presiding
 mourner went down below the hall, with his face to
 the north. There the ruler laid on him the soothing
 hand, and he bowed with his forehead to the ground.
 The ruler signified to him to go up, and lean on the
-
-
-190 THE Li Ki. BK. XIX.
-
-
 body, and also requested his wife, presiding, to lean
 on it.
 
 13. At the mourning rites for a common officer,
-when they were about to proceed to the great dress-
-ing, the ruler was not present. In other respects
+when they were about to proceed to the great dressing, the ruler was not present. In other respects
 the observances were the same as in the case of a
 Great officer.
 
@@ -8768,8 +7959,7 @@ SECT. Il. SANG TA Ki. IQI
 
 
 laid their hands on her. A wife made as if she
-would cling to her husband’s body; while the hus-
-band held her hand as he did that of a brother or
+would cling to her husband’s body; while the husband held her hand as he did that of a brother or
 cousin. When others brought the breast near the
 body of a corpse, they avoided the point at which
 the ruler had touched it. After every such mark of
@@ -8788,8 +7978,7 @@ outside which could be seen. Rulers, Great and
 common officers, all had it enclosed.
 
 All the other sons, but the eldest by the proper
-wife, even before the burial had huts made for them-
-selves in out-of-the-way places.
+wife, even before the burial had huts made for themselves in out-of-the-way places.
 
 17. After the burial, the son would stand with
 others. If a ruler, he would speak of the king’s
@@ -8798,8 +7987,7 @@ officer, or a common officer, he would speak of the
 ruler’s affairs, but not of those of his own clan or
 family.
 
-18. When the ruler was buried, the royal ordi-
-nances came into the state. After the wailing was
+18. When the ruler was buried, the royal ordinances came into the state. After the wailing was
 finished, the new ruler engaged in the king’s affairs.
 
 When a Great officer or a common officer was
@@ -8807,9 +7995,6 @@ buried, the ordinances of the state came to his family.
 After the wailing was finished, while continuing the
 sackcloth band round his cap, and the girdle, he
 might don his armour and go into the field.
-
-
-192 THE Li Ki. Bk XIX.
 
 
 19. After the mourning was changed at the end of
@@ -8821,8 +8006,7 @@ the affairs of their clan and families. After the
 sacrifice at the end of two years, the ground of the
 apartment was made of a dark green, and the walls
 were whitened. After this, they no longer wailed
-outside ; and after the sacrifice at the end of twenty-
-seven months, they did not do so inside; for, after
+outside ; and after the sacrifice at the end of twentyseven months, they did not do so inside; for, after
 it, music began to be heard.
 
 20. After that sacrifice, at the end of twenty-seven
@@ -8844,8 +8028,7 @@ inner chamber.
 A wife did not occupy the hut, nor sleep on the
 straw. At the mourning for her father or mother,
 when she had changed the mourning at the end of a
-year, she returned to her husband; when the mourn-
-ing was that of nine months, she returned after the
+year, she returned to her husband; when the mourning was that of nine months, she returned after the
 burial.
 
 21. At the mourning rites for a duke (of the
@@ -8911,18 +8094,15 @@ taken place.
 common officer's, after the coffining had taken place,
 he sent word beforehand of his coming. The chief
 mourner provided all the offerings to be set down
-for the dead in the fullest measure, and waited out-
-side the gate, till he saw the heads of the horses.
+for the dead in the fullest measure, and waited outside the gate, till he saw the heads of the horses.
 He then led the way in by the right side of the gate.
 The exorcist stopped outside, and the blesser took his
-place, and preceded the ruler, who put down the offer-
-ings of vegetables (for the spirit of the gate) inside
+place, and preceded the ruler, who put down the offerings of vegetables (for the spirit of the gate) inside
 it. The blesser then preceded him up the eastern
 steps, and took his place with his back to the wall,
 facing the south. The ruler took his place at (the
 top of) the steps; two men with spears standing
-before him, and two behind. The officer of recep-
-tion then advanced. The chief mourner bowed,
+before him, and two behind. The officer of reception then advanced. The chief mourner bowed,
 laying his forehead to the ground. The ruler then
 _ said what he had to say; looked towards the blesser
 and leaped. The chief mourner then (also) leaped.
@@ -8947,8 +8127,7 @@ SECT. Il. SANG TA xf. 195
 was ill, he inquired for him once; and when his body
 was coffined, visited (his son) once.
 
-When the ruler came to condole (after the coffin-
-ing), the (son) put on again the clothes he had worn
+When the ruler came to condole (after the coffining), the (son) put on again the clothes he had worn
 at the coffining.
 
 28. When the ruler’s wife went to condole at a
@@ -8964,16 +8143,14 @@ had accompanied her), and leaped.
 
 The offerings were put down according to the
 rules for them on the visit of the ruler. When she
-retired, the wife presiding went with her to the in-
-side of the door of the apartment, and bowed to her
+retired, the wife presiding went with her to the inside of the door of the apartment, and bowed to her
 with her head to the ground. The chief mourner
 escorted her to the outside of the great gate, but did
 not bow.
 
 29. When a Great officer came to the mourning
 rites of one of his officers to whom he stood in the
-relation of ruler, the officer did not meet him out-
-side the gate. He entered and took his place below
+relation of ruler, the officer did not meet him outside the gate. He entered and took his place below
 the hall. The chief mourner (stood on the south of
 his place), with his face to the north, though the
 general rule for chief mourners was to face the south.
@@ -8982,13 +8159,8 @@ The wife took her place in the room.
 If, at this juncture, there came a message from the
 ruler of the state, or one from a confirmed (Great)
 officer or his confirmed wife, or visitors from the
-
-
 neighbouring states, the Great officer-ruler, having
 O 2
-
-
-196 THE Li KI. BK, XIX.
 
 
 the chief mourner behind him, performed the bow of
@@ -9021,8 +8193,7 @@ officer was lined, but had no nails.
 
 33. The lid of a ruler’s coffin was varnished, with
 three double wedges (at the edges) over which were
-three bands; that of a Great officer's was (also) var-
-nished, with two double wedges and two bands; that
+three bands; that of a Great officer's was (also) varnished, with two double wedges and two bands; that
 of a common officer was not varnished, but it had two
 double wedges and two bands.
 
@@ -9036,8 +8207,6 @@ buried (without being put in the coffin).
 
 SECT. Il. SANG TA Ki. 197
 SSS ae ee ed
-
-
 which was surrounded with high stakes, inclined over
 it till, when all was finished and plastered, there was
 the appearance of a house. That of a Great officer,
@@ -9049,21 +8218,18 @@ above that it was plastered. All were screened.
 
 36. Of scorched grain there were put by the coffin
 of a ruler eight baskets, containing four different
-kinds; by that of a Great officer, six baskets, con-
-taining three kinds; by that of a common officer,
+kinds; by that of a Great officer, six baskets, containing three kinds; by that of a common officer,
 four baskets, containing two kinds. Besides these,
 there were (dried) fish and flesh.
 
 37. Ornamenting the coffin (on its way to the
 grave), there were for a ruler:—the curtains with
 dragons (figured on them), and over them three
-gutter-spouts ; the fluttering ornaments (with phea-
-sants figured on them and the ends of the curtains);
+gutter-spouts ; the fluttering ornaments (with pheasants figured on them and the ends of the curtains);
 above (on the sloping roof of the catafalque) were
 figures of axe-heads, of the symbol of discrimination,
 thrice repeated, and of flames, thrice repeated. These
-occupied the pall-like roof of white silk, as embroi-
-dery, and above it was the false covering attached
+occupied the pall-like roof of white silk, as embroidery, and above it was the false covering attached
 to it by six purple ties, and rising up with ornaments
 in five colours and five rows of shells. There were
 (at the corners) two streamers of feathers, suspended
@@ -9101,16 +8267,14 @@ gutters. The front supports of a Great officer’s
 catafalque were purple, and those behind deep blue.
 So also were the sustaining ropes.
 
-For the catafalque of a common officer, the cur-
-tains were of (plain) linen, and there was the sloping
+For the catafalque of a common officer, the curtains were of (plain) linen, and there was the sloping
 roof. There was (but) one gutter-spout. There
 were the fluttering pheasants on the bands. The
 purple ties were two, and the black also two. At
 the very top the ornaments were of three colours, and
 there was only one row of shells. The streamers of
 feathers from a painted frame were two, the staffs of
-which had plumage at their tops. The front sup-
-ports of the catafalque were purple, and those behind
+which had plumage at their tops. The front supports of the catafalque were purple, and those behind
 black. The sustaining ropes were purple.
 
 38. In burying the coffin ofa ruler, they used a bier,
@@ -9118,8 +8282,6 @@ four ropes, and two pillars. Those guiding the course
 of the coffin carried the shade with pendent feathers.
 
 In burying a Great officer, they used two ropes
-
-
 and two pillars. Those who guided the coffin used
 a reed of white grass.
 
@@ -9139,8 +8301,7 @@ coffin, they also used levers, and for a Great officer’s
 or a common officer's, ropes attached to the sides of
 the coffin. Orders were given that they should not
 cry out in letting down that of the ruler. They let
-it down as guided by the sound of a drum. In let-
-ting down a Great officer's, they were commanded
+it down as guided by the sound of a drum. In letting down a Great officer's, they were commanded
 not to wail. In letting down a common officer’s,
 those who began to wail stopped one another.
 
@@ -9161,8 +8322,7 @@ there were no baskets of yii'.
 
 
 ' We cannot tell what these baskets were. ang says he did
-not know, and the Ahien-lung editors think they may have con-
-tained the grain mentioned in paragraph 36. Otherwise, the
+not know, and the Ahien-lung editors think they may have contained the grain mentioned in paragraph 36. Otherwise, the
 paragraph is obscure.
 
 On the next page there is given a figure of the catafalque over
@@ -9175,8 +8335,7 @@ the coffin as borne to the grave, copied from the second volume of
 P. Zottoli’s work. A larger one, more fully illustrating the details
 of the text, forms the last plate in the Xhien-lung edition of the
 Classic ; but it is so rough and complicated that the friend who has
-assisted me with most of the figures that I have ventured to intro-
-duce shrank from attempting to reproduce it on a smaller scale.
+assisted me with most of the figures that I have ventured to introduce shrank from attempting to reproduce it on a smaller scale.
 
 
 BOOK XX. Al FA
@@ -9220,9 +8379,6 @@ symbolised by it is—an offering whereby communicatiun and
 communion with spiritual beings is effected.
 
 
-202 THE Li Ki. BK. XX.
-
-
 The sovereigns of Hsia, at the corresponding
 sacrifice, gave the place of honour also to Hwang
 Ti, and made Khwan the correlate at the border
@@ -9245,8 +8401,7 @@ they sacrificed to Heaven’; by burying (the victim)
 
 ‘ This and other portions of the Book are taken mainly from
 the seventh article in the second section of the ‘ Narratives of the
-States,’ part i. The statements have much perplexed the commen-
-tators, and are held to be of doubtful authority. Some of them.
+States,’ part i. The statements have much perplexed the commentators, and are held to be of doubtful authority. Some of them.
 indeed, are said by Ahan Hao to be inexplicable. Khwan, ‘the
 correlate in the sacrifices of Hsia, was the father of Yii,’ of whom
 we receive a bad impression from the references to him in the Sha
@@ -9293,14 +8448,10 @@ were not in their territories, they did not sacrifice.
 
 4. Generally speaking, all born between heaven
 and earth are said to have their allotted times; the
-death of all creatures is spoken of as their dissolu-
-tion ; but man when dead is said to be in the ghostly
-
-
+death of all creatures is spoken of as their dissolution ; but man when dead is said to be in the ghostly
 a FF, which follow, Zottoli gives solenni angulari, and I have
 met with ‘the great pit’ as a translation of them. Of course a ‘pit
-was formed in the mound to receive the offerings ; but in the Khang-
-hsi dictionary +r is specially defined with reference to this passage
+was formed in the mound to receive the offerings ; but in the Khanghsi dictionary +r is specially defined with reference to this passage
 as ‘a mound of earth as a place of sacrifice ;’ though we do no: find
 this account of the character in Morrison, Medhurst, or Williams.
 
@@ -9337,8 +8488,7 @@ or less amount.
 Thus the king made for himself seven ancestral
 temples, with a raised altar and the surrounding
 area for each. The temples were—his father's ;
-his grandfather's ; his great-grandfather’s ; his great-
-great-grandfather’s; and the temple of his (high)
+his grandfather's ; his great-grandfather’s ; his greatgreat-grandfather’s; and the temple of his (high)
 ancestor. At all of these a sacrifice was offered
 every month. The temples of the more remote
 ancestors formed the receptacles for the tablets as
@@ -9357,16 +8507,14 @@ regarded him as the founder of the Chinese kingdom.
 
 BK. XX, Ki FA, 205
 . [a ea ej
-raised and its corresponding area; and on occa-
-sions of prayer at this altar and area, a sacrifice was
+raised and its corresponding area; and on occasions of prayer at this altar and area, a sacrifice was
 offered, but if there were no prayer, there was no
 sacrifice. In the case of one still more remote, (there
 was no sacrifice) ;—he was left in his ghostly state.
 
 A feudal prince made for himself five ancestral
 temples, with an altar and a cleared area about it for
-each. The temples were—his father’s ; his grand-
-father’s; and his great-grandfather’s ; in all of which
+each. The temples were—his father’s ; his grandfather’s; and his great-grandfather’s ; in all of which
 a sacrifice was offered every month. In the temples
 of the great-great-grandfather, and that of the (high)
 ancestor only, the seasonal sacrifices were offered.
@@ -9380,8 +8528,7 @@ ghostly state.
 
 A Great officer made for himself three ancestral
 temples and two altars. The temples were—his
-father’s; his grandfather's; and his great-grand-
-father’s. In this only the seasonal sacrifices were
+father’s; his grandfather's; and his great-grandfather’s. In this only the seasonal sacrifices were
 offered. To the great-great-grandfather and the
 (high) ancestor there were no temples. If there
 were occasion for prayer to them, altars were raised,
@@ -9391,8 +8538,7 @@ more remote was left in his ghostly state.
 An officer of the highest grade had two ancestral
 temples and one altar ;—the temples of his father
 and grandfather, at which only the seasonal sacrifices
-were presented. There was no temple for his great-
-grandfather. If there were occasion to pray to him,
+were presented. There was no temple for his greatgrandfather. If there were occasion to pray to him,
 an altar was raised, and a sacrifice offered to him.
 
 
@@ -9426,8 +8572,7 @@ Great officers and all below them in association
 erected such an altar, called the Appointed altar.
 
 7. The king, for all the people, appointed (seven
-altars for) the seven sacrifices :—one to the super-
-intendent of the lot; one in the central court, for the
+altars for) the seven sacrifices :—one to the superintendent of the lot; one in the central court, for the
 admission of light and the rain from the roofs; one
 at the gates of the city wall; one in the roads leading
 from the city; one for the discontented ghosts of
@@ -9464,15 +8609,13 @@ Other officers and the common people had one
 the guardian of the door; and others, one for the
 guardian of the furnace.
 
-8. The king, carrying down (his favour), sacri-
-ficed to five classes of those who had died pre-
+8. The king, carrying down (his favour), sacrificed to five classes of those who had died pre-
 maturely :—namely, to the rightful eldest sons (of
 former kings); to rightful grandsons; to rightful
 great-grandsons ; to rightful great-great-grandsons :;
 and to the rightful sons of these last.
 
-A feudal prince, carrying down (his favour), sacri-
-ficed to three classes; a Great officer similarly to
+A feudal prince, carrying down (his favour), sacrificed to three classes; a Great officer similarly to
 two; another officer of the first grade and the
 common people sacrificed only to the son who had
 died prematurely?.
@@ -9485,9 +8628,6 @@ who had given (good) laws to the people; to him
 ? From paragraph 1 down to this is absent from the expurgated
 edition of Fan 3ze-tang, which P. Callery translated, so that the
 book contains in it only the one long paragraph that follows.
-
-
-208 THE LI KI. BK, XX.
 
 
 who had laboured to the death in the discharge of
@@ -9503,17 +8643,14 @@ showed how to cultivate all the cereals; and Khi
 after the decay of Hsia, and was sacrificed to under
 the name of Ai’?; Hau-thd, a son of the line of
 Kung-kung ’, that swayed the nine provinces, who
-was able to reduce them all to order, and was’ sacri-
-ficed to as the spirit of the ground; the Ti Aza,
+was able to reduce them all to order, and was’ sacrificed to as the spirit of the ground; the Ti Aza,
 who could define all the zodiacal stars, and exhibit
 their times to the people ; Y4o, who rewarded (the
 worthy), made the penal laws impartial, and the end
-of whose course was distinguished by his righteous-
-ness ; Shun, who, toiling amid all his affairs, died in
+of whose course was distinguished by his righteousness ; Shun, who, toiling amid all his affairs, died in
 the country (far from his capital); Yii, (the son of)
 Khwan, who was kept a prisoner till death for trying
-to dam up the waters of the flood, while Yii com-
-pleted the work, and atoned for his father’s failure ;
+to dam up the waters of the flood, while Yii completed the work, and atoned for his father’s failure ;
 Hwang Ti, who gave everything its right name,
 thereby showing the people how to avail themselves
 of its qualities; Awan-hsii, who completed this work
@@ -9534,19 +8671,16 @@ paragraph 3) places him between Ff-hst and Shan Nang.
 BK. XX. ki FA, 209
 
 
-of Hwang Ti; Hsieh, who was minister of Instruc-
-tion, and perfected the (condition and manners of
+of Hwang Ti; Hsieh, who was minister of Instruction, and perfected the (condition and manners of
 the) people; Ming, who, through his attention to
 the duties of his office, died in the waters; Thang,
 who ruled the people with a benignant sway and cut
 off their oppressor; and king Wan, who by his
 peaceful rule, and king Wa, who by his martial
-achievements, delivered the people from their afflic-
-tions. All these rendered distinguished services to
+achievements, delivered the people from their afflictions. All these rendered distinguished services to
 the people.
 
-As to the sun and moon, the stars and constella-
-tions, the people look up to them, while mountains,
+As to the sun and moon, the stars and constellations, the people look up to them, while mountains,
 forests, streams, valleys, hills, and mountains supply
 them with the materials for use which they require.
 Only men and things of this character were admitted
@@ -9568,8 +8702,7 @@ Section I.
 1. Sacrifices should not be frequently repeated.
 Such frequency is indicative of importunateness ;
 and importunateness is inconsistent with reverence.
-Nor should they be at distant intervals. Such in-
-frequency is indicative of indifference ; and indiffer-
+Nor should they be at distant intervals. Such infrequency is indicative of indifference ; and indiffer-
 ence leads to forgetting them altogether. Therefore
 the superior man, in harmony with the course of
 Heaven, offers the sacrifices of spring? and autumn.
@@ -9585,13 +8718,11 @@ them away with sadness, and hence at the sacrifice
 in spring we use music, but not at the sacrifice
 in autumn.
 
-2. The severest vigil and purification is main-
-tained and carried on inwardly; while a looser vigil
+2. The severest vigil and purification is maintained and carried on inwardly; while a looser vigil
 
 
 1 See the introduction, vol. xxvii, pages 36, 37.
-? The spring sacrifice is here called ti (ji) probably by mis-
-take for yo (ie): the proper name for it.
+? The spring sacrifice is here called ti (ji) probably by mistake for yo (ie): the proper name for it.
 
 
 SECT. I. kt f. 211
@@ -9609,8 +8740,7 @@ apartment (of the temple), he will seem to see (the
 deceased) in the place (where his spirit-tablet is),
 After he has moved about (and performed his
 operations), and is leaving at the door, he will seem
-to be arrested by hearing the sound of his move-
-ments, and will sigh as he seems to hear the sound
+to be arrested by hearing the sound of his movements, and will sigh as he seems to hear the sound
 of his sighing.
 
 4. Thus the filial piety taught by the ancient
@@ -9641,8 +8771,7 @@ P2
 
 
 means that on that day his thoughts are occupied
-with them, and he does not dare to occupy him-
-self as on other days with his private and personal
+with them, and he does not dare to occupy himself as on other days with his private and personal
 affairs.
 
 6. It is only the sage! who can sacrifice to God,
@@ -9664,10 +8793,8 @@ wish that the departed should enjoy the service !
 
 7. King W4n, in sacrificing, served the dead as
 if he were serving the living. He thought of them
-dead as if he did not wish to live (any longer him-
-self)*. On the recurrence of their death-day, he
-was sad; in calling his father by the name else-
-where forbidden, he looked as if he saw him. So
+dead as if he did not wish to live (any longer himself)*. On the recurrence of their death-day, he
+was sad; in calling his father by the name elsewhere forbidden, he looked as if he saw him. So
 sincere was he in sacrificing that he looked as if
 he saw the things which his father loved, and the
 
@@ -9694,12 +8821,10 @@ the sacrifice, when the day broke, he did not sleep,
 but hastened to repeat it; and after it was finished,
 he still thought of his parents. On the day of
 sacrifice his joy and sorrow were blended together.
-He could not but rejoice in the opportunity of offer-
-ing the sacrifice; and when it was over, he could
+He could not but rejoice in the opportunity of offering the sacrifice; and when it was over, he could
 not but be sad.
 
-8. At the autumnal sacrifice, when Xung-ni ad-
-vanced, bearing the offerings, his general appear-
+8. At the autumnal sacrifice, when Xung-ni advanced, bearing the offerings, his general appear-
 ance was indicative of simple sincerity, but his steps
 were short and oft repeated. When the sacrifice
 was over, 3ze-kung questioned him, saying, ‘ Your
@@ -9709,47 +8834,35 @@ in it; and now how is it that in your sacrificing
 there has been no such dignity and absorption?’
 
 The Master said, ‘That dignity of demeanour
-should belong to those who are only distantly con-
-nected (with him who is sacrificed to), and that
+should belong to those who are only distantly connected (with him who is sacrificed to), and that
 absorbed demeanour to one whose thoughts are
-turned in on himself (lest he should make any mis-
-take). But how should such-demeanour consist with
+turned in on himself (lest he should make any mistake). But how should such-demeanour consist with
 communion with the spirits (sacrificed to)% How
 should such dignity and absorption be seen in my
 sacrifice? (At the sacrifices of the king and rulers)
-there is the return of the personator to his apart-
-ment, and the offering of food to him there ; there
+there is the return of the personator to his apartment, and the offering of food to him there ; there
 are the performances of the music, and the setting
 forth of the stands with the victims on them; there
-
-
-214 THE Li xi. BK. XXI.
-
-
 are the ordering of the various ceremonies and the
 music; and there is the complete array of the
 officers for all the services. When they are engaged
 in the maintenance of that dignity and absorption
-in their duties, how can they be lost in their aban-
-donment to intercourse with the spiritual presences ?
+in their duties, how can they be lost in their abandonment to intercourse with the spiritual presences ?
 Should words be understood only in one way?
 Each saying has its own appropriate application.’
 
 9. When a filial son is about to sacrifice, he is
-anxious that all preparations should be made before-
-hand ; and when the time arrives, that everything
+anxious that all preparations should be made beforehand ; and when the time arrives, that everything
 necessary should be found complete ; and then, with
 a mind free from all pre-occupation, he should address
 himself to the performance of his sacrifice.
 
-The temple and its apartments having been re-
-paired, the walls and roofs having been put in order,
+The temple and its apartments having been repaired, the walls and roofs having been put in order,
 and all the assisting officers having been provided,
 husband and wife, after vigil and footing, bathe
 their heads and persons, and array themselves in
 full dress. In coming in with the things which
-they carry, how grave and still are they! how ab-
-sorbed in what they do! as if they were not able to
+they carry, how grave and still are they! how absorbed in what they do! as if they were not able to
 sustain their weight, as if they would let them fall -—
 Is not theirs the highest filial reverence? He sets
 forth the stands with the victims on them; arranges
@@ -9769,8 +8882,7 @@ SECT. I. EI f. 216
 
 
 to exhaust his earnest purpose, his sincerity, and
-reverence. He observes every rule, without trans-
-gression or short-coming. His reverence appears
+reverence. He observes every rule, without transgression or short-coming. His reverence appears
 in his movements of advancing and retiring, as if he
 were hearing the orders (of his parents), or as if
 they were perhaps directing him.
@@ -9790,8 +8902,7 @@ should continue to be worn on his face. Such is the
 sacrifice of a filial son.
 
 To stand without any inclination of the body
-would show insensibility ; to carry the service for-
-ward without an expression of pleasure would show
+would show insensibility ; to carry the service forward without an expression of pleasure would show
 indifference; to present the offerings without an
 expression of desire (that they may be enjoyed)
 would show a want of love; to retire and stand
@@ -9810,8 +8921,7 @@ air, he will have a look of pleasure ; having a look
 216 THE Lf Kt. BK. XXI.
 
 
-of pleasure, his demeanour will be mild and com-
-pliant. A filial son will move as if he were carrying
+of pleasure, his demeanour will be mild and compliant. A filial son will move as if he were carrying
 a jade symbol, or bearing a full vessel. Still and
 grave, absorbed in what he is doing, he will seem as
 if he were unable to sustain the burden, and in
@@ -9832,32 +8942,25 @@ Because of their approximation to the course of
 duty '. They did so to the noble because of their
 approximation to the position of the ruler; and to
 the old because of their approximation to that of
-parents. They showed reverence to the aged, be-
-cause of their approximation to the position of elder
+parents. They showed reverence to the aged, because of their approximation to the position of elder
 brothers; and kindness to the young, because of
 their approximation to the position of sons.
 
 
 ' P. Callery translates this by—‘ Parce qu’ils sont proche de
-la vérité, saying in a note :—‘ According to the Chinese philo-
-sophers, they understand by teh ({ita.) that which man _ has
+la vérité, saying in a note :—‘ According to the Chinese philosophers, they understand by teh ({ita.) that which man _ has
 obtained by his own efforts or the virtue he has acquired, and by
 tao Gi) that which all men should be striving to reach, what is
 suitable, what is in order, or virtue in the abstract. Now, as I
 think, there is nothing but truth which satisfies these conditions, for,
 according to the Christian philosophy, God Himself is the truth,’
-&c. Zottoli’s translation is, ‘Quia hi appropinquant ad per-
-fectionem.’
+&c. Zottoli’s translation is, ‘Quia hi appropinquant ad perfectionem.’
 
 
 SECT. I. py
 
 
-217
-
-
-14. Therefore he who is perfectly filial approxi-
-mates to be king, and he who is perfectly fraternal
+14. Therefore he who is perfectly filial approximates to be king, and he who is perfectly fraternal
 approximates to being presiding chieftain. He who
 is perfectly filial approximates to being king, for
 even the son of Heaven had the father (whom he
@@ -9872,8 +8975,7 @@ families }.
 
 15. The Master said, ‘The laying the foundation
 of (all) love in the love of parents teaches people
-concord. The laying the foundation of (all) rever-
-ence in the reverence of elders teaches the people
+concord. The laying the foundation of (all) reverence in the reverence of elders teaches the people
 obedience. When taught loving harmony, the people
 set the (proper) value on their parents; when taught
 to reverence their superiors, the people set the
@@ -9884,8 +8986,7 @@ the kingdom, and they will everywhere take effect.
 
 16. At (the time of) the border sacrifice (to
 Heaven), those who are engaged in funeral rites do
-not dare to wail, and those who are wearing mourn-
-ing do not dare to enter the gate of the capital ;—
+not dare to wail, and those who are wearing mourning do not dare to enter the gate of the capital ;—
 this is the highest expression of reverence.
 
 17. On the day of sacrifice, the ruler led the
@@ -9904,8 +9005,7 @@ the opposite side; while the Great officers followed
 in order. When they had entered the gate of the
 temple, they fastened the victim to the stone pillar.
 The ministers and Great officers then bared their
-arms, and proceeded to inspect the hair, paying par-
-ticular attention to that of the ears. They then with
+arms, and proceeded to inspect the hair, paying particular attention to that of the ears. They then with
 the knife with the bells attached to it, cut it open,
 took out the fat about the inwards, and withdrew
 (for a time’). Afterwards they offered some of the
@@ -9923,21 +9023,17 @@ itin the dark. Under the Yin dynasty they did so
 ? This sentence is translated by Zottoli:—‘Coeli sacrificio summe
 rependitur coelum sed potissimum intenditur sol, consociatus cum
 luna.’ Callery says :—‘Le sacrifice qu’on offre dans la campagne
-est un acte de grande reconnaissance envers le ciel, et principale-
-ment envers le soleil, auquel on associe la lune.’
+est un acte de grande reconnaissance envers le ciel, et principalement envers le soleil, auquel on associe la lune.’
 
 Here, again, nature-worship seems to crop up. Ahan Hao
 says on the passage :—‘ Heaven is the great source of tao (the
 course of nature and duty), and of all the visible bodies which it
-hangs out, there are none greater than the sun and moon. There-
-fore, while the object of the suburban sacrifice was a grateful
-acknowledgment of Heaven, the sun was chosen as the resting-
-place for its spirit (or spirits). The idea in the institution of the
+hangs out, there are none greater than the sun and moon. Therefore, while the object of the suburban sacrifice was a grateful
+acknowledgment of Heaven, the sun was chosen as the restingplace for its spirit (or spirits). The idea in the institution of the
 rite was deep and far-reaching.’ It must be borne in mind that
 the rites described in the text are those of former dynasties,
 especially of that of Kau. I cannot bring to mind any passages
-in which there is mention made of any sacrifice to the sun or sun-
-spirit in connexion with the great sacrifice to Heaven, or Shang
+in which there is mention made of any sacrifice to the sun or sunspirit in connexion with the great sacrifice to Heaven, or Shang
 Ti, at the service on the day of the winter solstice in the southern
 suburb.
 
@@ -9949,12 +9045,10 @@ at noon. Under the Adu they sacrificed all the
 day, especially at daybreak, and towards evening.
 
 19. They sacrificed to the sun on the altar, and to
-the moon in the hollow;—to mark the distinction be-
-tween (the) gloom (of the one) and (the) brightness
+the moon in the hollow;—to mark the distinction between (the) gloom (of the one) and (the) brightness
 (of the other), and to show the difference between the
 high and the low. They sacrificed to the sun in the
-east, and to the moon in the west;—to mark the dis-
-tinction between (the) forthcoming (of the former)
+east, and to the moon in the west;—to mark the distinction between (the) forthcoming (of the former)
 and (the) withdrawing (of the latter), and to show the
 correctness of their (relative) position. The sun
 comes forth from the east, and the moon appears in
@@ -9966,8 +9060,7 @@ all under the sky}.
 20. The rites to be observed by all under heaven
 were intended to promote the return (of the mind) to
 the beginning (=Creator of all); to promote (the
-honouring of) spiritual Beings; to promote the har-
-monious use (of all resources and appliances) of
+honouring of) spiritual Beings; to promote the harmonious use (of all resources and appliances) of
 government; to promote righteousness; and to
 promote humility. They promote the return to
 the beginning, securing the due consideration of
@@ -9980,8 +9073,7 @@ all resources, thereby establishing the regulations
 
 ’ The sacrifices in this paragraph are those at the equinoxes ;
 that to the sun at the vernal in the eastern suburb, and that to the
-moon at the autumnal in the western suburb. They are still main-
-tained. See the ritual of the present dynasty (K py 3A qr),
+moon at the autumnal in the western suburb. They are still maintained. See the ritual of the present dynasty (K py 3A qr),
 Book VIII, where the former is called H]] ]] andthe latter 47 FY
 
 
@@ -10030,8 +9122,7 @@ the application of them to the dead and gone, and the component
 elements of the human constitution.
 
 ® The character in the text here is khi (Sa), ‘the breath.’
-Zottoli translates it by ‘rationalis vis, and Callery by ‘la respi-
-ration de l'homme.’
+Zottoli translates it by ‘rationalis vis, and Callery by ‘la respiration de l'homme.’
 
 
 SECT. II. kt f. 221
@@ -10047,19 +9138,16 @@ submission.’
 
 2. ‘ The sages did not consider these (names) to be
 sufficient, and therefore they built temples with their
-(different) apartments, and framed their rules for an-
-cestors who were always to be honoured, and those
+(different) apartments, and framed their rules for ancestors who were always to be honoured, and those
 whose tablets should be removed;—thus making a
 distinction for nearer and more distant kinship, and
 for ancestors the remote and the recent, and teaching
-the people to go back to their oldest fathers, and re-
-trace their beginnings, not forgetting those to whom
+the people to go back to their oldest fathers, and retrace their beginnings, not forgetting those to whom
 they owed their being. In consequence of this the
 multitude submitted to their lessons, and listened to
 them with a quicker readiness.
 
-3. ‘ These two elements (of the human constitu-
-tion) having been established (with the two names),
+3. ‘ These two elements (of the human constitution) having been established (with the two names),
 two ceremonies were framed in accordance with
 them. They appointed the service of the morning,
 when the fat of the inwards was burned so as to bring
@@ -10076,12 +9164,7 @@ here employed for ‘ black-haired race’ were unused in the time of
 Confucius, and became current under the A/in dynasty.
 
 
-222 THE Li Ki. BK. XXI.
-
-
 ee a
-
-
 liquor) and odoriferous spirits. This served as a
 tribute to the animal soul, and taught the people to
 love one another, and high and low to cultivate good
@@ -10092,8 +9175,7 @@ ceremonies.
 fathers, and returning to the authors of his being,
 does not forget those to whom he owes his life, and
 therefore he calls forth all his reverence, gives free
-vent to his feelings, and exhausts his strength in dis-
-charging the above service ;—as a tribute of gratitude
+vent to his feelings, and exhausts his strength in discharging the above service ;—as a tribute of gratitude
 to his parents he dares not but do his utmost’.’
 
 5. Thus it was that anciently the son of Heaven
@@ -10115,8 +9197,7 @@ washed their heads, bathed, and visited them in
 person’, taking from them for victims those which
 
 
-' The above conversation with 34i Wo is found in the ‘ Narra-
-tives of the School,’ Article 17, headed ‘ Duke Ai’s Questions about
+' The above conversation with 34i Wo is found in the ‘ Narratives of the School,’ Article 17, headed ‘ Duke Ai’s Questions about
 Government ;’ and the reply of Confucius ends here. I hesitate,
 therefore, to continue the points of quotation in what follows.
 
@@ -10153,8 +9234,7 @@ seeds in the stream, gathered the leaves from the
 mulberry trees, and dried them in the wind to feed
 the worms.
 
-When the (silkworm) year was ended, the honour-
-able ladies had finished their work with the insects,
+When the (silkworm) year was ended, the honourable ladies had finished their work with the insects,
 and carried the cocoons to show them to the ruler.
 They then presented them to his wife, who said,
 ‘Will not these supply the materials for the ruler’s
@@ -10181,8 +9261,7 @@ of them thrice in a vessel, beginning to unwind them,
 and then distributed them to the auspicious and
 honourable ladies of her three palaces to (complete)
 the unwinding. They then dyed the thread red and
-green, azure and yellow, to make the variously-
-coloured figures on robes. When the robes were
+green, azure and yellow, to make the variouslycoloured figures on robes. When the robes were
 finished, the ruler wore them in sacrificing to the
 former kings and dukes ;—all displayed the greatest
 reverence. |
@@ -10201,8 +9280,7 @@ do not speak. Spirit-like, he is regarded with awe.
 though he display no rage. So it is when one by his
 mastering of music regulates his mind and heart.
 
-‘When one has mastered (the principle of) cere-
-monies, and regulates his person accordingly, he be-
+‘When one has mastered (the principle of) ceremonies, and regulates his person accordingly, he be-
 comes grave and reverential. Grave and reverential,
 he is regarded with awe. If the heart be for a
 moment without the feeling of harmony and joy,
@@ -10220,8 +9298,7 @@ interior of man, and that of ceremonies is his exterior.
 The result of music is a perfect harmony, and that
 of ceremonies is a perfect observance (of propriety).
 When one’s inner man is thus harmonious, and his
-outer man thus docile, the people behold his coun-
-tenance and do not strive with him; they look to his
+outer man thus docile, the people behold his countenance and do not strive with him; they look to his
 demeanour, and no feeling of indifference or rudeness
 arises in them. Thus it is that when virtue shines
 and moves within (a superior), the people are sure to
@@ -10236,17 +9313,14 @@ appear.’
 
 Music affects the inward movements (of the soul);
 ceremonies appear in the outward movements (of
-the body). Hence it is the rule to make cere-
-monies as few and brief as possible, and to give to
+the body). Hence it is the rule to make ceremonies as few and brief as possible, and to give to
 music its fullest development. This leads to the
 forward exhibition of ceremonies, and therein their
 beauty resides; and to the introspective consideration
-of music, and therein its beauty resides. If cere-
-monies, demanding this condensation, did not receive
+of music, and therein its beauty resides. If ceremonies, demanding this condensation, did not receive
 this forward exhibition of them, they would almost
 disappear altogether; if music, demanding this full
-development, were not accompanied with the intro-
-spection, it would produce a dissipation of the mind.
+development, were not accompanied with the introspection, it would produce a dissipation of the mind.
 Thus it is that to every ceremony there is its proper
 response, and for music there is this introspection.
 When ceremonies are responded to, there arises
@@ -10311,8 +9385,7 @@ support (of parents). One may be able to support
 them; the difficulty is in doing so with the proper
 reverence. One may attain to that reverence ;—
 the difficulty is to do so without self-constraint. That
-freedom from constraint may be realised ;—the diffi-
-culty is to maintain it to the end, When his parents
+freedom from constraint may be realised ;—the difficulty is to maintain it to the end, When his parents
 are dead, and the son carefully watches over his
 actions, so that a bad name, (involving) his parents,
 shall not be handed down, he may be said to be able
@@ -10320,8 +9393,7 @@ to maintain his piety to the end. True love is the
 love of this; true propriety is the doing of this; true
 righteousness is the rightness of this; true sincerity
 is being sincere in this; true strength is being strong
-in this. Joy springs from conformity to this; punish-
-ments spring from the violation of this.
+in this. Joy springs from conformity to this; punishments spring from the violation of this.
 
 12. 3ang-jze said, ‘Set up filial piety, and it will
 fill the space from earth to heaven; spread it out, and
@@ -10337,7 +9409,6 @@ a fulfilment of the words:of the ode (III, i, ode 10, 6),
 There was no unsubmissive thought.” ’
 
 13. 34ng-3ze said, ‘Trees are felled and animals
-
 killed, (only) at the proper seasons. The Master said’,
 
 
@@ -10356,12 +9427,10 @@ the proper season, is contrary to filial piety.” ’
 
 There are three degrees of filial piety :—the least,
 seen in the employment of one’s strength (in the
-service of parents); the second, seen in the en-
-durance of toil (for them); and the greatest, seen in
+service of parents); the second, seen in the endurance of toil (for them); and the greatest, seen in
 its never failing. Thinking of the gentleness and
 love (of parents) and forgetting our toils (for them)
-may be called the employment of strength. Honour-
-ing benevolences and resting with the feeling of
+may be called the employment of strength. Honouring benevolences and resting with the feeling of
 repose in righteousness may be called the endurance
 of toil; the wide dispensation of benefits and the
 providing of all things (necessary for the people)
@@ -10370,11 +9439,9 @@ may be called the piety that does not fail.
 When his parents love him, to rejoice, and not
 allow himself to forget them ; when they hate him, to
 fear and yet feel no resentment; when they have
-faults, to remonstrate with them, and yet not with-
-stand them; when they are dead, to ask (the help
+faults, to remonstrate with them, and yet not withstand them; when they are dead, to ask (the help
 only of) the good to obtain the grain with which to
-sacrifice to them :—this is what is called the com-
-pletion (by a son) of his proper services.
+sacrifice to them :—this is what is called the completion (by a son) of his proper services.
 
 14. The disciple Yo-4ang Aun! injured his foot
 in descending from his hall, and for some months
@@ -10382,12 +9449,10 @@ was not able togo out. Even after this he still wore
 a look of sorrow, and (one of the) disciples of the
 school said to him, ‘Your foot, master, is better;
 and though for some months you could not go out,
-why should you still wear a look of sorrow?’ Yo-
-kang Khun replied, ‘It is a good question which
+why should you still wear a look of sorrow?’ Yokang Khun replied, ‘It is a good question which
 
 
-1 Yo-kang Khun evidently was a disciple of 3ang-3ze. Men-
-cius had a disciple of the same surname, Yo-4ang Kho (I, ii, 16).
+1 Yo-kang Khun evidently was a disciple of 3ang-3ze. Mencius had a disciple of the same surname, Yo-4ang Kho (I, ii, 16).
 Another is mentioned by him (V, ii, 3). Lieh-3ze mentions a fourth.
 The Yo-Aangs are said to have sprung from the ducal stock of Sung.
 
@@ -10417,8 +9482,7 @@ left him by his parents, to go in the way of peril.
 He should not forget his parents in the utterance of
 a single word, and therefore an evil word will not
 issue from his mouth, and an angry word will not
-come back to his person. Not to disgrace his per-
-son and not to cause shame to his parents may be
+come back to his person. Not to disgrace his person and not to cause shame to his parents may be
 called filial duty.’
 
 15. Anciently, the sovereigns of the line of Yii
@@ -10427,8 +9491,7 @@ sovereigns of Hsia honoured rank, and highly
 esteemed age; under Yin they honoured riches, and
 highly esteemed age; under Adu, they honoured
 kinship, and highly esteemed age. Yii, Hsia, Yin,
-and Au produced the greatest kings that have ap-
-peared under Heaven, and there was not one of them
+and Au produced the greatest kings that have appeared under Heaven, and there was not one of them
 who neglected age. For long has honour been paid
 
 
@@ -10445,13 +9508,11 @@ When the ruler questioned one of them, he made
 him sit ona mat. One of eighty years did not wait
 out the audience, and when the ruler would question
 him he went to his house. Thus the submission of
-a younger brother (and juniors ii was recog-
-nised at the court.
+a younger brother (and juniors ii was recognised at the court.
 
 17. A junior walking with one olaee (than himself),
 if they were walking shoulder to shoulder, yet it was
-not on the same line. If he did not keep trans-
-versely (a little behind), he followed the other’.
+not on the same line. If he did not keep transversely (a little behind), he followed the other’.
 When they saw an old man, people in carriages or
 walking got out of his way. Men, where the white
 were mingling with their black hairs, did not carry
@@ -10466,8 +9527,7 @@ of a smaller. Thus the submission of juniors was
 recognised in the country districts and hamlets?.
 
 18. According to the ancient rule, men of fifty
-years were not required to serve in hunting expedi-
-tions*; and in the distribution of the game, a larger
+years were not required to serve in hunting expeditions*; and in the distribution of the game, a larger
 
 
 ' If the elder were a brother or cousin, the junior kept a little
@@ -10482,8 +9542,7 @@ behind, and apart. If he were an uncle, the other followed in a line.
 
 SECT. Il. xi f. 231
 _ a a ee x
-share was given to the more aged. Thus the sub-
-mission of juniors was recognised in the arrange-
+share was given to the more aged. Thus the submission of juniors was recognised in the arrange-
 ments for the hunts. In the tens and fives of the
 army and its detachments, where the rank was the
 same, places were given according to age. Thus the
@@ -10498,8 +9557,7 @@ died for them under the constraint of righteousness,
 and not dared to violate them.
 
 20. The sacrifice in the Hall of Distinction served
-to inculcate filial duty on the feudal lords ; the feast-
-ing of the three classes of the old and five classes
+to inculcate filial duty on the feudal lords ; the feasting of the three classes of the old and five classes
 of the experienced in the Great college served to
 inculcate brotherly submission on those princes; the
 sacrifices to the worthies of former times in the
@@ -10515,14 +9573,9 @@ the great lessons for the kingdom.
 five classes of the experienced, the son of Heaven
 bared his arm, cut up the bodies of the victims, and
 handed round the condiments; he also presented
-
-
 considerable size ; contributing to the army a chariot, three mailed
 men, and seventy-two foot-men. There was a levy on it also of
 men to serve in the hunting expeditions.
-
-
-232 THE Li Ki. BK, XXI.
 
 
 the cup with which they rinsed their mouths, wearing
@@ -10543,8 +9596,7 @@ inspection, the princes (of each quarter) met him on
 their borders. The son of Heaven first visited those
 who were a hundred years old. If there were those
 of eighty or ninety, on the way to the east, he, though
-going to the west, did not dare to pass by (with-
-out seeing them) ; and so, if their route was to the
+going to the west, did not dare to pass by (without seeing them) ; and so, if their route was to the
 west, and his to the west. If he wished to speak of
 matters of government, he, though ruler, might go
 to them.
@@ -10559,8 +9611,7 @@ regard to age. But at meetings of all the members
 of aclan no one dared to take precedence of one
 who was seventy years old.
 
-Those who were seventy, did not go to court un-
-less for some great cause. When they did so for such
+Those who were seventy, did not go to court unless for some great cause. When they did so for such
 a cause, the ruler would bow and give place to them,
 afterwards going on to the parties possessed of rank.
 
@@ -10589,8 +9640,7 @@ phenomena of heaven and earth in their states of
 rest and activity, made them the basis of the Yi (and
 divining by it). The diviner held the tortoise-shell
 in his arms, with his face towards the south, while
-the son of Heaven, in his dragon-robe and square-
-topped cap, stood with his face to the north. The
+the son of Heaven, in his dragon-robe and squaretopped cap, stood with his face to the north. The
 latter, however intelligent might be his mind, felt it
 necessary to set forth and obtain a decision on what
 his object was ;—showing that he did not dare to
@@ -10603,8 +9653,7 @@ honour to men of talents and virtue.
 26. When a filial son was about to sacrifice, the
 
 
-' Who does not see that, from the writer’s point of view, divina-
-tion was originally had recourse to in the search for an ‘infallible ’
+' Who does not see that, from the writer’s point of view, divination was originally had recourse to in the search for an ‘infallible ’
 director in matters to be done? The Decider was held to be
 ‘Heaven ;’ the error was in thinking that the will of Heaven
 could be known through any manipulation of the tortoise-shell, or
@@ -10618,8 +9667,7 @@ rule was that he should have his mind well adjusted
 and grave, to fit him for giving to all matters their
 full consideration, for providing the robes and other
 things, for repairing the temple and its fanes, and
-for regulating everything. When the day of sacri-
-fice arrived, the rule was that his countenance should
+for regulating everything. When the day of sacrifice arrived, the rule was that his countenance should
 be mild, and his movements show an anxious dread,
 as if he feared his love were not sufficient. When
 he put down his offerings, it was required that his
@@ -10630,8 +9678,7 @@ out}, he stood lowly and still, though correct and
 straight, as if he were about to lose the sight (of his
 parents).
 
-After the sacrifice, he looked pleased and expect-
-ant, as if they would again enter?.
+After the sacrifice, he looked pleased and expectant, as if they would again enter?.
 
 In this way his ingenuousness and goodness were
 never absent from his person; his ears and eyes
@@ -10652,23 +9699,17 @@ which it would be difficult to justify.
 ? Here again translation is difficult. Zottoli gives :—‘ Cumque
 sacrificium transiverit, intendet animo, prosequetur ore, quasi mox
 iterum ingressuri essent. Callery:—‘Aprés le sacrifice il s’en
-
-
 va lentement, comme (s'il suivait quelqu’un pas A pas, et avait
 envie) de rentrer (avec lui dans le temple).’
 
 
 SECT. IT. ki f. 235
 27. The sites for the altars to the spirits of the
-
-
 land and grain were on the right; that for the
 ancestral temple on the left?.
 
 
 ? That is, with reference to the palace. As you looked out from
-
-
 it to the south, the altars were on the right hand and the temple
 on the left.
 
@@ -10681,8 +9722,7 @@ A SUMMARY ACCOUNT OF SACRIFICES".
 
 
 1. Of all the methods for the good ordering of
-men, there is none more urgent than the use of cere-
-monies. Ceremonies are of five kinds’, and there is
+men, there is none more urgent than the use of ceremonies. Ceremonies are of five kinds’, and there is
 none of them more important than sacrifices.
 
 Sacrifice is not a thing coming to a man from
@@ -10696,8 +9736,7 @@ exhibition to the idea of sacrifice.
 blessing ;—not indeed what the world calls blessing®.
 Blessing here means perfection ;—it is the name
 given to the complete and natural discharge of all
-duties. When nothing is left incomplete or im-
-properly discharged ;—this is what we call perfection,
+duties. When nothing is left incomplete or improperly discharged ;—this is what we call perfection,
 implying the doing everything that should be done
 in one's internal self, and externally the performance
 of everything according to the proper method.
@@ -10707,12 +9746,7 @@ subject in his service of his ruler and a filial son in
 
 * See the introduction, vol. xxvii, pp. 37. 38.
 * The five kinds of ceremonies are the Auspicious (F including
-
-
-all acts of religious worship) ; the Mourning (XI) ; those of Hospi-
-
-
-tality (#4); the Military (i) ; and the Festive (#4).
+all acts of religious worship) ; the Mourning (XI) ; those of Hospitality (#4); the Military (i) ; and the Festive (#4).
 
 
 * Success, longevity, the protection of spiritual Beings.
@@ -10751,10 +9785,7 @@ alive, by nourishing them ; when they are dead, by
 
 
 * Callery gives for these:—‘Conformité avec les Esprits et
-les Dieux.’ Zottoli :—‘ Ordo erga Genios Spiritusque. Med-
-hurst :—‘ Being obedient to the Kwei Shins.’ If they had
-
-
+les Dieux.’ Zottoli :—‘ Ordo erga Genios Spiritusque. Medhurst :—‘ Being obedient to the Kwei Shins.’ If they had
 observed the ‘three spheres’ of the writer, I think they would have
 translated differently. I believe the idea is—‘Compliance with
 the will of Heaven or God, as seen in the course of Nature and
@@ -10784,8 +9815,7 @@ that assistance (from abroad).
 
 In sacrificing, husband and wife had their several
 duties which they personally attended to; and on
-this account there was the array of officials belong-
-ing to the exterior and interior departments (of the
+this account there was the array of officials belonging to the exterior and interior departments (of the
 palace). When these officers were complete, all
 things necessary (for the service) were made ready :-—
 small things, such as the sourcrout of water plants
@@ -10796,8 +9826,7 @@ Strange insects and the fruits of plants and trees,
 produced under the best influences of light and shade,
 were all made ready. Whatever heaven produces,
 whatever earth developes in its growth ;—all were
-then exhibited in the greatest abundance. Every-
-thing was there from without, and internally there
+then exhibited in the greatest abundance. Everything was there from without, and internally there
 was the utmost effort of the will :—such was the spirit
 in sacrificing.
 
@@ -10805,13 +9834,11 @@ in sacrificing.
 BK, XXII. KI THUNG. 239
 
 
-5- For this reason, also, the son of Heaven him-
-self guided the plough in the southern suburb, to
+5- For this reason, also, the son of Heaven himself guided the plough in the southern suburb, to
 provide the grain for the sacrificial vessels ; and the
 queen looked after her silkworms in the northern
 suburb, to provide the cap and robes of silk. The
-princes of the states guided the plough in their east-
-ern suburb, also to provide the grain for the sacrificial
+princes of the states guided the plough in their eastern suburb, also to provide the grain for the sacrificial
 vessels, and their wives looked after their silkworms
 in the northern suburb, to provide the cap and robes
 of silk. This was not because the son of Heaven
@@ -10820,8 +9847,7 @@ because the queen and the princes’ wives had not
 women to tend the silkworms for them; it was to
 give the exhibition of their personal sincerity. Such
 sincerity was what is called doing their utmost ; and
-such doing of their utmost was what is called reve-
-rence. When they had reverently done their ut-
+such doing of their utmost was what is called reverence. When they had reverently done their ut-
 most, they could serve the spiritual Intelligences—
 such was the way of sacrificing.
 
@@ -10830,10 +9856,8 @@ man wisely gave himself to the work of purification.
 That purification meant the production of uniformity
 (in all the thoughts) ;—it was the giving uniformity to
 all that was not uniform, tilla uniform direction of the
-thoughts was realised. Hence a superior man, un-
-less for a great occasion, and unless he were animated
-by a great reverénce, did not attempt this purifica-
-tion. While it was not attained, he did not take
+thoughts was realised. Hence a superior man, unless for a great occasion, and unless he were animated
+by a great reverénce, did not attempt this purification. While it was not attained, he did not take
 precautions against the influence of (outward) things,
 nor did he cease from all (internal) desires. But
 when he was about to attempt it, he guarded against
@@ -10846,8 +9870,7 @@ said in the Record, ‘ People occupied with purification
 have no music,’ meaning that they did not venture to
 allow its dissipation of their minds. He allowed no
 vain thoughts in his heart, but kept them in a strict
-adherence to what was right. He allowed no reck-
-less movement of his hands or feet, but kept them
+adherence to what was right. He allowed no reckless movement of his hands or feet, but kept them
 firmly in the way of propriety. Thus the superior
 man, in his purification, devotes himself to carrying
 to its utmost extent his refined and intelligent
@@ -10868,16 +9891,14 @@ appointed for the sacrifice, the governor of the palace
 gave warning notice to the wife of the ruler, and she
 also conducted that looser ordering of her thoughts
 for seven days, and that more complete ordering of
-them for three. The ruler accomplished his puri-
-fication in the outer apartment, and the wife her
+them for three. The ruler accomplished his purification in the outer apartment, and the wife her
 purification in the inner. After this they met in the
 grand temple.
 
 The ruler, in the dark-coloured square-topped cap,
 stood at the top of the steps on the east ; his wife in
 her head-dress and pheasant-embroidered robe stood
-in the eastern chamber. The ruler from his mace-
-handled libation-cup poured 6ut the fragrant spirit
+in the eastern chamber. The ruler from his macehandled libation-cup poured 6ut the fragrant spirit
 before the personator of the dead; and the great
 minister in charge of the temple with his halfmace-
 
@@ -10940,16 +9961,14 @@ outward representation more vehement, even a sage
 could not have accomplished this.
 
 Therefore the superior man, in sacrificing, exerted
-himself to the utmost in order to give clear ex-
-pression to these more important things. He con-
+himself to the utmost in order to give clear expression to these more important things. He con-
 ducted everything according to the rules of ceremony,
 thereby giving prominent exhibition to them, and
 displaying them to the august personator :—such
 was the method of the sages.
 
 10. At sacrifices there are the provisions that
-are left. The dealing with these is the least im-
-portant thing in sacrifices, but it is necessary to
+are left. The dealing with these is the least important thing in sacrifices, but it is necessary to
 take knowledge of it. Hence there is the saying
 of antiquity, ‘The end must be attended to even
 as the beginning :’—there is an illustration of it
@@ -10961,8 +9980,7 @@ of) government.
 
 Hence, when the personator rose, the ruler and
 his three ministers partook of what he had left.
-When the ruler had risen, the six Great officers par-
-took ;—the officers partook of what the ruler had
+When the ruler had risen, the six Great officers partook ;—the officers partook of what the ruler had
 left. When the Great officers rose, the eight officers
 partook :—the lower in rank ate what the higher had
 
@@ -10979,8 +9997,7 @@ the superior had left.
 was marked by an increase in the number (of those
 who partook of them); and thus there was marked
 the distinction between the degrees of the noble and
-the mean, and a representation given of the dis-
-pensation of benefits (by the sovereign). Hence by
+the mean, and a representation given of the dispensation of benefits (by the sovereign). Hence by
 means of the four vessels of millet there is shown
 the cultivation of this in the ancestral temple, which
 becomes thereby a representation of all comprised
@@ -10991,8 +10008,7 @@ example of the dispensation of favours'. Hence
 when the superior possessed the greatest blessing,
 acts of favour were sure to descend from him to
 those below him, the only difference being that he
-enjoyed the blessing first, and those below him after-
-wards ;—there was no such thing as the superior’s
+enjoyed the blessing first, and those below him afterwards ;—there was no such thing as the superior’s
 accumulating a great amount for himself, while the
 people below him might be suffering from cold and
 want. Therefore when the superior enjoyed his
@@ -11005,8 +10021,7 @@ these was seen (the method of) government.’
 
 
 1 It is difficult to detect the mind of the writer here, and make
-out the train of his reasoning. Zottoli:—‘ Sacrificium, bene-
-ficiorum maximum est.’ Callery:—‘ Dans les sacrifices,.les bien-
+out the train of his reasoning. Zottoli:—‘ Sacrificium, beneficiorum maximum est.’ Callery:—‘ Dans les sacrifices,.les bien-
 
 R2
 
@@ -11016,37 +10031,30 @@ R2
 
 12. Sacrifice is the greatest of all things. Its
 apparatus of things employed in it is complete, but
-that completeness springs from all being in accord-
-ance with the requirements (of nature and reason) :—
+that completeness springs from all being in accordance with the requirements (of nature and reason) :—
 is it not this which enables us to find in it the basis
 of all the lessons of the sages? Therefore those
-- lessons, in the external sphere, inculcated the honour-
-ing of the ruler and of elders, and, in the internal
+- lessons, in the external sphere, inculcated the honouring of the ruler and of elders, and, in the internal
 sphere, filial piety towards parents. Hence, when
 there was an intelligent ruler above, all his ministers
 submitted to and followed him. When he reverently
 sacrificed in his ancestral temple, and at the altars
 to the (spirits of the) land and grain, his sons and
 grandsons were filially obedient. He did all his duty
-in his own walk, and was correct in his righteous-
-ness; and thence grew up the lessons (of all duty).
+in his own walk, and was correct in his righteousness; and thence grew up the lessons (of all duty).
 
 Therefore a superior man, in the service of -his
-ruler, should find (guidance for) all his personal con-
-duct. What does not satisfy him in (the behaviour
+ruler, should find (guidance for) all his personal conduct. What does not satisfy him in (the behaviour
 of) his superiors, he will not show in his employment
 of those below himself; and what he dislikes in the
 behaviour of those below him, he will not show in
-the service of his superiors. To disapprove of any-
-thing in another, and do the same himself, is contrary
+the service of his superiors. To disapprove of anything in another, and do the same himself, is contrary
 to the rule of instruction. Therefore the superior in
 the inculcation of his lessons, ought to proceed from
 the foundation (of all duty). This will show him
 pursuing the greatest method of what is natural and
 right in the highest degree; and is not this what is
 seen in sacrifice ? Hence we have the saying that
-
-
 faits sont la plus grande chose.’ Wylie :—<‘ Sacrifice is the greatest
 of the virtuous influences.’ But is not the writer simply referring to
 what he has said about the admission of all classes to participate
@@ -11062,11 +10070,9 @@ sacrifice.’
 
 13. In sacrifice there is a recognition of what
 belongs to ten relationships'. There are seen in it
-the method of serving spiritual Beings; the right-
-eousness between ruler and subject; the relation
+the method of serving spiritual Beings; the righteousness between ruler and subject; the relation
 between father and son; the degrees of the noble
-and mean; the distance gradually increasing be-
-tween relatives; the bestowment of rank and reward;
+and mean; the distance gradually increasing between relatives; the bestowment of rank and reward;
 the separate duties of husband and wife; impartiality
 in government affairs; the order to be observed
 between old and young; and the boundaries of high
@@ -11074,16 +10080,14 @@ and low. These are what are called the (different
 duties in the) ten relationships.
 
 14. The spreading of the mat and placing on it
-a stool to serve for two, was intended as a resting-
-place for the united spirits (of husband and wife)?.
+a stool to serve for two, was intended as a restingplace for the united spirits (of husband and wife)?.
 The instruction to the blesser in the apartment and
 the going out to the inside of the gate*, was the
 method pursued in (seeking) communion with the
 Spirits.
 
 15. The ruler went to meet the victim, but not to
-meet the representative of the dead ;—to avoid mis-
-construction *. While the representative was outside
+meet the representative of the dead ;—to avoid misconstruction *. While the representative was outside
 
 
 1 Zottoli :—‘ Sacrificium habet decem sensus.’ Callery :—‘ Les
@@ -11112,11 +10116,9 @@ the gate of the temple, he was there the ruler;
 when he entered that gate (on the occasion of the
 sacrifice), he had the full character of a subject, or
 a son. Hence his not going forth (to meet the
-representative) made clear the right distinction be-
-tween the ruler and subject.
+representative) made clear the right distinction between the ruler and subject.
 
-16. According to the rule in sacrifices, a grand-
-son acted as the representative of his grandfather.
+16. According to the rule in sacrifices, a grandson acted as the representative of his grandfather.
 Though employed to act the part of representative,
 yet he was only the son of the sacrificer. When
 his father, with his face to the north, served him,
@@ -11140,24 +10142,19 @@ it were arranged on the left and right, according to
 their order of descent from the common ancestor,
 and thus the distinction was maintained between
 the order of fathers and sons, the near and the
-
-
 subject, and had not yet entered on the function, which placed him
 in a position of superiority for the time and occasion.
 
 
 BK. XXII, ki THUNG. 247
 a ae. ee aa
-
-
 distant, the older and the younger, the more nearly
 related and the more distantly, and there was no
 confusion. Therefore at the services in the grand
 ancestral temple, all in the two lines of descent were
 present, and no one failed to receive his proper
 place in their common relationship. This was what
-was called (showing) the distance gradually increas-
-ing between relatives.
+was called (showing) the distance gradually increasing between relatives.
 
 19. Anciently the intelligent rulers conferred rank
 on the virtuous, and emoluments on the meritorious;
@@ -11176,15 +10173,12 @@ to the ground, received the writing, returned (home),
 and presented it in his (own) ancestral temple :—such
 was the way in which rank and reward were given.
 
-20. The ruler, in the dragon robe and square-
-topped cap, stood at the top of the steps on the
-east, while his wife in her head-dress and pheasant-
-embroidered robe, stood in the chamber on the east.
+20. The ruler, in the dragon robe and squaretopped cap, stood at the top of the steps on the
+east, while his wife in her head-dress and pheasantembroidered robe, stood in the chamber on the east.
 When the wife presented and put down the dishes
 on stands, she held them by the foot; (the officer)
 who held the vessels with new wine, presented them
-to her, holding them by the bottom ; when the repre-
-sentative of the dead was handing the cup to the wife,
+to her, holding them by the bottom ; when the representative of the dead was handing the cup to the wife,
 he held it by the handle, and she gave it to him by
 
 
@@ -11207,22 +10201,18 @@ received the nobler bones, and the lower, the less
 noble; the nobler did not receive very much, and
 the lower were not left without any :—impartiality
 was thus shown. With impartiality of favours,
-government proceeded freely; with the free pro-
-ceeding of government, undertakings were accom-
+government proceeded freely; with the free proceeding of government, undertakings were accom-
 plished ; with the accomplishment of undertakings,
 merit was established. It is necessary that the way
 in which merit is established should be known.
-The stands served to show the rule for the im-
-partial bestowment oi favours. So did the skilful
+The stands served to show the rule for the impartial bestowment oi favours. So did the skilful
 administrators of government proceed, and hence it
 is said that (sacrifices showed the principle of)
 impartiality in the business of government.
 
-22. Whenever they came to the (general) circula-
-tion of the cup, those whose place was on the left stood
+22. Whenever they came to the (general) circulation of the cup, those whose place was on the left stood
 in one row, and also those whose place was on the
-right. The members of each row had places accord-
-ing to their age; and in the same way were arranged
+right. The members of each row had places according to their age; and in the same way were arranged
 all the assistants at the service. This was what was
 called (exhibiting) the order of the old and young.
 
@@ -11231,8 +10221,7 @@ BK. XXII. Kit THUNG. 249
 
 
 23. At sacrifices there were portions given to the
-skinners, cooks, assistants, feather-wavers, and door-
-keepers,—showing how favours should descend to
+skinners, cooks, assistants, feather-wavers, and doorkeepers,—showing how favours should descend to
 the lowest. Only a virtuous ruler, howevea,, could
 do this; having intelligence sufficient to perceive
 (the wisdom of) it, and benevolence equal to the
@@ -11270,9 +10259,6 @@ ti expressed the idea in the bright and expanding
 the spring season; but such explanations are far-fetched.
 
 
-250 THE Li Ki. BK. XX.
-
-
 the sombre and contracting (course). The ti
 showed the former in its fullest development, and
 the £4ang showed the latter in the same. Hence
@@ -11281,8 +10267,7 @@ the ti and Zang. Anciently, at the ti sacrifice,
 they conferred rank, and bestowed robes ;—acting
 according to the idea in the bright and expanding
 (course); and at the £4ang they gave out fields
-and homesteads, and issued the rules of autumn-
-work ;—acting according to the idea in the sombre
+and homesteads, and issued the rules of autumnwork ;—acting according to the idea in the sombre
 and contracting (course). Hence it is said in the
 Record, ‘On the day of the £ang sacrifice they
 gave forth (the stores of) the ruler’s house;’ showing
@@ -11306,8 +10291,7 @@ he whose virtue is the completest, has the largest
 aims; and he whose aims are the largest, has the
 clearest idea. He whose idea is the clearest, will be
 most reverent in his sacrifices. When the sacrifices
-(of a state) are reverent, none of the sons and grand-
-sons within its borders will dare to be irreverent.
+(of a state) are reverent, none of the sons and grandsons within its borders will dare to be irreverent.
 Then the superior man, when he has a sacrifice, will
 
 
@@ -11315,10 +10299,8 @@ BK. XXII, ki THUNG. 251
 i ee
 feel it necessary to preside at it in person. If there
 be a (sufficient) reason for it, he may commit the
-performance of it to another. But when com-
-mitting the performance to another, the ruler will
-not fail (to think) of its meaning, because he under-
-stands the ideas in it. He whose virtue is slight,
+performance of it to another. But when committing the performance to another, the ruler will
+not fail (to think) of its meaning, because he understands the ideas in it. He whose virtue is slight,
 has but a small aim. He who is in doubts as to the
 idea in it, and will yet seek to be reverent in his
 sacrifice, will find it impossible to be so; and how
@@ -11326,8 +10308,7 @@ can he, who sacrifices without reverence, be the
 parent of his people ?
 
 26. The tripods (at the sacrifices) had inscriptions
-onthem. The maker of an inscription named him-
-self, and took occasion to praise and set forth the
+onthem. The maker of an inscription named himself, and took occasion to praise and set forth the
 excellent qualities of his ancestors, and clearly
 exhibit them to future generations. Those ancestors
 must have had good qualities and also bad. But the
@@ -11371,8 +10352,7 @@ day ting-hAi, the duke went to the Grand Temple,
 and said, “My young uncle, your ancestor A wang
 Shi assisted duke Aang, who ordered him to follow
 him in his difficulties on the south of the Han, and
-afterwards to come to him in his palace (of imprison-
-ment) in the honoured capital of Kau; and all these
+afterwards to come to him in his palace (of imprisonment) in the honoured capital of Kau; and all these
 hurried journeyings he endured without wearying of
 them. From him came the helper of duke Hsien,
 who charged your (later) ancestor Aang Shuh to
@@ -11398,11 +10378,9 @@ BK. XXII, ki THUNG. 253
 was the inscription on the tripod of Khung Khwei
 of Wei},
 
-In this way the superior men of antiquity pane-
-gyrised the excellent qualities of their ancestors, and
+In this way the superior men of antiquity panegyrised the excellent qualities of their ancestors, and
 clearly exhibited them to future generations, thereby
-having the opportunity to introduce their own per-
-sonality and magnify their states. If descendants
+having the opportunity to introduce their own personality and magnify their states. If descendants
 who maintain their ancestral temples and the altars
 to the spirits of the land and grain, praised their
 ancestors for good qualities which they did not
@@ -11433,9 +10411,6 @@ was obliged to flee from Wei to Sung. The duke X’ng, who is
 mentioned in connexion with his ancestor known as Kwang Sha,
 was marquis of Wei from B.c. 635 to 600. Duke Hsien ruled from
 B.C. 577 to 559.
-
-
-254 THE Li xi. BK, XXII.
 
 
 carried red shields and axes adorned with jade in
@@ -11503,8 +10478,7 @@ simple stupidity, their comprehension of the Book of
 Poetry is deep. If they have a wide comprehension
 (of things), and know what is remote and old, and
 yet are free from duplicity, their understanding of
-the Book of History is deep. If they are large-
-hearted and generous, bland and honest, and yet
+the Book of History is deep. If they are largehearted and generous, bland and honest, and yet
 have no tendency to extravagance, their knowledge
 of Music is deep. If they are pure and still, refined
 and subtle, and yet do not violate (reason), they have
@@ -11513,18 +10487,15 @@ courteous and modest, grave and reverent, and yet
 not fussy, their acquaintance with the Book of Rites
 and Ceremonies is deep. If they suitably adapt their
 language to the things of which they speak, and yet
-have no disposition to be insubordinate, their know-
-ledge of the Aun Kid is deep.’
+have no disposition to be insubordinate, their knowledge of the Aun Kid is deep.’
 
 3. The son of Heaven forms a ternion with
-heaven and earth. Hence, in power of his good-
-ness he is their correlate, and his benefits extend at
+heaven and earth. Hence, in power of his goodness he is their correlate, and his benefits extend at
 once toall things’. His brilliancy is equal to that of
 the sun and moon, and enlightens all within the four
 seas, not excepting anything, however minute and
 small. In the audiences at his court everything is
-done according to the orderly procedure of benevo-
-lence, wisdom, propriety, and righteousness. At his
+done according to the orderly procedure of benevolence, wisdom, propriety, and righteousness. At his
 entertainments he listens to the singing of the Odes
 of the Kingdom and the Odes of the Temple and
 Altar. When he walks, there are the notes from his
@@ -11567,8 +10538,7 @@ the people, and does not employ these instruments,
 he will not be successful.
 
 5. In the right government of a state, the Rules
-of Propriety serve the same purpose as the steel-
-yard in determining what is light and what is heavy;
+of Propriety serve the same purpose as the steelyard in determining what is light and what is heavy;
 or as the carpenter’s line in determining what is
 crooked and what is straight; or as the circle and
 square in determining what is square and what is
@@ -11600,8 +10570,7 @@ ancestral temple are performed according to them,
 there is reverence ; when they are observed in the
 court, the noble and the mean have their proper
 positions; when the family is regulated by them,
-there is affection between father and son, and har-
-mony among brothers ; and when they are honoured
+there is affection between father and son, and harmony among brothers ; and when they are honoured
 in the country districts and villages, there is the
 proper order between old and young. There is the
 verification of what was said by Confucius, ‘ For
@@ -11637,15 +10606,12 @@ water ; and he who should consider the old rules of
 propriety useless and abolish them would be sure to
 suffer from the calamities of disorder.
 
-8. Thus if the ceremonies of marriage were dis-
-continued, the path of husband and wife would be
+8. Thus if the ceremonies of marriage were discontinued, the path of husband and wife would be
 embittered, and there would be many offences of
-licentiousness and depravity. If the drinking cere-
-monies at country feasts were discontinued, the
+licentiousness and depravity. If the drinking ceremonies at country feasts were discontinued, the
 order between old and young would be neglected,
 and quarrelsome litigations would be numerous. If
-the ceremonies of mourning and sacrifice were dis-
-continued, the kindly feeling of officers and sons
+the ceremonies of mourning and sacrifice were discontinued, the kindly feeling of officers and sons
 would become small; there would be numerous cases
 in which there was a revolt from the observances due
 to the dead, and an oblivion of (those due) to the
@@ -11672,8 +10638,7 @@ of it. It was on this account that the ancient kings
 set so high a value upon them. This sentiment is
 found in the words of the Yi, ‘The superior man
 is careful at the commencement; a mistake, then,
-of a hair’s breadth, will lead to an error of a thou-
-sand li!’
+of a hair’s breadth, will lead to an error of a thousand li!’
 
 
 1 But these words, common enough in later Chinese writings,
@@ -11697,19 +10662,16 @@ superior men, in speaking about them, ascribe so
 much honour to them?’ Confucius said, ‘I, AAid,
 am a small man, and unequal to a knowledge of the
 rites.’ ‘By no means,’ said the ruler, ‘Tell me
-what you think, my Master.’ Then Confucius re-
-plied, ‘ According to what I have heard, of all things
+what you think, my Master.’ Then Confucius replied, ‘ According to what I have heard, of all things
 by which the people live the rites are the greatest.
 Without them they would have no meansofregulating
 the services paid to the spirits of heaven and earth ;
-without them they would have no means of dis-
-tinguishing the positions proper to father and son, to
+without them they would have no means of distinguishing the positions proper to father and son, to
 high and low, to old and young; without them they
 would have no means of maintaining the separate
 character of the intimate relations between male and
 female, father and son, elder brother and younger,
-and conducting the intercourse between the contract-
-ing families in a marriage, and the frequency ar infre-
+and conducting the intercourse between the contracting families in a marriage, and the frequency ar infre-
 quency (of the reciprocities between friends). These
 
 
@@ -11731,13 +10693,11 @@ andr everenced (the rites) as they did.
 2. ‘ Thereafter, (having this view of the rites), they
 taught them to the people, on the ground of their
 ability (to practise them), not disregarding their
-general principles or the limitations (that circum-
-stances impose in particular cases).
+general principles or the limitations (that circumstances impose in particular cases).
 
 3. ‘When their object had been accomplished (so
 far), they proceeded to give rules for the engraving
-(of the ceremonial vessels), and the embroider-
-ing in various colours (of the robes), in order to
+(of the ceremonial vessels), and the embroidering in various colours (of the robes), in order to
 secure the transmission (of the rites).
 
 4. ‘Having obtained the concurrence (of the
@@ -11775,33 +10735,28 @@ multitude, and seek to overthrow those who are
 pursuing the right way. They seek to get whatever
 they desire, without reference to right or reason.
 The former using of the people was according to the
-ancient rules; the using of them now-a-days is ac-
-cording to later rules. The superior men of the
+ancient rules; the using of them now-a-days is according to later rules. The superior men of the
 present day do not practise the rites (as they ought
 to be practised).’
 
 6. Confucius was sitting beside duke Ai, when
 the latter said, ‘I venture to ask, according to the
 nature of men, which is the greatest thing (to
-be attended to in dealing with them).’ Confu-
-cius looked startled, changed countenance, and re-
+be attended to in dealing with them).’ Confucius looked startled, changed countenance, and re-
 plied, ‘ That your lordship should put this question
 is a good thing for the people. How should your
-servant dare but express his opinion on it?’ Ac-
-cordingly he proceeded, and said, ‘ According to the
+servant dare but express his opinion on it?’ Accordingly he proceeded, and said, ‘ According to the
 nature of men, government is the greatest thing for
 them.’
 
 7. The duke said, ‘I venture to ask what is meant
 by the practice of government. Confucius replied,
-‘Government is rectification. When the ruler is cor-
-rect himself, all the people will follow his government.
+‘Government is rectification. When the ruler is correct himself, all the people will follow his government.
 What the ruler does is what the people follow. How
 should they follow what he does not do ?’
 
 8. The duke said, ‘I venture to ask how this
-practice of government is to be effected?’ Confu-
-cius replied, ‘ Husband and wife have their separate
+practice of government is to be effected?’ Confucius replied, ‘ Husband and wife have their separate
 functions ; between father and son there should be
 affection; between ruler and minister there should
 be a strict adherence to their several parts. If
@@ -11813,45 +10768,37 @@ be a strict adherence to their several parts. If
 these three relations be correctly discharged, all
 other things will follow.’
 
-9. The duke said, ‘ Although I cannot, in my un-
-worthiness, count myself as having attained, I should
+9. The duke said, ‘ Although I cannot, in my unworthiness, count myself as having attained, I should
 like to hear how these three things which you have
 mentioned can be rightly secured. May I hear it
 from you?’ Confucius replied, ‘ With the ancients
 in their practicé of government the love of men
 was the great point; in their regulation of this
 love of men, the rules of ceremony was the great
-point; in their regulation of those rules, re-
-verence was the great point. For of the extreme
+point; in their regulation of those rules, reverence was the great point. For of the extreme
 manifestation of reverence we find the greatest
 illustration in the great (rite of) marriage. Yes, in
 the great (rite of) marriage there is the extreme
 manifestation of respect; and when one took place,
 the bridegroom in his square-topped cap went in
-person to meet the bride ;—thus showing his affec-
-tion for her. It was his doing this himself that
+person to meet the bride ;—thus showing his affection for her. It was his doing this himself that
 was the demonstration of his affection. Thus it is
 that the superior man commences with respect as the
-basis of love. To neglect respect is to leave affec-
-tion unprovided for. Without loving there can be
+basis of love. To neglect respect is to leave affection unprovided for. Without loving there can be
 no (real) union; and without respect the love will
 not be correct. Yes, love and respect lie at the
 foundation of government.’
 
 10. The duke said, ‘I wish that I could say I
-agree with you, but for the bridegroom in his square-
-topped cap to go in person to meet the bride,—is it
-not making too much (of the ceremony)?’ Con-
-fucius looked startled, changed countenance, and
-said, ‘(Such a marriage) is the union of (the repre-
-sentatives of) two different surnames in friendship
+agree with you, but for the bridegroom in his squaretopped cap to go in person to meet the bride,—is it
+not making too much (of the ceremony)?’ Confucius looked startled, changed countenance, and
+said, ‘(Such a marriage) is the union of (the representatives of) two different surnames in friendship
 and love, in order to continue the posterity of the
 
 
 BK, XXIV, AI KUNG WAN. 265
 i ee Oa ae
-former sages, and to furnish those who shall pre-
-side at the sacrifices to heaven and earth, at
+former sages, and to furnish those who shall preside at the sacrifices to heaven and earth, at
 those in the ancestral temple, and at those at the
 altars to the spirits of the land and grain ;—how
 can your lordship say that the ceremony is made
@@ -11864,12 +10811,10 @@ the proper words (to do so); I beg you to go on a
 little further.’ Confucius said, ‘If there were not
 the united action of heaven and earth, the world
 of things would not grow. By means of the grand
-rite of marriage, the generations of men are con-
-tinued through myriads of ages. How can your
+rite of marriage, the generations of men are continued through myriads of ages. How can your
 lordship say that the ceremony in question is too
 great?’ He immediately added, ‘In their own
-peculiar sphere, (this marriage) serves for the regula-
-tion of the ceremonies of the ancestral temple, and
+peculiar sphere, (this marriage) serves for the regulation of the ceremonies of the ancestral temple, and
 is sufficient to supply the correlates to the spiritual
 Intelligences of heaven and earth; in the (wider)
 sphere abroad, it serves for the regulation of the
@@ -11905,16 +10850,14 @@ lies at the foundation of government!’
 12. Confucius continued, ‘Anciently, under the
 government of the intelligent kings of the three
 dynasties, it was required of a man to show respect
-to his wife and son. When the path (of right govern-
-ment) was pursued, the wife was the hostess of the
+to his wife and son. When the path (of right government) was pursued, the wife was the hostess of the
 (deceased) parents ;—could any husband dare not to
 show her respect ? And the son was the descendant
 of those parents ;—could any father dare not to show
 him respect? The superior man’s respect is
 universal. Wherein it appears the greatest is in his
 respect for himself. He is in his person a branch
-from his parents;—can any son but have this self-
-respect ? If he is not able to respect his own person,
+from his parents;—can any son but have this selfrespect ? If he is not able to respect his own person,
 he is wounding his parents. If he wound his parents,
 he is wounding his own root; and when the root
 is wounded, the branches will follow it in its dying.
@@ -11942,14 +10885,12 @@ he do not go beyond what should be said, nor in his
 actions what should be a model, then the people,
 without being commanded, will reverence and honour
 him. When this obtains, he can be said to have
-respected his person. Having succeeded in respect-
-ing his person, he will (at the same time) be able to
+respected his person. Having succeeded in respecting his person, he will (at the same time) be able to
 do all that can be done for his parents.’
 
 14. The duke said, ‘I venture to ask what is
 meant by doing all that can be done for one’s
-parents ?’ Confucius replied, ‘ AXiin-3ze is the com-
-pletest name for a man; when the people apply the
+parents ?’ Confucius replied, ‘ AXiin-3ze is the completest name for a man; when the people apply the
 name to him, they say (in effect) that he is the
 son of a 4iin-jze; and thus he makes his parents
 (? father) to be a Aiin-3ze. This is what I intend
@@ -11968,8 +10909,6 @@ scholars, and I have heard it proposed to render it by ‘a gentle-
 
 
 ,
-
-
 man.’ Here all the commentators say it is to be understood of a
 man of rank and position (A > YJ NE. =) which is a
 not unfrequent application of it.
@@ -11992,8 +10931,7 @@ in Heaven; unable to rejoice in Heaven, he cannot
 do all that can be done for his person.’
 
 15. The duke said, ‘I venture to ask what is
-meant by “doing all that could be done for one’s per-
-son.”’ Confucius replied, ‘It is keeping from all
+meant by “doing all that could be done for one’s person.”’ Confucius replied, ‘It is keeping from all
 transgression of what is due in all the sphere beyond
 one’s self.’ ,
 
@@ -12002,15 +10940,13 @@ that the superior man values in the way of Heaven.’
 Confucius replied, ‘He values its unceasingness.
 There is, for instance, the succession and sequence
 of the sun and moon from the east and west :—that
-is the way of Heaven. There is the long continu-
-ance of its progress without interruption :—that is the
+is the way of Heaven. There is the long continuance of its progress without interruption :—that is the
 way of Heaven. There is its making (all) things
 complete without doing anything :—that is the way of
 Heaven. There is their brilliancy when they have
 been completed :—that is the way of Heaven.’
 
-17. The duke said,‘I am very stupid, unintelli-
-gent also, and occupied with many things; do you,
+17. The duke said,‘I am very stupid, unintelligent also, and occupied with many things; do you,
 Sir, help me that I may keep this lesson in my mind.’
 
 18. Confucius looked grave, moved a little from
@@ -12021,13 +10957,9 @@ his mat, and replied, ‘A man of all-cofnprehensive
 
 
 (A Ai AR th,), adding ‘men will injure him.’ So all the other
-
-
 commentators.
 ? Callery gives for this:—‘Ce n’est autre chose que de se
 maintenir dans le devoir.’ Wylie:—‘It is not to transgress
-
-
 the natural order of things.’ The reply of Confucius appears more
 fully in the ‘ Narratives of the School.’
 
@@ -12055,8 +10987,6 @@ the sense of Mencius, who says that ‘ Benevolence is man 4= tH,
 
 
 7 K th,)’ (vii, 11, 16); as Julien translates it, ‘Humanitas
-
-
 homo est. There = ‘benevolence,’ is a name denoting the
 complex of human virtues, with the implication that it is itself
 man’s distinguishing characteristic. So ‘humanity’ may be used
@@ -12064,8 +10994,7 @@ in English to denote ‘the peculiar nature of man as distinguished
 from other beings.’
 
 ? Callery has a note on this paragraph :—‘Ces axidmes de
-Confucius ne sont pas d’une grande clarté; on y entrevoit, cepend-
-ant, que le philosophe veut établir lidentité entre le devoir chez
+Confucius ne sont pas d’une grande clarté; on y entrevoit, cependant, que le philosophe veut établir lidentité entre le devoir chez
 Yhomme et la vérité éternelle, ou la vertu dans le sens abstrait.’
 But perhaps the sayings of the Master seem to be wanting in
 ‘clearness’ because it is difficult to catch his mind and spirit in
@@ -12087,8 +11016,7 @@ OR
 KUNG-Ni AT HOME AT EASE’.
 
 
-t. Kung-ni ‘being at home at ease’, with 3ze-
-kang, 3ze-kung, and Yen YQ by him, their conversa-
+t. Kung-ni ‘being at home at ease’, with 3zekang, 3ze-kung, and Yen YQ by him, their conversa-
 tion went on from general matters to the subject of
 ceremonies. |
 
@@ -12100,8 +11028,7 @@ circumstances.’
 3. 3ze-kung crossed over (3ze-fang’s) mat*, and
 replied, ‘Allow me to ask what you mean. The
 Master said, ‘ Respect shown without observing the
-rules of propriety is called vulgarity ; courtesy with-
-out observing those rules is called forwardness ; and
+rules of propriety is called vulgarity ; courtesy without observing those rules is called forwardness ; and
 boldness without observing them is called violence.’
 The Master added, ‘ Forwardness takes away from
 gentleness and benevolence.’
@@ -12140,8 +11067,7 @@ ceremony do not serve to control what is bad, and to
 complete what is good?’ The Master said, ‘ They
 do.’ ‘Very well, and how do they do it?’ The
 Master said, ‘ The idea in the border sacrifices to
-Heaven and Earth is that they should give expres-
-sion to the loving feeling towards the spirits; the
+Heaven and Earth is that they should give expression to the loving feeling towards the spirits; the
 ceremonies of the autumnal and summer services in
 the ancestral temple give expression to the loving
 feeling towards all in the circle of the kindred;
@@ -12156,8 +11082,7 @@ visitors and guests.’
 
 
 1 The Khien-lung editors say that in this paragraph, the part
-from ‘3ze-khan’ has been introduced by an error in mani-
-pulating the tablets. It is found, and more fully, also in the
+from ‘3ze-khan’ has been introduced by an error in manipulating the tablets. It is found, and more fully, also in the
 Narratives of the School, article 41 GE ami fi). The previous
 sentence of it also appears to me to be out of place. Why should
 Confucius address himself to Sze?—that was not the name of
@@ -12165,16 +11090,11 @@ Confucius address himself to Sze?—that was not the name of
 and also more fully.
 
 
-272 THE Li xi. BK. XXV.
-
-
-7. The Master said, ‘An intelligent understand-
-ing of the idea in the border sacrifices to Heaven and
+7. The Master said, ‘An intelligent understanding of the idea in the border sacrifices to Heaven and
 Earth, and of the ceremonies of the autumnal and
 summer services, would make the government of a
 state as easy as to point to one’s palm. Therefore
-let the ceremonial rules be observed:—in the ordin-
-ary life at home, and there will be the (right) distinc-
+let the ceremonial rules be observed:—in the ordinary life at home, and there will be the (right) distinc-
 tion between young and old; inside the door of the
 female apartments, and there will be harmony among
 the three branches of kin; at court, and there will
@@ -12188,8 +11108,7 @@ made of the proper dimensions; measures and
 tripods will have their proper figure; food will have
 the flavour proper to its season; music will be
 according to the rules for it; carriages will have their
-proper form; spirits will receive their proper offer-
-ings; the different periods of mourning will have
+proper form; spirits will receive their proper offerings; the different periods of mourning will have
 their proper expression of sorrow; discussions will
 be conducted by those who from their position should
 take part in them; officers will have their proper
@@ -12212,8 +11131,7 @@ should attempt) to regulate a state without those
 rules would be like a blind man with no one to lead
 him ;—groping about, how could he find his way?
 Or he would be like one searching all night in a
-dark room without a light ;—how could he see any-
-thing ?
+dark room without a light ;—how could he see anything ?
 
 ‘If one have not the ceremonial rules, he would
 not (know how to) dispose of his hands and feet, or
@@ -12227,15 +11145,12 @@ harmony among the three branches of kin will be
 lost ; in the court, then the order of office and rank
 will be lost; in the different hunting expeditions,
 then the prescribed methods of military tactics will be
-lost ; in the army and its battalions, then the arrange-
-ments that secure success in war will be lost. (Also),
-houses and apartments will want their proper dimen-
-sions ; measures and tripods will want their proper
+lost ; in the army and its battalions, then the arrangements that secure success in war will be lost. (Also),
+houses and apartments will want their proper dimensions ; measures and tripods will want their proper
 figure; food will want its seasonal flavour; music
 will want its proper parts; Spirits will want their
 proper offerings; the different periods of mourning
-will want their proper expression of sorrow; discus-
-sions will not be conducted by the proper men for
+will want their proper expression of sorrow; discussions will not be conducted by the proper men for
 them ; officers will not have their proper business ;
 the affairs of government will fail to be properly
 distributed and applied; and (in the duties) laid on
@@ -12262,8 +11177,7 @@ lie among the channeled fields, if you carry them
 into practice, you will become wise as sages.
 
 ‘When one ruler is visiting another, they bow to
-each other, each courteously declining to take the pre-
-cedence, and then enter the gate. As soon as they
+each other, each courteously declining to take the precedence, and then enter the gate. As soon as they
 have done so, the instruments of music, suspended
 from their frames, strike up. They then bow and
 give place to each other again, and ascend to the
@@ -12281,19 +11195,16 @@ They move forward in perfect circles; they return
 and form again the squares. The bells of the
 equipages are tuned to the Ah%ai-kki; when the
 guest goes out they sing the Yung; when the
-things are being taken away, they sing the AZan-
-yii; and thus the superior man (sees that) there is
+things are being taken away, they sing the AZanyii; and thus the superior man (sees that) there is
 not a single thing for which there is not its proper
-ceremonial usage. The striking up of the instru-
-ments of metal, when they enter the gate, serves to
+ceremonial usage. The striking up of the instruments of metal, when they enter the gate, serves to
 
 
 BK, XXY. KUNG-Ni YEN KU. 275
 2 ae aa |
 indicate their good feeling; the singing of the
 A hing Miao, when they have gone up to the hall,
-shows the virtue (they should cultivate); the per-
-formance of the Hsiang to the flute in the court
+shows the virtue (they should cultivate); the performance of the Hsiang to the flute in the court
 below, reminds them of the events (of history). Thus
 the superior men of antiquity did not need to set
 forth their views to one another in words; it was
@@ -12302,8 +11213,7 @@ ceremonies.’
 
 10. The Master said, ‘Ceremonial usages are (the
 prescriptions of) reason; music is the definite limitation
-(of harmony). The superior man makes no move-
-ment without (a ground of) reason, and does nothing
+(of harmony). The superior man makes no movement without (a ground of) reason, and does nothing
 without its definite limitation. He who is not versed
 in the odes will err in his employment of the usages,
 and he who is not versed in music will be but an
@@ -12323,8 +11233,7 @@ practice depends on the men.’
 ancients? Yes, he was one of them. To be versed
 in the ceremonial usages, and not versed in music,
 we call being poorly furnished. To be versed in the
-usages and not versed in music, we call being one-
-sided. Now Khwei was noted for his acquaintance
+usages and not versed in music, we call being onesided. Now Khwei was noted for his acquaintance
 with music, and not for his acquaintance with cere-
 
 
@@ -12341,15 +11250,13 @@ implies). But he was one of the men of antiquity.’
 
 14. 3ze-kang asked about government. The
 Master said, ‘Sze, did I not instruct you on that
-subject before? The superior man who is well ac-
-quainted with ceremonial usages and music has
+subject before? The superior man who is well acquainted with ceremonial usages and music has
 only to take and apply them (in order to practise
 government).’
 
 15. 3ze-kang again put the question, and the
 Master said, ‘Sze, do you think that the stools and
-mats must be set forth, the hall ascended and de-
-scended, the cups filled and offered, the pledge-cup
+mats must be set forth, the hall ascended and descended, the cups filled and offered, the pledge-cup
 presented and returned, before we can speak of
 ceremonial usages? Do you think that there must
 be the movements of the performers in taking up
@@ -12362,12 +11269,10 @@ you do is music. The ruler who vigorously pursues
 these two things may well stand with his face to the
 south, for thus will great peace and order be secured
 all under heaven; the feudal lords will come to his
-court; all things will obtain their proper develop-
-ment and character ; and no single officer will dare to
+court; all things will obtain their proper development and character ; and no single officer will dare to
 shrink from the discharge of his functions. Where such
 ceremony prevails, all government is well ordered ;
-where it is neglected, all falls into disorder and con-
-fusion. A house made by a good (though unassisted)
+where it is neglected, all falls into disorder and confusion. A house made by a good (though unassisted)
 eye will yet have the corner of honour, and the
 steps on the east for the host to ascend by; every
 mat have its upper and lower end ; every chariot have
@@ -12389,11 +11294,9 @@ people observed no order in standing, there would
 be disorder in the places they occupy. Anciently the
 sage Tis and intelligent kings and the feudal lords,
 in making a distinction between noble and mean, old
-and young, remote and near, male and female, out-
-side and inside, did not presume to allow any to
+and young, remote and near, male and female, outside and inside, did not presume to allow any to
 transgress the regular rule they had to observe,
-but all proceeded in the path which has been indi-
-cated.’
+but all proceeded in the path which has been indicated.’
 
 16. When the three disciples had heard these
 words from the Master, they saw clearly as if a film
@@ -12407,8 +11310,7 @@ OR
 CONFUCIUS AT HOME AT LEISURE’.
 
 
-1. Confucius being at home at leisure, with 3ze-
-hsia by his side, the latter said, ‘With reference to
+1. Confucius being at home at leisure, with 3zehsia by his side, the latter said, ‘With reference to
 the lines in the Book of Poetry (III, ii, ode 8, I),
 
 
@@ -12419,8 +11321,7 @@ Is the father and mother of the people ;”
 I beg to ask what the sovereign must be, who can
 be called “the parent of the people.’ Confucius
 said, ‘Ah! the parent of the people! He must have
-penetrated to the fundamental principles of cere-
-monies and music, till he has reached the five
+penetrated to the fundamental principles of ceremonies and music, till he has reached the five
 extreme points to which they conduct, and the
 three that have no positive existence, and be able
 to exhibit these all under heaven ; and when evil is
@@ -12428,8 +11329,7 @@ impending in any part of the kingdom, he must
 have a foreknowledge of it:—such an one is he
 whom we denominate ‘the parent of the people.’
 
-2. 3ze-hsid said, ‘I have thus heard (your expla-
-nation) of the name “parent of the people;” allow
+2. 3ze-hsid said, ‘I have thus heard (your explanation) of the name “parent of the people;” allow
 me to ask what “the five extreme points” (that you
 mention) mean.’ Confucius said, ‘ The furthest aim
 of the mind has also its furthest expression in the
@@ -12443,8 +11343,7 @@ the ceremonial usages. The furthest embodiment
 
 BK. XXVI. KHUNG-3ZE HSIEN KU. 279
 i a i
-in the ceremonial usages has also its furthest indica-
-tion in music. The furthest indication of music has
+in the ceremonial usages has also its furthest indication in music. The furthest indication of music has
 also its furthest indication in the voice of sorrow.
 Sorrow and joy produce, each the other; and thus it
 is that when we look with the directest vision of the
@@ -12455,16 +11354,14 @@ must embrace all within heaven and earth :—these
 are what we denominate “ the five extreme points.”’
 3. 3ze-hsia said, ‘I have heard your explanation
 of “the five extreme points;” allow me to ask
-what “the three points that have no positive ex-
-istence” mean. Confucius said, ‘The music that
+what “the three points that have no positive existence” mean. Confucius said, ‘The music that
 has no sound; ceremonial usages that have no
 embodiment; the mourning that has no garb :—
 these are what we denominate “the three points
 that have no positive existence.” 3ze-hsia said, ‘I
 have heard what you have said on those three
 negations; allow me to ask in which of the odes
-we find the nearest expression of them.’ Confu-
-cius said, ‘ There is that (IV, ii, ode 1, 6),
+we find the nearest expression of them.’ Confucius said, ‘ There is that (IV, ii, ode 1, 6),
 ‘Night and day he enlarged its foundations 2
 his deep and silent virtue :”—
 there is music without sound. And that (I, it, ode
@@ -12476,9 +11373,6 @@ that (I, iii, ode 10, 4),
 ‘When among any of the people there was a death,
 I crawled on my knees to help them:"—
 there is the mourning that has no garb.’
-
-
-280 THE Li Ki. BK, XXVI.
 
 
 4. 3ze-hsia said, ‘Your words are great, admirable,
@@ -12504,8 +11398,7 @@ without garb, it reaches to all in all quarters.
 
 ‘When there is that music without sound, the
 spirit and will are followed. When there is that
-ceremony without embodiment, high and low are har-
-monious and united. When there is that mourning
+ceremony without embodiment, high and low are harmonious and united. When there is that mourning
 without garb, it goes on to nourish all regions.
 
 ‘When there is that music without sound, it is
@@ -12542,15 +11435,12 @@ and contains all without partiality; the Sun and
 Moon shine on all without partiality. Reverently
 displaying these three characteristics and thereby
 comforting all under heaven under the toils which
-they imposed, is what is called “the Three Impar-
-tialities.” It is said in the Book of Poetry (IV, iii,
+they imposed, is what is called “the Three Impartialities.” It is said in the Book of Poetry (IV, iii,
 ode 4, 3),
 
 “God in His favour Thang’s House would not leave,
 And then Thang rose that favour to receive.
-Thang’s birth was not from Hsieh too far re-
-
-moved,
+Thang’s birth was not from Hsieh too far removed,
 
 His sagely reverence daily greater proved;
 
@@ -12559,7 +11449,6 @@ For long to Heaven his brilliant influence rose,
 And while his acts the fear of God disclose,
 
 God Thang as model fit for the nine regions
-
 chose :"”"—
 
 such was the virtue of Thang.
@@ -12611,8 +11500,7 @@ such was the virtue of (kings) Wan and Wad.
 
 
 9. ‘As to the kings (who founded) the three
-dynasties, it was necessary that they should be pre-
-ceded by the fame of their forefathers. A\s it is said
+dynasties, it was necessary that they should be preceded by the fame of their forefathers. A\s it is said
 in the Book of Poetry (III, iii, ode 8, 6),
 
 “Very intelligent were the sons of Heaven,
@@ -12629,12 +11517,8 @@ BK. XXVI. KHUNG-3ZE HSIEN KU. 283
 “ He displayed his civil virtues,
 And they permeated all parts of the kingdom :”—
 such was the virtue of king Thai.’
-10. 3ze-hsia rose up with a sudden joy, and, stand-
-ing with his back to the wall, said, ‘Your disciple
-
-
-dares not but receive (your instructions) with rever-
-ence.’
+10. 3ze-hsia rose up with a sudden joy, and, standing with his back to the wall, said, ‘Your disciple
+dares not but receive (your instructions) with reverence.’
 
 
 BOOK XXVII. FANG At
@@ -12653,8 +11537,7 @@ which the people may be deficient ; and though they
 may be on a great scale, the people will yet pass
 over them. Therefore the superior men framed
 rules of ceremony for the conservation of virtue;
-punishments to serve as a barrier against licentious-
-ness; and declared the allotments (of Heaven), as
+punishments to serve as a barrier against licentiousness; and declared the allotments (of Heaven), as
 a barrier against evil desires’.
 
 2. The Master said, ‘ The small man, when poor,
@@ -12683,8 +11566,7 @@ BK. XXVII. FANG Ki. 285
 ee
 not have power to make men proud; that poverty
 should not induce that feeling of being pinched; and
-that men in positions of honour should not be intract-
-able to those above them. In this way the causes of
+that men in positions of honour should not be intractable to those above them. In this way the causes of
 disorder would more and more disappear.’
 
 3. The Master said, ‘ Under heaven the cases are
@@ -12706,8 +11588,7 @@ than 100 chariots. These regulations were intended
 for the protection of the people, and yet some of the
 lords of states rebelled against them.’
 
-4. The Master said, ‘It is by the rules of cere-
-mony that what is doubtful is displayed, and what is
+4. The Master said, ‘It is by the rules of ceremony that what is doubtful is displayed, and what is
 minute is distinguished, that they may serve as
 dykes for the people. Thus it is that there are the
 grades of the noble and the mean, the distinctions
@@ -12717,8 +11598,7 @@ people (are taught to) give place to one another.’
 5. The Master said, ‘ There are not two suns in
 the sky, nor two kings in a territory, nor two
 masters in a family, nor two superiors of equal
-honour; and the people are shown how the distinc-
-tion between ruler and subject should be maintained.
+honour; and the people are shown how the distinction between ruler and subject should be maintained.
 
 
 1 Literally, ‘ the poor are fond of (enjoyment) ;’ but the ‘ fond of’
@@ -12754,10 +11634,8 @@ who murdered their ruler?.’
 
 7. The Master said, ‘The superior man _ will
 decline a position of high honour, but not one that is
-mean; and riches, but not poverty. In this way con-
-fusion and disorder will more and more disappear.
-Hence the superior man, rather than have his emolu-
-ments superior to his worth, will have his worth
+mean; and riches, but not poverty. In this way confusion and disorder will more and more disappear.
+Hence the superior man, rather than have his emoluments superior to his worth, will have his worth
 superior to his emoluments.’
 
 8. The Master said, ‘In the matter of a cup of
@@ -12769,8 +11647,7 @@ claim and receive that which is less than his due;
 and lost. Is the bird alluded to the cock? and where is the point
 of the reference?
 
-* The Xhien-lung editors labour in vain to make this para-
-graph clear, and say that it is ‘an error of errors’ to ascribe it to
+* The Xhien-lung editors labour in vain to make this paragraph clear, and say that it is ‘an error of errors’ to ascribe it to
 Confucius.
 
 
@@ -12804,8 +11681,7 @@ when he is speaking of the ruler of another state, he
 calls him “ The Ruler ;” but when mentioning his
 own ruler, he calls him “ Our ruler of little virtue.”’
 
-10. The Master said, ‘ When advantages and re-
-wards are given to the dead first!, and to the living
+10. The Master said, ‘ When advantages and rewards are given to the dead first!, and to the living
 afterwards, the people will not act contrarily to the
 (character of) the dead. When (the ruler) places
 those who are exiles (from and for their state) first,
@@ -12870,17 +11746,13 @@ BK. XXVII. FANG kt. 289
 
 people will not contend (among themselves). If he
 ascribe what is good to others, and what is wrong to
-himself, dissatisfactions will more and more dis-
-appear. It is said in the Book of Poetry (I, v,
+himself, dissatisfactions will more and more disappear. It is said in the Book of Poetry (I, v,
 ode 4, 2),
 
 
 “You had consulted the tortoise-shell; you had
 consulted the stalks;
-In their responses there was nothing unfavour-
-
-
-able.”’
+In their responses there was nothing unfavourable.”’
 
 
 14. The Master said, ‘If (the ruler) ascribe what
@@ -12898,14 +11770,12 @@ And king Wa completed the city.”’
 
 
 15. The Master said, ‘If (ministers) ascribe what
-is good to their ruler and what is wrong to them-
-selves, the people will become loyal. It is said in
+is good to their ruler and what is wrong to themselves, the people will become loyal. It is said in
 the Book of History (V, xxi, 6),
 
 ‘“When you have any good plans or counsels,
 enter and lay them before your ruler in the court;
-and thereafter, when you are acting abroad in accord-
-ance with them, say, ‘ This plan, or this view, is all
+and thereafter, when you are acting abroad in accordance with them, say, ‘ This plan, or this view, is all
 due to the virtue of our ruler!’ Oh! in this way
 how good and distinguished will you be!”’
 
@@ -12934,8 +11804,7 @@ vili, 1) it is said, “ For three years he kept without
 speaking’; when he did speak, they were delighted.”’
 
 18. The Master said, ‘To obey (his parents’)
-commands without angry (complaint); to remon-
-strate with them gently without being weary; and
+commands without angry (complaint); to remonstrate with them gently without being weary; and
 not to murmur against them, though they punish
 him, may be pronounced filial piety. It is said in
 the Book of Poetry (III, ii, ode 3, 5),
@@ -12990,8 +11859,7 @@ ancestors.” ’
 23. [The Master said, ‘Before his parents (a son)
 should not speak of himself as old; he may speak
 of the duty due to parents, but not of the gentle
-kindness due from them; inside the female apart-
-ments he may sport, but should not sigh. By these
+kindness due from them; inside the female apartments he may sport, but should not sigh. By these
 (rules) the superior man would protect the people
 (from evil), and still they are found slight in their
 acknowledgment of filial duty, and prompt in their
@@ -13001,8 +11869,7 @@ appreciation of gentle kindness.’
 the people show at their courts their respect for the
 old, the people become filial.’
 
-25. The Master said, ‘The (use of) the represen-
-tatives of the deceased at sacrifices, and of one who
+25. The Master said, ‘The (use of) the representatives of the deceased at sacrifices, and of one who
 presides (at the services) in the ancestral temple, was
 intended to show the people that they had still those
 whom they should serve. The repairing of the
@@ -13021,8 +11888,7 @@ U 2
 26. The Master said, ‘When (it is wished to)
 show respect (to guests), the vessels of sacrifice are
 used!, Thus it is that the superior man will not in
-the poverty of his viands neglect the rules of cere-
-mony, nor in their abundance and excellence make
+the poverty of his viands neglect the rules of ceremony, nor in their abundance and excellence make
 those rules disappear. Hence, according to the rules
 of feasting, when the host gives in person anything
 to a guest, the guest offers a portion in sacrifice,
@@ -13053,15 +11919,13 @@ whom it is required to adopt a hurried pace :—all to
 teach reverence (for the departed)’
 
 
-1 This would be in the entertainment, at the close of the sacri-
-fices, given to the relatives and others who had taken part in them.
+1 This would be in the entertainment, at the close of the sacrifices, given to the relatives and others who had taken part in them.
 
 * This is the symbolism of the fifth line of the 63rd Hexagram
 (Ai 31). See vol. xvi, pp. 206-208.
 
 
 BK. XXVII. FANG Ki. 293
-7
 
 The sweet liquor is in the apartment (where the
 personator is); the reddish in the hall; and the clear
@@ -13087,14 +11951,12 @@ Every smile and word is as it should be.’
 
 
 28. The Master said, ‘The giving place to a
-visitor at every stage of his advancing (from the en-
-trance gate), according to the rules for visitors; and
+visitor at every stage of his advancing (from the entrance gate), according to the rules for visitors; and
 the repetition of the ceremonies, according to the
 mourning rites, in an ever-increasing distance from
 the apartment of the corpse; the washing of the
 corpse over the pit in the centre of the open court ;
-the putting the rice into the mouth under the win-
-dow; the slighter dressing of the corpse inside the
+the putting the rice into the mouth under the window; the slighter dressing of the corpse inside the
 door of the apartment; the greater dressing at the
 top of the steps on the east; the coffining in the
 place for guests; the sacrifice on taking the road
@@ -13123,8 +11985,7 @@ however, there still were those who did not attend
 the burials of other princes, and take part in them?.’
 
 29. The Master said, ‘The going up to the hall
-by the steps for the guests, and receiving the con-
-dolences sent to him in the guests’ place, are designed
+by the steps for the guests, and receiving the condolences sent to him in the guests’ place, are designed
 to teach the filial to continue their filial duty even
 to the dead.
 
@@ -13137,8 +11998,7 @@ and his ruler A4o0?:’’—a barrier was thus raised to
 prevent the people (from doing such deeds). And
 yet there were sons who still murdered their fathers.’
 
-30. The Master said, ‘ Filial duty may be trans-
-ferred to the service of the ruler, and brotherly sub-
+30. The Master said, ‘ Filial duty may be transferred to the service of the ruler, and brotherly sub-
 
 
 1 It is not easy to determine the meaning of the text in this
@@ -13174,8 +12034,7 @@ people how they should look on the relation between
 high and low. Hence the son of Heaven cannot be
 received with the ceremonies of a guest anywhere
 within the four seas, and no one can presume to be
-his host. Hence, also, when a ruler goes to a minis-
-ter’s (mansion) he goes up to the hall by the (host’s)
+his host. Hence, also, when a ruler goes to a minister’s (mansion) he goes up to the hall by the (host’s)
 steps on the east and proceeds to the place (of honour)
 in the hall: showing the people that they should not
 dare to consider their houses their own.
@@ -13187,8 +12046,7 @@ monopolise (any honours).
 
 ‘ All these usages were intended to kéep the people
 from transgressing their proper bounds ; and yet there
-are those who forget their parents, and are double-
-minded to their ruler.’
+are those who forget their parents, and are doubleminded to their ruler.’
 
 31. The Master said, ‘The ceremony takes place
 before the silks (offered in connexion with it) are
@@ -13230,8 +12088,7 @@ For the benefit of the widow.”
 
 
 ‘Hence, when a superior man is in office (and
-enjoys its emoluments), he does not go in for farm-
-ing; if he hunts, he does not (also) fish; he eats the
+enjoys its emoluments), he does not go in for farming; if he hunts, he does not (also) fish; he eats the
 (fruits of the) season, and is not eager for delicacies ;
 if a Great officer, he does not sit on sheepskins ; if
 a lower officer, he does not sit on dogskins. It is
@@ -13246,21 +12103,18 @@ different moral seems to be drawn from the whole.
 BK, XXVII, FANG Ki. 297
 
 
-“When we gather the mustard-plant and earth-
-melons,
+“When we gather the mustard-plant and earthmelons,
 We do not reject them because of their roots.
 While I do nothing contrary to my good name,
 I should live with you till our death.”
 
 
 In this way it was intended to guard the people
-against loving wrong ; and still some forget righteous-
-ness and struggle for gain, even to their own ruin.’
+against loving wrong ; and still some forget righteousness and struggle for gain, even to their own ruin.’
 
 33. The Master said, ‘The ceremonial usages
 serve as dykes to the people a_ainst bad excesses
-(to which they are prone). They display the separa-
-tion which should be maintained (between the sexes),
+(to which they are prone). They display the separation which should be maintained (between the sexes),
 that there may be no occasion for suspicion, and the
 relations of the people be well defined. It is said in
 the Book of Poetry (I, viii, ode vi, 3, 4),
@@ -13271,8 +12125,7 @@ Without another axe it cannot be done.
 How do we proceed in taking a wife ?
 Without a go-between it cannot be done.
 How do we proceed in planting hemp?
-The acres must be dressed length-wise and cross-
-wise.
+The acres must be dressed length-wise and crosswise.
 How do we proceed in taking a wife ?
 Announcement must first be made to our parents.”
 
@@ -13283,8 +12136,7 @@ In this way it was intended to guard the people
 the male).’
 
 34. The Master said, ‘A man in taking a wife
-does not take one of the same surname with him-
-self :—to show broadly the distinction (to be main-
+does not take one of the same surname with himself :—to show broadly the distinction (to be main-
 tained between man and wife). Hence, when a man
 is buying a concubine, if he do not know her surname,
 
@@ -13300,13 +12152,11 @@ simply saying “ W4,” and the record of her death is
 “Mang (the elder) 3ze died?.” ’
 
 35. The Master said, ‘According to the rules, male
-and female do not give the cup to one another, ex-
-cepting at sacrifice, This was intended to guard the
+and female do not give the cup to one another, excepting at sacrifice, This was intended to guard the
 people against (undue freedom of intercourse) ; and
 yet the marquis of Yang killed the marquis of M4,
 and stole away his wife?» Therefore the presence
-of the wife at the grand entertainments was dis-
-allowed.’
+of the wife at the grand entertainments was disallowed.’
 
 36. The Master said, ‘With the son of a widow
 one does not have interviews :—this would seem to
@@ -13349,8 +12199,7 @@ with her; a widow should not wail at night; when a
 wife is ill, in asking for her, the nature of her illness
 should not be mentioned :—in this way it was sought
 to keep the people (from irregular connexions) ; and
-yet there are those who become licentious, and intro-
-duce disorder and confusion among their kindred.’
+yet there are those who become licentious, and introduce disorder and confusion among their kindred.’
 38. The Master said, ‘According to the rules of
 marriage, the son-in-law should go in person to meet
 the bride. When he is introduced to her father and
@@ -13402,16 +12251,14 @@ minute. Therefore the superior man is watchful
 over himself when he is alone.
 
 5. When there are no stirrings of pleasure, anger,
-sorrow, or joy, we call it the State of Equi-
-librium. When those feelings have been stirred,
+sorrow, or joy, we call it the State of Equilibrium. When those feelings have been stirred,
 and all in their due measure and degree, we call it
 the State of Harmony. This Equilibrium is
 ‘the great root (from which grow all the human
 actings) in the world; and this Harmony is the
 universal path (in which they should all proceed).
 
-6. Let the State of Equilibrium and Har-
-mony exist in perfection, and heaven and earth
+6. Let the State of Equilibrium and Harmony exist in perfection, and heaven and earth
 
 
 ? See the introductory notice, vol. xxvii, pp. 42, 43.
@@ -13444,16 +12291,13 @@ to make a perfectly happy world but his moral perfection, evidenced
 by his perfect conformity to the right path, the path of duty. ‘The
 superior man, in paragraph 3, has evidently the moral signification
 of the name in its highest degree. He is the man ‘who embodies
-the path (qa Me] x. AD The description of him in para-
-graph 4, that ‘ he is watchful over himself when alone,’ is, literally,
-that ‘he is watchful over his solitariness,—his aloneness,’ that ‘ soli-
-tariness’ being, I conceive, the ideal of his own nature to which every
+the path (qa Me] x. AD The description of him in paragraph 4, that ‘ he is watchful over himself when alone,’ is, literally,
+that ‘he is watchful over his solitariness,—his aloneness,’ that ‘ solitariness’ being, I conceive, the ideal of his own nature to which every
 man in his best and highest moments is capable of attaining.
 
 * See the introductory notice of Book XXV.
 
-* Formerly I translated this by ‘The superior man (embo-
-dies) the course of the mean.’ Zottoli gives for it, ‘Sapiens
+* Formerly I translated this by ‘The superior man (embodies) the course of the mean.’ Zottoli gives for it, ‘Sapiens
 vir tenet medium;’ Rémusat, ‘Le sage tient invariablement
 le milieu,’ and ‘Sapiens medio constat.’ The two characters
 Kung yung (4H hi) however, are evidently brought on from
@@ -13480,8 +12324,7 @@ man, and maintains himself in them; the small man
 presents the opposite of them, because he is the small
 man, and exercises no apprehensive caution.’
 
-8. The Master said, ‘ Perfect is the state of equi-
-librium and harmony! Rare have they long been
+8. The Master said, ‘ Perfect is the state of equilibrium and harmony! Rare have they long been
 among the people who could attain to it!’
 
 9. The Master said, ‘I know how it is that the
@@ -13492,8 +12335,7 @@ There is nobody but eats and drinks ; but they are
 few who can distinguish the flavours (of what they
 eat and drink)?.
 
-10. The Master said, ‘Ah! how is the path un-
-trodden!’
+10. The Master said, ‘Ah! how is the path untrodden!’
 
 11. The Master said, ‘Was not Shun grandly
 wise ? Shun loved to question others, and to study
@@ -13528,29 +12370,24 @@ let it go'’
 
 14. The Master said, ‘The kingdom, its states,
 and clans may be perfectly ruled; dignities and
-emoluments may be declined; but the state of equi-
-librium and harmony cannot be attained to.’
+emoluments may be declined; but the state of equilibrium and harmony cannot be attained to.’
 
 15. 3ze-l0’ asked about fortitude. 16. The Master
 said, ‘Do you mean the fortitude of the South, the
 fortitude of the North, or your fortitude?’ 17. To
 show forbearance and gentleness in teaching others ;
 and not to return conduct towards one’s self which
-is contrary to the right path:—this is the forti-
-tude of the South, and the good man makes it his
+is contrary to the right path:—this is the fortitude of the South, and the good man makes it his
 study. 18. To lie under arms, and to die without
 regret:—this is the bravery of the North, and the bold
 make it their study. 19. Therefore, the superior man
 cultivates a (friendly) harmony, and is not weak ;—
 how firm is he in his fortitude! He stands erect in
 the middle, and does not incline to either side ;—
-how firm is he in his fortitude! If right ways pre-
-vail in (the government of his state), he does not
+how firm is he in his fortitude! If right ways prevail in (the government of his state), he does not
 change from what he was in retirement ;—how firm
 is he in his fortitude! If bad ways prevail, he will
 die sooner than change ;—how firm is he in his
-
-
 fortitude !’
 20. The Master said, ‘To search for what is
 
@@ -13559,13 +12396,7 @@ fortitude !’
 
 2 27e-li was Kung YA, another celebrated disciple, famous for
 his bravery. ‘ Your fortitude, in paragraph 16, is probably the
-fortitude which you ought to cultivate, that described in para-
-
-
-graph 19g.
-
-
-304 THE Li Ki. BK, XXVIII.
+fortitude which you ought to cultivate, that described in paragraph 19g.
 
 
 mysterious!, and practise marvellous (arts), in order
@@ -13573,16 +12404,14 @@ to be mentioned with honour in future ages :—this
 is what I do not do. 21. The good man tries to
 proceed according to the (right) path, but when he
 has gone half-way, he abandons it ;—I am not able
-(so) to stop. 22. The superior man, acting in accord-
-ance with the state of equilibrium and harmony,
+(so) to stop. 22. The superior man, acting in accordance with the state of equilibrium and harmony,
 may be all unknown and unregarded by the world,
 but he feels no regret :—it is only the sage who is
 able for this?.
 
 23. ‘The way of the superior man reaches far and
 wide, and yet is secret. 24. Common men and women,
-however ignorant, may intermeddle with the know-
-ledge of it; but in its utmost reaches there is that
+however ignorant, may intermeddle with the knowledge of it; but in its utmost reaches there is that
 which even the sage does not know. Common men
 and women, however much below the ordinary
 standard of character,can carry it into practice; but in
@@ -13606,8 +12435,7 @@ appear, to illustrate what is meant by ‘the state of equilibrium
 and harmony.’ Yet there is a great want of definiteness and
 practical guidance about the utterances.
 
-* Who does not grumble occasionally at the weather, and dis-
-turbances apparently of regular order in the seasons?
+* Who does not grumble occasionally at the weather, and disturbances apparently of regular order in the seasons?
 
 
 SECT. I. KUNG YUNG. 305
@@ -13684,8 +12512,7 @@ respect to his words. 35. Is not the superior man
 characterised by a perfect sincerity ?
 
 36. ‘ The superior man does what is proper to the
-position in which he is; he does not wish to go be-
-yond it. In a position of wealth and honour, he does
+position in which he is; he does not wish to go beyond it. In a position of wealth and honour, he does
 what is proper to a position of wealth and honour.
 In a position of poverty and meanness, he does what
 is proper to a position of poverty and meanness.
@@ -13715,8 +12542,7 @@ the archer misses the centre of the target, he turns
 round and seeks for the cause of his failure in
 himself.
 
-41. ‘The way of the superior man may be com-
-pared to what takes place in travelling, when to go
+41. ‘The way of the superior man may be compared to what takes place in travelling, when to go
 far we must traverse the space that is near, and in
 ascending a height we must begin from the lower
 ground. 42. It is said in the Book of Poetry (II, i,
@@ -13755,8 +12581,7 @@ X 2
 
 cause all under Heaven to fast and purify themselves,
 and to array themselves in their richest dresses in
-order to attend at their sacrifices. Then, like over-
-flowing water, they seem to be over the heads, and
+order to attend at their sacrifices. Then, like overflowing water, they seem to be over the heads, and
 on the left and right (of their worshippers). 46. It
 is said in the Book of Poetry (III, iii, ode 2, 7),
 
@@ -13779,8 +12604,6 @@ his offerings; his descendants preserved (those to)
 himself. 49. Thus it was that with his great virtue
 he could not but obtain his position, his riches, his
 fame, and his long life. 50. Therefore Heaven, in
-
-
 statement that ‘the path cannot be left.’ They bear rather on the
 next statement of the first chapter, the manifestness of that which is
 most minute, and serve to introduce the subject of ‘ sincerity,’
@@ -13793,8 +12616,7 @@ Kwei Shan there. Rémusat renders the phrase simply by ‘les
 esprits, and in his Latin version by ‘spiritus geniique,’ as also
 does Zottoli, Wylie gives for it ‘the Spiritual Powers.’ Of course Au
 Hsf and all the Sung scholars take it, according to their philosophy,
-as meaning the phenomena of expansion and contraction, the dis-
-plays of the Power or Powers, working under Heaven, in nature.
+as meaning the phenomena of expansion and contraction, the displays of the Power or Powers, working under Heaven, in nature.
 
 
 SECT. I. KUNG YUNG. 309
@@ -13836,8 +12658,7 @@ were all within the four seas; his ancestral. temple
 enjoyed his offerings; and his descendants preserved
 those to himself. 55. It was in his old age that
 king Wd received the appointment (to the throne),
-and the duke of A4u completed the virtuous achieve-
-ments of Wan and Wa. He carried back the title
+and the duke of A4u completed the virtuous achievements of Wan and Wa. He carried back the title
 of king to Thai and Aji, sacrificing also to all the
 dukes before them with the ceremonies of the son
 
@@ -13853,8 +12674,7 @@ officer, the former was buried with the ceremonies
 due to a Great officer, and sacrificed to with those
 due by an inferior officer. If the father were an
 ordinary officer, and the son a Great officer, the
-burial was that of an ordinary officer, and the sacri-
-fices those of a Great officer. The one year's
+burial was that of an ordinary officer, and the sacrifices those of a Great officer. The one year's
 mourning extended up to Great officers; the three
 years’ mourning extended to the son of Heaven
 (himself), In the mourning for a father or mother
@@ -13902,8 +12722,7 @@ perfection of filial duty.
 
 59. ‘By the ceremonies of the border sacrifices (to
 Heaven and Earth) they served God, and by those
-of the ancestral temple they sacrificed to their fore-
-fathers’. 60. If one understood the ceremonies of
+of the ancestral temple they sacrificed to their forefathers’. 60. If one understood the ceremonies of
 the border sacrifices and the meaning of the sacrifices
 of the ancestral temple, it would be as easy for him
 to rule a state as to look into his palm?.’
@@ -13933,8 +12752,7 @@ Section II.
 1. Duke Ai asked about government’. The
 Master said, ‘The government of Wan and Wd is
 exhibited in (the Records),—the tablets of wood and
-bamboo. Let there be the men, and their govern-
-ment would (again) flourish ; but without the men,
+bamboo. Let there be the men, and their government would (again) flourish ; but without the men,
 their government must cease. 2. With the (right)
 men the growth of government is rapid, (just as)
 in the earth the growth of vegetation is rapid.
@@ -13945,8 +12763,7 @@ got by (the ruler’s) own character. That character
 is to be cultivated by his pursuing the right course.
 That course is to be cultivated by benevolence.
 6. Benevolence is (the chief element in) humanity °,
-and the greatest exercise of it is in the love of rela-
-tives. Righteousness is (the accordance of actions
+and the greatest exercise of it is in the love of relatives. Righteousness is (the accordance of actions
 with) what is right, and the greatest exercise of it is
 in the honour paid to the worthy. The decreasing
 
@@ -13961,34 +12778,27 @@ his own way of thinking.
 of the text. The old commentators took a different view, which
 appears to me, and would appear to my readers, very absurd.
 
-§ Literally, ‘Benevolence is Man (44> 27 th) ;’ a remark-
-able saying, found elsewhere in the Lt A?, and also in Mencius.
-The value of it is somewhat marred by what follows about ‘ righteous-
-ness’ and ‘ propriety.’
+§ Literally, ‘Benevolence is Man (44> 27 th) ;’ a remarkable saying, found elsewhere in the Lt A?, and also in Mencius.
+The value of it is somewhat marred by what follows about ‘ righteousness’ and ‘ propriety.’
 
 
 SECT. IT. KUNG YUNG. 313
 er
-
-
 measures in the love of relatives, and the steps in
 the honour paid to the worthy, are produced by (the
 principle of) propriety. 7. When those in inferior
 situations do not obtain (the confidence of) their
-superiors, the people cannot be governed success-
-fully’, 8. Therefore the wise ruler should not
+superiors, the people cannot be governed successfully’, 8. Therefore the wise ruler should not
 neglect the cultivation of his character. Desiring
 to cultivate his character, he should not neglect to
 serve his parents. Desiring to serve his parents,
 he should not neglect to know men. Desiring to
 know men, he should not neglect to know Heaven.
-9. The universal path for all under heaven is five-
-fold, and the (virtues) by means of which it is
+9. The universal path for all under heaven is fivefold, and the (virtues) by means of which it is
 trodden are three. There are ruler and minister;
 father and son; husband and wife; elder brother
 and younger; and the intercourse of friend and
-friend:—(the duties belonging to) these five (relation-
-ships) constitute the universal path for all. Wisdom,
+friend:—(the duties belonging to) these five (relationships) constitute the universal path for all. Wisdom,
 benevolence, and fortitude:—these three are the
 universal virtues of all. That whereby these are
 carried into exercise is one thing* 10. Some are
@@ -14005,8 +12815,7 @@ again farther on in its proper place. It has slipped in here by
 mistake. There is a consent of opinion, ancient and modern, on
 this point.
 
-2 ‘One thing ;’ literally ‘one,’ which might be translated ‘ sin-
-gleness,’ meaning, probably, the ‘solitariness’ of chapter i, or the
+2 ‘One thing ;’ literally ‘one,’ which might be translated ‘ singleness,’ meaning, probably, the ‘solitariness’ of chapter i, or the
 ‘sincerity ’ of which we read so often in the sequel.
 
 
@@ -14028,8 +12837,7 @@ states and families. |
 
 13. ‘All who have the government of the kingdom
 with its states and families have nine standard rules
-to follow :—the cultivation of themselves; the honour-
-ing of the worthy; affection towards their relatives ;
+to follow :—the cultivation of themselves; the honouring of the worthy; affection towards their relatives ;
 respect towards their great ministers; kind and
 sympathetic treatment of the whole body of officers ;
 dealing with the mass of the people as their children ;
@@ -14041,8 +12849,7 @@ the kindly cherishing of the princes of the states.
 set up (the example of) the course (which all should
 pursue) ; by his honouring of the worthy, he will be
 preserved from errors of judgment; by his showing
-affection towards his relatives, there will be no dis-
-satisfaction among his uncles and brethren; by
+affection towards his relatives, there will be no dissatisfaction among his uncles and brethren; by
 respecting the great ministers he will be kept
 from mistakes; by kindly treatment of the whole
 body of officers, they will be led to make the most
@@ -14059,14 +12866,12 @@ SECT. ll. KUNG YUNG. 315
 grateful return for his courtesies; by dealing with
 the mass of the people as his children, they will be
 drawn to exhort one another (to what is good); by
-encouraging the resort of artisans, his wealth for ex-
-penditure will be rendered sufficient ; by indulgent
+encouraging the resort of artisans, his wealth for expenditure will be rendered sufficient ; by indulgent
 treatment of men from a distance, they will come to
 him from all quarters ; by his kindly cherishing of the
 princes of the states, all under heaven will revere him.
 
-15. ‘The adjustment of all his thoughts, purifica-
-tion, arraying himself in his richest dresses, and the
+15. ‘The adjustment of all his thoughts, purification, arraying himself in his richest dresses, and the
 avoiding of every movement contrary to the rules of
 propriety ;—this is the way in which (the ruler) must
 cultivate his own character. Discarding slanderers,
@@ -14090,26 +12895,17 @@ rations and allowances in proportion to the work
 done :—this is the way in which he will stimulate the
 artisans. Escorting them on their departure, and
 meeting them on their coming, commending the
-good among them and showing pity to the incom-
-
-
-316 THE Li ki. BK, XXVIII.
-
-
-petent:—this is the way in which he will manifest his
-indulgent treatment of men from a distance. Con-
-tinuing families whose line of succession has been
+good among them and showing pity to the incompetent:—this is the way in which he will manifest his
+indulgent treatment of men from a distance. Continuing families whose line of succession has been
 broken, reviving states that have ceased to exist,
 reducing confusion to order, supporting where there
 is peril; having fixed times for receiving the princes
 themselves and their envoys; sending them away
-after liberal treatment and with liberal gifts, and re-
-quiring from them small offerings on their coming :—
+after liberal treatment and with liberal gifts, and requiring from them small offerings on their coming :—
 this is the way in which he will cherish with kindness
 the princes of the states.
 
-16. ‘All who have the government of the king-
-dom with its states and families have these nine
+16. ‘All who have the government of the kingdom with its states and families have these nine
 standard rules to attend to. That whereby they are
 carried into exercise is one thing. In all things
 success depends on previous preparation ; without
@@ -14117,8 +12913,7 @@ such preparation there is failure. If what is to be
 spoken be determined beforehand, there will be no
 stumbling in the utterance. If the things to be done
 be determined beforehand, there will be no difficulty
-with them. If actions to be performed be deter-
-mined beforehand, there will be no difficulty with
+with them. If actions to be performed be determined beforehand, there will be no difficulty with
 them. If actions to be performed be determined
 beforehand, there will be no sorrow or distress in
 connexion with them. If the courses to be pursued
@@ -14129,8 +12924,7 @@ be inexhaustible 1.
 
 
 * The ‘one thing’ in this paragraph carries us back to the same
-phrase in paragraph 9. If we confine our attention to this para-
-graph alone, we shall say, with Aang and Ying-té, ‘the one thing’
+phrase in paragraph 9. If we confine our attention to this paragraph alone, we shall say, with Aang and Ying-té, ‘the one thing’
 is the ‘ preparation beforehand,’ of which it goes on to speak; and
 it seems to be better not to grope here for a more mysterious
 meaning.
@@ -14163,14 +12957,12 @@ is right without any effort, and apprehends without
 any exercise of thought ;—he is the sage? who
 
 
-1 Literally, ‘that he is not sincere,’ which is Mr. Wylie’s render-
-ing; or, as I rendered it in 1861, ‘ finds a want of sincerity.’ But
+1 Literally, ‘that he is not sincere,’ which is Mr. Wylie’s rendering; or, as I rendered it in 1861, ‘ finds a want of sincerity.’ But
 in the frequent occurrence of ak in the ‘ Sequel of the Treatise,’
 ‘sincerity’ is felt to be an inadequate rendering of it. Zottoli
 renders the clause by ‘ Si careat veritate, integritate,’ and says in a
 note, ‘ ak est naturalis entis perfectio, quae rei convenit juxta
-genuinum Creatoris protypon, quaeque a creatore infunditur ; pro-
-indeque est rei veritas, seu rei juxta veritatem perfectio.’ It seems
+genuinum Creatoris protypon, quaeque a creatore infunditur ; proindeque est rei veritas, seu rei juxta veritatem perfectio.’ It seems
 to me that this ideal perfection, as belonging to all things, which
 God made ‘ good,’ is expressed by ate in the last clause; and that
 the realisation of that perfection by man, as belonging to his own
@@ -14194,8 +12986,7 @@ accurately about it; thinks carefully over it ; clearly
 discriminates it ; and vigorously practises it. While
 there is anything he has not studied, or in what he
 has studied there is anything he cannot (understand),
-he will not intermit his labour. While there is any-
-thing he has not asked about, or anything in what he
+he will not intermit his labour. While there is anything he has not asked about, or anything in what he
 has asked about that he does not know, he will not
 intermit his labour. While there is anything he has
 not thought over, or anything in what he has
@@ -14213,15 +13004,13 @@ use a thousand. Let a man proceed in this way,
 and though stupid, he is sure to become intelligent ;
 though weak, he is sure to become strong.’
 
-21. The understanding (of what is good), spring-
-ing from moral perfection, is to be ascribed to the
+21. The understanding (of what is good), springing from moral perfection, is to be ascribed to the
 nature ; moral perfection springing from the under-
 
 
 ‘sanctus vir, ‘un saint,’ ‘the holy man.’ I prefer, after all, to adhere to
 the rendering, ‘le sage,’ ‘ the sage.’ The sage is the ideal man; the
-saint is the man sanctified by the Spirit of God. Humanity pre-
-dominates in the former concept; Divinity in the latter. The ideas
+saint is the man sanctified by the Spirit of God. Humanity predominates in the former concept; Divinity in the latter. The ideas
 of morality and goodness belong to both names. See Mencius,
 VII, ix, 25, for his graduation of the appellations of good men.
 
@@ -14250,13 +13039,11 @@ with heaven and earth.
 23. Next to the above is he who cultivates to the
 utmost the shoots (of goodness in his nature)*, till
 he becomes morally perfect. This perfection will
-then obtain embodiment ; embodied, it will be mani-
-fested ; manifested, it will become brilliant; brilliant,
+then obtain embodiment ; embodied, it will be manifested ; manifested, it will become brilliant; brilliant,
 
 
 ? With this paragraph there commences the last chapter of the
-Treatise. 3ze-sze, it is said, takes up in it the commencing utter-
-ances in paragraph 1g, and variously illustrates and prosecutes them.
+Treatise. 3ze-sze, it is said, takes up in it the commencing utterances in paragraph 1g, and variously illustrates and prosecutes them.
 From the words ‘ nature and instruction’ it is evident how he had
 the commencing chapter of the Treatise in his mind.
 
@@ -14295,8 +13082,7 @@ who is entirely perfect is like a Spirit %.
 meaning ‘ crooked,’ often used as the antithesis of ‘straight;’ but
 the title of the first Book in this collection shows that it need
 not be used only of what is bad. In that case, the phrase EX Hh
-would mean—‘ carries to the utmost what is bad.’ Zottoli’s render-
-ing of it by ‘promovere declinatam naturam’ is inadmissible. Nor
+would mean—‘ carries to the utmost what is bad.’ Zottoli’s rendering of it by ‘promovere declinatam naturam’ is inadmissible. Nor
 can we accept Rémusat’s ‘diriger efforts vers une seule vertu,
 which Wylie follows, merely substituting ‘object’ for ‘ vertu.’ See
 the introduction on the title of the first Book. Very much to the
@@ -14312,8 +13098,7 @@ Sibirica; of which I possess a bundle brought from the tomb of
 Confucius in 1873. It is difficult to say anything about ‘the four
 limbs,’ which were to Kang ‘ the four feet of the tortoise.’
 
-* «The Spirit-man’ is, according to Mencius’ graduation, an ad-
-vance on the Sage or Holy man, one whose action is mysterious
+* «The Spirit-man’ is, according to Mencius’ graduation, an advance on the Sage or Holy man, one whose action is mysterious
 and invisible, like the power of Heaven and Earth working in nature.
 Chinese predicates about him could not go farther.
 
@@ -14321,16 +13106,13 @@ Chinese predicates about him could not go farther.
 SECT. Il. KUNG YUNG. 321
 EE a a
 
-25. Perfection is seen in (its possessor’s) self-
-completion ; and the path (which is its embodiment),
+25. Perfection is seen in (its possessor’s) selfcompletion ; and the path (which is its embodiment),
 in its self-direction.
 
 26. Perfection is (seen in) the beginning and end
-of (all) creatures and things. Without this perfec-
-tion there would be no creature or thing.
+of (all) creatures and things. Without this perfection there would be no creature or thing.
 
-27. Therefore the superior man considers per-
-fection as the noblest of all attainments.
+27. Therefore the superior man considers perfection as the noblest of all attainments.
 
 28. He who is perfect does not only complete
 himself; his perfection enables him to complete
@@ -14341,8 +13123,7 @@ completion of other beings shows his wisdom.
 the way in which the union of the external and
 internal is effected.
 
-29. Hence, whenever he exercises it, (the opera-
-tion) is right.
+29. Hence, whenever he exercises it, (the operation) is right.
 
 30. Thus it is that entire perfection is unresting ;
 unresting, it continues long; continuing long, it
@@ -14351,11 +13132,9 @@ reaching far, it becomes large and substantial; large
 and substantial, it becomes high and brilliant.
 
 31. By being large and substantial it contains
-(all) things. By being high and brilliant, it over-
-spreads (all) things. By reaching far and continuing
+(all) things. By being high and brilliant, it overspreads (all) things. By reaching far and continuing
 long, it completes (all) things. By its being so large
-and substantial, it makes (its possessor) the co-
-equal of earth; by its height and brilliancy, it
+and substantial, it makes (its possessor) the coequal of earth; by its height and brilliancy, it
 makes him the co-equal of heaven ; by its reaching
 far and continuing long, it makes him infinite.
 
@@ -14364,9 +13143,6 @@ manifestation he becomes displayed; without any
 movement he effects changes; without any exertion
 
 [28] Y
-
-
-22 THE Li Ki. BK. XXVIII.
 
 
 he completes. The way of heaven and earth may
@@ -14380,8 +13156,7 @@ to be large; to be substantial; to be high; to be
 brilliant; to be far-reaching ; to be long-continuing.
 
 35. There now is this heaven; it is only this
-bright shining spot, but when viewed in its inex-
-haustible extent, the sun, moon, stars, and constella-
+bright shining spot, but when viewed in its inexhaustible extent, the sun, moon, stars, and constella-
 tions of the zodiac are suspended in it, and all things
 are overspread by it. There is this earth ; it is only
 a handful of soil, but when regarded in its breadth
@@ -14430,8 +13205,7 @@ the right man, and then it is trodden. Hence it is
 said, ‘If there be not perfect virtue, the perfect
 path cannot be exemplified.’
 
-39. Therefore the superior man honours the vir-
-tuous nature, and pursues the path of inquiry and
+39. Therefore the superior man honours the virtuous nature, and pursues the path of inquiry and
 study (regarding it); seeking to carry it out in its
 breadth and greatness, so as to omit none of the
 exquisite and minute points (which it embraces);
@@ -14443,10 +13217,8 @@ generous, earnestness in the esteem and practice of
 all propriety
 
 40. Therefore, when occupying a high situation
-he is not proud, and in a low situation he is not in-
-subordinate. If the state is well-governed, his words
-are able to promote its prosperity ; and if it be ill-
-governed, his silence is sufficient to secure forbear-
+he is not proud, and in a low situation he is not insubordinate. If the state is well-governed, his words
+are able to promote its prosperity ; and if it be illgoverned, his silence is sufficient to secure forbear-
 ance (for himself).
 
 41. Is not this what is said in the Book of Poetry
@@ -14456,7 +13228,6 @@ ance (for himself).
 Protecting his own person ?’
 
 42. The Master said, ‘ Let a man who is ignorant
-
 be fond of using his own judgment ; let one.who is
 Y 2
 
@@ -14474,8 +13245,7 @@ belong to discuss the subject of ceremonial usages ;
 to fix the measures; and to determine (the names
 of) the written characters.
 
-44. Now, throughout the whole kingdom, car-
-riages have all wheels of the same breadth of rim;
+44. Now, throughout the whole kingdom, carriages have all wheels of the same breadth of rim;
 all writing is with the same characters; and for
 conduct there are the same rules. .
 
@@ -14485,8 +13255,7 @@ make ceremonies or music. One may have the virtue,
 but if he have not the throne, he in the same way
 should not presume to make ceremonies or music.
 
-46. The Master said,‘I might speak of the cere-
-monies of Hsia, but Ai could not sufficiently attest
+46. The Master said,‘I might speak of the ceremonies of Hsia, but Ai could not sufficiently attest
 (my words). I have learned the ceremonies of Yin,
 and they are preserved in Sung. I have learned
 the ceremonies of Adu, and they are now used.
@@ -14497,8 +13266,7 @@ kingdom attach the due importance to (those) three
 points 1, there are likely to be few errors (among the
 people).
 
-48. However excellent may have been (the regu-
-lations of) those of former times, they cannot be
+48. However excellent may have been (the regulations of) those of former times, they cannot be
 attested. Not being attested, they cannot command
 credence. Not commanding credence, the people
 
@@ -14521,14 +13289,12 @@ would not follow them.
 rooted in his own character and conduct, and attested
 by the multitudes of the people. He examines
 (his institutions) by comparison with those of the
-founders of the three dynasties, and finds them with-
-out mistake. He sets them up before heaven and
+founders of the three dynasties, and finds them without mistake. He sets them up before heaven and
 earth, and there is nothing in them contrary to
 (their mode of operation). He presents himself
 with them before Spiritual Beings, and no doubts
 about them arise. He is prepared to wait for the
-rise of a sage a hundred ages hence, and has no mis-
-givings. That he can present himself with them
+rise of a sage a hundred ages hence, and has no misgivings. That he can present himself with them
 before Spiritual Beings, without any doubts about
 them arising, shows that he knows Heaven; that he
 is prepared to wait for the rise of a sage a hundred
@@ -14556,8 +13322,7 @@ Both day and night, more clear.’
 
 
 Never has a superior man obtained an early
-renown throughout the kingdom who did not cor-
-respond to this description.
+renown throughout the kingdom who did not correspond to this description.
 
 52. Kung-ni handed down (the views of) Y4o and
 Shun as if they had been his ancestors, and elegantly
@@ -14571,28 +13336,21 @@ their supporting and containing, their overshadowing
 and curtaining all things. He may be compared to
 the four seasons in their alternating progress, and
 to the sun and moon in their successive shining.
-All things are nourished together without their injur-
-ing one another; the courses (of the seasons and of the
+All things are nourished together without their injuring one another; the courses (of the seasons and of the
 sun and moon) proceed without any collision among
 them. The smaller energies are like river-currents ;
-the greater energies are seen in mighty transforma-
-tions. It is thiswhich makes heaven and earth so great.
+the greater energies are seen in mighty transformations. It is thiswhich makes heaven and earth so great.
 
 54. It is only he possessed of all sagely qualities
 that can exist under heaven, who shows himself
-quick in apprehension, clear in discernment, of far-
-reaching intelligence and all-embracing knowledge,
+quick in apprehension, clear in discernment, of farreaching intelligence and all-embracing knowledge,
 fitted to exercise rule; magnanimous, generous,
-benign, and mild, fitted to exercise forbearance; impul-
-sive, energetic, firm, and enduring, fitted to maintain a
+benign, and mild, fitted to exercise forbearance; impulsive, energetic, firm, and enduring, fitted to maintain a
 strong hold; self-adjusted, grave, never swerving
-from the mean, and correct, fitted to command re-
-spect ; accomplished, distinctive, concentrative, and
+from the mean, and correct, fitted to command respect ; accomplished, distinctive, concentrative, and
 searching, fitted to exercise discrimination.
 
 55. All-embracing is he and vast, deep and active
-
-
 as a fountain, sending forth in their due seasons
 these (qualities).
 
@@ -14657,11 +13415,9 @@ it is the way of the small man to seek notoriety,
 while he daily goes more and more to ruin.
 
 61. It is characteristic of the superior man,
-appearing insipid, yet not to produce satiety ; pre-
-ferring a simple negligence, yet to have his accom-
+appearing insipid, yet not to produce satiety ; preferring a simple negligence, yet to have his accom-
 plishments recognised ; seeming mild and simple, yet
-to be discriminating. He knows how what is dis-
-tant lies in what isnear. He knows where the wind
+to be discriminating. He knows how what is distant lies in what isnear. He knows where the wind
 proceeds from. He knows how what is minute
 becomes manifested’. He, we may be assured, will
 enter (the innermost recesses of) virtue.
@@ -14707,8 +13463,7 @@ Without contention, and with one accord,
 To beg the presence of the honoured lord.’
 
 
-65. Therefore the superior man does not use re-
-wards, and the people are stimulated (to virtue); he
+65. Therefore the superior man does not use rewards, and the people are stimulated (to virtue); he
 does not show anger, and the people are awed more
 than by hatchets and battle-axes. It is said in the
 Book of Poetry (IV, i, sect. 1, ode 4),
@@ -14766,8 +13521,7 @@ of severity, he inspires awe; without using words,
 he is believed.
 
 2. The Master said, ‘The superior man takes no
-erroneous step before men, nor errs in the expres-
-sion of his countenance, nor in the language of his
+erroneous step before men, nor errs in the expression of his countenance, nor in the language of his
 speech. Therefore his demeanour induces awe, his
 countenance induces fear, and his words produce
 confidence. It is said in The Punishments of Fa
@@ -14815,8 +13569,7 @@ single day ;—how should he be like (a small man)
 who will not end his days (in honour)?’
 
 7. The Master said, ‘Vigil and fasting are required
-(as a preparation) for serving the spirits (in sacri-
-fice); the day and month in which to appear before
+(as a preparation) for serving the spirits (in sacrifice); the day and month in which to appear before
 the ruler are chosen beforehand :—these observances
 were appointed lest the people should look on these
 things without reverence.’
@@ -14846,8 +13599,7 @@ that is troublesome, and I do not instruct the
 troublesome’.” ’
 
 10. These were the words of the Master :—
-‘(Humanity, of which the characteristic is) Benevo-
-lence, is the Pattern for all under Heaven; Righteous-
+‘(Humanity, of which the characteristic is) Benevolence, is the Pattern for all under Heaven; Righteous-
 ness is the Law for all under Heaven; and the
 Reciprocations (of ceremony) are for the Profit of
 all under Heaven.’
@@ -14891,15 +13643,13 @@ the sentiment or words of the sage.
 BK. XXIX,. PIAO kt. 333
 a ee eS
 matter, or who hates what is contrary to humanity
-without being apprehensive (of some evil). There-
-fore the superior man reasons about the path to be
+without being apprehensive (of some evil). Therefore the superior man reasons about the path to be
 trodden from the standpoint of himself, and lays
 down his laws from the (capabilities of the) people.’
 
 14. The Master said, ‘(The virtues of) humanity
 appear in three ways. (In some cases) the work of
-humanity is done, but under the influence of dif-
-ferent feelings. In these, the (true character of
+humanity is done, but under the influence of different feelings. In these, the (true character of
 the) humanity cannot be known; but where there is
 some abnormal manifestation of it, in those the true
 character can be known!. Those to whom it really
@@ -14944,8 +13694,7 @@ humanity there are various degrees ; righteousness
 is now long, now short, now great, now small. Where
 there is a deep and compassionate sympathy in the
 heart, we have humanity evidenced in the love of
-others; where there is the following of (old) exam-
-ples, and vigorous endeavour, we have the employ-
+others; where there is the following of (old) examples, and vigorous endeavour, we have the employ-
 ment of humanity for the occasion. It is said in
 the Book of Poetry (III, i, ode 10, 6),
 
@@ -14958,8 +13707,7 @@ His wise plans and his throne
 And our Wd was a sovereign true.”
 
 
-‘That was a humanity extending to many gener-
-ations. In the Lessons from the States it is said
+‘That was a humanity extending to many generations. In the Lessons from the States it is said
 (I, iii, ode 10, 3),
 
 “Person slighted, life all blighted,
@@ -14976,8 +13724,6 @@ the road cannot accomplish all its distance. There
 is nothing that has so many different degrees as (the
 course of) humanity ; and thus he who tries to nerve
 himself to it finds it a difficult task. Therefore when
-
-
 is occupied with the subject of humanity, or the whole nature of
 man, of which benevolence is the chief element and characteristic,
 as the most powerful form of example.
@@ -15017,8 +13763,7 @@ it is said (II, vii, ode 4, 5),
 The great way I pursued.”’
 
 
-The Master said, ‘So did the poets love (the ex-
-hibition of) humanity. (They teach us how) one
+The Master said, ‘So did the poets love (the exhibition of) humanity. (They teach us how) one
 should pursue the path of it, not giving over in the
 way, forgetting his age, taking no thought that the
 years before him will not be sufficient (for his task),
@@ -15036,8 +13781,7 @@ men err in what they love ;—and hence it is easy to
 apologise for the errors of those who are seeking
 this humanity*.’
 
-21. The Master said, ‘Courtesy is near to pro-
-priety ; economy is near to humanity ; good faith is
+21. The Master said, ‘Courtesy is near to propriety ; economy is near to humanity ; good faith is
 near to the truth of things. When one with respect
 and humility practises these (virtues), though he may
 fall into errors, they will not be very great. Where
@@ -15053,8 +13797,7 @@ For virtue’s structure, broad and high.”’
 
 22. The Master said, ‘Long has the attainment
 of perfect humanity been difficult among men; it is
-only the superior man who is able to reach it. There-
-fore the superior man does not distress men by
+only the superior man who is able to reach it. Therefore the superior man does not distress men by
 requiring from them that which (only) he himself
 can do, nor put them to shame because of what they
 cannot do. Hence the sage, in laying down rules
@@ -15063,8 +13806,7 @@ gives them his instructions so that they shall be able
 to stimulate themselves to endeavour, and have the
 feeling of shame if they do not put them in practice.
 (He enjoins) the rules of ceremony to regulate the
-conduct; good faith to bind it on them; right de-
-meanour to set it off; costume to distinguish it; and
+conduct; good faith to bind it on them; right demeanour to set it off; costume to distinguish it; and
 friendship to perfect it :—-he desires in this way to
 produce a uniformity of the people. It is said in
 the Hsiao Y4 (V, ode 5, 3),
@@ -15092,8 +13834,7 @@ have the demeanour, and not the style of speech ;
 ashamed to have the style of speech, and not the
 virtues ; ashamed to have the virtues, and not the
 conduct proper to them. Thus it is that when the
-superior man has on his sackcloth and other mourn-
-ing, his countenance wears an air of sorrow; when he
+superior man has on his sackcloth and other mourning, his countenance wears an air of sorrow; when he
 wears the square-cut dress and square-topped cap,
 his countenance wears an air of respect; and when
 he wears his mail-coat and helmet, his countenance
@@ -15114,8 +13855,7 @@ speaks,’ say the Kf/ien-lung editors, ‘of the perfect humanity,
 showing that to rest naturally in this is very difficult, yet it is
 possible by self-government to advance from the practice of it, with
 a view to one’s advantage, to that natural resting in it; and by
-means of instruction to advance from the practice of it by con-
-straint to the doing so for its advantages.’
+means of instruction to advance from the practice of it by constraint to the doing so for its advantages.’
 
 
 [23] Z
@@ -15127,8 +13867,7 @@ straint to the doing so for its advantages.’
 24. These were the words of the Master :—‘ What
 the superior man calls righteousness is, that noble
 and mean all have the services which they discharge
-throughout the kingdom. The son of Heaven him-
-self ploughs the ground for the rice with which to
+throughout the kingdom. The son of Heaven himself ploughs the ground for the rice with which to
 fill the vessels, and the black millet from which to
 distil the spirit to be mixed with fragrant herbs, for
 the services of God, and in the same way the feudal
@@ -15200,16 +13939,12 @@ to do honour to the fame (of the individuals) ; but
 they limited themselves to one excellence (in the
 character) ;—they would have been ashamed if the
 name had been beyond the actions (of the life). In
-accordance with this the superior man does not him-
-self magnify his doings, nor himself exalt his merit,
-seeking to be within the truth; actions of an extra-
-ordinary character he does not aim at, but seeks to
+accordance with this the superior man does not himself magnify his doings, nor himself exalt his merit,
+seeking to be within the truth; actions of an extraordinary character he does not aim at, but seeks to
 occupy himself only with what is substantial and
 good, He displays prominently the good qualities
 of others, and celebrates their merits, seeking to place
 himself below them in the scale of worth. There-
-
-22
 
 
 340 THE Li Kt. BK. XXIX.
@@ -15238,8 +13973,7 @@ he makes them pleased and restful. With all their
 happiness, there is no wild extravagance; with all
 their observance of ceremonial usages, there is the
 feeling of affection. Notwithstanding his awing
-gravity, they are restful; notwithstanding his son-
-like gentleness, they are respectful. Thus he causes
+gravity, they are restful; notwithstanding his sonlike gentleness, they are respectful. Thus he causes
 
 
 1 With this ends the 4th section of the Book, ‘ On the service of
@@ -15260,8 +13994,6 @@ the father and the gentleness of the mother.
 
 BK, XXIX. PIAO xt. 341
 a ell ne ceil
-
-
 them to honour him as their father, and love him as
 their mother. There must be all this before he is
 the father and mother of his people. Could any one
@@ -15293,8 +14025,7 @@ served the manes of the departed, and respected
 Spiritual Beings, keeping them at a distance, while
 they brought the people near, and made them loyal ;
 they put first the (attraction) of emolument, and last
-the terrors of power; first rewards, and then punish-
-ments; showing their affection (for the people), but
+the terrors of power; first rewards, and then punishments; showing their affection (for the people), but
 
 
 1 The ruler-father of the previous paragraph is here contrasted
@@ -15313,14 +14044,12 @@ accomplishments.
 ‘Under the Yin dynasty, they honoured Spiritual
 Beings, and led the people on to serve them; they
 put first the service of their manes, and last the
-usages of ceremony; first punishments, and then re-
-wards; giving honour (to the people), but not showing
+usages of ceremony; first punishments, and then rewards; giving honour (to the people), but not showing
 affection for them. The bad effect on the people was,
 that they became turbulent and were restless, striving
 to surpass one another without any sense of shame.
 
-‘Under the Aau dynasty, they honoured the cere-
-monial usages, and set a high value on bestowing
+‘Under the Aau dynasty, they honoured the ceremonial usages, and set a high value on bestowing
 (favours); they served the manes and respected
 Spiritual Beings, yet keeping them at a distance ;
 they brought the people near, and made them loyal;
@@ -15368,15 +14097,13 @@ simplicity under Yin and X4u to neutralise their
 forms.’
 
 34. These were the words of the Master :—
-‘Although in subsequent ages there arose (distin-
-guished sovereigns), yet none of them succeeded in
+‘Although in subsequent ages there arose (distinguished sovereigns), yet none of them succeeded in
 equalling the Ti of (the line of) Yi. He ruled over
 all under heaven, but, while he lived, he had not a
 selfish thought, and when he died, he did not make
 his son great (with the inheritance). He treated the
 people as his sons, as if he had been their father and
-mother. He had a deep and compassionate sym-
-pathy for them (like their mother); he instructed
+mother. He had a deep and compassionate sympathy for them (like their mother); he instructed
 them in loyalty and what was profitable (like their
 father). While he showed his affection for them, he
 also gave them honour; in his natural restfulness,
@@ -15398,11 +14125,9 @@ and stood in awe of righteousness; were ashamed of
 lavish expenditure, and set little. store by their
 accumulation of substance; loyal, but not coming
 into collision with their sovereign ; righteous, and
-yet deferential to him; accomplished, and yet rest-
-ful; generous, and yet discriminating. It is said in
+yet deferential to him; accomplished, and yet restful; generous, and yet discriminating. It is said in
 Fai on Punishments, “ He sought to awe the people
-by his virtue, and all were filled with dread; he pro-
-ceeded to erlighten them by his virtue, and all were
+by his virtue, and all were filled with dread; he proceeded to erlighten them by his virtue, and all were
 enlightened.” Who but the Ti of (the line of) Yii
 could have been able to do this!?’ (Sh, V, xxvii, 7.)
 35. These were the words of the Master :—‘(A
@@ -15423,8 +14148,7 @@ the Master,’ and in no case ended with that phraseology. Paragraph
 35 rightly begins with it. It is out of place, or rather misplaced,
 in this; and belongs, I believe, to another place, as we shall see.
 We should read here, instead of it, ‘The Master said.’ With regard
-to the greater part of the section, its genuineness is liabie to sus-
-picion, and is indeed denied by the majority of commentators,
+to the greater part of the section, its genuineness is liabie to suspicion, and is indeed denied by the majority of commentators,
 including the Ahien-lung editors. The sentiments are more
 Taoistic than Confucian. See the introductory notice of the
 Book.
@@ -15438,8 +14162,7 @@ more few.’
 
 36. The Master said, ‘In the service of a ruler,
 when great words are spoken to (and accepted by)
-him, great advantages (to the state) may be ex-
-pected from them; and when words of small import-
+him, great advantages (to the state) may be expected from them; and when words of small import-
 ance are presented to him, only small advantages
 are to be looked for. Therefore a superior man
 will not for words of small importance receive great
@@ -15477,9 +14200,7 @@ should (seek to) preserve the harmony (of his
 Hexagram 26, vol. xvi, page 234.
 
 
-346 THE Li xi. BK. XXIX.
-virtues). The chief minister should maintain correct-
-ness in all the departments. Great ministers should
+virtues). The chief minister should maintain correctness in all the departments. Great ministers should
 be concerned about all parts (of the kingdom).’
 
 40. The Master said, ‘In the service of a ruler
@@ -15528,8 +14249,7 @@ to live or to die (according to the will of the ruler),
 BK. XXIX, PIAO xt. 347
 
 
-but he should not allow himself to be led to do any-
-thing contrary to order or right.’
+but he should not allow himself to be led to do anything contrary to order or right.’
 
 45. The Master said, ‘In the service of a ruler,
 if it be in the army, (an officer) should not (try to)
@@ -15548,10 +14268,8 @@ spirit prefers (to attend to) his own affairs.” ’
 
 46. The Master said, ‘It is only the son of Heaven
 who receives his appointment from Heaven; officers
-receive their appointments from the ruler. There-
-fore if the ruler’s orders be conformed (to the mind
-of Heaven), his orders to his ministers are also con-
-formed to it; but if his orders be contrary (to that
+receive their appointments from the ruler. Therefore if the ruler’s orders be conformed (to the mind
+of Heaven), his orders to his ministers are also conformed to it; but if his orders be contrary (to that
 mind), his orders to them are also contrary to it.
 It is said in the Book of Poetry (I, iv, ode 5, 2),
 
@@ -15583,8 +14301,7 @@ of (mere) words appear.
 
 ‘In accordance with this, when a superior man is
 by the side of one occupied with the mourning rites,
-and cannot contribute to assist him in his expendi-
-ture, he does not ask him what it is; when he is
+and cannot contribute to assist him in his expenditure, he does not ask him what it is; when he is
 by the side of one who is ill, and cannot supply him
 with food, he does not ask what he -would like ;
 when he has a visitor for whom he cannot provide
@@ -15612,8 +14329,7 @@ he feeds them; and when he praises a man’s good
 qualities, he (goes on to) confer rank on him. It
 
 
-? With this commences the 7th section of the Book, but it com-
-mences irregularly with ‘the Master said,’ instead of ‘The words
+? With this commences the 7th section of the Book, but it commences irregularly with ‘the Master said,’ instead of ‘The words
 of the Master were ;’ see note above, on page 344.
 
 
@@ -15677,8 +14393,7 @@ point.
 
 53. ‘For the great (sacrificial) services there were
 (fixed) seasons and days; for the smaller services
-these were not fixed. They fixed them by divi-
-nation (near the time). (In divining) about external
+these were not fixed. They fixed them by divination (near the time). (In divining) about external
 affairs they used the odd days; and for internal
 affairs, the even. They did not go against the
 (intimations of the) tortoise-shell and stalks.’
@@ -15691,16 +14406,14 @@ had no occasion for dissatisfaction.’
 
 55. The Master said, ‘The sacrifices of Hau At
 were easily provided. His language was reverential;
-his desires were restricted; and the blessings re-
-ceived extended down to his descendants. It is said
+his desires were restricted; and the blessings received extended down to his descendants. It is said
 in the Book of Poetry (III, ii, ode 1, 8),
 
 “Hau At founded the sacrifice ;
 No one has failed in it,
 Down to the present day.”
 
-56. The Master said, ‘The shell and stalks em-
-ployed by the great men! must be held in awe and
+56. The Master said, ‘The shell and stalks employed by the great men! must be held in awe and
 reverence. But the son of Heaven does not divine
 by the stalks. While the princes are keeping guard
 in their states, they divine by the stalks. When the
@@ -15718,8 +14431,7 @@ BK. XXIX, PIAO Kt. 351
 
 
 own they do not divine by the stalks. They consult
-the tortoise-shell about the chambers and apart-
-ments of the houses (where they lodge). The son
+the tortoise-shell about the chambers and apartments of the houses (where they lodge). The son
 of Heaven does not so consult the tortoise-shell ;
 he stays always in the grand ancestral temples.’
 
@@ -15729,8 +14441,7 @@ vessels. On this account they do not fail to observe
 the set seasons and days, and do not act contrary
 to the intimations of the shell and stalks; thus
 seeking to serve with reverence the ruler and their
-superiors. In this way superiors are not trouble-
-some to the people, and the people do not take
+superiors. In this way superiors are not troublesome to the people, and the people do not take
 liberties with their superiors.’
 
 
@@ -15777,8 +14488,7 @@ punishments, their minds will be thinking of how
 
 1 See the introductory notice, vol. xxvii, pp. 45, 46.
 
-* Thus the Book begins as if it were another section of the pre-
-ceding Treatise.
+* Thus the Book begins as if it were another section of the preceding Treatise.
 
 * They are ‘easily known,’ there being nothing in the ruler’s
 method to make them deceitful.
@@ -15804,8 +14514,7 @@ laws.” In this way their people became bad, and
 4. The Master said, ‘Inferiors, in serving their
 superiors, do not follow what they command, but
 what they do. When a ruler loves anything, those
-below him are sure to doso much more. There-
-fore the superior should by all means be careful in
+below him are sure to doso much more. Therefore the superior should by all means be careful in
 what he likes and dislikes. This will make him an
 example to the people?
 
@@ -15825,8 +14534,7 @@ dependence.” It is said in the Ta Y4 (III, 1,
 ode 9, 3),
 
 
-1 This again looks very much as if this Treatise were a continu-
-ation of the last.
+1 This again looks very much as if this Treatise were a continuation of the last.
 [28] Aa
 
 
@@ -15854,8 +14562,7 @@ All their obedient homage bring.” ’
 7. The Master said, ‘The king’s words are (at
 first) as threads of silk; but when given forth, they
 become as cords. Or they are (at first) as cords ;
-but when given forth, they become as ropes. There-
-fore the great man does not take the lead in idle
+but when given forth, they become as ropes. Therefore the great man does not take the lead in idle
 speaking. The superior does not speak words
 which may be spoken indeed but should not be
 embodied in deeds; nor does he do actions which
@@ -15908,8 +14615,7 @@ ministers) below can have their doings related and
 remembered, then the ruler has no occasion to doubt
 his ministers, and the ministers are not led astray by
 their ruler. The Announcement of Yin says (Sha,
-IV, vi, 3), “There were I, Yin, and Thang; both pos-
-sessed the same pure virtue.” It is said in the
+IV, vi, 3), “There were I, Yin, and Thang; both possessed the same pure virtue.” It is said in the
 Book of Poetry (I, xiv, ode 3, 3),
 
 “In soul so steadfast is that princely man,
@@ -15968,16 +14674,13 @@ because) the giving of rank and emoluments is
 
 BK. XXX, 8ZE f. 357
 i a ae
-unfit to stimulate the people to good, and (the inflic-
-tion of) punishments and penalties is unfit to make
+unfit to stimulate the people to good, and (the infliction of) punishments and penalties is unfit to make
 them ashamed (of evil). Therefore (the ruler) above
 must not be careless in punishing, nor lightly confer
 rank. Itis said in the Announcement to the Prince
-of Khang (Shi, V, ix, 8), “Deal reverently and un-
-derstandingly in your infliction of punishments ;”
+of Khang (Shi, V, ix, 8), “Deal reverently and understandingly in your infliction of punishments ;”
 and in the Punishments of Fa (Sha, V, xxvii, 12),
-“He spreads abroad his lessons to avert punish-
-ments.”’
+“He spreads abroad his lessons to avert punishments.”’
 
 14. The Master said, ‘When the great ministers
 are not on terms of friendly intimacy (with the
@@ -15986,8 +14689,7 @@ restful, this is because the loyalty (of the ministers)
 and the respect (of the ruler) are not sufficient, and
 the riches and rank conferred (on the former) are
 excessive. (The consequence is, that) the great
-ministers do not discharge their functions of govern-
-ment, and the ministers closer (to the ruler) form
+ministers do not discharge their functions of government, and the ministers closer (to the ruler) form
 parties against them. Therefore the great ministers
 should by all means be treated with respect; they
 are examples to the people; and ministers nearer
@@ -16001,8 +14703,7 @@ the great ministers will not be dissatisfied; the
 ministers closer to him will not be indignant; and
 those who are more remote will not be kept in
 obscurity. The duke of Sheh in his dying charge
-said, “Do not by little counsels ruin great enter-
-prises; do not for the sake of a favourite concubine
+said, “Do not by little counsels ruin great enterprises; do not for the sake of a favourite concubine
 
 
 358 THE Li Rt. BK. XXX.
@@ -16086,14 +14787,12 @@ ministers also did the same.”’
 17. The Master said, ‘ To the people the ruler is
 as their heart; to the ruler the people are as his
 body. When the heart is composed, the bocly is at
-ease; when the heart is reverent, the body is re-
-spectful; when the heart loves anything, the body
+ease; when the heart is reverent, the body is respectful; when the heart loves anything, the body
 is sure to rest in it. (So), when the ruler loves
 anything, the people are sure to desire it. The
 
 
 A
-260 THE Li Ki. BK. XXX.
 
 
 body is the complement of the heart, and a wound
@@ -16151,8 +14850,7 @@ BK, XXX. 3ZE i. 361
 inquiry, and firmly holds fast (what is proved); he
 remembers much, verifies it by inquiry, and makes
 it his own ; when he knows it exactly, he carries the
-substance of it into practice. It is said in the Kiin-
-khan (Sha, V, xxi, 5), “Going out and coming in,
+substance of it into practice. It is said in the Kiinkhan (Sha, V, xxi, 5), “Going out and coming in,
 seek the judgment of the people about things, till
 you find a general agreement upon them.” It is
 said in the Book of Poetry (I, xiv, ode 3, 1),
@@ -16194,10 +14892,7 @@ Behave with reverent mien.” ’
 
 
 22. The Master said, ‘The superior man will not
-voluntarily remain to share in private acts of kind-
-
-
-e)
+voluntarily remain to share in private acts of kinde)
 
 
 262 THE LI xt. BK. XXX.
@@ -16243,8 +14938,7 @@ What can be done? ’Tis past our reach.”
 belong to the conduct of the superior man ; but to predicate badness
 of him would be too daring. To justify the view which appears in
 my translation, the A/ien-lung editors, in their expansion of the
-meaning, after ‘the people,’ interpolate ‘who come under the trans-
-forming influence of his example.’
+meaning, after ‘the people,’ interpolate ‘who come under the transforming influence of his example.’
 
 
 BK. XXX. 32E f. 363
@@ -16292,17 +14986,13 @@ evidently very corrupt, and even the A/ien-lung editors have put
 forth all their strength upon it in vain.
 
 ? We have here a quotation from the Shti, IV, viii, sect. 2; but
-it is very different from the textus receptus. All the commen-
-tators and critics are at fault upon it; see vol, iii, pp. 115, 116.
+it is very different from the textus receptus. All the commentators and critics are at fault upon it; see vol, iii, pp. 115, 116.
 
 
-364 THE Li Ki. BK. XXX.
 nuously maintain his virtue, some will impute it to
 him as a disgrace ! ;—(in the position indicated in the
 Hexagram.) When one does maintain his virtue
 continuously (in the other position indicated), this
-
-
 will be fortunate in a wife, but in a husband evil.’”’
 
 
@@ -16352,9 +15042,6 @@ sunset,
 he was charged by the ruler.
 
 
-366 THE Li Ki. BK. XXXI.
-
-
 3. When he came to the house, he entered the
 gate at the left side of it, (passed through the court),
 and ascended to the hall by the steps on the west.
@@ -16398,8 +15085,7 @@ there many sheds?
 
 BK. XXXI. PAN SANG. 367
 aa ie sae a
-rites were not the presiding mourner on the occa-
-sion!, then that presiding mourner, instead of him,
+rites were not the presiding mourner on the occasion!, then that presiding mourner, instead of him,
 bowed to the visitors and escorted them.
 
 7. When one hurried to the rites, even where
@@ -16438,7 +15124,6 @@ same way as if he had hurried to the rites for his
 been the principal mourner.
 
 
-368 THE Li Ki. BK, XXX1.
 father. At the wailing on the day after, he does not
 tie up his hair.
 
@@ -16457,15 +15142,12 @@ kneeling with his face to the north, he wailed, giving
 full vent to his sorrow. The principal mourners have
 been waiting for him (at the grave), and have taken
 their stations,—the men on the left of it, and the
-wives on the right. Having gone through the leap-
-ing, and given full expression to his sorrow, he tied
+wives on the right. Having gone through the leaping, and given full expression to his sorrow, he tied
 up his hair, and went to the station of the principal
-mourners on the east. In his headband of sack-
-cloth, and sash with the ends tucked up, he wailed
+mourners on the east. In his headband of sackcloth, and sash with the ends tucked up, he wailed
 and went through the leaping. He then bowed to
 the visitors, and returned to his station, going (again)
-through the leaping, after which the director an-
-nounced that the business was over’.
+through the leaping, after which the director announced that the business was over’.
 
 11. He then put on the cap, and returned to the
 
@@ -16492,8 +15174,7 @@ bared his arms, and went through the leaping.
 Going to his station on the east, he bowed to the
 visitors, and went through the leaping. When the
 visitors went out, the presiding mourner bowed to
-them, and escorted them. When other visitors after-
-wards arrived, he bowed to them, went through the
+them, and escorted them. When other visitors afterwards arrived, he bowed to them, went through the
 leaping, and escorted them in the same way. All the
 principal mourners and their cousins went out at the
 gate, wailed there and stopped, when the directors
@@ -16529,8 +15210,7 @@ mourner bowed to them and escorted them away.
 370 THE Li Kt. BK, XXXI.
 deena ey RR ae IE ew
 If any other visitors afterwards came, he bowed to
-them, as in the former case, and the director an-
-nounced that the business was over.
+them, as in the former case, and the director announced that the business was over.
 
 Immediately after he put on the cap, and returned
 to the house. Entering at the left side of the door,
@@ -16551,8 +15231,7 @@ the director announced that the business was over.
 14. When one heard of the mourning rites, and it
 was impossible (in his circumstances) to hurry to be
 present at them, he wailed and gave full vent to his
-grief. He then asked the particulars, and (on hear-
-ing them) wailed again, and gave full vent to his
+grief. He then asked the particulars, and (on hearing them) wailed again, and gave full vent to his
 grief. He then made a place (for his mourning)
 where he was, tied up his hair, bared his arms, and
 went through the leaping. Having covered his arms,
@@ -16595,8 +15274,7 @@ a mourner) differed from the above, were in the
 cincture for the head and the hempen sash.
 
 17. In all cases where one made a place for his
-mourning (away from home), if it were not on occa-
-sion of the death of a parent, but for some relative
+mourning (away from home), if it were not on occasion of the death of a parent, but for some relative
 of the classes not so nearly related, he went to the
 station, and wailed, giving full vent to his sorrow.
 Having put on the cincture for the head and the
@@ -16617,14 +15295,12 @@ Bb 2
 was ended, on the third day, the presiding mourner
 came forth and escorted the visitors away. All the
 principal mourners and their cousins went out at the
-gate, wailed, and stopped there. The director an-
-nounced to them that the business was ended. He
+gate, wailed, and stopped there. The director announced to them that the business was ended. He
 put on his full mourning-garb, and bowed to the
 visitors 3.
 
 18. If the home were far distant from the place
-which an absent mourner has selected (for his wail-
-ing), they completed all their arrangements about
+which an absent mourner has selected (for his wailing), they completed all their arrangements about
 dress before they went to it. |
 
 19. One hurrying to mourning rites, if they were
@@ -16681,8 +15357,7 @@ death).
 distance) at which to wail, he bared his arms (only)
 once.
 
-27. In condoling with (the relations of) an ac-
-quaintance (after he has been buried), one first
+27. In condoling with (the relations of) an acquaintance (after he has been buried), one first
 wailed in his house, and afterwards went to the
 grave; in both cases accompanying the wailing with
 the leaping. He alternated his leaping with that
@@ -16694,13 +15369,9 @@ father were alive, he acted as presiding mourner ;
 if he were dead, and brothers lived together in the
 house, each presided at the mourning for one of his
 own family-circle. If two brothers were equally
-related to the deceased for whom rites were neces-
-sary, the eldest presided at those rites; if they
+related to the deceased for whom rites were necessary, the eldest presided at those rites; if they
 were not equally related, the one most nearly so
 presided.
-
-
-374 THE Li Ki. BK. XXXI.
 
 
 29. When one heard of the death of a brother or
@@ -16726,8 +15397,7 @@ In the case of a similar visit from an ordinary officer,
 he covered his arms, and then bowed to him.
 
 
-1 The deceased would have been only in the degree of relation-
-ship, to which five months’ mourning was assigned.
+1 The deceased would have been only in the degree of relationship, to which five months’ mourning was assigned.
 
 * The left hand uppermost made the bow one more appropriate
 to a festive occasion.
@@ -16777,15 +15447,13 @@ agitate his spirit, that he bared his arms and leaped,
 seeking by the movement of his limbs to obtain
 some comfort to his heart and relief to his spirit.
 
-The women could not bare their arms, and there-
-fore they (merely) pushed out the breast, and smote
+The women could not bare their arms, and therefore they (merely) pushed out the breast, and smote
 upon their hearts, moving their feet with a sliding,
 hopping motion, and with a constant, heavy sound,
 like the crumbling away of a wall. The expression
 of grief, sorrow, and deep-seated pain was extreme ;
 hence it is said, ‘With beating of the breast and
-movement of the feet, did they sorrowfully accom-
-pany the body; so they escorted it away, and so did
+movement of the feet, did they sorrowfully accompany the body; so they escorted it away, and so did
 they come back to meet its essential part.’
 
 When (the mourners) went, accompanying the
@@ -16835,8 +15503,7 @@ answer is :—When his parent is dead, the filial son
 is sad and sorrowful, and his mind is full of trouble.
 He crawls about and bewails his loss, as if the dead
 might come back to life ;—how can he hurriedly
-take (the corpse) and proceed to dress it? There-
-fore, when it is said that the dressing does not
+take (the corpse) and proceed to dress it? Therefore, when it is said that the dressing does not
 begin till after three days, the meaning is, that (the
 son) is waiting that time to see if (his father) will
 come to life. When after three days there is no
@@ -16847,17 +15514,12 @@ calculated, and the clothes that are necessary can
 be provided and made accordingly; the relations
 and connexions who live at a distance can also
 arrive. Therefore the sages decided in the case
-
-
 ed
 
 
 1 <Not the structure so called, says Khung Ying-ta, ‘but the
 apartment where the coffin had been ;’—now serving for the occasion
 as a temple.
-
-
-378 THE Li Ki. BK. XXXII.
 
 
 that three days should be allowed, and the rule was
@@ -16867,8 +15529,7 @@ made accordingly.
 the cap on does not bare his arms, and show the
 naked body ?’ and the answer is :—The cap is the
 most honourable article of dress, and cannot be
-worn where the body is bared, and the flesh ex-
-posed. Therefore the cincture for the head is worn
+worn where the body is bared, and the flesh exposed. Therefore the cincture for the head is worn
 instead of the cap, (when the arms are bared).
 
 6. And so, when a bald man does not wear the
@@ -16888,10 +15549,8 @@ expression of sorrow.
 7. Some one may ask, ‘What is the idea in
 the cincture?’ and the reply is:—The cincture is
 what is worn while uncapped. The Rule says,
-‘Boys do not wear (even) the three months’ mourn-
-ing; it is only when the family has devolved on
-one that he does so.’ The cincture, we may sup-
-pose, was what was worn in the three months’
+‘Boys do not wear (even) the three months’ mourning; it is only when the family has devolved on
+one that he does so.’ The cincture, we may suppose, was what was worn in the three months’
 mourning (by a boy). If he had come to be the
 representative of the family, he wore the cincture,
 and carried the staff.
@@ -16903,8 +15562,7 @@ the staff?’ and the answer is:—The staff of bamboo
 BK. XXXII. WAN SANG. 379
 
 
-and that of elaeococcus wood have the same mean-
-ing. Hence, for a father they used the black staff
+and that of elaeococcus wood have the same meaning. Hence, for a father they used the black staff
 of bamboo; and for a mother, the square-cut staff,
 an elaeococcus branch 1.
 
@@ -16922,8 +15580,7 @@ still living. Walking in the hall, he does not use
 the staff ;—refraining from doing so in the place
 where his honoured father is. Nor does he walk
 hastily in the hall,—to show that he is not hurried.
-Such is the mind of the filial son, the real expres-
-sion of human feeling, the proper method of pro-
+Such is the mind of the filial son, the real expression of human feeling, the proper method of pro-
 priety and righteousness. It does not come down
 from heaven, it does not come forth from the earth:
 it is simply the expression of the human feelings.
@@ -16931,8 +15588,7 @@ it is simply the expression of the human feelings.
 
 1 On Book XIII, i, 3 the Ahien-lung editors say, that the staff
 of old men was carried with the root up, and the other end down;
-but the opposite was the case with the mourner’s staff. In break-
-ing off a branch from the elaeococcus, the part which has been
+but the opposite was the case with the mourner’s staff. In breaking off a branch from the elaeococcus, the part which has been
 torn from the stem is cut square and smooth with a knife. The
 round stem of the bamboo cane is said by A/an H4o to symbolise
 heaven, and so is carried for a father; and the square cut end of
@@ -16952,18 +15608,15 @@ MOURNING DRESS’.
 1. The Directory for Mourning says, ‘There are
 cases in which parties wear deep mourning, while
 those, in consequence of their connexion with whom
-they assume it, wear only light.’ Such is the mourn-
-ing for her husband’s mother by the wife of the son
+they assume it, wear only light.’ Such is the mourning for her husband’s mother by the wife of the son
 of a ruler (by a concubine) *.
 
 2. ‘ There are cases in which parties wear light
-mourning, while those, in consequence of their con-
-nexion with whom they assume it, wear deep mourn-
+mourning, while those, in consequence of their connexion with whom they assume it, wear deep mourn-
 ing. Such is the mourning of a husband for the
 father or mother of his wife *.
 
-3. ‘There are cases in which parties wear mourn-
-ing, while those, in consequence of their connexion
+3. ‘There are cases in which parties wear mourning, while those, in consequence of their connexion
 with whom they have a relation with the deceased,
 wear none.’ Such is the case of the wife of a ruler’s
 
@@ -16990,8 +15643,7 @@ son with the cousins of her husband on the female
 side }.
 
 4. ‘There are cases in which parties wear no
-mourning, while those, in consequence of their con-
-nexion with whom they have a relation with the
+mourning, while those, in consequence of their connexion with whom they have a relation with the
 deceased, do wear mourning.’ Such is the case of a
 ruler’s son with regard to the father and mother of
 his wife.
@@ -17000,8 +15652,7 @@ his wife.
 mother has been divorced, the son wears mourning
 for the relatives of the wife whom his father has
 taken in his mother’s place.’ When his mother has
-died ? (without being divorced), a son wears mourn-
-ing for her relatives. Wearing mourning for his
+died ? (without being divorced), a son wears mourning for her relatives. Wearing mourning for his
 own mother’s relatives, he does not do so for those
 of the step-mother, whom his father may have taken
 in her place.
@@ -17049,8 +15700,7 @@ was put off’.
 11. In the mourning for five months diey did not
 change the cap worn for the sacrifice at the end of
 a year. If there were occasion to wear the cincture,
-then they employed the band proper for the mourn-
-ing of three months or five months; still keeping
+then they employed the band proper for the mourning of three months or five months; still keeping
 on the first dolychos sash. The linen of the three
 months’ mourning did not make it necessary to
 change the dolychos cloth of the five months; nor
@@ -17072,8 +15722,7 @@ year; not in that for five months and for three.
 
 ” That is, after the sacrifice at the end of the first year.
 
-* This is supplementary, say the Ahien-lung editors, to para-
-graph 8.
+* This is supplementary, say the Ahien-lung editors, to paragraph 8.
 
 
 BK, XXXII. FU WAN. 383
@@ -17087,8 +15736,7 @@ Heaven for the three years. His wife observed the
 rule of a lady of her husband’s house who had gone
 to her own married home in mourning for the ruler?
 
-14. The heir-son of a ruler did not wear mourn-
-ing for the son of Heaven’.
+14. The heir-son of a ruler did not wear mourning for the son of Heaven’.
 
 15. A ruler acted as presiding mourner at the
 mourning rites for his wife, his eldest son, and that
@@ -17101,8 +15749,7 @@ for the ruler, and for the ruler’s wife and eldest son.
 17. When the mother of a ruler had not been the
 wife (of the former ruler) *, the body of the ministers
 did not wear mourning (on her death). Only the
-officers of the harem, the charioteer and the man-at-
-arms who sat on the left, followed the example of
+officers of the harem, the charioteer and the man-atarms who sat on the left, followed the example of
 the ruler, wearing the same mourning as he did.
 
 18. Fora high minister or Great officer, (during
@@ -17167,8 +15814,7 @@ those fibres. That of one wearing the sackcloth for
 a mother with its even edges, corresponds to the
 fibres of the male plant. That of one wearing the
 mourning of nine months looks as if (the ebullitions
-of sorrow) had ceased. For one wearing the.mourn-
-ing of five months or of three, his (ordinary) appear-
+of sorrow) had ceased. For one wearing the.mourning of five months or of three, his (ordinary) appear-
 ance is suitable.
 
 These are the manifestations of sorrow in the
@@ -17263,8 +15909,7 @@ a clod for his pillow, without taking off the headband
 or girdle. If they were for a mother (only, and the
 father were still alive), he occupied the unplastered
 chamber, (sleeping on) typha rushes with their tops
-cut off, but not woven together. During the mourn-
-ing for nine months, there was a mat to sleep on. In
+cut off, but not woven together. During the mourning for nine months, there was a mat to sleep on. In
 that for five months or for three, it was allowed to
 use a bedstead.
 
@@ -17272,8 +15917,7 @@ These were the manifestations of sorrow given in
 the dwelling-places.
 
 7. At the mourning rites for a parent, after the
-sacrifice of repose, and when the wailing was con-
-cluded, the (inclined) posts of the shed were set up
+sacrifice of repose, and when the wailing was concluded, the (inclined) posts of the shed were set up
 on lintels, and the screen (of grass) was clipped, while
 typha rushes, with the tops cut off, but not woven
 together, (were laid down for a mat). At the end of
@@ -17283,23 +15927,18 @@ Sc.2
 
 
 388 THE Li xt. BK. XXXIV,
-
-
 been offered, (the son) occupied the unplastered
 chamber, and had a mat to sleep on. After another
 year, and when the greater felicitous sacrifice had
-been offered, he returned to his old sleeping apart-
-ment. Then, when the final mourning sacrifice was
+been offered, he returned to his old sleeping apartment. Then, when the final mourning sacrifice was
 offered, he used a bedstead.
 
 8. The mourning with jagged edges was made
-with 3 shang of hempen threads, each shang con-
-taining 81 threads; that with even edge, with 4, 5, or
+with 3 shang of hempen threads, each shang containing 81 threads; that with even edge, with 4, 5, or
 6 shang; that for the nine months’ mourning with 7,
 8,or 9 shang; that for the five months, with Io, 11,
 or 12 shang; that for the three months, with 15
-shang less the half. When the thread was mani-
-pulated and boiled, no such operation was performed
+shang less the half. When the thread was manipulated and boiled, no such operation was performed
 on the woven cloth, and it was called sze (or the
 material for the mourning of three months).
 
@@ -17362,11 +16001,9 @@ bands were worn.
 During the wearing of the sackcloth for a
 mother, when, after the sacrifice of repose and the
 end of the wailing, there came occasion to wear the
-mourning for nine months, the sackcloth and grass-
-cloth bands were worn together.
+mourning for nine months, the sackcloth and grasscloth bands were worn together.
 
-The grass-cloth band with the jagged-edged sack-
-cloth and the hempen band with the even-edged
+The grass-cloth band with the jagged-edged sackcloth and the hempen band with the even-edged
 
 
 390 THE Li xt. BK, XXXIV.
@@ -17401,8 +16038,7 @@ means of them the differences in the social relations
 are set forth, and the distinctions shown of kindred
 as nearer or more distant, and of ranks as more
 noble or less. They do not admit of being diminished
-or added to; and are therefore called ‘The un-
-changing rules.’
+or added to; and are therefore called ‘The unchanging rules.’
 
 2. The greater a wound is, the longer it remains;
 and the more pain it gives, the more slowly is it
@@ -17442,8 +16078,7 @@ love its species. Take the larger birds and beasts :—
 when one of them has lost its mate, after a month
 or a season, it is sure to return and go about their
 old haunts. It turns round and round, utters its
-cries, now moves, now stops, and looks quite em-
-barrassed and uncertain in its movements, before it
+cries, now moves, now stops, and looks quite embarrassed and uncertain in its movements, before it
 can leave the place. Even the smaller birds, such
 as swallows and sparrows, chatter and cry for a little
 before they can leave the place. But among all
@@ -17458,8 +16093,7 @@ In that case, when a kinsman dies in the morning,
 he will forget him by the evening. But if we follow
 the course of such men, we shall find that they are
 not equal to the birds and beasts. How can they
-live with their kindred, and not fall into all dis-
-orders ?
+live with their kindred, and not fall into all disorders ?
 
 6. Willhe rather follow the example of the superior
 man who attends to all the methods by which the
@@ -17486,8 +16120,7 @@ cases the mourning lasts) only for a year? The
 answer is, that in the case of the nearest kindred,
 there is a break in it at the end of a year.
 
-9. How is that? The answer is:—The inter-
-action of heaven and earth has run its round; and
+9. How is that? The answer is:—The interaction of heaven and earth has run its round; and
 the four seasons have gone through their changes.
 All things between heaven and earth begin their
 processes anew. The rules of mourning are intended
@@ -17503,17 +16136,11 @@ and the shorter periods? The answer is :—It is to
 prevent such mourning from reaching (the longer
 periods).
 
-12. Therefore the three years should be consi-
-dered as the highest expression of grief in mourning;
+12. Therefore the three years should be considered as the highest expression of grief in mourning;
 the three months and five months, as the lowest ;
 while the year and the nine months are between
 them. Heaven above gives an example; earth
 beneath, a law; and man between, a pattern. The
-
-
-394 THE Li Ki. BK. XXXV.
-
-
 harmony and unity that should characterise men
 living in their kinships are hereby completely shown.
 
@@ -17539,8 +16166,7 @@ OR
 THE LONG DRESS IN ONE PIECE}.
 
 
-1. Anciently the long dress had definite measure-
-ments, so as to satisfy the requirements of the
+1. Anciently the long dress had definite measurements, so as to satisfy the requirements of the
 compass and square, the line, the balance, and the
 steelyard. It was not made so short as to show any
 of the skin, nor so long as to touch the ground.
@@ -17567,8 +16193,7 @@ bottom was like the steelyard of a balance, made
 perfectly even.
 
 4. In this way through the rounded sleeves the
-arms could be lifted up in walking (for the pur-
-pose of salutation) in the most elegant form. The
+arms could be lifted up in walking (for the purpose of salutation) in the most elegant form. The
 
 
 1 See the introductory notice, vol. xxvii, p. 50.
@@ -17600,8 +16225,7 @@ cohorts of their armies. It was complete, but not
 extravagant; it ranked in the second class of good
 dresses”.
 
-6. For ornament, while his parents and grand-
-parents were alive, (a son) wore the dress with its
+6. For ornament, while his parents and grandparents were alive, (a son) wore the dress with its
 border embroidered. If (only) his parents were
 alive, the ornamental border was blue. In the case
 of an orphan son’, the border was white. The border
@@ -17640,8 +16264,7 @@ of your excellent drink and admirable viands; allow
 me to decline this further proposal for my pleasure.
 The host rejoins, ‘It is not worth the while for
 you to decline these poor arrows and pot; let me
-earnestly beg you to try them.’ The guest re-
-peats his refusal, saying, ‘I have partaken (of your
+earnestly beg you to try them.’ The guest repeats his refusal, saying, ‘I have partaken (of your
 entertainment), and you would still further have me
 enjoy myself ;—J venture firmly to decline.’ The
 host again addresses his request in the same words,
@@ -17677,8 +16300,7 @@ the two pillars. He then retires, and returns to his
 station, motioning also to the guest to go to his mat
 (for pitching from).
 
-4. The superintendent of the archery comes for-
-ward, and measures the distance of the pot (from
+4. The superintendent of the archery comes forward, and measures the distance of the pot (from
 the mats), which should be a space of the length of
 two and a half arrows. He then returns to his
 station, sets forth the stand for the tallies, and
@@ -17691,8 +16313,7 @@ victor gives the vanquished a cup to drink; and
 when the cups of decision have been dispatched,
 the superintendent begs to set up what he calls ‘a
 horse’ for the victor. If he set up one horse, then
-a second, and finally a third, he begs to con-
-gratulate the thrower on the number of his horses.
+a second, and finally a third, he begs to congratulate the thrower on the number of his horses.
 He asks the host to pitch in the same way, and
 with the same words.
 
@@ -17735,8 +16356,7 @@ If they are equal, he says, ‘Left and right are equal.’
 successful side) replies, ‘Yes.’ Those who have to
 drink all kneel, and raising their cups with both
 hands, say, ‘We receive what you give us to drink.’
-The victors (also) kneel and say, ‘We beg respect-
-fully to refresh you.’
+The victors (also) kneel and say, ‘We beg respectfully to refresh you.’
 
 9. When this cup has gone round, according to
 rule, (the superintendent) asks leave to exhibit the
@@ -17747,9 +16367,6 @@ his superiority). The usage in congratulating (the
 most successful) is to say, ‘ Your three “ horses" are
 all here; allow me to congratulate you on their
 number. The guests and host all express their
-
-
-400 THE Li Ki. BK. XXXVII.
 assent. The customary cup goes round, and the
 superintendent asks leave to remove the ‘ horses.’
 
@@ -17778,15 +16395,13 @@ haughty; do not stand awry; do not speak about
 irrelevant matters. Those who do any of these things
 must pay the penalty.’
 
-12. The superintendent of the archery, the over-
-seer of the courtyard, and the capped officers who
+12. The superintendent of the archery, the overseer of the courtyard, and the capped officers who
 stood by, all belonged to the party of the guest. The
 musicians and the boys who acted as attendants, all
 belonged to the party of the host.
 
 
-13. There follows after this what appears to be a repre-
-sentation of the progress of a game by means of small circles
+13. There follows after this what appears to be a representation of the progress of a game by means of small circles
 and squares. The circles indicating blows on a small drum
 
 
@@ -17813,7 +16428,6 @@ Semis. La drums.
 O O QO feu Oo. G
 
 om 0 0 ee Of
-
 e O Oo ee O ©
 
 & O O ee =O CO
@@ -17860,8 +16474,7 @@ before I had concluded*’ The duke ordered a mat
 ? See the introductory notice, vol. xxvii, pp. 51, 52.
 
 ? Callery renders Z( here by ‘le Philosophe.’ Evidently there
-was in Confucius’ time a class of men, thus denominated, dis-
-tinguished by their learning and conduct. The name first occurs
+was in Confucius’ time a class of men, thus denominated, distinguished by their learning and conduct. The name first occurs
 in the Aau Li. It is now used for the literati of China, the
 followers of Confucius, in distinction from T4oists and Buddhists.
 
@@ -17869,8 +16482,7 @@ followers of Confucius, in distinction from T4oists and Buddhists.
 belonged to the state of Sung, the representative of the ancient
 Yin.
 
-* It was the custom for a ruler to change his attendants-in-
-waiting, SO as not to overtire any.
+* It was the custom for a ruler to change his attendants-inwaiting, SO as not to overtire any.
 
 
 BK. XXXVIII. z0 HSING. 403
@@ -17978,8 +16590,7 @@ enumerated to him to his face :—such is his boldness
 and determination.
 
 9. ‘The scholar considers leal-heartedness and
-good faith to be his coat-of-mail and helmet; pro-
-priety and righteousness to be his shield and
+good faith to be his coat-of-mail and helmet; propriety and righteousness to be his shield and
 buckler ; he walks along, bearing aloft over his head
 benevolence ; he dwells, holding righteousness in his
 arms before him ; the government may be violently
@@ -18014,12 +16625,10 @@ such is he in the matter of taking office, (however
 small).
 
 11. ‘The scholar lives and has his associations
-with men of the present day, but the men of an-
-tiquity are the subjects of his study. Following
+with men of the present day, but the men of antiquity are the subjects of his study. Following
 their (principles and example) in the. present age, he
 will become a pattern in future ages. If it should
-be that his own age does not understand and en-
-courage him, that those above him do not bring him,
+be that his own age does not understand and encourage him, that those above him do not bring him,
 and those below him do not push him, forward, or
 even that calumniators and flatterers band together
 to put him in danger, his person may be placed in
@@ -18037,8 +16646,7 @@ he may be living unnoticed, but does not give way to
 licentiousness ; he may be having free course in his
 acknowledged position, but is not hampered (by it) ;
 in his practice of ceremonial usages he shows the
-value which he sets on a natural ease; in the excel-
-lence of his leal-heartedness and good faith, he acts
+value which he sets on a natural ease; in the excellence of his leal-heartedness and good faith, he acts
 under the law of a benignant playfulness ; he shows
 his fond regard for men of virtue and ability, and yet
 
@@ -18053,12 +16661,10 @@ of his spirit.
 
 13. ‘The scholar recommends members of his
 own family (to public employment), without shrinking
-from doing so, because of their kinship, and pro-
-poses others beyond it, without regard to their being
+from doing so, because of their kinship, and proposes others beyond it, without regard to their being
 at enmity with him; he estimates men’s merits, and
 takes into consideration all their services, selecting
-those of virtue and ability, and putting them for-
-ward, without expecting any recompense from them ;
+those of virtue and ability, and putting them forward, without expecting any recompense from them ;
 the ruler thus gets what he wishes, and if benefit
 results to the state, the scholar does not seek riches
 or honours for himself :—such is he in promoting
@@ -18130,13 +16736,10 @@ BK, XXXVIII. z0 HSING. 409
 
 
 ee
-
-
 correctness, and his standing is in what is right!; if
 they proceed in the same direction with him, he
 goes forward with them, if not in the same direction,
-he withdraws from them :—so is he in his inter-
-course with his friends.
+he withdraws from them :—so is he in his intercourse with his friends.
 
 18. ‘Gentleness and goodness are the roots of
 humanity ; respect and attention are the ground on
@@ -18166,8 +16769,6 @@ it to one another as a term of reproach.
 When Confucius came (from his wanderings to
 L4) to his own house, duke Ai gave him a (public)
 lodging. When the duke heard these words, he
-
-
 became more sincere in his speech, and more
 
 
@@ -18198,14 +16799,12 @@ OR
 THE GREAT LEARNING?
 
 
-1. What the Great Learning teaches, is to illus-
-trate illustrious virtue; to love the people?; and
+1. What the Great Learning teaches, is to illustrate illustrious virtue; to love the people?; and
 to rest in the highest excellence.
 
 The point where to rest being known, the object
 of pursuit is then determined; and, that being
-determined, a calm unperturbedness may be at-
-tained to. To that calmness there will succeed a
+determined, a calm unperturbedness may be attained to. To that calmness there will succeed a
 tranquil repose. In that repose there will be careful
 deliberation, and that deliberation will be followed
 by the attainment (of the desired end).
@@ -18215,8 +16814,7 @@ have their end and their beginning. To know what
 is first and what is last will lead near to what is
 taught (in the Great Learning).
 
-2. The ancients who wished to illustrate illus-
-trious virtue throughout the kingdom, first ordered
+2. The ancients who wished to illustrate illustrious virtue throughout the kingdom, first ordered
 well their states. Wishing to order well their
 states, they first regulated their families. Wishing
 to regulate their families, they first cultivated their
@@ -18240,17 +16838,14 @@ hearts, they first sought to be sincere in their
 thoughts. Wishing to be sincere in their thoughts,
 they first extended to the utmost their knowledge.
 
-3. The extension of knowledge is by the investi-
-gation of things '.
+3. The extension of knowledge is by the investigation of things '.
 
 4. Things being investigated, their knowledge
-became complete. Their knowledge being com-
-plete, their thoughts were sincere. Their thoughts
+became complete. Their knowledge being complete, their thoughts were sincere. Their thoughts
 being sincere, their hearts were then rectified.
 Their hearts being rectified, their persons were
 cultivated. Their persons being cultivated, their
-families were regulated. Their families being regu-
-lated, their states were rightly governed. Their
+families were regulated. Their families being regulated, their states were rightly governed. Their
 states being rightly governed, the whole kingdom
 was made tranquil and happy.
 
@@ -18261,8 +16856,6 @@ cannot be, when the root is neglected, that what
 should spring from it will be well ordered. It never
 has been the case that what was of great importance
 has been slightly cared for, and at the same time
-
-
 what was of slight importance has been greatly
 cared for *.
 
@@ -18273,8 +16866,7 @@ unsatisfactory. A@ introduces a long paragraph explaining it from
 his master Aang ;—see Chinese Classics, vol. i, pp. 229, 239.
 
 * Here ends the first chapter of the Book according to the
-arrangement of Ai Hsi. He says that it is ‘the words of Con-
-fucius, handed down by Sang-3ze,’ all the rest being the com-
+arrangement of Ai Hsi. He says that it is ‘the words of Confucius, handed down by Sang-3ze,’ all the rest being the com-
 mentary of 34ng-3ze, recorded by his disciples. The sentiments
 in this chapter are not unworthy of Confucins ; but there is no
 
@@ -18292,12 +16884,10 @@ and without constraint. Therefore the superior man
 must be watchful over himself when he is alone.
 There is no evil to which the small man, dwelling
 retired, will not proceed; but when he sees a
-superior man, he tries to disguise himself, conceal-
-ing his evil, and displaying what is good. The
+superior man, he tries to disguise himself, concealing his evil, and displaying what is good. The
 other beholds him as if he saw his heart and reins —
 of what use (is his disguise) ? This is an instance
-of the saying, ‘ What truly is within will be mani-
-fested without.’ Therefore the superior man must
+of the saying, ‘ What truly is within will be manifested without.’ Therefore the superior man must
 be watchful over himself when he is alone.
 
 6. 3ang-3ze said, ‘What ten eyes behold, what
@@ -18317,8 +16907,7 @@ Around each cove of K4/i!
 
 
 evidence that they really proceeded from him, nor of the other
-assertions of Ad. See what is said on the subject in the intro-
-ductory notice.
+assertions of Ad. See what is said on the subject in the introductory notice.
 
 ' This saying is from 3ang-3ze ; but standing as it does alone
 and apart, it gives no sanction to the view that the first chapter was
@@ -18454,13 +17043,11 @@ the minds of the people.
 
 15. What is meant by ‘The cultivation of the
 person depends on the rectifying of the mind’ (may
-be thus illustrated):—If a man be under the in-
-fluence of anger, his conduct will not be correct.
+be thus illustrated):—If a man be under the influence of anger, his conduct will not be correct.
 The same will be the case, if he be under the
 influence of terror, or of fond regard, or of sorrow
 and distress. When the mind is not present, we
-look and do not see; we hear and do not under-
-stand ; we eat and do not know the taste of what
+look and do not see; we hear and do not understand ; we eat and do not know the taste of what
 we eat. This is what is meant by saying that ‘the
 cultivation of the person depends on the rectifying
 of the mind.’
@@ -18478,8 +17065,7 @@ eS a, Se ad
 is this :—Men are partial where they feel affection
 and love; partial where they despise and dislike;
 partial where they stand in awe and with a feeling
-of respect ; partial where they feel sorrow and com-
-passion ; partial where they are arrogant and rude.
+of respect ; partial where they feel sorrow and compassion ; partial where they are arrogant and rude.
 Thus it is that there are few men in the world who
 love and at the same time know the bad qualities
 (of the object of their love), or who hate and yet
@@ -18496,11 +17082,9 @@ is this :—It is not possible for one to teach others
 while he cannot teach his own family. Therefore
 the superior man (who governs a state), without
 going beyond his family, completes the lessons for
-his state. There is filial piety ;—it has its applica-
-tion in the service of the ruler. There is brotherly
+his state. There is filial piety ;—it has its application in the service of the ruler. There is brotherly
 obedience ;—it has its application in the service of
-elders. There is kindly gentleness;—it has its ap-
-plication in the employment of the multitudes. It
+elders. There is kindly gentleness;—it has its application in the employment of the multitudes. It
 is said in the Announcement to the Prince of
 Khang (Shi, V, ix, 9), ‘(Deal with the people),
 as if you were watching over an infant.’ If (a
@@ -18554,8 +17138,6 @@ people of the state may be taught.
 In another ode it is said (II, ii, 9, 3),
 ‘In concord with their brothers may they dwell!’
 Let rulers dwell in concord with all their brethren,
-
-
 and then they may teach the people of their states.
 In a third ode it is said (I, xiv, 3, 3),
 
@@ -18568,13 +17150,10 @@ Good order for his rule throughout the state.’
 When the ruler as a father, a son, an elder brother
 Or a younger, is a model for imitation, then the
 people imitate him. These (passages) show how
-‘the government of a state depends on the regu-
-
-lation of the family.’
+‘the government of a state depends on the regulation of the family.’
 
 22. What is meant by ‘The making the whole
-kingdom peaceful and happy depends on the govern-
-ment of its states’ is this:—When the superiors
+kingdom peaceful and happy depends on the government of its states’ is this:—When the superiors
 behave to their aged as the aged should be behaved
 to, the people become filial; when they behave to
 their elders as elders should be behaved to, the
@@ -18619,8 +17198,7 @@ height ;
 Such thou, Grand-master Yin, before the nation’s
 sight !’
 Rulers of states should not neglect to be careful.
-If they deviate (to a selfish regard only for them-
-selves), they will be counted a disgrace throughout
+If they deviate (to a selfish regard only for themselves), they will be counted a disgrace throughout
 the kingdom.
 26. In the Book of Poetry it is said (III; i, 1, 6),
 
@@ -18640,14 +17218,12 @@ Therefore’the ruler should first be careful about
 his (own) virtue. Possessing virtue will give him
 the people. Possessing the people will give him the
 territory. Possessing the territory will give him its
-wealth. Possessing the wealth, he will have re-
-sources for expenditure. Ms
+wealth. Possessing the wealth, he will have resources for expenditure. Ms
 
 Virtue is the root ; wealth is the branches. If he
 make the root his secondary object, and the branches
 his primary object, he will only quarrel with the
-people, and teach them rapine. Hence the accu-
-mulation of wealth is the way to scatter the people,
+people, and teach them rapine. Hence the accumulation of wealth is the way to scatter the people,
 and the distribution of his wealth is the way to
 collect the people. Hence (also), when his words
 go forth contrary to right, they will come back to
@@ -18678,8 +17254,7 @@ is the affection due (even) to his (deceased) parent?.’
 plain and sincere, not possessed of other abilities,
 but with a simple, upright, and at the same time
 a generous, mind, regarding the talents of others
-as if they were his own; and when he finds accom-
-plished and perspicacious men, loving them in his
+as if they were his own; and when he finds accomplished and perspicacious men, loving them in his
 heart more than his mouth expresses, and really
 showing himself able to bear them (and employ
 them),—such a minister will be able to preserve my
@@ -18718,8 +17293,7 @@ others.’
 
 32. To see men of worth, and not be able to
 raise them to office ; to raise them to office, but not
-to do so quickly :—this is treating them with dis-
-respect. To see bad men, and not to be able to
+to do so quickly :—this is treating them with disrespect. To see bad men, and not to be able to
 remove them; to remove them, but not to do so to
 a distance :—this is weakness.
 
@@ -18733,10 +17307,8 @@ to pursue. He must show entire self-devotion and
 sincerity to succeed, and by pride and extravagance
 he will fail.
 
-35. There is a great course (also) for the produc-
-tion of wealth. Let the producers be many, and the
-consumers few. Let there be activity in the pro-
-duction, and economy in the expenditure. Then
+35. There is a great course (also) for the production of wealth. Let the producers be many, and the
+consumers few. Let there be activity in the production, and economy in the expenditure. Then
 the wealth will always be sufficient.
 
 36. The virtuous (ruler) uses his wealth so as to
@@ -18791,8 +17363,7 @@ uses as well.
 424 THE Lf gf. BK. XXXIX.
 
 
-or family, calamities and injuries will befal it to-
-gether; and though a good man (may take his
+or family, calamities and injuries will befal it together; and though a good man (may take his
 place), he will not be able to remedy the evil. This
 illustrates (again) the saying, ‘In a state gain should
 not be considered prosperity ; its prosperity should
@@ -18814,8 +17385,7 @@ first indications of that meaning appear in the correct
 arrangement of the bodily carriage, the harmonious
 adjustment of the countenance, and in the natural
 ordering of the speech. When the bodily carriage is
-well arranged, the countenance harmoniously ad-
-justed, and speech naturally ordered, the meaning of
+well arranged, the countenance harmoniously adjusted, and speech naturally ordered, the meaning of
 the ceremonial usages becomes complete, and serves
 to render correct the relation between ruler and
 subject, to give expression to the affection between
@@ -18831,14 +17401,10 @@ the bodily carriage becomes (fully) correct, the
 harmonious expression of the countenance is made
 perfect, and the speech is all conformed to its
 purposes. Hence it is said that in capping we have
-the first indications of (the meaning of the) cere-
-monial usages. It was on this account that the sage
+the first indications of (the meaning of the) ceremonial usages. It was on this account that the sage
 
 
 + See the introductory notice, vol. xxvii, pp. 54, 55-
-
-
-426 THE Li Ki. BK. XL.
 
 
 kings of antiquity made so much as they did of the
@@ -18872,8 +17438,7 @@ he was a man grown, and so they exchanged
 courtesies with him. In the dark-coloured cap,
 and the dark-coloured square-cut robes, he put
 down his gift of introduction before the ruler, and
-then proceeded with the proper gifts to present him-
-self to the high ministers and Great officers, and to
+then proceeded with the proper gifts to present himself to the high ministers and Great officers, and to
 the old gentlemen of the country :—appearing before
 them as a man grown.
 
@@ -18910,8 +17475,7 @@ so important. Considering it so important, they
 performed it in the ancestral temple. They did so,
 to do honour to so important a service. Feeling
 that it was to be honoured so, they did not dare to
-take the responsibility of its performance on them-
-selves. Not daring themselves to take the respon-
+take the responsibility of its performance on themselves. Not daring themselves to take the respon-
 sibility of it, they therefore humbled themselves, and
 gave honour in doing so to their forefathers.
 
@@ -18932,8 +17496,7 @@ to secure the services in the ancestral temple, and in
 its prospective character, to secure the continuance
 of the family line. Therefore the superior men,
 (the ancient rulers), set a great value upon it.
-Hence, in regard to the various (introductory) cere-
-monies,—the proposal with its accompanying gift ?;
+Hence, in regard to the various (introductory) ceremonies,—the proposal with its accompanying gift ?;
 the inquiries about the (lady’s) name ; the intimation
 of the approving divination*®; the receiving the
 special offerings*; and the request to fix the day®:—
@@ -19017,8 +17580,7 @@ establish the distinction to be observed between man
 and woman, and the righteousness to be maintained
 between husband and wife. From the distinction
 between man and woman came the righteousness
-between husband and wife. From that righteous-
-ness came the affection between father and son;
+between husband and wife. From that righteousness came the affection between father and son;
 and from that affection, the rectitude between ruler
 and minister. Whence it is said, ‘The ceremony
 of marriage is the root of the other ceremonial
@@ -19035,8 +17597,7 @@ These were the greatest occasions of ceremony, and
 the principal points in them.
 
 5. Rising early (the morning after marriage), the
-young wife washed her head and bathed her per-
-son, and waited to be presented (to her husband's
+young wife washed her head and bathed her person, and waited to be presented (to her husband's
 parents), which was done by the directrix, as soon
 as it was bright day. She appeared before them,
 bearing a basket with dates, chestnuts, and slices of
@@ -19069,8 +17630,7 @@ in her position; (followed by) that showing her
 obedient service (of her husband's parents); and
 both succeeded by that showing how she now
 occupied the position of continuing the family line :—
-all served to impress her with a sense of the defer-
-ential duty proper to her. When she was thus
+all served to impress her with a sense of the deferential duty proper to her. When she was thus
 deferential, she was obedient to her parents-in-law,
 and harmonious with all the occupants of the
 women’s apartments; she was the fitting partner
@@ -19105,16 +17665,14 @@ it were no longer standing (for her), she was taught
 in the public hall of the Head of that branch of the
 surname to which she belonged ;—she was taught
 there the virtue, the speech, the carriage, and the
-work of a wife. When the teaching was accom-
-plished, she offered a sacrifice (to the ancestor), using
+work of a wife. When the teaching was accomplished, she offered a sacrifice (to the ancestor), using
 fish for the victim, and soups made of duckweed and
 pondweed. So was she trained to the obedience of
 a wife’.
 
 11. Anciently, the queen of the son of Heaven
 divided the harem into six palace-halls, (occupied)
-by the 3 ladies called fi-zan, the 9 pin, the 27 shih-
-fa, and the 81 yii-£4i. These were instructed in
+by the 3 ladies called fi-zan, the 9 pin, the 27 shihfa, and the 81 yii-£4i. These were instructed in
 the domestic and private rule which should prevail
 throughout the kingdom, and how the deferential
 obedience of the wife should be illustrated; and
@@ -19149,8 +17707,7 @@ virtues to be cultivated by the feminine receptivities.
 The son of Heaven guided in all that affected the
 external administration (of affairs); and the queen,
 in all that concerned the internal regulation (of the
-family). The teachings (of the one) and the obe-
-dience (inculcated by the other) perfected the
+family). The teachings (of the one) and the obedience (inculcated by the other) perfected the
 manners and ways (of the people); abroad and at
 home harmony and natural order prevailed; the
 states and the families were ruled according to
@@ -19183,8 +17740,7 @@ everything that belonged to the feminine sphere
 throughout the kingdom. The son of Heaven is to
 the queen what the sun is to the moon, or the
 masculine energy of nature to the feminine. They
-are necessary to each other, and by their interde-
-pendence they fulfil their functions.
+are necessary to each other, and by their interdependence they fulfil their functions.
 
 13. The son of Heaven attends to the lessons for
 men ;—that is the function of the father. The queen
@@ -19229,8 +17785,7 @@ respect. |
 purity, and such respect belonged to the intercourse
 of superior men with others. When they gave
 honour and showed humility, no contentions arose.
-When they maintained purity and respect, no in-
-difference or rudeness arose. When there was no
+When they maintained purity and respect, no indifference or rudeness arose. When there was no
 rudeness or contention, quarrels and disputations
 were kept at a distance. When men did not quarrel
 
@@ -19254,8 +17809,7 @@ liquor placed between the room (on the east), and
 the door (leading to the apartments on the west),
 host and guests sharing it between them. The
 vessel contained the dark-coloured liquor (of pure
-water) ;—showing the value they attached to its sim-
-plicity. The viands came forth from the room on
+water) ;—showing the value they attached to its simplicity. The viands came forth from the room on
 the east ;—being supplied by the host. All washing
 took place (in the courtyard) opposite the eastern
 wing ;—showing how the host purified himself and
@@ -19267,8 +17821,7 @@ host respectively represented the forces inherent in
 nature in their contracting and expanding operations;
 the three (heads of the) guests (in their threefold
 division) represented the three (great) luminaries ;
-the precedence thrice yielded (to the guest) repre-
-sented the three days when the moon is invisible till
+the precedence thrice yielded (to the guest) represented the three days when the moon is invisible till
 it begins to reappear; the seating of the parties
 present (all round or) on the four sides represented
 the four seasons '.
@@ -19300,10 +17853,7 @@ seat on the north-west, and that of his attendant on
 the south-west, that he may there (most conveniently)
 assist him. The guest (represents) the treatment of
 others according to justice, and therefore his seat is
-
-
-the principal guest.’ Aan Hao quotes an opinion that the prin-
-cipal guest was made to represent heaven, to do him the greater
+the principal guest.’ Aan Hao quotes an opinion that the principal guest was made to represent heaven, to do him the greater
 honour ; and the host to represent the earth, because he was the
 entertainer and nourisher; and that their assistants represented
 the yin and yang, because they assisted their principals as these
@@ -19328,12 +17878,8 @@ them.’ So the commentators certainly try to explain it.
 
 
 438 THE LI! Ki. BK, XLIi
-
-
-on the north-west; the host (represents) the treat-
-ment of others according to benevolence and a genial
-kindness, and therefore his seat is on the south-
-east, and his attendant is seated on the north-east,
+on the north-west; the host (represents) the treatment of others according to benevolence and a genial
+kindness, and therefore his seat is on the southeast, and his attendant is seated on the north-east,
 that he may there (most conveniently) assist him’.
 
 6. That intercourse according to benevolence and
@@ -19358,8 +17904,7 @@ their powers (on its lessons) ”.
 observations on which these statements rest must have been made
 very long ago in the interior of the country, there where the winds
 come under the influence of the icy plains of Tartary and the high
-mountains which separate China from Thibet; for on the sea-
-coasts of China, exactly the contrary has place. During the winter
+mountains which separate China from Thibet; for on the seacoasts of China, exactly the contrary has place. During the winter
 the north-east monsoon prevails, varying sometimes to the north
 and sometimes to the east, rarely to the north-west; while during
 the heats of summer the wind blows from the south-west, bending
@@ -19420,14 +17965,12 @@ and nourished.
 When the people knew to honour their elders and
 nourish their aged, then at home they could practise
 filial piety and fraternal duty. Filial and fraternal
-at home and abroad, honouring elders and nourish-
-ing the aged, then their education was complete,
+at home and abroad, honouring elders and nourishing the aged, then their education was complete,
 and this led to the peace and tranquillity of the
 state. What the superior man calls filial piety,
 does not require that (every) family should be
 visited and its members daily taught; if (the people)
-be assembled at the archery meetings in the dis-
-tricts, and taught the usages at the district-drinkings,
+be assembled at the archery meetings in the districts, and taught the usages at the district-drinkings,
 their conduct is brought to be filial and fraternal.
 
 9. Confucius said, ‘When I look on at the festivity
@@ -19501,8 +18044,7 @@ as he escorts him away. The regulations and
 
 
 forms are observed to the end; and from this we
-know how they could enjoy the feast without turbu-
-lence or confusion.
+know how they could enjoy the feast without turbulence or confusion.
 
 15. ‘The distinction between the noble and
 mean thus exhibited; the discrimination in the
@@ -19511,18 +18053,15 @@ parties ; the harmony and joy without disorder ; the
 brotherly deference to elders without omitting any ;
 the happy feasting without turbulence or confusion ;—
 the observance of these five things is sufficient to
-secure the rectification of the person, and the tran-
-quillity of the state. When that one state is
-tranquil, all under heaven will be the same. There-
-fore I say that when I look on at the festivity in the
+secure the rectification of the person, and the tranquillity of the state. When that one state is
+tranquil, all under heaven will be the same. Therefore I say that when I look on at the festivity in the
 country districts, I know how easily the Royal Way
 may obtain free course 1.’
 
 16. According to the meaning attached to the
 festivity of drinking in the country districts, the
 principal guest was made to represent heaven ; the
-host, to represent earth; their attendants respec-
-tively to represent the sun and moon; and the three
+host, to represent earth; their attendants respectively to represent the sun and moon; and the three
 head guests (according to the threefold division of
 them) to represent the three (great) luminaries.
 This was the form which the festivity received on
@@ -19542,7 +18081,6 @@ winds up with therefore ‘He—Confucius—said,’ &c.
 
 BK. XL. HSIANG YIN KIO f, 443
 a ae
-
 whole represented) the fundamental principles in the
 conduct of government and instruction.
 
@@ -19552,8 +18090,7 @@ che fact that the vivifying and expanding power in
 nature issues from the east.
 
 The washings took place at the eastern steps,
-and the water was kept on the east of the washing-
-place ;—in reverential acknowledgment of the fact
+and the water was kept on the east of the washingplace ;—in reverential acknowledgment of the fact
 that heaven and earth have placed the sea on the
 left.
 
@@ -19572,8 +18109,7 @@ summer, the name of which (also) denotes what
 is great :—what nourishes things, encourages their
 growth, and makes them great is benevolence. The
 quarter of the west suggests the idea of the autumn,
-the name of which also denotes gathering or collect-
-ing :—the fruits of the earth are gathered at this
+the name of which also denotes gathering or collecting :—the fruits of the earth are gathered at this
 season, suggesting the idea of justice in discrimi-
 
 
@@ -19611,8 +18147,7 @@ No alterations will remedy its incurable defects or reverse the
 severe judgment passed on it by P. Callery:—‘ The method, he
 says, ‘by which the author proceeds is exceedingly eccentric, and
 partakes at once of the nature of the pun, of allegory, and of
-mysticism. He begins by basing his comparisons on the resem-
-blance of certain sounds, or the homophony of certain words.
+mysticism. He begins by basing his comparisons on the resemblance of certain sounds, or the homophony of certain words.
 Then he seeks to find in the sense, proper to those words that
 are homophonous or nearly so, connexions with the principal word
 in the text; and as those connexions are far from being natural or
@@ -19646,8 +18181,7 @@ a season. Therefore in this ceremony precedence
 is thrice yielded to the guest, and in establishing
 a state three high ministers must be appointed.
 That the guests are in three divisions, each with
-its head or leader, indicated the fundamental prin-
-ciples in the administration of government and
+its head or leader, indicated the fundamental principles in the administration of government and
 instruction, and was the third great feature of the
 ceremony.
 
@@ -19666,8 +18200,7 @@ and ordinary officers, when they would shoot, first to
 celebrate the ceremony of the Drinking in the country
 districts. The ceremony of the Banquet served to
 illustrate the relation between ruler and subject;
-that of the District-drinking, to illustrate the distinc-
-tion between seniors and juniors.
+that of the District-drinking, to illustrate the distinction between seniors and juniors.
 
 2. The archers, in advancing, retiring, and all
 their movements, were required to observe the
@@ -19681,8 +18214,7 @@ seen |.
 3. To regulate (the discharging of the arrows),
 there was,—in the case of the son of Heaven, the
 playing of the 34u-yii; in the case of the feudal
-lords, that of the Li-shau; in the case of the digni-
-taries, the Great officers, that of the 3hai-pin; and
+lords, that of the Li-shau; in the case of the dignitaries, the Great officers, that of the 3hai-pin; and
 in the case of officers, that of the 3hai-fan’.
 
 
@@ -19696,15 +18228,12 @@ a a ae: | ad
 
 The 3au-yii! is expressive of joy that every office
 is (rightly) filled ; the Li-shau is expressive of the joy
-at audiences of the court; the 3h4i-pin is expres-
-sive of the joy in observing the laws (which have been
+at audiences of the court; the 3h4i-pin is expressive of the joy in observing the laws (which have been
 learned) ; and the 3hai-fAn is expressive of the joy
 in being free from all failures in duty. Therefore
-the son of Heaven regulated his shooting by keep-
-ing in his mind the right feeling of all officers; a
+the son of Heaven regulated his shooting by keeping in his mind the right feeling of all officers; a
 feudal prince, by keeping in his mind the times of
-his appearing before the son of Heaven; a digni-
-tary, being a Great officer, by keeping in his mind
+his appearing before the son of Heaven; a dignitary, being a Great officer, by keeping in his mind
 the observing of the laws (which he had learned) ;
 and an officer, by keeping in his mind that he must
 not fail in the duties of his office.
@@ -19713,13 +18242,10 @@ In this way, when they clearly understood the
 meaning of those regulating measures, and were thus
 able to avoid all failure in their services, they were
 successful in their undertakings, and their character
-
-
 the X4u Li ( t "As Book XXX, paragraphs 54-67, especially
 57), the 3au-yii was played or sung nine times; the Lf-shau
 seven times ; and the two other pieces five times. When the king
-was snooting therefore, he began to shoot after the fifth perform-
-ance, and had all the previous time to prepare himself; a prince
+was snooting therefore, he began to shoot after the fifth performance, and had all the previous time to prepare himself; a prince
 began to shoot after the third performance ; and in the two other
 cases there was only the time of one performance for preparation.
 
@@ -19729,17 +18255,13 @@ of the king; here seen in his delight at every office being rightly
 filled. The Li-shau, ‘ Fox’s Head,’ or ‘ Wild Cat’s Head,’ has not
 come down to us;—see note 2, page 124. The 3hai-pin and
 3h4i-fan are the fifth and second pieces of the same Book and
-same part of the Shih as the 34u-yii. The regulating the dis-
-charge of the arrows by the playing of these pieces was part of
+same part of the Shih as the 34u-yii. The regulating the discharge of the arrows by the playing of these pieces was part of
 the moral discipline to which it was sought to make the archery
 subservient.
 
 
 448 THE Li xf. BK, XLII,
-
-
-and conduct were established. When their charac-
-ters were established, no such evils as oppression
+and conduct were established. When their characters were established, no such evils as oppression
 and disorder occurred ; and when their undertakings
 were successful, the states were tranquil and happy.
 Hence it is said that ‘the archery served to show
@@ -19760,8 +18282,7 @@ kings paid much attention to it.
 5. Therefore, anciently, according to the royal
 institutes, the feudal princes annually presented the
 officers who had charge of their tribute to the son
-of Heaven, who made trial of them in the archery-
-hall. Those of them whose bodily carriage was in
+of Heaven, who made trial of them in the archeryhall. Those of them whose bodily carriage was in
 conformity with the rules, and whose shooting was
 in agreement with the music, and who hit the mark
 most frequently, were allowed to take part at the
@@ -19809,13 +18330,11 @@ was on this account that the son of Heaven insti
 tuted the custom, and the feudal lords diligently
 attended to it. This was the way in which the son
 of Heaven cherished the princes, and had no need
-of weapons of war (in dealing with them); it fur-
-nished (also) to the princes an instrument with which
+of weapons of war (in dealing with them); it furnished (also) to the princes an instrument with which
 they trained themselves to rectitude.
 
 7. (Once), when Confucius was conducting an
-archery meeting in a vegetable garden at Jio-
-hsiang, the lookers-on surrounded it like a wall.
+archery meeting in a vegetable garden at Jiohsiang, the lookers-on surrounded it like a wall.
 When the proceedings reached the point when a
 Master of the Horse should be appointed, he
 directed 37e-lfi to take his bow and arrows, and go
@@ -19888,8 +18407,7 @@ prince. He who hit the mark was permitted to be
 hit the mark was not permitted to retain his rank as
 a prince!.
 
-9. When the son of Heaven was about to sacri-
-fice, the rule was that he should celebrate the
+9. When the son of Heaven was about to sacrifice, the rule was that he should celebrate the
 archery at the pool, which name suggested the idea
 of selecting the officers (by their shooting) After
 
@@ -19924,8 +18442,7 @@ not permitted to do so. (The ruler of those) who did
 not receive the permission was reprimanded, and
 had part of his territory taken from him. The ruler
 of those who were permitted was congratulated, and
-received an addition to his territory. The advance-
-ment appeared in the rank; the disapprobation, in
+received an addition to his territory. The advancement appeared in the rank; the disapprobation, in
 the (loss of) territory.
 
 10. Hence, when a son is born, a bow of mulberry
@@ -19935,11 +18452,9 @@ of shooting at heaven, earth, and the four cardinal
 points. Heaven, earth, and the four points denote
 the spheres wherein the business of a man lies.
 The young man must first give his mind to what
-is to be his business, and then he may venture to re-
-ceive emolument, that is, the provision for his food.
+is to be his business, and then he may venture to receive emolument, that is, the provision for his food.
 
-11. Archery suggests to us the way of benevo-
-lence. (The archer) seeks to be correct in himself,
+11. Archery suggests to us the way of benevolence. (The archer) seeks to be correct in himself,
 and then discharges his arrow. If it miss the mark,
 he is not angry with the one who has surpassed
 himself, but turns round and seeks (for the cause of
@@ -19947,8 +18462,6 @@ failure) in himself. Confucius said, ‘The student
 of virtue has no contentions. If it be said that he
 cannot avoid them, shall this be in archery? (But)
 he bows complaisantly to his competitor, ascends
-
-
 places for the archery, one called the Xi Kung, ‘ Palace or Hall
 by the pool,’ and the other, Shé Kung, ‘ Palace or Hall of Archery.’
 which was, says Callery, ‘a vast gallery in the royal college.’
@@ -19968,8 +18481,7 @@ man },’
 12. Confucius said, ‘ How difficult it is to shoot!
 How difficult it is to listen (to the music)! To
 shoot exactly in harmony with the note (given) by
-the music, and to shoot without missing the bull’s-
-eye on the target :—it is only the archer of superior
+the music, and to shoot without missing the bull’seye on the target :—it is only the archer of superior
 virtue who can do this! How shall a man of
 inferior character be able to hit the mark? It is
 said in the Book of Poetry (II, viii, ode 6, 1),
@@ -20051,8 +18563,7 @@ to the west he stands there by himself :—showing
 that no one presumes to place himself on a par
 with him.
 
-3. Guests and host having been arranged, accord-
-ing to the rules for the ceremony of drinking in the
+3. Guests and host having been arranged, according to the rules for the ceremony of drinking in the
 country districts, (the ruler) makes his chief cook
 act for him in presenting (the cup):—a minister may
 not presume to take on himself any usage proper to
@@ -20099,8 +18610,7 @@ a tenth part (of their revenues). In this way he
 has enough, and his subjects do not suffer want.
 Thus harmony and affection prevail between high
 and low, and they have no mutual dissatisfactions.
-Such harmony and rest are the result of the cere-
-monial usages. This is the great idea in the
+Such harmony and rest are the result of the ceremonial usages. This is the great idea in the
 relation between ruler and subject, between high
 and low:—hence it is said that the object of the
 banquet was to illustrate the idea of justice between
@@ -20125,8 +18635,6 @@ finally offer it to the sons of concubines. The
 stands and dishes, with the flesh of the animals®,
 and the savoury viands, were all proportioned to
 the differences of rank in the guests :—and thus the
-
-
 distinction was shown between the noble and the
 mean.
 
@@ -20139,11 +18647,9 @@ suppose that it denotes here ‘the sons of the state’ under his charge.
 
 ? The ruler did this by his deputy, the chief cook, who officiated
 for him on the occasion. All the different offerings are said to
-have been made by him indeed; but that is not the natural inter-
-pretation of the text.
+have been made by him indeed; but that is not the natural interpretation of the text.
 
-* Khan Hao says these were dogs; see above, page 443, para-
-graph 17.
+* Khan Hao says these were dogs; see above, page 443, paragraph 17.
 
 
 BOOK XLV. PHING I
@@ -20169,8 +18675,7 @@ directly and in person. This was a high tribute
 of respect.
 
 3. The message was transmitted (only) after the
-messenger had thrice declined to receive (the cour-
-tesies offered to him at the gate); he entered the gate
+messenger had thrice declined to receive (the courtesies offered to him at the gate); he entered the gate
 of the ancestral temple after thrice in the same way
 trying to avoid doing so; thrice he exchanged bows
 with his conductor before they arrived at the steps ;
@@ -20187,15 +18692,11 @@ specified for his representative.
 
 BK. XLV, PHING f. 459
 ee
-
-
 the utmost his giving of honour and yielding
 courtesy.
 
-4. The ruler sent an officer to meet (the messen-
-ger) at the border (of the state), and a Great officer
-to offer him the customary presents and congratula-
-tions (after the toils of the journey) in the suburb
+4. The ruler sent an officer to meet (the messenger) at the border (of the state), and a Great officer
+to offer him the customary presents and congratulations (after the toils of the journey) in the suburb
 (near the capital); he himself met him and bowed
 to him inside the great gate, and then received him
 in the ancestral temple; with his face to the north
@@ -20218,8 +18719,7 @@ he had delivered his message), the ruler himself
 showed him courtesy, (and presented to him the
 cup of new liquor). He had his private interviews
 (with the dignitaries and Great officers of the
-court), and also with the ruler’. (After this), sup-
-plies of animals, slaughtered and living, were sent
+court), and also with the ruler’. (After this), supplies of animals, slaughtered and living, were sent
 (to his hotel). (When he was about to take his
 departure), the jade-symbols (by which he was
 accredited) were returned to him, and the return
@@ -20243,8 +18743,7 @@ in receiving visitors and guests}.
 Heaven for the feudal lords, that every year they
 should interchange a small mission, and every three
 years a great one :—thus stimulating one another
-to the exercise of courtesy. If the messenger com-
-mitted any error in the exchange of his mission,
+to the exercise of courtesy. If the messenger committed any error in the exchange of his mission,
 the ruler, his host, did not personally entertain
 and feast him :—thereby making him ashamed, and
 stimulating him.
@@ -20259,8 +18758,7 @@ appeal to arms, and they were furnished with an
 instrument to maintain themselves in rectitude.
 
 8. (The commissioners) carried with them their
-jade-symbols, the sceptre and half-sceptre :—show-
-ing the importance of the ceremony. On the
+jade-symbols, the sceptre and half-sceptre :—showing the importance of the ceremony. On the
 completion of their mission, these were returned
 to them:—showing the small importance to be
 attached to their value, and the great importance
@@ -20289,8 +18787,7 @@ as many of fodder and firewood were provided
 outside. There were five pairs of birds that went
 in flocks every day. All the attendants had cattle
 supplied to them for their food. There was one
-meal (a day in the court), and two (spare) entertain-
-ments (in the temple). The banquets and occasional
+meal (a day in the court), and two (spare) entertainments (in the temple). The banquets and occasional
 bounties were without any definite number. With
 such generosity was the importance of the ceremony
 indicated},
@@ -20300,8 +18797,7 @@ in antiquity in the use of their wealth; but their
 employment of it thus liberally (in connexion with
 these missions) showed how they were prepared to
 devote it to the maintenance of the ceremonies.
-When they expended it as they did on the cere-
-monies, then in the states ruler and minister did not
+When they expended it as they did on the ceremonies, then in the states ruler and minister did not
 encroach on one another's rights and possessions,
 and different states did not attack one another. It
 was on this account that the kings made their
@@ -20317,13 +18813,9 @@ be found in great detail in the 8th division of the 1 Li, Books 15-
 a mandarin from Canton to a disturbed district in the interior, he
 
 
-462 THE Li Ki. BK. XLV.
-
-
 11. The archery in connexion with these missions
 was a very great institution. With the early dawn
-they commenced it, and it was nearly midday be-
-fore the whole of the ceremonies were concluded :—
+they commenced it, and it was nearly midday before the whole of the ceremonies were concluded :—
 it required men of great vigour and strength to go
 through with it.
 
@@ -20346,8 +18838,6 @@ great ability in action. The ascribing to them such
 ability in action implied their possession of the sense
 of righteousness ; and their possession of that sense
 implied that they were valiant and daring. The
-
-
 introduced one day in conversation the subject of these missions,
 saying that they must have been a great drain on the revenues of
 the ancient states, and that in the same way in the present day
@@ -20362,8 +18852,6 @@ of its embassy.
 
 BK. XLY, PHING f, 463
 i J oe. ee
-
-
 most valuable quality in a man who is bold and
 daring is that he can thereby establish his sense of
 righteousness ; the most valuable quality in him
@@ -20376,15 +18864,13 @@ possessor dares to carry into practice the rules of
 ceremony and righteousness.
 
 It follows from this that such men, bold and
-daring, full of vigour and strength, when the king-
-dom was at peace, employed their gifts in the
+daring, full of vigour and strength, when the kingdom was at peace, employed their gifts in the
 exercise of propriety and righteousness ; and, when
 there was trouble in the kingdom, employed them
 in the battle-field and in gaining victory. When
 they employed them to conquer in battle, no enemies
 could resist them; when they employed them in the
-exercise of propriety and righteousness, then obe-
-dience and good order prevailed. No enemies
+exercise of propriety and righteousness, then obedience and good order prevailed. No enemies
 abroad, and obedience and good order at home :—
 this was called the perfect condition for a state.
 But when men, so endowed, did not use their
@@ -20418,8 +18904,7 @@ glossy, it appeared to them like benevolence; fine,
 compact, and strong,—like intelligence ; angular, but
 not sharp and cutting,—like righteousness ; hanging
 down (in beads) as if it would fall to the ground,—
-like (the humility of) propriety ; when struck, yield-
-ing a note, clear and prolonged, yet terminating
+like (the humility of) propriety ; when struck, yielding a note, clear and prolonged, yet terminating
 abruptly,—like music; its flaws not concealing its
 beauty, nor its beauty concealing its flaws,—like
 loyaity ; with an internal radiance issuing from it
@@ -20464,16 +18949,14 @@ of their origin.
 to felicitous and unfortunate occurrences ; in which
 they should not come into collision with one
 another :—this is derived from (their pattern as
-given by) the contracting and developing move-
-ments in nature.
+given by) the contracting and developing movements in nature.
 
 3 The mourning dress has its four definite
 fashions and styles, the changes in which are
 always according to what is right:—this is derived
 from the (changes of the) four seasons.
 
-Now, affection predominates; now, nice distinc-
-tions; now, defined regulations; and now, the
+Now, affection predominates; now, nice distinctions; now, defined regulations; and now, the
 consideration of circumstances :—all these are
 
 
@@ -20484,13 +18967,9 @@ consideration of circumstances :—all these are
 
 
 466 THE Li Kf. BK. XLVI,
-
-
 derived from the human feelings. In affection we
-have benevolence; in nice distinctions, righteous-
-ness; in defined regulations, propriety ; and in the
-consideration cf circumstances, knowledge. Benevo-
-lence, righieousness, propriety, and knowledge ;—
+have benevolence; in nice distinctions, righteousness; in defined regulations, propriety ; and in the
+consideration cf circumstances, knowledge. Benevolence, righieousness, propriety, and knowledge ;—
 these make up the characteristic attributes of
 humanity.
 
@@ -20504,11 +18983,9 @@ affection.
 family circle, the affection throws the (duty of public)
 righteousness into the shade’. In the regulation
 (of that which is) beyond that circle, the (duty of
-public) righteousness cuts the (mourning of) affec-
-tion short!. The service due to a father is employed
+public) righteousness cuts the (mourning of) affection short!. The service due to a father is employed
 in serving a ruler, and the reverence is the same for
-both :—this is the greatest instance of (the convic-
-tion of the duty of) righteousness, in all the esteem
+both :—this is the greatest instance of (the conviction of the duty of) righteousness, in all the esteem
 shown to nobility and the honour done to the
 honourable. Hence the sackcloth with jagged edges
 is worn (also) for the ruler for three years :—
@@ -20570,23 +19047,20 @@ will proceed (as he directs), he rises by the help of
 Hh 2
 
 
-468 THE Li xi. BK. XLVI.
 the staff. Where (the mourner) has himself to take
 part in what is to be done, he will have his face
 grimed (as if black with sorrow). Women who are
 bald do not use the coiffure; hunchbacks do not
 unbare their arms; the lame do not leap; and the
 old and ill do not give up the use of liquor and
-flesh. All these are cases regulated by the con-
-sideration of circumstances.
+flesh. All these are cases regulated by the consideration of circumstances.
 
 8. After the occurrence of the death, the (wailing
 for) three days, which left no leisure for anything
 else; the not taking off (the headband or girdle)
 for three months; the grief and lamentation for a
 whole year; and the sorrow on to the three years :—
-(in all these things) there was a gradual diminu-
-tion of the (manifestation of) affection. The sages,
+(in all these things) there was a gradual diminution of the (manifestation of) affection. The sages,
 in accordance with that diminution of the natural
 feeling, made their various definite regulations.
 
@@ -20617,8 +19091,7 @@ account the approval of him was expressed, and
 therefore it was recorded in the Sha, and he was
 styled Kao (The Exalted), and designated Kéo
 3ung (The Exalted and Honoured Sovereign).
-(The rule was that), during the three years’ mourn-
-ing, a ruler should not speak; and that the Shit
+(The rule was that), during the three years’ mourning, a ruler should not speak; and that the Shit
 says, ‘ Kao 3ung, while he occupied the mourning
 shed, for the three years did not speak, was an
 illustration of this. When it is said (in the Hsido
@@ -20631,8 +19104,7 @@ sackcloth with jagged edges (for a father), (a son)
 indicated that he heard what was said to him, but
 did not reply in words; when wearing that with
 even edges (for a mother), he replied, but did not
-speak (of anything else}; when wearing the mourn-
-ing of nine months, he might speak (of other things),
+speak (of anything else}; when wearing the mourning of nine months, he might speak (of other things),
 but did not enter into any discussion ; when wearing
 that of five months, or of three, he might discuss, but
 did not show pleasure in doing so.
@@ -20646,8 +19118,7 @@ month, he put on the mourning silk and cap proper
 after the first year; and when the three years were
 completed, he offered the auspicious sacrifice.
 
-12. When one has completed these three regu-
-lated periods, the most animated with the sentiment
+12. When one has completed these three regulated periods, the most animated with the sentiment
 
 
 470 THE Li Kf. BK, XLVI.
@@ -20662,3412 +19133,3 @@ discharge). The propriety that regulates them, and
 the righteousness that maintains their correctness,
 may be examined by filial sons, deferential younger
 brothers, and pure-minded virgins.
-
-
-INDEX
-
-
-tO THE
-
-
-TEAS OF CONFUCIANISM,
-
-
-PARTS I, IJ, Ill, IV,
-
-
-VOLUMES III, XVI, XXVII, XXVIII.
-
-
-INDEX OF SUBJECTS.
-
-
-The references refer to the parts and the pages.
-
-
-Ability and character necessary to
-official employment, Part i,
-pages 221-5; lii, 322-4.
-
-Acts and character, of Y4o, i, 31-6;
-of Shun, as Y4o’s vice-gerent, i,
-38-415 as sovereign, i, 42-5.
-
-Administration of government, royal
-regulations for, iii, 209-48; in
-the twelve months of the year,
-iii, 249-310; of justice, and how
-tempered, i, 43, 48-9, 254-64;
-lll, 235-8.
-
-Admonitions, of Yii to Shun, i, 58-
-
-61; of ] Yin to Thai Kia, 92-
-
-103; to the prince of Khang,
-
-170-1; to prince Shih, 205-10;
-
-to king Khang, 200-5, 220-5,
-
-404-7; to officers, 407-10; of
-
-duke Wi to himself, 413-17.
-
-and the aged, all dynasties
-honoured in all conditions of
-life, iv, 229-31; reverence and
-
-care of, i, 123, 185, 401; iii, 67-
-
-8, 70, 73-4, 240-4, 287-8, 464-
-
-70 (delicacies provided for);
-
-how shown in walking with, iv,
-
-230; three classes of the aged,
-
-see Three,
-
-
-Age
-
-
-Agriculture, references to and de-
-scriptions of, i, 32-4, 42-3, 85,
-258, 312, 316, 320-3, 331-3, 365,
-369-70, 383, 389, 398-9; lil, 227-
-30, 239,255,260, 264, 270-1, 274,
-284, 289, 293, 304, 308-9, 431-2.
-
-Altars, i, 40, 153, 420 (and note);
-the Great, i, 384 (and note); to
-thespirits of the land and grain,
-iv, 2353 various, iv, 206-7.
-
-Ancestral temples and worship, i, 40-
-1, 44, 51, 92, 95, 126, 130, 134,
-304-13, 313-36, 343, 348, 365-8,
-379, 374-5; 387, 402-3, 420, 431-
-2, 477-8, 485-6, 488; ill, 223-5,
-369-71, 411-13; iv, 204-6, 309-
-
-
-it,
-Ancients, the, emblematic figures of,
-i, 58; lessons and examples of,
-107, 166, 171, 204,229, 249, 252,
-301. Ancient sayings, i, 271, 408.
-Announcements, or public procla-
-mations, and speeches, at Kan, i,
-76-7; of Thang, 84-6; of Kung-
-hui, 86-9; of king Wiai,—the
-Great Declaration, 124-32,
-Speech at M@, 131-2, and The
-Completion of the War, 133-5 ;
-
-
-472
-
-
-THE TEXTS OF CONFUCIANISM,
-
-
-a
-
-
-of king Khang, 156-61(the Great
-Announcement) ; to prince of
-Khang,165-71; against drunken-
-ness, 171-81; of the duke of
-Shao, 181-8; of the duke of
-Kau, 188-95; of king K/ang, to
-the people of Shang, 196-200;
-to his ministers, 226-31; of
-king Khang, 243-8; the speech
-at Pi, 267-70; of the marquis
-of Khin, 270-72.
-
-Announcements of deaths, forms of,
-iv, 133-4.
-
-Antiquity, Yao and Shun studied, i,
-227 (and note) ; highest, the, ii,
-385; middle, the, ii, 397; ways
-of, to be followed, iv, 324.
-
-Aprons, or knee-covers, i, 350; iv,
-14, 153 size of parts of, iv, 172.
-
-Archery, i, 375-400; iii, 202, 231,
-375, 400; the ceremony of, iii,
-56-75 iv, 446-53.
-
-Arrows in the game of pitch-pot, iv,
-397-400.
-
-Army, royal, i, 76-7, 81, 2443 see
-Six; signals and movements of,
-in an expedition, iii, go-2. Army
-of Li, i, 344 (and note).
-
-Arts or special acquirements, iii,
-2353 Iv, 116.
-
-Association of husband and wife in
-sacrifices, iv, 238-41. See also
-i, 431-2.
-
-Astronomical references, i, 23-8,
-32-4, 38-9, 82, 142, 296, 355,
-363-4, 419; lil, 91-2, 249, 254,
-257, 259, 262, 268, 272, 275,
-276, 283, 286, 289, z91, 296,
-301, 304, 306, 308, 426.
-
-Audiences and other great meetings,
-i, 40, 229, 373-4, 427-83 iii,
-111-2, 218; non-attendance at
-was criminal, i, 426.
-
-Avenging the death of parents and
-others, iii, 92, 140.
-
-
-Banishment, rules for, i, 40-1, 43;
-iii, 232-43 cases of, i, 41, 75-6.
-Banners, i, 326, 338, 342, 351; 418;
-
-
-lii, 91-2.
-
-Banquet, ceremony of the, iii, 57-8;
-IV, 454-57:
-
-Barter, established by Yu, i, 58. See
-Inventions.
-
-
-Bathing and washing, iv, 5.
-
-
-Bells, see Music. The weoden-
-
-
-tongued bell, i, 82; iii, 190,
-260; iv, 34, 165.
-
-Birth, usages in connexion with, of
-a boy or girl, by the wife, iii,
-471-4; by aconcubine, 475; of
-sons and daughters differently
-regarded, i, 350-1; usages on
-special occasions of, iii, 311-
-7%,
-
-Blessing of sacrifice, the, iv, 236-7.
-
-Blind, musicians, i, 323 (and note).
-Hall of the, a school of music,
-iii, 346.
-
-Bows, see Weapons of war. Bows
-and arrows, conferred as re-
-wards and at investitures, i,
-267; use: of, at the birth of an
-heir-son, iii, 424 (and note), 472.
-How a bow was presented and
-received, iii, 84-5.
-
-Branding, i, 256.
-
-Bride and bridegroom, observances
-between, iii, 440-13; iv, 264-5;
-see also Book XLI. Brides of
-kings Ki, Wan, and Wi, i, 380-1.
-
-Burial, earliest forms of gave way
-to use of coffins, ii, 385; differ-
-ent materials of coffins, iii,125;
-coffins prepared beforehand
-and kept in readiness, iii, 241 ;
-taken with rulers leaving their
-states, ili, 334. Reasons for
-burial and coffin, iii, 177, 185;
-times of, iii, 222-3. Thickness of
-coffins, iii, 150; iv, 196. Coffins
-of kings fourfold, iii, 158. Coffin
-on bier presented in temple,
-and then drawn to grave, iii,
-172; iv, 164-5; catafalque of,
-at great funerals, iv, 197-8; let-
-ting down of, iv, 198-9; with
-head to the north, and on the
-north of city, iii, 170. Rain
-did not interrupt an interment,
-iil, 223; case of an eclipse oc-
-curring, iii, 338-9; vessels to
-the eye of fancy and other
-things for the grave or coffin,
-iil, 148 (and note), 173 (wooden
-automata condemned), iv, 55-6,
-144, 197-8. Procedure when
-both parents were buried at
-same time, ili, 3153; in case of
-a lady dying before she had
-become acknowledged wife, iii,
-322. Origin of burying young
-
-
-INDEX OF SUBJECTS.
-
-
-473
-
-
-boys in coffins, iii, 341.
-coffin, ili, 149.
-
-Burying livin g persons with the dead
-1, 4433 ili, 182, 184.
-
-
-A stone
-
-
-Calamities, the avoidable and un-
-avoidable, i, 98.
-
-Lalling back the dead, iii, 108, 112,
-129, 157, 167, 340, 368-9; iv,
-132, 136, 143, 174-5.
-
-Cap, the royal, with pendants, iv, 1;
-other caps, i, 240, 334, 379} ili,
-69, 76, 103, 125, 133, 144,
-146, 153, 160, 201 (cap of the
-bee), 288, 327, 344, 402, 433,
-437-8, 449, 4543 lV, 5, 9, 10,
-54, 135-6, 138, 140-1, 162, 369,
-378, 382, 402.
-
-Capping, ceremony of, iii, 65, 79,
-83, 144, 316-7, 358, 367, 388,
-437-8, 4773 1V, 9, 52, 97, 162,
-402, 425-7.
-
-Carriages or chariots, and their
-teams, i, 239 (and note), 243,
-327, 342, 382, 407, 414, 418,
-4243 easy, iii, 66. Chariot and
-horses, royal gift of, i, 267; iii,
-67; small, sent to grave, iii,
-
-
-161 (and note); iv, 140-1; the.
-
-
-soul-carriage, iii, 96 (and note).
-Carrying and holding articles, rules
-for, iii, 73, 99, 100; iv, 77.
-Castration, iv, 99 (note).
-Ceremonies, respect or reverence
-in, essential, i, 4823 iii, 61-2;
-their use and indispensableness,
-, 63-53 iv, 270-77. Origin,
-cath, and development, iii,
-364-93; originated in the
-Grand Unity, 386-8; their use
-in the formation of character,
-with the varying characteristics
-of their value, 394-414; as
-dykes, for conservation and de-
-fence, iv, 284-99. In govern-
-ment of a state, and all relation-
-ships, iv,257-60. Affordexample,
-iv, 330-64. The greatest of all
-things by which men live, iv,
-261. Determine the due mean,
-and what is right, 271. Com-
-pared and contrasted with
-music, iv, 96-105, 114-6, 224-6.
-Grouped under five categories,
-iv, 236 (and note); and under
-six, ili, 230, 248. Comprehend
-
-
-300 greater rules and 3000
-smaller, iv, 323.
-
-Charges, to Yiieh, i, 112-8; to the
-count of Wei, 161-3; to Kung
-of Shai, 211-3; to Kiin-4£4an,
-231-4; tothe duke of Pi, 245-
-9; to Kiin-ya, 250-1; to K/iuny,
-252-3; to the marquis Wan,
-265-7; the Testamentary
-Charge of king Khang, 234-42;
-to the earl of Shao, 423-4; to
-Kung Shan-fi, 425-6 ; to Hi of
-Shao, 427.
-
-Civilisation, steps in early progress
-of, ii, 383-5. See Inventions.
-
-Comparisons, rule about, iii, 114.
-
-Complaint, of king Yii’s queen, i,
-376; of distressed officer, 364;
-of a wife, 433-4; of unfortunate
-woman deserted, 437-8.
-
-Concubines, iii, 78, 101, 109, 113,
-184, 189, 457, 471-2, 475, 4783
-IV, 44, 47, 48-9, 51, 52, 55,137,
-138-9, 152, 183, 297-8.
-
-Condolences, see Mourning rites.
-
-Confucius, at home at ease, iv, 270-
-7; at leisure, 278-83; death of,
-ili, 138-9. His burial of his
-mother, iii, 123, in same grave
-with his father, 124-5, and of
-his dog, 196-7. Ideal descrip-
-tion of, iv, 326-7. Friendship
-with Yiian Zang, iii, 198-9 (and
-note).
-
-Consecration of a temple and its
-vessels by blood, iv, 169-70.
-Constellations and stars, see Astro-
-
-nomical, and i, 149.
-
-Counsels, of Shun to pastors of pro-
-vinces, i, 42; of the Great Yii,
-46-52; of Kao-ydo, 53-6; of
-
-Yin, 92-103; of duke Wd to
-himself, i, 413-7.
-
-Count, one of the orders of nobility,
-i, 136 (and note); iii, 209; iv,
-30. Title of chiefs of the wild
-tribes, iii, rrr.
-
-Crimes, of Kieh of Hsia, i, 85, 197,
-216; of Shau of Yin or Shang,
-i, 119-21, 125-30, 135,177, 197-
-8, 222, 411-2.
-
-Criminals, how dealt with, iii, 215-6.
-
-Cups, jugs, and other drinking ves-
-sels, i, 343, 366, 37475 (and note),
-386, 4275 445~- 6; iv, 32, 35.
-
-Cupboards, iii, 464.
-
-
-Dancing or pantomime, taught to
-boys at thirteen, and afterwards,
-iii, 477 (and note); 255 (and
-note), 345, 3473 iv, 92 (and
-note), 121-31 (to the piece Ta-
-wii). Dancing habits of Yin, i,
-239. See also i, 343, 375.
-
-Death, what takes place at, ili, 369,
-4443 iv, 220-1; names for, of
-different parties, iii, 108, 112,
-117; of parents alive and dead,
-118; of husband, wife’s lament
-over, i, 441-2; of three worthies
-of Khin, i, 443-4.
-
-Decades, life divided into, and de-
-scribed, iii, 65-6.
-
-Demeanour, importance of, i, 413-
-4; of different parties, iii, 112;
-iv, 25-7; of son, on father’s
-death, iii, 129; at grave, 137;
-in serving parents, i, 480-1; in
-mourning, 487-8.
-
-Different, teaching of the different
-classical books, iv, 255-6; an-
-swers to questions about age
-and wealth, iii, 115-6.
-
-Dishes, arrangement of, at feast, iii,
-79; various, of food, iii, 459-
-643; 468-70.
-
-Divination, i, 50, 104, 128, 145-7
-(and note), 153-4, 157-9, 161,
-183, 189-90, 349, 350-2 (about
-dreams), 358-9; ii, 371-2 (and all
-ii. is, in form at least, a book of
-divination) ; iil, 78, 94, 119, 128,
-181, 235, 238, 385, 428, 472; iv,
-51, 71, 84, 135, 156, 180, 223,
-289, 295, 298, 320, 331, 349-51.
-
-Division of kingdom into twelve
-provinces, i, 40, 60; into nine,
-i, 64-72, ror (see also 310) ; iii,
-III, 211-2, 4133 iv, 208. Di-
-vision and apportioning of the
-income, ili, 221-2. °
-
-Divorce, iii, 122 (and note, Did
-Confucius divorce his wife?), 457
-(and note); iv, 42, 44, 45, 573
-of a lady sent back before she
-had become the acknowledged
-wife, iv, 170-1.
-
-Doctor’s family should have prac-
-tised medicine for three genera-
-tions, iii, 114.
-
-Domains or tenures, the five, i, 75-6,
-229. See also i, 163, 176-7,
-183, 207, 244.
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-Doubts, submitted to divination, i,
-145-6.
-
-Dress, ordinary, of young men and
-their wives, iii, 449-50; of
-mourning, see Mourning rites.
-The black robes, iv, 352-64.
-The long dress, iv, 395-6. Dark-
-coloured robes, iii, 448 ; variou:
-particulars about, iv, 9-17.
-
-Drinks, iii, 446-7(and note), 460; iv, 8.
-
-Drinking in the country districts,
-ceremony Of, iii, 56; iv, 435-45-
-
-Dyeing, iii, 278.
-
-Dynasties, see Three, Four, Five,
-Seven.
-
-
-Ears, cutting off, a punishment, i,
-168, 256; left, of captives, i,
-339, 392.
-
-Ears of grain, left in field for the
-widow, i, 373.
-
-Eating, rules in, iii, 80-1, 89 ; iv, zo-1.
-
-Eclipse of the sun, and ceremonies
-at, i, 82 (and note); another, i,
-355; at an interment, iii, 338-9.
-
-Economy, rules of, iv, 3, 435 iii, 227.
-
-Education and schools, iii, 231-5,
-242, 255, 266, 308, 347-9, 359-
-61; iv, 82-90; attention of king
-Wa to, i, 137. Education of
-young princes, ili, 345-50; iv,
-82-90; ordinary of a boy, iii,
-476-7; of a girl, 478. The
-Great Learning, iv, 411-24.
-
-Eight is the number of the months
-of spring, iii, 250, 258, 262.
-Eight objects of government, i,
-141-23 lili, 230, 248; tribes of
-the Man, i, 150; iv, 30; &4
-sacrifices, iii, 431; materials of
-musical instruments, iv, 111;
-men walked beside the ruler’s
-bier with clappers, iv, 165;
-bells at the bits of carriage
-team, i, 338, 426; baskets of
-grain placed by ruler’s coffin, iv,
-197; dishes at sacrifice, iv, 38.
-
-Eighty, old men of, iii, 66, 465-6;
-iv, 230, 232.
-
-Endogens and exogens, iii, 394 (note).
-
-Equilibrium and harmony, state of,
-iv, 300-29 (see note 3, p. 307).
-
-Eulogies, rule for, iii, 3 33-4(and note).
-
-Example, the, of the sovereign, i,
-53-4, 60, 88-9; effects of, i,
-201-4; of crown-prince, iii,
-
-
-INDEX OF SUBJECTS. 475
-
-
-351-3; as taught by the cere-
-monial usages, iv, 330-64.
-
-
-Father and son, the relationship of,
-
-
-iii, 3455 iv, 313.
-
-
-Father and mother, different posi-
-
-
-tion of with son, iv, 341.
-
-
-Fathers of husbandry, the, i, 371
-
-
-(and note), 372; iii, 431; of
-war, i, 392 (and note) ; iii, 220;
-of cookery, iii, 79; iv, 38; of
-match-making, iii, 259; of the
-fish-diet, iv, 78.
-
-
-Filial Piety, Classic of, i, 465-88;
-
-
-its name, early existence, con-
-tents, and author, 449-51; its
-history to A.D. 745, i, 452-8;
-and since, 458-62 ; descriptions
-and instances of, i, 212, 393-4;
-iii, 67-9, 87-8, 172, 182, 343,
-357-8, 360-1, 372, 379, 386,
-446, 449, 455-7, 467, 477; iv,
-24, 41, 211-7, 222, 226-9, 233-4,
-236-8, 268-9, 289-91, 308-11;
-when parents are ill, iii, 343-4;
-under other peculiar circum-
-stances, iii, 335-7; when parents
-have faults, and deal hardly, iii,
-456-7. An unfilial ruler was
-reduced in rank, iii, 217.
-
-
-Five jade-symbols of rank, i, 39; iv,
-
-
-168-9; relationships of society,
-and duties of, i, 43, 129, 137;
-iii, 379-80; ceremonies, i, 55
-(see Ceremonies) ; emblematic
-figures on robes, i, 56; pun-
-ishments, i, 48, 56, 255, 261,
-4815 iil, 235-6; iv, 99, 384;
-coloured earths, i, 67 ; correct
-colours, iii, 382 ; iv, go; inter-
-mediate colours, iv, 11 (in note);
-flavours, iii, 382, 4353; domains
-(see Domains) ; elements, i, 77,
-140-1; ili, 382; sons, songs of
-the, i, 78-80; orders of nobility,
-i, 136, and their territories, iii,
-209; personal matters and their
-qualities, i, 141; dividers of
-time, i, 142; favourable and
-unfavourable verifications, i,
-147; sources of happiness and
-extreme evils, i, 149; adminis-
-trative officers, iii, 109-10;
-sacrifices of the house, iii, 116,
-225, 300, 329, 376, 385; Great
-officers in Great state, iii, 214;
-
-
-I a ee ee
-
-
-states, a union, iii, 212; tour
-of inspection in five years, i, 40 ;
-iii, 216; princes appeared at
-court once in five years, i, 40;
-iii, 216; five kinds of grain, iii,
-221, 229, 270, 272, 276, 280,
-293, 308; ancestral temples of
-princes, iii, 223, 3973 iv, 205;
-five regions, the, iii, 229; turn-
-ings over of royal boat, iii, 263 ;
-five storehouses, iii, 265; con-
-ditions in sacrificial victims, iii,
-288; weapons of war, iii, 294;
-descendants of the rulers in five
-temple shrines, iii, 355-8; five
-classes of the experienced, iii,
-360; iv, 124, 231; beverages,
-iv, 2; washings of hands a day,
-iv,5; Ti, the, iv, 30; Tis, the,
-ill, 468; iv, 102, 130; degrees
-in kinship, iv, 42 (and note) ;
-heads of clans changed in five
-generations, 43, 63, 65; five
-things claiming first attention
-of sovereign, 61; attendant
-carriages of Great officers of
-first grade, 75; fifth year of
-study, 83; five degrees of
-mourning, 90; five senses, 90;
-strings, lute with, 105; usages
-of king, conveying great les-
-sons, 124; days’ leaping on
-death of Great officer, 143;
-months’ mourning, 158; shells
-in stuffing Great officer’s mouth,
-wailing for him ended in five
-months, sacrifice of Repose for
-him offered five times, prince
-buried five months after death,
-164; things of shame to an
-officer, 166; double rolls of
-silk, a marriage offering, 172;
-cross-bands in greater dressing
-of dead, 186; dynasties, 204;
-five premature deaths for which
-king sacrificed, 207; things
-securing good government, 216 ;
-objects accomplished by sacri-
-fice, 219-20; extreme points,
-the, 278-9; fivefold or univer-
-sal path, 313; wailings and
-leapings of one who had hurried
-to mourning rites, 369-73; rules
-for long dress, 396.
-
-
-Fifty, men of, iii, 66, 162, 240-1,
-
-
-464-63 iv, 230,
-
-
-476 THE TEXTS OF CONFUCIANISM.
-
-
-Four, classes of the people, i, 229 ;
-seas, the, 41, 46, 47, 76, 81,
-117-8, 136; iii, 211, 245, 303,
-413; 1V, 91, 99, 227, 280, 295,
-308-9; mountains, i, 229 (see
-35, 39-40); states, the, 214,
-217; rivers, iii, 225 (and note) ;
-subjects of instruction in four
-seasons, iii, 232-3 (and note);
-cases of fatal criminality, 238 ;
-forlorn classes, 244; inspectors,
-278, 308; things interrupting
-an audience, 328; aides, 350;
-agencies, 378; intelligent crea-
-tures, 383-4; limbs, 390; iv,
-320; quarters, orcardinal points,
-472; dishes of grain at royal
-meal, Av,..43. al, thes 303
-dynasties, 36, 39, 88; rules
-for effectual teaching, 86; de-
-fects in learners, 87; aids to the
-fundamental in instruction, 91 ;
-characteristics of ancient music,
-108; states with bad music,
-119; baskets of grain put by
-officer’s coffin, 197; schools,
-the, 232; lowest classes of
-menials, 249; things at grand
-festive entertainments, 274;
-seasons, the, 281, 326, 393;
-things Confucius had not at-
-tained to, 305-6.
-
-Forty, men at, iii, 66.
-
-
-Game of pitch-pot, iv, 397-401.
-
-Gifts sent on occasions of death and
-burial, and ceremonies of, iv,
-144-8.
-
-God (Ti and Shang T)), i, 39, 58,
-85, 87, 89, 91, 95, 99, III, 114,
-126, 130, 135, 139, 144, 153,
-159, 161, 163, 166, 184-5, 196-8,
-206-8, 214-5, 221-2, 245, 256,
-259, 266, 307, 309-10, 319-20,
-321, 341, 343, 354, 378, 381-2,
-389-92, 397, 399, 408, 410, 412,
-420, 422; ll, 150, 223, 255, 287,
-341, 4255 Il, 218, 220, 254,
-273, 288, 293, 309, 344, 370,
-385, 407, 410, 413-4, 430-1; iv,
-60, 118, 167, 212, 281, 311,
-338-9, 349, 363.
-
-God (ti and shang-ti, used, pro-
-bably, in the sense of demigod,
-or deified hero), i, 32, 34, 38,
-
-
-41-5, 46-52, 54, 57-8, 60-2, 256,
-
-
-258. So, in the phrase ‘five
-Tis, see Five; and, in iii, 250,
-257, 262, 268, 272, 276, 280,
-283, 287, 291, 296, 302, 306.
-
-Good, their, ascribed by men to
-their parents, by ministers to
-their rulers, by sovereigns to
-Heaven, iv, 233.
-
-Good, men are born, i, 89-90, 234,
-410, 425.
-
-Government, appointed by Heaven
-for good of the people, i, 86-7,
-90, 115, 309; fundamental con-
-nexion of, with Heaven, iii, 376;
-different conditions of, iii, 375-8;
-of Kau dynasty, i, 219-25, 226-
-31; Royal regulations for, iii,
-209-48; Confucius on the prac-
-tice of, iv, 263-4, 312-7, 340-7.
-
-Governmental proceedings for each
-month, iii, 249-310.
-
-Grand course, early period of the,
-ili, 364-6.
-
-Grief, various outward manifesta-
-tions of in mourning, iv, 385-90.
-
-
-Habit becomes a second nature, i, 97.
-Hall of Distinction, the, iii, intro-
-duction, 28-30; i, 477 (and
-note); iv, 231; progress of king
-through its different apart-
-ments from month to month,
-jii, 251-2, 258, 263, 269, 273,
-277, 281, 284, 257, 292, 297,
-302, 3073; audience held in it
-by duke of Kau, iv, 29-31;
-effect of sacrifice in it, iv, 231.
-Harems of king and princes, iii,
-100, 109, 113; iV, 432-4.
-Harmony, benevolence, confidence,
-and rightness, conditions of, iv,
-
-
-257.
-
-Heaven (=the Supreme Being), i,
-39, 45, 50, 55-6, 58, 62, 77, 81,
-83, 85, 86-7, 89, 90-1, 93, 96,
-98-9, IOI, 104, 108-9, 115, 118-
-22, 125-30, 132, 134-5, 139, 154,
-156-61, 166-7, 169-70, 174,
-176-8, 184-90, 192, 196-201,
-205-8, 210, 212, 214-9, 236, 241,
-245, 248, 259-60, 262, 264, 266,
-306-7, 310-2, 316-7, 320, 325,
-335) 342, 345, 347-8, 352, 354,
-357-61, 364, 376; 378-81, 389,
-394, 408-11, 414, 416-9, 425,
-428-9, 434-5, 439, 441, 444, 479,
-
-
-INDEX OF SUBJECTS.
-
-
-Leer
-
-
-484; li, 88, 155, 213-4, 218,
-226, 229-30, 234-5, 239, 251,
-254, 263, 276, 285, 322, 351, 354)
-372, 375-6, 383, 4173 iii, 135,
-159, 201, 220, 236, 244, 256,
-279, 333, 367, 371, 388-9, 410,
-427, 4303 iv, 96, 201, 218, 224,
-233, 268-9, 281, 286, 288, 300,
-306, 309, 313, 317, 322, 325,
-327, 329, 337-8, 341, 347) 359.
-To these should be added the
-very many instances of the oc-
-currence of the term in the
-highest name of the sovereign
-as ‘the son of Heaven,’ see iii,
-107, note 1.
-
-Heaven and Earth (where the phrase
-has more than a material mean-
-ing), 1, 125, 129, 135, 2283 ii,
-223-4) 226, 227, 235, 238-40,
-242-3, 245, 250-1, 257, 353-4,
-358, 362, 380-1, 395, 417, 424,
-433% Mi, 216, 222, 225, 285,
-372, 377, 380, 382-3, 387, 396,
-410, 4393 iV, I00, 106, 111,
-114-5, 118, 128, 131, 202-3, 222,
-257, 281, 300, 304-5, 311, 321-2,
-326-7, 349, 379. How they re-
-spond to music and ceremonies,
-iii, 115 (and note).
-
-Honoured ones of heaven, the, i, 39
-(six) ; ili, 300 (and note),
-
-Honoured Head, and Smaller Head,
-in new clan families, iv, 43-4,
-65-6.
-
-Honorary title or name, the, iii, 102,
-112, 144, 180-1, 4383 iv, 18,
-106, 339.
-
-Humanity, as the totality of man’s
-nature, iv, 332-6.
-
-Hunting, iii, 106, 220-1, 294-53; exces-
-sive, i, 79; king Wan, in, i, 203.
-
-Husband and wife, how the separa-
-tion between them, as of dif-
-ferent sex, continued to be
-maintained, iv, 470-1.
-
-
-Ice, preservation and use of, i, 445 ;
-iii, 261, 308; iv, 423; use of,
-in mourning rites, iii, 182.
-
-Inauguration, of the different sea-
-sons, ili, 253-4, 269, 284, 297-8;
-of palace, i, 349-50 ; of mansion,
-iii, 196.
-
-Inscriptions on tripods, iv, 251-3.
-
-Instruments of government, and in
-
-
-477
-
-
-the relations of society, iv, 257-
-60.
-
-Introduction, presents of, iii, 119.
-
-Inventions early, of the eight tri-
-grams, ii, 382; of written char-
-acters and bonds, 385; of use
-of fire in cooking and moulding,
-iii, 369; of nets, markets, of
-plough and husbandry, ii, 383;
-of canoes and oars, of the use of
-oxen and horses for draught, of
-gates and other means of de-
-fence, of the pestle and mortar,
-of the bow and arrow, 384; of
-house building, 385; iii, 369;
-of burial and coffins, ii, 385; of
-fermented or distilled liquors,
-see i, 172-3.
-
-Jade, why more valued than soap-
-stone, iv, 463-4.
-
-Judges, and administration of jus-
-tice, i, 43, 48-9, 83, 259-64;
-ill, 235-8.
-
-
-King, the, is appointed by Heaven
-for the good ruling of the peo-
-ple, i, 89-90, 126; the per-
-manence of, and his line depend
-on Heaven, i, 95,126, 378-9, 380-
-2, 389; should excel in virtue,
-187; forms aternion with Hea-
-ven and Earth, iii, 377; iv, 256;
-three prerogatives of, iv, 3243
-Sacrifices peculiar to, see Sacri-
-fices. His ploughing, and its
-object, iii, 254-5 (and note) ;
-iv, 239. How he dealt in re-
-gard to his criminal kindred,
-iii, 356, 359, and at audiences
-and feasts, 357. His care of
-schools, see Education. His
-domain, i, 753 ili, 209, 212-3;
-appanages in it not hereditary,
-iii, 214. He could never be
-said to go abroad, iii, 113 (and
-note).
-
-Knee-covers, see Aprons.
-
-
-KA sacrifice, the, see Sacrifices.
-
-
-Lament, see Death; over miserable
-state of kingdom, i, 351-3, 354-5,
-355-75 357-85 over absence trom
-parents, i, 44t.
-
-Lessons, of the ancients, see An-
-cients ; of the four seasons, iv,
-
-
-478
-
-
-THE TEXTS OF CONFUCIANISM,
-
-
-ee!
-
-
-281-2; of the will of Heaven,
-iii, 376 (and note).
-
-Li Ki, the history of, iii, 1-9 ; titie
-and value of, 9-14; enrolment as
-one of the Five King, 14; notices
-of different books in, 15-60.
-
-Life, decades of, see Decades.
-
-Longevity, of several virtuous kings,
-i, 201-3; sought in worship, i,
-345, 348; eyebrows of, i, 306,
-326, 345.
-
-Looking, regulation and direction
-of, ili, 70-1, 77, 97, 118.
-
-Love and respect lie at foundation
-of government, iv, 264.
-
-
-Man has a moral sense from God, i,
-89, 90; is born good, 231, 425;
-is the heart and mind of Heaven
-and Earth, embodying the five
-elements, iii, 382; is benevo-
-lence, iv, 268-9 (and note) ; the
-most intelligent of all creatures,
-iv, 392; is in danger of becom-
-ing bad, i, 86, 234, 410-11.
-
-Man, the Superior, often meaning a
-man of rank, but generally of
-virtue and all admirable quali-
-ties, iii, 350 (see note 1); iv, 267.
-The name occurs more than
-300 times, and is applied to
-men of all classes, from the
-scholar to the sage.
-
-Man, the great, ii, 417.
-
-Marriage, iii, 248, 367, 388, 438;
-iv, 97; details about, iii, 77-8,
-374, 439-423 IV, 45, 238, 259,
-261, 264-6, 299, 428-34; pecu-
-liar case in, ili, 320-1; could
-only be formed through the
-parents and the services of a
-match-maker, iii, 78; iv, 297;
-between parties of different
-surnames, iii, 78; iv, 63; age
-at, iii, 65 (and note), 478; a
-second was discreditable on the
-part of the widow, i, 435 (and
-introductory note).
-
-Marriages, of Shun, i, 36 (but see
-iii, 132 and note); of Yii, 60;
-of kings Kiand Wan, 360.
-
-Meals, offerings at, see Offerings.
-
-Mean, the, Doctrine of, or State of
-Equilibrium and Harmony, see
-Equilibrium; Golden Rule of,
-iv, 305,419; Confucius had not
-
-
-attained to it, iv, 305-6; stand-
-ard of, to be set up by king, i,
-88.
-
-Melon, cutting, for different parties,
-ili, 82.
-
-Minister, the prime, i, 228; had
-under him the six grandees, iii,
-tog (see i, 227-8); of Instruc
-tion, i, 228; iii, 230-3; of War,
-i, 228; iii, 234-5; of Crime, i.
-229; iii, 235-8; of Religion, i,
-228 (i, 44, and iii, 109, and the
-minister of Offices, 110); of
-Works, i, 2293 ili, 110, 228-30
-(see note on i, 229). King had
-six Great ministers, i, 268-9,
-and the feudal lords, three, i,
-233; ili, 213-4; their emolu-
-ments and rank, iii, 210-11.
-
-Missions, friendly, between states,
-ili, 57-8.
-
-Mourning, rites of, dress, times, and
-tables of, iii, 202-8 (appendix
-to Book II). Questions of
-3ang-3ze about them and other
-rites, iii, 311-42. Smaller points
-in dress, iv, 40-59. Greater
-points, 173-200. Gifts for and
-miscellaneous points, 132-72.
-Hurrying to, from a distance,
-365-74. Questions about, 375-9.
-Questions about dress in, 380-4.
-Subsidiary points in, 385-90.
-Questions about the three years
-of, 391-4. The four moral con-
-stituents underlying, iv, 465-72.
-Preparations for a death, iv,
-173, 181 (and note). Calling
-the dead back, see Calling back.
-Covering the body, plugging
-the mouth open, keeping the
-feet straight, washing, abstinence
-of mourners, and replacing on
-the couch, and putting in coffin,
-iii, 141-2, 144-53; iv, 181-5,
-193. Putting down offerings
-of food by the corpse or coffin,
-iii, 133, 148 (and note), 153,156-
-7; iv, 194-6. The slighter and
-greater dressings (body-cases,
-clothes, ties, and operations with
-them), iv, 185-9, 375-7. The
-first spirit-tablet, iii, 168 (and
-note). Taking hold of the hand
-and bending over the corpse,
-iv, 190-1. The hut, huts, and
-
-
-unplastered apartment, iv, 134,
-154, 163, 191-2. The wailing,
-leaping, and beating the breast,
-lil, 89, 93 (and note), 131-7,
-150, 160; iv, 51, 58-9, 143,
-188-90, 194-6, 370-9, 385-6, et
-saepe. Visits of condolence, iii,
-123, 135-6, 141, iv, 41, 54, 58,
-139, 144, et saepe. The use
-of the staff, iii, 134, 136, 161,
-313, 322, 3345 iv, 48, 54, 57,
-163, 180-1, 378-9, 467-8. The
-coffin and burial, see Burial.
-Sacrifices, in connexion with
-mourning, see Sacrifice. <A
-bald man, a hunchback, and a
-lame man, and the rites, iv, 378.
-Real grief is better than many
-rites, ili, 141.
-
-
-Music, the, of Shun, i, 61 ; of Yao,
-
-
-Shun, and Yi, iv, 106 (and note);
-of Wa, 121-4 (see also 130);
-the ancient schools of, 109;
-rules and times for teaching and
-practising, ili, 232, 255,261, 266,
-269-71, 274, 293, 3483 IV, 274-5;
-instruments of, i, 305, 319, 323-4,
-326, 3675 ili, 83, 219, 273; iv,
-35-7, 97, 111, 115, 119-21, 123;
-times for regulating, iii, 217,
-2733; were composed of eight
-materials, iv, t11-2. The Re-
-cord of music, iv, 95-1313 with
-the account of it in, iii, 32-3.
-Object and effects of music, iii,
-389-91 5 Iv, 107, 224-5, 255-6;
-see also i,61. The music that
-has no sound, iv, 279 ; see 276.
-Officers kept their instruments
-at hand, iii, 106. But music
-was not played during mourn-
-ing, i, 41; ili, 103; nor in bad
-years, ili, 106; nor at marriages,
-iii, 442 (and note); nor for
-three days after bride came to
-her husband’s, 322 (and note) ;
-nor in escorting friends or in
-autumn, iv, 210. Occasions
-when the ruler gave up his
-music, ili, 159; iv, 1643 see iil,
-179-80. It was used at sacri-
-fices, iv, 213-4, 350; but with
-discrimination, iv, 330; and not
-in preliminary purification, iv,
-240. Confucius and Hsien-3ze,
-in resuming music after mourn-
-
-
-INDEX OF SUBJECTS. 479
-
-
-ing, ili, 130. See Notes, Officers,
-and Tubes.
-
-
-Name, the first, was given in child-
-
-
-hood, iii, 79, 144 ; by the father,
-three months after birth, iii,
-473-53 that of maturity (the
-designation), at the capping at
-the age of twenty, iii, 65, 79,
-144, 438; the name of ‘ uncle’
-was not used till fifty, iii, 144.
-The honorary or posthumous
-name, see Honorary. The first
-naming of a ruler’s heir-son,
-born atter his father’s death, iii,
-311-33 after the burial, 313-4.
-
-
-Names which should not be given to
-
-
-a child, ili, 78 (and note), 474-5.
-Onthe avoiding ofcertain names,
-and the names used in certain
-circumstances, iii, 66, 79, 93,
-IO1, 107-8, 110-1, 1903 iv, 18,
-27-8, 138, 161, 175; case of
-names, composed of two char-
-acters, lili, 93, 190; sacrificial
-names for victims, offerings,
-grandparents and parents, iii,
-117-8. Dogs got names, iv, 76.
-
-
-Natural phenomena of the different
-
-
-months, ili, 251, 258, 259-60,
-263-4, 269, 272, 275, 277-8, 283,
-287, 289, 291-2, 295, 297, 302,
-305-6, 308.
-
-
-Nine is the number of the months
-
-
-of autumn, iii, 283, 286, 291;
-and the indication of the strong
-or undivided lines in the dia-
-grams of volume ii. Nine pro-
-vinces, see Divisions; classes of
-kin, i, 32; IV; 423. pastors, 1,
-229; virtues, i, 54, 221; divi-
-sions of the Great Plan, i, 139-
-49; tribes of the f, i, 150; iv,
-30; services of good govern-
-ment, and nine songs of them,
-i, 48, 613; plains, iii, 196, 199;
-individuals supported on best
-farms, 210; high ministers, 213,
-269; symbols of distinction,
-215}; years’ surplus of income,
-222; ladies of honour, 259;
-gates of capital, 265-6; things
-that suspend a sacrifice, 330;
-boys taught to number the days
-at nine, 476; nine 3hai, iv, 30;
-the ninth year of study, 83;
-
-
-480
-
-
-nine-scolloped flag, 114; shells
-put in mouth of deceased king,
-164; nineteen suits, in dressing
-corpse, 185; standard rules of
-government, 314-63 days’ wail-
-ing for king’s death, 373;
-months’ mourning, fabric of,
-388; nine pin of king’s harem,
-IV, 432.
-
-Nose, cutting off the, punishment
-of, i, 40 (note), 110.
-
-Notes of music, see Five.
-
-Numerical categories, see under two,
-three, and other numbers
-
-‘ Numerous Officers,’ the, i, 196-200;
-‘Numerous Regions,’ i, 213-9.
-
-
-Odour, or fragrance, a charac-
-teristic of the Kau sacrifices,
-iii, 4433 i, 366 (and note), 367,
-399. The fragrance of good
-government, i, 232; and of vir-
-tue before God, and the rank
-odour of cruel punishments, i,
-256.
-
-Offerings, sacrificia! or thanksgiving,
-at meals, iii, 79; iv, 20; et al.
-
-Officers, the number of, gradually
-increased, i, 227; gradations,
-numbers, emoluments, and other
-arrangements of, ili, 209-14.
-
-One man, the, i, 100, 163, 394; iii,
-107 (and note) ; iv, 418.
-
-Order, Great, period of, iv, 118.
-
-Otter, the, offers fish in sacrifice, iii,
-221, 251 (and note).
-
-
-Palace, the royal, i, 236 (and note) ;
-ancestral temple was built be-
-fore the palace, in new settle-
-ment, 384; see also ili, 103-4.
-
-Parent, the, of all creatures, i, 125,
-361; parent of the people, i,
-125,144; import of that name,
-iv, 278, 340-1, 420.
-
-Parents, service of, see Filial piety ;
-by sons and their wives, ii,
-449-51, 452-6; assisted by the
-younger brothers and sisters
-of the household, 451; of the
-widowed mother-in-law by the
-wife, 453, 457.
-
-Pastors, i, 39, 42, 221-2, 224-53 iii,
-1it. Judges, the pastors or
-shepherds of Heaven, i, 259.
-
-Paths, three, iv, 333.
-
-
-THE TEXTS OF
-
-
-CONFUCIANISM.
-
-
-People, will of, Heaven's will, i, 128.
-
-Perfection, what it is, iv, 236-7;
-the royal perfection, i, 142-4.
-The perfect man, and the mani-
-festation of his perfection, iv,
-317 (and note), 318-22.
-
-Personators of the dead in sacrifices,
-i, 300-1, 365, 367, 369, 375, 401,
-423, 409 ; ili, 62, 69 (son cannoc
-personate father), 87, 170, 183,
-189-90, 329-30, 337-8, 34-,
-374, 405-6 (six at the Great
-sacrifice), 444, 4463 iv, 12, 25-6,
-45, 53-4, 75, 78, 80, 88, 116,
-152, 212, 240-2, 245-7.
-
-Ploughing, the, of king and princes,
-iv, 222. See King.
-
-Powers, the three, ii, 402, 424; iv.
-319 (note 2).
-
-Prayer of king Hsiian, i, 419-23; of
-duke of Kau, 153-4.
-
-Precautions against excess in mourn-
-ing austerities, iii, 87-8; iv, 159.
-
-Premature deaths, ili, 125 (three
-classes of), 161, 185, 337-8; iv.
-+4, 52-3, 56, 58, 154, 162, 207,
-
-
-353.
-
-Preparation, importance of, i, 116:
-iv, 316.
-
-Presents of introduction, see Intro-
-duction.
-
-Presenting various offerings, rules
-for, iii, 84-6; iv, 22-3, 144-7;
-presenting a daughter for a
-harem, language in, iii, 119.
-
-Provisions, left, iii, 82 ; at sacrifices.
-the, iv, 242-3.
-
-
-Queen, her six palaces and their
-inmates (the harem), and how
-she trained them, iv, 432-
-work with silkworms and in silk.
-iii, 265, 278; iv, 239. She sacri-
-fices to the first matchmaker,
-iii, 259. Her robe, iv, 15.
-Effect of her sudden death, iii,
-328-30. Associated, when she
-died, in a sacrifice to her de-
-ceased husband, i, 326. Famous
-queens, i, 380-1, 383, 387-8, 396-
-7. The bad Sze of Pao, i, 356
-(and note).
-
-
-Recorders or secretaries, i, 4-6;
-178 (Grand, and Recorder ot
-interior) ; iii, 91, 235-6, 238. 309.
-
-
-INDEX OF SUBJECTS.
-
-
-481
-
-
-essen
-
-
-313-15, 373, 385, 439, 468, 47435
-iv, 2 (recorders of Left and
-Right), 4, 6, 135, 246-7.
-
-Remonstrances, with parents and
-rulers, on, iii, 114, 239, 456-73
-iv, 73, 228, 290, 345-6; of the
-people should not be suppressed,
-i, 105.
-
-Respect for one’s self, iv, 266-7.
-
-Reverence in ceremonies generally,
-see Ceremonies; in marriage,
-iv, 264-5.
-
-Rise of new families or clans within
-the same surname, iv, 43-4, 63;
-rules for sacrifice in connexion
-with them, iii, 458.
-
-
-Sacrifices, the laws of, iv, 200-9;
-the meaning of, iv, 210-35; a
-summary account of, iv, 236-54;
-were for the purposes of prayer,
-thanksgiving, and deprecation,
-iii, 448 ; were especially expres-
-sions of gratitude to God, and
-the reverent commemoration
-of ancestors and benefactors of
-men, iv, 201 (and note), 207-8;
-were preceded by vigil and
-purification, see Purification;
-were performed with selected
-victims and other offerings, in
-the proper robes, at the proper
-altars, with the prescribed cere-
-monies and music, iii, 107, 112,
-226, 242-3, 288; iv, 201-7,214-5,
-222-4, 237, 245-6. Most an-
-ciently, water was the only
-liquid used at them, and after-
-wards had the most honoured
-place, iii, 370-1; iv, 8 (and
-note). They lie at the founda-
-tion of all teaching, iv, 245.
-
-Sacrifices of the king, wherein they
-exceeded and differed from
-those of others, iii, 116, 225-7;
-iv, 204-6. The border sacrifices,
-presented on the border or
-suburbs of the capital to God
-or Heaven and Earth (iv, 311),
-were peculiar to him. There
-was but a single victim (Book
-1X, and note 2, iii, 416) in
-them, and the offerings of grain,
-and the robes were the product
-of the king’s ploughing and the
-queen’s work in silk; they
-
-
-[28]
-
-
-were ‘the deepest expression
-of reverence’ and ‘greatest
-act of thanksgiving,’ iii, 273,
-309, 398, 413, 426-31; iv, 1,
-202-3. The sacrifice at the
-Great Shé altar, iii, 425; sa-
-crifices to the sun, moon, and
-other material objects, iii, 427
-(and note) ; iv, 209. Sacrifices
-to ancestors, see Ancestral tem-
-ple; to the spirits of the land
-and grain, to seas, hills, rivers,
-and streams, iii, 273, 303, 307,
-309. Sacrifices of the house,
-with the parts of the victims
-made prominent in them, iii,
-116,251, 258, 262, 269, 272,277,
-281, 283, 287, 296-7, 302, 306;
-iv, 38. The Ka sacrifice, iii,
-364, 431-43 iv, 333,167. Sa-
-crifices of L4, iv, 31-4. That for
-driving away pestilence, iii, 423
-(and note); to the kings of two
-preceding dynasties, iii, 422-3;
-on tours of inspection, i, 39-40;
-ili, 417, 426,—compare iii, 218.
-
-Sacrifices connected with the mourn-
-ing rites:—That of Repose, iii,
-137, 170 (and note), 189-90,
-316; iv, 46-7, 48 (and note), 50,
-55, 58, 139, 142, 155-6, 159-60,
-164, 387-9; at the end of the
-ist year (hsiao hsiang) and of
-the 2nd (ta hsiang), iii, 129-30
-(and note), 317-8; iv, 9, 52,
-138, 150, 152-3, 184, 192, 387;
-and at the end of the mourning
-(than), iii, 129-30 (and note); iv,
-192, 388. Thesame names are
-employed of services at the end
-of shorter periods of mourning,
-iv, 158, 160,
-
-Sacrifices, expense of, were a tenth
-of all expenditure, iii, 222. The
-robes at them were the most
-prized of all, iv, 186, 308 ; they
-and vessels were burnt or buried,
-when worn out, iii, 92.
-
-Scholar, the, and his character and
-course, iv, 402-10.
-
-Seven was the number of the
-months of summer, iii, 268, 272,
-
-
-277.
-
-Seven directors, the (in astronomy),
-i, 39; days’ fasting, case of, iii,
-133; all in royal domain as-
-
-
-| =
-
-
-482
-
-
-sumed mourning seven days
-after king’s death, iii, 194, and
-during them the market-place
-was shut, iii, 202 ; ruler of second
-class had seven symbols of dis-
-tinction, 215; king was coffined
-on seventh day, 222; seven
-lessons of morality, 230, 248;
-classes of grooms, 294; feelings
-of men, the, 379; brothers and
-sisters did not use the same
-mat or eat together at seven,
-476; seven months’ mourning
-held to be for three seasons, iv,
-46 (and note) ; the seventh year
-of study, 83; seven regulations
-in teaching, 84-5; days’ leaping
-for ruler’s death, 143; his mouth
-stuffed with seven shells, wail-
-ing for him ended in seven
-months, and sacrifice of repose
-offered seven times, 164, 372;
-seven dynasties, 204 (and note) ;
-sacrifices and altars of king, 206;
-days of looser vigil, 240, 292;
-drinking the seventh cup, 246;
-seven shang in fabric of me-
-dium sackcloth, 388.
-
-Seventy, old men of, iii, 66, 88, 240-
-2, 464-6; eldest son of, should
-not be without a wife, 316.
-
-Shih King, the, name and contents
-of, i, 275-79; before Confucius,
-and what, if any, were his labours
-on it, 280-4; from him to the ac-
-knowledgment of present text,
-285-9; how it was formed,
-290-3; how it is so incom-
-plete, 293-4 ; interpretation and
-writers, 294-6; the Confucian
-preface, 296-8.
-
-Shoes, left outside the door, iii, 71.
-Rules about, iii, 71, 76-7, 103,
-449-50, 453 ; iv, 17, 20, 53, 70,
-72, 81, 135, 137, 145.
-
-Shi King, the, nature and history
-of, i,1-11; credibility of, 12-19,
-principal eras in, and chrono-
-logy of China, with chart of the
-principal stars for epoch of B.c.
-2300, 20-30.
-
-Six was the number for the months
-of winter, iii, 296, 302, 306, and
-the name for the divided lines
-of the diagrams of vol. ii. Six
-Honoured ones, i, 39 ; hosts of
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-king and their leaders, i, 76-7,
-81, 129, 229, 244; magazines
-of natural wealth, 48, 74;
-Grand ministers and their de-
-partments, 228-9; extreme
-evils, 149 (and note); tenures,
-226; grandees of Heaven’s in-
-stitution, and six departments
-of the statutes, iii, 109; trea-
-suries and six stores of the king,
-110; ceremonial observances,
-230, 248; things that break up
-an audience, 328-9; Great men,
-266; upper musical accords,
-and six figures on robes, 382 ;
-personators, 406; arrows shot
-on birth of ruler’s heir-son, 472;
-Zung tribes, iv, 30; years of
-the duke of Kau’s regency, 31;
-bond of kinship ends with sixth
-generation, 63; six considera-
-tions regulating the mourning
-worn, 63-4; cases of affinity,
-64; things that make teaching
-vain, 86-7; peculiarities of
-sound, in music, 93; six upper
-and six lower musical accords,
-118; instruments introducing
-virtuous airs, 119; dressers of
-corpse, 188; baskets of grain
-by coffin of Great officer, and
-six supporting ropes of ruler’s
-catafalque, 197-8; shang in fa-
-bric of certain sackcloth, 388.
-Sixty, men of, iii, 66,88, 240-2, 464-6.
-Slept, how gentlemen, and would rise
-for wind, thunder, and rain, iv, 5.
-Spirit, spirits, spirit-like, and cognate
-words, denoted by shin (nlf)
-
-
-and kwei shan ( mi),
-
-
-i, 39, 45, 47, 51 (k.S.), 51-2, 90
-(and note), 93 (k. s.), 96, 99
-(k. S.), 101, 109, 116, 123, 126,
-135, 153 (k.s.), 163, 217, 228,
-232, 318 (and note), 347-8,
-365-8, 372, 387-8, 405 (and
-note), 415 (and note), 419-20,
-422, 428, 485-6 (k.s.); ii, 226
-(k. s.), 230, 259 (k. s.), 354
-(k. s.), 354, 357 (and note), 365
-(k. s.), 366, 370, 372-4, 377-8,
-383, 390, 392, 395, 417 (Kk. S.),
-422, 427 ; ili, 64 (k.s.), 78 (k.s.),
-108 (k.s.), 148, 167 (k.s.), 169,
-173,217, 238, 250,257, 262, 268,
-
-
-INDEX OF SUBJECTS.
-
-
-483
-
-
-Rearieesibteenemeyteneneri ate I ee
-
-
-272, 276, 278, 280, 283, 287, 291,
-296, 302, 306, 367 (k.s.), 368
-(k.s.), 370 (K.s.), 371, 375 (k.s.),
-377 (k.s.), 381 (k.s.), 383 (k.s.),
-384 (K.s.), 385 (k. <. 386 (k.s.),
-388 (k.s.), 389 (k.s.), 391 (k.s.),
-394 (k.s.), 395 (K.s.), 397 (k.s.),
-398 (k.s.), 412, 423, 425, 430,
-434, 436, 441 (K.S.), 444, 446;
-iv, 73,99 (k.s.), ror (k.s.), 104
-k. s.), 113-4, 125, 138, 170, 203,
-213-4, 219 (k.s,), 220 (k.s.), 224,
-235,237 (K.S.), 239-40, 245, 261,
-265, 271 (k.s.), 272 (k.s.), 273
-(k. s.), 282, 307 (k.s.), 308, 320,
-325 (k.s.), 331 (K.S.), 342-3, 345,
-349-50 (K.S.), 363, 464.
-
-Staff, the, was always carried, even
-in house, after fifty, iii, 241, 465;
-and stool were carried to an
-interview with an old man, iii,
-67, and always given to one of
-seventy still in office, 66. Staffs
-of hazel, iii, 432; of bamboo,
-and a dryandria branch, iv, 41.
-Use in mourning, see Mourning
-rites.
-
-State, officers and rulers leaving
-their, rules for, iii, 104, 107.
-
-Strap, for mounting a carriage by,
-iii, 95 (and note), 96, 98.
-
-Sympathy and kindly feeling, rules
-of, ili, 106, 125, 256, 265, 275,
-287-8.
-
-
-Tablet, the Spirit, iii, 108 (and
-note), 168 (and note), 171-2,
-323, 336, 4443 lv, 47, 51, 81,
-136-7, 142, 163; in the event of
-war, iii, 324-5, 355; the memo-
-randum, iv, 12, 13.
-
-Ten evil ways of three bad fashions,
-i, 94; able ministers of king
-W4i, 128 ; good men who helped
-king Khang, 158, 160; a boy
-went out to school at ten, iii,
-65, 477; and a girl no longer
-went out from the women’s
-apartments, 478; a youth serves
-one older by ten years as an
-elder brother, 68; ten states
-formed a confederacy, 212; a
-tenth of the expenditure went
-for sacrifices, and during the
-three years of mourning for the
-rites, 222; ten things held to be
-
-
-right or virtues, 380; relation-
-ships recognised in sacrifice, iv,
-245-9; what teneyes behold, 413.
-
-Terminus, the Grand, ii, 373.
-
-Ternion, the Great, iii, 377; iv, 256;
-see lv, 319 (and note).
-
-Testamentary Charge of king KAing,
-the, i, 234-42.
-
-Thirty, marriage at, iii, 65 (and
-note), 477.
-
-Three Miao and three Wei, i, 41,
-453 silks, 40; localities for
-banishment, 43; religious cere-
-monies, 44; examinations, 45;
-departments of governmental
-action, 48, 222; virtues, 55,
-144, 260; characters of soil, 75;
-commencements of the year,
-77; kings of Kau, 153; grades of
-ability, 221-2; Kung andthree
-Ki, 227-8; Kido and three
-Sui, 269; extremes, ii, 351;
-first three gifts of king, iii, 67,
-215; divination should not ex-
-ceed thrice, 943; absence from
-one’s state for three generations
-or more, 102; three years’
-mourning for father, ruler, and
-teacher, 121; deaths not con-
-doled about,.1313 wives of Shun,
-132 (and note); small carriages
-sent to the grave, 161; dynas-
-ties, usages of, in burial, 170;
-families of Li, 184 (and note) ;
-days’ wailing for a burnt shrine,
-190 ; different times in assuming
-mourning for king, 194; mar-
-ket shut for three days on a
-ruler’s death, 202; huntings, 220
-(note); customs for three days
-and three nights after a mar-
-riage, 322 ; king Wan visited his
-father thrice a day, 347 (note);
-three mats’ distance between
-pupil and master, 347 ; classes
-of the old, 360, 385; iv, 124,
-231; dynasties, 405; iv, 130,
-349; dukes, iv, 29; over two
-years counted three, 45; third
-year’s studies, 83; three kings,
-the, 88, 91, 102; impar-
-tialities, 281; things common
-to mourning rites for king and
-an officer, 149; shouts in
-calling dead back, 1743; grades
-of officers, 177 ; mourners took
-
-
-112
-
-
-484
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-the staff on the third day, 180;
-they abstained from food for
-three days, 183, 375; three
-occasions for abstinence, 184 ;
-months’ keeping from nuptial
-chamber, 192; condoling visits
-of ruler, 194; shells put in
-mouth of officer, and sacrifice
-of Repose thrice offered for
-him, 164; three things about
-his learning that occasion sor-
-row to superior men, 166 ; spe-
-cial sacrifices of Great officer,
-207; things specially important
-at a sacrifice, 241; great re-
-lationships and their functions,
-263-4 ; points having no positive
-existence, 278-9, and their five
-effects, 280-1 ; universal virtues,
-3133 things essential to cultiva-
-tion of character, 314; hundred
-ceremonies and three thousand
-modes of demeanour, 323 ; iii,
-404; ways in which the virtues
-of humanity appear, 333; a
-visitor only advances after three
-salutations, and an officer leaves
-the state when his advice has
-been thrice rejected, 346;
-dressing the corpse commenced
-three days after death, 377;
-three quavers in wailing, 386;
-shang in fabric of coarsest
-sackcloth, 388; reason for the
-three years’ mourning, 394;
-‘horses’ in game of pitch-pot,
-
-
-399.
-Tranquillity Small, the period of, iii,
-
-
-366-7,
-
-‘ Tribute, of Yii,’ the, i, 63-76; arti-
-cles of tribute, iii, 420.
-
-Twelve pendants of royal cap, iv, 1;
-streamers of Li banner, 32;
-shang in fabric of five months’
-mourning, 388 ; strips of cloth
-in the Long dress, 395 ; mouths,
-pitch-tubes, articles of diet, iii,
-382.
-
-Twenty, the age for capping, iii, 79, et
-al., and for marriage of girls, 478.
-
-Two, living animals in introductory
-presents, i, 40; characters ina
-name, case of, iii, 93, 1903
-grounds for a certain wailing,
-150; hair of two colours (turn-
-ing grey), men with, not to be
-
-
-taken captive, 178; two Great
-chiefs, 213 (and note); best
-trees, the, 394; concubines,
-case Of, 457; victims, 459;
-towels in bathing, iv, 5; sub-
-jects not treated as subjects,
-88; torches in ruler’s hall, in
-mourning, 178; two prisoners
-liberated by Kwan Kung, 168 ;
-baskets of grain by coffin of
-officer, 197; elements in man’s
-constitution, the, 221; sur-
-names united by marriage, 264,
-428; elements in ceremony
-and music, 276; days’ absti-
-nence on mother’s death, 386.
-
-
-Union, the Grand, period of, iii, 365-6.
-Unity, the Grand, iii, 386-8 (and note).
-
-
-Verifications, the various, i, 147-9
-(and notes).
-
-Victims and offerings, of, i, 134, 183,
-194, 306, 317, 323, 325, 332-4,
-343, 387-9, 401, 419-20, 445;
-ili, 226-7, 338 (the satisfying
-offerings, dark and bright), 347-
-8, 369-72, 398, 408, 411-2, 416-
-
-_ , 9, 428, 435-7, 446; Iv, 35, 80.
-
-Visits between princes, iv, 274. The
-ceremony ‘of friendly missions
-or visits, iv, 458-64.
-
-
-Wailing, see Mourning rites.
-
-Walking, rules in, iii,68, 244; iv, 25-6.
-
-Wedges, double, use of, iii, 158; iv,
-196-7.
-
-Widow, a, should not wail at night,
-iv, 299; and one should not
-have interviews with her son,
-298 ; iii, 78.
-
-Wife, the correct, will not marry
-again, i, 435; ili, 439.
-
-Wild tribes, the, and their charac-
-teristics, iii, 229-30; they had
-different languages, and inter-
-preters were used in communi-
-cating with them, ib.; their
-places at an audience, iv, 30.
-
-Witch, exposing a, in the sun, iii, 201.
-
-
-Yi King, history of, from twelfth
-century B. C. to the commence-
-ment of the Christian era, ii,
-1-9; the subject matter of the
-Text, with the lineal figures
-
-
-INDEX OF PROPER NAMES.
-
-
-485
-
-
-en Se ee ee
-
-
-and the explanation of them,
-9-26; the Appendixes, 26-55.
-Diagrams of the Trigrams and
-Hexagrams, after the Intro-
-duction.
-
-
-Yin and Yang, the, i, 228; ii, 223,
-355» 357, 359, 388, 395, 421,
-423; Ill, 286, 304, 338, 381, 383,
-387 ; Iv, 104, 108, 115, 219, 233,
-238, 249-50, 403, 433, 436, 465.
-
-
-INDEX OF PROPER NAMES.
-
-
-“a
-
-
-A-hang, Part i, pages 95, 118, 311.
-Called Pao-hang, i, 118, 207.
-
-_Seive: t Yin, a. v.
-
-Ai (duke), iii, 159, 187-9, 191,197; iv,
-166, 169, 261, 263, 312, 403, 409.
-
-An (surname), An-3ze and An Phing-
-Aung, ili, 174-5, 402; iv, 165.
-
-
-Black-, the, water, i, 71, 73.
-
-
-Fa (name of king W4, q.v.), i, 126,
-132, 135.
-
-Fan, i, 355. (Relative of Kdung 7),
-iii, 166, 1993 iv, 421.
-
-Fang (constellation), i, 82. (Place),
-jii,125. Fang-hsiin, i, 32. Fang-
-koi, i, 34. Fang-fa, iv, 37.
-
-Fang (capital of king W4n), i, 133,
-183, 246, 394-5. (River), i, 71,
-74, 395. (Name of prince), i,
-164-71. (Hexagram 55), ii, 183-
-6, 258-9, 335-6, 438, 443.
-
-Fii (state), i, 423; iv, 282. (Hexa-
-gram 24), ii, 107-8, 233, 297-8,
-435, 442. F-hai, iii, 178.
-Fii-Z4ien, i, 73. Fa-kwan, i,
-438. Ffi-yen, i, 114.
-
-
-Han (river), i, 68-9, 73. (State), i,
-426. (Hill), i,386. (Milky way),
-i, 363, 419.
-
-Hing (river), i, 65. (Mountains),
-i, 68, 72-3. (Hex. 32), ii, 125-6,
-238-9, 307, 436, 442.
-
-Hao, i, 395.
-
-Hau-Ai, i, 320, 341-2, aap oe 47°
-iv, 32, 340, 350 (i.q. Ki and
-Khi q.v.) Hau Mf, iii, 152.
-H4u-thf, iii, 280; iv, 208. (A
-domain), i, 75, 134,165,189, 244.
-
-Ho (astronomers), i, 32-4, 81. (The
-Ho, or Yellow river), i, 65, 67,
-69, 71, 73-4) 795 108, 117, 308,
-318, 336, 4355 HM, 81; MI, 135,
-
-
-193, 245, 407; iv, 123. (The
-Ho map), ii, 14-173 iii, 374.
-(Another river), i, 70, (State),
-i, 239. Ho-li, i, 73.
-
-Hsi (astronomers), i, 32-4, 81. Hst-
-Rih, i, 72. Hsi-ki, iv, 294.
-Hsi-sze, i, 346.
-
-Hsia (river), i, 381. (Dynasty), i,
-23-4, 63, 84-5, 87, 89, 93, 96,
-IOI, 128, 185-7, 197, 199, 214
-6, 227, 310, 412. Hsia Hau-
-shih, iii, 125, 138, 151, I91, 240,
-242-3, 341, 438, 4645 iv, 34-9,
-123. Hsia Fi-£4}, iii, 403.
-
-Hsiang, i, 356. (Dukes), iii, 154;
-186. (Thesymbols of the Yi),
-iil, 12, 360, 381.
-
-Hsiao (duke), iii, 318. Hsiao KAt
-(hex. 9), ii, 76-7, 221-2, 278-9,
-433-4, 443. Hsiao Kwo (hex.
-62), il, 201-3, 264, 344-5, 384,
-
-_ 438) 443- x
-
-Hsieh, i, 42-3, 303, 307, 309; ili,
-3723 iv, 202, 208.
-
-Hsien (dukes), iii, 126, 165 ; 182, iv,
-252. (Hex. 31), ii, 123-4, 238,
-305-6, 436, 442. Hsien Pan-fa,
-iii,127-8. Hsien-3ze, Hsien-3ze
-So, iii, 150, 152-4, 201; iv, 423.
-
-Hsin (state), i, 381 (note). Hsin-fi,
-i, 346.
-
-Hsiung-7, i, 73.
-
-Hsii (hex. 5), ii, 67, 2189 273, 433;
-443. Hsii Kau,i, 66. (Region),
-i, 269 ; iii, 193. Hsii Y4, iv, 166.
-Hsii Tien, iv, 450.
-
-Hsiian-ming, iii, 296, 302, 306.
-
-Hai (hill), i, 345. (Nobles), i, 212-3,
-427. (State), i, 77. (Officer),
-iii, 143. H-khau, i, 64, 72.
-HG T4, iii, 126-7.
-
-Hui, iv, 303 (i.q. Yen Yiian, q. v.)
-Hui-3ze, iii, 143.
-
-Hung Y4o, i, 208.
-
-
-486
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-a  —
-
-
-Hw, i, 70, 73 (Thai Hw4), 133.
-
-Hwai, i, 66-8, 74, 268, 339-40, 345.
-
-Hwan (river), i, 71. (Dukes), iii,
-186; iii, 323, 4203 iv, 168; iv,
-10. (Hex. 59), ii, 194-6, 261-2,
-341, 384, 438, 442. (Minis-
-ter), iii, 149. Hwan-tau, i, 34,
-41,54. The three Hwan, iii, 421.
-
-Hwang Ti, iii, 280; iv, 123, 201,
-209. Hwang-fi, i, 355.
-
-Hwo, i, 211.
-
-
-i (rivers), i, 66, 74. (Another), 69,
-74. (Tribes of the East), i, 150;
-(nine {), as in iv, 30. (Element-
-ary forms of the Yi), ii, 12.
-(Prince), i, 79. (An officer),
-Hi, .778., (Hex. 27),.il, 124-5,
-235, 301-2, 435, 443+ {-ho, i,
-266-7. 1 Kih, i, 207. f{ Lit, iv,
-164. 1-po, iii, 187. { Yin, i, 92,
-95, 97-101, 207 (i. q. A-hang).
-
-
-Kan (place),i,76. Kan Pan,i,116,207.
-
-Kan (trigram 7), ii, 11, 32, 33, 425-
-6, 428-30, 432. (Hex. 52), ii,
-175-7, 256, 331-2, 437, 441.
-
-Khan (trig. 6), ii, 11, 32-3, 425-6,
-428-9, 431. (Hex. 29), ii, 118-
-9, 236-7, 393-4, 435, 443-
-
-Khang (state), i, 164. (King), i, 243,
-250, 319; iv, 253. (King of
-Khi), iii, 186.
-
-K4o, Kao Y4o, i, 43, 53-8, 61-2, 339.
-K4o 3ung, i, 118-9 ; ii, 205; iii,
-179; iv, 390, 468 (i.q. Wii-ting,
-
-.v.) Kao 3ze-kAo, iii, 136.
-
-Khao (duke), iii, 193.
-
-K4u (hex. 44), ii, 154-5, 250, 321-2,
-437, 443- K4u-mang, lil, 250,
-257, 262.
-
-Ko (marsh), i, 70,74. (State), i, 88.
-(Hex. 49), ii, 167-8, 253-4, 328-
-9) 437) 443.
-
-Ki (state), i, 310. (Hex. 18), ii,
-95-6, 228-9, 290-1, 434, 442.
-Kfi-sau, i, 52.
-
-Kung (place), i, 391. Kung-hsi KAih,
-ili, 139. Kung-i Kung-3ze, iii,
-120. Kung Kiang,i, 434. Kung-
-kien Kia, iii, 184. Kung-kung
-(minister), i, 34, 41, 433 iv,
-208 (Kung-kung-shih), Kung-
-ming I, iii, 1403 iv, 226.
-Kung-shii ; Md, iii, 151; Wan-
-4Ze, iil, 145, 180; Zo, iii, 184;
-
-
-Zfi-zin, iii, 185. Kung-yang
-Kia, iv, 156.
-
-Khung (surname). Khung-3ze, Con-
-fucius, passim in iii, iv. Called
-also Khung KAi(, iii; 123, 139,
-196, 198, 364; iv, 122, 261, 305.
-Called also Kung-ni and Ni-fé,
-q.v. Styled also Ffi-jze, the
-Master, and still more often,
-simply 3ze, the Master. Khung
-Kwei, iv, 252.
-
-Kwai (hex. 43), ii, 151-3, 249, 320-
-1, 385, 437) 444+
-
-Khwai Shang, iii, 187.
-
-Kwan (state), i, 154, 211. (Hordes),
-i, 389. (Hex. 20), ii, 99-100,
-229-30, 292-3, 434,441. Kwan
-Kung, iii, 402; iv, 165, 168.
-
-Khwan (mountain), i, 83. (Yii’s
-father), i, 35, 41, 139; iv, 208.
-(Trig. 8), li, 11, 32-3, 348-9,
-377-81, 425-6, 428-30. (Hex.
-2), li, 59-61, 214-5, 268-9, 418-
-21, 433,441. (Hex. 47), li, 161-
-3, 252, 325-6, 437,442. Khwan-
-lun, i, 72.
-
-Khwei (minister), i, 44-5, 61; iv,
-105, 275. (Hex. 38), ii, 139-40,
-243, 314, 385, 436, 442.
-
-Kwei (hill), i, 345. (Stream), i, 36.
-Kwei Mei (hex. 54), 180-2, 257-
-8, 334-5, 438, 444.
-
-Kwo (state), i, 208. Kwo-lin, i, 211.
-Kwo Kao-32e, iii, 175.
-
-
-Ka (a festivity), iii, 364, 431-4; iv,
-33-4, 167.
-
-Kan (marsh), i, 68. (Trig. 4), ii, 11,
-32-3, 425-31. (Hex. 51), ii, 172-
-4, 255-6, 330-1, 437, 441.
-
-Kang (river), i, 64. (City), i, 346.
-Kang LAo, iii, 196.
-
-Kang (state), iv, 117, 119. Kang
-Kiang, iii, 167,176, Kang-;4i,
-ili, 190.
-
-Khan, i, 69, 74, 189.
-
-Khan, or Khin (state), i, 270-1, 442-
-35 ill, 186; iv, 421. (As sur-
-name), K/an:—Kan-hsi, iii, 185;
-Khi-ki, iii, 186; Hi, i, 207;
-8ze-Aii, iii, 181; 8ze-khang, iii,
-182; Kwang-3ze, iii, 150.
-
-Khang (king Wa4n), iv, 60.
-Kung, iv, 122.
-
-Khang (king), i, 155, 250, 316, 319,
-321, 326, 328, 342; ili, 344-5.
-
-
-Khang
-
-
-INDEX OF PROPER NAMES.
-
-
-487
-
-
-ee ee: see!
-
-
-(Duke), iii, 187 ; iv, 252. Kéing-
-shi, iv, 252. (Tribes), i, 223.
-Khang-kau, i, 246, 249. Khing-
-3ze Kao, iii, 155.
-
-Kao (duke), iii, 318, 3273 iv, 167.
-(State, as surname), WAn-;ze,
-
-_ lil, 196, 199, 420 (i. gq. Kao Wa).
-
-Kau (state and dynasty), i, 124, and
-passim, in the Books of Kau (i,
-124-272); also in the Shih King
-(i, 313-445) ; ii, 3 (Kau Yi),
-403} lii, 125-6, 131, 139, 144,
-151, 168-9, 172, 240, 242-3,
-341, 350, 372, 406, 428, 438,
-443-4, 4673; Iv, 34-9, 63, 106,
-122, 125, 202, 208, 219, 229,
-242, 248, 252, 282, 294, 324,
-342-3, 355, 363, 415. In many
-of these instances, and others,
-the reference is to the duke of
-Kau, called Tan, q.v. (The
-tyrant of Shang or Yin), iii,
-396; iv, 31, 63, 290, 448 (called
-also Kau-hsin, and Shan, q. v.)
-Kau Fang, iii, rgt.
-
-Ki (king K7 Li), i, 134, 153, 203, 381,
-3903 i, 343; iv, 6a. Ki, i,
-56-8, and KAi, i, 42; i.q. Hau-
-ki, q.v. (I.q. 3ze-sze), iii, 122,
-133. (Clan name), iii, 415; iv,
-21 (Ki-shih); iii, 128, 197
-(Ki-sun); Hwan-3ze, iii, 323;
-Khang-3ze, iii, 176, 184, 324;
-iv, 11; Kao-3ze, iii, 174; Wi-
-4ze, iil, 121, 132, 162. Ki-3ze,
-lii, 192. Ki 3i (hex. 63), ii, 204-
-6,265, 345-6, 438,443. Ki-shih,
-i,72. KiKau,i,64. (River), i,
-65-6, 74.
-
-Khi (states), i, 136, 1393 ii, 135,
-242, 311 (Khi-3ze); i, 152
-(note), 237; iii, 188, 323, 420;
-iv, 123. (Mountain), i, 64, 71-
-2, 316, 342, 383, 391. (KAi-kau),
-427; li, 160, 324. (Rivers), i,
-74, 325, 382, 438. (King, son of
-Y4),i, 60, 72 (note). KAi Liang,
-iii, 188. (Poetical pieces), iv,
-129-30.
-
-Kia, Kia Zan (hex. 37), ii, 136-8,
-242, 312-3, 436, 442. Kia-fé, i,
-353. Kia-po, i, 356.
-
-Kiang (tribes), i, 131. (The Great
-river), i, 68 (Three K., nine
-K.), 69, 73 (Northern K., nine
-K.), 427; iii, 245. (Another
-
-
-river), i, 73. (Surname), i, 383
-(i.q. Thai K.) iang Yiian, i,
-341, 396.
-
-Khiang, i, 43.
-
-Kieh (rocks), i, 65,72. (Thetyrant),
-i, 84 (note), 86, 127, 197, 221,
-3105 iii, 396; iv, 418. (Hex.
-40), li, 144-5, 245, 316-7, 436,
-442. (Hex. 60), ii, 197-8, 262,
-342-3, 438, 442 (may be read
-Sieh),
-
-
-Kien (river), i, 69, 74, 189. (Hex.
-39), li, 141-3, 244, 315,436, 442.
-(Hex. 53), ii, 178-9, 257, 333,
-
-_ 4377-8, 442.
-
-Khien (trig. 1), ii, 11, 32-3, 395,
-425-6, 428-30. (Hex. 1), ii, 57-
-8, 213, 267, 348-9, 381, 408-17,
-430, 441. (Hex. 15), ii, 89-90,
-226, 286-7, 434, 442. (Moun-
-tain), i, 72. (River), i, 69.
-Khien Ao, iii, 194.
-
-Khiung (state), i, 78-9.
-252 (and Po-£siung).
-
-Kih, Kih Tao-3ze, iii, 179.
-
-Khih, Khih Zan, i, 106, Khih-yi,
-
-
-(Office), i,
-
-
-i, 25m
-
-King (hills), i, 68-9, 71, 308, 313.
-(River), i, 71, 74, 402. (State),
-i, 311-2 (and King-khi), 344;
-ili, 150,186-7, King Kau, i, 68.
-
-Khing |, iii, 155. King Kau, i, 65.
-
-Kho (a name), iv, 294.
-
-Kai (Y4o’s son), i, 34, 60. (River),
-ili, 135. Ka-yeh, i, 71. Ki-yii,
-i, 72. K@-lii, iii, 193, 195. Kd-
-yung, ili, 268, 272, 276.
-
-Khii (Ti), iv, 208.
-
-Kun (hex. 3), ii, 62-3, 215-6, 270,
-433, 439 (note), 441.
-
-Khun-wi, i,71. Khun Kit, iv, 255-6.
-
-Kzkui, i, 239.
-
-Kung (prince), i, 211 (i,q. Ha).
-Kung-ni, iii, 179, 184-5, 196,
-351, 364; iv, 213, 270, 301,
-326 (Confucius). Kung Hwan,
-i, 237. Kung Hsien, iii, 151.
-Kung Liang-3ze, iii, 152. Kung
-Shan-fé, i, 425-6; iv, 335. Kung
-Sui, iii, 184. Kung Khang
-(king), i, 81. Kung-nan (hill),
-i, 71. Kung-t@, iii, 150. Kung
-Sung (king), i, 201, 204. Kung
-Fd (hex. 61), ii, 199-200, 263,
-34374, 438, 443. ;
-
-Kbung (minister), i, 257. (City),
-
-
-488
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-i, 392-3. (Mountain), i, 41.
-Kbung-hwa, i, 38. Kung-r
-(prince), iii, 126, 165-6.
-
-Kii (king), iii, 193. Kti-£iao, i, 136.
-
-
-Kiin, Kiin-£4an, i, 231-3. Kiin-wi,
-i, 310. Kin Y4, i, 250-1.
-
-306; iv, 201, 208.
-
-Kwang (dukes), i, 342; ili, 127, 165,
-188, 198. Awang-shi, iv, 252.
-Kwang Kiang, i, 433. (Mu-
-sician), iii, 179.
-
-
-Lii, i, 66.
-Lang, iii, 185.
-Liao, Lao Tan, iii, 325, 339-40, 342
-(i. q. Lao-3ze).
-Léi, Léi-hsia, i, 65.
-Li, see A? Li.
-
-
-Léi-shau, i, 72.
-(State), i, 120.
-(Stream), i, 73, 189. (Hill), i,
-52. (Minister), i, 257. (Con-
-fucius’ son), iii, 131 (i.q. Po-yii).
-(Trig. 3), li, 11, 32-3, 425, 428-
-30, 432. (Hex. 10), ii, 78-80,
-222-3, 280-1, 434, 443. (Hex.
-30), il, E20-2, 237, 304-5, 435,
-443.  Li-shan Shih, iv, 208.
-Li A}, iii, 126. Li Shau, iv, 124.
-
-Liang (mountain), i, 64, 421. Liang
-Kau, i, 70.
-
-Ling (duke), iii, 323.
-
-Lifi (duke), i, 134 (note). Lif Zo,
-iii,151. Lif Xwang,iii, 183. Lid
-Sha (moving sands), i, 73, 76.
-
-Lo (river), i, 69, 70, 73-4, 79, 183.
-(City), i, 165, 183, 188-9, 196,
-199, 200, 218, 246. Lo Shih,
-iii, 433 (and note).
-
-Lfi (state), i, 269, 336-46; iii, 126-
-7, 129, 150-1, 153, 159, 165,
-184-5, 187, 189, IQT, 202, 327,
-364, 372, 4075; iv, 31-9, 144.
-(Tribes), i, 131,223. Lda Thai,
-i, 136.
-
-Lii (state), i, 254-5. (Tribe), i, 149-
-50. (Hex. 56), ii, 187-8, 259-
-60, 337, 438, 443.
-
-Lung (minister), i, 44-5.
-man, i, 72-3.
-
-
-Lung-
-
-
-Man (southern tribes), i, 345; iii,
-III, 229; iv, 30 (eight M.), 33.
-Man-fij, iii, 124.
-
-Mang (hills), i, 66, 70, 345. (Hex.
-
-
-4), li, 64-6, 217, 271-2, 433, 441.
-(Marsh), Mang-é, i, 69, 70.
-(Ford), Mang Xing, i, 73, 125,
-136. (Surname), Mang:—Hsien-
-gz, ili, 129, 1545 iv, 167, 4235
-King-3ze, iii, 174; HG and Phi,
-ili, 152.
-
-Mo (tribes), i, 131. (State), i, 235.
-
-Mei (region), i, 174-5. Mei-mau
-(name), iii, 143.
-
-Mi, i, 391.
-
-Miao, i, 51-2, 54, 61, 255-6, 258-60.
-See San Mido.
-
-Mien, i, 71.
-
-Min, i, 70, 73.
-
-Ming, iv, 202, 209 (i.q. Hsiian-
-ming, q.v.) Ming f (hex. 36),
-li, 134-5, 241-2, 311-2, 436, 442.
-Ming-thiao, i, 93.
-
-Mo (tribes), i, 345.
-
-Ma (king), i, 250. (Dukes), iii, 126,
-150, 173, 201, 165-6. (State),
-iv, 298. M{-po, iii, 167, 176.
-
-
-Nan (domain), i, 75, 165, 177-8, 183,
-244. Nan-khao, i, 86. Nan-
-kido, i, 33. Nan-kung (sur-
-name) : — Xing-shfi, iii, 149;
-Kwo, i, 208; Mao, i, 237; Thao,
-iii, 129.
-
-Néi-fang, i, 73.
-
-Ni-fé, iii, 159 (Confucius).
-
-Niao-shi, i, 71, and Niao-shé Thung-
-hsiieh, 74.
-
-Ni-kwA, iv, 37. Nii-fang, i, 73.
-
-Pai, iii, 122.
-
-Pan, iii, 184 (i. q. Kung-shfi Zo).
-Pan-kang, i, 103-6, 108, rrr.
-
-Pan, iii, 154. Pan-mau Kia, iv,
-121-2.
-
-Phang (tribes), i, 131. Phang-li, i,
-67, 73.
-
-Pao (state), i, 356 (Pao Sze). P4o-
-hsi, ii, 382-3 (i. q. FG-hsi). Pao-
-hang, see A-hang.
-
-Pei-wei, i, 73.
-
-Pi (place), i, 267-8. (State), i, 235,
-243, 245. (Hex. 8), ii. 73-5,
-220-1, 277-8, 433, 441. (Hex.
-22), ii, 103-4, 231, 294-5, 435,
-442. Pi-kan, i, 136; iv, 123.
-
-Phi, iii, 178. (Hex. 12), ii, 83-5,
-
-_ 224, 282-3, 434, 443.
-
-Pin, i, 444.
-
-Phing (duke), iii, 179-80,
-
-
-INDEX OF PROPER NAMES.
-
-
-489
-
-
-co. ee | Se Sa
-
-
-Po (hill), i, 7°, 73 (Po Kung).
-os gel i, 89, 93, 97, 117, 223
-three Po). (Hexagram 23), ii,
-105-6, 232, 296, 435, 442. Po
-I, » 1, 44, 258. Po KAin, i, 268;
-ili, 342, 345, 350. Po Kbing,
-i, 252. Po Yi-khio, iii, 120.
-Po-yii, i, 43; iii, 131 (i. q. Li,
-q- V-)
-
-Pho, i, 131.
-
-Pa Kwo, i iii, 127.
-
-
-San f-shing, i, 208. San Miao, i,
-41, 45, 71 (see Mido). San
-Wei, i, 41, 71, 75-
-
-Shan eae, i 423; iv, 28a. (Name
-of Zang-3ze), ii, 465 ; ili, 149 5
-iv, 226. Shan-hsiang, i iii, 132-3.
-Shain-sang, i lil, 126. Shan Nang,
-iii, 279 (see note) ; ii, 383 (i. q.
-Yen Ti, q. v.)
-
-Shang (dynasty), i 1, 84, 87-8, 93, 98,
-IOI, 118, 123, 125, 127-8, 131-
-6, 303-13, 412; iv, 116, 122-
-3; see Yin. (Disciple), iii,
-135; iv, 270 (i.q. 3ze-hsia),
-Shang-ff, i, 382. Taine Yung,
-i, 136. Shang Yang, iii, 185.
-(Odes), iv, 129-30.
-
-Shang (hex. 46), ii, 159-60, 251-2,
-324-5, 437, 442. Shang-hsing,
-iii, 129.
-
-Shao (state), i, 181, 404, 427; iii,
-340-1; iv, 122. Shao Hao(T?),
-lii, 283, 287, 291. Shao-lien,
-iv, 153. Shdo-shih, iv, 171.
-
-Shau, i, 126-30, 132, 135-6, 204,
-222.
-
-Shih, i, 205-9,235. Shih:—T4i-4ung
-and KAi-3ze, iii, 181. Shih Ho
-(hex. 21), ii, 101-2, 230-1, 293-4,
-434, 442.
-
-Shfi (name), i, 43; iii, 180. (King), iv,
-255-6. Shi-sun W6-shi, iii, 146;
-iv, 156. Shi-sung:—Phi and
-Yen, iii, 200. Shii-yd, iii, 199.
-
-Shun (Ti), i, 35, 37-8, 45, 118, 227;
-ili, 132, 396; iv, 105, 123, 208,
-302, 308, 326 (called also Ya
-Yii-shih, see ‘Yii).
-
-Sui (Zui, Khui), i, 43, 2393 iv, 37.
-(State), iii, 194. (Hex. 17), ii,
-93-4, 228, 289-90, 384, 434, 442.
-
-Sun (trig. 5), ii, 11, 32-3, 425,
-428-9, 431. (Hex. 41),ii, 146-8,
-246, 317-8, 437, 441. (Hex.
-
-
-57), li, 189-91, 260, 338-9, 438,
-442.
-
-Sung (state), i, 3275 iii, 127, 149,
-197, 368, 372; iv, 119, 123, 246,
-402. (Praise-songs), i, 336-7
-(note). (Hex. 6), ii, 69-70, 219,
-274-8, 433, 443
-
-Sze (disciple), iv, 270, 276, (i. q
-8ze-kang, q.v.) (Hex. 7), it
-22-5) 71-2, 220, 275- 6, 433,441.
-Sze-thii King-3ze, iii, 174-5.
-
-
-Ta-lii, i, 65, 73. T4-lien, iv, 153.
-TA. -pei, i, 73. Ta-yeh, i, 66,
-Ta-yfi (hex. 14), ii, 88, 225-6,
-285-6, 434, 443- Ta Kwang
-(hex. 34), ii, 129-30, 240, 309,
-385, 436, 443. Ta Ka (hex.
-26), li, 112-3, 234-5, 300, 435,
-441. Ta Kwo (hex. 28), ii,
-
-
-116-7, 234-5, 302-3, 385, 435,
-443.
-
-Tha, i, 65.
-
-Tai, Tai-jung, and Thai (moun-
-tain), 1, 39) 65-6, 345.
-
-Thai (king), i, 134 (note), 153, 203,
-316, 342 (i. q. Than-ff, q. v
-State, i, 398. (Hex. 11),
-81-2, 223-4, 281-2, 434, 443.
-Thai Hao, iii, 250, 257, 262,
-(i. q. Ff-hsi, or Pao-hsi). Thai
-Kia, i, 95, 100, 206; iv, 332, 359,
-414. Thai-hang, i i, 72. Thai Wa,
-i, 207 (i. q. Kung 3ung, q. v.)
-Thai Tien, i, 208. Thai Yo, i,
-72. Thai Zan, i, 380-1, 387. Thai
-Sze, i, 388. Thai Kiang (or
-Kau Kiang), i, 383, 387. Thai
-yiian, i, 64. Thai Kung, iii,
-1313 iv, 122 (i. q. Shang-fa).
-
-Tan (state), i, 60. (Name), i, 152
-(note), 153, mo 194, 209, 224
-
-
-(i. q. Kau Kung). Tan-hwai,
-i, 64.
-Than Kung, iii, 17, 120. Than-f@,
-
-
-i, 383; iv, 60 (i.q. king Thai).
-
-Thang (state), i, 31, 35, 227
-(king), i, 85 (title), 89, 92,
-128, 162, 176, 197, 206, 215,
-221, 304-12; ili, 366, 396; iv,
-202, 209, 281, 355.
-
-Thang, iii, 152, 187
-
-Thao (state), i, 80 ‘ad note). Thiao-
-khiti, i, 74. Thao-lin, i, 134.
-
-Thwan, the, ii, 31, 35, 213-65, 352,
-387, 400, 405.
-
-
-490
-
-
-THE TEXTS OF CONFUCIANISM.
-
-
-Ti (northern tribes), iii, 177, 229;
-
-
-iv, 30 (six Ti). (Region),
-i, 312. Ti-kb0, i, 73. Ti {,
-ili, 151.
-
-
-Ting (constellation), i, 436. (Duke),
-iii, 195. (Hex. 50), ii, 169-71,
-25475) 329-39 437, 443-
-
-Tho, 1, 68-9, 70, 73.
-
-Ta (place), i, 426. Ti Khiao, iii,
-153. IT Khwéi, iii, 179.
-
-Thii-shan, i, 60.
-
-Tui (trig. 2), ii, 11, 32-3, 425- -6,
-428-32. (Hex. 58), ii, 192-3,
-261, 340, 438, 442. (Armourer),
-i, 239.
-
-Tun (names), iii, 120, 188. Tun-
-kbid, i, 438.
-
-Thun (hex. 33), ii, 127-8, 240, 308,
-439, 443. ;
-
-Thung (place), i, 97. (State), i,
-235. Thung-pai, i i, 73. Thung-
-yuan, i, 67. Thung Zan (hex.
-13), li, 86-7, 225, 284, 434, 443.
-
-
-341 Wo, iv, 220.
-
-Shai (hill), i, 70. (State), i, 211-2.
-(Domain), i, 165 (compare i,75,
-ch. 4, par. 3).
-
-3ang Wan-éung, iii, 403.
-
-3hang-lang, i, 73.
-
-3ang (surname), Sang-3ze, i, 465,
-472,476, 483; ill, 124, 126,128,
-132-5, 141-2, 147, 149, 151-2,
-154, 164, 174, 187, 197, 311-92
-(passim), 406, 467; iv, 143, 152,
-156-7, 161 (see Shan), Sang
-Tien, iii, 162, 3ang Shan, iii,
-126 (and note), 1283 iv, 161.
-Sang Yiian, iii, 128.
-
-3ze (river), i, 66. (In names or desig-
-nations), 3ze-hsid, iii, 135-6,
-140, 142, 150, 155-6, 174,
-341-23 iv, 116-8, 278-81 (i. gq
-Shang, q. v.) 3ze-ang, iii, 132,
-140, -142,. 164, 179} IV, 270,
-276 (i,q. Sze, q.v.)  32ze-
-kung, iii, 134, 136-7, 138-9,
-196-7; iv, 129, 131, 153, 167,
-213, 270-1, 275 (i. gq. Shze, q. v.)
-3ze-k4o, iv, 142, 1¢>. 3ze-lf,
-ili, 123, 127, 131, 139, 141, 182,
-185, 190-1, 415; iv, 303, 144,
-(i.q. Ya, q.v.)  3ze-sze, iii,
-122, 124, 133, 151-2, 173, 194
-(i. q. Khung Ki, q.v.) 3ze-
-shang, iii, 122. 3ze-lifi, iii, 145,
-
-
-200. §ze-shih, iii, 145. 3ze-
-khan, iv, 270. 3ze-hsien, iii,
-166. 3ze-han, iii, 197-8. 3ze-
-yi, iii, 120, 141-4, 146, 165, 174,
-176, 326, 337; iv, 16, 155 (i. q.
-Yen Yi, q.v.) 3ze- fo Hui-po,
-iii, 187. 3ze-fi Po-jze, iii, 120.
-8ze-hii Yen-hsi, i, 443. 3ze-
-shi King-shi, iii, 187.
-
-Shze, iii, 134, 138; iv, 129, 167 (i.q
-3ze- kung).
-
-Qin (state), iii, 126, 165, 196-7, 199,
-407; iv, 294. (Hex. 35), ii,
-
-_ 131-3, 241, 310, 436, 442.
-
-Zing (hex. 48), ii, 164-6, 253, 327-8,
-
-437, 442.
-
-
-30 1,i, 120-1. 3 Ki,i,119. 3-
-lai, i, 346. ‘86-44, i, 204. 3i-
-yi, i, 207. 3ii-shau, iii, 291
-
-
-(should be Zf-shau).
-
-Shui (hex. 45), ii, 156-8, 250-1,
-323-4, 437, 442+
-
-3un-Ai, iii, 183.
-
-
-W4i-fang, i, 73.
-
-Wan (king), i, 126, 130, 134, 153,
-165-6, 170, 174-5, 192-5, 203-4,
-208-10, 212, 222-5, 235-6, 241,
-244,246, 250-1, 252, 266, 314-5,
-317, 328, 342, 377-8, 380-1, 387,
-391-2, 394, 411-2; ll, 241, 403,
-iii, 120, 343-5, 366; iv, 60, 118,
-167, 209 (see Khang). (Duke),
-iv, 169. (Earl), iii, 152. (Mar-
-quises), i, 265; iv, 116, 118.
-(River), i, 66, 74. Wan-3ze, iii,
-143-4. Wan-po, iii, 176. Wan-
-ming, i, 46.
-
-Wang-wi, i, 72. Wang i, iii, 185.
-
-Weak-water, the, i, 73.
-
-Wei (states), i, 121-2, 437; iii, 120,
-126, 134, 136-7, 181-3, 194,
-2525 iv, 94, 116, 119. esa
-i, 65,71,74, 381,392. (Domain
-i, 165, 177- 8, 189, 244. Wei
-37 (hex. 64), ii, 207-10, 265-6,
-
-346-7, 439, 444.
-
-Waiking),utse- -5, 192-5, 208, 232-5,
-236, 241, 244, 250-I, 252, 266,
-318-9, 328, 334-5, 342, 393, 395,
-427; li, 254; ili, 120, 344, 366,
-396 ; iv, 31, 36, 60, 121-3, 167,
-310 (see Fa). (Musical perform-
-ance), iv, 121-2. (Dukes), i,
-374 (note); iv, 36. Wé-wang
-(hex, 28), ii, 109-11, 233-4, 299,
-
-
-INDEX OF PROPER NAMES.
-
-
-435, 441. Wéi-ting (king), i,
-112 (note), 207, 3083 iv, 468
-(i,q. Kau Sung, q.v.) Wa
-Hsien, i, 207.
-
-
-Ya odes, iv, 84, 127-8, 129 (Ta ya,
-Hsiao Y4). (Musical instru-
-ment), iv, 117.
-
-Yang (river), i, 73. Yang Kau, i,
-67. Yang KbO- fd, iii, 199.
-Yao, 1, 31, 38, 118, 2273 ili, 396;
-iv, 123, 201, 208, 326, 418.
-
-Yen (T}), iii, 268, 272, 276 (i. q. Shan
-Nang, q. v.) (Region), i, 199,
-214. (Name), iii, 120. Yen-
-sze, ili, 133. Yen Y4@, iv, 270-1;
-(i. q. 3ze-yd, q. v.) Yen Yiian,
-ili, 137, 139, 185 (i.q. Hui, q.v.)
-Yen Lif; iii, 188.
-
-‘7 (hill), i, 67. (Minister), i, 445 47,
-56-7. (A Recorder), i, 195; iii,
-348: iv, 129. (Hex. 42), ii,
-149-50, 247-8, 319, 437, 441.
-
-Yin (dynasty, later name of Shang),
-i, 104, 108, 120, 122-3, 157, 161,
-162, 168, 170-1, 176-8, 183-7,
-190, 194, 196-9, 201, 205, 208,
-214, 217-8, 233, 236, 244, 246,
-248-9, 308, 311, 411-2 (Yin
-Shang); iii, 125, 138-40, 145,
-168-70, 172, I91, 240, 242-3,
-341, 368, 405-6, 438, 443-4,
-464, 467; iv, 31, 34-9, 106, 123,
-202, 218, 229, 294, 324, 342-3.
-Yin Ki, iii, 431.
-
-Yo (mountain), i, i, 64, 72 (Thai Yo).
-
-
-491
-
-
-Yo-kang §ze-khun, iii, 128,
-201.
-
-Y@i (king), i, 296; iii, 372. (Dis-
-ciple), iii, 127, 415 (iq. 3ze-ld,
-q. v-) Y¥-3ze, iii, 130,149,176;
-iv, 141, i1.q. YO Zo, ili, 165, 174,
-188- -9.
-
-Yii (the Great), i, 42, 46-52, 53-4,
-57-8, 60, 64, 76, 79, 87, 140,
-225, 258, 342, 369, 395, 426; ili,
-366, 372, 396, 202, 208, 339, 3533
-(included in Hsia Hau-shih, q, v.)
-Yii Ti, iv, 343, i. q. Shun, who
-is also called Y&i Yui Shih, iii,
-125, I9I, 240, 242, 443, 4673
-iv, 34-6, 38-9, 201, 229. (Hill), i,
-41, 66-7. (Officer), i, 356.
-(State), i, 385. (Hex. 16), ii,
-gI-2, 227, 287-8, 434, 442. Yii
-K4u, i, 19.
-
-Yiian (state), i, 391. (Name), iii,
-145. Yiian Zang, iii, 198.
-Yiieh, i, r12-8 (name of man, and
-
-title of Book). (State), iv, 37.
-
-Yun, i, 69.
-
-Yung (river), i, 65. (Tribes), i, 131.
-Yung Kau, i, 71. 7 nee i,
-69, 74.
-
-
-Zan-32e, iii, 134. Zan Yj, iii, 150.
-
-Zau (district), i iii, 124.
-
-Zii-shau, iii, 283, 287, 291, printed
-34. Za Fi, iti, 167.
-
-Zui, i, 235, 244, 385.
-
-Zung, i, Way 260; lil, 111, 179,229;
-iv, 30 (six Zung).
-
-
-493
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-bee ee ea bee Kk ee ele U . ec LING “ LI
-aed 3 3 eee % [+ aps Naiites | eR Sie Roni Rone eyeuidse =“ gy
-ee ee > ¢*e) R K ee ee 6 Seats Upc ieieh al pees Sy eee ‘+ * BIpW CL
-yx es Se an eo ees ee tad eee er Me Peco ers eas Wiens: mates: ® ne #90) eyeaidse al
-Py ee eels 2h a Be estes ¥ seel eee eee ee eee © smuar eT
-
-
-(‘o2p ‘sore}eted)
-ev]voyIpom sereimyyny
-
-
-ce ele eee EN Baad Un ool eee indicat er A see] ees © gnqwory stuay “ rat
-. u a 2 a Me et en eee a ree ae a ae 4, .e e[ +++ + gngeouy rodse “ II
-ce .¢ he a e. onae.e Bw. ane sme eee & etlet poe U, Se) ese SITBVONB] STUST “ OI
-u aa a oe Ce eae ee ee eae i a eee La ++” > sipeoney zadse «
-
-é N | \ Frdue re oe ae Se wien el ekrelline, sels THE (akin Papal * 9 9 * Stuay €s 8
-
-er i ah 6 ae Pe Be eee a a eee + 8 os xedse snqidg 2
-tee ie eee: fee ech aes ol omer Beas Sy 6st en Se SORE Nm? 17 1k ee Se * SIT@seny 9
-wets ras 2 ra) ee 6 ere ee se be ee oka A ae SI[RIQBI-OrnyyNX) C
-oe c a ae 2 ae See ee a Ae - sepupuss. * §
-° c “+1 @ c 2 le eke wdter &oN Ee i ae de a a “+ + Bip ¢
-q4 c ee ee oo 59 iS sree we i ee we Se es eyeridse a g
-1 c a a 6 6 Pe corerare Oe Var ae eee ee ee - + smnuay, I
-
-‘soTBIngIN
-
-
-‘sSe1D IIT | ‘SS*ID IT} SSPID I
-‘SLNVNOSNOD
-
-
-‘gsautys | ‘mouqeH | ‘2IqQe4V | ‘uRIs4ag | TASTYPd *‘puez 4uysues
-*‘LAAVHd1V AUVNOISSIN
-
-
-(of. Dn [nn oe to. es (a
-‘LSVQ DHL AO SHOOG AIAOVG AHL Ao
-
-
-SNOILVISNVUT AHL WOd GaLdOdV SLAIVHdATY TVLNAlY(C) JO NOILVUALIISNVY T,
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-494
-
-
-i ie a (f)a |e «lee e]**** genunumsedss * le
-yt Si Dee eee ee ee 2! |
-¢) £ e . ov ares © a 6Ts 6 34 |S carne eee gum - cE
-
-be eis) ce et ee) ‘* gaodsey “ PE
-oO (ep) oe | ov ph cacdcih # lacie 4 nt ek eel * Taodse enyuidg g¢
-“Ere ek es 0 eae rere es ee 4 ee el* eel **** +2 emom ws cE
-
-
-eee 2 & «@ up coe eee» ogame ee LZ
-
-
-ee *ee eee Ee vag 60-4 ‘ay ae is 2 ree 1 ees is 2-28 I sijjou < I¢
-
-I 4 C e 7) {3 - 2 & “9 (A) “eee ee I 289 2 2' 8 22 SITBOOATWIOG O€
-
-u C fe) fel i f b Ano ee a heigl u ftlerrr-e eee eee SITVSB NT 62
-
-e@es ea « ¢ ¢ a ia: ie ss... a. x Fan Ha mM” Seat eee tet Dee” tae’ eer a ey VzElIQISsV ‘se 8Z
-.-
-
-
-R
-> ee s ar? © 2 p Seco te £28 8. eee Oe
-OR Pk Ate Me: aA 20 e 8 * syeiqisss =“ SZ
-todos s SS) fee evslfie eligi eee + woe emer ge
-3 oe fee oo eee cee
-‘so, eju0gd
-
-
-o
-P) et) Te | 2 se ¢] * * SNOBIIQISSe SIUIT 6 6eZ
-em
-
-
-Zz é.* 6 & ri
-
-seers] 1 A Bm locce] s foe ec]? * sngeptqisse sodse “ “oP
-a ae . Gey och Pie 2 ee e @ @€ ¢@ “ee eee (4) eee cre» 2.2.0.2. gmmy ‘e 0Z
-oe ee CR a ae ele ee ake Os ce eleceesece gadew sngiuidg §|
-
-
-‘ A 4 ry ¢¢ k Cemie® sales ve fk “ceeeee © SBDOATIG BI
-
-
-ee EE | | | | | |
-
-
-‘SSPID TIT | SSPID IT] “SSID T
-(panterpuor
-
-
-‘esouryD | ‘maaqaxy | “Iqery | ‘Wersseg | “}49]U9d “pusz a
-*LHAVHdIV AUVNOISSIN SLNVNOSNOD
-
-
-‘ane nee We See Sa See oe ie a ar: |S eee mere
-
-
-oe
-
-
-495
-
-
-FOR THE SACRED BOOKS OF THE EAST.
-
-
-F
-AN
-wi
-
-
-ys
-
-
-C
-
-
-a
-
-
-on che
-
-
-ronnie 2 hee ee Pee A - eo
-
-
-ati eh toltte oe “ss 9° *@Ipasnuy gc
-tino fi oe wera” eS Z¢
-7 +++ > godep snqindg 9¢
-+++ + + eyeaidse <i c¢
-
-
-soe ese 8 ee SBIOATEIOR FC
-os eee ee ee 6 o gEsEN eG
-Si See ee ** * *@ulISsSInUaT, ZS
-. 45 + +s 0 gaaniep  *t+’ Fp
-cece eee eee ee emaw os
-wee + 4 0+ ee Se BS
-see eee ee ees gmuay oF
-“SO[BIQe'T
-
-
-RCC) a Lt
-cose sees sodse snqiidg oF
-BOlpLOVIp ve cP
-tee +e eqpony “ aa
-shee eee © sreooAtmeg oF
-ott t RSS Bye SOE, BP
-CN RO OO * eyertdse spe IP
-see ee ee eee ee BNW OF
-ee ee vyeridse bias 6§
-tt 9.4.0.0 © see RS, OF
-(‘oa ‘sopenSuty)
-OBJVOPIPOM sol[B}US”
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-496
-
-
-n
-ny
-
-
-7-2
-7 e@ e@
-5
-!
-R
-
-
-——_—$—$—S— |— |, EE
-
-
-eo @
-g
-esouty)
-
-
-“Maiq? H
-
-
-%
-
-
--o°
-Ss
-6
-
-ay
-
-
-‘1qeay
-
-
-S 2s &.a 8 Gan -A-oe Nem ity a 68 4 @4 6) oe
-
-ee « a & A  % ® 88 a eS *. n
-|
-
-= weg a a ay | 2 e662 e & a: * 4 I
-
-ep » bs: eee . e @ ee
-
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-re
-
-©
-=
-
-Or
-
--—
-
-o
-e
-a
-e.
-
-°
-e
-
-.
-
-.
-
-.
-
-.
-
-*
-
-*
-@
-
-
-.
-°
-.
-.
-as
-“=
-——
-<-
-
-
--B OR wore i Pm &
-
-
-ee Cl ia
-
-
-Ow 8
-
-
-*sSEID III | ‘SSRID II | ‘SSPIDI
-
-
-“ueIss9g 242g *puez yaysues eS
-
-
-“LAGVHd1V AUVNOISSIN
-
-
-.
-.
-—
-&
-~
-a
-3
-~~
-<®
-
-
-* CjONd) SHBIGU-CaNINA LZ
-‘ss goed sIpeIqey 9Z
-
-‘+ * Bqoway SIPBIElIBT OZ
-78+ Bloway BITBANYNY) HZ
-
-
-«é
-
-
-“ce
-
-
-‘é €Z
-ce AA
-
-
-sI[eiqel-ony4n3 snZuoyyydig [Z
-
-
-eee we 7 Be dere tt de). Mabel * + + + Mean aie
-eeee sIAdIq SI[BIqe[-o1n4yn4) 6I
-
-
-«
-
-
-~ 81
-ce LI
-
-
-sipeyered-omn4ynd snZuoyyydig 9]
-‘°° e8uo] “ SI
-
-
-Staci sipezered-oinyynyy FT]
-oS be e suo] 6é €1
-
-
-es
-eo 2 »
-a9: 2
-oe =
-eee
-o 2 0
-rs. @
-SO) 2 Rg
-»
-® 2-9
-o- 6 9
-Bee 1s
-oo -, ©
-o>. 2 fo
-
-
-.
-
-
-* * stéorq syviqey ZI
-* eBuol ” II
-
-
-* staaaq sipenZury OQ]
-
-
-gs ila
-
-
-* * slaodq sifeyusq g
-* * @Su0] 5 Z
-* * SlAaIq sITeze[eq 9
-* e8u0] wef |
-* slaodq sIpeinyjny F
-bi i
-steyered-oSukiey Z
-7+ 9+ + greiynaNT |
-
-
-‘STAMOA
-
-
-* ? :
-~~
-2 ES
-
-
-I | i]
-
-
-= www.motilalbanarsidass.com © info@mlbd.co.in
-Ps idass ¥ @mlbdpublishers

@@ -3684,7 +3684,7 @@ items:
   manifest_path: manifests/project-gutenberg/50011-myths-folk-tales-russians-slavs-magyars-curtin.yml
   extraction_dir: extractions/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin
 - id: slavic.epic_songs_of_russia.hapgood_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: epicsongsofrussi00hapguoft
@@ -3746,7 +3746,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/epicsongsofrussi00hapguoft-epic-songs-of-russia-hapgood.md
+  canonical_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  manifest_path: manifests/project-gutenberg/epicsongsofrussi00hapguoft-epic-songs-of-russia-hapgood.yml
+  extraction_dir: extractions/slavic/project-gutenberg/epic-songs-of-russia-hapgood
 - id: baltic.hero_of_esthonia.kirby_gutenberg
   status: ingested
   priority: medium
@@ -6573,7 +6577,7 @@ items:
     converted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/shahnama02firduoft-shahnama-warner-vol2.md
 - id: ethiopian.kebra_nagast.budge_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: queenofshebahero00budgrich
@@ -6632,9 +6636,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-18'
     converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/queenofshebahero00budgrich-kebra-nagast-budge.md
+  canonical_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  manifest_path: manifests/project-gutenberg/queenofshebahero00budgrich-kebra-nagast-budge.yml
+  extraction_dir: extractions/ethiopian-christian/project-gutenberg/kebra-nagast-budge
 - id: caucasian.folk_tales.dirr_menzies_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: dirr-1925-caucasian-folk-tales
@@ -6693,9 +6701,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-18'
     converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/dirr-1925-caucasian-folk-tales-caucasian-folk-tales-dirr.md
+  canonical_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  manifest_path: manifests/project-gutenberg/dirr-1925-caucasian-folk-tales-caucasian-folk-tales-dirr.yml
+  extraction_dir: extractions/caucasian/project-gutenberg/caucasian-folk-tales-dirr
 - id: buddhist.mahavamsa.geiger_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: mahavamsaorgreat00mahciala
@@ -6756,9 +6768,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-18'
     converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/mahavamsaorgreat00mahciala-mahavamsa-geiger.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  manifest_path: manifests/project-gutenberg/mahavamsaorgreat00mahciala-mahavamsa-geiger.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/mahavamsa-geiger
 - id: sikh.sikh_religion.macauliffe_v1_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: sikhreligionitsg01unse
@@ -6817,7 +6833,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-18'
     converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/sikhreligionitsg01unse-sikh-religion-macauliffe-vol1.md
+  canonical_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  manifest_path: manifests/project-gutenberg/sikhreligionitsg01unse-sikh-religion-macauliffe-vol1.yml
+  extraction_dir: extractions/sikh/project-gutenberg/sikh-religion-macauliffe-vol1
 - id: chinese.shu_king_shih_king.sbe3.legge_archive
   status: converted
   priority: high
