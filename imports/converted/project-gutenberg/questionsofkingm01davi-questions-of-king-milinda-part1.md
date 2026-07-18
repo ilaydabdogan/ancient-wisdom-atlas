@@ -146,8 +146,7 @@ former of these two was mentioned in a letter to the
 'Academy' of the i2th November, 1881. In the Manoratha Pura;n, his commentary on the Anguttara, on the
 passage marked in Dr. Morris's edition as I, 5, 8, Buddhaghosa says : —
 
-'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Nagasena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa>^e rupino assa kiva maha-rasi bhavey-
-yati ?
+'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Nagasena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa>^e rupino assa kiva maha-rasi bhaveyyati ?
 
 And he then gives the answer: — 'Vahasatanam kho
 fc>*

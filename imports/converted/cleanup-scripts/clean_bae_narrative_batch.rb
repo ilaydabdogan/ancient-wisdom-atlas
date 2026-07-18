@@ -83,7 +83,10 @@ SPECS = {
   },
   "chippewamusic01dens-chippewa-music-1-densmore.md" => {
     head_cut_to: /\AANALYSIS  OF  CHIPPEWA  MUSIC\z/,
-    tail_cut_from: /\AINDEX\z/, tail_frac: 0.9,
+    # Cut at the bibliography (before the index) — the index's own heading page
+    # number was stripped, so its first surviving "INDEX" line is a mid-index
+    # running header; AUTHORITIES CITED is the clean back-matter boundary.
+    tail_cut_from: /\AAUTHORITIES   CITED\z/, tail_frac: 0.9,
     repeat_headers: 15, dehyphen: true
   },
   "chippewamusic02dens-chippewa-music-2-densmore.md" => {

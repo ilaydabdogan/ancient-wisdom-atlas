@@ -142,11 +142,9 @@ they appear in each of the Chinese versions. I have not
 been able by a study of this analysis to add anything to
 the admirable summary of the conclusions as to the
 relations of these two books to one another and to the Pali
-which are given by M. Specht in his article in the Proceedings of the Ninth Congress. The later version is through-
-out much nearer to the Pali ; but neither of the two give
+which are given by M. Specht in his article in the Proceedings of the Ninth Congress. The later version is throughout much nearer to the Pali ; but neither of the two give
 more than a small portion of it, the earlier does not seem
 to go much further than our Volume I, page 99 (just where
-the Pali has the remark, ' Here end the questions of king
 Milinda'), and the later, though it goes beyond this point,
 apparently stops at Volume I, page 114.
 
@@ -836,9 +834,6 @@ He's freed from stains, and dies away.'
 text).
 
 
-IV, 5, 3- ^^' MILINDA THE KING.
-
-
 dwelling-place, so also should the recluse be of
 opinion that
 
@@ -854,8 +849,7 @@ that was said with respect to two matters only.
 And what are those two ? The gift of a dwellingplace (Wihara) has been praised and approved,
 esteemed and highly spoken of, by all the Buddhas.
 And those who have made such a gift shall be delivered from rebirth, old age, and death. This is
-the first of the advantages in the gift of a dwellingplace. And again, if there be a common dwelling-
-place (a Wihara) the sisters of the Order will have
+the first of the advantages in the gift of a dwellingplace. And again, if there be a common dwellingplace (a Wihara) the sisters of the Order will have
 a clearly ascertained place of rendezvous, and those
 who wish to visit (the brethren of the Order) ^ will
 find it an easy matter to do so. Whereas if there
@@ -924,8 +918,6 @@ into a general ethical precept.
 2 From the Maha Udayi Sutta (:\ra^^;/ima Nikaya, No. 77).
 
 
-IV, Sj5- of milinda the king. 5
-
 This too is a double-edged problem, now put to you,
 which you have to solve.'
 
@@ -947,8 +939,7 @@ been given to him, will be unchaste, will speak lies,
 will drink strong drink, will put his mother or his
 father to death, will slay an Arahat, will create a
 schism in the Order, will even with malice aforethought wound a Tathagata. Was it not, O king,
-when without restraint as to his stomach, that Devadatta by breaking up the Order, heaped up for him-
-self karma that would endure for a kalpa^.'* It was
+when without restraint as to his stomach, that Devadatta by breaking up the Order, heaped up for himself karma that would endure for a kalpa^.'* It was
 on calling to mind this, O king, and many other
 things of the same kind, that the Blessed One
 declared :
@@ -1344,9 +1335,6 @@ etymologically the same as beryl, but probably meaning cat's-eye) is
 supposed, like the other mystic treasures, to come to him of its own
 accord, on his becoming sovran overlord. See my 'Buddhist
 Suttas,' p. 256 (S. B. E., vol. xi).
-
-
-IV, 5, 15- O^ MILINDA THE KING. I 5
 
 
 his wisdom, brought back to Hfe and made passable
@@ -1839,9 +1827,6 @@ rightly understood this term, which I have not found elsewhere
 applied to the Arahat. Hina/i-kumbure merely repeats the word.
 
 
-IV, 5, 26. OF MTLINDA THE KING. 2 7
-
-
 conditions of heart \ And it is because the Tathagata does this that therefore also is he called a
 Brahman. A Brahman, O king, means one who
 carries on the line of the tradition of the ancient
@@ -1870,8 +1855,7 @@ the Tree of Wisdom, they had overthrown the
 armies of the Evil One, had suppressed in themselves all evil qualities not productive of merit, and
 had attained to the knowledge of the Omniscient
 
-^ Dibba-viharo; rendered divya-vihara«a by Hina/i-kumbure. It cannot mean here 'state of being a deva in the kama-
-loka' as rendered by Childers.
+^ Dibba-viharo; rendered divya-vihara«a by Hina/i-kumbure. It cannot mean here 'state of being a deva in the kamaloka' as rendered by Childers.
 
 ^ That is, of course, the previous Buddhas.
 
@@ -1900,8 +1884,7 @@ and its many hundred ribs ^ — the symbol of his
 mighty fame and glory. And the Blessed One, O
 king, making the army of the Evil One, those given
 over to false doctrine, mourn ; filling the hearts of
-those, among gods or men, devoted to sound doctrine, with joy; [227] raises aloft over the ten thou-
-sand world systems the Sunshade of his Sovranty,
+those, among gods or men, devoted to sound doctrine, with joy; [227] raises aloft over the ten thousand world systems the Sunshade of his Sovranty,
 pure and stainless in the whiteness of emancipation,
 
 ^ This is a striking instance of argument in a circle. The word
@@ -2095,8 +2078,7 @@ The supporters of the faith, O king, the lordly
 eivers, have their hearts thus softened, made tender,
 affected. Thereby do they cross over to the further
 shore of the ocean of transmigration by the aid of
-the boat of their gifts, by the support of the causeway of their gifts. And (the Buddha), by this (me-
-thod in his teaching), is not guilty of " intimation ^" '
+the boat of their gifts, by the support of the causeway of their gifts. And (the Buddha), by this (method in his teaching), is not guilty of " intimation ^" '
 
 30. 'Venerable Nagasena, when you say "intimation " what are these intimations ? *
 
@@ -2218,8 +2200,7 @@ set, and being questioned by Moggallana, the Elder,
 as to what medicine would do him good, broke
 silence ; and through that breach of silence obtained
 the medicine — did not Sariputta then, saying to himself: "This medicine has come throuoh breach of
-silence ; let not my (adherence to the rules regarding) livelihood be broken," reject that medi-
-cine, and use it not ^ ? So that too is a verbal
+silence ; let not my (adherence to the rules regarding) livelihood be broken," reject that medicine, and use it not ^ ? So that too is a verbal
 intimation which is wrong. True members of the
 Order will not use a thing so obtained, and he who
 acts thus is regarded like the last.
@@ -2243,8 +2224,6 @@ gives it at great length.
 2 iVati-pavaritesu kulesu. Compare Pa>^ittiya 39 ('Vinaya
 Texts,' vol. i, p. 39).
 
-
-IV,5, 34- OF MTLINDA THE KING. 37
 
 approved of the Tathagatas, the Arahats, the
 Supreme Buddhas. And the alms that the Tathagata, O king, refused to accept of Kasi-Bharadva^a,
@@ -2901,8 +2880,6 @@ Pa^apati's gift, at the time when Gotama returned, as the Buddha,
 to Kapilavatthu.
 
 
-IV, 6, 13- OF MILTNDA THE KING. 53
-
 sentries, body guards, and courtiers ^ — yea, in the
 presence of the king himself — the virtues which his
 son really possesses, thinking: " If established here
@@ -3301,8 +3278,6 @@ p. 276 of the Pali) it translates the same term, 'whose hands and
 feet are broken.' It is literally ' should become side-destroyed,'
 and may mean paralysed.
 
-
-tv, 6, 24. of milinda the king. 63
 
 [dilemma the fifty-sixth,
 the backsliders.]
@@ -4505,8 +4480,7 @@ pieces in mixed prose and verse, and the expositions,
 and the poems, and the outbursts of emotion, and
 the passages beginning " Thus he said," and the
 birth-stories, and the tales of wonder, and the
-extended treatises ^ ? Why do they trouble themselves about new buildings ^ about gifts and offer-
-ings to the Order ? '
+extended treatises ^ ? Why do they trouble themselves about new buildings ^ about gifts and offerings to the Order ? '
 
 
 ' This passage has not yet been traced in the Pi/akas.
@@ -5067,8 +5041,7 @@ cravings, that disciple of the Noble Ones who has
 fully attained can see Nirva;^a.'
 
 1 7. ' Then what. Sir, is Nirva/^a ? Such a Nirva/^a
-(I mean) as can be explained by similes ^ Convince me by argument how far the fact of its exist-
-ence can be explained by similes.'
+(I mean) as can be explained by similes ^ Convince me by argument how far the fact of its existence can be explained by similes.'
 
 ' Is there such a thing, O king, as wind ? '
 
@@ -5297,8 +5270,7 @@ other of these its heat is allayed. And what are
 the four ? The clouds, O king, and fog ^, and
 
 ^ Satta, literally 'beings,' but that means human beings, men
-and women, as no others (gods, Nagas, animals, &c.) were admitted to the Order. See Mahavagga I, 63; I, 76, i; ^uUa-
-vaggaX, 17, I.
+and women, as no others (gods, Nagas, animals, &c.) were admitted to the Order. See Mahavagga I, 63; I, 76, i; ^uUavaggaX, 17, I.
 
 ^ In the Introductory Stories to the Rules it is often stated, how,
 when a Bhikkhu had done some act, the people were indignant,
@@ -6071,8 +6043,7 @@ flowers at all, botanically speaking, but young shoots. But it is
 one of the most beautiful sights in a Ceylon landscape to see this
 splendid forest tree, lofty and wide-spreading as it is, one mass
 of what look like red blossoms from crown to root. For at the
-' bloom time ' it casts all its green leaves, and has the appearance of a scarlet bell. No wonder that this was thought super-
-natural, and that the tree should be called the Naga tree. Its
+' bloom time ' it casts all its green leaves, and has the appearance of a scarlet bell. No wonder that this was thought supernatural, and that the tree should be called the Naga tree. Its
 timber is so valuable that in Anglo-Indian the tree is called the
 ' Iron-wood ' tree. But it may be regretted that the commercial
 spirit of the European has substituted this hard name for the ' Fairy
@@ -6095,8 +6066,7 @@ and a hundred cows and a hundred buffaloes and a
 hundred ounces of gold. And if, my child, your
 grandfather should take you out of the hands of the
 Brahman by word of command, or by force, paying
-nothing, then obey not the words of your grandfather, but remain still in subjection ^ to the Brah-
-man." Such was his instruction as he sent him
+nothing, then obey not the words of your grandfather, but remain still in subjection ^ to the Brahman." Such was his instruction as he sent him
 away. And young GaVi went accordingly, and when
 asked by his grandfather, said :
 
@@ -6117,8 +6087,7 @@ pp. 6, 14; Sa7«yutta Nikaya II, 3, 9, 9 (Gataka I, 375, IV, 97;
 Ahguttara III, 73, 3).
 
 ^ Anuyayino. Not found elsewhere, and not in Childers.
-But anuyayati occurs below (p. 391 of the text) and an anuyayin at Sutta Nipata V, 7, 3, 4 and Tela-ka/aha-gatha 25 (com-
-pare 41). Hina/i-kumbure (p. 470) has anuwa hoesirew.
+But anuyayati occurs below (p. 391 of the text) and an anuyayin at Sutta Nipata V, 7, 3, 4 and Tela-ka/aha-gatha 25 (compare 41). Hina/i-kumbure (p. 470) has anuwa hoesirew.
 
 K 2
 
@@ -6154,8 +6123,7 @@ since the succession of Buddhas began '^), there
 Buddhas in their then lives may be born eiiher in a Brahman
 or in a Kshatriya family, but in no other.
 
-^ Addhana-vemattata, which is ambiguous, as 'perioddifference ' may mean different things according to the interpre-
-tation given to 'period.' Now the Bodisat theory has never been
+^ Addhana-vemattata, which is ambiguous, as 'perioddifference ' may mean different things according to the interpretation given to 'period.' Now the Bodisat theory has never been
 thoroughly worked out in detail. It is clear from the statements
 given in pp. 38-58 of my ' Buddhist Birth Stories' that the Bodisat
 who became Gotama the Buddha was held to have been in existence throughout the whole period in which the former twenty-four
@@ -6253,8 +6221,6 @@ adding the Sanskrit names as given in the Mahavyutpatti, § 8 : —
 4. Sattanaw nanadhimuttikata Nanadhatu (3)
 
 
-IV, 8,19. <^F MILINDA THE KING. 1 35
-
 ledge\ in the fourteenfold knowledge of Buddha^,
 in the eiehteen characteristics of a Buddha^ — in
 a word, in all the qualities of a Buddha. For all
@@ -6329,8 +6295,7 @@ heated the livelong day and glowing throughout,
 had entered the orifice of his ear, so was it that
 those words, O king, entered the ear of the Bodisat.
 And to the natural distress he already felt there was
-added, by that utterance of the god, a further emotion, anxiety, and fear. Just as a mighty fiery fur-
-nace, were fresh fuel thrown on it, would the more
+added, by that utterance of the god, a further emotion, anxiety, and fear. Just as a mighty fiery furnace, were fresh fuel thrown on it, would the more
 furiously burn — just as the broad earth, by nature
 moist, and already swampy through the water dripping on it from the vegetation and the grass that
 have arisen on it, would become more muddy still
@@ -6737,8 +6702,6 @@ where this curious story is given in full.
 not in Childers, but see the Sutta Vibhahga, Para^ika I, 5, 6.
 
 
-TV, 8, 26. OF MILINDA TPIE KING. 1 47
-
 presented to the Blessed One eight bunches of
 jessamine flowers, came that very day into great
 prosperity. Eka-sa/aka the Brahman, who gave to
@@ -7079,9 +7042,6 @@ Pali).
 2 This long list is made up of the two given above at pp. 35,
 
 
-IV, 8,31- 0¥ MILINDA THE KING. 155
-
-
 ' But why so, O king ? '
 
 ' Because of the greatness of the storm.'
@@ -7283,8 +7243,7 @@ deep sleep his mind has returned into itself, and
 ^ ' Like a bird that has re-entered its nest ' is Hina/i-kumbure's
 gloss.
 
-^ Appa/ivi^anantassa, 'does not know the distinctions between bliss and woe (sukha dukkha vibhaga),' says the Sin-
-halese, p. 440.
+^ Appa/ivi^anantassa, 'does not know the distinctions between bliss and woe (sukha dukkha vibhaga),' says the Sinhalese, p. 440.
 
 
 a mind shut in does not act, and a mind inactive
@@ -7455,8 +7414,7 @@ he who has taken poison, and when all his limbs are
 ^ Gati-patiba//ia, gamana bahulyatawen says the Si;«-
 halese.
 
-^ Upahat-abbhantaro, 'whose interior is burnt by the fierceness of the stomach fire' (^a/^aragni-gaha«i), says Hina/i-kum-
-bure, p. 443.
+^ Upahat-abbhantaro, 'whose interior is burnt by the fierceness of the stomach fire' (^a/^aragni-gaha«i), says Hina/i-kumbure, p. 443.
 
 M 2
 
@@ -7893,8 +7851,7 @@ not?'
 ^ Vibhuta?« kztam is rendered prasiddha karawa laddeya
 in the Sinhalese, p. 451.
 
-^ Parinibbutanaw. The words in brackets are Hina/i-kumburS's gloss. ' Of all who have been entirely set free ' is an alter-
-native, and perhaps a better, rendering.
+^ Parinibbutanaw. The words in brackets are Hina/i-kumburS's gloss. ' Of all who have been entirely set free ' is an alternative, and perhaps a better, rendering.
 
 
 ' It is by the stedfast resolve, O king, of three
@@ -8128,8 +8085,7 @@ body, and because of the magnitude of the elephant
 king.'
 
 ' Just so, O king, the mind of one under seven
-years of age is powerless and weak, limited, insignificant, obscure, and dull. Grand and tran-
-scendental is the ambrosial essence of Nirva?^a*.
+years of age is powerless and weak, limited, insignificant, obscure, and dull. Grand and transcendental is the ambrosial essence of Nirva?^a*.
 With that mind so powerless and weak, so limited,
 insignificant, obscure, and dull, he cannot penetrate
 into the grand and transcendental essence of Nir-
@@ -8637,8 +8593,6 @@ which are they ? '
 'As space, O king, neither Is born nor grows old,
 neither dies nor passes away nor is reborn (has
 
-
-IV, 8, 73- OF MILTNDA THE KING. 193
 
 a future life to spring up into), as it is incompressible,
 cannot be carried off by thieves, rests on nothing, is
@@ -9320,8 +9274,7 @@ silver and lead and tin and copper and brass ^
 and iron, and jewellers ; messengers ; potters, salt
 gatherers ^, tanners, carriage builders, carvers in
 ivory ^, rope makers, comb makers, cotton-thread
-spinners, basket makers, bow manufacturers, bowstring makers, arrow fletchers, painters, dye manu-
-facturers, dyers, weavers, tailors, assayers of gold *,
+spinners, basket makers, bow manufacturers, bowstring makers, arrow fletchers, painters, dye manufacturers, dyers, weavers, tailors, assayers of gold *,
 cloth merchants ^, dealers in perfumes, grass cutters,
 hewers of wood, hired servants ^ people who live by
 eatheringf flowers and fruits and roots in the woods,
@@ -9602,8 +9555,6 @@ pp. 108-110.
 ^ The mango is used in all stages — when ripe for eating, and
 for pickles, curries, &c., in other stages.
 
-
-V, 10. OF MTLINDA THE KING. 21 7
 
 either conversion or any other. And this, O king,
 is what is called " The Blessed One's bazaar of
@@ -9996,8 +9947,7 @@ and undismayed, he enters the assembly without
 excitement or fear. Just, O king, as a warrior,
 a hero in the fight, when accoutred in all his harness
 course he has followed along the Excellent Way, he becomes
-conscious of having got beyond each of the obstacles (the Sa.myo^^anas) that can beset him. It is the doctrine of ' final assur-
-ance' from the Buddhist point of view. Compare ;7a;^adassana
+conscious of having got beyond each of the obstacles (the Sa.myo^^anas) that can beset him. It is the doctrine of ' final assurance' from the Buddhist point of view. Compare ;7a;^adassana
 at Digha II, 83.
 
 ^ Pa/isambhida. Hina/i-kumbure merely repeats the ambiguous technical terms of the Pali. Childers, sub voce, gives
@@ -11119,8 +11069,7 @@ tree (dimbul porii), and used for levelling rice-fields.
 
 thoroughly trains himself in holding the lancet, in
 cutting, marking, or piercing with it, in extracting
-darts, in cleansing wounds, in causing them to dryup, in the application of ointments, in the adminis-
-tration of emetics and purges and oily enemas, and
+darts, in cleansing wounds, in causing them to dryup, in the application of ointments, in the administration of emetics and purges and oily enemas, and
 only when he has thus gone through training, served
 his apprenticeship, made himself skilful, does he visit
 the sick to heal them. Just so, O king, all they who •
@@ -11422,8 +11371,7 @@ right limits. Just so, O king, whosoever having
 evil cravings in his heart, being hypocritical, greedy,
 a slave to his stomach, seeking after material gain
 or worldly fame and glory, unfit (for the outward
-signs of Arahatship), not having reached the attainments, whose conduct is inconsistent (with member-
-ship in the Order), unworthy of it, inappropriate to
+signs of Arahatship), not having reached the attainments, whose conduct is inconsistent (with membership in the Order), unworthy of it, inappropriate to
 it — whosoever being such shall take upon himself
 the vows, he shall incur a twofold punishment, suffering the loss of the good that may be in him. For
 in this world he shall receive disgrace, and scorn,
@@ -11632,8 +11580,7 @@ Order have not observed them in any completeness. Like the
 Buddha himself, the majority have undertaken only the second of
 the thirteen — the wearing of three robes ; and the others have only
 been occasionally practised, and then usually only one or more at
-a time, by isolated members. It is true that the G^ataka Commentary (Fausboll, vol. ii, p. 449) says that Upasena Vanganta-
-putta kept the whole thirteen of the Dhutahgas. But this is at
+a time, by isolated members. It is true that the G^ataka Commentary (Fausboll, vol. ii, p. 449) says that Upasena Vangantaputta kept the whole thirteen of the Dhutahgas. But this is at
 variance with the older text (in the Vinaya, Nissaggiya, No. XV)
 giving that account of the same episode on which the story in the
 
@@ -12214,9 +12161,6 @@ Gataka V, 186, in both of which passages the Burmese MSS. read
 /■ahka-. The Si?«halese, p. 540, has perahan kac/e.
 
 
-VII, T, 2. OF MILTNDA THE KING. 279
-
-
 I. The Ass.
 
 harsh-voiced ass which you say he ought to take,
@@ -12286,8 +12230,7 @@ The word etarahi seems to me suspect, and some such reading
 as ka/ihgaropadhana va would restore the metre, and at the
 same time bring the play on the words more into prominence.
 
-^ This verse is found in the Thera Gatha, No. 985. Hina/ikumbure takes the na in the first line as a negative to abhi-
-vassati, and translates, ' So long as it does not rain knee-deep on
+^ This verse is found in the Thera Gatha, No. 985. Hina/ikumbure takes the na in the first line as a negative to abhivassati, and translates, ' So long as it does not rain knee-deep on
 him, when sitting in meditation, what cares the Bhikshu, who is
 bent on attaining Nirvana, for ease !' — and this is, I think, preferable
 to Mr. Trenckner's division of the words.
@@ -13513,8 +13456,6 @@ Sinhalese (pp. 566, 567) confirms Mr. Trenckner's reading, m3.m
 kana, maw nissaya, maw anattha-kamataya.
 
 
-vii, 3, 15- of milinda the king. 3 i i
-
 23. Fire.
 
 11. 'Venerable Nagasena, those five qualities of
@@ -13594,8 +13535,6 @@ we have here a real case of difference in reading.
 I
 I
 
-
-VIT, 3, 20. OF MILTNDA THE KING. 313
 
 down ; just so, O king, should the strenuous
 Bhikshu, earnest in effort, retiring into the midst of
@@ -13784,8 +13723,7 @@ to have. For it was said, O king, by the Blessed
 One, the god over all gods, in his exhortation to
 Rahula, his son :
 
-"Just, Rahula, as space rests nowhere on anything, so shouldst thou practise thyself in that medi-
-tation which is like space. Thereby shall neither
+"Just, Rahula, as space rests nowhere on anything, so shouldst thou practise thyself in that meditation which is like space. Thereby shall neither
 pleasant nor unpleasant sensations, as they severally
 arise, bear sway over thy hearth" '
 
@@ -13822,8 +13760,7 @@ earnest in effort, be a mighty lord over his own will.
 2 U/aradhipati. Dr. Morris in the 'Journal of the Pali Text
 Society' (1880, p. 107) ingeniously proposes to read u/ura^adhipati, 'king and lord over the u/u's, the lunar mansions.' In that
 case the u/ara in the latter clause of the sentence would be a play
-upon words. But INIr. Trenckner's reading is confirmed by the Sbnhalese, which has Sandra diwya-ra^^a tema mahatwii sisira-
-gnnzyem adhipati wuyeya, 'the moon, that heavenly king, is
+upon words. But INIr. Trenckner's reading is confirmed by the Sbnhalese, which has Sandra diwya-ra^^a tema mahatwii sisiragnnzyem adhipati wuyeya, 'the moon, that heavenly king, is
 a lord by reason of his great coldness.' And the reading may well
 stand, for the mention, in the latter part of the clause, of the thing
 over which the Bhikshu is to be lord does not necessarily require
@@ -13928,8 +13865,7 @@ have.
 warms multitudes of people ; just so, O king, should
 the strenuous Bhikshu, earnest in effort, rejoice the
 whole world of gods and men with good conduct,
-and righteousness, and virtue [390], and the performance of duty, and with the G^/^anas, and the Vimok-
-khas, and Samadhi, and the Samapattis (various
+and righteousness, and virtue [390], and the performance of duty, and with the G^/^anas, and the Vimokkhas, and Samadhi, and the Samapattis (various
 modes of transcendental meditation or ecstacy), and
 with the five moral powers, and the seven kinds of
 wisdom, and the four modes of being mindful and
@@ -14215,9 +14151,6 @@ which is the same thing (from prarthana, which confirms Mr.
 Trenckner's reading).
 
 ^ Not traced as yet.
-
-
-VII, 4, 7- O^ MILINDA THE KING. 329
 
 
 and dwell with his weapon, knowledge, always drawn.
@@ -14551,8 +14484,6 @@ there explained by the commentator (wrongly, I think) as the five
 Skandhas. The Si/';^halese, p. 596, simply has sarva sa;«skara
 dharmaya?//.
 
-
-YII, 4, 22. OF WILINDA THE KING. 337
 
 up his feet and in putting them clown, in going or
 returning, in stretching his arm or drawing it back, —
@@ -15653,8 +15584,7 @@ strenuous Bhikshu, earnest in effort, even when he
 has reached the summit of Sama;^aship, and knows
 all tradition and learning and interpretation, yet
 should give forth no sound, not pride himself thereon, not show himself puffed up, but putting away
-pride and self-righteousness, should be straightforward, not garrulous of himself, neither depre-
-cating others. This, O king, is the quality of the
+pride and self-righteousness, should be straightforward, not garrulous of himself, neither deprecating others. This, O king, is the quality of the
 waterpot he ought to have. For it was said, O
 king, by the Blessed One, the god over all gods, in
 the Sutta Nipata :
@@ -15678,8 +15608,6 @@ black iron you say he ought to take, which are they ? '
 
 ^ Ka/ayasa. I suppose to distinguish it from bronze.
 
-
-VII, 7, 4. OP^ MILINDA THE KING. 365
 
 beaten out^ carries weight; just so, O king, should
 the mind of the strenuous Bhikshu, earnest in effort,
@@ -15891,8 +15819,7 @@ takes aim ^ in joy at the thought : " I shall hit it ^ ; "
 just so, O king, should the strenuous Bhikshu,
 earnest in effort, plant firmly the feet of his zeal on
 the basis of righteousness, keep intact his kindness
-and tenderness of heart, fix his mind on subjugation of the senses, keep himself steady by self-
-restraint and performance of duty, suppress excitement and sense of faintness, by continual thought-
+and tenderness of heart, fix his mind on subjugation of the senses, keep himself steady by selfrestraint and performance of duty, suppress excitement and sense of faintness, by continual thought-
 fulness let no openings remain in his mind, reach
 forward in zeal, shut the six doors (of the five
 senses and the mind), and continue mindful and
@@ -16080,8 +16007,6 @@ And mindful self-possession never fails,
 He is the best of those who gifts receive,
 The chief of men to whom distinction's given.
 
-
-YII, 7, 21. OF MILTNDA THE KING. 375
 
 Let therefore able men, in due regard
 To their own welfare \ honour those who're wise, —

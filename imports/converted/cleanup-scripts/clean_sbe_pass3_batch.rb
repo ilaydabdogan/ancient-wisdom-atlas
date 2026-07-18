@@ -75,8 +75,14 @@ SPECS = {
     verso_caps_headers: true, recto_caps_headers: true,
     dehyphen: true, squeeze: true
   },
+  # Part II's recto running header is "OF MILINDA THE KING <page>", which OCR
+  # frequently lower-cased ("of milinda the king. 5") so the caps-ratio recto
+  # pass misses it. The drop matches the header form only — "KING" must sit at
+  # the line end (optionally followed by page-number garble), so real prose
+  # like "Now Milinda the king went up to the place" is kept.
   "questionsofkingm02davi-questions-of-king-milinda-part2.md" => {
-    drop: [/QUESTIONS OF KING/, /the questions of king/],
+    drop: [/QUESTIONS OF KING/, /the questions of king/,
+           /MILINDA T[A-Z]+ KING[.,]?[\dilI ]*\z/i],
     verso_caps_headers: true, recto_caps_headers: true,
     dehyphen: true, squeeze: true
   },
