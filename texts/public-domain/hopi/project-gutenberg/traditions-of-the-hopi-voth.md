@@ -12764,7 +12764,7 @@ where the murder had occurred. Here they found that the young
 
 ' The-One-With-The-Hair-Tir.l-l'i'
 
-* The-Onc-With-Tho^;rnun<USpanish-Pii>i»<r -Wrapped -Up.
+* The-Onc-With-Tho^;rnun USpanish-Pii i» r -Wrapped -Up.
 ; Thc-( )ne-With-Thi*-Crow- Feathers Ar.-un J -Tlu-NVik.
 
 • 'nic--()rn«-With-nu-.Y*-ll..w.Paintnl-Fan-.

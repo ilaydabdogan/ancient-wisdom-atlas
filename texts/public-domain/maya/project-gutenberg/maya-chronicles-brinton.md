@@ -6563,7 +6563,7 @@ FOOTNOTES:
 
 [190-1] See his _Informe acerca de las Ruinas de Mayapan y de Uxmal_
 
-[191-1] "<sc>Chijcxulub</sc>: poner los cuernos; hacer cabron á uno: _u chiicah
+[191-1] "Chijcxulub: poner los cuernos; hacer cabron á uno: _u chiicah
 bin u xulub u lak_; diz que pusó los cuernos á su compañero ô proximo;
 que se aprobechó de su muger ô manceba," _Diccionario de Motul, MS._
 
