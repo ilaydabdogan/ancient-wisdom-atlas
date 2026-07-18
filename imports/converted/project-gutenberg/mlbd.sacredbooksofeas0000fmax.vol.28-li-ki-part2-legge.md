@@ -4125,7 +4125,6 @@ ceremonies take their form from the appearances of
 earth. If the imitation of those appearances were
 
 
-SECT. I. YO Kt. 1Ol
 ee eS ee, ae
 carried to excess, confusion (of ceremonies) would
 appear; if the framing of music were carried to

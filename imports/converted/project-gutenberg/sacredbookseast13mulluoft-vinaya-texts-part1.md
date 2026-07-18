@@ -2166,9 +2166,6 @@ Certain Bhikkhus left their robes in charge of the other Bhikkhus,
 C 2
 
 
-2O PATIMOKKHA.
-
-
 3. When the robes have been settled, when the
 KaMina has been taken up by the Bhikkhu, if a
 set of robes should be offered to a Bhikkhu out of
@@ -2599,9 +2596,6 @@ to dry (see the note to the first rule in this division of the Patimokkha), the 
 months/
 
 
-3O PATIMOKKHA.
-
-
 Should he keep it beyond that — that is a Pa/C'ittiya
 offence involving forfeiture.
 
@@ -3025,9 +3019,6 @@ not to eat what he has left.
 
 5 Khadaniyaw va bho^aniyaw va. The former term is used
 of hard food, such as biscuits, cakes, meats, fruits, &c. ; the latter
-
-
-4O PATIMOKKHA.
 
 
 36. Whatsoever Bhikkhu shall offer a Bhikkhu
@@ -4659,8 +4650,6 @@ went about uttering the sound "huhum." ' Di/Mamangalika
 (having seen something auspicious ?) is obscure to us.
 
 
-8o MAHAVAGGA. I, 3, I.
-
 justly call himself a Brahma^a, whose behaviour is
 uneven to nothing in the world/
 
@@ -5061,8 +5050,6 @@ previous evening. And the Blessed One thought:
 to whom Gotama had attached himself first after his pabba^a.
 See Fausboll's Gataka, vol. i. p. 66 ; Rh. D.; Buddhism, p. 34.
 
-
-9O MAHAVAGGA. I, 6, 5.
 
 'Highly noble was Uddaka Ramaputta. If he had
 heard my doctrine, he would easily have under
@@ -5570,8 +5557,6 @@ regard to sensation, perception, the sawkharas, and consciousness.
 3 Compare Burnouf, ' Lotus de la bonne Loi/ p. 481.
 
 
-IO2 MAHAVAGGA. I, 7, r.
-
 propounded, the minds of the five Bhikkhus became
 free from attachment to the world, and were released
 from the Asavas1.
@@ -5615,8 +5600,6 @@ the rank of se///$i was hereditary, and this is confirmed by the later
 literature ; but this applies to the social rank only, and not to the
 office.
 
-
-I, 7, 3. ADMISSION TO THE ORDER OF BHIKKHUS. IO3
 
 man was, and he did not descend from that palace
 (all that time). Now one day Yasa, the noble youth,
@@ -5736,8 +5719,6 @@ here, you may see Yasa, the noble youth, sitting
 here also.'
 
 
-IO6 MAHAVAGGA. I, 7, 10.
-
 And the se///£i, the householder, who thought :
 * Indeed, sitting here I shall see Yasa,the noble youth,
 sitting here also !' became glad and joyful, and having
@@ -5776,8 +5757,6 @@ templated the stage of knowledge which he had
 seen with his mind and understood ; and his mind
 became free from attachment to the world, and was
 
-
-I, 7, 13. ADMISSION TO THE ORDER OF BHIKKHUS. IO7
 
 released from the Asavas. Then the Blessed One
 thought : ' Yasa, the noble youth, while instruction
@@ -5818,8 +5797,6 @@ as he did before, when he lived in his house ?'
 stage in the Noble Eightfold Path (such as sotapattiphala, &c.)
 inferior to the highest (Arahatship).
 
-
-IO8 MAHAVAGGA. I, 7, 14.
 
 ' Yasa, the noble youth, O householder, had (first)
 won, like yourself, an imperfect degree of knowledge
@@ -7805,8 +7782,6 @@ by the food put into it, the saddhiviharika ought to take it and
 give his own bowl to the
 
 
-I 5 6 MAH AVAGG A. 1,25,11.
-
 dhiviharika) not interrupt him. If the upa^-
 ^Mya is in danger of committing an offence by the
 words he says, let (the saddhiviharika) keep him
@@ -8006,8 +7981,6 @@ mouth with, let him pour water into the pot.
 - * As in the preceding clause.
 2 The same for North and South.
 
-
-1,25, 2I- ADMISSION TO THE ORDER OF BHIKKHUS. l6l
 
 20. ' If discontent has arisen within the upa^-
 ^aya's heart, let the saddhiviharika appease
@@ -8461,9 +8434,6 @@ upa^Mya' are inserted after the words 'desires to receive the
 upasampadd ordination from the venerable N. N.'
 
 
-I 72 MAHAVAGGA. I, 30, I.
-
-
 30.
 
 1. At that time an arrangement had been made
@@ -8790,8 +8760,6 @@ between upa^Mya and saddhiviharika.
 N 2
 
 
-l8o MAHAVAGGA. 1,32,2.
-
 2. 'And let (the antevasika), O Bhikkhus,
 choose his a/£ariya in this way: Let him adjust
 his upper robe so as to cover one shoulder, salute
@@ -8829,9 +8797,6 @@ End of the sixth Bha;zavara.
 At that time the antevasikas did not observe
 a proper conduct towards their a^ariyas (&c., as
 in chap. 27. 1-8).
-
-
-I, 36, r. ADMISSION TO THE ORDER OF BHIKKHUS. l8l
 
 
 35.
@@ -9597,9 +9562,6 @@ ordination. He who confers the pabba^a ordina
 tion (on a slave), is guilty of a dukka/a offence/
 
 
-2OO MAHAVAGGA. I, 48, I.
-
-
 48.
 
 1. At that time a certain smith1 who was baldheaded, having had a quarrel with his father and
@@ -9637,9 +9599,6 @@ v. 239, kammara is said of a silversmith. There was probably
 no distinction in these early times between gold, silver, copper,
 and iron smiths; the same man being an artificer in all kinds
 of metal.
-
-
-1,49, 2- ADMISSION TO THE ORDER OF BHIKKHUS. 2OI
 
 
 49.
@@ -9721,8 +9680,6 @@ Then the venerable Ananda told the thing to the
 Blessed One.
 
 
-I, 49, 6. ADMISSION TO THE ORDER OF BHIKKHUS. 2O3
-
 ' Is it true, O Bhikkhus, that the Bhikkhus know
 ingly confer the upasampada ordination on persons
 under twenty years of age ?'
@@ -9762,9 +9719,6 @@ indicating the penance incurred thereby, use of the guilty Bhikkhu
 the expression, 'yathadhammo karetabbo/ i.e. 'he is to be
 treated according to the law.' See H. O/s Introduction to his
 edition of the Mahavagga, p. xx note.
-
-
-2O4 MAHAVAGGA. I, 50.
 
 
 50.
@@ -9808,8 +9762,6 @@ house die; but he who breaks through wall or roof, or is " roga
 madigato(P)," may be saved.'
 
 
-I, 53, i. ADMISSION TO THE ORDER OF BHIKKHUS. 2O5
-
 on a boy under fifteen years of age, and these boys
 are under fifteen years of age. What can be done in
 order that these boys may not perish ?' And the vene
@@ -9852,8 +9804,6 @@ tically abrogated again by chapter 55.
 2 We must leave ' ahundarika ' untranslated ; Buddhaghosa says
 nothing about this obscure word.
 
-
-2O6 MAHAVAGGA. I, 53, 2.
 
 covered by darkness to the Sakyaputtiya Samaras ;
 they cannot discern the (four) regions/ Some Bhikkhus heard, &c.
@@ -9940,8 +9890,6 @@ Rafagaha as long as he thought fit, went forth to
 2 Abhayuvara means, ' secure from anything.' This refers to
 the expression used in chap. 42, § 2.
 
-
-2O8 MAHAVAGGA. I, 54, 2.
 
 Kapilavatthu. Wandering from place to place he
 came to Kapilavatthu. There the Blessed One
@@ -10070,8 +10018,6 @@ Buddha. See the story of his conversion in Rh. D.'s Buddhist
 Birth Stories, p. 128 (later and fuller accounts can be seen in
 Hardy, Manual, p. 204 seq. ; Beal, Romantic Legend, p. 369 seq.)
 
-
-I, 56. ADMISSION TO THE ORDER OF BHIKKHUS. 2 I I
 
 ' Might the Thera confer the pabba^a ordination
 on this boy.' Now the venerable Sariputta thought :
@@ -10283,9 +10229,6 @@ apasadito mahante mahante moligalle (Buddhaghosa : thulasarire)
 samawere upasawkamitva evaw vadeti : etha maw avuso dusetha
 
 
-2l6 MAHAVAGGA. I, 62, i.
-
-
 62.
 
 1. At that time there was a certain person of an
@@ -10365,8 +10308,6 @@ Samaras lead indeed a virtuous, tranquil, holy life ;
 they speak the truth ; they keep the precepts of
 morality, and are endowed with all virtues. If
 
-
-2l8 MAHAVAGGA. 1,63,2.
 
 I could obtain pabba^a with the Sakyaputtiya
 Samaras, I should be released from being a ser
@@ -12978,8 +12919,6 @@ specified in the Patimokkha ; see § 3 seq.
 3 The same phrase is repeated twice more.
 
 
-11,26,10. UPOSATHA CEREMONY, AND PATIMOKKH A. 28 I
-
 his upper robe so as to cover one shoulder, sit down
 squatting, raise his joined hands, and say to those
 Bhikkhus : " I am pure, reverend Sirs, &c."
@@ -13828,9 +13767,6 @@ They told this thing to the Blessed One.
 1 I prescribe, O Bhikkhus, that you obey kings/
 
 
-3O2 MAHAVAGGA. Ill, 5, i.
-
-
 5.
 
 1. And the Blessed One, after having resided at
@@ -14415,8 +14351,6 @@ offer, &c., relations make an offer, &c., kings make
 (' Numismata Orientalia,' vol. i).
 
 
-3l6 MAHAVAGGA. Ill, 11, 5.
-
 an offer, &c., robbers make an offer, &c., rascals
 make an offer (in these words) : " Come, venerable
 Sir, we give you gold, .... (&c., down to) .... or
@@ -14501,8 +14435,6 @@ paragraphs, the subject is ' A number of Bhikkhunis.' Instead of
 'Those Bhikkhunis are not friends of mine, but their (female)
 friends are friends of mine, &c.'
 
-
-3l8 MAHAVAGGA. Ill, 12, 2.
 
 They told this thing to the Blessed One.
 
@@ -14601,9 +14533,6 @@ They told this thing to the Blessed One.
 ' Let no one, O Bhikkhus, enter upon Vassa
 under an earthenware vessel. He who does, com
 mits a dukka/a offence/
-
-
-32O MAHAVAGGA. Ill, 13, 1.
 
 
 13.
@@ -15440,8 +15369,6 @@ cloud was in the sky. Now the Bhikkhus thought :
 Z 2
 
 
-34O MAHAVAGGA. IV, 15, 6.
-
 here, and there is but a small place protected from
 rain, and a great cloud is in the sky. If the Sawgha
 performs Pavara^a with the threefold formula, it
@@ -15832,8 +15759,6 @@ Pavara;za' (Buddhaghosa).
 
 2 See the 63rd Pa/£ittiya rule.
 
-
-35O MAHAVAGGA. IV, 17, 2.
 
 they should have finished their Vassa residence.
 Now those Bhikkhus heard : 'In our neighbour

@@ -2575,8 +2575,6 @@ when a man takes what he himself has made ; and
 Bhikkhu, makes that thing kappiya, allowable, to the Bhikkhu.
 
 
-6o MAHAVAGGA. VI, 14, 7.
-
 that such a thing need not be received again from
 others.'
 
@@ -3035,8 +3033,6 @@ They told this thing to the Blessed One.
 33) 5-
 
 
-VI, 17,8. ON MEDICAMENTS. 7I
-
 ' I allow you, O Bhikkhus, to keep food indoors.'
 
 When they kept it indoors, and cooked it out of
@@ -3422,8 +3418,6 @@ operation to be performed upon you in that part
 
 ' S a m b a d h e.
 
-
-8o MAHAVAGGA. VI, 22, 4.
 
 of your bodies. Whosoever allows that, is guilty
 of a thulla/{'-^aya offence.'
@@ -4302,9 +4296,6 @@ is taken in § 8.
 ® Apagabbha (apragalbha) and apagabbhata ordinarily mean
 
 
-I02 MAHAVAGGA. VI, 28, 9.
-
-
 and clear vision (&c., as in J 7, down to :) they bend
 the hearts of inferior kings and ministers to build
 dwelling-places there. As far, Ananda, as Aryan
@@ -4341,8 +4332,6 @@ Rh. D.'s ' Buddhist Suttas,' Introd. pp. xv seq. ; H. O.'s Introduction to the M
 Jacobi and of H. O. in Zeitschrift der Deutschen Morg. Gesellschaft,
 vol. xxxiv, pp. 185, 751, 752, note 2.
 
-
-VI, 28, 12. ON MEDICAMENTS. IO3
 
 10. And the Magadha ministers Sunidha and
 Vassakara ordered excellent food, both hard and
@@ -4385,9 +4374,6 @@ ferry.' And the gate the Blessed One went out by
 Gotama.'
 
 
-I04 MAHAVAGGA, VI, 28, 13.
-
-
 was called Gotama's gate. And the Blessed One
 went on to the river. At that time the river Ganges
 was brimful and overflowing^ ; and wishing to cross
@@ -4428,8 +4414,6 @@ of transmigration, both you and I. And what are
 Lai. Vist. pp. 50 1 , 5 2 8. Compare, however, Rh. D.'s note on Tevi^^a
 Sutta I, 24 ('Buddhist Suttas,' p. 178).
 
-
-VI, 30, r. ON MEDICAMENTS. I05
 
 these four ? By not understanding and grasping
 the Noble Truth of Suffering, O Bhikkhus ; by not
@@ -4503,9 +4487,6 @@ and wearing white colours and ornaments. And
 the courtezan Ambapali drove up against the young
 
 
-VI, 30» 4' ^'^ MEDICAMENTS. I07
-
-
 Li'HV^avis, pole to pole, yoke to yoke, wheel to
 wheel, axle to axle. [4.] And those Li/')(7/avis said
 to the courtezan Ambapali : * How is it, Ambapali,
@@ -4549,9 +4530,6 @@ intended here at the same time to convey an allusion to the mango-
 was named. Comp. Rh. D.'s note at Mahaparinibbana Sutta II, 19.
 
 
-I08 MAHAVAGGA. ¥1,30,5.
-
-
 ' I have promised, O \Akkhz.v\s, to dine to-morrow
 with Ambapah the courtezan.'
 
@@ -4588,8 +4566,6 @@ assembly. And Siha, the general, thought : ' Truly
 'the courtezan Ambapali,' and instead of 'Reverend Gotama,' read
 'Lord.'
 
-
-VI, 31. 3* ON MEDICAMENTS. IO9
 
 he, the Blessed One, must be the Arahat Buddha,
 since these many distinguished Li/'/'Z-avis, who are
@@ -4833,8 +4809,6 @@ Gataka. II, p. 56.
 to returning to a gabbha.'
 
 
-VI, 31, II. ON MEDICAMENTS. II5
-
 ' By this, Lord, my joy and my faidi in the Blessed
 One has still increased, in that the Blessed One says
 to me : " Consider first, &c." Had the other Titthiya teachers, Lord, got me as their disciple, they
@@ -4874,8 +4848,6 @@ understand it, udapana (compare oka = udaka).
 
 I 2
 
-
-Il6 MAHAVAGGA. VI, 31, 12.
 
 able. For the third time, Lord, I take my refuge
 in the Blessed One, &c.'
@@ -4962,8 +4934,6 @@ or through favour.
 at Maha-parinibbana Sutta II, 32.
 
 
-Il8 MAHAVAGGA. VI, 32, 2.
-
 And when the Blessed One had retired into solitude this consideration presented itself to his mind :
 ' The things which I have prescribed for the Bhikkhus in a time of scarcity, when the harvest is bad,
 and alms are difficult to obtain — keeping food
@@ -5045,9 +5015,6 @@ N. N. to be our kappiya-bhumi. This is the
 ^ On these five kinds of buildings, see above, I, 30, 4 ; II, 8, i.
 
 
-I20 MAHAVAGGA. VI, 33, 3.
-
-
 The Sawgha appoints the Vihara called N. N. to
 be our kappiya-bhClmi. Let any one of the
 venerable brethren who is in favour of appointing
@@ -5087,8 +5054,6 @@ first pile or the first stone of the walls is put upon them, the men
 standing round in a body proclaim, "Let us make a kappiyaku/i.'" The proclamation cannot be made after the building has
 got further than the actual stage here described. Ussavana is
 
-
-VI, 34, r. ON MEDICAMENTS. I 2 I
 
 an ox-Stall \ and a building belonging to laymen^.*
 
@@ -5494,8 +5459,6 @@ some representation of Atri may lurk. Vamaka is the only unintelligible form, fo
 come to stand for the Vamra to whom Rig-veda X, 99 is ascribed.
 
 
-VI, 35, 4« ON MEDICAMENTS. 1 3 I
-
 at night, an abstainer from food at the wrong time'.
 It will be worthy of him too to receive such things
 as drinks. And when he had had a quantity of
@@ -5576,8 +5539,6 @@ is the ordinary plantain or banana, which has no seeds, the meaning of the diffe
 The expression eka////ithalapakka, at Gataka I, 70, evidently
 rests on the same meaning of the word a///n, which there also
 
-
-"VI, 35, 7- ON MEDICAMENTS. I33
 
 grape-juice, and syrup made from the edible root
 of die water-lily \ and pharusaka'^-syrup. I allow
@@ -5915,9 +5876,6 @@ word 'dotard' in our translation seems to retain the spirit of the Pali
 epithet, while avoiding the inconvenient length of a literal version.
 
 
-VI, 37. 4- ON MEDICAMENTS. I4I
-
-
 a great company of the Bhikkhus, with two hundred
 and fifty Bhikkhus.' Then that dotard spake thus
 to his sons : ' They say the Blessed One is coming-,
@@ -6164,8 +6122,6 @@ Pa//ieyya,with Pa-^ina, Avanti, and Dakkhiwapatha, is one of the principal divis
 that it includes most, if not all, of the great westerly kingdoms of
 
 
-Vir, I, 2. THE KAr^INA CEREMONIES. I47
-
 who were all dwellers in the forest, all livine on
 alms, all dressed in rags from the dust heap, all
 having only three robes each, when they were on
@@ -6333,9 +6289,6 @@ a gift of a Ka///ina when it was urgently required.
 
 Here Buddhaghosa says simply, ' Anamanta-/&aro 'ti yava ka/^ina.m na uddhariyati tava anamantetva.' Amanteti must be equal to
 apu^^/^ati. Compare Bohtlingk-Roth under amantrawa.
-
-
-VII, I, 4- TFIE KAr^INA CEREMONIES. I51
 
 
 for alms without wearing the usual set of three
@@ -6592,8 +6545,6 @@ ceremony) suspended ?
 next section as printed in the text.
 
 
-VII, I, 7- THE KATHISA CEREMONIES. I57
-
 ' There are, O Bhikkhus, these eight grounds ^ for
 the suspension of the Ka///ina (privileges) ^ — the
 ground depending on (the Bhikkhus) having gone
@@ -6726,8 +6677,6 @@ P- 3^3-
 eighth case is explained below in chapters 8, 9.
 
 
-l6o MAHAVAGGA. VII, 4.
-
 held, takes with him a robe ready for wear, and goes
 away, &c.^ '
 
@@ -6774,9 +6723,6 @@ takes with him a robe ready for wear.
 note at chap. 3.
 
 ® ' The six cases in which he takes a robe with him.'
-
-
-VII, 6, 4- THE KATHINA CEREMONIES. l6l
 
 
 6.
@@ -7177,8 +7123,6 @@ O Bhikkhus, does the condition regarding the robe
 Apalibodhas. On the subject discussed in this chapter — the Palibodhas— see the note on chap. 1.7.
 
 
-I 70 MAHAVAGGA. VIT, 13, 2.
-
 fail ? A Bhikkhu's robe, O Bhikkhus, has been made
 up, or spoilt, or lost, or burnt, or his expectation of
 getting a robe has ceased. In these cases, O Bhikkhus, the condition regarding the robe fails. This
@@ -7187,9 +7131,6 @@ which the claim is lost.'
 
 
 End of the seventh Khandhaka, the Ka//^inakhandhaka.
-
-
-VIII, 1,2. THE DRESS OF THE BHIKKHUS. I7I
 
 
 EIGHTH KHx\NDHAKA.
@@ -7550,8 +7491,6 @@ stained with blood. When the queens saw that,
 N 2
 
 
-l8o MAHAVAGGA. VIII, i, 15.
-
 they ridiculed (the king, and said) : ' His Majesty is
 having his courses. His Majesty will bring forth!'
 The king was annoyed at that. And the Magadha
@@ -7631,7 +7570,6 @@ Your Majesty to order the physician 6^ivaka to cure
 the se////i, the householder.'
 
 Then the Magadha king Seniya Bimbisara gave
-l82 MAHAVAGGA. VIII, i, l8.
 
 
 orders to Civaka Komarabha/f'/^a (saying), ' Go, my
@@ -7998,8 +7936,6 @@ from yarn which skilful women in the Sivi country spin.' No
 doubt the latter explication is the right one.
 
 
-VIII, I, 3T. THE DRESS OF THE BHH^CKHUS. I9I
-
 Arahat-Buddha, or the Magadha king Seniya Bimbisara.'
 
 30. At that time a disturbance had befallen the
@@ -8078,8 +8014,6 @@ where the Blessed One was ; having approached
 him and respectfully saluted the Blessed One, he
 sat down near him ; sitting near him Givaka. Komarabha/('/^a said to the Blessed One : ' Lord, has the
 
-
-VIII, r, 34- THE DRESS OF THE BHIKKIIUS. I93
 
 Blessed One purged ?' (Buddha replied), ' I have
 purged, Qvaka.' (6'ivaka said), 'When I was out
@@ -8241,8 +8175,6 @@ at VI, 15, 5 may have some connection with the word used here.
 ' See last note.
 
 
-VIII, 4, 2. THE DRESS OF THE BHIKKHUS. I97
-
 those made of linen, of cotton, of silk, of wool, of
 coarse cloth, and of hempen cloth.'
 
@@ -8326,9 +8258,6 @@ to get themselves pa;;/suk{ila robes; some of the
 Bhikkhus got pay/^sukulas, other Bhikkhus did not
 
 
-VIII, 5. I. THE DRESS OF THE BHIKKHUS. I99
-
-
 get any. The Bhikkhus who had got nothhig, said :
 ' Friends, give us also a part (of your pawsukCilas).'
 They rephed, ' We will not give you a part, friends ;
@@ -8404,9 +8333,6 @@ who is not in favour of it, speak. The Bhikkhu
 N. N. has been appointed by the Sawgha to receive
 the robes (presented). The Sawgha is in favour
 of it, therefore are you silent ; thus I understand." '
-
-
-VIII, 7- THE DRESS OF THE BIIIKKIIUS. 20I
 
 
 6.
@@ -8636,9 +8562,6 @@ They told this thing to the Blessed One.
 
 ' I prescribe, O Bhikkhus, that you use a (large)
 trough for dying (cloth) in.'
-
-
-2o6 MAHAVAGGA. VIII, ii,i.
 
 
 11.
@@ -9094,8 +9017,6 @@ the nine disadvantages of a robe from the ascetic's point of view.
 
 * See our notes on these expressions above, VII, i, 6.
 
-
-2l6 MAHAVAGGA. VIII, 15, i.
 
 together, patches ^ darns 2, and small pieces of cloth
 sewn on by way of marking ^ or of strengthening ^
@@ -11341,8 +11262,6 @@ to in this paragraph, the details given in the second book of the
 ^ATullavagga.
 
 
-IX, 4, 8. FORMAL ACTS OF THE SAMGIIA. 27I
-
 on whom the abbhana sentence ought to be conferred \ histitutes the proceedings of parivdsa, of
 miilaya pa/ikassana, and of manatta, or if a
 congregation in which such a person is the twentieth,
@@ -11694,8 +11613,6 @@ sativinaya, and so on ; the whole series ends thus with the combinations of upas
 to abbhana.
 
 
-28o MAHAVAGGA. IX, 7, i.
-
 upasampada ordination ought to be conferred,
 the decree of abb h an a, — in such case, O Bhikkhus,
 this act is performed unlawfully against Dhamma
@@ -11880,9 +11797,6 @@ the events in A'ampa.
 manner as the ta^^aniyakamma is spoken of in §§ 15, 16. Then
 follows (§§ 19, 20) an exactly analogous exposition about the revocation of these Saz?zghakammas, which stands in the same relation
 to §§ 15-18 in which §§ 12-14 stand to §§ i-ii.
-
-
-X, I, 2. SCHISMS AMONG THE SAil/GHA. 2S5
 
 
 TENTH KHANDHAKA. ;
@@ -12493,8 +12407,6 @@ Your Majesty," and brought young Dighavu to him.
 in the night, &c. ?"
 
 
-X, 2, 15- SCHISMS AMONG THE SAi\/GHA. 3OI
-
 "'Yes, Your Majesty."
 
 ' "Well, my good young man, sing and play upon
@@ -12697,9 +12609,6 @@ And for the third time^ the Blessed One thus
 [17] X
 
 
-3o6 MAHAVAGGA. X, 3.
-
-
 addressed those Bhikkhus : ' Enough, O Bhikkhus,
 no altercations; no contentions, no disunion, no
 quarrels !'
@@ -12781,9 +12690,6 @@ end here.'
 Dhammapada, vv. 328-330. The two first recur in the Khaggavisana-sutta of the Sutta Nipata, vv. 11,12.
 
 X 2
-
-
-3o8 MAHAVAGGA. X, 4, r.
 
 
 lives righteously, a constant one, he may walk with
@@ -13090,8 +12996,6 @@ or declares something taught and spoken by the
 Tathagata not to have been taught and spoken
 by the Tathagata, or declares what has not been
 
-
-3l6 MAIIAVAGGA. X, 5, 5.
 
 practised by the Tathagata to have been practised
 by the Tathagata, or declares something practised by
@@ -15444,9 +15348,6 @@ in ^ i):
 ()
 
 
-8o iiTULLAVAGGA. I, 32, 4.
-
-
 ' How can you, O foolish one, so understand the
 Dhamma preached by me ? Have I not, by many
 a figure, O foolish one, declared the things which
@@ -16222,9 +16123,6 @@ Bhikkhu a Manatta of six days' duration.'
 chapter i, §§ 2, 3, to the end.]
 
 
-in, 7, I. PROBATION AND TENANCE. 4O I
-
-
 5.
 
 1. When he had accompHshed the Manatta he
@@ -16476,8 +16374,6 @@ Bhikkhu back to the commencement (of the probationary term he had already underg
 ^ As in chapter 9.
 
 
-Ill, 19, I. rUOBATION AND PENANCE. 4O7
-
 Upon him an inclusive probation (for this and)
 for the first offence, and also a Manatta of six days'
 duration.
@@ -16565,9 +16461,6 @@ dasasataw rattisata;« apattiyo /7/adayitvana
 dasarattiyo vasitvana mu/^/i'cyya parivasiko.
 
 
-4IO A'ULLAVAGGA. Ill, 21, i.
-
-
 [Here follows the kammava/^-a in the form given
 at chapter i, §§ 2, 3, to the end.]
 
@@ -16604,8 +16497,6 @@ asked the Sa?;/gha for a probation of two months for
 ^ Literally, ' according to the value of whichever offences among
 those offences have been the longest concealed.'
 
-
-111,23,1. PROBATION AND TENANCE. 4II
 
 one offence concealed for two months. And the
 Sawgha imposed upon hun a probation (&c., as

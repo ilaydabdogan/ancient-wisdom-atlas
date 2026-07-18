@@ -15819,8 +15819,7 @@ takes aim ^ in joy at the thought : " I shall hit it ^ ; "
 just so, O king, should the strenuous Bhikshu,
 earnest in effort, plant firmly the feet of his zeal on
 the basis of righteousness, keep intact his kindness
-and tenderness of heart, fix his mind on subjugation of the senses, keep himself steady by selfrestraint and performance of duty, suppress excitement and sense of faintness, by continual thought-
-fulness let no openings remain in his mind, reach
+and tenderness of heart, fix his mind on subjugation of the senses, keep himself steady by selfrestraint and performance of duty, suppress excitement and sense of faintness, by continual thoughtfulness let no openings remain in his mind, reach
 forward in zeal, shut the six doors (of the five
 senses and the mind), and continue mindful and
 thoughtful in joy at the thought: "By the javelin

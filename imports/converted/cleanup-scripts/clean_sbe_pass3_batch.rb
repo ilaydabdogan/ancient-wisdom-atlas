@@ -108,10 +108,17 @@ SPECS = {
   }
 }.freeze
 
+# SBE page numbers are frequently OCR-garbled with letter substitutions
+# (161 -> "l6l", 20 -> "2O", 17 -> "t7", 103 -> "IO3"), so the page-number
+# token accepts the usual digit look-alikes [l I i o O S t] but is REQUIRED
+# to contain at least one real digit. That keeps real leading tokens that are
+# pure look-alikes with no digit ("I MAY..", "TO THE..") from ever matching.
+PAGE_TOKEN = /[\dlIioOSt][\dlIioOSt ]{0,5}/
+
 def verso_caps_header?(line)
-  m = line.match(/\A\d[\d ]{0,5}\s+(\S.*)\z/)
-  return false unless m
-  rest = m[1]
+  m = line.match(/\A(#{PAGE_TOKEN})\s+(\S.*)\z/o)
+  return false unless m && m[1] =~ /\d/
+  rest = m[2]
   return false if rest.length > 50
   letters = rest.scan(/[A-Za-z]/)
   return false if letters.length < 4
@@ -119,8 +126,8 @@ def verso_caps_header?(line)
 end
 
 def recto_caps_header?(line)
-  m = line.match(/\A(\S.*?)\s+\d[\d ]{0,5}\z/)
-  return false unless m
+  m = line.match(/\A(\S.*?)\s+(#{PAGE_TOKEN})\z/o)
+  return false unless m && m[2] =~ /\d/
   rest = m[1]
   return false if rest.length > 50
   letters = rest.scan(/[A-Za-z]/)

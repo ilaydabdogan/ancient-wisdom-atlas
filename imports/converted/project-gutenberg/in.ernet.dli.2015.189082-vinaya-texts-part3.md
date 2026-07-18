@@ -4658,8 +4658,6 @@ ga^hanti (B.).
 word has already occurred at Mahavagga VI, 14, 7, where Buddhaghosa's explanation is much the same. See also Mahavagga
 
 
-V, 14, X. ON THE DAILY LIFE OF THE BHIKKIIUS. IO3
-
 some business or other. And on seeing the Bliikkhus very sick with superfluity of humors, he went
 up to where the Blessed One was ; and when he
 had come there, he saluted the Blessed One and
@@ -7508,9 +7506,6 @@ roughly translated door, is not really ‘ door/ but ‘ door- ’ or ‘ gatewa
 which the aperture could be closed. The latter word is also
 
 
-VI, 2,1. ON DWELLINGS AND FURNITURE. l6l
-
-
 They told this matter to the Blessed One.
 
 ‘ I allow, O Bhikkhus, a door 1 /
@@ -8643,8 +8638,6 @@ free 1 ,
 1 Brlhmawo parinibbuto. To translate the first of these
 words by ‘ Brahman' would mislead English readers. It is constantly used in early Buddhist texts for Arahat. On the use of
 
-
-YI, 4, 5. ON DWELLINGS AND FURNITURE. 1S3
 
 ‘Who is not touched by lusts, but calm and free
 from sin 1 ,
@@ -14469,9 +14462,6 @@ apaggati
 IX, 3, 4 -
 
 
-ON EXCLUSION FROM THE PATIMOKKHA. 3 I I
-
-
 offence against doctrine These are the ten
 kinds, &c.
 
@@ -15344,8 +15334,6 @@ the Blessed One.
 
 ‘Bhikkhus are not, O Bhikkhus, to recite the
 
-
-X, 6, 2. ON THE DUTIES OF BHIKJCHUNIS. 33 I
 
 Patimokkha to the Bhikkhunis at their residence.
 .Whosoever does so, shall be guilty of a dukka/a.
@@ -18718,8 +18706,6 @@ whereas the Bhikkhus of the West do not.’ ” ’
 
 2 Visativasso; that is, since his upasampada.
 
-
-XII, 2, 4 • ON THE COUNCIL OF VESALl. 4O3
 
 ‘ Even so, Sirs,’ said the venerable Uttara, in
 assent to the Vag^ian Bhikkhus of Vesali. And he

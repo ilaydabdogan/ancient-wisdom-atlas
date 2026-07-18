@@ -869,9 +869,6 @@ to call it ‘A Summary of the Rules of Ceremony.’ It
 occupies very properly the place at the beginning of the
 
 
-BK. II. INTRODUCTION. t7
-
-
 collection, and is a good introduction to the treatises that
 follow.
 
@@ -1915,9 +1912,6 @@ accepted as really his.
 
 
 ARE K.
-
-
-BK, XXVII INTRODUCTION. 4I
 
 
 é
@@ -6217,9 +6211,6 @@ keep the feet straight, so that the shoes might be put on at the
 dressing of the corpse.
 
 
-SECT VI. PT. In, THE THAN KUNG. I45
-
-
 of the way, and issue by the great gate ;—these were
 the practices of the Yin dynasty, and the learners (in
 the school of Confucius) followed them.
@@ -6304,9 +6295,6 @@ according to an emendation of it from the Kau Lt.
 great-grand-uncle and his wife, a spinster great-grand-aunt, the son
 of a mother’s brother or sister, &c.; by a wife for her husband’s
 great-great-grand-parents, &c. See Appendix.
-
-
-SECT. I. PT. IIi. THE THAN KUNG. I47
 
 
 leisurely way. Hence, though affairs of mourning
@@ -20139,9 +20127,6 @@ the old; the low served the noble ;—also in this way.
 * This and the other paragraphs from 4 are understood to
 describe the ‘eight delicacies (/\ I), which were gee
 prepared for the old. See the Au L, Book IV; par. 18. -
-
-
-SECT: 11. THE NEI 8EH. 47t
 
 
 15. As between husband and wife, it was not until

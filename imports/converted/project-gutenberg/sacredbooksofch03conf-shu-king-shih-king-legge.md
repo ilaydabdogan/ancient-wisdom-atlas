@@ -4824,8 +4824,6 @@ appear from the text that a similar practice prevailed in the time of
 the Shang dynasty.
 
 
-BOOK VII. THE PAN-KANG. IO3
-
 The sovereign without the people has none whom
 he can employ ; and the people without the sovereign
 have none whom they can serve. Do not think yourself so large as to deem others small. If ordinary
@@ -4903,8 +4901,6 @@ department Ho-nan, Ho-nan.
 great idea of the stability and resources of the Shang dynasty.
 
 
-BOOK Vll. THE PAN-KANG. IO5
-
 2. Pan-kang, in making the people aware of his
 views, began with those who were in (high) places,
 and took the constantly-recurring circumstances of
@@ -4941,8 +4937,6 @@ his fields, and reaps with all his might, there is the
 (abundant) harvest. If you can put away your
 
 
-I06 THE SH^ KING. PART IV.
-
 (selfish) thoughts, and bestow real good upon the
 people, reaching (also) to your own relatives and
 friends, you may boldly venture to make your words
@@ -4978,8 +4972,6 @@ old families ; in vessels, we do not seek old ones,
 that he was an ancient historiographer. A ^au Zan is introduced
 in a similar way in the Confucian Analects, XVI, i.
 
-
-BOOK VII. THE PAN-KANG. IO7
 
 but new." Of old, the kings, my predecessors, and
 your forefathers and fathers shared together the
@@ -5198,8 +5190,6 @@ with the address delivered by him on the occasion. Here the
 charge is to Yiieh, in the first section, on his appointment to be
 
 
-BOOK VIII. THE CHARGE TO YUEH. II3
-
 chief minister. In the other two sections Yiieh is the principal
 speaker, and not the king. They partake more of the nature of
 the ' Counsels.' Yiieh had been a recluse, living in obscurity.
@@ -5400,9 +5390,6 @@ place in the various offices.'
 explain his language here. His living concealed among the rude
 people of the country, and then crossing to the north of the Ho,
 was owing probably to troubles in the kingdom.
-
-
-Il8 THE SH^ KING.
 
 
 PART IV.
@@ -5895,9 +5882,6 @@ good.'
 BOOK II.
 
 
-THE SPEECH AT M^. I3I
-
-
 Book II. The Speech at Mi).
 
 It is the morning of the day of battle, for which the king has
@@ -6284,8 +6268,6 @@ and the reeds ; having lodgment in the human body, they produce
 " the five personal matters; " moved by good fortune and bad, they
 
 
-BOOK IV. THE GREAT PLAN. I4I
-
 water ; the second is fire ; the third, wood ; the
 fourth, metal; and the fifth, earth. (The nature of)
 water is to soak and descend ; of fire, to blaze and
@@ -6599,8 +6581,6 @@ thing is admitted by the latest imperial editors of the Shu on the
 use which the text goes on to make of the thoughtful use of the
 verifications by the king and others.
 
-
-BOOK V. THE HOUNDS OF LU. I49
 
 obscurity ; and in the families (of the people) there
 will be an absence of repose.
@@ -6924,8 +6904,6 @@ divining shell. His traitorous uncles, who were confederate
 with the son of the tyrant of Shang, are only alluded to.
 
 
-BOOK VII. THE GREAT ANNOUNCEMENT. I57
-
 1. The king speaks to the following effect : — ' Ho !
 I make a great announcement to you, (the princes
 of) the many states, and to you, the managers of my
@@ -7043,9 +7021,6 @@ states. And Heaven assists me with sincere expressions (of sympathy), which I ha
 of the divinations spoken of above.
 
 
-l6o THE SHtj KING.
-
-
 the people ; — how dare I but aim at the completion
 of the work formerly begun by the Tranquillizer ?
 Heaven, moreover, is thus toiling and distressing the
@@ -7083,7 +7058,6 @@ of good,' mentioned by king Wu, in the second Part of the
 Great Declaration.
 
 
-BOOK VIII. CHARGE TO THE COUNT OF WEI. l6l
 charge of God,* and the real assistance given by
 Heaven. At that time none of you presumed to
 change the rules (prescribed by the Tranquillizing
@@ -7465,8 +7439,6 @@ were not great or many, (would all be chargeable
 on me), and how much more shall this be said
 
 
-BOOK X. ANNOUNCEMENT ABOUT DRUNKENNESS. I7I
-
 when the report of them goes up so manifestly to
 heaven !'
 
@@ -7673,8 +7645,6 @@ from acquiring the habit of drinking spirits.
 ^ Here is another permissible use of spirits ; — at family feasts,
 with a view especially to the comfort of the aged.
 
-
-I 76 THE SHtj KING. PART V.
 
 duty in ministering to your aged, and serving your
 ruler, ye may eat and drink freely and to satiety.
@@ -8637,8 +8607,6 @@ second, he refers to the long reigns of three of the Yin sovereigns,
 ^ There are probably some sentences lost here.
 
 
-BOOK XV. AGAINST LUXURIOUS EASE. 20I
-
 and the short reigns of others, as illustrating how the blessing of
 Heaven rests on the diligent monarch. In the third, the example
 of their own kings, Thai, A'l, and Wan, is adduced with the
@@ -9275,9 +9243,6 @@ decree ? do you of yourselves pursue unlawful
 courses, scheming (by your alleged reasons) for the
 
 
-2l8 THE SWd KING.
-
-
 approval of upright men ? I simply instructed you,
 and published my announcement ^ ; with trembling
 awe I secured and confined (the chief criminals) : —
@@ -9769,8 +9734,6 @@ position.'
 
 5. The king said, ' Oh ! ye (charged) with the
 
-
-BOOK XXI. THE KIJ^-KHAN. 23I
 
 threefold business (of government) \ and ye great
 officers, reverently attend to your departments, and
@@ -10905,8 +10868,6 @@ hold them guiltless, and sent down calamity on
 S 2
 
 
-26o THE SIlO KING. PART V.
-
 Miao, when the people had no plea to allege in
 mitigation of their punishment, and their name was
 cut off from the world ? ' *
@@ -11320,8 +11281,6 @@ the marquis listened rather to the promptings of ambition ; and
 the next year he sent a large force, under his three ablest commanders, hoping to find A'ang unprepared for any resistance.
 The attempt, however, failed; and the army, on its way back to
 
-
-BOOK XXX. THE SPEECH OF KHIN. 27I
 
 jOin, was attacked by the forces of HTm, and sustained a terrible
 defeat. It was nearly annihilated, and the three commanders
@@ -12451,8 +12410,6 @@ according to certain rules that are not mentioned in the Shih.
 These took for the time the place of the dead, received the
 
 
-ODES OF THE TEMPLE AND THE ALTAR. 3OI
-
 honours which were due to them, and were supposed to be
 possessed by their spirits. They ate and drank as those whom
 they personated would have done; accepted for them the homage
@@ -12883,8 +12840,6 @@ A'ieh, the last king of Hsia. A'ieh's three great helpers were ' the
 three shoots,' — the princes of Wei, Kia, and A'un-wu; but the exact
 sites of their principalities cannot be made out.
 
-
-ODE 5- THE SACRIFICIAL ODES OF SHANG. 3 II
 
 Thang), There was a time of shaking and peril ^
 But truly did Heaven (then) deal with him as a son,
@@ -13720,8 +13675,6 @@ its painful sting. At first indeed it seemed to be
 bless the good, namely, and punish the bad. But its favour is
 thus dependent on men themselves, and hard to preserve,'
 
-
-ODE 5- THE SACRIFICIAL ODES OF A'AU. 33I
 
 (but) a wren\ But it took wing, and became a
 large bird. I am unequal to the many difficulties
@@ -14561,8 +14514,6 @@ The line does not mean, as it has been said, that ' she is incapable
 of good or evil ; ' but it is not her part to take the initiative even
 in what is good.
 
-
-ODE 7- THE MINOR ODES OF THE KINGDOM. 35I
 
 they have to think, And to cause no sorrow to
 their parents.
@@ -16727,8 +16678,6 @@ serve to introduce the parties feasted, in a situation where they
 might relax from the gravity of the preceding day, and be happy.
 
 
-ODE 4. THE MAJOR ODES OF THE KINGDOM. 4O3
-
 The personators of your ancestors feast and are
 happy. Your spirits are clear ; Your viands are
 fragrant. The personators of your ancestors feast
@@ -17046,8 +16995,6 @@ arrayed in terrors is God, With many things irregular in his ordinations. Heaven
 the multitudes of the people, But the nature it
 confers is not to be depended on. All are (good)
 
-
-ODE I. THE MAJOR ODES OF THE KINGDOM. 4II
 
 at first, But few prove themselves to be so at
 the last^
@@ -18295,8 +18242,6 @@ Sii-sCi go the feathers of the wild geese. As
 they are not sincere, there is (a Power) above, like the bright sun,
 observing me; — how should my words not be sincere?'
 
-
-ODE II. LESSONS FROM THE STATES. 44I
 
 they settle on the bushy oaks ^ The king's affairs
 must not be slackly discharged, And (so) we cannot

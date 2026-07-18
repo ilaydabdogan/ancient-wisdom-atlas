@@ -1,148 +1,4 @@
----
-id: buddhist.vinaya_3.sbe20.rhys_davids_oldenberg_archive
-title: 'Vinaya Texts, Part III: The Kullavagga IV-XII (Sacred Books of the East, Vol.
-  20)'
-alternate_titles:
-- Vinaya
-- Kullavagga
-text_status: complete
-tradition: buddhist
-culture: early_buddhist_monastic_canon_later_translation
-region: south_asia
-source_language: Pali
-text_language: English
-date_range: canonical Vinaya c. 400-100 BCE; Rhys Davids and Oldenberg translation
-  published 1885
-source_type: text
-provenance:
-  source_id: source.internet_archive.in.ernet.dli.2015.189082
-  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
-    vol. 20 (Digital Library of India scan; OCR quality should be checked at conversion)
-  translator: T. W. Rhys Davids and Hermann Oldenberg
-  editor: F. Max Muller
-  publication_year: 1885
-  publisher: Internet Archive
-  source_url: https://archive.org/details/in.ernet.dli.2015.189082
-  access_date: '2026-07-18'
-rights:
-  status: public_domain
-  jurisdiction: US
-  license_url: https://creativecommons.org/publicdomain/mark/1.0/
-  training_use: allowed
-  full_text: allowed
-  notes: Published 1885, US public domain. Contains the Devadatta schism narrative,
-    the founding of the nuns' order, and the accounts of the first two councils.
-trademark:
-  status: present
-  marks:
-  - Project Gutenberg
-  use_rules: Use only as factual source attribution; do not use the mark as repository
-    branding.
-transcription:
-  mode: normalized
-  complete: true
-  corrections: []
-  omissions:
-  - Distributor header, license footer, start/end markers, and production boilerplate
-    were removed.
-  - Raw source capture is preserved under imports/raw for auditability.
-tags:
-- vinaya
-- kullavagga
-- devadatta
-- first_council
-- nuns_order
-motifs:
-- betrayer_within_the_order
-- founding_of_womens_order
-- council_preserves_teaching
-figures:
-- Buddha
-- Devadatta
-- Ananda
-- Mahapajapati
----
-
 # Vinaya Texts, Part III: The Kullavagga IV-XII (Sacred Books of the East, Vol. 20)
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-JTtft tb»K
-
-HENRY FROWDE
-
-
-Oxford University Press Warehouse
-Amen Corner, E.C.
-
-
-V I N A Y A TEXTS
-
-TRANSLATED FROM TIIE PALI
-
-BY
-
-T. W. RHYS DAVIDS
-
-AND
-
-HERMANN OLDENBERG
-
-PART III
-
-THE ATULLAVAGGA, IV— Xli
-
-Victor ft
-
-AT THE CLARENDON PRESS
-1885
-
-
-CONTENTS.
-
-
-The ilU I LAVAGGA.
-
-Fourth Khandhaka (The Settlement of Disputes among;
-
-the Fraternity) .... j
-
-Fifth Khandhaka (On the Daily Life of the Bhikkhus) , 66
-
-^ Sixth Khandhaka (On Dwellings and Furniture) . .157
-
-Seventh Khandhaka (Dissensions in the Ordei) 224
-
-Eighth Khandhaka (Regulations as to the Duties of the
-
-Bhikkhus towards one another) . . ,272
-
-Ninth Khandhaka (On Exclusion from the Patimokkha
-
-Ceremony) ....... 299
-
-Tenth Khandhaka (On the Duties of Bhikkhunis) 420
-
-Eleventh Khandhaka (On the Council of Ra^agaha) . 370
-
-Twelfth Khandhaka (On the Council of Vesali) 386
-
-Note on the Bha^avaras . . . . . . -415
-
-Index of Subjects >421
-
-Index of Proper Names . ... 428
-
-Index of Pali Words explained or referred to in the Notes 433
-
-Transliteration of Oriental Alphabets adopted for the Trans-
-lations of the Sacred Books of the East . . .441
-
-
 ATULLAVAGGA.
 
 
@@ -155,12 +11,10 @@ THE FRATERNITY.
 1 .
 
 i. Now at that time the’ Blessed Buddha was
-dwelling at Savatthi, in the Arama of Anatha-
-pmAka. And at that time the A/£abbaggiya
+dwelling at Savatthi, in the Arama of AnathapmAka. And at that time the A/£abbaggiya
 Bhikkhus used to carry out the formal Acts — the
 Ta/^aniya, and the Nissaya, and the Pabba-
-^aniya, and the Pa As&ra;Hya, and the Ukkhe-
-paniya — against Bhikkhus who were not present.
+^aniya, and the Pa As&ra;Hya, and the Ukkhepaniya — against Bhikkhus who were not present.
 
 Then those Bhikkhus who were modest were
 annoyed, murmured, and became indignant, saying,
@@ -189,9 +43,6 @@ B
 C20]
 
 
-2
-
-
 •STULLAVAGGA.
 
 
@@ -201,16 +52,14 @@ IV, 2, i.
 delivered a religious discourse, he addressed the
 Bhikkhus, and said : ‘ The formal Acts, O Bhikkhus,
 theTaj^aniya-, the Nissaya-, the Pabb&^aniya-,
-the Pa/is&ra7ziya-, and the Ukkhepaniya-kam-
-mas, ought not to be carried out against Bhikkhus
+the Pa/is&ra7ziya-, and the Ukkhepaniya-kammas, ought not to be carried out against Bhikkhus
 who are not present. Whosoever does so, shall be
 guilty of a dukka^a offence.’
 
 
 2 .
 
-i. The single Bhikkhu who speaks not in ac-
-cordance with the right, the many who speak not in
+i. The single Bhikkhu who speaks not in accordance with the right, the many who speak not in
 accordance with the right, the Sawgha which speaks
 not in accordance with the right. The single
 Bhikkhu who speaks in accordance with the right,
@@ -227,8 +76,7 @@ consider the matter in that light 3 , or teaches him, or
 
 
 1 This short enumeration of the different categories occurring
-in the subsequent paragraphs is quite in the style of the Abhi-
-dhamma texts, in which such lists are accustomed to be called
+in the subsequent paragraphs is quite in the style of the Abhidhamma texts, in which such lists are accustomed to be called
 m&tiM; compare the expression matika-dharo as applied to a
 learned Bhikkhu in the stock phrase at MaMvagga X, 2, i ;
 Aullavagga I, ii ; IV, 14, 25, &c.
@@ -240,14 +88,13 @@ taw atthaw mgghzyzXi oloketi eva w karoti.
 H eva punappunan £a pekkhati evaw karoti. (Samanta Pasldika.)
 
 
-IV, 3> the settlement of disputes. 3
+IV, 3) the settlement of disputes. 3
 
 instructs him, saying, ‘This is the Dhamma, this the
 Vinaya, this the teaching of the Master. Accept this,
 and approve this.’ If the dispute should be thus
 settled, it is settled contrary to the Dhamma, and
-with a mere counterfeit of the Vinaya rule of pro-
-cedure (that cases of dispute must be settled before
+with a mere counterfeit of the Vinaya rule of procedure (that cases of dispute must be settled before
 a duly constituted meeting of the Sawgha, and in
 the presence of the accused person) 1 .
 
@@ -267,21 +114,15 @@ side decides.
 [This chapter is the contrary of the last; the cases
 put being those in which the three last members of
 
-1 Sammukhi-vinaya-pa/irfipakena. The rule of proce-
-dure, called Sammukha-vmay a, hereafter rendered ‘Proceeding
+1 Sammukhi-vinaya-pa/irfipakena. The rule of procedure, called Sammukha-vmay a, hereafter rendered ‘Proceeding
 in Presence,’ is one of the seven modes of settling disputes already
 referred to in the closing chapter «f the Pitimokkha (‘Vinaya
-Texts,’ vol. i, p. 68), and is more fully described below in -ffulla-
-vagga IV, 14, 1 6, and following sections.
+Texts,’ vol. i, p. 68), and is more fully described below in -ffullavagga IV, 14, 1 6, and following sections.
 
 It will be seen below, from §§ IV, 14, 27-30, that it is involved
-in, or rather is supposed to accompany, each of the other Pro-
-ceedings mentioned in this chapter.
+in, or rather is supposed to accompany, each of the other Proceedings mentioned in this chapter.
 
 B ?
-
-
-4
 
 
 ■5TULLAVAGGA.
@@ -290,8 +131,7 @@ B ?
 IV, 4, i.
 
 
-the matiki in the first paragraph of chapter 2 in-
-struct, &c., the three first members.]
+the matiki in the first paragraph of chapter 2 instruct, &c., the three first members.]
 
 
 End of the nine cases in which the right
@@ -304,14 +144,12 @@ side decides.
 staying at Ragagaha, in the Kalandaka N ivapa, in
 the Bamboo Grove.
 
-Now at that time the venerable Dabba the Mal-
-lian, who had realised Arahatship when he was
+Now at that time the venerable Dabba the Mallian, who had realised Arahatship when he was
 seven years old, had entered into possession of
 every (spiritual gift) which can be acquired by a
 disciple; there was nothing left that he ought still
 to do, nothing left that he ought to gather up of
-the fruit of his past labour 2 . And when the vener-
-able Dabba the Mallian had retired into solitude,
+the fruit of his past labour 2 . And when the venerable Dabba the Mallian had retired into solitude,
 and was sunk in thought, the following consideration
 presented itself to his mind : ‘Arahatship had I
 
@@ -335,12 +173,6 @@ at V, r, 27.
 IV, 4, 3-
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-0
-
-
 acquired when I was seven years old. I have
 •gained everything that a learner can reach to.
 There is nothing further left for me to do, nothing
@@ -360,8 +192,7 @@ was so seated the venerable Dabba the Mallian
 spake thus to the Blessed One :
 
 ‘When I had retired, Lord, into solitude and was
-sunk in thought, the following consideration pre-
-sented itself to my mind (&c., as before, down to)
+sunk in thought, the following consideration presented itself to my mind (&c., as before, down to)
 It would be a good thing for me to regulate the
 lodging-places for the Sazzzgha, and to apportion the
 rations of food. I desire, Lord, [so to do].’
@@ -378,15 +209,8 @@ that connection, when he had delivered a religious
 discourse, addressed the Bhikkhus, and said :
 
 ‘ Let then the Sawgha, O Bhikkhus, appoint
-Dabba the Malliap. as the regulator of lodging-
-places, and as the apportioner of rations. And
+Dabba the Malliap. as the regulator of lodgingplaces, and as the apportioner of rations. And
 thus, O Bhikkhus, should the appointment be made.
-
-
-6
-
-
-iTULLAVAGGA.
 
 
 TV, 4, 4-
@@ -408,22 +232,19 @@ of lodging-places, and as apportioner of rations.
 1 “Let the venerable Samgha hear me.
 
 ‘ “The Samgha appoints the venerable Dabba the
-Mallian as regulator of lodging-places, and as ap-
-portioner of rations. Whosoever of the venerable
+Mallian as regulator of lodging-places, and as apportioner of rations. Whosoever of the venerable
 ones agrees that Dabba should be so appointed,
 let him remain silent ; whosoever does not agree,
 let him speak. The venerable Dabba is appointed
 by the Samgha as regulator of the lodging-places,
-and as apportioner of rations. The Samgha ap-
-proves thereof. Therefore is it silent. Thus do
+and as apportioner of rations. The Samgha approves thereof. Therefore is it silent. Thus do
 I understand.” ’
 
 4. And the venerable Dabba the Mallian, being
 so chosen, appointed one lodging-place in the same
 place for the Bhikkhus who belonged to the same
 division. For those Bhikkhus who were repeaters
-of" the Suttantas he appointed a lodging-place to-
-gether, thinking, ‘ They will be able to chant over
+of" the Suttantas he appointed a lodging-place together, thinking, ‘ They will be able to chant over
 the Suttantas to one another.’ For those Bhikkhus
 who were in charge of the Vinaya he appointed a
 lodging-place together, thinking, ‘ They will be able
@@ -432,17 +253,6 @@ Bhikkhus who were preachers of the Dhamma he
 appointed a lodging-place together, thinking, ‘ They
 will be able to talk over the Dhamma one with
 another.’ For those Bhikkhus who were given to
-
-
-IV, 4, 4.
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-7
-
-
 meditation 1 he appointed one lodging-place together,
 thinking, ‘ They will not disturb one another.’ For
 those Bhikkhus who were wise in worldly lore,
@@ -465,8 +275,7 @@ would speak thus : ‘Where do the venerable ones
 desire to rest ? Where shall I appoint it ? ’
 
 And they of set purpose would designate some
-place afar, saying, ‘ May the venerable Dabba ap-
-point us a lodging-place on the Vulture’s Peak ; may
+place afar, saying, ‘ May the venerable Dabba appoint us a lodging-place on the Vulture’s Peak ; may
 the venerable one appoint us a lodging-place at the
 Robber’s Cliff ; may the venerable one appoint us a
 lodging-place at the Black Rock on the Isigili Passa ;
@@ -476,18 +285,13 @@ a lodging-place in the Sattapawa Cave ; may the
 
 
 1 Ghiy ino possibly used with the technical connotation of being
-addicted to the practice of the Four Gh&nz meditations ; but com-
-pare Mahavagga I, x, 3, 5, 7.
+addicted to the practice of the Four Gh&nz meditations ; but compare Mahavagga I, x, 3, 5, 7.
 
 2 See the comment as quoted by H. 0 .
 
-3 Compare the use of Je_godhatu?« samapa^ itva at Maha-
-vagga I, 15, 4.
+3 Compare the use of Je_godhatu?« samapa^ itva at Mahavagga I, 15, 4.
 
 4 Compare api ssu at A'ullavagga I, 9, 1.
-
-
-8
 
 
 JSTULLAVAGGA.
@@ -499,10 +303,8 @@ IV, 4, 4-
 venerable one appoint us a lodging-place in the
 mountain cave of the Snake’s Pool in Sita’s Wood*;
 may the venerable one appoint us a lodging-place
-in the Goma/a Grotto ; may the venerable one ap-
-point us a lodging-place in the cave of the Tinduka
-Tree ; may the venerable one appoint us a lodging-
-place at the T apoda Ghat ; may the venerable one
+in the Goma/a Grotto ; may the venerable one appoint us a lodging-place in the cave of the Tinduka
+Tree ; may the venerable one appoint us a lodgingplace at the T apoda Ghat ; may the venerable one
 appoint us a lodging-place in the TapodaAr&ma;
 may the venerable one appoint us a lodging-place
 in Givaka’s Mango Grove ; may the venerable
@@ -536,15 +338,7 @@ vagga II, 20, 5 should be corrected accordingly.
 vagga VIII, 32, and Zullavagga VIII, 1, 2.
 
 1 That this is the correct rendering of this otherwise doubtful
-
-
 iv, 4 , 6-
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-9
 
 
 venerable Dabba the Mallian had thus appointed
@@ -554,8 +348,7 @@ again to the Bamboo Grove.
 5. Now at that time the Bhikkhus who were
 followers of Mettiya and Bhumma/aka 1 had been
 but recently received into the SaiWgha, and were
-wanting in merit, and such among the lodging-
-places appertaining to the Sawgha as were inferior
+wanting in merit, and such among the lodgingplaces appertaining to the Sawgha as were inferior
 fell to their lot, and the inferior rations 2 .
 
 Now at that time the people of Ra^agaha were
@@ -570,18 +363,15 @@ O
 
 
 passage is clear from the closing woids of VIII, i, 2, where most
-of these phrases recur. In the text, for the last word nikkhi-
-pitabba^z read nikkhamitabbaw, as pointed out in the note
+of these phrases recur. In the text, for the last word nikkhipitabba^z read nikkhamitabbaw, as pointed out in the note
 at p. 363 of the edition of the text
 
-1 These were two of the six leaders of the notorious iMabbag-
-giya Bhikkhus.
+1 These were two of the six leaders of the notorious iMabbaggiya Bhikkhus.
 
 2 Compare the 22 nd Nissaggiya.
 
 8 AbhisazTzkharikajtfz ; that is, a gift by the giving of which
-the donor expressly wished that a particular result (as, for ^in-
-stance, that the donor should be re-born as a king or queen, or
+the donor expressly wished that a particular result (as, for ^instance, that the donor should be re-born as a king or queen, or
 should enter the paths, or have opportunity to hear a Buddha
 preach) should be brought about by the normal effect of that good
 act in a future birth. There are not a few instances of such
@@ -592,9 +382,7 @@ sacred literature.
 MaMvagga VI, 14, 3. These three things are also mentioned
 together at VIII, 4, 4.
 
-5 These expressions recur at (r&taka I, 228. The Samanta Pasa-
-dika says merely kazzstgakan ti sakuntaka-bhattaw. Bilanga-
-dutiyan ti ka%ika-dutiya#z.
+5 These expressions recur at (r&taka I, 228. The Samanta Pasadika says merely kazzstgakan ti sakuntaka-bhattaw. Bilangadutiyan ti ka%ika-dutiya#z.
 
 
 IO KULLAVAGGA. IV, 4, 6.
@@ -612,8 +400,7 @@ Bhumma^aka replied : ‘We got nothing at all, Sirs ;
 just an ordinary gift such as they could manage,
 scraps of food, and sour gruel with it.’
 
-6. Now at that time a certain householder, pos-
-sessed of good food 1 , used to give a perpetual alms
+6. Now at that time a certain householder, possessed of good food 1 , used to give a perpetual alms
 to the Sa»2gha, a meal for four Bhikkhus. He with
 his wife and children used to stand at the place of
 alms and serve ; and offer to some Bhikkhus boiled
@@ -635,7 +422,6 @@ and incite with religious discourse.
 And when the prosperous householder had thus
 been instructed, and Iroused, and gladdened, and
 incited by the venerable Dabba the Mallian with
-
 fr -
 
 1 The Samanta P&s&dika says simply kalyinm bhatta m ass& ti
@@ -643,9 +429,6 @@ kalyawa-bhattiko.
 
 
 IV, 4 , 1 -
-
-
-THE SETTLEMENT OF DISPUTES.
 
 
 II
@@ -656,8 +439,7 @@ the Mallian : ‘For whom, Sir, has the meal been
 appointed to-morrow at our house ?’
 
 ‘ The meal has been appointed, my friend, at your
-house to-morrow for those Bhikkhus who are fol-
-lowers of Mettiya and Bhumma^aka/
+house to-morrow for those Bhikkhus who are followers of Mettiya and Bhumma^aka/
 
 Then the prosperous householder was ill-pleased,
 thinking, ‘ How can bad Bhikkhus enjoy themselves
@@ -673,8 +455,7 @@ word of the householder.
 7. Then the Bhikkhus who were followers of
 Mettiya and Bhumma^aka spake one to another :
 ‘Yesterday a meal has been appointed for us at
-the house of the prosperous householder. To-
-morrow he, with his wife and children, will attend
+the house of the prosperous householder. Tomorrow he, with his wife and children, will attend
 upon us at the place of alms, and serve us. And he
 will offer to some of us boiled rice, and to some
 congey, and to some oil, and to some dainty bits.’
@@ -691,12 +472,6 @@ that slave-girl saw the BhikkKus who were followers
 1 Ko//Aake, which means the battlemented gateway which
 formed the entrance to an important house; and in which there
 was a room. See Or&taka I, 227.
-
-
-12
-
-
-iTULLAVAGGA.
 
 
 IV, 4, 7-
@@ -718,8 +493,7 @@ Sirs ! ’
 ‘We, sister, are of those for whom perpetual meals
 are provided.’
 
-‘ I know, Sirs, that you are so. But only yester-
-day I received command from the householder that
+‘ I know, Sirs, that you are so. But only yesterday I received command from the householder that
 for them who should come to-morrow for the meal I
 was to spread out the mats in the entrance hall, and
 serve them with scraps of food, and some gruel with
@@ -746,12 +520,6 @@ of the Arama, squatting against their waist cloths 1 ,
 TV, 4 , 8 .
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-13
-
-
 silent, and ashamed, with fallen hearts 1 , and sunken
 faces, moody, and bewildered 2 .
 
@@ -767,8 +535,7 @@ speak to her. So a second time she said to them :
 ‘ My salutation to you, Sirs ! ’ and they did not
 speak. And a third time she said to them : ‘ My
 salutation to you. Sirs ! ’ Still the third time the
-Bhikkhus who were followers of Mettiya and Bhum-
-ma^aka did not speak. • And she said : ‘ Wherein
+Bhikkhus who were followers of Mettiya and Bhumma^aka did not speak. • And she said : ‘ Wherein
 have I offended you, Sirs ? Wherefore do you not
 speak to me ? ’
 
@@ -779,19 +546,15 @@ tormented by Dabba the Mallian ? ’
 
 
 1 Pattakkhandha, which the Samanta P&sadiM explains by
-patitakkhandha;. Khandha here seems to mean ‘ faculties.’ Com-
-pare the use of Dhamma m a similar connection at Maha-parimb-
-bdna Sutta II, 32=Mahavagga V, 13, 9; and see Buddhaghosa’s
+patitakkhandha;. Khandha here seems to mean ‘ faculties.’ Compare the use of Dhamma m a similar connection at Maha-parimbbdna Sutta II, 32=Mahavagga V, 13, 9; and see Buddhaghosa’s
 commentary on that passage, quoted by Rh. D. in ‘ Buddhist Suttas
 from the Pdli,’ p. 36.
 
 2 Appa/ibhan! Pa/ibhana m is the rapid suggestion of an
 idea in a case of doubt or difficulty, an illumination; so that pa-
-Zibh&nako, the man of ready wit, may be compared with up&ya-
-kusalo, the man fertile in resource. £ Absent-minded ’ would be
+Zibh&nako, the man of ready wit, may be compared with up&yakusalo, the man fertile in resource. £ Absent-minded ’ would be
 an incorrect rendering; they had no idea what to think or do,
-and the appearance of the nun on tSe scene (in the next para-
-graph) supplied the want. Till then they hesitated, drifted.
+and the appearance of the nun on tSe scene (in the next paragraph) supplied the want. Till then they hesitated, drifted.
 
 3 The following narrative, down to § 9, is repeated almost word
 for word in V, 20, only that the person there persuaded to bring the
@@ -856,12 +619,6 @@ so great a part in theological and ethical speculation.
 iv, 4, 9-
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-15
-
-
 Then said the Blessed One : 4 The Dabbas, O
 Dabba, do not thus repudiate *. If you have done
 it, say so. If you have not done it, say you have
@@ -907,8 +664,6 @@ character.’
 2 Here the word used is abhi^-^n^mi.
 
 
-1 6 tfULLAVAGGA. TV, 4, 10.
-
 morality ? ’ And they told the matter to the Blessed
 One.
 
@@ -916,8 +671,7 @@ One.
 
 ‘ It is true, Lord/
 
-Then he rebuked them, and when he had de-
-livered a religious discourse, he addressed the
+Then he rebuked them, and when he had delivered a religious discourse, he addressed the
 Bhikkhus, and said :
 
 ‘ Let then the Sa^gha grant to Dabba the
@@ -935,16 +689,13 @@ Bhikkhus, and crouching down 1 2 , let him stretch
 
 1 Dabbassa sati-vepulla- ppattassa sati -vinayaw detu.
 The explanation of the compound sati-vepulla-ppatto given -by
-Childers, though it rests on so good an authority as that of Vi^e-
-sitfzha Mudaliar, cannot be right. He makes it mean ‘ a man of
+Childers, though it rests on so good an authority as that of Vi^esitfzha Mudaliar, cannot be right. He makes it mean ‘ a man of
 great intellectual development.’ But sati must here refer to the
 fact that Dabba has been formally called upon to remember
 (s&rito) whether he did or did not commit the offence. And
 though the exact sense of the compound is subject to some doubt,
-the general sense of the clause must be very much as we have con-
-jecturally rendered it. On this formal appeal to the conscience, or
-memory (sati), of a Bhikkhu charged with an offence, or sup-
-posed to have offended, see JTullavagga I, 2, and 5 at the end;
+the general sense of the clause must be very much as we have conjecturally rendered it. On this formal appeal to the conscience, or
+memory (sati), of a Bhikkhu charged with an offence, or supposed to have offended, see JTullavagga I, 2, and 5 at the end;
 and X, 20.
 
 2 Ukku/ikaw nisi ditv a. This verb does not mean * to sit on the
@@ -958,12 +709,6 @@ posture of humility.
 
 
 IV, 4 , io.
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-17
 
 
 forth his hands with the palms joined together, and
@@ -984,12 +729,10 @@ a conscience that is clear, and asks the Sawgha for
 the acquittal of those who are conscious of innocence.
 If the time is convenient to the Sawzgha, let the
 Sawgha accord to the venerable Dabba the Mallian
-the acquittal of those who are conscious of inno-
-cence. This is the resolution. Let the venerable
+the acquittal of those who are conscious of innocence. This is the resolution. Let the venerable
 Sa?%gha hear me. These Bhikkhus (&c., as before,
 down to) asks the Sawgha for the acquittal of those
 who are conscious of innocence. The Sawgha
-
 accords to the venerable Dabba the Mallian the
 
 •
@@ -1004,13 +747,13 @@ And a third time I say the same thing. Let the
 venerable Sawgha hear me. These Bhikkhus (&c.,
 as before, down to) let him speak. The acquittal of
 those who are conscious of innocence has been
-[>o] C
+[)o] C
 
 
 iOJLLAVAGGA.
 
 
-IV, 4> ^
+IV, 4) ^
 
 
 1 8
@@ -1022,8 +765,7 @@ silent. Thus do I understand V* J
 
 ii. f There are five things which make a grant of
 acquittal to those who are conscious of innocence to
-be according to law. The Bhikkhu must be inno-
-cent and without offence, others must have censured
+be according to law. The Bhikkhu must be innocent and without offence, others must have censured
 him, he must ask the Sa^gha for acquittal as being
 conscious of innocence, the Sawgha must grant it,
 the Samgha must be duly held and duly constituted.
@@ -1040,30 +782,22 @@ insane and out of his mind, many things unworthy of
 a samara had been committed, as well in speech as
 in act 3 . The Bhikkhus warned the Bhikkhu Gagga
 of a fault so committed by him when insane and out
-t>f his mind, saying, ‘ Does the venerable one call to
+t)f his mind, saying, ‘ Does the venerable one call to
 
 
-This section is repeated below, chap. 14, § 2*7, with the neces-
-sary alterations for a general rule instead of a particular case.
+This section is repeated below, chap. 14, § 2*7, with the necessary alterations for a general rule instead of a particular case.
 
 2 The particular decision given m this chapter for the particular
 case is elaborated in chap. 14, § 28 below into a general rule for
 every similar case.
 
-3 Buddhaghosa explains this void as follows: ‘Bh&sitapa-
-rikantan ti va£aya bhasita^ k&yena parikkantaw parikkametvd
+3 Buddhaghosa explains this void as follows: ‘Bh&sitaparikantan ti va£aya bhasita^ k&yena parikkantaw parikkametvd
 katan ti attho.* The similar word Parikantaw, which occurs in the
 Sutta-vibhanga, Parl^ika IV, 1, 2, in the sense of lacerated, is from
 tha root krmt.
 
 
-IV, g> I.
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-19
+IV, g) I.
 
 
 mind that he has committed such and such an
@@ -1081,8 +815,7 @@ they warned him still, saying, * Does the venerable
 one call to mind that he has committed such and
 such an offence ? ’
 
-‘Those Bhikkhus who were moderate were an-
-noyed, murmured, and became indignant, saying,
+‘Those Bhikkhus who were moderate were annoyed, murmured, and became indignant, saying,
 “ How can those Bhikkhus warn the Bhikkhu Gagga
 . . . saying . . . such and such an offence ?” And when
 he replies, “ I, my friends, was insane ... by
@@ -1109,15 +842,6 @@ and said :
 so frequently found m Jain* Prakrit; on which see Weber in his
 Bhagavati ‘ Abhandlungen der Berliner Akadamie/ 1865, pp. 422
 and foil.
-
-
-20
-
-
-A'ULLAVAGGA.
-
-
-IV, 5, 2.
 
 
 Bhikkhu who is now sane the dispensation for
@@ -1147,8 +871,7 @@ have committed an offence : and in respect thereof
 either the Samgha, or a number of Bhikkhus, or
 a single Bhikkhu, warn him, saying, “ Does the
 ■venerable one call to mind that he has been guilty
-of such and such an offence ? ” And he, notwith-
-standing that he does remember it, says, “ I do not
+of such and such an offence ? ” And he, notwithstanding that he does remember it, says, “ I do not
 remember, Sirs, that I have been guilty of such and
 such an offence.” Then if the Sawgha grant him
 the dispensation ofthose who are no longer insane,
@@ -1164,9 +887,6 @@ TV, 6, 2 .
 
 
 TIIE SETTLEMENT OF DISPUTES.
-
-
-21
 
 
 the dispensation of those who are no longer insane,
@@ -1210,9 +930,6 @@ who are no longer insane, that grant is valid.
 nothing. The word recurs in the following section.
 
 
-22
-
-
 XULLAVAGGA.
 
 
@@ -1233,8 +950,7 @@ guilty of such and such an offence ?” And he, being
 still insane, acts in the way of an insane person,
 saying, “ I act so, and you act so likewise. It
 beseems me, and it likewise beseems you.” Then
-if the Samgha. (afterwards) grant him the dispensa-
-tion for those who are no longer insane, that grant
+if the Samgha. (afterwards) grant him the dispensation for those who are no longer insane, that grant
 is valid.
 
 ‘ These are the three cases, O Bhikkhus, in which
@@ -1251,8 +967,7 @@ kamma, or the Nissaya-kamma, or the Pabba-
 ^aniya-kamma, or the PaAsdramya-kamma, or
 the Ukkhepaniya-kamma.
 
-Those Bhikkhus who were moderate were an-
-noyed, murmured, and became indignant, saying,
+Those Bhikkhus who were moderate were annoyed, murmured, and became indignant, saying,
 * How can the AVzabbaggiya Bhikkhus (&c., as
 before).’ And those Bhikkhus told the matter to
 the Blessed One.
@@ -1261,24 +976,18 @@ the Blessed One.
 IY, 8, s.
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
 ‘ Is it true, O Bhikkhus, that the AVmbbaggiya
 Bhikkhus do so ?’
 
 ‘ It is true, Lord.’
 
-Then he rebuked them, and when he had de-
-livered a religious discourse, he addressed the
+Then he rebuked them, and when he had delivered a religious discourse, he addressed the
 Bhikkhus, and said :
 
 ‘ No official act, O Bhikkhus, — whether the Taf-
 ^aniya-kamma, or the N issaya-kamma, or the
-Pabbd^'aniya-kamma, or the Pa/isdra»iya-
-kamma, or the Ukkhepaniya-kamma, — is to
-be carried out against Bhikkhus who have not con-
-fessed themselves guilty 1 . Whosoever does so.
+Pabbd^'aniya-kamma, or the Pa/isdra»iyakamma, or the Ukkhepaniya-kamma, — is to
+be carried out against Bhikkhus who have not confessed themselves guilty 1 . Whosoever does so.
 shall be guilty of a dukka/a offence.’
 
 
@@ -1301,9 +1010,6 @@ that official act is invalid.’
 set out in full in IV, 14, 30-34.
 
 
-24
-
-
 XULLAVAGGA.
 
 
@@ -1316,8 +1022,7 @@ of any one of the offences different from the one
 charged, then the official act is invalid.]
 
 2. ' And when, O Bhikkhus, is such an official act
-valid ? In case a Bhikkhu have committed a Pard-
-c>ika offence, and in respect thereof the Sawgha, or
+valid ? In case a Bhikkhu have committed a Pardc)ika offence, and in respect thereof the Sawgha, or
 a number of Bhikkhus, or a single Bhikkhu warns
 him, saying, “ The venerable one has been guilty
 of a Pird^ika.” And he replies, “ Yea, Sirs, I have
@@ -1333,8 +1038,7 @@ in § i, the whole of § 2 is repeated.]
 
 Now at that time the Bhikkhus in chapter
 (Sawgha) assembled, since they became violent,
-quarrelsome, and disputatious, and kept on wound-
-ing one another with sharp words 4 , were unable
+quarrelsome, and disputatious, and kept on wounding one another with sharp words 4 , were unable
 
 
 1 The same, namely, as those in the list given at Mahavagga IV,
@@ -1356,9 +1060,6 @@ II, 185, 186.
 TV, 9.
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
 = 5
 
 
@@ -1367,8 +1068,7 @@ before them).
 
 They told this matter to the Blessed One.
 
-1 ‘ I allow you, O Bhikkhus, to settle such a dis-
-pute by the vote of the majority. A Bhikkhu who
+1 ‘ I allow you, O Bhikkhus, to settle such a dispute by the vote of the majority. A Bhikkhu who
 shall be possessed of five qualifications shall be
 appointed as taker of the voting tickets— one who
 does not walk in partiality, one who does not walk
@@ -1408,9 +1108,6 @@ VIII, 5, 2; VIII, 6, 1 ; and below, VI, 11, 2) of other officials
 of the order with duties similar to those in the text.
 
 
-26
-
-
 KULLAVAGGA.
 
 
@@ -1425,7 +1122,6 @@ Thus do I understand.’ ”
 
 
 10 h
-
 i. ‘There are ten cases, O Bhikkhus, in which the
 taking of votes is invalid ; and ten in which the
 taking of votes is valid.
@@ -1434,8 +1130,7 @@ taking of votes is valid.
 is invalid ? When the matter in dispute is trivial 1 2
 — when the case has not run its course (that is,
 when the necessary preliminaries of submission to
-arbitration have not been carried out 3 ) — when re-
-garding the matter in dispute the Bhikkhus have
+arbitration have not been carried out 3 ) — when regarding the matter in dispute the Bhikkhus have
 not formally remembered, or been formally called
 upon to remember, the offence 4 * — when the taker of
 votes 6 knows that those whose opinions are not in
@@ -1452,16 +1147,12 @@ gatam, tattha tatth’ eva va dvitikkhattuM avmiMfotaw. See on
 these proceedings above.
 
 4 Buddhaghosa says, Na h sarita-»saritan ti dvitikkhattuw
-
 tehi bhikkhuhi sayaw saritaw va annehi Santa® va na hoti.
 
 s Ganati ti salaka® gahento ganati. (S. P.)
 
 
 IV, II, I.
-
-
-THE SETTLEMENT OF DISPUTES.
 
 
 2 7
@@ -1472,8 +1163,7 @@ knows that the voting will result in a schism in
 the Sawgha — when he is in doubt whether the
 voting will result in a schism in the Sa;/zgha — when
 the votes are irregularly given 2 — when all do not
-vote equally 3 — and when they do not vote in ac-
-cordance with the view (which they really hold).
+vote equally 3 — and when they do not vote in accordance with the view (which they really hold).
 These are the ten cases in which the voting is
 invalid 4 .
 
@@ -1500,23 +1190,15 @@ bahft bhavissama ti dve dve salakayo gazzhanti. (S P.)
 
 3 On vagga, here = vi-fagga, compare our note on the 21st
 Pdiittiya, and Aullavagga I, 2, 1. Buddhaghosa here says,
-Vaggt gazzhanti ti dve dhammavadino ekara dhammavadi-
-sal&kaw gazzhanti eva m dhammavadino na bahu bhavissanti ti
+Vaggt gazzhanti ti dve dhammavadino ekara dhammavadisal&kaw gazzhanti eva m dhammavadino na bahu bhavissanti ti
 marawamana.
 
 4 With this chapter the 26th section of chaptet 14 should be
 compared, where very curious means are inculcated for avoiding
-
 some of the votes here stated to be invalid.
 
 6 In the Burmese MSS. the name of this monk is written
 Upavala.
-
-
-28
-
-
-A'ULLAVAGGA.
 
 
 IV, II, 2.
@@ -1524,8 +1206,7 @@ IV, II, 2.
 counter-charges 1 , and spoke lies which he knew
 to be such 2 .
 
-Those Bhikkhus who were moderate were an-
-noyed, murmured, and became indignant, saying,
+Those Bhikkhus who were moderate were annoyed, murmured, and became indignant, saying,
 
 ‘ How can the Bhikkhu Uva/a do so?’ And they
 told the matter to the Blessed One.
@@ -1553,13 +1234,10 @@ have been caused (by being put on his trial with
 respect to the offence) to bring upon himself a new
 
 
-‘ Annena. ann&m pa/i^arati. We follow Wijesiwha Mudali-
-yar’s interpretation of this phrase as given by Childers (s. v. tassa-
-papiyyasika).
+‘ Annena. ann&m pa/i^arati. We follow Wijesiwha Mudaliyar’s interpretation of this phrase as given by Childers (s. v. tassapapiyyasika).
 
 2 Chapter 14, section 29 below, is in fact an elaboration of this
-paragraph, giving instances of the kind of prevarication here in-
-tended to be referred to.
+paragraph, giving instances of the kind of prevarication here intended to be referred to.
 
 5 The exact meaning of the phrase is somewhat doubtful, owing
 to the ambiguity of the tassa. It should probably be analysed ‘ the
@@ -1568,8 +1246,6 @@ proceeding against one who is more sinful (papiyo) than that
 on the Proceeding drawn by Wijesbraha Mudahyar from this chapter,
 but does not analyse the word.
 
-
-IV, il, 2. THE SETTLEMENT OF DISPUTES. 29
 
 offence (namely, of obstinacy or prevarication) ; when
 he has brought upon himself this new offence, some
@@ -1582,14 +1258,12 @@ Sazzzgha with an offence, when he has denied it then
 confesses it, when he has confessed it then denies it,
 makes counter-charges, and speaks lies which he
 knows to be such. If the time seems meet to the
-Sawgha, let the Sawzgha carry out the Tassa-
-pipiyyasika-kamma against the Bhikkhu Uvi/a.
+Sawgha, let the Sawzgha carry out the Tassapipiyyasika-kamma against the Bhikkhu Uvi/a.
 
 1 “ This is the motion.
 
 ‘ “ Let the venerable Sazzzgha hear me. This
-Bhikkhu Uva/a (&c., as before). The Sazzzgha car-
-ries out the Tassa-papiyyasika-kamma against
+Bhikkhu Uva/a (&c., as before). The Sazzzgha carries out the Tassa-papiyyasika-kamma against
 Uva/a the Bhikkhu. Whosoever of the venerable
 ones approves of the Tassa-papiyyasiki-kamma
 being carried out against Uva/a the Bhikkhu, let him
@@ -1603,15 +1277,11 @@ before, down to) let him speak.
 
 ‘“The Tassa-pdpiyyasiki-kamma has been
 carried out by the Sawgha against Uva/a the
-Bhikkhu. Therefore is it silent. Thus do I under-
-stand 1 .”’
+Bhikkhu. Therefore is it silent. Thus do I understand 1 .”’
 
 
 1 This KammavJM is precisely the same as is laid down in
 /Yullavagga 1 , 1, 4, &c. in^the case of all the other penal Kammas.
-
-
-30
 
 
 XULLAVAGGA.
@@ -1623,15 +1293,13 @@ IV, 12, I.
 12 .
 
 1. ‘ There are five things, 0 Bhikkhus, which are
-necessary to the valid carrying out of the Tassa-
-papiyyasikd-kamma. To wit — he is impure, he
+necessary to the valid carrying out of the Tassapapiyyasikd-kamma. To wit — he is impure, he
 is shameless — a censure has been set on foot against
 him 1 — the Sa^gha carries out the Kamma — it
 carries it out lawfully, and in a full quorum.
 
 2 . ‘ There are three things, O Bhikkhus, by which,
-when a Tassa-pdpiyyasika-kamma is character-
-ised, it is against the Dhamma, and against the
+when a Tassa-pdpiyyasika-kamma is characterised, it is against the Dhamma, and against the
 Vinaya, and difficult to be settled ; (that is to say),
 when it has not been carried out in a full assembly
 of properly qualified persons, according to law and
@@ -1655,25 +1323,21 @@ rest of this paragraph is the reverse of the last] V
 
 1 Compare the use of anuvado in Zullavagga I, 5.
 
-3 These paragraphs exactly coirespoSd to paragraphs at Z'ulla-
-vagga I, 2. It is probably meiely owing to this repetition that
+3 These paragraphs exactly coirespoSd to paragraphs at Z'ullavagga I, 2. It is probably meiely owing to this repetition that
 it is here also prescribed that the accused person must confess
 
 
 IV, 13, I. THE settlement of disputes. 31
 
-3. [This paragraph exactly corresponds to ATulla-
-vagga I, 4, paragraph 1, as to the three cases in
+3. [This paragraph exactly corresponds to ATullavagga I, 4, paragraph 1, as to the three cases in
 which the Sawgha, if it likes, may carry out the
 Tassa-pipiyyasikd-kamma against a Bhikkhu.]
 
 4. [In this paragraph the ‘right conduct’ for a
 Bhikkhu who has been subjected to this Kamma is
-laid down precisely as in I, 5 for a Bhikkhu sub-
-jected to the Ta^aniya-kamma.]
+laid down precisely as in I, 5 for a Bhikkhu subjected to the Ta^aniya-kamma.]
 
-Then the Sawgha carried out the Tassa-pa-
-piyyasika-kamma against Uvi/a the Bhikkhu.
+Then the Sawgha carried out the Tassa-papiyyasika-kamma against Uvi/a the Bhikkhu.
 
 
 13 h
@@ -1682,9 +1346,7 @@ piyyasika-kamma against Uvi/a the Bhikkhu.
 continuing in quarrels, strifes, and disputes, they
 had been guilty of many things unworthy of a
 Samara, as well in word as in deed, and it occurred
-
 to the Bhikkhus, 1 Whilst we were continuing, &c
-
 we have been guilty, & c. ... as well in word as in
 deed. If we now deal one with another for those
 offences, it may happen that that proceeding may
@@ -1698,23 +1360,15 @@ continuing, &c. . . . they are guilty, &c. . . . as well
 in word as in deed. And it occurs to them, “ Whilst
 we were continuing, &c. . . . we have been guilty,
 &c. ... If we now deal, &c. . . . How now shall
-
-
 himself guilty, as it must be evident from the Introductory Story,
 that he will not do so.
 
 1 The whole of this chapter recurs below, IV, 14, 33.
 
 
-32
-
-
-A'ULLAVAGGA.
-
-
 TV
 
-X ’ 5 A 0>
+X ’ 5 A 0)
 
 
 we manage ?” I enjoin upon you, O Bhikkhus, to
@@ -1762,9 +1416,6 @@ Du//Aull& apatti at Mahavagga X, 5 , 4.
 IV, 13, 2. THE SETTLEMENT OF DISPUTES.
 
 
-33
-
-
 as is mine own, to the end that it may be covered
 over as with grass, except only as regards serious
 offences, and as regards those things in which the
@@ -1778,8 +1429,7 @@ paragraph, down to the end].”
 
 ‘ Then the discreet and able Bhikkhu among the
 Bhikkhus belonging to the one party is to bring the
-matter before the Sawzgha, saying, “ May the vene-
-rable Sawzgha hear me. While we (&c., as before,
+matter before the Sawzgha, saying, “ May the venerable Sawzgha hear me. While we (&c., as before,
 down to) in divisions. If the time seems meet to
 the Sawgha, I would confess 1 in the midst of the
 Sawgha, both on behalf of these venerable ones
@@ -1794,8 +1444,7 @@ divisions. I confess (&c., as before, down to) in
 which the laity have been concerned. Whosoever 1
 of the venerable ones approves of the confession of
 these our offences, to the end that they may so be
-covered over as with grass, except as before men-
-tioned, let him keep silence. Whosoever approves
+covered over as with grass, except as before mentioned, let him keep silence. Whosoever approves
 not thereof, let him speak. These our offences are
 confessed in the midst of the Sawgha, to the end
 that they may be covered over as with grass, except
@@ -1803,9 +1452,6 @@ that they may be covered over as with grass, except
 
 1 Deseyyaw. Compare IV, 14, 33, at the end.
 [20] D
-
-
-34
 
 
 JsTULLAVAGGA.
@@ -1844,16 +1490,11 @@ Bhikkhunis and disputed with the Bhikkhus.
 
 Di//Mvikamman ti ye pana na me ta m khamati ti ann 3 .ms.nnd.
 ^di//Mvikamma m karonti tehi va saddhizv apattizv apaggdtva pi,
-
 tattha anagata agantva va i^andaw datva parivewadisu nismna, te
 
 Spattihi na vu//^ahanti. This is more an exegesis on the rule
-
 than an explanation of the words Di/Mavikamma»z /Aapetva,
-
-the exact meaning of which remains doubtful. The literal render-
-
-ing would be ‘ except as regards the manifestation of opinion.’
+the exact meaning of which remains doubtful. The literal rendering would be ‘ except as regards the manifestation of opinion.’
 
 8 It was with reference to this conduct of AVanna that the
 Buddha is stated in the Maha-parinibbana Sutta VI, 4 to have
@@ -1861,26 +1502,14 @@ imposed a penalty upon him. He is also mentioned above, I,
 25-31, and below, XI, 1, 12-14.
 
 8 Compare the 16th and 43rd P^ittiyas. Buddhaghosa says
-here, Bhikkhuninaw anupakha^a ti bhikkhuninazw anto-
-pavisitvl.
+here, Bhikkhuninaw anupakha^a ti bhikkhuninazw antopavisitvl.
 
 
-IV, 14, 2.
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-35
-
-
-Those Bhikkhus who were moderate were in-
-dignant, &c. . . . told the Blessed One, &c. ... he
+Those Bhikkhus who were moderate were indignant, &c. . . . told the Blessed One, &c. ... he
 addressed the Bhikkhus, and said :
 
 2. ‘ There are, O Bhikkhus, the following four
-kinds of legal questions that require formal settle-
-ment by the Sawgha ; (that is to say), legal questions
+kinds of legal questions that require formal settlement by the Sawgha ; (that is to say), legal questions
 arising out of disputes, legal questions arising out of
 censure, legal questions arising out of offences, legal
 questions arising out of business l .
@@ -1910,14 +1539,10 @@ Ya sa apatti anavasesa sa apatti na katamena adhikara^ena
 na katamamhi /Mne na katamena samathena sammati. It is
 practically equivalent therefore to Para^ika. Those offences
 which can be done away, but only by the Sawgha, are called
-accordingly in the Buddhist Sanskrit Sawghavaxesha, which cor-
-responds to the P&li Sawghadisesa. The translation and note at
+accordingly in the Buddhist Sanskrit Sawghavaxesha, which corresponds to the P&li Sawghadisesa. The translation and note at
 Mahavagga X, 2, 4 should be altered accordingly.
 
 D 2 -
-
-
-36
 
 
 KULLAVAGGA.
@@ -1927,8 +1552,7 @@ IV, i 4 , 2.
 
 
 offence.” Whatsoever quarrel, strife, controversy,
-difference of opinion, contradiction, opposition, can-
-tankerousness 3 , or contention there may be on such
+difference of opinion, contradiction, opposition, cantankerousness 3 , or contention there may be on such
 a matter, this is called a legal question arising out of
 dispute.
 
@@ -1936,8 +1560,7 @@ dispute.
 out of censure ? This, O Bhikkhus, is when Bhikkhus
 charge a Bhikkhu with a fault of morality, or of
 conduct, or of opinion, or of means of livelihood.
-Whatsoever charge, censure, incrimination 1 2 , ad-
-monition 2 , candid opinion 3 , making of excuses 4 for
+Whatsoever charge, censure, incrimination 1 2 , admonition 2 , candid opinion 3 , making of excuses 4 for
 a person, or making fun of him, there may be, that
 is called a legal question arising out of censure.
 
@@ -1954,41 +1577,29 @@ which ought to be done, an obligation, a matter for
 which leave ought to be formally asked, the pro-
 
 
-1 Vipa/ 5 /Sataya voharo ti &tta-dukkhatthdya voharo pharusa-
-va^anan ti attho (S. P.).
+1 Vipa/ 5 /Sataya voharo ti &tta-dukkhatthdya voharo pharusava^anan ti attho (S. P.).
 
-2 Anuliapana anubhawana ti ubhayaw anuvadana-veva/iana-
-mattam eva (S. P.).
+2 Anuliapana anubhawana ti ubhayaw anuvadana-veva/ianamattam eva (S. P.).
 
 3 Anusampavankat& ti punappunaw kaya-^ittara vadahi tatth’
 eva sampavankata anuvadanabhavo ti attho (S. P.).
 
-4 Abbhussahanata ti kasma eva m na upavadissami upava-
-dissami yeva ti ussahaw katva anuvadana (S. P.).
+4 Abbhussahanata ti kasma eva m na upavadissami upavadissami yeva ti ussahaw katva anuvadana (S. P.).
 
-5 That is to say, Para^ika, Sa»zghadisesa, Pa&ttiya, Pa/ide Sa-
-niya, and Dukka/a, as below, in IV, f4, 14; IX, 3, 3.
+5 That is to say, Para^ika, Sa»zghadisesa, Pa&ttiya, Pa/ide Saniya, and Dukka/a, as below, in IV, f4, 14; IX, 3, 3.
 
 6 That is to say, the five mentioned in the last note, and
 besides them, Thulla/btaya and Dubbhasita.
 
 
-IV, I4> 3*
+IV, I4) 3*
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-37
-
-
-posal of a resolution *, the proceeding by «atti-
-dutiya-kamma 1 2 , or by #atti-/£atuttha-kamma 2 ,
+posal of a resolution *, the proceeding by «attidutiya-kamma 1 2 , or by #atti-/£atuttha-kamma 2 ,
 that is called a legal question of business.
 
 3. ‘What is that which gives rise to a legal
-question of dispute ? There are six causes of dis-
-pute that give rise to legal questions of dispute.
+question of dispute ? There are six causes of dispute that give rise to legal questions of dispute.
 And there are three causes of wrong-doing that give
 rise to legal questions of dispute, and three causes
 of right-doing that give rise to legal questions of
@@ -1997,34 +1608,22 @@ dispute. And which are these six ?
 ‘ In the first place, O Bhikkhus, there is the
 Bhikkhu who is angry, and who bears enmity in his
 heart. Whatsoever Bhikkhu, O Bhikkhus, is such
-an angry man bearing enmity in his heart, he re-
-mains without reverence for, and without delight in
+an angry man bearing enmity in his heart, he remains without reverence for, and without delight in
 the Teacher, the Dhamma, and the Sawgha, and does
-not fulfil all the duties of a disciple. And what-
-soever Bhikkhu, O Bhikkhus, remains without reve-
-rence for, and without delight in the Teacher, the
+not fulfil all the duties of a disciple. And whatsoever Bhikkhu, O Bhikkhus, remains without reverence for, and without delight in the Teacher, the
 Dhamma, and the Sawgha, and does not fulfil all
 the duties of a disciple, he causes disputes to arise
 in the Sawgha, and such a dispute becomes a cause
 
 
 1 Apalokana-kamman ti-adi panatass’ eva pabheda-vaianaw.
-Tattha apalokana-kamma® nama sima/Z/iakam sawghaw so-
-dhetva /WandaraMna»z i/zanda»2 aharitvS samaggassa anumatiyi
+Tattha apalokana-kamma® nama sima/Z/iakam sawghaw sodhetva /WandaraMna»z i/zanda»2 aharitvS samaggassa anumatiyi
 tikkhattuw save tv a katabba-kamma»2 (S. P.).
 
-2 See our note at Mahavagga I, 28, 3. The Samanta PSsa-
-dikt here says, ?lattidutiy akammam pana apaloketva kattab-
-ba m pi atthi akattabbam pi atthi. Tattha simasammuti sima-
-samfthanani kathmadanawz kathmubbh&ro kti/avatthudesanl vMra-
-vatthudesand ’ti imam khz. kammani garukani apaloketvi katuw na
-va//ati, wattidutiyakammava/t'aw savetvS, ’va kdtabbani, avasesa te-
-rasa sammutiyo sen&sanagaliakamataka (Ppatta) X’ivarad&nati(°di° P)-
+2 See our note at Mahavagga I, 28, 3. The Samanta PSsadikt here says, ?lattidutiy akammam pana apaloketva kattabba m pi atthi akattabbam pi atthi. Tattha simasammuti simasamfthanani kathmadanawz kathmubbh&ro kti/avatthudesanl vMravatthudesand ’ti imam khz. kammani garukani apaloketvi katuw na
+va//ati, wattidutiyakammava/t'aw savetvS, ’va kdtabbani, avasesa terasa sammutiyo sen&sanagaliakamataka (Ppatta) X’ivarad&nati(°di° P)-
 sammutiyo M ’ti evaiupam lahukakammam apaloketva pi katu?«
 vaP/anti.
-
-
-A'ULLAVAGGA.
 
 
 IT, 14, 4.
@@ -2035,17 +1634,12 @@ O
 O
 
 
-8
-
-
 of woe, and of want, and of disaster to the great
 multitudes, of woe and of want to gods and men.
 If you, therefore, O Bhikkhus, perceive such a
 one, a root of disputes both internal and external,
 do you exert yourselves, O Bhikkhus, to put away
-from you so evil a person, the root of those dis-
-putes, If you perceive, O Bhikkhus, no such per-
-son, take pains lest any such evil root of disputes
+from you so evil a person, the root of those disputes, If you perceive, O Bhikkhus, no such person, take pains lest any such evil root of disputes
 should thereafter arise among you. Thus will so
 evil a root of disputes be put away from you, and
 thus will no such evil person, the root of disputes,
@@ -2057,19 +1651,15 @@ envious and jealous ; who is crafty and treacherous ;
 who has sinful desires and false beliefs ; who is
 tarnished by love of worldly gain, devoted to getting
 and taking, for whom to renounce a thing is hard.
-Whatsoever Bhikkhu, O Bhikkhus, is thus a hypo-
-crite, who hides his faults, he remains [&c.,as before,
+Whatsoever Bhikkhu, O Bhikkhus, is thus a hypocrite, who hides his faults, he remains [&c.,as before,
 the whole of the last paragraph down to the end
-being repeated in each of the cases here enume-
-rated].
+being repeated in each of the cases here enumerated].
 
 4. ' And which are the three causes of wrong-doing
 which give rise to legal questions of dispute ?
 
 ‘ Herein, O Bhikkhus, men of greedy mind are
-given to dispute, men of evil mind are given to dis-
-pute, men of foolish mind are given to dispute, say-
-ing, “ This is Dhamma,” or “ This is not Dhamma ”
+given to dispute, men of evil mind are given to dispute, men of foolish mind are given to dispute, saying, “ This is Dhamma,” or “ This is not Dhamma ”
 [&c., as before, in § 2 , down to] or “ This is not a
 
 
@@ -2080,12 +1670,6 @@ forms the subject of Puggala II, 2. See also Gataka III, 259.
 
 
 IY, 14, 5.
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-39
 
 
 most grave offence.” These are the three causes of
@@ -2101,8 +1685,7 @@ word “ not”].
 
 5. ‘And what is that, O Bhikkhus, which gives rise
 to legal questions of censure ? There are six causes
-of censure that give rise to legal questions of cen-
-sure. And there are three causes of wrong-doing
+of censure that give rise to legal questions of censure. And there are three causes of wrong-doing
 that give rise to legal questions of censure. And
 there are three causes of right-doing that give rise
 to legal questions of censure. And the body gives
@@ -2118,24 +1701,15 @@ that give rise to legal questions of censure ?
 ‘ Herein, O Bhikkhus, men of greedy mind are
 given to censure, men of evil mind are given to
 censure, men of foolish mind are given to censure,
-accusing others of breaches of morality, or of be-
-haviour, or of error in doctrine, or of adopting a
+accusing others of breaches of morality, or of behaviour, or of error in doctrine, or of adopting a
 wrong means of livelihood. These are the three
-causes of wrong-doing that give rise to legal ques-
-tions of censure.’
+causes of wrong-doing that give rise to legal questions of censure.’
 
 [There follow the three causes of right-doing,
 reading ‘ men not of greedy mind,’ &c., as before,
 end of § 4.]
 
-‘ And how does the body give rise to legal ques-
-tions of censure? In case a man be ill-favoured,
-
-
-40
-
-
-rULLAVAGGA.
+‘ And how does the body give rise to legal questions of censure? In case a man be ill-favoured,
 
 
 IT, 14, 6.
@@ -2153,8 +1727,7 @@ be indistinct, or harsh in speech 2 , then people find
 fault with him on that account. This is how speech
 gives rise to legal questions of censure.
 
-6. ‘ And what is it that gives rise to legal ques-
-tions of offence ? There are six origins of offence
+6. ‘ And what is it that gives rise to legal questions of offence ? There are six origins of offence
 that give rise to legal questions of offence. There
 is an offence that originates in deed, but not in word
 nor in thought. There is an offence that originates
@@ -2187,24 +1760,18 @@ the opposites of the three in Mahavagga V, 13, 9.
 IV, 14, 10. THE SETTLEMENT OF DISPUTES.
 
 
-41
-
-
 8. ‘ Legal questions of dispute. Right. Wrong.
 Undetermined 1 .
 
 ‘A legal question arising out of dispute may be
-right, and it may be wrong, and it may be un-
-determined. Of these, which is the legal question
+right, and it may be wrong, and it may be undetermined. Of these, which is the legal question
 arising out of dispute which is right ?
 
 ‘ In case, O Bhikkhus, the Bhikkhu of right mind
 discuss, saying, “ This is the Dhamma,” or “ This
 is not the Dhamma ” (&c., as before, in § 2, down to)
 or “ This is not a most grave offence.” Whatsoever
-quarrel, strife, contention, difference of opinion, con-
-tradiction, opposition, cantankerousness, or conten-
-tion there may be in such a discussion is called a
+quarrel, strife, contention, difference of opinion, contradiction, opposition, cantankerousness, or contention there may be in such a discussion is called a
 legal question arising out of dispute that is right.’
 
 [And so when the Bhikkhus have a wrong mind,
@@ -2217,8 +1784,7 @@ Undetermined.’
 
 [It may be either of the three, according as the
 Bhikkhus censuring (as in § 5) have a right, wrong,
-or an undetermined mind. The form of the para-
-graph corresponds to § 8 throughout.]
+or an undetermined mind. The form of the paragraph corresponds to § 8 throughout.]
 
 10. ‘ Legal questions of offence. Right. Wrong.
 Undetermined.
@@ -2233,9 +1799,6 @@ Abhidhamma books. There it was only the objects themselves,
 here we have all the predicates which it is proposed to apply (as
 in § 8 ), or to declare inapplicable to the object (as m § 10), which
 are set out, but the pnnciple is the same.
-
-
-42
 
 
 JOJLLAVAGGA.
@@ -2255,25 +1818,20 @@ be wrong.
 
 ‘ And of these, which is a legal question whether an
 offence be undetermined ? Whatsoever transgression
-be committed not knowingly, not consciously, not de-
-liberately, this, is called a legal question whether an
+be committed not knowingly, not consciously, not deliberately, this, is called a legal question whether an
 offence be undetermined.
 
 11. ‘ Legal questions of business. Right. Wrong.
 U ndetermined.’
 
-[It may be all three, according as the Bhikkhus per-
-forming the business specified, as in § 2, are right-
-minded, wrong-minded, or of undetermined mind.
+[It may be all three, according as the Bhikkhus performing the business specified, as in § 2, are rightminded, wrong-minded, or of undetermined mind.
 The form of the paragraph as in § 8 throughout]
 
-1 2. ‘ Disputes, legal questions arising out of dis-
-putes. Dispute which is no legal question. Legal
+1 2. ‘ Disputes, legal questions arising out of disputes. Dispute which is no legal question. Legal
 question which is no dispute. Matter which is both
 legal question and dispute.
 
-‘ There may be a dispute which is a legal ques-
-tion of dispute. There may be a dispute which is
+‘ There may be a dispute which is a legal question of dispute. There may be a dispute which is
 fio legal question. There may be such a legal
 question which is no dispute. There may be such a
 legal question and also a dispute.
@@ -2288,9 +1846,6 @@ legal question of dispute requiring formal settlement.
 
 
 IV, 14, 14. THE SETTLEMENT OF DISPUTES.
-
-
-43
 
 
 ‘ And of these, which is a dispute which is not a
@@ -2335,13 +1890,7 @@ questions of offence. These are offences which may
 be subject of a legal question.
 
 
-44
-
-
 AULLAVAGGA,
-
-
-IV, 14, 15.
 
 
 ‘ And of these, which is an offence (Apatti) which
@@ -2360,8 +1909,7 @@ both a legal question and an offence too ? A legal
 question regarding an offence is a case in which
 there is both a legal question and an offence too.
 
-15. ‘ Official duty which is subject of a legal ques-
-tion of business. Duty and no legal question. Legal
+15. ‘ Official duty which is subject of a legal question of business. Duty and no legal question. Legal
 question and no duty. Legal question and duty too.
 
 ‘ There may be [each of these four].
@@ -2371,29 +1919,21 @@ of a legal question ? Whatsoever is to the Sawgha
 a thing which ought to be done, an obligation, a
 matter for which leave ought to be formally asked,
 the proposal of a resolution, the proceeding by
-watti-dutiya-kamma, or by »atti-/£atuttha-
-kamma, that is official duty which may be the
+watti-dutiya-kamma, or by »atti-/£atutthakamma, that is official duty which may be the
 Subject of a legal question of business.
 
 
-1 This is merely a play upon words. Apatti is literally ‘ at-
-tainment to.’ Standing alone it is always used with the connotation
-of ‘ attainment to guilt, sin, offence,’ so that its etymological mean-
-ing is always lost sight of. Sotapatti is the ‘attainment to,’ the
+1 This is merely a play upon words. Apatti is literally ‘ attainment to.’ Standing alone it is always used with the connotation
+of ‘ attainment to guilt, sin, offence,’ so that its etymological meaning is always lost sight of. Sotapatti is the ‘attainment to,’ the
 ‘entenng upon’ the stream, that is, the course of the Excellent
-Way. The Samapattis, literally, ‘complete, or higher, attain-
-ments,’ are eight successive states of ecstatic insight or meditation
+Way. The Samapattis, literally, ‘complete, or higher, attainments,’ are eight successive states of ecstatic insight or meditation
 practised by Arahats and other men of advanced spiritual culture.
 
 The question stated is in fact a riddle, like so many of the questions
-
 stated in the Parivara and the Puggala-pawnatti.
 
 
 IV, 14 , i6. THE SETTLEMENT OF DISPUTES.
-
-
-45
 
 
 ‘ And of these, which is the official duty which is
@@ -2403,8 +1943,7 @@ the same upa^/^aya or d^ariya, that is business,
 but not subject of a legal question of business.
 
 ‘ And of these, which is a legal question but not
-official duty ? A legal question arising out of dis-
-pute, a legal question arising out of censure, a legal
+official duty ? A legal question arising out of dispute, a legal question arising out of censure, a legal
 question arising out of offence. This is a legal
 question of business, but not official duty.
 
@@ -2414,15 +1953,12 @@ official business is both legal question of business
 and official duty too \
 
 1 6. ‘ But by what kind of settlements is a legal
-question arising out of dispute brought to settle-
-ment ? By two kinds of settlement, by the Pro-
-ceeding in presence 1 2 , and by the Proceeding by
+question arising out of dispute brought to settlement ? By two kinds of settlement, by the Proceeding in presence 1 2 , and by the Proceeding by
 majority of the Samgha 3 .
 
 ‘ If one should ask, “ Can it be that a legal question
 arising out of dispute without recourse having been
-had to the one mode of settlement — to wit, the Pro-
-ceeding by majority of the Sa^gha — can it be that
+had to the one mode of settlement — to wit, the Proceeding by majority of the Sa^gha — can it be that
 it may be settled by the other mode of settlement,
 to wit, by the Proceeding in presence ?” He should
 be told “Yes, it can.” (If he should say), “ How may
@@ -2440,13 +1976,7 @@ of ‘duty’ is brought into play.
 3 Yebhuyyasikena. See above, chapter 9.
 
 
-46
-
-
 JTU LLAVAGGA.
-
-
-IV, 14, 16.
 
 
 the case when the Bhikkhus dispute, saying, ‘ This
@@ -2456,8 +1986,7 @@ grave offence.’” If, O Bhikkhus, those Bhikkhus,
 are able to settle their own dispute, that is called,
 O Bhikkhus, the settlement of the dispute.
 
-‘ 1 And how has it been settled ? By the Proceed-
-ing in presence.
+‘ 1 And how has it been settled ? By the Proceeding in presence.
 
 ‘ And what must there be in such a Proceeding
 in presence ? There must be the presence of the
@@ -2498,9 +2027,6 @@ carried out/
 TV, 14, 18. THE SETTLEMENT OF DISPUTES.
 
 
-47
-
-
 ticular person ? He who disputes, and he with
 whom he disputes — both friends and foes — must be
 present. That is the “ presence ” in such a matter
@@ -2513,9 +2039,7 @@ one who has conveyed his consent complain of the
 decision, such complaint is a Piiittiya 1 2 3 .
 
 17. ‘If those Bhikkhus, O Bhikkhus, are not able
-to settle the legal question within their own resi-
-dence (Avasa), those Bhikkhus should go, O Bhik-
-khus, to some residence in which there are a larger
+to settle the legal question within their own residence (Avasa), those Bhikkhus should go, O Bhikkhus, to some residence in which there are a larger
 number of Bhikkhus. Then if those Bhikkhus, O
 Bhikkhus, should succeed, whilst on their way to
 that residence, in settling the legal question, that, O
@@ -2539,7 +2063,6 @@ settled.” If the Bhikkhus dwelling in that residence
 1 This is the 63rd Pa^ittiya,
 
 2 This is the 79th PSMiya. The whole paragraph is repeated
-
 several times below in this chapter.
 
 
@@ -2560,13 +2083,11 @@ Bhikkhus, to address the incoming Bhikkhus thus :
 counsel together ! ” If, on the other hand, the
 Bhikkhus dwelling in that residence are junior, and
 the incoming Bhikkhus are senior, then the Bhikkhus
-dwelling in that residence are, O Bhikkhus, to ad-
-dress the incoming Bhikkhus thus : “ Then remain
+dwelling in that residence are, O Bhikkhus, to address the incoming Bhikkhus thus : “ Then remain
 here, Sirs, a moment until we take counsel together.”
 Then if, O Bhikkhus, the Bhikkhus dwelling in that
 residence should, on consideration, think thus : “We
-shall not be able to settle this legal question ac-
-cording to the Dhamma, and according to the
+shall not be able to settle this legal question according to the Dhamma, and according to the
 Vinaya, and according to the teaching of the
 Master,” then that dispute is not to be entrusted
 to them. If, on the other hand, O Bhikkhus, the
@@ -2581,8 +2102,7 @@ thus : “ If you, Sirs, let us know about this legal
 question, how it arose, and how it was carried on,
 and if you agree that in the manner in which we
 may settle the legal question according to the
-Dhamma, and according to the Vinaya, and ac-
-cording to the teaching of the Master, in that
+Dhamma, and according to the Vinaya, and according to the teaching of the Master, in that
 manner it shall be settled, then we will thus accept
 the legal question at your hands. But if not (&c.,
 the whole being repeated), then we will not accept
@@ -2592,19 +2112,14 @@ it. When they have thus, O Bhikkhus, brought
 IV, 14, 19- THE SETTLEMENT OF DISPUTES.
 
 
-49
-
-
 it about that the proper way of putting the legal
 question (the point at issue) has been settled, the
-Bhikkhus dwelling in that residence should under-
-take that legal question. And then the Bhikkhus
+Bhikkhus dwelling in that residence should undertake that legal question. And then the Bhikkhus
 dwelling in that residence should be addressed, O
 Bhikkhus, by the incoming Bhikkhus thus : “We
 inform you, Sirs, how this legal question arose
 and how it was carried on. If you, Sirs, are able
-in such and such a time 1 to settle this legal ques-
-tion according to the Dhamma, and according to
+in such and such a time 1 to settle this legal question according to the Dhamma, and according to
 the Vinaya, and according to the teaching of the
 Master, then will we entrust this legal question to
 you. • But if you, Sirs, should not be able to do so,
@@ -2620,10 +2135,8 @@ down to the end.)
 
 19. ‘If, O Bhikkhus, whilst the case is being
 enquired into by those Bhikkhus, pointless speeches
-are brought forth, and the sense of any single utter-
-ance is not clear 2 , I enjoin upon you, O Bhikkhus,
-to settle the case by referring it (to a jury or com-
-mission) 3 .
+are brought forth, and the sense of any single utterance is not clear 2 , I enjoin upon you, O Bhikkhus,
+to settle the case by referring it (to a jury or commission) 3 .
 
 
 1 Ettakena v& antarena, on which Buddhaghosa has nothing.
@@ -2636,9 +2149,6 @@ the mode of proceeding here laid down.
 meaning and the derivation of this term. It must be derived
 
 [20] E
-
-
-50
 
 
 JOJLLAVAGGA.
@@ -2656,15 +2166,12 @@ upon himself with a sense of the danger in the
 least offence 1 — he must be versed in the tradition,
 a custodian of the tradition, a storehouse of the
 tradition — whatsoever truths, lovely in their origin,
-lovely in their progress, lovely in their consumma-
-tion, set forth the higher life, both in its spirit and
+lovely in their progress, lovely in their consummation, set forth the higher life, both in its spirit and
 in its letter, in all its purity and in all its perfectness 2 ,
 in such truths must he be well versed, of such must he
 be full, they must be laid up in his words 3 , and dwelt
 on in his heart, being penetrated throughout through
 right insight 4 — both the Patimokkhas must have
-
-
 fromud-fvah; and means simply 4 reference' — the turning over
 of a difficult or intricate case from the general Sa^zgha to a
 special committee, as was done at Ves&li (below, XII, 2, 7).
@@ -2696,12 +2203,8 @@ the £ Book of the Great Decease/ I, 11.
 IV, 14, 20. THE SETTLEMENT OF DISPUTES.
 
 
-51
-
-
 been completely handed down to him in their full
-extent, he must have well divided them, well esta-
-blished them, well investigated them, both sutta by
+extent, he must have well divided them, well established them, well investigated them, both sutta by
 sutta and in every detail 1 — further he must be an
 expert in the Vinaya, irrefutable therein 2 — he must
 be competent to point out (the right course) to both
@@ -2716,11 +2219,9 @@ thereof.
 ‘ I enjoin upon you, O Bhikkhus, to appoint on the
 jury a Bhikkhu possessed of these ten qualities 4 .
 
-20. * And thus, O Bhikkhus, is he to be ap-
-pointed. First, the Bhikkhu should be asked
+20. * And thus, O Bhikkhus, is he to be appointed. First, the Bhikkhu should be asked
 (whether he be willing to undertake the office).
-Then some discreet and able Bhikkhu should ad-
-dress the Sa^gha thus :
+Then some discreet and able Bhikkhu should address the Sa^gha thus :
 
 * “ May the venerable Sarngha hear me. Whilst
 this case was being enquired into pointless speeches
@@ -2749,9 +2250,6 @@ each side.
 VULLAVAGGA.
 
 
-IV, 14, 21.
-
-
 to the venerable Sawgha, let it appoint Bhikkhus of
 such and such a name, and of such and such a name
 on a committee. This is the motion.
@@ -2759,23 +2257,19 @@ on a committee. This is the motion.
 ‘ “ Let the venerable Samgha. hear me. Whilst
 (&c., . . . down to) no single utterance was clear.
 The Sawgha appoints Bhikkhus of such and such
-names on a committee to settle this case. Who-
-soever of the venerable ones approves of the ap-
-pointment of such and such Bhikkhus on the
+names on a committee to settle this case. Whosoever of the venerable ones approves of the appointment of such and such Bhikkhus on the
 committee for the settlement of this case, let him
 be silent. Whosoever approves not thereof, let him
 speak.
 
 ‘ “ Such and such a Bhikkhu is appointed by the
 Sawgha on the committee for the settlement of this
-case. Therefore is it silent. Thus do I under-
-stand.”
+case. Therefore is it silent. Thus do I understand.”
 
 21. ‘If then, O Bhikkhus, those Bhikkhus are able
 on the reference (or on the committee) to settle the
 case, that, O Bhikkhus, is called a case that is
-settled. And how is it settled ? By the Pro-
-ceeding in Presence b And what therein is meant
+settled. And how is it settled ? By the Proceeding in Presence b And what therein is meant
 by the Proceeding in Presence ? The Dhamma is
 represented, and the Vinaya is represented, and the
 particular person is represented b
@@ -2798,12 +2292,6 @@ presence of the Sa^zgha * is omitted.
 
 
 IV, 14, 24 -
-
-
-THE SETTLEMENT OF DISPUTES.
-
-
-53
 
 
 enquired into by those Bhikkhus, there should
@@ -2838,8 +2326,7 @@ handed down to him, but not the Sutta-vibhanga.)
 by the committee to settle that case, those Bhikkhus,
 
 0 Bhikkhus, ought to hand over the case to the
-Sawgha, saying, “We, Sirs, are not able by a com-
-mittee to settle this case, let the Sawgha settle it.”
+Sawgha, saying, “We, Sirs, are not able by a committee to settle this case, let the Sawgha settle it.”
 
 1 enjoin upon you, O Bhikkhus, to settle such a case
 by vote of the majority (&c., as in chapter 9 to the
@@ -2848,12 +2335,6 @@ by vote of the majority (&c., as in chapter 9 to the
 1 That is, the Patimohkha.
 
 2 Liteially, ‘cause him to arise.’
-
-
-54
-
-
-itULLAVAGGA.
 
 
 IY, 14, 25.
@@ -2867,10 +2348,8 @@ by the Dhamma shall speak, so shall the case be
 decided. This, O Bhikkhus, is called a legal
 question that has been settled.
 
-‘ And how has it been settled ? By the Proceed-
-ing in Presence and by the vote of the majority.
-And what herein is meant by Proceeding in Pre-
-sence ? The presence of the Samgha, and the
+‘ And how has it been settled ? By the Proceeding in Presence and by the vote of the majority.
+And what herein is meant by Proceeding in Presence ? The presence of the Samgha, and the
 presence of the Dhamma, and the presence of the
 Vinaya, and the presence of the particular person.
 And of these, what is the presence of the Sawgha ?
@@ -2878,15 +2357,14 @@ And of these, what is the presence of the Sawgha ?
 such a matter of the particular person.
 
 ‘And what herein is meant by the vote of the
-majority ? The carrying out of, the accomplish-
-ment of, the proceeding by, the undertaking of, the
+majority ? The carrying out of, the accomplishment of, the proceeding by, the undertaking of, the
 acceptance of, the pacification by the official act (the
 Kamma) by the vote of the majority 1 2 . That is
 what is meant herein by the vote of the majority.
 
 ‘ When a legal question, O Bhikkhus, has been
 thus settled, if a disputant re-open the question, such
-re-opening is a Pa<6ittiya. If one who has conveyed
+re-opening is a Pa(6ittiya. If one who has conveyed
 his consent complain of the decision, such complaint
 is a Paiittiya V
 
@@ -2904,23 +2382,14 @@ below, §§ 27, 29.
 IV, 14, 25-
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-55
-
-
 Bhikkhus were discontented with the settlement of the
 case by the Sawgha at Savatthi. And they heard
 that in a certain residence there were dwelling a
 number of Theras versed in the traditions ; men to
-whom the Agamas 1 had been handed down ; re-
-citers of the Dhamma, of the Vinaya, and of the
-Mitikis 2 , learned, discreet, wise, modest, conscien-
-tious, anxious to learn. And they thought, ‘ If those
+whom the Agamas 1 had been handed down ; reciters of the Dhamma, of the Vinaya, and of the
+Mitikis 2 , learned, discreet, wise, modest, conscientious, anxious to learn. And they thought, ‘ If those
 Theras would settle this case according to the
-Dhamma, and according to the Vinaya, and ac-
-cording to the teaching of the Master, then would
+Dhamma, and according to the Vinaya, and according to the teaching of the Master, then would
 this case be indeed well settled.’ So those
 Bhikkhus went to that residence, and spake to
 those Theras thus : ‘ This legal question, Sirs,
@@ -2932,9 +2401,7 @@ Vinaya, and according to the teaching of the
 Master ! ’ Then those Theras, saying, £ Even as
 the case has been settled by the Sa»zgha at Savatthi,
 so is it well settled ! ’ decided the case in the same
-way. Then those Bhikkhus who had been dis-
-contented with the decision of the Sa7?zgha at Sa-
-vatthi were discontented with the decision of the
+way. Then those Bhikkhus who had been discontented with the decision of the Sa7?zgha at Savatthi were discontented with the decision of the
 number of Theras.
 
 [The paragraph is repeated with the necessary
@@ -2948,9 +2415,6 @@ with the decision of the number of Theras, dis-
 1 That is, the Four Nikayas, now toimrng the Sutta Pi/aka.
 
 2 See our note above on A'ullavagga IV, r, 2.
-
-
-56
 
 
 ZULLAVAGGA.
@@ -3004,9 +2468,6 @@ s On Sawnattiya, see our note below on VII, 4, x.
 IV, 14 , 27* THE SETTLEMENT OF DISPUTES.
 
 
-57
-
-
 you like.” When he has chosen (he is to add),
 “ Don’t tell anybody (which way you have voted).”
 If he ascertains that those whose opinion is against
@@ -3049,12 +2510,6 @@ of H. O/s edition of the text) specifies the different occasions when
 each of the three methods should be used.
 
 
-58
-
-
-A'ULLAVAGGA.
-
-
 IV, r 4 , 27 .
 
 
@@ -3073,13 +2528,11 @@ Proceeding for the consciously innocent is to be
 accorded.
 
 ‘ And thus, O Bhikkhus, is to be granted (&c., as
-in chapter 4, $ 10, down to the end, with the ne-
-cessary alterations for a general rule instead of a
+in chapter 4, $ 10, down to the end, with the necessary alterations for a general rule instead of a
 particular case).
 
 ‘ This, O Bhikkhus, is called a legal question that
-has been settled. And how settled ? By the Pro-
-ceeding in Presence, and by the Proceeding for the
+has been settled. And how settled ? By the Proceeding in Presence, and by the Proceeding for the
 consciously innocent. And what therein belongs to
 the Proceeding in Presence ? The presence of the
 Samgha, and the presence of the Dhamma, and
@@ -3088,8 +2541,7 @@ the particular person. And therein what is the
 presence of the Samgha (&c., as in § 16, down
 to the end) ? And what therein belongs to the
 Proceeding for the consciously innocent ? The
-carrying out of, the accomplishment of, the pro-
-ceeding by, the undertaking of, the acceptance of,
+carrying out of, the accomplishment of, the proceeding by, the undertaking of, the acceptance of,
 the pacification of the Proceeding for the consciously
 innocent 1 . That is what belongs herein to the
 Proceeding for the consciously innocent.’
@@ -3099,9 +2551,6 @@ in § 29.
 
 
 IV, 14, 2 9. the settlement of disputes.
-
-
-59
 
 
 28. [This section bears exactly the same relation
@@ -3137,14 +2586,9 @@ having been guilty of such and such a grievous
 
 
 1 This section again bears exactly the same relation to chapter
-11 as the previous ones have done to chapters 4 and 5 respec-
-tively . The outline of the form is the same, but as in the in-
-troductory part (containing the description of the offence) the
+11 as the previous ones have done to chapters 4 and 5 respectively . The outline of the form is the same, but as in the introductory part (containing the description of the offence) the
 present section is much fuller than the chapter to which it refeis,
 we prefer to give that part of this section in full.
-
-
-6o
 
 
 AULLAVAGGA.
@@ -3173,8 +2617,7 @@ of such and such a grievous offence — a Pelr&^ika
 offence, or one equivalent to a Pird^ika offence ?
 Come now, Sir, ascertain for certain whether you
 are conscious of having been guilty of such and such
-a grievous offence — a Parafika offence, or one equi-
-valent to a Pari^ika offence ? ” And he replies,
+a grievous offence — a Parafika offence, or one equivalent to a Pari^ika offence ? ” And he replies,
 “Yes, I am conscious, Sir, of having committed
 such and such an offence — a Parfffika offence, or
 6ne equivalent to a Para^ika offence. In sport did
@@ -3194,21 +2637,13 @@ offence ” for “ offence ”).
 IY, 14, 30.
 
 
-THE SETTLEMENT OF DISPUTES.
-
-
-6l
-
-
 ‘ This, O Bhikkhus, is called a legal question that
 has been settled. And how has it been settled ?
-By the Proceeding in Presence, and by the Pro-
-ceeding for those who are obstinate. And what,
+By the Proceeding in Presence, and by the Proceeding for those who are obstinate. And what,
 therein belongs to the Proceeding in Presence ?
 The Presence of the SaMgha (&c., as in $ 16). And
 what therein belongs to the Proceeding for those
-who are obstinate ? The carrying out of, the ac-
-complishment of, the proceeding by, the undertaking
+who are obstinate ? The carrying out of, the accomplishment of, the proceeding by, the undertaking
 of, the acceptance of, the pacification of the official
 act (the Kamma) by the Proceeding for those who
 are obstinate. That is what belongs therein to the
@@ -3233,8 +2668,7 @@ question arising out of offence, without recourse
 being had to the one mode of settlement — to wit,
 the Proceeding by covering over as with grass —
 may be settled by the other two modes — to wit, the
-Proceeding in Presence, and the Proceeding on con-
-fession of guilt?” he should be told, “Yes, it can.”
+Proceeding in Presence, and the Proceeding on confession of guilt?” he should be told, “Yes, it can.”
 If he should say, “How may that be ?” the answer
 should be as follows :
 
@@ -3245,9 +2679,6 @@ should be as follows :
 tfULLAVAGGA.
 
 
-IV, 14, 30.
-
-
 ‘ In case a Bhikkhu has been guilty of a minor
 offence. That Bhikkhu, O Bhikkhus, should go up
 to another Bhikkhu, and having arranged his upper
@@ -3256,8 +2687,7 @@ heels, and stretched forth his hands with the palms
 held together, should speak as follows : “ I, Sir, have
 been guilty of such and such an offence ; and that I
 confess.” He should say, “Do you acknowledge it?”
-“ Yes ; I acknowledge it.” “ May you restrain your-
-self in future 1 !”
+“ Yes ; I acknowledge it.” “ May you restrain yourself in future 1 !”
 
 ‘ This, O Bhikkhus, is called a legal question
 which has been settled. And how has it been
@@ -3275,9 +2705,7 @@ And what therein is the presence of the particular
 individual ? He who confesses, and he to whom he
 eonfesses, both are present. That is the presence
 of the particular individual in such a proceeding.
-And what therein belongs to the Proceeding on con-
-fession of guilt ? The carrying out of, the accom-
-plishment of, the proceeding by, the performance of,
+And what therein belongs to the Proceeding on confession of guilt ? The carrying out of, the accomplishment of, the proceeding by, the performance of,
 the acceptance of, the pacification of the official act
 (the Kamma) by the Proceeding on confession of
 
@@ -3289,11 +2717,7 @@ Compare V, so, g.
 IV, 14, 32* THE SETTLEMENT OF DISPUTES.
 
 
-63
-
-
-guilt. That is what belongs therein to the Pro-
-ceeding on confession of guilt.
+guilt. That is what belongs therein to the Proceeding on confession of guilt.
 
 ‘When a legal question, O Bhikkhus, has been
 thus settled, if a disputant re-open the question, such
@@ -3303,19 +2727,15 @@ re-opening is a Pa^ittiya 1 .
 well. If he should not receive it, that Bhikkhu, O
 Bhikkhus, should go up to a number of Bhikkhus,
 and having arranged his upper robe over one
-shoulder, and bowed down before the elder Bhik-
-khus, and squatted down on his heels, and stretched
+shoulder, and bowed down before the elder Bhikkhus, and squatted down on his heels, and stretched
 forth his two hands with the palms held together, he
 should speak as follows : “ I, Sirs, have been guilty
 of such and such an offence, and that I confess.”
 Then some discreet and able Bhikkhu should lay the
-matter before those Bhikkhus, saying, “ Let the vener-
-able ones hear me. This Bhikkhu, of such and such
+matter before those Bhikkhus, saying, “ Let the venerable ones hear me. This Bhikkhu, of such and such
 a name, is conscious of an offence ; and he discloses
 it, reveals it, confesses it. If the time seems meet
-to the venerable ones, I would absolve 2 that Bhik-
-khu’s offence.” And he should say, “ Do you ac-
-knowledge it?” “Yes; I acknowledge it.” “In
+to the venerable ones, I would absolve 2 that Bhikkhu’s offence.” And he should say, “ Do you acknowledge it?” “Yes; I acknowledge it.” “In
 future may you restrain yourself!”
 
 ‘This, O Bhikkhus, is called a legal question
@@ -3373,10 +2793,8 @@ presence of the particular individual in such a case.
 
 ‘And what therein belongs to the Proceeding by
 'covering over as with grass ? The carrying out of,
-the accomplishment of, the proceeding by, the per-
-formance of, the acceptance of, the pacification of the
-official act (the Kamma) by the Proceeding by cover-
-ing over as with grass. That is what belongs therein
+the accomplishment of, the proceeding by, the performance of, the acceptance of, the pacification of the
+official act (the Kamma) by the Proceeding by covering over as with grass. That is what belongs therein
 to the Proceeding by covering over as with grass.
 
 
@@ -3386,10 +2804,7 @@ course includes the plural, as the confession usually took place
 before a number of Bhikkhus.
 
 
-IV, 14 , 34> THE SETTLEMENT OF DISPUTES.
-
-
-65
+IV, 14 , 34) THE SETTLEMENT OF DISPUTES.
 
 
 ‘When a legal question, O Bhikkhus, has been
@@ -3405,14 +2820,7 @@ mode of settlement only — to wit, by the Proceeding
 in Presence.’
 
 
-End of the Fourth Khandhaka, on the Settle-
-ment of Legal Questions.
-
-
-66
-
-
-A'ULLAVAGGA.
+End of the Fourth Khandhaka, on the Settlement of Legal Questions.
 
 
 V, i, r.
@@ -3426,11 +2834,9 @@ On the Daily Life of the Bhikkhus.
 
 i. Now at that time the Blessed One was staying
 at Ri/agaha,in the Bamboo Grove, in the Kalandaka
-Nivapa. And at that time the AVzabbaggiya Bhik-
-khus, when bathing, used to rub 1 their bodies — thighs,
+Nivapa. And at that time the AVzabbaggiya Bhikkhus, when bathing, used to rub 1 their bodies — thighs,
 and arms, and breast, and back — against wood. The
-people were annoyed, murmured, and became indig-
-nant, saying, 1 How can the Sakyaputtiya Samaras
+people were annoyed, murmured, and became indignant, saying, 1 How can the Sakyaputtiya Samaras
 do so, like wrestlers, boxers, or shampooers 2 ?’ The
 Bhikkhus heard the people so murmuring, &c. ; and
 they told the matter to the Blessed One.
@@ -3448,15 +2854,11 @@ O Bhikkhus, what they say, that the A7zabbaggiya
 X, xo, 2, and at G&taka, vol. i, p. 190. It is the Sanskrit root
 gharsh.
 
-2 On malla-muz 7 ^ik& Buddhaghosa merely says mu//^ika-
-malla. His note on gama-poddava (already given by H. O.
+2 On malla-muz 7 ^ik& Buddhaghosa merely says mu//^ikamalla. His note on gama-poddava (already given by H. O.
 at p. 315 of the edition to the text) says, ‘town’s people given to
 adorning themselves by painting their skin’ (on which compare
 below, Y, 2, 5). But it is difficult to see how that fits in with the
 connection here.
-
-
-V, I, 3. ON THE DAILY LIFE OF THE BHIKKHUS. 67
 
 
 The Blessed Buddha rebuked them, saying, ‘This
@@ -3474,8 +2876,7 @@ a wall (&c., as in last section, down to the end).
 
 3. Now at that time the AV^abbaggiya Bhikkhus
 used to bathe on an A tt& 11 a (a sort of shampooing
-stand 1 ). The people (&c., as before). The Bhik-
-khus (&c., as before). Then the Blessed One (&c.,
+stand 1 ). The people (&c., as before). The Bhikkhus (&c., as before). Then the Blessed One (&c.,
 as before, down to) addressed the Bhikkhus, and
 said: ‘You are not to bathe, O Bhikkhus, on an
 A^ana. Whosoever does so, shall be guilty of
@@ -3508,9 +2909,6 @@ Buddhaghosa’s note loc. cit.
 F 2
 
 
-68
-
-
 STULLAVAGGA.
 
 
@@ -3532,8 +2930,7 @@ Mallaka not (artificially) made 2 .’
 weak through old age was not able to shampoo his
 own body.
 
-‘ I allow you, O Bhikkhus, the use of an Uk-
-kisika 3 .’
+‘ I allow you, O Bhikkhus, the use of an Ukkisika 3 .’
 
 Now at that time the Bhikkhus, (fearing to offend
 against these rules,) were afraid to shampoo one
@@ -3546,8 +2943,6 @@ shampooing with the hand 4 .’
 2 .
 
 1. Now at that time the AMabbaggiya Bhikkhus
-
-
 bodies up against each other’(!), vigay ha has heie probably nothing
 to do with g&h, but is simply vigrzhya.
 
@@ -3569,17 +2964,12 @@ is to us equally unintelligible.
 sabbesam hatthena piZ/Ai-parikammam katuw vaZ/ati (B.).
 
 
-Y, 2, 3. ON THE DAILY LIFE OF THE BHIKKHUS. 69
-
-
 used to wear ear-rings x , and ear-drops 1 2 , and strings
 of beads for the throat, and girdles of beads 3 , and
 bangles 4 , and necklaces 5 6 , and bracelets, and rings.
 
 The people murmured, &c The Bhikkhus
-
 heard, &c They told the Blessed One (&c M as
-
 in V, 1, 1, down to) he addressed the Bhikkhus,
 and said :
 
@@ -3599,23 +2989,16 @@ old, or two inches long.’
 ‘You are not, O Bhikkhus, to smooth 0 the hair
 
 
-1 Valhk& ti ka^;mto nikkhanta-mutt-olambakadinaw eta m adhi-
-vaZ’ana m. Na kevala?1 vallM eva, yaw km& ka««a-pilandha-
-na m antamaso t&la-pannaw pi na va//ati (B.). Compare sata-
-vallikaw at V, 29, 4.
+1 Valhk& ti ka^;mto nikkhanta-mutt-olambakadinaw eta m adhivaZ’ana m. Na kevala?1 vallM eva, yaw km& ka««a-pilandhana m antamaso t&la-pannaw pi na va//ati (B.). Compare satavallikaw at V, 29, 4.
 
-2 Pamanga. The meaning of which is not clear from Buddha-
-ghosa’s note loc. cit. It occurs also at Dipavawsa XII, 1, and
+2 Pamanga. The meaning of which is not clear from Buddhaghosa’s note loc. cit. It occurs also at Dipavawsa XII, 1, and
 below in Buddhaghosa’s note on maddavDza at V, 29, 2 (twice).
 
-3 Ka/i-suttakaw. This is not mentioned in the similar para-
-graph at V, 29, 2, where all special kinds of girdles are enume-
-rated. It is forbidden below to the Bhikkhums at X, 16.
+3 Ka/i-suttakaw. This is not mentioned in the similar paragraph at V, 29, 2, where all special kinds of girdles are enumerated. It is forbidden below to the Bhikkhums at X, 16.
 
 4 Ova//ika. This w T ord is explained by Buddhaghosa as the
 same as valayaw. Ova//iya occurs, apparently in a different
-sense, at Mahavagga VII, 1, 5, and the present word m Buddha-
-ghosa on sata-vallikaw at V, 29, 4.
+sense, at Mahavagga VII, 1, 5, and the present word m Buddhaghosa on sata-vallikaw at V, 29, 4.
 
 5 K&yui a, on wdiich Buddhaghosa, loc. cit., merely says that the
 meaning of this, and of the following "words, is e\ident. But the
@@ -3624,12 +3007,6 @@ giv&ya pilandhana-pasadhanaw.
 
 6 Osa^heti. Compare the Sanskrit jlaksh^ ay ati. The art
 of hair-dressing had, at the time when the Zullavagga was com-
-
-
-70
-
-
-iTULLAVAGGA.
 
 
 V, 2, 4-
@@ -3687,9 +3064,6 @@ Sittha-telaka at iTullavagga IV, 3, 1.
 Y, 2, 6. ON THE DAILY LIFE OF THE BHIKKHUS.
 
 
-71
-
-
 ‘You are not, O Bhikkhus, to anoint your faces,
 nor to rub (ointment, &c.) into your faces, nor to put
 chunam on your faces, nor to smear red arsenic on
@@ -3708,8 +3082,7 @@ mountain-top 3 at Rafagaha ; and the AAabbaggiya
 Bhikkhus went to see it.
 
 The people murmured, were annoyed, and became
-indignant, saying, ‘ How can the Sakyaputtiya Sa-
-maras go to see dancing, and singing, and music,
+indignant, saying, ‘ How can the Sakyaputtiya Samaras go to see dancing, and singing, and music,
 like those who are still enjoying the pleasures of the
 world ? ’ And they told this matter to the Blessed
 One.
@@ -3728,32 +3101,23 @@ vol. ii, p. 267).
 
 3 Giragga-sam a.gg a. Compare Dlpavawsa XXI, 32, and
 Mahavawzsa, p. 214, line 2. It occurs also m the Introductory-
-Story in the Sutta-vibhanga on the 37th Pa&ttiya, and Buddha-
-ghosa there explains it as follows: Giragga-sam a^o ti girimhi
+Story in the Sutta-vibhanga on the 37th Pa&ttiya, and Buddhaghosa there explains it as follows: Giragga-sam a^o ti girimhi
 agga-samaggo girissa va agga-dese samaggo. He is evidently m
 doubt about the word, which is probably connected with ancient
 local worship or custom, a worship in high-places, as little allied
 to Vedic Brahmanism as it was to Buddhism.
 
 
-72
-
-
 AULLAVAGGA.
-
-
-V, 3, 2.
 
 
 3 .
 
 1. Now at that time the WAabbaggiya Bhikkhus
-used to sing the Dhamma with the abrupt transi-
-tions of song-singing.
+used to sing the Dhamma with the abrupt transitions of song-singing.
 
 The people murmured, were annoyed, and became
-indignant, saying, 1 How can the Sakyaputtiya Sa-
-ma/zas [do so] ?’ The Bhikkhus heard (&c., as usual,
+indignant, saying, 1 How can the Sakyaputtiya Sama/zas [do so] ?’ The Bhikkhus heard (&c., as usual,
 down to) he addressed the Bhikkhus, and said :
 
 ‘ These five dangers, O Bhikkhus, befall him who
@@ -3763,8 +3127,7 @@ respect to the sound thereof. — Other people become
 captivated with respect to the sound thereof. — The
 laymen are shocked. — The meditation of one who
 strains after accuracy in the sound is broken. — The
-common people fall into heresy 2 . — These five dan-
-gers, O Bhikkhus, befall him who sings the Dhamma
+common people fall into heresy 2 . — These five dangers, O Bhikkhus, befall him who sings the Dhamma
 with the abrupt transitions of song-singing. The
 Dhamma is not, O Bhikkhus, to be sung [in that
 manner]. Whosoever does so, shall be guilty of a
@@ -3783,19 +3146,13 @@ at Aullavagga IX, 1,3.
 sung and not said is not intelligible to them — a complaint often
 made against the singing of prayers among Protestant Christians.
 On paHMmt ^anatS, compare the closing words of V, 21, 2 ;
-and on the rest of the phrase, Puggala III, 10, 14. The trans-
-lation of sarakuttisw is also very doubtful.
+and on the rest of the phrase, Puggala III, 10, 14. The translation of sarakuttisw is also very doubtful.
 
 s Sara-bha'/mam. So in the MaMvagga we hear that So»a
-
-
 v, 5. I.
 
 
 ON THE DAILY LIFE OF THE BHIKKHUS.
-
-
-73
 
 
 4.
@@ -3823,8 +3180,6 @@ them.
 
 Now Seniya Bimbisara, the king of Magadha,
 wanted a mango ; and he gave orders, saying, ‘ Go,
-
-
 intoned before the Buddha a chaptei from the Sutta Nipata The
 expression there used is sarena abhasi, of which ourword is used
 as the verbal noun, the roots b h a ra and bhas being not only
@@ -3838,9 +3193,6 @@ of prose passages as practised in our cathedral churches (Rh D.).
 1 Bahira-lomm-««»im. Litei ally, ‘ with the fleece outside.’
 Compare Mahavagga V, 10, 4, and the Ma°g/zima Sila, § 5 (p *93
 of Rh. D.’s 1 Buddhist Suttas ’).
-
-
-74
 
 
 STULLAVAGGA.
@@ -3861,8 +3213,7 @@ good friends, has need of a mango. Give us one ! ’
 have plucked even the young ones, and eaten
 them.’
 
-Then those men told the matter to Seniya Bim-
-bisara, the king of Magadha, and he said : ‘ The
+Then those men told the matter to Seniya Bimbisara, the king of Magadha, and he said : ‘ The
 mangoes have been well used, my good men, by the
 venerable ones. Notwithstanding it is moderation
 that has been exalted by the Blessed One.’
@@ -3870,12 +3221,9 @@ that has been exalted by the Blessed One.’
 The people murmured, were shocked, and were
 indignant, &c., saying, ‘ How can the Sakyaputtiya
 Samaras, knowing no moderation, use up the king’s
-mangoes ? ’ The Bhikkhus heard those men mur-
-muring, shocked, and indignant. Then those Bhik-
-khus told this matter to the Blessed One.
+mangoes ? ’ The Bhikkhus heard those men murmuring, shocked, and indignant. Then those Bhikkhus told this matter to the Blessed One.
 
-‘ You are not, O Bhikkhus, to eat mangoes. Who-
-soever does so, shall be guilty of a dukka^a.’
+‘ You are not, O Bhikkhus, to eat mangoes. Whosoever does so, shall be guilty of a dukka^a.’
 
 2. Now at that time it was the turn of a certain
 multitude to provide the Savzgha with a meal.
@@ -3891,9 +3239,6 @@ They did not get so far as to make (curry with) the
 peal, but went about in the dining-hall with whole
 mangoes. The Bhikkhus, fearing to offend, would
 not accept them.
-
-
-V, 6, X. ON THE DAILY LIFE OF THE BHIKKHUS. 75
 
 
 ‘Take them, O Bhikkhus, and eat. I allow you,
@@ -3915,31 +3260,23 @@ Blessed One.
 
 
 1 Buddhaghosa gnes in the Samanta Pasadika on the nth
-Pa&ttiya the following explanations of these terms. Aggi-pari-
-g-itan ti aggma parigitaw abhibhutaw 6 zddhz.ni phu///^an n attho.
+Pa&ttiya the following explanations of these terms. Aggi-parig-itan ti aggma parigitaw abhibhutaw 6 zddhz.ni phu///^an n attho.
 The reading pari^ita?^ is correct and should be inserted m the
 text for pari/fcita in.
 
-2 Sattha-parfgitan ti satthena pargitaw abhibhuta//* fchm-
-na m viddhaw \a ti attho. Esa nayo nakha-parigite (B., loc cit).
+2 Sattha-parfgitan ti satthena pargitaw abhibhuta//* fchmna m viddhaw \a ti attho. Esa nayo nakha-parigite (B., loc cit).
 
 3 These last two clauses have already occurred at Mahavagga
 VI, 2i. The principle of the injunction throughout its five
-divisions is one and the same— the seed, oi the capacity of fructi-
-fication, must either have never existed, or have passed away, or
+divisions is one and the same— the seed, oi the capacity of fructification, must either have never existed, or have passed away, or
 have been destroyed.
 
 4 This ancient legend has been expanded into a Gataka story,
 under the title of Khandha-vatta Gataka, No. 203 m Professor
 Fausbolfs edition (vol. 11. pp. 144-148), in which recur all the
 verses here given as a snake-charm. The names of the serpents
-are derived from the ancient mythology, and are not to be sup-
-posed to refer to actual breeds of real snakes. Below, /sTullavagga
-VI, 2, 5, where a Bhikkhu is bitten by a snake, the simple pre-
-caution enjoined is the use of a higher bedstead.
-
-
-76
+are derived from the ancient mythology, and are not to be supposed to refer to actual breeds of real snakes. Below, /sTullavagga
+VI, 2, 5, where a Bhikkhu is bitten by a snake, the simple precaution enjoined is the use of a higher bedstead.
 
 
 XULLAVAGGA.
@@ -3993,10 +3330,7 @@ fall into sin.
 Sutta I, 31, by which Buddhaghosa is so much perplexed.
 
 
-s I. ON THE DAILY LIFE OF THE BHIKKHUS. 77
-
-4 “ Infinite is the Buddha, infinite the Truth, infi-
-nite the Order. Finite are creeping things; snakes,
+4 “ Infinite is the Buddha, infinite the Truth, infinite the Order. Finite are creeping things; snakes,
 scorpions and centipedes, spiders and lizards, rats
 and mice.
 
@@ -4022,17 +3356,14 @@ that foolish fellow has cut off another! You are
 1 This is only one of the many passages from which it is
 evident that in the oldest Buddhism only the seven Buddhas, from
 Vipassi down to Gotama inclusive, were known by name to the
-members of the Buddhist community. Compare Rh. D.’s ‘Hib-
-beit Lectures, 1881/ p. 142. It is nevertheless probable that,
+members of the Buddhist community. Compare Rh. D.’s ‘Hibbeit Lectures, 1881/ p. 142. It is nevertheless probable that,
 with their ideas as to the infinite number of worlds which had
 succeeded one another in the past, they considered that the
 number of previous Buddhas had also been infinite.
 
 2 This last injunction, which comes in here so tamely, is omitted
 in the Gi taka story, and is merely a hook on which to hang an
-excuse for introducing this ancient and evidently favourite pre-
-scription into the Vinaya. That it is quite out of place & suffi-
-ciently evident from the fact that it has already been laid down in
+excuse for introducing this ancient and evidently favourite prescription into the Vinaya. That it is quite out of place & sufficiently evident from the fact that it has already been laid down in
 identical terms in the Mahavagga VI, 14, 4, where it is found in
 its natural connection.
 
@@ -4041,17 +3372,13 @@ anabhirati is constantly referred to, and always as the result of
 falling in love, or in connection with sexual desire.
 
 
-73
-
-
 ■fiTULLAVAGGA.
 
 
 y, 8, i.
 
 
-not, O Bhikkhus, to castrate yourselves. Whoso-
-ever does so, shall be guilty of a thulla^/kaya.’
+not, O Bhikkhus, to castrate yourselves. Whosoever does so, shall be guilty of a thulla^/kaya.’
 
 
 8 l .
@@ -4079,12 +3406,10 @@ Rafagaha, and said to him, ‘1,0 householder, am
 Bishop Bigandet in his c Legend of the Burmese Buddha/ vol. ii,
 pp. 212-216 (Third Edition).
 
-2 A^andana-gazz/M uppanna hoti ti £andana-gha//ik& up-
-panna, hoti (B.). Compare ga;z/^ika at Gataka I, i5o=ga^ika at
+2 A^andana-gazz/M uppanna hoti ti £andana-gha//ik& uppanna, hoti (B.). Compare ga;z/^ika at Gataka I, i5o=ga^ika at
 ibid. II, 124, and our note below on that woid at V, 29, 3.
 
-3 Lekhazzz. It is clear fiom V, 9, 2, below, and Buddha-
-ghosa's note there, that likhituzzz is used in the sense of ‘to plane *
+3 Lekhazzz. It is clear fiom V, 9, 2, below, and Buddhaghosa's note there, that likhituzzz is used in the sense of ‘to plane *
 or ‘ to adze ’ wood or metal , and the Sinhalese MSS. read here
 likhawz instead of lekhaz/z. It cannot be ‘to turn/ as the turning
 lathe is quite a modern invention,
@@ -4092,13 +3417,7 @@ lathe is quite a modern invention,
 * A similar proceeding is related of a Bhikkhu at 24, 1.
 
 
-V, 8,1.
-
-
 ON THE DAILY LIFE OF THE BHIKKHUS.
-
-
-79
 
 
 an Arahat and possessed of Iddhi. Give me the
@@ -4108,8 +3427,7 @@ bowl.’
 Iddhi, let your reverence get down the bowl 1 ’
 
 Then Makkhali Gosala, and Ajdta Kesa-kambali,
-and Pakudha KaMayana, and Sawgaya Bela///n-
-putta, and Niga«b£a Nata-putta went severally to
+and Pakudha KaMayana, and Sawgaya Bela///nputta, and Niga«b£a Nata-putta went severally to
 the Sett/n of Ragagaha, [and preferred the same
 request, and received the same reply.]
 
@@ -4123,7 +3441,7 @@ Moggallana is both an Arahat and possessed of
 Iddhi. Go, friend Moggallana, and fetch down this
 bowl, for this bowl belongs to thee.’
 
-‘ The venerable Pi« fola Bharadvaga also is both
+‘ The venerable Pi«(fola Bharadvaga also is both
 an Arahat and possessed of Iddhi. Go, friend
 Bharadvaga, and fetch down the bowl, for this bowl
 belongs to thee.’
@@ -4142,25 +3460,16 @@ venerable Bharadva^a, and filled it with costly food,
 and presented it to the venerable Bharadvaga. And
 
 
-8o
-
-
 •XTULLAVAGGA.
 
 
-V, 8, 2.
-
-
-the venerable Bharadva^a took the bowl, and de-
-parted to his Arama.
+the venerable Bharadva^a took the bowl, and departed to his Arama.
 
 2. Now the people heard, ‘ The venerable Pmdola.
 Bharadvafa, they say, has got down the Ragagaha
 Se#/zi’s bowl.’ And those people, with shouts loud
-and long, followed in the steps of Pi?zzfola Bhirad-
-v&ga. And the Blessed One heard the shouts loud
-and long-, and on hearing them he asked the vene-
-rable Ananda, ‘ What now, Ananda, does this so
+and long, followed in the steps of Pi?zzfola Bhiradv&ga. And the Blessed One heard the shouts loud
+and long-, and on hearing them he asked the venerable Ananda, ‘ What now, Ananda, does this so
 great shouting mean ? ’
 
 ‘ The venerable Pmtfola Bharadvd^a, Lord, has
@@ -4199,8 +3508,7 @@ V, 9 , x. ON THE DAILY LIFE OF THE BHIKKHUS.
 8 1
 
 
-wooden pot displayed before the laity the super-
-human quality of your miraculous power of Iddhi.
+wooden pot displayed before the laity the superhuman quality of your miraculous power of Iddhi.
 This will not conduce, Bhiradv&^a, either to the
 conversion of the unconverted, or to the increase of
 the converted ; but rather to those who have not
@@ -4229,8 +3537,6 @@ The people murmured (&c., as usual, down to)
 They told this matter to the Blessed One.
 
 ‘You are not, O Bhikkhus, to use bowls made
-
-
 vagga was composed. The word occurs also below at ^Tullavagga
 XII, i, i.
 
@@ -4245,13 +3551,7 @@ closing words of Mahavagga VI, it.
 [20] G
 
 
-82
-
-
 STULLAVAGGA.
-
-
-V, 9, 2.
 
 
 of gold, or made of silver, or set with jewels, or
@@ -4267,7 +3567,7 @@ of the bowls wore out 3 * .
 
 They told this matter to the Blessed One.
 
-‘ I allow > 7 ou, O Bhikkhus, to use circular (pieces
+‘ I allow ) 7 ou, O Bhikkhus, to use circular (pieces
 of metal) as the supports for your bowls.’
 
 Now at that time the W/5abbaggiya Bhikkhus
@@ -4287,8 +3587,7 @@ century a. n., that at that time Vairfurya meant ‘cat’s-eye.’ But
 it is uncertain whether that was the only meaning of the word
 ve/uriya at the time when this passage was composed. (See
 especially V. 124, p. 25, of Dr. Richard Garbe’s edition in his
-work, ‘ Die Indischen Minerahen,’ Leipzig, T882.) See also Pro-
-fessor Max Mtiller’s interesting note at p. 2 66 of his ‘What can
+work, ‘ Die Indischen Minerahen,’ Leipzig, T882.) See also Professor Max Mtiller’s interesting note at p. 2 66 of his ‘What can
 India teach us ? ’
 
 2 Ka/eamayo. There was probably no glass in our modern
@@ -4299,11 +3598,8 @@ together with all the others in this passage, at Mahavagga V, 8, 3,
 of foot-coverings, but is omitted in the list atKhudda Sikkha V. 10.
 
 3 Ghawsiyati. Literally, ‘were rubbed.’ See below, § 3, and
-
 our note below on V, 9, 2, 4.
 
-
-V, 9 , 2. ON THE DAILY LIFE OF THE BHIKKHUS. 83
 
 so, shall be guilty of a dukka^a. I allow you,
 O Bhikkhus, two kinds of circular supports to your
@@ -4328,12 +3624,10 @@ walk about the streets exhibiting them.
 People murmured (&c., down to) They told this
 matter to the Blessed One.
 
-‘You are not, O Bhikkhus, to have painted cir-
-cular supports to the bottoms of your bowls, covered
+‘You are not, O Bhikkhus, to have painted circular supports to the bottoms of your bowls, covered
 
 
-1 A££Mpiyanti On the use of this word, compare Maha-
-vagga VIII, 14, 1, where it is used of inserting a slip of cloth m a
+1 A££Mpiyanti On the use of this word, compare Mahavagga VIII, 14, 1, where it is used of inserting a slip of cloth m a
 torn garment.
 
 2 See our note above on V, 8, 1. Buddhaghosa says here
@@ -4420,9 +3714,6 @@ v, 9, 4.
 ON THE DAILY LIFE OF THE BHIKKI-IUS.
 
 
-85
-
-
 4. Now at that time a number of bowls were left
 in the open air without supports ; and the bowls
 were turned over by a whirlwind 1 , and broke.
@@ -4469,15 +3760,9 @@ the text. See also Khudda Sikkha V. 7.
 scented earth or dried cowdung. See JTullavagga VI, 17, 1, and
 Buddhaghosa’s note there. On the use of the word in tailoring, see
 Mahavagga VII, 1, 5, VIII, 21. Buddhaghosa, loc. cit. (p. 317),
-uses the expression mattika-paribha?/ fa-kataya-bhumiya.
+uses the expression mattika-paribha?/(fa-kataya-bhumiya.
 
 4 Nikkug-ganti. See the use of this word at V, 20, 3.
-
-
-36
-
-
-iTULLAVAGGA.
 
 
 V, 9, 4-
@@ -4507,8 +3792,7 @@ broken.
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, the use of a wicker-
-work stand V
+‘ I allow you, O Bhikkhus, the use of a wickerwork stand V
 
 On the wicker-work stand the bowls wore out.
 
@@ -4525,29 +3809,23 @@ a layer, of grass is clear from its use at (rataka I, 360, and below,
 v . 3 -
 
 2 .ATblaka. The meaning of the word is doubtful, but see
-Mahavagga VIII, 18. In the uddana (at p. 143) the correspond-
-ing word is £ola. See also below, VI, 3, 1, VI, 19, VI, 20, 2.
+Mahavagga VIII, 18. In the uddana (at p. 143) the corresponding word is £ola. See also below, VI, 3, 1, VI, 19, VI, 20, 2.
 
 3 Patta-ma/aka w. Buddhaghosa says merely, ‘It should be
 made either of bricks or of wood.’ He confirms the reading of the
 text (with l as against Childers’s reading malako).
 
-4 Patta-ka» folika ti maha-mukha-ku;z(fa-sa?z/Mnfi bhandak-
-ukkha/ika vuK'ati (B.). Ka«ifola is a wicker-work basket; see
+4 Patta-ka»(folika ti maha-mukha-ku;z(fa-sa?z/Mnfi bhandakukkha/ika vuK'ati (B.). Ka«ifola is a wicker-work basket; see
 
 Bdhtlingk-Roth, sub voce.
 
 6 See H. O.’s note on the reading here ; and compare the table
-of contents to this chapter (at p. 143), where the reading awsa-
-baddhawz confirms the suggested alteration. If there were any
+of contents to this chapter (at p. 143), where the reading awsabaddhawz confirms the suggested alteration. If there were any
 
-
-V, 9, 5- ON THE DAILY LIFE OF THE BHIKKHUS. 87
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, the use of a shoulder-
-strap (by which to carry the bag), or of a piece
+‘ I allow you, O Bhikkhus, the use of a shoulderstrap (by which to carry the bag), or of a piece
 of string (by which to tie it on).’
 
 5. Now at that time the Bhikkhus hung up their
@@ -4596,12 +3874,6 @@ both w’ords must be referred to the root mush, as he po.nts out at
 p. 618 of his Dictionary.
 
 
-88
-
-
-iTULLAVAGGA.
-
-
 V, io 5 i.
 
 
@@ -4640,8 +3912,7 @@ round for alms, carrying water-jugs made out of
 gourds 1 2 , or water-pots 3 .
 
 
-1 Kava/a^z pa^^metv^. The construction of doors is de-
-scribed in detail at V, 14, 3, with reference to the bath-house, and
+1 Kava/a^z pa^^metv^. The construction of doors is described in detail at V, 14, 3, with reference to the bath-house, and
 again at VI, 2. That pa^ameti is to open, and not to shut, is
 clear from VIII, 1, 1, just as patta in pa^ameti at VIII, 5, 2 is
 to uncover, disclose, the bowl. Compare Khuddha Sikkhsl V. 8.
@@ -4654,9 +3925,6 @@ is repeated in the text of each kind of vessel.
 
 
 v, 10, 3-
-
-
-ON THE DAILY LIFE OF THE BHIKKHUS. 89
 
 
 People murmured, were shocked, and indignant,
@@ -4679,8 +3947,7 @@ him, and was afraid, and made an outcry 1 , saying,
 
 People murmured, were shocked, and indignant,
 saying, ‘ How can the Sakyaputtiya Samaras carry
-about bowls made out of skulls, as the devil-wor-
-shippers 2 do ? ’
+about bowls made out of skulls, as the devil-worshippers 2 do ? ’
 
 They told this matter to the Blessed One.
 
@@ -4688,14 +3955,12 @@ They told this matter to the Blessed One.
 out of skulls. Whosoever does so, shall be guilty
 of a dukka/a. And you are not, O Bhikkhus, to
 take a vow to wear or to use nothing except what
-you procure from dust-heaps or cemeteries. Who-
-soever does so, shall be guilty of a dukka^a.’
+you procure from dust-heaps or cemeteries. Whosoever does so, shall be guilty of a dukka^a.’
 
 3. Now at that time the Bhikkhus carried out
 odd bits, and bones, and dirty water 3 in their bowls.
 
-People murmured, were shocked, and were in-
-dignant, saying, ‘ The very vessel out of which
+People murmured, were shocked, and were indignant, saying, ‘ The very vessel out of which
 
 
 1 Vissarawakasi, on the use of which idiom see the passages
@@ -4704,14 +3969,7 @@ quoted below, Aullavagga VIII, i, i.
 2 Pisi^illikl See below, 27, 5, and Mahavagga III, 12, 3.
 
 3 This list recurs in the Old Commentary on the 10th Pa&ttiya
-in the Bhikkhum-vibhanga, As an explanation of v i g h & s a, B uddha-
-ghosa says here uW^ittodakan ti mukha-vikkMlanodaka//2.
-
-
-90
-
-
-iTULLAVAGGA.
+in the Bhikkhum-vibhanga, As an explanation of v i g h & s a, B uddhaghosa says here uW^ittodakan ti mukha-vikkMlanodaka//2.
 
 
 V, IX, I-
@@ -4723,8 +3981,7 @@ a waste- tub !’
 They told this matter to the Blessed One.
 
 ‘You are not, O Bhikkhus, to carry out odd bits,
-and bones, and dirty water in your bowls. Whoso-
-ever does so, shall be guilty of a dukka/a. I allow
+and bones, and dirty water in your bowls. Whosoever does so, shall be guilty of a dukka/a. I allow
 you, O Bhikkhus, the use of a waste-tub V
 
 
@@ -4750,7 +4007,6 @@ bits. It is so used below at VIII, 4, 4.
 
 2 Vipa/etva. The three MSS. read vippadetvsi, the same
 ^corrected to vipphadetva, and vipphametvdL M for L is a
-
 common mistake in Sinhalese MSS., and the correct reading may
 possibly be vipphaletva, if it is not vippha/etvl, as suggested
 in H. O/s note, vol. v, p. 259.
@@ -4768,9 +4024,6 @@ at V, 11, 3, and da^a-pariss&vanazra at V, 13, 3.
 
 
 V, II, 2. ON THE DAILY LIFE OF THE BHIKKHUS.
-
-
-91
 
 
 ‘ I allow you, O Bhikkhus, the use of a blade
@@ -4801,8 +4054,7 @@ They told this matter to the Blessed One.
 
 The needles got blunted 3 .
 
-‘ I allow you, O Bhikkhus, the use of a needle-
-case made of bamboo V
+‘ I allow you, O Bhikkhus, the use of a needlecase made of bamboo V
 
 Even in the needle-cases the needles became blunt.
 
@@ -4817,16 +4069,9 @@ a VMra at Mahavagga I, 25, i5==/sfullavagga VIII, 1, 3, and
 pa^su-kit^ occurs just below in our present passage. Compaie
 also the note on vika^aw in the following section.
 
-3 Su/<:i-na/ika;?2. On these needle-cases compare the Intro-
-ductory Story to the 20th Cr&taka. It is Pa&ttiya to have them
+3 Su/(:i-na/ika;?2. On these needle-cases compare the Introductory Story to the 20th Cr&taka. It is Pa&ttiya to have them
 made of ivory, horn, or bone. (80th Pa&ttiya, but they are there
 called Su&-ghara//z.)
-
-
-92
-
-
-iTULLAVAGGA.
 
 
 v, ti, 3 -
@@ -4872,8 +4117,7 @@ They told this matter to the Blessed One.
 
 3 Saritakanti pasana-ziu^wara vuMati (B.).
 
-4 Madhu-sitthakena s&retun ti madhu-sitthakena makkhe-
-tu»z (B.).
+4 Madhu-sitthakena s&retun ti madhu-sitthakena makkhetu»z (B.).
 
 5 The use of this gum foi medicine purposes is allowed at
 Mahavagga VI, 7, where see our note. The present use is again
@@ -4881,19 +4125,13 @@ mentioned below, V, 27, x.
 
 6 Sarita-sibba/ikan ti madhu-sitthaka-pilotikast (B.).
 
-7 Vikawwawz hoti. See the note on this expression at Maha-
-vagga VI, 21, x. The ‘robes’ were lengths of cloth, and ‘ out of
+7 Vikawwawz hoti. See the note on this expression at Mahavagga VI, 21, x. The ‘robes’ were lengths of cloth, and ‘ out of
 shape’ (vikawwaw) must mean either that one side was larger
 than the other, so that each corner (ka««o) was not a right angle,
 or perhaps that each edge (ka mo) was not straight.
 
 8 What K. a/Ain a may mean in this connection is not exactly
-
-
 v, ir, 3.
-
-
-ON THE DAILY LIFE OF THE BHIKKHUS. 93
 
 
 and that you are to sew the robes together after
@@ -4918,10 +4156,7 @@ doubling or a binding along the edge 2 .
 
 The KaMina was not large enough 3 .
 
-‘ I allow you, O Bhikkhus, the use of a dan da-
-
-
-clear to us, but it is evidently a sort of framewoik, or bench* for
+‘ I allow you, O Bhikkhus, the use of a dan daclear to us, but it is evidently a sort of framewoik, or bench* for
 the tailors to lay out their work upon. Our notes above on the
 1st Nissaggiya and on Mah&vagga VII, i, 3, refer to a diffeient
 and secondary use of the word in the Ka/hna ceremonies —
@@ -4933,8 +4168,7 @@ nissem pi tattha atthanta-kaZasaraka-kilafUanaw annataxam pi
 ka/Mnam vu^ati yaya dupaZZa-^iVara m sibbenti kaZ&ne kivaram pi^
 bandhanti. On DupaZZa, see Mahavagga VIII, 14, 1.
 
-The use of obandhitva (m reference to the KaZ^ina), in oppo-
-sition to sambandhitva (m reference to the mere stakes), is
+The use of obandhitva (m reference to the KaZ^ina), in opposition to sambandhitva (m reference to the mere stakes), is
 worthy of notice.
 
 1 Paribhi^ati. Perhaps we should translate, c did not hold
@@ -4945,11 +4179,7 @@ VIII, 21, ATullavagga V, 9, 4, VI, 17, 1, XI, 1, 14, and our
 notes there.
 
 3 YLathxnam na ppahoti ti dighassa bhikkhuno pama^ena
-kata m \athmam tattha rassassa bhikkhuno kivaram patthariya-
-mana m na ppahoti anto yeva hoti (B.).
-
-
-94
+kata m \athmam tattha rassassa bhikkhuno kivaram patthariyamana m na ppahoti anto yeva hoti (B.).
 
 
 JSTULLAVAGGA.
@@ -4962,8 +4192,7 @@ kaZ/zina 1 , of a pidalaka 1 , of a ticket, of binding
 strings, and of binding threads 2 ; and that you sew
 your robes together after binding them therewith.'
 
-The interstices between the threads became irre-
-gular in length 3 .
+The interstices between the threads became irregular in length 3 .
 
 f I allow you, O Bhikkhus, the use of little marks
 (of the leaf of the talipot palm, or such-like things) 4 /
@@ -4991,10 +4220,9 @@ guilty of a dukkaZa/
 1 On these terms, which we do not attempt to translate, see
 Buddhaghosa’ s notes as quoted by H. O. at p. 317 of the edition
 of the text. The first seems to be a Ka/^ina with a cross-bar,
-but da/z /a at V, n, 1, and V, 13, 3, means handle.
+but da/z(/a at V, n, 1, and V, 13, 3, means handle.
 
-2 Vinandhana-ra^ujw vinandhana-suttakazrc. SeeBud-
-dhaghosa’s notes loc. cit., and compare Mah&vagga V, n.
+2 Vinandhana-ra^ujw vinandhana-suttakazrc. SeeBuddhaghosa’s notes loc. cit., and compare Mah&vagga V, n.
 
 8 Visama honti ti kiki khuddaM honti ka& mahant& (B.).
 Sutta here probably means those threads or strings just referred to
@@ -5009,9 +4237,6 @@ thread/ Compare also our notes 2 and 3 on Mahavagga VII,
 
 6 The whole section is repeated in the text at length for each of
 these three cases.
-
-
-V, li, 5 - ON THE DAILY LIFE OF THE BHIKKHUS. 95
 
 
 their robes, held the stuff with their fingers, and
@@ -5056,18 +4281,14 @@ They had no shoulder-strap.
 
 1 Pa/iggaho, ‘ receptacle 5 for the finger. See our note above
 on V, io, 3, where the same word means a waste-tub. For other
-secondary uses of the word, see Pataka I, 146, II, 9, 26. Buddha-
-ghosa says here, pa/iggahan ti ahguli-kosakazra.
+secondary uses of the word, see Pataka I, 146, II, 9, 26. Buddhaghosa says here, pa/iggahan ti ahguli-kosakazra.
 
 2 So of ointment-boxes, Mahavagga VII, 12, 1 ; and of scissors,
 above, V, n, 1.
 
-3 Asevana-(sic)vitthaka?# nama >a m km& pati-^ango/akadi
+3 Asevana-(sic)vitthaka?# nama )a m km& pati-^ango/akadi
 
 (B.).
-
-
-96
 
 
 ifULLAVAGGA.
@@ -5078,8 +4299,7 @@ V, ix, 6.
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, the use of a shoulder-
-strap, or of a piece of string, to tie the bags on
+‘ I allow you, O Bhikkhus, the use of a shoulderstrap, or of a piece of string, to tie the bags on
 with 1 .’
 
 6 2 . Now at that time the Bhikkhus, when sewing
@@ -5131,9 +4351,6 @@ VI, 3, 3-
 5 Alambana-Mhaffz. At Maha-sudassana Sutta I, 59, there is
 
 
-V, II, 7 * ON THE DAILY LIFE OF THE BHIKKHUS. 97
-
-
 Straw and plaster fell (from the walls and roof)
 into the Ka/^ina-halL
 
@@ -5158,8 +4375,7 @@ The KaMina came to pieces.
 
 
 a description of flights of stairs (sopana), each of which had
-thambha, evidentl) posts or bamsteis, suAivo, apparently cross-
-bars let in to these banisters; and unhisa/w, either a head-line
+thambha, evidentl) posts or bamsteis, suAivo, apparently crossbars let in to these banisters; and unhisa/w, either a head-line
 running along the top of the banisters, or a figure-head at the
 lower end of such a head-ime (See Rh. D.'s ‘Buddhist Suttas,
 p. 262.) This and the previous paragraphs are repeated below,
@@ -5174,17 +4390,12 @@ confirmed by VI, 3, 1, VI, 17, 1, where the two previous words
 also occur. On this mode of preparing walls and floors, see our
 note below r on VI, 20.
 
-3 Pafi/£a-pa/ikaw or -pa///ukara a term of doubtful signi-
-fication which recurs, together with all the previous words, 111 the
-Old Commentary on the 19th Pa&ttiya. Compare pafiAa-
-prastha in B R. The w r ord is perhaps however connected with
+3 Pafi/£a-pa/ikaw or -pa///ukara a term of doubtful signification which recurs, together with all the previous words, 111 the
+Old Commentary on the 19th Pa&ttiya. Compare pafiAaprastha in B R. The w r ord is perhaps however connected with
 Sanskrit pa//ika, as ^ela-pattikam at V, 21, 2 undoubtedly is.
 It occurs below', in a similar connection, at VI, 3. 1,
 
 [20] H
-
-
-98
 
 
 •XTULLAVAGGA.
@@ -5217,8 +4428,7 @@ of the wall, or on a hook 2 .’
 Ra^'agaha as long as he thought fit, set out on his
 journey toward Vesalt 3 4 .
 
-Now at that time the Bhikkhus went along, carry-
-ing their needles and scissors and drugs in their
+Now at that time the Bhikkhus went along, carrying their needles and scissors and drugs in their
 bowls.
 
 They told this matter to the Blessed One.
@@ -5239,21 +4449,16 @@ privileges in this and the next chapter (§§ i, 2) were to be m force
 when the Bhikkhus were on a journey.
 
 4 Neither here nor in V, 11, 5 are we to understand that the
-needles and scissors are to be carried m bags. They are men-
-tioned in both passages merely to show the inconvenience of having
+needles and scissors are to be carried m bags. They are mentioned in both passages merely to show the inconvenience of having
 no separate receptacles for the thimbles and the drugs.
 
 
 T, i3» 1 -
 
 
-ON THE DAILY LIFE OF THE BHIKKHUS. 99
-
-
 They had no shoulder-strap.
 
-£ I allow you, O Bhikkhus, the use of a shoulder-
-strap \ or of a string to tie the bags on with/
+£ I allow you, O Bhikkhus, the use of a shoulderstrap \ or of a string to tie the bags on with/
 
 Now at that time a certain Bhikkhu tied his
 sandals on to his girdle, and then entered the village
@@ -5269,8 +4474,7 @@ carry your sandals in/
 
 They had no shoulder-strap.
 
-£ I allow you, O Bhikkhus, the use of a shoulder-
-strap, or of a string to tie the bags on with/
+£ I allow you, O Bhikkhus, the use of a shoulderstrap, or of a string to tie the bags on with/
 
 
 13 .
@@ -5305,8 +4509,6 @@ IQO
 
 XULLAVAGGA.
 
-
-V, 13, 2.
 
 ‘ I allow you, O Bhikkhus, the use of a strainer
 fixed on to a ladle 1 .’
@@ -5364,19 +4566,16 @@ would you not lend it ? ’
 
 ‘ It is even so, Sirs.’
 
-Those Bhikkhus who were moderate were an-
-noyed and vexed, and murmured, saying, ‘ How can
+Those Bhikkhus who were moderate were annoyed and vexed, and murmured, saying, ‘ How can
 a Bhikkhu, when asked for his strainer, refuse to
 lend it V And they told this matter to the Blessed
 One.
 
 Then the Blessed One on that occasion and in
 that connection (&c., as usual, see for instance in
-Wullavagga I, i, 2, down to) addressed the Bhik-
-khus, and said :
+Wullavagga I, i, 2, down to) addressed the Bhikkhus, and said :
 
-‘ A Bhikkhu who is on a journey is not, O Bhik-
-khus, to refuse to lend his strainer, when he is asked
+‘ A Bhikkhu who is on a journey is not, O Bhikkhus, to refuse to lend his strainer, when he is asked
 for it. Whosoever does so, shall be guilty of a
 dukka^a. And (a Bhikkhu who is) not provided
 with a strainer, O Bhikkhus, is not to undertake a
@@ -5396,7 +4595,6 @@ building 2 ; and the strainer did not act 3 .
 o 3
 
 1 Adhi/Matabbo, that is, the Bhikkhu is to determine in his
-
 mind that that part of his lobe is a stiamer for the time,
 
 3 Navakamma^ karonti. On the use of this and allied
@@ -5406,9 +4604,6 @@ Senart’s KaMayana, p 189.
 
 3 Na sammati, which is curious. For ‘did not suffice, ’ the
 standing expiession w r ould be na ppahoti.
-
-
-102
 
 
 ivULLAVAGGA.
@@ -5429,8 +4624,7 @@ by mosquitoes.
 
 They told this matter to the Blessed One.
 
-‘ I allow, O Bhikkhus, the use of mosquito cur-
-tains V
+‘ I allow, O Bhikkhus, the use of mosquito curtains V
 
 
 14 .
@@ -5446,11 +4640,9 @@ Now dvaka Komarabha^a went to Vesali on
 
 1 Da^ia-paiissavana^. Apparently a long box, both ends
 of which strain the water, which is poured into the middle by
-means of a pipe (da^aka). Buddhaghosa says, Da« /a -parish-
-van an ti (sic; only one s) raganak&nazra khaza-paris&vana?# viya
+means of a pipe (da^aka). Buddhaghosa says, Da«(/a -parishvan an ti (sic; only one s) raganak&nazra khaza-paris&vana?# viya
 £atusu padesu baddha-nise^ikiya s&/aka m bandhitva ma^e da n~
- /ake udaka#2 &smiitabba7?2. Tam ubhohi ko//Msehi puretva pari-
-savati. Compare da^a-satthakaw and da^c/a-kathinaw,
+(/ake udaka#2 &smiitabba7?2. Tam ubhohi ko//Msehi puretva parisavati. Compare da^a-satthakaw and da^c/a-kathinaw,
 above, V, n, b, 3.
 
 2 Ottharaka;# narna ya m udake ottharitva gha/akena udakaw
@@ -5460,20 +4652,13 @@ ga^hanti (B.).
 
 3 XJbb&IkL See Mahavagga III, 9, 1-4, and trataka I, 300.
 
-4 Makasa-ku/ika ti /dvara-ku/ika (B.). Literally, a ‘mos-
-
-quito hut,’ the walls of which are to be of cloth.
+4 Makasa-ku/ika ti /dvara-ku/ika (B.). Literally, a ‘mosquito hut,’ the walls of which are to be of cloth.
 
 6 Abhisannak&ya ti semhadi-dos’-ussanna-Myd (B.). This
-word has already occurred at Mahavagga VI, 14, 7, where Buddha-
-ghosa's explanation is much the same. See also Mahavagga
-VIII, 1, 30.
+word has already occurred at Mahavagga VI, 14, 7, where Buddhaghosa's explanation is much the same. See also Mahavagga
 
 
-V, 14, X. ON THE DAILY LIFE OF THE BHIKKIIUS. IO3
-
-some business or other. And on seeing the Bliik-
-khus very sick with superfluity of humors, he went
+some business or other. And on seeing the Bliikkhus very sick with superfluity of humors, he went
 up to where the Blessed One was ; and when he
 had come there, he saluted the Blessed One and
 took his seat on one side. And when so seated he
@@ -5481,8 +4666,7 @@ said to the Blessed One : ‘ The Bhikkhus, Lord, are
 now very sick with superfluity of humors. It would
 be well if the Blessed One were to prescribe, Lord,
 for the Bhikkhus the use of the cloister 1 2 and of the
-bath-room Thus will the Bhikkhus become con-
-valescent/
+bath-room Thus will the Bhikkhus become convalescent/
 
 Then the Blessed One instructed, and aroused,
 and incited, and gladdened dnvaka Kom&rabhay&fia
@@ -5491,9 +4675,7 @@ so instructed, and incited, and aroused, and gladdened
 with religious discourse, arose from his seat and
 saluted the Blessed One, and keeping him on his
 right hand as he passed him, departed thence. And
-the Blessed One, on that occasion and in that con-
-nection, convened an assembly of the Bhikkhu-
-sa;#gha, and addressed the Bhikkhus, and said, I
+the Blessed One, on that occasion and in that connection, convened an assembly of the Bhikkhusa;#gha, and addressed the Bhikkhus, and said, I
 
 
 1 ATankama. A straight piece of ground cleaied and levelled
@@ -5511,12 +4693,6 @@ scarcely would have made vessels large enough to contain a man.
 It rather seems that they sat on stools close to a large hre, and
 had water poured over them. The use of this kind of bath is
 forbidden to the Bhikkhunis at A'uliavagga X, 27, 4.
-
-
-104
-
-
-A'ULLAVAGGA.
 
 
 V, Mi 2-
@@ -5555,8 +4731,7 @@ stairs.’
 
 As they were going up them, they fell off.
 
-‘ I allow you, O Bhikkhus, the use of a balus-
-trade.’
+‘ I allow you, O Bhikkhus, the use of a balustrade.’
 
 Now at that time the Bhikkhus, when walking up
 and down in the cloister, fell down.
@@ -5618,31 +4793,22 @@ door-posts and lintel 1 2 , with hollows like a mortar
 
 2 Pi// 7 ^a-sa^gha/a^. See Childers under sangha/a, and
 the Samanta Pasadika on the 19th Pa&ttiya. Kava/a-pi//^a
-
 occurs m Mahavagga I, 25, 15, and m the Samanta Pasadika on
 Pa&ttiya 19 (compare upari-pi///$iti at JVullavagga Till, 1, 1),
-
-and this and the two following phrases below, VI, 2 1. Buddha-
-
-ghosa has nothing on them, either here or there; and they were
-
+and this and the two following phrases below, VI, 2 1. Buddhaghosa has nothing on them, either here or there; and they were
 probably therefore in quite common use even in his day The
-
 whole of this paragraph recurs below, VI, 3, 7.
 
 8 Udukkhalikaw. Presumably the door had no hinges, but
-the upper and lower ends of one side projecred into hollows pre-
-pared for them in the lintel and the threshold. This suggestion is
+the upper and lower ends of one side projecred into hollows prepared for them in the lintel and the threshold. This suggestion is
 confirmed by the connection in which these woids are used ai VI,
-
-
 io6
 
 
 XULLAVAGGA.
 
 
-W * 4 > 3 *
+W * 4 ) 3 *
 
 
 revolve in those hollows 1 , with rings on the door
@@ -5659,26 +4825,23 @@ with a string for that purpose V
 m the next but one Compare aggala-p&saga in Ayiranga
 Sutta II, i, 5, 2.
 
-2 Agga!a-va//i nama dvara-bahaye samappama/zo yeva aggalat-
-thambho vuM’ati yattha tim kattan /b&iddani katv& su/fryo denti (B.).
+2 Agga!a-va//i nama dvara-bahaye samappama/zo yeva aggalatthambho vuM’ati yattha tim kattan /b&iddani katv& su/fryo denti (B.).
 
 3 Kapi-sisaka?/z nama dvara-baha/// vigg/ntva tattha pavesito
-aggala-pasako vuAfoti (B ) The word recurs in the Maha-
-parmibbana Sutta V, 32, where it is said of Ananda that he
+aggala-pasako vuAfoti (B ) The word recurs in the Mahaparmibbana Sutta V, 32, where it is said of Ananda that he
 k a pi sis aka/// alambitva a//^asi, just as in the Ataha-sudassana
 Sutta II, 24 it is said of the queen under similar circumstances
 that she dvara-baha/// alambitva a/Masi Buddhaghosa’s
 commentary on the word m the former of these two passages is
 given by Rh D in his note at p 95 of the 4 Buddhist Suttasf
 
-4 Su/hka ti tattha (that is, kapi-sisake) maggkt kk\ l&a /// katva
+4 Su/hka ti tattha (that is, kapi-sisake) maggkt kk\(l&a /// katva
 pavesita (B.). Appaiently a pm to pass through the monkey's
 head so as to secure the bolt in its place after it has been shot into
 the cauty. See the next note and below, VI, 2, 1
 
 5 Gha/ika t: upari-yo^ita (B.) At Gataka I, 360 (compare
-ATulla\agga IX, 1, 2). we are told of a man who d\arani pida-
-hanto sabba-d varesu suZ’igha/ikada) o datva ta.la.rn (sic,
+ATulla\agga IX, 1, 2). we are told of a man who d\arani pidahanto sabba-d varesu suZ’igha/ikada) o datva ta.la.rn (sic,
 query tala?//) abhiruhitva tattha pi dvaram pidahitva nisidi.
 As the principal bolt was probably called aggala (unless that w r ere
 the name for the whole machinery) this was some smaller bolt.
@@ -5694,13 +4857,10 @@ occurs in the last note,
 said in VI, 2, 1 to be necessary because the door could not be pul
 
 
-^ > 1 4 ) 3*
+^ ) 1 4 ) 3*
 
 
 OX THE DAILY LIFE OF THE BHIKKHLS
-
-
-107
 
 
 The lower part of the wattle and daub wall 1 of
@@ -5719,8 +4879,7 @@ Now at that time the Bhikkhus made a fire-place
 in the middle of a small bath-room, and there was
 no room to get to (the bath).
 
-4 I allow you, O Bhikkhus, to make the fire-
-place at one side of a small bath-room, and in the
+4 I allow you, O Bhikkhus, to make the fireplace at one side of a small bath-room, and in the
 middle of a large one V
 
 The fire in the bath-room scorched their faces.
@@ -5742,11 +4901,10 @@ used as an equivalent of akaateV^ana, which is much the same thing
 1 Ku^a-pado. Compare Rh. D ’s note on Maha-parmibbana
 Sutta V, 41. The phrase recurs below of Viharas at VI, 3, 4
 
-2 Ma7z fal ika?;z katun ti niX’a-vatthuka^ kimixim (B) ATmati
+2 Ma7z(fal ika?;z katun ti niX’a-vatthuka^ kimixim (B) ATmati
 is the technical word for la}ing bricks one above another; the
 comment therefore means ' to line or face the low er part with
-bricks/ (Compare pokkharanivo i/ 7 /nkahi A’mituw at Maha-
-sudassana Sutta I, 58, Rh. D ’s ‘Buddhist Suttas,’ p. 262, ‘to face the
+bricks/ (Compare pokkharanivo i/ 7 /nkahi A’mituw at Mahasudassana Sutta I, 58, Rh. D ’s ‘Buddhist Suttas,’ p. 262, ‘to face the
 ponds with bricks or tiles / and on facing a well below, V, 16, 2 )
 
 3 Dhuma-nettan ti dhuma-nikkhamana-^idda?^ (B.). The
@@ -5765,9 +4923,6 @@ JTULL AV AGGA.
 V, 14, , 4 -
 
 
-108
-
-
 The clay had a bad smell.
 
 ‘ I allow you, O Bhikkhus, to scent it.’
@@ -5777,14 +4932,12 @@ The fire in the bath-room scorched -their bodies.
 ‘ I allow you, O Bhikkhus, to have water poured
 over you.’
 
-They poured the water out of dishes and alms-
-bowls.
+They poured the water out of dishes and almsbowls.
 
 ‘ I allow you, O Bhikkhus, a stand for the water,
 and saucers 1 to pour it from.’
 
-A bath-room with a thatched roof did not pro-
-duce perspiration.
+A bath-room with a thatched roof did not produce perspiration.
 
 I I allow you, O Bhikkhus, to cover the roof of
 the bath-room (with skins 2 ), and to plaster it
@@ -5793,8 +4946,7 @@ within and without.’
 The bath-room became swampy.
 
 ‘ I allow you, O Bhikkhus, to lay the floor with
-flooring of three kinds — brick flooring, stone floor-
-ing, and wooden flooring.’
+flooring of three kinds — brick flooring, stone flooring, and wooden flooring.’
 
 It still became swampy.
 
@@ -5805,8 +4957,7 @@ The water settled on the floor.
 ‘ I allow you, O Bhikkhus, the use of a drain
 to carry off the water 3 .’
 
-Now at that time the Bhikkhus sat in the bath-
-room on the ground, and they had pins and needles
+Now at that time the Bhikkhus sat in the bathroom on the ground, and they had pins and needles
 in their limbs 4 .
 
 
@@ -5816,12 +4967,10 @@ in their limbs 4 .
 
 3 Udaka-niddhamanaflz. See Gataka I, 175, 409, 425, 489,
 in which passages an entrance to, or an exit from, a palace or a
-city is effected respectively niddhamana-mukhena, niddha-
-mana-dv&rena, niddhamanena, and niddhamana-maggena.
+city is effected respectively niddhamana-mukhena, niddhamana-dv&rena, niddhamanena, and niddhamana-maggena.
 Our phrase here recurs below, V, 35, 4.
 
-4 Gattani kawc’uvanti. Gattani is nominative, not accu-
-sative. Compare Mahavagga VI, 14, 5, where ka»r/uvati is used
+4 Gattani kawc’uvanti. Gattani is nominative, not accusative. Compare Mahavagga VI, 14, 5, where ka»r/uvati is used
 m the neuter sense. The sore was irritable.’)
 
 
@@ -5861,8 +5010,7 @@ IV. 4, 6, 7, VI, 3, 7, 9, VI, 4, 10, IX, 1, 2; and Gataka I, 179,
 227, 230. II, 1 6 8.) The whole of this paragraph recurs below,
 
 V, 35, 4, of the ko///zaka to a privy; and the two passages taken
-together show that an entrance room or passage, a poich or ante-
-chamber, is meant, in winch the w'ater was kept ready for use.
+together show that an entrance room or passage, a poich or antechamber, is meant, in winch the w'ater was kept ready for use.
 For that reason this particular kind of ko///zaka is elsew'here
 called, in both connections. udaka-ko/Maka (Vahavagga VI,
 14, 3, of the bath-room — where see Buddhaghosas note quoted in
@@ -5901,8 +5049,7 @@ The water settled on the floor.
 15.
 
 x. Now at that time the Bhikkhus, when naked 2 ,
-saluted one another, and received salutes ; did ser-
-vice to one another, and received services ; gave to
+saluted one another, and received salutes ; did service to one another, and received services ; gave to
 one another, and accepted ; ate, both hard food and
 soft ; tasted ; and drank.
 
@@ -5918,19 +5065,16 @@ of a dukka/a.’
 
 16.
 
-i. Now at that time the Bhikkhus in the bath-
-room put the robes down on the ground, and the
+i. Now at that time the Bhikkhus in the bathroom put the robes down on the ground, and the
 robes became dirty.
 
 
 (Sutta-vibhanga, PaZ'ittiya X, z, i); and in a similar connection at
 Dipavawsa XIX, z. Also below, V, 35, 4, VI, 3, 8.
 
-1 Na pariy£pu»anti. See the use of this phrase at jSulla-
-vagga V, 5, 2.
+1 Na pariy£pu»anti. See the use of this phrase at jSullavagga V, 5, 2.
 
-2 That is, while in the Gantaghara, which explains the other-
-wise inexplicable fact of this chapter being inserted here instead of
+2 That is, while in the Gantaghara, which explains the otherwise inexplicable fact of this chapter being inserted here instead of
 at the commencement of 16. 2.
 
 3 In Mahavagga I, 25, 13, services are to be rendered to a
@@ -5952,7 +5096,6 @@ robes on V
 When rain fell, it fell over the robes.
 
 - * I allow you, O Bhikkhus, to have a hall to the
-
 bath-room.’
 
 The basement of the bath-room hall was too low
@@ -5961,13 +5104,11 @@ stairs, and balustrade, followed by the closing words
 of 11. 6 and 14. 2, down to the end].
 
 2. Now at that time the Bhikkhus were afraid -
-to do service to one another, both when in the bath-
-room and in the water.
+to do service to one another, both when in the bathroom and in the water.
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, three kinds of cover-
-ings — the covering of the bath-room, the covering
+‘ I allow you, O Bhikkhus, three kinds of coverings — the covering of the bath-room, the covering
 of the water, and the covering by clothes V
 
 Now at that time there was no water in the
@@ -5988,19 +5129,13 @@ The facing of the well fell in 1 2 3 4 .
 
 3 This rule abrogates that laid down in chapter 15, so far as
 regards bathing and shampooing. Buddhaghosa savs accordingly,
-Tisso pa/i££Mdayo ti. Ettha o-antaghara-pa/i&fcMdi kz 1 udaka-
-pa/i/£/£Mdi parikamma/zz karontass’ eva va/Zati. sesesu abhi-
-vadanadisu naVa//ati. Vattha-pa/i^adi sabba-kammesu \a//ati.
+Tisso pa/i££Mdayo ti. Ettha o-antaghara-pa/i&fcMdi kz 1 udakapa/i/£/£Mdi parikamma/zz karontass’ eva va/Zati. sesesu abhivadanadisu naVa//ati. Vattha-pa/i^adi sabba-kammesu \a//ati.
 
-4 Kulaz/z lu^ati. (The reading is not without doubt.) Com-
-pare Paluo^ati. The same expression occurs below, V, 17, 2,
+4 Kulaz/z lu^ati. (The reading is not without doubt.) Compare Paluo^ati. The same expression occurs below, V, 17, 2,
 and lu^ati at Mahavagga VIII, 21, 1.
 
 
 X 12
-
-
-iTULLAVAGGA.
 
 
 Y, ifi, 2.
@@ -6009,8 +5144,7 @@ Y, ifi, 2.
 facings of three kinds 1 — brick facing, stone facing,
 and wooden facing.’
 
-[Then follow the paragraphs as to the high base-
-ment, the facing of the roof, the stairs, and the
+[Then follow the paragraphs as to the high basement, the facing of the roof, the stairs, and the
 balustrade, as in 11. 6 ; 14. 2 ; and above, § 1 2 .]
 
 Now at that time the Bhikkhus drew water with
@@ -6033,8 +5167,7 @@ erected over the well. (See below.) One would expect that the
 formal licence for such a mawcfapa would have been inserted here
 in due course a? above, n. 6, for the KaM in a- sail
 
-3 This is the usual Anglo-Indian term for the creepers so com-
-monly used for such purposes. The Pali word is vallik&, which
+3 This is the usual Anglo-Indian term for the creepers so commonly used for such purposes. The Pali word is vallik&, which
 occurs in a different sense at V, 2, 1.
 
 4 Tula. This is the ordinary and simple machine, so common
@@ -6045,19 +5178,14 @@ ti pazmikanaz# viya udaka-abbhahana-tulsL Pazzzzika is ‘florist’
 Nip&ta III, 8, 8 ) ; possibly abbhavahana is the correct reading.
 
 6 The name of this machine is spelt differently in the MSS.
-(karaka/ahka the Sinhalese MS., and karaka^aka the Bur-
-mese MSS.), and the reading is doubtful. Buddhaghosa says:
+(karaka/ahka the Sinhalese MS., and karaka^aka the Burmese MSS.), and the reading is doubtful. Buddhaghosa says:
 Dakadaka/ako (sic! In the next note but two the same MS.
 reads ka/adaka/ake) vu&fcati gozze va yo^etva hatthehi va gahetva
 digha-varattadihi aka^/zana-yantaw. We can only say negatively
 that the word can have nothing to do either with karka/aka, a hook
 in the form of a crab’s claw; or with kara-ka*/aka, finger-nail.
 
-6 ATakkava/Zakaffz, on which Buddhaghosa has the unintelli-
-gible note arahatta(!)-gha/i-yanta/ 72 .
-
-
-V, 1 6, 2. ON THE DAILY LIFE OF THE BHIKKHUS. I 1 3
+6 ATakkava/Zakaffz, on which Buddhaghosa has the unintelligible note arahatta(!)-gha/i-yanta/ 72 .
 
 
 A number of pots were broken.
@@ -6096,8 +5224,7 @@ and basons.’
 varako. Other water-vessels, besides these three, are allowed by
 the closing rule of this chapter.
 
-2 A'amma-kha»zfa#z nama tulaya va ka/adaka/ake va yqgetab-
-ba m ^amma-bhayanazH (B.). The rendering adopted by Childers
+2 A'amma-kha»zfa#z nama tulaya va ka/adaka/ake va yqgetabba m ^amma-bhayanazH (B.). The rendering adopted by Childers
 from Tumour (Mahavawsa, p. 3) is therefore incorrect.
 
 8 The following passage has already occurred above, V, ir, 6
@@ -6110,9 +5237,6 @@ have been made out of the trunk of a tree. Compare the use of
 mattika-do«ikaw at V, 14, 3.
 
 
-[20]
-
-
 I
 
 
@@ -6122,14 +5246,10 @@ I
 V, 17 , I.
 
 
-114
-
-
 17 .
 
 1. Now at that time the Bhikkhus used to bathe
-anywhere all over the Arama, and the Arima be-
-came muddy.
+anywhere all over the Arama, and the Arima became muddy.
 
 They told this matter to the Blessed One.
 
@@ -6180,8 +5300,6 @@ sense below, VI, 3, 1,
 3 Kftiam lug^ati. See V, 16, 2.
 
 
-Y, iS, i. OX THE DAILY LIFE OF THE BHIKKHUS. 1 1 5
-
 ‘ I allow you, O Bhikkhus, to line the tank with
 facing of three kinds — brick facing, stone facing, and
 wooden facing.’
@@ -6224,8 +5342,7 @@ for four months from the mats on which you sit
 
 1 Vihawwanti. See V, xi,6.
 
-2 Udakayatikan ti udakassa agamana-mattikaw (B.). Com-
-pare ayataka at IX, i, 3.
+2 Udakayatikan ti udakassa agamana-mattikaw (B.). Compare ayataka at IX, i, 3.
 
 3 See above our note on V, 14, 3.
 
@@ -6240,9 +5357,6 @@ jsTULLAVAGGA.
 
 
 V, 19, r.
-
-
-Il6
 
 
 down. Whosoever does so, shall be guilty of a
@@ -6268,8 +5382,7 @@ fearing to offend, would not accept them.
 They told this matter to the Blessed One.
 
 ‘ I allow you, O Bhikkhus, to accept the perfume,
-and to apply it to the door for a space of five finger-
-breadths 1 ; and to accept the flowers, and put them
+and to apply it to the door for a space of five fingerbreadths 1 ; and to accept the flowers, and put them
 on one side in the Vih&ra.’
 
 
@@ -6295,23 +5408,17 @@ no note. This measure occurs in Gataka I, 166, 193; Fausboll’s
 1 Namatakawz. SeeV, n, 1.
 
 
-V, 19 . I. ON THE DAILY LIFE OF THE BHIKKHUS. 1 1 7
-
-
-'A sheath, O Bhikkhus, is neither to be appro-
-priated nor to be handed over V
+'A sheath, O Bhikkhus, is neither to be appropriated nor to be handed over V
 
 Now at that time the A7zabbaggiya Bhikkhus
 used to eat lying on decorated divans.
 
 People murmured, &c saying, ‘ Like those
-
 still living in the pleasures of the world.’
 
 They told this matter to the Blessed One.
 
-‘You are not. O Bhikkhus, to eat lyingf on decor-
-ated divans 1 2 3 . Whosoever does so, shall be guilty of
+‘You are not. O Bhikkhus, to eat lyingf on decorated divans 1 2 3 . Whosoever does so, shall be guilty of
 a dukka/a.’
 
 Now at that time a certain Bhikkhu was sick, and
@@ -6342,9 +5449,7 @@ ubhato-lohitakupadhana?;* is condemned, among other things
 of a like kind, in the Ma^/nma Sila, § 5 (Rh. D/s £ Buddhist
 Suttas/ p. 193), and above, Mahavagga V, 10, 2.
 
-3 Ma/orika ti da^adharako vu&fati. Ya/Z^i-adharaka-paw/a-
-dharaka-pa£&£ita-pi//$ani pi ettlT eva pavi////ani. Adharaka-saw-
-khepana-gamanato hi pa//Mya /£vhdda;w viddhaw pi aviddhaz/z pi
+3 Ma/orika ti da^adharako vu&fati. Ya/Z^i-adharaka-paw/adharaka-pa£&£ita-pi//$ani pi ettlT eva pavi////ani. Adharaka-sawkhepana-gamanato hi pa//Mya /£vhdda;w viddhaw pi aviddhaz/z pi
 va//ati yeva (B.).
 
 4 All these words ha\ e already occurred above at Aullavagga I
@@ -6353,9 +5458,6 @@ va//ati yeva (B.).
 
 
 XULLAVAGGA.
-
-
-V, 20, 3.
 
 
 1 18
@@ -6371,8 +5473,7 @@ dukka/a.’
 l. Now at that time V aaY/za the LiM/zavi was
 a friend of the Bhikkhus who were followers of
 Mettiya and Bhumma^aka x . Now Vaddha, the
-Li/f/f/zavi went up to the place where those Bhik-
-khus were, and on arriving there he said to them,
+Li/f/f/zavi went up to the place where those Bhikkhus were, and on arriving there he said to them,
 ‘My salutation to you, Sirs!’ When he had thus
 spoken, the Bhikkhus who were followers of Mettiya
 and Bhummafaka gave him no reply. And a second
@@ -6406,7 +5507,6 @@ following sections. Our sections 1, 2 are nearly the same as
 
 
 V, 20, 3 ON THE DAILY LIFE OF THE BHIKKHUS. Tig
-
 that from that very quarter should arise danger,
 calamity, and distress — that where one ought to
 expect a calm, that just there one should meet a
@@ -6419,8 +5519,7 @@ Bhummag'aka. And he went up to the Blessed One
 [and spake even as he had been directed].
 
 Then the Blessed One, on that occasion and in
-that connection, convened a meeting of the Bhikkhu-
-saw/gha, and asked the venerable Dabba the Mallian :
+that connection, convened a meeting of the Bhikkhusaw/gha, and asked the venerable Dabba the Mallian :
 
 ‘ Are you conscious 1 , Dabba, of having done such
 a thing as this Vadd/ia says ?’
@@ -6450,17 +5549,10 @@ signification above, V, 9, 4. It is characteristic of the mildness of
 early Buddhism that this should be the only penalty imposed upon
 a layman. Compare H. 0/s remarks m his ‘ Buddha, sem Leben.
 seme Lehre. seine Gemeinde/ pp. 39 I “393- The house of such a
-layman becomes then an ago^aro, an ‘ unlawful resort/ ^Aulla-
-vagga VIII, 1,2.)
-
-
-120
+layman becomes then an ago^aro, an ‘ unlawful resort/ ^Aullavagga VIII, 1,2.)
 
 
 ATLLAVaGGA.
-
-
-V, 20, 4.
 
 
 and make him incapable of granting an alms to the
@@ -6475,8 +5567,7 @@ when he goes about to cause the Bhikkhus to
 want a place of residence, when he reviles or
 slanders the Bhikkhus, when he causes divisions
 between Bhikkhus and Bhikkhus ; — when he speaks
-in dispraise of the Buddha ; — when he speaks in dis-
-praise of the Dhamma ; — when he speaks in dispraise
+in dispraise of the Buddha ; — when he speaks in dispraise of the Dhamma ; — when he speaks in dispraise
 of the Samgha. I allow you, O Bhikkhus, to turn
 down the bowl in respect of an Up as aka who is
 characterised by these eight things 2 /
@@ -6493,8 +5584,7 @@ Bhikkhus.’ Sambhoge anapatti at Mahavagga I, 79, 2 (at the
 end), means that it is not an offence for the Bhikkhus to eat and
 dwell together with a guilty Bhikkhu under certain conditions there
 specified. As an Upasaka never, under any circumstances, either
-eats or dwells together with the Bhikkhus (in PaJittiya 5 the refer-
-ence is to s&maraeras), the meaning here must be to make him one
+eats or dwells together with the Bhikkhus (in PaJittiya 5 the reference is to s&maraeras), the meaning here must be to make him one
 who has no dealings with the Sawgha, to withdraw his privilege of
 providing food or lodging for the Samgha. The sabho^anaw
 kulaw in the 43rd Pl&ttiya has piobably nothing to do with this.
@@ -6526,17 +5616,14 @@ as one who has no dealings with the Sa;/zgha,
 charge against Dabba the Mallian of a breach of
 morality. The Sawzgha turns down the bowl as
 respects Vaddha the Liii/zavi, and makes him as
-one who has no dealings with the Sawgha. Who-
-soever of the venerable ones approves of the bowl
+one who has no dealings with the Sawgha. Whosoever of the venerable ones approves of the bowl
 being turned down as regards V addha the lAkkhavi ,
 and of making him as one who has no dealings with
-the Sazzzgha, let him keep silence. Whosoever ap-
-proves not thereof, let him speak.
+the Sazzzgha, let him keep silence. Whosoever approves not thereof, let him speak.
 
 1 “ The bowl is turned down by the Sawzgha as
 regards Y addha the Li/MVzavi, he is as one who has
-no dealings with the Sawzgha. The Sawzgha ap-
-proves thereof. Therefore is it silent. Thus do
+no dealings with the Sawzgha. The Sawzgha approves thereof. Therefore is it silent. Thus do
 I understand.” ’
 
 5. Then the venerable Ananda, having dressed
@@ -6551,12 +5638,6 @@ that saying, immediately 1 fainted and fell.
 
 
 1 Literally, 1 on that \ery spot.’
-
-
-122
-
-
-a'ULLAVAGGA.
 
 
 Y, 20, 5.
@@ -6575,9 +5656,7 @@ with wet garments and with streaming hair, to the
 place where the Blessed One was ; and when he had
 come there, he cast himself down with his head at
 the feet of the Blessed One, and said : ‘ Sin has
-overcome me, Lord — even according to my weak-
-ness, according to my folly, according to my un-
-righteousness — in that without ground I brought a
+overcome me, Lord — even according to my weakness, according to my folly, according to my unrighteousness — in that without ground I brought a
 charge against Dabba the Mallian of a breach of
 morality. In respect thereof may my Lord the
 Blessed One accept the confession I make of my
@@ -6585,9 +5664,7 @@ sin in its sinfulness 2 , to the end that I may in
 future restrain myself therefrom 3 .’
 
 ‘Verily, O friend Vaddka, sin hath overcome
-you — even according to your weakness, and ac-
-cording to your folly, and according to your un-
-righteousness — in that you brought without ground
+you — even according to your weakness, and according to your folly, and according to your unrighteousness — in that you brought without ground
 against Dabba the Mallian a charge of breach of
 morality. But since you, O friend Vaddka, look
 upon your sin as sin, and make amends for it as is
@@ -6597,11 +5674,9 @@ it. For this, O friend Vaddka, is the advantage of
 1 This is precisely the expression made use of m the converse
 case, when a Bhikkhu has offended against the laity. See I, 22, 3.
 
-3 kkk&yzm aMayato pa/iga«hatu. See the parallel pas-
-sages^ in Mahavagga IX, 1, 9 ; iTullavagga VII, 3, 6, &c.
+3 kkk&yzm aMayato pa/iga«hatu. See the parallel passages^ in Mahavagga IX, 1, 9 ; iTullavagga VII, 3, 6, &c.
 
-Ayatm sawvaraya. So also above of an offending Bhik-
-khu, IV, 14, 30.
+Ayatm sawvaraya. So also above of an offending Bhikkhu, IV, 14, 30.
 
 
 V, 20, 7- OX THE DAILY LIFE OF THE BHIKKHUS. 12 C
@@ -6625,8 +5700,7 @@ when he goes not about to bring harm to the
 Bhikkhus, when he goes not about to cause the
 Bhikkhus to want a place of residence, when he
 reviles -or slanders not the Bhikkhus, when he
-causes not divisions between Bhikkhus and Bhik-
-khus , — when he speaks not in dispraise of the
+causes not divisions between Bhikkhus and Bhikkhus , — when he speaks not in dispraise of the
 Buddha ; — when he speaks not in dispraise of the
 Dhamma ; — when he speaks not in dispraise of the
 Sawgha.
@@ -6645,13 +5719,8 @@ which the revocation of the Ta^aniya-kamma is described m
 the reverse case of a Bhikkhu, above, I, 8.
 
 3 Eka//zsaw uttarasanga?// karitva. Unless these word*
-have been introduced by mistake from the corresponding pas-
-sage m I, 8 (which is not probable), they show that the ut-
-tarasanga (on which see the note on l\Iaha\agga VIII, 13, 4)
+have been introduced by mistake from the corresponding passage m I, 8 (which is not probable), they show that the uttarasanga (on which see the note on l\Iaha\agga VIII, 13, 4)
 was also worn by la) men. But this is the only passage known to
-
-
-124
 
 
 .KULLAVAGGA.
@@ -6665,8 +5734,7 @@ speak as follows :
 
 ‘ “ The bowl has been turned down against me,
 Sirs, by the Sawgha, and I am become as one
-having no dealings with the Sawgha. I am con-
-ducting myself, Sirs, aright in accordance thereto,
+having no dealings with the Sawgha. I am conducting myself, Sirs, aright in accordance thereto,
 and am broken in spirit 1 , and I seek for release ;
 and I request the Sawzgha for a turning up again of
 the bowl.”
@@ -6696,7 +5764,6 @@ conducting himself (&c., as before), and he requests
 the Sawgha (&c., as before). The Sawgha turns
 up again the bowl as regards Vaddha the Li^Mavi,
 and makes him as one who has dealings with the
-
 us m the earlier literature in which such a use of it is mentioned or
 "implied. Compare Rb. D.’s note on the ‘ Book of the Great
 Decease,’ VI, 26 .
@@ -6704,16 +5771,12 @@ Decease,’ VI, 26 .
 1 Lomaw patemi. See the note on iTullavagga I, 6, 1.
 
 
-V, 21, i. ON THE UAILY LIFE OF THE BHIKKHUS. I 25
-
-Sawgha. Whosoever of the venerable ones ap-
-proves thereof, let him keep silence ; whosoever
+Sawgha. Whosoever of the venerable ones approves thereof, let him keep silence ; whosoever
 approves not thereof, let him speak.
 
 The bowl is turned up again by the Sa?«gha as
 regards Vadd/ia. the lAkkka.Vi, and he is as one who
-has dealings with the Sa;;?gha. The Sawzgha ap-
-proves thereof. Therefore is it silent. Thus do I
+has dealings with the Sa;;?gha. The Sawzgha approves thereof. Therefore is it silent. Thus do I
 understand.” ’
 
 
@@ -6742,16 +5805,12 @@ Suttas from the Pali/ p. 24.
 and 56th Sekhiyas.
 
 3 Ana^Mvuttho, literally, no doubt, ‘dwelt m/ But it is
-clear that the meal afterwards taken in it by the Buddha was sup-
-posed to be the dedication, so to say, or the house-waimmg, after
+clear that the meal afterwards taken in it by the Buddha was supposed to be the dedication, so to say, or the house-waimmg, after
 which it was a^Mvuttho.
 
 4 On this habit of naming people after the family or tribal (not
 the personal) name of their mothers, see Rh. D.'s note m his
 ‘ Buddhist Suttas/ p. 1.
-
-
-A'ULLAVAGGA.
 
 
 Y, 21, 2.
@@ -6766,14 +5825,12 @@ there, bow down in salutation at his feet on my
 behalf, and enquire in my name whether he is free
 from sickness and suffering, and is in the enjoyment
 of ease and comfort and vigorous health, saying,
-“ Bodhi the king’s son, Lord, bows down in saluta-
-tion at thy feet, and enquires [as I have said ] 1 , and
+“ Bodhi the king’s son, Lord, bows down in salutation at thy feet, and enquires [as I have said ] 1 , and
 asks : ‘ May my Lord the Blessed One consent to
 take his to-morrow’s meal with Bodhi the king’s son,
 together with the Sawgha of Bhikkhus.’
 
-‘Even so, Sir!’ said the young Brahman Sa^ikd-
-putta, in assent to Bodhi the king’s son. And he
+‘Even so, Sir!’ said the young Brahman Sa^ikdputta, in assent to Bodhi the king’s son. And he
 went up to the place where the Blessed One was,
 and when he had come there he exchanged with the
 Blessed One the greetings and compliments of
@@ -6799,8 +5856,6 @@ Then Bodhi the king’s son made ready at the end
 from a royal personage to the Buddha. See ‘ Book of the Great
 Decease,’ I, 2 (Rh. D.’s 1 Buddhist Suttasf p. 2).
 
-
-V, 2t, 2 . OX THE DAILY LIFE OF THE BHIKKHUS. 12 7
 
 of that night sweet food, both hard and soft; and
 had the mansion Kokanada spread over with white
@@ -6843,13 +5898,7 @@ the same request in the same words with the same
 , not 1.
 
 
-128
-
-
 KULLAVAGGA.
-
-
-V, 21, 3.
 
 
 result]. And a third time he [preferred the same
@@ -6881,20 +5930,15 @@ instructed, and roused, and incited, and gladdened
 3 -ffela-pattikS. ti /£ela-santhara»z, says Buddhaghosa. See
 pa/hkH in Childers, and compare paw^a-pa/Mikaw at V, n, 6.
 JS'ela is not merely ordinary cloth ; it is cloth regarded as a means
-of giving a decorative or festive appearance to a house by spread-
-ing canopies, &c. See- ffataka I, 178, and Maha-parinibbana
+of giving a decorative or festive appearance to a house by spreading canopies, &c. See- ffataka I, 178, and Maha-parinibbana
 Sutta VI, 26 (p. 64). On such festive occasions the whole house
 (or the Mawrfapa erected in special honour of the guest) is
-covered with lengths of clean cotton cloth — the same as are other-
-wise used foi ordinary apparel — white being the colour signifying
+covered with lengths of clean cotton cloth — the same as are otherwise used foi ordinary apparel — white being the colour signifying
 peculiar respect. It is such lengths of cloth so used honoris
 causl that are called -Sela-pattika. Compare Rh. D.’s note in
 ‘ Buddhist Suttas,’ p. 122.
 
 * See the note above on Mahavagga I, 8, 4.
-
-
-V, 21, 4. ON THE DAILY LIFE OF THE BHIKKHUS. I 29
 
 
 with religious discourse, Bodhi the king’s son .rose
@@ -6939,17 +5983,12 @@ cloth laid down for ceremonial purposes.’
 N ow at the time the Bhikkhus were afraid to step
 on to a mat to be used for wiping the feet 1 .
 
-They 7 told this matter to the Blessed One.
-
 
 [»]
 
 
 1 Dhota-pidaka.
 K
-
-
-A'ULLAVAGGA.
 
 
 Y, 22, i.
@@ -6998,17 +6037,13 @@ is repeated below at V, 37, where kataka is mentioned as a kind
 of earthenware.
 
 
-V, 23, i. OX THE DAILY LITE OF THE BHIKKHUS. 131
-
 Then the Blessed One instructed (&c., as usual,
 see 21. 2, down to) she departed thence. And the
-Blessed One, on that occasion and in that con-
-nection, after having delivered a religious discourse,
+Blessed One, on that occasion and in that connection, after having delivered a religious discourse,
 addressed the Bhikkhus, and said :
 
 ‘ I allow you, O Bhikkhus. small jars and brooms.
-You are not, O Bhikkhus, to make use of earthen-
-ware foot-scrubbers. Whosoever does so, shall be
+You are not, O Bhikkhus, to make use of earthenware foot-scrubbers. Whosoever does so, shall be
 guilty of a dukka/a. I allow you, O Bhikkhus,
 three kinds of things to rub the feet with — to wit,
 sandstone 1 . gravel \ and sea-foam 2 3 .’
@@ -7016,7 +6051,6 @@ sandstone 1 . gravel \ and sea-foam 2 3 .’
 2 . [A similar paragraph ending]
 
 ‘ I allow vou, O Bhikkhus, the use of fans and
-
 j J 1
 
 flower-stands V
@@ -7029,8 +6063,7 @@ into the possession of the Sawgha.
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, the use of mosquiio-
-fans.’
+‘ I allow you, O Bhikkhus, the use of mosquiiofans.’
 
 A chamara (a tail of the Bos Gruniens or
 Tibetan ox, mounted on a stick, to be used by
@@ -7039,26 +6072,14 @@ Tibetan ox, mounted on a stick, to be used by
 two terms is not stated.
 
 2 S a mu d da-ph e ak a. By this name are designated the bones
-of the cuttle-fish which, wnen cast up oy the waves on the sea-
-shoie, are not unhke pet lifted foam, and have actually been in-
-troduced* from the East into use in Europe as a kind of rough
+of the cuttle-fish which, wnen cast up oy the waves on the seashoie, are not unhke pet lifted foam, and have actually been introduced* from the East into use in Europe as a kind of rough
 natural soap ; and are now sold for that purpose m most chemists’
 shops in England (compare Meerschaum). The same woid is
 found m later Sanskrit works.
 
-3 TsLlava»'a/*. See Pataka I, 26 5 (at the end): and com-
-pare talava^/aka?^ below. V, 29, 4.
+3 TsLlava»'a/*. See Pataka I, 26 5 (at the end): and compare talava^/aka?^ below. V, 29, 4.
 
 K 2
-
-
-132
-
-
-rULLAVAGGA.
-
-
-V, 23, 2.
 
 
 an attendant to whisk off flies) had come into dm
@@ -7080,8 +6101,7 @@ Now at that time the AYabbaggiyas went about
 with sun-shades up. And at that time a certain
 Upasaka went to a garden with a number of men
 who were followers of the A^dvakas (naked ascetics).
-And those followers of the A/ivakas saw the Kh ab-
-baggiya Bhikkhus coming along in the distance with
+And those followers of the A/ivakas saw the Kh abbaggiya Bhikkhus coming along in the distance with
 sun-shades held over them ; and on seeing them,
 they said to that Upisaka :
 
@@ -7095,8 +6115,7 @@ Paribbig"akas (wandering mendicants).’
 So they made a bet whether they were Bhikkhus
 or not. And when that Upasaka recognised them,
 when they came up, he murmured, was annoyed,
-and was indignant, saying, ‘ How can their rever-
-ences go about with sun-shades held over them ?’
+and was indignant, saying, ‘ How can their reverences go about with sun-shades held over them ?’
 
 The Bhikkhus heard of that Up&saka’s thus mur-
 
@@ -7109,8 +6128,6 @@ by Fausboll, Gataka I, 38, 207.
 
 8 See the note at the end of the chapter.
 
-
-V, 23, 3- ON THE DAILY LIFE OF THE BHIKKHCS. 133
 
 muring, &c. And those Bhikkhus told the matter tc
 ‘the Blessed One.
@@ -7161,9 +6178,6 @@ person to be shaded, m which the handle is fastened to me run at
 the side of, and not in me middle underneath that part of it which
 
 
-134
-
-
 JsTULLAVAGGA.
 
 
@@ -7201,22 +6215,17 @@ They told this matter to the Blessed One.
 
 
 actually keeps off the sun. Both kinds are figured on the most
-ancient Buddhist sculptures The Old Commentary on the cor-
-responding rule for the nuns (Bhikkhuni-vibhanga, Paiittiya
+ancient Buddhist sculptures The Old Commentary on the corresponding rule for the nuns (Bhikkhuni-vibhanga, Paiittiya
 LXXXIV, 2, 1) says that sun-shades are either white, or made of
 matting, or made of leaves (doubtless of the talipot palm) ; and it
-adds that they are either mawifala-baddha?# or salaka-
-baddhaw, which apparently refers to these two ways in which
-the handle was joined on to the shading-part. In the 57th Se-
-khiya (compare also the 23rd and the 67th), and in Zullavagga
+adds that they are either mawifala-baddha?# or salakabaddhaw, which apparently refers to these two ways in which
+the handle was joined on to the shading-part. In the 57th Sekhiya (compare also the 23rd and the 67th), and in Zullavagga
 VIII, 1, 1, will be found lules of etiquette which show that it was
 a sign of courtesy or of respect to put down a sun-shade.
 
 1 See the similar phraseology at V, 8, 1. On u//itva, compare
 oiWeti.
 
-
-Y, 2 6, i. ON THE DAILY LIFE 01 T!IE EH IKK HUS. I 25
 
 ‘ I allow you, O Bhikkhus, to give to a sick
 Bhikkhu the permission (license) to use a staff And
@@ -7269,13 +6278,11 @@ the Saz/zgha, and in the dining-hall many fragments
 of rice were allowed to fall.
 
 The people murmured, were annoyed, and were
-indignant, saying, ‘ How can the Sakya-puttiya Sa-
-maras, when food is being given to them, take it
+indignant, saying, ‘ How can the Sakya-puttiya Samaras, when food is being given to them, take it
 so carelessly. Each single ball of rice is the result
 of hundredfold labour ! ’
 
-The Bhikkhus heard of the people thus mur-
-muring, &c., and they told the matter to the Blessed
+The Bhikkhus heard of the people thus murmuring, &c., and they told the matter to the Blessed
 One.
 
 ‘ I allow you, O Bhikkhus, whatever thing falls
@@ -7307,8 +6314,6 @@ that, they let the Bhikkhu go, saying, ‘ This is the
 
 1 On vilikhati, compare VI, 20.
 
-
-T, 27 , 3 . ON THE DAILY LIFE OF THE BHIKKHUS. 1 37
 
 work of the woman herself. The Bhikkhu has not
 done it.'
@@ -7364,15 +6369,6 @@ one another’s hair v
 £ They are, Lord.’
 
 
-138
-
-
-A'ULLAVAGGA.
-
-
-V, 27, 4.
-
-
 Then the Blessed One, on that occasion and in
 that connection, after he had delivered a religious
 discourse, addressed the Bhikkhus, and said :
@@ -7392,24 +6388,21 @@ wear them long on the chin like a goat’s beard 5 * , nor
 so cut that they have four corners G , nor to cut off the
 hair growing on your breast 7 , nor to cut the hair on
 your bellies into figures 8 , nor to wear whiskers 9 , nor
-to remove the hair from your private parts 10 . Who-
-soever does so, shall be guilty of a dukka/'a.’
+to remove the hair from your private parts 10 . Whosoever does so, shall be guilty of a dukka/'a.’
 
 
-1 Khura-sipa/ikaw. See the notes on V, 11, 2, and Buddha-
-ghosa’s note at p. 3 1 9 of the text.
+1 Khura-sipa/ikaw. See the notes on V, 11, 2, and Buddhaghosa’s note at p. 3 1 9 of the text.
 
 2 Namatakaw. See above, V, 11, 1, and V, 19, 1.
 
-s Khura-bha« fa«. Compare MahSvagga VI, 37.
+s Khura-bha«(fa«. Compare MahSvagga VI, 37.
 
 4 Massuwz kappipenti ti kattariyS massu?« ,6/iedapenli (B ).
 On Kattari (a knife), see Gataka I, 223. It is cleai fiom the
 fiist woids of the next section that Buddhaghosa’s explanation
 here is not quite accurate
 
-5 Go-lomikan ti hanukamhi dighaw katvd thaptiam e/aka-
-massuOT vu,Wati (B.)
+5 Go-lomikan ti hanukamhi dighaw katvd thaptiam e/akamassuOT vu,Wati (B.)
 
 c A'aturassan ti £atu-kona#z (B.).
 
@@ -7419,7 +6412,7 @@ c A'aturassan ti £atu-kona#z (B.).
 note at p. 319 of the text
 
 9 DaMika in. It is the Sanskrit dinf/iika or damh/rikti. ; and
-occurs at <?ataka I, 305.
+occurs at (?ataka I, 305.
 
 10 On the corresponding rule in the -Bhikkhuni-vibhanga, the
 2nd Pai’ittiya, the Old Commentary has sambtldho nama ubho
@@ -7427,9 +6420,6 @@ upaka&fc/iaksl multa-kara»a?».
 
 
 ON THE DAILY LIFE OF THE BHIKKHUS.
-
-
-159
 
 
 Now at that time a certain Bhikkhu had a fistula 1 ,
@@ -7459,8 +6449,7 @@ to have your hair cut off with a knife/
 Noav at that time the Bhikkhus wore the hair in
 their nostrils long
 
-People murmured, &c M saying, ' Like the devil-
-worshippers V
+People murmured, &c M saying, ' Like the devilworshippers V
 
 They told this matter to the Blessed One
 
@@ -7468,7 +6457,6 @@ They told this matter to the Blessed One
 \our nostrils loner. Whosoever does so, shall be
 
 J o
-
 guilty of a dukka/a.’
 
 Now at that time the Bhikkhus had the hair in
@@ -7486,9 +6474,6 @@ and Mahavagga III, 12. 3, of living in the hollow of a tiee
 
 4 Sakkharika, said at Mana\agga VI 14 5 to be used as a
 lancet.
-
-
-140
 
 
 AULLAVAGGA.
@@ -7512,8 +6497,7 @@ stopped with the wax.
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, the use of an instru-
-ment to remove the wax from the ear 1 2 .’
+‘ I allow you, O Bhikkhus, the use of an instrument to remove the wax from the ear 1 2 .’
 
 [Then a paragraph as to the substances of which
 it may be made, word for word, as in Mahavagga
@@ -7536,9 +6520,8 @@ of brass ware and copper ware. Whosoever does
 so, shall be guilty of a dukka/a 4 .’
 
 
-1 Sara /dsa. So at (?ataka I, 138, 4, a baiber pulls out a white
-
-hair from the king’s head, suvaw«a-sa« fasena.
+1 Sara(/dsa. So at (?ataka I, 138, 4, a baiber pulls out a white
+hair from the king’s head, suvaw«a-sa«(fasena.
 
 3 This license is repeated m the next chapter.
 s Kawsa-pattharikl ti ka*’2sa-bha?ifl'a-va«ig-a (B.).
@@ -7547,13 +6530,9 @@ s Kawsa-pattharikl ti ka*’2sa-bha?ifl'a-va«ig-a (B.).
 ai tides, according to chapter 37 below.
 
 
-V, 28, 2. ON THE DAILY LIFE OF THE BHIKKHUS 141
-
-
 2 . Now at that time the Bhikkhus were afraid to
 use boxes to put eye-ointment in \ and little flat
-sticks to lay it on with 2 , and instruments for re-
-moving wax from the ear 3 , and handles (for razors,
+sticks to lay it on with 2 , and instruments for removing wax from the ear 3 , and handles (for razors,
 staves, &c.) 4 .
 
 They told this matter to the Blessed One.
@@ -7582,8 +6561,7 @@ VI, 12, 3, 4
 
 3 Already allow ed in the last chapter.
 
-4 Bandhana-mattan ti vasi-kattara-}a//fo-adina /72 \a bandnana-
-matta;;z (B ). It is clear from thus note, and the repetition of the
+4 Bandhana-mattan ti vasi-kattara-}a//fo-adina /72 \a bandnanamatta;;z (B ). It is clear from thus note, and the repetition of the
 pi m the text, that we have to do here with a special object, and
 not a mere qualification of the other three.
 
@@ -7595,17 +6573,11 @@ practised.
 
 6 Pa //a lu^anti So read (not patta as m the text) in
 accordance w r ith our note 3 on Mahavagga VIII, 21, 1. The
-second word occurs also abo\e, V, 16, 2; 17, 2. From this pas-
-sage here it is probable that a ith a -pa dak a at Maha\agga \ III
+second word occurs also abo\e, V, 16, 2; 17, 2. From this passage here it is probable that a ith a -pa dak a at Maha\agga \ III
 21, means a stool.
 
 7 AyogaOT. Compare the Sutta-vibhanga. Pa^ittiya LXXX\ III,
 2, 2 ; Gataka III, 447, 6,
-
-
-142
-
-
 isTULLAVAGGA.
 
 
@@ -7642,15 +6614,12 @@ wore (&c., as usual, ending with)
 girdles 4 — those made of many strings plaited to-
 
 
-1 Rathiyaya The Old Commentary on the Bhikkhuni-
-ubhanga, Pa&ttiya XIV, sa}s, Rathiya, ti ra MM. The word
+1 Rathiyaya The Old Commentary on the Bhikkhuniubhanga, Pa&ttiya XIV, sa}s, Rathiya, ti ra MM. The word
 recurs, ibid . Pa&ttiya LXXXVI, XCVI (the last of which is nearly
-the same as our passage here). For the more usual form ra-
-thika, see A’ullavagga X, 12.
+the same as our passage here). For the more usual form rathika, see A’ullavagga X, 12.
 
 2 Pabhassittha. Compare Sutta-vibhanga, Pa&ttiya LXXXIII,
 1, 2. It is from the root bhrams, not bhas,
-
 a The use of this has alieady been enjoined at Mahavagga I, 25,
 9, 10. It was to be tied on round the waist, ovei the waist-cloth,
 to keep it m its place.
@@ -7660,10 +6629,7 @@ seem properly to belong here, has been included m a former
 list of forbidden articles at V, 2, 1.
 
 
-V, 29, 2. OX THE DAILY LITE Or THE BHIKKIIUS. 1 43
-
-gather h those made like the head of a water-
-snake 1 2 , girdles with tambourines on them 3 , girdles
+gather h those made like the head of a watersnake 1 2 , girdles with tambourines on them 3 , girdles
 with beads on (or with ornaments hanging from
 them) 4 5 . Whosoever does so, shall be guilty of a
 dukka/a. I allow you, O Bhikkhus, girdles of
@@ -7688,14 +6654,13 @@ be made, as usual, see Mahavagga VI, 12, 3 ; A'ulla-
 and compare Bohtlmgk-Roth undei kalapa ka lap aka
 
 - Der/dhibhakaw nama udaka-sappi-sisa-sadisaw (B) Ded-
- /ubha corresponds to the later Sanskrit duwtfubha an oldei form
+(/ubha corresponds to the later Sanskrit duwtfubha an oldei form
 of which is d undub ha
 
 3 Mura^a, literal!}, ‘tambourines; but see Buddhaghosas
 note. loc cit.
 
-4 Maddavinaw nama pamanga-sa^/Mna/ra (B.). On pa-
-in an g a. see our note at Ahillavagga V 2, 1.
+4 Maddavinaw nama pamanga-sa^/Mna/ra (B.). On pain an g a. see our note at Ahillavagga V 2, 1.
 
 5 Sukarantakaw. See Buddhaghosas note at p 319 of the
 text We do not venture to tianslate the term.
@@ -7709,20 +6674,12 @@ the Ma^/nma Sila, § 3 sobhawakam or s 0 bh a - k ar aw am
 plant of the fibres of which bow-strings are made, 3 bow-string.
 
 8 Pavananto ti pasanto (B ),
-
-s Vidho. But both the reading and the explanation are un-
-certain, and Buddhaghosa says nothing. The woid occurs aho,
+s Vidho. But both the reading and the explanation are uncertain, and Buddhaghosa says nothing. The woid occurs aho,
 and apparently in the same sense, m the Old Commentar} on the
 86 th Pa&tli)a.
 
 
-144
-
-
 &ULLAVAGGA.
-
-
-V, 29, 3.
 
 
 v a gga V, 5, 2, &c., adding at the end ‘and made
@@ -7755,8 +6712,7 @@ They fastened the phalaka cloth for the' block
 or the chain on to the edge of the robe ; and the
 corner came open 5 .
 
-1 Sawghd/iyo in the plural must mean garments and not waist-
-cloths only. See the parallel passage in the Bhikkhuni-vibhahga,
+1 Sawghd/iyo in the plural must mean garments and not waistcloths only. See the parallel passage in the Bhikkhuni-vibhahga,
 P&Kttiya XCVI.
 
 2 Ga«//zika?«. The use of this article ts referred to in VIII,
@@ -7778,9 +6734,6 @@ in Buddhaghosa on ma££/ 5 av&/aka« in the next section.
 the legs were visible through the opening.
 
 
-V, 29 , 4* ON THE DAILY LIFE OF THE BIIIKKHUS. 1 45
-
-
 They told this matter to the Blessed One.
 
 ‘ I allow you, O Bhikkhus, to fasten the phalaka
@@ -7794,8 +6747,7 @@ wore (&c„ as usual, ending with)
 ‘ You are not, O Bhikkhus, to wear your under
 garments arranged as laymen do, nor arranged with
 appendages like elephant-trunks 1 , nor arranged like
-fishing-nets 2 , nor arranged with four corners show-
-ing 3 , nor arranged like flower-stands 4 , nor arranged
+fishing-nets 2 , nor arranged with four corners showing 3 , nor arranged like flower-stands 4 , nor arranged
 like rows of jewelry 5 6 . Whosoever does so, shall be
 guilty of a dukka/a.’
 
@@ -7804,8 +6756,7 @@ guilty of a dukka/a.’
 ‘You are not, O Bhikkhus, to wear your upper 0
 
 
-1 Hatlhi-so«^aka« nama nabln-mftlato hatthi-so;/Ai-$az;//?a-
-na m olambakaw katvi mvattha/», ko/ika-itthinaw ni\ asanaw wya
+1 Hatlhi-so«^aka« nama nabln-mftlato hatthi-so;/Ai-$az;//?ana m olambakaw katvi mvattha/», ko/ika-itthinaw ni\ asanaw wya
 (B.)
 
 2 MaHAa-va/akaw nama ekato dasantaw ekato pasantam
@@ -7827,19 +6778,12 @@ would be possible if the reading were sata-valikazw, and is
 piobably only a pis aller, due to the difficulty of the first, which
 we have adopted doubtfully.
 
-6 Parupati as opposed to nivaseti above. Compare Dham-
-mapada, pp. 114, 376; ffataka, vol. 1, p. 57, line 16.
+6 Parupati as opposed to nivaseti above. Compare Dhammapada, pp. 114, 376; ffataka, vol. 1, p. 57, line 16.
 
 [20] L
 
 
-146
-
-
 OTLLAVAGGA.
-
-
-V, 29, 5.
 
 
 garments as the laymen do. Whosoever does so,
@@ -7907,8 +6851,7 @@ the mouth becomes bad-smelling — the passages by
 which the flavours of the food pass are not pure —
 bile and phlegm get into 2 the food — and the food
 does not taste well 0 to him (who does not use
-them). These are the five disadvantages, O Bhik-
-khus, in not using tooth-sticks/
+them). These are the five disadvantages, O Bhikkhus, in not using tooth-sticks/
 
 4 There are five advantages, O Bhikkhus, (&c.,
 the converse of the last)/
@@ -7925,8 +6868,7 @@ They told this matter to the Blessed One.
 
 
 Mechanical skill had not advanced so far m those days , and we
-hear nothing of brushes of any kind (see above, V, 2, 3, as to hair-
-dressing). The f tooth-sticks 5 were bits of sweet-smelling wood
+hear nothing of brushes of any kind (see above, V, 2, 3, as to hairdressing). The f tooth-sticks 5 were bits of sweet-smelling wood
 or root, or creeper (see (r&taka I, 80; Mahava^sa, p 23), the
 ends of which were to be masticated as a dentifrice, not xubbed on
 the teeth. After using them the mouth was rinsed out with
@@ -7939,8 +6881,7 @@ purpose.
 and beautiful; that was not the purpose which the tooth-sticks
 were designed to effect. There seems to have been really some
 idea that the use of them was good for the eye-sight. So Buddha*
-ghosa says here, a^akkhussan ti fakkhunaw hita/w ma hoti, pari-
-ha mm ^aneti, quite in accordance with the Sanskrit ^akshushya.
+ghosa says here, a^akkhussan ti fakkhunaw hita/w ma hoti, pariha mm ^aneti, quite in accordance with the Sanskrit ^akshushya.
 The words recur below, VI, 2, 2, in the same sense.
 
 2 Pariyonandhanti. Literally, ‘envelope/ c cover’
@@ -7951,20 +6892,10 @@ cover ’ It is L^ad No. 2 m Bohthngk-Roth.
 L 2
 
 
-148
-
-
 A’ULLAVAGGA,
-
-
-V, 32, 1.
-
-
 sticks. Whosoever does so, shall be guilty of a
 dukka/a. I allow you, O Bhikkhus, tooth-sticks
-up to eight finger-breadths in length. And Sa-
-ma?zeras are not to be struck with them. Who-
-soever does so, shall be guilty of a dukkaz'a.’
+up to eight finger-breadths in length. And Sama?zeras are not to be struck with them. Whosoever does so, shall be guilty of a dukkaz'a.’
 
 Now at that time a certain Bhikkhu, when using
 too short a tooth-stick, got it stuck in his throat.
@@ -7992,9 +6923,7 @@ Whosoever does so, shall be guilty of a dukka^a.’
 
 Now at that time the Viharas -were hidden
 under masses of grass ’, and when the woods were
-set on fire the Vihiras were burnt. The Bhik-
-khus, fearing to offend, would not make a counter-
-fire for their own protection.
+set on fire the Vihiras were burnt. The Bhikkhus, fearing to offend, would not make a counterfire for their own protection.
 
 They told this matter to the Blessed One.
 
@@ -8005,11 +6934,7 @@ They told this matter to the Blessed One.
 is ti?za-£Madana. See V, 11, 6 ; V, 14, 3, &c.
 
 
-V, 33) I. ON THE DAILY LIFE OF THE BHIKKHUS. 1 49
-
-
-on fire to make a counter-fire 1 , and thus afford your-
-selves protection.’
+on fire to make a counter-fire 1 , and thus afford yourselves protection.’
 
 2. Now at that time the vOabbaggiya Bhikkhus
 climbed up trees, and jumped from tree to tree.
@@ -8073,14 +6998,12 @@ seats on one side. And so sitting those Bhikkhus
 spake to the Blessed One thus :
 
 * At the present time, Lord, Bhikkhus, differing
-in name, differing in lineage, differing in birth, differ-
-ing in family, have gone forth (from the world).
+in name, differing in lineage, differing in birth, differing in family, have gone forth (from the world).
 These corrupt the word of the Buddhas by (repeating
 it in) their own dialect. Let us, Lord, put the word
 of the Buddhas into (Sanskrit) verse V
 
-‘ How can you, O foolish ones, speak thus, say-
-ing, “ Let us, Lord, put the word of the Buddhas
+‘ How can you, O foolish ones, speak thus, saying, “ Let us, Lord, put the word of the Buddhas
 into verse ?” This will not conduce, O foolish ones,
 either to the conversion of the unconverted, or to
 the increase of the converted ; but rather to those
@@ -8123,26 +7046,22 @@ learnt the Lokayata system 2 .
 People murmured, &c., saying, 4 Like those who
 still enjoy the pleasures of the world !'
 
-The Bhikkhus heard of the people thus murmur-
-ing ; and those Bhikkhus told the matter to the
+The Bhikkhus heard of the people thus murmuring ; and those Bhikkhus told the matter to the
 Blessed One.
 
 4 Now can a man who holds the Lokayata as
-valuable reach up, O Bhikkhus, to the full ad-
-vantage of, or attain to full growth in, to full
+valuable reach up, O Bhikkhus, to the full advantage of, or attain to full growth in, to full
 breadth in this doctrine and discipline 3 ?’
 
 4 This cannot be, Lord.’
 
-4 Or can a man who holds this doctrine and disci-
-pline to be valuable learn the Lokayata system ?’
+4 Or can a man who holds this doctrine and discipline to be valuable learn the Lokayata system ?’
 
 1 On the historical conclusions which may be drawn from this
 tradition, see H. O/s mtioduction to the text of the Mahavagga,
 pp. xlix and following
 
-2 This is mentioned also in the Assalayana Sutta (at the begin-
-ning), and in the same terms in the Milinda Pa?zha, p. 10, as one
+2 This is mentioned also in the Assalayana Sutta (at the beginning), and in the same terms in the Milinda Pa?zha, p. 10, as one
 of the branches of learning distinctive of well-educated Brahmans.
 It is condemned among other ‘ low arts ’ m the very ancient Maha
 Sila, § 5. (See Rh. D/s ‘ Buddhist Suttas from the Pali? p. 199,
@@ -8150,8 +7069,7 @@ and his note on the age of this work, ibid p. 188 ) Among later
 works, the Nepalese Buddhists refer to it as one of the things with
 which a Bodhisattva will not condescend to occupy himself (Lotus
 of the Good Law, ch. xui, Burnouf’s veision, p. 168), and m
-which good disciples will take no pleasuie (ibid. p. 280). Buddha-
-ghosa has a note on the passage in the Maha Sila (quoted by
+which good disciples will take no pleasuie (ibid. p. 280). Buddhaghosa has a note on the passage in the Maha Sila (quoted by
 Childers sub voce), which shows that it was understood m his time
 to be, or rather to have been, a system of casuistry.
 
@@ -8159,19 +7077,15 @@ to be, or rather to have been, a system of casuistry.
 ‘ Buddhist Suttas from the Pali? p. 223).
 
 
-152
-
-
 AULLAVAGGA.
 
 
-L 33> 3-
+L 33) 3-
 
 
 ‘ This cannot be, Lord.’
 
-‘You are not, O Bhikkhus, to learn the Lo-
-k&yata system. Whosoever does so, shall be guilty
+‘You are not, O Bhikkhus, to learn the Lok&yata system. Whosoever does so, shall be guilty
 of a dukka/a.’
 
 Now at that time the W/zabbaggiya Bhikkhus
@@ -8182,8 +7096,7 @@ enjoying the pleasures of the world ! ’
 
 They told this matter to the Blessed One.
 
-‘You are not, O Bhikkhus, to teach the Lo-
-k&yata system. Whosoever does so, shall be
+‘You are not, O Bhikkhus, to teach the Lok&yata system. Whosoever does so, shall be
 guilty of a dukka/a.’
 
 [Similar paragraphs to the last, ending]
@@ -8192,8 +7105,7 @@ guilty of a dukka/a.’
 the low arts 1 (of divination, spells, omens, astrology,
 sacrifices to gods, witchcraft, and quackery).’
 
-3. Now at that time the Blessed One when, sur-
-rounded by a great assembly, he was preaching the
+3. Now at that time the Blessed One when, surrounded by a great assembly, he was preaching the
 Dhamma, sneezed. The Bhikkhus raised a great
 and mighty shout, ‘ Long life to our Lord the
 Blessed One! Long life to the Happy One!’ and
@@ -8211,15 +7123,10 @@ die on that account ?’
 These are set out m full in the seven sections of the Mahd Sila
 (translated in Rh D.’s 'Buddhist Suttas from the Pali,' pp. 196—
 200). As noticed above, the Lokdyata system is there mentioned
-(§ 5) one of them. Learning or teaching these things are for-
-bidden in almost identical terms to the Bhikkhunis in the Bhik-
-khuni-vibhanga, Pa&ttiyas XLIX and L.
+(§ 5) one of them. Learning or teaching these things are forbidden in almost identical terms to the Bhikkhunis in the Bhikkhuni-vibhanga, Pa&ttiyas XLIX and L.
 
 
 3-f, i-
-
-
-ON THE DAILY LIFE OF THE BIIIKKHUS. 1 53
 
 
 ‘ Y ou are not, O Bhikkhus, when one has sneezed,
@@ -8265,7 +7172,6 @@ for May, 188 x.
 2 Gihi bhikkhave mangalikd.
 
 3 Vyabahi»2su is for vydbddhimsu. See p. 320 of the edition
-
 of the text.
 
 
@@ -8273,9 +7179,6 @@ i54
 
 
 JTULLAVAGGA.
-
-
-V, 34, 2.
 
 
 seated himself apart in order not to annoy the
@@ -8287,13 +7190,11 @@ a preaching of the Dhamma as this ?’
 
 ‘ No, indeed, Lord.’
 
-‘ You are not, O Bhikkhus, to eat onions. Who-
-soever does so, shall be guilty of a dukka/a 1 .’
+‘ You are not, O Bhikkhus, to eat onions. Whosoever does so, shall be guilty of a dukka/a 1 .’
 
 2. Now at that time the venerable S&riputta
 had wind in his stomach. And the venerable Maha
-Moggallana went up to the place where the vener-
-able Shriputta was, and when he had come there,
+Moggallana went up to the place where the venerable Shriputta was, and when he had come there,
 he said to the venerable Sariputta :
 
 ‘ How did you formerly, friend Sariputta, get
@@ -8303,8 +7204,7 @@ relief, when you had wind in the stomach ?’
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, to eat onions on ac-
-count of disease.’
+‘ I allow you, O Bhikkhus, to eat onions on account of disease.’
 
 
 35 .
@@ -8319,30 +7219,24 @@ They told this matter to the Blessed One.
 side (of the Aram a).’
 
 
-There is a similar rule for the Bhikkhunis in the Bhikkhuni-
-vibhanga, Paiittiya I So also onions are mentioned among the
+There is a similar rule for the Bhikkhunis in the Bhikkhunivibhanga, Paiittiya I So also onions are mentioned among the
 things a Gam Bhikkhu may not accept (Aytranga Sutta II, i,
-8 >* 3 )-
+8 )* 3 )-
 
 2 It is gruel of various kinds that is prescribed for this malady
 in Mahavagga VI, 16, 3-17, 2.
 
 
-V, 37 ) I- ON THE DAILY LIFE OF THE BHIKKI1US. 1 55
-
-
 The Arama became offensive
 
 [The rest of this chapter is scarcely translateable.
-It records in like manner the various sanitary diffi-
-culties which arose from the living together of a
+It records in like manner the various sanitary difficulties which arose from the living together of a
 number of Bhikkhus. Each such difficulty is quite
 solemnly said to have been reported to the Blessed
 One, and he is said to have found a wav out of it.
 The result of the whole is, that the building of
 privies is enjoined, and all the contrivances, such as
-seats, doors, steps, plastering, &c., already men-
-tioned with respect to the bath-room, above, V, 14,
+seats, doors, steps, plastering, &c., already mentioned with respect to the bath-room, above, V, 14,
 are here repeated verbatim h]
 
 
@@ -8365,8 +7259,7 @@ o
 37 .
 
 1. Now at the time when the venerable Kassapa
-of Uruve/a went forth (from the world), much pro-
-perty in brass and wood and earthenware came
+of Uruve/a went forth (from the world), much property in brass and wood and earthenware came
 into the possession of the Sawghak And the
 
 
@@ -8375,9 +7268,6 @@ Mahavagga I, 25, ig= A'ullavagga VIII, 1, 5, and .Aullavagga
 VIII, 9 and 10.
 
 2 See Mahavagga I, 20, 19-21.
-
-
-156
 
 
 JsTULLAVAGGA.
@@ -8399,8 +7289,7 @@ discourse, addressed the Bhikkhus, and said :
 ‘ I allow you, O Bhikkhus, all kinds of brass ware,
 except weapons 2 — all kinds of wooden things, except
 divans 3 , and long-armed chairs 3 , and bowls 4 , and
-shoes 5 * , — and all kinds of earthenware, except ka-
-takas °, and large earthen vessels to be used as
+shoes 5 * , — and all kinds of earthenware, except katakas °, and large earthen vessels to be used as
 huts to live in 7 .’
 
 
@@ -8421,20 +7310,13 @@ avudha-saj^ghatass’ eta,m adbiva^anaw (B.).
 
 0 On this woid see our note above at V, 22, 1.
 
-7 This is the only one of the things heie mentioned not re-
-ferred to 111 previous rules. Buddhaghosa says, Kumbha-kariksi
+7 This is the only one of the things heie mentioned not referred to 111 previous rules. Buddhaghosa says, Kumbha-kariksi
 ti Dhaniyass’ eva sabba-mattikamaya-ku/i vu^ati. The story of
 Dhaniya is given m the text of the Vinaya, vol. iii, pp. 42 and
 following.
 
 
 VI, I, 2.
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-157
 
 
 SIXTH KHANDHAKA.
@@ -8445,8 +7327,7 @@ On Dwellings and Furniture.
 
 1. Now at that time the Blessed Buddha 1 was
 staying at Rct^agaha in the Ve/uvana, in the
-Kalandaka Nivapa 2 . And at that time no per-
-mission had been given to the Bhikkhus by the
+Kalandaka Nivapa 2 . And at that time no permission had been given to the Bhikkhus by the
 Blessed One with respect to dwellings. So the
 Bhikkhus dwelt now here, now there — in the woods,
 at the foot of trees, on hill-sides, in grottoes, in
@@ -8481,13 +7362,10 @@ STULL AVAGGA.
 VI, I, 3.
 
 
-158
-
 Rao'agaha saw those Bhikkhus coming in from this
 place and from that place, from the woods (&c., as
 in § 1, down to the end), and on seeing them he
-took pleasure therein h And the S&ttki of Raga-
-gaha went up to those Bhikkhus, and said to them :
+took pleasure therein h And the S&ttki of Ragagaha went up to those Bhikkhus, and said to them :
 
 1 If, Sirs, I were to have dwellings erected for
 you, would you take up your abode in those
@@ -8514,7 +7392,7 @@ that connection, when he had delivered a religious
 discourse, addressed the Bhikkhus, and said :
 
 ‘ I allow you, O Bhikkhus, abodes of five kinds —
-Viharas, A  Af/£ayogas, storied dwellings, attics,
+Viharas, A (Af/£ayogas, storied dwellings, attics,
 caves V
 
 3. Then those Bhikkhus went up to the S&ttkl of
@@ -8533,14 +7411,7 @@ given in our note above, Mahavagga I, 30, 4.
 VI, I, 5-
 
 
-ON DWELLINGS AND FURNITURE.
-
-
-159
-
-
-4. And when the SeZZ/zi of Ra^agaha had com-
-pleted those sixty dwelling-places, he went up to
+4. And when the SeZZ/zi of Ra^agaha had completed those sixty dwelling-places, he went up to
 the place where the Blessed One was, and [invited
 him and the Bhikkhu Sawgha for the morrow’s
 meal ; and so on, as usual ] , down to the time
@@ -8578,8 +7449,7 @@ they are kept off.
 
 2 Literally, ‘establish’ (pa/i//Zapehi).
 
-3 This formula of dedication has been constantly found in rock-
-inscriptions in India and Ceylon over the ancient cave-dwellings of
+3 This formula of dedication has been constantly found in rockinscriptions in India and Ceylon over the ancient cave-dwellings of
 Buddhist hermits. See Rh. D. in the ‘Indian Antiquary’ for
 May, 1872.
 
@@ -8590,7 +7460,6 @@ that connection in the Crataka Commentary, I, 93.
 j6o i'ULLAVAGGA. VI, i, 2 .
 
 2. To give Viharas to the Samgha, wherein in
-
 safety and in peace
 
 To meditate and think at ease, the Buddha
@@ -8598,11 +7467,9 @@ calls the best of gifts.
 
 3. Let then the able man, regarding his own weal,
 Have pleasant monasteries built, and lodge
-
 there learned men 1 .
 
 4. Let him with cheerful mind give food to them,
-
 and drink,
 
 Raiment, and dwelling-places, to the upright
@@ -8630,18 +7497,13 @@ doors 3 , and snakes, scorpions, and centipedes got in.
 1 This verse forms the subject of one of the ‘Questions of
 Milinda’ (ed. Trenckner, p. 211).
 
-2 The above verses may have stood originally in a different con-
-text from that in which they have been handed down, as the
+2 The above verses may have stood originally in a different context from that in which they have been handed down, as the
 opening phrase sitaw pa/ihanti would be more intelligible if the
 word viharo occurred m the immediately preceding clause.
 
 3 Kava/a. This is the special word for door. D vara often
-roughly translated door, is not really ‘ door/ but ‘ door- ’ or ‘ gate-
-way,’ with special reference to the aperture and not to that by
+roughly translated door, is not really ‘ door/ but ‘ door- ’ or ‘ gateway,’ with special reference to the aperture and not to that by
 which the aperture could be closed. The latter word is also
-
-
-VI, 2,1. ON DWELLINGS AND FURNITURE. l6l
 
 
 They told this matter to the Blessed One.
@@ -8657,13 +7519,11 @@ the doors fell.
 They told this matter to the Blessed One.
 
 ‘ I allow, O Bhikkhus, door-posts and lintel, hollow'
-like a mortar, for the door to revolve in, and pro-
-jections to the door for it to revolve on/
+like a mortar, for the door to revolve in, and projections to the door for it to revolve on/
 
 The doors would not come to.
 
-4 1 allow, O Bhikkhus, a hole to pass a string-
-through with which to pull the door to, and a string
+4 1 allow, O Bhikkhus, a hole to pass a stringthrough with which to pull the door to, and a string
 for that purpose.’
 
 The doors could not be made fast 2 .
@@ -8681,8 +7541,7 @@ They told this matter to the Blessed One.
 
 
 different from c door/ m that it is never used for the entrance into
-an inner chamber. It is always the outer entrance (and the en-
-trance at the front as distinguished from the entrance at the bock)
+an inner chamber. It is always the outer entrance (and the entrance at the front as distinguished from the entrance at the bock)
 of a house, or one of the principal enhances to a walled town or
 village. See, for instance, Fa/fcitti) a XIX, A’ullavagga VIII, 5, 1,
 VIII, 8, 1 ; Gataka I, 63, 114, 346, 361, II, 63, 140.
@@ -8697,13 +7556,7 @@ lattices mentioned in the next section (VI, 2, 2).
 [20] M
 
 
-162
-
-
 ZULLAVAGGA.
-
-
-VI, 2, 2.
 
 
 4 I allow, O Bhikkhus, key-holes, and keys of three
@@ -8727,8 +7580,7 @@ They told this matter to the Blessed One.
 skins) 3 , and to plaster them within and without/
 
 Now at that time the Viharas had no windows,
-and they were bad for the eyes, and had a dis-
-agreeable odour.
+and they were bad for the eyes, and had a disagreeable odour.
 
 They told this matter to the Blessed One.
 
@@ -8742,8 +7594,7 @@ bolt (gha/ikd) just referred to.
 
 2 Yantaka?# suXuka#?, "which is the only expiession here used
 which has not already occurred above at V, 14, 3 Buddhaghosa
-says, Yantaka-su/hkan ti ettha ya?# ya m g-anati ta m tam yanta-
-ka?#. Tassa vivara-suAka?# kmUnka#? katu/# va//ati.
+says, Yantaka-su/hkan ti ettha ya?# ya m g-anati ta m tam yantaka?#. Tassa vivara-suAka?# kmUnka#? katu/# va//ati.
 
 3 See the note at V, 14, 3.
 
@@ -8751,22 +7602,12 @@ ka?#. Tassa vivara-suAka?# kmUnka#? katu/# va//ati.
 our note on \edika above, V, 14, 2. These windows or lattices
 are mentioned m ATullavagga VIII, 1, 5; Mahavagga I, 25, 18.
 
-5 <2ala-vatapana?# nama .galaka-baddha?# (B.). G&lam,
-literally 4 net/ is given as a word for ‘ window ’ at Abhidhana-
-ppadipika, verse 216. The expression probably corresponds to
+5 (2ala-vatapana?# nama .galaka-baddha?# (B.). G&lam,
+literally 4 net/ is given as a word for ‘ window ’ at Abhidhanappadipika, verse 216. The expression probably corresponds to
 our lattice/ and does not mean that an actual net was used.
 Compare the Anglo-Indian ‘ jalousie/
 
-c Sal aka-vatapana?# nama thambhaka-vatapana?# (B.). Pos-
-
-
-vi, 2 , 3-
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-163
+c Sal aka-vatapana?# nama thambhaka-vatapana?# (B.). Posvi, 2 , 3-
 
 
 Squirrels and bats 1 entered through the opening
@@ -8807,13 +7648,11 @@ valguli
 anu^dnami ti attho (B ). The woid iakkah occurs below, VI,
 19, piobably in the sense here meant.
 
-3 Vatapdna-bhisi ti vitapana-pamdwena blnsu/z katva bandhi-
-tu m anu^anami ti attho (B ), Probably like the sand-bags used m
+3 Vatapdna-bhisi ti vitapana-pamdwena blnsu/z katva bandhitu m anu^anami ti attho (B ), Probably like the sand-bags used m
 England to keep out draughts. On the use of the void m other
 connections, see our note on Mahdvagga VIII, 13, 1, and the
 Old Commentaiy on Pa&ttiya XIV (wheie Eve kinds are named)
 with the Kankhd-vitarawi on the last passage quoted by Mmayeff,
-
 p. 86.
 
 4 Mi^/um. See the note on V, 9, 4. Native huts in Ceylon
@@ -8824,13 +7663,7 @@ are commonly used as sleeping-places for the unman led males
 M 2
 
 
-164
-
-
 XULLAVAGGA.
-
-
-VI, 2, 3.
 
 
 On the solid bench their limbs ached.
@@ -8838,11 +7671,8 @@ On the solid bench their limbs ached.
 * I allow, O Bhikkhus, bedsteads made of laths
 of split bamboo V
 
-Now at that time a bier-like masaraka 2 bed-
-stead — a mas&raka chair — a bier-like bundiki-
-baddha 3 bedstead — a bundikabaddha chair — a
-bier-like kulira-pidaka 4 bedstead — a kulira-pa-
-daka chair — a bier-like iha^ia-padaka 5 bedstead
+Now at that time a bier-like masaraka 2 bedstead — a mas&raka chair — a bier-like bundikibaddha 3 bedstead — a bundikabaddha chair — a
+bier-like kulira-pidaka 4 bedstead — a kulira-padaka chair — a bier-like iha^ia-padaka 5 bedstead
 — an ahaMa-p&daka chair — had come into the
 possession of the Sawgha.
 
@@ -8859,10 +7689,7 @@ lines 26, 34 Compare the Sanskrit bid ala and vidala.
 the Old Commentary to the 14th Paiittiya, wheie all the four
 words in this paragraph also occur, he has the following note
 (see Mmayeff, p. 68): Mas&rako ti man£a-pade viggAitvd tattha
-a/aniyo pavesetvd kato — just the opposite therefore of &ha££a-
-padako below. On a /am, compare our note to the 87 th Pd&t-
-tiya. The four names recur, of chairs only, m the Old Com-
-mentary on the 87th and 88th PaMtiyas.
+a/aniyo pavesetvd kato — just the opposite therefore of &ha££apadako below. On a /am, compare our note to the 87 th Pd&ttiya. The four names recur, of chairs only, m the Old Commentary on the 87th and 88th PaMtiyas.
 
 3 Buddhaghosa, loc. cit., says, Bundikdbaddho ti a/anihi
 ma?Ua-pdde tfhwsapetva pallanka-sawkhepena kato. The first
@@ -8878,11 +7705,8 @@ ange vig^itvd kato hotiti eva m parato paliyaw yeva vutto. Tasmd
 a/aniyo vig^/ntva tattha p&da-sikhaw pavesetvd upaii aram datva;
 kata-ma«io aha^a-padako ti veditabbo (B. loc. cit.). This is m
 agreement with the Old Commentaiy on the 18th Pa/dttiya in
-which this word already occurs. Compare ahaMa in the Aya-
-ranga Shya II, 1, i, 2, II, i, 10, 6.
+which this word already occurs. Compare ahaMa in the Ayaranga Shya II, 1, i, 2, II, i, 10, 6.
 
-
-VI, 2 , 4* ON DWELLINGS AND FURNITURE. 1 55
 
 They told this matter (in each case) to the
 Blessed One.
@@ -8893,8 +7717,7 @@ Blessed One.
 arm-chair 2 — a sofa 3 — a sofa with arms to it 4 — a
 state chair 5 — a cushioned chair G — a chair raised on
 a pedestal 7 — a chair with many legs 8 — a board (tc
-recline on) 9 — a cane-bottomed chair 10 — a straw-
-bottomed chair — had come into the possession of
+recline on) 9 — a cane-bottomed chair 10 — a strawbottomed chair — had come into the possession of
 the Sa?;zgha.
 
 They told this matter (in each case's to the
@@ -8903,12 +7726,9 @@ Blessed One.
 4 1 allow you, O Bhikkhus, (each of these things).'
 
 
-1 Asandiko. Buddhaghosa says, Asandako (sic) ti Auuia^sa-
-pi/y&aw vuX 7 eati. An asandi (cushioned chair) is forbidden at Ma-
-havagga V, io, 4.
+1 Asandiko. Buddhaghosa says, Asandako (sic) ti Auuia^sapi/y&aw vuX 7 eati. An asandi (cushioned chair) is forbidden at Mahavagga V, io, 4.
 
-2 UMaka m pi asandi lean ti va&inato ekato-bhagena digha-
-piZ/iam eva hi aZZ/^angula-padakaw vaZ/ati (B.).
+2 UMaka m pi asandi lean ti va&inato ekato-bhagena dighapiZ/iam eva hi aZZ/^angula-padakaw vaZ/ati (B.).
 
 3 Sattango nama tisu disasu apassayaw kat\a ma/U’o (B ).
 On apassayazw, compare note 9.
@@ -8916,7 +7736,6 @@ On apassayazw, compare note 9.
 4 UMako pi sattango. Compare note 2.
 
 B Bhadda-piMan ti velta-mayaw pithaw vu££ati (B ). We
-
 follow Bohtlingk-Roth sub voce bhadra-piMa
 
 6 Pi//nka ti pilotika-baddhaw pitham eva (B.). Childers says
@@ -8933,8 +7752,7 @@ tala-va;z/aka at V, 29, 4.
 9 Phaiakaw. Compare apassena-phalakaw at Maha\agga
 I, 25, 12, and below, ATullavagga VI, 20, 2.
 
-10 ~K.0kkhd.7n nama vdkamayaw \a usiramayaw \a mu^a-
-maya m va babbag-amayaw va anto sawve/yfcetva baddhaw hoti, sa\s
+10 ~K.0kkhd.7n nama vdkamayaw \a usiramayaw \a mu^amaya m va babbag-amayaw va anto sawve/yfcetva baddhaw hoti, sa\s
 the Old Commentary on the 14th Pa&ttiya. Buddiiaghosa gn es
 here the same explanation, omitting vaka.
 
@@ -8960,8 +7778,7 @@ They told this matter to the Blessed One.
 1 You are not, O Bhikkhus, to sleep on lofty beds.
 Whosoever does so, shall be guilty of a dukka/a V
 
-Now at that time a certain Bhikkhu, when sleep-
-ing on a low couch, was bitten by a snake 2 3 .
+Now at that time a certain Bhikkhu, when sleeping on a low couch, was bitten by a snake 2 3 .
 
 They told this matter to the Blessed One.
 
@@ -8969,8 +7786,7 @@ They told this matter to the Blessed One.
 bedsteads V
 
 Now at that time the AAabbaggiya Bhikkhus used
-lofty supports to their bedsteads, and rocked them-
-selves with these bedstead supports, backwards and
+lofty supports to their bedsteads, and rocked themselves with these bedstead supports, backwards and
 forwards 4 .
 
 ‘You are not, O Bhikkhus, to use lofty supports
@@ -9001,9 +7817,6 @@ p. 191).
 at p. 321 of the text must be withdrawn.
 
 
-VI, 2, 6.
-
-
 ON DWELLINGS AND FURNITURI .
 
 
@@ -9030,43 +7843,31 @@ Po/aki-grass/
 Now at that time the AVzabbaggiya Bhikkhus
 made use of pillows half the size of a mans body.
 
-People who came on a visit to the Vi haras mur-
-mured, &c., on seeing this, saying, 4 Like those who
+People who came on a visit to the Vi haras murmured, &c., on seeing this, saying, 4 Like those who
 still enjoy the pleasures of the world.’
 
 
 1 A/Mapadaka/;/ vetuw. Buddhaghosa says nothing either
 here or at Mahavagga VIII, 21, where the word also occuis
 A///2apada-//Mpana at (rataka II, 5, 14, is a mode of dressing the
-hair, probably m broad plaits crossing each othei so as to le-
-semble the squares of a chessboard.
+hair, probably m broad plaits crossing each othei so as to lesemble the squares of a chessboard.
 
 2 Or 4 rug.’ ATilimika ti nama parikammakataya bhumn a
-Mavi-sawrakkhanatthaya atthara^aw vu/bhxti (B ). It is pro-
-bably the same word as, or connected with, £imilika, used by
+Mavi-sawrakkhanatthaya atthara^aw vu/bhxti (B ). It is probably the same word as, or connected with, £imilika, used by
 Buddhaghosa m note 5 on Mahavagga VII, 1, 5, and explained
 by him (m Mmayeff, p. 87, line 5) as tala-pa?/7zadihi kata.
-Both words are possibly diminutues of £ola, and it is not im-
-probable that the reading should be Xulimika in both cases, as
+Both words are possibly diminutues of £ola, and it is not improbable that the reading should be Xulimika in both cases, as
 Buddhaghosa so spells the word again in his note below on
 Vb 2, 7.
 
-3 Tftlikil. This is undoubtedly what is meant to be for-
-bidden in § 5 of the Maxima Sila, although Grimblot, £ Sept
+3 Tftlikil. This is undoubtedly what is meant to be forbidden in § 5 of the Maxima Sila, although Grimblot, £ Sept
 Suttas Palis/ p. 9, reads kulikaw. See Mahavagga V. io, 4.
 
-4 Compare IV, 4, 4, VIII, 1, 3, where such pillows aie men-
-tioned among the ordinary belongings of a Vihara. The present
+4 Compare IV, 4, 4, VIII, 1, 3, where such pillows aie mentioned among the ordinary belongings of a Vihara. The present
 rule is repeated below in VI, 14.
 
 
 1 68
-
-
-A'ULLAVAGGA.
-
-
-VI, 2, 7.
 
 
 They told this matter to the Blessed One.
@@ -9100,8 +7901,7 @@ They told this matter to the Blessed One.
 with it.’
 
 Now at that time the Bhikkhus folded up bed
-bolsters on to chairs 3 , and chair bolsters on to bed-
-steads, and the bolsters came to pieces.
+bolsters on to chairs 3 , and chair bolsters on to bedsteads, and the bolsters came to pieces.
 
 They told this matter to the Blessed One.
 
@@ -9117,8 +7917,6 @@ covered (with upholstered cushions to fit them).’
 man^a-pi/^e attharanti attharanatthaya haranti ti yugguti (B.).
 On this use of sawharati compare above, V, n, 7.
 
-
-VI, 2, 7 - ON DWELLINGS AND FURNITURE. 169
 
 They covered the bedsteads and chairs without
 puttiflg a cloth beneath them 1 , and the stuffing
@@ -9154,8 +7952,7 @@ commencement of this section.
 The Pali woid is posituzzz, which Buddhaghosa explains thua —
 hesitun ti (so the Berlin MS.) ra^anena vd haliddhaya va
 upari pusitani ddtuzzz. The word is evidently connected not with
-the root push, but with the roots przsh and piush, ( to be-
-spatter/ and is the same as phositun at Mahavagga VI 14, 5,
+the root push, but with the roots przsh and piush, ( to bespatter/ and is the same as phositun at Mahavagga VI 14, 5,
 which is probably the better reading of the two.
 
 4 Bhatti-kammaw The meaning is doubtful, because the
@@ -9166,13 +7963,9 @@ analogous m foimation to our English ‘patchwork/ though the
 bits of different colour spread over the same stuff, and whatever
 its meaning, it is probably the same word as bhati-kamma at
 
-V, 9, 2.
 
 6 Again both reading and inteipretation are open to question.
 Hattha-bhittin ti pan^angula-bhittiw is all that Buddhaghosa
-
-
-170
 
 
 KXJ LLAV AGGA.
@@ -9229,17 +8022,13 @@ the word into connection with the preceding phrase.
 note at p. 321 of the edition of the text. It recurs below again
 in this section.
 
-4 Piif/^a-maddan ti pi//Aa-khala;;z (B.). Compare the San-
-skrit mrz'd.
+4 Piif/^a-maddan ti pi//Aa-khala;;z (B.). Compare the Sanskrit mrz'd.
 
 
 ON DWELLINGS AND FUPNITURE.
 
 
 VI,
-
-
-171
 
 
 Now at that time the colouring matter of red chalk
@@ -9280,22 +8069,16 @@ Compare ku/z^aka-piivaw in the Gataka Commentary I, 423
 (cakes made of floui mixed with this powder).
 
 2 Sasapa-ku//an ti s^sapa-pi/Z/zam. The word has occurred
-already at Maha\agga VI, 14, 5, where the reading is ku//a in-
-stead of kuflfefe given in the text here. The latter should be
+already at Maha\agga VI, 14, 5, where the reading is ku//a instead of kuflfefe given in the text here. The latter should be
 altered m accordance with that passage, and with Buddhaghosa
 here.
 
-3 Sittha-telakan ti vilina-madhu-silthakaw (B ). It is men-
-tioned as used foi hair-oil at iTullavagga V, 2, 3.
+3 Sittha-telakan ti vilina-madhu-silthakaw (B ). It is mentioned as used foi hair-oil at iTullavagga V, 2, 3.
 
 4 AH’ussanna m hot! ti binding bmdu;« hutva ti/Mati, sau
 Buddhaghosa.
 
-5 iTolakena pa^/^uddharitu m, Buddhaghosa says pa£/fcut-
-tharitun ti mu«&itu7w ; but compare for the light fonn V, 17, 1.
-
-
-iTULLAVAGGA.
+5 iTolakena pa^/^uddharitu m, Buddhaghosa says pa£/fcuttharitun ti mu«&itu7w ; but compare for the light fonn V, 17, 1.
 
 
 VI, 3. 2.
@@ -9338,15 +8121,13 @@ They told this matter to the Blessed One.
 drawings painted — figures of men, and figures of
 
 
-1 Ga/^u-mattikan ti ga7/ /uppada-gutha-mattikaw (B ).
+1 Ga/^u-mattikan ti ga7/(/uppada-gutha-mattikaw (B ).
 
 2 Kasavan ti amalaka-hari/akanaw kasavaw (B ). Compare
 MaMvagga VI, 4.
 
 01 Pa/ibhana-^itta/ra. The Bhikkhunis were forbidden by the
-41st Pa&ttiya of the Bhikkhuni-vibhanga to go and see such paint-
-ings. (Sutta-vibhanga II, 298, where a picture gallery, ^Ti tt-
-agara, belonging to King Pasenadi of Kosala, is mentioned.)
+41st Pa&ttiya of the Bhikkhuni-vibhanga to go and see such paintings. (Sutta-vibhanga II, 298, where a picture gallery, ^Ti ttagara, belonging to King Pasenadi of Kosala, is mentioned.)
 We are not quite sure of the connotation of the teim, which
 appeals to imply some leproach. Pei haps it means c suggestive/
 Figures as such were not forbidden; and remains of statues and
@@ -9355,18 +8136,11 @@ been found in great numbers. In the introductory story to the
 26th Paiittiya it certainly means ‘ indecent/
 
 
-VI, 3> 3*
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-173
+VI, 3) 3*
 
 
 women. Whosoever does so, shall be guilty of a
-dukka/a. I allow you, O Bhikkhus, representa-
-tions of wreaths and creepers and bone hooks and
+dukka/a. I allow you, O Bhikkhus, representations of wreaths and creepers and bone hooks and
 cupboards V
 
 3. Now at that time the Vi haras had too low a
@@ -9390,8 +8164,7 @@ They looked on from over this half-wall.
 
 ‘ I allow you, O Bhikkhus, to make inner chambers
 of three kinds — chambers in shape like a palankeen 3 ,
-chambers in shape like a quart measure 4 , and cham-
-bers on an upper storey 5 /
+chambers in shape like a quart measure 4 , and chambers on an upper storey 5 /
 
 
 1 All these woids occur abo\e at V, 11, 6, and V, 14, 4. The
@@ -9399,34 +8172,27 @@ meaning of the two last is very doubtful. Perhaps it is intended
 that these should occupy the space on the walls instead of any
 ornamentation.
 
-2 Alabaman da, literally, ‘like Kuvera’s city 111 heaven/ Bud-
-dhaghosa tells us why. A/akamanda ti ekangana manussabhi-
-k bmL Aknzwa-yakkha, corresponding to this last word, lecnrs
+2 Alabaman da, literally, ‘like Kuvera’s city 111 heaven/ Buddhaghosa tells us why. A/akamanda ti ekangana manussabhik bmL Aknzwa-yakkha, corresponding to this last word, lecnrs
 in the standing description of A/akamandd at Maha-panmbbana
 Sutta V, 43 = Maha Sudassana Sutta I, 3 The name of the
 city is spelt m both those passages with l not 1.
 
 3 Sivika-gabbho ti iaturassa-gabbho says Buddhaghosa.
 
-4 Na/ika-gabbho ti vittharato d\igu«a-Ugu;*-ayamo digha-
-gabbho (B.). That na/ika is used like na/i foi a bushel measure
+4 Na/ika-gabbho ti vittharato d\igu«a-Ugu;*-ayamo dighagabbho (B.). That na/ika is used like na/i foi a bushel measure
 follows fiom a comparison of Gataka 1, 124, last lines, with I, 126,
 line 3.
 
-5 Plammiya-gabbho ti akasa-tale ku/agai a-gabblio mudaw^a-
-
-
-i?4
+5 Plammiya-gabbho ti akasa-tale ku/agai a-gabblio mudaw^ai?4
 
 
 2TULLAVACGA.
 
 
-^ b 3> 4*
+^ b 3) 4*
 
 
-Now at that time the Bhikkhus made inner cham-
-bers in the middle of small Viharas, and there was
+Now at that time the Bhikkhus made inner chambers in the middle of small Viharas, and there was
 no room to move about in.
 
 The)/ told this matter to the Blessed One.
@@ -9445,8 +8211,7 @@ They told this matter to the Blessed One.
 Rain leaked through on to the lath and plaster
 wall of the Vihara 3 .
 
-‘ I allow you, O Bhikkhus, a protecting arrange-
-ment 4 and cement 5 /
+‘ I allow you, O Bhikkhus, a protecting arrangement 4 and cement 5 /
 
 Now at that time a snake fell from the roof on to
 the back of a certain Bhikkhu. He was terrified,
@@ -9456,29 +8221,24 @@ outcry?’ Then that Bhikkhu told the matter to
 
 
 H/zadana-gabbho vd (B.). Compare our note on Mah&vagga I,
-3 °> 4 -
+3 °) 4 -
 
-1 There is a similar injunction at V, 14, 3, with respect to fire-
-places m bath-rooms
+1 There is a similar injunction at V, 14, 3, with respect to fireplaces m bath-rooms
 
 2 Kulanka-padaka?/*. See Buddhaghosa’s note at p. 321 of
 the edition of the text. The remedy here is diffeient from that
-provided in the similar case, at V, 14, 3, with respect to bath-
-houses
+provided in the similar case, at V, 14, 3, with respect to bathhouses
 
 3 On the use of ovassati compare V, 16, 1, and VIII, 3, 3.
 
 4 Parittana-ki/ikan ti tassa panttanatthaw ki/ikaw is all that
 Buddhaghosa says. Compare the end of § 5.
 
-5 Uddha-sudhan ti va/^aka-gomayena k& Mankaya ka. sad-
-dhiwz. maddita-mattikaw (B.).
+5 Uddha-sudhan ti va/^aka-gomayena k& Mankaya ka. saddhiwz. maddita-mattikaw (B.).
 
 6 Vissaraw akasi. See the note on A’ullavagga VIII, i ? 1,
 where the whole incident is similar.
 
-
-YI, 3, 5. ON DWELLINGS AND FURNITURE. I 75
 
 the Bhikkhus, and they told the matter to the
 Blessed One.
@@ -9523,13 +8283,10 @@ use m Viharas.
 3 Apa/issarana, which must ha\e some special, tech meal,
 meaning unknown to us. Baddhagho^a says nothing.
 
-4 Aim do nama pamukhaaw vuAfcati (B.) Compaie Abhidhana-
-
-ppadipika, verse 218.
+4 Aim do nama pamukhaaw vuAfcati (B.) Compaie Abhidhanappadipika, verse 218.
 
 6 P a g h a n a nama ya m mkkhamanta Z’a pavisanta /’a padehi
-hananti. Tassa vihaia-dvare ubhato ku//a m ( ? ) mhantva kata-
-padesass* eta?/? adhiva&maaw. Paghanan ti pi vuH’ati (B.).
+hananti. Tassa vihaia-dvare ubhato ku//a m ( ? ) mhantva katapadesass* eta?/? adhiva&maaw. Paghanan ti pi vuH’ati (B.).
 
 c Pakuz/an ti ma^e gabbhassa samanta paiijagaro \uK’ati.
 Paku/an ti pi pa/Ao (B.).
@@ -9546,8 +8303,7 @@ VT, 3 . 6.
 1 76
 
 
-The verandahs were too public ; and the Bhik-
-khus were ashamed to lie down in them to sleep.
+The verandahs were too public ; and the Bhikkhus were ashamed to lie down in them to sleep.
 
 ‘ I allow you, O Bhikkhus, an arrangement in
 form of a curtain that can be drawn aside 1 , or an
@@ -9573,8 +8329,7 @@ and strings to hang robes in, in the open air.
 
 7. The water became warm.
 
-‘ I allow, O Bhikkhus, a water-room and a water-
-shed.’
+‘ I allow, O Bhikkhus, a water-room and a watershed.’
 
 The water-room had too low a basement (&c., as
 in V, ir, 6, down to the end).
@@ -9588,25 +8343,16 @@ for the water.’
 round them.
 
 ‘ I allow you, O Bhikkhus, to enclose them with
-
-
 osaietvi kata»2 ^adana-pamukhaw (B ). At Gataka III, 446, it
 is said of a dying man ! niharitva osai ake mpa&g&pesujw.'
 
-1 Sawzsarawa-ki/iko nama fokkala-yutto ki/iko (B.). A'ak-
-kala should be compared with ^akkhahka at VI, 2, 2, and
+1 Sawzsarawa-ki/iko nama fokkala-yutto ki/iko (B.). A'akkala should be compared with ^akkhahka at VI, 2, 2, and
 £akkhali at VI, 19.
 
 2 Uggha/ana-ki/iko, on which Buddhaghosa says nothing.
 
 
 VI, 3, 9 -
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-177
 
 
 ramparts (Pakira) of three kinds — brick walls,
@@ -9642,8 +8388,7 @@ Grass and plaster fell from the store-room.
 down to the end of V, 14, 5, as to roofing, flooring,
 drains, &c.).’
 
-9. Now at that time the Bhikkhus made fire-
-places here and there in the Parive/ja, and the
+9. Now at that time the Bhikkhus made fireplaces here and there in the Parive/ja, and the
 Parive^a was covered with the remains of the fires 3 * .
 
 
@@ -9661,13 +8406,7 @@ store-room, the difference is not \ery essential.
 [20] N
 
 
-178
-
-
 KULLAVAGGA.
-
-
-VI, 3, 10.
 
 
 They told this matter to the Blessed One.
@@ -9676,8 +8415,7 @@ They told this matter to the Blessed One.
 room for the fire at one side.’
 
 The fire-room had too low a basement (&c., as in
-V, 11, 6, as to flooring, stairs, and balustrade, fol-
-lowed by the paragraph as to the door, and the
+V, 11, 6, as to flooring, stairs, and balustrade, followed by the paragraph as to the door, and the
 facing, as in V, 14, 3, &c.).
 
 10. Now at that time the Aram as had no fences
@@ -9725,12 +8463,6 @@ c The exact meaning of the word Pasida at the time when this
 VI, 4, I.
 
 
-ON DWELLINGS AND FURNITURE.
-
-
-179
-
-
 covered with cement and clay, for the use of the
 Sawzgha. And it occurred to the Bhikkhus, ‘ What
 kind of roof now has been allowed by the Blessed
@@ -9749,16 +8481,13 @@ Recitation).
 4.
 
 1. Now at that time the householder Andtha
-PiwaTika was the husband of the sister of the Rafa-
-gaha Se/Z/zi. And Anatha Pizzzfika the householder
+PiwaTika was the husband of the sister of the Rafagaha Se/Z/zi. And Anatha Pizzzfika the householder
 went to Rafaeaha on some business or other. Now
 at that time the Sa//zgha, with the Buddha at nts
 head, had been bidden by the S ett/11 of Ra/agaha
-for the morrow’s meal And the S etfJii of Ra/a-
-gaha gave command to his slaves and work-people,
+for the morrow’s meal And the S etfJii of Ra/agaha gave command to his slaves and work-people,
 saying, f So get up at early morn, my men, and cook
-congey, and cook rice, and prepare curries, and pre-
-pare delicacies 1 ! 5
+congey, and cook rice, and prepare curries, and prepare delicacies 1 ! 5
 
 
 book -was written has not yet been precisely ascertained. In later
@@ -9777,8 +8506,7 @@ N 2
 
 ISO AULLAVAGGA. VI, 4, 2.
 
-And it occurred to Anitha Pi/M?ika the house-
-holder, ‘ Now formerly this householder was wont,
+And it occurred to Anitha Pi/M?ika the householder, ‘ Now formerly this householder was wont,
 when I arrived, to lay aside all other business, and
 exchange the greetings of courtesy with me ; but
 now he appears excited, and is giving orders to
@@ -9809,8 +8537,7 @@ invited for to-morrow’s meal at my house.’
 ‘ Y es, it was “ the Buddha ” that I said.’
 
 
-precise, and denoted some particular delicacy or not, is still doubt-
-ful. Compare the passages quoted in our note above on MahS-
+precise, and denoted some particular delicacy or not, is still doubtful. Compare the passages quoted in our note above on MahS-
 vagga VI, 14, 3 (adding Gataka I, r86, and /Cullavagga IV, 4, 5,
 VIII, 4, 4), which show that it was eaten with boiled lice or
 congey is mentioned along with ghee and oil ; and could be made
@@ -9820,12 +8547,6 @@ chutney.
 
 
 VI, 4 , 3 -
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-181
 
 
 [And thrice the same question was put, and the
@@ -9857,15 +8578,13 @@ him to turn back again from that spot. But Sivaka
 the Yakkha, himself the while invisible, caused a
 sound to be heard, saying :
 
-1 A hundred elephants, a hundred steeds, a hun-
-dred chariots with mules 3 ,
+1 A hundred elephants, a hundred steeds, a hundred chariots with mules 3 ,
 
 ‘A hundred thousand virgins with their jewelled
 earrings on, —
 
 
-1 ‘Much more so with the reality’ is to be undei stood. Com-
-pare MaM-parinibMna Sutta VI, 63 (at the end).
+1 ‘Much more so with the reality’ is to be undei stood. Compare MaM-parinibMna Sutta VI, 63 (at the end).
 
 2 On this rendering of Samml-sambuddhaw, see Rh. D.'s
 ‘Hibbert Lectures,’ pp. 145-147.
@@ -9874,17 +8593,10 @@ pare MaM-parinibMna Sutta VI, 63 (at the end).
 The word recurs below at VII, 2, 5.
 
 
-182
-
-
-A'ULLAVAGGA.
-
-
 VI, 4; 4-
 
 
-‘ These are not worth, O householder, the six-
-teenth portion of one single stride.
+‘ These are not worth, O householder, the sixteenth portion of one single stride.
 
 ‘Go on, go on, O householder! Advance, and
 not retreat, shall profit thee.’
@@ -9924,11 +8636,8 @@ peace ! ’
 free 1 ,
 
 1 Brlhmawo parinibbuto. To translate the first of these
-words by ‘ Brahman' would mislead English readers. It is con-
-stantly used in early Buddhist texts for Arahat. On the use of
+words by ‘ Brahman' would mislead English readers. It is constantly used in early Buddhist texts for Arahat. On the use of
 
-
-YI, 4, 5. ON DWELLINGS AND FURNITURE. 1S3
 
 ‘Who is not touched by lusts, but calm and free
 from sin 1 ,
@@ -9945,15 +8654,12 @@ say, he spake to him of giving, of righteousness, of
 heaven, of the danger, the vanity, and the defilement
 of lusts, and of the advantages of renunciation. And
 when the Blessed One saw that Anatha Pi/^fika the
-householder had become prepared, softened, un-
-prejudiced, and upraised and believing in heart, then
+householder had become prepared, softened, unprejudiced, and upraised and believing in heart, then
 he proclaimed that which is the special doctrine of
 the Buddhas ; that is to say, Suffering, its Origin,
 its Cessation, and the Path. And just as a clean
 cloth from which all stain has been washed away
 will readily take the dye, just even so did An&tha
-
-
 parinibbuto not in the sense of ‘ dead,’ but of a living man m the
 sense of * spiritually free, 5 compare Dhammapada, veise 89 ; Sutta
 Nipata II, 13, 1, 12, III, 12, 35, and Mahd-paiimbbana Sutta
@@ -9964,20 +8670,14 @@ IV, 3*
 2 Sabba asattiyo khe tva. Having cut or broken all the
 asatti’s (from the root sa ng, to hang), the things which hang on
 to and burden a man in his spiritual progress. Compare the figure
-of speech at Gataka I, 5 (asatta m ku;zapa;# ^/zaddetva). Buddha-
-ghosa says sabba asattiyo £/£etva ti .... hadaye darathaw
+of speech at Gataka I, 5 (asatta m ku;zapa;# ^/zaddetva). Buddhaghosa says sabba asattiyo £/£etva ti .... hadaye darathaw
 hi te kilesa-daratha;/z ^inetvd.
 
-3 Vineyya and appuya are no doubt gerunds. In a corie-
-sponding passage of the Ahguttara Nikaya the Phayre MS. reads
+3 Vineyya and appuya are no doubt gerunds. In a coriesponding passage of the Ahguttara Nikaya the Phayre MS. reads
 appeyya, which smoothes over a difficulty at the expense of the
 better reading.
 
 4 The following section is in identical terms with Mahavagga I,
-1 , 5 , 10, V, I, 9, 10, VI, 26, 8, 9.
-
-
-184
 
 
 ■5TUIXAVAGGA.
@@ -9990,9 +8690,7 @@ Pi«^ika the householder obtain, even while sitting
 there, the pure and spotless Eye of the Truth ; (that
 is to say, the knowledge that) whatsoever has a
 beginning, in that is inherent also the necessity of
-dissolution. Thus did Andtha Pmalika the house-
-holder see, and master, and understand, and pene-
-trate the Truth ; and he overcame uncertainty, and
+dissolution. Thus did Andtha Pmalika the householder see, and master, and understand, and penetrate the Truth ; and he overcame uncertainty, and
 dispelled all doubts, and gained full knowledge,
 becoming dependent upon no one else for his
 knowledge of the doctrine of the Teacher. And
@@ -10016,8 +8714,7 @@ at my hand the to-morrow’s meal for himself and for
 his Order of Bhikkhus.’
 
 Then the Blessed One, by silence, granted his
-consent. And when Anatha PmAka the house-
-holder perceived that his request had been granted,
+consent. And when Anatha PmAka the householder perceived that his request had been granted,
 he rose from his seat, and bowed down before the
 Blessed One, and keeping him on his right hand as
 he passed him, he departed thence.
@@ -10028,17 +8725,13 @@ he passed him, he departed thence.
 VI, 4 , 7 -
 
 
-ON DWELLINGS AND FURNITURE.
-
-
 iS-
 
 
 Order of Bhikkhus which has the Buddha at its
 head had been invited by Anatha Piwffika the
 householder for the morrow’s meal. And the Sett/i:
-of Ra^agaha said to An&tha Pmffika the house-
-holder : ‘ They say, O householder, that you have
+of Ra^agaha said to An&tha Pmffika the householder : ‘ They say, O householder, that you have
 invited the Bhikkhu-sawzgha, with the Buddha at
 its head, for the morrow’s meal, and you are but
 a stranger here. I will provide the means', O
@@ -10050,7 +8743,7 @@ food.’
 means sufficient for the purpose.’
 
 [And the townsman of Ragagaha and Seniya
-Bimbisara the Rag>a of Magadha, made the same
+Bimbisara the Rag)a of Magadha, made the same
 offer in the same words, and received the same
 reply.]
 
@@ -10061,18 +8754,14 @@ soft, and had the time announced to the Blessed
 One, saying, ‘ The time, Lord, has come , and the
 meal is ready/
 
-And the Blessed One, when he had dressed him-
-self in the early morning, went duly bowled and
+And the Blessed One, when he had dressed himself in the early morning, went duly bowled and
 
 
-1 V eyy&yika??* formed from vyaya, expenditure. Yeyya-
-yikan ti vayakara^a?^ vuMati (B.).
+1 V eyy&yika??* formed from vyaya, expenditure. Yeyyayikan ti vayakara^a?^ vuMati (B.).
 
-2 Ra^agahako negamo. This peison has been already men-
-tioned, and there also m intimate connection with the Se-Z/n of
+2 Ra^agahako negamo. This peison has been already mentioned, and there also m intimate connection with the Se-Z/n of
 R%agaha, in the Mahavagga VIII, 1, 2, 16, It is tolerably dear
-from the connection that this is no 01 dinary citizen but one hold-
-ing a distinct and semi-official position. In this respect the word
+from the connection that this is no 01 dinary citizen but one holding a distinct and semi-official position. In this respect the word
 is an exact parallel to its neighbour the Se///n. For instances of
 the word m its more general sense, see Ka/eHyana (ed Senait),
 p. 219, and Da/Mva;?2sa III, 3.
@@ -10112,8 +8801,7 @@ and aroused and incited and gladdened An&tha
 Pi/Afika the householder with religious discourse,
 arose from his seat, and departed thence.
 
-8. Now at that time Anatha Pi;zz/ika the house-
-holder had many friends and large acquaintance,
+8. Now at that time Anatha Pi;zz/ika the householder had many friends and large acquaintance,
 and his word was held of weight 3 . When he had
 
 
@@ -10126,19 +8814,12 @@ from which the request may be implied, and the person addressed
 desires to express that he has perceived the intended implication.
 Compare Dipava?7isa XIV, 65, XV, 5.
 
-3 Adeyyavfi^o ti tassa vafona m bahugana m£netabba»z maii-
-fianti ti attho (B.). In Puggala III, n, we have the phrase tassa
+3 Adeyyavfi^o ti tassa vafona m bahugana m£netabba»z maiifianti ti attho (B.). In Puggala III, n, we have the phrase tassa
 vaianam adheyyaw gaM/iati, which the commentary explains by
 hadaye adh&tabbaw /^apitabbaw.
 
 
 VI, 4, 9-
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-187
 
 
 brought the business he had in hand at Ragagaha to
@@ -10175,8 +8856,7 @@ cover it if they were) laid side by side.’
 
 1 No, O householder, there was no bargain meant 3 .’
 
-1 The following speech is identical with that put into Bim-
-bisara’s mouth on choosing the Ve/uvana, above Maha\agga I
+1 The following speech is identical with that put into Bimbisara’s mouth on choosing the Ve/uvana, above Maha\agga I
 22, 16, 17.
 
 2 Vi^anavitaM, of which neither the reading nor the meaning
@@ -10189,9 +8869,6 @@ s Na gahito : literally, ‘ it is not taken.’
 1 88
 
 
-A'ULLAVAGGA.
-
-
 VI, -i, to.
 
 
@@ -10201,17 +8878,14 @@ lords decided thus: ‘The Arama is taken, Sir,
 at the price which you fixed.’
 
 And Anddia Pffiffika the householder had orold
-
 o
-
 brought down in carts, and covered the Getavana
 with (pieces) laid side by side 1 .
 
 io. Now the gold that he had brought down the
 first time did not suffice (after the rest of the
 garden was covered) to cover one small space close
-by the gateway. So Andtha Pmffika the house-
-holder told his servants to go back and fetch more
+by the gateway. So Andtha Pmffika the householder told his servants to go back and fetch more
 gold, saying he would cover that piece also.
 
 Then thought Geta the Kumara, ‘ This can be
@@ -10249,9 +8923,6 @@ VI, 5) i-
 ON DWELLINGS AND EURKITURE.
 
 
-189
-
-
 space to £reta the Kumara. And Gets. the Prince
 erected thereon a gateway, with a room over it
 And Anatha Pwtfika the householder built 1
@@ -10268,13 +8939,11 @@ and ponds, and open-roofed sheds 4 5 .
 
 1. Now when the Blessed One had stayed at
 Ragagaha as long as he thought fit, he set out
-towards Vesali; and journeying straight on he in-
-due course arrived there. And there at Yesah the
+towards Vesali; and journeying straight on he indue course arrived there. And there at Yesah the
 Blessed One stayed in the peak-roofed hall at the
 Mahavana.
 
-Now at that time the people were zealously en-
-gaged in putting up new buildings (for the use of
+Now at that time the people were zealously engaged in putting up new buildings (for the use of
 the Order) 6 , and as zealously provided with the
 
 
@@ -10285,8 +8954,7 @@ that laymen build for themselves given in Mahavagga III, 5. 7.
 
 3 Udapana-sallyo. See above, V, 16, 2.
 
-4 Ma»(fape. See Mahavagga VIII, 7 1, and above, A’ulla-
-vagga VI, 3, 7.
+4 Ma»(fape. See Mahavagga VIII, 7 1, and above, A’ullavagga VI, 3, 7.
 
 5 Navakammaw karonti. This idiom alvvavs connote^
 buildings for the use of the Order. See the passages quoted in
@@ -10296,17 +8964,10 @@ Bhikkhus, then a Bhikkhu, if for the Bhikkhunis, then a Bhikkhuni
 was appointed to superintend the works in order to ensure the
 
 
-190
-
-
-iTULLAVAGGA.
-
-
 VI, 5, 2 .
 
 
-requisite clothes, and food, and lodging, and medi-
-cine for the sick, all such Bhikkhus as superintended
+requisite clothes, and food, and lodging, and medicine for the sick, all such Bhikkhus as superintended
 their work.
 
 Now a certain poor tailor thought, ‘This can be
@@ -10335,7 +8996,6 @@ Bhikkhus, saying, ‘ I permit you, O Bhikkhus, to
 give new buildings in course of erection (for the use
 of the Order) in charge (to a Bhikkhu who shall
 superintend 1 the work). And the Bhikkhu who
-
 buildings being in accordance with the rules of the Order as to
 size, form, and object of the various apartments.
 
@@ -10350,11 +9010,6 @@ called navakammika.
 
 yx, 6, i.
 
-
-ON DWELLINGS AND FURNITURE.
-
-
-191
 
 is overseer shall zealously exert himself to the end
 that the work on the Vih&ra may be brought to a
@@ -10373,8 +9028,7 @@ give in charge to such and such a Bhikkhu the
 Vihara of such and such a householder as a
 navakammaw. This is the motion (;?atti). Let
 the venerable Sa?/zgha hear me. The Sawgha
-hereby gives in charge .... (&c., as before). Who-
-soever of the venerable ones approves thereof
+hereby gives in charge .... (&c., as before). Whosoever of the venerable ones approves thereof
 let him keep silence ; whosoever approves not
 thereof, let him speak. The Sawgha has given in
 charge .... (&c., as before). Therefore is it silent.
@@ -10396,9 +9050,6 @@ the 37th (Pataka (including the Introductoiy Story there gi\en)
 already translated by Rh. D. m the * Buddhist Birth Stones/
 
 pp. 310-314.
-
-
-rULLAVAGGA.
 
 
 VI, 6, 2 .
@@ -10434,8 +9085,7 @@ Then the venerable Shriputta told the matter
 to the Blessed One.
 
 2. Then the Blessed One on that occasion and in
-that connection convened a meeting of the Bhikkhu-
-saz/zgha, and asked, 1 Is it true, as I have been told,
+that connection convened a meeting of the Bhikkhusaz/zgha, and asked, 1 Is it true, as I have been told,
 O Bhikkhus, that the pupils of the AT/zabbaggiya
 Bhikkhus have (acted in this way) ?’
 
@@ -10453,13 +9103,7 @@ a Brahman family before he entered the Order.’
 Others again said, ‘ One who belonged to a Gaha-
 
 
-VI, r>, 3.
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-193
+VI, r), 3.
 
 
 pati 1 family before he entered the Order — one
@@ -10511,12 +9155,6 @@ of himself in the Apadana abhidhammanaya/DIo 'ha m.
 [20] 0
 
 
-194
-
-
-rULLAVAGGA.
-
-
 VI, 6 , 3 .
 
 
@@ -10566,12 +9204,6 @@ covert sarcasm is here intended to be understood against the
 Taittiriya Brahmans.
 
 
-VI, 6, 5.
-
-
-ON DWELLINGS AND FURNITURE.
-
-
 :cs
 
 
@@ -10603,24 +9235,18 @@ belongs to a different community, and does not
 speak according to the Dhamma — a woman 5 — a
 eunuch 4 — a Bhikkhu who has been placed under
 probation 5 — one who, having been so placed, is
-
-x Ta m sobhetha ya m ... On this idiom compare i\Iaha-
-vagga X, 2, 20.
+x Ta m sobhetha ya m ... On this idiom compare i\Iahavagga X, 2, 20.
 
 2 Compare chapter 7 and also chapter 12. It would seem from
 these passages that the piohibitionto reseive exclusi \ eh accoidmg
 to seniority the use of property belonging to the whole Sawgha
-was held to imply that the temporary use of it was to go accord-
-ing to semoiity. Compare X, 18.
+was held to imply that the temporary use of it was to go according to semoiity. Compare X, 18.
 
 3 See Aullavagga X, 3.
 
 4 Compaie Mahavagga I, 61, 2.
 
 5 See Apulia vagga II, 1, 2.
-
-
-196
 
 
 XTOLAVAGGA.
@@ -10642,16 +9268,14 @@ the senior in a different community when he speaks
 according to the Dhamma — and, O Bhikkhus.
 throughout the worlds of men and gods, of Maras
 and of Brahmas, by all creatures Samaras and
-Brahmans, gods and men, the Arahat Samma-
-sambuddha.’
+Brahmans, gods and men, the Arahat Sammasambuddha.’
 
 
 7 .
 
 1. Now at that time people provided arbours
 (masala pas), and couches, and room for the use
-of the Sawzgha. And the pupils of the Kk ab-
-baggiya Bhikkhus, saying, ‘ It has been laid down
+of the Sawzgha. And the pupils of the Kk abbaggiya Bhikkhus, saying, ‘ It has been laid down
 by the Blessed One that that which pertains (wholly)
 to the Samgha shall be used according to seniority,
 but not that which is given only for the temporary
@@ -10671,9 +9295,6 @@ has been set aside only for the temporary use of
 
 
 VI, 9, I.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 -97
@@ -10699,8 +9320,7 @@ arranged by laymen — excepting three, (that is to
 say) large cushions, divans, mattresses 1 2 — but not to
 He down upon them.’
 
-Now at that time people put in the eating-
-rooms, or in the courtyards, stuffed couches anc
+Now at that time people put in the eatingrooms, or in the courtyards, stuffed couches anc
 stuffed chairs. The Bhikkhus, fearing to offend,
 would not sit down on them.
 
@@ -10719,12 +9339,8 @@ journey, arrived in due course at Savatthi , and there
 1 These are Nos. 1, 2, and 7 in the list just refeired to and
 may be kept if tieated in the way laid down in VI, 14 2 below
 
-2 This rule has already occurred in identical terms at Maha-
-vagga V, 11. Piobably both here and there the word such, which
+2 This rule has already occurred in identical terms at Mahavagga V, 11. Piobably both here and there the word such, which
 we have here added m brackets, is to be understood.
-
-
-198
 
 
 JTULLAVAGGA.
@@ -10746,8 +9362,7 @@ said to the Blessed One J ] :
 of the Sawzgha of the four directions 1 2 either now
 here present, or hereafter to arrive.’
 
-‘ Even so, Lord,’ said Anatha Piwtfika the house-
-holder in assent to the Blessed One, and he did so.
+‘ Even so, Lord,’ said Anatha Piwtfika the householder in assent to the Blessed One, and he did so.
 
 2. Then the Blessed One gave thanks to Anatha
 Find ika the householder in these verses. [Here
@@ -10765,23 +9380,14 @@ coming late, but before the meal was over, made
 the Bhikkhu next (junior to him in seniority 4 ) get
 
 
-1 The usual terms are here followed thioughout : see, for in-
-stance, above, VI, 4, 6, 7.
+1 The usual terms are here followed thioughout : see, for instance, above, VI, 4, 6, 7.
 
-2 That is ‘ of all the world.’ See our note above on Maha-
-vagga VIII, 27, 5, vheie the phrase has already occurred.
+2 That is ‘ of all the world.’ See our note above on Mahavagga VIII, 27, 5, vheie the phrase has already occurred.
 
-3 The verses are quoted in the account of Anatha Pm fika’s gift
-given in the ff&taka commentary (Fausboll I, 93 , Rh. D.’s ‘ Bud-
-dhist Birth Stories,’ I, 131).
+3 The verses are quoted in the account of Anatha Pm(fika’s gift
+given in the ff&taka commentary (Fausboll I, 93 , Rh. D.’s ‘ Buddhist Birth Stories,’ I, 131).
 
 * Anantankawz ; perhaps ‘the Bhikkhu (who happened to be)
-
-
-VI, 10, 2.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 *99
@@ -10791,8 +9397,7 @@ up out of his seat ; and the dining-hall was thrown
 into confusion.
 
 Then that minister became indignant, murmured,
-and was annoyed : 1 How can the Sakyaputtiya Sa-
-maras behave so! Is it not then lawful for any
+and was annoyed : 1 How can the Sakyaputtiya Samaras behave so! Is it not then lawful for any
 one, unless he have been seated, to eat as much
 as he requires ? ’
 
@@ -10804,8 +9409,7 @@ And they told the matter to the Blessed One.
 ‘ It is true, Lord.’
 
 Then the Blessed One rebuked him, &c., and he
-said to the Bhikkhus, ‘ A Bhikkhu is not, O Bhik-
-khus, to be made to get up out of his seat before
+said to the Bhikkhus, ‘ A Bhikkhu is not, O Bhikkhus, to be made to get up out of his seat before
 the meal is over. Whosoever does so, shall be
 guilty of a dukka/a. And if any one causes
 another to get up, and be then invited to partake
@@ -10824,16 +9428,10 @@ sick men said, ‘ We cannot, Sirs, get up ; for we
 are sick.’
 
 ‘We insist upon your getting up,’ said they, and
+next (to him).’ The text reads anantarikaw, uh-ch is a misprint. Compare Mahavagga IX, 4, 8, and Aullavagga VII 3, 9.
 
-next (to him).’ The text reads anantarikaw, uh-ch is a mis-
-print. Compare Mahavagga IX, 4, 8, and Aullavagga VII 3, 9.
-
-VIII, 4, 1.
 
 1 Compare the rule foi Bhikkhunis at X, 18.
-
-
-200
 
 
 XULLAVAGGA.
@@ -10862,8 +9460,7 @@ They told this matter to the Blessed One. .
 Bhikkhus suitable sleeping-places.’
 
 Now at that time the AAabbaggiya Bhikkhus,
-on pretext of some slight indisposition 1 , took ex-
-clusive possession of sleeping-places.
+on pretext of some slight indisposition 1 , took exclusive possession of sleeping-places.
 
 They told this matter to the Blessed One.
 
@@ -10873,12 +9470,10 @@ does so, shall be guilty of a dukka^a.’
 
 11 2 .
 
-i. Now at that time the Sattarasa-vaggiya Bhik-
-khus made ready a certain large Vihara in the
+i. Now at that time the Sattarasa-vaggiya Bhikkhus made ready a certain large Vihara in the
 neighbourhood 3 , with the intention of dwelling in
 it. And when the AAabbaggiya Bhikkhus saw
-what they were doing, they said : ‘ These vener-
-able ones, the Sattarasa-vaggiya Bhikkhus, are
+what they were doing, they said : ‘ These venerable ones, the Sattarasa-vaggiya Bhikkhus, are
 
 
 1 Lesakappena ti appakena sisabadhadimattena (B.).
@@ -10891,9 +9486,6 @@ paA^anta m nagaraw, a frontier fort at Dhammapada, p. 56.
 
 
 VI, II, I.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 SOI
@@ -10920,15 +9512,13 @@ unto us.’
 ‘ It is large, Sirs, this Vihara. You can dwell in
 it, and we as well.’
 
-Then, full of anger and displeasure, they re-
-peated, ‘Depart, Sirs; this Vihara has fallen unto
+Then, full of anger and displeasure, they repeated, ‘Depart, Sirs; this Vihara has fallen unto
 us.’ And seizing them by the throat, they cast them
 out. And the others, being ejected, wept.
 
 The Bhikkhus asked, ‘Why, Sirs, do you weep?’
 
-Then they told them ; and the moderate Bhik-
-khus murmured, &c., and told the matter to the
+Then they told them ; and the moderate Bhikkhus murmured, &c., and told the matter to the
 Blessed One.
 
 ‘ Is it true, as they say, &c. ?’
@@ -10948,12 +9538,6 @@ in anger and vexation. Whosoever does so, shall
 46th Pa&ttiya.
 
 
-202
-
-
-rULLAVAGGA.
-
-
 YI, II, 2.
 
 
@@ -10966,8 +9550,7 @@ the lodging-places be allotted ?’
 
 They told this matter to the Blessed One.
 
-‘ I allow you, O Bhikkhus, to appoint as an ap-
-portioner of lodging-places a Bhikkhu possessed- of
+‘ I allow you, O Bhikkhus, to appoint as an apportioner of lodging-places a Bhikkhu possessed- of
 these five qualifications — one who does not walk in
 partiality, who does not walk in malice, who does
 not walk in stupidity, who does not walk in fear (and
@@ -10976,14 +9559,12 @@ end of the Kammavaia).'
 
 3. Now the apportioners of lodging-places thought,
 
-‘ How then ought the lodging-places to be appor-
-tioned ?’
+‘ How then ought the lodging-places to be apportioned ?’
 
 They told this matter to the Blessed One.
 
 ‘ I allow you, O Bhikkhus, in the first place to
-count the Bhikkhus, then to count the sleeping-
-places, then to apportion accordingly 3 4 .’
+count the Bhikkhus, then to count the sleepingplaces, then to apportion accordingly 3 4 .’
 
 When apportioning according to the number of
 sleeping-places, some remained unallotted i .
@@ -10994,8 +9575,7 @@ sleeping-places, some remained unallotted i .
 2 Senasanam gahetu7?7 Buddhaghosa has nothing on this
 idiom, but its meaning is sufficiently clear fiom the connection.
 
-8 Seyyaggena gahetu ?n. Buddhaghosa has no special expla-
-nation of agga here, but m his explanation of the passage says
+8 Seyyaggena gahetu ?n. Buddhaghosa has no special explanation of agga here, but m his explanation of the passage says
 that this is to be so done that each Bhikkhu receives 100m for a
 couch (maf^a///iana ?4 Agga must here be agra, to which
 Bohtlmgk-Roth give, from Indian lexicographeis, the subsidiary
@@ -11009,12 +9589,6 @@ of this chapter and the next. See VIII, 1, 4.
 
 
 VI, n,3.
-
-
-ON DWELLINGS AND FURNITURE,
-
-
-20
 
 
 ‘ I allow you, O Bhikkhus, to apportion according
@@ -11052,8 +9626,7 @@ XL VI, 2, where the word recurs, by a Burmese copy of the test
 The Sinhalese reading is the correct one, but one may compare the
 idiom £-an a m, or parisa#2, ussaieti at Mahavagga VIII, i, 22,
 and (rataka I, 419, 434. So at IX, 1, 3, 4, the reading ussaret:
-given m the test is corrected at p. 363 into ussadeti, in accord-
-ance with the reading of the Sinhalese MS.
+given m the test is corrected at p. 363 into ussadeti, in accordance with the reading of the Sinhalese MS.
 
 1 The relation of the Vihara to the Parive?2a is here curious
 In the latei language panve?/a means k cells ’ Here it evidently
@@ -11069,20 +9642,15 @@ quoted m our note there.
 VII, 1, 5, and VIII, 2, 3. It is repeated below, VI, 17, 2.
 
 
-204
-
-
 AULLAVAGGA.
 
 
 VI, ii, 4.
 
 
-‘You are not, O Bhikkhus, to [do so]. Whoso-
-ever does so, shall be guilty of a dukka/a.’
+‘You are not, O Bhikkhus, to [do so]. Whosoever does so, shall be guilty of a dukka/a.’
 
-Now at that time the Bhikkhus, after the lodging-
-places had been allotted, kept them to the exclusion
+Now at that time the Bhikkhus, after the lodgingplaces had been allotted, kept them to the exclusion
 oT others for all time.
 
 They told this matter to the Blessed One.
@@ -11097,15 +9665,13 @@ that constitutes) an allotment of lodging-places ?’
 
 They told this matter to the Blessed One.
 
-‘ There are these three allotments of lodging-
-places, O Bhikkhus, — the earlier, the later, and
+‘ There are these three allotments of lodgingplaces, O Bhikkhus, — the earlier, the later, and
 the intermediate. The earlier is to be held on
 the day after the full moon of Asa//£a (June —
 J uly) ; the later, a month after that full moon 1 ;
 the intermediate (literally that which involves a
 giving up during the intervening time) is held on
-the day after the Pavdra^a ceremony, with refer-
-ence to the rainy season of the following year.
+the day after the Pavdra^a ceremony, with reference to the rainy season of the following year.
 These, O Bhikkhus, are the three allotments of
 lodging-places.’
 
@@ -11120,8 +9686,6 @@ after having had a lodging allotted to him in
 1 These first two dates are the days on which the earlier and the
 later Vassa begins. See MaMvagga III, 2.
 
-
-VI, 12, i. ON' DWELLINGS AND FURNITURE. 205
 
 Savatthi, went to a certain country-place where a
 community of the Sawzgha resided, and there also
@@ -11140,8 +9704,7 @@ allotted to you. in Savatthi ?’
 ‘ That is so, Sirs.’
 
 ‘What then do you, friend Upananda, being
-one, yet take exclusive possession of two (lodging-
-places)?'
+one, yet take exclusive possession of two (lodgingplaces)?'
 
 ‘Well, I do now, Sirs, set (the lodging) here free,
 and take the one there/
@@ -11150,8 +9713,7 @@ Those Bhikkhus who were moderate murmured
 &c., and they told the matter to the Blessed One.
 
 Then the Blessed One, on that occasion and in
-that connection, convened a meeting of the Bhikkhu-
-sawgha, and asked the venerable Upananda the
+that connection, convened a meeting of the Bhikkhusawgha, and asked the venerable Upananda the
 Sakyan :
 
 ‘ Is it true, Upananda, that you, being one, have
@@ -11170,13 +9732,10 @@ Ta^a niya Kamma. See Aullavagga I. i, i
 2 That L by taking a lodging lieie }oa ipso faao lenounced
 
 
-206
-
-
 S’ULLAVAGGA.
 
 
-VI, I 3> I.
+VI, I 3) I.
 
 
 foolish one, you are deprived of both.’ And when
@@ -11212,16 +9771,11 @@ They told this matter to the Blessed One.
 giving instruction, to sit on a seat of equal height,
 or higher, out of reverence for the law; and a senior'
 Bhikkhu, when receiving instruction, to sit on a seat
-
-
 your right to a lodging there, and by taking one theie you ipso
 facto renounced your right to get one here.
 
 
 VI, 13 , 2.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 2C7
@@ -11278,12 +9832,6 @@ pa/imaneti, compare the Bhikkhuni-vibhanga, Paragika I 1 and
 Gataka II, 423.
 
 
-208
-
-
-rULLAVAGGA.
-
-
 VI, 14, i.
 
 
@@ -11297,8 +9845,7 @@ of length which is included under the term “ long
 seat?’”
 
 ‘ I allow the term “ long seat ” to be used, O
-Bhikkhus, of any seat long enough to accommo-
-date three persons.’
+Bhikkhus, of any seat long enough to accommodate three persons.’
 
 
 14 .
@@ -11335,12 +9882,6 @@ these rules. See note 3 on the next paragraph.
 VI, 15 , r.
 
 
-ON DWELLINGS AND FURNITURE*
-
-
-209
-
-
 4 1 allow, O Bhikkhus, the use of all appurtenances
 to a storeyed building/
 
@@ -11355,8 +9896,7 @@ They told this matter to the Blessed One.
 4 1 allow you, O Bhikkhus, to use the stuffed
 couches (asandi) after having broken off the legs 1 ,
 and the divans (pal lank a) after having removed
-the hair, and to comb out the cotton of the mat-
-tresses and make pillows of it 2 3 , and to use all the
+the hair, and to comb out the cotton of the mattresses and make pillows of it 2 3 , and to use all the
 rest as floor covering V
 
 
@@ -11388,9 +9928,6 @@ contained m the nth to the 15th Nissaggiya Paiittiyas.
 [20] P
 
 
-210
-
-
 XULLAVAGGA.
 
 
@@ -11402,8 +9939,7 @@ the sleeping accommodation which is the property
 of the Sawgha to one (of us), and let us use it as
 belonging to him.’ And they [did so T ].
 
-Then the incoming Bhikkhus said to them : ‘ Pre-
-pare, Sirs, sleeping accommodation for us.’
+Then the incoming Bhikkhus said to them : ‘ Prepare, Sirs, sleeping accommodation for us.’
 
 ‘ There are no beds, Sirs, belonging to the Sa»zgha.
 We have given them all away to one of us.’
@@ -11416,17 +9952,13 @@ property belonging to the Sa?;zgha ?’
 The moderate Bhikkhus murmured, &c., and told
 this matter to the Blessed One.
 
-‘ Is it true, O Bhikkhus, as they say, that Bhik-
-khus make away with Sawgha property?’
+‘ Is it true, O Bhikkhus, as they say, that Bhikkhus make away with Sawgha property?’
 
 ‘ It is true, Lord.’
 
 2. Then the Blessed One rebuked them, &c., and
-said to the Bhikkhus : ‘ These five things, O Bhik-
-khus, are untransferable ; and are not to be dis-
-posed of either by the Sawzgha, or by a company of
-two or three Bhikkhus (a Gazza), or by a single in-
-dividual. And what are the five ? A park (Arama),
+said to the Bhikkhus : ‘ These five things, O Bhikkhus, are untransferable ; and are not to be disposed of either by the Sawzgha, or by a company of
+two or three Bhikkhus (a Gazza), or by a single individual. And what are the five ? A park (Arama),
 or the site for a park — this is the first untransferable
 thing, that cannot be disposed of by the Sazzzgha, or
 by a Gazza, or by an individual. If it be disposed of,
@@ -11437,15 +9969,11 @@ A bed, or a chair, or a bolster, or a pillow — this is the
 third, &c. A brass vessel, or a brass jar, or a brass
 pot, or a brass vase, or a razor, or an axe, or a
 
-1 This is a direct infringement of the 82nd Pa&ttiya, which for-
-bids property dedicated to the Sawgha being diverted to the use
+1 This is a direct infringement of the 82nd Pa&ttiya, which forbids property dedicated to the Sawgha being diverted to the use
 of any individual.
 
 
 \jy I 6, I.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 hatchet, or a hoe, or a spade — this is the fourth, &c.
@@ -11456,12 +9984,10 @@ to) th ulla/v5aya/
 
 
 16 c
-
 i . Now when the Blessed One had dwelt ai
 Sduatthi as long as he thought fit, he went on on
 his journey towards the Ki/a Hill with a great
-multitude of Bhikkhus — to wit, with about five hun-
-dred Bhikkhus, besides Sariputta and Moggallana.
+multitude of Bhikkhus — to wit, with about five hundred Bhikkhus, besides Sariputta and Moggallana.
 
 And the Bhikkhus who were followers of Assail
 and Punabbasu 1 * hearing the news, said one to
@@ -11473,12 +9999,10 @@ provide sleeping-places for them.’ And they did so.
 
 Now the Blessed One, proceeding on his journey,
 arrived at the Ki/a Hill. And he addressed a
-number of Bhikkhus, saying, 4 Do you go, O Bhik-
-khus, to the followers of Assagu and Punabbasu, and
+number of Bhikkhus, saying, 4 Do you go, O Bhikkhus, to the followers of Assagu and Punabbasu, and
 say: “The Blessed One, Sirs, has arrived with a
 large number of Bhikkhus — to wit, with about five
-hundred Bhikkhus, besides Sariputta and Moggal-
-lina. Make ready sleeping-places, Sirs, for the
+hundred Bhikkhus, besides Sariputta and Moggallina. Make ready sleeping-places, Sirs, for the
 Blessed One, and for the Bhikkhu-sawgha, and for
 Sariputta and Moggallana/’ ’
 
@@ -11486,9 +10010,6 @@ Sariputta and Moggallana/’ ’
 1 On these Bhikkhus and their relations with Sariputta and
 
 Moggallana, see above, A’ullavagga I, 13-16.
-
-
-212
 
 
 JTULLAVAGGA.
@@ -11516,8 +10037,7 @@ accommodation that is the property of the Sawgha?’
 The moderate Bhikkhus murmured, &c. (down to)
 The Blessed One said to the Bhikkhus :
 
-‘ These five things, O Bhikkhus, are unapportion-
-able, and are not to be divided either by the Sawgha,
+‘ These five things, O Bhikkhus, are unapportionable, and are not to be divided either by the Sawgha,
 or by a Gana, or by an individual. If divided, the
 division is void ; and whosoever does so, shall be
 guilty of a thullai^aya. And what are the five
@@ -11545,17 +10065,13 @@ at Mabavagga VIII, 27, 5.
 VT, 17, 1.
 
 
-ON DWELLINGS AND FURNITURE.
-
-
-2 I >
+2 I )
 
 
 give new building operations in charge (to one or
 other of their number) 1 , such as the following*
 when some clay or earth had merely to be put
-aside in heaps, when a wall had merely to be re-
-plastered, when a door had merely to be made
+aside in heaps, when a wall had merely to be replastered, when a door had merely to be made
 when the socket for a bolt had merely to be made,
 when some joinery-work had merely to be done to a
 window, when some whitewashing merely had to be
@@ -11565,40 +10081,31 @@ or a bar had to be fixed to a door 4 , when breaches
 or decay had merely to be repaired 5 , or the flooring
 to be re-plastered G ; and they assigned this office to
 one another for terms of twenty or thirty years, or
-
-
 with offences in relation to the navakammaa See, for instance
 Pata^ika III, 5, 30.
 
 J For the rule authonsing such giving m chaige in general case?
 see abo\e, VI, 5.
 
-2 For most of the following technical terms m building, see car-
-notes above on Aullavagga V, n, and V, 1, 2.
+2 For most of the following technical terms m building, see carnotes above on Aullavagga V, n, and V, 1, 2.
 
 3 See our note on this phrase above, V, n, 6.
 
-4 Ga;?^ikidhana-mattena ti d\aia-bahanaw upari-kapo/a-
-gaw^ika-yo^ana-mattena (B.). G&ndi is used in this sense at
+4 Ga;?^ikidhana-mattena ti d\aia-bahanaw upari-kapo/agaw^ika-yo^ana-mattena (B.). G&ndi is used in this sense at
 Cataka I, 237. Compaie the use of Dhamma-ga^ika, ‘block
-of execution/ at Gataka I, 150, II, 124. The word ga» /ika
+of execution/ at Gataka I, 150, II, 124. The word ga»(/ika
 occurs also at Gi taka I, 474 (last line), m the sense of ‘bunch:'
 but it is theie piobably a misprint; for Oldenberg, m the parallel
 passage at Bhikkhuni-vibhanga, Pa&ttiya I, r, leads bhawtfikc
-That the two words are easily confused m Burmese wilting :■>
+That the two words are easily confused m Burmese wilting :■)
 shown by the fact that the Berlin (Buimese) copy of Buddhaghosa
 reads here also bhawc/ikadhana-mattena ti, &c. ? and again
-afterwards bha« /ika.
+afterwards bha«(/ika.
 
 5 See our note on this phrase above, VI, 5, 2.
 
-c Paribha« /a-kara»a-matten& ti gomaya-paribha/a/a-kab 3 va-
-pai ikarawa-mattena (B.). The very same expression is used m a
-wholly doubtful sense, and of some process of tailonng, in Maha-
-vagga VII, i, 5.
-
-
-214
+c Paribha«(/a-kara»a-matten& ti gomaya-paribha/a/a-kab 3 vapai ikarawa-mattena (B.). The very same expression is used m a
+wholly doubtful sense, and of some process of tailonng, in Mahavagga VII, i, 5.
 
 
 KOLlAVAGGA,
@@ -11636,24 +10143,16 @@ another (Bhikkhu to live there and take charge for
 him) — or the Bhikkhu who had taken in charge a
 
 
-1 Dhftmakalikan ti idaw yav’ assa iitaka-dhumo na paw/ilya-
-titi tava ayaw viMro etass’ eva ti eva m dhuma-kale apaloketva
-kata-pariyositaw viharaw denti (B.). The word recurs below, ap-
-plied to sikkhapada®, m XI, i, 9.
+1 Dhftmakalikan ti idaw yav’ assa iitaka-dhumo na paw/ilyatiti tava ayaw viMro etass’ eva ti eva m dhuma-kale apaloketva
+kata-pariyositaw viharaw denti (B.). The word recurs below, applied to sikkhapada®, m XI, i, 9.
 
-2 Vippakatan ti ettha vippakato n&ma yava gopanasi>o na
+2 Vippakatan ti ettha vippakato n&ma yava gopanasi)o na
 drohanti. GopSnasisu pana il.ru/hasu bahukato nama hoti :
 tasm& tato paMaya na databbo (B.). The use of bahukato is
 noteworthy, for in the only other passage where we have found the
 word (Mahivagga VI, 36, 2), it has a totally different application.
 There is possibly a misleading in the one MS. available.
 (? pakato.)
-
-
-VI, 17, 3.
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 building belonging to the Sazwgha kept exclusive
@@ -11666,8 +10165,7 @@ They told [each of] these matters to the Blessed
 One.
 
 ‘ You are not, O Bhikkhus, to do [anyone of these
-things]. Whosoever does, he is guilty of a duk-
-ka/a. And the Bhikkhu in charge may take one
+things]. Whosoever does, he is guilty of a dukka/a. And the Bhikkhu in charge may take one
 good sleeping-place into his exclusive possession
 for the three months of the rainy, but not during
 the dry season.’
@@ -11685,8 +10183,7 @@ has taken charge, or before the building has been
 completed, let the office be given to another lest
 there should be loss to the Sa;«gha. In case the
 building has been completed, O Bhikkhus, if he
-then leaves the place, it (the office and its privi-
-leges) is still his — if he then returns to the world,
+then leaves the place, it (the office and its privileges) is still his — if he then returns to the world,
 or dies, or admits that he is a sama;iera, or that
 he has abandoned the precepts, or that he has
 become guilty of an extreme offence, the Sawgha
@@ -11702,17 +10199,13 @@ IX, 4, 2, and 8, the whole 33 are given.
 2 1 6
 
 
-rULLAVAGGA.
-
-
 VI, 18, I.
 
 
 becomes the owner 1 — if he then admits that he is
 mad, or that his mind is unhinged, or that he is
 afflicted with bodily pain, or that he has been
-suspended for his refusal to acknowledge an of-
-fence, or to atone for an offence, or to renounce a
+suspended for his refusal to acknowledge an offence, or to atone for an offence, or to renounce a
 sinful doctrine, it (the office and its privileges) is
 still his — if he then admits that he is a eunuch,
 or that he has furtively attached himself to the
@@ -11727,8 +10220,7 @@ Sawgha becomes the owner.’
 
 18 .
 
-i. Now at that time the Bhikkhus made use else-
-where of beds which were appurtenances 2 to the
+i. Now at that time the Bhikkhus made use elsewhere of beds which were appurtenances 2 to the
 Vihira of a certain lay-disciple (upasaka).
 
 Then that upasaka murmured, &c.
@@ -11753,13 +10245,10 @@ Compare above, VI, 14, x.
 VI, ip, i.
 
 
-ON DWELLINGS AND FURNITURE.
-
-
 2i;
 
 
-Uposatha Hall, or the meeting-place, sat or< the
+Uposatha Hall, or the meeting-place, sat or( the
 ground ; and their legs and robes got soiled.
 
 They told the matter to the Blessed One.
@@ -11783,7 +10272,6 @@ in order to save them from destruction/
 rug, and a very valuable piece of cloth, among the
 bedding furniture belonging to the Sawgha.
 
-They told this matter to the Blessed One 3 4 .
 
 ‘ I allow you, O Bhikkhus, to barter either of
 these things in order to increase the stock of legally
@@ -11804,12 +10292,7 @@ already occurred at Mahavagga III, 8.
 3 Because such things were forbidden by Mahavagga A, ic 4
 though kambala is not there specially mentioned.
 
-4 Phatikammatthaya ti va^/zikammattha } i ti. Vaudhikurn-
-matthaya phatikammaw k J ettha samakaw va atirekaw va aggha-
-naka?# ma?Ua-pi/Mdi~senasanam eva va//ati (B.).
-
-
-2l8
+4 Phatikammatthaya ti va^/zikammattha } i ti. Vaudhikurnmatthaya phatikammaw k J ettha samakaw va atirekaw va agghanaka?# ma?Ua-pi/Mdi~senasanam eva va//ati (B.).
 
 
 A" 17 LLAVAG G A .
@@ -11863,19 +10346,12 @@ The two passages are parallel m wording throughout.
 and were restored from time to time by fresh clay or dry cowdung
 being laid down, and then covered with a whitewash, in which
 sometimes black or red (geruka) was mixed. See above, V,
-11, 6; VI, 3, 1 ; 17, 1 ; 27. From the parallel passage at Maha-
-vagga I, 25, 15, and XYullavagga VIII, 3, 1, it would seem that the
+11, 6; VI, 3, 1 ; 17, 1 ; 27. From the parallel passage at Mahavagga I, 25, 15, and XYullavagga VIII, 3, 1, it would seem that the
 red colouring w*as used rather for walls, and the black one fox
 floors.
 
 
 VI, 20, 2 a
-
-
-ON DWELLINGS AND FURNITURE.
-
-
-219
 
 
 They told this matter to the Blessed One.
@@ -11920,16 +10396,11 @@ from time to time like the xloonng (see last note).
 2 Apassena-phalaka/;*. This article of furniture is mentioned,
 with the spittoon, m Mahavagga I, 25, 15, 16, and m the parallel
 passage at A’ulla'vagga VIII, 1, 3. We ha\e rendeied it m the
-Mahavagga by ‘board to recline on" Compare the use of a p as-
-say a/;/ m Buddhaghosa’s note on JVullavagga VI, 2, 4 (abo\e
+Mahavagga by ‘board to recline on" Compare the use of a p assay a/;/ m Buddhaghosa’s note on JVullavagga VI, 2, 4 (abo\e
 p. 153, note 3) of an arm-chair or sofa.
 
-J Dhotapadaka tidhotapadakahut\adhotehipadehi akkamiiar-
-ba//Mne nipaggituw kukku££ay anti. Dhotapadake ti pi pa. Ac
+J Dhotapadaka tidhotapadakahut\adhotehipadehi akkamiiarba//Mne nipaggituw kukku££ay anti. Dhotapadake ti pi pa. Ac
 Dhotehi padelu akkalnitabba////dnass , eva eta/72 adhivafona/# ifi.).
-
-
-220
 
 
 KV LLAVAGGA.
@@ -11958,8 +10429,7 @@ Ve/uvana in the Kalandaka Nivdpa.
 
 Now at that time there was a scarcity of food
 at Ra^agaha \ The people -were unable to provide
-food for the (whole) Sa?;zgha ; and they were de-
-sirous of providing food 1 2 (to be sent to the Vihara)
+food for the (whole) Sa?;zgha ; and they were desirous of providing food 1 2 (to be sent to the Vihara)
 for the use of a special Bhikkhu (designated by the
 donor) 3 , or for special Bhikkhus invited (by the
 donor in his own house) 4 , or for (single Bhikkhus)
@@ -11967,8 +10437,7 @@ appointed by ticket (issued by the Sa^gha) 5 , or of
 providing food during a fortnight 0 , or on Uposatha
 
 
-1 Other special rules for times of scarcity vi ill be found at Maha-
-vagga VI, 1 7, 7 ; 18, 4 , 19, 2 , 20, 4 (repealed for times of plenty
+1 Other special rules for times of scarcity vi ill be found at Mahavagga VI, 1 7, 7 ; 18, 4 , 19, 2 , 20, 4 (repealed for times of plenty
 m VI, 32). Compare also Paia^ika IV, 1,1.
 
 2 The above modes of receiving food (instead of collecting in a
@@ -11976,7 +10445,6 @@ bowl moisels of food given m alms) are the dispensations allowed
 by Mahavagga I, 30, 4.
 
 8 Uddesa~bhatta#2 Compare the story of Upananda
-
 at Mahavagga VI, 19, 1.
 
 4 Nimantana;# k&tum. The word is only used in this special
@@ -11990,9 +10458,6 @@ I Takkhikaz?z kcitu m. Both Childers sub voce andFiankfurter
 
 
 VI, 2T, 2 »
-
-
-ON DWELLINGS AND FURNITURE.
 
 
 22 :
@@ -12013,8 +10478,7 @@ to the other Bhikkhus.
 
 They told this matter to the Blessed One.
 
-4 I allow you, O Bhikkhus, to appoint as ap-
-portioner of rations 1 a Bhikkhu who is possessed
+4 I allow you, O Bhikkhus, to appoint as apportioner of rations 1 a Bhikkhu who is possessed
 of the following five qualifications — (&c., as in IV,
 9, down to the end of the Kammava/fa)/
 
@@ -12041,21 +10505,12 @@ chosen by the Sav/gha.
 
 1 Compare abo\e, iifullavagga IV, 4, 1.
 
-2 Buddhaghosa says, Salakaya va pa/ikayava upanibandh-
-ltvd opufi^/ntva uddisitun ti va/£anato 1 ukkhasarama} a} a sala-
-kaya va ve/uvihvatalapa«# 3 dmayaya pa/ikaya va asukassa name
+2 Buddhaghosa says, Salakaya va pa/ikayava upanibandhltvd opufi^/ntva uddisitun ti va/£anato 1 ukkhasarama} a} a salakaya va ve/uvihvatalapa«# 3 dmayaya pa/ikaya va asukassa name
 sal a kab halt an ti eva m akkharam upanibandhitva piWmum \a
-Hvarabhoge \a katva sabba salakayo omu^/utva [sic] panappu-
-na m he/Z/ia-vasena a/oletva . . . databba.
-
-
-222
+Hvarabhoge \a katva sabba salakayo omu^/utva [sic] panappuna m he/Z/ia-vasena a/oletva . . . databba.
 
 
 CTJLLAVAGGA.
-
-
-VI, 21, 3.
 
 
 tributor of lodging-places — no overseer of stores —
@@ -12066,8 +10521,7 @@ and through not being distributed it went bad.
 They told each of these matters 1 to the Blessed
 One.
 
-‘ I allow you, O Bhikkhus, to appoint as dis-
-tributor of lodging-places, &c , a Bhikkhu who has
+‘ I allow you, O Bhikkhus, to appoint as distributor of lodging-places, &c , a Bhikkhu who has
 (&c., as in $ 1, down to the end of the Kammavaia,
 inserting throughout the appropriate variations in
 the fifth qualification).
@@ -12109,18 +10563,10 @@ it would go bad. Accoiding to VI, 15, 10, none of these five
 VI, 21, 3«
 
 
-ON DWELLINGS AND FURNITURE.
-
-
-223
-
-
 Now at that time the Sa^gha had no receiver
 of under-garments x , or of bowls, — no superintendent
-of those who kept the grounds in order (the A ra-
-mi kas), and the Aramikas not being looked after,
-the necessary work was not done, — no superintend-
-ent of samaweras, and the sama^eras not being
+of those who kept the grounds in order (the A rami kas), and the Aramikas not being looked after,
+the necessary work was not done, — no superintendent of samaweras, and the sama^eras not being
 looked after did not perform their duties
 
 They told each of these matters to the Blessed
@@ -12143,9 +10589,6 @@ followed,
 sa/aka. and is used for such purposes as bathing m.
 
 
-rULLAVAGGA.
-
-
 VII, i, i.
 
 
@@ -12158,8 +10601,7 @@ Dissensions in the Order.
 
 I 1 .
 
-1. Now at that time the Blessed One was stay-
-ing at Anupiya 2 . Anupiya is a town belonging
+1. Now at that time the Blessed One was staying at Anupiya 2 . Anupiya is a town belonging
 to the Mallas 3 . Now at that time the most
 distinguished of the young men of the Sakya
 clan had renounced the world in imitation of the
@@ -12174,8 +10616,7 @@ the rains 4 During the four months spent in the
 
 
 1 With the whole of the following stoiy compare the, in many
-respects, fuller account given by the commentator on the Dham-
-mapada (Fausboll, pp. 139 and following).
+respects, fuller account given by the commentator on the Dhammapada (Fausboll, pp. 139 and following).
 
 2 This was the spot wheie Gotama spent the first week after his
 renunciation of the world, before he went on to Rag-agaha (Rh, D/s
@@ -12195,12 +10636,6 @@ Yasa.
 VII, I, 2.
 
 
-DISSENSIONS IN THE ORDER.
-
-
-225
-
-
 residence for the season of the rains, he was waited
 upon by women performing music 1 , and came not
 down from the upper storey of his residence.
@@ -12210,10 +10645,8 @@ most distinguished of the young men of the Sakya
 clan have already renounced the world in imitation
 of the Blessed One, but from our own family no
 one has gone forth from the household life into the
-houseless state. Let therefore either I, or Anu-
-ruddha, renounce the world.’ And he went to
-Anuruddha the Sakyan, and said [so to him, add-
-ing], 1 Either therefore do you go forth, or I will
+houseless state. Let therefore either I, or Anuruddha, renounce the world.’ And he went to
+Anuruddha the Sakyan, and said [so to him, adding], 1 Either therefore do you go forth, or I will
 do so.’
 
 ‘ I am delicate. It is impossible for me to go
@@ -12237,20 +10670,13 @@ When that is done, you have to get it arranged
 men, without people, 5 is inadequate is clear from the context at the
 passage which he quotes fiom (rdtaka I, 53.
 
-2 Ni f /apeti. Buddhaghosa says, ‘ Pull up the weeds 5
+2 Ni(f(/apeti. Buddhaghosa says, ‘ Pull up the weeds 5
 
 The word occurs also at (rdtaka I, 215, where there is a simihar list
-
 of farming operations, which, though smaller, contains one 01 two
 items not given here.
 
 [20] Q
-
-
-226
-
-
-A'ULLAVAGGA.
 
 
 VII, i, 2.
@@ -12269,8 +10695,7 @@ after that.
 ‘ The work is never over : one sees not the end
 of one’s labours. O ! when shall our work be over ?
 When shall we see the end of our labours ? When
-shall we, still possessing and retaining the plea-
-sures of our five senses, yet dwell at rest? Yes !
+shall we, still possessing and retaining the pleasures of our five senses, yet dwell at rest? Yes !
 the work, beloved Anuruddha, is never over ; no
 end appears to our labours. Even when our fathers
 and forefathers had completed their time 3 , even then
@@ -12303,19 +10728,12 @@ a That is, had died.
 VII, 1 , 3 .
 
 
-DISSENSIONS IN THE ORDER.
-
-
-227
-
-
 to Anuruddha the Sdkyan, and said : ‘You two,
 O beloved Anuruddha, are my two only sons, near
 and dear to me, in whom I find no evil. Through
 death I shall some day, against my will, be separated
 from you ; but how can I be willing, whilst you are
-still alive, that you should go forth from the house-
-hold life into the houseless state ?’
+still alive, that you should go forth from the household life into the houseless state ?’
 
 [And a second time Anuruddha the Sakyan made
 the same request, and received the same repl).
@@ -12329,32 +10747,21 @@ Anuruddha the Sdkyan, thinking that that being
 so, the Rfi^a would not be able to renounce the
 world, said to her son : ‘ If, beloved Anuruddha,
 Bhaddiya the Sakyan Rfi^a. will renounce the
-world, thou also mayest go forth into the house-
-less state.’
+world, thou also mayest go forth into the houseless state.’
 
 Then Anuruddha the Sakyan went to Bhaddiya
-the Sakyan Ra^a, and said to him : ‘ My renuncia-
-tion of the world, dear friend, is being obstructed
+the Sakyan Ra^a, and said to him : ‘ My renunciation of the world, dear friend, is being obstructed
 by thee.’
 
-‘ Then let that obstruction, dear friend, be re-
-moved. Even with thee will 1 1 — renounce thou
+‘ Then let that obstruction, dear friend, be removed. Even with thee will 1 1 — renounce thou
 the world according to thy wish.’
 
 1 Come, dear friend, let us both renounce the
 world together !’
 
-1 Ahara taya. Buddhaghosa explains that the R%a is begin-
-ning to say that he will go with his friend. But a desiie for the
-glory of sovereignty comes over his heart, and he leaves the sen-
-tence unfinished. (The Pali is given in the notes on the text,
+1 Ahara taya. Buddhaghosa explains that the R%a is beginning to say that he will go with his friend. But a desiie for the
+glory of sovereignty comes over his heart, and he leaves the sentence unfinished. (The Pali is given in the notes on the text,
 P- 323-)
-
-
-228
-
-
-A'ULLAVAGGA.
 
 
 YIT, i, 4 -
@@ -12384,8 +10791,7 @@ able to wait for seven years.’
 
 [And the same offer was made successively of six
 years and so on down to one year, of seven months
-and so on down to one month, and even of a fort-
-night, and still there was ever the same reply. At
+and so on down to one month, and even of a fortnight, and still there was ever the same reply. At
 last the Rac-a said,]
 
 ‘ Wait, my friend, for seven days, whilst I hand
@@ -12395,16 +10801,12 @@ over the kingdom to my sons and my brothers.’
 far ’ (was the reply).
 
 4. So Bhaddiya the Sakya Ra/a, and Anuruddha,
-and Ananda, and Bhagu, and Kimbila, and De-
-vadatta — just as they had so often previously gone
+and Ananda, and Bhagu, and Kimbila, and Devadatta — just as they had so often previously gone
 
-1 Tyahaw. See Dr. Morris’s remarks on this elision in his intro-
-duction to the K ariyd Pi/aka (Pali Text Society, 1882), where he
+1 Tyahaw. See Dr. Morris’s remarks on this elision in his introduction to the K ariyd Pi/aka (Pali Text Society, 1882), where he
 makes it equal to tad aha m. This seems to us open to question,
 at least in this passage, where it may possibly stand for te aha m.
 
-
-TIT, 1,4- DISSENSIONS IN THE ORDER. 229
 
 out to the pleasure-ground with fourfold array —
 even so did they now go out with fourfold array
@@ -12412,8 +10814,7 @@ and Upali the barber went with them, making
 seven in all.
 
 And when they had gone some distance, they sent
-their retinue back, and crossed over into the neiph-
-bouring district, and took off their fine things, and
+their retinue back, and crossed over into the neiphbouring district, and took off their fine things, and
 wrapped them in their robes, and made a bundle of
 them, and said to Upali the barber: ‘ Do you now.
 good Updli, turn back. These things will be sufficient
@@ -12448,9 +10849,6 @@ place where the Blessed One was. And on arriving
 there, they bowed down before the Blessed One, and
 
 
-230
-
-
 JPULLAVAGGA.
 
 
@@ -12459,7 +10857,6 @@ VII, l, 4-
 
 took their seats on one side. And so seated they
 said to the Blessed One : ‘ We Sakyas, Lord,
-
 are haughty. And this Upali the barber has
 long been an attendant, Lord, upon us. May the
 Blessed One admit him to the Order before us,
@@ -12472,13 +10869,11 @@ Then the Blessed One received first Updli the
 barber, and afterwards those young men of the Sdkya
 clan, into the ranks of the Order. And the venerable
 Bhaddiya, before that rainy season was over, became
-master of the Threefold Wisdom 2 , and the vener-
-able Anuruddha acquired the Heavenly Vision 3 ,
+master of the Threefold Wisdom 2 , and the venerable Anuruddha acquired the Heavenly Vision 3 ,
 and the venerable Ananda realised the effect of
 having entered upon the Stream 4 , and Devadatta
 attained to that kind of Iddhi which is attainable
-even by those who have not entered upon the Ex-
-cellent Way 5 .
+even by those who have not entered upon the Excellent Way 5 .
 
 
 1 This reputation of the Sakya family for pride is referred to in
@@ -12495,8 +10890,7 @@ be found in the stock paragraph translated by Rh. D. in £ Buddhist
 Suttas from the Pali' (S. B. E., vol. xi, pp. 216-218).
 
 4 Sotdpattiphala ; that is, he became free from the delusion
-of self (sakk&yadi///£i), from doubt (y\k\Wkkh&), and from depend-
-ence upon ceremonies or works (silabbata-param&sa). See Rh. D/s
+of self (sakk&yadi///£i), from doubt (y\k\Wkkh&), and from dependence upon ceremonies or works (silabbata-param&sa). See Rh. D/s
 manual, ‘Buddhism/ pp. 1 08-1 10.
 
 5 Pothu^anika iddhi. What this may be is unknown to
@@ -12506,26 +10900,17 @@ us, A fourfold Iddhi is described in detail in the stock passage
 VII, I, 6.
 
 
-DISSENSIONS IN THE ORDER.
-
-
-231
-
-
 5 1 . Now at that time the venerable Bhaddiya,
 who had retired into the forest to the foot of a tree,
 into solitude, gave utterance over and over again to
-this ecstatic exclamation : 4 O happiness ! O happi-
-ness !’ And a number of Bhikkhus went up to the
+this ecstatic exclamation : 4 O happiness ! O happiness !’ And a number of Bhikkhus went up to the
 place where the Blessed One was, and bowed down
 before him, and took their seats on one side. And.
 so seated, they [told the Blessed One of this], and
-added, ‘For a certainty, Lord, the venerable Bhad-
-diya is not contented as he lives the life of purity;
+added, ‘For a certainty, Lord, the venerable Bhaddiya is not contented as he lives the life of purity;
 but rather it is when calling to mind the happiness of
 his former sovranty that he gives vent to this saying/
-Then the Blessed One addressed a certain Bhik-
-khu, and said : £ Do you go, O Bhikkhu, and in my
+Then the Blessed One addressed a certain Bhikkhu, and said : £ Do you go, O Bhikkhu, and in my
 name call Bhaddiya the Bhikkhu, saying, “ The
 Teacher, venerable Bhaddiya, is calling for you/”
 
@@ -12534,8 +10919,6 @@ the Blessed One. And he went to Bhaddiya, and
 called him [in those words].
 
 6. ‘ V ery well/ said the venerable Bhaddiya, in
-
-
 translated by Rh. D. in ‘ Buddhist Suttas from the Pali, S. B. E.,
 vol. xi, p. 214, and the fourfold Iddhi of the ideal king m the
 similar passage, loc. cit, pp. 259-261. The Iddhi heie referred to
@@ -12549,14 +10932,11 @@ honoured with the standing epithet, * venerable/ always used of the
 other members of the Order, even when they are repiesented to
 have been of bad character.
 
-1 The following incident, with a summaiy of the preceding sec-
-tions, forms the introductory story to the 10th Pataka (Rh D s
+1 The following incident, with a summaiy of the preceding sections, forms the introductory story to the 10th Pataka (Rh D s
 4 Buddhist Birth Stories/ i. pp. 1 90-1 93). The legend may ha\e
 first arisen as an explanation of the name Bhaddiya, which means
 c the fortunate one. 5
 
-
-232 A'ULLAVAGGA. YIT, 1, 6.
 
 assent to that Bhikkhu ; and he came to the Blessed
 One, and bowed down before him, and took his
@@ -12566,8 +10946,7 @@ Blessed One said to the venerable Bhaddiya :
 f Is it true, as they say, that you Bhaddiya, when
 retired into the forest to the foot of a tree, into
 solitude, have given utterance over and over again
-to this ecstatic exclamation, “ O happiness ! O happi-
-ness ! ” What circumstance was it, O Bhaddiya, that
+to this ecstatic exclamation, “ O happiness ! O happiness ! ” What circumstance was it, O Bhaddiya, that
 you had in your mind when } T ou acted thus ?’
 
 ‘Formerly, Lord, when I was a king, I had a
@@ -12596,13 +10975,9 @@ is the correct one. See Oldenberg’s note at p. 363 of the edition
 of the text. Our translation is conjectural.
 
 s Migabhfitena ^etasd. The meaning of miga in this
-phrase is not certain ; and the figure may be drawn from the care-
-less mind of any animal in its natural state. We have not noticed
-the idiom elsewhere; but compare the converse figure, bhanta-
-miga-sappa/ibhdgo sdsane anabhirato, at Gdtaka I, 303, 6.
+phrase is not certain ; and the figure may be drawn from the careless mind of any animal in its natural state. We have not noticed
+the idiom elsewhere; but compare the converse figure, bhantamiga-sappa/ibhdgo sdsane anabhirato, at Gdtaka I, 303, 6.
 
-
-VII, 2, i. DISSENSIONS IN THE ORDER. 233
 
 ‘ The man who harbours no harsh thoughts within
 him,
@@ -12635,8 +11010,7 @@ Then Devadatta folded up his sleeping-mat, and
 set out, fully bowded and robed, for Rayagaha , and
 in due course he arrived at Rayagaha. Then he
 laid aside his own form, and took upon himself the
-form of a child clad in a girdle of snakes, and ap-
-peared on the lap of prince Ayatasattu 2 . Then was
+form of a child clad in a girdle of snakes, and appeared on the lap of prince Ayatasattu 2 . Then was
 
 1 In the test, for kin nu read k a m nu.
 
@@ -12644,8 +11018,6 @@ peared on the lap of prince Ayatasattu 2 . Then was
 powers of Iddhi included in the first list referred to at note 5,
 p. 230.
 
-
-2 34 VULLAVAGGA. VII, 2 , 2 .
 
 prince Ag'itasattu terrified, and startled, and anxious,
 and alarmed.
@@ -12677,8 +11049,7 @@ within him, (that moment) was Devadatta deprived
 of that his power of Iddhi.
 
 2. Now at that time a Koliyan, by name Kakudha,
-who had been (as Bhikkhu) the attendant on Moggal-
-ldna, had just died, and had appeared again in a
+who had been (as Bhikkhu) the attendant on Moggalldna, had just died, and had appeared again in a
 certain spiritual body 1 2 , possessed of a personality as
 large as two or three of the common rice-fields of a
 Magadha village, and yet so constituted 3 that he was
@@ -12695,9 +11066,6 @@ s Attabh&vo. See IX, 1, 3.
 
 
 YIT, 2, 3.
-
-
-DISSENSIONS IN THE ORDER.
 
 
 2 35
@@ -12719,8 +11087,7 @@ matter] 1 2 3 .
 
 ‘What then, Moggallana, have you so penetrated
 the mind of that celestial being Kakudha, that you
-know that whatsoever he speaks, that will be accord-
-ingly, and not otherwise “?’
+know that whatsoever he speaks, that will be accordingly, and not otherwise “?’
 
 ‘ I have, Lord.’
 
@@ -12743,20 +11110,13 @@ the Anguttara Nikaya.
 
 2 The last paragraph is here repeated in the text.
 
-3 On the use here of ^etasd £eto pari^a, compare I\Iaha-pari-
-nibb&na Sutta I, 16, 17.
+3 On the use here of ^etasd £eto pari^a, compare I\Iaha-parinibb&na Sutta I, 16, 17.
 
 4 The following two sections are repeated below, VH 3 ic, to
 all the Bhikkhus,
 
 
-236
-
-
 A r ULLAVAGGA.
-
-
-VII, 2, 4.
 
 
 gives out that he is a person of pure conduct, one
@@ -12779,9 +11139,7 @@ successively ' mode of livelihood,’ ‘ preaching of the
 Dhamma,’ ‘system of exposition,’ &c., ‘insight arising
 from knowledge,’ for ‘ conduct’]. 1 These, Moggallana,
 are the five kinds of teachers now existing in the
-world. But I being pure in conduct, mode of liveli-
-hood, preaching of the Dhamma, system of expo-
-sition, and insight arising from knowledge, give out
+world. But I being pure in conduct, mode of livelihood, preaching of the Dhamma, system of exposition, and insight arising from knowledge, give out
 that I am so, that I am pure, innocent, and without
 stain in all these things. And neither do my disciples
 protect me in respect of my own conduct, nor do I
@@ -12791,20 +11149,13 @@ expect them to do so.’
 Kosambt as long as he thought fit, he set out on his
 journey towards Ragagaha. And journeying straight
 on, he arrived in due course at Ragagaha ; and there,
-at Rctgagaha, he stayed at the Ve/uvana in the Ka-
-landaka N ivapa.
+at Rctgagaha, he stayed at the Ve/uvana in the Kalandaka N ivapa.
 
 3 Pa^Hsirasati. Perhaps this word here means ‘he requires,
 needs.’
 
 
 VII, 2, 5 -
-
-
-DISSENSIONS IN THE ORDER.
-
-
-237
 
 
 And a number of Bhikkhus went to the Blessed
@@ -12826,8 +11177,7 @@ nose of a fierce dog, the dog would thereby become
 so much the fiercer, just so long, O Bhikkhus (&c.,
 as before). To his own hurt, O Bhikkhus, has this
 gain, hospitality, and fame come to Devadacta, to
-his own destruction. Just, O Bhikkrms as a plan-
-tain, or a bamboo, or a reed gives fnut zo its own
+his own destruction. Just, O Bhikkrms as a plantain, or a bamboo, or a reed gives fnut zo its own
 hurt and its own destruction 3 , just sc to his own
 hurt (&c., as before). Just as a young she-mule
 conceives to her own hurt and her own destruction %
@@ -12848,15 +11198,6 @@ repeated at the commencement of the Maha-pa 1 mibbana Su.ta
 
 4 Because she would die if she did. On assatar-, compare
 above, VI, 4, 3, and our note there.
-
-
-238
-
-
-rULLAVAGGA.
-
-
-VII, 3, 1.
 
 
 ‘ Honour destroys the evil man, just as its foal
@@ -12902,12 +11243,6 @@ venerable Brahmans.
 VII, 3 , 2.
 
 
-DISSENSIONS IN THE ORDER.
-
-
-239
-
-
 How much less, then, to so vile and evil-living a
 person as you 1 /
 
@@ -12925,14 +11260,12 @@ malice against the Blessed One.
 ‘ Let then the Sa;;zgha, O Bhikkhus, carry out
 against Devadatta the Act of Proclamation 2 in
 Ra^agaha, to the effect that whereas the nature of
-Devadatta used to be of one kind it is now of an-
-other kind, and that whatsoever he shall do, either
+Devadatta used to be of one kind it is now of another kind, and that whatsoever he shall do, either
 bodily or verbally, in that neither shall the Buddha
 be recognised, nor the Dhamma, nor the Sawgha,
 but only Devadatta.
 
-4 And thus, O Bhikkhus, shall the Act be car-
-ried out. Some discreet and able Bhikkhu (&c ,
+4 And thus, O Bhikkhus, shall the Act be carried out. Some discreet and able Bhikkhu (&c ,
 
 
 1 In the test read £/;avassa khe/apakassa. On the first word,
@@ -12941,8 +11274,7 @@ compare V, 2,8. For the second the Dhammapada commentator
 khe/asika. Buddhaghosa, explaining it, says, ‘In this passage
 (we should recollect) that those who obtain the requisites (of a
 Bhikkhu) by an evil mode of life are said by the Noble Ones to be
-like unto spittle. The Blessed One calls him khe/apaka (to ex-
-press that) he eats, (that is, 1 gams a living) m sm like that/ (For
+like unto spittle. The Blessed One calls him khe/apaka (to express that) he eats, (that is, 1 gams a living) m sm like that/ (For
 the Pali, see the edition of the text, p. 323, where the comma after
 khe/asadisa should be before it.)
 
@@ -12952,27 +11284,22 @@ only mentioned m this passage. It is not rcfened to by the
 Dhammapada commentator.
 
 
-240
-
-
 STFLLAVAGGA.
 
 
-VII » 3 > 3 -
+VII » 3 ) 3 -
 
 
 in the same form as in I, i, 4, down to the end of
 the KammavdH).’
 
-And the Blessed One said to the venerable Sari-
-putta, * Do you then, Sariputta, proclaim Devadatta
+And the Blessed One said to the venerable Sariputta, * Do you then, Sariputta, proclaim Devadatta
 throughout R&yagaha.’
 
 1 In former times, Lord, I have sung the praises
 of Devadatta in Ri/agaha, saying, “ Great is the
 power (Iddhi) of the son of Godhi ! Great is the
-might of the son of Godhi !” How can I now pro-
-claim him throughout Ra^agaha ?’
+might of the son of Godhi !” How can I now proclaim him throughout Ra^agaha ?’
 
 ‘Was it not truth that you spoke, Sariputta, when
 vou Tsoi sang his praises ?’
@@ -12987,19 +11314,14 @@ Blessed One.
 
 3. And the Blessed One said to the Bhikkhus :
 ‘ Let then the Sawgha appoint Sariputta to the
-office of proclaiming Devadatta throughout Rag-a-
-gaha to the effect (&c., as before, § 2 ). And thus,
-O Bhikkhus, should he be appointed. First, Sari-
-putta should be asked, &c. (as usual in official ap-
-pointments 1 , down to the end of the Kammava-fa).’
+office of proclaiming Devadatta throughout Rag-agaha to the effect (&c., as before, § 2 ). And thus,
+O Bhikkhus, should he be appointed. First, Sariputta should be asked, &c. (as usual in official appointments 1 , down to the end of the Kammava-fa).’
 
-Then Sariputta, being so appointed, entered Ra^a-
-gaha with a number of Bhikkhus, and proclaimed
+Then Sariputta, being so appointed, entered Ra^agaha with a number of Bhikkhus, and proclaimed
 Devadatta accordingly. And thereupon those people
 who were unbelievers, and without devotion or insight,
 spake thus : ‘ They are jealous, these Sakyaputtiya
-Samaras ! They are jealous of the gain and hospi-
-tality that fall to Devadatta !’ But those who were
+Samaras ! They are jealous of the gain and hospitality that fall to Devadatta !’ But those who were
 believers, full of devotion, able, and gifted with in-
 
 
@@ -13009,12 +11331,6 @@ believers, full of devotion, able, and gifted with in-
 VII, 3, 4-
 
 
-DISSENSIONS IN THE ORDER.
-
-
-24I
-
-
 sight, spake thus : ‘ This cannot be any ordinary
 affair 1 2 , in that the Blessed One has had Devadatta
 proclaimed throughout Rayagaha ! ’
@@ -13022,8 +11338,7 @@ proclaimed throughout Rayagaha ! ’
 4. And Devadatta went to A^atasattu the prince,
 and said to him : ‘In former days, prince, people
 were long-lived, but now their term of life is short.
-It is quite possible, therefore, that you may com-
-plete your time while you are still a prince. So
+It is quite possible, therefore, that you may complete your time while you are still a prince. So
 do you, prince, kill your father, and become the
 Rsi/a ; and I will kill the Blessed One, and become
 the Buddha.’
@@ -13048,23 +11363,18 @@ his thigh, they asked him :
 ‘ The worthy Devadatta.’
 
 Then some of the ministers advised ‘ The prince
-should be slain, and Devadatta, and all the Bhik-
-khus.’ Others of them advised ‘ The Bhikkhus
+should be slain, and Devadatta, and all the Bhikkhus.’ Others of them advised ‘ The Bhikkhus
 ought not to be slain, for they have done no wrong;
 
 
 1 Na orakaw bhavissati. See Mahdvagga I. 9, x, and
 isTullavagga VI, 4, 10, and our note on the latter passage.
 
-2 Potthanikawt. This word has already occurred at Maiia-
-vagga VI, 23, 3.
+2 Potthanikawt. This word has already occurred at Maiiavagga VI, 23, 3.
 
 3 Divadivassa. See the use of this word at GStaka II, 1.
 
 [20] R
-
-
-242
 
 
 ffULLAVAGGA.
@@ -13100,8 +11410,7 @@ Sazzzgha be required, but only Devadatta ?’
 
 Then those ministers who had advised that the
 prince and Devadatta and all the Bhikkhus should
-be slain, them he made incapable (of ever again hold-
-ing office) And those ministers who had advised
+be slain, them he made incapable (of ever again holding office) And those ministers who had advised
 that the prince should be slain, and Devadatta,
 them he degraded to lower offices. But those
 ministers who had advised that neither should the
@@ -13119,9 +11428,6 @@ VII, 3, 7 -
 
 
 DISSENSIONS IN T1IE ORDER.
-
-
-243
 
 
 ‘ I wanted a kingdom, O king ! ’
@@ -13154,27 +11460,18 @@ some little distance from the Blessed One, being
 
 1 The early literature already mentions that A^atasattu eventually
 hilled his father. (See, for instance, Samafma-phala Sutta, p. 154.)
-Bigandet I, 261 (3rd edition) adds that the mode adopted was by-
-starving him to death in prison.
+Bigandet I, 261 (3rd edition) adds that the mode adopted was bystarving him to death in prison.
 
-2 The Buddhist writers being so especially careful in their ac-
-curate use of titles, it is particularly noteworthy that Agatasattu is
+2 The Buddhist writers being so especially careful in their accurate use of titles, it is particularly noteworthy that Agatasattu is
 here called prince (kumara) and not king (r%a). It is almost
 impossible to avoid the conclusion that this paragraph stood
 originally in some other connection ; and that the events it de**
 scribes must then have been supposed to have taken place before
-Ag&tasattu actually became king. That the Dhammapada com-
-mentator says here (Fausboll, p. 143) tasmiw (that is, A^atasattu)
+Ag&tasattu actually became king. That the Dhammapada commentator says here (Fausboll, p. 143) tasmiw (that is, A^atasattu)
 ra gge pati//Aite, is no evidence the other way; for that account
 is either taken from this, or depends ultimately upon it.
 
 R 2
-
-
-244
-
-
-iTULLAVAGGA.
 
 
 VII, 3 , 7-
@@ -13207,8 +11504,7 @@ sin makes amends for it as is meet, and becomes
 able in future to restrain himself therefrom V
 
 Then the Blessed One discoursed to that man in
-due order, that is to say (&c., as usual in conver-
-sions 3 , down to) May the Blessed One accept me
+due order, that is to say (&c., as usual in conversions 3 , down to) May the Blessed One accept me
 as a disciple, as one who, from this day forth as long
 as life endures, has taken his refuge in him.
 
@@ -13228,12 +11524,6 @@ occurs, for instance, at Mahavagga IX, x, 9 ; Z'ullavagga V, 20, g.
 VII, 3 , 9 -
 
 
-DISSENSIONS IN THE ORDER.
-
-
-245
-
-
 8. But the two men thought, ‘ Where now can
 that man be who was to come alone ? He is
 delaying long.’ And as they were going to meet
@@ -13241,8 +11531,7 @@ him, they caught sight of the Blessed One sitting at
 the foot of a certain tree. On seeing him they
 went up to the place where he was, and saluted
 him, and took their seats on one side. To them
-also the Blessed One discoursed, [and they were con-
-verted as the other man had been, and he sent
+also the Blessed One discoursed, [and they were converted as the other man had been, and he sent
 them back by another way. And the same thing
 occurred as to the four, and the eight, and the
 sixteen men k]
@@ -13255,10 +11544,8 @@ of the Blessed One.’
 ‘ That will do, friend. You need not do so. 1 will
 slay the Blessed One myself.’
 
-Now at that time the Blessed One was walking-
-up and down (meditating) in the shade below 0 the
-mountain called the Vulture’s Peak. And Deva-
-datta climbed up the Vulture’s Peak, and hurled
+Now at that time the Blessed One was walkingup and down (meditating) in the shade below 0 the
+mountain called the Vulture’s Peak. And Devadatta climbed up the Vulture’s Peak, and hurled
 down a mighty rock with the intention of depriving
 the Blessed One of life. But two mountain peaks
 came together and stopped that rock, and only
@@ -13270,22 +11557,12 @@ in each case.
 
 2 The Iddhi here must be the power of religious persuasion.
 
-3 Pa^/iaytyaw. See Mahavagga V, 1, 5, and ilaha-parinib-
-bana Sutta II, 31 (p. 22 of the text).
+3 Pa^/iaytyaw. See Mahavagga V, 1, 5, and ilaha-parinibbana Sutta II, 31 (p. 22 of the text).
 
 4 Papatika. In the text, by a misprint, this and the preceding
 word have been joined together.
 
 5 Pade ruhiram uppadesi, wheie ruhira is equal to lohita.
-
-
-246
-
-
-A'ULLAVAGGA.
-
-
-VII, 3, 10.
 
 
 Then the Blessed One, looking upwards, said to
@@ -13302,10 +11579,8 @@ its effect in the immediate future 2 , in that with evil
 and murderous intent he has caused the blood of
 the Tathdgata to flow.’
 
-10. And the Bhikkhus having heard that Deva-
-datta was compassing the death of the Blessed One,
-walked round and round the Vihara, making recita-
-tion in high and loud tones, for a protection and
+10. And the Bhikkhus having heard that Devadatta was compassing the death of the Blessed One,
+walked round and round the Vihara, making recitation in high and loud tones, for a protection and
 guard to the Blessed One. On hearing that noise
 the Blessed One asked the venerable Ananda what
 it was. And when Ananda [told him], the Blessed
@@ -13313,12 +11588,10 @@ One said : ‘ Then, Ananda, call the Bhikkhus in my
 
 
 It is so used at Gataka II, 275, in the Milinda Parcha, p. 125, and
-in the account of the present incident in the Dhammapada com-
-mentary (p. 144). In Mahavagga I, 67, where it is said that one
+in the account of the present incident in the Dhammapada commentary (p. 144). In Mahavagga I, 67, where it is said that one
 who has shed (a Buddha's) blood cannot be received into the
 Order, the expression is lohitaz7z uppadeti: and m numerous
-passages elsewhere it is added that such a lohituppadako be-
-comes ipso facto discharged fiom one or other of the duties and
+passages elsewhere it is added that such a lohituppadako becomes ipso facto discharged fiom one or other of the duties and
 privileges of a member of the Order, just as if he had thrown off
 the robes.
 
@@ -13334,12 +11607,6 @@ such sins.
 
 
 VII, 3, II.
-
-
-DISSENSIONS IN THE ORDER.
-
-
-247
 
 
 name, saying, “ The Teacher sends for the venerable
@@ -13384,9 +11651,6 @@ down the road/
 the Old Commentary on the Bhikkhimx-vibhanga, Pa&ttija VII.
 
 
-248
-
-
 JTULLAVAGGA.
 
 
@@ -13423,7 +11687,6 @@ down to the end].’
 
 [And a second and a third time the Bhikkhus
 made the same appeal, and received the same
-
 repIy -]
 
 12. Then at that time the people climbed up on
@@ -13437,15 +11700,6 @@ a hurt 1 .’ But those who were believers, full of
 1 The setting of this paragraph is parallel to § 3 above in this
 chapter ; the speech of the unbelievers is the same as that of the
 Ga/ilas at Mahavagga I, ig, 4.
-
-
-VII, 3,12.
-
-
-DISSENSIONS IN THE ORDER.
-
-
-249
 
 
 devotion, able, and gifted with insight, said, ‘’Twill
@@ -13478,24 +11732,19 @@ and sprinkled it over its head, and retired, bowing
 backwards the while it gazed upon the Blessed
 One.
 
-And Nalagiri the elephant returned to the ele-
-phant stables, and stood in its appointed place, and
+And Nalagiri the elephant returned to the elephant stables, and stood in its appointed place, and
 
 
-1 Mettena >httena phari; literally, ‘he suffused him with
+1 Mettena )httena phari; literally, ‘he suffused him with
 loving heait.’ Compaie Rh. D.’s ‘Buddhist Birth Stories,’ i p 112.
 
-2 Innagamasadothe mis inserted for euphony. See the in-
-stances given by Kuhn, ‘ Beitrage zur Pah-grammatik, p, 63.
+2 Innagamasadothe mis inserted for euphony. See the instances given by Kuhn, ‘ Beitrage zur Pah-grammatik, p, 63.
 Many others might be added; siva-m-aftgase, (xataka \ol 1,
 verse 27; samana-m-a^ala, Childers sub voce, &c. Compare
 the curious use of asadeti at Aullavagga I, 27.
 
 3 A play on the words is here lost in English (1x1a mado mi
 pamado).
-
-
-250
 
 
 XULLAVAGGA.
@@ -13510,12 +11759,9 @@ time the people sung these verses :
 ‘ They can be tamed by sticks, and goads, and
 whips,
 
-1 But the great Sage has tamed this elephant with-
-out a weapon or a stick.’
+1 But the great Sage has tamed this elephant without a weapon or a stick.’
 
-13. The people were angry, murmured, and be-
-came indignant, saying, * How wicked is this Deva-
-datta, and how wretched x , in that he can go about
+13. The people were angry, murmured, and became indignant, saying, * How wicked is this Devadatta, and how wretched x , in that he can go about
 to slay the Samara Gotama, who is so mighty
 and so powerful.’ And the gain and honour of
 Devadatta fell off, while that of the Blessed One
@@ -13526,8 +11772,7 @@ Devadatta had fallen off, he went, surrounded by
 Bhikkhus, to people’s houses, appealing for alms 1 2 3 .
 
 The people were angry, murmured, and became
-indignant, saying, ‘ How can the Sakyaputtiya Sa-
-maras live on food that they ask for at people’s
+indignant, saying, ‘ How can the Sakyaputtiya Samaras live on food that they ask for at people’s
 houses ? Who is not fond of well-cooked food ?
 Who does not like sweet things ?’
 
@@ -13542,8 +11787,7 @@ passitabbo ti attho (B.). We venture to differ from both of these
 explanations, and to follow rather the derivation of the word, and
 the meaning of the corresponding Sanskrit term alakshmika.
 
-2 From here down to the ‘ decision ’ is identical with the intro-
-ductory story in the Sutta-vibhanga to the 32nd Paiittiya, — a rule
+2 From here down to the ‘ decision ’ is identical with the introductory story in the Sutta-vibhanga to the 32nd Paiittiya, — a rule
 the previous existence of which is implied in the decision given
 here.
 
@@ -13552,9 +11796,6 @@ sense, and even occurs already in the Patimokkha, Pa&ttiya 39.
 
 
 TIT, 3, 14.
-
-
-DISSENSIONS IN THE ORDER.
 
 
 (not more than) three shall enjoy an alms (together)
@@ -13589,19 +11830,17 @@ But the Sanskrit Buddhist vocabulary Vyutpatti (teste Bohtlmgk-
 Roth, s. v. manku) authorises the use ofdummanku.
 
 2 So the Anguttara, loc. cit., has, in the same connection,
-gihinaw anukampdya pSpiX'£Mna«z pakkhupa££/>edava
+gihinaw anukampdya pSpiX'£Mna«z pakkhupa££/)edava
 
 3 See last note. The idea is here, of course, lest any particular
 layman should be burdened by providing for many Bhikkhus
 
-4 That is, under the 32nd Pa/iittiya, on which lule the Sutta-
-vibhanga explains the phrase ga«a-bhog-ana.
+4 That is, under the 32nd Pa/iittiya, on which lule the Suttavibhanga explains the phrase ga«a-bhog-ana.
 
 5 Sections 14, 15, and the greater part of 16 recur, word for
 word, as the intioductory story to the 10th Sanzghtdisesa.
 
-6 In iakka-bhedam the first word no doubt connotes 'king-
-dom, lordship,’ as m dhamma-^akka, £akkavatti, Ac.
+6 In iakka-bhedam the first word no doubt connotes 'kingdom, lordship,’ as m dhamma-^akka, £akkavatti, Ac.
 
 
 2C2
@@ -13618,9 +11857,7 @@ figure the advantages of the man who wishes for
 little, who is easy to satisfy in the matter of support
 and nourishment, who has eradicated evil from his
 mind, has quelled his passions, and is full of faith,
-of reverence, and of the exercise of zeal 1 . The fol-
-lowing five things, Lord, conduce to such a con-
-dition 2 , It would be good, Lord, if the Bhikkhus
+of reverence, and of the exercise of zeal 1 . The following five things, Lord, conduce to such a condition 2 , It would be good, Lord, if the Bhikkhus
 should be, their lives long, dwellers in the woods —
 if whosoever goes to the neighbourhood of a village
 should thereby commit an offence. It would be
@@ -13637,20 +11874,17 @@ an offence. It would be good if they should, their
 lives long, abstain from fish 5 6 — if whosoever should
 
 
-1 This is part of the standing 4 religious discourse J so often as-
-cnbed to the Buddha in the Vmaya texts, and given at full m the
+1 This is part of the standing 4 religious discourse J so often ascnbed to the Buddha in the Vmaya texts, and given at full m the
 ATullavagga I, 1-3.
 
 2 It was on precisely the same reasoning that a ceitain Bhikkhu
-in Mahavagga VIII, 28, 1, endeavoured to get the Buddha to con-
-veit to the rejection of all clothing.
+in Mahavagga VIII, 28, 1, endeavoured to get the Buddha to conveit to the rejection of all clothing.
 
 3 At Mahavagga VIII, 1, 35, it is laid down that a Bhikkhu may
 either dress in cast-off rags, or accept robes from a layman,
 according as he likes.
 
 4 This dwelling under trees is expressly forbidden, as regards
-
 the season of the rams, in Mahavagga III, 12, 5.
 
 6 The rule of the Order is merely that no one may knowingly
@@ -13661,12 +11895,6 @@ caught for that purpose. See Mahavagga VI, 31, 14.
 VII, 3, 16-
 
 
-DISSENSIONS IN THE ORDER.
-
-
-253
-
-
 eat fish, should thereby commit an offence.” The
 Samawa Gotama will not grant these things. Then
 will we gain over the people by means thereof.’
@@ -13675,8 +11903,7 @@ will we gain over the people by means thereof.’
 in the Sawgha, and in the party of the Samara
 Gotama. For the people believe in rough measures.’
 
-15. And Devadatta went to the Blessed One, sur-
-rounded by his friends, and made these demands
+15. And Devadatta went to the Blessed One, surrounded by his friends, and made these demands
 [in the words just set out].
 
 ‘ No, Devadatta. Whosoever wishes to do so,
@@ -13703,18 +11930,11 @@ and such things did we ask, Sirs, of the Samara
 Gotama. He would not allow them, but we live in
 accordance with them.’
 
-16. Then those of the people who were un-
-believers, and without reverence or insight, said.
+16. Then those of the people who were unbelievers, and without reverence or insight, said.
 ‘These Sakyaputtiya Samaras have eradicated evil
 
 
-254
-
-
 XULLAVAGGA.
-
-
-VII, 3, 16.
 
 
 from their minds, and have quelled their passions,
@@ -13737,18 +11957,15 @@ in the body of my adherents ?’
 
 ‘ (Thou hast gone far) enough, Devadatta. Let
 not a division in the Sawgha seem good to thee 2 ;
-— grievous is such division. Whosoever, O Deva-
-datta, breaks up the Sa^gha, when it is at peace,
-he gives birth to a fault (the effect of) which en-
-dures for a kalpa 3 , and for a kalpa is he boiled in
+— grievous is such division. Whosoever, O Devadatta, breaks up the Sa^gha, when it is at peace,
+he gives birth to a fault (the effect of) which endures for a kalpa 3 , and for a kalpa is he boiled in
 niraya. But whosoever, O Devadatta, makes peace
 in the Sawgha, when it has been divided, he gives
 birth to the highest merit, and for a kalpa is he
 happy in heaven 4 . Thou hast gone far enough,
 
 1 Bahulliko bahulllya £eteti. Both these expressions occur
-above in Mahavagga VI, 15, 9, 10, and elsewhere (see, for in-
-stance, the introductory stories to Gltaka, Nos. 6 and 32) as the
+above in Mahavagga VI, 15, 9, 10, and elsewhere (see, for instance, the introductory stories to Gltaka, Nos. 6 and 32) as the
 standing expression for the opposite of the state of mind in which
 a good Bhikkhu ought to live.
 
@@ -13766,21 +11983,16 @@ that its effects on the Karma will endure so long.
 VII, 3, 17-
 
 
-DISSENSIONS IN THE ORDER.
-
-
 2 55
 
 
 Devadatta. Let not a division in the Sawzgha, O
-Devadatta, seem good to thee. Grievous, O Deva-
-datta, is such division.’
+Devadatta, seem good to thee. Grievous, O Devadatta, is such division.’
 
 1 7. Now the venerable Ananda, having dressed
 himself early in the morning, went duly bowled and
 robed into Ra^agaha for alms. And Devadatta
-saw the venerable Ananda proceeding through Rh^a-
-gaha for alms. On seeing that he went up to the
+saw the venerable Ananda proceeding through Rh^agaha for alms. On seeing that he went up to the
 venerable Ananda, and said to him : ‘ At once, from
 this day forth, friend Ananda, I intend to perform
 Uposatha, and to carry out the formal proceedings
@@ -13815,29 +12027,16 @@ below at VII, 5, 4, have crept into the prose here, where we
 should otherwise expect sagge and niraye.
 
 
-256
-
-
-iTULLAVAGGA.
-
-
-VII, 4, 1.
-
-
 4.
 
-1. Now Devadatta on that day, which was Upo-
-satha day, arose from his seat, and gave out voting-
-tickets \ saying, ‘We went, Sirs, to the Samazza
+1. Now Devadatta on that day, which was Uposatha day, arose from his seat, and gave out votingtickets \ saying, ‘We went, Sirs, to the Samazza
 Gotama and asked for the Five Points, saying —
 (&c., as above in VII, 3, 14 and 15). These the
-Samara Gotama will not allow ; but we live in ac-
-cordance therewith. Whosoever of the venerable
+Samara Gotama will not allow ; but we live in accordance therewith. Whosoever of the venerable
 ones approves of the Five Things, let him take a
 ticket.’
 
-Now at that time there were five hundred Bhik-
-khus, Vesaliyans, and belonging to the Vagfian
+Now at that time there were five hundred Bhikkhus, Vesaliyans, and belonging to the Vagfian
 clan 1 2 , who had but recently joined the Order, and
 were ignorant of what he had in hand 3 . These
 took the voting-tickets, believing [the Five Points
@@ -13870,12 +12069,6 @@ Buddha's death.
 VII, 4?
 
 
-DISSENSIONS IN THE ORDER.
-
-
-257
-
-
 datta, Lord, has gone forth to Gaya-sisa, taking five
 hundred Bhikkhus with him/
 
@@ -13901,14 +12094,12 @@ gone to Devadatta’s side, approving the Dhamma of
 Devadatta/
 
 ‘ That, O Bhikkhu, would be impossible, that
-Sariputta and Moggallana should approve his teach-
-ing. They are gone only to gain those Bhikkhus
+Sariputta and Moggallana should approve his teaching. They are gone only to gain those Bhikkhus
 over again 1 /
 
 2. Now at that time Devadatta, surrounded by a
 great number of adherents, was seated, preaching
-the Dhamma. And when ne saw from afar Sari-
-putta and Moggallana coming towards him, he said
+the Dhamma. And when ne saw from afar Sariputta and Moggallana coming towards him, he said
 to the Bhikkhus : * See, O Bhikkhus, how well
 preached must be my doctrine, in that even the two
 chief disciples of the Samara Gotama — Sariputta
@@ -13921,20 +12112,13 @@ to gain the people over to his view s.
 [20] S
 
 
-A'ULLAVAGGA.
-
-
 VII, 4 , 3 .
 
-
-253
 
 and Moggallana — are coming to join me, being
 pleased with my Dharama.’
 
-When he had thus spoken Kokalika said to De-
-vadatta : ‘ O venerable Devadatta, trust not Sari-
-putta and Moggallana, for they are inclined towards
+When he had thus spoken Kokalika said to Devadatta : ‘ O venerable Devadatta, trust not Sariputta and Moggallana, for they are inclined towards
 evil, and under the influence of evil desires.’
 
 ‘ Nay, my friend, let us bid them welcome since
@@ -13948,8 +12132,7 @@ here!’
 and taking another seat, he sat down on one
 side. And Devadatta instructed and incited and
 aroused and gladdened the Bhikkhus far into the
-night with religious discourse ; and then made re-
-quest to Sariputta, saying, ‘ The assembly, friend
+night with religious discourse ; and then made request to Sariputta, saying, ‘ The assembly, friend
 Sdriputta, is still alert and sleepless. Will you,
 friend Sdriputta, be so good as to think of some
 religious discourse to address to the Bhikkhus 1 ? My
@@ -13962,36 +12145,24 @@ down on his right side. And in a moment even
 sleep overcame him who was tired, and had lost his
 presence of mind and his self-consciousness 2 .
 
-3. Then the venerable Sariputta taught and ex-
-horted the Bhikkhus in a religious discourse touch-
-ing the marvels of preaching, and the venerable
+3. Then the venerable Sariputta taught and exhorted the Bhikkhus in a religious discourse touching the marvels of preaching, and the venerable
 
 1 Pa/ibhltu ta m bhikkhunazrc dhammt kathsL See our
 note above on Mahavagga V, 13, 9.
 
-s Compare Mahavagga VIII, 16 = Sutta-vibhanga, Sawgha-
-disesa I, 2, 1.
+s Compare Mahavagga VIII, 16 = Sutta-vibhanga, Sawghadisesa I, 2, 1.
 
 
 VII, 4 , 4 -
-
-
-DISSENSIONS IN THE ORDER.
-
-
-259
 
 
 Moggalldna taught a nd exhorted the Bhikkhus in a
 religious discourse touching the marvels of Iddhi
 And whilst they were being so taught and exhorted
 those Bhikkhus obtained the pure and spotless E) e
-of the Truth 1 — (that is. the knowledge that) what-
-soever has a beginning, in that is inherent also the
-necessity of dissolution. Then the venerable Sari-
-putta addressed the Bhikkhus, and said : ‘ Let us
-go, my friends, to the Blessed One’s side. Whoso-
-ever approves of his doctrine (Dhamma), let him
+of the Truth 1 — (that is. the knowledge that) whatsoever has a beginning, in that is inherent also the
+necessity of dissolution. Then the venerable Sariputta addressed the Bhikkhus, and said : ‘ Let us
+go, my friends, to the Blessed One’s side. Whosoever approves of his doctrine (Dhamma), let him
 come.’
 
 And Sariputta and Moggallana went back to the
@@ -14025,34 +12196,24 @@ instance, Mahavagga I, 7, 6 ; in]lla\agga VI, 4, 5, VIL 3, 6.
 say that Devadatta died on the spot
 
 
-260
-
-
 .STULLAVAGGA.
 
 
-VII, 4, 5.
-
-
 matical Bhikkhus seem good to thee. But rather
-cause such Bhikkhus to confess that they have com-
-mitted a thulla/^aya offence. And how, Sari-
-putta, did Devadatta treat you ?’
+cause such Bhikkhus to confess that they have committed a thulla/^aya offence. And how, Sariputta, did Devadatta treat you ?’
 
 ‘When Devadatta, Lord, had instructed and
 aroused and incited and gladdened the Bhikkhus
 far into the night with religious discourse, he then
 made request to me, saying, “ The assembly, friend
 S&riputta, is still alert and sleepless. Will you, friend
-Sdriputta, think of some religious discourse to ad-
-dress to the Bhikkhus ? My back is tired, and I
+Sdriputta, think of some religious discourse to address to the Bhikkhus ? My back is tired, and I
 would stretch myself a little.” This, Lord, was the
 way in which Devadatta behaved to me.'
 
 5. Then the Blessed One addressed the Bhikkhus,
 and said: ‘Once upon a time, O Bhikkhus, there
-was a great pond in a forest region. Some ele-
-phants dwelt beside it ; and they, plunging into the
+was a great pond in a forest region. Some elephants dwelt beside it ; and they, plunging into the
 pond, plucked with their trunks the edible stalks of
 the lotus plants, washed them till they were quite
 clean 1 , masticated them 2 3 without any dirt, and so
@@ -14067,21 +12228,10 @@ of the lotus plants ; but they did not wash them till
 they were clean, but masticated them, dirt and all,
 and so eat them up. And that produced in them
 
-1 The last three lines have occurred word for word in Maha-
-
-vagga VI, 20, 2.
+1 The last three lines have occurred word for word in Mahavagga VI, 20, 2.
 
 3 SawkhaditvS. Compare the use of this word at Pataka
 I, 507.
-
-
-VII, 4, 6.
-
-
-DISSENSIONS IN THE ORDER.
-
-
-26l
 
 
 neither beauty nor strength ; and by reason thereof
@@ -14089,17 +12239,14 @@ they went down into death, and into sorrows like
 unto death. Just so, O Bhikkhus, will Devadatta
 die who, poor creature, is emulating me.
 
-4 Like the elephant calf who eateth mud in imi-
-tation of the great beast 1 2
+4 Like the elephant calf who eateth mud in imitation of the great beast 1 2
 
 That shakes the earth, and eats the lotus plant,
 and watches through the night among the waters- —
 So will he, poor creature, die that emuiateth me.
 
-6. ‘A Bhikkhu who is possessed of eight quali-
-fications is worthy, O Bhikkhus, to do the work of
-an emissary. And what are the eight ? The Bhik-
-khu, O Bhikkhus, must be able to hear and to make
+6. ‘A Bhikkhu who is possessed of eight qualifications is worthy, O Bhikkhus, to do the work of
+an emissary. And what are the eight ? The Bhikkhu, O Bhikkhus, must be able to hear and to make
 others listen, able to learn, able to bear in mind,
 able to discern and to make others discern, skilful
 to deal with friends and foes, and no maker of
@@ -14117,14 +12264,11 @@ speech,
 
 
 1 Maha-varaha. At Abhidhanappadipika, \erse 1 1 1 5, vara ha
-is said to mean £ elephant 1 as well as ‘ boar , ’ and so here Buddha-
-ghosa says Maha-varahassa maha-nagassa. As this explana-
-tion possibly lests only on such passages as the present, w ? e have
+is said to mean £ elephant 1 as well as ‘ boar , ’ and so here Buddhaghosa says Maha-varahassa maha-nagassa. As this explanation possibly lests only on such passages as the present, w ? e have
 chosen an ambiguous rendering
 
 2 Nadisu ^aggato ti. Ettha so kira hatthi-nago sa)a»ha-
-.samayaw ta m nadi-namaka^ pokkhara;uw ogahet\a kilanto sabba-
-rattiflz vitmamesi ^alikajw karoti. Tena vuttaw nadisu ^aggato
+.samayaw ta m nadi-namaka^ pokkhara;uw ogahet\a kilanto sabbarattiflz vitmamesi ^alikajw karoti. Tena vuttaw nadisu ^aggato
 u (B.).
 
 
@@ -14164,16 +12308,13 @@ should continue in complete ascendancy over any
 gain or loss, any fame or the reverse, any honour or
 
 1 On these Ines compare some similar expressions at Mahavagga
-X, 6, 3.
 
 2 Asaddhamma It is very difficult to find a proper rendering
 for this expression. Dhamraa here means, no doubt, 'quality,’
 
-* condition ' (as it does in the title of the Sanskrit woik Saddhaima-
-pm/^aiika, unhappily rendered by Burnouf, ' Lotus de la bonne
+* condition ' (as it does in the title of the Sanskrit woik Saddhaimapm/^aiika, unhappily rendered by Burnouf, ' Lotus de la bonne
 loi '). But the details of the various particulars suggest lather the
-rendenng ‘ surrounding occurrences' or 'matters/ for they are ob-
-jective, external, and not (or only incidentally and secondarily)
+rendenng ‘ surrounding occurrences' or 'matters/ for they are objective, external, and not (or only incidentally and secondarily)
 subjective, internal.
 
 J Apayiko nerayiko ‘Liable to re-birth in apaya and m
@@ -14185,12 +12326,6 @@ Sutta I, 23. All the expressions used here recur below at VII 5, 4.
 
 
 ^ XI, 4» 7’
-
-
-DISSENSIONS IN THE ORDER.
-
-
-263
 
 
 dishonour, any evil longing or evil friendship, that
@@ -14209,18 +12344,14 @@ O Bhikkhus, should you train yourselves.
 
 ‘ There are three evil conditions, O Bhikkhus, by
 which Devadatta being overcome, and his mind
-being taken up, he is irretrievably doomed to re-
-main for a Kalpa in states of suffering and woe.
-And what are the three ? His having wicked de-
-sires, and his having wicked friends, and his having
-come to a stop on his way (to Nirvana or Arahat-
-ship) because he had already attained to some lesser
+being taken up, he is irretrievably doomed to remain for a Kalpa in states of suffering and woe.
+And what are the three ? His having wicked desires, and his having wicked friends, and his having
+come to a stop on his way (to Nirvana or Arahatship) because he had already attained to some lesser
 thing 3 . These are the three (&c., as before)/
 
 
 1 Kim (read kam) atthavasaw pa/i£/£a So also above,
-Mahdvagga VIII, 15, 7, Afullavagga VII, 1, 6, and in the Maha-
-parimbbana Sutta V, 28, and Dhammapada, verse 289. The
+Mahdvagga VIII, 15, 7, Afullavagga VII, 1, 6, and in the Mahaparimbbana Sutta V, 28, and Dhammapada, verse 289. The
 whole of the previous sentence is here repeated in the text.
 
 2 Vighata-pari/aha. This is a standing epithet of the Asavas,
@@ -14229,20 +12360,13 @@ recurring, for instance, many times in the Sabbasava Sutta, §§ 18-
 ‘.influence/ here chosen as a rendering for asava, is suggested b}
 Dr. Morris as being similar, both m its derivation and m the lustoiy
 of its meaning, to the Pdli one. The principal objection against n
-is that it has nevei acquired the bad connotation of asava, and re-
-quires, therefore, to be supplemented by some epithet
+is that it has nevei acquired the bad connotation of asava, and requires, therefore, to be supplemented by some epithet
 
 3 Oramattakena visesddhigamena antard vosdnam
 apadi. On this phrase, which recuis m full m the Maha-parimb-
 
 
-264
-
-
 ZULLAVAGGA.
-
-
-VII, 4, 8.
 
 
 8. “Verily! let no wicked desire whatever arise
@@ -14256,8 +12380,7 @@ thereof.
 Aglow with glory did Devadatta stand ’ (thus have
 I heard).
 
-He gave himself to vanity, to attacking 1 the Ta-
-thagata :
+He gave himself to vanity, to attacking 1 the Tathagata :
 
 He fell into the Aviki hell, guarded fourfold and
 terrible 2 .
@@ -14294,17 +12417,10 @@ and the ramparts (thiough which they pass) on all four sides,’ On
 the general sentiment of these stanzas, and especially of this line,
 compare the Kokaliya Sutta m the Sutta Nipata (III, 10).
 
-n Bhasmi is explained by Buddhaghosa as equal to bhayd-
-nako.
+n Bhasmi is explained by Buddhaghosa as equal to bhaydnako.
 
 
 VII, 5, I-
-
-
-DISSENSIONS IN THE ORDER.
-
-
-265
 
 
 That perfect one, that peaceful heart, — against him
@@ -14359,8 +12475,6 @@ JsTULLAVAGGA.
 
 
 VII,
-
-
 are on the other side, and a ninth tell them (&c., as
 before) — then this, Up&li, is both disunion in the
 Sawgha, and it is schism 1 2 .
@@ -14404,15 +12518,7 @@ where we have rendered it shortly k a regular Bhikkhu ’).
 3 The first ten of the following list recur woid for woid in the
 Ahguttara Nikaya I, ii, 1-20 (Adhammadi~\agga), and the whole
 eighteen above in the Maha\agga X, 5, 4, 5,
-
-
 t IT, 5, 4-
-
-
-DISSENSIONS IN THE ORDER.
-
-
-267
 
 
 and spoken by him (6), or what has not been
@@ -14420,8 +12526,7 @@ practised by the Tath&gata as practised by him (7),
 or what has been practised by the Tathdgata as not
 practised by him (8), or what has not been ordained
 by the Tathagata as ordained by him (9), or what
-has been ordained by the T athagata as not or-
-dained by him (10), or what is no offence as an
+has been ordained by the T athagata as not ordained by him (10), or what is no offence as an
 offence ( 1 1 ), or what is an offence as no offence
 (12), or what is a slight offence to be a grievous
 offence (13), or what is a grievous offence to be a
@@ -14438,8 +12543,7 @@ perform independently Uposatha, and Pavarawi, and
 it require to constitute a schism in the Sawgha.’
 
 3. 1 There is the expression, Lord, “ concord in
-the Sawzgha.” What, Lord, does it require to con-
-stitute concord in the Sawzgha ?’
+the Sawzgha.” What, Lord, does it require to constitute concord in the Sawzgha ?’
 
 ‘They put forth, Upali, what is not Dhamrna as
 not Dhamrna’ (and so on through the Eighteen
@@ -14457,9 +12561,6 @@ pari saw m both cases
 3, 16, where much of the phiaseologv recuis.
 
 
-268
-
-
 JsTULLAVAGGA.
 
 
@@ -14467,7 +12568,6 @@ VII, 5 , 5-
 
 
 man give rise who brings about a schism in the
-
 o o
 
 Samgha. when it is in concord ?’
@@ -14522,9 +12622,6 @@ remain so in such states for a Kalpa ; and that he
 ^ 5s 5*
 
 
-DISSENSIONS IN THE ORDER.
-
-
 ‘ Who then, Lord, [comes under the first head ?] !
 
 ' In case, Upili, a Bhikkhu gives out what is not
@@ -14553,7 +12650,6 @@ would be in accordance with the Dhamma . . .
 
 
 1 Vmidhaya vmidhaya khanti//z, vmidhaya
-
 ruk\?n, vmidhaya bhava^z. These expressions all recur m the
 Sutta-vibhanga, Paiittiya I, 2, 2 and following sections, where the
 question at issue is whether an erroneous statement is, or is not, a
@@ -14566,13 +12662,9 @@ at the end of the KammavaHs.
 2 Bhede adhamma-di/Mi; literally, c m the schism (there
 will be) doctrine that is against the Dhamma.’
 
-3 Anussa\eti, which is here equivalent to the technical ' pub-
-lication ’ required in the English law of libel and slander.
+3 Anussa\eti, which is here equivalent to the technical ' publication ’ required in the English law of libel and slander.
 
 ’ See the note above on VII, 4, 1.
-
-
-270
 
 
 JfULLAVAGGA.
@@ -14586,12 +12678,9 @@ Dhamma, but in uncertainty whether the schism
 resulting therefrom would be against the Dhamma
 or not . . .
 
-(d) . . . in belief that the doctrine is in accord-
-ance with the Dhamma, but that the schism result-
-ing therefrom would be against the Dhamma . . .
+(d) . . . in belief that the doctrine is in accordance with the Dhamma, but that the schism resulting therefrom would be against the Dhamma . . .
 
-(<?)... in belief that the doctrine is in accord-
-ance with the Dhamma, but in uncertainty whether
+((?)... in belief that the doctrine is in accordance with the Dhamma, but in uncertainty whether
 the schism resulting therefrom would be against
 the Dhamma or not . . .
 
@@ -14625,17 +12714,10 @@ doomed that his position is irretrievable ?’
 not Dhamma as Dhamma [and so on successively
 
 
-VII, 5, 6.
-
-
-DISSENSIONS IN THE ORDER.
-
-
 2 7 I
 
 
-through the whole Eighteen Points] without direct-
-ing his opinion and his approval and his pleasure
+through the whole Eighteen Points] without directing his opinion and his approval and his pleasure
 and his intention thereto, and in the belief that the
 doctrine he propounds is in accordance with the
 Dhamma, and that the schism resulting therefrom
@@ -14661,9 +12743,6 @@ other woids, the schism must be brought about by deliberately
 putting forward a doctrine know n to be false, or at least doubtfuk
 or with the expiess intention or hope of theieby injuring the cause
 of the Dhamma (that is, of the Truth)
-
-
-272
 
 
 KULLAVAGGA.
@@ -14711,9 +12790,6 @@ JTullavagga V, 23, 2.
 6 Such an act has been already guarded against by the rule laid
 down at the end of JTullavagga V, 9, 5, where the same expre§£ion
 is made use of.
-
-
-Till, I, 2. REGULATIONS AS TO DUTIES OF BHIKKHUS. 273
 
 
 on to his back from the lintel above 1 , and he was
@@ -14770,17 +12846,12 @@ JSTULLAVAGGA.
 Till, i, 2.
 
 
-274
-
-
 hand, put down his sunshade, uncover his head,
-arrange his upper robe on his back 1 , and then care-
-fully and slowly enter the Arama.
+arrange his upper robe on his back 1 , and then carefully and slowly enter the Arama.
 
 ‘ When he enters the Arama he ought to notice
 where the resident Bhikkhus are gone to ; and
-whithersoever they are gone — whether to the ser-
-vice hall, or to the portico (mawtfapa), or to the foot
+whithersoever they are gone — whether to the service hall, or to the portico (mawtfapa), or to the foot
 of a tree — thither he ought to go, and laying his
 bowl on one side, and his robe on one side, he
 ought to take a suitable seat, and sit down.
@@ -14816,9 +12887,6 @@ word is used for ‘duster’ below, VIII, 1, 3, and for ‘tinder’ at
 Milinda Paftha, p. 53,
 
 
-Till, 1,3. REGULATIONS AS TO DUTIES OF BHXKKHUS. 275
-
-
 6 If the resident Bhikkhu be senior, he ought to be
 saluted; if junior, he ought to be made to salute
 (the incomer). The incomer ought to ask as to the
@@ -14831,8 +12899,7 @@ in want 3 .
 4 ‘ He ought to ask as to the retiring-places,
 (where they are), and as to the drinking-water, and
 as to the water for washing, and as to the staves
-for walking with, and as to the place for the con-
-ferences of the Sa;;zgha, (and as to) the time at
+for walking with, and as to the place for the conferences of the Sa;;zgha, (and as to) the time at
 which he ought to enter (it) and at which he ought
 to leave it.
 
@@ -14848,19 +12915,15 @@ bedding put in a heap on the top of them 0 , — then if
 
 1 See the rules as to the division of lodging-places according to
 the number of applicants at Aullavagga YI, 21, 2, and especially
-VI, 11, 3.
 
 2 Go/£aro ago^aro. There were some places or families to
 which the Bhikkhus of a particular residence were not allowed to
 resort for alms. See the rule as to 4 turning down the bowl 5 with
 aespect to a person at Aaillavagga V, 20.
 
-8 Sekha-sammatani kulani. See the note on the 3rd Pa/i-
-desaniya.
+8 Sekha-sammatani kulani. See the note on the 3rd Pa/idesaniya.
 
-4 All the following expressions have occurred together at Aulla-
-vagga IY, 4, 4, where an example is given of the couise of pro-
-ceeding here laid down. And they are repeated below, VIII, 2,2.
+4 All the following expressions have occurred together at Aullavagga IY, 4, 4, where an example is given of the couise of proceeding here laid down. And they are repeated below, VIII, 2,2.
 
 5 Uklapo. Compare Afullavagga VI, 3, 9, and below, § 5.
 
@@ -14869,13 +12932,7 @@ ceeding here laid down. And they are repeated below, VIII, 2,2.
 T 2
 
 
-276
-
-
 JTULLAVAGGA.
-
-
-VIII, 1, 3.
 
 
 he can do so he ought to clean up the Vihara.
@@ -14892,16 +12949,12 @@ the board to lean up against 4 ought to be taken
 out, and put down on one side 5 .
 
 ‘ If the Vihara is covered with cobwebs, they
-should first be removed with a cloth c . The case-
-ments should be dusted, especially in the corners
+should first be removed with a cloth c . The casements should be dusted, especially in the corners
 and joints.
 
-‘ If the wall which had been plastered and red-
-washed, or the floor which had been laid (with
+‘ If the wall which had been plastered and redwashed, or the floor which had been laid (with
 earth) and black-washed 7 , has become dirty in
 the corners s , they should be wiped down with a
-
-
 was to leave his Vihara. See below, VIII, 3, 2, and on the details
 -of the terms used, see our note below on VIII, i, 4.
 
@@ -14928,8 +12981,6 @@ above on Afullavagga VI, 20.
 8 Ka»«akit& See our note above on iTullavagga V, 11, 3,
 
 
-VIII, i, 3. REGULATIONS AS TO DUTIES OF BHIKKHUS. 277
-
 duster 1 that has been first wetted and wrung out. If
 the floor has not been so prepared, it should be
 sprinkled over with water and swept 2 , lest the
@@ -14953,8 +13004,7 @@ seems, like samuhan, to have acquired the meaning of to destroy,
 injure, spoil. From this meaning of spoiling, uhan evidently came
 to be used for or confounded in the MS. with uhad, ‘to defile
 (with exciement) ’ So the phrase 1 uhananti pi ummihanti pi’
-(at Mahavagga I, 49, 4) exactly conesponds in meaning to * omut-
-tenti pi uhadav anti pi' in Dhammapada, p. 283 Theie are
+(at Mahavagga I, 49, 4) exactly conesponds in meaning to * omuttenti pi uhadav anti pi' in Dhammapada, p. 283 Theie are
 other passages showing the same confusion (1) The gerund,
 uha/^a, which occurs m Gataka II p. 71 ( idani kho (ahan)
 ta m uhaMa ), is explained by the commentator to mean wal’hn
@@ -14976,9 +13026,6 @@ and has only afterwards replaced the earlier lit elode, to which the
 sense of livelihood properly belongs. And something of this kind
 
 
-278
-
-
 K ULLAVAGGA.
 
 
@@ -14987,8 +13034,7 @@ VIII, I j 4*
 
 4. ‘The floor coverings 1 should be dried in the
 sun, cleaned, beaten to get the dust out, taken back,
-and spread out again in the. place to which they be-
-longed 2 . The supports of the bed should be dried
+and spread out again in the. place to which they belonged 2 . The supports of the bed should be dried
 in the sun, dusted, taken back, and put in the place
 to which they belonged. The bed (ma;2/£a) and
 the chairs (p 1^/2 a) should be aired in the sun,
@@ -14997,8 +13043,6 @@ down, taken back, carefully avoiding scratching
 them against the floor, or knocking them up against
 the door-posts, and then put in the place to which
 they belonged 3 . The bolsters and pillows, and the
-
-
 must have occurred, he thinks, m Pali in the use of uhan for uhad.
 The past participle uhata occms at iTulla\agga VIII, 10, 3
 
@@ -15017,8 +13061,7 @@ manh and pi/^a : for as they were to be beaten to get the dust
 out, it is clear that they vere upholstered. The.maftjfca, or bed,
 must have been a wooden framewoik, stuffed (probably with
 cotton), covered at the top with cotton cloth, and made underneath
-and at the sides of wood. It had no legs fixed to it, but was sup-
-ported on movable tressels — the pa/ip&daka. When using it,
+and at the sides of wood. It had no legs fixed to it, but was supported on movable tressels — the pa/ip&daka. When using it,
 the sleeper covered it with a mat, or a cotton sheet, and had ovei
 him a coverlet of some kind ; and these articles, which he would
 also use if he slept on the ground, constituted, together with the
@@ -15026,19 +13069,14 @@ bolster and pillow's, the sen asanas or bedding, — that is, m the
 more special and limited use of that term (as, for instance, *above,
 
 § 3, and perhaps below, 7, 1). In its laiger sense the same word is
-used, putting the part for the whole, for the whole sleeping ap-
-paratus, and is nearly equivalent to seyy&yo (so, for instance, in
+used, putting the part for the whole, for the whole sleeping apparatus, and is nearly equivalent to seyy&yo (so, for instance, in
 VI, 1 1 and 12, and below, VIII, 2, 1 ; 6, 2 ; and perhaps VIII, 7, 1 ;
 whereas the latter term is used in the same connection at VI, 6,
 
 
-VIII, I, 5. REGULATIONS AS TO DUTIES OF BHIKKHUS. 279
-
-
 mats used as seats, should be aired in the sun,
 cleaned, beaten to get the dust out, taken back, and
-.put in the place to which they belonged. The spit-
-toon, and the board for leaning up against, should
+.put in the place to which they belonged. The spittoon, and the board for leaning up against, should
 be put in the sun, dusted, taken back, and put in
 the place to which they belonged.
 
@@ -15055,12 +13093,9 @@ the border turned away from him, and the fold
 turned towards him
 
 2 4 If the winds, bearing dust with them 3 blow
-from the East, West, North, or South, the window-
-spaces 4 on the side in question should be closed up
+from the East, West, North, or South, the windowspaces 4 on the side in question should be closed up
 (with shutters or lattices). If it is cold weather, the
 lattices should be opened by day, and closed by
-
-
 and VI, ii, 3). Sayana, in VI, 8, is a generic term including
 bed, couch, sofa, and divan, but probably with special reference to
 these three latter things used m the day-time
@@ -15078,9 +13113,6 @@ by the use of ‘ tats/
 4 There w’ere, of course, no windows in our modem sense, but
 only spaces left m the wall to admit light and air, and covered by
 lattices of three kinds allowed by VI, 2, 2.
-
-
-A'ULLAVAGGA.
 
 
 VIII, 2, I.
@@ -15123,19 +13155,13 @@ said to the Bhikkhus : ‘ Therefore, O Bhikkhus,
 1 The following paragiaph is the same as Mahavagga I, 25, 19,
 and park of it is repeated below, VIII, 10, 3.
 
-2 A£amana-kumbhi. This formed part of the sanitary ap-
-paratus for use in the privy See above, Mahavagga V, 8, 3, and
+2 A£amana-kumbhi. This formed part of the sanitary apparatus for use in the privy See above, Mahavagga V, 8, 3, and
 below, ATullavagga VIII, 9 and 10.
 
-8 All the above expressions are used at the opening of Maha-
-vagga IX.
+8 All the above expressions are used at the opening of Mahavagga IX.
 
 
-VIII, 2,3- REGULATIONS AS TO DUTIES OF BIIIKKHUS. 28 1
-
-
-do I establish a rule of conduct for resident Bhik-
-khus, according to which they ought to behave. .
+do I establish a rule of conduct for resident Bhikkhus, according to which they ought to behave. .
 
 2. ‘A resident Bhikkhu, on seeing an incoming
 Bhikkhu, who is senior to him, ought to make
@@ -15151,8 +13177,7 @@ aside.
 
 1 1 An incoming Bhikkhu ought to be saluted. A
 bed should be laid for him, saying, “ This bed is for
-you.” He should be informed whether (the bed-
-room) is occupied or not, what are lawful and what
+you.” He should be informed whether (the bedroom) is occupied or not, what are lawful and what
 are unlawful resorts, and what families have been
 officially declared to be in want. He should be
 told where the retiring-places are, and the drinking
@@ -15172,15 +13197,6 @@ salute the resident Bhikkhu : and he should be told
 
 
 1 This paragraph corresponds to the last paragiaph of VIII, i, 2.
-
-
-282
-
-
-A'ULLAVAGGA.
-
-
-VIII, 3, 1.
 
 
 where his bed is, saying, “ That bed is for you.”
@@ -15203,15 +13219,12 @@ any one. The wooden articles and crockery were
 spoilt, and the sleeping-places were unprotected.
 
 The moderate Bhikkhus murmured, &c
-
 told the Blessed One, &c (down to) He said
-
 to the Bhikkhus : ‘ Therefore, O Bhikkhus, do I
 establish a rule of conduct for Bhikkhus about to
 leave, according to which they ought to behave.
 
-2. ‘ A Bhikkhu about to leave should, O Bhik-
-khus, put the wooden articles and earthenware in
+2. ‘ A Bhikkhu about to leave should, O Bhikkhus, put the wooden articles and earthenware in
 order, close the doorways and lattices, give the
 sleeping-places in charge 1 (to some one, and only)
 then set out. If there be no Bhikkhu remaining,
@@ -15223,11 +13236,7 @@ the grounds in order 2 should be put in charge. If
 the 14th and 15th Pal'ittiyas. The lengthening of the last vowel in
 iipu^M is noteworthy.
 
-2 Aramiko. In Mah&vagga VI, 15, the king wishing to pre-
-sent a 'man for this purpose, it is there laid .down that the Bhikkhus
-
-
-Till, 3, 3. REGULATIONS AS TO DUTIES OF BI1IKKHUS. 283
+2 Aramiko. In Mah&vagga VI, 15, the king wishing to present a 'man for this purpose, it is there laid .down that the Bhikkhus
 
 
 there be neither Bhikkhu, nor Samawera, nor
@@ -15244,23 +13253,18 @@ he can, or he should exert himself to get the Vihdra
 roofed. If he should thus succeed, it is good. If
 not, he should put the bed frame on four stones in
 that part o’f the Vihara which does not leak, and
-then put the other bed frame (&c., as in last para-
-graph, to the end). If the whole of the Vihara
+then put the other bed frame (&c., as in last paragraph, to the end). If the whole of the Vihara
 leaks, he should if he can take all the bedding to
 the village, or should exert himself to get it taken
 there. If he should succeed, it is good. If not, he
-should lay a bed frame on four stones in the open-
-air, put the others on the top of it, put the chairs
+should lay a bed frame on four stones in the openair, put the others on the top of it, put the chairs
 one on another, pile the bedding on the top, lay the
 wooden and earthenware utensils in order by them,
 and cover the whole up with grass or leaves, so that
-at least the principal articles of furniture might re-
-main (uninjured) 3 : and (only) then go away.
+at least the principal articles of furniture might remain (uninjured) 3 : and (only) then go away.
 
 ‘ This, O Bhikkhus, is the rule of conduct for
-
-
-may accept him ; and at Jkiiria\agga VI, 21, 3, a superintendent o>
+may accept him ; and at Jkiiria\agga VI, 21, 3, a superintendent o)
 such slaves is mentioned as one of the officials of the Order.
 
 1 This is the usual method still adopted by nati\e seivants as a
@@ -15271,12 +13275,6 @@ furniture left standing on the ground.
 
 3 Angani pi seseyyuw. See Buddhaghosa’s note as appended
 to the edition of the text (p. 325).
-
-
-284
-
-
-iTULLAVAGGA.
 
 
 VIII, 4 , 1.
@@ -15305,13 +13303,10 @@ They told this matter to the Blessed One.
 to give thanks in the place where a meal is served.’
 
 Now at that time (the turn to provide) the
-Sa?/zgha with a meal had fallen to a certain com-
-pany 2 ; and the venerable Sariputta was the senior
-(Bhikkhu in that) Sawgha. The Bhikkhus, think-
-ing, ‘ The Blessed One has permitted the senior
+Sa?/zgha with a meal had fallen to a certain company 2 ; and the venerable Sariputta was the senior
+(Bhikkhu in that) Sawgha. The Bhikkhus, thinking, ‘ The Blessed One has permitted the senior
 Bhikkhu to return thanks in the place where a meal
-is served,’ went away, leaving the venerable Sari-
-putta alone. And the venerable Sariputta gave
+is served,’ went away, leaving the venerable Sariputta alone. And the venerable Sariputta gave
 thanks to those people, and then came away alone.
 
 The Blessed One saw the venerable S&riputta
@@ -15324,20 +13319,14 @@ off well 3 ?’
 2 Aimatarassa pugassa. This sentence has already occuired
 at V, 5, 2.
 
-3 On this use of iddho, compare ova do iddho in the Bhik-
-khuni-vibhahga, Paftttiya LVI.
+3 On this use of iddho, compare ova do iddho in the Bhikkhuni-vibhahga, Paftttiya LVI.
 
 
-Till, 4, 2. REGULATIONS AS TO DUTIES OF BHIKKHUS 285
+‘ The meal, Lord, passed off well. But the Bhikkhus went away and left me alone.’
 
-‘ The meal, Lord, passed off well. But the Bhik-
-khus went away and left me alone.’
+Then the Blessed One, in that connection, havingdelivered a religious discourse, said to them :
 
-Then the Blessed One, in that connection, having-
-delivered a religious discourse, said to them :
-
-‘ I allow, O Bhikkhus, four or five of the Bhik-
-khus, who are senior or next to the seniors, to
+‘ I allow, O Bhikkhus, four or five of the Bhikkhus, who are senior or next to the seniors, to
 wait.’
 
 Now at that time a certain elder waited in the
@@ -15362,21 +13351,15 @@ compelled the junior Bhikkhus to give up their
 seats to them ; and spreading out their upper robes
 
 1 Anantarika/?/ bhikkhu/;/. See the note on this phiase at
-VI, 10, 1. A nan tank m the text (with long a) is a mis-
-print.
+VI, 10, 1. A nan tank m the text (with long a) is a misprint.
 
 2 Vokkamma, which is not, as Childers supposes, equal to
-okkamma with euphonic v, but to vyavakramya or vyut-
-kramya.
+okkamma with euphonic v, but to vyavakramya or vyutkramya.
 
 3 Anupakha^a : which is here used, not in the sense it has at
 IV, 14, 1, but in the sense in which it is used in the 16th and 43rd
-Pa&ttiyas, in both which passages it is explained by the Old Com-
-mentary by anupavisitva. This clause and the next occui also
+Pa&ttiyas, in both which passages it is explained by the Old Commentary by anupavisitva. This clause and the next occui also
 at Mahavagga I, 25, 13.
-
-
-286
 
 
 XTTLLAVAGGA.
@@ -15385,8 +13368,7 @@ XTTLLAVAGGA.
 Till, 4, 3.
 
 
-(as mats) 1 they took their seats in the space be-
-tween the houses 2 3 .
+(as mats) 1 they took their seats in the space between the houses 2 3 .
 
 The moderate Bhikkhus murmured, &c. . . . told
 the Blessed One, &c. ... he said to the Bhikkhus :
@@ -15408,15 +13390,12 @@ properly clad, with (his limbs) under control, with
 downcast eye, with (his robes) not tucked up, not
 laughing, or speaking loudly, not swaying his body
 or his arms or his head about, not with his arms
-akimbo, or his robe pulled over his head, and with-
-out walking on his heels. And he is to take his
+akimbo, or his robe pulled over his head, and without walking on his heels. And he is to take his
 
 
-1 Sawgha/'ira ottharitvd. This use of the SawghS/i is re-
-ferred to at (rataka I, 212, and above, I, 13, 2.
+1 Sawgha/'ira ottharitvd. This use of the SawghS/i is referred to at (rataka I, 212, and above, I, 13, 2.
 
-2 Antaraghare. See Sekhiyas 3-26, repeated in the next sec-
-tion. It is perhaps doubtful whether this word may not mean here
+2 Antaraghare. See Sekhiyas 3-26, repeated in the next section. It is perhaps doubtful whether this word may not mean here
 (as in Sekhiya 27 = below, § 6) the inner courtyard of a house
 which is surrounded by buildings ; but we follow the interpretation
 we have adopted, loc. cit.
@@ -15428,7 +13407,6 @@ see further notes. Much of it recurs below m VIII, 5, 2.
 
 D Ga«Mika?/2. See the note on V, 29, 3. It was to prevent
 the robe being blown up by the wind. The word occurs again m
-VIII, 5, 2.
 
 G The following sentence is repeated, word for word, below, § 6.
 
@@ -15455,8 +13433,7 @@ on to the ground) and pour the water into the waste
 tub 1 without splashing the person in question, nor
 the Bhikkhus near, nor (his own) robes. If there
 be no such person, he should lower his bowl on to
-the earth and pour the water away, without splash-
-ing the Bhikkhus near or (his own) robes.
+the earth and pour the water away, without splashing the Bhikkhus near or (his own) robes.
 
 ‘ When the boiled rice is being given out, he
 should hold his bowl with both hands, and receive
@@ -15469,19 +13446,12 @@ curry, and equally heaped up 3 . And the senior
 
 1 Pa/iggahe. See the note on V, 10, 3. Avakkara-pStI, at
 Mahavagga IV, 1,2= A'ultavagga VIII, 5, 3, seems to have very
-nearly the same meaning. The whole of this paragraph is re-
-peated below, § 6.
+nearly the same meaning. The whole of this paragraph is repeated below, § 6.
 
 s Uttaribhangaw. See the note on VI, 4, 1.
 
 s On the expressions in this sentence, compare the notes on
 Sekhiyas 27-32.
-
-
-238
-
-
-A'ULLAVAGGA.
 
 
 VIII, 4 , 5-
@@ -15493,10 +13463,8 @@ has been served out to all.
 1 5. ‘The alms given are to be eaten with mind
 alert, paying attention to the bowl, with equal curry,
 and equally heaped up ; without pressing down fro'm
-the top ; without covering up the curry or the con-
-diment with the rice, desiring to make it nicer ; and
-without asking for either rice or curry for the Bhik-
-khu’s own particular use, unless he be sick. Others’
+the top ; without covering up the curry or the condiment with the rice, desiring to make it nicer ; and
+without asking for either rice or curry for the Bhikkhu’s own particular use, unless he be sick. Others’
 bowls are not to be looked at with envious thoughts.
 The food is not to be rolled up (by the fingers) into
 balls that are too large, but into round mouthfuls.
@@ -15527,14 +13495,10 @@ the rinsings in it into the inner court 1 2 .
 a This is the 57th Sekhiya.
 
 
-VIII, 5, 1 . REGULATIONS AS TO DUTIES OF BHIKKHUS. 289
-
-
 ‘ In returning, the junior Bhikkhus are to go back
 first, and the senior Bhikkhus after them. Each
 Bhikkhu is to pass amidst the houses properly
-clad .... (&c., as above, § 3, down to) without walk-
-ing on his heels.
+clad .... (&c., as above, § 3, down to) without walking on his heels.
 
 1 This, O Bhikkhus, is the rule of conduct that I
 establish for Bhikkhus at a meal, which they are to
@@ -15547,8 +13511,7 @@ Here ends the First Portion for Recitation.
 5 .
 
 1. Now at that time Bhikkhus who were going
-on their rounds for alms did so with their under gar-
-ments or their robes improperly put on, and not
+on their rounds for alms did so with their under garments or their robes improperly put on, and not
 decently attired, and they entered dwellings without
 deliberation, and left them without deliberation, and
 they entered dwellings roughly, and left them
@@ -15571,15 +13534,6 @@ he seized him, and beat him.
 [2°] u
 
 
-290
-
-
-iTULLAVAGGA.
-
-
-VIII, 5
-
-
 But the woman, being woke up by the noise,
 said to the man, ‘Why, Sir, are you beating this
 Bhikkhu ?’
@@ -15591,8 +13545,7 @@ Bhikkhu ?’
 
 Then the Bhikkhu, on going to the Arama, told
 the matter to the Bhikkhus .... murmured ....
-told the Blessed One .... he said to the Bhik-
-khus :
+told the Blessed One .... he said to the Bhikkhus :
 
 ‘ Therefore, O Bhikkhus, do I establish a rule of
 conduct for Bhikkhus going their rounds for alms,
@@ -15634,8 +13587,7 @@ food.
 
 ‘ He should take notice whether she seems willing
 or not to give curry. If she wipes a spoon, or
-wipes or puts aside a dish, he should stand still, per-
-ceiving that she seems Mulling to give.
+wipes or puts aside a dish, he should stand still, perceiving that she seems Mulling to give.
 
 * After the food has been given, he should cover
 up the bowl with his robe, and turn back slowly and
@@ -15672,9 +13624,6 @@ word occurs also at Maha\agga IV, 1, 2
 U 2
 
 
-292
-
-
 K ULLAVAGGA.
 
 
@@ -15700,8 +13649,7 @@ alms, which they are to observe therein/
 6 .
 
 1 * Now at that time a number of Bhikkhus dwelt
-in the woods ; and they provided neither drinking-
-water, nor water for washing, nor fire, nor drill
+in the woods ; and they provided neither drinkingwater, nor water for washing, nor fire, nor drill
 sticks nor tinder (for starting a fire) 1 2 ; nor did they
 know the stations of the constellations, nor the
 divisions of the (ten) ‘ directions’ (of the sky).
@@ -15713,19 +13661,14 @@ k Have you, Sirs, got drinking-water ?’
 1 V ah m bhindati. To break silence by speaking. See
 Mahavagga IV, 1, 3, where it makes good sense.
 
-2 Arazn-sahitaw, on w T hich Buddhaghosa merely says aram-
-sahite sati aggiw katu/;z pi va//ati. In the Gataka Commentary
-(I, 212, ed. Fausboll) we have the phrase ara?n-sahita;/z niha-
-ritvfi aggi7?2 karonti. At p. 34 of the Assalayana Sutta (ed.
+2 Arazn-sahitaw, on w T hich Buddhaghosa merely says aramsahite sati aggiw katu/;z pi va//ati. In the Gataka Commentary
+(I, 212, ed. Fausboll) we have the phrase ara?n-sahita;/z niharitvfi aggi7?2 karonti. At p. 34 of the Assalayana Sutta (ed.
 Pischel) we hear of there being an upper and lower stick to the
 arawi; and at p. 53 of the Milmda Panha (ed Trenckner) we find
 the same upper and lower sticks, the thong by which to turn the
 latter, and the piece of rag for tinder mentioned as the constituent
 parts of this ancient means of producing fire. The expression in
 the text is probably a collective term for the whole of these.
-
-
-Till, 6, 2, REGULATIONS AS TO DUTIES OF BHIKKH US. 293
 
 
 ‘ No, friends, we have not.’
@@ -15738,8 +13681,7 @@ Till, 6, 2, REGULATIONS AS TO DUTIES OF BHIKKH US. 293
 
 ‘ No, friends, we have not.’
 
-‘ Have you, Sirs, got sticks and tinder for pro-
-ducing fire ?’
+‘ Have you, Sirs, got sticks and tinder for producing fire ?’
 
 ‘ No, friends, we have not.’
 
@@ -15758,13 +13700,11 @@ And they beat them, and went away.
 
 The Bhikkhus told this matter to the Bhikkhus.
 The Bhikkhus told it to the Blessed One. Then
-the Blessed One, on that occasion and in that con-
-nection, after delivering a religious discourse, said to
+the Blessed One, on that occasion and in that connection, after delivering a religious discourse, said to
 the Bhikkhus :
 
 1 Therefore, O Bhikkhus, do I establish a rule of
-conduct for Bhikkhus dwelling in the w r oods, accord-
-ing to which they are to behave themselves therein.
+conduct for Bhikkhus dwelling in the w r oods, according to which they are to behave themselves therein.
 
 2. ‘ A Bhikkhu, O Bhikkhus, who is dwelling in
 the woods, should rise betimes, place his bowd in the
@@ -15780,19 +13720,7 @@ when passing through a ullage (See the beginning of the next
 section )
 
 3 Eixaram khandhe kaUa. either in contradistinction to
-
-
-294
-
-
-A'ULLAVAGGA.
-
-
-VIII, 6
-
-
-his sandals, put the utensils of wood and earthen-
-ware in order, close the doorway and lattice, and
+his sandals, put the utensils of wood and earthenware in order, close the doorway and lattice, and
 then leave his lodging-place.
 
 ‘When he perceives that he is about to enter a
@@ -15825,8 +13753,7 @@ therein.’
 1. Now at that time a number of Bhikkhus
 carried on robe-making in the open air. The
 W/zabbaggiya Bhikkhus beat their bedding to get
-
-ekazrasazzz >£ivaraw katvd (on which question there is a great
+ekazrasazzz )£ivaraw katvd (on which question there is a great
 division among modem Buddhists. Compare Rh. D/s note on the
 Maha-parinibbana Sutta VI, 47), or possibly £ put it in a roll on his
 back/
@@ -15836,23 +13763,15 @@ back/
 2 See Mahavagga VIII, 13, 1.
 
 
-Till, 7, 2. REGULATIONS AS TO DUTIES OF BHIKKHUS. 295
-
-
 the dust out in the open space 1 2 to windward of
 them, and covered the Bhikkhus (who were at
 work) with dust.
 
 The moderate Bhikkhus murmured, &c told
-
-the Blessed One, &c and he said to the Bhik-
-
-khus:
+the Blessed One, &c and he said to the Bhikkhus:
 
 ‘ Therefore, O Bhikkhus, do I establish a rule of
-conduct for the Bhikkhus in respect of lodging-
-places, according to which they are to behave them-
-selves in respect thereof
+conduct for the Bhikkhus in respect of lodgingplaces, according to which they are to behave themselves in respect thereof
 
 2. ‘ In whatever Vihara he is staying, if that
 Vihdra is dirty, he should, if he can, make it clean.
@@ -15866,8 +13785,7 @@ in VIII, 1, 2, down to the end] 3 .
 ‘ He should not beat the bedding to get the dust
 out close to the Bhikkhus, or to the Vihara, or to
 the drinking-water, or to the water for washing, or
-in the open space (in front of the Vihara) to wind-
-ward of it or the Bhikkhus, but to leeward.
+in the open space (in front of the Vihara) to windward of it or the Bhikkhus, but to leeward.
 
 
 1 Angana. This is not £ courtyard/ as Childers renders it, but
@@ -15875,22 +13793,14 @@ a part of the Arama, immediately m front of the hut or Vihara,
 which is kept as an open space, and daily swept. The Sinhalese
 name for it is midula; there those who sleep in the hut spend the
 greater pait of the day, and not even glass is allowed to grow upon
-it. The term is a very common one, and its meaning is not doubt-
-ful. Compare the (Pataka book, I, 124, 151, 421; II, 249, 250,
+it. The term is a very common one, and its meaning is not doubtful. Compare the (Pataka book, I, 124, 151, 421; II, 249, 250,
 345. Ekahgana??z bhavati, at ibid. I, 53, 12, is to become one
 open space, as ekangana;# karoti at II, 357, is to cleai a forest,
 and turn it into an open space.
 
 2 The order is slightly different, but all the details are the same.
 
-The only addition is that in speaking of taking out the flooi coal-
-ings, he is directed to notice where they lay.
-
-
-296
-
-
-iTULLAVAGGA.
+The only addition is that in speaking of taking out the flooi coalings, he is directed to notice where they lay.
 
 
 VIII, 7, 4 .
@@ -15916,9 +13826,7 @@ and he should not touch his senior even with the
 corner of his robe.
 
 ‘ This, O Bhikkhus, is the rule of conduct that I
-lay dowm for the Bhikkhus in respect of lodging-
-places, according to which they are to behave them-
-selves therein.’
+lay dowm for the Bhikkhus in respect of lodgingplaces, according to which they are to behave themselves therein.’
 
 
 8 .
@@ -15927,12 +13835,10 @@ selves therein.’
 on being hindered by the senior Bhikkhus in (their
 use of) the hot bath-room, out of spite piled up a
 quantity of sticks (in the fireplace), set fire to them,
-closed up the doorway, and sat down in the door-
-way. The Bhikkhus, scorched by the heat, and
+closed up the doorway, and sat down in the doorway. The Bhikkhus, scorched by the heat, and
 not being allowed a way out, fell down in a faint.
 
 The sober Bhikkhus murmured, &c told
-
 the Blessed One, &c He said to the Bhik-
 
 1 All the preceding expressions have occurred at Mahavagga 1 ,
@@ -15941,8 +13847,7 @@ the Blessed One, &c He said to the Bhik-
 
 VIII, 8, 2. REGULATIONS AS TO DUTIES OP BI-IIKKHUS. 297
 
-khus, ‘ No one, O Bhikkhus, is to [do so]. Whoso-
-ever does, shall be guilty of a dukka/a.
+khus, ‘ No one, O Bhikkhus, is to [do so]. Whosoever does, shall be guilty of a dukka/a.
 
 2. 1 Therefore, O Bhikkhus, do I establish a rule
 of conduct for the Bhikkhus, in respect of the hot
@@ -15960,8 +13865,7 @@ poured into the water-jar.
 
 ‘ When entering the hot bath-room, the face
 should be smeared over with clay, and the person
-well covered up in front and behind before enter-
-ing. A seat is not to be taken so as to hustle the
+well covered up in front and behind before entering. A seat is not to be taken so as to hustle the
 senior Bhikkhus, and junior Bhikkhus are not to be
 ousted from their seats. If possible, shampooing is
 to be performed for the senior Bhikkhus in the hot
@@ -15981,9 +13885,6 @@ Bhikkhus, nor above them. One who has bathed
 1 Gantaghara, not simply bath-ioom, but room in which hot
 or steam baths were taken. Most of the following expressions
 occur m Mahavagga I, 25, 12, or above at V, 14, 3.
-
-
-29S
 
 
 ZULLAVAGGA.
@@ -16010,8 +13911,7 @@ themselves therein.’
 9 and 10 .
 
 [These chapters deal with the manner of using
-the privies, and other sanitary arrangements de-
-scribed in V, 35, where see our note.]
+the privies, and other sanitary arrangements described in V, 35, where see our note.]
 
 
 11 , 12, 13 , and 14 .
@@ -16026,9 +13926,6 @@ the Rules for Conduct.
 
 
 IX,, I, i. ON EXCLUSION FROM THE PATIMOKKIIA.
-
-
-299
 
 
 NINTH KHANDHAKA.
@@ -16052,12 +13949,10 @@ out his joined hands towards the Blessed One, said
 to the Blessed One *
 
 * The night, Lord, is far spent. The first watch
-is passing away. For a long time has the Bhikkhu-
-sa?;?gha been seated here. Let my lord the Blessed
+is passing away. For a long time has the Bhikkhusa?;?gha been seated here. Let my lord the Blessed
 One recite to the Bhikkhus the Patimokkha.’
 
-When he had thus spoken, the Blessed One re-
-mained silent. And a second time, when the second
+When he had thus spoken, the Blessed One remained silent. And a second time, when the second
 w r atch was passing away [he made the same request
 with the same result] And a third time, when the
 third watch had begun, and the dawn was breaking 1
@@ -16087,12 +13982,9 @@ thought, 4 What individual can the Blessed One
 be referring to in that he says, “ The assembly,
 Ananda, is not pure.”’ And the venerable Maha
 Moggallana considered the whole Bhikkhu-sa^gha,
-penetrating their minds with his. Then the vener-
-able Mahd Moggallana perceived who was that in-
-dividual, — evil in conduct, wicked in character, of
+penetrating their minds with his. Then the venerable Mahd Moggallana perceived who was that individual, — evil in conduct, wicked in character, of
 impure and doubtful 1 behaviour, not a Samara
-though he had taken the vows of one, not a re-
-ligious student though he had taken the vows of
+though he had taken the vows of one, not a religious student though he had taken the vows of
 one, foul within, full of cravings, a worthless
 creature, — who had taken his seat amongst the
 Bhikkhu-sawgha. On perceiving which it was, he
@@ -16108,7 +14000,6 @@ Moggallana addressed to him [the same words, and
 with the same result]. Then the venerable Maha
 Moggallana took that man by the arm and made
 him go out beyond the porch 3 , and bolted the door,
-
 fault from taking part m the proceedings, which would therefore be
 invalid.
 
@@ -16122,8 +14013,7 @@ an ambiguoub phrase.
 
 2 Saw, v a so. See Mahavagga I, 7 9, 2, and ATtllavagga.
 
-8 On these expressions, see the notes above, V, 14, 3, in accord-
-ance with which we should lead here, m the text sfi£i, for su ku
+8 On these expressions, see the notes above, V, 14, 3, in accordance with which we should lead here, m the text sfi£i, for su ku
 
 
 ON EXCLUSION FROM THE PATIMOKKHA.
@@ -16141,16 +14031,14 @@ go out. The assembly is now undefiled. May my
 lord the Blessed One recite the Patimokkha to the
 Bhikkhus.’
 
-c How astonishing and curious a thing it is, Mog-
-gallana, that that foolish fellow should have waited
+c How astonishing and curious a thing it is, Moggallana, that that foolish fellow should have waited
 up to the very point when he had to be taken by
 the arm/
 
 3. And the Blessed One said to the Bhikkhus .
 
 1 There are, O Bhikkhus, in the great ocean, then
-eight astonishing and curious qualities, by the con-
-stant perception of which the mighty creatures take
+eight astonishing and curious qualities, by the constant perception of which the mighty creatures take
 delight in the great ocean. And what are the
 eight ?
 
@@ -16175,15 +14063,11 @@ to say, the Ganga, the Yamuna, the A/Kravatl, the
 
 1 Na ayataken’ eva See ATillavagga V. 3 , i , and V 17 2
 
-2 Paiagraph 1 is heie, and in the succeeding paragiapis, re-
-peated in full.
+2 Paiagraph 1 is heie, and in the succeeding paragiapis, repeated in full.
 
 3 TVnta-dhammo, ‘has characteristics which are stable’
 
 4 For ussareti read ussadeti. See our note on VI, 11, 3,
-
-
-302
 
 
 5TULLAVAGGA.
@@ -16217,8 +14101,7 @@ such qualities].
 ‘ Again, O Bhikkhus, the great ocean is the
 dwelling-place of mighty beings, among which are
 these — that is to say, the Timi, the Timingala, the
-Timitimingala, the A suras, the Nagas, and the Gan-
-dhabbas. There are in the great ocean creatures
+Timitimingala, the A suras, the Nagas, and the Gandhabbas. There are in the great ocean creatures
 so constituted that they stretch from one to five
 hundred leagues 2 . This is the eighth [of such
 qualities].
@@ -16235,9 +14118,6 @@ Sutta I, 4, in ‘ Buddhist Suttas from the Pali,’ pp. 249, 250.
 where the same term, attabh&va, is used.
 
 
-IX, i, 4. ON EXCLUSION FROM THE PATIMOKKHA. 303
-
-
 of which the Bhikkhus take delight in this doctrine
 and discipline. What are the eight ?
 
@@ -16245,10 +14125,8 @@ and discipline. What are the eight ?
 gradually deeper, slope following on slope, hollow
 succeeding hollow, and the fall is not precipitately
 abrupt — -just so, O Bhikkhus, in this doctrine and
-discipline is the training a gradual one, work follow-
-ing on work, and step succeeding step ; and there is
-no sudden attainment to the insight (of Arahat-
-ship) h This is the first [of such qualities].
+discipline is the training a gradual one, work following on work, and step succeeding step ; and there is
+no sudden attainment to the insight (of Arahatship) h This is the first [of such qualities].
 
 ‘Just, O Bhikkhus, as the great ocean remains of
 the same nature, and passes not beyond the shore —
@@ -16258,20 +14136,16 @@ word, and which they, their lives long, do not pass
 beyond. This is the second [of such qualities].
 
 ‘Just, O Bhikkhus, as the great ocean will not
-brook association with a dead corpse ; but whatso-
-ever dead corpse there be in the sea that will it —
+brook association with a dead corpse ; but whatsoever dead corpse there be in the sea that will it —
 and quickly — draw to the shore, and cast it out upon
 the dry land — just so, O Bhikkhus, if there be any
 individual evil in conduct, wicked in character, of
 impure and doubtful behaviour, not a Samara
-though he have taken the vows of one, not a re-
-ligious student though he have taken the vows of
+though he have taken the vows of one, not a religious student though he have taken the vows of
 one, foul within, full of cravings, a worthless
-creature ; with him will the Sa^gha brook no asso-
-ciation, but quickly, on its meeting together, will it
+creature ; with him will the Sa^gha brook no association, but quickly, on its meeting together, will it
 cast him out. And what though that .man should
-himself be seated in the midst of the Bhikkhu-
-sa;;/gha, verily, both is he afar off from the Sawgha,
+himself be seated in the midst of the Bhikkhusa;;/gha, verily, both is he afar off from the Sawgha,
 
 
 1 A?ma-pa/ivedho On the use of awf/a, standing alone, in
@@ -16279,9 +14153,6 @@ this sense, see the note abo\e on Mahavagga V, 1, 19.
 
 
 3°4
-
-
-rULLAVAGGA.
 
 
 IX, i, 4.
@@ -16327,26 +14198,19 @@ so, O Bhikkhus, is this doctrine and discipline full
 of gems, of gems of various kinds, among which are
 
 
-IX, i, 4. ON EXCLUSION FROM THE PATIMOKKHA. 305
-
-
-these gems, — that is to say, the four Earnest Medi-
-tations, the fourfold Great Struggle, the four Roads
+these gems, — that is to say, the four Earnest Meditations, the fourfold Great Struggle, the four Roads
 to Iddhi, the five Moral Powers, the five Moral
 Senses, the seven kinds of Wisdom, and the noble
 eightfold Path. This is the seventh [of such
 qualities].
 
-‘Just, O Bhikkhus, as the great ocean is the dwell-
-ing-place of mighty beings, among which are the
+‘Just, O Bhikkhus, as the great ocean is the dwelling-place of mighty beings, among which are the
 Timi, the Timmgala, the Timitimingala, the Asuras,
 the Ndgas, and the Gandhabbas; just as there are in
 the great ocean creatures so constituted that they
 stretch from one to five hundred leagues — just so,
 O Bhikkhus, is this doctrine and discipline the resort
-of mighty beings, among whom are he who has en-
-tered the First Path (the converted man, the Sota-
-panno) and he who has realised the fruit thereof, he
+of mighty beings, among whom are he who has entered the First Path (the converted man, the Sotapanno) and he who has realised the fruit thereof, he
 who has entered the Second Path (the Sakadagamin)
 and he who has realised the fruit thereof, he who has
 entered the Third Path (the Anagamin) and he who
@@ -16355,8 +14219,7 @@ who has realised the fruit of Arahatship. This is
 the eighth [of such qualities].
 
 ‘ These, O Bhikkhus, are the eight marvellous
-and wonderful qualities in this doctrine and dis-
-cipline by the constant perception of which the
+and wonderful qualities in this doctrine and discipline by the constant perception of which the
 Bhikkhus take delight therein.’
 
 And the Blessed One, on perceiving that matter,
@@ -16395,26 +14258,21 @@ P&timokkha before an assembly which is not pure.
 And the P&timokkha, O Bhikkhus, is not to be
 listened to by one who has committed an offence.
 Whosoever shall so listen to it, shall be guilty of a
-dukka/a. I allow you, O Bhikkhus, for whomso-
-ever shall listen to the Patimokkha at a time when
+dukka/a. I allow you, O Bhikkhus, for whomsoever shall listen to the Patimokkha at a time when
 he is guilty, to interdict for him the Patimokkha 1 .
 
 * And thus, O Bhikkhus, is it to be interdicted.
-On the day of Uposatha, on the fourteenth or fif-
-teenth day of the month, and at a time when that
+On the day of Uposatha, on the fourteenth or fifteenth day of the month, and at a time when that
 individual is present, thus shall it be proposed in the
 midst of the Sa?;zgha :
 
 ‘ “Let the venerable Sawgha hear me. Such and
 such an individual is guilty of an offence. For him
-
 with a roof ; but in morals it is precisely where there is already a
 fault concealed, unconfessed, that new faults rain in upon him who
-adds deceit to his fault.’ Buddhaghosa says, Zhnnaw ativas-
-satiti &patti;w Spa^gitvi pa/i/b£Mdento aiinam navavi apatti^
+adds deceit to his fault.’ Buddhaghosa says, Zhnnaw ativassatiti &patti;w Spa^gitvi pa/i/b£Mdento aiinam navavi apatti^
 apagjgatit 1 idam etazrc sandhaya vutta m. Viva /a m nativassatfti
-apattiffz apao-^itva vivaranto annam n’ apag^atiti ida m zlam san-
-dhaya vutta m.
+apattiffz apao-^itva vivaranto annam n’ apag^atiti ida m zlam sandhaya vutta m.
 
 1 Patimokkha^ fha^ztum : exactly analogous to pavaranam
 Mapetu m at Mahavagga IV, id, 2. H. O. has already pointed
@@ -16424,11 +14282,8 @@ it was at first intended that a guilty Bhikkhu should confess his
 offence during the recitation, if he had not done so before.
 
 
-IX, 3, 2. ON EXCLUSION FROM THE PATIMOKKHA. 307
-
 do I interdict the Patimokkha to the effect that it
-shall not be recited when he is present. The Pati-
-mokkha is accordingly interdicted.” ’
+shall not be recited when he is present. The Patimokkha is accordingly interdicted.” ’
 
 
 3 .
@@ -16438,8 +14293,7 @@ thinking, ‘ No one knows that we are guilt) 7 ,’
 listened to the Patimokkha. The Thera Bhikkhus,
 who understood the thoughts of other men, told the
 Bhikkhus, saying, ‘ Such and such a one, Sirs, and
-such and such a one, AAabbaggiya Bhikkhus, think-
-ing, “ No one knows that we are guilty,” are listening
+such and such a one, AAabbaggiya Bhikkhus, thinking, “ No one knows that we are guilty,” are listening
 to the Patimokkha.’
 
 When the AAabbaggiya Bhikkhus heard that,
@@ -16458,30 +14312,20 @@ Bhikkhus have [acted thus] ? ’
 
 ‘ It is true. Lord •’
 
-Then he rebuked them, and when he had de-
-livered a religious discourse, he said 7 ‘ The Pati-
-mokkha is not, O Bhikkhus, to be interdicted to
+Then he rebuked them, and when he had delivered a religious discourse, he said 7 ‘ The Patimokkha is not, O Bhikkhus, to be interdicted to
 pure and innocent Bhikkhus without ground and
 ■without cause. Whosoever does so, shall be guilty
 of a dukka/a.
 
-2. ‘ There is one kind of inhibition of the Pati-
-mokkha, O Bhikkhus, which is illegal, and one
-
+2. ‘ There is one kind of inhibition of the Patimokkha, O Bhikkhus, which is illegal, and one
 x 2
 
 
 ^ULLAVAGGA.
 
 
-IX, 3, 3.
-
-
-308
-
 which is legal. There are two . . . . , three . ... ,
-four (&c., up to) ten kinds of inhibition of the Piti-
-mokkha which are illegal, and one, two (&c., up to)
+four (&c., up to) ten kinds of inhibition of the Pitimokkha which are illegal, and one, two (&c., up to)
 ten which are legal.
 
 3. ‘ Which is the one kind of inhibition of the
@@ -16510,13 +14354,11 @@ ground. These are the two kinds, &c.
 two, adding “ offence against doctrine.”]
 
 ‘ And which are the four kinds, &c. ? [as the last,
-adding “ offence against the right mode of live-
-lihood.”]
+adding “ offence against the right mode of livelihood.”]
 
 ‘ And which are the five kinds of inhibition of the
 Pitimokkha which are illegal ? When one inhibits
-the Pitimokkha for a Pira^ika, or for a Sawghi-
-disesa, or for a Pi/§ittiya, or for a Pii?idesaniya,
+the Pitimokkha for a Pira^ika, or for a Sawghidisesa, or for a Pi/§ittiya, or for a Pii?idesaniya,
 or for a Dukka/a, and each of them without
 ground. These are the five kinds, &c.
 
@@ -16537,8 +14379,7 @@ Pitimokkha which are illegal ? When one inhibits
 the Pitimokkha for an offence against morality ....
 conduct .... doctrine 1 .... without ground, the
 offence being one of omission — when one inhibits the
-Pitimokkha for an offence against morality .... con-
-duct .... doctrine .... without ground, the offence
+Pitimokkha for an offence against morality .... conduct .... doctrine .... without ground, the offence
 being one of commission 2 . These are the six, &c.
 
 ‘And which are the six kinds of inhibition of the
@@ -16546,12 +14387,9 @@ Pitimokkha which are legal ? [Same as the last,
 “ with good ground.”]
 
 ‘ And which are the seven kinds of inhibition of
-the Patimokkha which are illegal ? When one in-
-hibits the Patimokkha for a Piri^ika, or for a
+the Patimokkha which are illegal ? When one inhibits the Patimokkha for a Piri^ika, or for a
 Sawghiclisesa, or for a ThullaZT’aya, or for a
-Pa/fittiya, or for a Pa/idesaniya, or for a Duk-
-ka/a, or for a Dubbhisita, and each of them with-
-out ground. These are the seven kinds, &c.
+Pa/fittiya, or for a Pa/idesaniya, or for a Dukka/a, or for a Dubbhisita, and each of them without ground. These are the seven kinds, &c.
 
 ‘And which are the seven kinds of inhibition of
 the Pitimokkha which are legal ? [Same as the
@@ -16567,8 +14405,7 @@ these cases.
 
 2 Kata .... akata .... katakatiwe have rendered here
 and below as offence of omission — of commission — of both, as
-seems imperatively demanded by the context. Buddhaghosa, how-
-ever, says, Akataya ti tena puggalena sa vipatti kata va hotu akata
+seems imperatively demanded by the context. Buddhaghosa, however, says, Akataya ti tena puggalena sa vipatti kata va hotu akata
 vd patimokkha-^apanakassa sa?ma amuhka-vasena amulika hoti.
 Katdkat&ya ti katafi £a akata& kz ubhayaw gahetv^ vuttaw.
 
@@ -16599,18 +14436,15 @@ Bhikkhu then present), — when (a Bhikkhu) who
 has abandoned the precepts 2 is not seated in that
 assembly, — when no discussion is still going on (in
 the assembly) in respect of (a Bhikkhu then present
-having been charged with) abandoning the pre-
-cepts, — when (the person charged) submits himself
+having been charged with) abandoning the precepts, — when (the person charged) submits himself
 to the legally prescribed concord (of the assembly) 3 ,
 — when (the person charged) does not withdraw his
 acceptance of the legally prescribed concord (of the
 assembly) 4 , — when no discussion is still going on
 (in the assembly) in respect of the withdrawal of
-(any member’s) acceptance of the legally (pre-
-scribed) concord (of the assembly), — when (the
+(any member’s) acceptance of the legally (prescribed) concord (of the assembly), — when (the
 Bhikkhu charged) has not been suspected of an
-offence against morality, nor seen (to have com-
-mitted one), nor heard (to have committed one) —
+offence against morality, nor seen (to have committed one), nor heard (to have committed one) —
 . . . . cf an offence against conduct — .... of an
 
 1 This and the follow ing phrase are further enlarged upon in § 4
@@ -16628,11 +14462,7 @@ apaggati
 IX, 3, 4 -
 
 
-ON EXCLUSION FROM THE PATIMOKKHA. 3 I I
-
-
 offence against doctrine These are the ten
-
 kinds, &c.
 
 * And which are the ten kinds of inhibition of the
@@ -16645,28 +14475,24 @@ is seated in the assembly ?
 
 ‘ In case, O Bhikkhus, a Bhikkhu sees that
 (another) Bhikkhu is incurring a Pa.ra.fika offence
-by those means,’ marks, and signs by which the in-
-curring of a Parafika offence is brought about. Or
+by those means,’ marks, and signs by which the incurring of a Parafika offence is brought about. Or
 in case a Bhikkhu does not himself see that
 (another) Bhikkhu is incurring a Parayika offence,
 but another Bhikkhu inform the (first-mentioned)
 Bhikkhu, saying, “ Such and such a Bhikkhu, Sir,
 has been guilty of a Parafika offence.” Or in case a
 Bhikkhu does not himself see that another Bhikkhu
-is incurring a Parafika offence, but that one him-
-self inform the (first-mentioned) Bhikkhu, saying,
+is incurring a Parafika offence, but that one himself inform the (first-mentioned) Bhikkhu, saying,
 “ I, Sir, have been guilty of a Parafika offence.”
 
 ‘ (In either of these cases), O Bhikkhus, if he
 seem to do so, the Bhikkhu may, on the ground of
-what he has seen and heard and suspected, bring for-
-ward the following resolution on an Uposatha day,
+what he has seen and heard and suspected, bring forward the following resolution on an Uposatha day,
 on the fourteenth or fifteenth day of the fnonth, at a
 time when that individual is present m the midst of
 the Saragha : Let the venerable Sa;«gha hear me.
 Such and such an individual has been guilty of a
-Par&fika offence. I interdict for him the Pati-
-mokkha, to the effect that the Patimokkha ought
+Par&fika offence. I interdict for him the Patimokkha, to the effect that the Patimokkha ought
 not to be recited at a time when he is present.”
 That is a legal inhibition of the Pdtimokkha.
 
@@ -16679,25 +14505,19 @@ That is a legal inhibition of the Pdtimokkha.
 tfULLAVAGGA.
 
 
-IX, 3, 5.
-
-
 that Bhikkhu, the assembly should rise on account
 of any one or other of the Ten Dangers 1 — danger
 arising from the king, or from thieves, or from fire,
-or from water, or from human beings, or from non-
-human beings, or from beasts of prey, or from
+or from water, or from human beings, or from nonhuman beings, or from beasts of prey, or from
 creeping things, or danger of life, or danger against
 chastity — the Bhikkhu may, if he desire to do so,
 bring forward the following resolution, either in that
 circle of residence or in another circle of residence,
 at a time when that individual is present in the
 midst of the assembly : “ Let the venerable Sawgha
-hear me. A discussion had commenced with re-
-gard to a Paragika offence of such and such a
+hear me. A discussion had commenced with regard to a Paragika offence of such and such a
 person, but that matter was not decided. If the
-time seems meet to the Sawgha, let the -Saw/gha de-
-cide that matter.” If he thus succeed, it is well. If
+time seems meet to the Sawgha, let the -Saw/gha decide that matter.” If he thus succeed, it is well. If
 not, then on an Uposatha day, on the fourteenth or
 fifteenth day of the month, at a time when that
 individual is present in the midst of the Sawgha, let
@@ -16707,15 +14527,13 @@ commenced with regard to a Pdrd^ika offence of
 such and such a person, but that matter was not
 decided. I interdict the Patimokkha for him to the
 effect that the Patimokkha ought not to be recited
-at a time when he is present.” That is a legal inhi-
-bition of the Patimokkha.
+at a time when he is present.” That is a legal inhibition of the Patimokkha.
 
 5. ‘ And how (can it be legally said that a
 Bhikkhu) who has abandoned the precepts is seated
 in the assembly ? ’
 
-[The same as last, reading ‘ abandoned the pre-
-cepts,’ &c., for ‘ Paragika offence,’ &c.]
+[The same as last, reading ‘ abandoned the precepts,’ &c., for ‘ Paragika offence,’ &c.]
 
 6. ‘And how (can it be legally said that the person
 
@@ -16723,9 +14541,6 @@ cepts,’ &c., for ‘ Paragika offence,’ &c.]
 
 
 IX, 4, I.
-
-
-ON EXCLUSION FROM THE PATIMOKICHA. 3 1 3
 
 
 charged) does not submit himself .to the legally
@@ -16739,20 +14554,17 @@ instead of ‘ abandon the precepts/ &c.]
 person charged) withdraws his acceptance of the
 legally (established) concord (of the assembly)?’
 
-[Same as last, reading ‘ withdraws his accept-
-ance/ &c., for ‘does not submit/ &c]
+[Same as last, reading ‘ withdraws his acceptance/ &c., for ‘does not submit/ &c]
 
 8. ‘And how can it be legally said that the
-person charged has been seen or heard or sus-
-pected of having committed an offence against
+person charged has been seen or heard or suspected of having committed an offence against
 morality .... an offence against conduct . . .
 an offence against doctrine?’
 
 [Same as J 4, reading v offence against morality
 &c , for ‘ Para^ika offence.’]
 
-These are the ten kinds of the inhibition of Pati-
-mokkha -which are legal.
+These are the ten kinds of the inhibition of Patimokkha -which are legal.
 
 
 Here ends the First Portion for Recitation.
@@ -16773,9 +14585,6 @@ himself the conduct (of any matter that has to be
 Mahavagga IX, 6 &c.
 
 
-rULLAVAGGA.
-
-
 IX, 4, I.
 
 
@@ -16788,25 +14597,19 @@ conduct thereof upon himself 2 ? ’
 himself' the conduct of any matter, should take such
 conduct upon himself under five conditions.
 
-‘(In the first place.) A Bhikkhu, Updli, who in-
-tends to take the conduct of any matter upon him-
-self, should thus consider : “ The conduct of this
+‘(In the first place.) A Bhikkhu, Updli, who intends to take the conduct of any matter upon himself, should thus consider : “ The conduct of this
 matter which I intend to take upon myself, is it now
 the right time for the taking charge of the conduct
 thereof, or is it not ?” If that Bhikkhu, Upali, so
 considering, come to the conclusion that it is not the
 right time, he should not, Upali, take charge of it.
 
-‘(Secondly.) If that Bhikkhu, Up&li, so consider-
-ing, come to the conclusion that it is the right time,
-he should, Upili, further consider thus : “ The con-
-duct of this matter which I intend to take upon my-
-self, is it just, or is it not ? ” If that Bhikkhu, Upali,
+‘(Secondly.) If that Bhikkhu, Up&li, so considering, come to the conclusion that it is the right time,
+he should, Upili, further consider thus : “ The conduct of this matter which I intend to take upon myself, is it just, or is it not ? ” If that Bhikkhu, Upali,
 so considering, come to the conclusion that it would
 not be just, he should not take charge of it.
 
-‘ (Thirdly.) If that Bhikkhu, Up&li, so consider-
-ing, come to the conclusion that it would be just, he
+‘ (Thirdly.) If that Bhikkhu, Up&li, so considering, come to the conclusion that it would be just, he
 should, Upali, further consider thus : “The conduct
 of this matter which I intend to take upon- myself,
 would it tend to advantage, or would it not?” If
@@ -16814,8 +14617,7 @@ that Bhikkhu, Upali, so considering, come to the
 conclusion that it would not tend to advantage, he
 should not, Upali, take charge of it.
 
-‘(Fourthly.) *If that Bhikkhu, Updli, so consider-
-ing, come to the conclusion that it would tend to
+‘(Fourthly.) *If that Bhikkhu, Updli, so considering, come to the conclusion that it would tend to
 
 
 1 As, for instance, in the last chapter (§§ 4 and following) the
@@ -16828,28 +14630,21 @@ Buddhaghosa.
 ix, 5 , r.
 
 
-ON EXCLUSION FROM THE PATIMOKKHA. 3 I 5
-
-
 profit, he should, Upali, further consider thus .
 “ While I am taking the conduct of this matter
 upon myself, shall I find that the Bhikkhus who are
-my intimates and associates are on my side in ac-
-cordance with the Dhamma and the Vinaya, or shall
+my intimates and associates are on my side in accordance with the Dhamma and the Vinaya, or shall
 I not?” If that Bhikkhu, Upali, so considering,
 come to the conclusion that he will not, he should
 not, Upali, take charge of it.
 
-‘(Fifthly.) If that Bhikkhu, Upali, so consider-
-ing, come to the conclusion that he will find them
+‘(Fifthly.) If that Bhikkhu, Upali, so considering, come to the conclusion that he will find them
 so, he should further, Upali, consider thus : “Whilst
 I am taking the conduct of this matter upon myself,
 will the Sawgha, as a result thereof, fall into strife,
 quarrel, contention, or dispute, or will there arise a
-split in the Sa?«gha, disunion in the Sa/wgha, diver-
-sity of position in the Sawgha, diversity of action in
-the Sawgha 1 ?” If that Bhikkhu, Upali, so con-
-sidering, come to the conclusion that that will
+split in the Sa?«gha, disunion in the Sa/wgha, diversity of position in the Sawgha, diversity of action in
+the Sawgha 1 ?” If that Bhikkhu, Upali, so considering, come to the conclusion that that will
 happen, he should not take charge of it. But if
 that Bhikkhu, Upali, thus considering, should come
 to the conclusion that that will not happen, he
@@ -16860,8 +14655,7 @@ not give cause to subsequent remorse.’
 
 5 .
 
-i . 1 When, Lord, a Bhikkhu who takes upon him-
-self to warn another, is about to do so, of how many
+i . 1 When, Lord, a Bhikkhu who takes upon himself to warn another, is about to do so, of how many
 qualities should he consider whether they are within
 himself before he does so ? ’
 
@@ -16871,9 +14665,6 @@ himself before he does so ? ’
 A'ullavagga VII, 5, r.
 
 
-316
-
-
 JTULLAVAGGA.
 
 
@@ -16881,12 +14672,10 @@ IX, s , i.
 
 
 when he is about to do so, consider thus : “ Am I
-pure in the conduct of my body ; pure therein with-
-out a flaw, without a fleck ? Is this quality found
+pure in the conduct of my body ; pure therein without a flaw, without a fleck ? Is this quality found
 in me, or is it not ?” If, Upali, the Bhikkhu is not
 so, there will be some who will say to him : “ Come,
-now, let your reverence continue still to train your-
-self in matters relating to the body!” — thus will
+now, let your reverence continue still to train yourself in matters relating to the body!” — thus will
 they say.
 
 (b) ‘ And further, a Bhikkhu who warns another
@@ -16895,8 +14684,7 @@ thus : “ Am I pure in the conduct of my speech ;
 pure therein without a flaw, without a fleck ? Is
 this quality found in me, or is it not?” If, Upili,
 the Bhikkhu is not so, there will be some who will
-say to him : “ Come, now, let your reverence con-
-tinue still to train yourself in matters relating to
+say to him : “ Come, now, let your reverence continue still to train yourself in matters relating to
 speech ! ” — thus will they say.
 
 (c) ‘ And further, a Bhikkhu who warns another
@@ -16906,20 +14694,15 @@ who are my companions in the religious life ? Is
 this quality found in me, or is it not?” If, Upali,
 such a mind is not in that Bhikkhu, there will be
 some who will say to him : “ Come, now, let your
-reverence continue still to cultivate a friendly feel-
-ing towards those who are your companions in' the
+reverence continue still to cultivate a friendly feeling towards those who are your companions in' the
 religious life ! ” — thus will they say.
 
 (d) ‘ And further, a Bhikkhu who warns another
 should, Updli, consider thus: “Am I a man versed
-in the tradition, a custodian of the tradition, a store-
-house of the tradition ? Whatsoever truths, lovely
+in the tradition, a custodian of the tradition, a storehouse of the tradition ? Whatsoever truths, lovely
 in their origin, lovely in their progress, lovely in
 their consummation, magnify the higher life, both
 in the spirit and in the letter, and in all its points, in
-
-
-IX, 5. 2 . ON EXCLUSION FROM THE PATIMOIUCHA. 3 1 7
 
 
 all -its perfectness, — in such truths am I well versed,
@@ -16932,8 +14715,7 @@ now, let your reverence continue still to learn the
 faith ! ” — thus will they say.
 
 (e) ‘ And further, a Bhikkhu who warns another
-should, Upali, consider thus: “ Have both the Pati-
-mokkhas been completely handed down to me in
+should, Upali, consider thus: “ Have both the Patimokkhas been completely handed down to me in
 their full extent ; have I well divided them, well
 established them, well investigated them, both Rule
 by Rule 2 , and in every detail? Is this quality
@@ -16949,8 +14731,7 @@ Bhikkhu about to warn another should consider
 before he does so, whether thev are within himself
 or not.’
 
-2. ‘ When, Lord, a Bhikkhu who takes upon him-
-self to warn another, is about to do so, how many
+2. ‘ When, Lord, a Bhikkhu who takes upon himself to warn another, is about to do so, how many
 qualities should he call up (establish) within himself
 before he does so ? ’
 
@@ -16958,8 +14739,7 @@ before he does so ? ’
 occurred already above at IV, 14, 19, see our notes there.
 
 2 That is, ‘ Sutta by Sutta.’ On the whole stock phrase, compare
-our remarks in p. xvm of the Introduction ; and above, Maha-
-vagga I, 36, 14; .ffullavagga IV, 14, 19.
+our remarks in p. xvm of the Introduction ; and above, Mahavagga I, 36, 14; .ffullavagga IV, 14, 19.
 
 ’ Read na sampayati, in accordance with H.O.’s note atp 364
 of the text.
@@ -16969,9 +14749,6 @@ ZULLAVAGGA.
 
 
 5? 3*
-
-
-318
 
 
 ‘ A Bhikkhu, Upali, who is about to warn another,
@@ -16994,8 +14771,7 @@ home to a Bhikkhu who has wrongfully warned
 another Bhikkhu, (that is to say, by saying to him) :
 “ At the wrong time did you warn him, Sir, not at
 the right time : wherein is need of repentance.
-Untruthfully did you warn him, Sir, and not accord-
-ing to fact : wherein is need of repentance. In
+Untruthfully did you warn him, Sir, and not according to fact : wherein is need of repentance. In
 harshness did you warn him, Sir, and not gently :
 wherein is need of repentance. Senselessly did you
 warn him, Sir, and not in a way redounding to
@@ -17016,16 +14792,12 @@ other Bhikkhu may think that warning is. .to be
 in ‘ Buddhist Suttas,’ p. 190.
 
 
-IX, 5, 7- ON EXCLUSION FROM THE PATIMOKKHA. 3 I 9
-
-
 about that repentance shall not be brought home to
 a Bhikkhu who has been wrongfully warned ? ’
 
 ‘ In five ways, Upali, (that is to say, by saying to
 him) : “ At the wrong time, Sir, were you warned,
-and not at the right time : there is no need of re-
-pentance,”’ [&c., as in § 3, paragraph 2, with similar
+and not at the right time : there is no need of repentance,”’ [&c., as in § 3, paragraph 2, with similar
 alterations.]
 
 5. ‘In how many ways, Lord, is the contrary of
@@ -17056,9 +14828,6 @@ Here ends the Ninth Khandhaka, on the
 Interdiction of the Patimokkha.
 
 
-320
-
-
 isTULLAVAGGA.
 
 
@@ -17087,12 +14856,10 @@ proclaimed by the Tathagata.’
 ‘ Enough, O Gotaml ! Let it not please thee that
 women should be allowed to do so.’
 
-[And a second and a third time did Mahi-pa^d-
-pati the Gotaml make the same request in the
+[And a second and a third time did Mahi-pa^dpati the Gotaml make the same request in the
 same words, and receive the same reply.]
 
-Then Mahi-pa^apati the Gotaml sad and sor-
-rowful for that the Blessed One would not permit
+Then Mahi-pa^apati the Gotaml sad and sorrowful for that the Blessed One would not permit
 women to enter the homeless state, bowed down
 before the Blessed One, and keeping him on her
 right hand as she passed him, departed thence
@@ -17109,31 +14876,24 @@ X, I, 3.
 ON THE DUTIES OF BHIKKHUNis.
 
 
-321
-
-
 straight on he in due course arrived thereat And
-there at Vesali the Blessed One stayed, in the Maha-
-vana, in the Ku^gara Hall.
+there at Vesali the Blessed One stayed, in the Mahavana, in the Ku^gara Hall.
 
 And Maha-pa^apati the Gotami cut off her hair,
 and put on orange-coloured robes, and set out, with
 a number of women of the Sakya clan, towards
 Vesali, and in due course she arrived at Vesali, at
-the Mahavana, at the Ku/agara Hall. And Maha-
-pa^apati the Gotami, with swollen feet and covered
+the Mahavana, at the Ku/agara Hall. And Mahapa^apati the Gotami, with swollen feet and covered
 with dust, sad and sorrowful, weeping and in tears,
 took her stand outside under the entrance porch. %
 And the venerable Ananda saw. her so standing
-there, and on seeing her so, he said to Maha-pa^a-
-pati : ‘ Why standest thou there, outside the porch,
+there, and on seeing her so, he said to Maha-pa^apati : ‘ Why standest thou there, outside the porch,
 with swollen feet and covered with dust, sad and
 sorrowful, weeping and in tears ?’
 
 4 Inasmuch, O Ananda, as the Lord, the Blessed
 One, does not permit women to renounce their
-homes and enter the homeless state under the doc-
-trine and discipline proclaimed by the Tathagata/
+homes and enter the homeless state under the doctrine and discipline proclaimed by the Tathagata/
 
 3. Then did the venerable Ananda go up to the
 place where the Blessed One was, and bow down
@@ -17143,13 +14903,10 @@ to the Blessed One :
 
 4 Behold, Lord, Maha-pa^'apati the Gotami is
 standing outside under the entrance porch, with
-swollen feet and covered with dust, sad and sorrow-
-ful, weeping and in tears, inasmuch as the Blessed
+swollen feet and covered with dust, sad and sorrowful, weeping and in tears, inasmuch as the Blessed
 One does not permit women to renounce their
-homes and enter the homeless state under the doc-
-trine and discipline proclaimed by the Blessed One.
-It were well, Lord, if women were to have per-
-mission granted to them to do as she desires/
+homes and enter the homeless state under the doctrine and discipline proclaimed by the Blessed One.
+It were well, Lord, if women were to have permission granted to them to do as she desires/
 
 [«] Y
 
@@ -17177,9 +14934,7 @@ the venerable Ananda said to the Blessed One :
 
 ‘ Are women. Lord, capable — when they have
 crone forth from the household life and entered the
-
 o
-
 homeless state, under the doctrine and discipline
 proclaimed by the Blessed One — are they capable
 of realising the fruit of conversion, or of the second
@@ -17243,16 +14998,14 @@ This is a rule .... never to be transgressed.
 (4) 4 After keeping the rainy season (of Was), the
 Bhikkhuni is to hold Pavara/^a (to enquire whether
 any fault can be laid to her charge) before both
-Sawghas — as well that of Bhikkhus as that of Bhik-
-khunis — with respect to three matters, namely, what
+Sawghas — as well that of Bhikkhus as that of Bhikkhunis — with respect to three matters, namely, what
 has been seen, and what has been heard, and what
 has been suspected 4 . This is a rule .... never to
 be transgressed.
 
 
 Sutta Vibhangs, Pa/httiya XXI, 3, 1. It 1$ very instructive to nonce
-the curious blunders which the Tibetan writers (translated by Rock-
-hill m his ‘Life of the Buddha/ pp. 62 63) make in the tendering
+the curious blunders which the Tibetan writers (translated by Rockhill m his ‘Life of the Buddha/ pp. 62 63) make in the tendering
 of the difficult technical terms m these Eiorht Rules.
 
 1 Avasa Compare Auliavagga I, 18, 1, VI, 15. 1, VIII, 1, 2.
@@ -17260,8 +15013,7 @@ This rule is the 56th Bnikknuni Pa/htbya.
 
 2 The Bhikkhunis aie to ask two or thiee days beforehand
 whether the Uposatha is to be held on the 14th or 15th day of the
-month, savs Buddhaghosa here. Compare also the 59th Bhik-
-khuni Pa&ttiya, where the whole passage recurs.
+month, savs Buddhaghosa here. Compare also the 59th Bhikkhuni Pa&ttiya, where the whole passage recurs.
 
 3 Compare the 21st Pa/httiya, and our note there.
 
@@ -17326,36 +15078,29 @@ is, no doubt, to the various kinds of official admonitions given in
 detail m chapter 20 below.
 
 
-X, 1,6. OX THE DUTIES OF 3 HIKKIICXIS. 325
-
 • Just, Ananda, as a man or a woman, when jour.g
 and of tender years, accustomed to adorn himself,
 would, when he had bathed his head, receive with
 both hands a garland of lotus flowers, or of jasmine
 flowers, or of atimuttaka flowers, and place it on the
 top of his head; even so do I, Ananda, take upon
-me these Eight Chief Rules, never to be trans-
-gressed my life long.’
+me these Eight Chief Rules, never to be transgressed my life long.’
 
 6. Then the venerable Ananda returned to the
 Blessed One, and bowed down before him, and took
 his seat on one side. And, so sitting, the venerable
 Ananda said to the Blessed One : ‘ Maha-parapati
 the Gotami, Lord, has taken upon herself the Eight
-Chief Rules, the aunt of the Blessed One has re-
-ceived the upas am pa dS initiation.’
+Chief Rules, the aunt of the Blessed One has received the upas am pa dS initiation.’
 
 ‘ If, Ananda, women had not received permission
 to so out from the household life and enter die
-
 o
-
 homeless state, under the doctrine and discipline
 proclaimed by the Tatliagata, then would the pure
 religion, Ananda, have lasted long, the good law
 would have stood fast for a thousand years. But
-since, Ananda, women have now received that, per-
-mission, the pure religion, Ananda, will not now last
+since, Ananda, women have now received that, permission, the pure religion, Ananda, will not now last
 so long, the good law will now stand fast for only five
 hundred years. Just, Ananda, as houses in which
 there are many women 1 and but few men are easily
@@ -17365,8 +15110,7 @@ violated 2 by robber burglars 3 ; just so, Ananda, under
 1 Bahutthikani. The context show s that we are to understand
 itthi and notattha. Compaie Rocklnll’s £ Life of the Buddha p 61.
 
-2 Suppadhawsiyani. Compare Bhikkhuni Vibhanga, Sa^gha-
-aisesa III, i, 2, and see also /vulla\agga VII. 5, 4
+2 Suppadhawsiyani. Compare Bhikkhuni Vibhanga, Sa^ghaaisesa III, i, 2, and see also /vulla\agga VII. 5, 4
 
 3 iTorehi kumbatthenakehi; on which Buddhaghosa has
 the following note — Kumbathenakehi ti kumbhe dipaw ^aletva
@@ -17379,14 +15123,12 @@ ena alokena paraghare bhaWaw \i£mitva thenaka/eoiehi.
 ZULLAVAGGA.
 
 
-X 3 2j T ■>
+X 3 2j T ■)
 
 
 whatever doctrine and discipline women are allowed
 to pfo out from the household life into the homeless
-
 o
-
 state, that religion will not last long. And just,
 Ananda, as when the disease called mildew falls upon
 a field of rice in fine condition, that field of rice does
@@ -17395,8 +15137,7 @@ doctrine and discipline women are allowed to go forth
 from the household life into the homeless state, that
 religion will not last long. And just, Ananda, as
 when the disease called blight falls upon a field of
-sugar-cane in good condition, that field of sugar-
-cane does not continue long ; just so, Ananda, under
+sugar-cane in good condition, that field of sugarcane does not continue long ; just so, Ananda, under
 whatsoever doctrine and discipline women are
 allowed to go forth from the household life into the
 homeless state, that religion does not last long.
@@ -17421,8 +15162,6 @@ And, so standing, Maha-pa^apati the Gotami spake
 thus to the Blessed One : ‘ What course. Lord,
 
 
-V, 3, I. ON THE DUTIES OF BHIKKIIUNls. 327
-
 should I pursue towards these women of the Sakja
 clan?’
 
@@ -17434,15 +15173,12 @@ down before the Blessed One, and keeping him
 on her right hand as she passed him, she departed
 thence.
 
-Then the Blessed One. in that connexion, deli-
-vered a religious discourse, and said to the Bhikkhus,
+Then the Blessed One. in that connexion, delivered a religious discourse, and said to the Bhikkhus,
 
-‘ I allow Bhikkhunis, O Bhikkhus, to receive the upa-
-sampadd initiation from Bhikkhus 1 .’
+‘ I allow Bhikkhunis, O Bhikkhus, to receive the upasampadd initiation from Bhikkhus 1 .’
 
 2. Now those Bhikkhunis said to Maha-pa^apati
-the Gotami : 1 Neither have you received the upa-
-sampada initiation, nor have we, for it has thus
+the Gotami : 1 Neither have you received the upasampada initiation, nor have we, for it has thus
 been laid down by the Blessed One ■ “ Bhikkhunis
 are to be initiated by Bhikkhus
 
@@ -17466,9 +15202,6 @@ down before him, and stood respectfully on one side.
 1 Compare the 6th Garudhamma above, X, 1, 4
 
 
-328
-
-
 K U L L A V A G G A .
 
 
@@ -17478,8 +15211,7 @@ X, 4, I.
 And, so standing, Maha-pagdpatl the Gotami said
 to the venerable Ananda : ‘ One thing, Ananda,
 would I ask of the Blessed One. It were well, Sir,
-if the Blessed One would allow the making of salu-
-rations, the rising up in presence of another, the
+if the Blessed One would allow the making of salurations, the rising up in presence of another, the
 paying of reverence, and the performance of proper
 duties one towards another, to take place as between
 both Bhikkhus and Bhikkhunis (equally) according
@@ -17490,13 +15222,10 @@ One [and repeated her words to him].
 
 ‘ This is impossible, Ananda, and unallowable,
 that I should so order. Even those others, Ananda,
-teachers of ill doctrine, allow not such conduct to-
-wards women, how much less, then, can the Tatha-
-gata allow it ?’
+teachers of ill doctrine, allow not such conduct towards women, how much less, then, can the Tathagata allow it ?’
 
 And the Blessed One, on that occasion, having
-delivered a religious discourse, addressed the Bhik-
-khus, and said : ‘ Y ou are not, O Bhikkhus, to bow
+delivered a religious discourse, addressed the Bhikkhus, and said : ‘ Y ou are not, O Bhikkhus, to bow
 down before women, to rise up in their presence, to
 stretch out your joined hands towards them, nor to
 perform towards them those duties that are proper
@@ -17517,20 +15246,15 @@ pursue with reference to those precepts for the
 ON THE DUTIES OF BHIKKHUNIS.
 
 
-329
-
-
 & r *
 
 
-Bhikkhunls which are applicable also to the Bhik-
-khus ? J
+Bhikkhunls which are applicable also to the Bhikkhus ? J
 
 'Train yourselves, Gotami, therein in the same
 manner as the Bhikkhus do/
 
-‘ And what course, Lord, should we pursue in re-
-ference to those precepts for the Bhikkhunls which _
+‘ And what course, Lord, should we pursue in reference to those precepts for the Bhikkhunls which _
 are not applicable also to the Bhikkhus ?’
 
 ' Train yourselves, Gotami, therein according to
@@ -17542,8 +15266,7 @@ the substance thereof, as they are laid down/
 1. Now Maha-pagapati the Gotami went to the
 Blessed One [&c., as before], and said : 4 May the
 Blessed One preach to me the Dhamma (truth,
-doctrine) m abstract , so that, having heard the doc-
-trine of the Blessed One, I may remain alone and
+doctrine) m abstract , so that, having heard the doctrine of the Blessed One, I may remain alone and
 separate, earnest zealous, and resolved 1 /
 
 .* Of whatsoever doctrines thou shalt be conscious
@@ -17554,15 +15277,12 @@ and not to seclusion, to sloth and not to the exercise
 of zeal, to being hard to satisfy and not to content 2
 — verily mayest thou then, Gotami, bear in mind
 
-1 These last words aie the standing expression for the prepara-
-tory stage to Arahat&hip. Compaie Mahavagga I, 6, 16 , Maha-
-parmibbana Sutta V, 68 The whole speech frequent!} occuis ir.
+1 These last words aie the standing expression for the preparatory stage to Arahat&hip. Compaie Mahavagga I, 6, 16 , Mahaparmibbana Sutta V, 68 The whole speech frequent!} occuis ir.
 the Sa;;nutta Nika} a at the commencement of conveisations with
 the Buddha.
 
 2 Most of these terms ha\e already occuired m the sending
-‘ religioub discourse’ which is related to ha\e preceded the enun-
-ciation of so many of the rules for Bhikkhus (ATulla\ agga I, 2^ 3k
+‘ religioub discourse’ which is related to ha\e preceded the enunciation of so many of the rules for Bhikkhus (ATulla\ agga I, 2^ 3k
 
 
 K U LL A V AG G A .
@@ -17572,13 +15292,10 @@ X 5 6, i.
 
 
 A in
-
 oo u
-
 that that is not Dhamma, that that is not Vinaya,
 that that is not the teaching of the Master. But of
-whatsoever doctrines thou shalt be conscious, Go-
-tami, that they conduce to peace and not to passion,
+whatsoever doctrines thou shalt be conscious, Gotami, that they conduce to peace and not to passion,
 to veneration and not to pride, to wishing for little
 and not to wishing for much, to seclusion and not to
 love of society, to the exercise of zeal and not to
@@ -17599,8 +15316,7 @@ They told this matter to the Blessed One.
 to the Bhikkhunis.’
 
 Now it occurred to the Bhikkhunis : ‘ By whom
-should the Patimokkha be recited to the Bhik-
-khunis ? ’
+should the Patimokkha be recited to the Bhikkhunis ? ’
 
 They told this matter to the Blessed One.
 
@@ -17611,8 +15327,7 @@ Now at that time Bhikkhus went to the residence
 of the Bhikkhunis and recited the Patimokkha to
 the Bhikkhunis there. The people murmured, and
 were indignant,, saying : ‘ There are their wives,
-there are their mistresses ; now will they take plea-
-sure together.’
+there are their mistresses ; now will they take pleasure together.’
 
 The Bhikkhus heard this, and told the matter *to
 the Blessed One.
@@ -17620,22 +15335,17 @@ the Blessed One.
 ‘Bhikkhus are not, O Bhikkhus, to recite the
 
 
-X, 6, 2. ON THE DUTIES OF BHIKJCHUNIS. 33 I
-
 Patimokkha to the Bhikkhunis at their residence.
 .Whosoever does so, shall be guilty of a dukka/a.
-I allow Bhikkhunis, O Bhikkhus, to recite the Pati-
-mokkha to the Bhikkhunis/
+I allow Bhikkhunis, O Bhikkhus, to recite the Patimokkha to the Bhikkhunis/
 
 The Bhikkhunis did not know how to recite the
 Patimokkha. They told this matter to the Blessed
 One.
 
-‘ I allow Bhikkhus, O Bhikkhus, to tell Bhik-
-khunis how to recite the Patimokkha.’
+‘ I allow Bhikkhus, O Bhikkhus, to tell Bhikkhunis how to recite the Patimokkha.’
 
-2. Now at that time the Bhikkhunis did not con-
-fess the faults (they had committed).
+2. Now at that time the Bhikkhunis did not confess the faults (they had committed).
 
 They told this matter to the Blessed One.
 
@@ -17668,13 +15378,7 @@ indignant, and complained, saying : ‘ There are their
 wives, there are their mistresses ; they are asking
 
 
-332
-
-
 JL'ULLAVAGGA.
-
-
-X, 6, 3.
 
 
 pardon now after having treated them scornfully
@@ -17692,12 +15396,10 @@ The Bhikkhunis did not know how to receive the
 confession of a fault. They told this matter to the
 Blessed One.
 
-1 I allow Bhikkhus, O Bhikkhus, to tell Bhik-
-khunis how to receive the confession of a fault.’
+1 I allow Bhikkhus, O Bhikkhus, to tell Bhikkhunis how to receive the confession of a fault.’
 
 3. Now at that time disciplinary proceedings
-(K am mas) were not. carried out against Bhik-
-khunis. They told that matter to the Blessed One.
+(K am mas) were not. carried out against Bhikkhunis. They told that matter to the Blessed One.
 
 ‘ I allow disciplinary proceedings, O Bhikkhus, to
 be carried out against Bhikkhunis.’
@@ -17707,43 +15409,32 @@ disciplinary proceedings to be carried out against
 Bhikkhunis ?’ They told this matter to the Blessed
 One.
 
-‘ I allow Bhikkhus, O Bhikkhus, to carry out dis-
-ciplinary proceedings against Bhikkhunis.’
+‘ I allow Bhikkhus, O Bhikkhus, to carry out disciplinary proceedings against Bhikkhunis.’
 
-Now at that time Bhikkhunis who had been sub-
-jected to disciplinary proceedings, on seeing a
+Now at that time Bhikkhunis who had been subjected to disciplinary proceedings, on seeing a
 Bhikkhu on the road, or in a street closed at one
 end, or at the place where four cross-ro'&ds met,
-would place their bowls on the ground, and ar-
-ranging their robes over one shoulder, would crouch
+would place their bowls on the ground, and arranging their robes over one shoulder, would crouch
 down on their heels, and stretching out their joined
 palms would ask for pardon, thinking that that was
-the proper time for doing so. The people mur-
-mured [&c., as before].
+the proper time for doing so. The people murmured [&c., as before].
 
-
-X, 7 , l. ON THE DUTIES OF BHIKKHUNIS. 333
 
 They told this matter to the Blessed One.
 
 ‘ Bhikkhus are not, O Bhikkhus, to carry out
 disciplinary proceedings against the Bhikkhunis,
 Whosoever does so, shall be guilty of a dukka/a.’
-I allow ^Bhikkhunis, O Bhikkhus, to carry out dis-
-ciplinary proceedings against Bhikkhunis.’
+I allow ^Bhikkhunis, O Bhikkhus, to carry out disciplinary proceedings against Bhikkhunis.’
 
 The Bhikkhunis did not know how to carry out
 the disciplinary proceedings. . They told this matter
 to the Blessed One.
 
-' I allow Bhikkhus, O Bhikkhus, to tell the Bhik-
-khunis how to carry out disciplinary proceedings.’
+' I allow Bhikkhus, O Bhikkhus, to tell the Bhikkhunis how to carry out disciplinary proceedings.’
 
 
-7
-
-1. Now at that time Bhikkhunis in Sawgha assem-
-bled, having fallen into quarrel, strife, and dispute,
+1. Now at that time Bhikkhunis in Sawgha assembled, having fallen into quarrel, strife, and dispute,
 got to blows, and were unable’ to settle the point at
 issue. They told this matter to the Blessed One.
 
@@ -17767,9 +15458,6 @@ the guilty Bhikkhunis, or absolve their offence : for
 1 Kammapp-atta ; on which see Pamara XIX, 6. 7
 
 
-334
-
-
 STULLAVAGGA.
 
 
@@ -17787,8 +15475,7 @@ an official act for Bhikkhunis, and then to give it in
 charge for Bhikkhunis to carry out the official act
 against Bhikkhunis. And I allow Bhikkhus to set
 on foot the (dealing with an) offence for Bhikkhunis,
-and then to give it in charge for Bhikkhunis to ac-
-cept the confession thereof.’
+and then to give it in charge for Bhikkhunis to accept the confession thereof.’
 
 
 8 .
@@ -17804,8 +15491,7 @@ Vinaya ; and, being forgetful, I have lost it as fast as
 I received it. Hard is it for a woman to follow the
 Blessed One her life long. What now shall I do ?’
 
-And that Bhikkhuni told this matter to the Bhik-
-khunis, and they told it to the Bhikkhus, and the
+And that Bhikkhuni told this matter to the Bhikkhunis, and they told it to the Bhikkhus, and the
 Bhikkhus told it to the Blessed One.
 
 ‘ I allow Bhikkhus, O Bhikkhus, to teach the
@@ -17838,15 +15524,13 @@ Blessed One remained in the Getavana, Anatha
 Pi/^ika’s Park.
 
 Now at that time the AAabbaggiya Bhikkhus
-threw dirty water over Bhikkhunis, thinking, per-
-haps, they would fall in love with them 1 2 .
+threw dirty water over Bhikkhunis, thinking, perhaps, they would fall in love with them 1 2 .
 
 They told this matter to the Blessed One.
 
 4 A Bhikkhu is not, O Bhikkhus, to throw dirty
 water at a Bhikkhuni. Whosoever does so, shall
-be guilty of a dukka/a. I allow a penalty. O Bhik-
-khus, to be imposed on that Bhikkhu.
+be guilty of a dukka/a. I allow a penalty. O Bhikkhus, to be imposed on that Bhikkhu.
 
 Then the Bhikkhus thought : ‘ What penalty is it
 that ought to be imposed on him ?’ They told this
@@ -17855,8 +15539,7 @@ matter to the Blessed One.
 ‘ That Bhikkhu is to be declared to be one who is
 not to be saluted by the Bhikkhuni-sa^gha V
 
-Now' at that time the AV^abbaggiya Bhikkhus un-
-covered their bodies, or their thighs, or their private
+Now' at that time the AV^abbaggiya Bhikkhus uncovered their bodies, or their thighs, or their private
 parts, and show r ed them to Bhikkhunis, or addressed
 Bhikkhunis with wicked words, or associated with
 Bhikkhunis. thinking, perhaps, they w 7 ould fall in
@@ -17868,17 +15551,10 @@ They told this matter to the Blessed One.
 1 On sara^eyyun compare sara^ati at V. 3, 1
 
 2 On this decision compare the £ sending to Co\ entry' of
-
-jOanna for levity of conduct towards Bhikkhus at Maha-parmib-
-
-bana Sutta VI, 4, and ^Tullavagga XI, 1,12 (where the penalty is
-
+jOanna for levity of conduct towards Bhikkhus at Maha-parmibbana Sutta VI, 4, and ^Tullavagga XI, 1,12 (where the penalty is
 called Brahnra-aa^a).
 
 s On sampayo^eti compare ^ulkuagga I, 5, at the end.
-
-
-336
 
 
 .STULL AVAGGA.
@@ -17917,8 +15593,7 @@ Blessed One.
 the Exhortation.’
 
 3. Then the Bhikkhus thought: ‘ Is it lawful to
-hold Uposatha with a Bhikkhunl who has been in-
-hibited from the Exhortation, or is it not lawful ?’
+hold Uposatha with a Bhikkhunl who has been inhibited from the Exhortation, or is it not lawful ?’
 
 They told this matter to the Blessed One.
 
@@ -17935,8 +15610,6 @@ Bhikkhunls), went away on a journey. The Bhik-
 1 Avara«an ti viharapavesane nivarawazzi, says Buddhaghosa.
 
 
-X, 9, 4 * ON THE DUTIES OF BHIKKIIUNIS. 337
-
 khunis murmured, were indignant, and complained,
 saying : ‘ How can the venerable U dayi [act so]?’
 
@@ -17946,22 +15619,18 @@ They told this matter to the Blessed One.
 after having inhibited the Exhortation. Whosoever
 does so, shall be guilty of a dukka/a.’
 
-Now at that time foolish and incompetent Bhik-
-khus inhibited the Exhortation.
+Now at that time foolish and incompetent Bhikkhus inhibited the Exhortation.
 
 They told this matter to the Blessed One.
 
-‘ The Exhortation is not, O Bhikkhus, to be inhi-
-bited by a foolish, incompetent Bhikkhu. When such
+‘ The Exhortation is not, O Bhikkhus, to be inhibited by a foolish, incompetent Bhikkhu. When such
 a one does so, he shall be guilty of a dukka/a.’
 
-Now at that time Bhikkhus inhibited the Exhorta-
-tion without grounds and without cause.
+Now at that time Bhikkhus inhibited the Exhortation without grounds and without cause.
 
 They told this matter to the Blessed One.
 
-‘ Y ou are not, O Bhikkhus, to inhibit the Exhorta-
-tion without ground and without cause. Whosoever
+‘ Y ou are not, O Bhikkhus, to inhibit the Exhortation without ground and without cause. Whosoever
 does so, shall be guilty of a dukka/a.’
 
 Now at that time Bhikkhus, who had inhibited the
@@ -17970,9 +15639,7 @@ matter out of which the inhibition arose).
 
 They told this matter to the Blessed One.
 
-‘ When, O Bhikkhus, you have inhibited the Ex-
-hortation, y ou are not to abstain from giving a deci-
-sion (on the matter out of which the inhibition arose).
+‘ When, O Bhikkhus, you have inhibited the Exhortation, y ou are not to abstain from giving a decision (on the matter out of which the inhibition arose).
 Whosoever does so, shall be guilty of a dukka/a.’
 
 4. Now at that time Bhikkhunis did not go to
@@ -17988,16 +15655,10 @@ dealt with according to the rule Y
 Z
 
 
-[20]
-
-
 33 §
 
 
 XULLAVAGGA.
-
-
-X, 9, 4.
 
 
 Now at that time the whole Bhikkhuni-sawzgha
@@ -18009,8 +15670,7 @@ now will they take pleasure together.’
 
 They told this matter to the Blessed One.
 
-‘ The whole Bhikkhuni-sawzgha is not, O Bhik-
-khus, to go to the Exhortation together. And if it
+‘ The whole Bhikkhuni-sawzgha is not, O Bhikkhus, to go to the Exhortation together. And if it
 should so go, it is guilty of a dukka?a. I allow,
 O Bhikkhus, four or five Bhikkhunis to go together.’
 
@@ -18021,12 +15681,10 @@ ending,]
 to go together to Exhortation ; and let them go up
 to some one Bhikkhu, and arrange their robes over
 one shoulder, and, sitting down on their heels, let
-them stretch forth their joined palms, and thus ad-
-dress him : “ The Bhikkhuni-sazzzgha salutes the
+them stretch forth their joined palms, and thus address him : “ The Bhikkhuni-sazzzgha salutes the
 feet of the Bhikkhu -sawzgha, and requests permission
 to come for the purpose of the Exhortation being
-held ; may that be granted, they say, to the Bhik-
-khuni-sawgha.”
+held ; may that be granted, they say, to the Bhikkhuni-sawgha.”
 
 ‘ Then he who is entrusted with the recitation of
 the Patimokkha is to ask: “Is there any Bhikkhu
@@ -18035,9 +15693,7 @@ the Bhikkhunis?”
 
 ‘ If a Bhikkhu has 'been appointed thereto, the
 reciter of the Patimokkha is to say : “ Such and
-such a Bhikkhu has been appointed to hold Ex-
-hortation to the Bhikkhunis. Let the Bhikkhuni-
-sa/zzgha come to him accordingly.”
+such a Bhikkhu has been appointed to hold Exhortation to the Bhikkhunis. Let the Bhikkhunisa/zzgha come to him accordingly.”
 
 ‘ If no Bhikkhu has been appointed thereto, the
 reciter, of the Patimokkha is to say: “Which of
@@ -18050,9 +15706,6 @@ X, 9, 5-
 ON THE DUTIES OF BHIKKHUNIS.
 
 
-9
-
-
 the Bhikkhunls ? ” If any one is able to do so, and
 is possessed of the eight qualifications 1 , he is to
 appoint him thereto, and is to say : “ Such and
@@ -18061,11 +15714,9 @@ to the Bhikkhunis. Let the Bhikkhuni-sawgha
 come to him.”
 
 ‘ If no one is able to do so, the reciter of the
-P&timokkha is to say : “ There is no Bhikkhu ap-
-pointed to hold Exhortation to the Bhikkhunis.
+P&timokkha is to say : “ There is no Bhikkhu appointed to hold Exhortation to the Bhikkhunis.
 May the Bhikkhuni-sa?/zgha obcain its desire in
-
-o >
+o )
 
 peace 2 * * .
 
@@ -18073,16 +15724,14 @@ peace 2 * * .
 (office of holding) Exhortation. They told this
 matter to the Blessed One.
 
-‘ The Exhortation is not, O Bhikkhus, to be de-
-clined. Whosoever shall not accept it shall be
+‘ The Exhortation is not, O Bhikkhus, to be declined. Whosoever shall not accept it shall be
 guilty of a dukka/a.’
 
 Now at that time a certain Bhikkhu was stupid.
 To him the Bhikkhunis went, and said . * Sir, please
 to accept the (duty of holding) Exhortation/
 
-‘ I, sister, am stupid. How can I accept the Ex-
-hortation?’
+‘ I, sister, am stupid. How can I accept the Exhortation?’
 
 4 You should take it, Sir ; for thus has it been
 laid down by the Blessed One : “ Bhikkhus are to
@@ -18097,16 +15746,11 @@ stupid, to accept the Exhortation.’
 [The same repeated of a sick Bhikkhu, and a
 
 1 These are given at length' m the Sutta Vibhanga, Pa&ttiya
-XXI, 2, 1.
 
 2 Pasadikena sampadetu, on which Buddhaghosa has no
-
 note. Perhaps £ by means of faith 5 would be a bettei rendenng.
 
 Z 2
-
-
-340
 
 
 iXLLAVAGGA.
@@ -18118,13 +15762,11 @@ X, io, i.
 Bhikkhu on a journey. The same case put of a
 Bhikkhu living in the jungle. The decision is,]
 
-1 I allow a Bhikkhu living in the jungle, O Bhik-
-khus, to accept the Exhortation, and to appoint a
+1 I allow a Bhikkhu living in the jungle, O Bhikkhus, to accept the Exhortation, and to appoint a
 time and place for the meeting 1 , saying : “ There
 v ill I perform it.” ’
 
-Now at that time Bhikkhus accepted the Ex-
-hortation, but did not perform it. They told this
+Now at that time Bhikkhus accepted the Exhortation, but did not perform it. They told this
 matter to the Blessed One.
 
 ‘ The Exhortation, O Bhikkhus, is not to be
@@ -18135,8 +15777,7 @@ Now at that time Bhikkhunis did not attend at
 the place appointed. They told this matter to the
 Blessed One.
 
-‘ A Bhikkhuni is not, O Bhikkhus, to omit attend-
-ing at the place appointed. Whosoever does so,
+‘ A Bhikkhuni is not, O Bhikkhus, to omit attending at the place appointed. Whosoever does so,
 shall be guilty of a dukka/a.’
 
 
@@ -18144,24 +15785,16 @@ shall be guilty of a dukka/a.’
 
 i. Now at that time Bhikkhunis wore long
 girdles, and out of them they arranged fringes 2 .
-The people murmured, were indignant, and com-
-plained, saying : ' As the women who are still en-
-joying the pleasures of the world do ! ’
+The people murmured, were indignant, and complained, saying : ' As the women who are still enjoying the pleasures of the world do ! ’
 
 
 1 On sawzketa;#, see our note above on MaMvagga VIII, 23, 3.
 
-2 P&suke namentiti gihidarikayo viya ghanapa/Zakena kaya-
-bandhanena pasuke namanatthaya bandhanti, says Buddhaghosa.
+2 P&suke namentiti gihidarikayo viya ghanapa/Zakena kayabandhanena pasuke namanatthaya bandhanti, says Buddhaghosa.
 P&suka is probably equal to the Sanskrit p&rjvaka, and means a
-fringe arranged round the body, as shown m Plate LI of Cunning-
-ham’s ‘ Bharhut Tope/ being so 'called from the rib-like arrange-
-ment of the strings or cloth or other substance of which it was
+fringe arranged round the body, as shown m Plate LI of Cunningham’s ‘ Bharhut Tope/ being so 'called from the rib-like arrangement of the strings or cloth or other substance of which it was
 made. On corresponding girdles worn by men and foi bidden to
 Bhikkhus, see iTullavagga V, 29, 2,
-
-
-X, 10, 2.
 
 
 ON THE DUTIES OF BHIKKHUNIS.
@@ -18210,20 +15843,10 @@ Samanta Pasadika.
 
 6 ATdapaZZadisu /fo!aka\ asaw £olan ti \ editabba//z.
 
-7 Hattha m ko/Zapentiti agga m baha^ ko/ZapeBa moiapai-
-tadihi &ttaka/w karonti, says Buddhaghosa The meaning is not
-clear. • No. io of the tattoo marks figuied on Plate LII of Cun-
-ningham's ‘ Bhaihut Tope/ referred to in the note on the next sec-
-tion, is a representation of a peacock’s feathers On a tth ill a, see
+7 Hattha m ko/Zapentiti agga m baha^ ko/ZapeBa moiapaitadihi &ttaka/w karonti, says Buddhaghosa The meaning is not
+clear. • No. io of the tattoo marks figuied on Plate LII of Cunningham's ‘ Bhaihut Tope/ referred to in the note on the next section, is a representation of a peacock’s feathers On a tth ill a, see
 Buddhaghosa’s note atp. 327 of the text Compare tne piohibiuon
-of the use by Bhikkhus of back-scratchers and other like things (A'ul-
-lavagga V. 1 1) connected with shampooing 01 luxurious bathing.
-
-
-342
-
-
-iTULLAVAGGA.
+of the use by Bhikkhus of back-scratchers and other like things (A'ullavagga V. 1 1) connected with shampooing 01 luxurious bathing.
 
 
 X, io, 3.
@@ -18271,17 +15894,13 @@ Bhikkhus.
 G These two injunctions are found also in the 90th and 91st
 Bhikkhuni Pa&ttiyas.
 
-G Avangaa# karontiti avanga-dese adhomukha^ lekha;« ka-
-lonti (B.). Avanga= Sanskrit apanga.
+G Avangaa# karontiti avanga-dese adhomukha^ lekha;« kalonti (B.). Avanga= Sanskrit apanga.
 
-7 Visesaka/zz karontiti ga#f/a-padese vUitia-sa^Mana^ vise-
-saka m karonti (B.), A number of tattoo marks on the checks are
+7 Visesaka/zz karontiti ga#f/a-padese vUitia-sa^Mana^ visesaka m karonti (B.), A number of tattoo marks on the checks are
 figured in Plate LII of Cunningham’s e Bharhut Tope/
 
 s Olokentiti vatapanaw vivaiitva vithia» olokenti (B.).
 
-
-X, II, I. ON THE DUTIES OF BIIIKKHUnIs. 343
 
 light (of a half-opened door) 1 , nor to have dances
 performed, nor to keep courtesans, nor to keep a
@@ -18298,8 +15917,7 @@ brownish-yellow, or dark yellow colour : nor to wear
 robes with skirts to them which are not made of
 torn pieces of cloth, or are long, or have flowers
 worked on them, or cobras’ hoods ; nor to wear
-jackets, nor dresses made of the fibre of the Tiri-
-taka plant 4 . Whosoever does so, shall be guilt) of
+jackets, nor dresses made of the fibre of the Tiritaka plant 4 . Whosoever does so, shall be guilt) of
 a dukka/'a.’
 
 
@@ -18310,12 +15928,10 @@ her death-bed, said : ‘ After i am gone, let my set
 of necessaries 5 belong to the Sawgha.’ Then the
 
 
-1 Saloke ti/Mantiti dvarow \i\ant\a upatf^a-kayaw dassen-
-tiyo ti///janti (B ). Compaie Then-gatha 73
+1 Saloke ti/Mantiti dvarow \i\ant\a upatf^a-kayaw dassentiyo ti///janti (B ). Compaie Then-gatha 73
 
 2 Hai itaka-pa;77nka//J pakiwantiti harfrakar* F e TT a paw/n/i
-kz paki//anti paki;/wakapa»a//J pasaienllli \uttaw hoti (JB.). Com-
-paie pa;2;nka-upabako m the Pataka I, 4 1 1 =11, 180.
+kz paki//anti paki;/wakapa»a//J pasaienllli \uttaw hoti (JB.). Compaie pa;2;nka-upabako m the Pataka I, 4 1 1 =11, 180.
 
 3 N amatakazra dhaieti. See V, 27 3 and our note abote on
 V, ii, 1. The expiession evidently means here to be a baiber.’
@@ -18327,17 +15943,10 @@ Bhikkhus (Mahavagga VIII, 29), wheie see out notes on the
 5 Parikkharo , that is, the eight things o\ei which a member
 
 
-344
-
-
-rULLAVAGGA.
-
-
 X, 12, i.
 
 
-Bhikkhus and the Bhikkhunis disputed as to it, say-
-ing : ‘ It belongs to us ; it belongs to us.’
+Bhikkhus and the Bhikkhunis disputed as to it, saying : ‘ It belongs to us ; it belongs to us.’
 
 They told this matter to the Blessed One.
 
@@ -18348,8 +15957,7 @@ let my set of necessaries belong to the Samgha,”
 then it is the Bhikkhuni-sawzgha it belongs to ; the
 Bhikkhu-sawgha is not the owner thereof. If a
 Bhikkhu, O Bhikkhus, or a novice under training
-to become one (a Sima^era), when on his death-
-bed, should say : “ After I am gone, let my set of
+to become one (a Sima^era), when on his deathbed, should say : “ After I am gone, let my set of
 necessaries become the property of the Sawgha,”
 then it is the Bhikkhu-sawgha it belongs to ; the
 Bhikkhuni-sawgha is not the owner thereof 1 .’
@@ -18357,19 +15965,14 @@ Bhikkhuni-sawgha is not the owner thereof 1 .’
 
 12. '
 
-i. Now at that time a certain woman, who had for-
-merly belonged to the clan of the Mallas 2 , had
-entered the Order of the Bhikkhunis. She, seeing-
-a weakly Bhikkhu on the road, struck up against
+i. Now at that time a certain woman, who had formerly belonged to the clan of the Mallas 2 , had
+entered the Order of the Bhikkhunis. She, seeinga weakly Bhikkhu on the road, struck up against
 him with the edge of her shoulder, and knocked
-him over. The Bhikkhus murmured, were indie-
-nant, and complained, saying: ‘How can a Bhik-
-khuni assault a Bhikkhu ? ’
+him over. The Bhikkhus murmured, were indienant, and complained, saying: ‘How can a Bhikkhuni assault a Bhikkhu ? ’
 
 They told this matter to the Blessed One.
 
 £ A Bhikkhuni is not, O Bhikkhus, to assault a
-
 of the Buddhist Older was allowed proprietary rights — the three
 robes, the alms-bowl, razor, needle, girdle, and water-strainer.
 
@@ -18387,12 +15990,8 @@ X, 13, I.
 ON THE DUTIES OF BHIKKHUNfs.
 
 
-345
-
-
 Bhikkhu. Whosoever does so, shall be guilty of a
-dukkaz?a. I prescribe that a Bhikkhunl, O Bhik-
-khus, on seeing a Bhikkhu, should get out of the
+dukkaz?a. I prescribe that a Bhikkhunl, O Bhikkhus, on seeing a Bhikkhu, should get out of the
 way when still at a distance, and make room for
 him.’
 
@@ -18421,8 +16020,7 @@ On seeing: the Bhikkhunl. that Bhikkhu said :
 made the same request, and received the same
 reply. Then he said,]
 
-‘ Sister 1 I have made a vow not to partake my-
-self of the first food given to me until I have already
+‘ Sister 1 I have made a vow not to partake myself of the first food given to me until I have already
 given of it either to a Bhikkhu or to a Bhikkhunl.
 
 o
@@ -18435,12 +16033,6 @@ was inside of it. And the Bhikkhu was indignant, and
 annoyed, and remonstrated, saying : ‘ How can you
 do such a thing ? ’ And he told the Bhikkhus. and
 they were indignant, &c., and told the Blessed One.
-
-
-346
-
-
-A'ULLAVAGGA.
 
 
 X, 15, x.
@@ -18459,8 +16051,7 @@ modem English.
 15 .
 
 1. Now at that time the people gave food to the
-Bhikkhus, and the Bhikkhus gave to the Bhik-
-khunis. The people murmured, were indignant,
+Bhikkhus, and the Bhikkhus gave to the Bhikkhunis. The people murmured, were indignant,
 and complained, saying : ‘ How can their reverences
 give away to others what was given for them to
 have — as if we did not know how to give gifts ?’
@@ -18498,16 +16089,12 @@ X, i6, 2 .
 ON THE DUTIES OF BHIICKHUnIs.
 
 
-347
-
-
 Now at that time food, which had been stored up
 for the Bhikkhus, had come into their possession.
 
 They told this matter to the Blessed One.
 
-‘ I allow food that has been stored up to be en-
-joyed by the Bhikkhunis after they have had it
+‘ I allow food that has been stored up to be enjoyed by the Bhikkhunis after they have had it
 given over to them by the Bhikkhus.’
 
 2. [The same repeated, reading Bhikkhuni for
@@ -18520,8 +16107,7 @@ Bhikkhu, and vice versa.]
 the possession of some bedding, and the Bhikkhunis
 had none. The Bhikkhunis sent a messenger to
 the Bhikkhus, saying: ‘It would be well if their
-reverences the Bhikkhus would give us some bed-
-ding on loan V
+reverences the Bhikkhus would give us some bedding on loan V
 
 They told this matter to the Blessed One.
 
@@ -18535,8 +16121,7 @@ chairs, and the stuffing was soiled with blood.
 They told this matter to the Blessed One.
 
 1 A Bhikkhuni is not, O Bhikkhus, to sit down or
-lie down on a stuffed bedstead or chair. Whoso-
-ever does so, shall be guilty of a duklcara. I allow
+lie down on a stuffed bedstead or chair. Whosoever does so, shall be guilty of a duklcara. I allow
 the use, O Bhikkhus, of an indoor's robe V
 
 The indoor’s robe got soiled.
@@ -18547,9 +16132,6 @@ on Aulla\agga VI, 18
 
 2 A\ asatha- X’i\ ara/«. See the Old Commentary on this
 word as occurung m the 47th Bhikkhuni PaAtt'ya.
-
-
-348
 
 
 STULLAVAGGA. X, 16, 2,
@@ -18580,8 +16162,7 @@ murmured, &c., saying : 4 Like the women who still
 enjoy the pleasures of the world!' They told this
 matter to the Blessed One.
 
-* A Bhikkhuni is not, O Bhikkhus,. to wear a hip-
-string for constant use 3 . I allow its use to one who
+* A Bhikkhuni is not, O Bhikkhus,. to wear a hipstring for constant use 3 . I allow its use to one who
 is in her courses/
 
 1 A»i-£olakaf«. Buddhaghosa has no note on this. Am
@@ -18599,17 +16180,13 @@ put on, in front of the legs. When worn under other clothes, it
 remains so ; but when the other clothes are taken off for work the
 narrow end is passed under the body between the legs, and twisted
 round the hip-string behind (at the small of the back) so as to keep
-it fast. Its use is forbidden to Bhikkhus at V, 29, 5, where Bud-
-dhaghosa says, ( Such as wrestlers and labourers wear/
+it fast. Its use is forbidden to Bhikkhus at V, 29, 5, where Buddhaghosa says, ( Such as wrestlers and labourers wear/
 
 3 Its use is also forbidden to Bhikkhus (above, ATullavagga
 V,2 S 1).
 
 
 ON THE DUTIES OF BHIKKHUNIS.
-
-
-349
 
 
 X, 17, I.
@@ -18625,8 +16202,7 @@ They told this matter to the Blessed One.
 
 ‘ I prescribe, O Bhikkhus, that a woman on whom
 the upasampadd initiation is being conferred, is to
-be questioned as touching the four-and-twenty Dis-
-qualifications 1 2 . And thus, O Bhikkhus, is she to be
+be questioned as touching the four-and-twenty Disqualifications 1 2 . And thus, O Bhikkhus, is she to be
 questioned :
 
 (1 — 1 1 ) “ Have you anyone or other of the eleven
@@ -18650,16 +16226,14 @@ consent ? ”
 
 (23) “ Are you full twenty years of age ? ”
 
-(24) “ Are you duly provided with robes and alms-
-bowl ? ”
+(24) “ Are you duly provided with robes and almsbowl ? ”
 
 “ What is your name ? ”
 
 
 1 Here follow a number of abnoimides, deformities, or diseases,
 ail of which have reference to the womb or its accessories. Some
-of them are unintelligible to us. Compare the conespondmg sec-
-tion m respect to Bhikkhus at INIahavagga I, 68
+of them are unintelligible to us. Compare the conespondmg section m respect to Bhikkhus at INIahavagga I, 68
 
 2 Of these twenty-four, eleven aie the deformities just leferred
 to, and the rest are the same as those for Bhikkhus at Mahavagga
@@ -18667,9 +16241,6 @@ I, 76. The number of questions is, in fact, twenty-six, but the last
 two do not refer to Disqualifications.
 
 3 For the reason of this, see IMahavagga I, 63.
-
-
-350
 
 
 KV LLAVAGGA.
@@ -18690,8 +16261,7 @@ They told this matter to the Blessed One.
 
 ‘ I prescribe, O Bhikkhus, that initiation is to be
 conferred in the Bhikkhu-sawgha upon a Bhikkhuni
-who has been initiated on the one side in the Bhik-
-khunhsawzgha, and has there cleared herself (from
+who has been initiated on the one side in the Bhikkhunhsawzgha, and has there cleared herself (from
 the Disqualifications).’
 
 Now at that time the Bhikkhunis questioned
@@ -18706,8 +16276,7 @@ They told this matter to the Blessed One.
 
 f I prescribe, O Bhikkhus, that you first instruct
 the women about to be initiated (how to answer),
-and that you then question them as to the Dis-
-qualifications.’
+and that you then question them as to the Disqualifications.’
 
 Then they instructed the candidates in the midst
 of the assembly, and they still became disconcerted,
@@ -18726,24 +16295,18 @@ Bhikkhus, and not Bhikkhunis, are to confer the upasampadd.
 76, 2 of the Bhikkhus.
 
 
-X,i 7 , 4- ON TIIE DUTIES 01 BHIKKHUNIS. 35 1
-
 ‘ I prescribe, O Bhikkhus, that they be instructed
 aside, and then questioned in the midst of the
 assembly.
 
-‘And thus, O Bhikkhus, ought they to be in-
-structed : — First they ought to be made to choose
+‘And thus, O Bhikkhus, ought they to be instructed : — First they ought to be made to choose
 an instructor 1 ; when they have chosen an instructor
 their robes and bowl must be shown to them •
 “ This is your alms-bowl, this is your waist-cloth,
-this is your upper garment, this is your under gar-
-ment, this is your vest, this is your bathing dress 2 .
+this is your upper garment, this is your under garment, this is your vest, this is your bathing dress 2 .
 Go and stand in such and such a place.” ’
 
-3. Ignorant and incompetent (Bhikkhunis) in-
-structed them, and they became disconcerted, per-
-plexed, and unable to answer.
+3. Ignorant and incompetent (Bhikkhunis) instructed them, and they became disconcerted, perplexed, and unable to answer.
 
 They told this matter to the Blessed One.
 
@@ -18775,13 +16338,10 @@ and on Udaka - sa/ikEi, the same on the 22nd Bhikkhuni
 Pa/httiya.
 
 
-352
-
-
 ETULLAVAGGA.
 
 
-J 7> 5-
+J 7) 5-
 
 
 having been appointed thereto. Whosoever does
@@ -18789,8 +16349,7 @@ so, shall be guilty of a dukka/a. I prescribe, O
 Bhikkhus, that a Bhikkhunl appointed to the office
 instruct them.
 
-‘ And thus, O Bhikkhus, ought she to be ap-
-pointed — one may either appoint herself, or one may
+‘ And thus, O Bhikkhus, ought she to be appointed — one may either appoint herself, or one may
 be appointed by another. And how is a Bhikkhunl
 to appoint herself ? Let a learned, competent
 Bhikkhunl lay the following motion (watti) before
@@ -18803,8 +16362,7 @@ may a Bhikkhunl appoint herself.
 ‘ And how is a Bhikkhunl to be appointed by
 another ? Let a learned, competent Bhikkhunl lay
 the following resolution before the Sawgha : “ Let
-the Sawgha, reverend Ladies, hear me. N. N. de-
-sires to receive the upasampadd initiation from
+the Sawgha, reverend Ladies, hear me. N. N. desires to receive the upasampadd initiation from
 the venerable lady, M. M. If it seem meet to the
 Sawzgha, let A. A. instruct N. N.” Thus may one
 Bhikkhunl be appointed by another.
@@ -18813,8 +16371,7 @@ Bhikkhunl be appointed by another.
 the person who is seeking to be initiated, and thus
 address her : “ Listen to me, N.N. This is the time
 for you to speak the truth, to declare that which is.
-When you are asked about what has happened be-
-fore the Sa?;zgha, you ought, if it is so, to answer :
+When you are asked about what has happened before the Sa?;zgha, you ought, if it is so, to answer :
 “ That is so ; ” if it is not so, to answer : “ That is
 not so.” Be not perplexed, be not disconcerted. I
 shall ask you thus : “ Are you deformed (&c., down
@@ -18824,19 +16381,14 @@ to the end of the twenty-six questions in § 1).” ’
 the candidate) returned together to the assembly.
 
 
-X, 17, 7 - ON THE DUTIES OF BHIKKHUNIS. 353
-
-‘ They are not to return together. Let the in-
-structor return first, and lay the following resolution
+‘ They are not to return together. Let the instructor return first, and lay the following resolution
 before the Sawzgha : “ Let the Sazzzgha, reverend
-Ladies, hear me. N. N. desires to receive the upa-
-sampada initiation from the venerable lady, M. M. ;
+Ladies, hear me. N. N. desires to receive the upasampada initiation from the venerable lady, M. M. ;
 and she has been instructed by me. If it seem
 meet to the Sazzzgha, let N. N. come forward.”
 Then let her be told to come forward. Then
 let her be told to adjust her upper robe over
-one shoulder only, to bow down before the Bhik-
-khunis, to sit down on her heels, and stretching
+one shoulder only, to bow down before the Bhikkhunis, to sit down on her heels, and stretching
 forth her joined palms, to ask for the upasampada
 initiation, saying : “ I ask the Sawzgha, reverend
 Ladies, for initiation. May the Sawzgha, reverend
@@ -18860,22 +16412,10 @@ lay the following motion before the Sawgha : “ Let the
 Saz/zgha, reverend Ladies, hear me. This person,
 N. N., desires to receive the upasampada initiation
 from the venerable lady, M. M. She is free from
-the Disqualifications, and is duly provided with alms-
-bowl and robes. This person, N. N., asks the
+the Disqualifications, and is duly provided with almsbowl and robes. This person, N. N., asks the
 Sa?;zgha for the upasampada initiation, the vene-
 
 [20] a a
-
-
-354
-
-
-iTULLAVAGGA.
-
-
-X, 17, 8.
-
-
 rable lady, M. M., being her proposer. If it seem
 meet to the Sa^gjia, let the Sawgha receive N. N.,
 the venerable lady, M. M., being her proposer.
@@ -18905,17 +16445,13 @@ forth her joined palms, and say : “ I, Sirs, N. N.,
 who, being desirous of receiving the upasampada
 initiation from M. M., have received it on the one
 side (of the Samgha, from the Bhikkhunis), and
-have there been declared free (from the Disqualifi-
-cations), do hereby ask the Samgha for the upa-
-sampada.” [The rest of the proceedings are the
+have there been declared free (from the Disqualifications), do hereby ask the Samgha for the upasampada.” [The rest of the proceedings are the
 same as before the Bhikkhuni-sawzgha.] “ May the
 Sawgha, reverend Sirs, raise me up (out of the
 worldly life), having pity on me.” And a second
 time do I hereby ask [&c., repeated]. And a third •
 time do I hereby ask [the same repeated].
 
-
-X, 18. ON THE DUTIES OF BHIKKIIUNis. 355
 
 [The rest of the proceedings are the same as in
 the last sections 6 and 7, putting ‘ Bhikkhu ’ for
@@ -18954,12 +16490,10 @@ see our note on the corresponding section for the Bhikkhus (Alaha-
 
 2 The thiee hi s say as, which are doubtless the same as the ist
 2nd, and 4th of the four Resources mentioned m the corresponding
-paiagraph for Bhikkhus (Mahavagga I, 77). The third is for-
-bidden to Bhikkhunis, below, X, 23.
+paiagraph for Bhikkhus (Mahavagga I, 77). The third is forbidden to Bhikkhunis, below, X, 23.
 
 1 A tth a akarawiyam These must bear the same relation to
-the eight Bhikkhuni Para^ikas as the four Interdicts in the coires-
-pondmg paiagraph for the Bhikkhus (Maba\agga I, 78) do to the
+the eight Bhikkhuni Para^ikas as the four Interdicts in the coirespondmg paiagraph for the Bhikkhus (Maba\agga I, 78) do to the
 four Bhikkhu Paragikas.
 
 
@@ -18969,12 +16503,7 @@ A a 2
 35 $
 
 
-A'ULLAVAGGA.
-
-
 X, ig, la
-
-
 exclusive possession (of the first eight seats), and the
 rest arranged themselves as they came in.
 
@@ -19001,8 +16530,7 @@ by themselves, and not in the Bhikkhu-savzgha.
 
 They told this matter to the Blessed One.
 
-‘ A Bhikkhuni is not, O Bhikkhus, to hold Pa-
-vara n& apart, and not in the Bhikkhu-savzgha,
+‘ A Bhikkhuni is not, O Bhikkhus, to hold Pavara n& apart, and not in the Bhikkhu-savzgha,
 Whosoever does so, shall be dealt with according
 to law 2 .’
 
@@ -19012,8 +16540,7 @@ disturbed (the meeting of the Bhikkhu-sawgha).
 
 They told this matter to the Blessed One.
 
-‘ A Bhikkhuni is not, O Bhikkhus, to hold Pava-
-ra«a with the Bhikkhu-savzgha only. Whosoever
+‘ A Bhikkhuni is not, O Bhikkhus, to hold Pavara«a with the Bhikkhu-savzgha only. Whosoever
 does so, shall be guilty of a dukka^a 2 .’
 
 Now at that time Bhikkhunis spent all their time
@@ -19025,15 +16552,12 @@ Gaiudhamma above, X, 1, 4.
 2 See last note.
 
 
-X, 19, 2. ON THE DUTIES OF BHIKKHUNI?. 357
-
 before noon holding Pavara^d [and so had no time
 left for the early meal].
 
 They told this matter to the Blessed One.
 
-* I prescribe, O Bhikkhus, that they hold Pava-
-ra;^a in the afternoon.’
+* I prescribe, O Bhikkhus, that they hold Pavara;^a in the afternoon.’
 
 When holding Pavara?za in the afternoon, they had
 not time enough [to conclude their own ceremony
@@ -19045,19 +16569,15 @@ They told this matter to the Blessed One.
 Pavara^a one day, and that with the Bhikkhus the
 next day.’
 
-2 . Now at that time the whole of the Bhikkhuni-
-sawgha declaring, each one for herself, her Pavara//a
-before the Bhikkhu-sawgha, disturbed (the pro-
-ceedings).
+2 . Now at that time the whole of the Bhikkhunisawgha declaring, each one for herself, her Pavara//a
+before the Bhikkhu-sawgha, disturbed (the proceedings).
 
 They told this matter to the Blessed One.
 
 ‘ I prescribe, O Bhikkhus, that some one learned
 and competent Bhikkhuni be deputed to make the
-Pav&rawa invitation on behalf of the Bhikkhum-
-sawo-ha before the Bhikkhu-saweha. And thus,
-
-o < — >
+Pav&rawa invitation on behalf of the Bhikkhumsawo-ha before the Bhikkhu-saweha. And thus,
+o ( — )
 
 O Bhikkhus, is she to be deputed :
 
@@ -19076,21 +16596,16 @@ invitation on behalf of the Bhikkhuni-sawgha before
 the Bhikkhu-sa?/?gha. Whosoever of the venerable
 
 
-358
-
-
 .STULLAVAGGA.
 
 
 X, 19- 3 -
 
 
-ones approves thereof, let her keep silence.. Who-
-soever approves not thereof, let her speak,
+ones approves thereof, let her keep silence.. Whosoever approves not thereof, let her speak,
 
 N. N. is deputed by the Sawgha to make the
-Favarazzd invitation on behalf of the Bhikkhuni-
-sawzgha before the Bhikkhu-sawzgha. The Sawcrha
+Favarazzd invitation on behalf of the Bhikkhunisawzgha before the Bhikkhu-sawzgha. The Sawcrha
 approves thereof. Therefore is it silent. Thus do
 I understand.” ’
 
@@ -19107,12 +16622,8 @@ Bhikkhu-sawzgha speak to the Bhikkhuni-sa»zgha
 (if there be anything wherein they have offended)
 out of compassion toward them. Then will they, if
 . they perceive the offence, confess the same. And a
-
-
 second time the Bhikkhum-sawzgha [the
-
 whole repeated]. And a third time [the
-
 whole repeated] 1 .” ’
 
 
@@ -19129,13 +16640,7 @@ the Order uses before his or her own Sawgha. Compare our notes
 above on the corresponding passage in the Mahavagga, IV, 1, 4.
 
 
-X, 21.
-
-
 ON THE DUTIES «OF BHIKKHUNIS.
-
-
-359
 
 
 were committing, or called upon them to remember
@@ -19182,19 +16687,12 @@ on iUullavagga I, 5.
 2 On all these expressions, see our notes abo\e at Mahavagga V,
 9, 3, v here they recur word for word.
 
-3 This is the 85th Bhikkhuni Pa^itti>a.
+3 This is the 85th Bhikkhuni Pa^itti)a.
 
-4 This is repeated fiom the 85th Bhikkhuni Paftttiya. The coi-
-responding permission is given to Bhikkhus by Mahavagga V, 10, 2.
-
-
-iTULLAVAGGA.
+4 This is repeated fiom the 85th Bhikkhuni Paftttiya. The coiresponding permission is given to Bhikkhus by Mahavagga V, 10, 2.
 
 
 X, 22, i.
-
-
-360
 
 
 Now the Bhikkhunis thought: ‘Should the carts
@@ -19228,11 +16726,9 @@ messenger to the Blessed One, saying : ‘ I want to
 receive the upasampadh initiation : what course of
 action should I adopt ? ’
 
-Then the Blessed One, in that connection, ad-
-dressed the Bhikkhus, after delivering a religious
+Then the Blessed One, in that connection, addressed the Bhikkhus, after delivering a religious
 discourse 4 , and said : ‘ I allow you, O Bhikkhus, to
-confer the upasampada initiation (upon Bhik-
-khunis) even by a messenger 5 .’
+confer the upasampada initiation (upon Bhikkhunis) even by a messenger 5 .’
 
 
 1 Hattha-va//aka«. See the note on Mahavagga V, 10, 3.
@@ -19250,29 +16746,22 @@ on Mahavagga VIII, 2 (and see also VIII, 1, 1, and 3).
 X, 22, 3- ON THE DUTIES OF BHIKKIIUNts.
 
 
-361
-
-
 2. They conferred it by (sending) a Bhikkhu as
 the messenger.
 
 They told this matter to the Blessed One.
 
-‘You are not, O Bhikkhus, to confer the upa-
-sampada initiation on a Bhikkhuni by sending a
+‘You are not, O Bhikkhus, to confer the upasampada initiation on a Bhikkhuni by sending a
 Bhikkhu as messenger. Whosoever does so, shall
 be guilty of a dukka/a/
 
 They conferred it by sending a female student
-
 a male novice a female novice an
-
 ignorant, incompetent Bhikkhuni, as the messenger.
 
 [Similar decision in each case.]
 
-‘I allow you, O Bhikkhus, to confer the upa-
-sampada initiation by sending a learned, competent
+‘I allow you, O Bhikkhus, to confer the upasampada initiation by sending a learned, competent
 Bhikkhuni as a messenger/
 
 3. c That Bhikkhuni messenger is to go before
@@ -19293,22 +16782,17 @@ out of compassion upon her/ [To be said thrice.]
 
 khus, a Sawgha of not less than ten persons (Mahavagga I, 31 2,
 and IX, 4', 1), each of ten \eais standing or more (Mahavagga I,
-31,8) But even for Bhikkhus there were, under special circum-
-stances, certain relaxations of this rule (Maha\agga V, 13, n),
+31,8) But even for Bhikkhus there were, under special circumstances, certain relaxations of this rule (Maha\agga V, 13, n),
 
 1 See above, X, 17, i, for the twenty-four Disqualifications.
 
 2 Compare abo\e, X, 1, 4, and X, 17,
 
 
-362 it U L L V A G G A . X, 23.
-
 ‘ Then let a learned, competent Bhikkhu lay the
-motion before the Sa;;zgha. “ Let the Sawgha, vene-
-rable Sirs, hear me. N. N., having been desirous
+motion before the Sa;;zgha. “ Let the Sawgha, venerable Sirs, hear me. N. N., having been desirous
 
 [statement of fact, as before]. If it seem
-
 meet to the Sa;»gha, let the Sawgha confer the
 upasampada initiation upon N. N., M. M. being
 her proposer. That is the motion.
@@ -19324,15 +16808,12 @@ silence. Whosoever approves not thereof, let him
 speak. And a second time I say the same thing.
 
 N. N., (&c., down to) let him speak. And
-
 a third time I say the same thing. N. N.,
 
 (&c., down to) let him speak.
 
-“‘The Sawgha has hereby conferred the upa-
-sampadd initiation upon N. N., M. M. being her
-proposer. The Sawzgha approves thereof. There-
-fore is it silent. Thus do I understand.” ’
+“‘The Sawgha has hereby conferred the upasampadd initiation upon N. N., M. M. being her
+proposer. The Sawzgha approves thereof. Therefore is it silent. Thus do I understand.” ’
 
 ‘ Then, further, let them (the Bhikkhus) measure
 the shadow, tell (the messenger that she may tell
@@ -19351,8 +16832,6 @@ and men of abandoned life violated them.
 
 1 See above, X, 17, 8.
 
-
-X, 24, I. • ON THE DUTIES OF BHIKKHUNIS. 363
 
 They told this matter to the Blessed One.
 
@@ -19385,12 +16864,10 @@ carried on for the benefit of Bhikkhunis).’
 
 
 1 Compare Mahavagga I, 30, 4, and I, 77, and our note above on
-X, 17,8.
 
 2 This word has already occurred, in a list of various buildings,
-at Mahavagga III, 5, 9, where we have rendered it stable. Bud-
-dhaghosa says here uddositan ( 1 \IS udosita) ti bha«^a-sala, and
-as at Mahavagga I, 61, assa-bha« /a and hatthi-bhaw^a are
+at Mahavagga III, 5, 9, where we have rendered it stable. Buddhaghosa says here uddositan ( 1 \IS udosita) ti bha«^a-sala, and
+as at Mahavagga I, 61, assa-bha«(/a and hatthi-bhaw^a are
 evidently grooms attending on horses or elephants (compare
 Gataka I, 62, 3), bha^^/a-sala, may mean a servant’s hall for the
 use of that pai ticular class of servants. A lawsuit about an u d d 0 s 1 1 a
@@ -19407,20 +16884,13 @@ quoted Assa-sala is the word for stable at Gataka I 62, 3
 4 Navakammaw. See the note above at V, 13, 3.
 
 
-364
-
-
-A'ULLAVAGGA.
-
-
 * X, 25, 1.
 
 
 That did not satisfy their wants. They told this
 matter to the Blessed One.
 
-1 1 allow Bhikkhunis, O Bhikkhus, to assign cer-
-tain places to live in to individual members of the
+1 1 allow Bhikkhunis, O Bhikkhus, to assign certain places to live in to individual members of the
 Order V
 
 
@@ -19429,8 +16899,7 @@ Order V
 1 . Now at that time a certain woman who had
 already conceived, but did not know it, was received
 into the Order among the Bhikkhunis. Afterwards
-her womb moved within her 1 2 . Then that Bhik-
-khuni thought : ‘ How shall I now conduct myself
+her womb moved within her 1 2 . Then that Bhikkhuni thought : ‘ How shall I now conduct myself
 towards this child?’
 
 They told this matter to the Blessed One.
@@ -19438,8 +16907,7 @@ They told this matter to the Blessed One.
 ‘ I allow her, O Bhikkhus, to bring it up till it
 have attained to years of discretion 3 .’
 
-Then the Bhikkhuni thought : ‘ It is not per-
-missible for me to live alone, nor for any other
+Then the Bhikkhuni thought : ‘ It is not permissible for me to live alone, nor for any other
 Bhikkhuni to live with a male child. What course
 ought I to pursue?’
 
@@ -19453,18 +16921,14 @@ that (first-mentioned) Bhikkhuni.’
 1 Puggahkaw katu/;z. See the note above on X, 15, 1.
 
 2 There is a touching stoiy founded on a similar incident which
-is given as the Introductory Story to No. 12 of the (ratakas, trans-
-lated in Rh. D ; s c Buddhist Birth Stones/ pp 199-205. By the
-61st Bhikkhuni Pa&ttiya it is lawful or unlawful to initiate a preg-
-nant woman according as she is unconscious or conscious of the
+is given as the Introductory Story to No. 12 of the (ratakas, translated in Rh. D ; s c Buddhist Birth Stones/ pp 199-205. By the
+61st Bhikkhuni Pa&ttiya it is lawful or unlawful to initiate a pregnant woman according as she is unconscious or conscious of the
 fact of her conception.
 
 3 Vmftutam papuwati. That is, no doubt, to puberty.
 Compare the opening phrases of the Introductory Story referred to
 m the last note (Gataka I, 231) and also (?ataka III, 437.
 
-
-X, 25 , 3 - ON THE DUTIES OF BHIKKHUNfo 365
 
 ‘ And thus, O Bhikkhus, is she to be appointed :
 First that Bhikkhuni ought to be asked (whether
@@ -19512,9 +16976,6 @@ to that Bhikkhuni. And thus, O Bhikkhus, ought
 compare the 5th Garudhamma abo\e, X, 1,4.
 
 
-366
-
-
 tfULLAVAGGA.
 
 
@@ -19546,8 +17007,7 @@ Order again.
 
 They told this matter to the Blessed One.
 
-‘ A Bhikkhuni, O Bhikkhus, who, when still wear-
-ing the orange-coloured robe, has gone over to the
+‘ A Bhikkhuni, O Bhikkhus, who, when still wearing the orange-coloured robe, has gone over to the
 Titthiyas, is not to be received again V
 
 
@@ -19571,9 +17031,6 @@ X, 2 7 , 4.
 ON THE DUTIES OF BHIKKHUNIS.
 
 
-367
-
-
 They told this matter to the Blessed One.
 
 ‘ I allow them, O Bhikkhus, to permit those
@@ -19594,8 +17051,7 @@ and without using a divan she could not be at ease.
 
 They told this matter to the Blessed One.
 
-* I allow Bhikkhunis, O Bhikkhus, to use a half-
-divan V
+* I allow Bhikkhunis, O Bhikkhus, to use a halfdivan V
 
 3. [Rule as to construction of priyies 3 .]
 
@@ -19629,12 +17085,6 @@ va//ati
 
 
 KULLAVAGGA.
-
-
-X, 27, 4.
-
-
-368
 
 
 [Similar paragraph, ending]
@@ -19672,8 +17122,7 @@ life violated them.
 place not a common bathing-place. Whosoever does
 so, shall be guilty of a dukka/a.’
 
-Now at that time Bhikkhunis bathed at a bathing-
-place used also by men. People murmured, were
+Now at that time Bhikkhunis bathed at a bathingplace used also by men. People murmured, were
 indignant, and complained, saying, ‘ As those women
 do -who 'are still living in the pleasures of the
 world V
@@ -19691,13 +17140,9 @@ Pa&ttiya. *
 X, 27 , 4- ON THE DUTIES OF BHIKKHUNIS
 
 
-369
-
-
 ‘ A Bhikkhuni is not, O Bhikkhus, to bathe at a
 bathing-place used also by men. Whosoever does
-so, shall be guilty of a dukka/a. I allow, Bhik-
-khunis, O Bhikkhus, to bathe at a bathing-place
+so, shall be guilty of a dukka/a. I allow, Bhikkhunis, O Bhikkhus, to bathe at a bathing-place
 used by women.’
 
 
@@ -19706,9 +17151,6 @@ End of the Third Portion for Recitation.
 
 End of the Tenth Khandhaka, the Bhikkhuni-
 Khandhaka.
-
-
-370
 
 
 JTULLAVAGGA.
@@ -19738,8 +17180,7 @@ on seeing I said to him :
 
 ‘ “ O, friend ! surely thou knowest our Master ? ”
 
-‘“Yea, friend, I know him. This day the Sa-
-mara Gotama has been dead a week That is
+‘“Yea, friend, I know him. This day the Samara Gotama has been dead a week That is
 how I obtained this Mandarava flower.’”
 
 ‘ Then, Sirs, of those of the Bhikkhus who were
@@ -19757,8 +17198,6 @@ and its appearance on earth showed that the devas, on some
 special occasion, had been casting down heavenly flowers upon the
 earth.
 
-
-XI, i, i. ON THE COUNCIL OF RAGAGAHA. 371
 
 their arms and wept ; and some fell headlong on
 the ground ; and some reeled to and fro in anguish
@@ -19778,18 +17217,15 @@ not the Blessed One already declared to us that it is
 the very nature of all things near and dear unto us
 that we must divide ourselves from them, leave
 them, sever ourselves from them ? How then, Sirs,
-can this be possible — that whereas anything what-
-ever born, brought into being and organised,
-contains within itself the inherent necessity of dis-
-solution — how then can this be possible that such a
+can this be possible — that whereas anything whatever born, brought into being and organised,
+contains within itself the inherent necessity of dissolution — how then can this be possible that such a
 being- should not be dissolved ? No such condition
 can exist ! ”
 
 ‘ Then at that time 1 , Sirs, one Subhadda, who
 had gone out from the world in his old age, was
 seated there in the company of Bhikkhus. And
-Subhadda, the late-received one, said to the Bhik-
-khus : “ Enough, Sirs ! Weep not, neither lament 1
+Subhadda, the late-received one, said to the Bhikkhus : “ Enough, Sirs ! Weep not, neither lament 1
 We are well rid of the great Samara. We used to
 be annoyed by being told, 1 This beseems you, this
 beseems you not.’ But now we shall be able to do
@@ -19801,9 +17237,6 @@ shall not have to do k”
 before the preceding one.
 
 Bb 2
-
-
-372
 
 
 JTULLAVAGGA.
@@ -19819,16 +17252,14 @@ before what is not Vinaya is spread abroad, and
 what is Vinaya is put aside ; before those who argue
 against the Dhamma become powerful, and those
 who hold to the Dhamma become weak ; before
-those who argue against the Vinaya become power-
-ful, and those who hold to the Vinaya become weak ! ’
+those who argue against the Vinaya become powerful, and those who hold to the Vinaya become weak ! ’
 
 2. ‘ Let then the venerable Thera choose out
 Bhikkhus.’
 
 Then the venerable Mahd Kassapa chose out five
 hundred Arahats less one. And the Bhikkhus said
-to the venerable Maha Kassapa : ‘ Lord, this vener-
-able one, Ananda, although he have not yet attained
+to the venerable Maha Kassapa : ‘ Lord, this venerable one, Ananda, although he have not yet attained
 [to Nirvana], yet is he incapable of falling into error
 through partiality, or malice, or stupidity, or fear,
 and thoroughly have the Dhamma and the Vinaya
@@ -19842,8 +17273,7 @@ what place shall we now chant over together the
 Dhamma and the Vinaya ? ’ And it occurred to the
 Thera Bhikkhus : ‘ In Racagaha is alms plentiful,*
 and there is abundance of lodging-places. What,
-now, if we were to spend the rainy season at Rifa-
-gaha, and chant the Dhamma and the Vinaya
+now, if we were to spend the rainy season at Rifagaha, and chant the Dhamma and the Vinaya
 together there : and if no other Bhikkhus were to
 go up to Rayagaha for the rainy season 1 ?’
 
@@ -19859,15 +17289,11 @@ XI, X, 6.
 ON THE COUNCIL OF rAgAGAHA.
 
 
-373
-
-
 resolution before the Sawgha : ‘ Let the venerable
 Samgrha hear me. If the time seems meet to the
 Sawzgha, let the Sawgha appoint that these five
 hundred Bhikkhus take up their residence during
-the rainy season at Rafagaha, to chant over to-
-gether the Dhamma and the Vinaya, and that no
+the rainy season at Rafagaha, to chant over together the Dhamma and the Vinaya, and that no
 other Bhikkhus go up to Rafagaha for the rainy
 season. This is the resolution. Let the venerable
 Sa»zgha hear. The Saxzzgha appoints accordingly.
@@ -19880,28 +17306,20 @@ understand.’
 5. So the Thera Bhikkhus went up to Rlfagaha
 to chant over together the Dhamma and the Vinaya.
 And the Thera Bhikkhus thought : ‘ "1 he Blessed
-One has spoken in praise of the repair of dilapida-
-tions. Let us, then, during the first month of the
+One has spoken in praise of the repair of dilapidations. Let us, then, during the first month of the
 rainy season repair such dilapidations, and during
 the middle month let us chant ever the Dhamma
 and the Vinaya together ’ And during the first
 month they repaired dilapidation.
 
-6. And the venerable Ananda — thinking, ‘To-
-morrow is the assembly, now it beseems me not to
+6. And the venerable Ananda — thinking, ‘Tomorrow is the assembly, now it beseems me not to
 go into the assembly while I am still only on the
 way (towards Arahatship)’ — spent the whole night
-with mind alert. And at the close of the night, in-
-tending to lie down, he inclined his body, but before
+with mind alert. And at the close of the night, intending to lie down, he inclined his body, but before
 his head reached the pillow, and while his feet were
 still far from the ground, in the interval he became
-
-
 decisions would ha\e been invalid through its being incomplete.!
 constituted (want of vaggatta).
-
-
-374
 
 
 JtULLAVAGGA.
@@ -19916,8 +17334,7 @@ sensuality, individuality, delusion, and ignorance) 1 .
 
 7. And the venerable Mahi Kassapa laid the
 resolution before the Sa?;zgha : ‘ If the time seem
-meet to the Sawgha, I will question Upali concern-
-ing the Vinaya.’ And the venerable Up&li laid a
+meet to the Sawgha, I will question Upali concerning the Vinaya.’ And the venerable Up&li laid a
 resolution before the Sa^gha : ‘ Let the venerable
 Sawgha hear me. If the time seems meet to the
 Sawgha, I, when questioned by the venerable MaM
@@ -19951,20 +17368,15 @@ clause about the feet.
 2 Anuparmatti. Tumour (Journal of the Asiatic Society of
 
 Bengal, 1837, p. 19) translates this word, which is not in Childers,
-
 by 1 the sequel or application of the exhortation.’ We think the
-
 pawfiatti refers to the principal rule (as laid down in the Sutta
 
 Vibhanga at the close of I, 5, n), and the anupafmatti to the
-
 additions made to it in the following sections.
 
 8 This last clause doubtless refers to the closing words in the
 account given in the Sutta Vibhanga of each rule.
 
-
-XI, 1,7. ON THE COUNCIL OF RAGAGAHA. 375
 
 ‘Again, venerable Updli, where was the second
 P&ra^ika promulgated ? ’
@@ -20000,8 +17412,7 @@ Para^ika promulgated ? ’
 ‘ Human beings 1 2 .’
 
 Thus did the venerable Maha Kassapa question
-the venerable Upali as to [all the particulars, as be-
-fore] of the third Parafika.
+the venerable Upali as to [all the particulars, as before] of the third Parafika.
 
 ‘Again, venerable Upali, where was the fourth
 Para^ika promulgated ?’
@@ -20022,12 +17433,6 @@ Vaggumuda river.’
 understood.
 
 
-376
-
-
-rULLAVAGGA.
-
-
 XI, i, 8.
 
 
@@ -20040,8 +17445,7 @@ did he question him through both the Vinayas 1 2 ;
 and as he was successively asked, so did Upctli
 make reply.
 
-8. Then the venerable Maha Kassapa laid a reso-
-lution before the Sazzzgha : f Let the venerable
+8. Then the venerable Maha Kassapa laid a resolution before the Sazzzgha : f Let the venerable
 Sawgha hear me. If the time seems meet to the
 Sawzgha, I would question Ananda concerning the
 Dhamma.’
@@ -20061,18 +17465,14 @@ at the royal rest-house at Ambala77^iki V
 
 ‘ Concerning whom was it spoken ? ’
 
-‘ Suppiya, the wandering ascetic, and Brahma-
-datta, the young Brahman.’
+‘ Suppiya, the wandering ascetic, and Brahmadatta, the young Brahman.’
 
 Thus did the venerable Mahct Kassapa question
 
 
-1 Ubhato-vinaye. That is, relating on the one hand to Bhik-
-khus, and on the other to Bhikkhunis (not Sutta Vibhahga and
-Khandhakas). The Burmese MS. at Berlin reads ubhato-vi-
-bhange, suggested possibly by Buddhaghosa’s expression m the
-corresponding part of his accounts of this Council at the com-
-mencement of the Sumangala Vilasml and the Samanta Pasadika
+1 Ubhato-vinaye. That is, relating on the one hand to Bhikkhus, and on the other to Bhikkhunis (not Sutta Vibhahga and
+Khandhakas). The Burmese MS. at Berlin reads ubhato-vibhange, suggested possibly by Buddhaghosa’s expression m the
+corresponding part of his accounts of this Council at the commencement of the Sumangala Vilasml and the Samanta Pasadika
 (see Tumour, loc. cit., and H. O., Vinaya III, 290.)
 
 2 In the text read r^SgSrake, as suggested in the notes at
@@ -20083,9 +17483,6 @@ XI, i, 9.
 
 
 ON THE COUNCIL OF RAGAGAHA.
-
-
-377
 
 
 the venerable Ananda as to the occasion of the
@@ -20128,17 +17525,13 @@ those and the ninety-two Paiittiyas ; others that ail
 save those and the four Paiidesaniyas were lesser
 and minor precepts.
 
-Then the venerable Maha Kassapa laid a reso-
-lution before the Sa?;/gha : ‘ Let the venerable
+Then the venerable Maha Kassapa laid a resolution before the Sa?;/gha : ‘ Let the venerable
 
 
 1 1 Book of the Great Decease/ VI, 3.
 
 
-378 ETJLLAVAGGA. XI, 1, 10.
-
-Sawgha hear me. There are certain of our pre-
-cepts which relate to matters in which the laity are
+Sawgha hear me. There are certain of our precepts which relate to matters in which the laity are
 concerned. Now the laity know of us that “ such
 and such things are proper for you Samaras who
 are Sakyaputtiyas, and such and such things are
@@ -20146,8 +17539,7 @@ not.” If we were to revoke the lesser and minor
 precepts, it will be said to us : “ A set of precepts
 was laid down for his disciples by the Samara
 Gotama to endure until the smoke should rise from
-his funeral pyre 1 . So long as their teacher re-
-mained with these men, so long did they train
+his funeral pyre 1 . So long as their teacher remained with these men, so long did they train
 themselves in the precepts. Since their teacher has
 passed away from them, no longer do they now train
 themselves in the precepts.’
@@ -20155,8 +17547,7 @@ themselves in the precepts.’
 ‘ If the time seems meet to the Sawgha, not
 ordaining what has not been ordained, and not
 revoking what has been ordained, let it take upon
-itself and ever direct itself in the precepts accord-
-ing as they have been laid down. This is the
+itself and ever direct itself in the precepts according as they have been laid down. This is the
 resolution.
 
 ‘Let the venerable Sawgha hear me. [These
@@ -20172,17 +17563,13 @@ do I understand.’
 10. Now the Thera Bhikkhus said to the vener-
 
 
-1 Dhfimak&likaw. See our note above on VI, 17, 1. Buddha-
-ghosa says here, Dhumakalikan ti yava samanassa Gotamassa
+1 Dhfimak&likaw. See our note above on VI, 17, 1. Buddhaghosa says here, Dhumakalikan ti yava samanassa Gotamassa
 parimbbana-zhtika-dhtimo pa?wiayati tavakalo ti attho.
 
 2 The whole repeated.
 
 
 XI, I, io. ON THE COUNCIL OF RAGAGAHA.
-
-
-379
 
 
 able Ananda : ‘ That was ill done by thee, friend
@@ -20196,8 +17583,7 @@ Nevertheless, out of my faith in you, I confess that
 as a fault V
 
 ‘ This also, friend Ananda, was ill done by thee,
-in that thou steppedst upon the Blessed One’s rainy-
-season garment to sew it. Confess thy fault.’
+in that thou steppedst upon the Blessed One’s rainyseason garment to sew it. Confess thy fault.’
 
 ‘ It was not, Sirs, through any want of respect to
 the Blessed One that I did so. I see no fault
@@ -20231,8 +17617,6 @@ s It is worthy of notice that this episode is not referred to in the
 
 
 3 8o
-
-
 jsTULLAVAGGA.
 
 
@@ -20283,8 +17667,6 @@ note on the spelling of the word.
 s Pabba^awz, admission into the Order.
 
 
-XI, I, 12. ON THE COUNCIL OF RAGAGA1IA. 381
-
 When he was so seated, the Thera Bhikkhus said
 to him :
 
@@ -20295,8 +17677,7 @@ learn the text so rehearsed by them V
 
 ‘ The Dhamma and the Vinaya, Sirs, have been
 well sung by the Theras. Nevertheless, even in
-such manner as it has been heard by me, and re-
-ceived by me from the very mouth of the Blessed
+such manner as it has been heard by me, and received by me from the very mouth of the Blessed
 One, in that manner will I bear it in my memory.’
 
 12. Now the venerable Ananda said to the Thera
@@ -20310,8 +17691,7 @@ One what the higher penalty was ?’
 
 ‘ I did, Sirs, (and the reply was) : ‘ Let Kh anna the
 Bhikkhu, Ananda, say whatever he may wish ; but
-the Bhikkhus should neither speak to him, nor ex-
-hort him, nor admonish him.” ’
+the Bhikkhus should neither speak to him, nor exhort him, nor admonish him.” ’
 
 ‘ Do thou, then, friend Ananda, let W/zanna the
 Bhikkhu know that the higher penalty has been
@@ -20332,17 +17712,7 @@ Thera Bhikkhus. And he took with him a number
 2 See 1 Book of the Gi eat Decease,’ VI, 4.
 
 
-382
-
-
-iTULLAVAGGA.
-
-
-XI, 1, 13.
-
-
-of Bhikkhus, to wit, five hundred Bhikkhus, and em-
-barked on a boat going up stream, and disembarked
+of Bhikkhus, to wit, five hundred Bhikkhus, and embarked on a boat going up stream, and disembarked
 at Kosambi, and not far from king Udena’s park he
 took his seat at the foot of a certain tree.
 
@@ -20385,8 +17755,6 @@ hundred robes.’
 Then king Udena was indignant and annoyed,
 and became angry, saying :
 
-
-XI, i, 14. ON THE COUNCIL OF RAGAGAHA. 383
 
 ‘ How can the Samara Ananda accept so many
 robes? Would he set up as a hawker in cloths, or
@@ -20462,8 +17830,7 @@ beat up with mud, and use them for making flooring
 of clay.’
 
 Then king Udena thought : ‘ These Sakyaputtiya
-Samaras make general use of everything in a con-
-scientious way, and take nothing as one man’s
+Samaras make general use of everything in a conscientious way, and take nothing as one man’s
 peculiar property 1 .’ And he presented other five
 hundred pieces of cloth to the venerable Ananda.
 
@@ -20490,8 +17857,7 @@ admonished by the Bhikkhus ? ’ said AYzanna, and he
 fainted and fell.
 
 Then the venerable AYzanna, pained, grieved, and
-seized with remorse through the higher penalty, re-
-mained alone and separate, earnest, zealous, and
+seized with remorse through the higher penalty, remained alone and separate, earnest, zealous, and
 resolved. And ere long he attained to that supreme
 
 
@@ -20504,19 +17870,13 @@ XI, I, 1 6 .
 ON THE COUNCIL OF RAGAGAHA.
 
 
-335
-
-
 goal 1 of the higher life for the sake of which men even
 of good family go out from all and every household
 gain and comfort to become houseless wanderers —
 yea, that supreme goal did he, by himself, and while
-yet in this visible world, bring himself to the know-
-ledge of, and continue to realise, and to see face to
+yet in this visible world, bring himself to the knowledge of, and continue to realise, and to see face to
 face ! And he became conscious that rebirth was at
-an end for him, that the higher life had been ful-
-filled, that all that should be done had been accom-
-plished, and that, after this present "life, there would
+an end for him, that the higher life had been fulfilled, that all that should be done had been accomplished, and that, after this present "life, there would
 be no beyond 21
 
 So the venerable Af^anna became yet another
@@ -20531,10 +17891,8 @@ penalty.’
 realised Arahatship, from that moment was the
 higher penalty removed from you.’
 
-16. Now whereas five hundred Bhikkhus, with-
-out one failing, without one more, took part in
-this rehearsal of the Vinaya, therefore is that re-
-hearsal of the Vinaya called ' that of the five
+16. Now whereas five hundred Bhikkhus, without one failing, without one more, took part in
+this rehearsal of the Vinaya, therefore is that rehearsal of the Vinaya called ' that of the five
 hundred 3 .’
 
 
@@ -20588,8 +17946,7 @@ an official act, undertaking to inform Bhikkhus of
 it ; (6) that it was permissible for a Bhikkhu to do
 anything adopted as a practice by his Upa^Mya,
 (7) that curds might be eaten by one who had already
-finished his midday meal ; (8) that it was permis-
-sible to drink unfermented toddy ; (9) that a rug or
+finished his midday meal ; (8) that it was permissible to drink unfermented toddy ; (9) that a rug or
 mat need not be of the limited size prescribed if
 it had no fringe ; (10) that it was permissible to
 receive gold and silver 2 .
@@ -20600,8 +17957,6 @@ a round number.
 
 2 The above terms are explained below, §§ 1, 10, and 2, 8 .
 
-
-XII, I, i. ON THE COUNCIL OF VESALl. 387
 
 Now at that time the venerable Yasa, the son
 of Kaka^aka, who was wandering through the
@@ -20622,8 +17977,7 @@ When they had thus spoken, the venerable Yasa,
 the son of Kakawz/aka, said to the lay disciples :
 
 ‘ Do, Sirs, nothing of the kind. The use of gold
-and silver is not allowed to the Sakyaputtiya Sa-
-maras. The Sakyaputtiya Samaras neither allow
+and silver is not allowed to the Sakyaputtiya Samaras. The Sakyaputtiya Samaras neither allow
 it to be given to them, nor take charge of it. The
 Sakyaputtiya Samazzas are men whose gems and
 jewelry have been laid aside, and who are without
@@ -20648,9 +18002,6 @@ KakazzTaka :
 C C 2
 
 
-iTULLAVAGGA.
-
-
 XII, I, 2.
 
 
@@ -20662,8 +18013,7 @@ allow any money to be given to me/
 
 2. Then the Va^fian Bhikkhus of Vesali said
 one to another : ‘ This brother, Yasa, the son of
-Khka^mhka, upbraids and reviles, and renders dis-
-satisfied believing and faithful followers. Come, let
+Khka^mhka, upbraids and reviles, and renders dissatisfied believing and faithful followers. Come, let
 us carry out against him the Act of Reconciliation Y
 And they did so.
 
@@ -20671,11 +18021,9 @@ Then the venerable Y asa, the son of Kaka??^aka,
 said to them : ‘It has been laid down, Sirs, by the
 Blessed One, that a companion shall be appointed
 to go as messenger with a Bhikkhu against whom
-the Act of Reconciliation has been carried out 1 2 . Ap-
-point, Sirs, a Bhikkhu, as companion messenger to
+the Act of Reconciliation has been carried out 1 2 . Appoint, Sirs, a Bhikkhu, as companion messenger to
 me.’ And the Vaggian Bhikkhus of Vesali deputed
-a Bhikkhu to that work, and gave him as a com-
-panion messenger to the venerable Yasa.
+a Bhikkhu to that work, and gave him as a companion messenger to the venerable Yasa.
 
 And the venerable Yasa, taking the companion
 Bhikkhu with him, entered into Vesali, and said to
@@ -20706,9 +18054,6 @@ XII, I, 3.
 ON THE COUNCIL OF VESAlI.
 
 
-3S9
-
-
 There are, O Bhikkhus, four obstructions of
 the sun and moon, by which when the sun and moon
 are affected, they give no heat and they give no
@@ -20725,8 +18070,7 @@ intoxicating, abstaining not therefrom 2 . This is the
 first of such stains. And further, O Bhikkhus, there
 are some Samazzas and Brahmans who practise
 sexual intercourse, and abstain not therefrom. This
-is the second of such stains. And further, O Bhik-
-khus, there are some Samazzas and Brahmans who
+is the second of such stains. And further, O Bhikkhus, there are some Samazzas and Brahmans who
 accept silver and gold, abstaining not from the use
 thereof. This is the third of such stains. And
 lastly, O Bhikkhus, there are some Sama/zas and
@@ -20744,14 +18088,10 @@ Brahmans,
 
 1 That is, eclipse.
 
-2 It is curious that this matter is not, like all the following, re-
-ferred to m the Silas. See Rh. D.’s ‘Buddhist Suttas,’ p 190.
+2 It is curious that this matter is not, like all the following, referred to m the Silas. See Rh. D.’s ‘Buddhist Suttas,’ p 190.
 
 3 Those, namely, which are set out in the Maha Sila (Rh D s
 ‘Buddhist Suttas,’ pp. 196-203).
-
-
-390
 
 
 STULLAVAGGA.
@@ -20787,8 +18127,7 @@ They enlarge the realm of death 1 , and dread
 rebirth they gain.”
 
 ‘ It is for upholding this opinion that I, Sirs, have
-been said to be upbraiding and reviling and render-
-ing dissatisfied believing and faithful followers, in
+been said to be upbraiding and reviling and rendering dissatisfied believing and faithful followers, in
 that I have said what is against the Dhamma to be
 against the Dhamma, and what is Dhamma to be
 Dhamma ; what is against the Vinaya to be against
@@ -20796,27 +18135,22 @@ the Vinaya, and what is Vinaya to be Vinaya.
 
 4. ‘ And once the Blessed One was staying, Sirs,
 at Ra^agaha, in the Ve/uvana, at the Kalazzz/aka
-N ivapa. Now at that time among the royal atten-
-dants sitting together in the women’s apartment in
+N ivapa. Now at that time among the royal attendants sitting together in the women’s apartment in
 the palace, the following saying was heard : “ Silver
 and gold is allowed to the Sakyaputtiya Samaras.
 
 
 1 That is, by being repeatedly reborn they continually die.
-VairfAenti ka/asin ti punappunaw kalevara-mkkhipamana-
-bh&miwz vaa'a'Aenti, says Buddhaghosa. The word occurs at
+VairfAenti ka/asin ti punappunaw kalevara-mkkhipamanabh&miwz vaa'a'Aenti, says Buddhaghosa. The word occurs at
 trataka 1, 146.
 
-
-XII, I, 4. ON THE COUNCIL OF VESALI. 39 1
 
 The Sakyaputtiya Samaras accept it, and take it in
 charge.” Now at that time Mamiu/aka, a village
 headman, was present. And he said to the people
 there : “ Say not* so, Sirs. Neither is silver and
 gold allowed to the Sakyaputtiya Samaras, nor do
-they accept it, nor take it in charge. The Sakya-
-puttiya Samaras are men who have laid aside gems
+they accept it, nor take it in charge. The Sakyaputtiya Samaras are men who have laid aside gems
 and jewelry, and are without silver, and without
 gold.” And the headman, MamKi/aka, succeeded
 in satisfvinof them.
@@ -20838,8 +18172,7 @@ rules of the order 1 2 ? ”
 ‘“Most certainly, Mawiiu/aka, in maintaining
 thus you speak in accordance with my word, and
 do not represent me falsely, nor put forth minor
-matters as the true Dhamma. Nor is there any-
-thino- leading to blame in such discussions. For
+matters as the true Dhamma. Nor is there anythino- leading to blame in such discussions. For
 cold and silver is not allowed, Mam/Su/aka, to the
 Sakyaputtiya Samaras, nor ought they to accept it,
 nor take it in charge. Men who have laid aside
@@ -20849,9 +18182,6 @@ gems and jewelry are the Sakyaputtiya Samaras,
 
 2 The whole of this speech recurs, nearly word for word, m the
 Mahavagga VI, 31, 4.
-
-
-392
 
 
 riTIXAVAGGA.
@@ -20871,14 +18201,12 @@ in need of grass may seek for grass, and he who is
 in need of wood may seek for wood, and he who is in
 need of a conveyance may seek for a conveyance,
 and he who is in need of a servant may seek for a
-servant ; yet have I never said in any way what-
-ever that gold or silver may be sought after or
+servant ; yet have I never said in any way whatever that gold or silver may be sought after or
 accepted.”
 
 1 It is for maintaining this opinion that I, Sirs,
 have been said to be upbraiding and reviling and
-rendering dissatisfied believing and faithful fol-
-lowers, in that I have said what is against the
+rendering dissatisfied believing and faithful followers, in that I have said what is against the
 Dhamma to be against the Dhamma, and what is
 Dhamma to be Dhamma ; that what is against the
 Vinaya is against the Vinaya, and what is Vinaya is
@@ -20886,21 +18214,16 @@ Vmaya.’
 
 5. ‘ And once, Sirs, the Blessed One at the same
 place, at Ra^agaha, on the occasion of the matter of
-Upananda, the Sakyan, distinctly laid down a pre-
-cept by which gold and silver were forbidden 2 .
+Upananda, the Sakyan, distinctly laid down a precept by which gold and silver were forbidden 2 .
 
 ‘ It is for maintaining this opinion that I, Sirs,
 have been said to be upbraiding and reviling and
-rendering dissatisfied believing and faithful fol-
-lowers, in that I have said what is against the
+rendering dissatisfied believing and faithful followers, in that I have said what is against the
 
 1 Compare JTullavagga VII, 1, 2.
 
-s This is set out in full in the Sutta Vibhanga in the Intro-
-duction to the 1 8th Nissaggiya Pa^ittiya.
+s This is set out in full in the Sutta Vibhanga in the Introduction to the 1 8th Nissaggiya Pa^ittiya.
 
-
-XII, I, 7. ON THE COUNCIL OF VESALl. 393
 
 Dhamma to be against the Dhamma, and what is
 Dhamma to be Dhamma ; that what is against the
@@ -20922,13 +18245,11 @@ having gained over the lay brethren, returned with
 the companion Bhikkhu to the Arama.
 
 7. And the Vajrfian Bhikkhus of V esali asked the
-companion Bhikkhu: ‘Did Yasa, the son of Ka-
-kazzzfaka, obtain, Sir, the forgiveness of the lay
+companion Bhikkhu: ‘Did Yasa, the son of Kakazzzfaka, obtain, Sir, the forgiveness of the lay
 brethren ? ’
 
 ‘ Evil, Sirs, hath been wrought against us. Yasa,
-the son of Kaka/zzfaka, and he alone has been de-
-cided to be a Sakyaputtiya Samazza, and all of us
+the son of Kaka/zzfaka, and he alone has been decided to be a Sakyaputtiya Samazza, and all of us
 neither Samazzas nor Sakyaputtiyas.’
 
 Then the Va^ian Bhikkhus of Vesali said:
@@ -20945,9 +18266,6 @@ making known grievous offences. Anguttara II, 5, 2 refers to
 laymen as well as to samaweras.
 
 3 Ukkhepamya-kamma. See Aullavagga I, 25.
-
-
-394
 
 
 XULLAVAGGA.
@@ -20968,8 +18286,7 @@ must take in charge this legal question before what
 is not Dhamma is spread abroad, and what is
 Dhamma is put aside ; before what is not Vinaya is
 spread abroad, and what is Vinaya is put aside ;
-before those who argue against the Dhamma be-
-come powerful, and those who argue in favour of
+before those who argue against the Dhamma become powerful, and those who argue in favour of
 the Dhamma become weak ; before those who
 argue against the Vinaya become powerful, and
 those who argue in favour of the Vinaya become
@@ -21006,9 +18323,6 @@ XII, I, 9.
 ON THE COUNCIL OF VEsAlL
 
 
-395
-
-
 put forward ten theses.’ And he told him what
 they were \ and added : ‘ Come now, Lord, let us
 take in .charge this last question before what is not
@@ -21022,13 +18336,11 @@ against the Vinaya become powerful, and those who
 argue in favour of the Vinaya become weak.’
 
 ‘ Even so, Lord,’ said the venerable Sambhuta
-Sawavasi, in assent to the venerable Yasa Kakazz-
-zfaka-putta.
+Sawavasi, in assent to the venerable Yasa Kakazzzfaka-putta.
 
 Then about sixty Bhikkhus from the Western
 country, all of whom were hermits, all of whom
-lived only on alms, all of whom dressed only in cast-
-off clothes, and kept only three robes, and all of
+lived only on alms, all of whom dressed only in castoff clothes, and kept only three robes, and all of
 whom were Arahats, assembled together at the
 Ahogahga Hill. And about eighty-eight from
 Avanti and the Southern country, some of whom
@@ -21040,8 +18352,7 @@ Ahogahga Hill.
 
 9. And the Thera Bhikkhus, consulting together,
 came to this conclusion : ‘ This legal question, now,
-is hard and subtle. How can we obtain such sup-
-port that we may have the greater power at the
+is hard and subtle. How can we obtain such support that we may have the greater power at the
 decision thereof 3 ?’
 
 
@@ -21050,13 +18361,9 @@ decision thereof 3 ?’
 2 Compare below, XII, 2, 1.
 
 
-396 JHJLLAVAGGA. XII, I, 10.
-
 Now at that time the venerable Revata was
-dwelling at Soreyya, and he was wise in the .tra-
-ditions, one who had learned the Agamas (the four
-Nikayas), and knew by heart the phamma, the Vi-
-naya, and the Matikas ; intelligent, discreet, and wise,
+dwelling at Soreyya, and he was wise in the .traditions, one who had learned the Agamas (the four
+Nikayas), and knew by heart the phamma, the Vinaya, and the Matikas ; intelligent, discreet, and wise,
 modest, conscientious, devoted to the precepts \ And
 the Thera Bhikkhus thought that if they could gain
 him over to their side, they would attain their end.
@@ -21073,16 +18380,13 @@ me go on before them.’
 
 So the venerable Revata went from Soreyya to
 Sawkassa. And when the Thera Bhikkhus went to
-Soreyya, and asked : ‘ Where is the venerable Re-
-vata?’ they said : ‘ He is gone to Sawkassa.’
+Soreyya, and asked : ‘ Where is the venerable Revata?’ they said : ‘ He is gone to Sawkassa.’
 
 Now the venerable Revata had gone on from
 Sa»dcassa to Ka«?zakugfa. And when the Thera
 Bhikkhus came to Sawkassa, and asked : ‘ Where is
 the venerable Revata ? ’ they said : ‘ He is gone on
-to Ka«raakugfa.’ And in the same way they fol-
-lowed him thither, and to Udumbara, and to Agga-
-lapura, and to Saha^ati, and there they met with the
+to Ka«raakugfa.’ And in the same way they followed him thither, and to Udumbara, and to Aggalapura, and to Saha^ati, and there they met with the
 venerable Revata.
 
 io. And the venerable Sambhuta Sa«avhsi said
@@ -21099,13 +18403,8 @@ XII, i, io.
 ON THE COUNCIL OF VESAit.
 
 
-397
-
-
-‘Friend, the brother Revata is wise in the tradi-
-tions, has learnt the Agamas, knows by heart the
-Dhamma, the Vinaya, and the Matikas, he is intelli-
-gent, discreet, and wise, modest, conscientious, and
+‘Friend, the brother Revata is wise in the traditions, has learnt the Agamas, knows by heart the
+Dhamma, the Vinaya, and the Matikas, he is intelligent, discreet, and wise, modest, conscientious, and
 devoted to the precepts. If we ask the venerable
 Revata a puzzling question, he is capable of spending
 the whole night on that one question. And even
@@ -21207,8 +18506,7 @@ or my teacher (aiariya) has practised that?” ’
 some not 2 .’
 
 
-1 Vaggena. See our note on the 21st Pa/dttiya, and iTulla-
-vagga V, 2, 1.
+1 Vaggena. See our note on the 21st Pa/dttiya, and iTullavagga V, 2, 1.
 
 2 That is, of course, according as the thing enjoined is, or is not,
 
@@ -21217,9 +18515,6 @@ XII, I, 10.
 
 
 ON THE COUNCIL OF VESAlI
-
-
-399
 
 
 ‘ Is the churn-license, Lord, allowable ?’
@@ -21261,12 +18556,10 @@ that which is Dhamma is put aside ; before that
 which is not Vinaya is spread abroad, and that which
 is Vinaya is put aside ; before those who argue
 against the Dhamma become powerful, and those
-
 lawful Eka^/fo kappati ti idaw dhammika?« ikuinzm sandhaya
 \utta?«, says Buddhaghosa.
 
-1 That is, which is neither liquid nor solid something appa-
-rently like buttermilk.
+1 That is, which is neither liquid nor solid something apparently like buttermilk.
 
 2 It is a question constantly arising under the excise laws m
 India and Ceylon, whether the liquor in the case has become
@@ -21274,15 +18567,10 @@ arrack, or is only arrack in the making, and unfermented. This
 last is called unfermented toddy.
 
 
-400
-
-
 JHJLLAVAGGA.
 
 
 XII, 2, I,
-
-
 who argue in favour of the Dhamma become weak ;
 before those who argue against the Vinaya become
 powerful, and those who argue in favour of the
@@ -21299,8 +18587,7 @@ Here ends the First Portion for Recitation.
 
 i. Now the Vaggdan Bhikkhus of Vesili heard
 the rumour : ‘Yasa, they say, the son of Kakam/aka,
-wishing to take this legal question in hand, is seek-
-ing about for support, and support they say he is
+wishing to take this legal question in hand, is seeking about for support, and support they say he is
 succeeding in getting.’ And they thought : ‘ This
 legal question, now, is hard and subtle. How can
 we obtain such support that we may have the
@@ -21309,13 +18596,11 @@ greater power at the decision thereof 1 ? ’
 And they thought : ‘ The venerable Yasa, who
 dwells at Soreyya, is wise in the traditions, and is
 one who has learnt the Agamas, who knows by
-heart the Dhamma, the Vinaya, the Matikas, is in-
-telligent, discreet, and wise, modest, conscientious,
+heart the Dhamma, the Vinaya, the Matikas, is intelligent, discreet, and wise, modest, conscientious,
 and devoted to the precepts. If we could gain him
 over to our side, we should attain our end.’
 
-Then the Vaggian Bhikkhus of Vesili got to-
-gether much property, requisites, a number of things
+Then the Vaggian Bhikkhus of Vesili got together much property, requisites, a number of things
 of the Samaras’ life — to wit, bowls and robes, and
 rugs, and needlecases, and girdles, and filters, and
 regulation-pots 2 . And, taking this property with
@@ -21329,9 +18614,6 @@ XII, 2 , 3 .
 
 
 ON THE COUNCIL OF VESAlL
-
-
-401
 
 
 them, they went up stream by boat to Saha^ati, and
@@ -21354,8 +18636,7 @@ perceived how this doubtful problem had arisen in
 the venerable SaZ 4 a’s mind, and as quickly as a
 strong man could stretch forth his bent arm, or draw
 it in again when it was outstretched, so quickly did
-that deity vanish from the Pure Abode, and ap-
-peared before the venerable Sa/Z^a ; saying to him .
+that deity vanish from the Pure Abode, and appeared before the venerable Sa/Z^a ; saying to him .
 
 ‘ Thou art quite right, Sa/Z^a ; it is the Eastern
 Bhikkhus whose opinions are against the Dhamma,
@@ -21364,8 +18645,7 @@ therewith. Do thou, therefore, O Sa/Zia, even as
 the Dhamma is, so take thy stand ! ’
 
 ‘ Both formerly, O deity, and now, also, do I take
-my stand even as the Dhamma is. Notwithstand-
-ing, I shall not make manifest my opinion until (the
+my stand even as the Dhamma is. Notwithstanding, I shall not make manifest my opinion until (the
 Sawgha) shall have appointed me (judge) over this
 question V
 
@@ -21379,12 +18659,6 @@ with them the aforesaid property, went to the place
 
 
 Compaie below, § 6.
-
-
-402
-
-
-rULLAVAGGA.
 
 
 XII, 2, 3 .
@@ -21406,8 +18680,7 @@ these requisites of a Samawa’s life.’
 
 But he made the same reply.
 
-Then they said : ‘ People used to offer such re-
-quisites to the Blessed One. If he received them,
+Then they said : ‘ People used to offer such requisites to the Blessed One. If he received them,
 they were happy. If he did not receive them, they
 used to offer them to the venerable Ananda, saying,
 “ Let the venerable Thera receive these requisites
@@ -21434,8 +18707,6 @@ whereas the Bhikkhus of the West do not.’ ” ’
 2 Visativasso; that is, since his upasampada.
 
 
-XII, 2, 4 • ON THE COUNCIL OF VESALl. 4O3
-
 ‘ Even so, Sirs,’ said the venerable Uttara, in
 assent to the Vag^ian Bhikkhus of Vesali. And he
 went to Revata, and told him what they had said.
@@ -21460,8 +18731,7 @@ me, O Bhikkhu, to what is against the Dhamma.” ’
 ‘Then do we take the nissaya under you as
 your pupils 1 2 3 .’
 
-4. Now the Sawgha met together with the in-
-tention of deciding the legal question. And the
+4. Now the Sawgha met together with the intention of deciding the legal question. And the
 venerable Revata laid a resolution before the
 Sawzgha, saying,
 
@@ -21478,18 +18748,11 @@ Compai e *M ahavagga I, 27, 2, where the word is used of the
 formal dismissal or turning away of a pupil.
 
 2 Garu-nissayaw garch&ma; on which Buddhaghosa has
-nothing, though the phrase does not occur elsewhere in the Khan-
-dhakas.
+nothing, though the phrase does not occur elsewhere in the Khandhakas.
 
 3 Compare the 63rd PaZ’ittiya.
 
 D d 2
-
-
-404
-
-
-rULLAVAGGA.
 
 
 XII, 2 , 5.
@@ -21500,8 +18763,7 @@ the intention of settling the matter there.
 
 Now at that time the eldest Thera in the world,
 Sabbakhmi by name, one who was of a hundred and
-twenty years’ standing from the date of his upasam-
-pada, and who had been a pupil 1 of the venerable
+twenty years’ standing from the date of his upasampada, and who had been a pupil 1 of the venerable
 Ananda, was living at Vesali. And the venerable
 Revata said to the venerable Sambhuta Sa;;avisi :
 
@@ -21523,8 +18785,7 @@ rest. And the venerable Sabbakami, thinking,
 ‘ This Bhikkhu, though a traveller and tired, does
 not care to sleep,’ did not go to rest.
 
-5. Then when the night was far spent, the vene-
-rable Sabbakami said to the venerable Revata :
+5. Then when the night was far spent, the venerable Sabbakami said to the venerable Revata :
 
 1 By what manner of life, beloved one, have you
 lived now these so many years ?’
@@ -21546,13 +18807,9 @@ XII, 2, 6 .
 ON THE COUNCIL OF VESALI.
 
 
-405
-
-
 ‘ Even long ago, Sir, when I was a layman, was
 much love laid up in my heart, therefore is it that
-now also I live much in the sense of love, and in-
-deed since long I have attained to Arahatship. And
+now also I live much in the sense of love, and indeed since long I have attained to Arahatship. And
 by what manner of life have you lived now these
 many years ? ’
 
@@ -21560,14 +18817,12 @@ many years ? ’
 worldly things) have I, beloved one, lived these
 many years.’
 
-‘ They say that you, honoured friend, have con-
-tinued thus by the sense of being a man born to
+‘ They say that you, honoured friend, have continued thus by the sense of being a man born to
 greatness 1 ; and that indeed, honoured friend, is the
 same feeling, (I mean) the sense of the emptiness
 of things.’
 
-‘ Even long ago, beloved one, when I was a lay-
-man, had I a strong sense of the emptiness of
+‘ Even long ago, beloved one, when I was a layman, had I a strong sense of the emptiness of
 things, therefore is it that now also I live much in
 that feeling, and indeed since long I have attained to
 Arahatship.’
@@ -21591,9 +18846,6 @@ Senart’s ‘Ldgende du Buddha,’ pp. 54, 107
 Childers, p. 32.
 
 3 The text repeats XII, 1, 1.
-
-
-406
 
 
 AULLAVAGGA.
@@ -21626,24 +18878,20 @@ make manifest my opinion until (the Sawgha) shall
 have appointed me (referee) over this question Y
 
 ‘ The conclusion to which I also have come, Sir, as
-I lay over in my mind the Dhamma and the Vi-
-naya, is this — that the Bhikkhus of the East hold an
+I lay over in my mind the Dhamma and the Vinaya, is this — that the Bhikkhus of the East hold an
 opinion that is not in accordance with the Dhamma,
 •while the Bhikkhus of the West are in accord with
 the Dhamma. Notwithstanding, I do not intend to
 make manifest my opinion until (the Samgha) shall
 have appointed me (referee) over this question.’
 
-7. Then the Sawgha met together with the in-
-tention of enquiring into this legal question. But
+7. Then the Sawgha met together with the intention of enquiring into this legal question. But
 while they were enquiring into it, both was much
 pointless speaking brought forth and also the sense
 
 
 1 Compare above, § 2.
 
-
-XII, 2, 7 - ON THE COUNCIL OF VESAlL 407
 
 in no single speech was clear 1 2 . Then the venerable
 Revata laid a resolution before the Saz//gha :
@@ -21687,15 +18935,6 @@ an occasion.
 2 UbbahikSya. See the passage quoted in the last note.
 
 
-408
-
-
-iTULLAVAGGA.
-
-
-XII, 2, 8.
-
-
 ever of the venerable ones approves thereof, let him
 keep silence. Whosoever approves not thereof, let
 him speak. The delegation is made accordingly.
@@ -21718,13 +18957,11 @@ proceeded to enquire into the question.
 before the Sa»zgha 2 : ‘ Let the venerable Sawzgha
 hear me. If it seem meet to the Sawgha, I will
 question the venerable Sabbakdmi as touching the
-Vinaya.’ And the venerable Sabbakimt laid a reso-
-lution before the Sa?7zgha : ‘ If it seem meet to the
+Vinaya.’ And the venerable Sabbakimt laid a resolution before the Sa?7zgha : ‘ If it seem meet to the
 Sawgha, I, when asked by Revata touching the
 Vinaya, will give reply.’
 
-And the venerable Revata said to the vener-
-able Sabbakami: ‘Is the horn-salt-license, Lord,
+And the venerable Revata said to the venerable Sabbakami: ‘Is the horn-salt-license, Lord,
 allowable ?’
 
 1 Asana-paiwiapakaw. This office is not mentioned m the
@@ -21732,14 +18969,11 @@ other Khandhakas. We should expect to find it at ^ullavagga VI,
 2 i, 2 . The reason of this is that it is no office of authority. The
 different referees uould take their seats in the order of their
 seniority, and all that the asana-para/iapaka would have to do
-would be to see that they were provided with everything they re-
-quired (it was not much, chiefly mats or rugs to sit upon) in the
+would be to see that they were provided with everything they required (it was not much, chiefly mats or rugs to sit upon) in the
 hall or grove where they met.
 
 2 Here, of course, consisting of the eight referees.
 
-
-XII, 2, 8. ON THE COUNCIL OF VESALt. 409
 
 ‘ What, Sir, is this horn-salt-license ? ’
 
@@ -21769,8 +19003,7 @@ Master. Thus do I cast the first vote.’
 
 ‘ What, Sir, is this two-inch-license ? ’
 
-‘ Is it allowable, Lord, to eat the midday meal be-
-yond the right time, provided only that the shadow
+‘ Is it allowable, Lord, to eat the midday meal beyond the right time, provided only that the shadow
 of the sun has not yet turned two inches ? ’
 
 ‘ No, Sir, it is not allowable.’
@@ -21861,9 +19094,6 @@ the Master. Thus do I cast the fourth vote.’
 referred to is MahavaggaTI (the Uposatha Khandhaka), 8, 3.
 
 
-XII, 2, 8.
-
-
 ON THE COUNCIL OF VESAlL
 
 
@@ -21923,9 +19153,6 @@ Khandhaka (Mahtvagga IX, 3, 5).
 2 See the note above on XII, 1, 10
 
 
-412
-
-
 JsTULLAVAGGA.
 
 
@@ -21982,9 +19209,6 @@ Master. Thus do I cast this eighth vote.’
 
 
 1 Psiiittiya XXXV. 2 Pa&ttiya LI.
-
-
-XII, 2, 8.
 
 
 ON THE COUNCIL OF VESALi.
@@ -22047,17 +19271,12 @@ XII, i, io.
 3 The 1 8 th Nissaggiva Pa&ttiva.
 
 
-A'ULLAVAGGA.
-
-
 XII, 2 , 9.
 
 
 ‘ 1 This legal question, Sir, has been concluded ;
-and being settled, it is settled once for all. Never-
-theless, Sir, do you question me on these ten points
-in the midst also of the Saragha 2 3 , in order to per-
-suade those Bhikkhus V
+and being settled, it is settled once for all. Nevertheless, Sir, do you question me on these ten points
+in the midst also of the Saragha 2 3 , in order to persuade those Bhikkhus V
 
 So the venerable Revata questioned the venerable
 Sabbakami on the ten points also in the midst of the
@@ -22065,8 +19284,7 @@ Sa»zgha, and as he was questioned on one after the
 other, the venerable Sabbakami gave reply.
 
 9. Now whereas at this rehearsal of the Vinaya
-seven hundred Bhikkhus, without one more, with-
-out one being wanting, took part, therefore is that
+seven hundred Bhikkhus, without one more, without one being wanting, took part, therefore is that
 rehearsal of the Vinaya called ‘ That of the seven
 hundred 4 .’
 
@@ -22116,7 +19334,6 @@ Chapter
 
 6. Pa/^ama-bha^avara?#
 
-14
 
 M
 
@@ -22124,18 +19341,12 @@ M
 
 14. Dutiyaka-bha^avaraw ....
 
-24
-
-10
-
-33
 
 21. Umvela-paZihanyaw tatiyaka-bha-
 
 
 ;2avara m vXtiM&m
 
-35
 
 1 r
 
@@ -22143,49 +19354,28 @@ J)
 
 24 ATatutthaka-bh. niZZ/ntaw . . .
 
-44
-
-9
-
 
 30. UpaggMya - vatta - bh. mZZ/ntaw
-
-
 paiU’amaw ... . .
 
-58
-
-14
 
 it
 
 33. KhvJthwn bha?zavai %.m . . .
 
-61
-
-0
 
 it
 
 38. S attain a^ bhawavara?^ ....
 
 7 i
-
-10
-
 it
 
 53. Abhayuvara-bh. mUKxi&ni , .
 
-81
-
-10
 
 it
 
-79
-
-98
 
 ? i 7
 
@@ -22196,16 +19386,8 @@ Chapter
 
 16. Aima-titthiya-bh. mtilnXwn . .
 
-115
-
-16
-
 
 27. ATo dan a- vatth u-bh . mtthiiwi . .
-
-128
-
-13
 
 
 „ 36. Uposatha-khandhake tatiya^ bha-
@@ -22225,14 +19407,7 @@ Chapter 6. Pa/^ama-bh. ni/Z/ntara .... 164 9
 „ 18 178 14
 
 Khandhaka V has no Bha;/a\aias, and ends in the
-
 text on page .198
-
-
-20
-
-
-416
 
 
 JTULLAVAGGA.
@@ -22265,13 +19440,9 @@ Chaptei 1. Pa/^amaka-bh. ... 281 14
 
 Khandhaka IX.
 
-Chapter 4. Vasabha-gama-bha;;avara;^pa/^a-
+Chapter 4. Vasabha-gama-bha;;avara;^pa/^araa m 322 n
 
-raa m 322 n
-
-„ 6. Upali-pu&fcM-bhawavaiaw duti-
-
-ya m . 328 6
+„ 6. Upali-pu&fcM-bhawavaiaw dutiya m . 328 6
 
 » 7 333 5
 
@@ -22292,84 +19463,52 @@ Khandhaka V.
 
 Chapter 21. Dutiya-bha;zavara??/ . . .
 
-129
-
-25
 
 v 37 *
 
 M 3
 
-14
 
 Khandhaka VI.
 
 
 Chapter 3. Bha^avara;;* miiKiX&m pa/£amaw
-
 i 54
 
-9
 
 „ 11. Dutiya-bha 7 zavara;;z . . . .
 
-167
-
-13
 
 „ 2 1.
 
 m
 
-10
 
 Khandhaka VII.
 
 
 Chapter 2. Pa/^amaka-bhd^avaraw mtthit&m
 
-188
-
-9
 
 „ 3. Bha#avara7/z mtthil&m dutiyaw .
 
-198
-
-10
 
 „ 5. Bha?zavara?# mtthit&m tatiya?#
 
-206
-
-8
 
 Khandhaka VIII.
 
 
 Chapter 4. Bha^avaraw pa/^amaw . . .
 
-215
-
-8
 
 „ 12. Dutiya~bha?zavara??z
 
-231
-
-16
-
-14
-
-231
 
 —
 
 
 NOTE ON THE B HAN’ AVAR AS.
-
-
-417
 
 
 Khandhaka IX.
@@ -22403,8 +19542,7 @@ Afullavagga VII and X. In the Mahavagga fourteen of the
 Bhazzavaras have special titles, independent of their number m the
 particular Khandhaka.
 
-2 Probably two Bhazzavaras in Mahavagga V, all the Bhazza-
-varas in ATullavagga I-IV, and the fiist in Zullavagga V, are not
+2 Probably two Bhazzavaras in Mahavagga V, all the Bhazzavaras in ATullavagga I-IV, and the fiist in Zullavagga V, are not
 noticed in the printed text.
 
 3. Making allowance for these we have in the Mahavagga
@@ -22434,9 +19572,6 @@ use of the word.
 [20J B £
 
 
-418
-
-
 isfULLAVAGGA.
 
 
@@ -22457,5611 +19592,10 @@ literature contained in the Abhidhamma Pi/aka (including all
 those m the Khuddaka Nikaya) as yet published.
 
 7. The division into Bhazzavaias is not made use of in many
-books of the Pi/akas themselves, or in the fifth-century commen-
-tanes of Buddhaghosa and others. In the Sutta-vibhaiiga it is
+books of the Pi/akas themselves, or in the fifth-century commentanes of Buddhaghosa and others. In the Sutta-vibhaiiga it is
 only used m Paia^ikas I— III, and in the Panvaia not at all. When
 Spence Hardy says theiefore (loc. cit. p. 172) that the Pi/akas and
-commentaries combined contain 5347 Bhazzavaias, he must be le-
-fernng to a mere calculation and not to the actual use of the MSS.
+commentaries combined contain 5347 Bhazzavaias, he must be lefernng to a mere calculation and not to the actual use of the MSS.
 On the other hand, the fact of Bhazzavaras being used m the
 Dipava/?2sa and the Khudda-sikkha may possibly afford some clue
 to the age m which those works were composed.
-
-
-INDEX TO VINAYA TEXTS,
-
-PARTS I, II, III.
-
-VOLUMES XIII, XVII, XX.
-
-
-e e 2
-
-
-INDEX OF SUBJECTS.
-
-
-References to the introduction are m Roman numerals only, those to
-the Text have P., 3 \I , or IC. piefixed, according as they occur in the Pati-
-mokkha, the Mahavagga, or the XTullavagga, respectively. The nume-
-rals refer after P to the pages, after M. and K, to the chapteis and
-sections.
-
-
-Absolution, M. li, 27; K. iv, 1 30-
-
-32 ; v, 20, 5 ; vn, 37.
-
-Abuse, P. 32 ; K \, 22, 1.
-Accoucheur, M. \m, 1, 4
-Acquittal of the consciously inno-
-cent, K 1, 4.
-
-Age, when it begins to run, hi. 1, 75
-Agriculture foi bidden to Bhikkhus,
-P 33 .
-
-
-— blight and mildew, K. \, 1, 6
-
-— scare-crows, M 1, 50.
-
-— ploughshares, M vi, 26, 7.
-
-— - gleaning, M.\i, 32, 1
-
-— shape of 1 ice-fields, M. \m, 12
-
-— list of farming operations, K, vn,
-
-
-1, 2.
-
-Ague, intermittent, M ¥1,14,4; M.
-1, 6, 1, 2.
-
-Alligator’s fat, as medicine, RIai, 2, 2.
-Ambrosia of Arahatship, INI. 1, 5, 7,
-12 ; 6, 8, 12.
-
-Animals, conduct towards, P. 46;
-M. 111, 1.
-
-— not to be members of the order,
-
-M. i, 63 ; 11, 22, 3.
-
-— not to be killed, M. v, 9, 2 ; 10,
-
-9 ; vi, 31, 14.
-
-— various, not to be eaten, hi. vi,
-
-23.
-
-— song of love to, K. v, 6.
-Annihilation, sense m which Bud-
-dha teaches, M. vi, 31, 7.
-
-Aperient myrobolan, M. vm, 1,28.
-Arahatship, M. v, 1, 18-28 ; K. 1, 4,
-1 ; xn, 2, 5.
-
-
-Architecture (see also Rest-house)
-Buddhist Vihara, size of, P. 8, 9.
-
-— building of, P. 35 ; K. vi, 4, 10;
-
-vi, 5 ; \i, 17.
-
-— cleansing of, M 1, 25, 15.
-
-— rooms, various, M 1, 25, 1 9 ; K.
-
-vi, 33, 6.
-
-— buildings, list of various, M.
-
-111, 5, 6 , K vi, 10, 4.
-the fi\e kinds of, M. 1, 30, 4 ;
-11, 8, 1; vi, 33, 2 , Mh, 7,
-K. vi, 1, 2
-
-— earthenware huts, M. 111, 12,9;
-
-K. v, 37.
-
-— loomsheds, K. v, 11, 6.
-
-— roofs of skins, XT. v, 11,6; 14,
-
-2 ; vi, 2, 2 ; other kinds, K.
-vi, 3, 11.
-
-— doors, drams, chimneys, K. v,
-
-I 4? 3; vi, 1, 2; 3, 8.
-
-— wells, building and machinery
-
-of, K. v, 1 6, 2.
-
-— artificial lakes, K. v, 17.
-
-— windows, K vi, 22 ; vm, 3, 5
-
-— plastering, &c., of walls, K. vn
-
-3 s 1.
-
-— ceiling cloth, K . vi, 3, 5.
-
-— entrance porch, K. v, 14-4;
-
-vi, 3 s 9 s 10.
-
-— verandahs, K. vi, 14.
-Anthmetic, M. 1, 49.
-
-Asceticism, definition of Buddhist,
-
-M. vi, 31, 8.
-
-Assemblies, fortnightly, duty of at-
-tending, M. 11, 1.
-
-
-VINAYA TEXTS,
-
-
-Astringent herbs, list of, M. \i, 4
-Astrology condemned, AT v, 33, 2
-Astronomy, elementary, to be learn-
-
-
-ed, A. vin, 6, 3„
-
-
-Back scratcher, A. v, /, 4.
-
-Banishment of guilty Bhikkhus, AT
-h n-17.
-
--Sax-bers, M. v>, 37 ; K v, 27 , 3;
--bhikkhunis net to be, X. x,
-I0 > 4*
-
-Bark garments forbidden, M. vin,
-28, 2. J
-
-Barter, P. 21-24, when allowed to
-Bhikkhus, A. vi, ig.
-
-IBaihing P. 44; M. 1, 25, I2 ; v , 13,
-6 ; K. vni, 4) 2.
-
-Shampooing, A. v, r.
-
-Steam baths, M. vi, 14, 3 , A
-r 4, r, 3.
-
-— etiquette in, AT viii, 8 ; forbidden
-to Bhikkhunis, AT. x, 27, 4.
-Bathing dresses for nuns, M. vm,
-*5, u
-
-Rules for Bhikkhunis at the bath
-AT x, 27. *
-
-Forbidden methods of, A. v, r,
-
-— in the open air, AT. v, 17. ’
-
-Beans, eating of, M. vi, 16.
-
-Rears’ fat as medicine, M vi, 2, 2
-Beasts of prey, M. m, 9 , x .
-
-Bedsteads, AT. vi, 2, 3 ; form of, A.
-
-nil, 1, 4
-
-Bewitched, cure for those, M vi
-143 7 * ^ ’
-Bhikkhunis, eight chief rules for,
-K. x, 1, 4 ; six rules for novices,
-ibid ; rules for reciting the Pati-
-mokkha before, x, 6, 1 ; dis-
-ciplinary proceedings against,
-x, 6, 3 ; settlement of disputes
-among, x, 7; inhibition of, x,
-
-9j 2 ; exhortation of, x, 9, 3 ;
-girdles, x, 10; shampooing, x,
-
-? J.^ res s of, x, 4, x, 16 ; devo-
-lution of property of, x, 1 1 ; dis-
-qualifications for initiation as,
-x, 17, 1; rules for initiation, x,
-l p K > 20 J rules for Pavara^a
-°r, x, 19; children of, x, 25. 1,
-
-2 ; reinitiation of, x, 26.
-
-Bladder, rice-milk good for the, M.
-
-tvt 2 4> 5-
-
-Bleedmg, surgical, M. vi, 14, 4 .
-Bolsters, A. vi, 2, 7.
-
-
-Boots, various forbidden kinds of
-M. v, 2, 3.
-
-’ Border countries, list of, M. v, 1 -
-12. 1
-
-Bowls, wooden, forbidden, K v
-
-8 , 2 „
-
-— of iron fnd clay allowed, K v
-
-9, 1. 4 ’
-
-— not to be painted, A. v, 9, 2.
-
-— 'tinning down * of, A. v, 20.
-proper modes of cairymg, A,
-
-ui, 3) 2 j 6, 3 «
-
-Boy-Bhikkhus, M. i, 49.
-
-Brahman used for Arahat, M 1, 1(
-3, 7 ; M. i, 2, 3.
-
-Brass, A. v, 37 , 1.
-
-Brooms, A. v, 22.
-
-Buddha, a, description of, M. 3, 22,
-2 > 34, 11.
-
-Cannibalism, M. vi, 23, 9 ,
-
-Castration forbidden, A. v, 7,
-Casuistry, A. v, 33, 2.
-
-Chain ot Causation, M i, 1 2 .
-Chans, M. v, 11 ; AT vi, 2, 4 ; vi, 8.
-Chapter of five Bhikkhus, M. ix 1
-
-— of ten, M i, 31, 4 ,
-
-— of twenty, P. 14.
-
-Chicken, fable of, A. 1, 18, 4.
-
-Chun am, M.vi, 9 , 2 ; K. v, i- 2 ; no t
-
-to be used at the bath by Bhik-
-
-khunis AT. x, 27 , 4.
-
-Civil law, M. vi, 3 , 9 ; A. iv, 9 ; vi,
-
-4? r o.
-
-Cloister, use of, for exercise, A. v,
-T 4? i*
-
-Cloths, not to be walked on, A. v,
-
-21, 2, j '
-
-Clyster, use of, forbidden, M. vi,
-
-22, 4.
-
-Cobras’ hoods as ornament, M. vin,
-29.
-
-Cobwebs, M. i, 25, 15.
-
-Commentary, the Old, xvi.
-
-Common property of the order, A
-vi, x 5 .
-
-Concealing offences, A. in, passim.
-Conscience, AT i, 4, 9.
-
-Conversion, M. 1, 7, 10.
-
-Corpse, belief that the sea always
-throws out a, A. vni, 1, 3.
-
-C0 Tr nci L°C R % agaha ’ K * X1 > Passim,
-Vesali, A. xii, passim.
-
-Covering over as with grass, K 1
-
-
-INDEX OF SUBJECTS.
-
-
-423
-
-
-Coveilets, used m South India, M.
-v, 13, 6.
-
-Cow and calf, story of, M v, 10.
-Crocodiles' teeth as pins, K. v, 1, 4;
-v, 9? 2.
-
-Cupping, for fever, M vi, 14, 4.
-Curds, not to be eatc« after mid-
-day, K. xu, 1, io.
-
-Cuttle-fish bones tor soup, K. v, 22.
-
-
-Dangers, the ten, M. li, 15, 4; 11,
-35 ; K. ix, 3, 4.
-
-Date of the Vmaya, xxi.
-
-Debtors, imprisonment of, hi 1, 46.
-
-Dedication by water, hi 1, 22, 18.
-
-Demons tioublmg Bhikkhus, M 111,
-9, 2.
-
-Devil- worshippers, K. v, 10, 2 ; v,
-27, 5
-
-Disabilities, the eighteen, of a Bhik-
-khu, K. 1, 5.
-
-Discourse, to laymen, M. i, 75, 6.
-
-— to the Bhikkhus, M. 1, 25, 6 ; v,
-
-h 9 5 K m, 4) 5 ; b 1 , 3 .
-
-Diseases, the five, hi 1, 39 ; 1, 76, 1.
-
-Disqualifications, the twenty-three,
-after initiation, hi 11, 36 ; iv,
-14; vin, 30.
-
-— for initiation of men, M 1, 76.
-
-— of women, K. x, 17, 1.
-
-Dogs, not to be eaten, hi. vi, 23, 12.
-
-Doubts of conscience, M. 111, 6, 4.
-
-Drams for water, K v, 14; v, 16;
-v, 17.
-
-Dress, P. 18-24, 28-30, 45, 54; M.
-vn, vin, passim ; \m, 4, n. , K . v,
-29 ; of women, K x, 10.
-
-Drinks, list of, allowable, M. vi,
-
-35? 6 -
-
-Dung, medical use of, M. vi, 9 ; vi,
-14, 6.
-
-Dwarfs, K. iv, 14, 5.
-
-Dyeing robes, M. 1, 26, 11 ; vm, 10.
-
-
-Earth, diving into the, M. v, 1, 5.
-Elephants, speaking, M. vi, 20, 2.
-
-— not to be eaten, M. vi, 23, 10.
-
-— fable of the old and young, K.
-
-vn, 4, 5.
-
-— story of the rogue, K. vii, 3, 11.
-
-— of men=Buddha, K. vii, 3, 12.
-Embryo, consciousness of, M. 1, 75.
-Emissary, eight qualifications of a
-
-good, K. vii, 3, 6.
-
-
-Emptiness of worldly things, K xii,
-2, 5.
-
-Etiquette, rules of, P. 59-67 ; hi.
-vi, 36, 4, K. vi, 13; on armal
-at a Vihaia, vm, x; at meals,
-vm, 4 ; when on begging lounds,
-vm, 5, towards fellow -lodgeis,
-\m, 7.
-
-Eunuchs, hi 1, 3S, 5 ; 1, 61 ; 111, n,
-
-4 , K. v, 7.
-
-Exhortation of Bhikkhunis, P 35,36
-Expulsion of Bhikkhus, hi. 1, 60.
-
-— of a nun, iU. 1,4,9
-Extremes, the two, hi. 1, 617
-Eye of the Truth, hi. 1, 7, 6
-— -ointments, hi vi, tx.
-
-
-Fairies, curious belief as to, hi. vi,
-28, 8.
-
-Faith, works, and insight, hi. v, 1,
-21-25.
-
-False charges, P. 9, 10.
-
-False pretensions, P 5
-
-Famine, hi. vi, 19, 2 ; vi, 52, 2 ; K
-vi, 21.
-
-Fat, as medicine, hi. vi, 2.
-
-Feathers, not to be m>cd for dress,
-hi. vm, 28, 2.
-
-Feet, washing of, M i, 25, it.
-
-— the Buddha washes disciples, hi.
-
-
-x ’ 4 > 3 *
-
-Festivals, the ashmka, hi. 1, 20, 15
-Fever, M vi, 14, 4 ; cure foi, hi. vi,
-20
-
-Fines of money, hi. \i, 36, 1.
-
-Fire, sacred, M. i, 15, 2.
-
-— sacrifice to, hi. 1, 20, 19; vi, 35, S.
-
-— sei mon on, M 1,21.
-
-— by friction, K. vm, 6, r.
-
-Fistula, hi. vi, 22 ; vm, 1, 14, K. v,
-
-
-27, 4.
-
-
-Flowers, right and wrong use of, K.
-v, iS.
-
-Fly whisks, three kinds of, allowed,
-K.v, 23.
-
-Food, P. 37-42, 56, 57; X. v, 5 ;
-
-
-vn? 5-7-
-
-Freedom, M. i, 6, 46 ; 1, 7, 11 ; 1,
-11, 1 ; K . vi, 4, 4.
-
-Frescoes, K. vi, 3, 2.
-
-Fruits, which, may be eaten, K. vi, 5.
-Furniture, P. 34, 53, 54; M. i, 25,
-16 ; K, v, 19 ; v, 37 ; vi, passim.
-— list of, m aVihara, Akvin; 1,3; 3,3.
-Future life, hi. v, 1, 20.
-
-
-424
-
-
-VINAYA TEXTS.
-
-
-Gall bladder, K. vn, 2, 5.
-
-Games, list of, forbidden to Bhikkhus,
-K. 1, 13, 2.
-
-Gems, list of the ten, K. ix, 1, 3.
-Ghost stories, M. v, 6, 3.
-
-Gift ofaVihara, M. 1, 22, iS.
-Girdles, rules for, K v, 29.
-
-Gleaning, M. vi, 32, 1.
-
-Goblins in hollow trees, M. 111, 12, 2.
-Gods envy the Arahats, K. vn, i, 6.
-Gold and silver, the Bhikkhus not to
-accept, P. 26 ; K. xn, 1-7, 10.
-Gotamaka £etiya, M. vm, 13, 2.
-Gotama’s Ford, M. vi, 28, 12.
-Gotama’s Gate, M. vi, 28, 12.
-Gotami, M. x, 5, 7 ; K. x, 1, 1 ; xi,
-1, Si-
-
-Gourds as water-pots, K. v, 10, 1.
-Gravel, K. v, 14, 3 ; v, 22.
-Grindstone, M. vi, 3, 2.
-
-Gums, medtcal, list of, M. vi, 7.
-
-
-Hair on the soles of the feet, M.
-v, 1.
-
-Hair-garments, forbidden, M. viii,
-28, 2.
-
-Hair, modes of wearing, forbidden,
-K. v, 2, 3 ; v, 27, 4-
-Handicraft allowed to Bhikkhus, K.
-v, 28.
-
-Happiness, the highest, M. 1, 3, 4.
-Harmony of mental powers, M. v,
-1, 17.
-
-Headache, cures for, M. vi, 13.
-Heresy of Bhikkhus, punishment of,
-K. i, 32.
-
-— of laymen, how to be treated, K.
-
-v, 20.
-
-Hermaphiodites, M i, 69.
-
-High places, worship on, K. v, 2, 6 ;
-
-vi, 2, 7.
-
-High treason, punishment for, M.
-
-ix, 2, 9 ; K. vn, 3, 4.
-
-Horns to carry salt in, K. xn, 1, 10.
-Horse-flesh not to be eaten, M. vi,
-23, 11.
-
-House-warming, K. v, 21.
-
-Humours, of the body, M. vi, 14 ;
-24? 5 5 viii, 1, 30; K. v, 14, 1.
-
-
-Iddhi, M. v, i, 5, 7; vi, 15, 8; of
-laymen, vi, 34 ; K. 1, 4, 4 ; v, 8 ;
-vii, 1. 4 ; 2, 1 ; 3, 2 ; of the
-Buddha, vii, 3,9; sermon on.
-
-
-vn, 4, 3 ; a lesser thing than
-Arahatship, vii, 4, 7 ; flying, K.
-xu, 1, 7.
-
-Ill-will, P. 33-
-
-Impurity, P. 7.
-
-Initiation into the order, M. 1, 12,
-4 ; 1, 2 8«-and foil.
-
-Insane offender, treatment of, K,
-h 5 *
-
-Insects, destruction of, INI. v, 6, 3.
-
-Insubordination, P. 12.
-
-Interdictions, the form, M. 1, 78.
-
-Intoning, K. v, 3.
-
-Inwaid struggles, M. 111, 6, 3.
-
-Iron, M. vi, 26, 7.
-
-Itch-cloth, M. vm, 17.
-
-
-Jails, public, M. i, 42.
-
-Jains, xi.
-
-Jaundice, M. vi, 1 ; vi, 14, 7 ; vm,
-1, 23
-
-Jewelry for men, K. v, 2, t.
-
-Judges, what four things they should
-avoid, K. iv, 9.
-
-— what ten characteristics they
-should hase, if. iv, 14, 19.
-
-Judicial office, four qualifications
-for, K. 1, 9.
-
-Jury m different cases, K . iv, 14, 19.
-
-
-Karma, K. vii, 3,9.
-
-Kingdom of Righteousness, M. 1, 6,
-3 °-
-
-Knives, K, v, 11, 1.
-
-
-Lamps, etiquette as to lighting, K.
-vm, 7, 4.
-
-Landmarks, M. ii, 6.
-
-Language, each Buddhist to learn
-the word m his own, K. v, 33.
-
-Lattices for windows, K. vi, 2, 2 ;
-etiquette as to, K. vm, 7, 4.
-
-Legal questions, settlement of, P.
-68, 69 ; K. i, 14.
-
-Legend of Buddha, growth of, M.
-
-h 7 , 1 *
-
-Lever used at wefls, K. v, 16, 2.
-
-Licenses, the ten, disallowed at
-Vesali, K. xn, 1, 10.
-
-Lies, P. 2, 32 ; M. 11, 7.
-
-Life begins in the womb, M. i, 75.
-
-Light (so let your light shine forth),
-M. v, 4, 2 ; ix, 2, 20 ; K, vi, 6, 4.
-
-
-INDEX OF SUBJECTS.
-
-
-425
-
-
-Lions’ flesh not to be eaten, M. vi,
-23, 14.
-
-Litigiousness, P. 46.
-
-Lodging-places, regulation of, K. 1,
-4 ; vi, 11
-
-Longing of pregnant women, M. ix,
-2, 4.
-
-Looms, K. v, 11.
-
-Love, power of, M vi, 36, 4 ; sense
-of, K. xn, 2, 5.
-
-Luck, walking over cloths for good,
-K. v, 21, 4.
-
-Luck in sneezing, K v, 33, 3
-
-Lunacy (?), M. vi, 10.
-
-Lusts, K 1, 32, 2.
-
-Lute, parable of the, M. v, 1, 15, 16.
-
-
-Madness, rules in case of, M. 11, 25.
-Magical powers (of laymen), M. vi,
-34 ? L 2.
-
-Matricide, M. i, 64, 69.
-
-Measures of capacity, M. vm, i,*ii.
-Medicaments, the five ordinary, M.
-vi, 1, 3.
-
-Medicine, P. 27 ; M. vi, passim ;
-
-school of, M. vni, r.
-
-Mice, K. vi, 12.
-
-Middle country, the boundaries of,
-M. v, 13, 12.
-
-Miracles by the Buddha, M. 1, 15-
-21 ; vi, 23, 6.
-
-Miraculous powers. See Iddhi.
-Mission of the sixty-one disciples,
-M. l, 11.
-
-Money changing, M. 1, 49.
-
-— pieces of, M, vi, 35, 1 ; via, 1, 1,
-
-3, 13; K. v, 8, 2.
-
-Mosquito curtains, K. v, 13.
-
-— fans, K. v, 23, 1.
-
-Mules, cannot produce young, K.
-
-vu, 2, 5.
-
-Murder, P. 4.
-
-
-Nails, to be cut short, K. v, 27.
-
-— custom of polishing, K. v, 27.
-Nakedness forbidden, M. 1, 70 ; viii,
-28.
-
-Names too venerable to be uttered,
-M. i, 74, 1.
-
-Needles, IC. v, 11, 2.
-
-Needle-cases, P 86 ; K.v, ti.
-Nirvana, M. 1, 5, 2 ; i, 6, 8, 17, 18 ;
-v, 1, 18, 28; K . xi, 1, 15 (see
-also Arahatship) .
-
-
-Noble eightfold path, xn ; M. 1, 6,
-18.
-
-Noble ones, discipline of, M.ix, r, 9.
-Noble states, the ten, M. 1, 22, 13.
-Noble truths, xn ; M 1, 6, 19-22;
-vi, 29.
-
-Non-human beings, M. i, 7, 3 ; a,
-15? 4
-
-— disease, M. vi, 10.
-
-Nose, giving of medicine through
-the, INI. vi, 13 , via, 1, 13.
-Novices, rules tor, M. 1, 56.
-
-— punishment of, M. 1, 57-70.
-
-Nuns (see Bhikkhunis).
-
-Ocean, parable of the, K. ix, 1, 3.
-Offences, five kinds of and seven
-kinds of, K. ix, 3, 3.
-
-Onions, not to be eaten, K. v, 34
-
-Painting the face, K . v, 2, 5.
-
-— bowls, K. v, 9, 2.
-
-— walls, K vi, 3, 2.
-
-Pancide, M. 1, 65, 69.
-
-Parishes or districts, M. 11, 6-8.
-Partridge, fable of, K . vi, 6, 3.
-Pasenadi, king, stoiy of, M. 111, 14.
-Patchwork coverlets, IC. vj , 2, 7.
-Patimokkha, x-xxm ; P. 2, 51; M.
-
-I. 36, 14; 11, 3-5, 15-21; K.
-«, 2 *
-
-Pavara;?a ceremony, M iv, passim.
-Penance and piobation, distinctions
-between, K. 11, 6.
-
-Perfumes, list of, permitted, M. vj,
-
-II.
-
-Pestle and mortar, M. vi, 9, 2.
-Pmgoes, K. v, 30.
-
-Pms and needles m one’s limbs, K.
-v, 14? 3 *
-
-Plants, injury of, M. iv, 1 ; v, 7, 1.
-
-— seeds of, not to be destroyed, K.
-
-v, 5. .
-
-Practical joking, P. 4}, 46.
-Precedent, no gtound for change of
-rules, K. xii, 1-10.
-
-Precepts, the ten, M. 1, 56.
-
-Present, who must be, at a judicial
-proceeding before the Chapter,
-K iv, 14, 16.
-
-Prevarication, P. 33.
-
-Probation, P. 14; M. 1, 38 ; K. 11,
-
-III.
-
-Property in a robe, when it passes,
-M. vm, 31.
-
-
-426
-
-
-VINAYA TEXTS.
-
-
-Propriety of demeanour, P. 59-61.
-Punishments, M. 1, 40, 3 ; 1, 44 ; ix,
-2, 9.
-
-Pupils and preceptors, duties of, M.
-1, 25-27.
-
-
-Rations, apportioner of, K . i, 4 ; vi,
-2 r.
-
-Rebuke of guilty Bhikkhus, K. 1,
-
-1-8.
-
-Reconciliation, act of, K. 1, 18-24.
-Refuges, the three, M. 1, 4, 5 ; i,
-38, 2.
-
-Requisites, the four, P. 43.
-Reservoirs, K. v, 17.
-
-Res judicata, K. iv, 14, 25.
-
-Respect, want of, P. 33.
-
-Rest-house, public, P. 37; M. vi,
-28, 3.
-
-Reviews not to be witnessed by
-Bhikkhus, P. 43.
-
-Rice-milk, praise of, M. vi, 24, 5.
-Riddles in casuistry, K. 1, 14, 15.
-Rushis, Vedic, list of, M. vi, 35, 2.
-Rivers, ancient worship of, M. v, 9,
-3 ; k. x, 2i.
-
-— list of principal, K. ix, 1, 3.
-Robes, donation of, eight grounds
-
-for, M. vni, 32.
-
-Roots, medical, lists of, M. vi, 3, 4.
-Rugs, P. 24-27; M. v, 10; K . vi,
-19.
-
-Rummator, story of the human, K.
-v, 26.
-
-Sabbath (see Uposatha).
-
-Salt, M. x, 4, 1.
-
-— various kinds of, M. vi, 8.
-Samaras, xn.
-
-Sandals, P. 66 ; K. vni, 1, 3 ; 6, 2.
-Sanitary arrangements, K. v, 35.
-Savages, M. iv, 15.
-
-Savatthi (the hymn), M. vi, 35, 8.
-Scabs, cure for, M. vi, 9.
-
-Schism, P. 10, 11 ; distinguished
-from disunion, K. vii, 5, 1.
-
-— - eighteen kinds of, K. vii, 5, 2.
-Schismatics, conduct towards, M.
-
-x, 5, 8 ; K. i, 4 ; vii, 4, 4.
-Scissors, K. vi, 21, 3.
-
-Sects, non-Buddhistic, P. 41.
-Seedlings, ancient law of, M. vi,
-39-
-
-Seeds, fruits containing life, not to
-be eaten, K. v, 5.
-
-
-Self (or soul), M. i, 6, 3S-4T.
-
-Sexual intercourse, P. 4 ; M. 1, 78.
-Shampooing, K. v, 1.
-
-Shoes, M. 1, 25, 8 ; v, 1, 29; 8, 3;
-
-v, 12 ; v, 13, 13 ; K. v, 12.
-
-Sick Bhikkhus, M. 11, 23; 111, 6 ; iv,
-3; 17,71 vm, 26, 27; K.\ 1, 10.
-
-— relatives, M. 111, 7.
-
-— Bhikkhu, story of the Buddha
-
-nursing a, M. vni, 26.
-
-Silence, vow of, forbidden, M. iv, 1.
-Singing the Dhamma forbidden, K
-
-
-v, 3-
-
-
-Skins, not to be used for dress, M.
-vm, 28, 2.
-
-— to be used for roofing, K. v, 11,
-
-
-6; 14, 3*
-
-— for water- vessels, K. v, 16, 2.
-Skulls as bowls, K v, 10, 2.
-
-Sky, walking m the, M. v, 1, 7.
-Slander, P. 32.
-
-Slaughter-house for oxen, M. v, 1,
-
-
-13-
-
-Slaves, runaway, M. i, 47.
-
-Snakes m form of men, M. 1, 3, 3 ;
-h 6 s ; vi, 23, 13.
-
-— of supernatural power, M. 1, 15.
-
-— girdle of, K. vn, 2, 1.
-
-— bite of, cure for, M. vi, 14, 6.
-charm against, K. v, 6.
-
-— not to be eaten, M. vi, 23, 13.
-
-— in houses, K. vi, 2, 5 ; vi, 3, 4 ;
-
-viii, t, 1.
-
-Sneezing, curious custom connected
-with, K. v, 33, 3.
-
-Snow, M. 1, 20, 15.
-
-Sodomy, M. 1, 52.
-
-Soldiers may not enter the order,
-M. i, 40.
-
-Sorcery, M. vi, 14, 7.
-
-Spittoon, K. viii, 1.
-
-Spoons, K. viii, 5, 2.
-
-Sporting in water, P. 44.
-
-Staves, K . v, 24.
-
-Subordination of guilty Bhikkhus,
-K. i, 9-12.
-
-Suffering, M. i, 6, 20-22.
-
-Sugar, M. vi, 26.
-
-Sunshades, K. v, 9, 5 ; v, 23 ; eti-
-quette as to, P. 65 ; K. vm,
-i) 3-
-
-Suspension of Bhikkhus, M. i, 79 ;
-K. i, 25.
-
-
-Tailor, story of his building, K.vi, 5.
-Tanks, K . v, 17.
-
-
-INDEX OF SUBJECTS. 427
-
-
-Tathagatas ( = Buddhas), habits of,
-M. 1, 4, 4.
-
-— death of, K. vn, 3, 10.
-Teetotalism, P. 44.
-
-Theft, P. 4.
-
-Thimbles, K. v, 11, 5.
-
-Thoughts, understanding their, M.
-
-h 22, 4 ; v, i, 7.
-
-T itthiyas, M. 1, 38 ; vi, 31 ; 34, 12 ;
-35, 1 ; viu, 28.
-
-Toddy drinking forbidden, K. xii,
-
-I, IO.
-
-Toleration, duty of, M. vi, 31, 11.
-Tooth-sticks, rules for, K. v, 31.
-Treasure trove, P. 53.
-
-Upanishads, x.
-
-Uposatha (seventh day), x ; FI. 11,
-passim.
-
-Validity of official acts of the Sam-
-gha, M. ix, passim.
-
-Vedas, sacred verses of, M. vi, 3 5, 2, 8
-Vehicles, use of, forbidden, M. v, 9.
-Vihara = cave, M. v, 1, 5.
-
-Voting m the Chapters of the Order,
-K. iv, 9-10 ; 14, 25 ; vn, 4.
-Vultures, training of, K. 1, 32.
-
-Walking up and down thinking, M.
-v, 1, 14 ; K. 11, 1, 4 ; v, 14, 1.
-
-
-Wandering ascetics, non-Buddhistic,
-M. 1, 23.
-
-Was, keeping of, M. 1, 13, 1 ; 111,
-passim.
-
-Waste tub, K. viii, 4, 4.
-
-Water, pouring out of, as dedica-
-tion ceremony, M. 1, 22, 18 ;
-vm, 30, 4; used as looking-
-glass, K. v, 2, 4 ; strainers, IC
-v, 13-
-
-Weapons, P. 65 ; K . v, 37, 1 ; vn,
-3> 4? 7-
-
-Wells, K. v, 16, 2.
-
-Wheel and axle machinery, K, v,
-1 6, 2.
-
-White ants, K. v, 9, 4 ; vi, 1, 2 ; vm,
-3? 2.
-
-Wind in the stomach, FI. vi, 14, 1 ;
-
-16, 3; 17; X.v, 34.
-
-Window spaces, FI. 1, 25, 15, 18;
-K. viu, 1, 5 ; three kinds of lat-
-tices for, K. vi, 2,2.
-
-Winter, FI. 1, 20, 15.
-
-Wishmg-gift, what it is, K. 1, 4, 5.
-Women, first disciples, FI. 1, 8, 3.
-
-— See Bhikkhuni.
-
-— story of the lost, FI. 1, 14.
-Worldly talk, specimens of, FI.
-
-6, 3.
-
-Woims m the head, M.viil, 1, 18.
-Writing, xxxn-xxxv; FI. 1, 49.
-
-
-INDEX. OF PROPER NAMES.
-
-
-Abhaya, M. vui, i, 4 seq., 13 seq,
-Addhakas% K. x, 22, 1.
-A^apalamgrodha, M. 1, 2, 1 ; 3, 1 ; 5,1.
-Agatasattu, K. vn, 2, 1, 5 ; 3, 4 seq ;
-xi 3 i, 7.
-
-Agga/apura, K. xii, 1, 9.
-
-Agga/ava ietiya, 7 T vi, 17, 1.
-
-Ag-ita, AT xii, 2, 7.
-
-A^ita Kesakambali, AT. v, 8, 1.
-Ahiragakulani, K . v, 6
-Ahogahga pabbata, AT. xn, t, 8.
-Aklsagotta, M vi, 22, 1.
-
-A^iravati, M. v, 9, 1; vm, 15, n;
-
-K. ix, r, 3 seq.
-
-Klava Kalama, M. 1, 6, 1, 2.
-
-A/lvaka bhikkhu, K. vi, 17, 1.
-
-A/avi, 7  T. vi, 1 7j 1 ; 21, 1.
-
-Amamissa, M. 1, 6, 3 ; vn, 1, 26.
-AmbalaftMca, A xi, 1, 7.
-
-Ambapali (°palika), M. vi, 30 ; vui,
-1, 1 seq.
-
-Ambapalivana, M. vi, 30, 6.
-
-Ananda, M. 1, 4, 9, 5 ; 51 ; 53 ; v,
-13,8; 9,1; 17; 24, passim.
-AnathapkAka, M, x, 5, 8 ; K. vi, 4 ;
-
-9. See Sudatta and Getavana.
-Andhakavmda, M. 11, 12, 1 ; vi, 24, 1 ;
-
-26, 1 ; vm, 15, 10.
-
-Andhavana, M. vm, 23, 3.
-
-Anga, M. 1, 19, 1, 3.
-
-Afigirasa, M. 1, 15, 7; vi, 35, 2.
-Anguttarapa, M. vi, 34, 17.
-Ann 3 .konda.nna, M. 1 ,6, 31 seq.
-Anotattadaha, M. 1, 19, 2, 4.
-
-Antaka, M.i, 11, 2; 13, 2 See Mara.
-Anupiya, K vn, 1, 1; 2, 1.
-Anuruddha, M. x, 4 ; 5, 6 ; K. 1, 18,
-1 ; vn, 1, 1 seq
-Apawam, M. vi, 35, 1 ; 36, 1.
-Aramikagama, M. vi, 15, 4.
-
-Anttha ., K. i, 3 2 seq.
-
-Ariyam iyatanaw, M. vi, 28, 8.
-Assagi, M. 1, 6, 36 ; 23.
-Assagipunabbasuka bhikkhu, K. i, 1 3
-seq.; vi, 16.
-
-
-Asura, K. ix, 1, 3.
-
-Atthaka, M. vi, 35, 2.
-
-Atuma, M. vi, 37 ; 38.
-
-AvantT, M. v, 13, 1.
-Avantidakkhnzapatha, M. v, 13.
-Avantidakkhiwapathaka bhikkhu, K .
-xii, 1, 7 ) 8.
-
-Balakalozzakaragama, M. x, 4, 1.
-Bankasi, M. 1, 6, 6, 10, 30 ; 7, 1 ; 9,
-1, 2 ; 14, 1 ; v, 7, 1 ; 8, 1 ; vi.
-23, 1 seq.; 24, 1; vin, 1, 22;
-14, 1; 15* 1 ; 2, 3.
-
-Belaya Katana, M. vi, 26.
-Belata6asisa, M vi, 9, 1 ; vm, 17.
-Belatt&iputta. See Sa%aya.
-Bhaddasala, M. x, 4, 6 seq.
-Bhaddavaggiya, M. 1, 14.
-
-Bhaddiya (the place), M. v, 8, 1 ; 9,
-1 ; vi, 3, 4.
-
-Bhaddiya (the Bhikkhu), M. i, 6, 33 ;
-
-K. vii, 1, 3 seq.
-
-Bhagga, K. v, 21, 1 ; 22, 1.
-
-Bhagu, M. vi, 35, 2 ; vui, 24, 6 ; x, 4,
-1 ; K. vii, 1,4.
-
-Bhallika, M. 1, 4.
-
-Bharadvaga, M. vi, 35, 2 ; K. v, 8.
-Bhesaka/avana, K. v, 21, 1.
-
-Bhumma deva, M 1, 6, 30.
-Bhumma^aka. See Mettiyabhum-
-magaka.
-
-Bhusagara, M. vi, 37, 4.
-
-Bimbisara (raga Mlgadha Seniya),
-M. 1, 22 ; 39; 40 ; 42 ; 46; 11. 1 ;
-hi, 4, 3, passim; K.v, 5; vi, 3 >n,
-vn, 3, 5*
-
-Bodhi, K. v, 21.
-
-Brahma, isT. vn, 3, 16.
-
-Brahmadatta, M. x, 2, 3 seq. ; K. xi,
-
-i, 7-
-
-Brahmakayika deva, M. i, 6, 30.
-Brahma Sahampati, M. 1, 5, 18; 6,
-
-30*
-
-
-Dabba Mallaputta, K. iv, 4 ; v, 20.
-
-
-INDEX OF PROPER NAMES.
-
-
-429
-
-
-DakkhiwSgiri, M. i, 5, 3 ; viii, 12, 1 ;
-K. xi, 1, 10.
-
-Dakkhmapatha. See Avantidakkh 0 .
-Dakkhircapathaka, K. 1, 18, 3,
-Devadatta, M. li, 16, 8 ; K. vn, 1, 4 ;
-
-2 seq. See Godhiputta.
-Devaputta, X. vn, 2,2..
-
-Devata, M. 1, 4 ; 6, 2, 4 ; 20 ; vi, 28,
-
-7 ; 11 ; viii, 16, 3.
-
-Dhamya, K xi, 1, 6.
-
-Dighavu, M, x, 2, 8 seq.
-
-Erapatha, K. v, 6.
-
-Gagga, M. n, 25 ; K. 1 v, 5.
-
-Gaggara, M. ix, r, 1.
-
-Gandhabba, X. ix, 1,3.
-
-Ganga, M. v, 9, 4; vi, 28, 12 seq. ;
-
-K. ix, 1, 3 seq.
-
-Gavampati, M. 1, 91, 2.
-
-Gaya, M. 1, 6, 7 ; 21, 1.
-
-Gayakassapa, M. 1, 15, 1 ; 20, 22.
-Gayasisa, M. i, 21, 1 ; 22, 1 ; K. vn,
-4, i.
-
-Ghositarama, M. x, 1, 1 ; K. i, 25, 1 ;
-
-31; vii, 2 > 1 ; x > x 4*
-G&g-Aakfifa, M 11,1,1; 5,4; v,i, 1,
-3, 14, 17 ; K . iv, 4, 4 ; viii, 3, 9.
-Gi%akavasatha, M. vi, 30, 6
-Ginbba^a, M. 1, 24, 5, 6, 7. See Ra~
- gagaha.
-
-Godhiputta, K. vn, 3, 2. See Deva-
-datta.
-
-Gomatekandaru, K. iv, 4, 4.
-
-Gopaka, M. viii, 24, 6.
-
-Gosala. See Makkhali.
-
-Gotama (Buddha), M. i, 2, 2, 6, 10,
-15; 22, 2, passim; (Buddha’s
-father), M. i, 54, 4.
-Gotamadv&ra, M. vi, 28, 12.
-Gotamaka Xetiya, M.vni, 13, 2.
-Gotamatittha, M. vi, 28, 12.
-
-Gotami. See Mahapagapati.
-
-Gambudipa, M. i, 20, 7 seq.
-Gatiyavana, M. v, 8, 1 ; vi, 34, 10.
-Geta, K. vi, 4, 9 seq.
-
-Getavana, M. 1, 55 ; in, 5, 1, passim ;
-
-K. 1, 1, 1 ; 13, 5 ; 18, 5, passim.
-Givaka Komarabhaiia, M. 1, 39 ;
-
-vni, 1, 4 seq.; 2 ; K. v, 14, 1.
-Givakambavana, K . iv, 4, 4 ; xi, i, 7.
-
-Himavanta, K, vi, 6, 3,
-
-Inda. See S.ikka.
-
-
-Isibhatta, M. viii, 24, 5.
-
-Isidasa, M. vm, 24, 5.
-
-Isigili, X- iv, 4, 4.
-
-Isipatana, M. 1, 6, 6, 10, 30; 7, 7 ;
-v, 7, 1 ; vi, 23, 1 ; vm, 14, r.
-
-Ka^angala, M. v, 13, 12.
-
-Kaka, M. vm, r, 26 seq
-Kakawiaka putta, K. xii, 1, 1 seq. ;
-
-2, 1 seq.
-
-Katana, Kaiiayana. See Pakudha,
-Belaya, Mahaka^ana.
-
-Kakudha, K. vn, 2, 2 ; (Devaputta),
-£• vn, 2, 2 V
-Kalama. See A/ara.
-Kab-d-ka^^a See Ve/uvana.
-Kid. hi xi, 1, 6.
-
-Ka/asill, K. iv, 4, 4.
-
-Kanaka, M. 1, 52 , 60.
-
-KaWaka, M. i, 60
-Ka«hagotama, K. v, 6.
-
-Kafikharevata, M. vi, 16.
-
-Kawwaku^a, K. xn, 1, 9.
-Kapilavatthu, M. i, 54, 1 ; 55, x ; K.
-x, 1, 1.
-
-Kasi, M. 1, 6, 8 ; vi, 17, 8 seq.; ix,
-
-1, 1, 5, 7 ; K. 1, 13, 3 ; 18, r.
-Kasiraga, M. vm, 2 ; x, 2, 3 seq.
-Kassapa, M. 1, 15 seq. ; 22,5; vj, 35,2. -
-Kassapagotta, M. ix, 1.
-Ka/amorakatissaka, K. vn, 3, 14.
-Kemya, M. vi, 35.
-
-Kesakambali. See Agita.
-KhaWadevi, K, vm, 3, 14.
-Khuggasobhita, K * \n, 2, 7.
-
-Kimbila, M. x, 4 ; K. mi, i, 4.
-Knagiri, K. i, 13 seq. ; vi, 16 ; 17, 1.
-Kokalika, K. vn, 3, 14 ; 4, 2 seq.
-Kokanada, v, 21.
-
-Kolita, M. 3, 24, 3.
-
-Ko/ivisa. See Sowa.
-
-Ko/iyaputta, isf. vm, 2, 3.
-KomarabhaX’ia, See Givaka.
-YLQ?ida.fma., M. 1, 6, 29, 31.
-
-Kosala, M. 1, 73, 1, 2 ; 11, 15, 3 ; in,
-5, t ; 9, 1 ; 1 1, passim; K.v, 13,
-2; p, 2.
-
-Kosaku ag-a, M. x, 2, 3 seq.
-Kosambaka bhikkhu (upasaka), M.
-
-x, 4, 6 ; 5.
-
-Kosambi, M. vm, r, 27; x, t, 1; 3;
-K. 1, 25, 1 ; 28, 1 ; vn, 2, i, 5 5
-
-xi, 1, 11 ; xii, i, 7 ; 2, 8.
-Kosmaraka Malla, M. vi, 36, 1.
-Ko/igama, M. vi, 29 seq.
-Kukku/arama, M. vm. 24, 6.
-
-
-430
-
-
-VINAYA TEXTS.
-
-
-Kumarakassapa, M. 1, 75.
-
-Kuraraghara, M. v, 13, 1.
-
-Kura. See Uttarakuru.
-
-Kusmara, M.vi, 36, 1, 6 ; 37, 1 ; A.
-xi, 1, 1.
-
-Kmikawza. See Sowa.
-
-Aampa, M. v, 1, 1 ; ix, 1 j 2.
-
-Aampeyyaka, A. xii, 2, 8.
-
-Aat imahj^paka deva, M. 1, 6, 30.
-
-A"* \b) yprtt\ A. v, 6.
-
-A^anna, A . 1, 25 ; 28 ; 30 ; 31 ; iv, r4 ;
-xi, 1, 11,14.
-
-jfiTitta, A. 1, 1 8 ; 22 seq.
-
-Aodanavatthu, M. ii, 17, 1 ; 18, 1.
-
-Aorapapata, A . iv, 4, 4.
-
-La^Mvanuyyana, M. i, 22, 1, 2.
-
-LiiA&avi, M.vi, 30 ; 31, 1 ; A.v, 20.
-
-Lohitaka. See Pa^ukalohitaka.
-
-Maddaku/&£&, M.11, 5, 3 ; A iv, 4, 4.
-
-Magadha, M. 1, 5, 7 ; 19, 1, 3 ; 24, 5,
-6 } 7 j 39) 1 •
-
-Magadha. See Bimbisara.
-
-Magadhaka, M. i,*2 2, 3 seq. ; 24, 5 ;
-A . vii, 2, 2.
-
-Magadha-khetta, M. viii, 12, 1.
-
-Magadha-mahamatta, M. vi, 28, 7
-seq.
-
-Magg^ima^anapada, X. i, 18 ; 22 seq.
-
-Mahaka, M. i, 52.
-
-Mahaka^ana, M, v, 13 ; x, 5, 6 ; A.
-i, 18, 1.
-
-Mahakappina, M. v, 13; x, 5, 6 ; A.
-i, 18, 1.
-
-Mahakassapa, M. i, 74; li, 12, 1 ;
-viii, 21,1; x, 5, 6 ; A. xi, 1, 1 seq.
-
-MahakowMta, M. x, 5, 6 ; A. 1, 18, 1.
-
-Maha^unda, M. x, 5, 6 ; AT. 1, 18, 1.
-
-Mahamoggallana, M. 1, 23 ; 24 ; vi,
-20 ; A. i, 18, 1; v, 8, 1; 34; 2 ;
-vn, 2, 2 ; 4, 2 ; ix, 1. See Sari-
-puttamoggallana.
-
-Mahanama, M. 1, 6, 36 ; A. vii, 1, 1.
-
-Mahapa^apati Got ami, M. x, 5, 7 ;
-A. xi, 1 seq. ; xi, 1, 9.
-
-Mah&r&gano, M. i, 4, 4 ; 16.
-
-Mahas&la, M. v, 13, 12.
-
-Mahavana, M. vi, 30, 6 ; A. v, 13, 3 ;
-vi, 5, 1 ; x, 1, 2 ; xii, 1, 1.
-
-Mahi, A. ix, 1, 3 seq.
-
-Makkhali Gosala, A. v, 8, 1.
-
-Ma£££ikasa«^a, A. 1, 18 ; 22 seq.
-
-Malla, M.vi, 36 ; vm, 19 ; A. vn, 1, 1.
-
-Maliaputta. See Dabba.
-
-
-Malli, A. x, 12.
-
-Mandakini, M. vi, 20.
-
-Ma«iX’u/aka, A. xn, 1,4.
-
-Mara, M 1, 6, 30 ; 11, 2 ; 1 3, 2 , A.
-
-xi, 1, 9. See Antaka.
-
-Marasena, M. 1, 1, 7.
-
-Melaka, Mevi, 34.
-
-Mettiya, A. iv, 4, 8.
-Mettiyabhummag-aka, A. iv, 4, 5 seq ,*
-v, 20.
-
-Migaramata, A. ix, 1, 1. See Visa-
-kha.
-
-Moggallana. See Mahamoggallana.
-Muialmda, M. i, 3 ; 4, 1.
-
-Nadi Kassapa, M. i, 15, 1; 20, 3a.
-Naga, M. 1, 15 ; 63 ; A. 1 x, 1, 3.
-
-N a/an da, A. xi, 1, 7.
-
-Nanda, M. 1, 54, 5.
-
-Nataputta, M vi, 31 ; A. v, 8, 1.
-Natika, M. vi, 30, 6.
-
-Nera;2gara, M.i, 1, 1 ; 15, 6 ; 20, 15.
-Nigrodharama, M. 1, 54, 1 ; A. x, 1, 1
-Nilavasi, M. vm, 24, 25.
-Nimmanarati deva, M. 1, 6, 30.
-
-Paj^ota (ra^a), M. viii, 1, 23 seq. ;
-a 24 -
-
-Pa^inaka (bhikkhu), A. xii, 2, 2 seq.
-Paiinavawsadaya, M.x, 4, 1 seq.
-Pa^antima ^anapada, M. v, 13, 16
-seq.
-
-Pakudha Ka^ayana, A. v, 8, 1.
-Paw^ukalohitaka, A. 1, 1 ; 6, 8.
-Paranimmitavasavatti deva, M. 1, 6,
-3°-
-
-Panleyyaka, M. x, 4, 6 seq. ; 5, 1.
-Pasenadi (ra^-a Kosala), M. lii, 14.
-Pamligama, M. vi, 28.
-
-Pataliputta, M. vi, 28, 8 ; vm, 24, 6
-Pa^eyyaka bhikkhu, M. vn, 1, r
-seq. ; A. xii, 1, 7, 8 ; 2, 2 seq.
-Pava, A. xi, 1, i.
-
-Phalikasandana, M. viii, 24, 6.
-Pihnda-gama, M. vi, 15, 4, 7.
-Pilindava^a, M. vi, 13 seq.
-Pi^olabharadva^a, A. v, 8.
-Pisa&llika, A. v, 10, 3 ; 27, 5.
-Pubbarama, A. ix, 1, 1.
-Punabbasuka. See Assa^ipunabba-
-suH.
-
-Pu^a^i, M. i, 9, 1, 2.
-
-Purawa, A. xi, 1, 10.
-
-Pura«a Kassapa, A. v, 8, 1.
-Puratthima ^anapada, A. i, 18, 3;
-xii, 2, 3.
-
-
-INDEX OF PROPER NAMES.
-
-
-431
-
-
-Rag-agaha, M. 1, 22, 1, 2, 13 ; 23, 1
-seq. ; 28,2; 30,1; 49,1; 53,1,
-passim; K. iv, 4, 15; v, 1, 1;
-2, 6, passim.
-
-Ra^gagahaka, M. vni, 1, 2, 16 seq.;
-
-K. v, 8 ; vi, 1 ; 4, 1, 6 seq.
-Ra^ayatana, M. i, 4, 1, 24 5, 1.
-
-Rahu asurmda, K, xn, 13.
-
-Rahula, M. i, 54 ; 55 ; x, 5, 6 ; IC. i,
-18, 1.
-
-Rahulamata, M. 1, 54.
-Rakkhitavanasa?z^a, M. x, 4, 6 seq.
-Ramaputta. See Uddaka.
-
-Revata, M. vin, 31, 1 ; x, 5, 6 , K 1,
-18, 1 ; xn, 1, 9 seq. ; 2, 1 seq.
-See Kahkharevata.
-
-Ro^a, M. vi, 36 ; vm, 19.
-
-
-Sabbakami, K. xn, 2, 4 seq.
-
-Sagata, M. v, x, 3 seq.
-
-Sahag-ati, K. xn, 1, 9; 2, 1.
-
-S&keta, M. i, 66, 1 ; vii, 1, 1 ; viii,
-
-
-U 8; 13, 7.
-
-Sakiya, M. 1, 38, 11 ; K. vn, 1, 4 ; x,
-1, 2 ; 2, 1.
-
-Sakka, M. 1, 17; 20; 22, 13 seq.
-Sakka, M i, 54 ; K. vii, 1, 1 seq.; x,
-
-
-1, 1, 2.
-
-Sakya, K vii, 1, 3.
-
-Sakyakula, M. 1, 22, 2; 23, 4; vi,
-
-34) II ; 35) I-
-
-Sakyakumara, K. vii, 1, 1 seq.
-Sakyaputta. See Upananda.
-S&kyaputtiya,M. 1, 24, 7 seq., passim.
-Sakyar%a, K. vii, 1, 3 seq.
-
-Salavati, M. vm, x, 3 seq.
-
-Sa/Ai, K. xii, 2, 2 seq.
-
-Sallavat!, M. v, 13, 12.
-
-Sambhuta, K . xii, 1, 8 seq.; 2, 4 seq.
-Sawkassa, K. xn, 1,9.
-Samuddadatta, K. vii, 3, 14.
-
-S3,»a, M. vni, 24, 6.
-
-Sazzavasi, M. vm, 24, 6 ; K. xii, 1, 8
-seq. ; 2, 4 seq.
-
-Sa%aya, M. 1, 23 ; 24 ; K. v, 8, 1.
-Sa%ikaputta, K vi, 21, 1 seq.
-Sappasozziikapabbhara, K . iv, 4, 4.
-Sarabhu, X”. ix, 1, 3 seq.
-
-Sanputta, M. 1, 23; 24; 28, 2, 3;
-54, passim; X. i, 18, i ; v, 34;
-2; vi, 6, 1 ; 7; vii, 3, 2 seq.; 4;
-viii, 4, 1. See S&riputtamoggai-
-lana.
-
-Sariputtamoggallana, K. i, 13, 16 ;
-
-16 ; vi, 16, 1 ; vii, 3, 1 ; 4, 1 seq.
-Sattapawziguha, K. iv, 4, 4.
-
-
-Savatthi, M r, 55 ; 66, 1 ; 67 ; in,
-5, 1, passim; K. i, 1, 1 ; 13,
-
-5 ; 18, 4, passim.
-
-Senamgama, M. 1, 11, 1.
-
-Semya. See Bimbisara.
-Setakawzika, M. v, 13, 12.
-Seyyasaka, IC 1, 9 seq.
-
-Siha, M. \i, 31.
-
-Sitavana, M, v, 1, 12 seq.; 17; K,
-iv, 4, 4 , vi, 4, 3 seq.
-
-Sivaka (yakkha), K. vi, 4, 3.
-Siveyyaka, M. vm, 1, 29, 34.
-
-So«a Ko/ivisa, M v, 1.
-
-SoTza Ku/ika««a, M. v, 13.
-
-Soreyya, K xn, 1, 9.
-
-Sudatta, K. vi, 4, 4. Cf. Anatha-
-pi/z^ika.
-
-Suddhavasa deva, Suddhavasakayika
-devata, K xii, 2, 2
-Suddhodana, M. 1, 54.
-
-Sudhamma, K. 1, 18 ; 22 seq.
-Sudmna, K. xi, 1, 6.
-
-Sumana, K. xn, 2, 7.
-
-Suwsumaragira, K v, 21, 1.
-
-Sumdha, M. vi, 28, 7 seq.
-
-Supassa nagar^a, M. vi, 23, 13.
-Supati^a Xetiya, M. 1, 22, 1, 2.
-
-Takkasila, hi. vm, 1, 5 seq.
-TapodakandarS, K. iv, 4, 4.
-TapodSrama, K. iv, 4, 4.
-
-Tapussa, M. 1, 4.
-
-Tavatiwsa, M. 1, 6, 30; 20, ro, vi,
-28, 8 ; 30, 5.
-
-Tekula. See Yame/utekula.
-
-Thuna, M. v, 13, 12.
-
-Tissaka. See Katemorakatissaka.
-Tusita deva, M. i, 6, 30.
-
-Udayi, M. 11, 16, 7 ; K. iii, 1 ; x, 9, 3
-seq.
-
-Uddaka Ramaputta, M. i, 6, 3, 4.
-Udena, M. iii, 5 ; K. xi, 1, 11 seq.
-Udumbara, K. xn, 1, 9.
-
-U^g-eni, M. vm, 1, 23.
-
-Ukkala, M. 1, 4, 2.
-
-Upaka, M. 1, 6, 7 seq.
-
-Upah, M. 1, 62; 64; ix, 6; K. 1,
-18, 1 ; 11, 2 ; 7, passim.
-
-Upali (of Ra c gagaha), 1\I. 1, 49.
-Upananda, M. 1, 52; 60; 111, 14;
-vi, 19 ; viii, 25 ; K. vi, 10, 1 ;
-12; xn, 1, 5.
-
-Upasena Vaiigantaputta, M. i, 31.
-Upatissa, M. 1, 24, 3.
-
-Uppalava^a, K . x, 8,
-
-
-432
-
-
-VINAYA TEXTS.
-
-
-Uruvela, M. i, i, i ; 6, 6 ; n, i ; 14,
-i; i5, i ; 22, 4.
-
-Uruvelakassapa, M. i, 15; 22, 4,
-^ Vj 37 \,
-
-Usiraddhaja, M. v, 13, 2.
-
-Uttara, K. xii, 2, 3.
-
-Uttarakuru, M. 1, 19, 2 , 4*
-
-Uva/a, K. iv, 11 ; 12, 5-
-
-Va^a, jfiT. v, 20.
-
-Va^gi, M. vi, 28.
-
-Va&gaputtaka, K. vii, 4, 1 ; xii, 1, 1
-
-seq. ; 2, 1 seq.
-
-Vaggumudatiriya, K. xi, 1, 6.
-Vahkar&ma, K. xu, 2, 7.
-
-Vamadeva, M. vi, 35, 2.
-
-V&maka, M. vi, 35, 2.
-Vangantaputta, M. 1, 31.
-
-Vappa, M. 1, 6, 33.
-
-Vasabhagama, M. ix, x, 1, 5, 7-
-Vasabhagamika, K . xii, 2, 7.
-Vase/^a, M. vi, 35, 2.
-
-Vassakara, M. vi, 28, 7 seq.
-
-Vebhara, K iv, 4, 4.
-
-Vedehiputta, £. xi, 1, 7.
-
-Ve/uvana, M. i, 22, 18 ; 24, 3 ; in, 1,
-
-
-1 ; vi, 17, 1, 8 ; 22, 1 ; 27 ; vin,
-1, 1 ; K. iv, 4 , 1, 4; v, 1, 1 ; vi,
-1, 1 ; 21, I ; vii, 2, 5 ; 4, 3 ; xi,
-
-1, II ; Xii, 1 , 4-
-
-Vesali, M. vi, 30, 3 r, 4, 10 seq.; 32,
-
-1 ; viii, 1, 1 seq. ; 13 ; * 4 , 1 5
-k. v, 12- 1 ; 13, 3 ; 14, 1 ; 2I , i # ;
-vi, 5, 1 5 6, 1 ; x, 1, 2 ; 9, 1 ? xi,
-r,6; xii, 1, 1 seq.; 2, 4 seq.
-Vesalika, K. vn, 4, 1 ; xu, 1, 1 seq.
-Vessamitta, M. vi, 35, 2.
-
-Videha. See Vedehiputta.
-
-Vimala, M. 1, 9, 1, 2.
-
-Virupakkha, K. v, 6.
-
-Visakha Migaramata, M. lii, 13;
-vin, 15; 18; x, 5, 9; K. v, 22;
-vi, 14.
-
-Yakkha, K. vi. 4, 3.
-
-Yama devl, M. 1, 6, 30.
-
-Yamataggi, M. vi, 35, 2.
-Yame/utekula, if. v, 33, 1.
-
-Yamuna, K. ix, x, 3 seq.
-
-Yasa, M. i, 7 seq.; K. xu, 1, 1 seq.;
-
-2, 1 seq.
-
-Yasqga, M. vi, 33 , 5 *
-
-
-INDEX OF PALI WORDS
-
-EXPLAINED OR REFERRED TO IN THE NOTES.
-
-
-The references are to parts 1, ii, in s and pages.
-
-
-akappakata, part ii, p. 155.
-akara«iya, 111, 355.
-akuppa, 11, 435.
-akkana/a, 11, 247.
-akkavata, in, 178.
-agga, lii, 202.
-agga/a, ii, 215.
-agga/ava tti, in, 106.
-angana, 111, 295.
-a^akkhussa, m, 147.
-aielaka, 1, 41.
-a^iibaddha, 11, 207,
-aiv£ekadvara, 1, 29.
-a£A&upiyati, 111, 83.
-a^-makkhipa, 11, 247.
-a%ana, 11, 50.
-a%am, 111, 141.
-a nn% 11, 10 ; 111, 303.
-a;Hata, in, 1S6.
-ar/ana, 111, 67.
-
-Att^aka, 11, 130.
-a/^akavagga, 11, 37.
-a^apadaka, 111, 167.
-axilla, iii, 341.
-a^/^akasika, 11, 195 seq.
-a^//6akusi, 11, 209.
-a^^apallanka, ni, 367.
-a^/6ama«^ala, ii, 209.
-a^/-6ayoga, 1, 174.
-a ak/£aruka, iii, 138.
-attaklmapan^ariya, i,.S.
-att&dlna, 111, 313.
-atthavasa, iii, 263.
-atthara, n, 148 seq.
-attharaka, 11, 155.
-adesanag&mi, ii, 333.
-addhina, i, 26.
-adhi#£ahati, in, 1 o 1 , 1 1 7.
-adhi/2fiata, 11, 40, 151, 152.
-adhisila, 11, 23.
-ana^^ariya, i, 85.
-
-[20]
-
-
-anantarika, in, 285.
-anapadana, 11, 272.
-anabhava, 11, 113.
-anabhirati, 111, 77.
-anavasesa, ii, 316; iii, 35.
-anadariya, 1, 44.
-anamanta^ara, 11, 150,
-anika, ii, 13.
-
-anupakha^a, 1, 42 ; iii, 285.
-anupa;watti, 111, 374.
-anupadaj'geyya, 1, 29.
-amibhaga, 111, 203.
-anullapana, 111, 36.
-anuvata, ii, 154; 11, 231, iii, 93.
-anuviva^a, 11, 209.
-anusampavankata, iii, 36.
-ane/agala, 11, 37.
-antaggahika, 1, 344.
-antaraghara, 1, 56, 59, 65 . 111, 2S6.
-antaravasaka, n, 212.
-antarcikaga, 111, 146.
-antimavatthu, 1, 27 6 .
-apagabbha, 11, 1 1 1, 1 12.
-apatissara^a, ni, 175.
-apalokana, iii, 37.
-apassenaphalaka, 111, 219.
-appuyya, in, 183.
-appoft&eti, ii, 349.
-abbhussahanata, iii, 36.
-abhayuvara, i, 207.
-abhisawlcharika, 111, 9.
-abhisanna, ii, 60.
-abhisannakaya, in, 102.
-abhiha^uw, i, 21; 11, 440.
-ambaka, ii, 107.
-aramsahita, 111, 292.
-anyavasa, 1, 14 1.
-alakkhika, in, 250.
-alawkammaniya, 1, 16,
-avakkarapati, 111, 287.
-avagarciakarakaw, 1, 64.
-
-
-434
-
-
-VINAYA TEXTS.
-
-
-avanga, in, 342.
-avippavasa, 1, 20, 255.
-asaddhamma, 111, 262.
-asamadanaHra, 11, 151.
-asambhoga, ni, 120.
-ahivatakaroga, 1, 204.
-Ahoganga, 11, 146.
-
-agamma, ii, 237.
-a^amanakumbhi, ni, 280.
-a^anya, i, 178 seq.
-a^anyaka, ii, 140.
-a^ara, i, 184.
-shU’olaka, 111, 348.
-adeyyava£a, lii, 186.
-anantarika, 111, 198, 246,
-apayika, 111, 262.
-ama/akava«/ikapfo6a, iii, 165.
-amisa, 1, 36.
-amisakhara, ii, 60.
-ayataka, 111, 72.
-ayatiki, 111, 115.
-ayoga, 111, 141.
-arama, i, 23.
-aramika, 111, 282.
-alambanabaha, iii, 96.
-alinda, in, 175.
-avarawa, 111, 336.
-avasathapiWa, 1, 37.
-avasaparampara, 11, 371.
-avi;X6£ana, in, 106.
-asa^anaw, in, 264.
-asatti, 111, 183.
-asanantarika, ii, 292.
-asanapawwapaka, 111, 408.
-&sandi, ii, 27.
-asandika, ni, 165.
-asadeti, ii, 373.
-asittakupadhana, iii, 117.
-asevanavitthaka, 111, 95.
-aha^apadaka, iii, 164.
-ahundarika, i, 205.
-
-ikkasa, iii, 17 1.
-
-iddhi, 1, 1 19 ; ii, 136 ; iii, 230.
-mdakhiia, i, 52.
-
-ukkapi;«iaka, ii, 70.
-ukkasika, 111, 68,
-nkkujfika??2, iii, 16.
-ukkitfika, i, 62.
-u^Hnatha, i, 194.
-u&&£edav&da, ii, in,
-nwtiisa, iii, 97.
-utu, ii, 236.
-uttara&fc&ada, ii, 27.
-
-
-uttarapasaka, 111, 106
-uttarasanga, 11, 212 ; 111, 123.
-uttanbhanga, in, 9, 179.
-uttn^apatta, i, 152.
-udakaniddhamana, 111, 108.
-udakasawgaha, 11, 147.
-udakasattka, ji, 225.
-udukkhalika, in, 105.
-udda, 11, 1 6.
-uddesa, 1, 12.
-uddosita, ni, 363.
-uddhasudha, 111, 174.
-upa^a, in, 351.
-upa^^aya, 1, 178 seq.
-upata6apeti, 1, 49.
-upadhi, 1, 85, 138.
-upanandhati, in, 100.
-upanikkhitta, 1, 26.
-uparipn/Ma, 111, 273.
-upallpeti, i, 49.
-uposathapamukha, 1, 252.
-ubba/£a, ii, 314.
-ubbahika, 111, 49.
-ubbhaWita, 11, 210.
-ubbhara, 1, 19 ; ii, 157.
-ubbhida, 11, 48.
-
-ubhatolohitakupa, dhana, 11, 28.
-ubhatovmaya, 111, 376.
-ubhatovibhanga, 111, 376.
-ummattakalaya, 111, 21.
-ura^/££ada, ii, 348.
-
-.ullikhita, ii, 153.
-ulloka, ni, 169.
-ussadeti, iii, 202, 301.
-ussavana, ii, 120.
-ussira, ii, 23.
-usse//6eti, ii, 349.
-
-$ha?Mi, iii, 277.
-
-eka^iya, ii, 212.
-ekapariyakata, iii, 341.
-ekapal&sika, 11, 13.
-ekuddesa, i, 11.
-eragu, ji, 35.
-
-e/akapadakapifM, iii, 165.
-
-okirati, ii, 231.
-okomnaka, iii, 40,
-ogumphiyati, ii, 31.
-otinna, i, 7.
-ottharaka, iii, 102.
-onita, i, 83.
-onog-ana, ii, 386.
-opana, ii, 115.
-obhoga, i, 156.
-
-
-INDEX OF PALI WORDS IN THE NOTES.
-
-
-435
-
-
-ovaMka, iii, 69.
-ovamyakarawa, ii, 153.
-ovaddheyya, 11, 154.
-ovada, i, 35.
-osaraka, ni, 175.
-
-kawsapattharika, iii, 14©.
-kakka, ii, 58.
-
-kata£i/6uparissavana, 111, 100.
-kajfasi, 111, 390.
-kaasuttaka, in, 69, 142, 348.
-ka^ma, 1, r8 seq. ; 11, 148 seqq. ; iii,
-92 seq.
-
-ka^ag-aka, ni, 9.
-ka«iusakara«a, 11, 153.
-ka««akita, 111, 9 1 .
-katakata, 111, 309.
-katikasa^ana, 111, 8.
-kattaradaw^a, 11, 20.
-kattan, 111, 138.
-kattarika, ni, 139.
-kattika, i, 29 seq.
-kapalla, 11, 50.
-kapisisaka, 111, 106.
-kappa^ika, 111, 254.
-kappiyakaraka, 11, 59.
-kappiyakutf, 1, 303.
-kaba/ika, 11, 58.
-kamala, 11, 23.
-kambala, 11, 23.
-kambalamaddana, 11, 154.
-kammarabha^u, 1, 200.
-karaka/aka, in, 112.
-kalabuka, iii, 143.
-ka/ingara, 111, 127.
-ka/imbhaka, 111, 94.
-kava^a, iii, 88, 160.
-kava^api^a, 111, 105.
-kasava, iii, 172.
-ka£a, iii, 82.
-kaya, ii, 224.
-kayura, ni, 69.
-ka/aka, i, 25.
-kiw&ina, i, 139.
-kmka, iii, 174, 176.
-kukkukata, n, 154.
-kukkusa, iii, 367.
-ku^apada, in, 107.
-knWakamattika, 111, 17 1.
-kuttaka, ii, 27.
-kupita, 1, 309.
-kumbhakanka, iii, 156.
-kumbhatthena, iii, 325.
-kuruvindakasutti, ni, 67.
-kulafikapadaka, iii, 174.
-kulava, in, 384.
-
-
-kulirapadaka, 111, 16 [,
-kusi, ii, 208.
-ko, 1, 138.
-
-ko^a, 1, 34; iii, 165.
-
-ko^apeti, in, 341.
-
-kotf^aka, 11, 219; iii, ri, 109, 177
-
-kopeti, n, 435.
-
-komudi, l, 324.
-
-khaWa, ni, 191.
-khandhakavatta, i, 185.
-khallaka, 11, 15.
-khadamya, 1, 39.
-kharika^a, i, 132.
-khuddanukhuddaka, 1, 50.
-khurabha^a, 11, 141.
-khurasipa/ika, 111, 138.
-khe/apaka, in, 239.
-
-ga^amagga, i, 269.
-gaw^ika, iii, 144.
-gaWikldhana, 111, 213,
-ga^iumattika, ni, 172.
-gatigata, ni, 26.
-gandhabbahatthaka, 111, 67.
-gabbha, ni, 173.
-gahapati^ivara, 11, 194.
-gamapoddava, 111, 66.
-gamupa/£ara, i, 256.
-giraggasama^a, ni, 71 .
-giveyyaka, 11, 209.
-gu«aka, in, 143.
-guM, 1,174.
-geruka, ii, 50.
-gerukaparikamma, ni, 97.
-goka«/aka, 11, 34.
-goghawsika, in, 98.
-goiara, in, 275.
-gonisadika, ii, 121.
-golonnka, iii, 138.
-
-gha/aka, iii, 130.
-ghaftkadiha, in, 88.
-ghadka, 111, 106.
-gharadinnaka, ii, 60.
-
-^akkabheda, 111, 251.
-iakkaliksl, 111, 163.
-
-^akkava#aka, ni, 112.
-
-^ankama, 11, 7 ; 111, 103.
-^atuka««aka, 111, 145.
-£andanaga?tf£i, in, 78.
-iammakhaWa, 111, 113,
-
-£aleti, ii, 49.
-
-Htta, ii, 224.
-
-/hmilika, 111, 167.
-
-
-F f 2
-
-
-436
-
-
-VINAYA TEXTS.
-
-
-Xivara, ii, 199.
-
-Xetapeti, i, 22.
-
-£elapa#ika, in, 128.
-kokz , 11, 132.
-
-£olaka, in, 86.
-
-X/?akana, ii, 49.
-
-XX>atta, in, 133.
-
-Xi?adana, 1, 35.
-
-X£anda, 1, 277.
-
-X^andaso, 111, 150.
-
-X£ava, in, 239.
-
-X£avi, 111, 169.
-
-XX?adeti, ii, 42 ; iii, 147.
-XXanniriyapatha, i, 225.
-X^eppa, ii, 24.
-
-^•angheyyaka, ii, 209.
-
-^anla, i, 1 18 ; ii, 129, 134.
-^a^ata. m 72.
-
-V.nt^ara, 1, 157 ; in, 103.
-^antu, ii, 35*
-e 41 a, iii, 162.
-ge, 11, 217.
-
-^ayi, iii, 7*
-
-5?atti, i, 169.
-
-^attiXatuttha, i, 169.
-izattidutiya, i, 169.
-
-tamka, ii, 35.
-tathagata, i, 82.
-tantibaddha, ii, 256.
-talasattika, i, 5 1 .
-tassapapiyyasika, iii, 28.
-t&la/IXXadda, iii, 106.
-talava^a, iii, 1 31, 145.
-tavakalika, iii, 217.
-tiXivara, 1, 20 ; 1, 255.
-tisagahana, iii, 148.
-tiwasantharaka, 111, 86*
-tittirapattika, ii, 15.
-Tittinya, iii, 194.
-tiraM^anavigg-a, ni, 152.
-tiritaka, ii, 248.
-tumbakatfaha, iii, 88.
-tull, iii, 1 12.
-tulika, iii, 167.
-tffla, i, 54.
-t$lapu#wika, ii, 15.
-torawa, iii, 178.
-
-thakiyati, iii, 16 1*
-thavikji, iii, 293.
-thirma, ii, 206,
-
-
-thullaXXaya, 1, xxv.
-thupato, 1, 63.
-theyyasawkhata, i, 4.
-
-dakako^aka, ii, 57.
-da«^aka/£ina, iii, 93.
-daw^aparissayana, 111, 102.
-daw^asatthaka, ni, 90.
-dantakattX>a, m, 146.
-dantapowa, i, 40.
-damaka, ii, 71.
-da/£ikara«a, ii, 153.
-da^ika, in, 138.
-diwX>avikamma, iii, 34.
-dukkate, i, xxv.
-dukkha, 11, 224.
-duwX>agaha«ika, 11, 6o„
-duta6ulla, ii, 316.
-dubbaXa, 1, 12.
-dubbalya, 1, 4.
-duinmanku, 111, 251.
-dummawm, 111, 251.
-de^ubhaka, 111, 143.
-dvara, 111, 160.
-dvarakosa, 1, 35.
-
-dhamanisantata, 11, 41.
-dhamma, 111, 193, 262.
-dhammakaraka, 111, 100,
-dhana, ii, 28.
-dhuvakara, 11, 254.
-dhumakalika, 111, 214, 378,
-dhumanetta, iii, 107.
-dhotapadaka, 111, 219.
-
-nam, iii, 19.
-natthukamma, ii, 53.
-natthukara^i, iu 54.
-nandimukhi, 11, 21 1; 111, 299
-namataka, 111, 90, 343.
-nalaftka, 11, 349.
-navakamma, iii, 10 1, 189 seq.
-navakammika, 11, 359.
-nagadanta, in, 68, 98.
-na/ikagabbha, ni, 173.
-nasana, i, 236.
-naseti, ii, 377.
-mgantha, i, 41.
-m ggh& peti, ni, 2.
-nid&apeti, in, 225.
-nippunsa, 111, 225.
-nibbu^^ati, ii, 349.
-nimitta, 11, 9.
-nimittakata, ii, 154.
-milekha^antcighara, iii, 115,
-nissaggiya, ii, 155,
-
-
-INDEX OF PALI WORDS IN THE NOTES.
-
-
-437
-
-
-nissaya, 11, 337; in, 355*
-nekkhamma, 1, 104.
-negama, 111, 185.
-nettha, 11, 339.
-nerayika, in, 262.
-
-parasukula, ii, 157.
-pakata, 11, 343.
-pakatatta, ii, 340; 111, 266.
-pakasamyakamma, 111, 239.
-pakutta, in, 175.
-pakkhasawkanta, 1, 178.
-pakkhika, iii, 220.
-paggahikasala, 111, 383.
-paghana, 111, 175.
-pa£X’akkhata, 1, 275.
-pa^akkhati, 1, 4.
-papaya, 1, 146.
-
-pa&£uddharati, n, 152.
-
-pataka, 11, 155.
-
-pa 72 /&apa£ika, 111, 97.
-
-panka, 11, 3, 27.
-
-paftggaha, Hi, 90, 95
-
-pan^Mdaniya, ii, 81.
-
-pa/iL£>6adi, 111, 111.
-
-panbhana, in, 13.
-
-pa&bhanaMta, m, 172.
-
-paftbhaneyyaka, 11, 140.
-
-paftsaramya, ii, 364.
-
-pa^a, 111, 341.
-
-pa«ameti, 111, 403.
-
-pattakaw^olika, iii, 86
-
-pattakkhandha, 111, 13.
-
-pattami/aka, 111, 86.
-
-patthaddha, 111, 244.
-
-pannaloma, 111, 232.
-
-para, 11, 307.
-
-paradavutta, iii, 232.
-
-paramparabho^ana, 1, 38.
-
-pankathakata, 11, 154.
-
-pankammakata, 111, 218.
-
-parikkhara, 111, 343.
-
-partita, iii, 75.
-
-parittanakmka, iii, 174.
-
-parmibbuta, 111, 183.
-
-paribbagaka, 1, 41.
-
-paribhawia, 11, 154, 231; iii, 85, 93.
-
-panbhawiakara^a, iii, 213.
-
-panbhoga, iii, 208.
-
-paribhoganiya, iii, 8.
-
-parima^iala?#, i, 59.
-
-panmawa, ii, 421.
-
-parimukha, in, 138.
-
-parimu^a, ii, 307.
-
-pariyanta, ii, 386.
-
-pariy ay a, 1, 47.
-
-
-pariyu#£itaMta, 111, 380.
-parivewa, iii, 109; 111, 203.
-pansa, 1, 12.
-pala, 11, 178.
-palasi, iii, 38.
-palibodha, 11, 157.
-pallanka, 111, 367.
-pallatthika, 1, 62 ; in, 141.
-pavattamamsa, 11, 81.
-pavattini, 111, 350.
-pavananta, in, 143.
-pavarawasawgaha, 1, 353.
-pavanta, 1, 39.
-pavareti, 1, 21.
-pasata, ii, 178.
-paharam, 111, 156.
-paMtiya, 1, 32.
-
-Pa^eyyaka, 11, 146.
-patimokkha, 1, xxvu seq.
-padakathalika, 1, 92; 11, 373.
-padakhilabadha, ii, 19.
-padapi^a, i, 92.
-papamka, 11, 157.
-p&manga, iii, 69.
-par^g-ika, i, 3.
-parisuddhi, 1, 242, 274
-paligura^ima, 11, 15.
-palibaddha, 11, 208.
-pasaka, 111, 144
-pas&da, 1, 174; 111, 178.
-pas&dika, 111, 339.
-pasuka, ni, 340.
-pitt^akhadaniya, ii, 139.
-pi^amadda, 111, 171.
-pi^asawgha/a, 111, 105.
-pirciukkhepakaw, 1, 64.
-pitta, in, 237.
-pidalaka, iii, 94.
-piloftka, 11, 157.
-pisaMika, i, 318; iii, 139.
-pi^a, 111, 278.
-pi/^ika, iii, 165.
-pu£££ati (vassaw), i, 310.
-pwiMani, 111, 1 1 4.
-putebaddha, 11, 15.
-puthupawiya, 111, 68.
-puva^i, 39-
-peyyala, 1, 291.
-potthaka, 11, 247.
-pothu^-ganika, 111, 230.
-posituw, in, 169.
-
-phawaka, iii, 70.
-phalaka, ii, 246 ; iii, 165.
-phatikammattha, in, 217.
-phulla, in, 1 91.
-
-
-438
-
-
-VINAYA TEXTS.
-
-
-bandhana, ii, 153.
-bandhanamatta, in, 141.
-bahukata, ii, 135 ; in, 214.
-bahanta, 11, 209.
-bahullika, lii, 254.
-bidalama;1/6aka, in, 164.
-bila, 11, 48.
-bilanga, ni, 9.
-bundikabaddha, iii, 164.
-by a, 11, 378.
-
-bhanga, 11, 57.
-bhafigodaka, ii, 57.
-bhawSagara, ii, 201.
-bha«^ika, iii, 2x3.
-bhatikamma, iii, 83.
-bhattikamma, in, 169.
-bhaddapi^a, iii, 165.
-bhasma, ni, 264.
-bhikkhugatika, i, 312.
-bhisi, ii, 210 ; 111, 163.
-bhummatthara^a, m, 278.
-bho^amya, 1, 39.
-bhoggayagu, 11, 89.
-
-makaradantaka, iii, 68.
-makasataika, iii, 102.
-ma£££av&/aka, iii, 145.
-ma^aru, 11, 35.
-maw£a, iii, 278.
-manuka, ii, 140.
-ma%arik£i, ii, 347.
-ma%u, ii, 140.
-masala, ii, 209.
-maw^alika, ni, 107.
-mataka^ivara, ii, 15 1.
-mattikadowika, iii, 107.
-maddavina, in, 143.
-madhusitthaka, 111, 92.
-manaw 3 1, 254.
-mantha, i, 39.
-mandamnkhi, i, 130.
-marumba, 111, 109.
-mallaka, iii, 68.^
-mallamu^ika, iii, 66.
-ma/onka, iii, 117*
-masiraka, in, 164.
-mahanama, ii, 14.
-maharanga, ii, 14.
-mah&seda, ii, 56.
-
-MaM, ii, 25.
-
-m&tika, i, 273 ; ii, 157 ; iii, 2. ^
-masakarupa, 111, 8o.
-migabhuta, iii, 232.
-xni^anta, iii, 85.
-mi dh\ } iii, 163.
-
-
-missaka, ii, 432.
-mukhamattika, in, 107.
-muttaharitaka, 11, 60.
-mew^avisawabandhika, ii, 15.
-mokkha&ka, 11, 184.
-moghasuttaka, in, 94.
-mo/£a, ii, 1320
-moragu, 11, 35.
-
-yathadhammo, i, 203.
-yantaka, iii, 162.
-yagu, 11, 89.
-
-ra^anapakka, 11, 49.
-ratanasammata, 1, 53.
-rupa, i, 201.
-rupiya^b&a^aka, i, 27.
-riihati, ii, 414.
-ropeti, 111, 334*
-
-la/^ivana, i, 136.
-lu^ati, iii, iii.
-luka, 11, 16.
-lekha, iii, 78.
-lesakappa, ni, 200.
-
-Iowa, ii, 48.
-loma, ii, 339.
-
-vagga, in, 27.
-vagguli, 111, 163.
-va^anapatha, in, 324.
-vaA£apaduka, 11, 24.
-vatawzsaka, ii, 347.
-va*n, hi, 341.
-vawifa, ii, 347.
-vatthikamma, ii, 80.
-varaha, in, 261.
-valhka, iii, 69.
-vassupanayika, i, xxxvii.
-vatapana, iii, 162.
-vatamawialika, 111, 85.
-Vamaka, ii, 130.
-varaka, 111, 113.
-vaha, ii, 13.
-
-vikawwa, 11, 230 ; in, 92.
-vikappana, 1, 45.
-vikala, i, 53.
-vikasika, 11, 59.
-vigayha, iii, 68 .
-viltokahka, ii, 16.
-vimzu, 1, 33.
-vidha, iii, 143.
-vidhutM, 11, 347-
-yinandhana, iii, 94.
-vinayaptmokkha, i, xiii.
-vmayavatthu, iii, 41 1.
-
-
-INDEX OF PALI WORDS IN THE NOTES.
-
-
-439
-
-
-vimdhaya, m, 269.
-vineyya, in, 183.
-vipa^Aataya, 111, 36.
-vipariwata, 1, 7.
-vipa/eti, 111, 90.
-vippakata, 111, 214.
-vibbhamati, 1, 275.
-vibhanga, li, 325.
-viva^a, 11, 209.
-visibbana, i, 44.
-visesaka, in, 342.
-visesadhigama, 111, 263.
-vissara, in, 273.
-vihara, li, 386.
-vihesaka, 1, 33.
-vbza, 11, 8.
-
-vuddhapabba^ita, 11, 140.
-vdpakaseti, i, 16 1.
-vokkamma, 111, 285.
-vodaka, lii, 84.
-ve»i, 111, 341.
-vedika, in, 162.
-veyy&yika, 111, 185.
-ve/uriya, 111, 82.
-vy&badheti, 111, 235.
-
-sawvelliya, lii, 348.
-sa#zsara?zaki/ika, in, 176.
-sawharati, 111, 168.
-saguzza, i, 155.
-sawkaA^ika, iii, 351.
-sawkassara, 111, 300.
-sawkapayati, i, 298.
-sawketa, ii, 234.
-sankhanabhi, 11, 51.
-sawkhara, 1, 76.
-sawgiti, iii, 355.
-sa»2gha/i, ii, 212.
-sawghadpallatthika, iii, 12.
-sawghadisesa, i, 7.
-sa^;zatti, in, 257.
-sawiasa, iii, 140.
-satavalhka, in, 145.
-sati, i, 1 1 9.
-
-sativepullappatta, iii, 16.
-sattanga, 111, 165.
-sattalukha, ii, 209.
-satthaharaka, 1, 4 seq.
-satthu, 111, 92.
-santaruttara, i, 21 ; ii, 233.
-sannidhikata, ii, 154.
-sapadana, i, 63.
-sabhqgana, i, 41.
-samawuddesa, i, 48.
-samatittika, 1, 6 2 ; ii, 104.
-samannbhasati, i, 1 1 .
-
-
-samasupaka, i, 62.
-samukase, 1, xxvi.
-samuddaphewaka, 111, 131.
-samodhina, 11, 405, 409.
-sampavareti, i, no.
-sambharaseda, 11, 56.
-sambhmna, ii, 145.
-sambhuwati, ii, 159.
-sammukha, 11, 332.
-sammukhavmaya, iii, 3.
-sammosa, iii, 87.
-sayana, :n, 279.
-saraxutti, 111, 72.
-sarati, in, 14.
-sarabhawza, in, 73.
-saravaka, in, 108.
-santaka, in, 92.
-santasanta, 111, 26.
-saritasipaftka, iii, 92.
-salaka, 111, 162.
-salakabhatta, iii, 220 seq.
-salakodhaniya, iii, 53.
-sava^aniya, ii, 338, 386.
-sahadhammikaw, 1, 12.
-Sahampati, i, 86.
-saftya, 111, 223.
-
-Sawavasi, 111, 394.
-saradika, 11, 41.
-sarawiya, 11, 364.
-saloka, iii, 343.
-savasesa, 11, 316; iii, 35.
-s&sapaku#a, 111, 17 1.
-sikkhas^giva, i, 4.
-sitthatelaka, 111, 1 7 1 .
-smdhava, 11, 48.
-sivanka, 11, 47.
-sivikagabbha, iii, 173.
-siveyyaka, ii, 190.
-sitalo/i, ii, 60.
-sila, i, 184.
-sukha, ii, 224.
-sugata, i, 54 seq.
-sugatavidatthi, 1, 8.
-su?Hagara, ii, 101.
-sutta, i, xxix.
-suttadhara, i, xxviii.
-suttanta, 1, xxix seq.
-suttalukha, ii, 209, 230.
-suttavibhanga, 1, xxix seq.
-suddhaka, 11, 433.
-suddhanta, 11, 417.
-suppavayita, i, 28.
-sukarantaka, 111, 143.
-su£i, iii, 97.
-su^ika, iii, 106, 162.
-sCUina/ika, in, 91.
-
-
-440
-
-
-VINAYA TEXTS.
-
-
-sekha, i, 185 ; li, 138*
-sekhasammata, i, 57*
-sztth\, i, 102.
-seda, ii, 56.
-senesika, ii, 42.
-seyyagga, 111, 202.
-sotapattiphala, in, 230.
-sobhawa, 111, 143*
-
-hatthabhitti, 111, 169.
-hatthavattaka, 11, 27.
-
-
-hatthavikara, 1, 3 s6 *
-hatthavilangbaka, 1, 326.
-hatthmakhaka, m, 208.
-hatthisoWaka, 111, 145*
-hammiya, 1, 174*
-haramiyagabbha, 111, i 73 >
-haritaka, 11, 60^
-haritakapa««ika, 111, 343 *
-hintala, ii, 2 3,
-huhunka^atika, 1, 79*
-hetu, 1, 146.
-
-
-Transliteration of Oriental Alphabets adopted for the Translations
-of the Sacred Books of the East.
-
-
-transliteration of oriental alphabets.
-
-
-441
-
-
-aspirata
-N; asalio
-
-
-MISSIONARY ALPHABFT.
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-W^WCONCOOlOHlMfO'^lOCON
-
-N(M!M(M«(MWCOCOCOCOCOMfOCO
-
-
-00
-
-
-C5 O i-l W
-
-H  M  M
-
-
-aspemmus I
-asperrrams 2
-
-
-Dentales modifieatae
-
-
-FOR THE SACRED BOOKS OF THE EAST.
-
-
-443
-
-
-a
-
-
--Si
-
-
--a -st
-
-
-& 0
-
-
-Hi c* i^s n
-
-
-o
-
-
-•3
-
-
- s
-
-
-9
-
-
- D
-
-
-S3 ^
-
-
-5?-r
-
-
-3T
-
-
-a-
-
-
-1
-
-
-'g
-
-
-Jo ho Jw fis ^ y
-
-
-fy ISF fer £
-
-
-^ ^ *§ 8
-
-
-r£ J2
-
-
-^ H ^ 5
-
-
-S £ Jj «M >
-
-
-CQ
-
-I
-
-pi
-
-bfl
-
-
-•
-
-
-•
-
-
-*
-
-C3
-
-
-«
-
-
-•
-
-
-•
-
-o
-
-
-<3
-
--£3
-
-
-IS
-
-o
-
-
-e3
-
-«§
-
-
-c3
-
-"rS
-
-
-O
-
-£
-
-*B
-
-
-a
-
-3
-
-
-&
-
-CO
-
-c3
-
-
-'S
-
-O
-
-
-m
-
-
-# g
-
-.2
-
-O
-
->
-
-jj
-
-
-*3
-
-a
-
-*
-
-^3
-
-CD
-
-
-IS
-
-CO
-
-o3
-
-s
-
-
- u
-
-
-a
-
-
-£
-
-CD
-
-m
-
-
-00
-
-05
-
-o
-
-r— t
-
-03
-
-co
-
-'nH
-
-m
-
-CO
-
-CO
-
-
-TjH
-
-TjH
-
-
-rH
-
-
-a
-
-CO
-
-c3
-
-
-.=1
-
-p<
-
-C>D
-
-
-O
-
-l"Tj
-
-
-c3
-
-
-c3
-
-<3
-
-•r-t
-
-
-IS
-
-
-?
-
-rQ
-
-
-u
-
-
-S3
-
-c5
-
-
-dl
-
-•
-
-Oh
-
-a
-
-03
-
-c3
-
-•
-
-c8
-
-CO
-
-c3
-
-
-*3
-
-a
-
-£
-
-*
-
-3
-
-CD
-
-a
-
-5
-
-
-CO
-
-05
-
-o
-
-r-<
-
-
-lO
-
-*0
-
-
-cS
-
-"cS
-
-£2
-
-3<
-
-CQ
-
-«3
-
-
-oj S
-Ph *C
-
-
-s
-
-m
-
-
- oS e3
-t> feO
-£ 2 5
-
-5 .2
-
-<4 >
-
-
-H(MCO^>n©NODO
-
-
-4-1
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS,
-
-
-24 Gutluralis fracta . . .
-2 5 Palatalis fracta ....
-2G Labialis fracta ....
-27 Gutturo-labialis fracta
-
-
-May 1885.
-
-
-©larentsou $res8, #xfoth
-
-• A SELECTION OF
-
-BOOKS
-
-PUBLISHED FOR THE UNIVERSITY BY
-
-HEIRY PEOWDE,
-
-AT THE OXFORD UNIVERSITY PRESS WAREHOUSE,
-AMEN CORNER, LONDON.
-
-ALSO TO BE HAD AT THE
-
-CLARENDON PRESS DEPOSITORY, OXFORD.
-'[Every booh is bound in cloth, unless otherwise described.]
-
-
-LEXICONS, GRAMMARS, &c.
-
-(See also Clarendon Press Series, pp. 14 , 18 , 21 , 24 , 25 )
-
-Anglo-Saxon. — An Anglo-Saxon Dictionary , based on the
-
-MS Collections of the late Joseph Bosworth, D.D , Professor of Anglo-Saxon,
-Oxford. Edited and enlarged by Prof T N Toller, M A. (To be completed
-in foui paits.) Parts I and II. A — HWISTLIAN (pp. vi, 576). 1882. 4to.
-15^ each
-
-CHINESE. — A Handbook of the Chinese Language . Parts I
-and II, Giammar and Chiestomathy. By James Summers. 1863. 8vo.
-half bound, il. 8 s.
-
-ENGLISH. — A New English Dictionary , on Historical Prin-
-ciples founded mainly on the materials collected by the Philological Society
-Edited by James A. PI Murray, LL D , President of the Philological Society;
-with the assistance of many Scholars and men of Science. Pait I A — ANT
-(pp. xvi, 352) Imperial 410. 12s. 6 d. ^
-
-An Etymological Dictionary of the English Language .
-
-By W. W. Skeat, M A. Second Edition 1884. 410. 2 1 . ^s.
-
-rSupplement to the First Edition of the above. 1884.
-
-4to 2 s 6 d.
-
-A Concise Etymological Dictionary of the English Lan-
-guage By W. W. Skeat, M A. Second and Revised Edition . 1885, Crown
-Svo. 5 s 6 d .
-
-Greek. — A Greek-English Lexicon , by Henry George
-
-Liddell, D D., and Robert Scott, D D Seventh Edition, Revised and Aug-
-mented throughout. 1883 4to 1/ i6x.
-
-A Greek-English Lexicon , abridged from Liddell and
-
-Scott’s 410. edition, chiefly for the use of Schools, Twenty fust Edition
-1SS4. Square 1 2mo. 7 s. 6 d,
-
-[9]
-
-
-B
-
-
-2
-
-
-CLARENDON PRESS, OXFORD
-
-
-Greek. — A copious Greck-English Vocabulary , compiled from
-
-the best authorities 1850 241110. 3.?.
-
-• A Practical Introduction to Greek Accentuation . by H.
-
-W Chandler, M.A Second Edition 1881. Svo. for Otf
-
-Hebrew. — The Book of Hebrew Roots , by Abu l-Wakd
-
-Marwan ibn Janah, otherwise called Rabbi Yonah. Now first edited, with an
-Appendix, by Ad. Neubauer 1875. 4to. 2/ 7 $ 6 d.
-
-A Treatise on the use of the Tenses in Hebrew. By
-
-S. R. Driver, DD Second Edition, Revised and Enlarged. iSSr. Extra
-fcap. Svo. 7^. 6 d.
-
-Hebrew Accentuation of Psalms, Proverbs, and Job .
-
-By William Wickes, D.D 18S1. Demy 8vo stiff covets, 5J.
-
-ICELANDIC. — An Icelandic- English Dictionary, based on the
-
-MS collections of the late Richard Cleasby Enlarged and completed by
-G. Vigfiisson, M A. With an Introduction, and Life of Richard Cleasby, by
-G. Webbe Dasent, D.C L. 1874 4to. 3/. 7^.
-
-A List of English Words the Etymology of which is
-
-illustrated by comparison with Icelandic. Prepared m the form of an
-Appendix to the above. By W. W. Skeat, M.A. 1876 stitched, 2 s.
-
-An Icelandic Prose Reader , with Notes, Grammar and
-
-Glossary, by Dr Gudbrand Vigfusson and F. York Powell, M.A. 1879.
-Extra fcap. 8vo. 10s. 6 d .
-
-Latin. — A Latin Dictionary, founded on Andrews’ edition
-
-of Freund’s Latin Dictionary, revised, enlarged, and in great part rewritten
-by Charlton T Lewis, Ph.D , and Charles Shoit, LL.D 1879 4 to * I ^* 5 J -
-
-SANSKRIT. — A Practical Grammar of the Sanskrit Language,
-
-arranged with reference to the Classical Languages of Europe, for the use of
-English Students, by Mon ier Williams, M.A. Fourth Edition, 1877. Svo. 15 s.
-
-A S anskr it- English Dictionary, Etymologically and
-
-Philologically ananged, with special refeience to Gieek, Latin, German Anglo-
-Saxon, English, and other cognate Indo-European Languages. By Monier
-Williams, M A 1872. 4to. 4 7 . 14s. 6d.
-
-N alopdkhydnanu Story of Nala, an Episode of the
-
-Maha-Bharata* the Sanskrit text, with a copious Vocabulary and an improved
-■version of Dean Milman’s Translation, by Monier Williams, M.A. Second
-Edition, Revised and Impioved. 1879. 8vo 15 s.
-
-Sakuntala. A Sanskrit Drama, in Seven Acts. Edited
-
-by Monier Williams, M A. Second Edition, 1876. Svo 21s.
-
-SYRIAC. — Thesaurus Synacus : collegerunt Quatrem&re, Bern-
-stein, Loisbach, Arnoldi, Agrell, Field, Roediger: edidit R Payne Smith,
-S.TP. Fasc. I-VI. 1868-83. sm. fol. each, il. is. Vol I, containing
-Fasc I-V, sm. fol 5/ £s.
-
-The Book of Kalilah and Dimnah . Tianslated from Arabic
-
-into Syriac. Edited by W. Wright, LL.D. 18 84. Svo. 2i£.
-
-
-CLARENDON PRESS , OXFORD.
-
-
-3
-
-
-gueee: classics, &c.
-
-Aristophanes: Complete Concordance to the Comedies
-
-and Fragments. By Henry Dunbar, M D. 4to. il is.
-
-Aristotle : The Politics , translated into English, with Intro-
-duction, Marginal Analysis, Notes, and Indices, by B Jowett, M.A Medium
-8 vo Nearly ready
-
-Heracliti Ephesii Reliquiae . Recensuit I. By water, M A.
-
-Appendicis loco additae sunt Diogems Laertu Vita Heracliti, Particulae Iiip-
-pocratei De Diaeta Libn Pnmi, Epistolae Herachteae. 1877. 8vo. 6s.
-
-Homer: A Complete Concordance to the Odyssey and
-
-Hymns of Homer , to which is added a Concordance to the Parallel Passages
-in the Iliad, Odyssey, and Hymns. By Henry Dunbar, M D 1880. 410. 1/ ix
-
-Scholia Graeca in Iliadem . Edited by Professor W.
-
-Dmdorf, after a new collation of the Venetian MSS by I) B M01110, M.A.,
-Fellow of Oriel College.
-
-Vols I II 1875 8vo 24 s
-Vols III IV. 1S77 8vo 26.?.
-
-Vols V. VI. In the Press .
-
-Scholia Graeca in Odysseam . Edidit Guil. Dindorfius
-
-Tomi II 1855. 8vo ‘ I 5 S
-
-Plato : Apology , with a revised Text and English Notes, and
-
-a Digest of Platonic Idioms, by James Riddell, M.A. 1878. 8vo. Ss. 6 d.
-
-Philebus , with a revised Text and English Notes, by
-
-Edwaid Poste, M.A. i860 8vo fs 6 d
-
-Sophistes and Pohticus , with a revised Text and English
-
-Notes, by L. Campbell, M.A. 1867. 8vo. iSs.
-
-Theaetetus , with a revised Text and English Notes,
-
-by L. Campbell, M.A. Second Edition. 8vo. io,y 6 d
-
-The Dialogues , translated into English, with Analyses
-
-and Introductions, by B Jowett, M A A new Edition m 5 volumes, medium
-8vo. 1875. 3 1 10s.
-
-The Republic , translated into English, with an Analysis
-
-and Introduction, by B. Jowett, hi A. Medium 8vo. 12 s. 6 d.
-
-• Index to. Compiled for the Second Edition of Professor
-
-Jowett’s Translation of the Dialogues. By Evelyn Abbott, M A. 1875.
-8vo paper covers, 2 s. 6 d.
-
-Thucydides : Translated into English, with Introduction,
-
-Marginal Analysis, Notes, and Indices By B. Jowett, M.A. 2 vols 1881.
-Medium 8vo. ll. 12s.
-
-
-B 2
-
-
-4
-
-
-CLARENDON PRESS , OXFORD .
-
-
-THE HOLY SCRIPTURES, &c.
-
-ENGLISH, — The Holy Bible in the earliest Jdnglish Versions ,
-
-made from the Latin Vulgate by John Wycliffe and his followers edited by
-the Rev. J. Forshall and Sir F Madden. 4 vols 1850. Ro)al 4to 3/. 3^.
-
-[Also reprinted from tlie above, with. Introduction and Glossary
-by W. W. Skeat, M.A.
-
-The Boohs of Job, Psalms , Proverbs , Ecclesiastes , and the
-
-Song of Solomo?i according to the Wycliffite Version made by Nicholas
-de Hereford, about a.d 13S1, and Re\ised by John Purvey, about A.D 1388.
-Extra fcap Svo. 3^. 6d.
-
-The New Testament in English , according to the Version
-
-by John Wycliffe, about A D. 1380, and Revised by John Purvey, about A D,
-1388. Extra fcap. Svo 6i*]
-
-
-The Holy Bible : an exact reprint, page for page, of the
-
-Authorised Version published m the year 161 1. Demy 4to. half bound, il. is
-
-The Psalter , or Psalms of David , and certain Canticles ,
-
-with a Translation and Exposition m English, by Richard Rolle of Hampole.
-Edited by H. R. Bramley, M A , Fellow of S. M. Magdalen College, Oxford.
-With an Introduction and Glossary, Demy Svo 1/ ir.
-
-Gothic. — The Gospel of St . Mark in Gothic , according to
-
-the translation made by Wulfila in the Fourth Century. Edited with a
-Grammatical Introduction and Glossarial Index by W. W, Skeat, M.A.
-Extia fcap Svo. 4 s.
-
-GREEK. — Veins Testamentmn ex Versione Septuaginta Inter-
-
-pretum secundum exemplar ValicanumRomae editum. Accedit potior vanetas
-Codicis Alexandrmi Tomi III. Editio Altera iSmo, 1 8s.
-
-Origenis Hexaplorum quae supersunt; sive, Veterum
-
-Interpretum Graeconim m totum Vetus Testamentum Fragmenta. Edidit
-Fiidencus Field, A.M. 2 vols 1875 4to. 5 1 5*?*
-
-. The Book of Wisdom : the Greek Text, the Latin
-
-Vulgate, and the Authorised English Version ; with an Introduction, Critical
-Apparatus, and a Commentary By William J. Deane, M.A. Small 4to. x 2 s. 6d .
-
-Novum Testamentum Graece . Antiquissimorum Codicum
-
-Textus m 01 dine parallel© dispositi. Accedit collalio Codicis Smaitici. Edidit
-E. H. Hansell, S.T.B* Tomi III 1864. Svo. half morocco, 2/. 12s 6d
-
-Novum Testamentum Graece . Accedunt parallela S.
-
-Scripturae loca, necnon vetus capituloium notatio et canones Eusebu. Edidit
-Carolus Lloyd, S.T, P. R. i8mo. 3^.
-
-The same on writing paper, with large margin, 10s.
-
-
-CLARENDON PRESS , OXFORD .
-
-
-5
-
-
-Greek. — Novum Tcstamentum Gracce juxta Exemplar Millia-
-
-num. i8mo is 6 d.
-
-The same on writing paper, with large margin, gs.
-
-Evangelia Sacra Gracce . Fcap. 8v o. limp, li*.
-
-The Greek Testament , with the Readings adopted by
-
-the Revisers of the Authoiised Version . —
-
-(1) Pica type, with Maiginal References. Demy Svo. ioj. 6 d .
-
-(2) Long Piimei type. Fcap. Svo 4s. 6c?.
-
-(3) The same, on wiiting paper, with wide maigin, 155.
-
-The Parallel New Testament \ Greek and English ; being
-
-the Authorised Veision, 1611 , the Revised Veision, 18S1 , and the Greek
-Text followed m the Revised Version. Svo I2f 6 d.
-
-The Revised Version is the joint property of the Umvet sitics of Oxford and C&mbt idge ,
-
-Canon Muratorianus : the earliest Catalogue of the
-
-Books of the New Testament. Edited with Notes and a Facsimile of the
-MS. m the Ambrosian Library at Milan, by S P. Tiegelles, LL IL 1S67.
-4to. ioj\ 6 d.
-
-Outlines of Textual Criticism applied to the New Testa-
-
-ment By C. E. Hammond, M A. Fourth Edition. Extra fcap. S\ 0 3 s. 6 d.
-
-Hebrew, etc. — The Psalms in Hebrew without points . 1879.
-
-Crown Svo 3 s. 6 d.
-
-A Commentary on the Book of Proverbs. Attributed
-
-to Abraham Ibn Ezra Edited from a MS. in the Bodleian Libiaiy by
-S. R Driver, M A Crown Svo paper covers, %s 6 d.
-
-The Book of Tobit . A Chaldee Text, from a unique
-
-MS. in the Bodleian Library, with other Rabbinical Texts, English Transla-
-tions, and the Itala. Edited by Ad. Neubauer, M A. 1S78. Clown Svo. 6 s,
-
-Horae Hebraicae et Talmudic ac, a J. Lightfoot. A new
-
-Edition, by R. Gandell, M.A, 4 vols 1859. Svo. ll. 1 s.
-
-Latin. — Libri Psahnorum Versio antiqua Latina, cum Para-
-
-phrasi Anglo-Saxomca Edidit B. Thoipe, F A.S. 1S35. Svo. 10s ♦ &&
-
-Old-Latin Biblical Texts : No. /. The Gospel according
-
-to St Matthew fiom the St. Germain MS. (gi) Edited with Introduction
-and Appendices by John Wordsw r oith, M.A. Small 4to., stiff covers, 6 s.
-
-OLD-FRENCH. — Libri Psahnorum Versio antiqua Gallica e
-
-Cod MS. m Bibl. Bodleiana adservato, una cum Versione Metrica alnsque
-Monumentis pervetustis Nunc primum desenpsit et edidit Franciscus Michel,
-Phil. Doc. i860. 8vo. 1 of. 6 d,
-
-
-6
-
-
-CLARENDON PRESS, OXFORD.
-
-
-FATHERS OP THE CHTJHCH, & c.
-
-St. Athanasius : Historical Writings , according to the Bene-
-dictine Text With an InUoduction by William Bright, D.D 1S81. Crown
-8vo. ioj 6d.
-
-Orations against the Arians , With an Account of his
-
-Life by William Bright, D.D 1873. Crown Svo 9.?.
-
-St. Augustine : Select Anti- Pelagian Treatises, and the Acts
-
-of the Second Council of Orange. With an Intioduction by William Blight,
-D.D. Crown Svo. 9^.
-
-Canons of the First Four General Councils of Nicaea, Con-
-
-stantinople, Ephesus, and Chalcedon. 1877. Crown Svo. 2 s. 6d.
-
-- Notes on the Canons of the First Four General Councils .
-
-By William Bright, D D. 1882. Crown 8vo $s 6d
-
-Cyrilli Archicpiscopi Alexandrini in XII Prophetas . Edidit
-
-P. E. Pusey, A M. Tomi II. 1868. 8vo. cloth, 2/. is.
-
-in D. Joannis Evahgelium . Accedunt Fragmenta varia
-
-necnon Tractatus ad Tiberium Diaconum duo. Edidit post Aubertum P.
-E Pusey, A.M. Tomi III. 1872. 8vo. 2I. 5s.
-
-Commentarii in Lucae Evangelium quae supersunt
-
-Synace. E MSS. apud Mus. Britan, edidit R. Payne Smith, A M. 1858.
-4to. 1/. 2 s,
-
-Translated by R. Payne Smith, MA. 2 vols. 1859.
-
-Svo. 14^.
-
-Ephraemi Syri \ Rabulae Episcopi Edesseni, Balaei, aliorum-
-que Opera Selecta E Godd. Synacis MSS. in Museo Butanmco et Bibliotheca
-Bodleiana asservatis primus edidit J J. Overbeck. 1865 8vo. ^t. is.
-
-Eusebius’ Ecclesiastical History , according to the text of
-
-Burton, vith an Introduction by William Bright, D.D. 18S1. Crown 8vo.
-8s. 6d.
-
-Irenaeus : The Third Book of St. Ire naeus^ Bishop of Lyons,
-
-against Heresies. With short Notes and a Glossary by H. Deane, B.D.
-1874. Crown 8vo. 5^. 6d.
-
-Patrum Apostolicorum , S. Clementis Romani, S. Ignatii,
-
-S. Polycarpi, quae supersunt. Edidit Guil. Jacobson, S.T.PR. Tomi II.
-Fourth Edition, 1863. 8vo. 1 /. is.
-
-Socrates' Ecclesiastical History , according to the Text of
-Hussey, with an Introduction by William Bright, D.D. 1878. Crown Svo.
-7 ^. 6 d.
-
-
-CLARENDON PRESS, OXFORD.
-
-
-7
-
-
-ECCLESIASTICAL HISTORY, BIOGRAPHY, &c.
-
-Ancient Liturgy of the Church of England, according to the
-
-uses of Sarum, York, Hereford, and Bangor, and the Roman LVut™ a^a^ged
-m parallel columns, with preface and notes. By William Mu-W.., M A
-Third Edition. 1882. 8vo. 15 s.
-
-Baedae Historia Ecclesiastic a. Edited, with English Notes,
-
-by G. H Moberly, M.A. 1881. Ciown 8vo 10s 6d
-
-Bright ( W.). Chapters of Early English Church History .
-
-1878. 8vo 12s.
-
-Bur net s History of the Reformation of the Church of England,
-
-A new Edition. Carefully revised, and the Recoids collated with the originals,
-by N. Pocock, M A. 7 vols 1865. 8vo Price reduced to il ioj.
-
-Councils and Ecclesiastical Documents relating to Great Britain
-
-and Ireland Edited, after Spelman and Wilkins, by A. W. Haddan, B.D ,
-and W. Stubbs, M A. Vols I. and III. 1869-71. Medium 8vo each il is
-
-Vol II. Part I. 1873. Medium Svo. ior 6d.
-
-Vol. II. Part II 187S Church of Ii eland; Memorials of St Patiick.
-Stiff covers, 3^ 6d.
-
-Hamilton ( John , Archbishop of St, Andrews). The Catechism
-
-of Edited, with Introduction and Glossary, by Thomas Graces Law. With
-a Pi eface by the Right Hon W E. Gladstone. Svo. 12s 6d
-
-Hammond (C. E.). Liturgies , Eastern and Wes tan. Edited,
-
-with Introduction, Notes, and Lituigical Glossal y. 187$. Crown Svo. ic s 6d.
-An Appendix to the above 1879 Crown 8\o paper covers, is 6d.
-
-Jollity Bishop of Ephesus. The Third Part of Ins Eccle-
-siastical Histoiy [In Synac] Now first edited by William Cuieton, M A.
-1833 4to. 12S •
-
-Translated by R. Payne Smith, M.A. i860. Svo. 10 s.
-
-Leofric Missal, The , as used in the Cathedral of Exeter
-
-during the Episcopate of its fast Bishop, A D 1050-1072 ; together with some
-Account of the Red Book of Derby, the Missal of Robert of Jumi&ges, and a
-few other early MS Service Books of the English Church. Edited, with In-
-troduction and Notes, by F. E. Warren, B.D. 4to. half morocco, 35^.
-
-Monumenta Ritualia Ecclesiae Anglicanae. The occasional
-
-Offices of the Church of England accoidmg to the old use of Salisbury, the
-Prymer m English, and other prayers and foims, with dissertations and notes.
-By William Maskell, M.A. Second Edition 1882. 3 vols Svo. 2/. 10s.
-
-Records of the Reformation. The Divorce, 1527-1533. Mostly
-
-now for the first time punted from MSS. in the British Museum and other libra-
-ries. Collected and arranged by N. Pocock, M.A. 1870. 2 vols. Svo. 1 /. 16s.
-
-
-8
-
-
-CLARENDON PRESS, OXFORD.
-
-
-Shirley (IV. IV.). Some Account of the Church in the Apostolic
-
-Age. Second Edition, 1874 fcap. Svo. 35 6 d.
-
-Stubbs ( W ). Rcgistrum Sacrum Anglic anum. An attempt
-
-to exhibit the course of Episcopal Succession m England. 1S5S. Small ^to
-8^ 6 d
-
-IVarrcn (. F . El). Liturgy and Ritual of the Celtic Church.
-
-1 S 3 1 Svo 14 s.
-
-
-ENGLISH THEOLOGY.
-
-Butler's Works, with an Index to the Analogy. a vols. 1874.
-IIS * Also separately,
-
-Sermons , $s. 6d. Analogy of Religion, 5s. 6d.
-
-G reswells Harmonia Evangelic a. Fifth Edition. 8vo. 1855.
-
-9J-. 6 d.
-
-El cur tie f s Harmonia Symbolical Creeds of the Western
-
-Church. 1858. Svo. 6 s. 6 d
-
-Homilies appointed to be read in Churches . Edited by
-
-J. Griffiths, M.A. 1859. Svo. 7 s. 6 d
-
-Hooker's Works, with his life by Walton, arranged by John
-Keble, M A. Sixth Edition, 1874 3 vols. Svo. it. 11s. 6 d.
-
-the text as arranged by John Keble, M.A. % vols.
-
-1875. 8vo 11s.
-
-J civets Works . Edited by R. W. Jelf, D.D. 8 vols. 1848.
-
-8vo. 1 /. 10 s.
-
-Pear sods Exposition of the Creed. Revised and corrected by
-E. Burton, D.D Sixth Edition, 1877. ^ vo l0S *
-
-Water land's Review of the Doctrine of the Eucharist , with
-
-a Preface by the late Bishop of London. Crown Svo. 6 s 6 d.
-
-Works , with Life, by Bp. Van Mildert. A new’ Edition,
-
-with copious Indexes. 6 vols 1856. Svo 2/ iij.
-
-Whcatly s Illustration of the Book of Common Prayer. A new
-
-Edition, 1846. 8vo. §s.
-
-Wyclif. A Catalogue of the Original Works of John Wyclif
-
-by W. W. Shirley, D.D. 1865. Svo. 3 s. 6 d.
-
-Select English Works. By T. Arnold, M.A. 3 vols.
-
-1869-1871. Svo. Price reduced to it. is.
-
-- Trialogus . With the Supplement now first edited.
-
-By Gotthard Lechler. 1869. Svo. Price reduced to Js.
-
-
-CLARENDON PRESS , , OXFORD
-
-
-9
-
-
-HISTOBICAL AND DOCUMENTARY WORKS.
-
-British Barrows *a Record of the Examination of Sepulchral
-
-Mounds m various parts of England By William Greenwell, M.A , F S A
-Together with Desciiption of Figuies of Skulls, General Remarks on Pie-
-histonc Crania, and an Appendix by George Rolleston, M.D , F.R S. 1877.
-Medium 8vo. 25 $,
-
-Britton . A Treatise upon the Common Law op England ,
-
-composed by order of King Eduard 1 The Fiench Text carefully revised,
-with an English Translation, Introduction, and Notes, by F M Nichols, M A
-2 vols. 1865 Royal $vo 1/ 16s.
-
-Clarendon' s History of the Rebellion and Civil Wars in
-
-England. 7 vols 1839 i8mo il. is
-
-Clarendon s History of the Rebellion and Civil Wars in
-
-England Also his Life, written by himself, in which is included a Con-
-tinuation of his History of the Grand Rebellion. With copious Indexes.
-In one volume, royal 8vo 1842. 1/ 2 s.
-
-Clintons Epitome of the Fasti Hellcnici . 1 85 1 . 8vo. 6 s. 6 d .
-
-Epitome of the Fasti Romani. 1854. Svo. js.
-
-Corpus Poeticvm Boreale . The Poetry of the Old Northern
-
-Tongue, from the Eailiest Times to the Thirteenth Centuiy. Edited, clas-
-sified, and translated, with Introduction, Excursus, and Notes, by Gudbrand
-Vigfusson, M A., and F. York Powell, M A. 2 vols. 1883. 8vo. 42^.
-
-Freeman [E. A.). History of the Norman Conquest of Eng-
-
-land ; its Causes and Results In Six Volumes. Svo 5 1 9 s 6d.
-
-Freeman [E. A.). The Reign of William Rufus and the
-
-Accession of Henry the Fust. 2 vols Svo. 1/ 16s
-
-Gascoigne's Theological Dictionary (“ Liber Veritatum 55 ) :
-
-Selected Passages, illustrating the condition of Church and State, 1403-1458.
-With an Introduction by James E. Thorold Rogeis, M P Small 4to. ios 6d.
-
-Magna Carta , a careful Reprint. Edited by W. Stubbs, M.A.
-
-1879 4 to * stitched, is
-
-Passzo et Miracida Beati Olaui. Edited from a Twelfth-
-
-Century MS m the Libiary of Coipus Chnsti College, Oxford, with an In-
-troduction and Notes, by Frederick Metcalfe, M A Small 4to. stiff covers, 6s.
-
-Protests of the Lords , including those which have been ex-
-punged, from 1624 to 1874 ; with Historical Introductions Edited by James
-E Thorold Rogers, M.A 1875 3 vols. Svo. 2/ 2 s
-
-Rogers ( J . E. T). History of Agriculture and Prices in
-
-England, AD. 1259-1793.
-
-
-TO
-
-
-CLARENDON PRESS , OXFORD .
-
-
-Saxon Chronicles ( Two of the) parallel \ with Supplementary
-
-Extracts from, tlie Others Edited, with Introduction, Notes, and a Glos-
-sarial Index, by J. Earle, M A 1S65. 8vo. i6r
-
-Sturlunga Saga , including the Islendinga Saga of Lawman
-
-Sturla Thordsson and othei works. Edited by Di Gudbrand VigfiLson
-In 2 vols. 1878. 8vo. 2/ 2 s.
-
-York Plays . The Plays performed by the Crafts or Mysteries
-
-of York on the day of Corpus Chnsti m the 14th, 15th, and 16th centuries.
-Now fiist printed fiom the unique manuscript in the Librai} of Lord Ashbnrn-
-ham. Edited with Intioduction and Glossaiy by LucyToulmm Smith Svo
-2 is. Just Published.
-
-
-Statutes made for the University of Oxford^ and for the Colleges
-and Halls therein, by the University of Oxford Commissioneis. 1882 Svo.
-12s 6 d.
-
-Statuta Uf liver sitatis Oxoniensis . 1884. 8vo. $s.
-
-The Student's Handbook to the University and Colleges of
-
-Oxford Seventh Edition. 1883, Extra fcap Svo. 2 s. 6 d.
-
-The Oxford University Calendar for the year 1885. Crown
-
-8vo. 6 d.
-
-The present Edition includes all Class Lists and other University distinctions for
-the five years ending with 1884
-
-Also, supplementary to the above, price 5s. (pp. 606),
-
-The Honours Register of the University of Oxford . A complete
-Record of University Honours, Officers, Distinctions, and Class Lists ; of the
-Heads of Colleges, See Sc c, from the Thirteenth Century to 1883
-
-MATHEMATICS, PHYSICAL SCXEHCE, &c.
-
-A cl and (H. W* } M.D., F.R.S.). Synopsis of the Pathological
-
-Senes m the Oxford Museum. 1S67. Svo 2 s Cd.
-
-Astronomical Observations made at the University Observ-
-
-atory, Oxford, under the direction of C. Pritchard, M.A. No. 1. 187S
-
-Royal Svo. papei covers, 3.5-. 6 d.
-
-De Bary ( Dr . A.) Comparative Anatomy of the Vegetative
-Organs of the Phanerogams and Ferns. Tianslated and Annotated by F O
-Bower, MA, F L.S , and D H. Scott, M A., Ph.D., h L.S. With two
-hundred and forty-one woodcuts and an Index. Royal Svo , half morocco,
-1/ 2s. 6 d.
-
-Midler (J.), On certain Variations in the Vocal Organs of
-the Passeres that have hitherto escaped notice . Translated by F. J Bell, B A
-and edited, with an Appendix, by A. H. Garrod, M.A , F.R.S. With Plates'
-1S78. 4to. paper covers, 7s. 6 d.
-
-
-CLARENDON PRESS, OXFORD .
-
-
-1 1
-
-
-Phillips (John, M A., F.RS.). Geology of Oxford and the
-
-Valley of the Thames. 1S71 8vo 2U.
-
-Vesuvius . 4869. Crown 8vo. 10 s. 6 d.
-
-Price (. Bartholomew , M.A., F R.S.). Treatise on Infinitesimal
-
-Calculus .
-
-Vol. I. Differential Calculus. Second Edition. Svo 14 s.6d
-Vol. II. Integral Calculus, Calculus of Variations, and Differential Equations
-Second Edition, 1865. 8vo 18s
-
-Vol. III. Statics, including Attractions, Dynamics of a Material Particle
-Second Edition, 1868. Svo. 1 6s.
-
-Vol IV. Dynamics of Material Systems, together with a chapter on Theo-
-retical Dynamics, by W F. Donkin, MA.FRS 1862. Svo 16s
-
-Rigaud’s Correspondence of Scientific Men of the ijth Century ,
-
-with Table of Contents by A. de Morgan, and Index by the Rev. J Rigaud,
-M.A. 2 vols. 1841-1862. 8vo. i8j. 6d.
-
-Rolleston ( George , M.D . , F'.R.S ). Scientific Papers and Ad~
-
-dresses . Arranged and Edited by William Tumei, MB, FRS1 With a
-Biographical Sketch by Edward Tylor, F.R.S. With Portrait, Plates, and
-Woodcuts. 2 vols. Svo. 1 1 4^
-
-Sac IN Text- Book of Botany , Morphological and Physiological .
-A New Edition . Translated by S. H Vines, M A. 1882. Ro>al 8vo., half
-morocco, il 11 s 6d.
-
-Westwood ( J . O ., M.A . , A.,/?. 5 .). Thesaurus Entomologicus
-
-Hopeianus, or a Description of the rarest Insects m the Collection given to
-the University by the Rev. William Hope. With 40 Plates. 1874. Small
-folio, half morocco, 7/ ioj.
-
-
-Scarair 23oofcs of tie IEas t.
-
-Translated by Vx\rious Oriental Scholars, and edited by
-F. Max Muller.
-
-[Demy Svo. cloth ]
-
-Vol. I. The Upanishads. Translated by F. Max M tiller.
-
-Pait I The A7^ndogya-upamshad, The Talavakara-upamshad, The Altai e}a-
-arawyaka. The Raushitaki-brahmawa-upamshad, and The V a^asaneyi-sawhita-
-upamshad. ioj. 6d,
-
-Vol. II. The Sacred Laws of the Aryas, as taught in the
-
-Schools of Apastamba, Gautama, Vasishlha, and Baudhayana. Translated by
-Prof. Georg Buhler. Part I. Apastamba and Gautama, ics, 6d.
-
-
-12
-
-
-CLARENDON PRESS, OXFORD .
-
-
-Vol. III. The Sacred Books of China. The Texts of Con-
-fucianism. Translated by James Legge. Pait I. The Shu King, The Reli-
-gious poitions of the Shih King, and The Hsi&o King. 12 s 6 d.
-
-Vol. IV. The Zend-Avesta. Translated by James Darme-
-
-steter, Parti TheVendidad. 10s 6 d.
-
-Vol. V. The Pahlavi Texts. Translated by E. W. West.
-
-Pait I. The Bundahu, Bahman Yajt, and Shayast la-shayast. I2J- 6 d.
-
-Vols. VI and IX. The Qur ; dn. Parts I and II. Translated
-
-by E. H Palmer. 2 is,
-
-Vol. VII. The Institutes of Vish/m. Translated by Julius
-
-Jolly. 1 os. 6 d<
-
-Vol. VIII The Bhagavadgita, with The Sanatsii^ittya, and
-
-The AnugiU. Tiauslated by Kashmath. Tnmbak Telang. 10 s 6 d
-
-Vol. X. The Dhammapada, translated from Pali by F. Max
-
-Mullei ; and The Sutta-Nipata, tianslated fiom Pali by V. Fausboll; being
-Canonical Books of the Buddhists, ioj. 6 d.
-
-Vol. XI. Buddhist Suttas. Translated from Pali by T. W.
-
-Rhys Davids. 1. The Mahapaiimbbana Suttanta , 2. The Dhamma-£akka-
-ppavattana Sutta ; 3. The Tevig^a Suttanta; 4 The Akankheyya Sutta;
-5. The Aetokhila Sutta ; 6. The MaM-sudassana Suttanta , 7. The Sabbasava
-Sutta. ioj. <$d.
-
-Vol. XII. The Satapatha-Brahma^a, according to the Text
-
-of the Madhyandma School. Translated by Julius Eggelmg, Part I.
-Books I and II. 12 s. 6 d.
-
-Vol. XIII. Vinaya Texts. Translated from the Pali by
-
-T. W Rhys Davids and ITermann Oldenberg. Part I. The Patimokkha
-The Mahavagga, I -IV. ics 6 d.
-
-Vol. XIV. The Sacred Laws of the Aryas., as taught in the
-
-Schools of Apastamba, Gautama, VasishMa and Baudhayana Tianslated
-by Georg Buhler, Part II. VabishMa and Baudhayana. ioj 6 d.
-
-Vol. XV. The Upanishads. Translated by F. Max Muller.
-
-Part II. The Ka^a-u-n-'ishcc 1 The M 1 _/'/uha-vpr- : -haJ The Taittiriyaka-
-upanishad, Th^ B/.nj'-d n^a- a-upa^ sr.a,, T^e S\eta. aram-apamshad. The
-Pra^a-upams".r.d, auc The Ma .r<\a; a-E-ahn.a;:a-i’pan shad ioj. 6 d.
-
-Vol. XVI. The Sacred Books of China. The Texts of Con-
-
-fucianism. Tianslated by James Legge. Part II. The Yi King, ioj 6 d.
-
-Vol. XVII. Vinaya Texts. Translated from the P&li by
-
-T. W. Rhys Davids and Heimann Oldenberg. Part II. The Mahavagga,
-V-X. The Aullavagga, I— III, 10s. 6 d.
-
-
-CLARENDON PRESS, OXFORD .
-
-
-*3
-
-
-Vol. XVIII. Pahlavi Texts. Translated by E. W, West.
-
-Pait II. The Da^istan-i Dinik and The Epibtles of Manujv&lhar. 12s. 6 d.
-
-Vol. XIX. The^Fo-sho-hing-tsan-king. A Life of Buddha
-
-by Arvaghosha Bodhisattva, translated fiom Sanskrit into Chinese by Dhai-
-maraksha, a d. 420, and from Chinese into English by Samuel Beal 10 s. 6 d,
-
-Vol. XX. Vinaya Texts. Translated from the PHli by T. W.
-
-Rhys Davids and Hermann Oldenbeig. Part III. The Aullavagga, IV-XII
-Svo. cloth, ioj. 6 d.
-
-Vol. XXI. The Saddharma-pu//rfarfka ; or, the Lotus of the
-
-True Law. Translated by Ii Kern Svo cloth, 1 2s 6 d
-
-Vol. XXII. £aina-Sutras. Translated from Prakrit by Her-
-mann Jacobi Pait I The AX’dianga-Sutra. The Kalpa-Sutra. 8\o. cloth,
-10 s. 6 d.
-
-Vol. XXIII. The Zend-Avesta. Translated by James Dar-
-
-mesteter. Part II. The Sirdzahs, Yarts, and Nydyu. Svo cloth, ioj. 6 d.
-
-Vol. XXIV. Pahlavi Texts. Translated by E. W. West.
-
-Part III Dina-t Maiudg-i Khirad, Aikand-gumamk, and Sad-Dar Svo.
-cloth, ioi" 6 d.
-
-
-Second Series.
-
-The following Volumes are in the Pi ess —
-
-Vol. XXV. Manu. Translated by Georg Buhler.
-
-Vol. XXVI. The Satapatha-Brahmaz/a. Translated by
-
-Julius Eggelmg. Part II.
-
-Vols. XXVII and XXVIII. The Sacred Books of China.
-
-The Texts of Confucianism. Translated by James Legge Parts III and IV.
-The Li AT, or Collection of Treatises on the Rules of Propriety, or Ceremonial
-Usages.
-
-Vols. XXIX and XXX. The Gri hya-sutras, Rules of Vedic
-
-Domestic Ceiemonies Translated by Hermann Oldenberg Parts I and II
-
-Vol. XXXI. The Zend-Avesta. Part III. The Yazna,
-
-Visparad, Afrtg&n, and Gahs. Translated by the Rev. L. H. Mills.
-
-Vol. XXXII. Vedic Hymns. Translated by F. Max Muller.
-
-Part I.
-
-*** The Second Senes will consist of Twenty-Four Volumes in all.
-
-
-14
-
-
-CLARENDON PRESS, OXFORD.
-
-
-Ctankrn
-
-
-I. ENGLISH.
-
-A First Reading Book . By Marie Eichens of Berlin ; and
-
-edited by Anne J. Clough. E\tra fcap. 8vo. stiff covers, 4 d.
-
-Oxford Reading Book, Part I. For Little Children. Extra
-
-fcap. Svo. stiff covers, 6d.
-
-Oxford Reading Book , Part II. For junior Classes. Extra
-
-fcap. Svo. stiff covers, 6 d.
-
-An Elementally English Grammar and Exercise Book> By
-
-O. W. Tancock, M A. Second Edition Extra fcap. 8vo is 6d.
-
-An English Grammar and Reading Book fox Lower Forms
-in Classical Schools By O. W. Tancock, M A. Fourth Edition. Extra
-fcap Svo 3 s. 6d
-
-Typical Selections from the best English Writers , with Intro-
-ductory Notices. Second Edition. In Two Volumes Extra leap. Svo.
-3 *f. 6d each.
-
-Vol I. Latimer to Berkeley. Vol II. Pope to Macaulay.
-
-Shairp C., LL.D ). Aspects of Poetry ; being Lectures
-
-delivered at Oxford. Crown Svo ioj 6d.
-
-
-A Book for the Beginner in Anglo-Saxon . By John Earle,
-
-M A. Third Edition, Extra fcap. 8vo. 2 s, 6d.
-
-An Anglo-Saxon Reader . In Prose and Verse. With Gram-
-matical Introduction, Notes, and Glossaiy. By Henry Sweet, M.A Fourth
-Edition, Revised and Enlarged. Extra fcap 8vo. 8^. 6d.
-
-An Anglo-Saxon Primer , with Grammar > Notes , and Glossary .
-
-By the same Author. Second Edition. Extra fcap. Svo. 2 s 6 d.
-
-First Middle English Primer , with Grammar and Glossary .
-
-By the same Author. Extra fcap. Svo. 2 s.
-
-The Philology of the English Tongue . By J. Earle, M.A.
-
-Third Edition. Extra fcap 8vo 7 s 6d.
-
-A Handbook of Phonetics, including a Popular Exposition of
-
-the Principles of Spelling Reform. By Henry Sweet, M.A. Extra fcap. 8vo
-
-4 s, 6 d.
-
-The Ormulum; with the Notes and Glossary of Dr. R. M.
-White. Edited by R. Holt, M.A. 1S78. 2 vols. Extra fcap. Svo. 2 is.
-
-
-CLARENDON PRESS, OXFORD.
-
-
-English Plant Names from the Tenth to the Fifteenth
-
-Century. By J. Earle, M.A. Small fcap Svo. 5 $
-
-Specimens of Early English . A New and Revised Edition.
-
-With Introduction, Notes, and Glossanal Index By R Morris, LL D , and
-W W Skeat, M A.
-
-Part I From Old English Homilies to King Horn (a.d 1150 to A.D 1300).
-Extra fcap. Svo ys
-
-Part II. From Robert of Gloucester to Gower (a d 1298 to AD 1393).
-Second Edition Extra fcap 8vo. *js 6d.
-
-Specimens of English Literature , from the c Ploughmans
-
-Crede’ to the * Shepheardes Calender’ (a d 1394 to ad 1579) With Intio-
-duction, Notes, and Glossanal Index, By W W Skeat, M A Extra fcap.
-Svo. 7 s. 6d
-
-
-The Vision of William concerning Piers the Plowman , by
-
-William Langland. Edited, with Notes, by W. W. Skeat, M.A. Third
-Edition. Extra fcap. 8 vo 4s 6d.
-
-Chaucer . I. The Prologue to the Canterbury Tales ; the
-
-Knightes Tale; The Nonne Prestes Tale Edited by R Moms, Editoi of
-Specimens of Early English, See , &c Fifty-first Thousand Extra fcap. Svo
-2 s. 6d.
-
-II. The Prioresses Tale ; Sir Thopas ; The Monkes
-
-Tale , The Clerkes Tale ; The Squieres Tale, &c. Edited by W. W. Skeat,
-M.A. Second Edition. Extra fcap Svo. 4s. 6d.
-
-III. The Tale of the Man of Lawe ; The Pardoneres
-
-Tale , The Second Nonnes Tale , The Chanouns Yemannes Tale. By the
-same Editor. Second Edition. Extra fcap Svo 4s 6d.
-
-Gamelyn , The Tale of. Edited with Notes, Glossary, &c., by
-
-W W Skeat, M A Extra fcap 8 \o Stiff covers, 3 s. (d
-
-Spenser s Faery Queene . Books I and II. Designed chiefly
-
-for the use of Schools. With Intioduction, Notes, and Glossary G W.
-Ivitchin, D D
-
-Book I. Tenth Edition. Extiafcap Svo. 2 s 6d.
-
-Book II. Sixth Edition Exlia fcap Svo. 2 s 6d
-
-Hooker . Ecclesiastical Polity , Book I. Edited by R. W.
-
-Church, M A Second Edition. Extra fcap Svo 2 s.
-
-Marlowe and Greene . Marlowe's Tragical History of Dr,
-
-Faustus , and Greene's Honourable History of Friar Bacon and Friar Bungay
-Edited by A. W. Ward, M A. 1878 Extra fcap. Svo 5^ (id.
-
-Marloivc . Edtvard II. With Introduction Notes, &c. By
-
-O. W. Tancock, M.A. Extra fcap. Svo. 3 s.
-
-
-1 6
-
-
-CLARENDON PRESS, OXFORD.
-
-
-Shakespeare. Select Plays. Edited by W. G. Clark, M.A.,
-
-and W. Aldis Wright, M A. Extra fcap Svo. stiff covers.
-
-The Merchant of Venice, is. Macbeth, is. 6 d.
-
-Richard the Second, ir. 6 d. Hamlet. 2 s. ~
-
-
-Edited by W. Aldis Wright, M.A.
-
-
-The Tempest, is. 6 d
-As You Like It. is. 6 d.
-Julius Caesar. 2 s.
-
-Richard the Third. 2 s. 6 d.
-King Lear. is. 6 d.
-
-
-A Midsummer Night’s Dream
-is. 6 d.
-
-Coriolanus. 2 s. 6 d.
-
-Henry the Fifth. 2s.
-
-Twelfth Night, is. 6 ci. Just Pub-
-lished.
-
-
-Shakespeare as a Dramatic Artist ; a popular Illustration of
-the Principles of Scientific Cniicism By Richard G Moulton, hi A Crown
-Svo 5-y Just Published,
-
-Bacon. I. Advancement of Learning. Edited by W. Aldis
-
-Wright, M A. Second Edition. Extra fcap. Svo 4.? 6 d.
-
-II. The Essays. With Introduction and Notes. In
-
-Preparation.
-
-Milton . I. Areopagitica. With Introduction and Notes. By
-
-J. W. Hales, M.A, Third Edition Extra fcap. Svo. 3 s.
-
-II. Poems. Edited by R. C. Browne, M.A. 2 vols.
-
-Fifth Edition Extra fcap 8vo 6 s 6 d. Sold separately, Vol 1. 4.5*. ; Vol. II y.
-In paper covers : —
-
-Lycidas, 3 d. L’ Allegro, 3 d. 11 Penseroso, 4 d. Comus, 6 d.
-
-Samson Agonistes, 6 d.
-
-III. Samson Agonistes. Edited with Introduction and
-
-Notes by John Churton Collins Extra fcap Svo stiff covers, is.
-
-Bunyan. I. The Pilgrim's Progress , Grace Aboimding , Rela-
-tion of the Imprisonment of Mr John Bunyan Edited, with Biographical
-Introduction and Notes, by E Venables, M.A. 1879. Extra fcap. Svo. 5 s.
-
-II. Holy War, &*c. Edited by E. Venables, M.A.
-
-In the Press.
-
-Dryde7i. Select Poems . Stanzas on the Death of Oliver
-
-Cromwell; Astrsea Redux; Annus Mirabihs ; Absalom and Achitophel ,
-Rehgio Laici , The Hind and the Panther. Edited by W. D. Christie, M.A.
-Second Edition. Extra fcap 8vo, 3.$*. 6 d.
-
-Locke’s Conduct of the Understanding. Edited, with Intro-
-
-duction. Notes, &c., by T. Fowler, M.A. Second Edition. Extra fcap Svo 2*
-
-
-CLARENDON PRESS , OXFORD.
-
-
-1 1
-
-
-Addison. Selections from Papers in the Spectator. With
-
-Notes. By T. Arnold, M A. Extra fcap Svo 4s 6d .
-
-Steele. Selections from. By Austin Dobson. Nearly ready.
-Pope. With Introduction and Notes. By Mark Pattison, B.D.
-I. Essay on Man. Sixth Edition. Extra fcap. Svo.
-
-is. 6d.
-
-II. Satires and Epistles. Second Edition. Extra fcap.
-
-Svo 2 S.
-
-Parnell The Hermit. Paper covers, id.
-
-Johnson. I. Rassclas ; Lives of Pope and Dryden . Edited
-
-by Alfred Milnes, B A (London). Extra fcap 8\o 4^ 6d.
-
-II. Vanity of Human Wishes. With Notes, by E. J.
-
-Payne, M.A. Paper covers, 4 d
-
-Gray. Selected Poems . Edited by Edmund Gosse, Clark
-
-Lecturer m English Literatuie at the University of Cambridge. Extra fcap
-Svo Stiff covers,, is 6d. In white Paichment, 3^.
-
-Elegy and Ode on Eton College. Paper covers, id.
-
-Goldsmith . The Deserted Village . Paper covers, id.
-
-Cowpcr. Edited, with Life, Introductions, and Notes, by
-H. T. Griffith, B A
-
-I. The Didactic Poems of 1782, with Selections from the
-
-Minor Pieces, A D. 1779-1783 Extra fcap Svo. 3^.
-
-* II. The Task, zvith Tirocinium , and Selections from the
-
-Minor Poems, A D 17S4-1799. Second Edition. Extra fcap. Svo. $s.
-
-Burke Select Works. Edited, with Introduction and Notes,
-by E. J. Payne, M.A.
-
-I. Thoughts on the Present Discontents ; the two Speeches
-
-on Amenca. Second Edition. Extra fcap. 8vo 4 s. 6d.
-
-* II. Reflections on the French Revolution. Second Edition.
-
-Extra fcap. 8vo. $s.
-
-III. Four Letters on the Proposals for Peace with the
-
-Regicide Directory of France. Second Edition. Extra fcap. 8vo 5^.
-
-Keats . Hyperion , Book I. With Notes by W. T. Arnold, B.A.
-
-Paper covers, 4 d.
-
-Scott. Lay of the Last Minstrel. Introduction and Canto I,
-
-with Preface and Notes by W. Minto, M.A. Paper covers, 6 d.
-
-[ 9 ]
-
-
-c
-
-
-1 8 CLARENDON PRESS, OXFORD.
-
-
-II. LATIN.
-
-Rudimenta Latina . Comprising Accidence^ and Exercises of
-
-a very Elementary Character, for the use of Beginners. By John Barrow
-Allen, M A. Extra fcap 2 s.
-
-An Elementary Latm Grammar. By the same Author.
-
-Third Edition, Revised and Corrected. Extra fcap. 8vo. 2 s.6d.
-
-A First Latin Exercise Book . By the same Author. Fourth
-
-Edition. Extra fcap. 8vo. 2 s. 6d.
-
-A Second Latin Exercise Book . By the same Author. Extra
-
-fcap 8vo. $s. 6d.
-
-Reddenda Minora, or Easy Passages, Latin and Greek, for
-
-Unseen Translation For the use of Lower Forms. Composed and selected
-by C S. Jerram, M A Extra fcap. is. 6d.
-
-Anglice Reddenda , or Easy Extracts, Latin and Greek, for
-
-Unseen Translation. By C S. Jerram, M.A. Third Edition, Revised and
-Enlarged Extia fcap. 8vo. 2 s. 6d.
-
-Passages for Translation into Latin . For the use of Passmen
-and others. Selected by J. Y. Sargent, M.A, Fifth Edition. Extra fcap.
-8 vo. 2 s. 6d.
-
-Exercises in Latm Prose Composition ; with Introduction,
-
-Notes and Passages of Graduated Difficulty for Translation into Latin. By
-G G. Ramsay, Si A., LL.D Second Edition. Extra fcap. 8vo 4 s. 6d.
-
-First Latin Reader . By T. J. Nunns, M.A. Third Edition.
-
-Extra fcap. 8vo. 24s-.
-
-Caesar . The Commentaries (for Schools). With Notes and
-
-Maps. By Charles E. Moberly, M A.
-
-Part X. The Gallic War. Second Edition. Extra fcap. 8vCk 4s. 6d.
-
-Part II The Civil War. Extra fcap. 8vo 3s. 6d.
-
-The Civil War. Book I. Second Edition. Extia fcap. 8vo. 2 s.
-
-Cicero. Selection of interesting and descriptive passages. With
-
-Notes. By Henry Walford, M A. In three Parts. Extra fcap. 8vo. 4.?. 6d.
-Each Part separately, limp, is. 6d.
-
-Part I, Anecdotes from Grecian and Roman History. Third Edition.
-
-Part II. Omens and Dreams: Beauties of Nature. Third Edition.
-
-Part III. Rome’s Rule of her Provinces. Third Edition.
-
-Cicero . Selected Letters (for Schools). With Notes. By the
-late C. E. Prichard, M.A., and E. R. Bernard, M.A. Second Edition.
-Extra fcap. 8vo
-
-
-CLARENDON PRESS, OXFORD .
-
-
-*9
-
-
-Cicero, Select Orations (for Schools). In Verrem I. De
-
-Impeno Gn Pompeii. Pro Archia Philippica IX. With Introduction and
-Notes by J R. King, M A. Second Edition Extia fcap. Svo. 2 s. 6d.
-
-Cornelius Nepo*. With Notes. By Oscar Browning, M.A.
-
-Second Edition. Extra fcap 8vo. 2 s 6d
-
-Livy, Selections (for Schools). With Notes and Maps. By
-
-H Lee-Wamer, M A Extia fcap 8vo. In Parts, limp, each is. 6d.
-
-Part I The Caudme Disaster.
-
-Part II. Hannibal’s Campaign in Italy
-Part III The Macedonian War
-
-Livy, Books V— VII. With Introduction and Notes. By
-
-A R Cluer, B A. Extra fcap. 8vo, 3^. 6d.
-
-Ovid, Selections for the use of Schools. With Introductions
-
-and Notes, and an Appendix on the Roman Calendar. By W. Ramsay, M.A.
-Edited by G. G. Ramsay, M.A Second Edition. Extia fcap. 8vo $s. 6d
-
-Pliny, Selected Letters (for Schools). With Notes. By the
-
-late C. E Prichard, M.A , and E R. Beinard, M A. Second Edition. Extra
-fcap 8vo. 3s.
-
-Tacitus . The Annals. Books I-IV. Edited, with Introduc-
-
-tion and Notes for the use of Schools and Junior Students, by Ii. Eumeaux,
-M A. Extra fcap. Svo. 5 s
-
-
-Catidli Veronensis Liber. Iterum recognovit, apparatum cri-
-ticum prolegomena appendices addidit, Robinson Ellis, A M. 1878 Demy
-8vo. ios.
-
-A Commentary on Catullus . By Robinson Ellis, M.A.
-
-1876. Demy 8vo i6j.
-
-Veronensis Carmina S electa, secundum recognitionem
-
-Robinson Ellis, A M. Extra fcap 8vo $s 6d .
-
-Cicero de Oratore. With Introduction and Notes. By A. S.
-
-Wilkins, M A.
-
-Book I. 1879. Svo 6s. Book II. 1881. Svo. 5 s.
-
-Philippic Orations. With Notes By J. R. King, M.A.
-
-Second Edition. iS 79. Svo ioi'. 6 d .
-
-Select Letters . With English Introductions, Notes, and
-
-Appendices. By Albert Watson, M A. Third Edition. 1881. Demy Svo 185.
-
-Select Letters . Text. By the same Editor. Second
-
-Edition. Extra fcap. 8vo. 4^.
-
-
-20
-
-
-CLARENDON PRESS, OXFORD.
-
-
-Cicero pro Clueniio. With Introduction and Notes. By W.
-
-Ramsay, M A Edited by G. G Ramsay, M A Second Edition. Extra fcap.
-Svo. 3 s 6 d.
-
-Horace . With a Commentary. Volume I. Th,e Odes, Carmen
-
-Secnlare, and Epodes By Edward C. Wickham, M A Second Edition.
-1877. Demy Svo. 12s.
-
-— — A reprint of the above, in a size suitable for the use
-
-of Schools. Extia fcap. Svo. 5 s 6 d
-
-Livy , Book I. With Introduction, Historical Examination,
-
-and Notes By J R Seeley, M A. Second Edition. 1881 8vo. 6 j-
-
-Ovid . P. Ovidii Nasonis Ibis . Ex Novis Codicibus edidit,
-
-Scholia Vetera Commentaiium cum Piolegomenis Appendice Indice addidit,
-R. Ellis, A M Demy Svo. 10s. 6 d
-
-Persius . The Satires . With a Translation and Commentary.
-By John Comngton, M.A Edited by Henry Nettleship, M.A. Second
-Edition. 1S74. Svo. p. 6 d
-
-Plautus . The Trinwmnus. With Notes and Introductions.
-
-Intended for the Higher Forms of Public Schools By C. E Freeman, M.A ,
-and A. Sloman, M A Extra fcap. Svo 3 s.
-
-Sallust . With Introduction and Notes. By W. W. Capes,
-
-M A. Extra fcap Svo. 4^ 6 d.
-
-Tacitus. The Annals. Books I-VI. Edited, with Intro-
-
-duction and Notes, by H. Furneaux, M A 8vo i8.r.
-
-Virgil. With Introduction and Notes. By T. L. Papillon,
-
-M A. Two vols. crown Svo. 10s. 6 d.
-
-
-Nettleship (H., M.A.). Lectures and Essays on Subjects con-
-
-nected with Latin Scholarship and Literature Crown Svo p 6 d
-
-The Roman Satura: its original form in connection with
-
-its hteiary development. Svo. sewed, is
-
-Ancient Lives of Vergil. With an Essay on the Poems
-
-of Veigil, in connection with his Life and Times. By H. Nettleship, M A.
-Svo. sewed, 2 s.
-
-Papillon (T. Z., M.A . ). A Mamial of Comparative Philology.
-
-Third Edition, Revised and Conected 1882. Crown Svo. 6 s.
-
-Pinder (Norths M.A.). Selections from the less known Latin
-
-'Poets. 1869. Demy Svo. 15^.
-
-Sellar ( W. F., M.A A). Roman Poets of the Augustan Age .
-
-Virgil. By William Young Sellar, M.A , Professor of Humanity m the
-University of Edinburgh, New Edition. 1883. Crown 8vo. 9^.
-
-
-CLARENDON PRESS , OXFORD .
-
-
-21
-
-
-Sellar ( Roman Poets of the Republic . New
-
-Edition, Revised and Enlarged. 18S1. Svo. 14^.
-
-Wordsworth (5^, M.A.). Fragments and Specimens of Early
-
-Latin With Introductions and Notes. 1874 Svo. i8d.
-
-III. GKEtEEK.
-
-A Greek Primer , for the use of beginners in that Language.
-
-By the Right Rev. Charles Wordsworth, D C L Seventh Edition. Extra fcap
-8vo. ij\ 6d
-
-Graccae Graimnaticae Rudanenta in usum Scholarum. Auc-
-
-toie Carolo Wordsworth, D C L. Mineleenth Edition, 18S2. nmo 4 s,
-
-A Greek-English Lexicon , abridged from Liddell and Scott's
-
-4to edition, chiefly for the use of Schools Twenty-first Edition 1884.
-Square i2mo *js 6 d.
-
-Greek Verbs, Irregular and Defective; their forms, meaning,
-
-and quantity, embiacmg all the Tenses used by Greek wnteis, with references
-to the passages m which they are found. By W. Veitch. Fourth Edition.
-Crown 8vo 10 s. 6 d.
-
-The Elements of Greek Accentuation (for Schools) : abridged
-
-fiom his larger work by H W Chandler, M.A. Extra fcap. 8vo is. 6 d.
-
-A Series of Graduated Greek Readers: —
-
-First Greek Reader. By W. G. Rushbrooke, M.L. Second
-
-Edition. Extra fcap. Svo. 2 s. 6 d.
-
-Second Greek Reader . By A. M, Bell, M.A. Extra fcap.
-
-8vo. $s, 6 d.
-
-Fourth Greek Reader ; being Specimens of Greek Dialects .
-
-With Introductions and Notes. By W. W. Merry, M.A. Extra fcap. Svo.
-4 x. 6 d .
-
-Fifth Greek Reader . Part I. Selections from Greek Epic
-
-and Dramatic Poetry, with Intioductions and Notes. By Evelyn Abbott,
-M.A Extra fcap. Svo. 4 s. 6 d.
-
-The Golden Treasury of Ancient Greek Poetry : being a Col-
-lection of the finest passages in the Greek Classic Poets, with Introductory
-Notices and Notes. By R S. Wright, M.A. Extra fcap. Svo 8 s. 6 d
-
-A Golden Treasury of Greek Prose , being a Collection of the
-
-finest passages m the principal Greek Prose Writers, with Introductory Notices
-and Notes. By R. S Wright, M.A , and J. E. L. Shadwell, M.A. Extra fcap.
-Svo. 4^ 6 d.
-
-
-22
-
-
-CLARENDON PRESS , OXFORD .
-
-
-Aeschylus. Prometheus Bound (for Schools). With Introduc-
-
-tion and Notes, by A. O Prickard, M A. Second Edition. Extra fcap. 8vo 2s
-
-Agamemnon. With Introduction and N^tes, by Arthur
-
-Sidgwick, M.A Second Edition. Extra fcap 8vo. 3X.
-
-Choephoroi . With Introduction and Notes by the same
-
-Editor. Extra fcap Svo. $s.
-
-Aristophanes . In Single Plays. Edited, with English Notes,
-
-Introductions, & c , by W. W. Merry, M A. Extra fcap 8vo
-I. The Clouds, Second Edition, 2 s.
-
-II. The Acharnians, 2 s. III. The Frogs, 2 s.
-
-Cebes . Tabula. With Introduction and Notes. By C. S.
-
-Jerram, M.A Extra fcap Svo 2 s. 6 d .
-
-Euripides . Alcestis (for Schools). By C. S. Jerram, M A.
-
-Extra fcap. Svo 2 s. 6 d
-
-Helena . Edited, with Introduction, Notes, and Critical
-
-Appendix, for Upper and Middle Forms By C. S. Jerram, M.A. Extra
-fcap. 8vo. 2 >s.
-
-Iphigenia in Tauns . Edited, with Introduction, Notes,
-
-and Critical Appendix, foi Upper and Middle Forms. By C. S. Jerram, M.A.
-Extra fcap. Svo. cloth, Just Published.
-
-Herodotus , Selections from. Edited, with Introduction, Notes,
-
-and a Map, by W W. Merry, M.A. Extra fcap. Svo. 2 s 6 d
-
-Homer . Odyssey , Books I-XII (for Schools). By W. W.
-
-Merry, M.A. Twenty-seventh Thousand. Extra fcap. 8vo. 4 s. 6 d.
-
-Bookll, separately, is. 6 d.
-
-* Odyssey , Books XIII— XXIV (for Schools). By the
-
-same Editor. Second Edition Extra fcap 8vo 5^.
-
-Iliad , Book I (for Schools). By D. B. Monro, M.A.
-
-Second Edition. Extra fcap Svo 2 s
-
-— Iliad \ Books I-XII (for Schools). With an Introduction,
-
-a brief Homeric Grammai, and Notes By D. B. Monro, M A. Extra fcap.
-8vo 6 s * £
-
-Iliad , Books VI and XXI. With Introduction and
-
-Notes. By Herbert Hailstone, M.A. Extra fcap. 8vo 6 d. each.
-
-Lucian. Vera Historia (for Schools). By C. S. Jerram,
-
-M.A. Second.Edition. Extra fcap. 8vo. is. 6 d.
-
-Plato . Selections from the Dialogues [including the whole of
-
-the Apology and Crito] With Introduction and Notes by John Purves, M A ,
-and a Preface by the Rev. B. Jowett, M.A. Extra fcap. 8vo. 6 s 6 d.
-
-
-CLARENDON PRESS, OXFORD.
-
-
-Sophocles. In Single Plays, with English Notes, &c. By
-
-Lewis Campbell M A , and Evelyn Abbott, M A Extra fcap Svo limp
-Oedipus Tyrannus, Philoctetes. New and Revised Edition, is. each.
-Oedipus Cofeneus, Antigone, is C)d. each
-Ajax, Electra, Trachmiae, is each.
-
-Oedipus Rex: Dindorfs Text, with Notes by the
-
-present Bishop of St. David’s Ext fcap 8vo limp, is. 6d
-
-Theocritus (for Schools). With Notes By H. Kynaston,
-
-D.D. (late Snow). Third Edition. Extia fcap Svo. 4^. 6d.
-
-Xenophon . Easy Selections . (for Junior Classes). With a
-
-Vocabulary Notes, and Map By J S Phiilpotts, B C.L., and C. S Jen am,
-M.A. Third Edition. Extra fcap 8vo 3 s 6 d
-
-Selections (for Schools). With Notes and Maps. By
-
-J S. Phiilpotts, B C L. Fourth Edition. Extra fcap 8vo. $s. 6d.
-
-Anabasis , Book II. With Notes and Map. By C. S.
-
-Jerram, M.A Extra fcap. 8vo. is.
-
-Cyropaedia. , Books IV and V. With Introduction and
-
-Notes by C. Bigg, D.D. Extra fcap Svo is. 6d.
-
-
-Aristotle's Politics. By W. L. Newman, M.A. [In preparation .]
-
-Aristotelian Studies. I. On the Structure of the Seventh
-Book of the Nicomachean Ethics. By J C. Wilson, M A. 1879. Medium 8vo.
-stiff, 5J.
-
-Demosthenes and Aeschines . The Orations of Demosthenes
-
-and iEschines on the Crown. With Introductory Essays and Notes. By
-G. A. Simcox, M A., and W. H. Simcox, M.A. 1872. 8vo. 12 s.
-
-Geldart (E. M., B.A . ). The Modern Greek Language in its
-
-relation to Ancient Greek. Extra fcap. 8vo. 4 s. 6 d
-
-Hicks (E L., M.A.). A Manual of Greek Historical Inscrip-
-
-tions. Demy 8vo. 10s. 6 d.
-
-Homer. Odyssey , Books I-XIL Edited with English Notes,
-
-Appendices, etc By W. W. Merry, M A , and the late James Riddell, M.A.
-1876. Demy 8vo. 1 6s.
-
-A Grammar of the Homeric Dialect . By D. B. Monro,
-
-M A. Demy 8vo. ioj 6 d.
-
-
-CLARENDON PRESS, OXFORD.
-
-
-ty A
-
-*4
-
-
-Sophocles. The Plays and Fragments. With English Notes
-
-and Inti oductions, by Lewis Campbell, M.A 2 vols.
-
-Vol I Oedipus Tyrannus Oedipus Coloneus Antigone. Second
-Edition 1879. 8vo i6.r
-
-Vol II Ajax. Electra Trachiniae. Philoctetes Fragments. 1SS1
-8vo. 1 6s.
-
-Sophocles . The Text of the Seven Plays. By the same
-
-Editor. Extra fcap. 8vo 4 s. 6d
-
-IV. EBENCH AND ITALIAN.
-
-Brackets Etymological Dictionary of the French Language .
-
-with a Preface on the Principles of French Etymology. Translated into
-English by G. W Kitchm, D D. Third Edition. Crown 8vo 7 s. 6d
-
-Historical Grammar of the French Language . Trans-
-lated into English by G W. Kitchm, D D. Fourth Edition Extra fcap.
-8vo ?>s. 6d
-
-Works by GEORGE SAINTSBTJRY, M A.
-
-Primer of French Liter attire. Extra fcap. 8vo .,2s.
-
-Short History of French Literature. Crown 8vo. 10 s. 6d.
-Specimens of French Literature , from Villon to Hugo. Crown
-
-8vo. gs.
-
-
-Corneille's Horace . Edited, with Introduction and Notes, by
-
-George Samtsbury, M.A, Extra fcap. 8vo. 2 s. 6d.
-
-Moliere's Les Prtcieuses Ridicules. Edited, with Introduction
-and Notes, by Andrew Lang, M.A Extra fcap. 8vo. is. 6d.
-
-Voltaire's M trope. Edited, with Introduction and Notes, by
-
-George Samtsbury. Fxtra fcap. 8vo cloth, 2 s. Just Published
-
-Beaumarchais' Le Barbier de Stville . Edited, with Introduction
-
-and Notes, by Austin Dobson. Extra fcap. 8vo. 2 s. 6d.
-
-Musset's On ne badine pas avec V 'Amour , and Fantasio. Edited,
-
-with Prolegomena, Notes, etc., by Walter Herries Pollock. Extra fcap.
-8vo. 2 s.
-
-
-Quine fs Lettres & sa Mhe. Selected and edited by George
-
-Samtsbury. Extra fcap. 8vo cloth, zs. Just Published.
-
-Sainte-Beuve. Selections from the Causeries du Lundi. Edited
-
-by George Saintsbury. In the Press .
-
-
-CLARENDON PRESS, OXFORD.
-
-
-25
-
-
-V Eloquence de la Chaire et de la Tribune Frangaises . Edited
-by Paul Blouet, B.A. (Univ. Gallic.). Vol I. French Sacred Oratory
-Extra fcap. Svo 2 s. 6d.
-
-Edited by GUSTAVE MASSON, B.A.
-
-Corneille's Cmna , and Moliere' s Les Femmes Savantes. With
-
-Introduction and Notes. Extra fcap Svo. 2 s. 6d.
-
-Louis XIV and his Contemporaries ; as described in Extracts
-
-from the best Memoirs of the Seventeenth Century With English Notes,
-Genealogical Tables, &c. Extra fcap. Svo. 2 s 6d.
-
-Maistre , Xavier de. Voyage autour de ma Chainbre. Ourika,
-
-by Madame de Dnras , La Dot de Suzetle, by Eieveej Les Jumeaux de
-I’Hbtel Corneille, by Edmond Abotit , Mesaventures d’un Ecolier, by Rodolphe
-Topffer. Second Edition. Extra fcap. Svo 2J-. 6d.
-
-Molihe's Les Fourberies de Scapin. With Voltaire's Life of
-
-Moliere. Extra fcap. Svo. stiff covers, ij. 6d.
-
-Molihe’s Les Fourberies de Scapin , and Racine's Athalie.
-
-With Voltaire’s Life of Moliere. Extra fcap. Svo. 2 s, 6d.
-
-Racine's Andromaque , and Corneille s Le Menteur . With
-
-Louis Racine’s Life of his Father. Extra fcap 8vo. 21* 6d.
-
-Regnard s Le Joiteur \ and Brueys and Palaprafs Le Grondenr.
-
-Extra fcap. 8vo. 2 s 6d.
-
-Sivigne , Madame de, and her chief Con temporaries. Selections
-
-from the Correspondence of. Intended more especially foi Girls’ Schools
-Extra fcap. 8vo 3^.
-
-
-Dante . Selections from the Inferno. With Introduction and
-
-Notes. By H. B. Cottenll, B A. Extra fcap Svo 4? 6d
-
-Tasso. La Gerttsalemme Liberata. Cantos i, ii. With In-
-
-troduction and Notes. By the same Editor. Extra fcap. Svo. 2 s. 6d.
-
-
-V. GERMA NT.
-
-GERMAN COURSE. By HERMANN LANGE.
-
-The Germans at Home ; a Practical Introduction to German
-
-Conversation, with an Appendix containing the Essentials of German Grammar.
-Second Edition. Svo. 2 s, 6d.
-
-The Ger7nan Manual ; a German Grammar, Reading Book,
-and a Handbook of German Conversation. 8vo. 7 s . 6d.
-
-
-2 6
-
-
-CLARENDON PRESS , OXFORD .
-
-
-Grammar of the German Language. 8vo. 3^. 6*/.
-
-This ‘ Grammar ’ is a reprint of the Grammar contained m ‘The German Manual,’
-and, m this separate form, is intended for the use of Students who wish to make
-themselves acquainted with German Grammar chiefly foi tfffe purpose of being
-able to lead German books
-
-German Composition ; A Theoretical and Practical Guide to
-
-the Art of Translating English Prose into German. 8vo. 4^ 6d.
-
-
-Lessing's Laokoon. With Introduction, English Notes, etc.
-
-By A Hamann, Phil. Doc., M A. Extra fcap. 8vo. 4s 6d .
-
-Schiller s Wilhelm Tell. Translated into English Verse by
-
-E Massie, M.A Extra fcap 8vo. 5 s.
-
-Also, Edited by C A. BUCHHEIM, Phil. Doc.
-
-Goethe's Egmont . With a Life of Goethe, &c. Third Edition.
-
-Extra fcap 8vo. 3^.
-
-Iphigenie auf Tauns. A Drama. With a Critical In-
-
-troduction and Notes. Second Edition. Extra fcap 8vo $s.
-
-Heine's Prosa , being Selections from his Prose Works. With
-
-English Notes, etc Extra fcap 8vo. 4^. 6d.
-
-Lessing's Minna von Barnhelm . A Comedy. With a Life
-
-of Cessing, Critical Analysis, Complete Commentary, &c Fourth Edition.
-Extra fcap 8vo. 3.?. 6d
-
-Nathan der Weise. With Introduction, Notes, etc.
-
-Extra fcap. 8vo. 4s. 6d.
-
-Schiller's Historische Skizzen; pgmonfs Leben und Tod> and
-
-Belagerung von Antwerpen . Second Edition Extra fcap. 8vo. 2 s. 6d
-
-• Wilhelm Tell. With a Life of Schiller ; an his-
-
-torical and critical Introduction, Arguments, and a complete Commentaiy,
-and Map. Sixth Edition. Extra fcap 8vo. $s. 6d.
-
-Wilhelm Tell. School Edition. With Map. Extra fcap.
-
-8vo 2 s
-
-Halm's Griseldis . In Preparation.
-
-
-Modern German Reader. A Graduated Collection of Prose
-
-Extracts from Modern German writers . —
-
-Part I. With English Notes, a Grammatical Appendix, ^nd a complete
-Vocabulary. Fourth Edition. Extra fcap. 8vo. 2 s. 6d .
-
-Parts II and III in Preparation.
-
-
-CLARENDON PRESS, OXFORD .
-
-
-2 1
-
-
-VI. MATHEMATICS, PHYSICAL SCIENCE, &c.
-
-By LEWIS HENSLEY, M A.
-
-Figures made Easy : a first Arithmetic Book. (Introductory
-to ‘ The Scholar’s Arithmetic.’) Crown 8vo. 6d.
-
-Answers to the Examples in Figures made Easy , together
-
-with two thousand additional Examples formed from the Tables m the same,
-with Answers. Crown 8vo. is
-
-The Scholars Arithmetic : with Answers to the Examples.
-
-Crown 8 vo. 4s 6d
-
-The Scholar's Algebra . An Introductory work on Algebra.
-
-Ciown 8vo. 4* 6d .
-
-
-Baynes (R. E., M.A.). Lessons on Thermodynamics . 1878.
-
-Crown 8 vo. 7 s 6d.
-
-Chambers {G. F., F.R.A.S.). A Handbook of Descriptive
-
-Astrono?7iy . Third Edition 1877. Demy 8vo. 28 j.
-
-Clarke (Col.A.R., C.B.,R.E.). Geodesy. 1880. 8vo. 12s. 6 d.
-
-Donkin ( W. F. } M.A. } F.R.S.). Acoustics . 1870. Crown 8vo.
-7 s. 6d.
-
-Galton [Douglas, C.B., F.R.S.). The Construction of Healthy
-
-Dwellings, namely Houses, Hospitals, Barracks, Asylums, &c Demy 8vo.
-ioj 6d
-
-Hamilton (R. G. C.), and J. BalL Book-kecpmg . New and
-
-enlarged Edition. Extra fcap. 8vo. limp cloth, 2 s.
-
-Harcourt (A. G. Vernon, M.A.), and H. G. Madan, M.A.
-
-Exeixises in Practical Chemistry Vol I. Elementary Exercises. Third
-Edition. Crown Svo. pj
-
-Maclaren [Archibald). A System of Physical Education :
-
-Theoietical and Practical. Extra fcap. 8vo. 7 s. 6d.
-
-Madan (H. G., M.A . ). Tables of Qtiahtative . Analysis .
-
-Large 4to paper, 4 s 6d
-
-Maxivell [J. Clerk , M.A . , F.R.S.). A Treatise on Electricity
-
-and Magnetism. Second Edition. 2 vols. Demy 8vo il 11 s 6d
-
-An Elementary Treatise on Electricity . Edited by
-
-William Garnett, M.A. Demy 8vo. p. 6d.
-
-
-2 8
-
-
-CLARENDON PRESS , OXFORD .
-
-
-Minchin (G. M., M.A . ). ^ Treatise on Statics . Third
-
-Edition, Corrected and Enlarged. Vol. J. Equilibrium of Coplanar Foices .
-Svo. 9-f. Published. Vol. II. In the Press.
-
-Uniplanar Kinematics of Solids and Fluids . Crown 8vo.
-
-Js 6 d.
-
-Rolleston ( G ., M.D . , F.R.S . ). Forms of Animal Life. Illus-
-trated by Desci lptions and Drawings of Dissections. A New Edition in the
-Press.
-
-Smyth. A Cycle of Celestial Objects. Observed, Reduced,
-
-and Discussed by Admiral W. H Smyth, R N. Revised, condensed, and greatly
-enlarged by G F. Chambers, F R.A S. 1881. 8vo. Price reduced to 12s
-
-Stewart (Balfour, LL.D F.R.S.). A Treatise on Heat , with
-
-numerous W oodcuts and Diagrams. Fourth Edition 1881. Extra fcap 8vo
-7 s. 6 d
-
-Story-Maskelyne (M. H. N., M.A.). Crystallography. In the
-
-Press.
-
-Vernon-Harcourt (L. F M.A . ). A Treatise on Rivers and
-Canals , relating to the Control and Improvement of Rivers, and the Design,
-Construction, and Development of Canals. 2 vols. (Vol. I, Text. Vol. II,
-Plates.) 8vo. 21s.
-
-Harbours and Docks , their Physical Features, History,
-
-Construction, Equipment, and Maintenance ; with Statistics as to their Com-
-mercial Development. 2 vols. Svo. 25 s
-
-Watson (H. W M.A.). A Treatise on the Kinetic Theory
-
-of Gases. 1876. 8vo. 3 s 6 d.
-
-Watson (H. W., M.A), and S. H. Burbury, M.A . A Trea-
-tise on the Application of Generalised Coordinates to the Kinetics of a Material
-System. 1879 Svo 6 s.
-
-Williamson (A. W., Phil. Doc., F.R.S). Chemistry for
-
-Students. A new Edition, with Solutions. 1873. Extra fcap. 8vo. 8r. 6 d.
-
-VII. HISTORY.
-
-Finlay ( George , LL.D). A History of Greece from its Con-
-quest by the Romans to the present time, b.c. 146 to a.d 1864. Anew
-Edition, revised throughout, and in part re-written, with considerable ad-
-ditions, by the Author, and edited by H. F. Tozer, M A. 1877. 7 vols. 8vo.
-3/. 10s.
-
-Freeman (, E.A . , D.C.L). A Short History of the Norman
-
-Conquest of England. Second Edition. Extra fcap. Svo. is. 6 d
-
-— — A History of Greece. In preparation.
-
-George (H. B M.A ). Genealogical Tables illustrative of Modern
-
-History . Second Edition, Revised and Enlarged. Small 4to. 12 s.
-
-
-CLARENDON PRESS , OXFORD.
-
-
-29
-
-
-Hodgkin (T.). Italy and her Invaders , A.D. 376-476. Illus-
-trated with Plates and Maps 2 vols Svo 1/. X2y
-Vol III. The Ost) ego t Jut Invasion, and
-Vol IV The I mortal Restoration , m the Press
-
-Kit chin (G. W., D.D.). A History of France. With numerous
-Maps, Plans, and Tables In Three Volumes. 1873-77. Crown Svo each
-1 os 6 d
-
-Vol. 1. Second Edition Down to the Year 1453
-
-Vol. 2 From 1453-1624 Vol 3. From 1624-1793.
-
-Payne (E. J. 3 M.A . ). A History of the United States of
-
-Ameiica. In the Pi ess.
-
-Ranke (L. von). A History of England ' principally in the
-
-Seventeenth Century Translated by Resident Members of the University of
-Oxford, under the superintendence of G W. Kitclnn, D D , and C. W Boase,
-M.A. 1875. 6 vols. Svo 3/. 3J.
-
-Rawlinson ( George , M.A.). A Manual of Ancient History .
-
-Second Edition. Demy 8vo. 14 s.
-
-Select Charters and other Illustrations of English Constitutional
-
-Plistory, from the Earliest Times to the Reign of Edward I. Airanged and
-edited by W. Stubbs, D.D Fifth Edition. 1883 Crown Svo 8 s 6 d.
-
-Stubbs ( W. } D.D.). The Constitutional History of England ,
-
-m its Origin and Development. Library Edition. 3 vols. demy Svo 2/. 8 s.
-Also m 3 vols. crown Svo price 12s each
-
-Wellesley. A Selection from the Despatches , Treaties , and
-other Papers of the Marquess Wellesley, K G., dui mg his Government
-of India. Edited by S. J. Owen, M A. 1877. 8vo. it. 4^
-
-Wellington. A Selection from the Despatches , Treaties , and
-
-other Papers relating to India of Field-Maishal the Duke of Wellington, K G.
-Edited by S J. Owen, M.A. 1880. 8vo. 24 s.
-
-A History of British India . By S. J. Owen, M.A., Reader
-
-in Indian History in the University of Oxfoid. In preparation
-
-VIII. LAW.
-
-Alberici Gentilis , I.C.D., I.C. Professoris Regii, De lure Belli
-
-Libri Tres. Edidit Thomas Erskine Holland, I C.D. 1877. Small 4to.
-half morocco, 21 j.
-
-Anson ( Sir William R., Bart D.C.L.). Principles of the
-
-English Law of Contract, and of Agency in its Relation to Con t? act Second
-Edition. Demy Svo 10 s 6 d.
-
-Bentham ( Jeremy ). An Introduction to the Principles of
-
-Morals and Legislation. Crown Svo. 6 s. 6 d.
-
-Digby {Kenelm E. 3 M.A.). An Introduction to the History of
-
-the Law of Real Property. Third Edition. Demy Svo 10s. 6 d.
-
-
-30 CLARENDON PRESS, OXFORD.
-
-
-Gaii Institutionum Juris Civilis Commentarii Quattuor ; or,
-
-Elements of Roman Law by Gams With a Translation and Commentary
-by Edward Poste, M.A. Second Edition. 1875. 8vo. i8r.
-
-Hall ( W. E M.A.). International Law . Second Edition.
-
-Demy 8vo 21s.
-
-Holland (T. E., D.C.L.). The Elements of Jurisprudence.
-
-Second Edition. Demy 8vo. 10s 6d.
-
-The European Concert in the Eastern Question, a Col-
-lection of Treaties and other Public Acts Edited, with Introductions and
-Notes, by Thomas Erskme Holland, D C L. 8vo I2r 6d. Just Published.
-
-Imperatoris Iustmiani Institutiomim Libri Quattuor ; with
-Introductions, Commentary, Excursus and Translation. By J. B. Moyle, B.C.L.,
-M A. 2 vols. Demy 8vo 21 s.
-
-Justinian , The Instittites of \ edited as a recension of the
-Institutes of Gaius, by Thomas Erskme Holland, D.C L. Second Edition,
-1881. Extra fcap 8vo 5s.
-
-Justinian , Select Titles from the Digest of. By T. E. Holland,
-
-DCL., and C L. Shadwell, B.C L 8vo. 14?.
-
-Also sold in Parts, in paper covers, as follows * —
-
-Part I. Introductory Titles 2 s. 6d. Part II Family Law. is.
-
-Part III. Property Law. 2s. 6 d Part IV. Law of Obligations (No 1). 3s. 6 d.
-Part IV. Law of Obligations (No. 2). 4^. 6 d.
-
-Mai'kby ( W M.A.). Elements of Law considered with refer-
-
-ence to Principles of General Jurisprudence. Third Edition. Demy 8vo. 12 s.6d.
-
-Twiss (Sir Travers , D.C L.). The Law of Nations considered
-
-as Independent Political Communities.
-
-Part I. On the Rights and Duties of Nations in time of Peace. A new Edition,
-Revised and Enlarged 1884. Demy 8vo. 15 s.
-
-Part II On the Rights and Duties of Nations m Time of War. Second Edition
-Revised. 1875. Demy Svo. 21s.
-
-IX. MENTAL AND MORAL PHILOSOPHY, & c.
-
-Bacon? s Novum Organum. Edited, with English Notes, by
-G. W Kitchin, D.D 1855 8vo 9 s •
-
-Translated by G. W. Kitchin, D.D. 1855. 8vo. 9.?. 6d .
-
-Berkeley . The Works of George Berkeley , D.D. , formerly
-
-Bishop of Clojne ; including many of his writings hitherto unpublished
-With Prefaces, Annotations, and an Account of his Life and Philosophy,
-by Alexander Campbell Fraser, M A 4 vols, 1871 8vo. 2/. i8r.
-
-The Life , Letters , &c. 1 vol. i6j.
-
-
-CLARENDON PRESS , OXFORD.
-
-
-Berkeley , Selections from. With an Introduction and Notes-
-For the use of Students m the Universities. By Alexander Campbell Fraser,
-LL.D. Second Edition Crown 8vo. Js. 6 d.
-
-Fowler ( T., M.A !). The Elements of Deductive Logic , designed
-
-mainly for the use of Junior Students in the Universities. Eighth Edition,
-with a Collection of Examples. Extra fcap 8vo 6 d
-
-The Elements of Inductive Logic , designed mainly for
-
-the use of Students in the Universities. Fourth Edition Extra fcap. 8vo 6 s.
-
-Edited by T. FOWLER, M.A
-
-Bacon . Novum Organum . With Introduction, Notes, &c.
-
-3878. Svo 14^
-
-Locke's Conduct of the Understanding . Second Edition.
-
-Extra fcap. 8vo. 2 s.
-
-
-Green (T. H., M.A.). Prolegomena to Ethics. Edited by
-
-A C. Bradley, M A. Demy Svo. 12J- 6 d
-
-Hegel. . The Logic of Hegel ; translated from the Encyclo-
-paedia of the Philosophical Sciences. With Piolegomena by William
-Wallace, M.A. 1874. 8vo. 1 A S
-
-Lotzes Logic , in Three Books ; of Thought, of Investigation,
-
-and of Knowledge. English Translation, Edited by B. Bosanquet, M A.,
-Fellow of University College, Oxford Svo clothe 12 s. 6 d.
-
-Metaphysic , in Three Books; Ontology, Cosmology,
-
-and Psychology English Translation ; Edited by B Bosanquet, M A ,
-Fellow r of University College, Oxford. Svo cloth, 12s 6 d
-
-Martineau (fames, D.D.) Types of Ethical Theory . 2 vols.
-
-8vo 24 s *
-
-Rogers {f.E. Thor old, M.A .). A Manual of Political Economy,
-
-for the use of Schools. Third Edition Extra fcap. Svo. 4 s 6 d
-
-Smith! s Wealth of Nations . A new Edition, with Notes, by
-
-J. E. Thorold Rogers, M A 2 vols Svo. 1880 21^
-
-X. ART, &c.
-
-Hullah (John). The Cultivation of the Speaking Voice .
-
-Second Edition. Extra fcap 8vo 2 s. 6 d.
-
-Ouseley ( Sir F. A . Gore, Bart!). A Treatise on Harmony .
-
-Third Edition. 4to. xos.
-
-A Treatise on Counterpoint, Canon , and Fugue, based
-
-upon that of Cherubim. Second Edition. 4to. 16 s.
-
-A Treatise on Musical Form and General Composition .
-
-4to. 1 os.
-
-
-32
-
-
-CLARENDON PRESS, OXFORD .
-
-
-Robinson {J. C.. F.S.A.). A Critical Account^ the Drawings
-
-by 21 he h el Angelo and Rafaello in the University Galleries , Oxford. 1870
-Crown 8vo. 4^.
-
-Raskin ( John , ). A Course of Lectures on Art , delivered
-
-before the University of Oxfoid m Hilaiy Term, 1870. 8\o 6s.
-
-Troutbeck (J., M.A.) and R. F. Dale , M.A . Music Primer
-
-(for Schools), Second Edition. Crown 8vo 1$ 6«T.
-
-Tyrwhitt [R. St. f. } M.A.). A Handbook of Pictorial Art.
-
-With colouied Illustrat ons, Photographs, and a chapter on Perspective by
-A. Macdonald. Second Edition. 1875. 8 vo. half morocco, 18s.
-
-Vaux (W. S. W , M.A . , F.R.S.). Catalogtie of the Castcllani
-
-Collection of Antiquities in the University Galleries , Oxford. Crown 8vo.
-stiff cover, ir.
-
-
-The Oxford Bible for Teachers , containing supplemen-
-tary Helps to the Study of the Bible, including Summaries
-of the several Books, with copious Explanatory Notes and Tables
-illustrative of Scripture History and the characteristics of Bible
-Lands; with a complete Index of Subjects, a Concordance, a Diction-
-ary of Proper Names, and a series of Maps. Prices in various sizes
-and bindings from is. to 2I. 5.?,
-
-
-Helps to the Study of the Bible, taken from the
-Oxford Bible for Teachers, comprising Summaries of* the
-several Books, with copious Explanatory Notes and Tables illus-
-trative of Scripture History and the Characteristics of Bible Lands ;
-with a complete Index of Subjects, a Concordance, a Dictionary
-of Proper Names, and a series of Maps. Crown 8vo. cloth , 3^. 6 d . ;
-i6mo, cloth , is.
-
-4
-
-LONDON : HENRY FROWDE,
-
-Oxford University Press Warehouse, Amen Corner,
-OXFORD: CLARENDON PRESS DEPOSITORY,
-xi6 High Street,
-
-The Delegates of the Press invite suggestions and advice from all persons
-interested m education; and 'will be thankful for hints , &c. addressed to the
-Secretary to the Delegates, Clarendon Press , Oxford.
-

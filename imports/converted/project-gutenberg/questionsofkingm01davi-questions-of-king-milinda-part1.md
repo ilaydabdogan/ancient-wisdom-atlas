@@ -4002,8 +4002,6 @@ innumerable company of the Arahats, young Nagasena was admitted, as a novice, in
 soon as he likes.
 
 
-I, 26. BUDDHIST EDUCATION. 2 I
-
 26. And then, when he had been admitted to
 the Order, the venerable Nagasena said to the
 venerable Rohana : * I have adopted your dress ;
@@ -5240,8 +5238,6 @@ the same ? '
 ^ Repeated below, with an illustration, Chap. 2, § 7, p. 76.
 ^ Yoniso manasikara. ^ Fa/lfia. See pp. 59, 64, 128.
 
-
-II, I, 9. REASON AND WISDOM. 5 I
 
 another. Sheep and goats, oxen and buffaloes,
 camels and asses have reasoning, but wisdom they
@@ -7537,8 +7533,6 @@ That which he sees to be his weal !
 Not with the carter's mode of thought, but firm
 
 
-Ill, 4, 4. rURGATORY. IO3
-
 Let him, with resohition, step right out.
 As a carter who has left the smooth high road,
 . And turned to byways rough, broods ill at ease ' —
@@ -7623,9 +7617,6 @@ though the translation ' shark ' is conjectural.
 
 ^ From Ahguttara III, 35, 4 (p. 141 of Dr. Morris's edidon for
 the Pali Text Society).
-
-
-111,4,4- KARMA. IO5
 
 
 ' Now what do you think, O king ? Do not the
@@ -9256,8 +9247,6 @@ obedience to some lust, the ill-tempered man in con-
 these two pages) are taken from.
 
 
-IV, 1,8. THE RIPENING OF INSIGHT. I4I
-
 sequence of some ill-will, the deluded man under
 some mistake. [93] The timid man reveals it
 through fear, and the man greedy for gain to get
@@ -9892,8 +9881,6 @@ with difficulty as far as its upper branches are concerned. This is the third cl
 Arahatship, and therefore pass away.
 
 
-rV, I, 24. THINKING POWERS. I57
-
 23. 'From these the fourth class is to be distinguished. Those, O king, who are Anagamins^
 who have completely got rid of the five lower fetters,
 — their thinking powers, so far as the ten stages ^ are
@@ -10038,7 +10025,6 @@ in my interpretation of it, which follows the Si/«halese (p. 130).
 ^ Here the opening argument of § 1 7 is again taken up.
 
 
-IV, I, 27- REFLECTION. l6l
 are not reflecting the Blessed Buddhas are not, even
 then, anything other than omniscient.'
 
@@ -10433,8 +10419,6 @@ of my ' Buddhist Suttas,' vol. xi in this series.
 
 2 See the Vessantara Gataka, and compare Gataka I, p. 74.
 
-
-IV, 1,36. VESSANTARA. I7I
 
 causes of earthquakes is false. This double-headed
 question, too, is subtle, hard to unravel, dark, and
@@ -11640,9 +11624,6 @@ sun horse which is meant.
 ^ I have not traced this quotation in the Pi/akas, but it is probably there.
 
 
-IV, I, 72. THE THREE MONTHS. 20I
-
-
 as dung have nevertheless, simply because of his
 power of Iddhi, harboured a craving desire for
 future life ? '
@@ -11695,8 +11676,6 @@ XI, I, 9, 10, and in his commentary on that passage Buddhaghosa
 mentions the discussion between Mihnda and Nagasena, and quotes
 it as an authority in support of his interpretation.
 
-
-TV, 2, 3- ABOLITION OF REGULATIONS. 2O3
 
 king of kings were to say to his sons : " This great
 country, my children, reaches to the sea on every
@@ -12018,8 +11997,6 @@ found elsewhere (see A'ullavagga VI, 4, 3, and my note there) as
 the name of a kind of chair. And there is similar ambiguity in the
 other words.
 
-
-IV, 2, 13- THE FEAR OF DEATH. 2 I I
 
 [149] They must surely, Nagasena, rejoice at the
 prospect of the very condition that they long for.
@@ -12833,9 +12810,6 @@ khanti. My translation follows Childers (who probably follows
 Bohtlingk-Roth) ; but the Si/«halese gloss here makes me very
 doubtful as to the exact connotation which the early Buddhists
 associated with ' high pleasure,'
-
-
-IV, 3, 2. THE DHARMA. 23 I
 
 
 the practice of solitude \ love of solitude -, meditation ^ modesty and fear of doing wrong ^ zeal^
@@ -14058,9 +14032,6 @@ the Elders.]
 Here ends the Third Chapter.
 
 
-IV, 4, 2. MURDER OF MOGGALLANA. 26 I
-
-
 Book IV. Chapter 4.
 
 [the murder of MOGGALLANA.]
@@ -14460,9 +14431,6 @@ a bambu sprout cut all over his body.
 
 ^ Dhammata-dhamma-pariyaye. I don't know where this
 is to be found.
-
-
-IV, 4j II- THE BODISAT. 27I
 
 
 Bhikkhus who are to be his two chief disciples,
