@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: replication-gpt56terra-2026-07-17
 created_at: '2026-07-18T02:41:04Z'
-updated_at: '2026-07-18T02:41:04Z'
+updated_at: '2026-07-18T04:04:09Z'
 endpoint: "/v1/responses"
 model: gpt-5.6-terra
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,12 @@ shards:
   sha256: '0966894d08afc3dccfdbcb115d852106c94b263c93f6006f2afd26c2ddcfcb15'
   endpoint: "/v1/responses"
   model: gpt-5.6-terra
-  status: prepared
+  status: completed
+  output_path: data/batches/replication-gpt56terra-2026-07-17/results/shard-0001.output.jsonl
+  output_sha256: 65eb0dfc7bd8f7aad1b44b5f05da2e1cc145d57becc3f5d845d0fb2e2c049252
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T03:19:42Z'
 - shard_id: shard-0002
   path: data/batches/replication-gpt56terra-2026-07-17/requests/shard-0002.jsonl
   request_count: 1000
@@ -26,7 +31,12 @@ shards:
   sha256: 6182d6bcb74aee7778dcce65a1b87409a6c586f5a0dd30cf378dcd9f138c854b
   endpoint: "/v1/responses"
   model: gpt-5.6-terra
-  status: prepared
+  status: completed
+  output_path: data/batches/replication-gpt56terra-2026-07-17/results/shard-0002.output.jsonl
+  output_sha256: b9265d4c79e2b109f0535e39b7d6a70be36d2b76f7540c41a5ad0565571d584d
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T04:04:09Z'
 - shard_id: shard-0003
   path: data/batches/replication-gpt56terra-2026-07-17/requests/shard-0003.jsonl
   request_count: 1000
