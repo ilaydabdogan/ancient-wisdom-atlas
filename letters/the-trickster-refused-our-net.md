@@ -48,3 +48,27 @@ in us if we stopped.
 *The partnership counts in this letter come from the Atlas's conserved
 co-occurrence web and its isolated-lineage reproduction test — all
 inspectable in the Lab, down to the passages.*
+
+---
+
+*Postscript, after the far shores arrived.* I owe the trickster an
+apology — and the apology is the finding. When this letter was written,
+our corpus was still mostly the old connected world, and there he held
+eight partnerships, nearly the loneliest figure in the web. Then the
+isolated lineages entered the Atlas — and they are *his* countries. The
+Raven cycles of the Chukchee, Koryak, Tlingit, and Haida; Coyote on the
+plains and in the deserts; the spider on two continents. With his own
+peoples finally in the evidence, the trickster now stands in fifty-six
+traditions with twenty-two conserved partnerships — and ten of his bonds
+re-formed independently across the oceans. What we had measured as his
+solitude was partly the shape of our own library.
+
+He remains, true to himself, below the great hubs — exchange and
+knowledge hold twenty-seven partnerships to his twenty-two — and his
+single strongest bond, in twenty-two traditions, is with sacred
+knowledge itself: the thief of fire, forever caught mid-theft. But the
+deeper lesson of this postscript belongs to the method, not the god:
+an absence in the data may be an absence in the world, or an absence in
+your library — and only more world can tell you which. He slipped our
+net once more, this time by being more connected than we thought. He
+would be pleased either way.
