@@ -1,0 +1,617 @@
+/* ==================================================================
+   Ancient Wisdom Atlas — manuscript stylesheet
+   Light: parchment folio. Dark: midnight scriptorium.
+   ================================================================== */
+
+:root {
+  --parchment: #fbf7ef;
+  --vellum: #f4ecda;
+  --vellum-deep: #ecdfc4;
+  --ink: #2b2011;
+  --ink-soft: #6f5e45;
+  --ink-faint: #a0906f;
+  --gold: #b8860b;
+  --gold-soft: #d3b463;
+  --gold-faint: rgba(184, 134, 11, 0.28);
+  --rubric: #8c3118;
+  --line: rgba(111, 94, 69, 0.25);
+  --glow: none;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --measure: 66ch;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --parchment: #171208;
+    --vellum: #1f1910;
+    --vellum-deep: #292115;
+    --ink: #ecdfc2;
+    --ink-soft: #b3a07a;
+    --ink-faint: #7d6c4e;
+    --gold: #d9a441;
+    --gold-soft: #a37c31;
+    --gold-faint: rgba(217, 164, 65, 0.3);
+    --rubric: #d87b52;
+    --line: rgba(179, 160, 122, 0.28);
+    --glow: 0 0 18px rgba(217, 164, 65, 0.35);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="light"] {
+  --parchment: #fbf7ef;
+  --vellum: #f4ecda;
+  --vellum-deep: #ecdfc4;
+  --ink: #2b2011;
+  --ink-soft: #6f5e45;
+  --ink-faint: #a0906f;
+  --gold: #b8860b;
+  --gold-soft: #d3b463;
+  --gold-faint: rgba(184, 134, 11, 0.28);
+  --rubric: #8c3118;
+  --line: rgba(111, 94, 69, 0.25);
+  --glow: none;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --parchment: #171208;
+  --vellum: #1f1910;
+  --vellum-deep: #292115;
+  --ink: #ecdfc2;
+  --ink-soft: #b3a07a;
+  --ink-faint: #7d6c4e;
+  --gold: #d9a441;
+  --gold-soft: #a37c31;
+  --gold-faint: rgba(217, 164, 65, 0.3);
+  --rubric: #d87b52;
+  --line: rgba(179, 160, 122, 0.28);
+  --glow: 0 0 18px rgba(217, 164, 65, 0.35);
+  color-scheme: dark;
+}
+
+/* ---------- base ---------- */
+
+* { box-sizing: border-box; }
+
+html {
+  background: var(--parchment);
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+body {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--ink);
+  background: var(--parchment);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--gold-faint);
+  text-underline-offset: 0.2em;
+  transition: color 120ms ease, text-decoration-color 120ms ease;
+}
+
+a:hover {
+  color: var(--rubric);
+  text-decoration-color: var(--rubric);
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+::selection { background: var(--gold-faint); }
+
+p { margin: 0 0 1.1em; }
+
+/* ---------- chrome: header / breadcrumb / footer ---------- */
+
+.folio-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.8rem 1rem;
+  flex-wrap: wrap;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.4rem 1.5rem 1.1rem;
+}
+
+.folio-brand {
+  font-size: 0.95rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.folio-brand .amp { color: var(--gold); }
+
+.folio-nav {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem 1.4rem;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 46rem) {
+  .folio-nav { gap: 0.5rem 1rem; }
+  .folio-nav a { font-size: 0.78rem; letter-spacing: 0.1em; }
+}
+
+.folio-nav a {
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--ink-soft);
+}
+
+.folio-nav a:hover, .folio-nav a[aria-current="page"] { color: var(--rubric); }
+
+.theme-toggle {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink-soft);
+  font-family: var(--serif);
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.theme-toggle:hover { color: var(--rubric); border-color: var(--gold-soft); }
+
+.gold-rule {
+  max-width: 72rem;
+  margin: 0 auto;
+  border: 0;
+  border-top: 1px solid var(--gold-faint);
+}
+
+.breadcrumb {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.breadcrumb a { text-decoration: none; color: var(--ink-soft); }
+.breadcrumb a:hover { color: var(--rubric); }
+.breadcrumb .sep { color: var(--gold); margin: 0 0.45rem; }
+.breadcrumb .here { color: var(--ink); }
+
+.folio-footer {
+  max-width: 72rem;
+  margin: 4rem auto 0;
+  padding: 1.5rem 1.5rem 2.5rem;
+  border-top: 1px solid var(--gold-faint);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* ---------- reading column + glosses ---------- */
+
+main { display: block; }
+
+.folio {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.reading {
+  max-width: var(--measure);
+}
+
+.gloss-grid {
+  display: grid;
+  grid-template-columns: minmax(0, var(--measure)) minmax(11rem, 15rem);
+  gap: 0 3.5rem;
+  align-items: start;
+}
+
+.gloss {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  border-left: 1px solid var(--gold-faint);
+  padding-left: 1rem;
+  margin-top: 0.4rem;
+}
+
+.gloss strong {
+  display: block;
+  font-size: 1.55rem;
+  line-height: 1.2;
+  font-weight: 400;
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+}
+
+.gloss + .gloss { margin-top: 1.4rem; }
+
+@media (max-width: 60rem) {
+  .gloss-grid { grid-template-columns: minmax(0, 1fr); }
+  .gloss-col { display: flex; flex-wrap: wrap; gap: 1.2rem 2rem; margin: 0.5rem 0 1.5rem; }
+  .gloss + .gloss { margin-top: 0.4rem; }
+}
+
+/* ---------- rubrics, eyebrows, headings ---------- */
+
+.rubric {
+  font-size: 0.8rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  margin: 0 0 1rem;
+}
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  font-weight: 400;
+  color: var(--ink);
+  line-height: 1.2;
+  margin: 0 0 0.7em;
+}
+
+h1 { font-size: clamp(2rem, 5vw, 3.1rem); }
+h2 { font-size: clamp(1.5rem, 3.5vw, 2.1rem); }
+h3 { font-size: 1.2rem; }
+
+.display-italic { font-style: italic; letter-spacing: 0.01em; }
+
+.smallcaps {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.12em;
+}
+
+/* ⁂ separators */
+.asterism {
+  border: 0;
+  text-align: center;
+  margin: 3.2rem auto;
+  color: var(--gold);
+  font-size: 1.15rem;
+  letter-spacing: 0.6em;
+}
+
+.asterism::before { content: "⁂"; text-shadow: var(--glow); }
+
+/* Drop cap for story sections */
+.dropcap::first-letter {
+  float: left;
+  font-size: 3.4em;
+  line-height: 0.82;
+  padding: 0.06em 0.12em 0 0;
+  color: var(--gold);
+  font-style: normal;
+  text-shadow: var(--glow);
+}
+
+/* ---------- story landing ---------- */
+
+.story-open {
+  padding: clamp(4rem, 12vh, 8rem) 0 3rem;
+}
+
+.story-open .invocation {
+  font-style: italic;
+  font-size: clamp(1.6rem, 3.6vw, 2.5rem);
+  line-height: 1.45;
+  max-width: 30ch;
+  margin: 0 0 1.6rem;
+}
+
+.story-open .invocation em {
+  font-style: normal;
+  color: var(--gold);
+  text-shadow: var(--glow);
+}
+
+.story-section { padding: 1rem 0; }
+
+blockquote.evidence {
+  margin: 1.6rem 0;
+  padding: 0.2rem 0 0.2rem 1.2rem;
+  border-left: 2px solid var(--gold-soft);
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+blockquote.evidence cite {
+  display: block;
+  font-style: normal;
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+  color: var(--ink-faint);
+}
+
+.begin-descent {
+  display: inline-block;
+  margin: 1rem 0 0;
+  padding: 0.85rem 2.2rem;
+  border: 1px solid var(--gold);
+  color: var(--ink);
+  text-decoration: none;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.22em;
+  font-size: 1.05rem;
+  box-shadow: var(--glow);
+  transition: background 150ms ease, color 150ms ease;
+}
+
+.begin-descent:hover {
+  background: var(--gold);
+  color: var(--parchment);
+  text-decoration: none;
+}
+
+.begin-descent .arrow { color: var(--gold); }
+.begin-descent:hover .arrow { color: inherit; }
+
+/* constellation ring figure */
+.ring-figure {
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+.ring-figure svg {
+  max-width: min(34rem, 92vw);
+  height: auto;
+}
+
+.ring-figure figcaption {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  max-width: 44ch;
+  margin: 0.8rem auto 0;
+}
+
+.ring-edge { stroke: var(--gold); }
+.ring-node-dot { fill: var(--gold); }
+.ring-label { fill: var(--ink-soft); font-size: 10.5px; font-family: var(--serif); letter-spacing: 0.04em; }
+.ring-label a { text-decoration: none; }
+.ring-label:hover { fill: var(--rubric); }
+
+/* tradition chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.4rem;
+  padding: 0;
+  margin: 0.4rem 0 0;
+  list-style: none;
+}
+
+.chip {
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.05rem 0.55rem;
+  white-space: nowrap;
+}
+
+.chip.more { border-style: dashed; color: var(--ink-faint); }
+
+/* ---------- descent outline ---------- */
+
+.family-list { list-style: none; margin: 2rem 0 0; padding: 0; }
+
+.family-entry {
+  border-top: 1px solid var(--line);
+  padding: 1.4rem 0 1.5rem;
+}
+
+.family-entry:last-child { border-bottom: 1px solid var(--line); }
+
+.family-entry .family-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+
+.family-entry h3 { margin: 0; font-size: 1.25rem; }
+
+.family-entry h3 a { text-decoration: none; }
+
+.family-meta {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.family-desc {
+  max-width: var(--measure);
+  color: var(--ink-soft);
+  margin: 0.45rem 0 0;
+  font-size: 0.95rem;
+}
+
+.subfamily-line {
+  max-width: var(--measure);
+  margin: 0.6rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  line-height: 1.9;
+}
+
+.subfamily-line .dot { color: var(--gold); margin: 0 0.35rem; }
+
+.outside-note {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  max-width: var(--measure);
+}
+
+/* ---------- family page ---------- */
+
+.subfamily-block {
+  border-top: 1px solid var(--line);
+  padding: 1.6rem 0 1.8rem;
+}
+
+.subfamily-block h3 { margin-bottom: 0.2rem; }
+
+.subfamily-count {
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.08em;
+}
+
+.motif-list { list-style: none; margin: 0.9rem 0 0; padding: 0; }
+
+.motif-item {
+  padding: 0.55rem 0;
+  border-top: 1px dotted var(--line);
+}
+
+.motif-item:first-child { border-top: 0; }
+
+.motif-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+.motif-line .motif-name { font-size: 0.98rem; }
+.motif-line .motif-name a { text-decoration-style: dotted; }
+
+.motif-count {
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.06em;
+}
+
+/* ---------- lab / apparatus ---------- */
+
+.apparatus {
+  margin: 2rem 0;
+  border: 1px solid var(--line);
+  background: var(--vellum);
+  padding: 1.6rem 1.8rem 1.8rem;
+}
+
+.apparatus > .rubric { margin-bottom: 0.4rem; }
+
+.apparatus h2 { font-size: 1.45rem; }
+
+.apparatus .apparatus-note {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  max-width: var(--measure);
+}
+
+.table-scroll { overflow-x: auto; margin-top: 1.2rem; }
+
+table.ledger {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+table.ledger caption {
+  caption-side: bottom;
+  text-align: left;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  padding-top: 0.6rem;
+}
+
+table.ledger th {
+  text-align: left;
+  font-weight: 400;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--gold-soft);
+  padding: 0.35rem 1.1rem 0.35rem 0;
+}
+
+table.ledger td {
+  border-bottom: 1px dotted var(--line);
+  padding: 0.42rem 1.1rem 0.42rem 0;
+  vertical-align: top;
+}
+
+table.ledger td.num, table.ledger th.num { text-align: right; padding-right: 0.2rem; }
+
+table.ledger tr.hit td { color: var(--ink); }
+
+.verdict {
+  display: inline-block;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.18em;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  padding: 0.1rem 0.8rem;
+  text-shadow: var(--glow);
+}
+
+.stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.4rem 3rem;
+  margin: 1.4rem 0 0.4rem;
+}
+
+.stat-row .stat strong {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 400;
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.25;
+}
+
+.stat-row .stat span {
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  color: var(--ink-soft);
+  font-variant-caps: small-caps;
+}
+
+/* misc */
+.mono-id {
+  font-size: 0.85em;
+  letter-spacing: 0.04em;
+  color: var(--ink-faint);
+}
+
+.footnote {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}

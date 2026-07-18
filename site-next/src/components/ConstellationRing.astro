@@ -1,0 +1,91 @@
+---
+/**
+ * The One, drawn: every family in the conserved constellation placed on a
+ * ring, every conserved edge drawn as a chord. Generated at build time from
+ * data/indexes/motif-constellations.yml — nothing here is hand-placed.
+ */
+import { constellations, humanize } from '../lib/atlas.js';
+
+const { size = 640, labels = true, caption = null } = Astro.props;
+
+const doc = constellations();
+const constellation = (doc.constellations ?? [])[0] ?? { families: [] };
+const familyIds = [...constellation.families].sort();
+const edges = (doc.conserved_edges ?? []).filter(
+  (e) => familyIds.includes(e.pair[0]) && familyIds.includes(e.pair[1]),
+);
+const maxTraditions = Math.max(...edges.map((e) => e.tradition_count), 1);
+
+const cx = size / 2;
+const cy = size / 2;
+const rNode = size * 0.28;
+const rLabel = rNode + size * 0.022;
+
+const pos = new Map(
+  familyIds.map((id, i) => {
+    const angle = (i / familyIds.length) * Math.PI * 2 - Math.PI / 2;
+    return [id, {
+      angle,
+      x: cx + rNode * Math.cos(angle),
+      y: cy + rNode * Math.sin(angle),
+      lx: cx + rLabel * Math.cos(angle),
+      ly: cy + rLabel * Math.sin(angle),
+      deg: (angle * 180) / Math.PI,
+    }];
+  }),
+);
+
+// Chords curve toward the centre: quadratic control point pulled inward
+// proportionally to how far apart the nodes sit on the ring.
+function chordPath(a, b) {
+  const p = pos.get(a);
+  const q = pos.get(b);
+  const mx = (p.x + q.x) / 2;
+  const my = (p.y + q.y) / 2;
+  const pull = 0.55;
+  const cxq = mx + (cx - mx) * pull;
+  const cyq = my + (cy - my) * pull;
+  return `M ${p.x.toFixed(1)} ${p.y.toFixed(1)} Q ${cxq.toFixed(1)} ${cyq.toFixed(1)} ${q.x.toFixed(1)} ${q.y.toFixed(1)}`;
+}
+---
+
+<figure class="ring-figure">
+  <svg
+    viewBox={`0 0 ${size} ${size}`}
+    role="img"
+    aria-label={`Constellation of ${familyIds.length} motif families joined by ${edges.length} conserved edges`}
+  >
+    <g fill="none" stroke-linecap="round">
+      {edges.map((e) => (
+        <path
+          class="ring-edge"
+          d={chordPath(e.pair[0], e.pair[1])}
+          stroke-width={0.5 + (e.tradition_count / maxTraditions) * 1.6}
+          opacity={0.1 + (e.tradition_count / maxTraditions) * 0.55}
+        />
+      ))}
+    </g>
+    {familyIds.map((id) => {
+      const p = pos.get(id);
+      const flip = p.deg > 90 || p.deg < -90;
+      return (
+        <g>
+          <circle class="ring-node-dot" cx={p.x} cy={p.y} r={size * 0.006} />
+          {labels && (
+            <text
+              class="ring-label"
+              x={p.lx}
+              y={p.ly}
+              text-anchor={flip ? 'end' : 'start'}
+              dominant-baseline="middle"
+              transform={`rotate(${flip ? p.deg + 180 : p.deg} ${p.lx} ${p.ly})`}
+            >
+              <a href={`/descent/${id}/`}>{humanize(id)}</a>
+            </text>
+          )}
+        </g>
+      );
+    })}
+  </svg>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

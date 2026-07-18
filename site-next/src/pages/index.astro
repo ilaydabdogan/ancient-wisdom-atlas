@@ -1,0 +1,236 @@
+---
+import Manuscript from '../layouts/Manuscript.astro';
+import ConstellationRing from '../components/ConstellationRing.astro';
+import {
+  corpusOverview,
+  corpusStats,
+  constellations,
+  nullModel,
+  isolatedPredictionTest,
+  replicationAgreement,
+  sequenceGrammar,
+  earliestAttestation,
+  fmtInt,
+  fmtPct,
+  humanize,
+} from '../lib/atlas.js';
+
+const corpus = corpusOverview();
+const stats = corpusStats();
+const constDoc = constellations();
+const web = (constDoc.constellations ?? [])[0];
+const nullDoc = nullModel();
+const iso = isolatedPredictionTest();
+const rep = replicationAgreement();
+const seq = sequenceGrammar();
+const first = earliestAttestation();
+
+const readers = Object.entries(rep.runs ?? {}).filter(([, r]) => (r.parsed ?? 0) > 0);
+const pairs = (rep.pairwise ?? []).filter((p) => (p.shared_passages ?? 0) > 0);
+const meanAgreement =
+  pairs.reduce((a, p) => a + (p.mean_canonical_jaccard ?? 0), 0) / (pairs.length || 1);
+
+const firstYear = first ? Math.abs(first.year) : null;
+const holdoutLineages = iso.holdout?.lineages ?? [];
+const survivors = seq.survivors ?? [];
+const dissolvedCount = seq.strongPairCount - survivors.length;
+// Flagship survivor: the ordering chance had the hardest time writing.
+const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)[0] ?? null;
+---
+
+<Manuscript
+  title="Ancient Wisdom Atlas — the same stories, told by strangers"
+  description="A comparative atlas of recurring motifs across the sacred literature of the world, tested against chance."
+>
+  <div class="folio">
+    <!-- ✦ Invocation ------------------------------------------------- -->
+    <section class="story-open">
+      <p class="rubric">An atlas of recurring story</p>
+      <h1 class="invocation">
+        For thousands of years, humans who never met told <em>the same stories</em>.
+      </h1>
+      <div class="reading">
+        <p>
+          A child of miraculous birth. A descent into the land of the dead. A serpent
+          coiled around something precious. These patterns surface in scriptures and songs
+          separated by oceans and millennia — from a Babylonian tablet of
+          {first ? ` ca. ${fmtInt(firstYear)} BCE` : ' the Bronze Age'} to oral traditions
+          first written down in living memory.
+        </p>
+        <p>
+          Coincidence, contact, or something structural in the human mind? This atlas is an
+          attempt to ask that question carefully — with a fixed corpus, evidence-grounded
+          extraction, and tests that give chance every opportunity to win.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ The corpus ------------------------------------------------- -->
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">The corpus</p>
+        <h2>The library of strangers</h2>
+        <p class="dropcap">
+          The atlas reads {fmtInt(corpus.textCount)} public-domain texts from
+          {fmtInt(corpus.traditionCount)} traditions: Gilgamesh and the Book of the Dead,
+          the Upaniṣads and the Eddas, the Popol Vuh and the Kalevala, Hopi and Zuni and
+          Inuit tellings, Sufi poetry and Gnostic gospels. Every tradition keeps its own
+          voice; nothing is paraphrased into sameness before the comparison begins.
+        </p>
+        <p>
+          From these pages, {fmtInt(corpus.extractionRecordCount)} passage-level extraction
+          records were drawn, each one anchored to quoted evidence in the source text —
+          {fmtInt(corpus.candidateMotifCount)} candidate motifs in the raw, later gathered
+          into {fmtInt(stats.canonicalFamilyCount)} canonical families.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{fmtInt(corpus.textCount)}</strong> texts</p>
+        <p class="gloss"><strong>{fmtInt(corpus.traditionCount)}</strong> traditions</p>
+        <p class="gloss"><strong>{fmtInt(corpus.extractionRecordCount)}</strong> evidence-anchored records</p>
+        <p class="gloss"><strong>{fmtInt(stats.canonicalFamilyCount)}</strong> motif families</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ The method ------------------------------------------------- -->
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">The method</p>
+        <h2>Three readers, and a jury of chance</h2>
+        <p class="dropcap">
+          Seeing patterns is easy; the human mind was built for it. So the atlas does not
+          trust a single reader. {readers.length === 3 ? 'Three' : fmtInt(readers.length)}
+          independent model readers extracted motifs from the same passages, and their
+          answers were compared — agreeing on the canonical family
+          {fmtPct(meanAgreement, 0)} of the time on average across reader pairs.
+        </p>
+        <p>
+          Every motif claim must point at quoted lines in the source. And every pattern the
+          atlas reports is put before a jury of chance: shuffled null models that ask,
+          <em>if the motifs were dealt at random, how often would this arrangement appear
+          on its own?</em> Patterns that chance can produce are discarded — including some
+          of the atlas's own early favorites.
+        </p>
+        <p class="footnote">
+          The full apparatus — agreement matrices, permutation counts, per-lineage tables —
+          is laid out in <a href="/lab/">the Lab</a>.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{readers.length}</strong> independent readers</p>
+        <p class="gloss"><strong>{fmtPct(meanAgreement, 0)}</strong> mean family-level agreement</p>
+        <p class="gloss"><strong>{fmtInt(nullDoc.config?.permutations)}</strong> permutations per null test</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ Finding I: the one web ------------------------------------- -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">First finding</p>
+        <h2>Not many webs — one</h2>
+        <p class="dropcap">
+          When families of motifs are joined wherever they recur together across unrelated
+          traditions, the expectation was archipelagos: a hero-cluster here, a
+          creation-cluster there. Instead the {fmtInt(web?.internal_edges)} conserved
+          edges close into a single connected constellation of {fmtInt(web?.size)}
+          families. Descent touches initiation touches sacred knowledge touches the
+          flood. There is one web.
+        </p>
+        <p>
+          The jury of chance was asked. Across {fmtInt(nullDoc.config?.permutations)}
+          shuffles, random dealing produced {fmtInt(Math.round(nullDoc.result?.null_mean))}
+          conserved edges on average — never {fmtInt(nullDoc.result?.observed_conserved_edges)}
+          (z = {nullDoc.result?.z_score}, p = {nullDoc.result?.p_value}).
+        </p>
+      </div>
+      <ConstellationRing
+        caption={`The one web: ${fmtInt(web?.size)} motif families joined by ${fmtInt(web?.internal_edges)} edges conserved across at least ${fmtInt(constDoc.summary?.min_traditions)} unrelated traditions. Drawn from the constellation index at build time — every chord is a real edge.`}
+      />
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ Finding II: the preregistered test ------------------------- -->
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">Second finding · preregistered</p>
+        <h2>The isolated lineages already knew</h2>
+        <p class="dropcap">
+          The sharpest test the atlas has run: learn the web from
+          {fmtInt(iso.training?.traditions?.length)} connected Old World traditions, write
+          the predictions down first, then open {fmtInt(holdoutLineages.length)} held-out
+          lineages with little or no historical contact with that world —
+          {holdoutLineages.slice(0, 5).map(humanize).join(', ')}, and others.
+        </p>
+        <p>
+          The isolated lineages reproduced {fmtPct(iso.result?.reproduction_rate)} of the
+          trained web, where chance manages {fmtPct(iso.result?.null_mean)}. The observed
+          rate beat all {iso.result?.permutations_beaten?.split('/')[1] ?? ''} permutations
+          ({iso.result?.permutations_beaten}); the best shuffle ever achieved was
+          {' '}{fmtPct(iso.result?.null_max)}. The preregistered verdict:
+          <span class="verdict">{iso.result?.verdict}</span>
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{fmtPct(iso.result?.reproduction_rate)}</strong> reproduced by isolated lineages</p>
+        <p class="gloss"><strong>{fmtPct(iso.result?.null_mean)}</strong> expected by chance</p>
+        <p class="gloss"><strong>{iso.result?.permutations_beaten}</strong> permutations beaten</p>
+        <p class="gloss"><strong>×{iso.result?.lift}</strong> lift over the null</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ Finding III: the falsification ----------------------------- -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Third finding · a falsification</p>
+        <h2>The grammar that mostly wasn't</h2>
+        <p class="dropcap">
+          Not every beautiful hypothesis survives its jury. Campbell's claim was that
+          stories don't just share ingredients — they share an <em>order</em>. The atlas
+          asked the texts: {fmtInt(seq.strongPairCount)} strong before-and-after
+          orderings emerged, and under within-text permutation
+          {' '}{fmtInt(dissolvedCount)} of them dissolved — chance writes those orderings
+          on its own. As a universal grammar, the hypothesis failed.
+        </p>
+        {flagship && (
+          <p>
+            But {fmtInt(survivors.length)} lines of order held. The strongest:
+            {' '}<strong>{humanize(flagship.before)} → {humanize(flagship.after)}</strong> —
+            the wondrous child comes before the sacred fire,
+            {' '}{fmtPct(flagship.consistency)} consistent across
+            {' '}{fmtInt(flagship.text_count)} texts, an order chance matched in only
+            {' '}{fmtPct(flagship.null_fraction_as_extreme, 0)} of shuffles. The atlas keeps
+            its falsifications on the same shelf as its findings; the full ledger of what
+            dissolved and what held is in <a href="/lab/">the Lab</a>.
+          </p>
+        )}
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ The call --------------------------------------------------- -->
+    <section class="story-section" style="padding-bottom: 5rem;">
+      <div class="reading">
+        <p class="rubric">The descent</p>
+        <h2 class="display-italic">The one web is walkable.</h2>
+        <p>
+          From the One to its {fmtInt(web?.size)} constellation families, down through
+          sub-families to single motifs, each resting on quoted passages in the books
+          themselves. Every claim above is a path you can follow to its evidence.
+        </p>
+        <p>
+          <a class="begin-descent" href="/descent/">Begin the descent <span class="arrow">▾</span></a>
+        </p>
+      </div>
+    </section>
+  </div>
+</Manuscript>

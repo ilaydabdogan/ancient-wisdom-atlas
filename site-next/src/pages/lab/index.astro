@@ -1,0 +1,265 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import {
+  isolatedPredictionTest,
+  nullModel,
+  replicationAgreement,
+  sequenceGrammar,
+  fmtInt,
+  fmtPct,
+  humanize,
+} from '../../lib/atlas.js';
+
+const iso = isolatedPredictionTest();
+const nullDoc = nullModel();
+const rep = replicationAgreement();
+const seq = sequenceGrammar();
+
+const perLineage = Object.entries(iso.per_lineage ?? {}).sort(
+  (a, b) => (b[1].records ?? 0) - (a[1].records ?? 0),
+);
+
+const runs = Object.entries(rep.runs ?? {});
+const pairs = (rep.pairwise ?? []).filter((p) => (p.shared_passages ?? 0) > 0);
+
+// Short display names for reader runs: strip shared prefixes/dates.
+function runName(id) {
+  return id
+    .replace(/^motif-extraction-/, 'reader A · ')
+    .replace(/^replication-/, 'reader · ')
+    .replace(/-\d{4}-\d{2}-\d{2}.*$/, '');
+}
+
+const strongestEdges = (nullDoc.edges ?? []).slice(0, 12);
+const ALPHA = 0.05;
+const precedence = (seq.pairs ?? [])
+  .slice()
+  .sort((a, b) => a.null_fraction_as_extreme - b.null_fraction_as_extreme)
+  .map((p) => ({ ...p, survives: p.null_fraction_as_extreme <= ALPHA }));
+
+const crumbs = [
+  { label: 'the One', href: '/descent/' },
+  { label: 'the Lab' },
+];
+---
+
+<Manuscript
+  title="The Lab — Ancient Wisdom Atlas"
+  description="The apparatus: preregistered prediction test, permutation null models, and inter-reader agreement, in full."
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 0;">
+      <p class="rubric">The apparatus</p>
+      <h1>The Lab</h1>
+      <div class="reading">
+        <p>
+          Every number the story cites, with the machinery visible. Three instruments are
+          laid out here: the preregistered isolated-lineage prediction test, the
+          permutation null models behind the constellation, and the agreement between
+          independent readers. All figures regenerate from the evidence indexes.
+        </p>
+      </div>
+    </section>
+
+    <!-- ✦ Instrument I ------------------------------------------------ -->
+    <section class="apparatus">
+      <p class="rubric">Instrument I · preregistered</p>
+      <h2>The isolated-lineage prediction test</h2>
+      <p class="apparatus-note">
+        The constellation was learned from {fmtInt(iso.training?.traditions?.length)}
+        connected traditions ({fmtInt(iso.training?.records)} records,
+        {fmtInt(iso.training?.conserved_edges)} conserved edges), predictions were fixed in
+        the preregistration, then {fmtInt(iso.holdout?.lineages?.length)} isolated lineages
+        ({fmtInt(iso.holdout?.records)} records) were opened.
+      </p>
+
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtPct(iso.result?.reproduction_rate)}</strong> <span>edges reproduced</span></p>
+        <p class="stat"><strong>{fmtPct(iso.result?.null_mean)}</strong> <span>null mean</span></p>
+        <p class="stat"><strong>{fmtPct(iso.result?.null_max)}</strong> <span>best shuffle</span></p>
+        <p class="stat"><strong>{iso.result?.permutations_beaten}</strong> <span>permutations beaten</span></p>
+        <p class="stat"><strong>×{iso.result?.lift}</strong> <span>lift</span></p>
+        <p class="stat"><span class="verdict">{iso.result?.verdict}</span></p>
+      </div>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>
+            Held-out lineages. “Training edges present” counts trained-web edges whose
+            member families both occur in that lineage’s records.
+          </caption>
+          <thead>
+            <tr>
+              <th>Lineage</th>
+              <th class="num">Records</th>
+              <th class="num">Training edges present</th>
+            </tr>
+          </thead>
+          <tbody>
+            {perLineage.map(([id, row]) => (
+              <tr>
+                <td>{humanize(id)}</td>
+                <td class="num">{fmtInt(row.records)}</td>
+                <td class="num">{fmtInt(row.training_edges_present)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ✦ Instrument II ----------------------------------------------- -->
+    <section class="apparatus">
+      <p class="rubric">Instrument II · null model</p>
+      <h2>The constellation against chance</h2>
+      <p class="apparatus-note">
+        {fmtInt(nullDoc.config?.permutations)} degree-preserving shuffles across
+        {fmtInt(nullDoc.config?.traditions_analyzed)} traditions
+        (edge thresholds: pair count ≥ {nullDoc.config?.min_pair_count}, traditions ≥
+        {nullDoc.config?.min_traditions}).
+      </p>
+
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtInt(nullDoc.result?.observed_conserved_edges)}</strong> <span>observed edges</span></p>
+        <p class="stat"><strong>{nullDoc.result?.null_mean}</strong> <span>null mean</span></p>
+        <p class="stat"><strong>{fmtInt(nullDoc.result?.null_max)}</strong> <span>null max</span></p>
+        <p class="stat"><strong>{nullDoc.result?.z_score}</strong> <span>z-score</span></p>
+        <p class="stat"><strong>{nullDoc.result?.p_value}</strong> <span>p-value</span></p>
+      </div>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>
+            The {fmtInt(strongestEdges.length)} conserved edges chance reproduced least
+            often, of {fmtInt((nullDoc.edges ?? []).length)} tested. “Null hit rate” is the
+            fraction of shuffles in which the edge appeared at all.
+          </caption>
+          <thead>
+            <tr>
+              <th>Edge</th>
+              <th class="num">Traditions</th>
+              <th class="num">Null hit rate</th>
+            </tr>
+          </thead>
+          <tbody>
+            {strongestEdges.map((e) => (
+              <tr>
+                <td>{humanize(e.pair[0])} — {humanize(e.pair[1])}</td>
+                <td class="num">{fmtInt(e.observed_traditions)}</td>
+                <td class="num">{fmtPct(e.null_hit_rate)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ✦ Instrument III ---------------------------------------------- -->
+    <section class="apparatus">
+      <p class="rubric">Instrument III · replication</p>
+      <h2>Agreement between independent readers</h2>
+      <p class="apparatus-note">
+        Independent model readers extracted motifs from the same passages. Agreement is
+        the mean Jaccard overlap of their canonical-family assignments per shared passage.
+      </p>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>Extraction runs entering the comparison.</caption>
+          <thead>
+            <tr><th>Run</th><th class="num">Passages parsed</th><th class="num">Parse failures</th></tr>
+          </thead>
+          <tbody>
+            {runs.map(([id, r]) => (
+              <tr>
+                <td>{id}</td>
+                <td class="num">{fmtInt(r.parsed)}</td>
+                <td class="num">{fmtInt(r.parse_failed)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>
+            Pairwise agreement over shared passages. Raw = surface motif labels;
+            canonical = after normalization to families; exact = identical family sets.
+          </caption>
+          <thead>
+            <tr>
+              <th>Reader pair</th>
+              <th class="num">Shared passages</th>
+              <th class="num">Raw Jaccard</th>
+              <th class="num">Canonical Jaccard</th>
+              <th class="num">Exact match</th>
+            </tr>
+          </thead>
+          <tbody>
+            {pairs.map((p) => (
+              <tr>
+                <td>{p.run_a} ×<br />{p.run_b}</td>
+                <td class="num">{fmtInt(p.shared_passages)}</td>
+                <td class="num">{fmtPct(p.mean_raw_jaccard)}</td>
+                <td class="num">{fmtPct(p.mean_canonical_jaccard)}</td>
+                <td class="num">{fmtPct(p.exact_canonical_match_rate)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ✦ Instrument IV ----------------------------------------------- -->
+    <section class="apparatus">
+      <p class="rubric">Instrument IV · falsification</p>
+      <h2>The sequence-grammar test</h2>
+      <p class="apparatus-note">
+        {fmtInt(seq.strongPairCount)} strong precedence pairs (one family consistently
+        before another within texts) were tested against within-text permutation.
+        A pair survives when chance matched its consistency in at most
+        {fmtPct(ALPHA, 0)} of shuffles: {fmtInt(seq.strongPairCount - seq.survivors.length)}
+        dissolved, {fmtInt(seq.survivors.length)} held. Survivors are marked in gold.
+      </p>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>
+            All {fmtInt(precedence.length)} candidate orderings, most chance-resistant
+            first. “Chance as extreme” is the fraction of permutations reaching the
+            observed consistency.
+          </caption>
+          <thead>
+            <tr>
+              <th>Ordering</th>
+              <th class="num">Texts</th>
+              <th class="num">Consistency</th>
+              <th class="num">Null mean</th>
+              <th class="num">Chance as extreme</th>
+              <th>Verdict</th>
+            </tr>
+          </thead>
+          <tbody>
+            {precedence.map((p) => (
+              <tr class={p.survives ? 'hit' : undefined}>
+                <td>{humanize(p.before)} → {humanize(p.after)}</td>
+                <td class="num">{fmtInt(p.text_count)}</td>
+                <td class="num">{fmtPct(p.consistency)}</td>
+                <td class="num">{fmtPct(p.null_consistency_mean)}</td>
+                <td class="num">{fmtPct(p.null_fraction_as_extreme)}</td>
+                <td>{p.survives ? <span class="verdict">survives</span> : <span class="mono-id">chance suffices</span>}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <p class="footnote">
+      Preregistration: <span class="mono-id">{iso.preregistration}</span> · indexes
+      regenerated {String(iso.generated_at ?? '').slice(0, 10)}.
+    </p>
+  </div>
+</Manuscript>

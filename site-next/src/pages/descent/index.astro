@@ -1,0 +1,93 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import ConstellationRing from '../../components/ConstellationRing.astro';
+import { families, constellations, fmtInt, humanize } from '../../lib/atlas.js';
+
+const all = families();
+const constDoc = constellations();
+const web = (constDoc.constellations ?? [])[0];
+const inWeb = all.filter((f) => f.inConstellation);
+const outside = all.filter((f) => !f.inConstellation);
+
+const crumbs = [{ label: 'the One' }];
+---
+
+<Manuscript
+  title="The Descent — Ancient Wisdom Atlas"
+  description="From the One constellation down through motif families and sub-families to the passages themselves."
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">The descent · first landing</p>
+      <h1>The One</h1>
+      <div class="reading">
+        <p>
+          Everything below this page hangs from a single structure: one connected
+          constellation of {fmtInt(web?.size)} motif families, joined by
+          {fmtInt(web?.internal_edges)} edges conserved across unrelated traditions.
+          Choose a family to descend into its sub-families, motifs, and finally the
+          quoted passages that hold the whole atlas up.
+        </p>
+      </div>
+      <ConstellationRing size={560} caption={null} />
+    </section>
+
+    <section>
+      <p class="rubric">The constellation · {fmtInt(inWeb.length)} families</p>
+      <ol class="family-list">
+        {inWeb.map((f) => (
+          <li class="family-entry">
+            <div class="family-head">
+              <h3><a href={`/descent/${f.id}/`}>{f.label}</a></h3>
+              <span class="family-meta">
+                {fmtInt(f.traditionCount)} traditions · {fmtInt(f.occurrenceTotal)} occurrences
+                {f.subFamilies ? ` · ${fmtInt(f.subFamilies.length)} sub-families` : ''}
+              </span>
+            </div>
+            <p class="family-desc">{f.description}</p>
+            {f.subFamilies && (
+              <p class="subfamily-line">
+                {f.subFamilies.map((sf, i) => (
+                  <span>{i > 0 && <span class="dot" aria-hidden="true">·</span>}{sf.label}</span>
+                ))}
+              </p>
+            )}
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    {outside.length > 0 && (
+      <section>
+        <p class="outside-note">
+          Beyond the constellation’s conserved core, {fmtInt(outside.length)} further
+          families are indexed. Their edges did not (or did not yet) clear the
+          conservation threshold of {fmtInt(constDoc.summary?.min_traditions)} unrelated
+          traditions — they descend all the same.
+        </p>
+        <ol class="family-list">
+          {outside.map((f) => (
+            <li class="family-entry">
+              <div class="family-head">
+                <h3><a href={`/descent/${f.id}/`}>{f.label}</a></h3>
+                <span class="family-meta">
+                  {fmtInt(f.traditionCount)} traditions · {fmtInt(f.occurrenceTotal)} occurrences
+                  {f.subFamilies ? ` · ${fmtInt(f.subFamilies.length)} sub-families` : ''}
+                </span>
+              </div>
+              <p class="family-desc">{f.description}</p>
+              {f.subFamilies && (
+                <p class="subfamily-line">
+                  {f.subFamilies.map((sf, i) => (
+                    <span>{i > 0 && <span class="dot" aria-hidden="true">·</span>}{sf.label}</span>
+                  ))}
+                </p>
+              )}
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+  </div>
+</Manuscript>

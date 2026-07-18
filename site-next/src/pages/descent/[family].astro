@@ -1,0 +1,159 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { families, humanize, fmtInt, liveMotifUrl } from '../../lib/atlas.js';
+
+export function getStaticPaths() {
+  return families().map((f) => ({ params: { family: f.id }, props: { family: f } }));
+}
+
+const { family } = Astro.props;
+
+const CHIP_LIMIT = 8;
+const UNBINNED_LIMIT = 60;
+
+// Look up frequency data for a motif id within this family's mapped motifs.
+const byMotifId = new Map(family.mappedMotifs.map((m) => [m.motif_id, m]));
+
+function motifView(motifId) {
+  const m = byMotifId.get(motifId);
+  const traditions = m?.traditions ? Object.keys(m.traditions).sort() : [];
+  return {
+    id: motifId,
+    label: m?.label ?? humanize(motifId),
+    occurrenceCount: m?.occurrence_count ?? null,
+    traditionCount: m?.tradition_count ?? traditions.length,
+    chips: traditions.slice(0, CHIP_LIMIT),
+    moreChips: Math.max(0, traditions.length - CHIP_LIMIT),
+  };
+}
+
+const subFamilies = (family.subFamilies ?? []).map((sf) => ({
+  ...sf,
+  motifs: sf.children
+    .map(motifView)
+    .sort((a, b) => (b.occurrenceCount ?? -1) - (a.occurrenceCount ?? -1)),
+}));
+
+// Mapped motifs that are not placed in any sub-family bin (or the whole list
+// when no bins exist yet for this family).
+const binned = new Set((family.subFamilies ?? []).flatMap((sf) => sf.children));
+const unbinnedAll = family.mappedMotifs
+  .filter((m) => !binned.has(m.motif_id))
+  .sort((a, b) => (b.occurrence_count ?? 0) - (a.occurrence_count ?? 0));
+const unbinned = unbinnedAll.slice(0, UNBINNED_LIMIT).map((m) => motifView(m.motif_id));
+
+const familyTraditions = Object.keys(family.traditions).sort();
+
+const crumbs = [
+  { label: 'the One', href: '/descent/' },
+  { label: family.id },
+];
+---
+
+<Manuscript
+  title={`${family.label} — the Descent — Ancient Wisdom Atlas`}
+  description={family.description}
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 0.5rem;">
+      <p class="rubric">Motif family</p>
+      <h1>{family.label}</h1>
+      <div class="reading">
+        <p class="dropcap">{family.description}</p>
+      </div>
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtInt(family.traditionCount)}</strong> <span>traditions</span></p>
+        <p class="stat"><strong>{fmtInt(family.occurrenceTotal)}</strong> <span>occurrences</span></p>
+        <p class="stat"><strong>{fmtInt(family.mappedMotifs.length)}</strong> <span>mapped motifs</span></p>
+        {subFamilies.length > 0 && (
+          <p class="stat"><strong>{fmtInt(subFamilies.length)}</strong> <span>sub-families</span></p>
+        )}
+      </div>
+      <ul class="chips" style="margin-top: 1.2rem;">
+        {familyTraditions.map((t) => <li class="chip">{humanize(t)}</li>)}
+      </ul>
+      {family.related.length > 0 && (
+        <p class="footnote" style="margin-top: 1.2rem;">
+          Conserved neighbors:
+          {family.related.map((r, i) => (
+            <span>{i > 0 ? ' · ' : ' '}<a href={`/descent/${r}/`}>{humanize(r)}</a></span>
+          ))}
+        </p>
+      )}
+    </section>
+
+    <hr class="asterism" />
+
+    {subFamilies.length > 0 ? (
+      <section>
+        <p class="rubric">Sub-families · the next landing down</p>
+        {subFamilies.map((sf) => (
+          <div class="subfamily-block">
+            <h3>{sf.label}</h3>
+            <p class="subfamily-count">{fmtInt(sf.motifs.length)} motifs</p>
+            <ul class="motif-list">
+              {sf.motifs.map((m) => (
+                <li class="motif-item">
+                  <div class="motif-line">
+                    <span class="motif-name"><a href={liveMotifUrl(m.id)}>{m.label}</a></span>
+                    {m.occurrenceCount !== null && (
+                      <span class="motif-count">{fmtInt(m.occurrenceCount)} occurrences · {fmtInt(m.traditionCount)} traditions</span>
+                    )}
+                  </div>
+                  {m.chips.length > 0 && (
+                    <ul class="chips">
+                      {m.chips.map((t) => <li class="chip">{humanize(t)}</li>)}
+                      {m.moreChips > 0 && <li class="chip more">+{m.moreChips} more</li>}
+                    </ul>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+    ) : (
+      <section>
+        <p class="outside-note">
+          This family has not yet been binned into sub-families; its mapped motifs are
+          listed directly, most widespread first.
+        </p>
+      </section>
+    )}
+
+    {unbinned.length > 0 && (
+      <section>
+        <div class="subfamily-block">
+          <h3>{subFamilies.length > 0 ? 'Not yet placed in a sub-family' : 'Mapped motifs'}</h3>
+          <p class="subfamily-count">
+            {fmtInt(unbinnedAll.length)} motifs{unbinnedAll.length > unbinned.length ? `, showing the ${fmtInt(unbinned.length)} most attested` : ''}
+          </p>
+          <ul class="motif-list">
+            {unbinned.map((m) => (
+              <li class="motif-item">
+                <div class="motif-line">
+                  <span class="motif-name"><a href={liveMotifUrl(m.id)}>{m.label}</a></span>
+                  {m.occurrenceCount !== null && (
+                    <span class="motif-count">{fmtInt(m.occurrenceCount)} occurrences · {fmtInt(m.traditionCount)} traditions</span>
+                  )}
+                </div>
+                {m.chips.length > 0 && (
+                  <ul class="chips">
+                    {m.chips.map((t) => <li class="chip">{humanize(t)}</li>)}
+                    {m.moreChips > 0 && <li class="chip more">+{m.moreChips} more</li>}
+                  </ul>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )}
+
+    <p class="footnote" style="margin-top: 2.5rem;">
+      Motif links open the evidence pages on the current site, where each motif rests on
+      its quoted passages. Reader pages will join the descent here in a later pass.
+    </p>
+  </div>
+</Manuscript>

@@ -1,0 +1,78 @@
+---
+import '../styles/manuscript.css';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const {
+  title = 'Ancient Wisdom Atlas',
+  description = 'A comparative atlas of recurring motifs across the sacred literature of the world.',
+  crumbs = null,
+} = Astro.props;
+
+const nav = [
+  { href: '/descent/', label: 'The Descent' },
+  { href: '/lab/', label: 'The Lab' },
+  { href: 'https://ancientwisdomatlas.com/findings/', label: 'Findings' },
+  { href: 'https://ancientwisdomatlas.com/texts/', label: 'Texts' },
+];
+
+const current = Astro.url.pathname;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <title>{title}</title>
+    <script is:inline>
+      // Apply saved theme before first paint to avoid flash.
+      (() => {
+        try {
+          const t = localStorage.getItem('awa-theme');
+          if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+        } catch {}
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="folio-header">
+      <a class="folio-brand" href="/">Ancient <span class="amp">✦</span> Wisdom <span class="amp">✦</span> Atlas</a>
+      <nav class="folio-nav" aria-label="Site">
+        {nav.map((item) => (
+          <a
+            href={item.href}
+            aria-current={current.startsWith(item.href) && item.href.startsWith('/') ? 'page' : undefined}
+          >{item.label}</a>
+        ))}
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle light and dark theme">☾ / ☀</button>
+      </nav>
+    </header>
+    <hr class="gold-rule" />
+    {crumbs && <Breadcrumb crumbs={crumbs} />}
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="folio-footer">
+      <span>Ancient Wisdom Atlas · built from the evidence indexes, regenerated with the data</span>
+      <span><a href="https://ancientwisdomatlas.com/">current site</a> · <a href="https://github.com/ilaydabdogan/ancient-wisdom-atlas">source</a></span>
+    </footer>
+
+    <script is:inline>
+      (() => {
+        const btn = document.querySelector('[data-theme-toggle]');
+        if (!btn) return;
+        btn.addEventListener('click', () => {
+          const root = document.documentElement;
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          const active = root.dataset.theme || (prefersDark ? 'dark' : 'light');
+          const next = active === 'dark' ? 'light' : 'dark';
+          root.dataset.theme = next;
+          try { localStorage.setItem('awa-theme', next); } catch {}
+        });
+      })();
+    </script>
+  </body>
+</html>

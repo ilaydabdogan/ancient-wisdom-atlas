@@ -1,0 +1,19 @@
+---
+/**
+ * The descent breadcrumb: `the One ▸ sacred_combat ▸ single_combat ▸ …`
+ * crumbs: [{ label, href? }] — last crumb (or any without href) renders as
+ * the current location.
+ */
+const { crumbs = [] } = Astro.props;
+---
+
+<nav class="breadcrumb" aria-label="Descent path">
+  {crumbs.map((crumb, i) => (
+    <>
+      {i > 0 && <span class="sep" aria-hidden="true">▸</span>}
+      {crumb.href
+        ? <a href={crumb.href}>{crumb.label}</a>
+        : <span class="here" aria-current="page">{crumb.label}</span>}
+    </>
+  ))}
+</nav>
