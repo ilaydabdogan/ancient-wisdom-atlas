@@ -1,6 +1,6 @@
 # Normalization Gap Audit
 
-Generated on 2026-04-30 from `data/indexes/motif-occurrences.yml`.
+Generated on 2026-07-17 from `data/indexes/motif-occurrences.yml`.
 
 This report lists motif IDs that are present in the motif occurrence index but not yet mapped in the canonical taxonomy or normalization file. The review buckets below are only rough semantic triage for human review; they are not automatic taxonomy assignments.
 

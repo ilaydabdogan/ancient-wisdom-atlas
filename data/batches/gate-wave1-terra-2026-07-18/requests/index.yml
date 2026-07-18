@@ -1,0 +1,63 @@
+---
+batch_request_index_version: '1'
+run_id: gate-wave1-terra-2026-07-18
+source_run: motif-extraction-2026-07-17-azure-wave1
+created_at: '2026-07-18T06:27:01Z'
+updated_at: '2026-07-18T07:46:43Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-terra
+honeypot_count: 64
+shards:
+- shard_id: shard-0001
+  path: data/batches/gate-wave1-terra-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 19421941
+  sha256: 6098eceab4e00d37e83d74daf0b2aafdc8b1b94dd3c4262a25e70d9db8a9bed3
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-wave1-terra-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: c71371071f7e1a0f3d101d0cfbbb305ba40d28059575895c19f69105d0fb6386
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T06:51:09Z'
+- shard_id: shard-0002
+  path: data/batches/gate-wave1-terra-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 19871206
+  sha256: 11c1ab0f8bf55ed19a0d39fcf501c6c5ef8887039dd98daf8aa9f82843f488e5
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-wave1-terra-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: e54c42b0fb5daf22ffff9da9134d41cdafef65534b69681d848b4f00af2ca2d0
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T07:14:27Z'
+- shard_id: shard-0003
+  path: data/batches/gate-wave1-terra-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 19765084
+  sha256: 617146e1b4ec0e87c6316127c4c0d518d0d1210a2e349781a79cfd7563412dd0
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-wave1-terra-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: bb980a9104fc0dbc1998734c77895d1ec41c12ab1c094489764a8dcb761075ee
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T07:38:28Z'
+- shard_id: shard-0004
+  path: data/batches/gate-wave1-terra-2026-07-18/requests/shard-0004.jsonl
+  request_count: 281
+  bytes: 5634900
+  sha256: 9a6f4b21c23cc574490a788d04757c438d9b8773c44279f388a1a61cf16e36d3
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/gate-wave1-terra-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: ff7d581eb4f75d8411cf1608709f1acd76c1a5d7067b4fa9571387bf116b7f85
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T07:46:43Z'
+
