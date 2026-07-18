@@ -137,7 +137,7 @@ def nav_html(current_output)
   links.join("\n")
 end
 
-def layout(title:, subtitle: nil, current_output:, body:, page_class: nil)
+def layout(title:, subtitle: nil, current_output:, body:, page_class: nil, extra_head: nil)
   css = relative_url(current_output, "assets/style.css")
   js = relative_url(current_output, "assets/app.js")
   <<~HTML
@@ -149,6 +149,7 @@ def layout(title:, subtitle: nil, current_output:, body:, page_class: nil)
       <title>#{esc(title)} | Ancient Wisdom Atlas</title>
       <meta name="description" content="A Markdown-first atlas of ancient wisdom, myth, sacred texts, motifs, and cross-cultural comparison.">
       <link rel="stylesheet" href="#{esc(css)}">
+      #{extra_head}
     </head>
     <body class="#{esc(page_class)}">
       <header class="site-header">
@@ -175,7 +176,7 @@ def layout(title:, subtitle: nil, current_output:, body:, page_class: nil)
         <span>Generated from Markdown and YAML corpus files.</span>
         <a href="#{esc(relative_url(current_output, "motifs/index.html"))}">Browse motif evidence</a>
       </footer>
-      <script src="#{esc(js)}"></script>
+      <script src="#{esc(js)}" defer></script>
     </body>
     </html>
   HTML
@@ -619,10 +620,34 @@ def taxonomy_constellation_data(normalization, proposed_review, current_output, 
     cluster.merge("node_count" => cluster_counts[cluster["id"]].to_i)
   end.select { |cluster| cluster["node_count"].positive? }
 
+  cluster_order = clusters.each_with_index.to_h { |cluster, idx| [cluster["id"], idx] }
+  grouped_nodes = nodes.group_by { |node| node["cluster"] }
+  hierarchy_children = clusters.map do |cluster|
+    bucket = Array(grouped_nodes[cluster["id"]]).sort_by do |node|
+      [node["type"] == "pending" ? 1 : 0, -node["occurrence_count"].to_i, node["label"].to_s.downcase]
+    end
+    {
+      "id" => cluster["id"],
+      "label" => cluster["label"],
+      "type" => "cluster",
+      "description" => cluster["description"],
+      "children" => bucket
+    }
+  end
+  hierarchy = {
+    "id" => "root",
+    "label" => "",
+    "type" => "root",
+    "children" => hierarchy_children
+  }
+
+  node_id_set = nodes.to_h { |node| [node["id"], true] }
+  cross_links = links.select { |link| node_id_set[link["source"]] && node_id_set[link["target"]] }
+
   {
     "clusters" => clusters,
-    "nodes" => nodes,
-    "links" => links
+    "hierarchy" => hierarchy,
+    "cross_links" => cross_links
   }
 end
 
@@ -632,19 +657,19 @@ def taxonomy_constellation_html(normalization, proposed_review, current_output, 
     <div class="constellation-map" data-source="#{esc(data_id)}">
       <div class="constellation-toolbar">
         <input type="search" class="constellation-search" placeholder="Find a family">
-        <select class="constellation-label-mode" aria-label="Label density">
-          <option value="focus">Focus labels</option>
-          <option value="top">Major labels</option>
-          <option value="all">All labels</option>
-        </select>
+        <button type="button" class="constellation-expand-all" data-state="collapsed">Expand all clusters</button>
+        <label class="constellation-toggle">
+          <input type="checkbox" class="constellation-bundle-toggle" checked>
+          <span>Show related-family links</span>
+        </label>
         <div class="constellation-legend" aria-label="Constellation legend">
-          <span><i></i> canonical family</span>
-          <span><i class="small"></i> node size = evidence</span>
+          <span><i></i> cluster &middot; click to expand</span>
+          <span><i class="small"></i> family &middot; size = evidence</span>
           <span><i class="dash"></i> pending group</span>
         </div>
       </div>
       <div class="constellation-stage">
-        <svg class="constellation-svg" role="img" aria-label="Interactive clustered map of motif taxonomy families"></svg>
+        <svg class="constellation-svg" role="img" aria-label="Radial dendrogram of motif taxonomy families"></svg>
         <aside class="constellation-panel" aria-live="polite">
           <span class="row-kicker">Selected Family</span>
           <h3>Choose A Family</h3>
@@ -1935,7 +1960,7 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
       title: "Explore The Map",
       meta: "visual graph",
       href: relative_url(current, "taxonomy/constellation.html"),
-      counts: [["#{format_count(approved_groups.length)}", "families"], ["#{format_count(taxonomy_constellation_data(normalization, proposed_review, current, family_analyses)["links"].length)}", "links"]]
+      counts: [["#{format_count(approved_groups.length)}", "families"], ["#{format_count(taxonomy_constellation_data(normalization, proposed_review, current, family_analyses)["cross_links"].length)}", "links"]]
     },
     {
       title: "Browse Family Pages",
@@ -2074,7 +2099,8 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
     subtitle: "A clustered knowledge graph of canonical motif families and pending new group candidates.",
     current_output: standalone_output,
     body: standalone_body,
-    page_class: "taxonomy-page constellation-page"
+    page_class: "taxonomy-page constellation-page",
+    extra_head: %(<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" defer></script>)
   ))
 end
 
@@ -2869,16 +2895,32 @@ STYLE_CSS = <<~CSS
 
   .constellation-toolbar {
     display: grid;
-    grid-template-columns: minmax(220px, 1fr) 160px auto;
-    gap: 12px;
+    grid-template-columns: minmax(220px, 1fr) auto auto auto;
+    gap: 14px;
     align-items: center;
     padding: 12px;
     background: rgba(15, 15, 12, 0.96);
     border-bottom: 1px solid #242219;
   }
 
-  .constellation-search,
-  .constellation-label-mode {
+  .constellation-expand-all {
+    min-height: 42px;
+    padding: 0 14px;
+    background: rgba(186, 160, 79, 0.14);
+    border: 1px solid rgba(186, 160, 79, 0.42);
+    border-radius: 6px;
+    color: #f4ead0;
+    font: inherit;
+    font-size: 13px;
+    cursor: pointer;
+    transition: background 140ms ease;
+  }
+
+  .constellation-expand-all:hover {
+    background: rgba(186, 160, 79, 0.26);
+  }
+
+  .constellation-search {
     min-height: 42px;
     padding: 10px 12px;
     background: rgba(255, 255, 255, 0.045);
@@ -2892,8 +2934,18 @@ STYLE_CSS = <<~CSS
     color: rgba(244, 234, 208, 0.52);
   }
 
-  .constellation-label-mode option {
-    color: #20231f;
+  .constellation-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: rgba(244, 234, 208, 0.78);
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .constellation-toggle input {
+    accent-color: #baa04f;
   }
 
   .constellation-legend {
@@ -2953,128 +3005,150 @@ STYLE_CSS = <<~CSS
     touch-action: manipulation;
   }
 
-  .constellation-cluster-halo {
+  .dendro-cluster-arc {
     pointer-events: none;
-    fill: rgba(186, 160, 79, 0.025);
-    stroke: rgba(186, 160, 79, 0.10);
-    stroke-width: 1;
+    fill: none;
+    stroke: rgba(186, 160, 79, 0.42);
+    stroke-width: 1.2;
+    opacity: 0.85;
   }
 
-  .constellation-cluster-label {
+  .dendro-cluster-label {
     pointer-events: none;
-    fill: rgba(244, 234, 208, 0.24);
+    fill: rgba(246, 231, 180, 0.86);
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 700;
-    letter-spacing: 0;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
     text-anchor: middle;
-    text-shadow: 0 1px 14px #0b0b09;
+    text-shadow: 0 1px 10px #0b0b09;
   }
 
-  .constellation-link {
-    stroke: #2a2820;
+  .dendro-spoke {
+    pointer-events: none;
+    fill: none;
+    stroke: rgba(186, 160, 79, 0.16);
     stroke-width: 1;
-    opacity: 0.42;
-    transition: opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease;
+    transition: stroke 160ms ease, stroke-width 160ms ease, opacity 160ms ease;
   }
 
-  .constellation-link.pending {
-    stroke-dasharray: 5 6;
-    opacity: 0.5;
+  .dendro-spoke.is-active {
+    stroke: rgba(255, 226, 143, 0.78);
+    stroke-width: 1.4;
   }
 
-  .constellation-link.is-active {
-    stroke: rgba(186, 160, 79, 0.74);
-    stroke-width: 1.7;
+  .dendro-bundle {
+    pointer-events: none;
+    fill: none;
+    stroke: rgba(186, 160, 79, 0.20);
+    stroke-width: 0.9;
+    opacity: 0.55;
+    mix-blend-mode: screen;
+    transition: stroke 160ms ease, stroke-width 160ms ease, opacity 160ms ease;
+  }
+
+  .dendro-bundle.pending {
+    stroke-dasharray: 4 5;
+    opacity: 0.55;
+  }
+
+  .dendro-bundle.is-active {
+    stroke: rgba(255, 226, 143, 0.95);
+    stroke-width: 1.6;
     opacity: 1;
   }
 
-  .constellation-link.is-dim,
-  .constellation-node.is-dim,
-  .constellation-node-halo.is-dim,
-  .constellation-label.is-dim,
-  .constellation-node-metric.is-dim {
-    opacity: 0.12;
-  }
-
-  .constellation-node-halo {
-    pointer-events: none;
-    fill: rgba(186, 160, 79, 0.075);
-    opacity: 0.75;
-    transition: opacity 160ms ease;
-  }
-
-  .constellation-node {
-    cursor: pointer;
-    fill: #baa04f;
-    stroke: rgba(255, 241, 179, 0.78);
-    stroke-width: 1.2;
-    filter: drop-shadow(0 0 8px rgba(186, 160, 79, 0.64));
-    transition: opacity 160ms ease, stroke-width 160ms ease, filter 160ms ease, fill 160ms ease;
-  }
-
-  .constellation-node.pending {
-    fill: rgba(186, 160, 79, 0.72);
-    stroke: rgba(255, 241, 179, 0.52);
-    filter: drop-shadow(0 0 6px rgba(186, 160, 79, 0.45));
-  }
-
-  .constellation-node.is-active {
-    stroke-width: 2.4;
-    filter: drop-shadow(0 0 16px rgba(255, 226, 143, 0.96));
-  }
-
-  .constellation-node.pending.is-active {
-    filter: drop-shadow(0 0 13px rgba(255, 226, 143, 0.78));
-  }
-
-  .constellation-label {
-    pointer-events: none;
-    fill: #e9dbad;
-    font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: 0;
-    text-anchor: middle;
-    text-shadow: 0 1px 8px #0b0b09;
+  .constellation-map.bundles-hidden .dendro-bundle:not(.is-active) {
     opacity: 0;
-    transition: opacity 140ms ease;
   }
 
-  .constellation-label.is-key,
-  .constellation-label.is-active,
-  .constellation-map.show-all-labels .constellation-label {
-    opacity: 0.92;
+  .dendro-cluster-node {
+    cursor: pointer;
+    fill: rgba(186, 160, 79, 0.34);
+    stroke: rgba(255, 241, 179, 0.78);
+    stroke-width: 1.6;
+    filter: drop-shadow(0 0 14px rgba(186, 160, 79, 0.55));
+    transition: stroke-width 140ms ease, filter 140ms ease, fill 140ms ease;
   }
 
-  .constellation-map.focus-labels .constellation-label.is-key:not(.is-active) {
-    opacity: 0.22;
+  .dendro-cluster-node:hover {
+    fill: rgba(186, 160, 79, 0.5);
   }
 
-  .constellation-map.focus-labels .constellation-label.is-active {
-    opacity: 0.96;
+  .dendro-cluster-node.expanded {
+    fill: rgba(186, 160, 79, 0.16);
+    stroke-dasharray: 2 3;
   }
 
-  .constellation-label.pending {
-    fill: rgba(233, 219, 173, 0.74);
-    font-size: 12px;
-  }
-
-  .constellation-node-metric {
+  .dendro-cluster-node-label {
     pointer-events: none;
-    fill: rgba(244, 234, 208, 0.78);
+    fill: #f6e7b4;
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-shadow: 0 1px 8px #0b0b09;
+  }
+
+  .dendro-cluster-count {
+    pointer-events: none;
+    fill: rgba(244, 234, 208, 0.72);
     font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     font-size: 10px;
     font-weight: 700;
     text-anchor: middle;
-    dominant-baseline: hanging;
-    opacity: 0;
-    transition: opacity 140ms ease;
   }
 
-  .constellation-node-metric.is-active,
-  .constellation-map.show-all-labels .constellation-node-metric {
-    opacity: 0.72;
+  .dendro-node {
+    cursor: pointer;
+    fill: #baa04f;
+    stroke: rgba(255, 241, 179, 0.82);
+    stroke-width: 1.2;
+    filter: drop-shadow(0 0 7px rgba(186, 160, 79, 0.58));
+    transition: stroke-width 140ms ease, filter 140ms ease, opacity 140ms ease;
+  }
+
+  .dendro-node.pending {
+    fill: rgba(186, 160, 79, 0.55);
+    stroke: rgba(255, 241, 179, 0.48);
+    stroke-dasharray: 3 3;
+    filter: drop-shadow(0 0 5px rgba(186, 160, 79, 0.4));
+  }
+
+  .dendro-node.is-active {
+    stroke-width: 2.4;
+    filter: drop-shadow(0 0 16px rgba(255, 226, 143, 0.96));
+  }
+
+  .dendro-node.is-dim,
+  .dendro-label.is-dim,
+  .dendro-spoke.is-dim,
+  .dendro-bundle.is-dim {
+    opacity: 0.18;
+  }
+
+  .dendro-label {
+    pointer-events: none;
+    fill: rgba(244, 234, 208, 0.86);
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-shadow: 0 1px 6px #0b0b09;
+    transition: fill 140ms ease, font-size 140ms ease, opacity 140ms ease;
+  }
+
+  .dendro-label.pending {
+    fill: rgba(233, 219, 173, 0.62);
+    font-style: italic;
+  }
+
+  .dendro-label.is-active {
+    fill: #fff1b3;
+    font-size: 13.5px;
+    font-weight: 700;
   }
 
   .constellation-panel {
@@ -3736,41 +3810,50 @@ APP_JS = <<~JS
       const svg = map.querySelector(".constellation-svg");
       const panel = map.querySelector(".constellation-panel");
       const search = map.querySelector(".constellation-search");
-      const labelMode = map.querySelector(".constellation-label-mode");
+      const bundleToggle = map.querySelector(".constellation-bundle-toggle");
+      const expandAllBtn = map.querySelector(".constellation-expand-all");
       if (!dataScript || !svg || !panel) return;
+      if (typeof d3 === "undefined") {
+        console.warn("d3 not loaded; constellation dendrogram unavailable");
+        return;
+      }
 
       const data = JSON.parse(dataScript.textContent);
-      const clusters = data.clusters || [];
-      const clusterById = new Map(clusters.map((cluster) => [cluster.id, cluster]));
-      const nodes = data.nodes.map((node, index) => ({ ...node, index }));
-      const nodeById = new Map(nodes.map((node) => [node.id, node]));
-      const links = data.links
-        .map((link) => ({ ...link, sourceNode: nodeById.get(link.source), targetNode: nodeById.get(link.target) }))
+      const numberFormat = new Intl.NumberFormat("en");
+
+      const root = d3.hierarchy(
+        data.hierarchy,
+        (datum) => (datum.type === "root" || datum.type === "cluster") ? datum.children : null
+      );
+
+      const allFamilyLeaves = root.descendants().filter((node) => node.depth === 2);
+      const familyById = new Map(allFamilyLeaves.map((leaf) => [leaf.data.id, leaf]));
+      const allClusters = root.children || [];
+      const clusterById = new Map(allClusters.map((cluster) => [cluster.data.id, cluster]));
+
+      // Collapse all clusters by default
+      allClusters.forEach((cluster) => {
+        cluster._children = cluster.children;
+        cluster.children = null;
+      });
+
+      const crossLinks = (data.cross_links || [])
+        .map((link) => ({
+          ...link,
+          sourceNode: familyById.get(link.source),
+          targetNode: familyById.get(link.target)
+        }))
         .filter((link) => link.sourceNode && link.targetNode);
-      const connected = new Map(nodes.map((node) => [node.id, new Set([node.id])]));
-      links.forEach((link) => {
+
+      const connected = new Map(allFamilyLeaves.map((leaf) => [leaf.data.id, new Set([leaf.data.id])]));
+      crossLinks.forEach((link) => {
         connected.get(link.source).add(link.target);
         connected.get(link.target).add(link.source);
       });
 
-      const numberFormat = new Intl.NumberFormat("en");
-      const keyLabelIds = new Set(nodes
-        .filter((node) => node.type === "approved")
-        .slice()
-        .sort((left, right) =>
-          Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0) ||
-          Number(right.tradition_count || 0) - Number(left.tradition_count || 0)
-        )
-        .slice(0, 13)
-        .map((node) => node.id));
-      clusters.forEach((cluster) => {
-        const strongest = nodes
-          .filter((node) => node.cluster === cluster.id && node.type === "approved")
-          .sort((left, right) => Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0))[0];
-        if (strongest) keyLabelIds.add(strongest.id);
-      });
-
-      let selectedId = null;
+      let selectedFamilyId = null;
+      let selectedClusterId = null;
+      let bundlesVisible = bundleToggle ? bundleToggle.checked : true;
 
       const htmlEscape = (value) => String(value || "").replace(/[&<>"']/g, (char) => ({
         "&": "&amp;",
@@ -3780,104 +3863,71 @@ APP_JS = <<~JS
         "'": "&#39;"
       })[char]);
 
-      const svgEl = (name, attrs = {}) => {
-        const el = document.createElementNS("http://www.w3.org/2000/svg", name);
-        Object.entries(attrs).forEach(([key, value]) => el.setAttribute(key, value));
-        return el;
-      };
-
-      const clearSvg = () => {
-        while (svg.firstChild) svg.removeChild(svg.firstChild);
-      };
-
-      const metricFor = (node) => Math.max(
-        Number(node.occurrence_count || 0),
-        Number(node.child_count || 0),
+      const metricFor = (datum) => Math.max(
+        Number(datum.occurrence_count || 0),
+        Number(datum.child_count || 0),
         1
       );
 
-      const radiusFor = (node) => {
-        if (node.type === "pending") {
-          return Math.min(13, 5 + Math.sqrt(metricFor(node)) * 0.55);
+      const nodeRadius = (datum) => {
+        if (datum.type === "pending") return Math.min(10, 4 + Math.sqrt(metricFor(datum)) * 0.45);
+        return Math.min(16, 4.5 + Math.sqrt(metricFor(datum)) * 0.27);
+      };
+
+      const isClusterExpanded = (cluster) => Boolean(cluster.children);
+
+      const toggleCluster = (cluster) => {
+        if (cluster.children) {
+          cluster._children = cluster.children;
+          cluster.children = null;
+          if (selectedFamilyId && cluster._children.some((c) => c.data.id === selectedFamilyId)) {
+            selectedFamilyId = null;
+          }
+        } else if (cluster._children) {
+          cluster.children = cluster._children;
+          cluster._children = null;
         }
-        return Math.min(31, 7 + Math.sqrt(metricFor(node)) * 0.29);
       };
 
-      const truncateLabel = (value, limit = 30) => {
-        const label = String(value || "");
-        return label.length > limit ? `${label.slice(0, limit - 3)}...` : label;
-      };
-
-      const keepInside = (node, width, height) => {
-        const r = radiusFor(node) + 28;
-        node.x = Math.max(r, Math.min(width - r, node.x));
-        node.y = Math.max(r, Math.min(height - r, node.y));
-      };
-
-      const clusterCenters = (width, height) => {
-        const cx = width / 2;
-        const cy = height / 2;
-        const rx = width * 0.31;
-        const ry = height * 0.31;
-        const centers = new Map();
-        clusters.forEach((cluster, index) => {
-          const angle = Number.isFinite(Number(cluster.angle))
-            ? Number(cluster.angle)
-            : ((index / Math.max(clusters.length, 1)) * Math.PI * 2) - Math.PI / 2;
-          centers.set(cluster.id, {
-            ...cluster,
-            x: cx + Math.cos(angle) * rx,
-            y: cy + Math.sin(angle) * ry,
-            rx: Math.max(94, Math.min(150, 72 + Number(cluster.node_count || 1) * 8)),
-            ry: Math.max(70, Math.min(118, 54 + Number(cluster.node_count || 1) * 6))
-          });
+      const setAllExpanded = (expand) => {
+        allClusters.forEach((cluster) => {
+          if (expand && !cluster.children && cluster._children) {
+            cluster.children = cluster._children;
+            cluster._children = null;
+          } else if (!expand && cluster.children) {
+            cluster._children = cluster.children;
+            cluster.children = null;
+          }
         });
-        return centers;
+        if (!expand) selectedFamilyId = null;
       };
 
-      const layoutNodes = (width, height) => {
-        const centers = clusterCenters(width, height);
-        const fallbackCenter = { x: width / 2, y: height / 2, rx: 120, ry: 92 };
-        const grouped = new Map();
-        nodes.forEach((node) => {
-          if (!grouped.has(node.cluster)) grouped.set(node.cluster, []);
-          grouped.get(node.cluster).push(node);
-        });
+      function ancestorPath(a, b) {
+        const aPath = a.ancestors();
+        const aSet = new Set(aPath);
+        const bPath = b.ancestors();
+        const lca = bPath.find((node) => aSet.has(node));
+        const aBranch = [];
+        for (const node of aPath) {
+          aBranch.push(node);
+          if (node === lca) break;
+        }
+        const bBranch = [];
+        for (const node of bPath) {
+          if (node === lca) break;
+          bBranch.push(node);
+        }
+        return aBranch.concat(bBranch.reverse());
+      }
 
-        grouped.forEach((bucket, clusterId) => {
-          const center = centers.get(clusterId) || fallbackCenter;
-          bucket
-            .sort((left, right) =>
-              (left.type === "pending" ? 1 : 0) - (right.type === "pending" ? 1 : 0) ||
-              Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0) ||
-              left.label.localeCompare(right.label)
-            )
-            .forEach((node, index) => {
-              const goldenAngle = 2.399963229728653;
-              const angle = -Math.PI / 2 + index * goldenAngle;
-              const spread = node.type === "pending" ? 34 : 24;
-              const distance = index === 0 ? 0 : Math.sqrt(index) * spread;
-              const outward = node.type === "pending" ? 1.34 : 1;
-              node.r = radiusFor(node);
-              node.x = center.x + Math.cos(angle) * distance * outward;
-              node.y = center.y + Math.sin(angle) * distance * outward * 0.82;
-              if (node.type === "pending") {
-                node.x += (center.x - width / 2) * 0.16;
-                node.y += (center.y - height / 2) * 0.16;
-              }
-              keepInside(node, width, height);
-            });
-        });
-        return centers;
-      };
-
-      const showPanel = (node) => {
-        const childItems = node.children || [];
-        const relatedItems = node.related || [];
+      const showFamilyPanel = (datum) => {
+        const childItems = datum.children || [];
+        const relatedItems = datum.related || [];
         const visibleChildren = childItems.slice(0, 14);
-        const hiddenChildCount = Math.max(0, Number(node.child_count || childItems.length) - visibleChildren.length);
-        const cluster = clusterById.get(node.cluster);
-        const childLabel = node.type === "pending" ? "Draft Children" : "Top Child Motifs";
+        const hiddenChildCount = Math.max(0, Number(datum.child_count || childItems.length) - visibleChildren.length);
+        const clusterNode = clusterById.get(datum.cluster);
+        const clusterLabel = clusterNode ? clusterNode.data.label : "";
+        const childLabel = datum.type === "pending" ? "Draft Children" : "Top Child Motifs";
         const children = visibleChildren.length
           ? visibleChildren.map((child) => {
             const count = Number(child.occurrence_count || 0);
@@ -3888,172 +3938,330 @@ APP_JS = <<~JS
         const related = relatedItems.length
           ? relatedItems.map((item) => `<a href="${htmlEscape(item.url)}">${htmlEscape(item.label)}</a>`).join("")
           : "<span>None yet</span>";
-        const kicker = node.type === "pending" ? "Pending Proposed Group" : "Canonical Family";
-        const relationLabel = node.type === "pending" ? "suggested parents" : "related families";
+        const kicker = datum.type === "pending" ? "Pending Proposed Group" : "Canonical Family";
+        const relationLabel = datum.type === "pending" ? "suggested parents" : "related families";
         panel.innerHTML = `
-          <span class="row-kicker">${htmlEscape(kicker)}${cluster ? ` / ${htmlEscape(cluster.label)}` : ""}</span>
-          <h3>${htmlEscape(node.label)}</h3>
-          <p>${htmlEscape(node.description || "")}</p>
+          <span class="row-kicker">${htmlEscape(kicker)}${clusterLabel ? ` / ${htmlEscape(clusterLabel)}` : ""}</span>
+          <h3>${htmlEscape(datum.label)}</h3>
+          <p>${htmlEscape(datum.description || "")}</p>
           <div class="constellation-panel-metrics">
-            <span><b>${numberFormat.format(Number(node.occurrence_count || 0))}</b><small>occurrences</small></span>
-            <span><b>${numberFormat.format(Number(node.tradition_count || 0))}</b><small>traditions</small></span>
-            <span><b>${numberFormat.format(Number(node.child_count || 0))}</b><small>child motifs</small></span>
+            <span><b>${numberFormat.format(Number(datum.occurrence_count || 0))}</b><small>occurrences</small></span>
+            <span><b>${numberFormat.format(Number(datum.tradition_count || 0))}</b><small>traditions</small></span>
+            <span><b>${numberFormat.format(Number(datum.child_count || 0))}</b><small>child motifs</small></span>
             <span><b>${relatedItems.length}</b><small>${relationLabel}</small></span>
           </div>
-          ${node.date_range ? `<p><strong>Date range:</strong> ${htmlEscape(node.date_range)}</p>` : ""}
-          ${node.url ? `<a class="constellation-panel-action" href="${htmlEscape(node.url)}">${node.type === "pending" ? "Open review entry" : "Open research page"}</a>` : ""}
+          ${datum.date_range ? `<p><strong>Date range:</strong> ${htmlEscape(datum.date_range)}</p>` : ""}
+          ${datum.url ? `<a class="constellation-panel-action" href="${htmlEscape(datum.url)}">${datum.type === "pending" ? "Open review entry" : "Open research page"}</a>` : ""}
           <div class="constellation-panel-section">
-            <strong>${childLabel} <span>${numberFormat.format(Number(node.child_count || childItems.length))}</span></strong>
+            <strong>${childLabel} <span>${numberFormat.format(Number(datum.child_count || childItems.length))}</span></strong>
             <div class="constellation-panel-list">${children}</div>
           </div>
           <div class="constellation-panel-section">
-            <strong>${node.type === "pending" ? "Suggested Parents" : "Related Families"}</strong>
+            <strong>${datum.type === "pending" ? "Suggested Parents" : "Related Families"}</strong>
             <div class="constellation-panel-list">${related}</div>
           </div>
         `;
       };
 
-      const setLabelMode = (mode) => {
-        map.classList.toggle("focus-labels", mode === "focus");
-        map.classList.toggle("show-all-labels", mode === "all");
+      const showClusterPanel = (clusterNode) => {
+        const datum = clusterNode.data;
+        const childList = clusterNode.children || clusterNode._children || [];
+        const familyDatums = childList.map((c) => c.data);
+        const totalOcc = familyDatums.reduce((s, d) => s + Number(d.occurrence_count || 0), 0);
+        const totalChild = familyDatums.reduce((s, d) => s + Number(d.child_count || 0), 0);
+        const familyList = familyDatums
+          .slice()
+          .sort((a, b) => Number(b.occurrence_count || 0) - Number(a.occurrence_count || 0))
+          .slice(0, 30)
+          .map((d) => `<a href="${htmlEscape(d.url)}">${htmlEscape(d.label)} <small>${numberFormat.format(Number(d.occurrence_count || 0))}</small></a>`)
+          .join("");
+        const expanded = isClusterExpanded(clusterNode);
+        panel.innerHTML = `
+          <span class="row-kicker">Cluster</span>
+          <h3>${htmlEscape(datum.label)}</h3>
+          <p>${htmlEscape(datum.description || "")}</p>
+          <div class="constellation-panel-metrics">
+            <span><b>${familyDatums.length}</b><small>families</small></span>
+            <span><b>${numberFormat.format(totalOcc)}</b><small>occurrences</small></span>
+            <span><b>${numberFormat.format(totalChild)}</b><small>child motifs</small></span>
+            <span><b>${expanded ? "open" : "closed"}</b><small>state</small></span>
+          </div>
+          <button type="button" class="constellation-panel-action" data-cluster-toggle>${expanded ? "Collapse cluster" : "Expand to see families"}</button>
+          <div class="constellation-panel-section">
+            <strong>Families <span>${familyDatums.length}</span></strong>
+            <div class="constellation-panel-list">${familyList || "<span>None</span>"}</div>
+          </div>
+        `;
+        const actionBtn = panel.querySelector("[data-cluster-toggle]");
+        if (actionBtn) {
+          actionBtn.addEventListener("click", () => {
+            toggleCluster(clusterNode);
+            render();
+          });
+        }
+      };
+
+      const showIntroPanel = () => {
+        panel.innerHTML = `
+          <span class="row-kicker">Map</span>
+          <h3>Choose A Cluster</h3>
+          <p>Click any cluster around the rim to expand its families. Use search to jump straight to a family.</p>
+        `;
+      };
+
+      const updateExpandAllBtn = () => {
+        if (!expandAllBtn) return;
+        const anyExpanded = allClusters.some(isClusterExpanded);
+        expandAllBtn.textContent = anyExpanded ? "Collapse all clusters" : "Expand all clusters";
+        expandAllBtn.dataset.state = anyExpanded ? "expanded" : "collapsed";
       };
 
       const render = () => {
-        const bounds = map.querySelector(".constellation-stage").getBoundingClientRect();
-        const panelWidth = panel.getBoundingClientRect().width || 360;
-        const width = Math.max(640, Math.floor(bounds.width - (window.innerWidth > 900 ? panelWidth : 0)));
-        const height = Math.max(620, Math.floor(svg.getBoundingClientRect().height || 720));
-        svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
-        clearSvg();
+        const stage = map.querySelector(".constellation-stage");
+        const stageRect = stage.getBoundingClientRect();
+        const panelWidth = window.innerWidth > 900 ? (panel.getBoundingClientRect().width || 360) : 0;
+        const width = Math.max(640, Math.floor(stageRect.width - panelWidth));
+        const height = Math.max(660, Math.floor(svg.getBoundingClientRect().height || 860));
+        svg.setAttribute("viewBox", `${-width / 2} ${-height / 2} ${width} ${height}`);
 
-        const centers = layoutNodes(width, height);
-        const clusterLayer = svgEl("g", { class: "constellation-clusters" });
-        const linkLayer = svgEl("g", { class: "constellation-links" });
-        const haloLayer = svgEl("g", { class: "constellation-node-halos" });
-        const nodeLayer = svgEl("g", { class: "constellation-nodes" });
-        const labelLayer = svgEl("g", { class: "constellation-labels" });
-        const metricLayer = svgEl("g", { class: "constellation-metrics" });
-        svg.append(clusterLayer, linkLayer, haloLayer, nodeLayer, labelLayer, metricLayer);
+        const svgD3 = d3.select(svg);
+        svgD3.selectAll("*").remove();
 
-        centers.forEach((cluster) => {
-          const halo = svgEl("ellipse", {
-            class: "constellation-cluster-halo",
-            cx: cluster.x.toFixed(1),
-            cy: cluster.y.toFixed(1),
-            rx: cluster.rx.toFixed(1),
-            ry: cluster.ry.toFixed(1)
-          });
-          const label = svgEl("text", {
-            class: "constellation-cluster-label",
-            x: cluster.x.toFixed(1),
-            y: (cluster.y - cluster.ry - 14).toFixed(1)
-          });
-          label.textContent = cluster.label;
-          clusterLayer.append(halo, label);
+        const radius = Math.min(width, height) / 2 - 130;
+        d3.cluster()
+          .size([2 * Math.PI, radius])
+          .separation((a, b) => (a.parent === b.parent ? 1 : 1.5))(root);
+
+        const arcLayer = svgD3.append("g").attr("class", "dendro-arcs");
+        const spokeLayer = svgD3.append("g").attr("class", "dendro-spokes");
+        const bundleLayer = svgD3.append("g").attr("class", "dendro-bundles");
+        const nodeLayer = svgD3.append("g").attr("class", "dendro-nodes");
+        const labelLayer = svgD3.append("g").attr("class", "dendro-labels");
+
+        const polar = (n) => [
+          Math.cos(n.x - Math.PI / 2) * n.y,
+          Math.sin(n.x - Math.PI / 2) * n.y
+        ];
+
+        const allVisibleNodes = root.descendants().slice(1);
+        const visibleFamilies = allVisibleNodes.filter((n) => n.depth === 2);
+        const visibleFamilyIds = new Set(visibleFamilies.map((f) => f.data.id));
+        const expandedClusters = allClusters.filter(isClusterExpanded);
+        const collapsedClusters = allClusters.filter((c) => !isClusterExpanded(c));
+        const totalLeafCount = root.leaves().length;
+
+        // Cluster arcs (only for expanded clusters)
+        const arcRadius = radius + 32;
+        const arcGen = d3.arc().innerRadius(arcRadius).outerRadius(arcRadius + 1);
+        expandedClusters.forEach((cluster) => {
+          const childAngles = cluster.children.map((child) => child.x);
+          const minAngle = Math.min(...childAngles);
+          const maxAngle = Math.max(...childAngles);
+          const pad = (2 * Math.PI / Math.max(totalLeafCount, 1)) * 0.6;
+          const startAngle = minAngle - pad;
+          const endAngle = maxAngle + pad;
+          arcLayer.append("path")
+            .attr("class", "dendro-cluster-arc")
+            .attr("d", arcGen({ startAngle, endAngle }));
+          const midAngle = (startAngle + endAngle) / 2;
+          const labelR = arcRadius + 26;
+          arcLayer.append("text")
+            .attr("class", "dendro-cluster-label")
+            .attr("x", (Math.cos(midAngle - Math.PI / 2) * labelR).toFixed(1))
+            .attr("y", (Math.sin(midAngle - Math.PI / 2) * labelR).toFixed(1))
+            .attr("dy", "0.32em")
+            .text(cluster.data.label);
         });
 
-        const linkEls = links.map((link) => {
-          const el = svgEl("line", {
-            class: `constellation-link ${link.type}`,
-            x1: link.sourceNode.x.toFixed(1),
-            y1: link.sourceNode.y.toFixed(1),
-            x2: link.targetNode.x.toFixed(1),
-            y2: link.targetNode.y.toFixed(1),
-            "data-source": link.source,
-            "data-target": link.target
-          });
-          linkLayer.appendChild(el);
-          return el;
+        // Tree spokes (only the visible tree contributes links)
+        const linkRadial = d3.linkRadial().angle((d) => d.x).radius((d) => d.y);
+        const spokeEls = [];
+        root.links().forEach((link) => {
+          const path = spokeLayer.append("path")
+            .attr("class", "dendro-spoke")
+            .attr("d", linkRadial(link))
+            .attr("data-source", link.source.data.id)
+            .attr("data-target", link.target.data.id);
+          spokeEls.push(path.node());
         });
 
-        const haloEls = [];
-        const nodeEls = [];
-        const labelEls = [];
-        const metricEls = [];
-
-        nodes.forEach((node) => {
-          const halo = svgEl("circle", {
-            class: `constellation-node-halo ${node.type}`,
-            cx: node.x.toFixed(1),
-            cy: node.y.toFixed(1),
-            r: (node.r + 10).toFixed(1),
-            "data-id": node.id
-          });
-          const circle = svgEl("circle", {
-            class: `constellation-node ${node.type}`,
-            cx: node.x.toFixed(1),
-            cy: node.y.toFixed(1),
-            r: node.r.toFixed(1),
-            "data-id": node.id,
-            tabindex: "0",
-            role: "button",
-            "aria-label": node.label
-          });
-          const label = svgEl("text", {
-            class: `constellation-label ${node.type}${keyLabelIds.has(node.id) ? " is-key" : ""}`,
-            x: node.x.toFixed(1),
-            y: (node.y + node.r + 17).toFixed(1),
-            "data-id": node.id
-          });
-          label.textContent = truncateLabel(node.label);
-          const metric = svgEl("text", {
-            class: `constellation-node-metric ${node.type}`,
-            x: node.x.toFixed(1),
-            y: (node.y + node.r + 32).toFixed(1),
-            "data-id": node.id
-          });
-          metric.textContent = Number(node.occurrence_count || 0) > 0
-            ? `${numberFormat.format(Number(node.occurrence_count))} occ.`
-            : `${numberFormat.format(Number(node.child_count || 0))} children`;
-          haloLayer.appendChild(halo);
-          nodeLayer.appendChild(circle);
-          labelLayer.appendChild(label);
-          metricLayer.appendChild(metric);
-          haloEls.push(halo);
-          nodeEls.push(circle);
-          labelEls.push(label);
-          metricEls.push(metric);
+        // Cross-link bundles (only between currently visible families)
+        const lineRadial = d3.lineRadial()
+          .curve(d3.curveBundle.beta(0.85))
+          .angle((d) => d.x)
+          .radius((d) => d.y);
+        const visibleCrossLinks = crossLinks.filter((link) =>
+          visibleFamilyIds.has(link.source) && visibleFamilyIds.has(link.target)
+        );
+        const bundleEls = visibleCrossLinks.map((link) => {
+          const path = ancestorPath(link.sourceNode, link.targetNode);
+          return bundleLayer.append("path")
+            .attr("class", `dendro-bundle ${link.type || ""}`)
+            .attr("d", lineRadial(path))
+            .attr("data-source", link.source)
+            .attr("data-target", link.target)
+            .node();
         });
+
+        // Cluster bubbles
+        const clusterEls = [];
+        expandedClusters.forEach((cluster) => {
+          const [cx, cy] = polar(cluster);
+          const r = 11;
+          const circle = nodeLayer.append("circle")
+            .attr("class", "dendro-cluster-node expanded")
+            .attr("cx", cx.toFixed(1)).attr("cy", cy.toFixed(1))
+            .attr("r", r)
+            .attr("data-id", cluster.data.id)
+            .attr("data-kind", "cluster")
+            .attr("tabindex", "0").attr("role", "button")
+            .attr("aria-label", `${cluster.data.label} (expanded)`);
+          clusterEls.push(circle.node());
+          labelLayer.append("text")
+            .attr("class", "dendro-cluster-count")
+            .attr("x", cx.toFixed(1)).attr("y", cy.toFixed(1))
+            .attr("dy", "0.32em")
+            .text((cluster.children || []).length);
+        });
+
+        collapsedClusters.forEach((cluster) => {
+          const [cx, cy] = polar(cluster);
+          const childCount = (cluster._children || []).length;
+          const r = Math.min(26, 12 + Math.sqrt(childCount) * 2.4);
+          const circle = nodeLayer.append("circle")
+            .attr("class", "dendro-cluster-node")
+            .attr("cx", cx.toFixed(1)).attr("cy", cy.toFixed(1))
+            .attr("r", r)
+            .attr("data-id", cluster.data.id)
+            .attr("data-kind", "cluster")
+            .attr("tabindex", "0").attr("role", "button")
+            .attr("aria-label", `${cluster.data.label} (${childCount} families)`);
+          clusterEls.push(circle.node());
+
+          const angleDeg = (cluster.x * 180 / Math.PI) - 90;
+          const flip = cluster.x >= Math.PI;
+          const labelOffset = cluster.y + r + 12;
+          labelLayer.append("text")
+            .attr("class", "dendro-cluster-node-label")
+            .attr("data-id", cluster.data.id)
+            .attr("dy", "0.32em")
+            .attr("text-anchor", flip ? "end" : "start")
+            .attr("transform", `rotate(${angleDeg}) translate(${labelOffset.toFixed(1)},0)${flip ? " rotate(180)" : ""}`)
+            .text(cluster.data.label);
+
+          labelLayer.append("text")
+            .attr("class", "dendro-cluster-count")
+            .attr("x", cx.toFixed(1)).attr("y", cy.toFixed(1))
+            .attr("dy", "0.32em")
+            .text(childCount);
+        });
+
+        // Family leaves (only visible)
+        const familyEls = [];
+        const familyLabelEls = [];
+        visibleFamilies.forEach((leaf) => {
+          const datum = leaf.data;
+          const [cx, cy] = polar(leaf);
+          const r = nodeRadius(datum);
+          const circle = nodeLayer.append("circle")
+            .attr("class", `dendro-node ${datum.type === "pending" ? "pending" : ""}`)
+            .attr("cx", cx.toFixed(1)).attr("cy", cy.toFixed(1))
+            .attr("r", r.toFixed(1))
+            .attr("data-id", datum.id)
+            .attr("data-kind", "family")
+            .attr("tabindex", "0").attr("role", "button")
+            .attr("aria-label", datum.label);
+          familyEls.push(circle.node());
+
+          const angleDeg = (leaf.x * 180 / Math.PI) - 90;
+          const flip = leaf.x >= Math.PI;
+          const labelOffset = leaf.y + r + 8;
+          const labelEl = labelLayer.append("text")
+            .attr("class", `dendro-label ${datum.type === "pending" ? "pending" : ""}`)
+            .attr("data-id", datum.id)
+            .attr("dy", "0.32em")
+            .attr("text-anchor", flip ? "end" : "start")
+            .attr("transform", `rotate(${angleDeg}) translate(${labelOffset.toFixed(1)},0)${flip ? " rotate(180)" : ""}`)
+            .text(datum.label);
+          familyLabelEls.push(labelEl.node());
+        });
+
+        const setBundlesVisible = (flag) => {
+          bundlesVisible = Boolean(flag);
+          map.classList.toggle("bundles-hidden", !bundlesVisible);
+        };
+        setBundlesVisible(bundlesVisible);
 
         function highlight(id) {
-          const activeSet = id ? connected.get(id) || new Set([id]) : null;
-          [...nodeEls, ...haloEls, ...labelEls].forEach((el) => {
-            const active = activeSet && activeSet.has(el.dataset.id);
-            el.classList.toggle("is-active", Boolean(id && active));
-            el.classList.toggle("is-dim", Boolean(id && !active));
+          const activeSet = id ? connected.get(id) : null;
+          familyEls.forEach((el) => {
+            const isThis = id && el.dataset.id === id;
+            const isRelated = activeSet && activeSet.has(el.dataset.id);
+            el.classList.toggle("is-active", Boolean(isThis));
+            el.classList.toggle("is-dim", Boolean(activeSet && !isRelated));
           });
-          metricEls.forEach((el) => {
-            el.classList.toggle("is-active", Boolean(id && el.dataset.id === id));
-            el.classList.toggle("is-dim", Boolean(id && el.dataset.id !== id));
+          familyLabelEls.forEach((el) => {
+            const isThis = id && el.dataset.id === id;
+            const isRelated = activeSet && activeSet.has(el.dataset.id);
+            el.classList.toggle("is-active", Boolean(isThis));
+            el.classList.toggle("is-dim", Boolean(activeSet && !isRelated));
           });
-          nodeEls.forEach((el) => {
-            el.classList.toggle("is-active", Boolean(id && el.dataset.id === id));
+          spokeEls.forEach((el) => {
+            const active = id && el.dataset.target === id;
+            el.classList.toggle("is-active", Boolean(active));
           });
-          linkEls.forEach((el) => {
+          bundleEls.forEach((el) => {
             const active = id && (el.dataset.source === id || el.dataset.target === id);
             el.classList.toggle("is-active", Boolean(active));
             el.classList.toggle("is-dim", Boolean(id && !active));
           });
         }
 
-        const selectNode = (node) => {
-          if (!node) return;
-          selectedId = node.id;
-          showPanel(node);
-          highlight(node.id);
+        const selectFamily = (leaf) => {
+          if (!leaf) return;
+          selectedFamilyId = leaf.data.id;
+          selectedClusterId = null;
+          showFamilyPanel(leaf.data);
+          highlight(selectedFamilyId);
         };
 
-        nodeEls.forEach((circle) => {
-          const node = nodeById.get(circle.dataset.id);
+        const selectCluster = (cluster) => {
+          selectedClusterId = cluster.data.id;
+          selectedFamilyId = null;
+          showClusterPanel(cluster);
+          highlight(null);
+        };
+
+        // Family interactions
+        familyEls.forEach((circle) => {
+          const leaf = familyById.get(circle.dataset.id);
           circle.addEventListener("mouseenter", () => highlight(circle.dataset.id));
-          circle.addEventListener("mouseleave", () => highlight(selectedId));
+          circle.addEventListener("mouseleave", () => highlight(selectedFamilyId));
           circle.addEventListener("focus", () => highlight(circle.dataset.id));
-          circle.addEventListener("blur", () => highlight(selectedId));
-          circle.addEventListener("click", () => selectNode(node));
+          circle.addEventListener("blur", () => highlight(selectedFamilyId));
+          circle.addEventListener("click", () => selectFamily(leaf));
           circle.addEventListener("keydown", (event) => {
             if (event.key === "Enter" || event.key === " ") {
               event.preventDefault();
-              selectNode(node);
+              selectFamily(leaf);
+            }
+          });
+        });
+
+        // Cluster interactions: click toggles expand/collapse + opens panel
+        clusterEls.forEach((circle) => {
+          const cluster = clusterById.get(circle.dataset.id);
+          const handleToggle = () => {
+            toggleCluster(cluster);
+            selectedClusterId = cluster.data.id;
+            selectedFamilyId = null;
+            render();
+          };
+          circle.addEventListener("click", handleToggle);
+          circle.addEventListener("keydown", (event) => {
+            if (event.key === "Enter" || event.key === " ") {
+              event.preventDefault();
+              handleToggle();
             }
           });
         });
@@ -4062,27 +4270,69 @@ APP_JS = <<~JS
           search.oninput = () => {
             const query = search.value.trim().toLowerCase();
             if (!query) {
-              highlight(selectedId);
+              highlight(selectedFamilyId);
               return;
             }
-            const match = nodes.find((node) => {
-              const childText = (node.children || []).map((child) => `${child.id} ${child.label}`).join(" ");
-              return `${node.id} ${node.label} ${childText}`.toLowerCase().includes(query);
+            const familyMatch = allFamilyLeaves.find((leaf) => {
+              const datum = leaf.data;
+              const childText = (datum.children || []).map((child) => `${child.id} ${child.label}`).join(" ");
+              return `${datum.id} ${datum.label} ${childText}`.toLowerCase().includes(query);
             });
-            if (match) selectNode(match);
+            if (familyMatch) {
+              const parent = familyMatch.parent;
+              if (parent && !isClusterExpanded(parent)) {
+                toggleCluster(parent);
+                selectedFamilyId = familyMatch.data.id;
+                selectedClusterId = null;
+                render();
+              } else {
+                selectFamily(familyMatch);
+              }
+              return;
+            }
+            const clusterMatch = allClusters.find((c) =>
+              `${c.data.id} ${c.data.label}`.toLowerCase().includes(query)
+            );
+            if (clusterMatch) selectCluster(clusterMatch);
           };
         }
 
-        if (labelMode) {
-          setLabelMode(labelMode.value || "focus");
-          labelMode.onchange = () => setLabelMode(labelMode.value || "focus");
-        } else {
-          setLabelMode("focus");
+        if (bundleToggle) {
+          bundleToggle.onchange = () => setBundlesVisible(bundleToggle.checked);
         }
 
-        const firstApproved = nodes.find((node) => node.id === "death_and_transformation") ||
-          nodes.slice().sort((left, right) => Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0))[0];
-        selectNode((selectedId && nodeById.get(selectedId)) || firstApproved);
+        if (expandAllBtn) {
+          expandAllBtn.onclick = () => {
+            const anyExpanded = allClusters.some(isClusterExpanded);
+            setAllExpanded(!anyExpanded);
+            if (!anyExpanded) {
+              const fallback = familyById.get("death_and_transformation") ||
+                allFamilyLeaves.slice().sort((a, b) =>
+                  Number(b.data.occurrence_count || 0) - Number(a.data.occurrence_count || 0)
+                )[0];
+              if (fallback) {
+                selectedFamilyId = fallback.data.id;
+                selectedClusterId = null;
+              }
+            } else {
+              selectedFamilyId = null;
+              selectedClusterId = null;
+            }
+            render();
+          };
+        }
+
+        updateExpandAllBtn();
+
+        if (selectedFamilyId && visibleFamilyIds.has(selectedFamilyId)) {
+          const leaf = familyById.get(selectedFamilyId);
+          showFamilyPanel(leaf.data);
+          highlight(selectedFamilyId);
+        } else if (selectedClusterId && clusterById.has(selectedClusterId)) {
+          showClusterPanel(clusterById.get(selectedClusterId));
+        } else {
+          showIntroPanel();
+        }
       };
 
       render();
