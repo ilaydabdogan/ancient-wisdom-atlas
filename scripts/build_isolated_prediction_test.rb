@@ -13,11 +13,15 @@ require_relative "batch_common"
 
 ISOLATED = %w[
   australian-aboriginal indigenous-australian inuit khoisan-south-african
-  zulu siberian guiana-amerindian maya mesoamerican nahua nahua-maya-inca
-  navajo zuni hopi hawaiian
+  san zulu siberian guiana-amerindian amazonian andamanese maya
+  mesoamerican nahua nahua-maya-inca navajo zuni hopi hawaiian
+  native-american-great-lakes native-american-northwest-coast
+  native-american-plains native-american-southeast
+  native-american-southwest tsimshian
 ].freeze
 EXCLUDED = %w[comparative].freeze
-HARD_CORE = %w[inuit siberian khoisan-south-african].freeze
+HARD_CORE = %w[inuit siberian khoisan-south-african san
+               native-american-northwest-coast andamanese].freeze
 
 options = {
   extraction_glob: "extractions/**/*.{yml,yaml}",
