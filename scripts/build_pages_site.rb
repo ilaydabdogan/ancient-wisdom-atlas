@@ -15,6 +15,7 @@ NAV = [
   ["Home", "index.html"],
   ["Findings", "findings/index.html"],
   ["Lab", "lab/index.html"],
+  ["Currents", "currents/index.html"],
   ["Explorer", "explorer/index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
@@ -1681,6 +1682,147 @@ def build_lab
   ))
 end
 
+def build_currents
+  current = "currents/index.html"
+  flow_path = File.join(ROOT, "data", "indexes", "motif-era-flow.yml")
+  flow = File.exist?(flow_path) ? load_yaml(flow_path) : {}
+  families = flow.fetch("families", [])
+
+  if families.empty?
+    write_page(current, layout(
+      title: "Currents",
+      subtitle: "Motif families across historical time.",
+      current_output: current,
+      body: "<section class=\"section\"><p>The era-flow index has not been generated yet. Run scripts/build_motif_era_flow.rb.</p></section>",
+      page_class: "currents"
+    ))
+    return
+  end
+
+  eras = flow.fetch("eras", [])
+  summary = flow.fetch("summary", {})
+  top = families.first(24).map do |family|
+    {
+      "family" => family["family"],
+      "label" => titleize(family["label"].to_s),
+      "first" => family.dig("first_attestation", "year"),
+      "eras" => family["eras"].map { |cell| cell["count"] },
+      "tr" => family["eras"].map { |cell| cell["tradition_count"] }
+    }
+  end
+  chart_data = {
+    "eras" => eras.map { |era| era["label"] },
+    "families" => top
+  }
+
+  attestations = families.select { |family| family["first_attestation"] }
+                         .sort_by { |family| family.dig("first_attestation", "year") }
+                         .first(15)
+
+  body = <<~HTML
+    <section class="section">
+      <p class="currents-intro">Each band is a canonical motif family; its thickness is evidence density in that era. This chart is generated from the extraction data on every build — as the corpus and its dating grow, the currents redraw themselves. Hover to follow one family through time; click to pin.</p>
+      <div id="currents-chart" class="currents-chart" aria-label="Streamgraph of motif families across eras"></div>
+      #{safe_json_script(chart_data).sub("<script", "<script id=\"currents-data\"")}
+    </section>
+
+    <section class="section">
+      <h2>First Attestations</h2>
+      <p>The earliest dated appearance of each family in the corpus so far. "First here" means first in <em>our dated evidence</em>, not first in history.</p>
+      <div class="table-scroll"><table class="lab-table">
+        <thead><tr><th>Family</th><th>Earliest dated evidence</th><th>Where</th></tr></thead>
+        <tbody>
+          #{attestations.map do |family|
+            year = family.dig("first_attestation", "year").to_i
+            display = year.negative? ? "ca. #{-year} BCE" : "ca. #{year} CE"
+            "<tr><td>#{esc(titleize(family["label"].to_s))}</td><td>#{display}</td><td>#{esc(tradition_label(family.dig("first_attestation", "tradition")))}</td></tr>"
+          end.join}
+        </tbody>
+      </table></div>
+    </section>
+
+    <section class="section">
+      <h2>Honest Coverage Note</h2>
+      <p>#{summary["dated_texts"]} texts currently carry scholarly composition-date ranges; #{summary["undated_texts"]} texts (#{format_count(summary["undated_record_count"])} extraction records) await dating and are excluded rather than guessed. Recorded oral traditions appear at their <em>recording</em> date, which vastly understates their age — treat the rightmost era as "when writing caught up," not "when the stories began."</p>
+    </section>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const container = document.getElementById("currents-chart");
+        const data = JSON.parse(document.getElementById("currents-data").textContent);
+        if (!container || !window.d3 || !data.families.length) return;
+
+        const draw = () => {
+          container.innerHTML = "";
+          const width = container.clientWidth || 900;
+          const height = Math.max(420, Math.min(560, width * 0.55));
+          const margin = { top: 18, right: 16, bottom: 42, left: 16 };
+          const svg = d3.select(container).append("svg").attr("width", width).attr("height", height);
+
+          const eraCount = data.eras.length;
+          const series = data.families.map((f, i) => ({ ...f, index: i }));
+          const stackData = d3.range(eraCount).map((e) => {
+            const row = { era: e };
+            series.forEach((f) => { row[f.family] = f.eras[e]; });
+            return row;
+          });
+          const stack = d3.stack().keys(series.map((f) => f.family))
+            .offset(d3.stackOffsetWiggle).order(d3.stackOrderInsideOut);
+          const layers = stack(stackData);
+          const x = d3.scalePoint().domain(d3.range(eraCount)).range([margin.left, width - margin.right]);
+          const y = d3.scaleLinear()
+            .domain([d3.min(layers, (l) => d3.min(l, (d) => d[0])), d3.max(layers, (l) => d3.max(l, (d) => d[1]))])
+            .range([height - margin.bottom, margin.top]);
+          const color = d3.scaleOrdinal()
+            .domain(series.map((f) => f.family))
+            .range(series.map((_, i) => d3.interpolateWarm(0.08 + 0.84 * (i / Math.max(1, series.length - 1)))));
+          const area = d3.area()
+            .x((d, i) => x(i)).y0((d) => y(d[0])).y1((d) => y(d[1]))
+            .curve(d3.curveBasis);
+
+          let pinned = null;
+          const tip = d3.select(container).append("div").attr("class", "currents-tip").style("opacity", 0);
+          const paths = svg.append("g").selectAll("path").data(layers).join("path")
+            .attr("d", area)
+            .attr("fill", (d) => color(d.key))
+            .attr("opacity", 0.85)
+            .style("cursor", "pointer")
+            .on("mousemove", function (event, d) {
+              if (pinned && pinned !== d.key) return;
+              paths.attr("opacity", (l) => (l.key === d.key ? 1 : 0.25));
+              const f = series.find((s) => s.family === d.key);
+              tip.style("opacity", 1)
+                .style("left", `${event.offsetX + 12}px`).style("top", `${event.offsetY - 10}px`)
+                .html(`<strong>${f.label}</strong><br>first dated: ${f.first < 0 ? `ca. ${-f.first} BCE` : `ca. ${f.first} CE`}<br>per era: ${f.eras.join(" · ")}`);
+            })
+            .on("mouseleave", () => { if (!pinned) { paths.attr("opacity", 0.85); tip.style("opacity", 0); } })
+            .on("click", (event, d) => {
+              pinned = pinned === d.key ? null : d.key;
+              paths.attr("opacity", (l) => (!pinned || l.key === pinned ? (pinned ? 1 : 0.85) : 0.18));
+            });
+
+          svg.append("g").selectAll("text").data(data.eras).join("text")
+            .attr("x", (d, i) => x(i)).attr("y", height - 14)
+            .attr("text-anchor", (d, i) => (i === 0 ? "start" : i === eraCount - 1 ? "end" : "middle"))
+            .attr("class", "currents-axis").text((d) => d);
+        };
+        draw();
+        let timer;
+        window.addEventListener("resize", () => { clearTimeout(timer); timer = setTimeout(draw, 160); });
+      });
+    </script>
+  HTML
+
+  write_page(current, layout(
+    title: "Currents",
+    subtitle: "Motif families flowing through recorded time — regenerated from the evidence on every build.",
+    current_output: current,
+    body: body,
+    page_class: "currents",
+    extra_head: %(<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>)
+  ))
+end
+
 def build_explorer(motif_index, patterns)
   current = "explorer/index.html"
   motifs = motif_index.fetch("motifs", [])
@@ -2752,6 +2894,29 @@ STYLE_CSS = <<~CSS
   @media (max-width: 640px) {
     .reader { padding: 0 1.25rem; }
     .reading-column { font-size: calc(1.02rem * var(--reader-scale, 1)); }
+  }
+  .currents-intro { max-width: 46rem; }
+  .currents-chart {
+    position: relative;
+    width: 100%;
+    min-height: 420px;
+    margin: 1.2rem 0;
+  }
+  .currents-axis {
+    font-size: 0.72rem;
+    fill: var(--muted);
+  }
+  .currents-tip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.5rem 0.7rem;
+    font-size: 0.82rem;
+    box-shadow: var(--shadow);
+    max-width: 16rem;
+    z-index: 10;
   }
   .lab-table {
     width: 100%;
@@ -4825,6 +4990,7 @@ build_step("assets") { build_assets }
 build_step("home") { build_home(texts, comparisons, motif_index, extractions) }
 build_step("findings") { build_findings(texts, motif_index) }
 build_step("lab") { build_lab }
+build_step("currents") { build_currents }
 build_step("agent files") { build_agent_files(texts, motif_index) }
 build_step("explorer") { build_explorer(motif_index, patterns) }
 build_step("texts") { build_texts(texts) }
