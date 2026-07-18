@@ -45,6 +45,11 @@ if seq
   }
 end
 digest["null_model"] = summary_of("data/indexes/null-model.yml", %w[config result])
+pred = summary_of("data/indexes/isolated-prediction-test.yml")
+if pred
+  digest["preregistered_isolated_prediction_test"] = { "current" => pred.slice("result", "training", "holdout"),
+    "trajectory_note" => "Stage2(12.5k records): 62.7% vs 54.3, 200/200, lift 1.155, novelty 13.8, SUCCESS. Stage3-corrected(22.7k): 75.5 vs 69.5, 199/200, lift 1.087, hardcore 15.5, WEAK_SUPPORT. Stage4-fullcorpus-fullymapped(46k motifs): current values; novelty tripwire flags mapping-assimilation risk (isolated motifs were mapped into Eurasian-derived families by a model that knows them). Hard-core (verbatim-only) rose monotonically 0 -> 15.5 -> 23.7 percent." }
+end
 cons = summary_of("data/indexes/motif-constellations.yml")
 digest["constellations"] = cons.slice("summary").merge("largest" => cons.fetch("constellations", []).first(3)) if cons
 %w[motif-constellations-t6 motif-constellations-t8 null-model-t6].each do |name|
