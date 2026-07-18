@@ -1,50 +1,4 @@
 # Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of the East, Vol. 13)
-
-CONTENTS.
-
-
-PAGE
-
-
-INTRODUCTION TO THE VINAYA TEXTS FROM THE PALI . ix
-THE PATIMOKKHA ........ i
-
-Nidana ......... i
-
-The Para^ika Rules ..... .3
-
-The Sa#2ghadisesa Rules ...... 7
-
-The Aniyata Rules ..... . .16
-
-The Nissaggiya Pa/£ittiya Rules . . . .18
-
-The Pa&ttiya Rules ....... 32
-
-The Pa/idesaniya Rules ...... 56
-
-The Sekhiya Rules ..... -59
-
-The AdhikaraTza-samatha Rules . . . .68
-
-THE MAHAVAGGA . . . . ..... 71
-
-First Khandhaka (The Admission to the Order of
-
-Bhikkhus) ........ 73
-
-Second Khandhaka (The Uposatha Ceremony, and
-the Patimokkha) ...... 23.9
-
-Third Khandhaka (Residence during the Rainy Season) 298
-Fourth Khandhaka (The Pavarawa Ceremony) . . 325
-
-
-Transliteration of Oriental Alphabets adopted for the
-
-Translations of the Sacred Books of the East . . 357
-
-
 INTRODUCTION
 
 
@@ -1950,8 +1904,6 @@ here to the Sawgha only.
 5 In the text read vu /Ma pan en a.
 
 
-SAMGHADISESA DHAMMA. 13
-
 (formally) adjured by the Bhikkhus as a body, even
 to the third time, to the end that he abandon that
 course. If, while being so adjured, up to the third
@@ -2029,8 +1981,6 @@ after yavatatiyaka.
 vagga II, 6-8.
 
 
-SAMGHADISESA DHAMMA. 15
-
 In respect of them I ask the venerable ones,
 ' Are you pure in this matter ?'
 
@@ -2089,8 +2039,6 @@ The Vibhanga interprets it as above (Aniyata I, 2, i).
 6 Compare the 3rd Sa/wghadisesa, and probably the 4th is also
 referred to.
 
-
-ANIYATA DHAMMA. I 7
 
 a seat with a woman, one man with one woman, in
 secret, on such a seat, and a believing woman, trust
@@ -2167,8 +2115,6 @@ Now the Mahavagga (VII, i, 7) gives eight reasons by which the
 KaMina license would be extinguished for any one particular
 Bhikkhu alone — as it would be for the community at that place
 
-
-NISSAGGIYA PAJTITTIYA DHAMMA. 19
 
 2. When the robes have been settled, after the
 taking up of the Ka//£ina by the Bhikkhu, if a
@@ -2269,8 +2215,6 @@ explains as one that has been once worn.
 Rh. D.'s note on Maha-sudassana Sutta I, 41.
 
 
-NISSAGGIYA PAJTCTTIYA DHAMMA. 21
-
 for a robe, except at the right season — that is a
 Pa/£ittiya offence involving forfeiture.
 
@@ -2315,9 +2259,6 @@ to imply ' to the extent of one inner, and one outer robe ;' but we
 preserve the ambiguity of the text.
 
 
-22 PATIMOKKIIA.
-
-
 if that Bhikkhu, before the offer has been made to
 him, go and give directions as to the make of the
 robe, saying, ' It would be well, Sir, to get in ex
@@ -2358,8 +2299,6 @@ Rh. D., loc. cit. The 'Robe-fund' consisted of things for barter.
 
 In the text the va after afmatakassa should be omitted.
 
-
-NISSAGGIYA PAZITTIYA DIIAMMA. 23
 
 accept the robe-fund!' let then that monk answer
 that messenger thus : ' We do not, my friend, accept
@@ -2443,8 +2382,6 @@ seat or couch. The word translated 'rug or mat' is a more
 general term, meaning 'a thing spread;' but there is no corres-
 
 
-NISSAGGIYA PA^ITTIYA DHAMMA. 25
-
 12. Whatsoever Bhikkhu shall have a rug or
 mat made of pure black wool of goats' hair1 — that
 is a Pa/'ittiya offence involving forfeiture.
@@ -2488,9 +2425,6 @@ new one made within six years. Then the Blessed One established
 this exception to the general Rule.
 
 4 See the note on the 6th Sa/wghadisesa.
-
-
-26 PATIMOKKIIA.
 
 
 order to disfigure it. If a Bhikkhu should have a
@@ -2537,8 +2471,6 @@ to be given to him, to buy ghee or oil with it for the Sawgha ; and
 whatever is bought is the common property of all the Sawgha, save
 the guilty Bhikkhu. Should the layman object to undertake the
 
-
-NISSAGGIYA PA^TITTIYA DHAMMA. 27
 
 19. Whatsoever Bhikkhu shall engage in any one
 of the various transactions in which silver is used —
@@ -2621,8 +2553,6 @@ Samanta-Pasadika in its explanation of this word, but with con
 siderable hesitation. Compare the relation between Sanskrit ota
 and prota; and between English 'web' and 'woof.'
 
-
-NISSAGGIYA PAJHTTIYA DHAMMA. 29
 
 make it up to you, friends, in some way or other ! '
 If that Bhikkhu *, having thus spoken, should make
@@ -2712,8 +2642,6 @@ between Pavarawa and the ^Tatumasini. But how both these
 full moons came to be called Kattika is not clear.
 
 
-NISSAGGIYA PAJTITTIYA DHAMMA. 31
-
 A second time I ask the venerable ones, 'Are
 you pure in this matter ?'
 
@@ -2772,8 +2700,6 @@ ani^a ti saddaw ni/£/C'/5areti, &c.
 
 4 For the text read matugamena.
 
-
-PAJnTTIYA DHAMMA. 33
 
 without a man arrived at years of discretion1 (being
 present) — that is a Pa/£ittiya.
@@ -2870,8 +2796,6 @@ so on.
 3 Because if he does so, he might unwittingly upset the furniture,
 
 
-PAJHTTIYA DHAMMA. 35
-
 19. In case a Bhikkhu is having a large dwellingplace put up, he may have the work rectified, in a
 place where straw is scarce, round the, doors, and
 where the bolts are put in, and the openings for
@@ -2899,8 +2823,7 @@ directed against too great luxury in the matter of a perfectly
 finished dwelling, is somewhat obscure, owing to our want of
 information as to the mode in which such dwellings should be
 put up. It refers probably to a hut, albeit a large one, of
-wattel and daub (kudda.: comp. Rh. D.'s note on the Mahaparinibbana Sutta V, 41). The Samanta-Pasadika divides dvara-
-kosa into dvara-okasa, and quotes various estimates from the
+wattel and daub (kudda.: comp. Rh. D.'s note on the Mahaparinibbana Sutta V, 41). The Samanta-Pasadika divides dvarakosa into dvara-okasa, and quotes various estimates from the
 old Sinhalese commentaries as to the proper extent of this space
 (see MinayefF, p. 87).
 
@@ -2963,8 +2886,6 @@ have not committed to their charge, he is guilty of a Dukka/a.'
 2 Amisa-hetu; that is, in order that the sisters may be induced
 to supply the preachers with food, medicine, &c.
 
-
-PAJHTTIYA DHAMMA. 37
 
 Herein this is the right occasion : (to wit), when
 the road is so insecure and dangerous that travellers
@@ -3054,8 +2975,6 @@ only a meal was offered. The last exception was simply to guard
 against the stock of robes falling short (Bhikkhu . . . nadhivasenti :
 £ivara/a parittaw uppa^ati, says the Vibhanga).
 
-
-PAATITTIYA DHAMMA. 39
 
 robes are being made. This is right occasion in this
 passage.
@@ -3157,8 +3076,6 @@ for, the dantaka///$a referred to in Aullavagga V, 31. It is a piece
 of fragrant root (cinnamon, betel, &c.) about eight inches long.
 
 
-PAATITTIYA DHAMMA. 41
-
 hand, give food, whether hard or soft, to an A/£elaka
 or to a Paribba^-aka or to a Paribba^ika1 — that
 is a Pa/£ittiya.
@@ -3249,8 +3166,6 @@ saying it was to be given to the Sawgha, with special reference to
 him. He had gone for an alms to the village. The messengers
 delivered the food and the message, and asked where Upananda was.
 
-
-PA^ITTIYA DHAMMA. 43
 
 Herein the right occasion is this: (to wit), a time
 of giving of robes, a time of making of robes. That
@@ -3349,8 +3264,6 @@ Trenckner at p. 47 of the Milinda Panha reads aggi;;z ^aletvd
 visivetva; and at p. 102, sa/rcsibbitavisibbitatta sakhanaw.
 
 
-PAJTITTIYA DHAMMA. 45
-
 of the rains 1 : when sick ; when there is work ; when
 on a journey ; when there has been wind and rain.
 This is right occasion in this connection.
@@ -3444,8 +3357,6 @@ journey along the same route with a caravan of
 the gawa, of a Dukka/a, says the Vibhahga.
 
 
-PAJHTTIYA DHAMMA. 47
-
 robbers, knowing it to be such, even as far as the
 next village1 — that is a Pa/£ittiya.
 
@@ -3532,8 +3443,6 @@ now the other expression should be used, is not clear. In the
 later texts Samawera is the usual form, but samawuddeso is
 found also in a few passages.
 
-
-PAJTITTIYA DHAMMA. 49
 
 Dangerous Qualities been declared by the Blessed
 One to be full of danger, and also to be sufficient to
@@ -3627,8 +3536,6 @@ Sutta VI, 3, and the passages quoted there in Rh. D.'s note.
 
 5 In the text read annawakena.
 
-
-PAJTITTIYA DHAMMA. 51
 
 brother, this is an evil to thee, in that when the
 Patimokkha is being recited you fail to take it to
@@ -3898,8 +3805,6 @@ the village. Compare the 3rd Sekhiya; Mahavagga I, 23, 3; and
 -ffullavaggaVin, 5, 2.
 
 
-PAriDESANIYA DHAMMA. 57
-
 own hand, food, either hard or soft, in such house
 holds as have been (by a formal sammuti) declared
 to be households, under discipline T, without having
@@ -3951,9 +3856,6 @@ do they keep silence. Thus I understand.
 
 
 Here endeth the recitation of the Pa/idesaniyas.
-
-
-SEKHIYA DHAMMA. 59
 
 
 SEKHIYA DHAMMA.
@@ -4048,8 +3950,6 @@ to be observed.
 down in the ist and 2nd Sekhiyas.
 
 
-SEKHIYA DHAMMA. 6 1
-
 my seat amidst the houses/ This is a discipline
 which ought to be observed.
 
@@ -4142,8 +4042,6 @@ of the rice ' explains the Samanta-Pasadika. See No. 34.
 5 Samatittikaw. 'Equally full, equally heaped up (samabharitaw)' explains the Samanta-Pasadika. Compare the several
 passages quoted in Rh. D/s note on Teviggu Sutta I, 24.
 
-
-SEKHIYA DHAMMA. 63
 
 alms placed in my bowl.' This is a discipline which
 ought to be observed.
@@ -4246,8 +4144,6 @@ to the ground.
 4 Literally, without making the sound ' A'apu-^apu.'
 
 
-SEKHIYA DHAMMA. 65
-
 51. ' Without making a hissing sound will I eat1/
 This is a discipline which ought to be observed.
 
@@ -4344,9 +4240,6 @@ discipline which ought to be observed.
 End of the seventh section.
 
 
-SEKHIYA DHAMMA. 67
-
-
 71. ' Not to a person walking in front of me,
 unless he is sick, will I, walking behind, preach the
 Dhamma.' This is a discipline which ought to be
@@ -4439,8 +4332,6 @@ IV, 14, 28.
 7 Tiwavattharaka. See Aullavagga IV, 13.
 
 
-ADHIKARAJVA-SAMATHA DHAMMA. 69
-
 The venerable ones are pure herein. Therefore
 do they keep silence. Thus I understand.
 
@@ -4523,8 +4414,6 @@ record of the very first events of the history of the Sawgha.
 Nor is it difficult to account for the theory formulated by the
 
 
-74 MAHAVAGGA. I, I, i.
-
 Uruvela, on the bank of the river Nera/z^ara1,
 at the foot of the Bodhi tree (tree of wisdom), just
 after he had become Sambuddha. And the blessed
@@ -4572,8 +4461,6 @@ ham's map, Archaeological Reports, vol. i. plate iii.
 2 After having reached the sambo dhi and before preaching to
 
 
-I, i, 2. ADMISSION TO THE ORDER OF BHIKKHUS. 75
-
 2. Then the Blessed One (at the end of these
 seven days) during the first watch of the night fixed
 his mind upon the Chain of Causation1, in direct and
@@ -4617,8 +4504,6 @@ Tumour's MS.) we find the following explanation of what Ignor
 ance is : ' Not to know Suffering, not to know the Cause of suffering,
 
 
-76 MAHAVAGGA. I, i, 2.
-
 kharas *, from the sa;/zkharas springs Consciousness,
 from Consciousness spring Name-and-Form, from
 Name-and-Form spring the six Provinces (of the
@@ -4661,8 +4546,6 @@ Pi/aka, Pa/iMasamuppadavibhanga, 1. 1.) gives, when discussing the
 sa/rckharas, six categories instead of the three : ' Now which are
 
 
-I, I, 2. ADMISSION TO THE ORDER OF BHIKKHUS. 77
-
 six senses1), from the six Provinces springs Contact,
 from Contact springs Sensation, from Sensation
 springs Thirst (or Desire), from Thirst springs At
@@ -4689,8 +4572,7 @@ the sawkharas that are produced by Ignorance ? Sawkharas (or,
 productions) that lead to righteousness, sawkharas that lead^to
 sinfulness, sawkharas that lead to immovability, productions of
 body, of speech, and of thought.' The Pali words are : ' Tattha
-katame avig^apa/^aya sawkhara? pufmabhisawkharo apufmabhisa/wkharo awa^abhisawkharo kayasa/rckharo va/fcisa/wkharo /£itta-
-sazrckharo.' The list of fifty-five categories belonging to the
+katame avig^apa/^aya sawkhara? pufmabhisawkharo apufmabhisa/wkharo awa^abhisawkharo kayasa/rckharo va/fcisa/wkharo /£ittasazrckharo.' The list of fifty-five categories belonging to the
 sawkhara-khandha, which Sp. Hardy gives in his Manual
 (p. 404 seq. ; comp. also Rh. D., 'Buddhism,' p. 91 seq., and
 'Buddhist Suttas from the Pali/ p. 242), is not founded, as far as
@@ -4738,8 +4620,6 @@ of Mara, like the sun that illuminates the sky/
 Here ends the account of what passed
 under the Bodhi tree.
 
-
-I, 2, 3. ADMISSION TO THE ORDER OF BHIKKHUS. 79
 
 2.
 
@@ -4820,8 +4700,6 @@ front of the Blessed One, raising his clasped hands,
 and paying reverence to the Blessed One.
 
 
-I, 4, 2. ADMISSION TO THE ORDER OF BHIKKHUS. 8 1
-
 4. And the Blessed One, perceiving that, on this
 occasion, pronounced this solemn utterance: 'Happy
 is the solitude of him who is full of joy, who has
@@ -4901,8 +4779,6 @@ most of the dogmatical terms of the Gainas stand to those of the
 Bauddhas, it is difficult to believe that tathagata and tatthagaya
 
 
-1,4,5' ADMISSION TO THE ORDER OF BHIKKHUS. 83
-
 with what shall I accept the rice-cakes and lumps
 of honey ?' Then the four Maharaja gods1, under
 standing by the power of their minds the reflection
@@ -4945,8 +4821,6 @@ Petersburg Dictionary. We have translated, therefore, onitapattapawi accordingly
 G 2
 
 
-84 MAHAVAGGA. I, 5, I.
-
 at the feet of the Blessed One and thus addressed
 the Blessed One : ' We take our refuge, Lord, in
 the Blessed One and in the Dhamma ; may the
@@ -4986,8 +4860,6 @@ to the dyad (the Buddha and the Dhamma), instead of to the triad
 of the Buddha, the Dhamma, and the Sa/ftgha.
 
 
-I, 5, 4. ADMISSION TO THE ORDER OF BHIKKHUS. 85
-
 are given to desire, intent upon desire, delighting
 in desire, the law of causality and the chain of
 causation will be a matter difficult to understand ;
@@ -5014,8 +4886,7 @@ matter, his mind became inclined to remain in quiet,
 and not to preach the doctrine. Then Brahma
 
 1 The upadhis (substrata of existence) are specified in the com
-mentary on the Sutta-Nipata, ap. Dhammapada, p-433: 'sabbupadhina/ra parikkhaya 'ti sabbesaw khandhakamaguwakilesabhisawkh^ra-
-bhedana;;/ upadhinaw parikkhiwatta/ Probably abhisa/rakhara is
+mentary on the Sutta-Nipata, ap. Dhammapada, p-433: 'sabbupadhina/ra parikkhaya 'ti sabbesaw khandhakamaguwakilesabhisawkh^rabhedana;;/ upadhinaw parikkhiwatta/ Probably abhisa/rakhara is
 not co-ordinate with the other members of the compound, but is
 determined by them, comp. pabba^abhisawkhara, iddhabhisawkhara, gamikabhisawkhara. The upadhis, therefore, according to
 this passage, consist : firstly, in the actions of mind that are directed
@@ -5072,9 +4943,6 @@ sahampati might be svayampati.
 simply ambrosia. See Rh. D., Buddhism, pp. 60, in, 184.
 
 
-I, 5, 10. ADMISSION TO THE ORDER OF BHIKKHUS. 87
-
-
 top, might overlook the people all around, thus, O
 wise One, ascending to the highest palace of Truth,
 look down, all-seeing One, upon the people lost in
@@ -5116,8 +4984,6 @@ looking over the world with his eye of a Buddha,
 1 See § 3 with our note for this omitted word.
 
 
-88 MAHAVAGGA. I, g, il.
-
 saw beings whose mental eyes were darkened by
 scarcely any dust, and beings whose eyes were
 covered by much dust, beings sharp of sense and
@@ -5155,9 +5021,6 @@ right side towards him; and then he straightway
 disappeared.
 
 Here ends the story of Brahma's request.
-
-
-I, 6, 4. ADMISSION TO THE ORDER OF BHIKKHUS. 89
 
 
 6.
@@ -5288,8 +5151,6 @@ common to the founders of the Bauddha and Gaina sects.
 Bhava, DittM, and
 
 
-92 MAHAVAGGA. I, 6, IT.
-
 the five Bhikkhus saw the Blessed One coming from
 afar ; when they saw him, they concerted with each
 other, saying, ' Friends, there comes the samara
@@ -5328,8 +5189,6 @@ padapiMa is a stool to put the washed foot on, padakathalika
 (or padakathalika?), a stool to put the unwashed foot on, or a
 cloth to rub the feet with (padaghawsana).
 
-
-I, 6, 16. ADMISSION TO THE ORDER OF BHIKKHUS. 93
 
 will live in the possession of that highest goal of the
 holy life, for the sake of which noble youths fully
@@ -5409,8 +5268,6 @@ quote M. Peer's Etudes Bouddhiques, I, p. 189 seq., and Rh. D.,
 'Buddhist Suttas from the Pali,' pp. itf-i55> and in the Fort
 nightly Review for December 1879.
 
-
-I, 6, 22. ADMISSION TO THE ORDER OF BHIKKHUS. 95
 
 duces to calm, to knowledge, to the Sambodhi, to
 Nirvana? It is the holy eightfold Path, namely,
@@ -5495,8 +5352,6 @@ into these four Noble Truths, with its three modifi-
 to be the cause of suffering, must be abandoned.
 
 
-1,6,30. ADMISSION TO THE ORDER OF BHIKKHUS. 97
-
 cations and its twelve constituent parts1; so long, O
 Bhikkhus, I knew that I had not yet obtained the
 highest, absolute Sambodhi in the world of men and
@@ -5575,8 +5430,6 @@ from the lowest (the bhumma deva, who inhabit the earth), and
 gradually ascending to the higher devalokas. See Hardy, Manual,
 P- 25-
 
-
-I, t>, 35. ADMISSION TO THE ORDER OF BHIKKHUS. 99
 
 me receive the pabba^a and upasampada ordi
 nations from the Blessed One/
@@ -6010,9 +5863,6 @@ Arahats in the world.
 End of the story of Yasa's
 
 
-1,8, 3- ADMISSION TO THE ORDER OF BHIKKHUS. 1 09
-
-
 8.
 
 1. And in the forenoon the blessed One, having
@@ -6174,8 +6024,6 @@ the same way l. Preach, O Bhikkhus, the doctrine
 nowhere where precepts for wandering Bhikkhus are given, and,
 on the contrary, numerous instances occur in the Sacred Texts
 
-
-I, ir, 2. ADMISSION TO THE ORDER OF BHIKKHUS. 113
 
 which is glorious in the beginning, glorious in the
 middle, glorious at the end, in the spirit and in the
@@ -6346,8 +6194,6 @@ young men, who were sporting in that same grove
 1 See about the vassa residence the rules given in Book III.
 
 
-I, 14, 3. ADMISSION TO THE ORDER OF BHIKKHUS. I I 7
-
 together with their wives. One of them had no wife;
 for him they had procured a harlot. Now while they
 did not pay attention, and were indulging in their
@@ -6431,8 +6277,6 @@ adopting the state of a Ga/ila is 'isipabba^am pabba^ati'
 (frequently in the Gat. Atth.), i. e. leaving the world and becoming
 a 7v?zshi.
 
-
-I, 15, 3. ADMISSION TO THE ORDER OF BHIKKHUS. I 1 9
 
 the 6Wila Uruvela Kassapa ; having gone there, he
 said to the 6Wila Uruvela Kassapa : * If it is not
@@ -6560,8 +6404,6 @@ in the Maha-padhana Sutta.
 men' (manussanago).
 
 
-122 MAHAVAGGA. I, 16, I.
-
 appeared on the Angirasa's1 body. Having put
 the chief of Serpents into his alms-bowl, he showed
 him to the Brahmam (saying), ' Here you see the
@@ -6680,8 +6522,6 @@ One was ; having approached him, he said to the
 
 1 One of the supposed seven great lakes in the Himavant.
 
-
-I, 20, i. ADMISSION TO THE ORDER OF BHIKKHUS. 125
 
 Blessed One : ' It is time, great Samara, the meal
 is ready. Why did you not come yesterday, great
@@ -7061,8 +6901,6 @@ and were split, the fires could not be lit up and
 commentator.
 
 
-134 MAHAVAGGA. I, 21, I.
-
 were lit up, could not be extinguished and were ex
 tinguished ; besides he created five hundred vessels
 with fire. Thus the number of these miracles
@@ -7183,8 +7021,6 @@ Tapoban and old Ra^agnha/ Reports, III, 140.
 
 The word we have rendered sacred shrine is ^Tetiya.
 
-
-1,22,4- ADMISSION TO THE ORDER OF BHIKKHUS. 137
 
 gods and men ; he preaches that Truth (Dhamma)
 which is glorious in the beginning, glorious in the
@@ -7392,10 +7228,7 @@ which form the characteristics of Buddha as a mahapurisa.
 as follows: i. being free from the five bad qualities (pa»Uahga)'
 2. being possessed of the six good qualities (£/$a/anga), 3. being
 guarded in the one thing (ekarakkha), 4. observing four things
-(/fcaturapassena), 5. rejecting each of the four false truths (panunna pa/^eka-sa/^a), 6. seeking right things (samavayasa-
-
-
-and of the ten Powers *, who understands the ten
+(/fcaturapassena), 5. rejecting each of the four false truths (panunna pa/^eka-sa/^a), 6. seeking right things (samavayasaand of the ten Powers *, who understands the ten
 Paths of Kamma 2 and possesses the ten (attributes
 of Arahatship) 3, the Blessed One, surrounded by
 ten hundred of followers, has entered Ra^agaha.'
@@ -7477,8 +7310,6 @@ ham's map of Ra^agnTia (pi. xiv, Reports, vol. i), were found by
 him' (Rh. D., 'Buddhism,' p. 62 note).
 
 
-144 MAHAVAGGA. I, 23, I.
-
 Bimbisara by religious discourse, rose from his seat
 and went away.
 
@@ -7514,8 +7345,6 @@ Seeing him he thought : ' Indeed this person is one
 of those Bhikkhus who are the worthy ones (Arahats)
 in the world, or who have entered the path of Arahatship. What if I were to approach this Bhikkhu and
 
-
-1,23,4. ADMISSION TO THE ORDER OF BHIKKHUS. 145
 
 to ask him: "In whose name, friend, have you retired
 from the world? Who is your teacher? Whose
@@ -7601,8 +7430,6 @@ hetu, 'proximate cause/ and pa/fc/fcaya (pratyaya), 'concurrent
 occasion ; ' but, in practical use, this slight difference of meaning, if
 it really existed, has but little weight attached to it.
 
-
-I, 24, I. ADMISSION TO THE ORDER OF BHIKKHUS. 147
 
 through many myriads of Kappas (world-ages) of the
 past.'
@@ -7776,8 +7603,6 @@ next to be led by him?'
 6. Some Bhikkhus heard those people that were
 
 
-1,25,1. ADMISSION TO THE ORDER OF BHIKKHUS. 151
-
 annoyed, murmured, and had become angry ; these
 Bhikkhus told this thing to the Blessed One. (He
 replied) : ' This noise, O Bhikkhus, will not last
@@ -7848,8 +7673,7 @@ goes on to relate the institution of the office and upa^Myas,
 and to explain the mutual duties incumbent on upa^Myas and
 pupils (saddhiviharikas).
 
-1 Buddhaghosa has the following note on utti/Mapatta : 'utti/^apattan ti piw^aya /fcarawakapattaw, tasmiw hi manussa u^i/^asaw-
-mno (this word is spelt so in the Paris MS. as well as in the Berlin
+1 Buddhaghosa has the following note on utti/Mapatta : 'utti/^apattan ti piw^aya /fcarawakapattaw, tasmiw hi manussa u^i/^asawmno (this word is spelt so in the Paris MS. as well as in the Berlin
 MS. of the Samanta Pasadika ; the usual spelling is \\kkh\tthdi),
 tasma utti///$apattan ti vuttaw. athava u/Mahitva pattaw upanamentiti evam ettha attho da///$abbo.' We take the word, as the
 former of Buddhaghosa's two explanations implies, for a com
@@ -8066,8 +7890,7 @@ tect it from the heat. See ^fullavagga V, 14, 3.
 
 
 robe and put it aside, give him the powder and the
-clay. If he is able1, let him also enter the^antaghara. When he is going to enter the ^anta-
-ghara, let him besmear his face with clay, cover
+clay. If he is able1, let him also enter the^antaghara. When he is going to enter the ^antaghara, let him besmear his face with clay, cover
 himself from before and behind, and thus enter the
 ^antaghara.
 
@@ -8135,7 +7958,6 @@ clean it, dust it by beating, take it back, and spread
 it out as it was spread before. Let him put the
 supporters of the bed in the sunshine, wipe them,
 
-1 See VIII, 1 6, 3. 4-
 
 2 The bedstead rested on movable supporters. See .Sullava^ga
 VI, 2, 5.
@@ -8266,8 +8088,6 @@ disciplinary proceedings alluded to in this paragraph is given in
 the first book of the -ffullavagga.
 
 
-I, 26, I. ADMISSION TO THE ORDER OF BHIKKHUS. 163
-
 (required for a Bhikkhu) to any one else ; let him
 not receive (such) articles from any one else ; let him
 not shave the hair of any one else ; let him not have
@@ -8344,8 +8164,6 @@ the dye has ceased to drop. If the saddhiviharika
 1 Instead of, 'Follow the upag§v$aya from behind' (chap. 25. 12),
 read here, ' Go (with the saddhiviharika)/
 
-
-I, 27, i. ADMISSION TO THE ORDER OF BHIKKHUS. 165
 
 is sick, let him nurse him as long as his life lasts,
 and wait until he has recovered.'
@@ -8558,8 +8376,6 @@ have a wattidutiya k am ma (see, for instance, II, chap. 6); in the
 second case, a fiatti/fcatuttha kamma (as in this chapter).
 
 
-1 7O MAHAVAGGA. I, 28, 5.
-
 upasampada ordination in this way: Let a learned,
 competent Bhikkhu proclaim the following #atti
 before the Sawgha:
@@ -8602,8 +8418,6 @@ having received the upasampada ordination, aban-
 1 With this and the following chapters should be compared the
 corresponding ordinance laid down in chapters 74-76.
 
-
-I, 29, 3. ADMISSION TO THE ORDER OF BHIKKHUS. I 71
 
 doned himself to bad conduct. The Bhikkhus said
 to him : ' You ought not to do so, friend ; it is not
@@ -8734,8 +8548,6 @@ storied dwellings, attics, caves1 are extra allowances.
 declared to be allowable, ATullavagga VI, i, 2. The single expres-
 
 
-174 MAHAVAGGA. I, 31, I.
-
 'The religious life has decomposing urine as
 medicine1 for its resource. Thus you must endea
 vour to live all your life. Ghee, butter, oil, honey,
@@ -8773,8 +8585,6 @@ Pasada, which has an upper chamber placed on the topmost
 storey. Guha is a hut made of bricks, or in a rock, or of wood.'
 1 Compare Mahdvagga VI, 1 4, 6.
 
-
-I, 31, 4. ADMISSION TO THE ORDER OF BHIKKHUS. I 75
 
 2. At that time some Bhikkhus performed the
 upasampada service with a chapter of two or
@@ -8855,8 +8665,6 @@ ambition of collecting followers. This will not do
 confer the upasampada ordination who has not
 
 
-7, 31,8. ADMISSION TO THE ORDER OF BHIKKHUS. 177
-
 completed ten years. He who does, is guilty of a
 dukka/a offence. I prescribe, O Bhikkhus, that
 only he who has completed ten years, or more than
@@ -8901,8 +8709,6 @@ khus : 'How can these foolish persons, O Bhikkhus,
 [13] N
 
 
-178 MAHAVAGGA. I, 32, i.
-
 confer the upasampada ordination (saying), "We
 have, &c ?" (Thus) ignorant upa^Myas are found,
 &c. This will not do, O Bhikkhus, for converting
@@ -8940,8 +8746,6 @@ of an a^ariya towards his antevasika, and of an antevasika
 towards his a/£ariya, as indicated in chaps. 32, 33 (=ATullavagga
 VIII, 13, 14), are exactly the same as those of an
 
-
-1,32,1. ADMISSION TO THE ORDER OF BHIKKHUS. 179
 
 ( The a/£ariya, O Bhikkhus, ought to consider the
 antevasika (i.e. disciple) as a son; the antevasika ought to consider the a/£ariya as a father.
@@ -9277,8 +9081,6 @@ his upasampada)/
 2 It should be, 'Fourteen times/ 3 See chap. 31, § 6.
 
 
-1,38,3* ADMISSION TO THE ORDER OF BHIKKHUS. 187
-
 belonged to a Titthiya school, has put to silence his
 upa^^aya when he remonstrated with him accord
 ing to the Dhamma, and has returned to that same
@@ -9561,8 +9363,6 @@ course, thus addressed the Bhikkhus : ' Let no one,
 [13] o
 
 
-194 MAHAVAGGA. 1,4°, i.
-
 O Bhikkhus, who is affected with the five diseases,
 receive the pabba^f a ordination. He who confers
 the pabba^a ordination (on such a person), is
@@ -9759,9 +9559,6 @@ person), is guilty of a dukka/a offence.'
 At that time a certain person who had been
 punished by branding (&c., as in chap. 44, down to
 the end).
-
-
-1,47- ADMISSION TO THE ORDER OF BHIKKHUS. 1 99
 
 
 46.
@@ -10099,8 +9896,6 @@ Ananda : 'How is it, Ananda, that the perfect
 1 See chap. 32. i.
 
 
-I, 54, i. ADMISSION TO THE ORDER OF BHIKKHUS. 207
-
 One has gone forth to Dakkhmagiri with so few
 Bhikkhus?'
 
@@ -10321,8 +10116,6 @@ abstinence from accepting gold or silver. I pre-
 P 2
 
 
-212 MAHAVAGGA. I, 57, r.
-
 scribe, O Bhikkhus, these ten precepts for the
 novices, and the exercise of the novices in these
 (ten precepts)/
@@ -10365,8 +10158,6 @@ world, or went over to Titthiya schools.
 
 They told this thing to the Blessed One.
 
-
-I, 58. ADMISSION TO THE ORDER OF BHIKKHUS. 2 I 3
 
 * Let them not, O Bhikkhus, forbid (novices) the
 whole Sawgharama. He who does so, commits
@@ -10531,8 +10322,6 @@ pa«</ake dusenti, evam ime sabbeva abrahma/fcarino 'ti. Assosuw
 kho bhikkhu hatthibha^anaw assabha«dana#z uggv$ayantana»z khiyantanaw vipa/fcentanaw. Atha kho te bhikkhfi bhagavato etam
 atthaw aro^esuw.
 
-
-I, 63, i. ADMISSION TO THE ORDER OF BHIKKHUS. 217
 
 Bhikkhus said to him : ' How many years, friend,
 have elapsed since your upasampada ?'
@@ -10707,8 +10496,6 @@ received pabba^a with the Bhikkhus; those who
 had been caught, were led to death.
 
 
-1,67. ADMISSION TO THE ORDER OF BHIKKHUS. 221
-
 2. Then those who had been ordained, saw those
 robbers who were being led to death ; seeing them
 they said : * It is well that we have escaped ; had we
@@ -10811,8 +10598,7 @@ They told this thing to the Blessed One.
 
 70.
 
-1. At that time the Bhikkhus conferred the upasampada ordination on persons that had no alms-
-bowl. They received alms with their hands. People
+1. At that time the Bhikkhus conferred the upasampada ordination on persons that had no almsbowl. They received alms with their hands. People
 were annoyed, murmured, and became angry, saying,
 ' Like the Titthiyas/
 
@@ -10902,9 +10688,6 @@ End of the ninth Bha;zavara.
 'pidhasappi.' We ought to read, no doubt, p i th a s a p p i, which
 is Sanskrit piMasarpin, a cripple that is moved on in a rolling
 chair.
-
-
-226 MAHAVAGGA. I, 72, i.
 
 
 72.
@@ -11203,8 +10986,7 @@ instructed by me. If the Sa^gha is ready, let N. N.
 come." Then let him be told: " Come on." Let
 him be told to adjust his upper robe (&c., see chap.
 29. 2), to raise his joined hands, and to ask (the
-Sa^gha) for the upasampada ordination (by saying), " I ask the Sa^gha, reverend Sirs, for the upa-
-s am pa da ordination; might the Sa;^gha, reverend
+Sa^gha) for the upasampada ordination (by saying), " I ask the Sa^gha, reverend Sirs, for the upas am pa da ordination; might the Sa;^gha, reverend
 Sirs, draw me out (of the sinful world) out of compas
 sion towards me. And for the second time, reverend
 Sirs, I ask, &c. And for the third time, reverend
@@ -11326,8 +11108,6 @@ from doing so as long as your life lasts.
 sampada ordination, ought not to attribute to
 
 
-236 MAHAVAGGA. I, 79, i.
-
 himself any superhuman condition, and not to
 say even : ' I find delight in sojourning in an empty
 place/ A Bhikkhu who with bad intention and out
@@ -11438,8 +11218,6 @@ and belong to it. A similar Table of Contents is found in the MSS.
 nearly after all the other Khandhakas.
 
 
-II, I, 2. UPOSATHA CEREMONY, AND PATIMOKKHA. 239
-
 SECOND KHANDHAKA.
 
 (THE UPOSATHA CEREMONY, AND THE PATIMOKKHA.)
@@ -11475,8 +11253,6 @@ not two days in each pakkha are to be understood, but three.
 Compare, however, the remark of Buddhaghosa, quoted in the
 note on chap. 34. i.
 
-
-240 MAHAVAGGA. II, i, 3.
 
 schools ; the Paribba^akas who belong to Titthiya
 schools gain adherents. What if the reverend ones
@@ -11553,8 +11329,6 @@ our Introduction, p. xxvii.
 [13] R
 
 
-242 MAHAVAGGA. II, 3, 2.
-
 them ; this will be their Uposatha service (service
 of the fast- day).'
 
@@ -11597,8 +11371,6 @@ that he is pure from the offences specified in the Patimokkha.
 2 These words are evidently the answer of the Bhikkhus then
 present to the proclamation ofthepatimokkhuddesaka.
 
-
-II, 3, 4- UPOSATHA CEREMONY, AND PATIMOKKIIA. 243
 
 assembly like this a question has been solemnly
 proclaimed three times : if a Bhikkhu, after a three
@@ -11646,8 +11418,6 @@ the Introduction, p. xv seq.).
 R 2
 
 
-244 MAHAVAGGA. II, 3, 5.
-
 ting its authority, fixing our minds on it, we repeat
 the whole of it in our thoughts.
 
@@ -11689,8 +11459,6 @@ classes, the para^ika, sawghadisesa, thulla/r/C-aya, pa^ittiya,
 pa/idesaniya, dukka/a, dubbhasita offences. See, for instance,
 A'ullavagga IX, 3, 3.
 
-
-II, 3, 7- UPOSATHA CEREMONY, AND PATIMOKKHA. 245
 
 ' Evarupa parisa' (an assembly like this): this
 refers to the assembly of Bhikkhus.
@@ -11783,8 +11551,6 @@ teenth, fifteenth, and eighth day of each half month.
 They told this thing to the Blessed One.
 
 
-11,5,3- UPOSATHA CEREMONY, AND PATIMOKKHA. 247
-
 * The Patimokkha, O Bhikkhus, is not to be recited
 three times each half month. He who recites it (three
 times), commits a dukka/a offence. I prescribe, O
@@ -11825,8 +11591,6 @@ mind : ' Shall I go to the Uposatha service or shall
 I not go ? Shall I go to the functions of the Order
 
 
-248 MAHAVAGGA. II, 5, 4.
-
 or shall I not go? Indeed I have become pure by
 the highest purity (i. e. I have reached Arahatship
 or Nirvana).'
@@ -11865,9 +11629,6 @@ gladdened the reverend Maha Kappina by a reli
 gious discourse, the Blessed One disappeared from
 the deer park of Maddaku^i, from the presence of
 the reverend Maha Kappina, and appeared on the
-
-
-II, 7, i. UPOSATHA CEREMONY, AND PATIMOKKHA. 249
 
 
 mountain (as quickly) as a strong man
@@ -11910,8 +11671,6 @@ considering that fixing of boundaries had been
 1 See chap. 5. 2.
 
 
-250 MAHAVAGGA. II, 7, 2.
-
 prescribed by the Blessed One, fixed boundaries of
 excessive extension, of four yo^anas, five yo^anas,
 six yo^-anas. The Bhikkhus who came to the
@@ -11950,8 +11709,6 @@ i. At that time the Bhikkhus recited the Pati
 mokkha in their successive cells without appointing
 (a certain place for doing so). The Bhikkhus who
 
-
-II, 8, 4. UPOSATHA CEREMONY, AND PATIMOKKHA. 251
 
 arrived (from distant places), did not know where
 the Uposatha was to be held that day.
@@ -11998,8 +11755,6 @@ this way: Let a learned, competent Bhikkhu pro-
 the Vihara &c. by the act of sammuti.
 
 
-252 MAHAVAGGA. II, 9, i.
-
 claim the following ;7atti before the Sa^gha : " Let
 the Sa^gha, reverend Sirs, hear me. If the Sa;/zgha
 is ready, the Sa?;zgha may abolish the Uposatha
@@ -12039,8 +11794,6 @@ evidently means the place around the uposathagara, in which
 the Patimokkha recitation may be heard as well as in the uposa
 thagara itself.
 
-
-II, II. UPOSATHA CEREMONY, AND PATIMOKKHA. 253
 
 before the Sawgha : " Let the Sa^gha, reverend
 Sirs, hear me. If the Sangria is ready, let the
@@ -12083,8 +11836,6 @@ O Bhikkhus, assemble in one place all of them and
 hold Uposatha there, or let them assemble where
 
 
-254 MAHAVAGGA. II, 12, I.
-
 the senior Bhikkhu dwells and hold Uposatha there.
 But in no case is Uposatha to be held by an incom
 plete congregation. He who holds it (in that way),
@@ -12122,8 +11873,6 @@ performed in the Ve/uvana monastery. The river which Maha
 Kassapa crossed on his way to the Ve/uvana was the Sappini,
 which rises in the Gig^/zaku/a mountain.
 
-
-II, 12,3. UPOSATHA CEREMONY, AND PATIMOKKHA. 255
 
 residence and for communion of Uposatha, the
 character of ti/£ivarena avippavasa1.
@@ -12164,8 +11913,6 @@ within this boundary, to keep a set of robes wherever they liked
 within the same boundary (excepting in a village, § 3), and that
 such an act should not be considered as parting with the robes.
 
-
-256 MAHAVAGGA. II, 12, 4.
 
 therefore we are badly dressed and have coarse
 robes/
@@ -12212,8 +11959,6 @@ pavasa/ the words 'excepting villages and the neighbourhood of
 villages ' are inserted.
 
 
-II, 12,7. UPOSATHA CEREMONY, AND PATIMOKKHA. 257
-
 ti/£lvarena avippavasa in this way: Let a learned,
 competent Bhikkhu proclaim the following natti
 before the Sa^gha : " Let the Sa?^gha, reverend
@@ -12252,8 +11997,6 @@ i
 abbhantara=28 hattha (Buddhaghosa and Abhidhanappad
 pika, v. 197). See Rh. D., 'Coins and Measures,' &c., p. 15.
 
-
-258 MAHAVAGGA. II, 13, I.
 
 13.
 
@@ -12299,8 +12042,6 @@ the measure required for this interstice : the Kurundi requires one
 vidatthi, the MahapaMari four afigula.
 
 
-11,14,3- UPOSATHA CEREMONY, AND PATIMOKKHA. 259
-
 'There are the following two Uposatha (days),
 O Bhikkhus, the fourteenth and the fifteenth (of the
 half month); these are the two Uposatha (days),
@@ -12344,8 +12085,6 @@ of the congregation by which such acts are performed, see IX, 3.
 S 2
 
 
-260 MAHAVAGGA. II, 15, i.
-
 satha service is allowed by me. Therefore, O
 Bhikkhus, you ought to train yourselves thus : " The
 Uposatha service which is held lawfully (by a) com
@@ -12386,8 +12125,6 @@ claimed: 'The four para^ika dhamma, &c., are known to the
 reverend brethren (literally, have been heard by the reverend
 brethren)/
 
-
-II, 15, 4- UPOSATHA CEREMONY, AND PATIMOKKHA. 26 1
 
 claimed : " Such and such rules are known (to the
 fraternity)." This is the fourth way of reciting the
@@ -12431,8 +12168,6 @@ beings, from beasts of prey, from creeping things,
 danger of life, danger against chastity. I ordain,
 O Bhikkhus, the recitation in such cases of danger
 
-
-262 MAHAVAGGA. II, 15, 5.
 
 of the Patimokkha abridged ; if there is no danger,
 in its full extent/
@@ -12479,8 +12214,6 @@ Bhikkhu proclaim the following natti before the
 Sawgha : " Let the Sa;;zgha, &c. If the Sa^gha is
 
 
-II,i5,n. UPOSATHA CEREMONY, AND PATIMOKKHA. 263
-
 ready, let N. N. question N. N. about the Vinaya."
 Thus one may appoint another person.'
 
@@ -12524,8 +12257,6 @@ N. N. about the Vinaya.'
 Vinaya . . .'
 
 
-264 MAHAVAGGA. II, 16,1.
-
 16.
 
 1. At that time the A7zabbaggiya Bhikkhus
@@ -12568,8 +12299,6 @@ They told this thing to the Blessed One,
 committed no offence, be asked for leave without
 object and reason. He who does, commits a dukka/a offence. I prescribe, O Bhikkhus, that you
 
-
-II, 1 6, 6. UPOSATHA CEREMONY, AND PATIMOKKHA. 265
 
 are (not) to ask for leave (without) having weighed
 (with your mind) the person (concerned).'
@@ -12621,8 +12350,6 @@ They told this thing to the Blessed One.
 ' Let not him who is to recite the Patimokkha,
 
 
-266 MAHAVAGGA. II, 16, 7.
-
 O Bhikkhus, intentionally recite it so that it cannot
 be heard. He who does, commits a dukka^a
 offence.'
@@ -12668,9 +12395,6 @@ Bhikkhu to do so.
 2 I.e. Samaras belonging to other schools. See chap. i.
 
 
-11,17,3- UPOSATHA CEREMONY, AND PATIMOKKHA. 267
-
-
 17.
 
 1. Then the Blessed One, after having dwelt near
@@ -12707,8 +12431,6 @@ upon (all Bhikkhus) down to the youngest one :
 Patimokkha.' He also replied : * I am not compe
 tent, venerable Sirs, to do so/
 
-
-268 MAHAVAGGA. II, 17, 4.
 
 They told this thing to the Blessed One.
 
@@ -12754,8 +12476,6 @@ else will they know?'
 is given here, of course, in the present tense.
 
 
-II, ip. UPOSATHA CEREMONY, AND PATIMOKKHA. 269
-
 They told this thing to the Blessed One.
 * I prescribe, O Bhikkhus, that you learn how to
 count (the days of) the half month/
@@ -12799,8 +12519,6 @@ was Uposatha day, went for alms to a distant village.
 1 This appears to be the meaning of ga«amaggena ga»etu0z ;
 Buddhaghosa has no note on this passage.
 
-
-270 MAHAVAGGA. II, 20, I.
 
 They came back when the Patimokkha was being
 recited, or when it just had been recited.
@@ -12849,8 +12567,6 @@ sweep the Uposatha hall?'
 
 They told this thing to the Blessed One.
 
-
-11,20,5- UPOSATHA CEREMONY, AND PATIMOKKH A. 271
 
 ' I prescribe, O Bhikkhus, that the Thera is to order
 a young Bhikkhu (to sweep the Uposatha hall).'
@@ -12902,8 +12618,6 @@ and to provide for food ?'
 They told this thing to the Blessed One.
 
 
-272 MAHAVAGGA. II, 21, I.
-
 * I prescribe, O Bhikkhus, that you provide drink
 and food/
 
@@ -12942,8 +12656,6 @@ Bhikkhu who is erudite, who has studied the
 agamas (i.e. the collections of Suttas), who knows
 
 
-II, 21, 3- UPOSATHA CEREMONY, AND PATIMOKKHA. 273
-
 the Dhamma, the Vinaya, the matika1, who is
 wise, learned, intelligent, modest, conscientious2,
 anxious for training ; let those Bhikkhus, O Bhikkhus, kindly receive that Bhikkhu, let them show
@@ -12973,8 +12685,7 @@ the Patimokkha or the recital of the Patimokkha.
 1 Enumerations of terms indicating the different cases that come
 under a Vinaya rule or a dogmatical proposition are called matika ;
 for instance, in discussing the first para^ika rule the Vibhahga
-gives the following matikapadani : tisso itthiyo manussitthi amanussitthi tira/^anagatitthi, tayo ubhatovya%anaka* manussubha-
-tovya^anako amanussubh. tira/fc/^anagatubh., &c. Most of the
+gives the following matikapadani : tisso itthiyo manussitthi amanussitthi tira/^anagatitthi, tayo ubhatovya%anaka* manussubhatovya^anako amanussubh. tira/fc/^anagatubh., &c. Most of the
 works belonging to the Abhidhamma Pi/aka are based on and
 opened by such matika lists.
 
@@ -13026,8 +12737,6 @@ pure from the offences specified in the Patimokkha, and charges
 another Bhikkhu with proclaiming his declaration before the
 assembled chapter.
 
-
-11,22,3- UPOSATHA CEREMONY, AND PATIMOKKHA. 275
 
 express this by gesture (lit. by his body), or by
 word, or by gesture and word, the parisuddhi has
@@ -13113,8 +12822,6 @@ which require excommunication.
 2 See the story given in I, 63.
 
 
-II, 23. UPOSATHA CEREMONY, AND PATIMOKKHA. 277
-
 been conveyed. If he who has been charged with
 the parisuddhi, O Bhikkhus, after the parisuddhi
 has been entrusted to him, though he reaches the
@@ -13151,9 +12858,6 @@ its acts).
 sent of an absentee) that is required for the performance of official
 acts are word for word the same as those set out in chap. 22. 1-4,
 regarding the parisuddhi required at the Uposatha service.
-
-
-278 MAHAVAGGA. II, 24, I.
 
 
 24.
@@ -13195,8 +12899,6 @@ Bhikkhus : ' Assemble, O Bhikkhus, the Sawgha
 1 See §§ i, 2.
 
 
-II, 25, 4- UPOSATHA CEREMONY, AND PATIMOKKHA. 2 79
-
 has duties (official acts) to perform.' When he had
 spoken thus, a certain Bhikkhu said to the Blessed
 One: 'There is a mad Bhikkhu, Lord, called Gagga,
@@ -13230,9 +12932,6 @@ This is the #atti.
 
 4. ' " Let the Sawgha, &c. Gagga, a mad Bhikkhu,
 &c. ; the Sawgha grants, &c. Thus I understand." '
-
-
-280 MAHAVAGGA. U, 26, i.
 
 
 26.
@@ -13323,8 +13022,6 @@ not apply to this case.
 2 See chap. 22.
 
 
-282 MAHAVAGGA. II, 27, I.
-
 Patimokkha by three. If they do, they commit
 a dukka/a offence.
 
@@ -13363,8 +13060,6 @@ the day of Uposatha who feels doubt with regard
 
 1 See ATullavagga IX, 2.
 
-
-II, 27, 4- UPOSATHA CEREMONY, AND PATIMOKKHA. 283
 
 to an offence ; let this Bhikkhu, O Bhikkhus, go to
 one Bhikkhu, &c. (§ i), and say: " I feel doubt, friend,
@@ -13411,8 +13106,6 @@ this (assembly), I will atone for that offence." Having
 spoken thus, &c. (§ 2).
 
 
-284 MAHAVAGGA. II, 27, 5.
-
 5. ' In case, O Bhikkhus, there be a Bhikkhu
 who feels doubt with regard to an offence, while
 Patimokkha is being recited, &c. (^ 2, 4).'
@@ -13454,8 +13147,6 @@ Uposatha from such a cause.
 a certain residence feels doubt with regard to a
 
 
-11,27,12. UPOSATHA CEREMONY, AND PATIMOKKHA. 285
-
 common offence on the day of Uposatha ; (in this
 case) let a learned, competent Bhikkhu proclaim the
 following ofatti before the Sawgha : "Let the
@@ -13496,8 +13187,6 @@ less? Come, friend, atone for your own offence.'
 12. Now this Bhikkhu, after having atoned for
 
 
-286 MAHAVAGGA. II, 27, 13.
-
 that offence by the advice of that Bhikkhu, went to
 those Bhikkhus (to his brethren who shared in the
 same offence) ; having gone to them, he said to those
@@ -13537,8 +13226,6 @@ khus absent. Intending to act according to Dhamma
 and Vinaya, thinking themselves to be complete
 while (really) incomplete, they held Uposatha and
 
-
-11,28,4- UPOSATHA CEREMONY, AND PATIMOKKHA. 287
 
 recited the Patimokkha. While they were reciting
 the Patimokkha, other resident Bhikkhus, a greater
@@ -13585,8 +13272,6 @@ instead of ' let those (who have arrived late) hear the rest/ read :
 the presence (of the other brethren).'
 
 
-288 MAHAVAGGA. II, 28, 5.
-
 5. ' In case, O Bhikkhus, there assemble, &c. ;
 when they have just finished the recital of the Patimokkha, and the assembly has not yet risen, other
 resident Bhikkhus, &C.1
@@ -13624,9 +13309,6 @@ of §4.
 chap. 28. Instead of 'they who have recited it, are free from
 guilt,' read: 'they who have recited it, have committed a dukka/a
 offence.'
-
-
-II, 32- UPOSATHA CEREMONY, AND PATIMOKKHA. 289
 
 
 30.
@@ -13800,8 +13482,6 @@ searched they hold Uposatha: this is a dukka/a
 offence. Being doubtful they search, searching they
 
 
-II, 34, i°- UPOSATHA CEREMONY, AND PATIMOKKHA. 293
-
 do not see them, not seeing them they hold Uposatha :
 (in this case) they are free from offence. Being doubt •
 ful they search, searching they see them, seeing them
@@ -13842,8 +13522,6 @@ trict ; taking them as belonging to the same district
 1 See chap. 32.
 
 
-294 MAHAVAGGA. II, 34, n.
-
 they do not ask; having not asked, they hold Uposatha together : (in this case) they are free from
 offence. They ask ; having asked, they do not go
 through the matter ; having not gone through the
@@ -13882,8 +13560,6 @@ a Sa/^gha1 or in a case of danger2. You ought not,
 
 2 See chap. 15. 4.
 
-
-II, 36, I. UPOSATHA CEREMONY, AND PATIMOKKHA. 295
 
 O Bhikkhus, to go on the day of Uposatha from a
 residence in which Bhikkhus are, to a non-residence
@@ -13926,8 +13602,6 @@ residence or non-residence, is doubtful.
 2 Nine cases are distinguished here quite as in §§ 1-3.
 
 
-296 MAHAVAGGA. II, 36, 2.
-
 offence. Let no one, O Bhikkhus, recite the Patimokkha in a seated assembly (of Bhikkhus) before
 a sikkhamana1, a s£ma;zera, a sama^erl, one
 who has abandoned the precepts2, one who is guilty
@@ -13966,8 +13640,6 @@ analogy also to the two other categories of Bhikkhus mentioned
 in our passage.
 
 
-II, 36, 4« UPOSATHA CEREMONY, AND PATIMOKKH A. 297
-
 4. ' Let no one, O Bhikkhus, hold Uposatha by
 (accepting) the parisuddhi declaration1 of a parivasika2, except if the assembly has not yet risen
 (at the time when the parisuddhi is declared).
@@ -13988,9 +13660,6 @@ books of the ^ullavagga.
 
 3 If a schism among the fraternity has been composed, the
 reconciled parties hold Uposatha together (X, 5, 14).
-
-
-298 MAHAVAGGA. Ill, If r.
 
 
 THIRD KHANDHAKA.
@@ -14029,8 +13698,6 @@ form (kaya).
 3 Sawkapayissanti = sawkappayissanti ? Buddhaghosa :
 appossukka-nibaddha-vasazrc vasissanti.
 
-
-Ill, 2, 2. RESIDENCE DURING THE RAINY SEASON. 299
 
 the rainy season, and arrange themselves places to
 live in ; and yet the Sakyaputtiya Samaras go on
@@ -14079,8 +13746,6 @@ this Vihara for these three months." Thus they are to enter upon
 Vassa/
 
 
-300 MAHAVAGGA. Ill, 3, i.
-
 full moon of Asa/^a (June-July); the later, a month
 after the full moon of Asa//2a 1. These, O Bhikkhus,
 are the two periods for entering upon Vassa.'
@@ -14119,8 +13784,6 @@ ginning of the year that the annual festivals could be postponed
 accordingly. See Weber, Die vedischen Nachrichten von den
 Naxatra, II, p. 329 seq.
 
-
-111,4, 3- RESIDENCE DURING THE RAINY SEASON. 301
 
 In consequence of that and on this occasion the
 Blessed One, after having delivered a religious dis
@@ -14210,8 +13873,6 @@ the Bhikkhus :
 ' I allow you, O Bhikkhus, to go (even during
 
 
-Ill, 5, 6. RESIDENCE DURING THE RAINY SEASON. 303
-
 the rainy season), if the affair for which you go can
 be accomplished in seven days, and if you are sent
 for, but not if you are not sent for, by a person of
@@ -14252,8 +13913,6 @@ comp. kappiyabhumi VI, 33.
 
 5 See ^ullavagga V, 16, i.
 
-
-304 MAHAVAGGA. Ill, 5, 7.
 
 has prepared the site for a park. If he sends a
 messenger to the Bhikkhus, .... (&c., as in § 5,
@@ -14297,8 +13956,6 @@ the use of which is forbidden to nuns; see ^ullavagga X, 27, 3, 4.
 3 See Abhidhanapp. v. 209.
 
 
-III,6,i. RESIDENCE DURING THE RAINY SEASON. 305
-
 to recite a celebrated suttanta. If he sends a
 messenger to the Bhikkhus (saying), " Might their
 reverences come and learn this suttanta; other
@@ -14340,8 +13997,6 @@ instead of bhaddanta, 'their reverences.'
 [13] x
 
 
-306 MAHAVAGGA. Ill, 6, 2.
-
 person of one of the following five classes : Bhikkhus, Bhikkhunls, sikkhamanas, sama^eras, and
 sama;/eris. I allow you, O Bhikkhus, to go, if
 the affair for which you go can be accomplished in
@@ -14381,8 +14036,6 @@ mind doubts of conscience have arisen sends
 selves) : " I will try to dispel those doubts, or cause
 
 
-Ill, 6, 10. RESIDENCE DURING THE RAINY SEASON. 307
-
 them to be dispelled, or compose him by religious con
 versation." Within seven days you ought to return.
 
@@ -14417,15 +14070,12 @@ undergone penal discipline) ought to be rehabilitated.
 If he sends .... (&c., as in J 6).
 
 10. 'In case, O Bhikkhus, the Sa^gha is going
-to proceed against a Bhikkhu by the ta^aniyakamma, or the nissaya, or the pabba^aniya-
-kamma, or the pa/is&ratfiyakamma, or the
+to proceed against a Bhikkhu by the ta^aniyakamma, or the nissaya, or the pabba^aniyakamma, or the pa/is&ratfiyakamma, or the
 ukkhepaniyakamma. If that Bhikkhu sends a
 messenger to the Bhikkhus (saying), " The Sawgha
 
 X 2
 
-
-308 MAHAVAGGA. Ill, 6, II.
 
 is going to proceed against me ; might the Bhikkhus
 come to me ; I long for the Bhikkhus' coming," you
@@ -14469,8 +14119,6 @@ discipline for a fortnight. See Tsfullavagga X, i, 4; 25, 3.
 
 8 The phrases, ' Or I will propose the resolution to the assembly,
 
-
-Ill, 6, 25. RESIDENCE DURING THE RAINY SEASON. 309
 
 17. 'In case, O Bhikkhus, a Bhikkhuni ought to
 be sentenced to recommence penal discipline ....
@@ -14554,8 +14202,6 @@ Now my mother is sick ; she is not a lay-devotee
 Vassa ?) is unknown to us.
 
 
-Ill, 7, 8. RESIDENCE DURING THE RAINY SEASON. 3 1 1
-
 They told this thing to the Blessed One.
 
 2. ' I allow you, O Bhikkhus, to go (even during
@@ -14599,8 +14245,6 @@ me" . . . . (&c., as in § 5).
 8. ' In case, O Bhikkhus, a person that used to
 
 
-3 I 2 MAHAVAGGA. Ill, 8.
-
 live with the Bhikkhus1 is sick. If he sends a mes
 senger to the Bhikkhus (saying), " I am sick ;
 might the Bhikkhus come to me " . . . . (&c., as in
@@ -14643,8 +14287,6 @@ same Vihara with the Bhikkhus.
 2 Compare Gataka I, 300.
 
 
-Ill, 9, 4. RESIDENCE DURING THE RAINY SEASON. 3 I 3
-
 to be considered as a case of danger, and they ought
 to leave that residence. They are not guilty of
 interruption of Vassa.
@@ -14686,9 +14328,6 @@ by water; the Bhikkhus suffer from want of food,
 Bhikkhus who have entered upon Vassa, are de
 stroyed by water ; the Bhikkhus suffer from having
 no place of rest, .... (&c., as in J i) .... Vassa.'
-
-
-314 MAHAVAGGA. Ill, 10.
 
 
 10.
@@ -14735,12 +14374,7 @@ that residence. They are not guilty of interruption
 of Vassa.
 
 ' In case, O Bhikkhus, the Bhikkhus who have
-entered upon Vassa, get food coarse or fine suffi-
-
-
-Ill, 11,4. RESIDENCE DURING THE RAINY SEASON. 315
-
-ciently as required, but they cannot get sustaining
+entered upon Vassa, get food coarse or fine sufficiently as required, but they cannot get sustaining
 food. This is to be considered .... (&c., as in f i)
 . . . . Vassa.
 
@@ -14823,8 +14457,6 @@ place). He is not guilty of interruption of Vassa.
 7. 'In case, O Bhikkhus, a Bhikkhu who has
 entered upon Vassa, hears : " In such and such a
 
-
-Ill, 12, I. RESIDENCE DURING THE RAINY SEASON. 317
 
 district a number of Bhikkhus are striving to cause
 divisions in the Sawgha." If that Bhikkhu thinks :
@@ -14921,8 +14553,6 @@ Vassa in the open air. When it began to rain,
 1 This must be about the sense of pisa/fcillika (comp. Aullavagga V, 10, 2; 27, 5), although we are not sure how -illika
 ought to be explained.
 
-
-Ill, 12, 9. RESIDENCE DURING THE RAINY SEASON. 319
 
 they ran up to the foot of a tree, or to the hollow
 of a Nimba tree.
@@ -15101,8 +14731,6 @@ a dukka/a offence.
 that district, he holds Uposatha outside (on the last
 
 
-Ill, 14, 7. RESIDENCE DURING THE RAINY SEASON. 323
-
 day of the half month), and on the first day (of the
 next half month) he goes to the Vihara, prepares
 himself a place of rest, gets (water to) drink and food,
@@ -15147,8 +14775,6 @@ whether that Bhikkhu comes back to that district or
 Y 2
 
 
-324 MAHAVAGGA. Ill, 14, 8.
-
 does not come back, this Bhikkhu's entering, &c., is
 valid, and as to his promise he has committed no
 offence.
@@ -15184,9 +14810,6 @@ those who entered upon Vassa at the later period (in the Sravawa
 month), the end of Vassa fell on the Komudi day.
 
 
-IV, r, 3. THE PAVARAJVA CEREMONY. 325
-
-
 FOURTH KHANDHAKA.
 
 (THE PAVARA^VA CEREMONY AT THE END OF THE
@@ -15220,8 +14843,6 @@ foot-stool, and the towel l ; cleans the slop-basin and
 
 1 See the note on I, 6, n.
 
-
-326 MAHAVAGGA. IV, I, 4.
 
 puts it away, puts the water and the food away, and
 sweeps the dining-room, —
@@ -15266,8 +14887,6 @@ cially at the end of it, for which time Buddha, on this occasion,
 prescribes the Pavarawa ceremony.
 
 
-IV, I, II. THE PAVARAJVA CEREMONY. 327
-
 to exchange greeting with incoming Bhikkhus. And
 the Blessed One said to those Bhikkhus : ' Do things
 go well with you, O Bhikkhus ? Do you get enough
@@ -15307,8 +14926,6 @@ speak (&c., as in $ 2-4)." Thus, Lord, we did not
 speak to or converse with each other (&c., down to :)
 without uttering a word on that account. In that
 
-
-328 MAHAVAGGA. IV, i, 12.
 
 way, Lord, we have kept Vassa well, in unity, and
 in concord, and without quarrel; and have not suffered
@@ -15352,11 +14969,8 @@ his companions to tell him if they believe him guilty of an offence,
 having seen that offence, or having heard of it, or suspecting it.
 
 
-IV, 2, I. THE PAVARA2VA CEREMONY. 329
-
 ' Let a learned, competent Bhikkhu proclaim the
-following $atti before the Sangria : " Let the Samgha, reverend Sirs, hear me. To-day is the Pava-
-ra^a day. If the Sa^gha is ready, let the Sa^gha
+following $atti before the Sangria : " Let the Samgha, reverend Sirs, hear me. To-day is the Pavara^a day. If the Sa^gha is ready, let the Sa^gha
 hold Pavara^a."
 
 * Then let the senior Bhikkhu adjust his upper
@@ -15441,8 +15055,6 @@ They told this thing to the Blessed One.
 'There are the two following Pavara^a (days),
 
 
-IV, 3, 5- THE PAVARA^A CEREMONY. 331
-
 O Bhikkhus: the fourteenth and the fifteenth (of
 the half month)1; these are the two Pavara;za
 (days), O Bhikkhus.'
@@ -15486,8 +15098,6 @@ his chair to the assembly, &c.3
 Uposatha/ 'Declare the Parisuddhi/ &c., being replaced respec
 tively by 'Hold Pavara«a,' 'Declare the Pavara/za,' &c.
 
-
-332 MAHAVAGGA. IV, 4.
 
 1 1 prescribe, O Bhikkhus, that on the day of
 Pavara^a he who declares his Pavara;za, is to
@@ -15537,8 +15147,6 @@ required ; see IX, 4, i seq.
 5 See IX, 4, i.
 
 
-IV, 5, 5- THE PAVARA2VA CEREMONY. 333
-
 district on the day of Pavara;za. Now these Bhikkhus thought : ' The Blessed One has prescribed that
 five Bhikkhus shall hold Pavara^a in a (regular)
 chapter, and we are (only) four persons. Well, how
@@ -15582,8 +15190,6 @@ them hold Pavara^a (&c., see $ 3).'
 5. At that time two Bhikkhus dwelt in a certain
 
 
-334 MAHAVAGGA. IV, 5, 6.
-
 district on the day of Pavara^a. Now these Bhikkhus thought : ' The Blessed One has prescribed that
 five Bhikkhus, &c., that four Bhikkhus, &c., that three
 Bhikkhus, &c., and we are (only) two persons. Well,
@@ -15624,8 +15230,6 @@ of one (to their assembly) and hold Pavara;za by
 
 1 See chap. 3, § 3. Compare II, chap. 22, and chap. 26, § 10.
 
-
-IV, 6, 3. THE PAVARA^VA CEREMONY. 335
 
 four (as) in a (regular) chapter. If they do, they
 commit a dukka/a offence.
@@ -15670,8 +15274,6 @@ such a cause.'
 1 See chap. 16, § i.
 
 
-336 MAHAVAGGA. IV, 7, I.
-
 an offence, while Pavara^a was being held (&c.,
 see II, 27. 4-8).
 
@@ -15710,9 +15312,6 @@ who have held Pavara^a, are free from guilt/
 
 1 The following paragraphs and chapters exactly follow the
 course indicated by II, 28-35. The alterations to be made are
-
-
-IV, 15, I. THE PAVARA2VA CEREMONY. 337
 
 
 14.
@@ -15756,8 +15355,6 @@ to holding Pavarawa also.
 
 [13] z
 
-
-338 MAHAVAGGA. IV, 15, 2.
 
 * I allow you, O Bhikkhus, to perform Pavara/za
 with the twofold formula1/
@@ -15803,8 +15400,6 @@ has passed away while people were offering gifts
 pronounce the formula of Pavarawa (chap, i, 14) thrice, but twice
 or once respectively.
 
-
-IV» i&S- THE PAVARA2VA CEREMONY. 339
 
 let a learned, competent Bhikkhu proclaim the
 following #atti before the Sa?//gha : " Let the Sa^-
@@ -15926,8 +15521,6 @@ dukka/a offence. And further, O Bhikkhus, let no
 1 Comp. II, 16, i.
 
 
-342 MAHAVAGGA. IV, 16, 4.
-
 one inhibit the Pav£ra?z£ of Bhikkhus who have
 already performed their Pavara^a. He who does,
 commits a dukka/a offence.
@@ -15968,8 +15561,6 @@ declaration of all the Bhikkhus who have kept Vassa together/
 respectively, instead of ' with the threefold formula.'
 
 
-IV, 16, II. THE PAVARA2VA CEREMONY. 343
-
 rable brother is not of a pure conduct in his deeds,
 nor in his words, nor as regards his means of live
 lihood, he is ignorant, unlearned, unable to give
@@ -16009,8 +15600,6 @@ his means of livelihood' (§8); 'Of a pure conduct in his deeds
 and in his words and with regard to his means of livelihood' (§ 9).
 
 
-344 MAHAVAGGA. IV, 16, 12.
-
 know, friends, what a moral transgression is, &c.,"
 let them say to him : " And what is, friend, a moral
 transgression, &c. ?"
@@ -16044,12 +15633,9 @@ where were you? And where was this Bhikkhu?
 And what did you do? And what did this Bhik
 khu do ?"
 
-1 The meaning of antaggahika di/Mi (Sanskrit antargrahika drz'sh/i? antagrahika dr/sh/i?) is unknown to us; Bud-
-dhaghosa gives no explanation. Perhaps it may mean doctrine
+1 The meaning of antaggahika di/Mi (Sanskrit antargrahika drz'sh/i? antagrahika dr/sh/i?) is unknown to us; Buddhaghosa gives no explanation. Perhaps it may mean doctrine
 partly false and partly correct (eclectic).
 
-
-IV, l6, 16. THE PAVA'RANA CEREMONY. 345
 
 14. 'If he then replies : " I do not inhibit, friends,
 the Pavara^a of this Bhikkhu on account of what I
@@ -16135,8 +15721,6 @@ unfounded charge against a fellow Bhikkhu, is guilty of a dukka/a
 offence.
 
 
-IV, i6, 22. THE PAVARAJVA CEREMONY. 347
-
 mitted a sawghadisesa offence, let the Sa?;zgha
 enter upon the sa^ghadisesa proceedings (against
 him) and then hold Pavara^a.
@@ -16211,8 +15795,6 @@ Sawgha, reverend Sirs, hear me. Here a deed is
 known (to me) as well as the (guilty) person. If
 the Sa?72gha is ready, let the Sa^gha hold Pavara^a excluding this deed and this person," (the
 
-
-IV, iy3 I. THE PAVARA2VA CEREMONY. 349
 
 Bhikkhus) ought to reply: "The Blessed One,
 friend, has prescribed that they who hold Pavara^a, ought to be pure as well as complete. If
@@ -16293,8 +15875,6 @@ be prevented.
 2 See I, 6, ii.
 
 
-IV, 17, 7- THE PAVARAJVA CEREMONY. 351
-
 them say: "We have held our Pavara^a, friends,
 .do you do, Sirs, as you think fit."
 
@@ -16333,15 +15913,12 @@ full-moon day.'
 2 See the note on III, 14, n.
 
 
-352 MAHAVAGGA. IV, 17, 8.
-
 having recovered, you may reprove him, if you like."
 If they speak to him thus, and he reproves (that
 Bhikkhu) notwithstanding, he makes himself guilty
 of the pa/£ittiya offence of disregard1.
 
-8. ' If those Bhikkhus, O Bhikkhus, hold Pavara^a, and a healthy Bhikkhu inhibits the Pava-
-ra^a of a sick Bhikkhu, let them say (to the
+8. ' If those Bhikkhus, O Bhikkhus, hold Pavara^a, and a healthy Bhikkhu inhibits the Pavara^a of a sick Bhikkhu, let them say (to the
 inhibiting Bhikkhu) : " This Bhikkhu is sick, friend,
 and the Blessed One has said that a sick person
 cannot endure being questioned. Wait, friend, until
@@ -16368,9 +15945,6 @@ the law, and then hold Pav£ra#£.'
 2 Probably we should read in the Pali text, ' arogo arogaw
 akarikhamano /fodessasiti.' Then the translation would be : ' When
 you have recovered and he has recovered, &c.'
-
-
-IV, i8, 3. THE PAVARA2VA CEREMONY. 353
 
 
 18.
@@ -16412,10 +15986,7 @@ other side, they ought not to interrupt their Vassa residence/
 [J3] A a
 
 
-354 MAHAVAGGA. IV, 18, 4.
-
-they have assembled, let a learned, competent Bhikkhu proclaim the following #atti before the Sam-
-gha : " Let the Sawgha, reverend Sirs, hear me.
+they have assembled, let a learned, competent Bhikkhu proclaim the following #atti before the Samgha : " Let the Sawgha, reverend Sirs, hear me.
 Living in unity, .... (&c., J i, down to :) thus we
 should lose this place which is comfortable to dwell
 in. If the Sawgha is ready, let the Sa^gha agree
@@ -16450,8 +16021,6 @@ Bhikkhu (who has been absent), let him say (to the
 1 Here follows the usual formula of a wattidutiya kamma as
 in Book II, chap. 6. Comp. the note on Book I, chap. 28, § 3.
 
-
-IV, 18, 6. THE PAVARAJVA CEREMONY. 355
 
 inhibiting Bhikkhu): "You are not master of my
 Pavara^a, friend; I have held my Pavara/za."

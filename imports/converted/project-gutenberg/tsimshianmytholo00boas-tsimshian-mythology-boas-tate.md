@@ -1,5 +1,4 @@
 # Tsimshian Mythology
-
 I. TSIMSHIAN MYTHS
 1. Txa'msem (The Raven Legend)*
 
@@ -51,9 +50,6 @@ Qlo'na qc'^awa-i.
 
 
 boas]
-
-
-TSIMSHIAN MYTHS 69
 
 
 The shining youth ate very little. He staid there a long time, and
@@ -233,8 +229,7 @@ Bush also wished to give bu-th first. TxamsEin hstened to what they
 were saying. Stone said, "If I give birth first, then people will
 Uve a long time; if you give bu-th first, people wUl five a short time."
 Giant went to the place where they were and looked, and, behold!
-Stone had almost given birth to her cMld. Then he went to Elderberry Bush and touched her. He said, "Give bu-th fu-st, Elder-
-berry Bush." Then Elderberry Bush gave birth to her child. For
+Stone had almost given birth to her cMld. Then he went to Elderberry Bush and touched her. He said, "Give bu-th fu-st, Elderberry Bush." Then Elderberry Bush gave birth to her child. For
 that reason people do not five many years. Because Elderberry
 Bush gave birth to her child first, man dies quickly. If Stone had
 given birth first to her child, it would not be so. That is what our
@@ -295,8 +290,6 @@ way out at sea. There were very large sea eggs on it. TxamsEm was
 anxious to eat them, but he could not get them because the seaweed
 i Notes, p. 600. = Notes, p. 655.
 
-
-64 TSIMSHIAN MYTHOLOCiY (etu. anx. 31
 
 was too far out to sea. Therefore he made up his mind to invite in
 all the people from the land and from the sea; and when all the guests
@@ -450,9 +443,6 @@ p. 653.— F. B.
 boas]
 
 
-TSIMSHIAKT MYTHS 67
-
-
 turn them over. When you turn the frame over, say 'Lawa!' Then
 put it in good order again, and put them on the frame -with the other
 side towards the fire. Then, when one of the oLichen bursts on
@@ -584,8 +574,6 @@ to the water than his brother. Lagobola said, "You shoot fu-st, my
 
 1 See p. 63.
 
-
-70 TSIMSHIAN MYTHOLOGY [bth. ann. 31
 
 brother!" but TxamsEm replied, "No, let us shoot at the same time!"
 Lagobola agi-eed, and they shot at the same time. Before they shot,
@@ -775,8 +763,6 @@ of eating them. Therefore he said to his slave in a low voice, "Tell
 I Notes, p. 691.
 
 
-74 TSIMSHIAN MYTHOLOGY [etii. avn. 31
-
 them that I should hke to eat what they have there now." The
 slave said, "O chief! my master says he does not eat what you have
 there now, because he is afraid he might die." The chief of the house
@@ -918,9 +904,6 @@ back, and sh.e changed TxamsEm's hair into blond hair. She also
 boas]
 
 
-TSIMSHIAN MYTHS 77
-
-
 made his rough skin soft and wliite. TxamsEm loved his wife very
 mucli. Soon tlie spring sahnon were coming up the river. TxamsEm
 went down and chibbed them, and Bright-Cloud Woman went and
@@ -968,8 +951,6 @@ wife went up to the place where he lay, and said, " I wiU wash your
 eye-socket. " She took water, washed his eye, and made a new one
 for him, so that it was better than before. TxamsEm was very glad,
 
-
-78 TSIMSHIAN MYTHOLOGY [rrn. ann. 31
 
 for he had a new eye, and he loved his wife very much. The woman
 loved him really until their salmon was all dried.
@@ -1157,8 +1138,6 @@ to let himself be seen. TxamsEm sat down there; and on the foDow-
 50633°— 31 ETH— 16 6
 
 
-82 TSIMSHIAN MYTHOLOGY [btii. axx. 31
-
 ing day, while he was still sitting there, he saw a largo canoe being
 launched on the beach. Aboard were many young women who went
 to pick blueberries. Then TxamsEm thought how he could enter
@@ -1252,8 +1231,6 @@ all their food, according to the order of their master. TxamsEm was
 very glad, because now he had much food. On the following day
 he took a walk; and while he was absent, his grandchildren assembled,
 
-
-84 TSIMSHIAN MYTHOLOGY [eth. axn. 31
 
 opened many boxes of crabapples mixed with fjjrease, and ate them
 all. Wien TxamsEni came h(ime from his walk, behold ! lie saw all
@@ -1436,8 +1413,6 @@ In the house was an old man with his two wives. The house was full
 ■ Notes, p. 680.
 
 
-88 TSIMSHIAN MYTHOLOGY [eth. axn. 31
-
 of dried fish — halibut and other kinds — and of di'ied meat of mounlain
 goat, and there were fat and all kinds i)f dried berries. They spread
 a mat out, and let TxamsEm sit on it. They gave him some of the
@@ -1529,8 +1504,6 @@ meat." He did all he could to move the gi-eat Stump. "Just sit a
 
 1 See p. 6S.
 
-
-90 TSIMSHIAN MYTHOLOGY [ktii. ANN. 31
 
 little farther off, and I will eat with you, clear friend! Oh, have
 pity on me, dear friend!"
@@ -1639,8 +1612,6 @@ Then he sang —
 ' Notes, pp. 694, 696.
 
 
-92 TSIMSHIAN MYTHOLOGY Ieth. ann. 31
-
 After ho had done so four times, he placed the dish before TxamsEm.
 It was full of red and yellow salmonberries, which TxamsEm enjoyed
 very much. He ate them all.
@@ -1730,13 +1701,10 @@ their wings, and some of them scratched his head with their claws,
 and pecked at his eyes with then- bills. TxiimsEm tried to escape;
 but the Cormorants were so many, that he was iniablc to do so. At
 last he put on his raven garment and flew away through the smoke
-hole, cryuig, "Caw, caw, caw!" He went away, starvmg and hungry. For this reason the Cormorant can not speak distinctly nowa-
-days. As TxiimsEm had cursed them, therefore all the cormorants
+hole, cryuig, "Caw, caw, caw!" He went away, starvmg and hungry. For this reason the Cormorant can not speak distinctly nowadays. As TxiimsEm had cursed them, therefore all the cormorants
 have black feathers now. He himseK was badly bruised all over his
 body.
 
-
-94 TSIMSHIAN MYTHOLOGY [eth. axn. 31
 
 (34) txa'msem and the wolves'
 
@@ -1754,8 +1722,7 @@ all kinds of meat. There was some fresh meat. He smiled when he
 was looking around. Then they roasted dried salmon, and put it in
 a dish and placed it in front of TxiimsEm. He ate. The next course
 was boiled dried meat, 'and then fresh meat steamed in a hole in the
-ground. This was the house of Chief Wolf and of his people. TxiimsEm was afraid. On the following day Chief Wolf said to his hunt-
-ers, "Bring me some fresh meat tomorrow, while our friend is
+ground. This was the house of Chief Wolf and of his people. TxiimsEm was afraid. On the following day Chief Wolf said to his hunters, "Bring me some fresh meat tomorrow, while our friend is
 staying with us!" Then all the young people got ready for the following mornmg; and early in the mornuig they started, as soon as
 the sun rose. They came home one by one, bringing all kinds of
 animals. Some brought mountam goats, some venison, some black
@@ -1835,8 +1802,6 @@ arrows. When he had finished shooting, he shouted with all his
 might at the foot of the high chff. He shouted four times, and
 immediately a bright young man stood by liis side. He asked
 
-
-96 TSIMSHIAN MYTHOLOGY Ieth. Ann. 31
 
 TxamsEm, "Whose darts and arrows are these?" and TxamsEm
 stood there speechless. He did not know what to answer to the
@@ -1935,10 +1900,6 @@ entered, all the people m the house raised their noses because they
 smclled the bloody wound in TxiimsEm's body. Therefore the
 chief asked him, "What has happened, that your bodv is fillod with
 
-.50633°— 31 ETH— IG 7
-
-
-98 TSIMSIIIAN MYTHOLOGV lETii. ANN. 31
 
 blood?" TxamsEm replied, saying, "As I was going to got my
 hunting-gear, I met a person on tlic way — a man and his wife and
@@ -2033,7 +1994,6 @@ game; and the one that had gone away began to howl. Soon all
 the Wolves came that way, howling; but TxiimsEm stood there,
 
 
-100 TSIMSHIAN MYTHOLOGY [eth. ixx. 3i
 ready for them, put on his raven {rarmont , and flew away. The chief's
 son decided to kill the man who had dragged dowTi these animals.
 They rushed at him; but TxamsEm ran as fast as he could toward
@@ -2131,7 +2091,6 @@ so, he came to the border of a great plain. There he found a narrow
 trail, which lie followed. Finally he saw smoke ascending in the
 
 
-102 TSIMSHIAN MVTHOLOGV | kth. ANN. ;u
 distance. He went toward ii : aiul when lie came there, he discovered
 a deep valley. He stood at the edge of the deep valley and looked
 downi mto it. He saw a hut in it, and the smoke ascended from it.
@@ -2180,8 +2139,6 @@ the bundle four times. Then the fat was finished.- He also took
 ' A fabulous animal.— F. B.
 
 
-BUASJ TSIMSHIAN MYTHS 103
-
 the meat ami wrapped it over the fat around his staff; autl when
 the staff was full, he squeezed it, and it was thin again. He did this
 four times, and all the meat was fmished..
@@ -2227,8 +2184,6 @@ thinlving that he had been in a dream, but still he held the staff in his
 right hand, and his own gun on liis left shoulder. He made up his
 mind to go down to his \-illage, and laid (\o\vu the staff and his rifle.
 
-
-104 TSIMSHIAN MYTHOLOGY [eth. anx. 31
 
 He leaned Ms staff against the stump of a tree, and went down to his
 father's house. Secretly he looked in through a knot-hole, and he
@@ -2324,8 +2279,6 @@ said that all the stories wliich I put down on these pages were laiown to the pe
 have gone trying to find T:^amsEm, but they can not do it, because he hides \i\ the mountains, so (hat
 the people can not find him. — Henry W. Tate.
 
-
-106 TSIMSHIAN MYTHOLOGY [bth. ann. 31
 
 2. The Meeting of the Wild Animals'
 
@@ -2526,8 +2479,6 @@ WTiilc the Mouse Woman was stOl talking to him, the smging
 ceased, and all the Porcupines were ready to rush on him. Then the
 chief stopped in front <>f him. and said, "Now, what is my name,
 
-
-110 TSIMSHIAN MYTHOLOGY tEm. a.nx. 31
 
 (loar man?" Then the pour man answered in a low voice, "Your
 name is Sea Otter On Green Mountain. "
@@ -2765,8 +2716,6 @@ to go slowly along the sky. That is what they asked of him; and
 
 506,33°— 31 ETH— 16 S
 
-
-114 TSIMSHIAN MYTHOLOGY [kth. ann. 31
 
 therefore his sister said, ''I will hold liiin when he is niiininu: along the
 skv^"
@@ -3089,8 +3038,6 @@ Therefore the people moved away and deserted the chief's nephew
 Dirty, and one slave who remained with hun. They lived in liis micle's
 
 
-120 " TSIMSHIAN MYTHOLOGY ' [ eth. an-n. SI
-
 house. The slave was very skillful in shooting wild ducks with his
 arrows, and Dirty hked to cat the wild ducks. The slave gathered the
 oil of the wild ducks in a root basket.
@@ -3290,8 +3237,6 @@ Then the princess cried more bitterly, and said, as before, "Oh, my
 brother Rain Under Tlie Knee has been driven away!"
 
 
-124 TSIMSHIAN MYTHOLOGY |eth. ANN. 31
-
 Then the father said to his hist son, "Go north, my son Going
 Behind Mountains, and bring back your sister!" At midnight
 Going Behind Mountains went swiftly northward in the shape of a
@@ -3394,8 +3339,6 @@ and put it m her bosom ; and when she came in, she wrapped the baby
 boy in marten garments.
 
 
-126 TSIMSHIAN MYTHOLOGY [etii. ans. 31
-
 Then she took out from lior l)osom the piece of grindstone, and it
 also became a baby boy, wliich she wrapped in a sea-otter garment;
 and she took out tlie little branch of the crabappli' tree, and it, too,
@@ -3420,8 +3363,7 @@ Heaven waft you up, too."
 The young people did not heetl their mother's warning, and the
 next morning the}- played again in the open, as their fathers had
 done in the days of old. They made much noise. Then the plume
-descended agaui from heaven. They stood still, gazing at the beautiful plume which was coming down; and as they looked up with amaze-
-ment, the youngest brother, Little Feather, took hold of the beautiful
+descended agaui from heaven. They stood still, gazing at the beautiful plume which was coming down; and as they looked up with amazement, the youngest brother, Little Feather, took hold of the beautiful
 plume, which wafted him up. When his elder brother. Mucus, saw
 Little Feather lifted from his feet, he took hold of him by the heels,
 and his hands stuck to him. The feather could hardly drag Mucus
@@ -3583,8 +3525,6 @@ the Frog, vntli the moistm-e of her own breath; and wliile her guests
 were taking their breakfast, she felt pain iA her stomach, and became
 50033°— 31 E^— 16 9
 
-
-130 XSIMSHIAN MYTHOLOGY [eth. ann. 31
 
 worse and worse. She began to gi'oan, and said to her guests, "I
 have brought misfortune on myself, great Nalq!" But the young
@@ -3806,8 +3746,6 @@ invited your people in?" Really Black said, "No." Then the
 clearly from his manuscript.^F.B.
 
 
-134 TSIMSHIAN MYTHOLOGY [etii. anx. 31
-
 youth replied, "The Mountain Goats have done it, because they
 were distressed by your people hunting them every year and catching
 them; for the hunters did not take them home, but left them among
@@ -4009,8 +3947,6 @@ great love for his children.
 At last one of his warriors said to him, "Call all the large bh'ds,
 and we will make war against the monster." Therefore the sad
 
-
-138 TSIMSHIAN MYTHOLOGY [eth. axn. 31
 
 chief agreed. He sent his messengers and called all kinds of large
 bu-ds. The Thunderbuxls came, the great Mountain Eagles, Hawks,
@@ -4334,8 +4270,6 @@ in the water, she saw a tree slanting over the lake. She went to it
 and climbed to the top. There she staid. As soon as she reached
 
 
-144 TSIMSHIAN MYTHOLOGY ' [r-Tn. anx. 31
-
 the top of the tree, behold! Baboudina was commg along, following
 the scent of hei- footprints right down to the water. Then he lost
 her tracks and looked about in the water.
@@ -4444,8 +4378,6 @@ Then the people in the next house questioned her, and asked,
 50633°— 31 ETH— 16 10
 
 
-146 TSIMSHIAN MYTHOLOGY [eth. axn. 31
-
 This last house belonged t o a chief. Then the chief said to the woman,
 "Send him to me, that I may give hina to eat." Then the woman
 said to the young man, "Go to the chief's house, for he invites you
@@ -4544,8 +4476,6 @@ had taken away Ms weapons brought them back to Mm. Then the
 chief said to his servants, "Lend Mm a blanket for tonight." They
 did so.
 
-
-148 TSIMSHIAN MYTHOLOGY [eth. a\n-. 31
 
 The next morning a shout was heard. Behold! a grizzly bear is
 coming down the river. Therefore the chief said, "Let the Imnters
@@ -4647,8 +4577,6 @@ him to eat. Therefore the young man took a little. Late at night
 ' Original: Galistatna'°, da ninli's hana'^xda k!ul-lu-k!il'IdEt dadl-most da hmS,nixt, ada ligi-an'o'nt
 asga su-p!a'sEm ylo'^tagao da la'lgut a na-wil-na'kga hana'^xt.
 
-
-150 TSIMSHIAN MYTHOLOGY [eth. anx. 31
 
 they went to bed and slept. The j'oiing man was on the alert, and
 kept his weapons m readiness.
@@ -4823,8 +4751,7 @@ weaving. They wanted to ask her if she could give them food, so
 they opened the door, and the woman that was weaving turned her
 head to look at them. They stood there and asked her to give them
 a little food, but she did not pay any attention; and the yarn was
-twisted around her fingers, and she just moved her fingers. Therefore the elder sister said to her younger sister, "That is not a living-
-being! I will go near and look." So she went near and touched her
+twisted around her fingers, and she just moved her fingers. Therefore the elder sister said to her younger sister, "That is not a livingbeing! I will go near and look." So she went near and touched her
 shoulder, and said, "Will yon give us a little food, elder sister?"
 However, she felt that it was not a human bemg, but wood. She
 called her younger sister, and they were surprised. Then they
@@ -5051,8 +4978,6 @@ make them pretty. Some gambling-sticks are made of bone, some of maple. They are
 number, and each one has a mark and a name. — Henrt W. T.^te.
 
 
-158 TSIMSHIAN MYTHOLOGY [eth. axx. 31
-
 She plunged to the bottom of the sea, and left her home in the lake,
 and went way out. She became a being part fish, part woman, and
 had her new home in the sea. Sometimes the people will see her
@@ -5158,8 +5083,6 @@ hanging in the other two houses, the man said to his wife, "I am
 2 There were twoscore dried salmon in one bundle. Inonebundleof animal skins are only ten.— Henry
 W. Tate.
 
-
-160 TSIMSHIAN MYTHOLOGY [etii. ANN. 31
 
 going away now to my own home. I took pity on you and your
 mother. Therefore I came to show you how to make nets." The
@@ -5376,8 +5299,6 @@ He went off, taking ■with him his woodworking tools, and fat and
 down and red ocher and tobacco, much good food, and blue paint
 
 
-164 TSIMSHIAN MYTHOLOGY rsTH. ann. 31
-
 and lime of burnt clamshells, and he took two young men to go
 with him and carry his provisions.
 
@@ -5426,8 +5347,6 @@ out of red cedar; the head, and also the tail, of white pine; the legs
 and the beak,«of yellow cedar; and the claws, of movmtain-goat horn.
 He finished it, and took it down to their camp, where his companions
 
-
-BOASJ TSIMSHIAN MYTHS 165
 
 contimicd to offer sacrifices. He put. it on and flew upward, way up
 into the air. Then he flew ilown again and up. He did so several
@@ -5679,8 +5598,6 @@ entrance to Metlakahtla Chamiel. She continued, "But don't go
 there, lest you die on the sea, and then there will be nobody to take
 
 
-170 TSIMSHIAN MYTHOLOGY [bth. ANN. 31
-
 care of me!" Tlie little Otter, however, said that he would be back
 safe. Early one morning he went; and in the afternoon he came
 back to his mother, and told her that he had looked in and seen his
@@ -5709,8 +5626,7 @@ did so, and there was another sandbar, on which they rested a while.
 The little Otter said again, "Give me some of the gravel!" She
 gave it all to him, and he said, "Now foUow me! I will make a
 sand bridge from this island to the mainland." She walked behind
-her son the Otter, and they both walked over the sandbar. Therefore there are now sandbars a little outside of the entrance to Met-
-lakahtla Channel.
+her son the Otter, and they both walked over the sandbar. Therefore there are now sandbars a little outside of the entrance to Metlakahtla Channel.
 
 Late ua the evening they arrived on the mauiland when it was low
 water. Again he carried his mother on his back and took her to his
@@ -5883,8 +5799,6 @@ tlien you shall dive in the stream twelve times, and every time after
 wa-dzagEm gi'd a hana'ogat.
 
 
-174 TSIMSHIAN MYTHOLOGY Ieth. ann. 31
-
 doing so you shall go iu to a woman. Then you shall get everythitig
 you want; but do not get married as long as you want to get riches,
 lest she be not true to you and you have bad luck. Do not marry
@@ -5894,8 +5808,7 @@ be poor. I will meet you once more." Thus spoke his supernatural
 father, and then he vanis^ied from his sight. He did not see him
 any more.^
 
-The young man went back to his companions' camj). On tlie following morning they went hunting, and he killed a great many ani-
-mals. He did all that his supernatural father had told him, and all
+The young man went back to his companions' camj). On tlie following morning they went hunting, and he killed a great many animals. He did all that his supernatural father had told him, and all
 the animals of the woods heard that the young man was a very good
 hunter, and he was very successful. He made traps and snares for
 foxes and martens, and traps for grizzly bears and black bears, and
@@ -6037,9 +5950,6 @@ on the ice of the Skeena River!" and the son of Dcvil's-Club Tree
 took his spear and ran down. He saw the white she-bear coming
 down the river on the ice; but before he was able to throw his spear,
 boas]
-
-
-TSIMSHIAN MYTHS 177
 
 
 the white she-bear kicked the ice, and the man was drowned. The
@@ -6302,8 +6212,6 @@ large house. The village was very beautiful, and all the people in
 the village looked very fine.
 
 
-182 TSIMSHIAN MYTHOLOGY [etu. axx. 31
-
 As soon as they reached there, the Robin cliief invited the strangers
 who came to the town with his young daughter, and the chief was
 much pleased to see her come; and when all the young men were
@@ -6332,8 +6240,7 @@ house. After the feast he began to speak, and said to his people,
 from her husband's, for their provisions are gone, for they used them
 in the -winter. Therefore my beloved daughter took her husband's
 people to come with her for food. Therefore I want you, my great
-tribe, to bring her fresh spring salmon, fresh ripe berries — salmonberries, bluebeiTies, and aU other kinds of berries — also mountain-
-goat meat and fat and the soft fat of grizzly bears.".
+tribe, to bring her fresh spring salmon, fresh ripe berries — salmonberries, bluebeiTies, and aU other kinds of berries — also mountaingoat meat and fat and the soft fat of grizzly bears.".
 
 On the following morning the birds were ready before day-dawn.
 "\^ery early in the morning Chief Robin stood on the roof of his large
@@ -6609,8 +6516,6 @@ Now he went on alone. Soon he saw a large house in the distance,
 and went as quickly as he could. He pushed open the door, ran in,
 
 
-188 TSIMSHIAN MYTHOLOGY [eth. asn. 31
-
 and shouted at the top of his voice, "I came to be made beautiful,
 Chief Pestilence!" Then all the maimed people on both sides of
 the house beckoned to him and shouted. Those on one side would
@@ -6710,8 +6615,6 @@ that her mistress wanted him to come and see her. But he said to the
 girl, "Go and tell her that she rejected me then, so I will not go to her
 now." Then the girl went and told her mistress what the prince had
 
-
-190 TSIMSHIAN MYTHOLOGY [etii. ann. 31
 
 said. The princess sent her girl again. "Go and tell him that I will
 do whatever he desires me to do." She went and told him what her
@@ -7017,8 +6920,6 @@ from these two rivers, the chief asked if there were salmon in the
 rivers. The scouts said that there were a few in the rivers.
 
 
-196 TSIMSHIAK MYTHOLOGY ( eth. a.vn. 31
-
 The prince staid there a while longer in the town of the Spring
 Salmon. One day he was again very hungry. He went behind the
 town, where the children were playing on a sand-hill. Then he saw
@@ -7119,8 +7020,6 @@ canyon of the G"its!ala'sEr." Then the first three companies rephed,
 1 TrauslaTion not certain: SEm-ga <izEt wil ^algaldza'sEm; ada dEm sa^oi ia'ras xdzilaga'sEm.
 
 
-198 TSIMSHIAN MYTHOLOGY [kth. ann. 31
-
 The chief was very glad, for many <if his company wore going with
 him to the canyon of G'itsIala'sEr. Then the four companies separated, each going to its own camp. All the Spring Salmon went on
 their way.
@@ -7174,9 +7073,6 @@ Not many days after the gi'eat shaman had done tlais, the jirince's
 BOAS]
 
 
-TSIMSHIAN MYTHS 199
-
-
 father invited the same shaman to come and to use all his spells. He
 did the same as before; and after he had danced, he told the boy's
 parents that the chief of the Spring Salmon was now better, and that
@@ -7228,8 +7124,6 @@ his platform, and he put down liis pole with the net at one end.
 The prince's father also went down. Then the people caught many
 
 
-200 TSIMSHIAN MYTHOLOGY [eth. ann. HI
-
 spring salmon. Tho shaman, however, had none, but the father of
 the prmce caught many. Then the cliief of the Sprmg Sahnon sa\v
 the net of the gi'eat shaman on one side of the canyon, and stretching
@@ -7280,8 +7174,6 @@ shaking his rattle and swinging his eagle tail, going in front of the
 1 Translation uncertain.
 
 
-BOASJ TSIMSHIAX MYTHS 201
-
 four shamans who were curnnjig the hirge Spring Salmon on the mat.
 Before entering the cliief s house, he ordered all the young people to
 come out, for they were all unclean. He let all the aged people enter
@@ -7330,8 +7222,6 @@ Cottonwood) were in the river, until the messengers brought the news
 that the season had arrived. Then they moved, and first passed the
 town of the Silver Salmon, to whom the chief gave the good news
 
-
-202 TSIMSHIAN MYTHOLOGY [btu. ANN. 31
 
 from Skeena River — how they went on and passed the town of the
 Humpback Sahnon, and how the chief told them the news from
@@ -7834,8 +7724,7 @@ the chiefs, and gave away property and food; and he gave a great
 feast to his own tribe. Then all his goods were gone, and his provisions were exhausted.
 
 Just before fuU moon he told liis father's wood-carvers to make
-six digging-sticks, each six fathoms long. Therefore his six woodworkei-s went, and each of them made one stick. Late in the even-
-ing, when the}' had finished them, they came home. The princess
+six digging-sticks, each six fathoms long. Therefore his six woodworkei-s went, and each of them made one stick. Late in the evening, when the}' had finished them, they came home. The princess
 
 
 212 TSIMSHIAN MYTHOLOGY [eth. ann. .il
@@ -7943,8 +7832,6 @@ to the bottom of the ocean and died there. Then Peace Woman
 W. Tate.
 
 
-214 TSIMSHIAN MYTHOLOGY (eth. axx. ^1
-
 went ou weeping until she arrived at lier father's house on the island;
 and when she came in, she was weeping bitterly.
 
@@ -8046,8 +7933,6 @@ the tree, he kicked the coffin, sa_\Tng, "Let me in, ghost!" and they
 heard the chieftainess laugh, and reply, "Ha, ha! I am pretending to
 make giubs out of mvself on your behalf." The attendants heard
 
-
-216 TSIMSHIAN MYTHOLOGY [btii. ann. .'U
 
 them talking in the coiEn; and at midnight, when everything was
 quiet and they knew that they were asleep, they chmbed the tree,
@@ -8262,8 +8147,7 @@ were all afraid lest they should be consumed by the lightning. The
 chief repeated the words that his wife had said to him. When the
 old man felt of the bundle, he laughed again, and said, "I do not
 believe that the leggings and snowshoes and moccasms of the ghosts
-became a flash of lightning. I never heard of such a thing happening since .the world began. No, no, no!" Then he opened the bun-
-dle, took the legguigs by themselves, saying, "Now, legguigs, let a
+became a flash of lightning. I never heard of such a thing happening since .the world began. No, no, no!" Then he opened the bundle, took the legguigs by themselves, saying, "Now, legguigs, let a
 flash of lightnuig proceed from you!" At the same time he struck
 the ground with the leggmgs. He took up the pair of snowshoes
 and struck the ground with them, and said, "Now, snowshoes,
@@ -8287,8 +8171,6 @@ times, and the eldest one arose. The supernatural being stepped to
 the second brother and jumped over him four times, then the second
 brother arose; and the supernatural being did to the third one the
 
-
-BOAsi TSIMSHIAX MYTHS 221
 
 same as he had done to the two others, and the tliird one arose ; then
 he stepped to the youngest one and jumped over liim four times, and
@@ -8446,8 +8328,6 @@ went aboard then- canoe, and the canoe floated above the island.
 On the foUowuig mornuig, when the rolling of the island ceased, the
 
 
-224 _ TSIMSHIAN MYTHOLOGY [etii. ann. 31
-
 canoe rested on top of it; but all the trees of the island were swept
 away, and nothing but bare rook remained. There was no way to
 escape from the island.
@@ -8499,9 +8379,6 @@ chief's wife and to nil her relatives the skin (?) of the child of the
 
 
 BOAS J
-
-
-TSIMSHIAN MYTHS 225
 
 
 sea monster, and he gave liis wife's uncle the j^ew-wood canoe, and
@@ -8753,8 +8630,6 @@ Tlierefore the great chief said, "Call all the wise men, and I will
 ask them what they think." So the great slave called all the old
 
 
-230 TSIMSHIAN MYTHOLOGY [eth. anx. 31
-
 men to the chief's house. Ho askod for their opinion, and they said,
 "We believe that your son must have been successful." Therefore
 the chief wanted to send a canoe on the next day to look for him.
@@ -8950,8 +8825,6 @@ opened the skins one by one ; and as soon as the last one was off, many
 mice ran out of the bundle to the shore.
 
 
-234 TSIMSHIAN MYTHOLOGY [kth. Axx. 31
-
 Then the chief and his wife ran back full of fear; but as soon as all
 the mice were out, they saw a lovely princess lying m there. She
 smiled when she saw the two people standing over her. Therefore
@@ -9044,12 +8917,9 @@ this large house belong?" The young man told them that it was a
 great chief's house. The eldest son understood the language of his
 mother, while the rest used the Haida language. Then the young
 man ran into the chief's house and told him that some strangers were
-standing outside — four young men and two 3'oung women. Therefore the chief sent four of his young men to call them in. The nles-
-senger went out on the street and told them that the chief invited
+standing outside — four young men and two 3'oung women. Therefore the chief sent four of his young men to call them in. The nlessenger went out on the street and told them that the chief invited
 them to come in. Then the chief ordered his men to spread a good
 
-
-236 TSTMSHIAN MYTHOLOGY [bth. ANN. 31
 
 mat by the side of his large fire, and they sat dowTi there. Then the
 eldest son inquired if a chief of this towTi had cast out his daughter
@@ -9148,8 +9018,6 @@ she taught them. Thus all the different villages on Queen Charlotte
 Islands learned how to dance, because the Mouse taught them.
 When the chiefs of all the tribes assembled at a dance in a chief's
 
-
-238 TSIMSHIAN MYTHOLOGY [bth. ann. 31
 
 town, the siiifjcrs fisscmbled in his houso. Thus the chief became
 the head of his people, ami they had dances all the tune. That is
@@ -9759,8 +9627,6 @@ He had often heard an owl hooting since his wife had been transformed
 into an owl; and one night when he was alone in the mountains, he
 
 
-250 TSIMSHIAK MYTHOLOGY [eth. an.n. 31
-
 heard again the hootinn; of an owl; and he said, "You fooHsh woman,
 go away from me! I don't want you to come near my camp!"
 Then the owl stopped hooting when she heard what her husband
@@ -9960,8 +9826,6 @@ young eagle as a present. She loved the young eagle, and tamed it,
 and the young eagle learned to understand her words. Then she
 
 
-254 TSIMSHIAX MYTHOLOGY [eth. ANN. 31
-
 knew what had happened ; and when the princess went nearer the
 young eagle, it was ilying with its mistress, and the princess named
 it Young Eagle.
@@ -10064,8 +9928,7 @@ married. They also had children.
 
 
 The princess's children were skillful sea-otter hunters. One day a
-great number of children were playing on the beach, and the princess's youngest child was among them. She hurt one of her play-
-mates, and the child began to cry. Then the mother of the child
+great number of children were playing on the beach, and the princess's youngest child was among them. She hurt one of her playmates, and the child began to cry. Then the mother of the child
 which was crying asked, * ' Who hurt you ? " and the chdd of the mot her
 said that the younger daughter of t he princess had hurt her. Then the
 cliild's mother scolded the younger daughter of the princess, saying,
@@ -10088,8 +9951,7 @@ mother on the beach."
 
 When the princess came into her father-in-law's house, she cried
 bitterly. After she had cried, her husband came ui and questioned
-her, but she did not tell him. She only said to him, "Make a goodsized canoe. I wiU send all my children to my own country." There-
-fore her husband bought a large canoe; and one day in the summertime they loaded the canoe with many things — costly coppers, and
+her, but she did not tell him. She only said to him, "Make a goodsized canoe. I wiU send all my children to my own country." Therefore her husband bought a large canoe; and one day in the summertime they loaded the canoe with many things — costly coppers, and
 slaves for all the boys and for one of the daughters. The father kept
 only the younger daughter. Her mother called her elder daughter,
 and said, "The young eagle will guide you to our native home."
@@ -10155,8 +10017,6 @@ people are you ?" Then the girl said, "We are the children of your
 Princess Daul, who was among the children that were carried awajby the high tide in the hollow tree." Then all the people cried, and
 some shouted for joy. They took them up into their grandfather's
 house.
-
-50G33°— :n ETH— 16 17
 
 
 The cliief was very old, and was blind on account of Ids old age.
@@ -10248,8 +10108,6 @@ as a sign that the relatives of those slain should not take revenge in
 the future. When they had done so, they ])ut eacli of the bodies
 on a pole and placed them upright along the camping-ground. Then
 
-
-260 TSIMSHIAN MYTHOLOGY [kth. ann. 31
 
 they went down to the village of G'its lEmga'lon. They arrived at
 the village in the evening, and went into their enemy's house, where
@@ -10443,9 +10301,6 @@ telHng Ills story to the people.' "
 Thus said the steersman, and fell back and tlied.
 
 
-1 KTH. AXN. :^0
-
-
 Then all the people of the villajTe moved away. They took the
 bodies of the dead and buried them. On the followino; morning an
 old woman who lived at the end of the towoa went to the house of the
@@ -10610,8 +10465,6 @@ Gaii-hi-gaxl w-i-g-al-tsla'bEm Dzi'gwa; a yi yi.
 Gan-lu-gaxl wi-gal-tsIa'bEm Dzi'gwa; a yi yi.
 
 
-266 TSIMSHIAN MYTHOLOGY [eth. axn. .-.l
-
 1. When went to epoar fish my dear lord, aUxs!
 ^Vhea went to spear fish my dear lord, alas!
 
@@ -10627,8 +10480,7 @@ So the great town Dzi'gwa was destroyed, alas!*
 
 Sh(' went on and on until she came to a large lake; and while she
 was walking around the lake, she beheld a beautiful garment spread
-for her on the ground, glittering like the stars of heaven. The garment was full of the foam (?) of living persons; and she put this glit-
-tering garment into the mourning-song.
+for her on the ground, glittering like the stars of heaven. The garment was full of the foam (?) of living persons; and she put this glittering garment into the mourning-song.
 
 She went along, weeping, past the garment; and while she was
 still going on along the lake, she suddenly heard a great noise coming
@@ -10689,8 +10541,7 @@ she wandered'away alone, after the fire had consumed her own father's
 village. Then she looked, and, liehold! a large object like a great
 eagle came forth from the water, with ten little eagles on the head of
 the large one. She drifted on until she landed a little distance outside
-of our old town of Metlakahtla. She reached the shore of the G'idwul-g'a'dz tribe, and their chief took h(>r into his house and mar-
-ried her.
+of our old town of Metlakahtla. She reached the shore of the G'idwul-g'a'dz tribe, and their chief took h(>r into his house and married her.
 
 She bore him three sons and two daughters, and she was happy in
 her new home. The chief who had married her had five wives besides
@@ -10712,8 +10563,6 @@ abalone shells, like that of the former Asdilda, which he wore when
 he was out fishmg for trout at Dzl'gwa; and he made a cane like that
 of the Frog Woman, with the frog at one end, and the live person on
 
-
-268 TSIMSHIAN MYTHOLOGY [etu. an.\. 31
 
 the frog, and a live eagle at the upper end; and he made a glittering
 garment, hke the one which his mother saw by the side of a lake, and
@@ -10831,9 +10680,6 @@ So the great town Dzi'gwa was destroyed, alas! '
 
 
 I See footnote on p. 266.
-
-
-[tlTII. ANN. 31
 
 
 ^
@@ -11008,8 +10854,6 @@ open, and saw the two canoes and five persons. Then they sang
 their mourning-song.
 
 
-272 TSIMSHIAN MYTHOLOGY [etii. ANN. 31
-
 Before they left tlieir camp, one of their princes went up into the
 woods to refresh himseK, for he was in deep sorrow. lie went on
 and on until he came to a plain. There he found a large lake. He
@@ -11160,8 +11004,6 @@ carved horn spoons ; and he gave order to the G'inada'°xs to dry much
 mountain-goat meat and tallow; and he gave order to theG"i-lu-dza'r
 
 
-WMbJ TSIMSHIAX MYTHS 275
-
 to pick cranberries and crabapples; and he gave order to the Gidwul-ksE-ba'° to make many hundred score of dried cakes of hemlock
 sap ; and he gave order to the G'its !ala'sEr to dry many bundles of
 berries; and he gave order to the tribe «of Gits lEmga'lon to dry
@@ -11209,8 +11051,6 @@ Then he and his sister went to their supernatural grandfather to
 ask him why all the supernatural beings had not come. The supernatural chief replied that they had not come, because one of the
 
 
-276 TSIMSHIAX MYTHOLOGY [etii. ANN. .'U
-
 supernatural chiefs had not been invited by the messenger. Therefore all the other chiefs had not come. Thus said the supernatural
 chief to his grandson. He led his grandcliildron to the place of the
 supernatural chief who had been missed by the first messengers.
@@ -11247,8 +11087,7 @@ of arrows. Another chief was called Lax-an-batsa'xl. He wore a
 hat made of twisted cedar branches. Another chief was called
 Long Hands (Wut!E-an'6'n) ; another one, Drift Log Enemy (Wil-nlEba'1-g'al-soks); another one, Short Nose (Lgu-dzak). Others were
 named K-spE-ha'walk, K-nE-dEp-wa'n, K-wil-g'ig'a'mk, K-wil-dza'n,
-Txam-a'x, Nlalis and liis grandfather, K-ts!Em-a'us, K-wI-ts!uwanxl, G'adEm nagai, Wa-niEch-a'ks, K-sana'il, K-sbaxl, K-gwilax-
-la'k, (Wll-g-ig-a'mk), Wtl-g-amk-ga-a'ks, K-n-ts!ah5'mt, K-sbalil,
+Txam-a'x, Nlalis and liis grandfather, K-ts!Em-a'us, K-wI-ts!uwanxl, G'adEm nagai, Wa-niEch-a'ks, K-sana'il, K-sbaxl, K-gwilaxla'k, (Wll-g-ig-a'mk), Wtl-g-amk-ga-a'ks, K-n-ts!ah5'mt, K-sbalil,
 K-gutisga't.
 
 Ail the supernatural beings wore their crests on theii- heads and
@@ -11259,9 +11098,6 @@ The Useless River ( Y ! aga-watkda wa-mEdi-a'ks), and his sister took
 
 
 KOAS]
-
-
-TSIMSHIAN MYTHS 277
 
 
 the name Killer Wliales Are Keatly To Go Up (Wl-alas-latk-gul-nexlal-yo). After the two liad proclaimed tlieir names, the young man
@@ -11314,8 +11150,6 @@ chief's tribe loved their master very much, and the chief and his sister
 also loved their people.
 
 
-278 TSIMSHIAN MYTHOLOGY [etii. ann. 31
-
 43. The Story of Part Summer'
 
 In olden times there was a very happy people in the village of
@@ -11326,8 +11160,7 @@ the liill, the second row under the first, and the third row under tlu;
 second one. The town was on the bank of a river, a very good
 river, and the village was not far from a very large lake. They went
 there very often in the summer for picking berries of all kinds, which
-were growing along the sides of the lake, which was their himtingground. Sometimes the people would live there in summer for dry-
-ing berries for ^vinte^ use, and in wmter the hunters would live
+were growing along the sides of the lake, which was their himtingground. Sometimes the people would live there in summer for drying berries for ^vinte^ use, and in wmter the hunters would live
 there. Therefore they built their little huts on the shore of the large
 lake. Many famiUes had several huts for use in the proper season.
 
@@ -11527,8 +11360,6 @@ laxst ganl sil-na'kgA hana'gat; datksa-ga-sgantatma'gat. Adaam tset-ma'gat. Adat
 a gik klE'rElda gidis sa°.
 
 
-282 TSIMSHIAN MYTHOLOGY [eth. ax.n. 31
-
 place where a few trees were. The young man heard the dogs
 barking up there. Then he stopped crying, and looked up to the
 place where his two dogs were barking. Then he saw them run
@@ -11631,8 +11462,6 @@ distressed, and groaned, and said, "Oh, these little slaves have hurt
 me! We don't even know where they come from."
 
 
-284 TSIMSHIAN MYTHOLOGY [etii. an-x. 31
-
 Then the chUdreu were much ashamed at what their grandmother
 had said to them. They wopt bitterly, and the mother also was
 ashamed and wept. The children went to their mother and asked
@@ -11734,8 +11563,6 @@ stood at the foot of the steep cliff in the water at the bottom of the
 3 This is a personification of the snag.
 
 
-286 TSIMSHIAN MYTHOLOGY [eth. axn. 31
-
 sea. Its name was G'it-na-gun-a'ks. Therefore the chief, Na-gima'ks, sent his slave to see what was the cause of the noise on his roof;
 and therefore his codfish slave went around the canoe, and the
 chief hunter broke her fins.
@@ -11832,8 +11659,6 @@ and when it opened, the water rushed in. The house was full of
 water, and the canoe was floating on the first platform of the chief's
 house. Then the waters subsided until the tops of the various kinds
 
-
-288 TSIMSHIAX MYTHOLOGY [eth. Axx. 31
 
 of supernatural cliiof.s of the rocks were seen. Many difTcrent Isiuds
 of monsters were left dry on the floor of Cliief Xa-gun-a'ks's liouse.
@@ -11932,7 +11757,6 @@ coming home again safe."
 Then the whole village was in excitement. ^Ul the people in the
 village went down to the beach to welcome those who had been lost
 a long wliile. Some of the people were afraid when they saw that
-50633°— 31 ETH— IG 19
 
 
 their clothes were full of seaweeds, soa anemones, and sea kales, and
@@ -12136,8 +11960,6 @@ your wife. Let your three brothei-s come afterward. Then I will
 give you my present. " As soon as he had said so he left.
 
 
-294 TSIMSIIIAX MVTHOLOdV I i:tii. axn. 31
-
 The chief and his wife did not sleep that night; and before daybreak the young chief heard something like a song on the other side
 of the river. He arose, called his nephew sind liis wife, and said,
 "Let us be off!" So they crossed the river; and when they arrived
@@ -12235,8 +12057,6 @@ liis attendants to put fuel on the fire. They did so. Then the chief
 asked the stranger, "Wliat kind of food do you eat down river?"
 The stranger replied, "I ate only snow while I was coming along."
 
-
-296 TSIMSHIAN MYTHOLOGY I inn. ANN. 30
 
 So the chief ordered his attendants to bring snow in a dish. Tliey
 brought in a large wooden dish filled with snow, and placed it
@@ -12336,8 +12156,6 @@ and she saw a young man in the midst of the shining light. He said
 ■ Notes, p. 847. 2 Notes, p. 855. 'Trausliited from Boas 1, p. 293.
 
 
-298 TSIMSHIAN MYTHOLOGY [eth. asm. 31
-
 to her, "Shall I marry you, my dear princess?" She said that she
 would tell her father, and the prince promised to come back again
 some other night. So he went. This prince came i'rom heaven.
@@ -12434,8 +12252,6 @@ had a queer custom, that every woman should have a hole in her
 lip. Wlien a girl was able to walk and had no hole in her lip, they
 would call her a slave. Therefore when a gui was able to walk.
 
-
-300 TSIMSHIAN MYTHOLOGY [bth. ann. 31
 
 her parents made a little hole in her lip. They would call all men
 and women of their exogamic gi'oup, and the mother of the girl would
@@ -12537,8 +12353,6 @@ chips, and whole leaves from the trees, but let him not get any fish!"
 Halus took his pole with the bag net on it and went to work; but
 
 
-302 TSIMSHIAN MYTHOLOGY |eth. amn. 31
-
 every time he let down his bag net, it came up full of mud from the
 river. Tsauda, however, filled his large canoe with fishes, and they
 went home early. ^lany slaves carried up the fish to his fathei'-inlaw. As soon as they had emptied the large canoe, they went again
@@ -12638,8 +12452,6 @@ smelled sweet-smelling scents; and when they went farther up, they
 smelled still more fragrant odors; and they went on and on, and the
 
 
-304 TSIMSHIAX MYTHOLOGY [eth. ANN. 31
-
 odor was sweeter than ever. Before evening they camped, and the
 prince went into the woods; and as he went through the valley, he
 saw something standing in the middle of a nice plain, moving and
@@ -12737,7 +12549,6 @@ his descendants! I shall teach them how to kill the live copper and
 how to make costly coppers. Then he shall teach his children as I
 taught him." Thus spoke Tsauda to the people; and when his
 speech was at an end, he called his son-in-law aside, and also his
-50(i33°— 31 ETH— IC 20
 
 
 youngest daughter, and told them how to kill the live copper. Ii(>
@@ -12942,8 +12753,6 @@ next village, larger than the other two. The prince put on Ms sparrow blanket an
 Then the old num in the cMef's house saiil, "O supernatural one!
 
 
-310 TSIMSHIAN MYTHOLOGY [etii. anx. 31
-
 there is only one village more before you reach there, but it takes a
 month to go from here to that village."
 
@@ -12995,9 +12804,6 @@ safely, while the prince's companions were still making burntofferings.
 Chief Hummingbird said, "Keep this arrow in good order, and let
 nobody see it, lest the arrow should kiU some one; but if you want to
 boas]
-
-
-TSIMSHIAN MYTHS 311
 
 
 kill anything, teU your arrow the name of the enemy, of the man or
@@ -13252,8 +13058,6 @@ the people who will fight with him." Nevertheless he said, "I shall
 surelv shoot him." Yet thev scorned him.
 
 
-316 TSIMSHIAN MYTHOLOGY [etii. ann. 31
-
 Now, when all the tribes were giving battle, Wiludal said to his
 grandson, who led him by the hand, "Put me behind the rock over
 which lie always leaps, and point my arrow at the center of the
@@ -13356,8 +13160,6 @@ Let us go back before dark, lest some misfortune befall us!"
 ' Notes, pp. 759, 858.
 
 
-318 TSIMSHIAN MYTHOLOGY [etit. ANN. 31
-
 Then they walked down with the young man. He wore a garment
 with cloven feet and an armoi- ^dth ears of wild animals. Before
 they arrived at the village, the young man embraced and kissed her
@@ -13458,8 +13260,6 @@ stones dow^^ at the wolves, and many were killed.
 On the foUowing morning all the wolves from every dhection
 assembled, and the outer wall fell, but the second wall remained.
 
-
-320 TSIMSHIAN MYTHOLOGY Ieth. Ann. 31
 
 Again the Mother Wolf said, "(xiYe me my child's body!" The
 priace repUed, "No, I will not give it to you; I will keep it iu good
@@ -13975,8 +13775,6 @@ suddenly fell back into the box, and the cover of the box replaced
 itself.
 
 
-330 TSIMSHIAN MYTHOLOGY [ETH. an-n. 31
-
 On. the following morning the people of the village went back to
 the burial-place, and a strong young mail climbed the tree. When
 he came to the coffin, he opened the box, and there was nothing in it;
@@ -14176,8 +13974,6 @@ the young man who brought it to him, " Drink this water yourself or
 you will die right here. Go and drink your own urine!" Then this
 
 
-334 TSIMSHIAN MYTHOLOGV [eth. anx. HI
-
 young man was very much ashamed, and he died right there. Then
 the shaman went back to liis home by canoe.
 
@@ -14274,8 +14070,6 @@ was seated by the foot of the prmce, holdmg his rattle in his hand.
 
 * Kwakiutl, BekIus ("man of the woods"), a being supposed to take away hunters (see p. 476).
 
-
-336 TSIMSHIAX MYTHOLOGY [eth. ANN. 31
 
 Only One stood by the sick prince's head, and he saw an arrow
 right between his ribs. Cliief Bagus, sitting in the rear of his house,
@@ -14380,8 +14174,6 @@ out. Therefore they did this with the prince— Henkt W. Tate.
 50633°— 31 ETH— 16 22
 
 
-338 TSIMSHIAN MYTHOLOGY [eth. A:iN. 31
-
 While they were Lmghing and joking and making merry around
 the large fire, the middle-aged woman took her two grandchildren
 and said to them, "Let us hide under the fallen tree yonder, lest
@@ -14479,8 +14271,6 @@ little island; and he used to make arrows, which he sold among the
 
 1 Notes, p. S60.
 
-
-340 TSIMSHIAN MYTHOLOGY [eth. axx. 31
 
 tribes. His arrows were very valuable because they were handsome
 and had pretty feathers. He was a very old man, and there were
@@ -14876,8 +14666,6 @@ himgi-y, and sat down at the foot of a large spruce tree and died of
 starvation. Then the martens came and ate him. They ate all the
 
 
-348 TSIMSHIAN MYTHOLOGY [etu. ann. 31
-
 flesh of his body, and devoured it; and only his bare bones were left
 where he had been sitting. As soon as his brother, Mouth At Each
 End, came ashore from the lake, he looked, and, behold! his brother's
@@ -15075,8 +14863,6 @@ down he shouted twice, and then he would fly down and kill some
 one in front of the village, and everybody was afraid of him. His
 
 
-352 TSIMSHIAN MYTHOLOGY [etii, ann. 31
-
 fame spread all over the clilFerent villages, and all the Cannibals gathered and tried to kill him.
 
 All these companies of dancers gathered in one house; and they
@@ -15167,10 +14953,7 @@ afraid of the other two. The hunter staid in the house for three davs,
 as he thought, but m reality he had been away for three years. Then
 
 I Translated from Boas 1, p. 304.— Notes, p. S63.
-50(i33°— 31 ETH— IG 23
 
-
-354 TSIMSHIAN MYTHOLOGY [eth. akx. 31
 
 the supernatural being sent him back, and ordered him to imitate all
 that he had seen in the mountain.
@@ -15560,8 +15343,6 @@ morning he n^oved. He left his new green spruce beam. Soon
 Chief Haimas arrived at the same place. They took his boards up
 
 
-362 TSIMSHIAN MYTHOLOGY [bth. ann. 31
-
 first and tried to put them across the place, but they were entirely
 too short.
 
@@ -15756,8 +15537,7 @@ had ten boxes full of daggers. They took out ten from the last box
 they had opened, and placed them in front of Haimas. The chief took
 one of them by the handle and threw it at his brother-in-law, who was
 sitting in front of the large fire. He threw them one by one, and
-the dagger-points entered the edge of the board on which his brotherin-law was sittii^. The great chief said, "Bring me six more dag-
-gers!" They did so; and he took one and threw it at the first man,
+the dagger-points entered the edge of the board on which his brotherin-law was sittii^. The great chief said, "Bring me six more daggers!" They did so; and he took one and threw it at the first man,
 and hit the board close to his toes. Then he did the same to the
 other men. After this they served the food. Thus he showed his
 brother-in-law how many daggers he had, and how niany bundles of
@@ -16056,8 +15836,6 @@ and they put around it a stockade of fresh firs, making a double wall.
 Then they made a iioor high up ui the house. A httle stream of
 
 
-372 TSIMSHIAN MYTHOLOGY [btii. ann. 31
-
 water ran through one corner of the square house. They hung the
 heavy gate at the dooi-way. Then they carved human forms of
 decayed wood and spread garments over them, and put them down,
@@ -16153,8 +15931,6 @@ did not allow any Tlingit on this side.
 Wi-ho'°m gave many feasts and came to be a great chief. In the
 last feast that he gave they carved his picture on a rock at Laxkspaxl. Now aU the Tsimshian were able again to move from
 
-
-374 TSIMSHIAN MYTHOLOGY [eth. asn. 31
 
 Metlakahtla to Nass River for fishing olachen, and from Nass River
 to Skcena River for salmon fishing and for berrying.
@@ -16347,8 +16123,6 @@ Now the Tlingit danced first. Theirs was a sorrowful dance.
 They lifted their faces toward heaven, and they lifted both hands
 
 
-378 TSIMSHIAN MYTHOLOGY [eth. anx. 31
-
 while they were singing a mourning-song. During the song they
 were crying, thinking of the relatives that had been killed during the
 past war. The Tlingit danced twice. Then the Tsimshian began to
@@ -16448,8 +16222,6 @@ eagle tails in their right hands, and bags with red ocher were held in
 their left hands; and all the young women held down in then- right
 hands, and tallow of mountain sheep in the left.
 
-
-380 TSIMSHIAN MYTHOLOGY |eth. ann. 31
 
 (In these days they used fat and tallow a great deal. It was boiled,
 and the scum was taken off the melted tallow. Then cold water was
@@ -16647,8 +16419,6 @@ be good weather today." Then all the warriors were ready; and
 I Swanton 2, p. 275: Ste'lta, chief of the T!51k!a Eagles.
 
 
-384 TSIMSHIAN MYTHOLOGY leth. ann. 31
-
 their guide said, "Let every one jjiit on his spruce-root hat; and if
 any one has no such spruce-root hat, k>t him close his eyes as long as
 we are passing through the sea, else he will become blind."
@@ -16698,8 +16468,6 @@ toward the Haida and shot them with their arrows, made of g-am
 wood. These arrows can not be broken.
 
 
-BOASJ TSIMSHIAN MYTHS 385
-
 One great man, Qanas Ijy name, the first one who had licked the
 oil from his fourth finger in LEg"e'°x's house in the war feast, was
 a strong waiiior. His arrow passed through two men when he shot.
@@ -16748,7 +16516,6 @@ right arm, broke it, and tlu-ew it dowTi on the beach.
 
 Then all the war-canoes stopped in front of the village and uttered
 their war-cry. Chief LEg'e'°x broke one of his coppers and threw it
-50G33°— 31 ETH— 16 25
 
 
 into the water against that village. Th(>n the people ashore shouted
@@ -16851,8 +16618,6 @@ singing, and some one said that the people in the canoe spoke Haida.
 Then Wi-n!e'°x said to her brother LEg'e'°x, "Sdi'kla has come to
 bring my son." Then the great chief said, "Beat the drum and
 
-
-388 TSIMSHIAN MYTHOLOGY [£th. ann. 31
 
 invite my brother Sdi'ida!" So they beat the drum; and two men
 ran down to the beach, and said, "Come in and warm yourself, chief!"
@@ -17052,8 +16817,6 @@ friends jumped into the water and swam ashore. So the Tsimshian
 took their canoes and pursued them. All of the people in one of the
 large canoes were slain; and they pursued them to Dundas Island;
 
-
-392 TSIMSHIAN MYTHOLOGY Leth. ANN. 31
 
 and many canoes were left on the way, and a <ji"eat many wore slain
 in the canoes.

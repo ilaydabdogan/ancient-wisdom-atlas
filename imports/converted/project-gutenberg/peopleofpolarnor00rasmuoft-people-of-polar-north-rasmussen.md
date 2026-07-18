@@ -1,340 +1,4 @@
 # The People of the Polar North: A Record
-
-CONTENTS
-
-
-PART I
-
-PAGE
-
-FIRST MEETING WITH THE POLAR ESKIMOS . . . - • • 3
-
-THE MAGICIAN'S LAST GREAT INSPIRATION . . . . . 14 •
-
-A TRIBAL MIGRATION '. 23
-
-THE OLD BEAR-HUNTER • • 37
-
-THE ORPHAN 3*
-
-WOMEN. . . . . .- .' . . . . . . 54
-
-A SUMMER JOURNEY .......... 69
-
-THE DARK DRAWS NEAR -77
-
-WEATHERBOUND 83
-
-PART II
-
-PRIMITIVE VIEWS OF LIFE
-
-THE CREATION -99
-
-MEN . . 104
-
-THE SOUL 106
-
-THE BODY .... . 113
-
-THE NAME . . . . . . . . . . . r . .116
-
-LIFE .-...117
-
-DEATH . . . . . . . ' . . . . .119
-
-RELIGIOUS BELIEFS . . . ...... . 123
-
-THE RECOIL OF THE ACTION ON THE DOER .... . -. .126
-
-PREVENTIVE MEASURES . . . . . . . .138
-
-MAGICIANS . . . 146
-
-ziii
-xiv CONTENTS
-
-PART III
-
-FABLES AND LEGENDS
-
-
-INTRODUCTION . . . .
-
-THE DOMESTIC DRAMA OF LINDENOW'S FJORD
-
-THE DEATH OF SAKUA ....
-
-THE MURDER OF KATIAJA ....
-
-AVIAJA AND HIS FAMILY ....
-
-
-THE LEGEND OF A SOUL-STEALER
-
-THE INVULNERABLE UASE ....
-
-THE MAN WHO WAS TOO FOND OF HIS WIFE
-
-A STORY OF THE GREAT FAMINE .
-
-A TEMPTATION
-
-
-PAGB
-
-
-ANIMAL FABLES . 161
-
-THE SUN, THE MOON, AND THE STARS 173
-
-QUEER STORIES AND TRAVELLING ADVENTURES . . . .178
-MEETINGS WITH STRANGE TRIBES 206
-
-
-LIFE IN A COLONY . . . . . . . . . .221
-
-IN A WALRUS-HUNTER'S CAMP 231
-
-MANASSEH ............ 243
-
-THE GREAT REVIVAL IN EVIGHEDSFJORDEN . . . . . 250
-
-OjUVAINATH, THE HUNTER . . . . . . . . -254
-
-AMONG THE POOR, IN "THE HILLS OF ILL WINDS" .... 266
-
-MOSES . .278
-
-
-ILLUSTRATIONS
-
-
-COLOURED PLATES
-
-Summer in the Polar North Frontispiece
-
-Majaq Facing p. 38
-
-A Razorbill Haunt at Agpat (Saunders Island) „ 50
-
-Dog-driving „ 74
-
-A Walrus Flensing „ 1 10
-
-The Polar Sea „ 130
-
-Alattaq, the Magician ,,152
-
-Arnaruniaq : Maisanguaq ,,176
-
-Daughter of the Udligger at Tasiussaq . . . . . . . „ 222
-
-The Home of a Danish Trader in South Greenland .... „ 258
-
-Mother with Child in Amaut (Carrying-bag). Painted in South
-
-Greenland „ 278
-
-Little Girl from Godthaab, Upernivik „ 302
-
-FULL PAGE ILLUSTRATIONS
-
-Meqo Facing p. 8
-
-Count Harald Moltke's Arrival at Agpat „ 12
-
-Aininaq „ 16
-
-Kale „ 20
-
-Panigpak „ 24
-
-The Wife of Panigpak „ 26
-
-Merqusaq „ 30
-
-Three Types of Sledges „ 32
-
-Over Pack Ice ' „ 34
-
-Eskimos Singing Spirit-songs, to the accompaniment of Drums . „ 42
-
-Isigaitsoq (Fourteen to Fifteen Years old) „ 46
-
-Sorqaq „ 48
-
-Kajoranguaq, Dressed in the cast-off Underclothing of the " Expedition" „ 52
-
-Ere (aged about Thirty) „ 54
-
-Tateraq „ 60
-
-An Eskimo Belle „ 62
-
-Arnaruniaq, Wife of Alattaq „ 64
-
-Jorgen Bronlund „ 70
-
-Umanaq, seen from the Beach „ 76
-
-XT
-
-
-xvi ILLUSTRATIONS
-
-Gabriel Cooking in the " Cave in the Cliff" Facing p. 78
-
-Camp on the Ice : Iceberg in the Background ..... „ 82
-
-Punishment Due „ 86
-
-Harpoon and Lance „ 88
-
-Qisunguaq „ 90
-
-Knud Rasmussen (November 1903) „ 104
-
-A Tent . „ 108
-
-Panigpak's Son „ 112
-
-Observations and Sketching proceeding „ 114
-
-Knud Rasmussen, wearing Eskimo Hair-fillet „ 116
-
-Kayaks Towing a Walrus Home, in a Snowstorm .... „ 118
-
-Eskimo Types : Tornge, Ogtuggarsuaq, and Ingabaluk . . . „ 120
-
-Qulutinguaq, a well-known Eskimo Guide „ 122
-
-Tongiguaq, Wife of Qulutinguaq ,,124
-
-Very Cold on Guard ,,128
-
-Alaqatsiaq : Boy of Ten „ 132
-
-Imerarsunguaq, an Eskimo Host at Home ,,134
-
-Inetlia, Wife of Imerarsunguaq „ 136
-
-Inetlia with her Child ,,138
-
-Portrait Study „ 140
-
-Flaying Bears in Melville Bay „ 142
-
-A Cooking-hearth on the Ice in Melville Bay ,,144
-
-Otaq, the Magician „ 146
-
-Otaq's Wife ,,148
-
-The Interior of Otaq's House, facing the Entrance . . . . „ 150
-
-A Polar Hare „ 1 54
-
-Arrangement of the Stones in a typical Eskimo Roof, seen from below „ 166
-
-Kale's Grave ,,170
-
-Christmas Eve in a Snow Hut . . „ 174
-
-Arnafwik, a remarkably intelligent Eskimo Woman . . . . „ 180
-
-Arnaluk, the Story-teller » 182
-
-Asayuk, Husband of Arnafwik „ 186
-
-Kayak, with Paddle and Harpoon : Harpoon Point and Pole . . „ 190
-
-Mother, with Child in Amaut (Carrying-bag) ,, 192
-
-Knud Rasmussen (New Year's Eve, 1903) ,,196
-
-Plan and Elevation of an Eskimo Hut „ 198
-
-Iggienguaq, a very handsome Eskimo Type „ 200
-
-Dalrymple Rock „ 204
-
-Inukitsoq: Boy of Thirteen to Fourteen „ 206
-
-Eskimo Type „ 208
-
-Quluta : Boy of Nine „ 212
-
-Our Companions on our Journey back to Civilisation : Qajodaq,
-
-Panigpak, Manetsoq, Pualuna, Osarqaq, and Piuvatsoq . . „ 216
-The Shop at Tasiussaq, the most Northerly Spot in Greenland inhabited
-by a European ,, 224
-
-Soren Nielsen, Underassistent and Trader at Tasi ssaq ... „ 226
-
-Dorthe, Soren Nielsen's Greenlandic Wife „ 228
-
-
-ILLUSTRATIONS xvii
-
-Karen Nielsen Facing p. 230
-
-Josephine Nielsen ....'. » 232
-
-Hans Peter, Soren Nielsen's youngest Son ,, 234
-
-Walruses on a Reef, Taseralik » 236
-
-Greenlandic Woman from Kangeq, near Godthaab .... „ 238
-
-Viggo, a Sledge-dog ,» 244
-
-Feeding the Dogs » 246
-
-Catechist Heilmann . . . . . . . • • •>•> 250
-
-Wife of Catechist Heilmann, Tasiussaq » 252
-
-Young Girl (West Greenland) ' • ,,254
-
-Summer Evening in a West Greenland Colony (Sugar Loaf) . . . „ 264
-
-Evening in the Tent , „ 272
-
-West Greenlandic Type • » 274
-
-Midday in Winter in a West Greenland Colony (Jakobshavn) . . „ 280
-
-L. Mylius-Erichsen '..... „ 282
-
-Northern Lights, seen from Christianshaab » 288
-
-Knud Rasmussen, Jorgen Bronlund, and Count Harald Moltke . . „ 290
-
-Old Hunter, West Greenland » 3°°
-
-Young Greenlandic Woman from North District, Upernivik . • ,. 3°8
-Elias, a West Greenlandic Hunter, who accompanied the Expedition
-as far as Cape York . '. » 3*°
-
-A West Greenlandic Story-teller . . . . • . . . . „ 312
-
-A West Greenlandic Interior » 32°
-
-Anton, from Godthaabsfjord » 324
-
-Markus : West Greenlandic Type » 328
-
-Full-length Sketch of Underassistent Soren Nielsen .... „ 332
-
-Old Ole : West Greenlandic Type . . . . . . , - • » 34°
-
-Gabriel, a West Greenlandic Hunter who accompanied the Expedition „ 342
-
-Zacharias, Superintendent at Jakobshavn » 352
-
-
 AUTHOR'S PREFACE
 
 WHEN I was a child I used often to hear an old Greenlandic
@@ -449,12 +113,7 @@ puppies. These were the return gifts of the strangers.
 "He put them on his sledge and drove back home ; but
 the people who lived north of all other men he never found."
 
-And now, just as had been the case then, many sledge-
-
-
-FIRST MEETING WITH THE POLAR ESKIMOS 5
-
-tracks ran north, and again, as in the legend, it could not
+And now, just as had been the case then, many sledgetracks ran north, and again, as in the legend, it could not
 have been many days since they had been made.
 
 It was an odd experience, creeping through the long, low
@@ -542,8 +201,6 @@ cuts us in the face. At last ! at last ! people, other people, the
 new people — the Polar Eskimos !
 
 
-FIRST MEETING WITH THE POLAR ESKIMOS 7
-
 A long narrow sledge is coming towards us at full speed,
 a whip whistles through the air, and unfamiliar dog-signals are
 borne on the wind to our ears. A little fur-clad man in a pair
@@ -623,8 +280,6 @@ come to the rescue by whistling to them.
 
 MEQO
 
-
-FIRST MEETING WITH THE POLAR ESKIMOS 9
 
 Then he jumped out on the one side, and began to hop
 up in the air and slap himself on the legs. He continued to
@@ -816,8 +471,6 @@ who were not aware of this custom, had loosed our dogs, and
 COUNT HARALD MOLTKE'S ARRIVAL AT AGPAT
 
 
-FIRST MEETING WITH THE POLAR ESKIMOS 13
-
 they had broken into a house and eaten a seal that had been
 left there. They had left marks of blood about after their meal,
 and these terrified the bear-hunters. Besides which, after the
@@ -874,8 +527,6 @@ taken up their position below the great bird-rock ; they lounged
 about on the loose stones in intent listening clusters ; the
 whole side of the cliff was alive, and a voluminous murmur
 
-
-THE MAGICIAN'S LAST GREAT INSPIRATION 15
 
 pealed out from all the moving mites on its ledges. The
 petrels and the razorbills had arrived!
@@ -954,8 +605,6 @@ bore the imprint of earnest reverence.
 AlNINAQ
 
 
-THE MAGICIAN'S LAST GREAT INSPIRATION 17
-
 Sagdloq came of an old and much feared family. His
 paternal uncle and his nephew had both been murdered, as
 soul-stealers, and Sagdloq was the only one still living, said
@@ -976,8 +625,7 @@ When I had gone up to the house, I peeped in at him through
 the window. He was sitting alone on the raised stone sleepingplace, which in the daytime serves as a seat in Eskimo houses,
 beating on his drum. When he saw my face at the window
 he stopped beating the drum, laughed up at me, and said :
-"All foolery, silly humbug! Nothing but lies!" ("pilugsingnartunga, maungainarssuaq oqalutsiarnialermiunga, sagdlutsi-
-arnialermiunga ! ")
+"All foolery, silly humbug! Nothing but lies!" ("pilugsingnartunga, maungainarssuaq oqalutsiarnialermiunga, sagdlutsiarnialermiunga ! ")
 
 And he wagged his head apologetically.
 
@@ -1027,8 +675,6 @@ which made his hearers start.
 
 "ajornare, ajornare! atdliulerpunga ! ikiorniarsinga, artorssarpavssualeqissunga ! " ("Ow! ow ! it is impossible! lam
 
-
-THE MAGICIAN'S LAST GREAT INSPIRATION 19
 
 underneath ! He is lying on me. Help me ! I am too weak,
 I am not equal to it ! ")
@@ -1129,8 +775,6 @@ badly," replied the woman.
 
 KALE
 
-
-THE MAGICIAN'S LAST GREAT INSPIRATION 21
 
 " She has tasted dog's flesh," Sorqaq called out.
 
@@ -1271,8 +915,6 @@ And he pointed to his hair, which was unusually thin.
 
 PANIGPAK
 
-
-A TRIBAL MIGRATION 25
 
 " My great grandfather, the magician without opponents —
 there was no one who dared to oppose him — has himself grown
@@ -1489,12 +1131,9 @@ each other pulling properly, when the number exceeds twelve.
 The outer ones, too, will pull at too sharp an angle from the
 sledge, unless you have impossibly long reins ; and reins too
 long would not be wise, because the weight is felt more, the
-farther the dogs are from the sledge. We did not have uprights on our sledges. When we had to descend a snow-
-covered glacier we lashed thongs round our tires, so that they
+farther the dogs are from the sledge. We did not have uprights on our sledges. When we had to descend a snowcovered glacier we lashed thongs round our tires, so that they
 should not run too easily, and fastened the thongs to the
 
-
-A TRIBAL MIGRATION 29
 
 back part of the sledge, so that we could pull at them as we
 went down hill. On these sledges, besides our baggage, we
@@ -1578,8 +1217,6 @@ her fault.
 
 MERQUSAQ
 
-
-A TRIBAL MIGRATION 31
 
 " Immediately after the punishment had been carried into
 effect, we came upon a large herd of reindeer, inland, and had
@@ -1679,8 +1316,6 @@ THE USUAL GREENLANDIC DOG-SLEDGE (Disco BAY)
 A NANSEN SLEDGE WITHOUT UPRIGHTS
 
 
-A TRIBAL MIGRATION 33
-
 " But we adopted their type of sledge, for it was better than
 ours, and had uprights on it.
 
@@ -1766,8 +1401,6 @@ Eta, but when their meat was nearly at an end, and their
 blubber too, and they were in danger of being obliged to sit in
 their houses with lamps out — they were sixteen souls, — they
 
-
-A TRIBAL MIGRATION 35
 
 determined to go south, where they knew that there was abundance of provisions of all sorts. When they had crossed the
 great snowfield near Eta — it was just at the coming of the
@@ -1901,8 +1534,6 @@ Our host, old Sorqaq, then invited his guests to partake
 1 These curtains are composed of gut, split and stitched together. — G. H.
 
 
-THE OLD BEAR-HUNTER 39
-
 of rotten walrus-flesh, frozen, which is esteemed one of the
 greatest delicacies that can be offered to one's friends. It is
 by no means an easy matter to get high meat up there, where
@@ -1986,8 +1617,6 @@ way out. Not far from the entrance the dogs had stopped the
 runaway.
 
 
-THE OLD BEAR-HUNTER 41
-
 " The bear was sitting on the ice, sneezing incessantly, and
 was waving his one paw at his pursuers in an oddly gentle
 manner. His head was bent, and the blood was gushing out
@@ -2062,8 +1691,6 @@ will never let thee rest. Thou must live travelling because
 ESKIMOS SINGING SPIRIT-SONGS, TO THE ACCOMPANIMENT OF DRUMS
 
 
-THE OLD BEAR-HUNTER 43
-
 thou canst not stand always and every day to return to the
 same pen. The domestic animal nature has never formed
 part of thy composition.
@@ -2114,8 +1741,7 @@ which, for the time being, we pulled up. We were hungry.
 
 When Eskimos, travelling from one fishing-place to another,
 meet with a quarry, they generally store the greater part of the
-meat in a deposit, as it is often a matter of difficulty to transport it. These stores of meat are regarded as places of refresh-
-ment for any travellers, and there are always enough of them
+meat in a deposit, as it is often a matter of difficulty to transport it. These stores of meat are regarded as places of refreshment for any travellers, and there are always enough of them
 scattered along a day's driving distance, to render it unnecessary for any one to carry provisions for a journey, in the more
 frequented districts. The meat is stored under formidable piles
 of stones, to protect it from bears and foxes.
@@ -2149,8 +1775,6 @@ water. But the great snowfield is groaning in the sunshine,
 and sighs so profoundly that a chasm breaks in it, furrowing
 the white forehead of it like a broad wrinkle.
 
-
-THE OLD BEAR-HUNTER 45
 
 We drive up through a deep gully, between the glacier
 and the mountain. A stream-bed makes the going easy and
@@ -2240,8 +1864,6 @@ full stomachs shall make them heavy to sleep, he, he ! " And
 
 ISIGAITSOQ (FOURTEEN TO FIFTEEN YEARS OLD)
 
-
-THE OLD BEAR-HUNTER 47
 
 then he vanished for a moment and reappeared with half of an
 exceedingly fat seal, which he threw down in front of them.
@@ -2334,8 +1956,6 @@ The delight of the two old men in each other's company was
 SORQAQ
 
 
-THE OLD BEAR-HUNTER 49
-
 quite touching ; they were devoted to each other, and their
 friendship dated back from their boyhood. True, there were
 those who maintained that Qilerneq and no other had, by his
@@ -2366,8 +1986,7 @@ ground up smaller and smaller ; at last I was obliged to climb
 with my dogs on an iceberg, and there play ship's captain for
 'ive days. But I had only one small seal to live upon, I and
 ..iy eight dogs. Seest thou ! it was then that I learnt economy ;
-for there was no knowing when I should cast anchor in a harbour. On the fifth day I was driven to landward by a south-
-west wind. But when people saw me come drifting in on the
+for there was no knowing when I should cast anchor in a harbour. On the fifth day I was driven to landward by a southwest wind. But when people saw me come drifting in on the
 top of an iceberg, they very nearly ran away ; they thought I
 was a sea-monster. Sorqaq, of course they thought, had been
 seal-catching in the hunting-grounds of the dead long enough
@@ -2484,8 +2103,6 @@ to dry his clothes. But the people broke into astonishment
 KAJORANGUAQ, DRESSED IN THE CAST-OFF UNDERCLOTHING
 OF THE "EXPEDITION"
 
-
-THE ORPHAN 53
 
 when he stood before them with his maltreated body literally
 "clothed" in dirt. But the little fellow cared not a jot, and
@@ -2625,8 +2242,6 @@ Strangely ashamed, I relinquished my warrior's attitude,
 feeling that it were better to hide my knightly indignation until
 
 
-WOMEN 57
-
 I was once more among my fellow-countrymen, who could
 digest it. And, dear me — a quarrel between affectionate
 Eskimos was quite as interesting an experience as the conjurations of a magician ! And I had come up here, first and
@@ -2724,8 +2339,6 @@ Then he seized the precious knife, which had been the
 innocent cause of the whole uproar, broke it across his knee,
 
 
-WOMEN 59
-
 and flung it into the sea. This relieved his mind sufficiently
 to allow him to enter the tent, and leave his wife unmolested
 further. She followed him slowly.
@@ -2815,8 +2428,6 @@ marriage to some who did not eat men.
 
 TATERAQ
 
-
-WOMEN 6 1
 
 One day that she was going to pay a visit to her relations,
 she drew a pair of mittens over her feet instead of boots. She
@@ -2917,8 +2528,6 @@ has no consciousness whatever of being man's drudge.
 AN ESKIMO BELLE
 
 
-WOMEN 63
-
 In our estimate of these conditions, we must, in order to
 understand her, regard the matter strictly from the Eskimo
 point of view, and not impute to her the feeling of honour
@@ -3004,8 +2613,6 @@ as a punishment.
 
 ARNARUNIAQ, WIFE OF ALATTAQ
 
-
-WOMEN 65
 
 These conditions sometimes give rise to curious ethical
 ideas among the Eskimos. A man once told me that he only
@@ -3218,8 +2825,6 @@ with the freezing water.
 JORGEN BRONLUND
 
 
-A SUMMER JOURNEY 71
-
 We then came to the great bay, Iterdlagssuaq, across the
 mouth of which it was easy going ; but farther inland the ice
 was cut up by the current and covered with water, which often
@@ -3299,8 +2904,6 @@ my exchange gifts to the soul. It had had tea, matches, blubber
 and meat, just as they had stipulated. But Qisunguaq would
 not be appeased.
 
-
-A SUMMER JOURNEY 73
 
 " The thoughts of the dead are not as our thoughts ; the
 dead are incomprehensible in their doings ! " he sighed.
@@ -3389,8 +2992,6 @@ in a glorious sunshine through deep snow. Marvellously
 lovely glacier landscapes spread themselves out before us ;
 there is a view over the whole of Whale Sound, with its
 
-
-A SUMMER JOURNEY 75
 
 islands, and the island of Agpat, and Wolstenholme with
 Janak. The sea is like a mirror, but up here, where we are
@@ -3513,8 +3114,6 @@ explain, even to myself. I was obliged to go away, down to
 GABRIEL COOKING IN THE "CAVE IN THE CLIFF'
 
 
-THE DARK DRAWS NEAR 79
-
 the sea, and from there I gazed up at the twinkling little eye
 of light among the rocks.
 
@@ -3593,8 +3192,6 @@ summer evening ; the men, old and young, sat clustered round
 a seal-catcher who was making a sledge. Behind us, shouting
 children played their games.
 
-
-THE DARK DRAWS NEAR 81
 
 Suddenly one of them called out, " qaqaitsorssudkut ! "
 which, in this connection, means, " The men with boats without
@@ -3775,8 +3372,6 @@ difficulty in entering ; we had to lie flat on our faces and creep
 forward at first, then suddenly the opening widened out and we
 
 
-WEATHERBOUND 85
-
 were able to stand upright. From the reverberation of our
 voices we could judge that the cave was a high one and extended a long way back ; what we said echoed and re-echoed,
 as if from the vaulting of an empty church. We lighted a
@@ -3847,8 +3442,6 @@ When we got inside again we decided to make ourselves
 PUNISHMENT DUE
 
 
-WEATHERBOUND 87
-
 as comfortable in our quarters as was possible under the circumstances. We would have a light as long as we had blubber,
 and we would satisfy our hunger as long as our meat lasted.
 So we put a large lump of blubber in a hollow stone behind our
@@ -3891,8 +3484,7 @@ for a time, then all was quiet again.
 turned over and went to sleep again.
 
 
-November 25. — This is the second day we have been weatherbound in the cave ; the third night is drawing in and the south-
-west wind is still raging. The swell has set the ice in rocking
+November 25. — This is the second day we have been weatherbound in the cave ; the third night is drawing in and the southwest wind is still raging. The swell has set the ice in rocking
 motion, and the ice-foot is grinding against the rocks, sobbing
 and crying; this is what the Eskimos call "the weeping of
 those under the earth." The ice will most certainly reveal
@@ -3943,8 +3535,6 @@ HARPOON
 
 LANCE
 
-
-WEATHERBOUND 89
 
 During the days that we spent together in the cave I grew
 very fond of Qisunguaq ; it was not that we talked so much,
@@ -4037,8 +3627,6 @@ a bad place, the wife overbalanced and was flung against the
 QlSUNGUAQ
 
 
-WEATHERBOUND 91
-
 points of the uprights, which pierced her breasts ; and she fell
 dead by the side of the sledge.
 
@@ -4116,8 +3704,6 @@ together.
 
 We had been walking side by side in silence for some time.
 
-
-WEATHERBOUND 93
 
 " Riches and possessions are death ! " he burst out suddenly.
 "I will follow thee far away south," he went on, "and thou
@@ -4298,12 +3884,7 @@ That is how there came to be so many people.
 When there were so many of them, they wanted dogs. And
 a man went out with dog's harness in his hand, and began to
 stamp on the ground, calling " Hoc, hoc, hoc ! " Then the
-dogs sprang out of little tiny mounds. And they shook them-
-
-
-THE CREATION 101
-
-selves well, for they were covered with sand. That is how men
+dogs sprang out of little tiny mounds. And they shook themselves well, for they were covered with sand. That is how men
 got dogs.
 
 But men increased ; they grew more and more numerous.
@@ -4516,8 +4097,6 @@ abundance, but they lived in the dark.
 1 06
 
 
-THE SOUL 107
-
 " When the soul had passed through all animals, it became
 a man again and taught others what it had seen."
 The story in its entirety is as follows : —
@@ -4613,8 +4192,6 @@ reindeer.
 "How do you stretch your hind-legs when you gallop?"
 he asked one day.
 
-
-THE SOUL 109
 
 " Kick towards the outer edge of the heavens," said the
 others. He did so, and he was able to keep up with them
@@ -4898,8 +4475,6 @@ pq
 C
 
 
-THE BODY 115
-
 All these interdictions are respected out of fear of the
 dead man.
 
@@ -5134,8 +4709,6 @@ She must never eat away from home ; if, while on a
 ESKIMO TYPES
 
 
-DEATH 121
-
 journey, she spends the night away from the village, her
 husband must build her a snow-hut. She must not take off
 her clothes when sleeping in a snow-hut on the ice. She
@@ -5279,8 +4852,6 @@ best that they know, through the traditions of their forefathers.
 TONGIGUAQ, WIFE OF QULUTINGUAQ
 
 
-RELIGIOUS BELIEFS 125
-
 Their religious opinions thus do not lead them to any sort
 of worship of the supernatural, but consist — if they are to be
 formulated in a creed — of a list of commandments and rules of
@@ -5324,8 +4895,6 @@ vital force which is to be used up on earth. When this supply
 is exhausted the person grows old and, by death, passes over
 into another existence. In such a case no magician endeavours
 
-
-RECOIL OF THE ACTION ON THE DOER 127
 
 to retain life in the invalid, for he is " worn out," and it is better
 that he should die.
@@ -5424,8 +4993,6 @@ a revenant that she meant to revenge Ailaq. She drew her
 VERY COLD ON GUARD
 
 
-RECOIL OF THE ACTION ON THE DOER 129
-
 bear-skin rug over herself and sat down on the beach near the
 tideway and let the flood rise over her.
 
@@ -5523,8 +5090,6 @@ When Pautusorssuaq's wife saw it, she seized her sewing
 needle and thimble and fled away in the shadow of the tents,
 
 
-RECOIL OF THE ACTION ON THE DOER 131
-
 up over the cliffs to Eta, where her parents lived. She
 had not even time to put on her stockings, and so her feet
 grew very sore with running over the cliffs. On her way she
@@ -5619,8 +5184,6 @@ watch on him.
 ALAQATSIAQ : BOY OF TEN
 
 
-RECOIL OF THE ACTION ON THE DOER 133
-
 But it happened just about that time that many fell ill, and
 among them was Navssarssuaq. The sickness killed him,
 and so the avenging spirit had no opportunity of tearing him
@@ -5714,8 +5277,6 @@ hole in the earth would be the entrance to them.
 
 IMERARSUNGUAQ, AN ESKIMO HOST AT HOME
 
-
-RECOIL OF THE ACTION ON THE DOER 135
 
 THE MIDDEN SPIRIT
 
@@ -5819,8 +5380,6 @@ and as the old woman could not get it to be quiet, she too
 INETLIA, WIFE OF IMERARSUNGUAQ
 
 
-RECOIL OF THE ACTION ON THE DOER 137
-
 began to call for the mother. So somebody came in, and the
 blind woman, thinking it was the mother, gave up the child, but
 it was the Child-stealer who had it.
@@ -5912,8 +5471,6 @@ of the raven.
 INETLIA WITH HER CHILD
 
 
-PREVENTIVE MEASURES 139
-
 The fox is cunning in the search of food and guards himself cleverly from. his enemies. So, if a man has a piece of a
 fox's head, or a piece of old, dried dung sewn in his clothes,
 the cunning of the fox will pass into him.
@@ -6004,8 +5561,6 @@ he utters the following spell : —
 
 PORTRAIT STUDY
 
-
-PREVENTIVE MEASURES 141
 
 avatarpai — avatarpai
 akorngane — akorngane
@@ -6112,8 +5667,6 @@ w
 n
 
 
-PREVENTIVE MEASURES 143
-
 This sentence is of such irregular construction that it is
 untranslatable, but the meaning is supposed to be : —
 
@@ -6217,8 +5770,6 @@ Said that I might drink freely,
 And now I drink !
 
 
-PREVENTIVE MEASURES 145
-
 All charm formulae must be spoken softly, with lowered
 voice, and every word repeated.
 
@@ -6280,8 +5831,6 @@ the only prophet. This is why they protect themselves against
 
 OTAQ, THE MAGICIAN
 
-
-MAGICIANS 147
 
 the incredulity of others by ironical statements. They know
 quite well that they will be able to open the eyes of the " sceptical" when misfortune or illness visits man and softens his
@@ -6383,8 +5932,6 @@ dazzling juggling and ventriloquial arts which augment to such
 OTAQ'S WIFE
 
 
-MAGICIANS 149
-
 a great degree the excitement of an East Greenlandic seance,
 at which you would hear many voices interrupting each other,
 subterranean choirs, or bellowing monsters.
@@ -6454,8 +6001,6 @@ produce an overwhelming effect on their auditors.
 
 THE INTERIOR OF OTAQ'S HOUSE, FACING THE ENTRANCE
 
-
-MAGICIANS 151
 
 In the old days, when the Angakut could do everything, as
 the Eskimos say, one of their favourite duties, when hunting
@@ -6548,11 +6093,8 @@ moans, shouting —
 help it — I had to say what I knew ! "
 
 
-MAGICIANS 153
-
 Between the auditors and the magician there is always
-active co-operation, inasmuch as the latter's words are perpetually repeated by one of the oldest in the assembly, who inces-
-santly shouts encouragement to the " inspired " one to hold out
+active co-operation, inasmuch as the latter's words are perpetually repeated by one of the oldest in the assembly, who incessantly shouts encouragement to the " inspired " one to hold out
 and give full information. The advice that is given consists
 always of certain things that the one threatened must not do,
 rules of conduct that coincide with the various ones before
@@ -6634,8 +6176,6 @@ and the latter is on the spot and inspires him with what he
 A POLAR HARE
 
 
-MAGICIANS 155
-
 is to say ; meanwhile the medium lies still with closed eyes.
 This mode of conjuration is called qilaneq. It is sometimes
 enough merely to sit down on the ground, bind a thong
@@ -6703,12 +6243,7 @@ themselves fall ill, seek the help of the spirits ?
 But their magic arts are degenerating and growing more
 and more simplified. The Polar Eskimos are well-to-do folk ;
 there are animals enough in the sea and meat in abundance ;
-they are strong, healthy, energetic people, possessing a suffi-
-
-
-MAGICIANS 157
-
-ciency of the necessities of life as demanded by an existence
+they are strong, healthy, energetic people, possessing a sufficiency of the necessities of life as demanded by an existence
 which is, according to their ideas, free from care. This state
 of things is doubtless the reason why the Angakoq system
 is not so highly developed there as, for instance, it has
@@ -6852,8 +6387,6 @@ returned. She was fond of him, because he used to catch
 worms for her.
 
 
-ANIMAL FABLES 163
-
 As she sat weeping, a raven came up to her and asked —
 
 " What are you crying for ? "
@@ -6934,8 +6467,6 @@ Then the gull went out and came back with Polar cod,
 which were as delicate as icicles. The man ate of them and
 thought them good.
 
-
-ANIMAL FABLES 165
 
 Then the hawk went out, and caught eider-ducks and
 Little Auks.
@@ -7047,8 +6578,6 @@ ARRANGEMENT OF THE STONES IN A TYPICAL
 ESKIMO ROOF, SEEN FROM BELOW
 
 
-ANIMAL FABLES 167
-
 "Oh! then let us look at her," replied the man, and looked
 out of the window. " Who are you ? " he asked.
 
@@ -7148,8 +6677,6 @@ about him.
 Told by ARNAJAQ (young woman).
 
 
-ANIMAL FABLES 169
-
 HOW THE NARWHAL CAME
 
 Once upon a time there was a man who could not see, and
@@ -7209,8 +6736,6 @@ arrived home.
 " Look, look, white whales in sight ! " said the man.
 
 
-1 7o THE NEW PEOPLE
-
 " Harpoon them ! harpoon them! and bind me fast to the
 line ! " said the mother eagerly. Ajid so he used her to fasten
 the line to.
@@ -7264,8 +6789,6 @@ for good, and had children, and grew old.
 
 Told by ARNALUK.
 
-
-ANIMAL FABLES 171
 
 THE ICE-MAN
 
@@ -7446,8 +6969,6 @@ C/i
 o
 
 
-THE SUN, THE MOON, AND THE STARS 175
-
 takes the intestines out ; for that purpose he always carries
 about with him a wooden tray. His face tempts strongly to
 laughter, for he has large projecting eyes and nostrils turned
@@ -7549,8 +7070,6 @@ There was once an old man who stood out on the ice and
 waited for seals to come to the breathing-holes to breathe.
 But close to him, on the shore, a large troop of children
 
-
-THE SUN, THE MOON, AND THE STARS 177
 
 were playing in a cleft of the fjeld ; and time after time they
 frightened the seals away from him, just as he was about to
@@ -9001,8 +8520,6 @@ magician, raised a snow-storm, with piercing cold, and the
 BOY OF THIRTEEN TO FOURTEEN
 
 
-MEETINGS WITH STRANGE TRIBES 207
-
 snow whirled down the cliffs till all his pursuers were frozen
 to death.
 
@@ -9099,8 +8616,6 @@ themselves in a little hollow under the midden. As the inland-
 ESKIMO TYPE
 
 
-MEETINGS WITH STRANGE TRIBES 209
-
 dweller did not find them, he went in again. They then rolled
 farther along the plain, and when they had got a long way from
 the inland-dweller, they were able to get up and escape home.
@@ -9190,12 +8705,7 @@ brought soup-meat for the house."
 And so there was great delight, and they ate as much as
 they could. The day after, they went out seal-catching all
 together, and this time the inland-dweller came home with as
-many gulls as he could carry. You see, he was an inland-
-
-
-MEETINGS WITH STRANGE TRIBES 211
-
-dweller, and only needed to beckon to his prey with his
+many gulls as he could carry. You see, he was an inlanddweller, and only needed to beckon to his prey with his
 forefinger.
 
 But one day the inland-dweller grew home-sick, and so
@@ -9272,8 +8782,6 @@ Told by MAJAQ.
 
 QULUTA : BOY OF NINE
 
-
-MEETINGS WITH STRANGE TRIBES 213
 
 THE INLAND-DWELLERS AT ETA
 
@@ -9373,8 +8881,6 @@ He himself came just behind and sprang up on the high
 stone which is used to place meat upon. Such strength was
 
 
-MEETINGS WITH STRANGE TRIBES 215
-
 there in his leap that you can still see on the stone the marks
 of his feet. Then he seized his arrows, which all had barbs of
 walrus tusks, and began to shoot them down.
@@ -9469,8 +8975,6 @@ dog running in front of his sledge, a dog the one side of which
 
 OUR COMPANIONS ON OUR JOURNEY BACK TO CIVILISATION
 
-
-MEETINGS WITH STRANGE TRIBES 217
 
 was bleached bone. It was Qisuk's amulet. And so all the
 pursuers were afraid, and turned back.
@@ -9628,8 +9132,6 @@ and sang to us. The hymn-singing was part-singing. The
 manufactured at Aalborg.
 
 
-LIFE IN A COLONY 223
-
 choir began quite softly, with only a few voices ; but the voices
 increased in numbers and volume. The men growled out their
 deep and melodious bass, and the high clear voices of the
@@ -9715,8 +9217,6 @@ THE SHOP AT TASIUSSAQ, THE MOST NORTHERLY SPOT IN GREENLAND
 INHABITED BY A EUROPEAN
 
 
-LIFE IN A COLONY 225
-
 and ran down to the dancing; the men came after them,
 almost as though unwilling, with hands thrust deep in their
 trousers pockets.
@@ -9780,8 +9280,6 @@ UNDERASSISTENT SOREN NIELSEN, DANISH TRADER
 
 AT TASIUSSAQ
 
-
-LIFE IN A COLONY 227
 
 lie some miles' distance from Kangeq. The crews consisted
 of five girls, a steersman and a kayak-man ; in addition to
@@ -9873,8 +9371,6 @@ out that it was the house of a legendary hero, Kagnagssuaq.
 DORTHE, S6REN NIELSEN'S GREENLAND1C WlFE
 
 
-LIFE IN A COLONY 229
-
 The plan of it as measured and drawn up, showed it to be
 certainly one of the largest Eskimo ruins that have hitherto
 been found. The one room of which the whole house consisted was lived in by from seventy to eighty people, and
@@ -9908,8 +9404,7 @@ Abraham's wife, Elina, sprang to her feet and pointed ahead.
 And, a long way out, we saw something come dancing
 towards us, now and again disappearing in the waves. There
 was silence in the boat and all the laughing ceased. A buoy
-without an owner always presages death up there. The kayakman paddled after it and brought it back with him. All recog-
-nised it, and the silence in the boat fell deeper still ; the buoy
+without an owner always presages death up there. The kayakman paddled after it and brought it back with him. All recognised it, and the silence in the boat fell deeper still ; the buoy
 was the property of Samuel, Elina's son, and the thong of it
 was broken.
 
@@ -9988,8 +9483,7 @@ rewarded for their trouble.
 
 It is autumn now, and the walrus migration is just proceeding, via Taseralik, towards North Stromfjord. I am the
 guest of David, the big-game fisherman, one of the most daring
-of walrus-killers. The camp counts, in all, eight tents, all inhabited by Greenlanders from the southern district of Egedes-
-minde. The hunt has not yet commenced ; we are waiting for
+of walrus-killers. The camp counts, in all, eight tents, all inhabited by Greenlanders from the southern district of Egedesminde. The hunt has not yet commenced ; we are waiting for
 the walruses to go ashore.
 
 IGDLUERUNGNEQ, September 17, 1902.
@@ -10040,8 +9534,6 @@ organs.
 
 JOSEPHINK NIELSEN
 
-
-IN A WALRUS-HUNTER'S CAMP 233
 
 September 9.
 
@@ -10139,8 +9631,6 @@ wave took me with it and stopped my mouth."
 HANS PETER, SOREN NIELSEN'S YOUNGEST SON
 
 
-IN A WALRUS-HUNTER'S CAMP 235
-
 Old Edue, the mother-in-law, placed a dish of walrus-beef
 before us.
 
@@ -10185,10 +9675,7 @@ we catch seals when they crawl up on the ice to sun themselves. And — well, th
 " Tell us something about your hunting companion ! "
 
 "Yes; well, he was somewhat older than I, bigger and
-stronger. The only thing that kept us at home from the sealhunting was the south-west gale. And then we amused our-
-
-
-selves by letting the seas inshore toss our kayaks about. At
+stronger. The only thing that kept us at home from the sealhunting was the south-west gale. And then we amused ourselves by letting the seas inshore toss our kayaks about. At
 that time neither of us knew the meaning of danger. We stuck
 the oars into our kayak straps, folded our arms across our chests,
 and let the waves bury us beneath them. The old people never
@@ -10231,8 +9718,6 @@ for so many times it will grow again.
 During the night there had been a light fall of snow on
 Kingigtoq. Splendid for following up a trail ! And together
 
-
-IN A WALRUS-HUNTER'S CAMP 237
 
 with a few of the young fellows, I determined to try my luck the
 next day.
@@ -10330,8 +9815,6 @@ to the rib.
 
 GREENLANDIC WOMAN FROM KANGEQ, NEAR GODTHAAB
 
-
-IN A WALRUS-HUNTER'S CAMP 239
 
 " The boy did not understand what it was.
 
@@ -10433,8 +9916,6 @@ the window, called in angrily —
 do not respect my words. No one shall ever find my house
 again, however he may seek it.'
 
-
-IN A WALRUS-HUNTER'S CAMP 241
 
 And they heard a whistling through the air as he flew
 away, and that was all.
@@ -10592,8 +10073,6 @@ and his amazement knew no bounds.
 VIGGO, A SLEDGE-DOG
 
 
-MANASSEH 245
-
 "Are you speaking the truth? Can you really, in the
 same town, find people dying of hunger and others who have
 plenty of money laid by ? — money, which only exists to make
@@ -10695,8 +10174,6 @@ At last we could see the whole herd ; there were thirteen,
 FEEDING THE DOGS
 
 
-MANASSEH 247
-
 two great bulls leading the way. Manasseh, who thought
 that along such rough and difficult ground we should not be
 able to chase the reindeer with our dogs, stopped his team and
@@ -10787,8 +10264,6 @@ him, and, with joy in his face, lifted his arms high above his
 head, saying —
 
 
-MANASSEH 249
-
 " Manasseh, thou hast accomplished a great work ! "
 
 Manasseh had grown very solemn, and we drank our tea in
@@ -10801,8 +10276,7 @@ was enough to make my hair stand on end.
 When, late at night, I slipped down into my sleeping-bag,
 my brain had hard work to unravel all the impressions of the
 day — our camp for the night on Naternaq Plain, where as a
-rule no one ever comes in the heart of winter, the reindeerhunt, our wild race, stories of robbers and missionaries, revela-
-tions and prophets, legends of cannibals — and I fell asleep
+rule no one ever comes in the heart of winter, the reindeerhunt, our wild race, stories of robbers and missionaries, revelations and prophets, legends of cannibals — and I fell asleep
 firmly convinced that there is no country in the world where
 a traveller meets with such a luxuriant variety of experiences
 as in Greenland.
@@ -10847,8 +10321,6 @@ ought to be in common ; all game and every man's catch must
 
 CATECHIST HEILMANN, TASIUSSAQ
 
-
-GREAT REVIVAL IN EVIGHEDSFJORDEN 251
 
 be brought to Habakkuk, who would divide it amongst those
 who had need of it.
@@ -10946,8 +10418,6 @@ made a sharp distinction between those to whom she gave her
 WIFE OF CATECHIST HEILMANN
 
 
-GREAT REVIVAL IN EVIGHEDSFJORDEN 253
-
 whole hand, and those whom she merely touched with her
 little finger.
 
@@ -11028,8 +10498,6 @@ risky journey in the autumn, when it is beginning to grow dark.
 
 YOUNG GIRL (WEST GREENLAND)
 
-
-OJUVAINATH, THE HUNTER 255
 
 I remember one time that we were rowing by night, when it
 was so dark that we could hardly see each other in the boat.
@@ -11113,8 +10581,6 @@ one could not but notice that none of his compatriots cared
 to act counter to his wishes : when he issued an order, it was
 executed at once.
 
-
-OJUVAINATH, THE HUNTER 257
 
 To the chagrin of many well-to-do girls who had cast
 admiring eyes upon him, he had married a poor maiden, who
@@ -11209,8 +10675,6 @@ since by himself, count has been kept of the annual catch.
 Far from being on the decrease, it really seems to be growing
 
 
-OJUVAINATH, THE HUNTER 259
-
 larger. The annual catch (from July 15 to the beginning of
 August) ranges between sixty and one hundred barrels —
 that is, two to five barrels a day. Of course only a very small
@@ -11292,13 +10756,10 @@ I began. Then I was at the age when one is eager to compete with the best ; and,
 the North Greenlanders, I went up there with an uncle — just as
 
 
-OJUVAINATH, THE HUNTER 261
-
 a rower in his umiaq. That was as far as North Stromfjord, right up to the head. The following year I went north
 again, this time as master of my own umiaq. I was fifteen
 then. Up to my thirty-sixth year I went reindeer-hunting
-every summer in our own districts here, about South Stromfjord ; it is only of late that I have settled down to the salmon-
-fishery. It pays better.
+every summer in our own districts here, about South Stromfjord ; it is only of late that I have settled down to the salmonfishery. It pays better.
 
 " The North Greenlanders, I must say, are better on their
 legs and more alert than we Southerners ; they are almost too
@@ -11354,8 +10815,6 @@ they curse the hunting life and vow they will never come again.
 But soon they grow used to sleeping outside without a tent, to
 walking long distances and carrying heavy loads, and then they
 
-
-OJUVAINATH, THE HUNTER 263
 
 forget all their troubles and all their vows. And the next year,
 when the first reindeer-hunt is announced, the women are
@@ -11454,8 +10913,6 @@ S
 s
 
 
-OJUVAINATH, THE HUNTER 265
-
 " But at other times too, old Evale and his wife, on their
 reindeer-hunts, saw and heard things that they could never
 quite fathom," said another. "You know the story of the
@@ -11535,8 +10992,6 @@ the proper behaviour for a guest, according to the Greenlandic code.
 
 We have retired early to rest, crawled up on the sleepingplace and lain down, Vittoralak, his son, wife, daughter and I.
 
-
-AMONG THE POOR 267
 
 I lay for some time without being able to sleep. They sang
 an evening hymn. Seldom have I listened to any hymn more
@@ -11626,8 +11081,6 @@ he tried to climb the inaccessible peak. He wanted to be in
 danger of his own life, to forget the loss of his son, he said.
 And it is from that that the rock takes its name.
 
-
-AMONG THE POOR 269
 
 "Out on the promontory there stand two cairns, which you
 can just see from here. They were built by two friends.
@@ -11727,8 +11180,6 @@ with a clatter, a long way in.
 Anase was by now about tired. The hill-man did not
 
 
-AMONG THE POOR 271
-
 come, and we left the hole, after Anase had first blocked up
 the entrance with large stones.
 
@@ -11778,8 +11229,6 @@ started to-day, the squalls from the Syltinde Rock would have
 been hard to tackle, and no mistake."
 
 
-272 THE WEST GREENL ANDERS
-
 We took our wet things off and crawled up on the sleepingplace.
 
 "I am afraid it will be rather cheerless to-day," said
@@ -11824,8 +11273,6 @@ sooner or later with them all. It is true that some dead
 Qivitoqs have been found who have ended their days as good
 Christians, but that is rare. They are then generally found in
 
-
-AMONG THE POOR 273
 
 a cleft of the rocks, turned towards the East, with their hands
 folded on their breasts.
@@ -11919,8 +11366,6 @@ WEST GREENLANDIC TYPE
 (Front an Oil- Painting)
 
 
-AMONG THE POOR 275
-
 decrepit as herself. And yet it filled the darkness around us
 with music ; her song was a melancholy melody which, in its
 simple delivery, was quite fascinating. She sang —
@@ -12008,8 +11453,6 @@ properly. She moved, and lay down by the side of her
 husband. But a little later, when she thought I had gone
 
 
-AMONG THE POOR 277
-
 to sleep again, I saw her get up once more and creep into her
 corner. Old Alina was determined to keep awake, and was
 sacrificing the rest her old limbs had such need of in order
@@ -12081,8 +11524,6 @@ cut up, and then cooked. After the meal — and as a rule they
 eat so much that a comfortable feeling of satiety will pervade
 the whole dwelling — the men and women take off the greater
 
-
-MOSES 279
 
 part of their clothing and climb up to the sleeping-place
 which is practically the sofa and lounge of the Greenlandic
@@ -12177,8 +11618,6 @@ vanished straight down into the ground.
 
 MIDDAY IN WINTER IN A WEST GREENLAND COLONY (JAKOBSHAVN)
 
-
-MOSES 281
 
 A flock of ptarmigan rose noisily in front of us, the dogs bayed
 and pressed the pace even more, while Moses, who still seemed
@@ -12297,8 +11736,7 @@ not or would not reveal themselves any more to those who had
 betrayed them to the Christians by their conversion.
 
 There were formerly many people along the East coast,
-they told me ; they lived in large houses, which could accommodate the crews of several umiaqs. In the winter, especi-
-ally, they led a gay life up there, and for whole evenings they
+they told me ; they lived in large houses, which could accommodate the crews of several umiaqs. In the winter, especially, they led a gay life up there, and for whole evenings they
 would entertain themselves with spirit incantations, duetsinging, insult-songs and the telling of old legends.
 
 It was a happy time — but a dangerous time too.
@@ -12336,8 +11774,7 @@ And these accounts seem to me to have a twofold interest,
 portraying, as they do, the last convulsive fight for existence
 of an isolated race.
 
-All the South-east Greenlanders have now, with the exception of one family, migrated to the West coast and been bap-
-tized ; and they will soon be absorbed into the population there.
+All the South-east Greenlanders have now, with the exception of one family, migrated to the West coast and been baptized ; and they will soon be absorbed into the population there.
 
 During my stay among them I wrote down a number of
 their traditions and legends, as well as a short vocabulary.
@@ -12348,8 +11785,6 @@ this consisted of old Kunigsarfik ("Kissing Gear"), his wife,
 two sons, three daughters and a son-in-law. The old paterfamilias had been challenged by Autdaruta ("The Umiaq "),
 — the leader of the new arrivals, — who accused him of having
 
-
-INTRODUCTION 287
 
 stolen the souls of his brothers and sisters ; and the old man,
 not having dared to accept the challenge, had fled north when
@@ -12433,8 +11868,6 @@ are the Eskimos own history, which has been handed down by
 oral tradition to subsequent generations. It has been thought
 
 
-INTRODUCTION 289
-
 that the greater number of the legends, which reveal appalling cruelty, were the outcome of imagination, and only had
 their origin in some slender occurrence which had been decked
 out for general entertainment. The many heartless things
@@ -12449,8 +11882,7 @@ There is no people with a history which, as regards the
 bitterness of its struggle for existence and the eeriness of its
 memories, can be compared with that of the Eskimos.
 
-Hitherto one has always heard good-nature and peaceableness brought forward as the qualities that most peculiarly dis-
-tinguish the Eskimos.
+Hitherto one has always heard good-nature and peaceableness brought forward as the qualities that most peculiarly distinguish the Eskimos.
 
 " They are so good-natured and so harmless !"
 
@@ -12521,8 +11953,6 @@ together in the spring and sold. In this way she managed to
 scrape a few pence together, which she spent on clothes ; but
 of course it was very difficult to make two ends meet, and she
 
-
-INTRODUCTION 291
 
 was generally obliged to be content with old, left-off clothes,
 which she pieced together.
@@ -12664,8 +12094,6 @@ falling. The man writhed and twitched with agony, every
 time the snowdrift swept over him.
 
 
-DOMESTIC DRAMA OF LINDENOW'S FJORD 295
-
 " No, I shall never be a man again ! " he said, and flung
 himself into the sea.
 
@@ -12748,8 +12176,6 @@ the arrow, and Christian drove it through her throat, so that at
 last she died.
 
 
-THE DEATH OF SAKUA 297
-
 Then he cut her up, dismembered every joint, severed her
 head from her body, and threw it out into the sea.
 
@@ -12805,8 +12231,6 @@ Christian's mother never ceased to egg him on to the murder.
 you must know, had once said, in anger, that she was the only
 person who deserved to live.
 
-
-THE MURDER OF KATIAJA 299
 
 The day after Katiaja had heard that she was to die,
 Christian began to take counsel of his helping-spirits. He
@@ -12955,8 +12379,6 @@ in the course of one winter.
 " Oqartaqangitseq had lost several children, they having
 died of illness, one after the other. He was a great magician,
 
-
-AVIAJA AND HIS FAMILY 303
 
 and so he held spirit incantations about it ; and his helpingspirits told him that it was a man in the place, Aviaja, who
 had stolen his children's souls.
@@ -14583,8 +14005,6 @@ On his arrival he said nothing of the murder, for he would
 have made himself avowed enemies in the families of the
 
 
-THE LEGEND OF A SOUL-STEALER 335
-
 dead men. But when the two brothers failed to return, every
 one knew, all the same, that Ilisimartoq had killed them ; nor
 did he make any secret of it ; it was only that he did not say
@@ -14673,8 +14093,6 @@ into a hunting-buoy, dragged it up to a glacier, and dropped it
 down a deep crevasse ; for so mighty was Ilisimartoq that they
 
 
-THE LEGEND OF A SOUL-STEALER 337
-
 were afraid of him, even after his body had been cut to
 pieces.
 
@@ -14722,8 +14140,6 @@ rotten cod, she slapped me on the back and expressed her
 delight at my having contented myself with her simple fare.
 And then she began at once to narrate.
 
-
-THE INVULNERABLE UASE 339
 
 One of the stories she told me (though not the one related
 that evening) was the story of
@@ -14815,8 +14231,6 @@ hunting expedition and had plenty of food with them, and they
 OLD OLE : WEST GREENLANDIC TYPE
 
 
-THE INVULNERABLE UASE 341
-
 invited him to a meal. Uase ate heartily, but noticed that they
 did not seem hungry ; still this did not rouse his suspicions.
 After the meal, when Uase was satisfied with eating, and
@@ -14873,8 +14287,7 @@ wounds, and so Uase was not able to cure this last one.
 
 To gain time, he began to spurt water up in Angiamineq's
 face, and he involuntarily retreated a few paces, so that Uase
-was able to get a foothold on land, and then it was Angiamineq's turn to be cast into the sea. But the sudden move-
-ment that Uase was obliged to make made the blood gush out
+was able to get a foothold on land, and then it was Angiamineq's turn to be cast into the sea. But the sudden movement that Uase was obliged to make made the blood gush out
 from the wound in his body, and all the food he had just eaten
 fell out on the rock with a splash.
 
@@ -14921,8 +14334,6 @@ Sf '/ t-. >
 
 GABRIEL
 
-
-THE INVULNERABLE UASE 343
 
 for five days ; but even before Uase had his whole-skin off, he
 earnt that his three enemies had fled south to a trading-place
@@ -15164,8 +14575,6 @@ to him —
 wife, you will be willing to dare a venturesome thing that will
 
 
-THE MAN WHO WAS TOO FOND OF HIS WIFE 349
-
 give her back to you! Look, we have suspended a rope
 between the two peaks ; you must swarm along it with bent
 arms. If you can do that, we will give you back your wife."
@@ -15250,8 +14659,6 @@ used to touch the preserves till well into the winter.
 
 So that the first winter was not so unbearable ; but when
 
-
-A STORY OF THE GREAT FAMINE 351
 
 the time came at which, in other years, spring and summer
 used to make their appearance, the warm weather did not come.
@@ -15398,8 +14805,6 @@ known it.
 "Yes. Now one has other ways and new thoughts, which
 
 
-A TEMPTATION 355
-
 give life greater joys than I could hope for before, it seems to
 me. Now I know that I shall see my dead ones again, and the
 thought fills me with so much comfort that I am very willing to
@@ -15494,8 +14899,6 @@ incomprehensible.
 heard a great noise inside the house. Neither of us dared
 to utter a word ; I was trembling with fear, and I had a
 
-
-A TEMPTATION 357
 
 feeling as if my skin were being drawn slowly off, over my
 head.

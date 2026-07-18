@@ -1,5 +1,4 @@
 # Madagascar Before the Conquest: The Island, the Country, and the People
-
 PREFACE.
 
 
@@ -88,7 +87,6 @@ CHAPTER n.
 
 IMERINA THE CENTRAL PROVINCE : ITS PHYSICAL FEATURES AND
 
-VILLAGE LIFE 15
 
 Recent advances in knowledge of Madagascar -geography — Recent
 journeys — Tamatave — Mode of travelling — Coast lagoons — Scenery —
@@ -104,7 +102,6 @@ CHAPTER HI.
 
 ANTANANARIVO, THE CAPITAL : ITS PUBLIC BUILDINGS, MEMORIAL
 AND OTHER CHURCHES, AND RELIGIOUS AND CHARITABLE
-INSTITUTIONS . . 34
 
 Scenery around the capital — Its picturesque situation — Rugged streets
 and paths — Houses and other buildings — Recent introduction of
@@ -116,8 +113,7 @@ bricks— Royal palaces— Faravohitra— Ancient gateway— Sacred stones
 —Weekly market of Zoma— Amusements— L.M-S. churches and
 rehgious institutions — Ambatonakanga Church — Other memorial
 churches— " Mother churches" and districts— Chapel Royal— Sunday
-observance— Colleges and school-buildings— Dispensaries and hospitals—Other missions— Extent of Christian work carried on— Civi-
-lising work of L.M.S. mission— Population— Plans of the capital-
+observance— Colleges and school-buildings— Dispensaries and hospitals—Other missions— Extent of Christian work carried on— Civilising work of L.M.S. mission— Population— Plans of the capital-
 Antananarivo the heart of Madagascar,
 
 CHAPTER IV.
@@ -128,8 +124,7 @@ AND VARIED ASPECTS OF THE MONTUS . . • • 5^
 
 The seasons in Madagascar— Their significant names— Prospect from
 summit of Antananarivo — The great rice-plain — Springtime : September to October — Rice-planting and rice-fields — First crop — Trees and
-foliage — " Burning the Downs " — Birds — Summer : November to February — Thunderstorms and tropical rains — Effects on roads — Rain-
-fall—Hail—Magnificent lightning effects— Malagasy New Year-
+foliage — " Burning the Downs " — Birds — Summer : November to February — Thunderstorms and tropical rains — Effects on roads — Rainfall—Hail—Magnificent lightning effects— Malagasy New Year-
 Native calendar — Royal bathing — Conspicuous flowers — Aloes and
 agaves — Christmas Day observances — Uniformity in length of days —
 Native words and phrases for divisions of time — and for natural
@@ -143,7 +138,6 @@ CHAPTER V.
 
 THE CRATER LAKE OF TRITSIVA : ITS PHYSICAL FEATURES AND
 LEGENDARY HISTORY ; AND THE VOLCANIC REGIONS OF THE
-INTERIOR 82
 
 Ancient volcanoes of Central Madagascar — Hot springs — Fossil remains in limestone deposits — Crater lake of Andraikiba — Tritriva
 Lake — Colour of water — Remarkable appearance of lake — View from
@@ -243,7 +237,6 @@ Counting games— Marvellous creaiures—Songdmby—Fanany, or sevenheaded serpe
 
 CHAPTER Xn.
 
-MALAGASY FOLK-TALES AND FABLES 237
 
 Bonia — Crocodile and dog — Three sisters and Itrimobe — The members
 of the body— The little bird— Rap^to- The lost Son of God— The
@@ -256,7 +249,6 @@ CHAPTER Xni.
 
 DIVINATION AMONG THE MALAGASY, TOGETHER WITH NATIVE
 
-IDEAS AS TO FATE AND DESTINY 262
 
 The Sik)dy — Subject investigated by Mr. Dahle — Little organised
 idolatry among the Malagasy — Diviners — Divination and fate — Invocation of the Sik'idy — Sixteen figures of the Sikldy — Sixteen columns of
@@ -289,7 +281,6 @@ CHAPTER XV.
 DECORATIVE CARVING ON WOOD, ESPECIALLY ON THE BURIAL
 MEMORIALS OF THE b6TSIL60 MALAGASY ; TOGETHER WITH
 NOTES ON THE HANDICRAFTS OF THE MALAGASY AND NATIVE
-PRODUCTS 313
 
 Absence of artistic feeling among the Hova — The Betsileo — Carved
 memorial posts — Various forms of tombs — Character of the carving
@@ -354,35 +345,16 @@ CENTRAL PORTION OF ANTANANARIVO . . . Frontispiece
 
 HOW WE TRAVEL IN MADAGASCAR . . To face p. I
 
-CANOES ON RIVER NEAR COAST ... ,, 4
-
-VILLAGE ON COAST „ 1 5
-
-STONE GATEWAY OF ANCIENT TOWNS IN IMERINA „ 26
 
 NORTHERN PART OF ANTANANARIVO . . ,,34
 
-VIEW FROM ANDOHALO .... „ 46
 
 ANTANANARIVO FROM THE WEST. SOUTH END OF CITY
 
 To face p. 52
 
-A SAKALAVA WARRIOR ,, 149
-
-BETSIMISARAKA WOMEN .... „ 191
-
-TAISAKA CHIEFS „ 286
 
 BETSIMISARAKA CEMETERY .... „ 29O
-
-MALAGASY LOOM, AND WEAVING A LAMBA . „ 313
-
-A HOVA OFFICER, MALAGASY ARMY . . „ 336
-
-TRAVELLERS' TREES, LOWER FOREST . . „ 353
-
-RIVER SCENE IN FOREST .... ,, 368
 
 
 CHAPTER L
@@ -459,8 +431,6 @@ plentiful, as well as several species of Pandanus, and large
 Arums in the shallow waters. After four hours and a quarter's
 steady march we came to a village called B^parasy, with
 
-
-FROM COAST TO CAPITAL. 3
 
 nearly one hundred houses. This afternoon we passed a small
 Betsimisiraka cemetery, where we saw at a little distance
@@ -552,8 +522,6 @@ inter-communication of the eastern coast.
 These coast lagoons sometimes take the form of a river,
 
 
-FROM COAST TO CAPITAL. 5
-
 running for several miles in almost a straight line, while in
 many places they broaden out into extensive lakes.
 
@@ -597,8 +565,7 @@ ridge, we caught sight of a river roaring over rapids below us,
 a mile or two away, and flowing to the sea (at Marosiky). We
 had a long ride of (including stoppages for canoes) five hours
 and twenty minutes. Many of the ascents and descents were
-very steep, and the paths narrow. There appears to be a considerable number of small villages on the road. Our after-
-noon's ride was much shorter than that of the morning, two
+very steep, and the paths narrow. There appears to be a considerable number of small villages on the road. Our afternoon's ride was much shorter than that of the morning, two
 hours and a half only, but generally following the valley of the
 pretty river Manampotsy, which flows westwards and southward,
 frequently foaming over rocky bars and rapids. We passed
@@ -625,8 +592,6 @@ of it left on the summits and sides of the hills. We made a
 short morning's ride of two and a half hours, and stopped at
 a village called Antinambe. In the house where we rested were
 
-
-FROM COAST TO CAPITAL. 7
 
 a number of pretty little mats called Idkatra, about i8
 inches square, with a variety of patterns in brown straw. These,
@@ -701,8 +666,6 @@ the village. We sang three or four hymns ; one of our bearers
 prayed, and H. and I both read a portion of Scripture and gave
 a short exposition.
 
-
-FROM COAST TO CAPITAL. 9
 
 Monday, Nov. I2th. — We have to-day been travelling more
 than nine hours. Our road lay first to the south, so as to get
@@ -857,8 +820,6 @@ by and brought by iron aqueducts into the buildings so as to
 turn a number of large water-wheels. At the time of my first
 
 
-FROM COAST TO CAPITAL. 1 3
-
 visit to M4ntas6a the largest workshop was still crowned by its
 high-pitched roof covered with tiles. The walls of this building
 are of dressed stonework, massive as that of a castle and about
@@ -974,8 +935,6 @@ noticing the work of En0hh labourers in the field of Madagascar geography.
 = This paper forms the first chapter of The Great African Island
 
 
-IMERINA, THE CENTRAL PROVINCE. 17
-
 and evangelising by doing useful geographical work, as well
 as by contributing to fuller knowledge of the natural history
 of the island.
@@ -1049,8 +1008,6 @@ In concluding this brief sketch of the most important
 journeys made in Madagascar during the last few years, I
 
 
-IMERINA, THE CENTRAL PROVINCE. 19
-
 may also mention the issue by the eminent French traveller
 and scientist, M. Alfred Grandidier (Member of the Institute),
 of the geographical section of his great work on Madagascar,
@@ -1122,8 +1079,6 @@ ascends, is really rising to a higher level, and by the time we
 get clear of forest, we have ascended the first great step upwards
 to the interior highland.
 
-
-IMERINA, THE CENTRAL PROVINCE. 21
 
 Half a day's journey over the Ankay plain, and then across
 the Mang6ro river, brings us to the foot of the second step of
@@ -1197,8 +1152,6 @@ dry season.
 The geological nature of the central region is shown by the
 numerous masses of granite or gneiss rock which form the
 
-
-IMERINA, THE CENTRAL PROVINCE. 23
 
 summits of all the hills. In many cases these take the form of
 enormous " bosses," or rounded hills of rock ; in others they have
@@ -1276,8 +1229,6 @@ of the many small states, or "kingdoms," into which Imerina
 'The recent census-March, 1896-gives only 600,000 souls as the population
 of the province Imerina. — Ed.
 
-
-IMERINA, THE CENTRAL PROVINCE. 25
 
 was anciently divided, before the supreme authority became
 centred in the chief of Antananarivo. Of these former chief
@@ -1425,8 +1376,6 @@ stone have been unused, and the grooves are filled up with dust
 " The Mysore thorn, Cccsalfinia sepiaria, Roxb.
 
 
-IMERINA, THE CENTRAL PROVINCE. 29
-
 and dirt, so that it is not very easy to move the stone out of its
 place. In many villages the great stone lies on the ground, and
 the children play gaml^ upon it, showing that for a long time
@@ -1501,8 +1450,6 @@ are employed by the people in making their tombs.
 
 The pits in which the people store their rice are bottleshaped holes, from 8 to 10 feet deep, dug out of the hard red
 
-
-IMERINA, THE CENTRAL PROVINCE. 3 1
 
 earth, and will contain a large quantity of grain. They are
 closed up by a flat stone and covered with earth, so it is not
@@ -1580,8 +1527,6 @@ One thing more may be noticed about our Malagasy village,
 ' Urcra sp. and Obctia sp.
 
 
-IMERINA, THE CENTRAL PROVINCE. 33
-
 and that is, that in almost all the larger villages of Imerina
 there is now to be seen a building for Christian worship. In
 many places this is a rough and plain structure, made of clay or
@@ -1646,8 +1591,6 @@ We see signs of a denser population as we advance: well-
 • By the latest and most reliable observations, the following has been settled as
 the position of Antananarivo : Lat., 18° 55' 2-io"-2-i8" S. ; long., 47° 31' 22" E.
 
-
-ANTANANARIVO, THE CAPITAL. 35
 
 cultivated rice-fields in every valley, plantations on the hillsides,
 numerous villages, and scattered homesteads, the houses being
@@ -1718,8 +1661,6 @@ country through the Hova making themselves the dominant
 tribe of Madagascar.
 
 
-ANTANANARIVO, THE CAPITAL. 37
-
 It need hardly be said that road-making is very difficult in a
 place like Antananarivo. The naked rock comes to the surface
 almost everywhere ; and the gradients, east and west at least,
@@ -1752,10 +1693,7 @@ were of frequent occurrence, especially at the end of the dry
 season ; and twenty, thirty, or even a hundred houses were not
 unfrequently burnt down at one time. The acceptance of
 Christianity by the Queen and Government in 1868 put an end
-to this foolish custom, as well as to many other still more harmful things ; and the old timber houses have now almost dis-
-
-
-appeared from the city. An interesting relic of the past is still
+to this foolish custom, as well as to many other still more harmful things ; and the old timber houses have now almost disappeared from the city. An interesting relic of the past is still
 preserved with religious care in the palace yard among more
 modern buildings. This is the ancient royal house called
 B^sdkana, where the corpse of a deceased sovereign lies in state,
@@ -1791,8 +1729,6 @@ with the eagles of America and several European states. Close
 to this largest palace stands the Tranovhla or " Silver house,"
 about two-thirds the size of its larger neighbour, but entirely of
 
-
-ANTANANARIVO, THE CAPITAL. 39
 
 timber. There are several other palaces, each having its proper
 name, as Mandnipisba ("Adding good"), Bhdkana ("Great
@@ -1945,8 +1881,6 @@ division of the market, with heaps of salt and chillies for condiments ; here is
 mutton, and the poultry section, with hundreds of fowls, ducks,
 
 
-ANTANANARIVO, THE CAPITAL. 43
-
 turkeys, and geese ; here is the " dry goods " division, with
 English calicoes, American sheeting, gay prints, and native
 cloths of hemp, cotton, and rofia fibre ; here are piles of snovi^y
@@ -2022,8 +1956,6 @@ this building was turned into a stable and afterwards into a
 marked on the map and in the list at the end of this chapter.
 
 
-ANTANANARIVO, THE CAPITAL. 45
-
 prison for the punishment of the " praying people " ; and finally,
 the first of the four Martyr Memorial Churches was commenced
 here in 1864 and opened in 1867. This is a substantial stone
@@ -2033,8 +1965,7 @@ the first stone building ever erected in the country.
 When Mr. Ellis arrived in Antananarivo in June, 1862, soon
 after the country was re-opened to Christian effort, he found three
 large congregations already gathered together, and all meeting
-in the same quarter of the city, the north-west — one at Ambatonakanga ; another at Analakely (2) ; and the third at Ampa-
-ribe (3). These congregations met in very rough and unattractive
+in the same quarter of the city, the north-west — one at Ambatonakanga ; another at Analakely (2) ; and the third at Amparibe (3). These congregations met in very rough and unattractive
 buildings — one being an old stable ; another several native houses
 patched together ; and the other an old workshop. For many
 years past, however, these congregations have been housed in
@@ -2052,8 +1983,7 @@ churches and is worked most efficiently by the Friends' Mission,
 in complete harmony with the London Missionary Society, and
 has its mother church at Amb6hitantely (8).
 
-Of these ten, four are the Memorial Churches at Ambatonakanga (i), Amb6hip6tsy (2), Ampamarlnana- (6), and Faravo-
-hitra (9). The first of these has already been described. The
+Of these ten, four are the Memorial Churches at Ambatonakanga (i), Amb6hip6tsy (2), Ampamarlnana- (6), and Faravohitra (9). The first of these has already been described. The
 second occupies a most commanding position at the southern
 extremity of the city ridge, and is visible for many miles in
 every direction. It is built in a simple Early English style of
@@ -2098,8 +2028,6 @@ and lamba crowd the roads going to and from the various places
 of worship. The sound of bells is heard from many towers, and
 as one passes by the churches, the familiar strains of many wellknown English tunes may be heard sung accompanied by the
 
-
-ANTANANARIVO, THE CAPITAL. 47
 
 notes of American organs or harmoniums. A Sabbath quiet
 and calm is over the whole city ; not only is divine worship
@@ -2177,12 +2105,7 @@ in the Betsileo province, where there are a large number of
 stations.
 
 The Roman Catholic Jesuit Mission has four churches in the
-capital. Of these, the largest one, or cathedral, close to Ando-
-
-
-ANTANANARivO, THE CAPITAL. 49
-
-halo, is a handsome stone structure with towers crowned by
+capital. Of these, the largest one, or cathedral, close to Andohalo, is a handsome stone structure with towers crowned by
 octagonal lanterns. There are also large buildings as residences
 for priests, lay brothers, and sisters of mercy, and for schools
 and press.i
@@ -3440,8 +3363,7 @@ and seem to show some imaginative power. Thus the light
 fleecy clouds in the upper regions of the atmosphere are called
 " sky gossamer " {farora-ddnitrd) ; the sun is the " day's-eye "
 {mdsodndrd) ; the galaxy is the " dividing of the year " (^-
-taond) ; the rainbow is " God's large knife " {dntsib^n' Andriamdnitrd) ; and a waterspout is the " tail of the sky " {rdmbon-
-ddnitrd).
+taond) ; the rainbow is " God's large knife " {dntsib^n' Andriamdnitrd) ; and a waterspout is the " tail of the sky " {rdmbonddnitrd).
 
 January is usually the wettest month in the year in Imerina ;
 and in some years there occurs what the Hova call the hafitSana
@@ -3596,8 +3518,7 @@ frequented thoroughfares, like the chief embankment leading
 out from the city westwards, swarm with rats and mice, which
 must pick up a very good living at this time of the year.
 Other animals also take toll from the harvest, especially the
-Fody, or Madagascar cardinal-bird, which may be seen sometimes in large flocks, the bright scarlet plumage of the cock-
-bird making him a very conspicuous feature of the avifauna
+Fody, or Madagascar cardinal-bird, which may be seen sometimes in large flocks, the bright scarlet plumage of the cockbird making him a very conspicuous feature of the avifauna
 during the warmer months. These birds sometimes do
 considerable damage to the rice-crop. Large quantities of
 rice-stalks are now to be seen in all directions, spread
@@ -3878,8 +3799,6 @@ groups of extinct craters. In the central provinces of Madagascar there are two 
 vents ; one of them in and about the same latitude as the
 
 
-THE CRATER LAKE OF TRITRIVA. 83
-
 capital (19° S.), but from fifty to seventy miles away to the west
 •of it, in the neighbourhood of Lake Itasy ; the other in the
 district called V^kinankiratra, situated about eighty miles to
@@ -3955,8 +3874,6 @@ of water, blue as the heavens in colour, in shape an irregular
 square, but curving round to the north-west, where it shallows
 
 
-THE CRATER LAKE OF TRITRIVA. 85
-
 into a marsh, which is finally absorbed in rice-fields. The lake
 is said to be of profound depth, but the hills surrounding it are
 not very lofty, rising only about 200 feet above the surface of
@@ -4028,8 +3945,6 @@ of the vent, looking as if the rocks had been cut clean through
 with an enormous chisel, and as if they must dip down — as is
 doubtless the case — to unknown depths below the dusky-green
 
-
-THE CRATER LAKE OF TRITRIVA. 87
 
 waters. At the northern end of the lake is a deep gorge or
 cleft, partly filled with bushes and other vegetation. Southward
@@ -4106,8 +4021,6 @@ of Iblty to the south ; and then west, a flat region broken by
 abrupt hills ; to the north-west are the thickly populated valleys
 
 
-THE CRATER LAKE OF TRITRIVA. 89
-
 towards B^tafo, with many a cup-shaped hill and mountain
 marking old volcanic vents ; and beyond this a high mass of
 country, with serrated outline against the sky, showing the
@@ -4179,12 +4092,7 @@ Baron, F.L.S., F.G.S., contributed to the Quarterly Journal of the
 Geological Society, for May, 1889, and entitled "Notes on the
 Geology of Madagascar." Mr. Baron is the chief authority on
 the geology of the island and has made a special study of the
-petrology ; and all that he describes is from personal observa-
-
-
-THE CRATER LAKE OF TRITrIvA. 9 1
-
-tion and microscopic examination of all the known rocks of the
+petrology ; and all that he describes is from personal observation and microscopic examination of all the known rocks of the
 country.
 
 "Volcanic Phenomena. — The scene of the greatest display of former volcanic activity in Central Madagascar has
@@ -4255,8 +4163,6 @@ the core of an old volcano.
 and in the neighbourhood of B^tifo, in V^kinankiratra (the
 former being fifty-five miles west, and the latter seventy-five
 
-
-THE CRATER LAKE OF TRITRtVA. 93
 
 miles S.S.W., of the capital), there are numerous volcanic cones,
 which are undoubtedly much more recent than the volcanic pile
@@ -4332,8 +4238,6 @@ a few other plants grow on it abundantly.
 " As to the nature of the volcanic rocks of the district, it may
 
 
-THE CRATER LAKE OF TRITRiVA. 95
-
 be said that these comprise basalt, andesite, trachyte, trachytic
 tuff, palagonite tuff, and limburgite. Some of the trachytic rocks
 contain large porphyritic crystals of glassy felspar (sanidine).
@@ -4373,8 +4277,7 @@ GASCAR ; WITH NATURAL HISTORY AND OTHER
 NOTES.
 
 The Rest-house — Amboniloha Hill — A deserted village — Ambatovory rock —
-Woodland paths— Birds — Lizards and chameleons — Grasshoppers — Protective colouring — Waning colours — Beetles — Ants and ant-nests — Ball-
-insects— Spiders — Butterflies — King Butterfly — Solitary wasps — ^Wasp-nests
+Woodland paths— Birds — Lizards and chameleons — Grasshoppers — Protective colouring — Waning colours — Beetles — Ants and ant-nests — Ballinsects— Spiders — Butterflies — King Butterfly — Solitary wasps — ^Wasp-nests
 — Angavokely IVIountain — Extensive prospect.
 
 BY the kind consideration of the Directors of the London
@@ -4395,8 +4298,6 @@ bush. This vegetation is probably a remnant of the original
 forest, which once covered a much larger area of this mostly
 bare and treeless Imerina, and it forms a refreshing contrast to
 
-
-AMBATOVORY, ONE OF OUR HOLIDAY RESORTS. 97
 
 the moory hills and rocky mountains which are seen in every
 direction. The Mission Rest-house is a good six-roomed
@@ -4621,8 +4522,6 @@ they are common on other kinds of trees. They have a very bad smell. Nearer
 the forest are other kinds of bugs, but of the most brilliant colours, and also evil
 smelling.
 
-
-AMBATOVORY, ONE OF OUR HOLIDAY RESORTS. 103
 
 the proportion of about one to forty or fifty of the darkercoloured ones. There are also a few individuals of the same
 shape as the brown one, but yellowish-green in colour. What
@@ -5100,8 +4999,7 @@ Peninsula for " hill " is bukit, no doubt the same word as vbhitra.\
 
 
 northern extremity of the island, is called Amb6hitra and is
-said to be more than 6,000 feet high. The usual word for mountain, tendromhbhitra, i.e., " point of the town " or " hill," also con-
-firms this ; the old towns in the centre of the island were always
+said to be more than 6,000 feet high. The usual word for mountain, tendromhbhitra, i.e., " point of the town " or " hill," also confirms this ; the old towns in the centre of the island were always
 built for security on the tops of hills, so that the names of hill
 and town seem quite interchangeable.^
 
@@ -5228,8 +5126,7 @@ Height of course involves some degree of mystery and dread,
 which ideas are accordingly embodied in several mountainnames. Thus we find Ambohijanahary, " God's-hill," in several
 districts ; the word Zanahary (Creator) being vaguely applied
 by the Malagasy to many things which they cannot understand ;
-as is also the other word for God, Andriamanitra, as in Andriaminitravato, " God's-rock," and Amb6hitrandriamanitra, " God's-
-hill " (or town). Of names of this class are Imanondrolanitra
+as is also the other word for God, Andriamanitra, as in Andriaminitravato, " God's-rock," and Amb6hitrandriamanitra, " God'shill " (or town). Of names of this class are Imanondrolanitra
 " Sky-pointing," and Itslandanitra, " Not-in-the-sky." A mountain in the Tanala (forest) region is the Malagasy Hades, the
 caves in it being supposed to be the dwellings of departed
 spirits, and is called Iratsy (or Iraty), " The-evil-place." The few
@@ -5258,8 +5155,7 @@ howling of the wind round the top gives the name of another
 hill, Amb6himitr6na, " Bellowing-hill."
 
 Somewhat poetical names occur in Ambohijanamasoandro,
-" Hill-of-children-of-the-Sun," in Fonovaratra, " Thunderboltcovering," in T6mpomb6hitra, " Lord-of-the-hills," in Andria-
-nambo, " King-of-the-heights " (or " Kingly-height "), and in
+" Hill-of-children-of-the-Sun," in Fonovaratra, " Thunderboltcovering," in T6mpomb6hitra, " Lord-of-the-hills," in Andrianambo, " King-of-the-heights " (or " Kingly-height "), and in
 Malakialina, " Quickly-night," the name of a hill north of Ambohimanga, whose height causes a deep gorge to the east of it to
 be soon in darkness after sundown.
 
@@ -5285,8 +5181,7 @@ names of hills in which natural features are referred to. Thus
 we find it in its simplest forms of Ambito and Ivato, and then
 in combination with the words for the colours blue, black, white,
 red, and speckled, as Ambatomanga, Ambatomainty, Ambatofotsy, Ambatomena, and Ambatovandana ; with those for size —
-littie, big, and immense, as Ambatokely, Ambatobe, and Ambatovaventy ; and with those for height, length, roundness, steep-
-ness, bareness (lit, " baldness "), and wooded outline (lit, " hairiness"), as Ambatoavo, Ambatolava, Ambatovory, Ambatomi-
+littie, big, and immense, as Ambatokely, Ambatobe, and Ambatovaventy ; and with those for height, length, roundness, steepness, bareness (lit, " baldness "), and wooded outline (lit, " hairiness"), as Ambatoavo, Ambatolava, Ambatovory, Ambatomi-
 hantona, Ambatos61a,i and Ambatovaloina. Besides these are
 King's-stones, Prince's-stones, many Famous-stones, as well as
 some Level-topped-stones, Sharply-pointed stones, and Doublepeaked-stones.2 Some hills which terminate in a solitary
@@ -5330,8 +5225,7 @@ While mountain summits in Central Madagascar are usually
 of bare rock, here and there their names show that wood, more
 or less extensive, once covered their heights, and in many names
 dla, "forest," comes into combination. Thus we find lalaroa,
-" Two-woods," Analab4 " Great-wood," Iv6hialab6, " Hill-ofmuch-wood," Analamanantona, " Hanging-wood," Analamira-
-viravy, " Overhanging-wood," Analamanara, " Cold-wood," Analamahitsy, " Upright- wood," Analambano, " Heron's-wood,"
+" Two-woods," Analab4 " Great-wood," Iv6hialab6, " Hill-ofmuch-wood," Analamanantona, " Hanging-wood," Analamiraviravy, " Overhanging-wood," Analamanara, " Cold-wood," Analamahitsy, " Upright- wood," Analambano, " Heron's-wood,"
 Analambato, and also Isomotra, " Beard," probably a fanciful
 allusion to woods ; and several others, including words of
 obscure meaning. Hazo, "tree," also occurs in several hillnames, as Ankazotokana, " Solitary-tree," Ankazob6, " Big-tree,"
@@ -5344,8 +5238,7 @@ red dye, Ambolobd, " Much-bamboo," Ivoara, " Fig-tree," and
 • One of the tribal divisions ot the Hova Malagasy bears the name of Mandiavato, " Treaders-of-the-rock."
 
 
-Ambiaty, the name of a shrub. Vary, "rice," z.nAfdry, "sugarcane," also occur in the names of three or four hills ; Ambo-
-hibary is a very lofty mountain in S. B^tsileo ; and we also
+Ambiaty, the name of a shrub. Vary, "rice," z.nAfdry, "sugarcane," also occur in the names of three or four hills ; Ambohibary is a very lofty mountain in S. B^tsileo ; and we also
 find Tamponk^tsa, " Summit-of-rice-ground," and Antsihafiry,
 " Sugar-cane-field." The fragrant grasses found in many
 places have suggested names for several hills, the word
@@ -5362,10 +5255,8 @@ Farihilava, " Long-lake," and Manjarano, perhaps, " Dun-
 (coloured-)water " (this is also the word for plumbago). One
 hill is called Anivonirano, " In-the-midst-of-waters."
 
-The pleasant situation and pure air of many hills is recognized in their names, as Ambohitsara, "Good-" and Ambohi-
-tsarabd, "Exceedingly-good-hill," Ambohitsoa, "Pleasant-hill" (a
-frequent name), Nosifaly, " Joyful-island," Nosisoa, " Pleasantisland," Bemasoandro, " Much-sun," and Tokotanitsara, " Good-
-settlement " ; while the steep ascents and difficulty of climbing
+The pleasant situation and pure air of many hills is recognized in their names, as Ambohitsara, "Good-" and Ambohitsarabd, "Exceedingly-good-hill," Ambohitsoa, "Pleasant-hill" (a
+frequent name), Nosifaly, " Joyful-island," Nosisoa, " Pleasantisland," Bemasoandro, " Much-sun," and Tokotanitsara, " Goodsettlement " ; while the steep ascents and difficulty of climbing
 to their tops are shown in the names of others, as Mahak6-
 traka, " Disheartening," and Mahareraka, " Exhausting." The
 deep kdcfy or fosses with which many hills are scored, and dug
@@ -5401,8 +5292,7 @@ height, there are numerous hills called "Impassable" by birds
 hawks, kites, &c.) . The largest and most valuable animal of the
 country, the humped ox, ojnfy, gives names to a good many
 hills ; in its simplest form, Ambohitromby, " Ox-hill," and
-Amb6hitr6mbalahy, " Bull-hill," and in Andraokomby, " Lickedup-by-oxen," Antandrokomby, " Ox-horn," Antrafonomby, "Ox-
-hump," and in Amb6himan6to, " Butting-hill." The words for
+Amb6hitr6mbalahy, " Bull-hill," and in Andraokomby, " Lickedup-by-oxen," Antandrokomby, " Ox-horn," Antrafonomby, "Oxhump," and in Amb6himan6to, " Butting-hill." The words for
 sheep ihndry), goat {psy), and wild-hog {Idnibd), are found in
 several hill-names ; as Ambaton6ndrilahy, Ants^hanondry,
 Ambohitrondry, Ambatonosy, and Lohalambo, " Hog's-head."
@@ -5445,15 +5335,13 @@ we find the following : Anjomba, " Conch-shell," Amb6hib61a,
 " Money-hill," Ampdrif^ry, " Pepper-place," B6t6ngotra, " Bigfooted," Ant^mitra, " Matted," Sompitra, " Rice-basket," Vinany
 
 
-" A Guess," Ambilany, " At-the-pot," Amb6himizana, " Moneyscales-hill," Ankafotra, " At-the-hafotra " (tree), Laona, "Rice-
-mortar," &c.
+" A Guess," Ambilany, " At-the-pot," Amb6himizana, " Moneyscales-hill," Ankafotra, " At-the-hafotra " (tree), Laona, "Ricemortar," &c.
 
 Of adjectives employed as hill-names there are only a few,
 as Mangidy, " Bitter," Mora, " Easy," and Man6va, " Beautiful " ;
 but a large number of verbs are used as hill-names ; e.g.,
 Ambohitsimioza, " Not-bathing-hill," Manana, " Having," Amb6-
-himanahy, " Disquieting-hill," Amb6himan6a, " Tribute-payinghill," Amb6himahalala, " Knowing-hill," Mahasarotra, " Making-
-difficult," Ambohimandray, " Receiving -hill," Ambohitsil^o,
+himanahy, " Disquieting-hill," Amb6himan6a, " Tribute-payinghill," Amb6himahalala, " Knowing-hill," Mahasarotra, " Makingdifficult," Ambohimandray, " Receiving -hill," Ambohitsil^o,
 " Unconquered hill," Manadala, " Making-foolish," Manalalondo,
 (perhaps) " Throwing-off-drowsiness," and Mahasoa, " Benefiting." A curious name occurs in Mantsihoaiza, which is,
 literally, "Say, where to?"
@@ -5518,12 +5406,7 @@ potable at a mile's distance from its outlet.
 The names of Animals are applied to a few Madagascar
 rivers, as in Mamba, " Crocodile " (almost every river swarms
 with these reptiles), Ombifotsy, " White-ox," Amb6romp6tsy,
-" At-the- White-bird " (an egret), Antanandambo, " Wild-hog's-
-
-
-128 MADAGASCAR BEFORE TPIE CONQUEST.
-
-foot " (lit, " hand "), Sahalambo, " Wild-hog's-field," and Sahanamalona, " Eel's-field." This word sdha, " field," is found in
+" At-the- White-bird " (an egret), Antanandambo, " Wild-hog'sfoot " (lit, " hand "), Sahalambo, " Wild-hog's-field," and Sahanamalona, " Eel's-field." This word sdha, " field," is found in
 some other river-names, as Sahasirotra, " Difficult-field," Saha-
 6mby, "Spacious-(?) field," or perhaps "Ox-field," and Is^hanonja,
 "The-field- (or place) of-waves"; also Sahafilo,j^/i9=" needle,"
@@ -5533,16 +5416,14 @@ Ambato, " At-the-stone," is found in several river-names, as
 well as in those (as already seen) of mountains and towns ;
 in these cases it probably refers to some hill or rock where the
 stream takes its rise or near which it flows, or possibly from
-its rock-impeded channel. Thus we find, Ambitolampy, " Atthe-rock," Ambatomiady, " At-the-fighting-stone," Ambato-
-mainty, " At-the-black-stone," and Ambatotsipahina, " At-thekicked-stone " (probably with some reference to giant legends).
+its rock-impeded channel. Thus we find, Ambitolampy, " Atthe-rock," Ambatomiady, " At-the-fighting-stone," Ambatomainty, " At-the-black-stone," and Ambatotsipahina, " At-thekicked-stone " (probably with some reference to giant legends).
 One river is called Ankazotsipihina, " At-the-ruled-(or straightened) tree," another is called Fantara, a name also given to
 meteoric stones, and another is Varahina, " Copper."
 
 As with mountains, so also a few rivers have names referring
 to persons ; two or three have the personal prefix Andrian-, as
 Andriambilany, and Andriam6nak61y, " Prince-of-the-estate."
-One is curiously called Ik6toratsy, "Bad-boy," another, Zanakolona, " Son-of-men," and another, Andranonandriana, " At-the-
-prince's-stream."
+One is curiously called Ik6toratsy, "Bad-boy," another, Zanakolona, " Son-of-men," and another, Andranonandriana, " At-theprince's-stream."
 
 It must be said, however, that the above examples include
 (excepting the Mania and the Onilahy) few of the largest
@@ -5735,8 +5616,7 @@ justice. To the east of the capital is Amb^toroka, " Craggy-rocks,"
 
 
 a rough piece of ground covered with boulders, and a former
-place of execution ; further south is Mahazoarivo, " Having-athousand " ; while to the west is a rounded hill called Amho-
-hijanahary, " God's-hill " ; and stretching for many miles west,
+place of execution ; further south is Mahazoarivo, " Having-athousand " ; while to the west is a rounded hill called Amhohijanahary, " God's-hill " ; and stretching for many miles west,
 north, and south is the immense rice-plain of Betsimit^tatra,
 " Great-undivided," a name evidently given before its enclosure
 and cultivation, for it is now much divided by tdtatra or waterchannels.
@@ -5792,8 +5672,7 @@ Ambatos6a, Amb6divato, " At-the-bottom-of-the-rock," Ant6ngombato, " At-the-foot
 "At -the -solitary-rock," Amparaf^ravato, "At -the -stone -bedstead " ; this is one of the three Malagasy towns to which
 entrance is forbidden to Europeans by an article in the 1865
 treaty, since they were then the seats of the chief idols. In the
-Sihanaka province is a town called Amp^rafarav61a, " At-thesilver-bedstead," and there are several Ambatomal^za, " Famous-
-stones." Then there are found Ihkrana, Ankaranila, Ankaramalaza, and Ankaratsinanana. The colour of the soil also gives
+Sihanaka province is a town called Amp^rafarav61a, " At-thesilver-bedstead," and there are several Ambatomal^za, " Famousstones." Then there are found Ihkrana, Ankaranila, Ankaramalaza, and Ankaratsinanana. The colour of the soil also gives
 frequent names, as Antanif6tsy, "White-earth," Amb6hip6tsy,
 " At-the-white-hill," Ank^dif6tsy, " At-the-white-fosse," Ampasi-
 
@@ -5809,13 +5688,11 @@ Trees and woods give many town-names, as Ambolob^,
 Amb6dirofla, " At-the-foot-of-the-rofia " (palm), Antaplabd,
 " Much-iapm " (a tree with edible fruit, and used for silkworm
 culture), Ampangab6, "Much-fern," Iv6hidr6y, "Bramble-town,"
-Ambiatavo, " At-the-gourds," Ankizomksina, " At-the-sacredtree," lalamalaza, " Famous-wood," Analamaizina, " At-the-dark-
-wood," Amb^niala, " Below-the-wood," B^ravina, " Much-foliage,"
+Ambiatavo, " At-the-gourds," Ankizomksina, " At-the-sacredtree," lalamalaza, " Famous-wood," Analamaizina, " At-the-darkwood," Amb^niala, " Below-the-wood," B^ravina, " Much-foliage,"
 Timponala, " Top-of-the-wood," &c. The pleasant situation of
 many villages gives appropriate names to not a few of them,
 which contain the words tsdra (good) and soa (pleasant), the
-latter of which is especially frequent, as Antanantsara, Ambohitsira, Its^rafidy, "Well-chosen," Itsarahonenana, "Good-for-
-dwelling-in," Ambihitsoa, Ambatos6a, Ambilasoa, Antsahasoa,
+latter of which is especially frequent, as Antanantsara, Ambohitsira, Its^rafidy, "Well-chosen," Itsarahonenana, "Good-fordwelling-in," Ambihitsoa, Ambatos6a, Ambilasoa, Antsahasoa,
 Iklanjas6a, Isoaririnina, " Pleasant-in-winter," and Soamonina,
 " Pleasant-to-dwell-in." The latter word also comes in frequently
 in villages called Soavina and Soamanana ; one is termed S6atsim^nampiovina, " Unchangeably-pleasant," and the same idea
@@ -5846,8 +5723,7 @@ every old village (and homestead), and very frequently several
 deep trenches are found one within the other ; as Ankadib^,
 Ankadisarotra, Ankadimainty, Ankadifotsy, Ambodihady, and
 Ankadiv6rib6, " Big-round-fosse " (the ordinary name for a
-country house is hddivbry) ; and in sdha, " field," as Antsihapdtraka, Antsahafilo, Antsaharoaloha, " Two-headed-field," Is^ha-
-fary, "Sugar-cane-field," and Isahabato, " Stony-field," &c. There
+country house is hddivbry) ; and in sdha, " field," as Antsihapdtraka, Antsahafilo, Antsaharoaloha, " Two-headed-field," Is^hafary, "Sugar-cane-field," and Isahabato, " Stony-field," &c. There
 are a very few village-names referring to roads, or rather paths,
 as Ants^mpanimahazo, freely translated, " You may choose your
 path," applied to two or three places at the junction of crossroads ; another bears the (probably often too appropriate) name
@@ -5893,8 +5769,7 @@ the words mamba and voay, " crocodile," dlnta, " leech," ambba,
 all occurring ; thus, Mambazato, " Hundred-crocodiles " (no
 exaggeration this in numberless places) ; less definite, but very
 suggestive, is Marovo^y, " Many-crocodiles," a Hova post and
-Arab settlement near the mouth of the B^tsiboka river ; Masombo^y, Antsahadinta, Amboatany, Amb6hitr6sy, Ants^hamaro-
-foza, and Antohok^la. Most frequent are those compounded
+Arab settlement near the mouth of the B^tsiboka river ; Masombo^y, Antsahadinta, Amboatany, Amb6hitr6sy, Ants^hamarofoza, and Antohok^la. Most frequent are those compounded
 with bmby, " ox," as Mimi6mby, " Sweet-to-oxen," probably
 referring to good pastures (S6aron6no, " Good-(for) milk," is
 ' Of, Words and Places, p. 367 ct seq.
@@ -5915,8 +5790,7 @@ The most common village-names of the class already
 grouped as personal are those derived from chieftainship, frequently including the words manjdka, sovereign, and andrlana,
 prince, noble ; and our English Kingstowns, Kingstons, and
 Princetons find a Malagasy parallel in numerous places called
-Ambohimanjcika, Ambohitrinimanjaka, Ambatomanjaka, Manjakanandriana, Miadamanjaka, " Reigning-peacefully," Amb6hi-
-trandriana, Ambatonandriana, and Iharanandriana ; some of
+Ambohimanjcika, Ambohitrinimanjaka, Ambatomanjaka, Manjakanandriana, Miadamanjaka, " Reigning-peacefully," Amb6hitrandriana, Ambatonandriana, and Iharanandriana ; some of
 these being probably the chief's village in earlier times. Of somewhat similar meaning is Ikianjamalaza, " Famous-courtyard,"
 and Ikianjasoa ; while the principal village of a former petty
 state, often a very little place, is remembered in many an
@@ -5937,8 +5811,7 @@ as part of a religious service.
 Amb6hidratrimo, Ambohidrapeto,^ Amb6hidratamo, Amb6hidramijay, and Ambatondrazaka.^
 
 Some tribal divisions or boundaries are probably preserved
-in the many village-names which include the word arivo, " thousand," zdio, "hundred," and /o/o, "ten," as, Ivohitrarivo, Ambo-
-hip61oarivo (io,ooo), Soavinarlvo, Iharinarivo, Amb6hijato and
+in the many village-names which include the word arivo, " thousand," zdio, "hundred," and /o/o, "ten," as, Ivohitrarivo, Ambohip61oarivo (io,ooo), Soavinarlvo, Iharinarivo, Amb6hijato and
 Ambijato, and Amp61o. Tribal names are given to some
 villages, which were formerly perhaps their chief settlement;
 as, Anjanadralambo (the Zanadralambo are the sixth and
@@ -6173,8 +6046,7 @@ II
 the Ilalangina), Ankaranosy (the ascent to which might well be termed a
 " goat-tract," bsy = goat) and Ankaratsinanana. More common still are names
 recording other physical features of the locality, as Ivatoavo, Ambatoreny,
-Ambatosba, Vatomitatana, Ambatomena,Andranovorivato, Vatofbtsy, Anjblobato, Ambatomainty, Ambatofinandrahana ("the chiselled rock"), Ambb-
-himiarina (which is " perched up " near the crest of a high hill), Midbngy
+Ambatosba, Vatomitatana, Ambatomena,Andranovorivato, Vatofbtsy, Anjblobato, Ambatomainty, Ambatofinandrahana ("the chiselled rock"), Ambbhimiarina (which is " perched up " near the crest of a high hill), Midbngy
 (on a hill in the south), and Modbngy (in the west ; a cloud seems to be
 always sullenly ' frowning round its overhanging brow), Ilambsina, Ampasiiia
 (== Ampasika), Vinany and its numerous compounds. There are at least
@@ -6196,8 +6068,7 @@ must be in the Tanala (forest region).
 
 Animals are represented in such names as Alambomandrevo, lavonom.by
 Vbhitrbmby, Maroparasy, Bevbalavo, larinbmby, Itaolana, Kalalao, Ankaranbsy. Ambbhitsandrazanimamba is not such an instance. The mamba
-or voiy, with the Betsileo, is not only the crocodile, but the big, aweinspiring man — king, chief, or governor — in any place ; and Ambbhi-
-tsandrazanimamba was so named when old Andriamaniilina, in dividing
+or voiy, with the Betsileo, is not only the crocodile, but the big, aweinspiring man — king, chief, or governor — in any place ; and Ambbhitsandrazanimamba was so named when old Andriamaniilina, in dividing
 his inheritance among his sons, directed that one of them — probably the
 eldest — should leave the old Isimdra capital of Mahazoarivo and reside at
 Ambbhitsandrazana. The mamba was to miandvy fanjakana (guard the
@@ -6350,8 +6221,6 @@ sovereign is Ampingdra-bSlamena, literally "golden gun," the
 first part of the phrase being taken from the Portuguese espingarda, so that this term is not of more ancient origin than about
 
 
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 151
-
 three centuries ago, or, at most, three centuries and a half.
 
 Another term applied to the sovereign is Fdhiray, " first," a word
@@ -6433,8 +6302,6 @@ remembrance of a former period when the Hova were not, as
 they are now, an inland people, but a coast-dwelling or an island
 
 
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 1 53
-
 tribe, and buried their dead in an old canoe, as is still the custom
 with the Sakalava,! the B^tsimisaraka, and other Malagasy
 peoples living on the coast.
@@ -6511,8 +6378,6 @@ A feeling of delicacy causes other euphemisms, such as the
 speaking of the dead, who are said to be as " Salt fallen into water which cannot
 be salt again " Q'Sira Icitsaka an-driuw ka tsy himpody intsdny ").
 
-
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 1 55
 
 phrase didiam-poitra, literally, " cutting the navel," instead of
 fira and other terms denoting the circumcision ceremonies.
@@ -6591,8 +6456,6 @@ essay on the subject. He entitles it —
 reference to their chiefs.
 " The Betsileo are a people who pay extraordinary respect to
 
-
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 1 57
 
 their chiefs, and from this fact everything relating to them is a
 thing kept specially for them, and is not allowed to be mixed
@@ -6788,9 +6651,6 @@ the breasts of kings."
 chief's children, when deprecating blame (as is always done in the opening sentences of a kabary or public speech),
 
 * Cf. " The lamp of the body is the eye."
-
-
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 1 59
 
 
 0''rf'»«^vS£fe//eo £„^;,.^./,
@@ -7185,8 +7045,6 @@ driver away," ox famovo, " the barker," &c.
 daughters named respectively Razaivelo, Raovelo, Ravelonoro, and Ranorovelo.
 
 
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 163
-
 Among certain Sakalava tribes certain birds and animals are
 fady, or sacred or tabooed by the chiefs and their families.
 Thus the grey or sooty Parrot ^ \sfady to one of the V^zo royal
@@ -7263,8 +7121,6 @@ Betsimifsarn, p. 5, I End this word thus given : " Ampentzek, s. Neuf, nouveau,
 nouvel arrive."
 
 
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 165
-
 One more point as to Malagasy royal names may be mentioned. Among the Sakalava the chiefs' names are changed as
 well as among the Hova, not, however, at their accession to
 power, but after their death. A new name is then given to them,
@@ -7337,8 +7193,6 @@ royalty which are significant outward acts, although, perhaps,
 not strictly to be reckoned as portions of the gesture language.
 
 
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 1 67
-
 Among these are the shaving of the head by the whole population at the death of the sovereign ; the wearing at royal
 funerals of the Idinba, or outer loose robe, below the armpits
 instead of over the shoulders, so as to leave the upper part of
@@ -7364,8 +7218,7 @@ direction.
 
 7. Another point to be here noted is the act which takes the
 place which kissing occupies among Western peoples. The kiss
-seems almost unknown among the Malagasy, except as introduced by Arabs and Europeans, and its place is taken by nose-
-rubbing, or rather of nose-pressing, a custom, as is well known,
+seems almost unknown among the Malagasy, except as introduced by Arabs and Europeans, and its place is taken by noserubbing, or rather of nose-pressing, a custom, as is well known,
 widely used by uncivilised peoples, and apparently a relic of a
 very primitive habit of recognising another person by scent or
 smell. The native word for this is manhroka, a verb derived
@@ -7414,8 +7267,6 @@ In the ordinary salutation of the Hova, Mando akhry hianho ?
 (" How dost thou do ? ") the head is usually thrown up instead
 of bending it down. In expressing astonishment, usually with
 
-
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 169
 
 the word Odri ! ("Dear me!" or "Oh dear!") the fist is
 frequently held to the mouth. As Mr. Thome remarks, the
@@ -7487,8 +7338,6 @@ congregation, refuse to sing at all for a long time after the death of a relativ
 =' Malagasy children very frequently count on their toes, instead of their
 fingers.
 
-
-CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. 171
 
 make the talk much more emphatic by these means." " A loose
 woman may sometimes be known {i.e., when she is plying her
@@ -7610,8 +7459,6 @@ paragraph, are connected with the largest animal found in
 ■ " Some Additional Folk-lore from Madagascar."
 
 
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 75
-
 Madagascar, the humped and long-horned ox. The Sakalava
 of Menab6, on the west coast, not only seldom kill red oxen for
 food, but at their circumcision festivals, and then only, they kill
@@ -7701,8 +7548,6 @@ for sacrifices and as presents to the sovereign or chief.
 ■ Vide ante, Chapter VIII., p. 163.
 
 
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 77
-
 time becomes _/a^ or tabooed. No more is seen of it (of course),
 but they think it is not killed, but changes into a snake or lizard,
 or some animal forming a connecting link between these two
@@ -7778,12 +7623,7 @@ post supporting the roof of the house ; this was called santataona,
 i.e., " first fruits of the year."
 
 On certain occasions a cord is directed by the diviners to be
-fastened from the south-west corner of the house to the north-
-
-
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 79
-
-east (the sacred) corner of it ; this is done as a sbrona or means
+fastened from the south-west corner of the house to the northeast (the sacred) corner of it ; this is done as a sbrona or means
 of obtaining blessing, and is called tddivka, i.e., " finished " or
 " perfected cord."
 
@@ -7940,8 +7780,6 @@ work their rice-fields on a Thursday seems to be the most important as this may 
 houses is not permitted, death being the supposed penalty in
 
 
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 83
-
 case of transgression. To use hemp, either in the form of cloth
 or for smoking, is also universally tabooed. The last-named
 fMy is remarkable from the fact that it is very unusual for the
@@ -8012,8 +7850,6 @@ no fddy in connection with it. The very latest fddy which has
 come under my notice, and one I should think of recent invention, is very peculiar : a child is not allowed to accept a picture,
 lest it should be followed by European ghosts !
 
-
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 85
 
 SOME POPULAR MALAGASY SUPERSTITIONS.^
 
@@ -8109,8 +7945,6 @@ When one sees an Aiidrongo (a small lizard) with two tails.
 
 ' Tinnuncnliis Newtonii, Gurn. ° Scopus umbrelta, Gui'n.
 
-
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 187
 
 Some omens have relation to famine, as the following : —
 
@@ -8213,8 +8047,6 @@ Scops rutilis, Pucher ; and a Hairy-footed Owl, Ninox supcrciliaris, Vieill.
 3 Alaiida hova, Hartl.
 
 
-MALAGASY FOLK-LORE AND POPULAR SUPERSTITIONS. 1 89
-
 dreams, and consider what natural causes there might be for
 them, so as to counteract the evil forebodings which some of
 them suggest. They " console their hearts " when they have
@@ -8305,8 +8137,7 @@ BOLIC ACTIONS, AND CONUNDRUMS.
 Folk-lore — Folk-tales — Proverbs — Kabary — Oratory and figures of speech — The
 desolate one — Mutual love — The bird — A divorced wife — Transitoriness of
 life — Bereavement — Death — Imagination — Boasting — The crocodile — A place
-for everything — Filial love — Friendship — Thanksgiving — Evil speech — Symbolic acts — The two kings — The heir to the throne — Riddles and conun-
-drums.
+for everything — Filial love — Friendship — Thanksgiving — Evil speech — Symbolic acts — The two kings — The heir to the throne — Riddles and conundrums.
 
 THE most valuable contribution to our knowledge of Malagasy Folk-tales has been made by the Rev. Lars Dahle, of
 the Norwegian Lutheran Mission, who published at Antananarivo
@@ -8339,8 +8170,7 @@ under a number of heads, giving also racy English translations
 and numerous illustrative notes. After a long delay this carefully arranged book is now in course of publication in the
 Antananarivo Annual.
 
-In 1873, Mr. Cousins published another small volume containing twenty-six Kabary or royal and other speeches and pro-
-clamations, dating from 1787 to 1872. These public addresses
+In 1873, Mr. Cousins published another small volume containing twenty-six Kabary or royal and other speeches and proclamations, dating from 1787 to 1872. These public addresses
 are not only of considerable interest as historical documents,
 but they have a great value as preserving archaic words and
 obsolete or obsolescent forms of conversation, and thus throwing
@@ -8363,8 +8193,6 @@ central province), derived from native sources, that is, manuscripts written dur
 work gives, in addition to the political history, a considerable
 amount of information about the native customs, as they are
 
-
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 193
 
 supposed to have successively arisen from the earliest times,
 including not a little folk-lore, and native beliefs as to supposed
@@ -8454,8 +8282,7 @@ sententious forms of the proverbs ; and others take the shape of
 a conversation between imaginary persons, whose names often
 afford a Jcey to the sentiments they express. The language
 readily lends itself to such coinage of names ; some one of half
-a dozen different prefixes being joined to words or short sentences immediately turns them into proper names, each appro-
-priate for the speakers, whether male or female, old or young, &c.
+a dozen different prefixes being joined to words or short sentences immediately turns them into proper names, each appropriate for the speakers, whether male or female, old or young, &c.
 Very frequent allusions are made to fidelity to friendship,
 which is a strongly marked feature of the Malagasy character,
 as shown by the practice of brotherhood-by-blood covenants.
@@ -8719,8 +8546,6 @@ advance unheard, its movements unobserved, lying still in the pools with-
 they are species of Ficus, both bearing edible, though not very palatable, fruit.
 
 
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 201
-
 out diving, and lying in tlie water without paddling. So then, say I, good
 folks, perhaps the old fellow [lit., " your senior "] is dead and therefore
 does not show up, or is somehow prevented and so does not return.
@@ -8804,16 +8629,13 @@ proverbs, which are quoted by their neighbours with great gusto,
 carrying manure in baskets, &c.
 
 
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 203
-
 and are heard with equal chagrin by the unfortunate objects of
 these satirical bon-mots. Thus the people of Ambohipeno are
 held up to scorn in the saying, " The arums of Ambohipeno :
 they had rather let them rot than give one to a neighbour."
 
 The sixth section of Specimens of Malagasy Folk-lore consists
-of a short series of seven Speeches, under the heading of Haingom-pitenina-n! ny Ntaolo raha nifandnaira izy, that is, " Orna-
-ments of Speech among the Ancients, when they mutually
+of a short series of seven Speeches, under the heading of Haingom-pitenina-n! ny Ntaolo raha nifandnaira izy, that is, " Ornaments of Speech among the Ancients, when they mutually
 admonished." Although in Mr. Dahle's selection these follow
 the native songs, they would seem to be more properly placed
 next to the first division of the book, Haint^ny Idvaldva, or
@@ -8899,8 +8721,6 @@ black when diving, black when emerging ; for if thou dost like the little
 before planting,
 
 
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 205
-
 crab 111 the hole : grasped by the hand and yet not got, sprinkled with
 water, and not coming out — then we detest that. Sir ! And now if it
 appears that what is under the eye is not seen, or is under the tongue and
@@ -8980,8 +8800,6 @@ utmost), and sent it to the king, with the words, " This wood is
 my measure ; bid Andrianimpoina equal it ; if he can span it.
 
 
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 207
-
 then I am his son, and not his brother." Upon Andrlanimpoina
 trying it he was unable to reach it, for the Betsileo chief was
 long in the arms. But the Hova king would not give up his
@@ -8996,8 +8814,7 @@ request that an ox should be cut up upon it, as another sign
 whether he was to acknowledge the Hova king as his superior
 or not. This test also turned out to his own advantage ; but at
 length Andrlanimpoina would have no further trifling. He sent
-back the cloth with a piece cut off one end of it, and a spearhole through the middle, as a significant warning of his inten-
-tions unless immediate submission was made. The lesson was
+back the cloth with a piece cut off one end of it, and a spearhole through the middle, as a significant warning of his intentions unless immediate submission was made. The lesson was
 not lost upon the weaker chief ; he returned a humble answer,
 begging that he might not be killed, saying, " While it is to-day,
 all day let me eat of the tender (food) of the earth, for Andrlanimpoina is lord of the kingdom."
@@ -9018,8 +8835,6 @@ feeble, the subject of the succession came up, and she settled
 it in a singular way, substantially as follows ; — She held a
 meeting of her officers, judges, and heads of the people, with
 
-
-208 MADADASCAR BEFORE THE CONQUEST.
 
 great solemnity, within the palace, when she announced her
 intention of making a valuable present to each of the two
@@ -9058,8 +8873,6 @@ question, Inona dry izdny ? (" What then is this ? ").
 I. At night they come without being fetched, and by day they are lost
 without being stolen ?
 
-
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS. 209
 
 The stars ; for, according to the common belief, they go
 completely away from their places by day.
@@ -9142,8 +8955,6 @@ An egg.
 
 A lampstand, which is continually fed with fat.
 
-
-ORATORY, SYMBOLIC ACTIONS, AND CONUNDRUMS, 211
 
 17. Earth under the person, the person under dry grass, dry grass
 under water, and water again surrounded by earth ?
@@ -9283,8 +9094,6 @@ p. 207.
 5 Her son, afterwards king as Radama H. (1861-1863) ; see p. 208.
 
 
-SONGS, POETRY, AND MYTHICAL CREATURES. 21 5
-
 honour due to parents, others expounding the nature of true
 friendship. In one of these latter the hearers are cautioned not
 to make " mist friendship," which soon dissolves ; nor " stone
@@ -9378,8 +9187,6 @@ O gone away ! O gone away, oh !
 
 Is the gentle one, O the gentle one, oh !
 
-
-SONGS, POETRY, AND MYTHICAL CREATURES. 217
 
 Ah, farewell, ah, farewell, oh !
 Farewell, oh ! farewell to his house !
@@ -9487,8 +9294,6 @@ I. Let the living love each other ; for the others (the dead) cannot
 attain it ; for the others are gone home.
 
 
-SONGS, POETRY, AND MYTHICAL CREATURES. 219
-
 2. Let the living love each other ; for the dead are not companions ;
 for the dead belong to the dead, the living belong to the living ; for the
 dead cannot be hoped for, but the living can be hoped for.
@@ -9569,8 +9374,6 @@ Two of the tallest in the party stand up, and face each
 ' These games are chiefly practised by girls, or by girls and very young
 boys.
 
-
-SONGS, POETRY, AND MYTHICAL CREATURES. 221
 
 other, leaving a space between them for a gateway ; and
 clapping their hands together they sing : —
@@ -9694,8 +9497,7 @@ The rest : Tsy ho
 The leaders : Na-
 The rest : Tsy ho
 s : — .8 :in
-a - sa rea - ny re-
-hoa-na reva - ry re-
+a - sa rea - ny rehoa-na reva - ry re-
 
 
 r : — .r : d
@@ -9939,8 +9741,7 @@ Then they all rejoice very much, dancing and beating their
 
 • These are believed to be the inhabitants of the central provinces of Madagascar, and unacquainted with the use of iron ; and are said to have been driven
 westward by a Hova king, named Andriamanelo. See Chapter II. p. 26, ante. A
-remnant of this tribe is said to be still existing in the western part of Madagascar. Their tombs are regarded with superstitious dread, and they are sup-
-posed to appear to people in their dreams. They are mostly malevolent spirits,
+remnant of this tribe is said to be still existing in the western part of Madagascar. Their tombs are regarded with superstitious dread, and they are supposed to appear to people in their dreams. They are mostly malevolent spirits,
 according to the popular belief.
 
 
@@ -10059,8 +9860,6 @@ manmina, to regret. The words are shown by italics.
 on account of these similarities in sound to unpleasant ideas, both six and eight
 are considered unlucky numbers. See Folk-Lorc Record, vol. ii. p. 38.
 
-
-SONGS, POETRY, AND MYTHICAL CREATURES. 229
 
 Eni-mangamanga, Six blues.
 
@@ -10228,8 +10027,6 @@ songa, "having the upper lip turned upward, uncovered," and omby, an ox. Songbmb
 corruption of the French word, sbavaly = chcvah
 
 
-SONGS, POETRY, AND MYTHICAL CREATURES. 23 1
-
 upon the child cried out, " Oh, here he really is ! " But the
 parents replied, " Well, let him eat you," thinking it was only
 the child's deception. After a little while they opened the door,
@@ -10303,8 +10100,6 @@ a chance of escaping it. It eats men, and goes about at night
 ' This is the name of an extinct volcano in the Northern Betsileo country. The
 crater is occupied by a lake of profound depth. See Chap. V.
 
-
-SONGS, POETRY, AND MYTHICAL CREATURES. 233
 
 like the Songomby. There are people who say they have seen
 it, but few compared with those who testify to the existence of
@@ -10382,8 +10177,6 @@ occasionally man, but doubtless a good deal of superstition is mixed up with the
 native accounts of them.
 
 
-SONGS, POETRY, AND MYTHICAL CREATURES. 235
-
 up with the accounts of it. It seems possible that this word
 retains traditions of the Madagascar species of Hippopotamus,
 an animal whose sub-fossil bones have been found in the alluvial
@@ -10408,8 +10201,7 @@ when working the oracle with the words, " Arise, for thou hast
 come from Long-hair," &c.
 
 There are two persons still living who say that they have
-certainly seen it ; their names are Renisoarahanoro and Rainitsimanahy. The former (a woman) chanced to be in the unin-
-habited country, and was called by a name, a name which is
+certainly seen it ; their names are Renisoarahanoro and Rainitsimanahy. The former (a woman) chanced to be in the uninhabited country, and was called by a name, a name which is
 pleasing to the Angaldpona. (For names such as Ras6a ^ and
 the like are pleasing to this creature, so that it fetches such
 as bear these names.) So the Angaldpona came and took her
@@ -11535,8 +11327,6 @@ secret enemies or dangers, to find out what is to be your lot of
 good or evil, the sikldy is the means of doing it. And the best
 
 
-DIVINATION AMONG THE MALAGASY. 263
-
 of it is that it does not, like the Fates or Farces of old, mercilessly leave you to your destiny, but kindly undertakes to avert
 the dreaded evils. If you are sick, the nipisikidy or diviner does
 not at all — like many of our modern doctors — treat you ' tentatively,' which really means leaving you and nature to settle
@@ -11607,8 +11397,6 @@ different days of the month, and the months throughout the
 year, are each supposed to be connected with different constellations. Mr.. Dahle has shown that the native names of the
 months are all Arabic in origin, and are the names of the twelve
 
-
-DIVINATION AMONG THE MALAGASY. 265
 
 Signs of the Zodiac, while the names for the separate days of
 the months are the twenty-eight " Moon-stations " on which the
@@ -12491,8 +12279,6 @@ rules in each case; as many as eighty-one new columns contributing materials for
 sikldy, says Mr. Dahle, reminds him of the Danish proverb:
 
 
-DIVINATION AMONG THE MALAGASY. 277
-
 " Deceit is a science, said the Devil, when he gave lectures at
 Kiel."
 
@@ -12572,8 +12358,6 @@ section might be termed, (i) Zodiacal and Lunary Vintana, and
 A. What, then, is vintana ? If a man was ill, people often
 said, " Perhaps the vintana of his son is too strong for him, or
 
-
-DIVINATION AMONG THE MALAGASY. 279
 
 he has become subject to some misfortune," so they said,
 " Vintany isdny angdha " (" Perhaps that is his vlntana "). Or
@@ -12842,8 +12626,6 @@ Planetary Vintana, must be discussed very briefly. The word
 3 One who does not elbow. ^ One who does not weaken.
 
 
-DIVINATION AMONG THE MALAGASY. 283
-
 san-dndro, in its use among the Malagasy, means the peculiarities
 or character of the days of the week as depending on the Seven
 Planets, considered as governors of these days. The following
@@ -13065,8 +12847,6 @@ white-haired people, white stones, &c.
 grass, forests, greenish birds, people with blackish
 skin, &c.
 
-
-DIVINATION AMONG THE MALAGASY. 285
 
 3. Tuesday: the day of people who have many scars
 and are marked from small-pox.
@@ -13851,8 +13631,6 @@ appearance in one of the vessels. They wait sometimes for two
 and even three months before being able to proceed with the
 
 
-FUNERAt CEREMONIES AMONG THE MALAGASY. 305
-
 interment. The vessel is shut up in the grave together with the
 body, and they arrange a long bamboo, one end of which is
 plunged into the liquid, the other being flush with the surface of
@@ -14195,8 +13973,6 @@ ornamented with a series of lines and zigzags, very closely resembling those on
 the early fictile productions of the Germanic races.
 
 
-DECORATIVE CARVING ON WOOD. 315
-
 and a half. Probably they are really somewhere between
 these two estimates, i.e., somewhat over a million in number,
 I had occasionally heard from missionaries who had lived in
@@ -14271,8 +14047,6 @@ were not so massive, and were more weathered. The tops of
 the posts were carved into a shape somewhat resembling a vase.
 ■ Ficus Baroni, Baker.
 
-
-DECORATIVE CARVING ON WOOD. 317
 
 I then remembered that, two or three days before, we had
 passed a newly set-up memorial stone carved in three large
@@ -14351,8 +14125,6 @@ weather.
 (5) Still another kind was an oblong block of dressed
 
 
-DECORATIVE CARVING ON WOOD. 319
-
 granite, with an iron hooping round the top, in which were
 fixed a dozen or more pairs of slender iron horns. There were
 two of this kind of monument at this place, and we afterwards
@@ -14430,8 +14202,6 @@ these in Betsileo are of fine-grained, hard white granite, in
 massive blocks, and dressed to a beautifully smooth face. They
 
 
-DECORATIVE CARVING ON WOOD. 32 1
-
 are often in couples, and in one instance there were two
 stones, with an elaborately carved post between them. But the
 combinations of the different kinds of memorial were verynumerous ; there was something new every few yards ; and
@@ -14504,8 +14274,6 @@ was told there is a great deal of the peculiar carving to be seen
 not only in the tombs, but also in the dwelling houses and
 furniture. We did, however, see two specimens of this native i
 
-
-DECORATIVE CARVING ON WOOD. 323
 
 art as used in building: first, just before entering the Tanala
 country, and again, immediately on leaving the forest on our
@@ -14580,8 +14348,6 @@ In his little book entitled Madagascar of To-day, Mr. Shaw
 says, " Perhaps the most elaborately carved post I saw during
 
 
-DECORATIVE CARVING ON WOOD. 325
-
 my residence of eight years in the Betsil^o was at a small
 village about a day's journey north-west of Fian^rants6a.
 This was the central post of a high house belonging to one of
@@ -14653,8 +14419,6 @@ interest, these carvings may prove of value in showing links of
 connection between the B^tsileo and some of the Malayan and
 Oceanic peoples, and thus aid us in understanding more clearly
 
-
-DECORATIVE CARVING ON WOOD. 327
 
 the race affinities of the people of Madagascar. Mr. Shaw
 observes, " It is a significant fact that the simple designs [of
@@ -14732,8 +14496,6 @@ from this fibre ; some of these have the woof of cotton, obtained
 by unravelling English or American calico.
 
 
-DECORATIVE CARVING ON WOOD. 329
-
 A very favourite cloth, called drindrd.no, is made with a white
 ground of fine twilled cotton, with narrow stripes of black and
 coloured threads, and broad borders of black twilled silk, in
@@ -14803,12 +14565,7 @@ Metal Work. — In metal work, the Malagasy also show great
 
 , skill in execution and ingenuity in design. In gold and silver
 work the native smiths make most fine and delicate chains, and
-they can produce copies of any article of jewellery with wonder-
-
-
-DECORATIVE CARVING ON WOOD. 331
-
-ful exactness. Their iron work (which is all wrought, not cast)
+they can produce copies of any article of jewellery with wonderful exactness. Their iron work (which is all wrought, not cast)
 is of excellent quality, and they can also turn out brass and
 copper work of good finish. In the Memorial Churches erected
 at the capital (i 864-1 874), the ornamental iron work — finials,
@@ -14882,8 +14639,6 @@ out to sea in a very fearless way. The natives along that portion
 of the island are bold navigators, and until the early portion of
 this century, they were accustomed to make an annual piratical
 
-
-DECORATIVE CARVING ON WOOD. 333
 
 expedition to the C6moro Islands, in which hundreds of canoes,
 carrying thousands of men, were employed. Most of these
@@ -15016,8 +14771,6 @@ A HOVA OFFICER, MALAGASY ARMY.
 [Photograph by Dr. Fenn.
 
 
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 337
-
 have produced a greater variety or have had a more bizarre
 effect than was actually the case. All sorts of cast-off uniforms ;
 every kind and shape of hat, from the smartest to the shabbiest
@@ -15094,8 +14847,6 @@ well remember how, on my first Christmas Day in Antananarivo,
 I was utterly " taken aback " on entering the dark and dingy old
 
 
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 339
-
 chapel at Ambatonakanga to find such a transformation scene ;
 for instead of the clean white lambas, which did somewhat
 brighten up the place on ordinary occasions, my native friends
@@ -15165,8 +14916,6 @@ Friday morning the entire country round Antananarivo was
 was clean clipped, except some score or so of privileged
 Malagasy and the Europeans." At the decease of the late
 
-
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 341
 
 Queen Ranavalona II., however, this custom was not enforced ;
 probably it will not be again revived.
@@ -15238,8 +14987,6 @@ then is it etiquette for your own presence to be recognised and
 for you to be welcomed. Coming into the rbva or government
 
 
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 343
-
 house, the governor gives you a hearty shake of the hand and,
 as soon as you are seated, commences a long and formal list of
 inquiries, which runs somewhat as follows : " Since you, our
@@ -15306,13 +15053,10 @@ make, our congregations must certainly during our early
 attempts be often convulsed with laughter. Very seldom, however, do we see anything of the kind ; and I often think that old
 European residents see a vast deal more that is absurd in the
 attempts of newer arrivals than do the Malagasy themselves. A
-venerable missionary, deservedly honoured especially in connection with the re-establishment of the L,M.S. Mission in Mada-
-gascar, used every Sunday to thank God that He had given us
+venerable missionary, deservedly honoured especially in connection with the re-establishment of the L,M.S. Mission in Madagascar, used every Sunday to thank God that He had given us
 another Day of Judgment ! using the wordfitsardna (judgment)
 for fitsahdrana (rest). On another occasion he, quite innocently,
 
-
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 345
 
 used over and over again in a sermon a word which, as he pronounced it, meant something extremely offensive ; at last even
 the Malagasy could stand it no longer, and the women began to
@@ -15371,8 +15115,7 @@ clergymen all styled " besopj," but their adherents also are
 distinguished from other Christians by the same name ; each
 and all are " bishops." In the same way, also, students at the
 College are called " kolejy" and scholars are called " sekbly " ;
-they are themselves colleges and schools ! The French Resident soon became known in the country districts as resian-
-ddnitra, which, literally translated, would mean " conquered in
+they are themselves colleges and schools ! The French Resident soon became known in the country districts as resianddnitra, which, literally translated, would mean " conquered in
 heaven " ! The name of the famous prime minister of Prussia,
 Prince Bismarck, has actually become a Malagasy word as an
 equivalent for cunning, craft, in the form of bizy : " 7nanao bisy"
@@ -15380,8 +15123,6 @@ is " to act craftily." This phrase originated in the time of the
 Franco-Prussian war, when the fame of Bismarck first reached
 this country.
 
-
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 347
 
 While Speaking of words introduced by Europeans into the
 Malagasy language, a word or two may be said about other
@@ -15452,8 +15193,6 @@ the left " or " to the right," or " in front of you " or " behind
 you." One of my brother missionaries was once dining with
 a native friend, and while eating some rice, a portion happened
 
-
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 349
 
 to adhere to his moustache. His host politely called his
 attention to the circumstance, and on my friend wiping the
@@ -15528,8 +15267,6 @@ band of ornament round the walls which is exactly like the
 figures on an ace-of-clubs card, and has probably been copied
 from this. In other places figures of officers and soldiers 1 i i i
 
-
-ODD AND CURIOUS EXPERIENCES OF MALAGASY LIFE. 35 1
 
 marching and even fighting are prominent ; in others are seen
 sportsmen firing at impossibly big birds perched on trees ; in
@@ -16288,8 +16025,7 @@ superbum is the most plentiful, while A. sesquipedale, with its
 long spur and large pure white flowers, is also very conspicuous.
 In the interior of the island there are several striking ground
 orchids ; one yellow, another brilliant scarlet, and another blue
-in colour. Among trees and shrubs which have the most handsome flowers are species of Rhodolcena, Impatiens, Ixora, Stepha-
-notis, Poinciana, Astrapcsa, Iponuea, Kigelia, Combretum, and
+in colour. Among trees and shrubs which have the most handsome flowers are species of Rhodolcena, Impatiens, Ixora, Stephanotis, Poinciana, Astrapcsa, Iponuea, Kigelia, Combretum, and
 others.
 
 A few particulars may be added as to the special characteristics of each of the three botanical Regions.

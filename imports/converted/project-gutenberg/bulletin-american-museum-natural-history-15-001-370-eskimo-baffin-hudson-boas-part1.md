@@ -1484,9 +1484,6 @@ coast of Hudson Bay. 2 The bone implement illustrated in
 1 See p. 94; also /. c., p. 539.
 
 
-2 See p. 96.
-
-
 Fig. ss probably served as a maul for breaking bones, frozen
 meat, etc.
 
@@ -1518,8 +1515,6 @@ Fig- 57 (3x81)* Soapstone Kettle. Length of bottom, 23 cm. ; width,
 
 
 Fig. 58, a (3593), b Wooden Dishes. Diameter, a, 18 cm. ; b , 34 cm. ; c, 66 cm.
-
-(See p. 47.)
 
 
 Fig. 62, a £ (ails)* Wooden Boxes. Length,
@@ -1660,11 +1655,9 @@ light skin, which is set off
 
 
 Fig. 68. Man in Winter Suit.
-(See p. 54.)
 
 
 Fig. 69. Woman’s Summer Jacket.
-(See p. 54.)
 
 
 sharply against the lower part of the sleeve, and extends upward
@@ -2393,9 +2386,6 @@ with ice. After the breathing-hole has been located, a very
 delicate rod of ivory, attached to a fine string of sinew and a
 
 
-See p. 13.
-
-
 leather ring, is inserted in the seal-hole (Fig. 112). When the
 seal reaches the breathing-hole, it strikes the light rod, and
 by this means the approach of the seal is indicated.
@@ -2515,9 +2505,6 @@ Fig. zi8
 
 Barb of Fishspear. Length, 13
 cm.
-
-
-1 See p 26.
 
 
 Captain Comer collected a curious snare made of whalebone,
@@ -3908,12 +3895,6 @@ of meat or blubber on the kayak. This symbolizes that he
 will bring back much meat and blubber.
 
 
-1 See p. 143.
-
-
-2 See p. 140.
-
-
 The same end is sought in the following manner: the
 hunter’s wife or mother throws into the water a piece of
 meat which she spears with the hunter’s harpoon.
@@ -3990,9 +3971,6 @@ On the following day Sedna sends her servant, who is
 
 
 1 L.c., pp. 603 ff.
-
-
-See p. 131.
 
 
 called Qailertetang, to visit the tribe. She is represented by
@@ -4255,9 +4233,6 @@ man, who died in 1885, said that he would be born again as
 a child of his own daughter. The latter had one son; and
 soon another son was born, who was looked upon as the dead
 one returned. There was one woman who had no children,
-
-
-1 See p. 160.
 
 
 and who wished to take this boy. The mother did not want
@@ -4653,9 +4628,6 @@ boy were sitting there. The latter asked his mother for some
 meat. She gave the boy a piece, and offered some to the
 
 
-1 See p. 153.
-
-
 2 See p. 1T5.
 
 
@@ -4817,9 +4789,6 @@ Therefore the natives make it a point not to kill seals outright, but to let the
 Families who are expecting a child to be born live in a hut
 by themselves, although their porch may lead off from that
 of a larger hut.
-
-
-1 See p. 135.
 
 
 For three months after the child is born, the mother must
@@ -8284,9 +8253,6 @@ she caught another seal, which was very good. They lived
 in this way for some time. Sometimes she went hunting
 
 
-1 See p. 323.
-
-
 with her dogs, and sometimes she went afoot. After some
 time the young woman was with child.
 
@@ -10405,9 +10371,6 @@ her. She left her home and went away, walking on the ice,
 1 These are the names of the children.
 
 
-* See p. 234.
-
-
 and weeping bitterly. Her husband followed her on his
 sledge; and when she saw him, she said, “Oh that I might
 become a raven!” She was turned into a raven, and flew
@@ -10447,8 +10410,6 @@ into a large box; and, as he watched it all the time, they
 
 1 The point of the story seems to be the artful plan adopted by the boy to get rid
 of an unwelcome visitor. — E.J. Peck.
-
-2 See p. 196.
 
 
 were unable to escape. It is also said of him that he caught
@@ -10578,9 +10539,6 @@ woman, had not obeyed the laws of the tribe, and had made
 herself offensive to the other people: therefore they did not
 allow her to stay in the village, and she had to live by herself in an old hut. She had no clothing, and hair began to
 grow all over her body. Her brother used to go to see her,
-
-
-1 See p. 112.
 
 
 2 See No. 3, p. 167.
@@ -10953,9 +10911,6 @@ these dwarfs came to join a dance in an Eskimo hut. In
 passing through the entrance, the woman’s child dropped
 
 
-1 See p. 200.
-
-
 out of her hood and was devoured by the dogs. When she
 found that she had lost it, she began to cry; but her husband
 told her to dance and to enjoy herself, she might have another
@@ -11245,9 +11200,6 @@ A long time ago the people were starving. They went
 away from their village, leaving an old woman with her
 grand-daughter behind. As the two were very hungry,
 the old woman wrought a spell to induce the foxes to come
-
-
-1 See p. 160.
 
 
 2 See No. 40, p. 221; No. 54, p. 248.
@@ -12473,12 +12425,6 @@ are characteristically Indian. I am not sure whether the
 three-feathered arrow of Southampton Island, which was
 
 
-1 See p. 87.
-
-
-3 See p. 109.
-
-
 described before, 1 may be considered as an original Eskimo
 invention, since all the eastern Eskimo seem to use the arrow
 with two feathers.
@@ -12513,7 +12459,6 @@ by a Man,” 9 are also clearly of Indian origin.
 
 According to Nelson’s description, the whole social struc-
 
-1 See p. 68.
 
 2 F. Boas, Indianische Sagen von der Nord-Pacifischen Kiiste Amerikas (Berlin,
 i 895 )jJ>. 349 . . .

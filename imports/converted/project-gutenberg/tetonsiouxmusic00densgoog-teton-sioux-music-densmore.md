@@ -1,3834 +1,4 @@
 # Teton Sioux Music
-
-Google
-
-
-This  is  a  digital  copy  of  a  book  that  was  preserved  for  generations  on  Hbrary  shelves  before  it  was  carefully  scanned  by  Google  as  part  of  a  project
-
-to  make  the  world's  books  discoverable  online.
-
-It  has  survived  long  enough  for  the  copyright  to  expire  and  the  book  to  enter  the  public  domain.  A  public  domain  book  is  one  that  was  never  subject
-
-to  copyright  or  whose  legal  copyright  term  has  expired.  Whether  a  book  is  in  the  public  domain  may  vary  country  to  country.  Public  domain  books
-
-are  our  gateways  to  the  past,  representing  a  wealth  of  history,  culture  and  knowledge  that's  often  difficult  to  discover.
-
-Marks,  notations  and  other  maiginalia  present  in  the  original  volume  will  appear  in  this  file  -  a  reminder  of  this  book's  long  journey  from  the
-
-publisher  to  a  library  and  finally  to  you.
-
-Usage  guidelines
-
-Google  is  proud  to  partner  with  libraries  to  digitize  public  domain  materials  and  make  them  widely  accessible.  Public  domain  books  belong  to  the
-public  and  we  are  merely  their  custodians.  Nevertheless,  this  work  is  expensive,  so  in  order  to  keep  providing  this  resource,  we  liave  taken  steps  to
-prevent  abuse  by  commercial  parties,  including  placing  technical  restrictions  on  automated  querying.
-We  also  ask  that  you:
-
-+  Make  non-commercial  use  of  the  files  We  designed  Google  Book  Search  for  use  by  individuals,  and  we  request  that  you  use  these  files  for
-personal,  non-commercial  purposes.
-
-+  Refrain  fivm  automated  querying  Do  not  send  automated  queries  of  any  sort  to  Google's  system:  If  you  are  conducting  research  on  machine
-translation,  optical  character  recognition  or  other  areas  where  access  to  a  large  amount  of  text  is  helpful,  please  contact  us.  We  encourage  the
-use  of  public  domain  materials  for  these  purposes  and  may  be  able  to  help.
-
-+  Maintain  attributionTht  GoogXt  "watermark"  you  see  on  each  file  is  essential  for  informing  people  about  this  project  and  helping  them  find
-additional  materials  through  Google  Book  Search.  Please  do  not  remove  it.
-
-+  Keep  it  legal  Whatever  your  use,  remember  that  you  are  responsible  for  ensuring  that  what  you  are  doing  is  legal.  Do  not  assume  that  just
-because  we  believe  a  book  is  in  the  public  domain  for  users  in  the  United  States,  that  the  work  is  also  in  the  public  domain  for  users  in  other
-countries.  Whether  a  book  is  still  in  copyright  varies  from  country  to  country,  and  we  can't  offer  guidance  on  whether  any  specific  use  of
-any  specific  book  is  allowed.  Please  do  not  assume  that  a  book's  appearance  in  Google  Book  Search  means  it  can  be  used  in  any  manner
-anywhere  in  the  world.  Copyright  infringement  liabili^  can  be  quite  severe.
-
-About  Google  Book  Search
-
-Google's  mission  is  to  organize  the  world's  information  and  to  make  it  universally  accessible  and  useful.   Google  Book  Search  helps  readers
-discover  the  world's  books  while  helping  authors  and  publishers  reach  new  audiences.  You  can  search  through  the  full  text  of  this  book  on  the  web
-
-at|http  :  //books  .  google  .  com/|
-
-
-r
-
-
-A
-
-
-ETHNOLOGY  BULLETIN  61     PLATE  I
-
-
-BKITHSOHIIH  IHBTITUTIOK
-
-BUREAU  OF  A\rERICAN  ETHNOLOGY
-
-BULLETIK   61
-
-
-TETON  SIOUX  MUSIC
-
-
-FRANCIS  DENSMOKE
-/
-
-
-WABHINOTOM
-
-OOVtRNMENT  FBINTIMQ  OFFICE
-
-1918
-
-
-253186
-
-
-•  •  •
-•  ••
-
-•  •  •    •
-
-I   •  •  •  •
-
-
-•  •
-
-
-•  ■•
-
-
-•  •
-
-
-•  •  •
-
-
-LETTER  OF  TRANSMITTAL
-
-
-Smithsonian  Institution,
-BuBEAU  OP  American  Ethnology,
-
-WcLshington,  D.  C,  June  8,  1916.
-Sib:  I  have  the  honor  to  submit  herewith  the  manuscript  of  a
-memoir  on  Teton  Sioux  Music,  by  Frances  Densmore,  and  to  recom-
-mend its  publication  as  a  bulletin  of  the  Bureau  of  American
-Ethnology.  >.  ^         if;Jj[>
-
-Very  respectfully,
-
-F.  W.  Hodge,
-Ethnologist-^n-Charge.
-Dr.  Charles  D.  Walcott,
-
-Secretary  of  the  SmWhsonian  Institution.
-
-in
-
-
-FOREWORD
-
-
-The  analytical  study  of  Indian  music  which  the  writer  commenced
-among  the  Chippewa  has  been  continued  among  the  Sioux.  Those
-familiar  with  the  two  books  already  published  *  will  find  no  material
-change  in  method  of  treatment  in  the  present  volume.  We  have  but
-passed  from  the  land  of  pine  forests  and  lakes  to  the  broad  plains
-where  the  buffalo  came  down  from  the  north  in  the  autumn  and
-where  war  parties  swept  to  and  fro.
-
-The  present  volume  contains  tabulated  analyses  of  600  songs,
-comprising  the  Chippewa  songs  previously  published  as  well  as  the
-songs  of  the  Teton  Sioux.  By  means  of  these  tables  the  songs  of
-the  two  tribes  can  be  compared  in  melodic  and  rhythmic  peculiari-
-ties. In  Bulletin  53  the  Chippewa  songs  were  grouped  according
-to  their  use,  and  descriptive,  as  well  as  tabulated,  analyses  disclosed
-resemblances  between  certain  groups  of  songs  having  the  same
-mental  concept.  In  the  present  memoir  the  comparison  is  based,
-not  on  the  use,  but  on  the  age,  of  the  songs,  this  series  being  divided
-for  analysis  into  two  groups,  one  comprising  songs  believed  to  be
-more  than  50  years  old  and  the  other  comprising  songs  of  more
-recent  origin.  This  analysis  shows  that  the  restrictions  of  civili-
-zation have  had  a  definite  effect  on  the  structure  of  Sioux  melodies.
-
-In  presenting  Teton  Sioux  music  the  writer  desires  to  acknowledge
-her  appreciation  of  the  valued  assistance  of  her  principal  interpreter,
-Jklr.  Robert  P.  Higheagle,  a  member  of  the  Sioux  tribe  and  a  gradu-
-ate of  Hampton  Normal  and  Agricultural  Institute  as  well  as  of  the
-business  department  of  Carnegie  CoDege.  Mr.  Higheagle*s  coopera-
-tion covered  the  entire  period  of  collecting  the  Teton  material  and
-of  preparing  it  for  publication.  To  this  work  he  brought  a  knowl-
-edge of  Sioux  Ufe  and  characti^r  without  which  an  interpretation  of
-their  deeper  phases  could  not  have  been  obtained.  During  Mr.
-Higheagle's  absence  it  became  necessary  to  employ  occasionally
-other  interpreters,  whose  aid  is  acknowledged  in  connection  with  the
-material  which  they  interpreted.  The  principal  assisting  interpreter
-was  Mrs.  James  M(»LauglUin,  whose  courtesy  is  gratefuDy  acknowl-
-edged.
-
-The  writer  desires  also  to  express  her  appreciation  of  the  assistance  •
-
-cordially  extended  by  the  members  of  the  staff  of  the  Bureau  of
-
-American  Ethnology  and  of  the  National  Museum  in  their  respective
-
-fields  of  research.
-
-Frances  Dexsmore.
-
-
->  C'hlppewa  MiLsIc,  Bulletin  J,5,  and  Chippewa  MilsIc  -II,  Bullrtin  B.i,  of  the  Bureau  of  American  Ktli-
-
-nology.
-
-V
-
-
-CONTENTS
-
-List  of  acmgt^ xin
-
-1.  Arranged  in  order  of  serial  numbers xm
-
-2.  Arranged  in  order  of  catalogue  numbers xix
-
-Names  of  singers '. xxvi
-
-Phonetic  key xxvin
-
-Introduction *. 1
-
-The  Teton  Sioux 1
-
-Method  of  work  and  of  analysis 5
-
-Tabulated  analysis  of  240  Sioux  songs 12
-
-Melodic  analysis 12
-
-Comparison  between  old  and  comparatively  modem  Sioux  songs 22
-
-Tabulated  analysis  of  600  Indian  songs  (Chippewa  and  Sioux) 26
-
-Melodic  analysis 26
-
-Rhythmic  analysis 36
-
-Analysis  of  Sioux  and  Chippewa  songs 40
-
-Graphic  representations  or  "plots " 61
-
-Comparison  between  analysis  of  Chippewa  and  Sioux  songs 64
-
-Test  of  pitch  discrimination  among  Chippewa  and  Sioux 66
-
-Music  as  a  cultivated  art  among  Chippewa  and  Sioux 68
-
-Ceremonies 63
-
-The  White  Buffalo  Calf  pipe  (Ptehin''6ila  6ano5^pa) 63
-
-The  Alo^waQpi  ceremony 68
-
-The  ceremony  of  Spirit-keeping  (Waki^dagapi) 77
-
-The  Sun  dance 84
-
-The  Sun  danCe  of  the  Teton  Sioux ! 87
-
-Description  of  a  Teton  Sioux  Sun  dance 98
-
-Old  songs 162
-
-Ceremonial  songs 152
-
-Dreams  and  their  obligations 167
-
-HeyoHca  Ka^ga  (Fool  Impersonation; 167
-
-Dreams  concerning  animals 172
-
-Dreams  concerning  the  buffiilo 173
-
-DreaniA  concerning  the  elk 176
-
-•     Dreams  concerning  the  wolf 179
-
-Dream  of  the  crow  and  owl 184
-
-Songs  concerning  the  bear • 196
-
-Plots  of  songs  (dreams  about  animals; 204
-
-The  aacred  stones  (tuQkaQO 204
-
-Plots  of  songs  (the  sacred  stones) 244
-
-Treatment  <rf  the  sick 244
-
-Narnuive  of  a  vigil  and  pray^  for  the  sick 274
-
-Plota  of  songs  used  in  treatment  of  the  sick *    283
-
-(okx/laki^ye) 284
-
-Dream  sodetiea. 286
-
-Bo£Eak>  society 286
-
-Elk  society 293
-
-Hone  society 298
-
-MiHtaiy  societies 311
-
-FoxsodeCy 314
-
-vn
-
-
-Vm  CONTENTS
-
-Societies  (ok(/iaki6iye) — Continued
-
-Military  societies— Continued.  Pace
-
-KiU)^^ytLha  (Crow-ownere) 318
-
-6a5 te^  ti5  ia  (Strong  Heart) 320
-
-Badger  society 325
-
-Mi  wa^tani 326
-
-White  Horse  Riders  (Su^k'ska-akag^yaijka) 329
-
-War  songs  (Ozu^ye  olo'wa^) 332
-
-Personal  narrative  by  Red  Fox . . . ". 375
-
-Personal  narrative  by  Eagle  Shield 379
-
-Songs  accompanied  by  native  drawings 387
-
-Old  Buffalo's  war  narrative 412
-
-Plots  of  songs  of  war 418
-
-Analysis  of  war  songs 419
-
-Comparatively  modem  songs 428
-
-War  songs 428
-
-The  Buffalo  hunt  (Wana'sapi) 436
-
-(^^)uncil  and  chief  songs 448
-
-('ouncil  songs 448
-
-Chief  songs 452
-
-Plots  of  chief  songs , 461
-
-Song»  connected  with  dances  and  games 468
-
-Dances 468
-
-The  grass  dance 468
-
-Shuffling-feet  dance 477
-
-Night  dance 479
-
-Begging  dance 481
-
-Plots  of  grass-dance  songs 483
-
-Games...- 485
-
-The  moccasin  game  (Haq^pa  apeWuqpi) 485
-
-The  game  of  hiding  a  stick 489
-
-Miscellaneous  songs 492
-
-Children's  songs 492
-
-Songs  connected  with  legends 494
-
-Legend  of  the  maiden's  leap 494
-
-Legend  of  Ghost  Hill 496
-
-Songs  in  honor  of  an  individual 497
-
-Love  songs  (wiiKwe^te  olo^waij ) 509
-
-Sioux  songs  recorded  at  Sisseton,  S.  Dak 512
-
-Plots  of  songs  of  sadness 519
-
-Rhythmic  units t 528
-
-Bibliography 551
-
-Index 555
-
-
-ILLUSTRATIONS
-
-PLATES  „     .
-
-Facing  pagd
-
-1.  ^iya'Tca Title
-
-2.  Views  on  Standing  Rock  Reservation 4
-
-3.  Wand  and  ear  of  com  used  in  HuQka  ceremony 72
-
-4.  Part  of  HuQka  ceremony  (native  drawing) 74
-
-6.  Decorated  robe 77
-
-6.  Outer  wrapping  for  Spirit  bundle  and  braided  sweet  grass 79
-
-7.  Implements  used  in  handling  coals  in  Spirit  lodge 79
-
-8.  Spirit  post 81
-
-9.  Buifalo  Boy 91
-
-30.  No  Heart 91
-
-11.  White-Buffalo-Walking 91
-
-12.  Participants  in  Sun  dance 94
-
-13.  Chased-by-Bears .     96
-
-14 .  Sun-dance  pipe '. 102
-
-15.  Gifts  of  tobacco. .- 102
-
-16.  The  Sun  dance  (drawing  by  No  Heart) 122
-
-17.  The  Sun  dance  (native  drawings) 122
-
-18.  Sun-dance  whistle 126
-
-19.  Hair  ornament  of  buffalo  hide  worn  in  Sun  dance 126
-
-20.  Ceremonial  grouping  of  articles  in  Sun  dance 127
-
-21.  Articles  used  in  Sun  dance 133
-
-22.  Red  Bird 149
-
-23.  Lone  Man ,     159
-
-24.  Charging  Thunder 170
-
-25 .  Brave  Buflab 1 73
-
-26.  Hoop  carried  by  Elk  dreamer 178
-
-27.  Hair  ornament  worn  by  Elk  dreamer 179
-
-28.  Bent  stick  carried  by  Wolf  dreamer 179
-
-29.  Sacred  stone  owned  by  Brave  Buffalo *. 208
-
-30.  Sacred  stone  owned  by  Chased-by-Bears 210
-
-31.  Goose 251
-
-32.  Gourd  rattle. .. ./. 252
-
-33.  Me&icine  bag  with  articles  used  by  owner  in  treating  the  sick 252
-
-34.  Medicine  bag  of  badger  paws 253
-
-35.  Medicine  bag  of  mink  hide 253
-
-36.  Small  bags  of  medicine  and  spoon 254
-
-37.  Splint  and  matted  deer  hair  used  in  treating  fractures 261
-
-38.  Bear-with-White-Paw 267
-
-39.  Drum  and  decorated  drumstick 267
-
-40.  Eagle  Shield 267
-
-41.  Necklace  worn  when  treating  the  sick 267
-
-42.  Fasting  vigil  (drawing  by  Old  Buffalo);  Old  Buffalo. 274
-
-43.  Buffalo-dance  shield 285
-
-44.  Crow-skin  necklace  and  caHc 319
-
-45.  Strong  Heart  society  rattle 322
-
-IX
-
-
-X  ILLUSTRATIONS
-
-Facing  pag«
-
-46.  Rattles T 329
-
-47.  Two  Shields 33i
-
-48.  Warshield  (obveree) 348
-
-49.  War  flhield  (reveree) 348
-
-50.  Sioux  war  bonnet 348
-
-51.  Men  in  costume  of  scouts 350
-
-52.  Scalp;  Dance  ornament  made  of  hair 360
-
-53.  Woman  with  war  insignia  of  a  relative 362
-
-54.  Mrs.  Hattie  Lawrence;  Silent  Woman 365
-
-55.  Woman's  dress  decorated  with  drawings 367
-
-56.  Red  Fox : 375
-
-57.  One  Buffalo;  One  Feather 381
-
-58.  Headdress  of  wolf  hide 381
-
-59.  Jaw i 387
-
-60.  The  hunt  (drawing  by  Jaw);  S<!ene8  from  Jaw's  childhood  (drawing  by
-
-himself) 388
-
-61.  Warrior's  whistle,  paint  pouch,  and  bowl 388
-
-62.  Incident  in  the  life  of  Jaw  (drawiitg  by  himself) 389
-
-63.  Incidents  in  the  life  of  Jaw  (drawing  by  himself) 393
-
-64.  Incidents  in  the  life  of  Eagle  Shield  (drawings  by  himself),    a.  His  first
-
-fight.    6.  Dance  of  the  Kai)gi^y\iha 393
-
-65.  Incidents  in  the  life  of  Eagle  Shield  (drawings  by  himself),    a.  Eagle
-
-Shield  kills  a  Crow  Indian.    6.  Eagle  Shield  captures  an  Assiniboin
-
-woman 394
-
-66   Incidents  in  the  life  of  Eagle  Shield  (drawings  by  himself),    a.  Eagle
-
-Shield  captures  horses.     6.  Eagle  Shield  rescues  a  wounded  friend 397
-
-67.  Implements  used  in  skinning  buffalo 399
-
-68.  Incidents  in  the  life  of  Eagle  Shield  (drawings  by  himself),    a.  Eagle
-
-Shield  is  pursued  by  Crow  Indians.    6.  Eagle  Shield  captures  horses
-
-in  Crow  camp 400
-
-69.  Swift  Dog 402
-
-70.  Incidents  in  the  life  of  Swift  Dog  (drawing  by  himself) 403
-
-71.  Gray  Hawk 442
-
-72.  Decorated  council  tent 448
-
-73.  John  Grass .- r  •  - 456
-
-74.  Red  Fish 457
-
-75.  Sitting  Bull ; 458
-
-76.  Sioux  dance  lotiges <« 468
-
-77.  Grass  dance % ■  471
-
-78.  Shuffling-feet  dance 477
-
-79.  Sticks  used  in  begging 481
-
-80   Camp  at  Grand  River 481
-
-81.  Ghost  Hill 496
-
-82.  Dancers  on  Sisseton  Reservation;  Prairie  on  Sisseton  Reservation 512
-
-TEXT   FIGURES  p
-
-1 .  Tonality 40
-
-2.  Fundamental  and  first  four  overtones 42
-
-3.  First  note  of  song— its  relation  to  keynote 42
-
-4    Last  note  of  song— its  relation  to  keynote 43
-
-5.  Last  note  of  song-its  relation  to  compass  of  »)ng 43
-
-6.  Number  of  tones  comprising  compass  of  song 44
-
-7.  Numl)er  of  degrees  of  scale  used  in  song 44
-
-
-ILLUSTRATIONS  XI
-
-PBfe
-
-8.  Acddentalfl 46
-
-9.  Structure 45
-
-10.  Downward  and  upward  progresBionfi 46
-
-11.  Size  of  downward  and  upward  progresBions 46
-
-12.  Largest,  amallest,  and  average  intervals 47
-
-13.  Part  of  measure  on  which  song  begins 48
-
-14.  Rhythm  of  first  measure 48
-
-15.  Change  of  time  (measure  lengths) 49
-
-16.  Rhythm  of  drum *. 49
-
-17.  Rhythmic  unit .' 50
-
-18.  Comparison  of  metric  unit  of  voice  and  drum 51
-
-19.  Plots,  Group  1 53
-
-20.  Drawing  from  picture  calendar — the  year  of  the  first  Alo^wagpi  ceremony.  69
-
-21.  Lariat  and  whistle  carried  in  Sun  dance 98
-
-22.  Decorated  stick  worn  in  Sun  dance 126
-
-23.  Reed  whistle  used  in  boys*  Sun  dance 150
-
-24.  Plots,  Group  2 204
-
-25.  Plots,  Group  3 .,.. 245
-
-26.  Drawing  on  mirror  used  in  treatment  of  the  sick 248
-
-27.  Bear  claw  used  in  treatment  of  the  sick 253
-
-28.  Plots,  Group  4 283
-
-29.  Woman  witJi  banner  of  the  Strong  Heart  society 321
-
-30.  Miwa^tani  society  whistle ^ 329
-
-31.  Decoration  denoting  bravery 359
-
-32.  Apparatus  for  cooking  meat  without  a  kettle 399
-
-33.  Incident  In  the  life  of  Old  Buffalo  (drawing  by  himself) 412
-
-34.  Incident  in  the  life  of  Old  Buffalo  (drawing  by  himself) 416
-
-35.  Plots,  Group  5 , 419
-
-36.  Drawing  from  picture  calendar — the  year  of  the  last  buffalo  hunt 437
-
-37 .  Plots,  Group  6 461
-
-38.  Grass  dance 470
-
-39.  Grass-dance  whistle 471
-
-40.  Plots,  Group  7 484
-
-41.  Implements  used  in  the  stick  game 489
-
-42.  Plot  of  song  No.  218. 496
-
-43.  Plots,  Group  8 519
-
-
-LIST  OF  SONGS
-
-
-1.  Arranged  in  Order  op  Serial  Numbers
-soNos  used  in  ceremonies
-
-9
-
-Song  of  the  Coming  of  the  White  Buffalo  Maiden
-
-Serial  Catalogue
-
-No.  No.  Page
-
-1.  "I  am  walking'* 569  67
-
-Songs  of  the  Alo^waijpi  Ceremony
-
-2.  Song  of  pretended  search 649  73
-
-3.  Ceremonial  aong 648  75
-
-Songs  of  the  Sun  Dance
-
-4.  Song  for  Becuringr  fair  weather 497  99
-
-5.  "We  are  coming" 466  105
-
-6.  Song  of  the  Braves*  dance  (no  words) 498  107
-
-7.  "With  dauntless  courage" 488  108
-
-8.  "The  many  lands  you  fear" 450  109
-
-9.  Song  of  the  departure  of  the  young  men  (no  words) 480  110
-
-10.  Song  of  the  retiim  of  the  young  men  (no  words)-. 481  112
-
-11.  Song  of  cutting  the  sacred  pole 451  113
-
-12.  Song  of  victory  over  the  sacred  pole 486  115
-
-18.  Song  of  painting  the  sacred  pole 452  117
-
-14.  Song  after  raising  the  sacred  pole  (a) 628  119
-
-15.  Song  after  raising  the  sacred  pole  (6) 629  120
-
-16.  Song  after  raising  the  sacred  pole  (e) 630  121
-
-17.  Song  of  preparing  the  sacred  place 500  123
-
-18.  Song  of  final  visit  to  the  vapor  lodge. 631  1 24
-
-19.*  Opening  song  of  the  Suii  dance  (a)  (no  word.s) 453  1 28
-
-20.  Opening  song  of  the  Sun  dance  (6)  (no  wordH) 479  129
-
-21.  Opening  prayer  of  the  Sun  dance 501  130
-
-22.  "WakaD'taoka,  pity  me".. 688  135
-
-23.  Song  of  lamentation 487  136
-
-24.  Noon  song 506  138
-
-25.  Song  concerning  the  sun  and  moon 504  139
-
-26 .  *  *Wakai)^taD ka  hears  me " 483  140
-
-27.  "Black  face-paint  he  grants  me" 503  141
-
-28.  "I  have  conquered  them" - 484  142
-
-29.  Dancing  song  (a)  (no  words) 499  143
-
-30.  Dancing  song  (6)  (no  words) ^ 505  144
-
-31.  Dancing  song  (c)  (no  words) • 482  145
-
-32.  Dancing  song  (d)  (no  words) 485  145
-
-33.  Dancing  song  (e)  (no  words) 457  146
-
-34.  Dancing  song  (/)  (no  words) 458  147
-
-35.  Dancing  Mong  (g)  (no  words) '. 459  148
-
-36.  Song  at  sunrise 502  148
-
-XIII
-
-
-trv  UST  OF  SONGS
-
-SONOS  OP  TBB  HeYO^KA
-
-^efHf  Catalogae
-
-W»  No.  PagB
-
-t/  ''tWh<)fMMm«ri  in  ihecloifd'' 492  160
-
-.^<  "  Mfifov  ihff  i^lhrring  of  the  clouds'* 493  162
-
-i^  ^vv«f  Ifi  Mm#f  f»l  daiifc^H' 496  163
-
-10  ^>ymf  f  r»f»<  ^ming  a  dream  of  the  thunderbinlB 491  165
-
-l»  "A  #i*»<l" 494  168
-
-f^  'fi^i^iDtrrH  manner  I  n>turn*' 495-  169
-
-M  "th^  fthundAfhird  nation** 571  171
-
-8ON08   OF  PERSONAL  DREAMS
-
-SoNos  Received  from  Akimalr
-
-♦I    '  A  KnflaloMud  tome*'
-
-♦ft   Wt^ikfon  Aoo};  (no  words)
-
-lA    ^VHT  <^  the  ellui  (no  words)
-
-«;    '  Owfohoodi^**
-
-4A   «^(6«ir  oif  the  yoang  wolves
-
-#»  Aa«^  ol  the  old  woU
-
-^  AiMiill  of  the  crow  and  owl
-
-il    "  Wher^  the  wind  ia  blowing*' 474
-
-Jtt   *  IflMdeitwalk"
-
-«.  ^nam  fdmwM
-
-U   -^Towwdtbemlwalk*'
-
-».  *  An ci^nflDonM coming*
-
-»L  '-AblackuOdecr  *
-
-ST.  -^Abevfludtlnt"
-
-».  -He  conn  to  attach*
-
-SOMGS  CONCERNING  THE   8 ACRED  StONES
-
-S».  ^MaTv«(m  heboid  a aacred  Stone  nation**
-
-W.  "Tile  flBCff^  nviMn  come  to  see  you
-
-€L  "1  wffcir  tbeaaimalB^
-
-«J.    -MtImy*
-
-•a.    •VonAr  W  f^T*T«>ne"
-
-M  '  %  ^er«rt«*j  •#'  «!»-  ttaiko  ir  fipeakinf?  '*. .
-
-^    '"Thtry  l»r/4«r  v»'>j  »  }»urp<nHf*'
-
-•«l>    ■  ^f--itto  *-»•♦,%  •♦wiff*' ibry  crime"
-
-'A        1   M^  «  *   «  «  v^m^J  \  'ir-tU  V*  fv«m  "
-
-4»       i  Mb  *♦',  ^1^**:'  V,  *«m*ii  "
-
-i  J     VMt      M  **H«.H,'     ,-.    ♦♦!♦  .4*tj
-
-*»        t   ri>«.'-'  -iMtf  '.•.^^•»■
-
-
-»»
-
-
-•    **»«%
-
-
-^.c%^  "»  *#v  ?«  TaitATiiEvr  or  raa  Sice
-
-
->  *  m4    •  k  I    '    r
-
-
-606
-
-174
-
-608
-
-176
-
-609
-
-177
-
-607
-
-180
-
-570
-
-182
-
-568
-
-183
-
-473
-
-186
-
-474
-
-187
-
-533
-
-189
-
-650
-
-190
-
-639
-
-191
-
-472
-
-193
-
-564
-
-194
-
-581
-
-196
-
-562
-
-197
-
-602
-
-209
-
-675
-
-212
-
-489
-
-215
-
-490
-
-216
-
-563
-
-219
-
-566
-
-220
-
-567
-
-221
-
-565
-
-222
-
-541
-
-224
-
-539
-
-225
-
-667
-
-226
-
-668
-
-227
-
-574
-
-228
-
-582
-
-229
-
-463
-
-230
-
-461
-
-232
-
-463
-
-233
-
-464
-
-234
-
-633
-
-236
-
-633
-
-237
-
-isoa
-
-349
-
-610
-
-290
-
-5U
-
-255
-
-%
-
-
-LIST  OF   SONGS  XV
-
-Serial  Catalogue
-
-No.                                                                                                                                   No.  Page.
-
-82.  "I  am  Bitting" 515  256
-
-83.  "We  will  eat" 512  258
-
-84.  "These  are  good" 513  259
-
-85.  "You  will  walk" 514  260
-
-86.  Song  preceding  treatment  of  fractures 516  262
-
-87.  An  appeal  to  the  bear 517  263
-
-88.  Song  of  the  bear ' 518  264
-
-89.  "Bear  told  me".. ' 519  265
-
-90.  Song  of  healing 674  268
-
-91.  Sitting  Bull's  medicine  song  (a) 654  272
-
-92.  Sitting  Bull's  medicine  song  (6) : '  655  273
-
-93.  "A  wind  from  the  north" 536  275
-
-94.  "MayOiisbetheday" 540  277
-
-SONOS   OF   SOCIETIES
-
-Dream  Societies
-
-SONOS  OF  THE  BUFFALO  SoCIETT
-
-95.  "Northward  they  are  walking" 663  286
-
-96.  "My goal" ' 664  287
-
-97.  "In  the  north"...' 660  288
-
-98.  "Their  voices  could  be  heard" 556  289
-
-99.  "Against  the  wind" 556  290
-
-100.  "I  come" 546  291
-
-101.  (No  words)  (a) 549  292
-
-102.  (No  words)  (6) 550  292
-
-103.  (No  words)  (c) 677  293
-
-Songs  of  the  Elk  SoaETY
-
-104.  Song  of  the  Elk  society 538  294
-
-105.  "Something  sacred  I  wear".... 471  295
-
-106.  "My  life  is  such" 676  296
-
-107.  "An  elk  am  I"... 622  297
-
-Songs  of  the  Hqrse  Society
-
-108.  "My  horse  flies  like  a  bird" 573  299
-
-109.  "When  a  horse  neighs" 604  300
-
-110.  "Horses  are  coming" 605  301
-
-111.  "Prancing  they  come" 537  302
-
-112.  "Chasing,  they  walked" 470  303
-
-113.  '* A  root  of  herb  " ; 467  304
-
-SONGS   OF   WAR
-
-Military  Societies
-
-Songs  of  the  Fox  Society
-
-114.  Song  of  the  Fox  society  (a) 677  316
-
-115.  Song  of  the  Fox  society  (6) 580  317
-
-Songs  of  the  Strong  Heart  Society
-
-116.  Song  of  the  Strong  Heart  society  (a) 509  322
-
-117.  Song  of  the  Strong  Heart  society.     (No  words)  (6) 544  323
-
-118.  Song  of  the  Strong  Heart  society.     (No  words)  (c) 548  324
-
-119.  Song  of  the  Strong  Heart  society,    (No  words)  \d) 557  324
-
-
-XVI  LIST  OF   SONGS
-
-S0NO8  OF  THE  Badger  .Society
-Serial  Catalogue
-
-No.  No.  Page
-
-120.  Song  of  the  Badger  Bociety.    (No  words)  (a) 553  325
-
-121.  Song  of  the  Badger  society.    (No  words)  (6) , 554  320
-
-Sonus  of  the  Miwa^tani  Society
-
-122.  Ceremonial  song  of  the  Miwa'Uni 572  328
-
-SoNQS  of  the  White  Horse  Riders
-
-123.  Song  of  the  White  Horse  Riders.    (No  words)  (a) 534  •  330
-
-124.  Song  of  the  White  Horse  Riders.    (No  words)  (6) 535  331
-
-•    Consecutive  Songs  of  a  Typical  War  Expedition
-
-125.  "Those  are  not  my  interest" 528  334
-
-(Duplicate  of  No.  125) "'  336
-
-126.  *'Likeawolf  Iroam" •. 656  336
-
-127.  '^Watch  your  horses" 532  337
-
-128.  ''Friends,  go  onl" 527  338
-
-129.  "A  wolf  Iconsiderftdmyself" 547  339
-
-130.  "Adventures  I  seek" 523  340
-
-131.  "His  horses  he  granted  me" 543  341
-
-132.  "Those  hills  I  trod  upon"...'. 670  342
-
-(Duplicate  of  No.  132) 343
-
-(Duplicate  of  No.  132) 344
-
-133.  Wolf  song 524  345
-
-(Duplicate  of  No.  133) 346
-
-134.  "It is  difficult'' 611  347
-
-135.  Song  of  the  camp 657  349
-
-136.  "Clear  theway,  I  come!" 634  351
-
-137.  "At  the  wind  center  I  stand  " 635  352
-
-138.  Song  concerning  war  paint 465  353
-
-139.  "Tremblel  O  tribe  of  the  enemy" 466  354
-
-140.  "Behold  myhorse!" 468  355
-
-141.  "See  my  desire" 616  356
-
-142.  "The  earth  only  endures" 617  357
-
-143.  "  Tell  her  " 62 1  358
-
-44.  "She  stands  there  smiling" 658  361
-
-145.  "Horses  I  am  bringing" 529  362
-
-146.  "He  is  returning" 689  364
-
-147.  Song  concerning  White  Butterfly 686  365
-
-148.  "He  lies  over  there" 687  366
-
-149.  "Learn  the  songs  of  victory  " 685  368
-
-150.  Song  in  honor  of  Oni'han 460  369
-
-151.  "You  may  go  on  the  warpath " 531  370
-
-(Duplicate  of  No.  151--"\^Tien  you  return") 371
-
-152.  "I  look  for  him  in  vain" 530  372
-
-153.  "He  is  again  gone  on  the  warpath " 591  373
-
-154.  "You  should  give  up  the  warpath  " 576  374
-
-Son  OS  op  Pbiwonal  Narratives  concerning  War
-
-155.  Song  of  tlie  warpath 676  378
-
-156.  "May  I  be  there" 623  382
-
-157.  "A  prairie  fire" 624  383
-
-158.  Song  concerning  Sitting  Crow 625  384
-
-159.  "A  spotted  horse" 626  38q
-
-
-LIST  OF   SONGS  XVII
-
-Rerial  Catalogue
-
-No.  No.  Pago
-
-
-160.
-161.
-162.
-163.
-164.
-165.
-166.
-167.
-168.
-169.
-170.
-171.
-172.
-173.
-
-174.
-175.
-176.
-
-
-*0wl8  hoot  at  me " 627  386
-
-*I  wish  to  roam'* 651  390
-
-'A  night  is  different" 652  391
-
-*I  am  bringing  horses " 653  392
-
-*Even  the  eagle  dies" ,     507  394
-
-*I  took  courage" 508  395
-
-*  Captives  I  am  bringing  " 510  396
-
-*They  deserted  their  leader" 520  398
-
-'One  of  them  will  be  killed" 521  400
-
-*I  intend  to  take  his  horses" _5g2.  4P2
-
-*It  Is  I,  myself" •JST^^OS'
-
-'Uorseslseek" 584  404
-
-*When  I  came  you  cried" 585  406
-
-'  I  struck  the  enemy  " 586  407
-
-(DupUcate  of  No.  173) 408
-
-*Icomeafter  your  horses" 587  409
-
-*Two  war  parties" 588  410
-
-'Sister,  I  bring  you  a  horse ". 589  411
-
-
-178.
-179.
-
-
-177.  Song  of  self-reliance 636      413
-
-
-*I  am  the  fox" 637      414
-
-'  I  look  for  them  " 638      4 17
-
-SONGS   OF  THE   BUFFALO  HUNT
-
-
-180.  Song  of  the  buffalo  hunt.    (No  words)  (a) 475  440
-
-181.  Song  of  the  buffalo  hunt.    (Nowords)(6^ 476  441
-
-182.  Song  of  the  buffalo  hunt.     (No  words)  (c) 545  442
-
-186.  Song  to  secure  buffalo  in  time  of  famine 469  445
-
-COUNCIL   SONGS
-
-184.  "I  sing  of  the  dead  chiefs" 669  448
-
-185.  "I  fear  not" 455  449
-
-186.  *'I  wish  to  do  my  part" 614  450
-
-187.  "His  customs  I  adopted" 615  451
-
-CHIEF  SONGS
-
-188.  Song  in  honor  of  Two  Bears 454  453
-
-189.  Song  in  honor  of  Gabriel  Renville  {a) 665  454
-
-190.  Song  in  honor  of  Gabriel  Renville  (6) 666  455
-
-191.  Song  in  honor  of  John  Grass 643  456
-
-192.  Song  in  honor  of  Red  Fish : 673  457
-
-193.  Song  of  Sitting  Bull  (a) 612  459
-
-194.  Song  of  Sitting  Bull  (b) 613  460
-
-DANCE   SONGS
-SoNos  OP  THE  Grass  Dance
-
-195.  "They  are  charging  them" 593  473
-
-196.  Song  of  the  grass  dance  (a) 596  474
-
-197.  Song  of  the  grass  dance.     (No  words)  (6) 594  475
-
-198.  Song  of  the  grass  dance.     (No  words)  (c) 595  476
-
-199.  Song  of  the  grass  dance.     (No  words)  (d) 597  476
-
-200.  Song  of  the  grass  dance.     (No  words)  («) 526  477
-
-4840**— Bull  61—18 2
-
-
-«.."*
-
-
-XVni  .  LIST  OF  SONGS
-
-SONOS   OF  THE    ShUFFLINQ-PEET   DaNCE
-Serial  Catalogue
-
-No.  No.  Page
-
-201.  Song  of  the  shuflaing-feet  dance  (a) 600  478
-
-202.  Song  of  the  shuflaing-feet  dance  (No  words)  (6) 592  479
-
-Song  of  the  Night  Dance
-
-203.  Song  of  the  night  dance  (No  words) 601  480
-
-Songs  of  the  Begging  Dance
-
-204.  Begging  song  of  the  old  women  (no  words) 682  482
-
-205.  Begging  song 619  483
-
-GAME   SONGS
-
-Songs  of  the  Moccasin  Game
-
-206.  Song  of  the  moccasin  game.    (No  words)  (a) 551  486
-
-207.  Song  of  the  moccasin  game.     (No  words)  (6) 652  486
-
-208.  Song  of  the  moccasin  game.     (No  words)  (c) 560  487
-
-209.  Song  of  the  moccasin  game.    (No  words)  (d) 559  487
-
-210.  Song  of  the  moccasin  game.    (No  words)  (e) 561  488
-
-211.  Song  of  the.moccasin  game.    (No  words)  (/) 525  488
-
-Songs  of  the  Hiding-stick  Game
-
-212.  Game  song  (no  words) 598  490
-
-213.  Song  when  a  game  is  almost  won  (no  words) 599  490
-
-214.  Song  of  victory 618  491
-
-CHILDREN'S   SONGS
-
-215.  Song  of  Uttle  girls'  play  (a) 680  492
-
-216.  Song  of  little  girls'  play  (b) 681  493
-
-217.  Lullaby 679  493
-
-SONGS  CONNECTED  WITH  LEGENDS
-
-218.  ScMig  of  the  maiden's  leap 620  495
-
-219.  Song  of  a  ghost 542  497
-
-SONGS   IN    HONOR   OF   AN   INDIVIDUAL
-
-220.  *'The  poor  are  many  " , 640  498
-
-221.  *•  I  expected  to  give  something  " 641  499
-
-222.  *  ♦  Two  White  Buffalo  " 642  500
-
-223.  "Take  fresh  courage  " 478  501
-
-224.  "The  White  Horse  Riders  said  this" 477  502
-
-225.  "Two  WTiite  Buffalo,  take  courage" 671  503
-
-226.  "The  tribe  you  help " 672  504
-
-227.  "Whenever  the  tribe" assembles " 684  505
-
-228.  "They  depend  upon  you" 683  506
-
-229.  "  I  donated  a  horse  " 579  507
-
-230.  "Hence  they  come  " 578  508
-
-231.  "A  short  time" 558  509
-
-LOVE   SONGS
-
-232.  "Come" 659  510
-
-233.  L6ve  song.     (No  words)  (a) 590  511
-
-234.  Lovesong.    (NowordB)(6) :-•.......• .- ^^^  ^1?
-
-
-LIST  OF  BONOS
-
-
-XIX
-
-
-SONGS  RECORDED  AT  SISSETON,    S.   DAK.
-
-Serial  Catalogue
-
-No.                                                                                                                                    No.  Page
-
-235.  "You  have  relied  upon  me" 645  513
-
-236.  "I  have  been  helping" 644  614
-
-237.  Song  of  the  Ticketless  society  (no  words) 678  515
-
-238.  Song  concerning  Fierce  Face 662  516
-
-239.  Song  concerning  a  message  from  Washington 646  517
-
-240.  Song  of  the  famine 647  518
-
-2.  Arranged  in  Order  of  Catalogue  Numbers
-
-
-Cata-
-logue
-No.
-
-
-450
-451
-452
-453
-454
-455
-456
-457
-458
-459
-460
-461
-462
-463
-464
-465
-466
-467
-468
-469
-470
-471
-472
-473
-474
-475
-476
-477
-478
-479
-480
-
-
-Title  of  song
-
-
-*' The  many  lands  you  fear"
-
-Song  of  cutting  the  sacred  pole
-
-Song  of  painting  the  sacred  pole
-
-Opening  song  of  the  Sun  dance  (a)
-
-Song  in  honor  of  Two  Bears
-
-"I  fear  not"
-
-"We  are  coming"
-
-Dancing  song  (e)
-
-do.(f)
-
-do.ig)
-
-Song  in  honor  of  Oni^an
-
-"A  spirit  has  come"
-
-** Father,  sing  to  me"
-
-"From  whence  the  winds  blow "
-
-"Something  I  foretold"
-
-Song  concerning  war  paint
-
-"Tremble!  O  tribe  of  the  enemy"  . . . ,
-
-"A  root  of  herb"
-
-^'Behold  my  horsel"
-
-Song  to  secure  buffalo  in  time  of  famine.
-
-"  (liasing,  they  walked  "
-
-"Something  sacred  I  wear"
-
-"An  eagle  nation  is  coming"
-
-Song  of  the  crow  and  owl
-
-"Where  the  wind  is  blowing"
-
-Song  of  the  buffalo  hunt  (a)
-
-do.  (6)
-
-"The  White  Horse  Riders  said  this" . . .
-
-"Take  fresh  courage "
-
-Opening  song  of  the  Sun  dance  (b)
-
-Song  of  the  departure  of  the  young  men
-
-
-Name  of  singer
-
-
-Siya^a
-
-do..
-
-do..
-
-do..
-
-do..
-
-do.,
-
-. ....doi.
-do..
-
-
-do.
-
-
-do.
-do.
-do.
-do.
-do.
-do.
-do.
-do.
-
-
-do....
-
-do....
-
-do
-
-do....
-
-do....
-
-do....
-
-do....
-
-do....
-
-do....
-
-do....
-
-do....
-
-do....
-
-Lone  Man,
-
->  •  •  •  ■  \a\^  •  «  •  •
-
-
-Serial
-
-No.
-
-Page
-
-8
-
-109
-
-11
-
-113
-
-13
-
-117
-
-19
-
-128
-
-188
-
-453
-
-185
-
-449
-
-5
-
-105
-
-33
-
-146
-
-34
-
-147
-
-35
-
-148
-
-150
-
-369
-
-74
-
-232
-
-73
-
-230
-
-75
-
-233
-
-76
-
-234
-
-138
-
-353
-
-139
-
-354
-
-113
-
-304
-
-140
-
-355
-
-183
-
-445
-
-112
-
-303
-
-105
-
-295
-
-55
-
-193
-
-50
-
-186
-
-51
-
-187
-
-180
-
-440
-
-181
-
-441
-
-224
-
-602
-
-223
-
-501
-
-20
-
-129
-
-9
-
-110
-
-XX
-
-
-LIST  OP  SONGS
-
-
-2.  Arranged  in  Order  of  Catalogue  Numbers — Continued
-
-
-Cata-
-logue
-No.
-
-
-481
-482
-483
-484
-485
-486
-487
-488
-489
-•  490
-491
-
-492
-493
-494
-495
-496
-497
-498
-499
-500
-501
-502
-603
-504
-505
-506
-507
-508
-509
-510
-511
-512
-513
-514
-515
-516
-517
-518
-
-
-Title  of  song
-
-
-Name  of  singer
-
-
-Lone  Man.
-....do....
-....do....
-....do....
-....do....
-....do...,
-....do....
-....do....
-....do....
-....do....
-....do....
-
-
-Song  of  the  return  of  the  young  men. .
-
-Dancing  song  (c)
-
-"WakaQ^taQka  hears  me**
-
-**  I  have  conquered  them*'
-
-Dancing  song  ((f)
-
-Song  of  victory  over  the  sacred  pole. . .
-
-Song  of  lamentation
-
-"With  dauntless  courage  "
-
-"I  sing  for  the  animals**
-
-"Myhoree**
-
-Song  concerning  a  dream  of  the  thun-
-derbirds
-
-'*  The  horsemen  in  the  cloud  '*
-
-"Before  the  gathering  of  the  clouds '* . .
-
-"A  wind** .'
-
-"  In  a  sacred  manner  I  return  "
-
-Song  in  time  of  danger
-
-Song  for  securing  fair  weather
-
-Song  of  the  Braves'  dance
-
-Dancing  song  (a)
-
-Song  of  preparing  the  sacred  place. . .
-
-Opening  prayer  of  the  Sun  dance
-
-Song  at  sunrise
-
-"Black  face-paint  he  grants  me** ! do
-
-Song  concerning  the  sun  and  moon do
-
-Dancing  song  (6) do
-
-Noon  song do
-
-"Even  the  eagle  dies'*
-
-"  I  took  courage  "
-
-Song  of  the  Strong  Heart  society  (a) . . .
-
-"Captives  I  am  bringing'*
-
-"Behold  all  these  things"
-
-"Wewilleat"
-
-"  These  are  good  "
-
-"You  will  walk"
-
-"  I  am  sitting  '*
-
-Song  preceding  treatment  of  fractures.
-
-An  appeal  to  the  bear
-
-Song  of  the  bear
-
-
-....do...
-....do...
-....do...
-....do...
-....do...
-Red  Bird
-....do...
-....do...
-....do...
-....do...
-....do...
-
-
-Eagle  Shield.
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-....do
-
-
-Serial
-No.
-
-
-10
-31
-26
-28
-32
-12
-23
-7
-61
-62
-40
-
-37
-
-38
-
-41
-
-42
-
-39
-
-4
-
-6
-
-29
-
-17
-
-21
-
-36
-
-27
-
-25
-
-30
-
-24
-
-104
-
-165
-
-116
-
-166
-
-81
-
-83
-
-84
-
-85
-
-82
-
-86
-
-87
-
-88
-
-
-Page
-
-
-112
-145
-140
-142
-145
-115
-136
-108
-215
-216
-165
-
-160
-162
-168
-169
-163
-99
-107
-143
-123
-130
-148
-141
-139
-144
-138
-394
-395
-322
-396
-255
-258
-259
-260
-256
-262
-263
-264
-
-
-LIBT  OF  S0NQ8
-
-
-2.  Abranged  in  Obdeb  of  Catalogue  Numbebs — Continued
-
-
-Cata-
-logue
-No.
-
-
-519
-520
-521
-522
-523
-524
-525
-526
-527
-528
-529
-530
-531
-532
-533
-534
-535
-536
-537
-538
-639
-540
-541
-542
-543
-544
-545
-546
-547
-548
-549
-550
-551
-552
-553
-554
-555
-556
-557
-
-
-Title  of  song
-
-
-"Bear  told  me "
-
-"They  deserted  their  leader"
-
-"Oneofthem  willbekiUed"
-
-** I  intend  to  take  his  horses''
-
-**  Adventures  I  seek"
-
-Wolf  song
-
-Song  oi  the  moccasin  game  (f)
-
-Song  of  the  grass  dance  (e)
-
-*  *  Friends,  go  on  I "
-
-"Those  are  not  my  interest"
-
-"Horses  I  am  bringing"
-
-"  I  look  t&  him  in  vain"
-
-"You  may  go  on  the  warpath"
-
-"Watch  your  horses"
-
-"I  made  it  walk"
-
-Song  of  the  White  Horse  Riders  (a)
-
-do.(6)
-
-"A  wind  from  the  north  "
-
-*  *  Prancing  they  come  "
-
-Song  of  the  Elk  society
-
-'^I  have  caused  them  to  roam"
-
-"May  this  be  the  day"
-
-"A  wolf  nation  called  me  'father'"  ...
-
-Song  of  a  ghost
-
-"His  horses  he  granted  me"
-
-Song  of  the  Strong  Heart  society  (b)  . . .
-
-Song  of  the  buffalo  hunt  (e)
-
-"I  come"
-
-"A  wolf  I  considered  myself"
-
-Song  of  the  Strong  Heart  society  (c)
-
-Song  of  the  Buffalo  society  (a)
-
-do.(6)
-
-Song  of  the  moccasin  game  (q)
-
-do.(6)
-
-Song  of  the  Badger  society  (a)
-
-do.(6)
-
-"Their  voices  could  be  heard"
-
-"Against  the  wind"
-
-Song  of  the  Strong  Heart  society  (<0  •  *  •
-
-
-Name  of  singer
-
-
-Eagle  Shield.
-
-do
-
-do <
-
-do
-
-Two  Shields.
-
-do
-
-do
-
-do
-
-do....:.
-
-do
-
-do
-
-do
-
-do......
-
-do....^
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Gray  Hawk. .
-
-do
-
-do:
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-.....do
-
-do
-
-do
-
-
-89
-167
-168
-169
-130
-133
-211
-200
-128
-125
-145
-152
-151
-127
-52
-123
-124
-93
-111
-104
-68
-94
-67
-219
-131
-117
-182
-100
-129
-118
-101
-102
-206
-207
-120
-121
-98
-99
-119
-
-
-Page
-
-
-265
-398
-400
-402
-340
-345
-488
-477
-338
-334
-362
-372
-370
-337
-189
-330
-331
-276
-302
-294
-226
-277
-224
-497
-341
-
-323
-442
-291
-339
-324
-292
-292
-486
-486
-326
-326
-289
-290
-324
-
-
-xxn
-
-
-LIST  OF  SONGS
-
-
-2.  Arranged  in  Order  of  Catalogue  Numbers — Continued
-
-
-Catar
-
-logue
-
-No.
-
-
-658
-559
-560
-561
-562
-
-563
-564
-565
-566
-567
-568
-569
-570
-571
-672
-
-573
-574
-576
-576
-577
-578
-579
-580
-581
-582
-583
-584
-585
-586
-587
-588
-589
-590
-591
-592
-593
-594
-
-
-Title  of  song
-
-
-Name  of  singer
-
-
-"Aahorttime" Gray  Hawk
-
-Song  of  the  moccaain  game  (d) i do.
-
-do.(c)
-
-do.(«)
-
-"  He  comes  to  attack  "
-
-
-"Worthy  of  reverence"
-
-"A  blacktail  deer"
-
-"  From  everywhere  they  come  "
-
-''A  sacred  stone  nation  is  speaking" . . .
-
-"They  move  with  a  purpose "
-
-Song  of  the  old  wolf
-
-*  *  I  am  walking  "
-
-Song  of  the  young  wolves
-
-"  The  thunderbird  nation  "
-
-Ceremonial    song    of    the  Miwa^tani
-society.
-
-"My  horse  flies  like  a  bird  "
-
-"Father,  behold  me".
-
-"MyUfeissuch"
-
-"You  should  give  up  the  warpath  "
-
-Song  of  the  Buffalo  society  (c)
-
-"Hence  they  come"
-
-
-do
-
-do
-
-Charging  Thun-
-der.
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do...
-
-do
-
-
-Brave  Buffalo.
-
-Shooter
-
-do
-
-do
-
-do
-
-do
-
-
-((
-
-
-I  donated  ahorse" do.
-
-
-Song  of  the  Fox  society  (b)..
-
-"A  bear  said  this" ,
-
-"  I  was  ordered  to  return"
-
-"It  is  I,  myself'*
-
-*  *  Horses  I  seek  "
-
-"When  I  came  you  cried"
-
-"  I  struck  the  enemy"
-
-"  I  come  after  your  horses"
-
-"Two  war  parties"
-
-"Sister,  I  bring  you  a  horse"
-
-Love  song  (a)
-
-"  He  is  again  gone  on  the  warpath  "
-
-Shufliing-feet  dance(&)
-
-"They  are  charging  them  "
-
-Song  of  the  grass  dance  ((f)
-
-
-do
-
-do :.
-
-do
-
-Swift  Dog
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Kills-atrNight.
-
-do
-
-do
-
-
-231
-209
-208
-210
-
-58
-
-63
-56
-66
-64
-65
-49
-1
-48
-
-43
-122
-
-108
-71
-106
-1^
-103
-230
-229
-115
-57
-72
-170
-171
-172
-173
-174
-175
-176
-233
-153
-202
-196
-197
-
-
-Pag©
-
-
-509
-
-487
-487
-488
-197
-
-219
-194
-222
-220
-221
-183
-67
-182
-171
-328
-
-299
-228
-296
-374
-293
-508
-507
-317
-196
-229
-403
-404
-406
-407
-409
-410
-411
-511
-371
-479
-473
-475
-
-
-LIST  OF -SONGS
-
-
-xxni
-
-
-2.  Arranged  in  Order  or  Catalogue  Numbers — Continued
-
-
-Gatar
-
-loffue
-
-No.
-
-
-595
-596
-597
-598
-599
-600
-
-601
-602
-603
-604
-605
-606
-607
-608
-609
-610
-611
-612
-613
-614
-615
-616
-617
-618
-619
-620
-621
-622
-623
-624
-625
-626
-627
-628
-629
-630
-631
-632
-
-
-Title  of  song
-
-
-Song  of  the  grass  dance  (c)
-
-do.(a) .'
-
-do.(d)
-
-Game  song
-
-Song  when  a  game  is  almost  won. .
-Song  of  the  shuffling-feet  dance  (a)
-
-
-Song  of  the  night  dance
-
-'  'May  you  behold  a  sacred  stone  nation' '
-
-"The  sunrise"
-
-"When  a  horse  neighs"
-
-"Horses  are  coming"
-
-"A  buffalo  said  tome"
-
-"Owls  hooting"
-
-Weapon  song
-
-Song  of  the  elks
-
-* '  Behold  the  dawn  I  "
-
-"It  is  difficult"
-
-Song  of  Sitting  Bull  (a)
-
-do.(6)
-
-"I  wish  to  do  my  part"
-
-*  *  His  customs  I  adopted  " ,
-
-
-....do.
-....do.
-....do.
-"See  my  desire" I do.
-
-
-Name  of  singer
-
-
-Kills-at-Night..
-
-do
-
-do
-
-do
-
-do
-
-Kills-at-Night
-and  wife.
-
-do
-
-Brave  Buffalo..
-do
-
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Used-as-'a-Shield
-.....do
-
-
-"The  earth  only  endures"
-
-Song  of  victory
-
-Begging  song
-
-Song  of  the  maiden's  leap
-
-"Tell  her"
-
-"An  elk  am  I"
-
-"May  I  be  there"
-
-"  A  prairie  fire  "
-
-Song  concerning  Sitting  Crow
-
-"A  spotted  horse"
-
-*  *  Owls  hoot  at  me  "
-
-Song  after  raising  the  sacred  pole  (a)  . .
-
-..'...do.(6)
-
-do.(c)
-
-Song  of  final  visit  to  the  vapor  lodge
-
-
-do
-
-do
-
-do
-
-do
-
-do;
-
-One  Feather,
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Red  Weasel .
-
-do
-
-do
-
-do
-
-
-"In  a  sacred  manner  I  live'* Bear  Eagle
-
-
-Serial
-No.
-
-
-198
-196
-199
-212
-213
-201
-
-203
-
-59
-
-79
-
-109
-
-110
-
-44
-
-47
-
-45
-
-46
-
-80
-
-134
-
-193
-
-194
-
-186
-
-187
-
-141
-
-142
-
-214
-
-205
-
-218
-
-143
-
-107
-
-156
-
-157
-
-158
-
-159
-
-160
-
-14
-
-15
-
-16
-
-18
-
-77
-
-
-Page
-
-
-476
-474
-476
-490
-490
-478
-
-480
-209
-249
-300
-301
-174
-180
-176
-177
-250
-347
-459
-460
-450
-451
-356
-357
-491
-483
-495
-358
-297
-382
-383
-384
-385
-386
-119
-120
-121
-124
-236
-
-
-XXIV  LIST  OP  SONGS
-
-2.  Arranged  in  Order  of  Catalogue  Numbers — Continued
-
-
-Cata-
-logue
-No.
-
-
-633
-634
-635
-636
-637
-638
-639
-640
-641
-642
-643
-644
-645
-646
-
-647
-648
-649
-650
-651
-652
-653
-654
-655
-656
-657
-658
-659
-660
-661
-662
-663
-664
-665
-666
-667
-668
-669
-670
-
-
-Title  of  song
-
-
-Name  of  singer
-
-
-Bear  Eagle  .  . .
-
-....do
-
-....do
-
-Old  Buffalo...
-
-....do
-
-....do
-
-....do
-
-Shoots  First. . .
-
-....do
-
-....do
-
-....do :
-
-Holy-Face  Bear.
-....do
-
-
-"A  voice  I  sent"
-
-"Clear  the  way,  I  come"
-
-"At  the  wind  center  I  stand  "
-
-Song  of  self-reliance
-
-"  I  am  the  fox  "
-
-' '  I  look  for  them  "
-
-"Toward  them  I  walk"
-
-"The  poor  are  many"
-
-"I  expected  to  give  something"
-
-"  Two  White  Buffalo  "
-
-Song  in  honor  of  John  Grass
-
-" I  have  been  helping"
-
-"You  have  relied  upon  me"
-
-Song  concerning  a  message  from  Wash-
-ington.
-
-Song  of  the  famine
-
-Ceremonial  song
-
-Song  of  pretended  search
-
-Song  of  a  wolf
-
-"I  wiflhtoroam"
-
-'  •  A  night  is  different "
-
-" I  am  bringlDg  horseB"
-
-Sitting  Bull's  medicine  song  (a)
-
-do.(6)
-
-"Like  a  wolf  I  roam"
-
-Song  of  the  camp
-
-"  She  stands  there  fmiling"
-
-"Comel"
-
-"In  the  north"
-
-Love  8ong(6)
-
-Song  concerning  Fierce  Face
-
-"  Northward  they  are  walking" |  Little  Conjuror
-
-"My  goal" I do
-
-Song  in  honor  of  Gabriel  Renville  (a) .
-
-do.(6)
-
-"These  are  my  spies" '  Gray  Whirlwind
-
-"I  am  required  to  roam" do — .
-
-" I  sing  of  the  dead  chiefs" Many  Wounds.
-
-"Those  hills  I  trod  upon" do
-
-
-....do
-
-Weasel  Bear
-
-....do
-
-....do
-
-Jaw
-
-....do
-
-....do
-
-One  Buffalo....
-
-....do
-
-....do
-
-Dog  Eagle
-
-....do
-
-....do
-
-Blue  Cloud
-
-....do
-
-....do
-
-
-Serial
-No.
-
-
-78
-136
-137
-177
-178
-179
-
-54
-220
-221
-222
-191
-236
-235
-239
-
-
-Page
-
-
-237
-351
-352
-413
-414
-417
-191
-498
-499
-500
-456
-514
-513
-517
-
-
-240
-
-518
-
-3
-
-75
-
-2
-
-73
-
-53
-
-19a
-
-161
-
-390
-
-162
-
-391
-
-163
-
-392
-
-91
-
-272
-
-92
-
-273
-
-126
-
-S36
-
-135
-
-349
-
-144
-
-361
-
-232
-
-510
-
-97
-
--  288
-
-234
-
-511
-
-238
-
-516
-
-95
-
-286
-
-96
-
-287
-
-189
-
-454
-
-190
-
-455
-
-69
-
-226
-
-70
-
-227
-
-184
-
-448
-
-132
-
-342
-
-LIST  OF  SONGS
-
-
-XXV
-
-
-2.  Arranged  in  Order  or  Catalogue  Numbers — Continued
-
-
-Cata-
-logue
-No.
-
-
-671
-672
-673
-674
-
-675
-
-676
-677
-678
-679
-680
-681
-682
-683
-684
-685
-686
-687
-688
-689
-
-
-Title  of  Bong
-
-
-*'Two  White  Buffalo,  take  courage"
-
-"The  tribe  you  help" ^
-
-SoDg  in  honor  of  Bed  Fish
-
-Song  of  healing
-
-
-' '  The  sacred  stones  come  to  see  you  "
-
-
-Song  of  the  warpath
-
-Song  of  the  Fox  society  (a)
-
-Song  of  the  Ticketless  society
-
-Lullaby
-
-Song  of  little  girls'  play  (a)
-
-do.(6)
-
-Begging  song  of  the  old  women. .
-
-**  They  depend  upon  you  "
-
-"Whenever  the  tribe  assembles"
-
-'*  Learn  the  songs  of  victory  "
-
-Song  concerning  White  Butterfly.
-
-"He  lies  over  there"
-
-''Wakao^taQka,  pity  me"
-
-"  He  is  returning  "
-
-
-Name  of  singer
-
-
-Hakala. ......
-
-do
-
-Red  Fish
-
-Bear-with-
-White-Paw.
-
-Chased-by-
-Bean.
-
-Red  Fox
-
-Bear  Soldier. . .
-
-6ekpa^
-
-Yellow  Hair...
-
-do ,
-
-do
-
-do
-
-Silent  Woman..
-
-do-.
-
-do
-
-Mrs.  Lawrence.,
-
-do
-
-White  Robe....
-
-Earth-Medi-
-cine Woman.
-
-
-Serial
-No.
-
-
-225
-
-226
-
-192
-
-90
-
-60
-
-155
-114
-237
-217
-215
-216
-204
-228
-227
-149
-147
-148
-22
-146
-
-
-Page
-
-
-603
-604
-457
-268
-
-212
-
-378
-816
-515
-493
-492
-493
-482
-506
-505
-368
-365
-866
-135
-364
-
-
-NAMES  OF  SINGERS
-Standing  Rock  Reservation
-
-
-MEN
-
-
-Number  Tr«„i;„v, «««.
-
-of  songs  ^Tighsh  name
-
-29     TealDuck
-
-20     Two  Shields
-
-18     Lone  Man
-
-18     Gray  Hawk
-
-17     EagleShield
-
-11     Charging  Thunder
-
-11     Used-as-a-Shield
-
-10     Brave  Buffalo
-
-10     Red  Bird
-
-9     Shooter
-
-9     Swift  Dog
-
-8     Kills-at-Night»
-
-6     One  Feather
-
-4     Red  Weasel
-
-4     Bear  Eagle
-
-4     OldBuffalo
-
-4     ShootflFirst
-
-3    Jaw
-
-3     Weasel  Bear
-
-3     One  Buffalo
-
-3     Dog  Eagle
-
-2     Gray  Whirlwind
-
-2     Many  Wounds
-
-2     Youngest  Child
-
-1     RedFish
-
-1     RedFox
-
-1     Chased-by-Beara
-
-1     Bear  Soldier
-
-1  Bear-with-White-Paw
-
-
-Sioux  namo
-
-
--I
-
-
-&ya'ka  >
-
-Waha^duQ  ka-noQ^pa
-I6na^larwi<^a^
-Cetai)^-hota
-Wagbli^-waha^'^ui)  ka
-Wakiij^yan-wata^kpe
-Waha^^ai)  ka-ya'pi
-TataQ^ka-ohi^tika
-•Zintka'la-lu^ta»
-Oku'te
-
-AuQ'^ka-lu^zahaq
-Haghe'-pikte
-Wi''yaka-wai)  f i^la
-ItuQ^kasag-lu^ta
-Mato^-waobli'
-Tatagk^-ehag^ni
-Toke^yarwi^a^
-6ehu^pa
-
-ItuQ^'-kasai)  -mato'
-TataQ^ka-wai)  ^.i'^la
-^ug^ka-wagbli'
-Wamnl^yomni-ho'ta
-Wopo'-tapi
-Haka^a
-Hogai)''-luta
-Toka'la-lu'ta
-Mato^-kuwa*
-Maty-aki^^ita*
-Matynape^ska
-
-
-t  Died  in  liarch,  1913.
-«  Died  In  November,  1911.
-
-*  iCfllMtt-Nigfat  sang  Also  two  additional  songs  with  his  wife,  WltaOiu.
-4  Died  in  February,  1915.
-
-*  Died  In  March,  1915.
-
-
-XXVI
-
-
-SPECIAL    SIGNS
-
-
-XXVII
-
-
-WOMEN
-
-
-Number
-of  songs
-
-English  name
-
-Sioux  name  .
-
-4
-
-Yf^Uow  Hftir
-
-Pahi^wii)
-
-3
-
-Silent  Woman  ^
-
-Ini^ladn^win
-
-2
-
-Mm.  l4i.wrenoe
-
-Canku^lawii)
-
-2
-
-Woman's  Neck  *
-
-Wita'Tiu
-
-1
-
-White  Robe
-
-Ta^i^naska^wii)
-
-1
-
-Earth-Medicine  Woman
-
-Maka^-pe^u^tawii)
-
-SissETON  Reservation  (men)
-
-
-4
-3
-2
-2
-1
-
-
-Holy-Face  Bear.
-
-Blue  Cloud
-
-Little  Conjuror.
-Moses  Renville.
-Twin
-
-
-Mato^-ite^-wakaQ
-
-Mahpi^ya-to
-
-Wakai)^-<5ika^na
-
-6ekpa''
-
-
-1  Sang  with  her  husband,  KUls-at-Night.
-Total  number  of  songs,  240.    Total  number  of  singers,  40.
-
-Special  Signs  Used  in  Transcriptions  op  Songs
-
-
-I 1  placed  above  the  music   indicates   that   the  tones
-
-included  within  the  bracket  constitute  a  rhythmic  unit.
-
-+  placed  above  a  note  indicates  that  the  tone  is  sung  slightly  less
-than  a  semitone  higher  than  the  diatonic  pitch.
-
-—  placed  above  a  note  indicates  that  the  tone  is  sung  slightly  less
-than  a  semitone  lower  than  the  diatonic  pitch.
-
-0  placed  above  a  note  indicates  that  the  tone  is  prolonged  slightly
-beyond  the  note  value.
-
-0  placed  above  a  note  indicates  that  the  tone  is  given  less  than
-the  note  value.
-
-Meaningless  syllables  are  italicized.
-
-Where  no  words  are  beneath  the  notes  it  is  understood  that  mean-
-ingless syllables  were  used,  except  in  songs  whose  words  were  sung
-too  indistinctly  for  transcription;  such  instances  being  mentioned  in
-the  analysis.
-
-
-XXVIH  PHONETIC    KEY
-
-PHONETIC  KEY '
-
-Vowels
-
-The  vowels  are  five  in  number.     Each  has  but  one  sound  except
-when  followed  by  the  nasal  y,  which  somewhat  modifies  it.
-a  has  the  soxmd  of  English  a  in  father.
-e  has  the  sound  of  EngUsh  e  in  theyj  or  of  a  in  face,
-i  has  the  sound  of  i  in  marine,  or  of  e  in  me.
-
-0  has  the  sound  of  English  o  in  go,  note.
-
-u  has  the  sound  of  u  in  rule,  or  of  oo  in  food.
-
-Consonants
-
-The  consonants  are  23  in  number.
-
-b  has  its  common  English  sound.
-
-d  is  an  aspirate  with  the  sound  of  English  ch,  as  in  chin.
-
-^  is  an  emphatic  6.  It  is  formed  by  pronoxmcing  6  with  a  strong
-pressiu-e  of  the  organs,  followed  by  a  sudden  expulsion  of  the  breath.
-
-d  has  the  common  Enghsh  soxmd.
-
-g  has  the  soimd  of  g  hard,  as  in  go.
-
-^  represents  a  deep  sonant  guttiu'al  resembling  the  Arabic  gJiain.
-
-h  has  the  soxmd  of  A  in  English.
-
-K  represents  a  strong  surd  guttxu'al  resembling  the  Arabic  JcTia.
-
-k  has  the  same  soxmd  as  in  English.
-
-k  is  an  emphatic  letter,  bearing  the  same  relation  to  Jc  that  6  does  to
-(.    Formerly  represented  by  q.
-
-1  has  the  common  sotmd  of  this  letter  in  English.  It  is  peculiar  to
-the  Titoqwai)  dialect.
-
-m  has  the  same  soxmd  as  in  English.
-
-n  has  the  common  soxmd  of  n  in  English.
-
-I)  denotes  a  nasal  soxind  similar  to  the  French  n  in  Ion,  or  the
-English  n  in  drivJc.
-
-p  has  the  soxmd  of  English  v.  with  slightly  greater  volume  and
-stress,
-
-s  has  the  surd  soxmd  of  English  8,  as  in  say.
-
-^  is  an  aspirated  8,  having  the  soxmd  of  English  sJi,  as  in  shine.
-
-t  is  the  same  as  in  English  with  slightly  greater  volume.
-
-w  has  the  power  of  English  w,  as  in  vxilk.
-
-y  has  the  soxmd  of  English  y,  as  in  yet.
-
-z  has  the  soxmd  ^f  the  common  EngUsh  z,  as  in  zebra.
-
-i  is  an  aspirated  z,  having  the  soxmd  of  the  French  j,  or  the  English
-
-8  in  pleasure.    Formerly  represented  by  j.
-
-t .
-
-1  From  RiggB,  S.  R.,  Grammar  and  Dictionary  of  the  Dakota  Language  {SmithMtiian  Contr.  to  KnotrU
-edge,  nr,  pp.  3-4,  Washington,  1852).  See  also  "Siouan  Dakota  (Teton  and  Santee  Dialects)  with  n-
-marks  on  the  Ponca  and  Winnebago/'  by  Frans  Boas  and  John  R.  S wanton,  in  Ilandbook  of  American
-Indian  Languages,  BuU.  40,  Bur.  Amer,  Elhn,,  pt.  1,  pp.  875-065.
-
-
-TETON  SIOUX  MUSIC
-
 By  FRANCES  DENSMORE
 
 
@@ -3849,13 +19,11 @@ until  1914,  Mr.  Robert  P.  Iligheagle  acting  as  principal  interpreter  a
 Standing  Rock  and  revising  the  material  collected  at  Sisseton,  where
 a  competent  interpreted  could  not  be  secured.  The  words  of  the
 songs  recorded  at  Standing  Rock,  with  few  exceptions,  are  in  the
-Teton  dialect,  while  those  recorded  among  the  Sisseton  and  Wah-
-peton Sioux  are  in  the  Santee  dialect.
+Teton  dialect,  while  those  recorded  among  the  Sisseton  and  Wahpeton Sioux  are  in  the  Santee  dialect.
 
 Before  entering  on  a  consideration  of  this  material,  the  terms
 applied  to  the  tribe  and  its  various  divisions  will  be  briefly  noted.
-'* Dakota"  is  the  word  used  by  these  Indians  in  speaking  of  them-
-selves; this  word  means  *' leagued"  or  ''allied"  and  is  used  also  as
+'* Dakota"  is  the  word  used  by  these  Indians  in  speaking  of  themselves; this  word  means  *' leagued"  or  ''allied"  and  is  used  also  as
 an  adjective,  meaning  "friendly."  *  The  latter  part  of  the  word,
 meaning  "friend,"  is  pronounced  i:ola  by  the  Teton  and  koda  by  the
 Santee.  The  word  "Sioux"  was  applied  to  the  Dakota  by  Indians
@@ -3884,16 +52,13 @@ the  seven  principal  divisions,  which  comprised  the  tribe  or  nation.
 Each  of  these  was  divided  into  nimierous  bands.  The  largest  of  these
 divisions  was  known  as  the  Ti'torjwaij,  contracted  to  the  word  Teton,
 This  division  is  said  to  have  constituted  more  than  half  of  the  entire
-tribe  and  to  have  exceeded  the  others  in  wealth  and  physical  develop-
-ment. They  seem  always  to  have  lived  west  of  the  Missouri  River.
+tribe  and  to  have  exceeded  the  others  in  wealth  and  physical  development. They  seem  always  to  have  lived  west  of  the  Missouri  River.
 The  four  divisions  of  the  tribe  which  Uved  east  of  the  Missouri  are
-now  known  collectively  as  the  Santee.  Riggs  says:  *' These  Missis-
-sippi and  Minnesota  Dakotas  are  called  by  those  on  the  Missouri,
+now  known  collectively  as  the  Santee.  Riggs  says:  *' These  Mississippi and  Minnesota  Dakotas  are  called  by  those  on  the  Missouri,
 Isanties,  from  ^saijati'  or  4sai)yati';  which  name  seems  to  have
 been  given  them  from  the  fact  that  they  once  Uved  at  Isagtamde,
 Knife  Lake,  one  of  those  included  under  the  denomination  of  Mille
-Lacs.''  *  According  to  Riggs,  these  four  divisions  were  the  ^*Mdewa-
-kai)toi)wai)s,  Wahpekutes,  Wahpetoi)wai)s,  and  Sisitoqwags."  Prior
+Lacs.''  *  According  to  Riggs,  these  four  divisions  were  the  ^*Mdewakai)toi)wai)s,  Wahpekutes,  Wahpetoi)wai)s,  and  Sisitoqwags."  Prior
 to  the  Indian  outbreak  in  1862  the  home  of  these  bands  was  in
 Minnesota.  The  two  remaining  divisions  of  the  tribe  are  *Hhe
 Ihai)ktoi)wai)na  and  the  IhaQtogwags/'  the  former  living  along  the
@@ -3902,8 +67,7 @@ of  the  Missouri.  Riggs  states  that  'Hhese  two  bands  have  usually
 been  designated  by  travelers  under  the  name  of  ^Yanctons.'"  In
 the  Dakota  language,  as  spoken  by  these  three  large  divisions  of  the
 tribe,  there  exist  some  differences,  principally  in  the  use  of  certain
-consonants.  These  differences  are  fully  set  forth  by  Riggs.*  A  sim-
-ple illustration  of  one  of  these  variations  occurs  in  the  tribal  name,
+consonants.  These  differences  are  fully  set  forth  by  Riggs.*  A  simple illustration  of  one  of  these  variations  occurs  in  the  tribal  name,
 which  is  pronounced  Dakota  by  the  Santee  and  by  the  Yankton
 group,  and  Lakota  by  the  Teton.  Although  the  present  memoir
 concerns  chiefly  the  Teton  group,  the  tribal  name  will  be  used  in  its
@@ -3913,8 +77,7 @@ forms  are  used  in  the  songs  recorded  by  Santee.
 
 The  earliest  definite  reference  to  this  people  in  history  is  found  in
 the  Jesuit  Relations  for  1640,  in  which  they  are  called  ^'Nadvesiv"
-(Nadowessioux).  In  the  next  century  Col.  George  Croghan  com-
-piled *'A  List  of  the  Different  Nations  and  Tribes  of  Indians  in  the
+(Nadowessioux).  In  the  next  century  Col.  George  Croghan  compiled *'A  List  of  the  Different  Nations  and  Tribes  of  Indians  in  the
 Northern  District  of  North  America,  with  the  Number  of  Their
 Fighting  Men."  In  this  list  the  name  appears  as  La  Suil,  and  in  a
 footnote  the  author  says:  ^' These  are  a  nation  of  Indians  settled
@@ -3939,18 +102,14 @@ made  in  the  Journal  of  the  Lewis  and  Clark  Expedition:  "At  6  oC
 in  the  evening  we  Seen  4  Indians  .  .  .  and  three  of  them  .  .  .  belonged
 to  the  Sotd?^  nation."  '  But  as  white  men  came  into  closer  contact
 with  this  tribe  they  began  to  use  the  word  used  by  the  Indians
-themselves.  Thus  in  the  "Scientific  Data  accompanying  the  orig-
-inal journals  of  the  Lewis  and  Clark  Expedition/'  under  the  heading
+themselves.  Thus  in  the  "Scientific  Data  accompanying  the  original journals  of  the  Lewis  and  Clark  Expedition/'  under  the  heading
 "Ethnology,"  we  find  mention  of  the  "Sieux  or  Dar-co-tars,"  with
-an  extensive  description  of  the  tribe,  including  a  table  of  its  sub-
-divisions, which  is  probably  the  one  sent  by  Clark  to  the  Secretary  of
+an  extensive  description  of  the  tribe,  including  a  table  of  its  subdivisions, which  is  probably  the  one  sent  by  Clark  to  the  Secretary  of
 War.*  Gradually  the  native  name  came  into  more  general  use,  with
-various  modes  of  spelling,  and  in  1823  Major  Long  noted  the  "man-
-ners and  customs  of  the  Dacota  Indians."  *  However,  the  word
+various  modes  of  spelling,  and  in  1823  Major  Long  noted  the  "manners and  customs  of  the  Dacota  Indians."  *  However,  the  word
 "Sioux"  received  the  sanction  of  official  usage  in  1825,  the  statement
 being  made  in  a  Government  document  of  that  year  that  "Returns
-have  been  received  from  Gen.  Clark  and  Gov.  Cass,  the  commis-
-sioners appointed  to  mediate,  at  Prairie  Du  Chien,  between  the  Sioux,
+have  been  received  from  Gen.  Clark  and  Gov.  Cass,  the  commissioners appointed  to  mediate,  at  Prairie  Du  Chien,  between  the  Sioux,
 Sac,  Fox,  Iowa,  Chippewa,  Menomonei,  and  Winnebago  Tribes  and  to
 estabUsh  botmdaries  between  them."  *
 
@@ -3959,8 +118,7 @@ Sioux  and  Arapaho  Indians,  which  opens  with  the  words:  "From
 this  day  forward  aU  war  between  the  parties  to  this  agreement  shall
 forever  cease.  The  Government  of  the  United  States  desires  peace,
 and  its  honor  is  hereby  pledged  to  keep  it.  The  Indians  desire  peace,
-and  they  now  pledge  their  honor  to  maintain  it."  •  The  Sioux  Reser-
-vation established  at  that  time  comprised  about  20,000,000  acres  of
+and  they  now  pledge  their  honor  to  maintain  it."  •  The  Sioux  Reservation established  at  that  time  comprised  about  20,000,000  acres  of
 land,  extending  from  the  northern  botmdary  of  Nebraska  to  the
 forty-sixth  degree  of  north  latitude,  and  from  the  eastern  bank  of  the
 Missouri  River  to  the  one  hundred  and  fourth  meridian  of  longitude.'
@@ -3980,8 +138,7 @@ New  York,  1906.
 
 » Ibid.,  VI,  pp.  93-100.
 
-« Keating,  William  H.,  Narrative  of  an  Expedition  to  the  Source  of  St.  Peters  Itiver,  under  the  Com-
-mand of  Maj.  Stephen  H.  Long,  i,  p.  245,  Philadelphia,  1824.
+« Keating,  William  H.,  Narrative  of  an  Expedition  to  the  Source  of  St.  Peters  Itiver,  under  the  Command of  Maj.  Stephen  H.  Long,  i,  p.  245,  Philadelphia,  1824.
 
 »  McKenney,  Thomas  L.,  in  documents  accompanying  the  President's  Message  to  Congress,  Nineteenth
 Congress,  First  Session,  No.  1 ,  p.  90, 182o.
@@ -4000,11 +157,9 @@ included  in  this  territory,  and  an  additional  tract  extending  north  to
 the  Cannon  Ball  River  was  added  by  an  Executive  order  dated  March
 16,  1875.^  An  agency  nejar  the  present  site  of  the  Standing  Rock
 Agency  (Fort  Yates,  N.  Dak.)  was  established  July  4,  1873,  and  soon
-afterward  a  military  post  was  established  at  that  point.*  Two  com-
-panies of  Infantry  were  stationed  there,  and  this  force  was  increased
+afterward  a  military  post  was  established  at  that  point.*  Two  companies of  Infantry  were  stationed  there,  and  this  force  was  increased
 to  five  companies  of  Infantry  and  two  troops  of  Cavalry  during  the
-Indian  troubles  of  1876.  '  The  original  name  "Standing  Rock  Canton-
-ment" was  changed  to  Fort  Yates,  and  the  post  was  continued  until
+Indian  troubles  of  1876.  '  The  original  name  "Standing  Rock  Cantonment" was  changed  to  Fort  Yates,  and  the  post  was  continued  until
 1904.
 
 The  distinctively  tribal  life  of  the  Teton  Sioux  may  be  said  to
@@ -4013,10 +168,8 @@ great  buffalo  hunt  in  1882.  A  final  hunt  was  held  in  November,  1883,
 and  at  that  time  the  last  buffalo  were  killed.  Then  followed  a  period
 of  difficult  adjustment  on  the  part  of  the  Indians,  but  Gall,  Crow
 King,  and  others,  who  had  been  leaders  in  the  tribal  life,  became  also
-the  leaders  of  their  people  in  the  adoption  of  farming  and  other  pur-
-suits recommended  by  the  Government.  The  great  change,  however,
-did  not  come  to  the  Indians  until  1889,  when  the  Great  Sioux  Reser-
-vation passed  into  history.  In  its  place  were  established  five  reser-
+the  leaders  of  their  people  in  the  adoption  of  farming  and  other  pursuits recommended  by  the  Government.  The  great  change,  however,
+did  not  come  to  the  Indians  until  1889,  when  the  Great  Sioux  Reservation passed  into  history.  In  its  place  were  established  five  reser-
 vations.' The  boundaries  of  these  reservations  were  determined  by
 a  conmiission  of  three,  of  which  ex-Gov.  Charles  Foster,  of  Ohio,
 was  chairman,  his  associates  being  Maj.  George  Crook,  and  Maj.
@@ -4055,25 +208,20 @@ VIEWS  ON  STANDING  ROCK  RESERVATION
 Method  or  Work  and  of  Analysis
 
 The  method  of  collecting  the  Sioux  songs  was  similar  to  that  used
-in  connection  with  the  Chippewa  work.*  Songs  were  recorded  by-
-means  of  the  phonograph,  and  a  transcription  was  made  frotn  the
+in  connection  with  the  Chippewa  work.*  Songs  were  recorded  bymeans  of  the  phonograph,  and  a  transcription  was  made  frotn  the
 phonograph  record,  care  being  taken  that  the  speed  of  the  instrument
 was  the  same  when  recording  the  songs  and  when  playing  them  for
-transcription.  Ordinary  musical  notation  is  used  for  the  transcrip-
-tion, with  the  addition  of  the  special  signs  used  in  Bulletin  53.
+transcription.  Ordinary  musical  notation  is  used  for  the  transcription, with  the  addition  of  the  special  signs  used  in  Bulletin  53.
 
-The  transcriptions  of  these  songs  should  be  understood  as  indi-
-cating the  tones  produced  by  the  singers  as  nearly  as  it  is  possible  to
-indicate  them  in  a  notation  which  is  familiar  by  usage  and  there-
-fore convenient  for  observation.^
+The  transcriptions  of  these  songs  should  be  understood  as  indicating the  tones  produced  by  the  singers  as  nearly  as  it  is  possible  to
+indicate  them  in  a  notation  which  is  familiar  by  usage  and  therefore convenient  for  observation.^
 
 As  several  hundred  records  were  made,  there  were  some  accidental
 dupUcations  of  songs.  In  five  instances  (Nos.  125,  132,  133,  151,
 173)  these  are  transcribed,  such  being  considered  sufficient  to  show
 the  slight  diflFerences  which  appear  when  a  song  is  sung  by  several
 singers  of  equal  ability,  or  at  different  times  by  the  same  singer.
-Other  dupUcations  examined  by  the  writer  show  fewer  points  of  dif-
-ference than  those  which  are  transcribed.  It  occasionally  happened
+Other  dupUcations  examined  by  the  writer  show  fewer  points  of  difference than  those  which  are  transcribed.  It  occasionally  happened
 that  a  song  was  known  to  have  been  imperfectly  rendered,  and  in
 this  case  another  record  was  made  by  a  better  singer,  the  second
 record  being,  of  course,  the  only  one  taken  into  consideration.
@@ -4084,11 +232,9 @@ usually  possible  to  distinguish  them  by  comparing  the  several  records
 of  a  song  on  the  phonograph  cylinders.  As  frequently  noted  in  the
 descriptive  analyses,  the  renditions  of  a  song  by  a  good  singer  are
 usually  imifomi  in  every  respect.  An  effort  was  made  to  employ  only
-the  best  singers.  In  selecting  the  principal  singers,  as  weU  as  inform-
-ants, the  writer  ascertained  a  man's  general  reputation  at  the  agency
+the  best  singers.  In  selecting  the  principal  singers,  as  weU  as  informants, the  writer  ascertained  a  man's  general  reputation  at  the  agency
 office  and,  in  some  cases,  at  the  trader's  store,  as  well  as  among  his
-own  people.  In  a  few  instances  material  which  appeared  to  be  inter-
-esting has  been  discarded  because  the  informant  was  found  to  be
+own  people.  In  a  few  instances  material  which  appeared  to  be  interesting has  been  discarded  because  the  informant  was  found  to  be
 imreliable.  On  one  occasion  a  man  was  brought  to  the  writer  by  an
 informant  with  whom  she  was  acquainted.  Mr.  Higheagle  was
 absent,  but  another  interpreter  was  secured  and  data  concerning  the
@@ -4135,8 +281,7 @@ major  and  minor  sixths  and  major  and  minor  seconds,  the  last  named
 being  especially  interesting,  as  it  shows  the  minor  second  (semitone)
 to  be  used  much  less  frequently  than  the  major  second  (whole  tone),
 a  fact  which  has  a  direct  'bearing  on  the  question  whether  Indians
-habitually  and  consciously  use  intervals  smaller  than  those  repre-
-sented by  the  musical  scale  of  the  white  race.
+habitually  and  consciously  use  intervals  smaller  than  those  represented by  the  musical  scale  of  the  white  race.
 
 Except  for  the  signs  -f  and  — ,  indicating  that  certain. tones  were
 sung  sUghtly  above  or  below  pitch,  there  is  no  attempt  at  showing
@@ -4148,10 +293,8 @@ the  following  statement  by  Prof.  Max  Meyer,  of  the  University  of
 Missouri;  should  be  noted :
 
 The  result  of  our  experiments  [with  Doctor  Stumpf]  made  in  Berlin  was  that  the
-Major  Third,  Fifth,  and  Octave  are  preferred  a  little  larger  than  theoretical  inter-
-vals; the  Minor  Third,  on  the  contrary,  a  little  pmaller.  .  .  .  We  may  therefore
-state  it  as  an  established  law  that  the  smaller  musical  intervals  are  preferred  dimin-
-ished. .  .  .  that  the  larger  musical  intervals  are  preferred  enlarged.  .  .  .  and  that
+Major  Third,  Fifth,  and  Octave  are  preferred  a  little  larger  than  theoretical  intervals; the  Minor  Third,  on  the  contrary,  a  little  pmaller.  .  .  .  We  may  therefore
+state  it  as  an  established  law  that  the  smaller  musical  intervals  are  preferred  diminished. .  .  .  that  the  larger  musical  intervals  are  preferred  enlarged.  .  .  .  and  that
 the  point  where  the  curve  of  deviation  passes  zero,  is  situated  between  the  Minor  and
 Major  Thirds.*
 
@@ -4215,8 +358,7 @@ Fifth  five-toned  scale:  Keynote  E  (sequence  of  tones  E,  G,  A,  C,  D).
 After  a  song  is  transcribed  it  is  fully  analyzed,  the  analyses  being
 combined  in  the  tables  at  the  close  of  the  various  groups  and  later
 being  incorporated  in  the  tables  on  pages  12-21.  Throughout  the
-present  work  the  repeated  part  of  a  song  is  not  considered  in  com-
-puting the  number  of  intervals  which  the  melody  contains..  Such
+present  work  the  repeated  part  of  a  song  is  not  considered  in  computing the  number  of  intervals  which  the  melody  contains..  Such
 part  often  begins  with  the  second  or  third  measiu*e,  the  opening
 measures  taking  the  form  of  an  introduction,  a  custom  which  was
 
@@ -4238,8 +380,7 @@ which  disguises  their  meaning.-  See  words  of  Mide'  songs  in  Bulletin
 45;  also.footnote,  page  120  of  this  work.
 
 In  the  present  volimie  the  use  of  cross-references,  which  are  foimd
-in  Bulletin  53,  is  discontinued,  and  in  their 'place  will  be  found  ref-
-erences to  the  analysis  of  the  first  song  containing  the  peculiarity
+in  Bulletin  53,  is  discontinued,  and  in  their 'place  will  be  found  references to  the  analysis  of  the  first  song  containing  the  peculiarity
 under  consideration.  Thus  if  a  rest  occurs  in  a  song  tliere  will  be
 found  a  reference  to  the  analysis  of  song  No.  79,  which  contains  a
 list  of  all  songs  in  which  rests  appear.  The  writer  commends  the
@@ -4257,8 +398,7 @@ connection  with  other  peculiarities  in  Bulletin  53,  song  No.  53,  page
 were  songs  concerning  or  sung  by  women,  but  the  proportion  of  women
 shigers  is  much  larger  in  the  present  series,  while  the  proportion  of
 songs  lacking  the  third  is  much  smaller  (see  analysis  of  song  No.  22).
-Another  method  of  tracing  songs  is  by  means  of  the  tabulated  analy-
-ses. Thus  a  student  in  search  of  songs  from  which  the  third  tone  of
+Another  method  of  tracing  songs  is  by  means  of  the  tabulated  analyses. Thus  a  student  in  search  of  songs  from  which  the  third  tone  of
 the  octave  is  lacking  would  turn  to  Table  6,  pages  21-23  of  Bulletm
 53,  note  the  classes  in  which  such  songs  are  found,  and  trace  them
 through  the  tabulated  analyses  of  those  several  classes.  This  is  the
@@ -4268,8 +408,7 @@ consideration  and  the  class  of  the  song  in  which  it  occurs.  Having
 noted  that  the  omission  of  the  third  occurs  in  only  3.5  per  cent  of
 the  Cliippewa  songs,  the  student  ascertains  in  the  same  way  from
 the  present  work  on  Sioux  songs  that  it  is  absent  from  only  5,  less
-than  1  per  cent  of  these  songs.  The  tabulated,  as  well  as  the  descrip-
-tive, analyses  are  intended  to  assist  a  careful,  intelligent  observation
+than  1  per  cent  of  these  songs.  The  tabulated,  as  well  as  the  descriptive, analyses  are  intended  to  assist  a  careful,  intelligent  observation
 of  Indian  music.  Both  the  means  used  and  the  results  attained
 should  be  understood  as  anticipating  a  broader  as  well  a.s  a  more
 
@@ -4285,8 +424,7 @@ analysis  is  intended  to  draw  attention  to  every  peculiarity  of  the  so
 One  who  becomes  accustomed  to  a  systematic  observation  of  Indian
 songs  may  detect  other  peculiarities.  It  is  possible  that  in  some
 instances  another  keynote  may  be  regarded  as  more  satisfactory
-than  the  one  which  is  designated.  Some  songs  are  so  strictly  har-
-monic in  form  that  only  one  tone  can  be  regarded  as  a  keynote,  but
+than  the  one  which  is  designated.  Some  songs  are  so  strictly  harmonic in  form  that  only  one  tone  can  be  regarded  as  a  keynote,  but
 others  are  so  freely  melodic  that  they  could  be  harmonized  in  more
 than  one  key.  The  melodies  are  regarded  primarily  as  a  succession*
 of  vocal  sounds  from  which  by  the  test  of  the  ear  the  writer  selects
@@ -4313,8 +451,7 @@ voice.
 
 The  musical  customs  of  the  Sioux  do  not  differ  materially  from
 those  of  the  Chippewa;  for  instance,  there  are  the  same  reticence
-concerning  old  ceremonial  and  ' 'medicine"  songs,  the  same  acknowl-
-edged ownership  of  personal  songs,  and  the  same  custom  of  replacing
+concerning  old  ceremonial  and  ' 'medicine"  songs,  the  same  acknowledged ownership  of  personal  songs,  and  the  same  custom  of  replacing
 in  a  war  song  the  name  of  a  half-forgotten  hero  with  that  of  a  new
 favorite.  Among  the  Sioux,  however,  there  seems  to  be  more  freedom
 in  the  rhythm  of  the  drum.  The  Chippewa  had  drum-rhythms  which
@@ -4349,12 +486,10 @@ who  sit  around  the  drum.  The  number  at  the  drum  varies  with  the
 size  of  the  gathering;  if  a  large  number  are  dancing  the  singers  sit  as
 close  as  possible  around  the  drum,  each  man  beating  the  drum  as  he
 sings.  Sometimes  as  many  as  10  men  can  '*sit  at  the  drum."  A
-singer  of  recognized  ability  may,  if  he  Ukes,  bring  a  decorated  drimi-
-stick  of  his  own,  but  the  common  custom  is  for  the  drummers  to  use
+singer  of  recognized  ability  may,  if  he  Ukes,  bring  a  decorated  drimistick  of  his  own,  but  the  common  custom  is  for  the  drummers  to  use
 ordinary  drumsticks  consisting  of  sticks  wound  at  the  end  with  cloth.
 If  a  singer  at  the  drum  becomes  weary  he  lays  down  his  drumstick,
-whereupon  someone  who  has  been  dancing,  or  sitting  with  the  spec-
-tators takes  his  place.  It  was  said  that '  *  the  leader  starts  every  song,
+whereupon  someone  who  has  been  dancing,  or  sitting  with  the  spectators takes  his  place.  It  was  said  that '  *  the  leader  starts  every  song,
 and  if  it  is  an  easy  song  the  others  conmience  right  away,  but  if  it  is
 new  and  hard  they  begin  more  carefully."  Most  of  the  songs  may  be
 sung  an  indefinite  number  of  times,  the  leader  giving  a  signal  for  the
@@ -4380,8 +515,7 @@ that  *'h  man  roiJd  tell  the  kind  of  sonjj  bv  the  wav  it  eiuled.  ' 
 
 DSNSMORBl  •  TETON   SIOUX   MUSIC  11
 
-writer  therefore  sought  more  definite  information  on  this  point,  con-
-sulting Used-as-a-Shield  and  other  old-time  singers.  They  said
+writer  therefore  sought  more  definite  information  on  this  point,  consulting Used-as-a-Shield  and  other  old-time  singers.  They  said
 there  were  two  ways,  one  being  *'to  stop  short''  and  the  other  "to
 let  the  tone  die  away  gradually.''  On  being  asked  which  kinds  of
 songs  were  ended  in  each  of  these  ways  they  could  not  give  a  definite
@@ -4403,8 +537,7 @@ as  was  done  with  the  Chippewa  songs.  A  better  basis  for  comparison
 seemed  to  be  the  age  of  the  song,  and  accordingly  the  songs  were
 divided  into  two  groups,  the  first  and  larger  comprising  songs  believed
 to  be  from  50  to  100  years  old  and  the  second  those  less  than  50  years
-old.  In  addition  to  these  comparative  tables  (pp.  12-21)  the  anal-
-yses at  the  close  of  each  section  are  continued,  for  convenience  of
+old.  In  addition  to  these  comparative  tables  (pp.  12-21)  the  analyses at  the  close  of  each  section  are  continued,  for  convenience  of
 observation.
 
 It  is  not  so  difficult  to  judge  the  age  of  a  song  as  might  bo  imagined.
@@ -4418,17 +551,12 @@ used  in  treating  the  sick,  the  song  is  evidently  to  be  classed  among
 the  older  songs.  On  the  other  hand,  it  is  known  that  the  Strong
 Heart  society  was  organized  among  the  Standing  Rock  Sioux  only
 about  50  years  ago,  and  that  the  White  Horse  Riders  is  a  modern
-oi^anization.  The  songs  of  both  these  societies  are  therefore  com-
-paratively modern  songs,  but  the  songs  of  the  Miwa'tani  are  placed
+oi^anization.  The  songs  of  both  these  societies  are  therefore  comparatively modern  songs,  but  the  songs  of  the  Miwa'tani  are  placed
 in  the  older  group,  as  there  was  a  certain  ceremony  connected  with
 their  initiation  of  new  members,  one  of  the  ceremonial  songs  being
 preserved.  The  songs  of  the  Crow-owners  are  also  included  with  the
 older  songs,  as  this  was  shown  to  be  a  society  of  more  than  50  years
-standing,  and  only  a  few  of  its  songs  were  rt^membered.  Songs  con-
-taining mention  of  a  recent  custom  are  manifestly  modem.
-
-
-14
+standing,  and  only  a  few  of  its  songs  were  rt^membered.  Songs  containing mention  of  a  recent  custom  are  manifestly  modem.
 
 
 BUBEAU   OP  AMERICAN  ETHNOLOGY
@@ -4467,28 +595,7 @@ Four  tones
 Total.
 
 
-15
-
-40
-
-3
-
-4
-
-
 Per  cent.
-
-
-147
-
-
-10
-
-33
-
-2
-
-3
 
 
 Group  II.
@@ -4502,58 +609,19 @@ Total.
 Number.
 
 
-13
-34
 I
-4
-1
-2
-
-
-03
 
 
 Per  cent.
 
 Number.
 
-14
 
-28
-
-37
-
-83
-
-1
-
-4
-
-4
-
-8
-
-1
-
-1
-
-2
-
-2
 2  to
 
 •  -•■•/•-•--
 
 Per  cent.
-
-
-12
-
-85
-
-2
-
-8
 
 
 Table  6.— TONE  MATERIAL
@@ -4582,63 +650,9 @@ Per  cent.
 
 First  flve-toned  scale
 
-1
-16
-30
-
-1
-
-1
-
-31
-
-43
-
-1
-
-1
-
-4
-
-8
-
-2
-
-1
-
-30
-
-1
-
-14
-20
-16
-
-1
-
-1
-
-5
-1
-
-9
-
-12
-
-2
 
 Second  flve-toned  scale
 
-11
-21
-
-15
-13
-
-16
-14
-
-13
 
 Fourth  flve-toned  scale
 
@@ -4648,64 +662,20 @@ Mi^or  triad
 
 Major  triad  and  seventh
 
-1
-4
-3
-
-1
-4
-3
 
 Maior  triad  and  sixth
 
-2
 
 Major  triad  and  second
 
-5
-
-2
-
-1
-
-17
-
-3
-
-1
-
-3
 
 Minor  triad
 
-1
 
 M^nor  triad  and  seventh .
 
 Minor  triafi  and  fourth ,   ,
 
-12
-
-13
-
-1
-
-7
-
-7
-
-10
-
-14
-1
-
-8
-
-8
-
-11
-
-12
 
 Minor  triad  and  second
 
@@ -4715,38 +685,20 @@ Octave  comolete
 
 t
 
-13
-
-6
-
-1
-
-1
-
-2
-1
 
 f
 
-9
 
 I
 
-5
-9
-4
-
-6
 
 Octave  complete  except  seventh
 
-8
 
 Octave  complete  except  seventh  and  sixth.
 Octave  complete  except  seventh,  sixth,
 and  fourlh . . .  r .  ,  r   ,          , , . .  .
 
-7
 
 Octave  complete  except  seventh,  flfth,  and
 second
@@ -4754,40 +706,16 @@ second
 Octave   complete   except   seventh    and
 fourth  *
 
-1
-
-3
-
-3
-
-2
 
 Octave  complete  except  seventh  and  third .
-Octave  complete  except  seventh  and  sec-
-ond
+Octave  complete  except  seventh  and  second
 
-5
-7
-
-2
-3
-
-1
-
-2
-3
-
-1
-
-4
 
 Octave  complete  except  sixth
 
-5
 
 Octave  complete  except  sixth  and  fourth.
 
-1
 
 1  These  songs  are  minor  In  tonality,  the  mediant  being  a  minor  third  above  the  tonic  and  the  submediant
 a  minor  sixth  above  the  tonic.  In  the  fourth  five- toned  scale  the  seventh  and  fourth  tones  of  the  octave
@@ -4796,12 +724,6 @@ are  likewise  omitted,  but  the  third  and  sixth  intervals  are  major  and
 
 
 dbnsmobb]
-
-
-TETON  SIOUX  MUSIC
-
-
-15
 
 
 MELODIC  ANALYSIS — Continued
@@ -4837,48 +759,14 @@ Octave  complete  except  sixth  and  second.
 Octave  complete  except  sixth,  fifth,  and
 eooond
 
-3
-
-1
-1
-1
-7
-2
-
-2
-
-1
-
-1
-
-4
-
-1
-1
-1
-
-2
 
 Octave  complete  except  sixth  and  third. . .
 Octave  complete  except  fifth  and  second . .
 Octave  complete  except  fourth
 
-5
-1
-
-3
 
 I
-1
-3
 
-1
-
-3
-
-10
-
-4
 
 Octave  complete  except  fourth  and  second .
 0<^ve  noiniplAte  e^Mtpt  third  <|nd  n^tnAfid
@@ -4886,45 +774,22 @@ Octave  complete  except  fourth  and  second .
 1  J               3
 1                 1
 
-1
 
 Octave  complete  except  second
 
 ft
 
-6
-
-3
-1
-
-11
-1
-
-1
-2
-
-5
 
 If ffuir  third  And  fourth.
 
 Plrst.  fourth,  and  fifth  tonm
 
-1
-2
 
 Other  combinations  of  tone;*.       «  -
 
-1
-
-1
 
 Total
 
-147
-
-93
-
-240
 
 Tablk  7.— accidentals
 
@@ -4947,8 +812,7 @@ Fourth  and  seventh  raised  a  semitone.
 
 Seventh  lowered  a  semitone
 
-Seventh  aftd  fourth  lowered  a  semi-
-tone
+Seventh  aftd  fourth  lowered  a  semitone
 
 SLxth  lowered  a  semitone
 
@@ -4975,40 +839,10 @@ Number.
 Total.
 
 
-123
-4
-
-
-4
-2
-
-1
-1
-
-1
-4
-2
-2
-1
-
-
 Percent.
 
 
-147
-
-
 Hi
-3
-
-
-3
-1
-
-
-3
-1
-1
 
 
 Group  II.
@@ -5019,26 +853,7 @@ modem  songs.
 Number.
 
 
-73
-6
-3
-1
-2
-1
-
-
 Percent.
-
-
-93
-
-
-78
-6
-3
-1
-2
-1
 
 
 ToUl.
@@ -5048,41 +863,13 @@ Number.
 
 Percent.
 
-196
 
 ft2
 
-10
-
-4
-
-1
-
-2
-
-1
-
-1
-
-2
-
-1
-
-1
-
-2
-
-1
 
 1 1,
 
 2I
-
-
-240
-
-
-14
 
 
 BrREAU   OP  AKEBICAX   ETHNOLOGY
@@ -5114,16 +901,6 @@ Six
 
 
 IS
-19
-
-3
-4
-
-
-33
-2
-
-3
 
 
 U
@@ -5131,7 +908,6 @@ I
 
 
 I;
-5
 
 
 Total.
@@ -5143,37 +919,13 @@ It7
 SS
 
 
-14
-
-37
-1
-
-4
 I
-2
 
 
 ToUL
 
 
 Fto  cent.  Namber.  P«r  ccns.  Somber. .  P«r  cent.
-
-
-4
-
-1
-2
-
-
-13
-35
-
-2
-
-3
-
-
-310
 
 
 Tabu  «.— TOXE  MATERIAL
@@ -5235,63 +987,28 @@ Dctavti  I'umplttU  oxcuiit  sixth
 Oi-tavu  cuiuiUotu  oxoojit  iUxth  and  ftwrth.;
 
 
-1
-
-16
-
 3P
 
 I
 
 
-2
-
 i
 IT
 
 
-2
-
 I
 
 
-9
-1
-
-
-11
-21
-
-
-3
-1
-
-
-12
-
-9
 I
 
 
 to
 L3
 
-1
-
-4
-3
-
 
 U
-1
 
-4
 I
-
-
-3
-
-1
 
 
 14  '
@@ -5300,20 +1017,9 @@ I
 
 li
 4  ,
-3
 
-
-14
-1
 
 S
-
-8
-
-11
-
-
-3
 
 
 TotaL
@@ -5322,67 +1028,33 @@ TotaL
 Noabcr.    I>rc«nt.   Numb^.   FterctnL  Number.    P^recnU
 
 
-1
-
 31  1
 
 u
 
-43
-1
-1
 
 l8
 
-4
-
-3
 
 t»
 
-3
-
-2
-1
-
-1
-
-12
 
 t
 
-14
 
 «
 
 a»
 
-8
 
 Irt
 
 
-5
-1
-
-
 2  1
 
-9
-
-4
 
 3  '
 
-12
-
-5
-
-1
-
-2
-
-1
 
 t  rhcM^  2ioug2i  urv  lulJAur  In  UMUkUty .  tha  mediant  bain«  a  minor  third  above  the  tcMiic  and  the  sabmediant
 a  minor  NJvtU  uhovo  tbi>  tuule.  In  the  fourth  ftre-toned  sciiJe  the  saTenth  and  fourth  tones  of  the  octava
@@ -5394,9 +1066,6 @@ DBNSMOBB]
 
 
 TETON  SIOUX  MtJSTC
-
-
-15
 
 
 MEix>Dio  ANALYSIS — Continued
@@ -5432,95 +1101,30 @@ Octftve  complete  except  sixth  and  second.
 Octave  complete  except  sixth,  fifth,  and
 second
 
-3
-
-1
-
-1
-1
-7
-2
-
-2
-
-1
 
 I
 
-4
-
-1
-1
-1
-
-10
-3
-1
-
-11
-1
-1
-2
-
-2
 
 Octave  complete  except  sixth  and  third . . .
 Octave  complete  except  fifth  and  second . .
 Octave  complete  except  fourth
 
-5
-
-1
-
-3
-
-1
-1
-3
-1
-
-3
-
-1
-1
-3
-
-1
-
-4
 
 Octave  complete  except  fourth  and  second .
 Octave  complete  except  third  and  second .
 Octave  complete  except  second
 
-1
-
-8
-
-6
-
-5
 
 Minor  th<w1  f»nd  foiirth
 
 Ffrst.  fourth,  and  fifth  tones
 
-1
-2
 
 Other  comblnatlonii  of  tone*.          » . .
 
-1
-
-1
 
 Total
 
-147
-
-93
-
-240
 
 Table  7.— ACCIDENTALS
 
@@ -5542,7 +1146,6 @@ Number.
 
 Per  cent.
 
-1
 
 Number.
 
@@ -5555,129 +1158,44 @@ Percent.
 Songs  containing—
 No  fvccHentfrls  ,  .
 
-123
 
-4
-
-84
-3
-
-73
-6
-3
-1
-2
-1
-
-78
 «
-3
-1
-2
-1
 
-196
 
-10
-
-3
-
-1
-
-3
-1
-3
-
-1
 .5
-3
-3
-2
 
-1
-2
-
-240
-
-82
 
 Seventh  raised  a  semitone
 
-4
 
 •
 
 Sixth  raised  a  semitone
 
-1
 
 Sixth  and  third  raised  a  semitone
 
 Fourth  raised  a  semitone
 
-4
 
-2
-
-1
 •      1
 
-1
-4
-2
-2
-
-1
-
-3
-1
-
-2
 
 Second  raised  a  semitone
 
-1
 
 Fourth  and  seventh  raised  a  semitone.
 
 Seventh  lowered  a  semitone
 
-2
 
-2
-
-1
-
-Seventh  alld  fourth  lowered  a  semi-
-tone
+Seventh  alld  fourth  lowered  a  semitone
 
 Sixth  lowered  a  semitone
 
-3
-
-1
-1
-
-1
-1
-1
-
-1
-
-1
-
-1
-1
-1
-1
-
-1
-
-2
 
 Fourth  lowered  a  semitone
 
-1
 
 Third  lowered  a  semitone
 
@@ -5685,7 +1203,6 @@ I
 
 Second  lowered  a  semitone
 
-1
 
 •
 Third  and  second  lowered,  and  fourth
@@ -5694,21 +1211,11 @@ raised  a  semitone
 
 Irr^ilar
 
-2
-
-1
-
-1
-
-93
 
 Total
 
-147
 
 ,
-
-16
 
 
 BUBEAU  OF  AMEBICAN  ETHNOLOGY
@@ -5746,39 +1253,6 @@ Percent.
 
 Melodic »
 
-99
-
-28
-
-18
-
-2
-
-67
-
-19
-
-12
-
-1
-
-59
-19
-15
-
-63
-21
-16
-
-158
-
-47
-
-33
-
-2
-
-66
 
 Melodic  with  harmonic  framework «
 
@@ -5786,19 +1260,12 @@ Harmonic*
 
 2a
 
-14
 
 Trrepilar
 
-1
 
 Total
 
-147
-
-93
-
-240
 
 «
 
@@ -5837,36 +1304,14 @@ Per  cent.
 
 Downward
 
-106
-41
-
-72
-28
-
-50
-34
-
-63
-37
-
-165
-75
-
-240
-
-69
 
 Upward
 
-31
 
 •
 
 Total
 
-147
-
-93
 
 Table  10.— TOTAL  NUMBER  OF  PROGRESSIONS— DOWNWARD  AND  UPWARD
 
@@ -5880,10 +1325,6 @@ Upward
 
 2,821
 1,624
-
-
-63
-37
 
 
 Total.
@@ -5901,8 +1342,6 @@ Per  cent.
 
 Total.
 
-64
-36
 
 4,6St
 2,674
@@ -5912,9 +1351,6 @@ Total.
 7,335
 
 Per  cent.
-
-63
-37
 
 
 Table  U.— INTERVALS  IN  DOWNWARD  PROGRESSION
@@ -5936,106 +1372,44 @@ Interval  of  a—
 
 Maior  sixth
 
-1
-
-5
-
-18
-
-300
-
-238
-
-831
-
-2
 
 1,254
 
-172
 
 •
 
-1
-
-6
-
-28
-
-525
-
-343
 
 1,396
 
-5
 
 2,085
 
-264
 
 Minor  sixth
 
-1
-
-8
-
-225
-
-105
-
-565
-
-3
-
-831
-
-92
 
 Fifth
 
-1
 
 Fourth
 
-10
-
-7
 
 .      29
 
-12
-
-5
-
-30
-
-11
 
 Major  third
 
-7
 
 Minor  third
 
-30
 
 Augmented  second
 
 Major  second
 
-45
-
-7
-
-45
-5
-
-45
 
 Minor  second
 
-6
 
 Total
 
@@ -6049,9 +1423,6 @@ dxnsmobk]
 
 
 TETON  SIOUX  MUSIO
-
-
-17
 
 
 MELODIC  ANALYSIS — Continued
@@ -6081,83 +1452,12 @@ Interval  of  &—
 
 Eleventh
 
-1
-
-1
-
-6
-
-6
-
-63
-
-13
-
-16
-
-30
-
-151
-
-422
-
-271
-
-710
-
-818
-
-187
 
 Tenth
 
-4
-
-3
-
-32
-
-12
-
-9
-
-23
-
-96
-
-238
-
-174
-
-433
-
-495
-
-104
-
-2
-
-3
-
-31
-
-1
 
 i
 
-7
-
-55
-
-184
-
-97
-
-277
-
-323
-
-63
 
 Ninth
 
@@ -6165,60 +1465,34 @@ Ninth
 
 OotAve
 
-2
-
-3
-
-2
 
 Seventh
 
 Major  sixth
 
-1
 
 Minor  sixth
 
-1
-6
-14
-11
-26
-32
-
-1
 
 Fifth.
 
-5
-18
-10
-27
-30
-
-6
 
 A
 
 Fourth
 
-16
 
 Mf^iorthM.
 
-10
 
 Minor  third
 
-27
 
 Major  second
 
-31
 
 Minor  second
 
-6
 
 t
 
@@ -6241,7 +1515,6 @@ Number  of
 songs.
 
 
-147
 9a
 
 
@@ -6301,152 +1574,18 @@ Number.
 
 Per  cent.
 
-7
-
-2
-
-1
-
-1
-12
-
-6
-
-6
-
-7
-
-15
-
-6
-
-8
-
-1
-
-1
-
-13
-
-5
-
-6
-
-2
-
-1
 
 H
 
-5
-
-4
-
-5
-
-5
 
 U
 
-5
-
-6
 
 7                 7
 
-16
-
-7
-
-3
-
-2
-
-1
-
-6
-
-2
-
-4
-
-8
-
-9
-
-14
-
-6
-
-3
-
-1
-
-1
-
-5
-
-2
-
-2
-
-2
-
-1
-
-5
-
-2
-
-3
-
-6
-
-6
-
-11
-
-6
-
-7
-
-5
-
-5
-
-15
-
-6
-
-2
-
-5
-
-5
-
-8
-
-3
-
-3
 
 •
 
-3
-
-3
-
-8
-
-3
-
-6
-
-6
-
-7
-
-3
 
 A  major 10
 
@@ -6481,13 +1620,7 @@ E  major 1
 1  The  term  "  key  "  is  here  used  in  its  broad  sense,  as  applicable  to  nonharmonic  mu.Hie,  Inclusive  of  modes.
 
 
-18
-
-
 BUEEAU   OF  AMERICAN  ETHNOLOGY
-
-
-[bull.  61
 
 
 lOQLODiG  ANALYSIS — Continued
@@ -6523,121 +1656,41 @@ Key— continued
 
 E  oiinor.
 
-3
-7
-9
-2
-1
-9
-6
-8
-2
-3
-2
-
-2
-5
-6
-2
-
-5
-1
-5
-1
-
-6
 
 •
 
-1
-5
-
-1
-
-8
-8
-14
-3
-1
-
-10
-
-10
-
-17
-
-4
-
-6
-
-2
-
-3
 
 F  major. .
 
-3
 
 F  minor
 
-6
 
 Q  flat  major
 
-1
 
 F  «liwp  niajor
 
 F  sharp  minor
 
-6
-4
-6
-2
-2
-2
-
-1
-4
-9
-2
-3
-
-1
-4
-10
-2
-3
-
-4
 
 G  major...
 
-4
 
 O  minor.
 
-7
 
 A  flat  major. ^.  .     . ,   .
 
-2
 
 Q  ffban>  minor
 
-2
 
 Irregular
 
-1
 
 Total
 
-147
-
-03
-
-240
 
 Table  15.— PART  OF  MEASURE  ON  WHICH  SONG  BEGINS
 
@@ -6670,32 +1723,9 @@ Per  cent.
 Beginning  on  unaccented  part  of  measure.
 Beginning  on  accented  part  of  measure
 
-72
-75
-
-49
-51
-
-24
-
-60
-
-26
-74
-
-96
-144
-
-40
-60
 
 Total
 
-147
-
-93
-
-240
 
 Table  16.— RHYTHM  OF  FIRST  MEASURE
 
@@ -6725,73 +1755,18 @@ Per  cent.
 
 First  measure  in—
 
-2-4  time
-
-83
-
-60
-
-3
-
-1
-
-56
-
-41
-
-2
-
-1
-
-50
-34
-
-63
-37
-
-142
-
-94
-
-3
-
-1
-
-59
-
-3-4  time
-
-39
-
-4-8  time
-
-1
-
-5-8  time.
-
-1
 
 ..........  ... ,,,
 
 TotaL
 
-147
 
 '
 
-93
-
-240
 
 •
 
 DENSMOBfl]
-
-
-TETON   SIOUX   MUSIC
-
-
-19
 
 
 MELODIC  ANALYSIS — Continued
@@ -6816,9 +1791,6 @@ Per  cent.
 
 Number.
 
-0
-
-84
 
 Per  cent.
 
@@ -6832,28 +1804,9 @@ ScQgv  containing  a  change  of  tfrn^.
 
 •
 
-9
-138
-
-6
-94
-
-10
-90
-
-18
-222
-
-8
-93
 
 Total
 
-147
-
-93
-
-240
 
 Table  18.-RHYTHM  OF  DRUM
 
@@ -6887,61 +1840,15 @@ Per  cent.
 
 sixteenth  notes  unaccented  i
 
-1
-
-26
-
-16
-
-2
-
-4
-
-11
-87
-
-2
-43
-27
-
-3
-
-7
-
-18
 
 ■
 
-1
-
-42
-44
-
-2
-
-11
-
-22
-
-118
-
-1
 
 EighUi  notes  unaccented  >
 
-16
-28
-
-26
-45
-
-34
-
-36
 
 Half  notes  unaccented  *
 
-2
 
 Eighth  notes  accented  in  groups  of  two  *. .
 
@@ -6949,26 +1856,11 @@ Each  beat  preceded  by  an  unaccented
 beat  cotresponding  to  third  count  of  a
 triplet*
 
-7
-
-11
-31
-
-11
-18
-
-9
-18
 
 Drum  not  recorded'
 
 Tntal....
 
-147
-
-93
-
-240
 
 1  See  No.  64.
 s  See  No.  19.
@@ -7010,86 +1902,12 @@ Five  rhythmic  units . .
 Number.
 
 
-48
-
-85
-
-12
-
-1
-
-1
-
-
-33
-
-58
-
-8
-
-1
-
-1
-
-
 Total.
-
-
-147
-
-
-23
-
-51
-
-13
-
-2
-
-
-93
-
-
-25
-
-71
-
-58
-
-130
-
-14
-
-25
-
-2
-
-3
-
-29
-
-67
-
-10
-
-1
-
-
-240
 
 
 >  For  the  purpose  of  this  analysis  a  rhythmic  tmit  is  defined  as  a  group  of  tones  of  various  lengths,
 usually  comprising  more  than  one  count  of  a  measure,  occurring  more  than  twice  in  a  song,  and  having  an
 evident  influence  on  the  rhythm  of  the  entire  song.
-
-
-20
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[bull.  61
 
 
 MELODIC  ANALYSIS — Continued
@@ -7120,329 +1938,23 @@ Per  cent.
 
 Metronome—
 
-48
 
-1
-3
-
-3
-1
-
-3
-
-5
-
-6
-
-5
-
-9
-
-10
-
-10
-
-12
-
-12
-
-6
-
-13
-
-10
-
-8
-
-4
-
-1
-
-3
-
-3
-
-3
-
-5
-
-9
-
-12
-
-16
-
-10
-
-16
-
-20
-
-21
-
-15
-
-12
-
-19
-
-15
-
-11
-
-7
-
-5
-
-5
-
-5
-
-1
-
-4
-
-4
-
-2
-
-5
-
-3
-
-3
-
-5
-
-1
-
-52
-
-2
-2
-
-1
-
-54
-
-1
-
-56
-
-2
-2
-4
-6
-
-11
-1
-5
-
-10
-9
-3
-6
-6
-5
-3
-3
-5
-2
-1
-1
-1
-1
-
-2
-2
-4
-6
-12
-1
-5
-11
-10
-1
-6
-6
-5
-3
-3
 .     5
-2
-1
-1
-1
-1
 
-1
-
-58
-
-2
-3
-3
-3
-6
-7
-7
-9
-9
-3
-9
-7
-6
-2
-
-2
-
-60
-
-4
-
-63
-
-5
-
-60
-
-6
-
-60
-
-4
-
-72
-
-6
-
-76
-
-8
-
-80
-
-8
-
-84
-
-6
-
-88
-
-5
-
-92
-
-8
-
-96
-
-6
-
-100
-
-2
-
-104
-
-3
-
-108
-
-2
-
-112
-
-3
-
-4
-
-2
-2
-
-2
-
-116
-
-2
-
-120
-
-126
-
-3
-3
 
 2,
 
-3
 
-2
-
-3
-
-2
-
-1
-
-2
-2
-2
-2
-2
 •      2
-2
 
-1
-
-132
-
-1
-
-138
-
-144
-
-2
-1
-
-2
-1
-
-2
-
-160
-
-1
-
-168
-
-1
-
-176
-
-3
-
-3
-
-2
-
-192
 
 •
 
 .•.••••••. J.  .........
 
-1
 
 Total
 
-147
-
-93
-
-240
 
 1  This  refers  only  to  tbe  tempo  in  which  a  song  begins.    For  a  consideration  of  changes  of  tempo  in  these
 Kmgs  see  analysis  of  song  No.  5.
@@ -7467,39 +1979,11 @@ Per  cent.
 
 Metronome—
 
-56
-
-2
-4
-
-3
-
-5
-
-
-3
 
 •60
 
-6
-
-63
-
-1
-
-2
-
-5
 
 66:
-
-8
-
-09
-
-1
-
-2
 
 
 Total.
@@ -7508,29 +1992,16 @@ Total.
 Number.
 
 
-4
-4
-5
-
-1
-
-
 l*er  cent.
 
 
 •2
-3
-3
-4
 
 
 I>i3N8UOBB]
 
 
 TETOK   SIOUX   MUSIC
-
-
-21
 
 
 MELODIC  ANALYSIS — Continued
@@ -7546,21 +2017,11 @@ Old  songs.
 
 sent.
 
-5
-5
-7
-2
-8
-10
-11
-3
-5
 
 Group  II.
 Comparatively
 modem  songs.
 
-1
 
 Total.
 Nunil>er.  Percent.
@@ -7573,219 +2034,51 @@ Numl)€r.
 
 Per  cent.
 
-2
-6
-11
-6
-8
-5
-6
-5
-6
-8
-2
-
-3
 
 Metronome— continued
 
-72
 
-3
-3
-4
-
-1
-
-5
-
-6
-
-7
 •t
 
-3
 
 •>
 
 *«
 
-4
-
-7
-4
-5
-3
-4
-3
-4
-5
-1
-
-5
-7
-
-11
-5
-
-10
-9
-
-11
-5
-7
-5
-2
-
-5
 
 •>
 
-1
-
-4
-
-4
-
-3
 
 2-
 
-3
-
-5
-
-4
-
-76
-
-6
 
 80 :
 
-9
-
-84
-
-4
-
-88
-
-8
-
-92
-
-8
-
-96
-
-9
 
 lOO
 
-4
-
-104
-
-6
-
-108
-
-4
 
 n2
 
-1
-3
-2
-1
-4
-4
-2
-2
-3
 
-2
-
-5
-
-3
 o
 
 7-
 
 t
 
-3
-3
-5
-3
-
-2
-
-116
-
-4
-
-120
-
-2
-
-126
-
-
-132
-
-3
-
-138
 
 t
 
-3
-
-144
-
-1
-
-2
-
-2
-
-152
-
-2
-
-160
 
 p
 
-2
-
-168
-
-4
-
-176
-
-3
-31
-
-5
 
 Drum  not  recorded  *
 
-87
-
-118
 
 Total
 
-147
-
-93
-
-240
 
 \
 
@@ -7816,70 +2109,24 @@ Per  cent.
 Drum  and  voice  having  the  same  metric
 imit^  -  - , ,,._.,,. _  _
 
-29
-19
-12
-87
-
-48
-32
-20
-
-47
-
-5
-
-10
-
-31
-
-76
-
-8
-
-16
-
-76
-
-24
-
-22
-
-118
-
-62
 
 Drum  faster  than  voice
 
-20
 
 Drum  slower  than  voice
 
-18
 
 Drum  not  recorded  i
 
 Total <
 
-147
-
-93
-
-240
 
 »
 
 1  Excluded  in  computing  percentage.
-4840*'— Bull.  61—18 4
-
-
-20
 
 
 BUREAU   OF  AMEBICAN   ETHNOLOGY
-
-
-[bull.  61
 
 
 MELODIC  ANALYSIS — Continued
@@ -7908,345 +2155,21 @@ Number.  Percent.
 
 Metronome—
 
-48
-
-1
-
-3
-
-3
-
-1
-
-3
-
-5
-
-6
-
-5
-
-9
-
-10
-
-10
-
-12
-
-12
-
-6
-
-13
-
-10
-
-8
-
-4
-
-1
-
-3
-
-3
-
-3
-
-5
-
-9
-
-12
-
-16
-
-10
-
-15
-
-20
-
-21
-
-15
-
-12
-
-19
-
-15
-
-11
-
-7
-
-5
-
-5
-
-5
-
-1
-
-4
-
-4
-
-2
-
-5
-
-3
-
-3
-
-5
-
-1
-
-62
-
-2
-2
-
-1
-
-54
-
-1
-
-56
-
-2
-2
-4
-6
-
-11
-1
-5
-
-10
-0
-3
-6
-6
-5
-3
-3
-5
-2
-1
-1
-1
-1
-
-2
-
-2
-
-4
-
-6
-
-12
 
 •      1
 
-5
-
-11
-
-10
-
-1
-
-6
-
-6
-
-5
-
-3
-
-3
 
 •     5
 
-2
-
-1
-
-1
-
-1
-
-1
-
-1
-
-58
-
-2
-3
-3
-3
-6
-7
-7
-0
-0
-3
-9
-7
-6
-2
-
-2
-
-60
-
-4
-
-63
-
-5
-
-06
-
-6
-
-60
-
-4
-
-72
-
-6
-
-76
-
-8
-
-80
-
-8
-
-84
-
-6
-
-88
-
-5
-
-92
-
-8
-
-06
-
-6
-
-100
-
-2
-
-104
-
-3
-
-108
-
-2
-
-112
-
-3
-4
-
-2
-2
-
-2
-
-116
-
-2
-
-120
-
-126
-
-3
-3
 
 2.
 
-3
 
-2
-
-3
-
-2
-
-1
-
-2
-2
-2
-2
-2
 •      2
-2
 
-1
-
-132
-
-1
-
-138
-
-144
-
-2
-
-1
-
-2
-1
-
-2
-
-160
-
-1
-
-168
-
-1
-
-176
-
-3
-
-3
-
-2
-
-102
 
 Total
 
-147
-
-93
-
-240
 
 >  This  refers  only  to  the  tempo  in  which  a  song  begins.    For  a  consideration  of  changes  of  tempo  in  these
 songs  see  analysis  of  song  No.  5.
@@ -8279,61 +2202,19 @@ I'er  cent.
 
 Metronome—
 
-56
 
 •
 
-2
-4
 
-3
-5
-
-
-3
 A
-5
 
-8
-
-
-4
-4
-5
-
-1
 
 •2
 
 •60
 
-3
-
-63
-
-1
-
-2
-
-3
-
-66
-
-4
-
-60
-
-1
-
-2
 
 UKNIjMORl]
-
-
-TETON   SIOUX   MUSIC
-
-
-21
 
 
 MELODIC  ANALYSIS — continued
@@ -8354,231 +2235,54 @@ modem  songs.
 Total.
 Numl»er.   Percent.
 
-1
 Nunilier.   Per  cent.
 
-1
 
 Numlier.
 
-2
-4
-7
-4
-5
-3
 
 Per  cent.
 
 Metronome— continued
 
-72
 
 a
 
-3
-4
 
-1
-
-5
-6
-
-7
-2
-
-3
-
-5
-5
-7
-2
-8
-10
 U
-3
-5
 
-2
-
-6
-
-11
-
-6
-
-8
-
-5
-7
-
-4
-
-76
-
-6
-
-80
 
 u  I             a
 
-84
 
-5
-
-10
 «
-11
-5
-7
-5
-2
-5
-2
-1
-4
-4
-3
 2-
-3
-5
 
-4
-
-88
-
-8
-
-92
-
-8
-
-96
 
 4  !               ft
 
-9
 
-100
-
-3
-4
-5
-1
-
-5
-6
-
-8
-2
-3
-
-4
-
-104
-
-6
-
-108
-
-4
-
-112
-
-1
-
-3
 •1
 
 •1
 t
 
-4
 
 ■»
 
-2
-
-3
-2
-
-2
-5
-3
-2
 
 **  .
 
-4
 
 m
 i
 
-3
-3
-5
-3
-
-2
-
-116
-
-4
-
-120
-
-2
-
-126
-
-132
-
-1
-
-3
-
-138
 
 t
 
-3
-
-144
-
-1
-
-2
-
-2
-
-152
-
-2
-
-160
-
-2
-
-4
-
-176
-
-3
-31
-
-5
-
-87
-
-118
 
 Total
 
-147
-
-93
-
-240
 
 Table  22.— COMPARISON   OF  METRIC  UNIT  OF  VOICE  AND  DRUM  (TEMPO)
 
@@ -8609,58 +2313,17 @@ Per  cent.
 Drum  and  voice  having  the  same  metric
 unit
 
-29
-
-19
-12
-
-87
-
-48
-32
-20
-
-47
-
-5
-
-10
-
-31
-
-76
-
-8
-
-16
-
-76
-
-24
-
-22
-
-118
-
-62
 
 Drum  faster  than  voice
 
-20
 
 Drum  slower  than  voice
 
-18
 
 Drum  not  recorded »
 
 Total :
 
-147
-
-93
-
-240
 
 »
 
@@ -8678,8 +2341,7 @@ learned  the  songs  or  received  them  in  dreams  when  they  were  yoimg.
 A  nimiber  of  the  songs  comprised  in  the  second  group  were  also
 recorded  by  old  men,  but  were  said  to  be  comparatively  modem
 songs.  The  remaining  songs  were  recorded  by  young  men  who  now
-"sing  at  the  drum''  when  the  Sioux  assemble.  These  songs  rep-
-resent a  distinct  phase  of  Sioux  music,  which  should  not  be  omitted
+"sing  at  the  drum''  when  the  Sioux  assemble.  These  songs  represent a  distinct  phase  of  Sioux  music,  which  should  not  be  omitted
 from  a  general  consideration  of  the  subject.
 
 Music  may  perhaps  be  said  to  be  the  last  element  of  native  culture
@@ -8691,8 +2353,7 @@ use  of  songs  for  ceremony,  war,  societies,  and  the  hunt  having
 passed  away.  Many  of  the  younger  Indians  among  both  Chippewa
 and  Sioux  find  much  pleasiu'e  in  recording  their  songs  on  phonographs
 which  they  themselves  possess.  The  writer  was  informed  that  among
-the  Standing  Rock  Sioux  "an  Indian  who  owns  a  phonograph  usu-
-ally has  at  least  a  hundred  records  of  Indian  songs.  He  and  his
+the  Standing  Rock  Sioux  "an  Indian  who  owns  a  phonograph  usually has  at  least  a  hundred  records  of  Indian  songs.  He  and  his
 friends  make  them  and  enjoy  them  much  more  than  the  conmiercial
 records.  Some  even  make  these  records  for  sale  among  their  people."
 The  songs  are  usually  recorded  by  several  singers,  while  others  at  the
@@ -8713,7 +2374,6 @@ Group  I. — This  group  contains  147  songs  believed  to  bo  from  50
 to  150  years  old,  and  comprises  the  following  songs:  (1)  Ceremonial
 
 1  Scop.  11.
-22
 
 
 DBViMOBE]  TETON   SIOUX   MUSIC  23
@@ -8729,8 +2389,7 @@ Miwa'tani  and  Kaqgi'yuha  societies.*
 
 Group  II.  This  group  contains  93  songs,  a  majority  of  which  are
 believed  to  be  less  than  50  years  old,  and  comprises  the  following
-divisions:  (1)  Songs  of  those  military  societies  which  are  compara-
-tively recent  among  the  Teton  Sioux.  These  are  the  Fox,  Strong
+divisions:  (1)  Songs  of  those  military  societies  which  are  comparatively recent  among  the  Teton  Sioux.  These  are  the  Fox,  Strong
 Heart,  and  Badger  societies,  and  the  White  Hor^e  Riders.  The  fox,
 coyote,  and  wolf  songs  are  so  closely  related  that  it  is  impossible  to
 draw  definite  lines  between  them,  but  as  a  compromise  the  songs
@@ -8741,19 +2400,16 @@ the  incidental  war  songs  and  dancing  songs  used  in  the  Sim  dance,
 and  those  songs  in  honor  of  an  individual  which  were  sung  to  melodies
 of  the  military  societies.  This  division  comprises  32  songs.'  (2)
 Songs  of  the  buffalo  himt,  together  with  council  and  Chief  songs,  one
-of  the  latter  being  simg  at  the  Sim  dance.*  (3)  All  songs  not  other-
-wise classified.  The  first  of  these  are  three  imclassificd  songs  in  the
+of  the  latter  being  simg  at  the  Sim  dance.*  (3)  All  songs  not  otherwise classified.  The  first  of  these  are  three  imclassificd  songs  in  the
 Sun  dance — Song  of  Final  Visit  to  the  Vapor  Lodge,  Noon  song,  and
 Song  concerning  the  Sim  and  Moon  (Nos.  18,  24, 25).  In  this  division
 are  also  the  songs  of  various  dances  and  games,  those  songs  in  honor
-of  an  individual  which  were  sung  to  dance  melodies,  and  the  misoel-
-laneous  songs  recorded  at  Sisseton,  S.  Dak."
+of  an  individual  which  were  sung  to  dance  melodies,  and  the  misoellaneous  songs  recorded  at  Sisseton,  S.  Dak."
 
 A  comparison  of  the  analyses  of  these  two  groups  is  shown  in  tables
 on  the  preceding  pages.  The  percentage  of  major  and  minor  songs
 is  the  same  in  the  two  groups,  except  that  the  older  group  contains
-two  songs  the  keynote  of  which  is  so  uncertain  that  they  are  classi-
-fied as  "irregular.''  The  percentage  of  songs  beginning  on  the
+two  songs  the  keynote  of  which  is  so  uncertain  that  they  are  classified as  "irregular.''  The  percentage  of  songs  beginning  on  the
 twelfth  and  fifth  is  44  in  the  older  songs  and  35  in  the  modern
 songs,  but  the  proportion  beginning  on  the  octave  is  10  per  cent
 
@@ -8782,13 +2438,11 @@ greater  in  the  modern  songs.  Curiously,  the  percentage  ending  on
 the  keynote  and  fifth  is  identical  in  the  two  groups.  The  modem
 songs  show  a  smaller  proportion  of  songs  in  which  the  final  tone
 is  the  lowest  in  the  song,  the  whole  tone  and  the  minor  third
-below  the  final  tone  being  used  in  several  instances.  The  propor-
-tion of  songs  on  the  five-toned  scales  is  32  per  cent  in  the  older
+below  the  final  tone  being  used  in  several  instances.  The  proportion of  songs  on  the  five-toned  scales  is  32  per  cent  in  the  older
 and  30  per  cent  in  the  more  modern  songs,  while  next  in  number
 are  songs  containing  only  the  minor  triad  and  fourth,  which  show  a
 difference  of  but  2  per  cent  in  the  two  groups.  The  first  important
-point  of  difference  is  that  the  older  songs  show  a  much  larger  pro-
-portion having  a  range  of  12  or  more  tones,  the  percentage  having
+point  of  difference  is  that  the  older  songs  show  a  much  larger  proportion having  a  range  of  12  or  more  tones,  the  percentage  having
 10  tones  being  the  same,  the  modem  group  has  the  larger  percentage
 of  songs  which  are  harmonic  in  structure.  This  suggests  less  freedom
 in  musical  expression  as  the  Indian  feels  himself  coming  under  the
@@ -8805,12 +2459,10 @@ descending  trend  of  melody  as  an  acknowledged  characteristic  of
 primitive  song.  Yet  in  total  nmnber  of  progressions  the  proportion
 of  ascending  and  descending  intervals  differs  by  only  1  per  cent  in  the
 two  groups.  In  the  older  songs  the  average  number  of  intervals  is  30,
-and  in  the  more  modem  31.3,  a  difference  too  slight  to  be  of  impor-
-tance. The  average  interval  in  the  modem  songs  is  slightly  the
+and  in  the  more  modem  31.3,  a  difference  too  slight  to  be  of  importance. The  average  interval  in  the  modem  songs  is  slightly  the
 larger;  but  the  difference  is  less  than  a  tenth  of  a  semitone.  The
 smallest  average  interval  (2.5  semitones)  is  that  of  the  ''buffalo
-hunt,  council,  and  Chief  song^'  group,  while  the  largest  (3.5  semi-
-tones) is  that  of  the  ceremonial  songs.  The  key  or  pitch  of  the
+hunt,  council,  and  Chief  song^'  group,  while  the  largest  (3.5  semitones) is  that  of  the  ceremonial  songs.  The  key  or  pitch  of  the
 songs  constitutes  perhaps  the  least  important  of  the  tables;  in  this
 respect  we  note  that  the  groups  show  no  marked  differences,  the
 pitch  of  the  song  being  somewhat  a  mattiT  of  adaptation  to  the
@@ -8831,8 +2483,7 @@ DBN9MORE1  ^  rRTON   STOITX    MUSIC  25
 
 to  contain  a  decrease  in  those  having  the  drumbeat  in  unaccented
 eighth-note  values,  in  many  instances  approaching  a  tremolo,  and
-a  large  increase  in  the  proportion  having  the  drumbeat  in  quarter-
-note  values,  this  being  a  sharp,  definite  stroke  and,  of  course,  less
+a  large  increase  in  the  proportion  having  the  drumbeat  in  quarternote  values,  this  being  a  sharp,  definite  stroke  and,  of  course,  less
 rapid  than  the  preceding.  The  proportion  containing  one  rhythmic
 unit  is  the  same  in  the  two  groups,  but  the  newer  songs  show  a  lai^e
 increase  in  the  proportion  having  two  or  more  rhythmic  unite,
@@ -8855,14 +2506,12 @@ beginning  in  2-4  time;  and  also  in  songs  without  a  change  in  tihie.
 We  find  a  change  in  th&  drumbeat  from  a  rapid  and  somewhat
 tremolo  beat  to  a  quarter-note  value,  with  a  reduction  in  the  tempo
 of  the  drum  and  an  increase  in  the  proportion  of  songs  in  which  the
-tempo  of  voice  and  drum  is  the  same.  We  note  further  a  develop-
-ment of  the  rhythmic  sense  in  song  construction,  shown  by  the  increase
+tempo  of  voice  and  drum  is  the  same.  We  note  further  a  development of  the  rhythmic  sense  in  song  construction,  shown  by  the  increase
 in  the  number  of  songs  having  two  or  more  rhythmic  unite.  These
 contraste  between  the  two  groups  of  songs  may  suggest  a  connection
 between  the  Indians'  planner  of  life  and  the  form  of  their  musical
 expression,  or  th^y  may  be  regarded  as  an  effect  of  contact  with  the
-more  conventional  music  of  the  white  race.  These  and  similar  obser-
-vations await  further  comparative  study  of  Indian  songs.
+more  conventional  music  of  the  white  race.  These  and  similar  observations await  further  comparative  study  of  Indian  songs.
 
 
 Tabulated  Analysis  op  600  Indian  Songs  (Chippewa  and  Sioux)
@@ -8876,8 +2525,7 @@ Table  U.— TONALITY  >
 
 Chippewa  songs.'
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.*
 
 Sioux  songs.
@@ -8906,64 +2554,25 @@ Me^r  tonality
 
 Minor  tonality
 
-Beginning  major,  end-
-ing minor
+Beginning  major,  ending minor
 
-195
-142
-
-2
 
 w  ....
 
-57
-42
-
-1
-
-11
-9
-
-55
-45
 
 93'
-145
 
-39
-60
-
-299
-296
-
-2
-
-1
-2
-
-50
-49
 
 Beginning  minor,  end-
 Ifjff  nifijor^ ...
 
 Irrecrular
 
-2
-
-1
 
 f
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 ^  Since  we  are  eonslderbig  music  of  a  period  in  which  what  wc  now  designate  tcale^  and  keps  was  not
 formulated,  the  terms  " major  tcmality  "  and  "minor  tonality  "  are  used  in  preference  to  the  common  terms
@@ -8980,8 +2589,7 @@ Table  2a.— FIRST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
 
 Chippewa  9ong.<<.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -9007,213 +2615,64 @@ Percent
 Beginning  on  the—
 Fourteenth
 
-1
 
 •
 
-1
 
-4
-
-135
-
-11
-
-49
-
-25
-
-123
-
-8
-
-13
-
-144
-
-10
-
-30
-
-12
-
-33
 o
 
 Thirteenth
 
-4
-105
-
-3
-24
-16
-61
-
-6
-10
-72
-
-7
-10
-
-9
-13
-
-1
-31
-
-1
-7
-5
 
 Twelfth
 
-2
-1
-2
-
-10
-
-5
-
-10
 
 2M
 
-7
-23
-
-9
-56
-
-1
-
-3
-09
-
-3
-18
-
-3
-17
-
-2
-
-12
-3
-
-10
-4
-
-23
-
-23
 
 Eleventh
 
 Tenth
 
-2
-
-8
 
 Ninth
 
-4
 
 Octave
 
-18
 
 rt              30
 
-21
 
 Seventh
 
-2
-3
-21
-2
-3
-3
-4
-
-
-1
-
-5
-
-1
 
 Sixth
 
-1
-29
-
-1
-8
-1
-7
-
-1
-
-2
 
 Fifth
 
-3
-
-15
-
-24
 
 Fourth
 
-1
 
 Third
 
 Seoond
 
-2
-
-10
-
-5
-2
 
 Ke]mote
 
-3
-
-15
-
-5
 
 TmffiiifLr
 
 Total..
 
-340
-
-20
-
-240
 
 (KX)
 
-26
-
 
 DENSHOBK]
-
-
-TETON   SIOUX   MUSIC
-
-
-27
 
 
 MBLODiG  ANALYSIS — Continued
@@ -9224,8 +2683,7 @@ TablX  3a.-~LA8T  note  OF  SONQ— ITS  RELATION  TO  KEYNOTE
 
 Chippewa  aongn.
 
-Sioux    aongn    re-
-corded by  Chip,
+Sioux    aongn    recorded by  Chip,
 pewa.
 
 Sioux  songs.
@@ -9253,61 +2711,15 @@ Per  cent.
 Ending  on  th»—
 Fifth
 
-75
-
-36
-
-229
-
-22
-11
-67
-
-6
-
-1
-
-13
-
-30
-
-5
-
-65
-
-74
-
-35
-
-129
-
-2
-
-31
-
-15
-
-54
 
 '       1
 
-155
-
-72
-
-371
-
-2
-
-26
 
 Third
 
-12
 
 Kejmoto
 
-61
 
 Trr^^iittr
 
@@ -9317,19 +2729,13 @@ Total
 
 ,  340
 
-20
-
-240
-
-000
 
 Table  4a.— LAST  NOTE  OF  SONG— ITS  RELATION  TO  COMPASS  OF  SONG
 
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -9360,29 +2766,14 @@ Lowest  tone  in
 
 song
 
-307
-
-90
-
-18
-
-90
-
-212
 
 S8
 
-537
-
-90
 
 Highest  tone  in
 
 song
 
-1
-
-1
 
 Immediately  pre-
 
@@ -9394,29 +2785,17 @@ A
 
 Fifth  below..
 
-1
-9
-
-1
-9
 
 Fourth  below
 
-3
-
-1
 
 Major    third
 
 below
 
-2
-
-1
 
 .
 
-3
 
 Minor   third
 
@@ -9424,43 +2803,14 @@ Minor   third
 
 below
 
-7
-
-2
-
-2
-
-1
-
-9
-
-1
 
 Whole    tone
 
 below
 
-5
 
-2
+Semitone  below
 
-7
-
-3
-
-12
-
-2
-
-Semitone  be-
-
-low
-
-3
-
-1
-
-3
 
 Whole   tone
 
@@ -9476,17 +2826,13 @@ fourth  be-
 
 ■
 
-low  in  apre-
-
-viousmeas-
+low  in  apreviousmeas-
 
 tire .*
 
-1
 
 '
 
-1
 
 Whoto   tone
 
@@ -9494,15 +2840,10 @@ below  with
 
 ilzth  below
 
-In  a  previ-
-
-ous meas-
+In  a  previous meas-
 
 ure
 
-1
-
-1
 
 flongi  oontalning  «
 
@@ -9510,19 +2851,8 @@ fourth  below   the
 
 final  tone
 
-3
-
-1
-
-4
-
-2
-
-7
 
 X
-
-28
 
 
 BUREAU   or   AMERICAN   ETHNOLOGY
@@ -9540,8 +2870,7 @@ Table  4A.— LAST  NOTE  OF  SONG— ITS  RELATION  TO  COMPASS  OF  SONCJ— c
 
 Chippewa  mngs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 •
@@ -9564,10 +2893,6 @@ Per  cent.
 
 Number.
 
-4
-
-10
-2
 
 Percent.
 
@@ -9575,30 +2900,11 @@ Songs  containing   a
 major  third  below
 the  final  tone
 
-4
-
-5
-2
-
-2
-
-2
-
-1
-
-1
 
 Songs  containing   a
 minor  third  below
 the  final  tone
 
-3
-
-1
-
-2
-
-10
 
 .2
 
@@ -9606,13 +2912,6 @@ i
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 Table  5a.— NUMBER  OF  TONES  COMPRISING  COMPASS  OF  SONG
 
@@ -9621,8 +2920,7 @@ Table  5a.— NUMBER  OF  TONES  COMPRISING  COMPASS  OF  SONG
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -9651,103 +2949,21 @@ Compass  of—
 
 Seventeen  tones. .
 
-3
-
-5
-
-17
-
-41
-
-9
-
-39
-
-28
 
 S3
 
-4
 
 K
 
-1
-
-2
-
-1
-
-2
 
 m
-1
 
-17
-4
-
-16
-
-12
-
-35
-
-2
-
-3
-
-3
-14
-46
-
-147
-45
-81
-51
-
-156
-
-20
-
-19
-
-14
-
-4
 
 Fourteen  tones.. .
 
-9
-29
-103
-31
-38
-18
-71
-16
-10
-13
-
-2
-
-3
-8
-
-30
-9
-
-11
-6
-
-21
-5
-3
-4
-
-2
 
 ThtrtAAn  tAnes . . ,
 
-8
 
 Twelve  tones
 
@@ -9761,60 +2977,24 @@ Eight  tones
 
 Seven  tones
 
-3
-5
-4
-5
-2
-
-15
-25
-20
-25
-10
-
-25
-8
-
-14
-9
-
-25
-3
 
 Six  tones
 
 Five  tones
 
-1
-
-5
-
-3
-2
 
 Four  tones
 
 
-1
-
 Total
 
-340
-
-20
-
-240
-
-600
 
 Table  6a.— TONE  MATERIAL
 
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -9837,46 +3017,17 @@ Per  cent.
 
 First  five-toned  scale.
 
-1
-
-40
-
-88
-
-2
-4
-
-1
-
-2
-74
-
-2
 
 Second       flve-toned
 scale
 
-12
-26
 
-3
-6
-
-15
-30
-
-31
-43
-
-13
 IS
 
-12
 
 Fourth      five-toned
 scale
 
-23
 
 Fifth         five-toned
 
@@ -9884,27 +3035,13 @@ BAftlA
 
 M^or  triad
 
-1
 
 I----'-
 
 1 *"
 
 
-1
-
-
-5
-
-1
-
 densmobk]
-
-
-TETON   SIOUX  MUSIC
-
-
-29
 
 
 MELODIC  ANALYSIS — coiitinued
@@ -9915,8 +3052,7 @@ Table  6a.— TONE  MATERIAL— oontinaed
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  son^s.
@@ -9939,24 +3075,11 @@ Number.
 
 Percent.
 
-M^or  triad  and  sev-
+M^or  triad  and  seventh....
 
-enth....
-
-1
-42
-
-1
-4
-
-2
-46
 
 Major  triad  and  sixth .
 
-12
-
-2
 
 '           8
 
@@ -9964,193 +3087,67 @@ Major     triad     and
 
 fourth
 
-2
 
-2
+Major  triad  and  second
 
-Major  triad  and  sec-
-
-ond
-
-3
-1
-
-1
-
-8
-2
-
-3
-
-1
-
-11
-3
-
-9
 
 Minor  triad
 
-Minor  triad  and  sev-
+Minor  triad  and  seventh
 
-enth
-
-3
 
 •
 
-6
-
-1
-2
 
 •  '
 
-1
-
-4
-6
-
-1
 
 Mfaior  triad  and  sixth.
 
-1
 
 Minor     triad     and
 
 fourth
 
-18
 
-6
+Minor  triad  and  second
 
-1
-
-5
-
-30
-
-12
-
-49
-
-8
-
-Minor  triad  and  sec-
-
-ond
-
-1
-19
-
-1
-14
-
-2
-35
 
 •
 
 Octave  complete
 
-6
 
-2
+Octave  complete  except seventh
 
-10
-
-6
-
-6
-
-Octave  complete  ex-
-
-cept seventh
-
-32
-
-9
-
-2
-
-10
-
-20
-
-8
 
 .  54
 
-9
 
-Octave  complete  ex-
-
-cept seventh  and
+Octave  complete  except seventh  and
 
 sixth
 
-6
 
-2
-
-10
-
-7
-
-22
-
-4
-
-Octave  complete  ex-
-
-cept seventh,  sixth,
+Octave  complete  except seventh,  sixth,
 
 and  fourth
 
-1
 
-1
-
-Octave  complete  ex-
-
-cept seventh,  fifth,
+Octave  complete  except seventh,  fifth,
 
 and  second
 
-1
 
-1
-
-Octave  complete  ex-
-
-cept seventh  and
+Octave  complete  except seventh  and
 
 '  fourthi
 
-4
 
-1
-
-5
-
-2
-
-9
-
-1
-
-Octave  complete  ex-
-
-cept seventh  and
+Octave  complete  except seventh  and
 
 third
 
-1
-
-1
-
-2
 
 Octave  complete  ex-
 
@@ -10160,82 +3157,32 @@ cept  seventh  and
 
 second
 
-11
 
-3
+Octave  complete  exc^t  sixth
 
-1
-
-5
-
-9
-
-4
-
-21
-
-4
-
-Octave  complete  ex-
-
-c^t  sixth
-
-15
-
-4
-
-2
-
-10
-
-12
-
-5
-
-29
 
 K
 
-Octave  complete  ex-
-
-w
+Octave  complete  exw
 
 cept  sixth  and  fifth.
 
-1
 
-5
-
-1
-
-Octave  complete  ex-
-
-cept   sixth     and
+Octave  complete  except   sixth     and
 
 fourth
 
-1
 
-2
-
-1
-
-3
-
-Octave  complete  ex-
-
-cept sixth  and  sec-
+Octave  complete  except sixth  and  sec-
 
 ond
 
-1
 inor  in  toj
 
 4                 2
 
 K
 
-1
 
 >  These  songs  are  m
 
@@ -10247,12 +3194,7 @@ Ming  a  mJ
 
 ^or  third  above  the
 
-tonic  and  the  sab-
-
-mediant  a  minor  sixth  above  the  tonia    (See  p.  14,  footnote.)
-
-
-30
+tonic  and  the  sabmediant  a  minor  sixth  above  the  tonia    (See  p.  14,  footnote.)
 
 
 BUBEAU   OF  AMERICAN   ETHNOLOGY
@@ -10266,12 +3208,9 @@ MELODIC  ANALYSIS — Continued
 Table  6a.— TONE  MATERIALr— continued
 
 
-1
-
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -10296,124 +3235,51 @@ Per  cent.
 
 ■
 
-Octave  complete  ex-
-cept   sixth,    fifth,
+Octave  complete  except   sixth,    fifth,
 and  swcon^l
 
-1
-
-1
-
-5
-
-1
-
-1
-
-1
-
-10
 
 ^
 
-2
-
-1
-
-1
-15
 
 a
 
-4
-
-1
-
-1
-
-21
-4
 
 ■
 
-1
-1
-1
-6
-12
 
-Octave  complete  ex-
-cept    sixth     and
+Octave  complete  except    sixth     and
 third
 
 -
 
-Octave  complete  ex-
-cept fifth  and  sec-
+Octave  complete  except fifth  and  sec-
 ond
 
-Octave  complete  ex-
-cept fourth
+Octave  complete  except fourth
 
-Octave  complete  ex-
-cept   fourth    and
+Octave  complete  except   fourth    and
 third
 
-5
 
-1
-
-1
-1
-
-2
-
-4
-
-2
-
-Octave  complete  ex-
-cept fourth  and  sec-
+Octave  complete  except fourth  and  sec-
 ond
 
-3
 
-1
+Octave  complete  except third
 
-1
-
-Octave  complete  ex-
-cept third
-
-Octave  complete  ex-
-cept third  and  sec-
+Octave  complete  except third  and  sec-
 ond
 
-1
 
-11
-1
-
-Octave  complete  ex-
-cept second ... .
+Octave  complete  except second ... .
 
 Minor     third     and
 fourth
 
-10
-3
-1
-
-3
-1
-
-5
-
-4
 
 ,
 
-1
 
 First,    second,    and
 fifth  tones
@@ -10425,50 +3291,23 @@ toneq
 
 •
 
-1
 
 First,  second,  fourth,
 and  flifth  tones
 
-1
-
-6
-9
 
 ■«
 
 First,  second,  fifth,
 and  sixth  tones ....
 
-2
-3
-
-1
-
-1
 
 Other  combinations
 of  tones
 
-1
-
-5
-
-2
-
-1
-
-2
-
-1
 
 Total
 
-340
-
-20
-
-240
 
 flOO
 
@@ -10478,8 +3317,7 @@ Tablb  7a.— accidentals
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -10506,41 +3344,10 @@ No  accidentals...
 Seventh  raised  a
 semitone
 
-288
-
-4
-
-85
-1
-
-18
-
-1
-
-90
-5
-
-196
-
-10
-
-82
-4
-
-502
-15
-
-85
 
 a
 
 DENSMORK]
-
-
-TETON  SIOUX  MUSIC
-
-
-31
 
 
 MELODIC  ANALYSIS — Continued
@@ -10550,8 +3357,7 @@ Tabik  7a.— accident  alb— <»ntiniied
 
 ClUppewa  songs.
 
-Sioux    songs     re-
-corded by  Chip-
+Sioux    songs     recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -10584,31 +3390,11 @@ Sixth    raised    a
 
 semitone
 
-9
-
-3
-
-1
-
-5
-
-3
-
-1
-
-13
-
-2
 
 Sixth  and  third
 
-raised  a  semi-
+raised  a  semitone
 
-tone
-
-1
-
-1
 
 Fourth  raised  a
 
@@ -10616,41 +3402,16 @@ Fourth  raised  a
 
 semitone. . .....
 
-2
-
-1
-
-6
-
-2
-
-8
-
-1
 
 Third    raised    a
 
 semitone
 
-1
-
-1
 
 Second  raised  a
 
 semitone
 
-3
-
-1
-
-3
-
-1
-
-6
-
-1
 
 Fourth  and  sev-
 
@@ -10660,11 +3421,6 @@ enth  raised   a
 
 semitone
 
-1
-
-1
-
-2
 
 Fourth  raised  a
 
@@ -10674,9 +3430,6 @@ second  lowered
 
 a  semitone
 
-1
-
-1
 
 Second  raised  a
 
@@ -10686,17 +3439,11 @@ sixth  lowered  a
 
 sonltone
 
-1
 
 Seventh  lowered
 
 a  semitone
 
-1
-
-3
-
-1
 
 Seventh  and
 
@@ -10704,79 +3451,33 @@ fourth  lowered
 
 a  semitone
 
-1
 
 Sixth  lowered  a
 
 semitone
 
-16
-
-5
-
-5
-
-2
-
-21
-
-4
 
 Fifth  lowered  a
 
 semitone ,.
 
-1
 
 Fourth  lowered  a
 
-1
-
-1
-
-1
 
 semitone
 
-2
-
-3
-
-1
-
-5
 
 Third  lowered  a
 
-3
-
-1
 
 ■
 
-3
-
-1
-
-0
-
-1
 
 Second  lowered  a
 
 mnitone ,
 
-6
-
-2
-
-2
-
-1
-
-8
-
-1
 
 Third  and  second
 
@@ -10788,41 +3489,16 @@ fourth  raised  a
 
 Mmltooe
 
-0
-
-1
-
-1
 
 SMond»     third.
 
-and  sixth  low-
+and  sixth  lowertd  a  semitone.
 
-ertd  a  semitone.
-
-1
-
-1
-2
 
 Tfngnlar
 
-2
-
-1
-
 
 Total
-
-340
-
-20
-
-240
-
-600
-
-32
 
 
 BUREAU   OP  AMEBICAN  ETHNOLOGY
@@ -10839,8 +3515,7 @@ Table  8a.— STRUCTURE
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -10865,66 +3540,19 @@ Per  cent.
 
 Melodic!
 
-222
-
-35
-83
-
-65
-
-10
-24
-
-17
-3
-
-85
-15
-
-158
-
-47
-
-33
-
-2
-
-66
-
-20
-14
-
-1
 
 3«7
 
-85
 
-116
-
-2
-
-66
-
-Melodic  with  harmo-
-nic framework  *
+Melodic  with  harmonic framework  *
 
 Harmonic*
 
-14
-19
 
 Irrflg^iUu*
 
 Total
 
-340
-
-20
-
-240
-
-800
 
 >  Songs  are  thus  classified  If  contiguous  acc^ted  tones  do  not  bear  a  simple  chord-relation  to  each  other.
 
@@ -10938,8 +3566,7 @@ Table  9a.— FIRST  PROGRESSION— DOWNWARD  AND  UPWARD
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -10964,42 +3591,12 @@ Per  cent.
 
 Downward
 
-238
-102
-
-70
-30
-
-12
-8
-
-60
-40
-
-165
-75
-
-69
-31
-
-415
-185
-
-69
 
 Upward
 
-31
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 •
 
@@ -11008,8 +3605,7 @@ Table  IOa.— TOTAL  NUMBER  OF  PROGRESSIONS— DOWNWARD  AND  UPWARD
 
 Chippewa  eongs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -11037,35 +3633,22 @@ Downward
 5,422
 2,864
 
-65
-35
-
-346
-198
-
-64
-36
 
 4,651
 2,674
 
-63
-37
 
 10,419
 5,736
 
-64
 
 Upward
 
-36
 
 Total
 
 8,286
 
-544
 
 7,325
 
@@ -11076,8 +3659,7 @@ Table  11a.— INTERVALS  IN  DOWNWARD  PROGRESSION
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -11105,19 +3687,10 @@ Interval  of  a—
 Twelfth
 
 I
-1
-2
-2
 
-1
-1
-2
 
 Ninth
 
-1
-
-1
 
 Octave
 
@@ -11126,15 +3699,8 @@ Octave
 
 Seventh
 
-2
 
 dbnsmobb]
-
-
-TETON  SIOUX  MUSIC
-
-
-33
 
 
 MELODIC  ANALYSIS — oontiuued
@@ -11145,8 +3711,7 @@ Tablb  llA.— INTERVALS  IN  DOWNWARD  PROORESSION-<»ntinued
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 peva.
 
 Sioux
@@ -11174,103 +3739,40 @@ Percent.
 Interval  of  ft-<xmtd.
 Major  sixth
 
-12
-
-1
-
-6
-
-26
-
-525
-
-343
 
 1,396
 
-5
 
 2,085
 
-264
-
-13
-
-6
-
-88
-
-968
-
-975
 
 3,334
 
-6
 
 4,755
 
-268
 
 Fifth
 
-59
-
-421
-
-628
 
 1,824
 
-1
-
-8
-
-11
-
-34
-
-3
-
-22
-
-4
-
-114
-
-1
 
 .    198
 
-4
-
-1
-11
-
-7
-30
-
-1
 
 Fourth
 
-6
 
 I
 
-33
-
-9
 
 Major  third
 
 Minor  third
 
-Augmented  sec-
-ond
+Augmented  second
 
-9
-32
 
 Mt^or  second
 
@@ -11278,23 +3780,11 @@ Minor  second
 
 2,472
 
-42
-
-57
-
-1
-
-45
-6
-
-46
-3
 
 Total
 
 5,422
 
-346
 
 4,651
 
@@ -11307,8 +3797,7 @@ Table  12a.— INTERVALS  IN  UPWARD  PROGRESSION
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux
@@ -11337,158 +3826,41 @@ Interval  of  a—
 
 Fourteenth
 
-1
-
-17
-3
-4
-2
-43
-9
-47
-
-1
-
-17
-4
-
-11
-
-10
-
-108
-
-22
-
-64
-
-33
-
-358
-
-841
-
-625
 
 1,561
 
 1,912
 
-169
 
 Twelfth
 
 Eleventh
 
-1
-
-6
-
-6
-
-63
-
-13
-
-16
-
-30
-
-151
-
-422
-
-271
-
-710
-
-818
-
-167
 
 Tenth
 
-1
-2
-2
 
 Ninth
 
-1
-1
-
-2
 
 Octave
 
-1
-
-2
-
-2
 
 Seventh
 
 Major  sixth
 
-2
-
-1
-
-3
-11
-31
-
-9
-51
-85
-
-2
-
-1
 
 Minor  sixth
 
-1
-
-6
-16
-
-4
-26
-43
-
-1
-
-1
-6
-16
-10
-27
-31
-6
-
-1
 
 Fifth
 
-196
-388
-345
-800
 1,009
 
-7
-14
-12
-29
-35
-
-6
 
 Fourth
 
-15
 
 M^jorthinl
 
@@ -11498,13 +3870,9 @@ Mi^orseoond
 
 Minor  second
 
-11
-
-27
 
 "  33
 
-3
 
 ••■»•■••
 
@@ -11512,19 +3880,10 @@ Total
 
 2,864
 
-198
 
 2,674
 
 5,736
-
-34
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 MELODIC  ANALYSIS — continued
@@ -11547,19 +3906,7 @@ Number  of
 songs.
 
 
-340
-
-20
-
-147
-
-93
-
-
 Total
-
-
-600
 
 
 Number  of
@@ -11568,7 +3915,6 @@ intervals.
 
 8,286
 
-544
 4,445
 2,880
 
@@ -11667,8 +4013,7 @@ O  minor
 A  flat  major
 
 G  sharp  minor...
-Beginning  major,  end-
-ing minor
+Beginning  major,  ending minor
 
 Beginning    minor,
 
@@ -11683,131 +4028,19 @@ Irregular
 Number.
 
 
-19
-
-18
-
-17
-
-6
-
-7
-
-17
-
-13
-
-13
-
-17
-
-14
-
-7
-
-12
-
-9
-
-17
-
-6
-
-5
-
-29
-
-10
-
-23
-
-
-6
-36
-11
-17
-
-8
-
-
 Per  cent.
 
 
-6
-5
-5
-2
-2
-5
-3
-3
-5
-4
-3
-3
-3
-5
-2
-2
-9
-3
-7
-
-
-2
-11
-3
-5
-3
-
-
-Sioux  songs  re-
-corded by  Chip-
+Sioux  songs  recorded by  Chip-
 pewa.
 
 
 Number.
 
 
-3
-
-
-1
-2
-1
-2
-
-
-2
-1
-
-
 Per  cent.
 
 
-15
-
-
-5
-10
-
-5
-10
-
-
-5
-5
-
-
-10
-5
-
-
-1
-3
-
-
-5
 IS
 
 
@@ -11817,50 +4050,7 @@ Sioux  songs.
 Number.
 
 
-12
-15
-13
-11
 II
-16
-6
-14
-
-
-5
-
-
-5
-
-11
-
-15
-
-8
-
-8
-
-7
-
-8
-
-8
-
-14
-
-3
-
-1
-
-10
-
-10
-
-17
-
-4
-
-6
 
 
 Total
@@ -11869,113 +4059,22 @@ Total
 Per  cent.
 
 
-5
-6
-5
-
-
-5
-
-
-5
-7
-2
-0
-2
-2
-5
-6
-3
-3
-3
-3
-3
-6
-1
-
-
-4
-4
-7
-2
-2
-
-
 Total.
 
 
 Number.
 
 
-31
-36
-30
-17
 IK
-34
-21
-28
-24
-19
-19
-28
-17
-27
-14
-13
-38
-24
-27
-1
-17
-49
-28
-21
-14
 
 
 Per  cent.
 
 
-5
-6
-5
-3
-3
 G
-4
-
-
-5
-
-
-4
-3
-3
-5
-3
-5
-2
-2
-6
-4
-5
-
-
-3
-8
-5
-4
-2
 
 
 34a
-
-
-20
-
-
-240
 
 
 6<)0
@@ -11990,9 +4089,6 @@ DBNSIfOBfl]
 TETOK  SIOUX  MUSIC
 
 
-35
-
-
 RHTTHMIO  ANALYSIS
 TablB  15Aw— part  of  HEASUBE  ON  WHICH  SONG  BEGINS
 
@@ -12001,8 +4097,7 @@ TablB  15Aw— part  of  HEASUBE  ON  WHICH  SONG  BEGINS
 
 Chippewa  eongs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux
@@ -12027,66 +4122,30 @@ Number.
 
 Percent.
 
-Beginning  on  unac-
-aooented    part    of
+Beginning  on  unacaooented    part    of
 measure
 
-109
 
-189
-42
-
-37
-63
-
-12
-
-8
-
-60
-40
-
-96
-144
-
-40
 60'
 
 »
 
-217
 
-341
-42
-
-39
-
-Beginning    on     ac-
-cented    part     of
+Beginning    on     accented    part     of
 measure
 
-61
 
-Tianacribed  in  out-
-line"
+Tianacribed  in  outline"
 
 Totol
 
-340
-
-20
-
-240
-
-600
 
 Table  10a.— RHYTHM  OF  FIRST  MEASURE
 
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -12111,121 +4170,20 @@ Per  cent.
 
 First  measure  in—
 
-2-4  time
-
-2-2  time
-
-149
-2
-4
-
-120
-
-50
-
-9
-
-45
-
-142
-
-69
 
 •
 
-300
-2
-4
-
-220
-3
-0
-4
-
-13
-1
-2
-
-42
-
-64
-
-3-8  time
-
-2
-
-40
-
-1
-
-3-4  time
 
 4-^  time
 
-6
-
-30
-
-94
-3
-
-39
-1
-
-30
-1
-
-4-4  time
-
-9
-2
-9
-
-1
-2
-
-42
-
-3
-
-2
 
 j^time
 
-1
-4
 
-5
-20
-
-1
-
-1
-
-1
-
-6-4  time
-
-3
-
-2
-
-0-4  time
-
-7-1  time
-
-Transcribed  in  out-
-line!
+Transcribed  in  outline!
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 >  Excluded  in  computing  percentage.
 
@@ -12272,7 +4230,6 @@ K4r
 MO
 
 
-470
 4S
 
 
@@ -12316,12 +4273,6 @@ r.
 »li
 
 
-7
-
-
-11
-
-
 «
 
 
@@ -12329,9 +4280,6 @@ li
 
 
 ■     •■*«*"»
-
-
-1
 
 
 it
@@ -12352,12 +4300,6 @@ I
 DSN8M0BE]
 
 
-TETON  SIOUX  MUSIC
-
-
-37
-
-
 BHYTHMio  ANALYSIS — Continued
 
 Table  Wa.— RHYTHMIC  UNIT  i  OF  S^NG
@@ -12365,8 +4307,7 @@ Table  Wa.— RHYTHMIC  UNIT  i  OF  S^NG
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -12396,68 +4337,6 @@ Two  rhythmic  units
 Three   rhythmic
 nnft",
 
-107
-
-186
-
-4
-
-1
-
-36
-
-62
-
-1
-
-7
-
-10
-
-3
-
-35
-50
-15
-
-71
-
-139
-
-26
-
-3
-
-1
-1
-
-29
-57
-10
-
-1
-
-185
-
-335
-
-82
-
-4
-
-1
-
-1
-
-42
-
-33
-
-60
-
-6
-
-1
 
 Four     rhythmic
 unit?.  -
@@ -12472,17 +4351,9 @@ Ymitff.  r
 Songs  tnmacrlbed  in
 outline  *
 
-42
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 1  For  the  purpose  of  this  analysis  a  rhjrthmlc  unit  is  defined  as  a  group  of  tones  of  various  lengths,
 usually  comprising  more  than  one  count  of  a  measure,  occurring  more  than  twice  in  a  song,  and  having
@@ -12495,8 +4366,7 @@ Table  20a.— METRIC  UNIT  OF  VOICE  (TEMPO)
 
 Chippewa  songs.
 
-Sioux    Bongs    re-
-corded by  Chip-
+Sioux    Bongs    recorded by  Chip-
 pewa.
 
 Sioux
@@ -12523,244 +4393,32 @@ Percent.
 
 Metronome—
 
-44
-
-1
 
 ■
 
-1
-1
-1
-5
-5
-4
-5
 
-18
 T6
-21
-18
-31
-32
-35
-32
-32
-38
-37
-29
-28
-24
-23
 
-48
-
-1
-
-50
-
-1
-
-52
-
-2
-2
-
-1
-
-3
-
-3
-
-3
-
-5
-
-9
-
-12
-
-16
-
-10
-
-15
-
-20
-
-21
-
-15
-
-12
-
-19
-
-15
-
-11
-
-7
-
-5
-
-5
-
-1
-1
-1
-2
-4
-5
-6
-4
-6
-
-8
-6
-5
-8
-6
-2
-3
-2
-2
-
-54
 
 !
 
-1
-
-56
 
 (
 
-58
-
-60
-
-9
-
-4
-
-5
-
-8
-
-16
-
-11
-
-11
-
-14
-
-15
-
-16
-
-22
-
-18
-
-20
-
-18
-
-18
-
-3
-1
-
-3
-
-63
-
-3
-
-66
-
-2
-
-4
-
-09
-
-3
-5
-
-3
 
 T2
 
-76
-
-4
-
-1
-
-5
-15
-15
-25
-15
-
-80
-
-4
-5
-5
-6
-7
-6
-7
-6
-6
-
-3
-3
-5
-3
-
-81
-
-88
-
-92
 
 96.:
 
-100
-
-104
-
-1
-1
-
-5
-
-5
 
 §
 
-108
-
-112
 
 4840«— BuU.  61— IS
 
 
 fc^
-
-
-38
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 RHYTHMIC  ANALYSIS — Continued
@@ -12770,8 +4428,7 @@ Table  aOA.-MSTRIC  UNIT  OF  VOICE  (TE]fPO)--oantinued
 
 Chippewa  aoogs.
 
-SIoiix    eongs    le-
-oorded  by  Chip-
+SIoiix    eongs    leoorded  by  Chip-
 pewa.
 
 Skmx  songs.
@@ -12799,145 +4456,35 @@ Percent.
 MetnuMme— oontd.
 lie
 
-10
-11
 
 t
 
-3
-
-
-5
-
-1
-4
-4
-2
 
 a
 
 .  2
 
-15
-
-16
 
 U
 
-7
-
-4
-
-12
-5
-12
-16
-8
-5
-6
-6
-
-3
 
 12D
 
-5
-
-1
-
-5
-
-3
-
-126
-
-1
-1
-
-2
-
-132
 
 3                   1
 
-1
-
-2
-
-138
-
-7
-5
-9
-13
-3
-3
-5
-6
-2
-2
-
-1
-
-144
-
-2
-
-3
-4
 
 •
 
-2
-
-2
 
 la
 
 ■
 
-1
-
-100
-
-3
-3
-5
-
-1
-1
-2
-
-3
-
-168
-
-3
-
-176
 
 I  ,                1                  5
 1                   1                   5
 
-1
-
-184
-
-192
-
-2
-
-1
-
-1
-
-300
-
-1
-
-1
-
-208
 
 '
 
@@ -12945,18 +4492,14 @@ I  ,                1                  5
 
 RulMto*..
 
-1
 
 il
 
-Tnucribcd  in  out-
-line*
+Tnucribcd  in  outline*
 
-37
 
 i
 
-37
 
 Total
 
@@ -12964,7 +4507,6 @@ Total
 
 240    fiDl  '
 
-1
 
 *
 
@@ -12975,8 +4517,7 @@ Tabls  21a.— METRIC  UNIT  OF  DRUM  (TEMPO)
 Chippewa  songs.
 
 
-Sloox  9ongs  re-
-corded by  Chip-
+Sloox  9ongs  recorded by  Chip-
 pewa.
 
 
@@ -13017,25 +4558,9 @@ I
 
 9i
 
-4
-
-4
-
-2
 
 S
 
-2
-
-15
-
-1
-
-15
-
-4
-
-15
 
 *
 
@@ -13045,47 +4570,9 @@ u
 
 »l
 
-11
-
-25
-
-11
-
-21
-
-9
-
-22
-
-10
-
-13
-
-6
-
-1
-
-5
-
-2
-
-10
-
-1
-
-5
-
-4
-
-20
-
-4
 
 X
 
-5
-
-25
 
 1 1
 
@@ -13099,144 +4586,47 @@ Per  cent .
 
 Number.
 
-2
-
-2
-
-2
-
-4
-
-3
 
 4  !
 
-4
-
-3
-
-4
-
-5
-
-4
-
-5
-
-1
-
-1
-
-5
-
-4
 
 6^
 
-1
-
-6
 
 10  ■
 
-11
-
-9
 
 *>•>  1
 
-5
-
-4
-
-10
-
-10
-
-8
-
-22
-
-9
 
 S
 
 2S
 
-11
-
-9
 
 '             31
 
-5
-
-4
-
-20
-
-7
 
 «
 
-35
-
-5
-
-4
-
-30
-
-2
-
-2
 
 2^
 
-5
-
-4
 
 27  '
 
-2
-
-2
-
-24
-
-1
-
-14
 
 Per  cent .
 
 
-1
-3
-
-6
-3
-6
-8
-8
-5
 »
 S
-
-
-6
-
-4
 
 
 OBNSUOBS]
 
 
 TETON  BIOTJX  MUSIC
-
-
-39
 
 
 RHYTHMIC  ANALYSIS — Continued
@@ -13251,8 +4641,7 @@ Chippewa  eonga.
 
 •
 
-Sionx    aonga    re-
-corded by  Chip-
+Sionx    aonga    recorded by  Chip-
 pewa.
 
 Sioux  songs.
@@ -13276,92 +4665,21 @@ Number.
 Per  cent.'
 
 Metronome— contd.
-132
 
-13
-4
-
-2
-
-2
-
-1
-
-6
-2
-
-4
-4
-3
-2
-3
-5
 
 •
 
-3
 
-3
-
-2
-
-2
 o
 
-4
-
-17
-8
-5
-4
-4
-5
-1
-234
-
-5
-
-138
-
-2
-
-144
-
-1
-
-152
-
-1
-
-160
-
-1
-
-108
-
-
-1
-
-176
-
-1
-116
 
 Drum  not  recorded ' . .
 
-118
 
 ,
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 .
 
@@ -13371,8 +4689,7 @@ Table  22A.— COMPARISON  OF  METRIC  I^NIT  OF  VOICE  AND  DRUM  (TEMPO)
 
 Chippewa  songs.
 
-Sioux    songs    re-
-corded by  Chip-
+Sioux    songs    recorded by  Chip-
 pewa.
 
 Sioux  songs.  '
@@ -13395,89 +4712,39 @@ Number.
 
 Percent.
 
-Dnim  and  voice  hav-
-ing the  same  metric
+Dnim  and  voice  having the  same  metric
 unit...,  —
 
 Drum    faster    than
 voice
 
-80
-103
-
-41
-
-116
-
-36
-46
-18
 
 «
 
-7
 
-11
-
-2
-
-35
-55
-
-10
-
-76
-
-24
-
-22
-118
-
-62
-20
-18
-
-163
-
-138
-
-65
 •234
 
-44
-
-38
 
 Drum  slower   than
 voice.
 
-18
 
 Drum  not  recorded  1 . .
 
 Total
 
-340
-
-20
-
-240
-
-600
 
 1  Excluded  in  computing  percentage.
 
 
 ANALYSIS  OF  SIOITX  AND  CHIPPEWA  SONGS
 
-Tho  purpoHO  of  IIuh  chapter  is  to  present  in  descriptive  and  diagram-
-matic fonn '  the  more  important  data  contained  in  the  tabulated
+Tho  purpoHO  of  IIuh  chapter  is  to  present  in  descriptive  and  diagrammatic fonn '  the  more  important  data  contained  in  the  tabulated
 analyMOH  immediately  pn>coding.
 
 Table  lA.  In  this  table  the  songs  are  groupe<i  according  to  tonality,
 which  is  defined  as  *'the  quality  or  peculiarity  of  a  tonal  system."
-(See  p.  12,  footnote.)  The  first  step  in  analyzing  a  song  is  the  deter-
-n\ination  of  the  keynote  or  tonic  by  observing  the  tones  which  occur
+(See  p.  12,  footnote.)  The  first  step  in  analyzing  a  song  is  the  detern\ination  of  the  keynote  or  tonic  by  observing  the  tones  which  occur
 in  the  song  and  their  general  progressions.  The  next  step  in  the
 analysis  is  the  determination  of  the  tonality.  In  ascertaining  this,  if
 the  song  contains  several  tones,  we  observe  especially  the  pitch  of  the
@@ -13497,8 +4764,7 @@ Mi^  Minor
 FlOx  L    TqiwUiv.
 
 
-acmg.  If  the  thini  is  foxir  semitonecsi  va  major  thirds  above  the  key-
-note, the  song  is  said  to  be  major  in  tonality,  and  if  three  semitones
+acmg.  If  the  thini  is  foxir  semitonecsi  va  major  thirds  above  the  keynote, the  song  is  said  to  be  major  in  tonality,  and  if  three  semitones
 Va  minor  thinl^  above  the  keynote,  minor  in  tonality.  Classifying
 the  si>i>gs  aeetmiing  to  this  basis,  we  lind  50  per  cent  major  in  tonality
 aiul  4l>  per  cent  iwii\or,  I  per  cent  beins:  irr^irular  in  form.     ^^Fig.  1  .^
@@ -13509,8 +4775,7 @@ in  the  mind  of  the  Indians.  It  setmis  morv  pr\>bable  that  a  prefeivn
 for  the  major  t^nxaluy  shv^^ti  in  many  grvniixs  of  s*^>ngs  may  W  due  to
 the  fact  that  the  majv^r  ihirvl  is  one  of  the  more  proniinoiu  overtones
 of  a  fuudat\UH\ial  tone  v-*v  iv  4 1  \  lU  Imlu  Itz  stares  that  t  ::e  •  — n -^r
-triad  is  vw^>-  deinde^Uv  k^  hanuvHi:v>iis  than  the  maj.r  trad,  in  ivn-
-s^ueiuvof  the  c^nubii\at:vn.al  tones,  whi/n  mu>t  cv-><x;ut:.::y  l-e  .  .
+triad  is  vw^>-  deinde^Uv  k^  hanuvHi:v>iis  than  the  maj.r  trad,  in  ivns^ueiuvof  the  c^nubii\at:vn.al  tones,  whi/n  mu>t  cv-><x;ut:.::y  l-e  .  .
 taken  ml o cv^usivlerativ^n    .    a*>v^  •^.a ^- ^^  **.......*><_.
 
 
@@ -13523,19 +4788,16 @@ determine  its  general  character  as  much  in  Indian  music  as  in  that
 of  the  white  race.  Thb  melodic  feeling  in  many  Giippewa  and  Sioux
 songs  seems  to  be  for  the  interval  between  successive  tones,  while*
 the  melodies  of  the  white  race  are  based  upon  ^'keys/'  which  are
-groups  of  tones  having  a  systematic  and  definite  relation  to  a  key-
-note. Subsequent  analyses  will  show  that  the  prevailing  interval
+groups  of  tones  having  a  systematic  and  definite  relation  to  a  keynote. Subsequent  analyses  will  show  that  the  prevailing  interval
 of  progression  in  a  song  may  be  minor,  though  the  interval  between
 the  keynote  and  its  third  is  major,  thus  giving  a  predominance  of
 minor  intervals  in  a  song  of  major  tonality.'
 
 Table  2 A. — Before  considering  this  phase  of  analysis  let  us  recall
 certain  fundamental  principles  of  the  musical  system  developed  by
-the  white  race.  In  that  system  the  tonic  chord,  or  triad  on  the  key-
-note, may  be  said  to  be  the  framework  of  the  group  of  tones  called
+the  white  race.  In  that  system  the  tonic  chord,  or  triad  on  the  keynote, may  be  said  to  be  the  framework  of  the  group  of  tones  called
 a  key.  This  chord  is  based  on  the  laws  of  acoustics  and  comprises,
-if  the  chord  be  major,  the  first  four  overtones  of  the  keynote  or  fim-
-damental  tone.  It  is  imderstood,  of  course,  that  the  tone  produced
+if  the  chord  be  major,  the  first  four  overtones  of  the  keynote  or  fimdamental  tone.  It  is  imderstood,  of  course,  that  the  tone  produced
 by  a  stretched  string  or  other  body  capable  of  strong  sympathetic
 vibration  is  a  compound,  not  a  simple  sound.  In  addition  to  the
 tone  produced  by  the  vibrations  of  the  entire  body  there  are  higher
@@ -13552,8 +4814,7 @@ mere  illusion  of  the  eye.  The  real  outward  existence  of  partial  tones
 be  established  at  any  moment  by  a  sympathetically  vibrating  membrane  which
 casts  up  the  sand  strewn  upon  it.'
 
-.  The  series  of  these  upper  partial  tones  is  precisely  the  same  for  all  compound  mu-
-sical tones  which  correspond  to  a  uniformly  periodical  motion  of  the  air.  It  is  as
+.  The  series  of  these  upper  partial  tones  is  precisely  the  same  for  all  compound  musical tones  which  correspond  to  a  uniformly  periodical  motion  of  the  air.  It  is  as
 follows:
 
 The  first  upper  partial  tone  .  .  .  is  the  upper  Octave  of  the  prime  tone,  and  makes
@@ -13579,11 +4840,9 @@ s  See  analyses  of  songs  Nos.  175, 177, 187.
 
 42  BUEEAU   07  AMEBICAN  ETHNOLOGY  [ntU«
 
-In  muucal  notation,  with  C,  second  space  bsss  clef,  ss  a  funda-
-mental, this  part  of  the  series  is  as  follows  (fig.  2).
+In  muucal  notation,  with  C,  second  space  bsss  clef,  ss  a  fundamental, this  part  of  the  series  is  as  follows  (fig.  2).
 
-It  is  noted  that  the  first  overtone  is  an  octave  above  the  funda-
-mental and  the  second  is  12  tones  (fifth  in  the  first  higher  octave)
+It  is  noted  that  the  first  overtone  is  an  octave  above  the  fundamental and  the  second  is  12  tones  (fifth  in  the  first  higher  octave)
 above  the  fundamental,  while  the  fourth  overtone  (third  in  the  second
 '  higher  octave)  supplies  the  major  third,  completing  the  tones  of  the
 triad  or  common  chord  of  C,  the  fundamental  tone.
@@ -13592,8 +4851,7 @@ triad  or  common  chord  of  C,  the  fundamental  tone.
 We  will  now  turn  to  the  Indian  songs  under  analysis.  Figure  3
 indicates  the  intervals  on  which  the  songs  begin,  omitting  groups  of
 less  than  1  per  cent,  shown  in  Table  2A.  Twenty-one  per  cent  begin
-on  the  octave  (first  or  third  overtone),  and  23  per  cent,  having  a  com-
-pass of  12  tones  above  the  keynote,  on  the  twelfth  (second  overtone).
+on  the  octave  (first  or  third  overtone),  and  23  per  cent,  having  a  compass of  12  tones  above  the  keynote,  on  the  twelfth  (second  overtone).
 Thus,  if  the  keynote  were  C,  &s  in  figure  2,  the  octave  is  c,  snd  the
 twelfth  g.  But  before  proceeding  further  let  us  note  the  range  of  the
 human  voice,  also  the  fact  that  the  ear  seems  to  accept  tones  an
@@ -13617,8 +4875,7 @@ a  compass  smaller  than  that  number  of  tones.  With  the  songs
 beginning  on  the  twelfth  should  be  included,  therefore,  those  on  the
 fifth,  which  (supposing  the  keynote  to  be  C)  would  be  G,  an  octave
 lower  than  the  tone  designated  as  g.  Twenty-four  per  cent  begin
-on  the  fifth  above  the  keynote,  making  a  total  of  47  per  cent  begin-
-ning on  this  interval  of  Uie  scale.  Few  voices  have  a  range  of  two
+on  the  fifth  above  the  keynote,  making  a  total  of  47  per  cent  beginning on  this  interval  of  Uie  scale.  Few  voices  have  a  range  of  two
 octaves,  but  two  of  these  songs  (N'os.  195,  202)  begin  on  the  second
 
 
@@ -13628,40 +4885,20 @@ oascticoBB]
 TETOK  SIOUX  MUSIC
 
 
-48
-
-
 octave  above  the  keynote  (third  overtone).  We  find  that,  next  to  the
 percentages  already  cited,  the  largest  proportion  is  that  of  songs
 beginning  on  the  third  and  tenth  above  the  keynote.  With  C  as
 a  keynote  these  tones  are  E  and  e,  readily  seen  to  be  the  fourth
-overtone,  sung  in  the  two  lower  octaves,  which  are  within  the  com-
-pass of  the  voice.  Thirteen  per  cent  of  the  songs  begin  on  these
+overtone,  sung  in  the  two  lower  octaves,  which  are  within  the  compass of  the  voice.  Thirteen  per  cent  of  the  songs  begin  on  these
 tones  and  5  per  cent  begin  on  the  keynote,  these  melodies  lying  partly
 above  and  partly  below  the  keynote.  Thus  86  per  cent  of  the  songs
 under  analysis  begin  on  the  keynote  and  its  first  four  overtones.
 These,  as  already  indicated,  comprise  the  tones  of  a  common  chord.
-Table  SA. — ^The  results  of  this  analysis  serve  to  emphasize  the  pre-
-ceding paragraph.     It  is  here  shown  that  all  except  two  of  the  songs
-
-
-10
-
-
-20
+Table  SA. — ^The  results  of  this  analysis  serve  to  emphasize  the  preceding paragraph.     It  is  here  shown  that  all  except  two  of  the  songs
 
 
 Percentages
 SO  40
-
-
-50
-
-
-00
-
-
-70
 
 
 Fifth
@@ -13686,29 +4923,8 @@ songs  is  above  the  final  tone.  The  preceding  table  indicated  the  fina
 tone  to  be  the  keynote  in  61  per  cent  of  the  songs.     These  tables
 
 
-10
-
-
-20
-
-
-30
-
-
 Percentages
 40  60  60
-
-
-70
-
-
-80
-
-
-00
-
-
-133
 
 
 Bongs  In  which  final  tone  is  lowest  tone
@@ -13730,8 +4946,7 @@ tone
 supplement  Table  2A  in  showing  the  melodic  structure  of  these  songs.
 This  structure  appears  to  rest  on  a  fundamental  tone,  usually  the
 keynote.  The  trend  is  downward  and  this  frequently  is  not  heard
-until  the  closing  measures.  A  typical  outline  is  as  follows,  the  inter-
-vals being  repeated  several  times  and  by  tones  introduced :  g-e-c-A-
+until  the  closing  measures.  A  typical  outline  is  as  follows,  the  intervals being  repeated  several  times  and  by  tones  introduced :  g-e-c-A-
 G-E-C.
 
 In  10  per  cent  of  the  songs  the  final  tone  is  not  the  lowest  tone.
@@ -13779,8 +4994,7 @@ r^mprising  slightly  more  than  I  per  ceot:  and  the  sroup  comprising
 all  the  t«KS  trf  the  diatonic  ivtave.  6  jht  cent.  In  coRipiUn^  the
 data  shown  in  figure  7  a  de^^  of  the  s.-ale  tK-curriiig  in  two  ovtav,^
 is,  of  cv^urw.  ^>.unted  onlv  omv.  It  is  thus  s.vn  thai  49  per  cent  of
-th«e  s.»ngs  c.ntain  onlv  5  s<-al<-^lo=nv^.  23  per  o^r.t  .octain  4  ^cale-
-desrrees.  and  ■.'  >  per  cent.  6  scale-div-rws.  while  6  and  2  per  cent  con-
+th«e  s.»ngs  c.ntain  onlv  5  s<-al<-^lo=nv^.  23  per  o^r.t  .octain  4  ^caledesrrees.  and  ■.'  >  per  cent.  6  scale-div-rws.  while  6  and  2  per  cent  con-
 tain, respectively,  7  and  3  degrees  of  ie  scale.
 
 
@@ -13788,9 +5002,6 @@ OBirtllOBl]
 
 
 TETON  SIOUX  MU6I0
-
-
-46
 
 
 Tdble'TA. — ^The  purpose  of  this  analysis  is  to  ascertain  whether  these
@@ -13805,32 +5016,11 @@ the  third  altered,  and  the  fifth  is  changed  in  only  one  song.  This
 keeping  of  the  diatonic  pitch  on  the  tones  of  the  tonic  chord  is  a
 
 
-10
-
-
-20
-
-
 ?o
-
-
-40
 
 
 Percentages
 SO  60
-
-
-70
-
-
-80
-
-
-90
-
-
-100
 
 
 Songs  oontaining  aocldentals
@@ -13855,40 +5045,15 @@ is  classified  as  melodic  in  structure,  while  an  intermediate  type  is
 classified   as  melodic  with  harmonic  framework.    An  example  of
 
 
-10
-
-
-20
-
-
-30
-
-
-40
-
-
 Percentages
 60  60
-
-
-70
-
-
-80
-
-
-00
-
-
-100
 
 
 Melodio
 
 
 Melodic
-with  har-
-monic
+with  harmonic
 framowork
 
 
@@ -13903,14 +5068,10 @@ accent  placed  consecutively  on  G,  A,  and  G.  The  framework  of
 the  melody  is  harmonic  and  comprises  the  chord  C-El-G,  but  the
 consecutive  accents  on  G,  A,  G  do  not  imply  a  simple  chord  of  the
 key  of  C.  The  song,  therefore,  is  not  purely  melodic  nor  strictly
-harmonic  according  to  the  basis  adopted  for  classification.  Nine-
-teen per  cent  of  the  songs  are  harmonic  in  structure,  every  accented
+harmonic  according  to  the  basis  adopted  for  classification.  Nineteen per  cent  of  the  songs  are  harmonic  in  structure,  every  accented
 tone  having  a  simple  chord-relation  to  a  contiguous  accented  tone,
 these  chord-relations  being  within  the  key  implied  by  the  keynote.
 A  much  larger  proportion  are  melodic  in  structure.     (See  fig.  9.)
-
-
-46
 
 
 BUBEAU  07  AUBBIOAIT  ETHITOLOQT
@@ -13919,8 +5080,7 @@ BUBEAU  07  AUBBIOAIT  ETHITOLOQT
 Tablet  9 A,  10 A. — Continuing  observation  of  the  tones  with  reference
 to  contiguous  tones,  we  note  in  Table  9A  that  69  per  cent  of  the  songs
 begin  with  a  downward  progression.  Table  lOA  shows  the  entire
-□umber  of  progressions  in  the  song,  64  per  cent  of  which  are  down-
-ward and  36  per  cent  upward.  This  is  in  accordance  with  Table  2A,
+□umber  of  progressions  in  the  song,  64  per  cent  of  which  are  downward and  36  per  cent  upward.  This  is  in  accordance  with  Table  2A,
 which  shows  that  many  of  the  songs  begin  on  high  intervals,  and
 with  Table  4Ay  which  shows  that  the  last  tone  is  the  lowest  tone  in
 
@@ -13968,9 +5128,6 @@ OBNtMOBB]
 TETON  SIOUX  MU8IC
 
 
-47
-
-
 Largest  faitflryaJ  a  fourteenth
 (23 'zemttones)
 
@@ -13987,22 +5144,17 @@ which  tends  to  produce  definiteness  of  tonal  intervals.
 Tahle  ISA. — ^This  table  shows  the  largest,  smallest,  and  average
 interval,  expressed  in  semitones.  Figure  12  presents  the  same  data
 in  graphic  form,  the  horizontal  lines  representing  semitones.  It  should
-especially  be  noted  that  this  dia-
-gram shows  the  sizes  of  the  inter-r
+especially  be  noted  that  this  diagram shows  the  sizes  of  the  inter-r
 vals  and  does  not  indicate  the
 number  of  times  they  occur.  The
 largest  interval  in  these  songs  is  a
-fourteenth,  comprising  23  semi-
-tones, and  the  smallest  is  a  minor
+fourteenth,  comprising  23  semitones, and  the  smallest  is  a  minor
 third,  comprising  one  semitone.
 The  number  of  occurrences  of
 these  and  other  intervals  is  shown
-in  Tables  llA  and  12A,  in  con-
-nection with  which  it  has  already
-been  noted  that  the  larger  inter-
-vals are  of  less  frequent  occur-
-rence than  the  smaller.  In  mak-
-ing the  computatiqps  for  Table
+in  Tables  llA  and  12A,  in  connection with  which  it  has  already
+been  noted  that  the  larger  intervals are  of  less  frequent  occur-
+rence than  the  smaller.  In  making the  computatiqps  for  Table
 13A  the  nmnber  of  occmrences
 of  each  interval  was  multiplied
 by  the  number  of  semitones  which  it  contains.  Having  obtained  the
@@ -14021,12 +5173,10 @@ the  tones  of  the  phonograph  with  those  of  a  piano  tuned  to  standard
 pitch  (a'  435  vd).
 
 
-Average  interrel  appraxl-
-meteljr  a  minor  third  (S.QS1
+Average  interrel  appraxlmeteljr  a  minor  third  (S.QS1
 semitones)
 
-Smallest  intenral  a  minor  sec-
-ond (1  semitone)
+Smallest  intenral  a  minor  second (1  semitone)
 
 
 Fio.  13.    Largest,  smaUest,  and  average  mtervab
@@ -14036,8 +5186,7 @@ Fio.  13.    Largest,  smaUest,  and  average  mtervab
 48  BtrSEAV  op  AHBSICAIT  EIHKOLOOT  lMiLL.n
 
 TaUe  ISA. — We  now  enter  on  the  consideration  of  the  rhythm  of
-these  Bongs  and  of  the  drum  with  which  many  of  them  were  accom-
-panied. TaWo  15A  concerns  only  the  rhythm  of  the  voice,  and  its
+these  Bongs  and  of  the  drum  with  which  many  of  them  were  accompanied. TaWo  15A  concerns  only  the  rhythm  of  the  voice,  and  its
 purpose  is  to  determine  directoess  of  "attack"  in  begimiing  a  song.
 Tho  analysis  shows  that  61  per  cent  of  tho  songs  begin  on  the  accented
 part  of  tho  measure.     Table  2A  shows  that  a  majority  of  the  songs
@@ -14045,8 +5194,7 @@ part  of  tho  measure.     Table  2A  shows  that  a  majority  of  the  songs
 begin  on  the  tones
 of  the  tonic  chord.
 Taken  together,  these
-tables  suggest  a  clear-
-ness of  musical  con-
+tables  suggest  a  clearness of  musical  con-
 B»ginnin  B.giDDing    cepton the partof the
 
 aaunmc  on  aooonl-     Indian.     (Scefig.  13.)
@@ -14074,9 +5222,7 @@ these  rhythms.    (See
 
 Table   /7A.— A      In  «™,
 
-changeoftime(raeas-     (^  (miwc«.o-
-
-ure-lengths)  is  found
+changeoftime(raeas-     (^  (miwc«.oure-lengths)  is  found
 in  84  percent  of  these
 songs    (see   fig.    15).
 
@@ -14084,8 +5230,7 @@ Such  a  change  in  the  ^^      ,_  _
 
 .      .   .    ■!■      1  Fio,  14.    RbrUnnoISntmcuare.
 
-music  of  oivilized  peo-
-ples usually  affects  an  entire  section  of  a  melody  or  composition.
+music  of  oivilized  peoples usually  affects  an  entire  section  of  a  melody  or  composition.
 Changes  in  time  in  the  songs  under  analj-sis,  on  the  other  hand,
 commonly  affect  single  measures  or  only  a  few  measures.  These
 alternations  of  measure  lengths  usually  find  what  may  be  termed
@@ -14151,14 +5296,11 @@ two  (fi  per  eoDi)        outthesoug.    In  Order
 •"*'  to  use  this  peculiarity
 
 as  a  basis  of  classifica-
-A*™"*^  •"  tion  it  became  necee-
-
-thrac  (3A  sarytoformulateadefi-
+A*™"*^  •"  tion  it  became  neceethrac  (3A  sarytoformulateadefi-
 
 P"""y  „^   ,     ,,  nition.      This    phrase
 
-(or  mxAxf)  was  accord-
-ingly called  a  "rhythmic  unit,"  and  defined  as  "a  group  of  tones
+(or  mxAxf)  was  accordingly called  a  "rhythmic  unit,"  and  defined  as  "a  group  of  tones
 of  various  lengths,  usually  comprising  more  than  one  count  of  a
 measure,  occurring  at  least  twice  in  a  song  and  having  an  evident
 infiuence  on  the  rhythm  of  the  entire  song."  Having  rec<^nized
@@ -14170,17 +5312,14 @@ eongs,  it  was  noted  that  many  songs  contained  two  or  more  of  these
 
 units,  each  clear,  and  given  with  ex&ctneee  in  every  rendition  of  the
 song.  It  was  further  noted  that,  when  two  or  more  such  unite  occur,
-there  is  a  resemblance  among  them.  In  many  instances  the  note-
-values  of  the  first  unit  are  reversed  in  the  second,  while  in  oth^B
+there  is  a  resemblance  among  them.  In  many  instances  the  notevalues  of  the  first  unit  are  reversed  in  the  second,  while  in  oth^B
 the  second  unit  is  what  might  be  termed  a  "complementary"  or
 "answering"  phrase.  Thirty-three  per  cent  of  the  songa  do  not
-show  a  rhythmic  unit,  but  in  many  of  these  the  song  itself  is  a  rhyth-
-mic whole.  Instead  of  being  composed  of  rhythmic  units  it  is  itself
+show  a  rhythmic  unit,  but  in  many  of  these  the  song  itself  is  a  rhythmic whole.  Instead  of  being  composed  of  rhythmic  units  it  is  itself
 a  long  phrsse,  with  a  rhythmic  completeness  which  is  satisfactory  to
 the  ear.  Sixty  per  cent  of  the  songs  contain  one  rhythmic  unit,
 and  7  per  cent  contain  two,  three,  four,  or  five  such  units.  The
-rhythmic  structure  of  these  songs  gives  evidence  of  a  primitive  musi-
-cal culture.     (See  fig.  17.)
+rhythmic  structure  of  these  songs  gives  evidence  of  a  primitive  musical culture.     (See  fig.  17.)
 
 Tables  to  A,  XI  A. — In  these  tables  are  shown  the  metric  units  of  voice
 
@@ -14194,9 +5333,7 @@ rbythm'^i*    metronome    (which
 
 niiitg(7iMr    hos  been  tested  for
 
-"*"'*  accuracy).  Thenum-
-
-famUDC  ana  bcTB  at  the  left  of  the
+"*"'*  accuracy).  ThenumfamUDC  ana  bcTB  at  the  left  of  the
 
 '\",ir"'  ^inHJ^     analysis  tables  indi-
 
@@ -14204,9 +5341,7 @@ VBltlWiwi  laming  J
 
 otDt)  "o  rhytb-    cate  the  number  of
 
-(M°^^o    "ticks  "of  the  metro-
-
-c  nomep>er  minute.  In
+(M°^^o    "ticks  "of  the  metroc  nomep>er  minute.  In
 
 the  rhythmic  analysis
 
@@ -14249,8 +5384,7 @@ other.     (See  fig.  18.)
 
 Summary  of  patjea  40-5 i. — Thus  it  appears  that  the  songs  under
 analysis  resemble  the  music  of  civilization  in  the  use  of  the  keynote,
-third,  fifth,  and  oc-
-tave and  in  a  unit  of
+third,  fifth,  and  octave and  in  a  unit  of
 rhythm  and   differ
 from  it  in  the  irreg-      iboner  tbm
 
@@ -14262,8 +5396,7 @@ in  the  discrepancy  the  »me
 
 between  the  tempo  (mp-tcdo
 
-of  voice  and  accom-
-panying drum.     It     Dnun   «nlt
+of  voice  and  accompanying drum.     It     Dnun   «nlt
 appears    also    that      '"Deer  than
 thesesongs  are  char-      ^^^^  ^^
 acterized  by  a  de-
@@ -14286,12 +5419,10 @@ to  that  used  in  showing  graphically  the  course  of  a  moving  object.
 The  loci  of  the  object  at  given  periods  of  time  ore  determined  and
 recorded,  the  several  positions  being  connected  by  straight  lines.  In
 any  use  of  this  method  the  interest  centers  in  the  several  points  at
-which  the  object  is  located,  it  being  understood  that  the  lines  con-
-necting these  points  are  used  merely  as  an  aid  to  observation.  In  the
+which  the  object  is  located,  it  being  understood  that  the  lines  connecting these  points  are  used  merely  as  an  aid  to  observation.  In  the
 present  adaptation  of  this  method  the  pitch  of  the  accented  tones  in  a
 melody  is  indicated  by  dots  placed  at  the  intersections  of  coordinate
-lines,  the  horizontal  coordinates  representing  scale  degrees  and  the  ver-
-tical coordinates  representing  measure-lengths.  These  dots  are  con-
+lines,  the  horizontal  coordinates  representing  scale  degrees  and  the  vertical coordinates  representing  measure-lengths.  These  dots  are  con-
 nected by  straight  lines,  though  the  course  of  the  melody  between
 the  accented  tones  woidd,  in  many  instances,  vary  widely  from
 these  lines  if  it  were  accurately  plotted.    The  use  of  accented  tonea
@@ -14300,8 +5431,7 @@ these  lines  if  it  were  accurately  plotted.    The  use  of  accented  tone
 52  BUBBAU  OF  AMERICAN  ETHNOLOGY  [bull.  61
 
 exclusively  in  analyzing  these  songs  has  already  been  employed,
-the  structure  of  the  melodies  being  determined  by  the  pitch  of  con-
-tiguous accented  tones  (see  Table  8,  footnote).  One  consideration
+the  structure  of  the  melodies  being  determined  by  the  pitch  of  contiguous accented  tones  (see  Table  8,  footnote).  One  consideration
 which  seems  to  justify  this  usage  is  the  fact  that,  when  differences
 appear  in  the  several  renditions  of  an  Indian  song,  these  differences
 almost  without  exception  are  in  imimportant  progressions  between
@@ -14310,8 +5440,7 @@ the  trend  of  the  melodies,  it  seems  permissible  to  omit  from  the
 representation,  not  only  the  imaccented  tones  occurring  in  the
 mejody,  but  also  a  distinction  between  whole  tones  and  semitones
 in  progressions,  and  a  distinction  between  double  and  triple  time  in
-measure-lengths.  ^  It  is  obviously  desirable  that  the  graphic  repre-
-sentation be  as  simple  as  possible,  the  more  detailed  observation  of
+measure-lengths.  ^  It  is  obviously  desirable  that  the  graphic  representation be  as  simple  as  possible,  the  more  detailed  observation  of
 the  melodies  being  contained  in  mathematical  and  descriptive
 analyses.
 
@@ -14320,15 +5449,12 @@ compared,  and  as  a  result  it  was  foimd  that  there  are  five  types
 which  may  be  considered  the  primary  outlines,  a  majority  of  the
 others  being  combinations  or  modifications  of  these.  The  simplest  of
 these  types  are  designated  as  A  and  B  (see  fig.  19),  the  former  being
-a  descending  trend  with  no  ascending  intervals,  and  the  latter  show-
-ing what  might  be  termed  a  horizontal  progression,  foDowed  by  a
+a  descending  trend  with  no  ascending  intervals,  and  the  latter  showing what  might  be  termed  a  horizontal  progression,  foDowed  by  a
 descent  to  the  final  tone.  These  types  appear  throughout  the  series
-and  seem  to  have  no  relation  to  the  content  of  the  song.  On  com-
-paring the  plots  representing  types  C,  D,  and  E  with  the  titles  of
+and  seem  to  have  no  relation  to  the  content  of  the  song.  On  comparing the  plots  representing  types  C,  D,  and  E  with  the  titles  of
 respective  songs,  it  was  foimd  that  the  plots  of  songs  having  similar
 titles  or  uses  resemble  each  other.  This  suggests  a  relation  between
-the  content  and  the  form  of  the  song,  a  somewhat  tentative  conclu-
-sion, which,  in  another  form,  was  presented  in  the  study  of  Chippewa
+the  content  and  the  form  of  the  song,  a  somewhat  tentative  conclusion, which,  in  another  form,  was  presented  in  the  study  of  Chippewa
 songs  (see  Bulletin  53,  pages  50-58).
 
 The  song  selected  as  an  example  of  Type  A  is  No.  195,  a  song  of
@@ -14387,11 +5513,9 @@ more  variation  than  Types  A  and  B.  The  following  list  was  com-
 
 54  BUBEAU   OF  AMERICAN  ETHNOLOGY  [BULuei
 
-piled  as  the  result  of  an  examination  of  the  plots  of  the  songs.  Com-
-parison with  the  list  of  song  titles  will  show  that  in  a  majority  of
+piled  as  the  result  of  an  examination  of  the  plots  of  the  songs.  Comparison with  the  list  of  song  titles  will  show  that  in  a  majority  of
 
-instances  the  song'  contains  the  idea  of  strength,  victory,  or  self-
-confidence.  The  list  is  as  follows:  5,  7,  11,  12,  13,  15,  40,  42,  45,
+instances  the  song'  contains  the  idea  of  strength,  victory,  or  selfconfidence.  The  list  is  as  follows:  5,  7,  11,  12,  13,  15,  40,  42,  45,
 70,  72,  81,  82,  83,  84,  92,  93,  119,  123,  124,  125,  130,  131,  134,  142,
 145,  147,  148,  150,  153,  154,  156,  160,  161,  164,  165,  168,  170,  171,
 175,  176,  177,  184,  185,  186,  187,  188,  190,  191,  196,  214,  222,  223,
@@ -14402,8 +5526,7 @@ animals  which  appeared  in  dreams,  many  of  these  songs  being  said  to
 have  been  received  from  the  animals.  This  type  is  characterized  by
 a  short  ascent  and  descent  frequently  repeated  in  the  melody.  On
 grouping  a  number  of  songs  having  this  characteristic  and  comparing
-the  song  numbers  with  their  respective  titles,  it  was  found  that  prac-
-tically all  are  songs  concerning  men  or  animals  in  motion.  No.  Ill
+the  song  numbers  with  their  respective  titles,  it  was  found  that  practically all  are  songs  concerning  men  or  animals  in  motion.  No.  Ill
 is. an  example  of  this  class.  The  plots  of  Nos.  55  and  58,  songs  of
 Dream  societies,  are  shown  on  page  204.  Plots  of  Nos.  99,  100,  111,
 127,  145,  146,  161,  and  174,  which  are  songs  concerning  men  or
@@ -14423,15 +5546,13 @@ Comparison  Between  Analyses  of  Chippewa  and  Sioux  Songs
 
 We  will  next  consider  a  comparison  between  the  characteristics
 of  Chippewa  and  Sioux  songs,  as  shown  by  the  percentages  in  the
-Tables  of  Analjrsis  on  pages  26-39.  The  Sioux  songs  of  the  Drum-
-presentation  ceremony,  simg  by  Chippewa,  are  not  included  in  this
+Tables  of  Analjrsis  on  pages  26-39.  The  Sioux  songs  of  the  Drumpresentation  ceremony,  simg  by  Chippewa,  are  not  included  in  this
 comparison.
 
 In  Table  1  we  note  that  42  per  cent  of  th^  Chippewa  songs  are
 minor  in  tonality,  while  60  per  cent  of  the  Sioitx  songs  are  minor.
 The  proportion  beginning  on  the  twelfth  or  fifth  is  52  per  cent  in  the
-Chippewa  and  41  per  cent  in  the  Sioux,  but  the  proportion  begin-
-ning on  the  octave,  tenth,  and  third  is  larger  in  the  Sioux.  The
+Chippewa  and  41  per  cent  in  the  Sioux,  but  the  proportion  beginning on  the  octave,  tenth,  and  third  is  larger  in  the  Sioux.  The
 Chippewa  show  a  larger  percentage  ending  on  the  keynote,  but
 about  the  same  percentage  in  which  the  final  tone  is  the  lowest
 in  the  song.  The  Chippewa  have  a  much  larger  proportion  of
@@ -14473,16 +5594,13 @@ percentage  of  Sioux  songs  which  contain  a  rhythmic  unit  is  larger  tha
 that  of  the  Chippewa.
 
 Of  the  Sioux  songs  169  contain  one  or  more  rhythmic  units,  these
-imits,  or  phrases,  being  transcribed  on  pages  528  et  seq.  in  groups  simi-
-lar to  those  which  appear  in  the  text  of  the  work.  Examining  these
+imits,  or  phrases,  being  transcribed  on  pages  528  et  seq.  in  groups  similar to  those  which  appear  in  the  text  of  the  work.  Examining  these
 imits,  we  find  no  duplications  except  the  following  phrase,  fL.fl.i
 which  occiurs  in  11  songs  (Nos.  35, 36,  58, 11^,  164, 194, 195,  225,  226,
 229, 230) .  We  note  ^dso  that  an  accented  sixteenth  note  followed  by  a
-dotted  eighth  note,  which  characterizes  this  phrase,  is  the  first  coimt-
-division  in  the  rh3rthmic  units  of  26  songs  (Nos.  7, 26,  33, 41, 113, 116,
+dotted  eighth  note,  which  characterizes  this  phrase,  is  the  first  coimtdivision  in  the  rh3rthmic  units  of  26  songs  (Nos.  7, 26,  33, 41, 113, 116,
 119, 131, 134, 155, 156, 160, 166, 167, 170, 171, 186, 188, 199, 202,220,221,
-222,231,  235,  238).  .Thus  it  is  seen  that  this  coimt-division  character-
-izes the  rhythmicunits  of  more  than  16  percent  of  the  Siouxsongs  imder
+222,231,  235,  238).  .Thus  it  is  seen  that  this  coimt-division  characterizes the  rhythmicunits  of  more  than  16  percent  of  the  Siouxsongs  imder
 analysis.  Turning  to  the  rhythmic  units  of  the  Chippewa  songs  (Bull.
 53,  pp.  309-333),  it  is  foimd  that  this  coimt-division  is  present  at  the
 opening  of  slightly  less  than  3  per  cent  of  the  entire  nmnber  (Nos.
@@ -14500,8 +5618,7 @@ The  same  phrase  is  found  in  10  per  cent  of  the  Sioux  songs  of  the 
 Ceremony  .  .  .  and  also  in  about  10  per  cent  of  the  Sun-dance  songs  of  the  Teton
 Sioux  recorded  by  the  writer  at  Standing  Rock,  North  Dakota.
 
-From  these  data  it  appears  that  an  accented  sixteenth  note,  fol-
-lowed either  by  an  eighth  or  a  dotted  eighth  note,  may  be  regarded  as
+From  these  data  it  appears  that  an  accented  sixteenth  note,  followed either  by  an  eighth  or  a  dotted  eighth  note,  may  be  regarded  as
 a  rhythmic  characteristic  of  the  Sioux  songs  under  analysis/
 
 No  rhythmic  peculiarity  of  equal  importance  was  noted  among
@@ -14514,8 +5631,7 @@ Sioux  songs  as  sung  by  the  people  of  each  tribe,  it  may  be  said  th
 the  tabulated  analyses  show  differences  between  the  music  of  the  two
 tribes,  but  not  such  as  can  safely  be  traced  to  definite  causes.  The
 resemblances  may  be  due  to  the  fact  that  the  two  tribes  have  been
-in  contact  for  many  generations  and  the  music  of  the  one  imdoubt-
-edly  has  been  influenced  to  some  extent  by  that  of  the  other.  It
+in  contact  for  many  generations  and  the  music  of  the  one  imdoubtedly  has  been  influenced  to  some  extent  by  that  of  the  other.  It
 is  possible  that  the  resemblances  and  differences  between  the  two
 may  be  seen  to  have  more  significance  as  the  study  of  Indian  music  is
 extended  to  include  a  comparison  between  the  songs  of  other  and  more
@@ -14537,16 +5653,14 @@ music,  and  also  suggest  interesting  points  for  further  investigation.
 
 The  tests  were  made  by  means  of  a  set  of  tuning  forks  comprising
 a  fork  giving  the  tone  a'  (435  vibrations,  interjiational  pitch),  this
-being  the  fundamental  tone  of  the  series,  and  10  other  forks  pro-
-ducing tones  respectively  i,  1,  2,  3,  5,  8,  12,  17,  23,  and  30  vibrations
+being  the  fundamental  tone  of  the  series,  and  10  other  forks  producing tones  respectively  i,  1,  2,  3,  5,  8,  12,  17,  23,  and  30  vibrations
 above  the  fimdamental.
 
 
 iThe  writer  gratefully  acknowledges  her  Indebtedness  to  Prof.  C.  E.  Seashore,  dean  of  the  Gnaduate
 College,  University  of  Iowa,  for  his  courtesy  in  lending  the  toning  forks  with  which  the  tests  were  made,
 also  for  valuable  suggestions  regarding  the  formulation  of  the  results.  The  method  used  in  the  tests  was
-essentially  that  described  by  Prof.  Seashore  In  his  monograph,  "The  Measurement  of  Pitch  Discrimina-
-tion; A  Preliminary  Report/'  In  PiyeholoQieal  MonoffnpJu,  vol.  13,  No.  1,  Review  Publishing  Co.,  Lan-
+essentially  that  described  by  Prof.  Seashore  In  his  monograph,  "The  Measurement  of  Pitch  Discrimination; A  Preliminary  Report/'  In  PiyeholoQieal  MonoffnpJu,  vol.  13,  No.  1,  Review  Publishing  Co.,  Lan-
 oait«,  Pa.,  and  Baltimore,  Md.,  1910.
 
 
@@ -14571,8 +5685,7 @@ a  basis  for  judging  the  pitch  discrimination  of  the  individual.  Thus
 a  man  who  failed  on  a  majority  of  tests  comprising  intervals  of
 fewer  than  three  vibrations  and  answered  correctly  on  a  majority
 of  tests  comprising  intervals  of  three  or  more  vibrations  may  be
-considered  as  having  three  vibrations  as  the  limit  of  his  pitch  dis-
-crimination. The  direct  result  of  these  tests  can  be  shown  quantita-
+considered  as  having  three  vibrations  as  the  limit  of  his  pitch  discrimination. The  direct  result  of  these  tests  can  be  shown  quantita-
 tively, but  in  addition  to  this  result  there  are  observations  of  equal
 importance  which  depend  to  a  large  extent  on  personal  knowledge
 of  the  individuals  being  tested.  For  instance,  men  whom  the  writer
@@ -14591,16 +5704,12 @@ The  older  man  retains  much  of  the  native  character,  while  his  sons  a
 somewhat  divided  in  their  sympathies,  having  much  in  common  with
 the  older  Indians  but  having  progressed  so  far  in  the  white  man's  way
 that  when  these  tests  were  made  they  were  employed  as  carpenters
-by  the  Government.  A  record  of  the  tests  of  these  three  men  indi-
-cates the  pitch  discrimination  of  the  older  man  as  about  three  vibra-
+by  the  Government.  A  record  of  the  tests  of  these  three  men  indicates the  pitch  discrimination  of  the  older  man  as  about  three  vibra-
 tions, and  that  of  his  two  sons  as  about  five  vibrations.
 
 The  pitch  discrimination  of  the  older  Chippewa  and  Sioux  Indians
 was,  generally  speaking,  about  3  vibrations.  As  the  interval  between
 a^  and  b'  is  54  vibrations,  the  interval  of  5  vibrations  is  approxi-
-
-
-68
 
 
 BUBEAU  OF  AMEBICAN  ETHKOLOGY
@@ -14641,32 +5750,11 @@ was  used
 in  test.
 
 
-62
-96
-42
-
-
-200
-
-
 Correct
 answers.
 
 
-32
-67
-34
-
-
-133
-
-
 Percent.
-
-
-61
-70
-81
 
 
 66.5
@@ -14676,22 +5764,7 @@ Incorrect
 answers.
 
 
-30
-20
-
-8
-
-
-67
-
-
 Percent.
-
-
-49
-30
-
-19
 
 
 33.5
@@ -14702,41 +5775,18 @@ SIOUX
 
 lto4
 
-57
-79
-64
-
-34
-67
-52
-
-60
-85
-81
-
-23
-12
-12
-
-40
 
 5  to  10
 
-15
 
 iitoao
 
-19
 
 Total
 
-200
-
-153
 
 76.5
 
-47
 
 23.5
 
@@ -14751,8 +5801,7 @@ Musio  AS  A  Cultivated  Art  Among  Chippewa  and  Sioux*
 
 From  the  structural  data  given  in  the  foregoing  tables  and  from
 the  descriptions  of  the  singers  and  their  manner  of  singing  contained
-in  the  following  pages,  it  seems  permissible  to  make  some  observa-
-tions concerning  music  as  a  cultivated  art  among  the  Chippewa  and
+in  the  following  pages,  it  seems  permissible  to  make  some  observations concerning  music  as  a  cultivated  art  among  the  Chippewa  and
 the  Sioux.  In  this,  as  in  the  melodic  and  rhythmic  analyses,  we  may
 bear  in  mind  certain  fimdamental  principles  of  music  as  an  art  among
 white  races.  The  musical  standards  of  civiUzed  peoples  have  been
@@ -14772,28 +5821,24 @@ Ml  brUi,  Mid inc only  that  in  order  to  be  a  ixxmI  muv.cu::  jus.^af  t
 
 DBN8M0BB]  TETON  SIOUX  MUSIC  59
 
-unmistakable  evidence  of  musical  criticism.  Certain  men  are  gen-
-erally acknowledged  to  be  '  ^  good  singers  "  and  certain  songs  are  said
+unmistakable  evidence  of  musical  criticism.  Certain  men  are  generally acknowledged  to  be  '  ^  good  singers  "  and  certain  songs  are  said
 to  be  '^good  songs.''  This  implies  that  the  songs  and  the  singers
 satisfy  some  standard  of  evaluation.  The  Indian  may  not  be  able  to
 formulate  this  standard,  but  its  existence  is  evidence  of  an  esthetic
 impulse.
 
 We  may  note  at  this  time  a  few  observations  on  this  subject
-opening  it  for  further  investigation.  First,  in  the  matter  of  composi-
-tion it  is  observed  that  the  oldest  songs,  which  are  considered  the  best
+opening  it  for  further  investigation.  First,  in  the  matter  of  composition it  is  observed  that  the  oldest  songs,  which  are  considered  the  best
 songs,  were  ' ^composed  in  dreams.''  This  means  that  they  came  in  a
 supposedly  supernatural  manner  to  the  mind  of  a  man  who  was  hoping
 for  such  experiences  and  who  had  established  the  mental  and  physical
 conditions  imder  which  they  were  believed  to  occur.  In  this  we  have
 the  native  concept  of  whatwecaU  '^inspiration."  The  Indian  isolated
 himself  by  going  away  from  the  camp,  while  the  white  musician  or  poet
-locks  his  door,  but  both  realize  the  necessity  of  freedom. from  dis-
-traction. A  majority  of  the  songs  said  to  have  been  thus  received
+locks  his  door,  but  both  realize  the  necessity  of  freedom. from  distraction. A  majority  of  the  songs  said  to  have  been  thus  received
 by  the  Indians  have  a  rh3rthmic  and  melodic  unity  which  is  not
 always  present  in  songs  said  to  have  been  ''made  up."  Thus  the
-writer  once  heard  a  song  which  was  said  to  have  been  recently  com-
-posed, and  on  inquiry  learned  that  several  men  had  ''composed  it
+writer  once  heard  a  song  which  was  said  to  have  been  recently  composed, and  on  inquiry  learned  that  several  men  had  ''composed  it
 together."  This  was  evidenced  by  a  lack  of  unity  in  the  melody,
 which  contained  too  many  peculiarities.  The  form  of  the  melody
 suggested  the  possibility  that  each  man  had  incorporated  in  it  a
@@ -14801,13 +5846,10 @@ favorite  interval,  or  some  other  musical  fancy  of  his  own.  The
 result  was  a  composite  rather  than  a  imit.
 
 The  comparative  analyses  in  Bulletin  53  (pp.  51-58)  suggest  a
-relation  between  mental  concept  and  the  form  of  its  musical  expres-
-sion. The  significant  prominence  of  the  ascending  and  descending
-interval  of  a  fourth  in  songs  concerning  motion  was  noted  in  Bul-
-letin 53  (pp.  99-101)  and  is  found  also  in  songs  of  the  present  series.
+relation  between  mental  concept  and  the  form  of  its  musical  expression. The  significant  prominence  of  the  ascending  and  descending
+interval  of  a  fourth  in  songs  concerning  motion  was  noted  in  Bulletin 53  (pp.  99-101)  and  is  found  also  in  songs  of  the  present  series.
 A  comparison  of  the  structure  of  the  old  songs  with  that  of  songs
-said  to  be  somewhat  modem  shows  that  the  more  recent  songs  con-
-tain a  smaller  compass,  lai^er  .number  of  progressions  and  a  more
+said  to  be  somewhat  modem  shows  that  the  more  recent  songs  contain a  smaller  compass,  lai^er  .number  of  progressions  and  a  more
 regular  rhythm.  The  latter  tendency  was  shown  by  the  following
 incident:  In  recording  a  Chippewa  song  from  an  old  Indian  the  writer
 found  the  rhythm  peculiar,  with  frequent  changes  of  measure
@@ -14818,8 +5860,7 @@ so  as  to  avoid  the  irregularity  in  the  measure  lengths.  The  song  had
 lost  its  native  character  and  also  its  musical  interest.
 
 The  various  occasions  of  music  which  exist  among  civilized  races
-are  foimd  also  among  the  Indians.  It  is  a  custom  that  songs  con-
-nected with  ceremonial  acts  shall  be  sung  only  by  those  who  have
+are  foimd  also  among  the  Indians.  It  is  a  custom  that  songs  connected with  ceremonial  acts  shall  be  sung  only  by  those  who  have
 
 
 60  BUBEAU  OF  AMEBICAN   ETHKOLOGT  (si7LL.€i
@@ -14854,16 +5895,13 @@ musical  standing  aciv^cg  their  own  people  b  not  so  high.  An  instance
 cf  this  b  i^  folk^vs:  On  the  twkscription  of  a  song  recorded  by  an  old
 man  it  w»  found  that  the  melody  showed  no  feeling  for  a  keynote,
 loquirr  acK^cg  the  Indiazks  disckxsed  the  fact  that  the  man  was  not
-cv'ttsidtfied  by  iheci  to  be  a  svxkI  si^ser.  Tne  same  song  was  acc<ml-
-in^  obtained  from  a  nian  of  a^-knowied^!?d  musical  pn>nciency.  and
+cv'ttsidtfied  by  iheci  to  be  a  svxkI  si^ser.  Tne  same  song  was  acc<mlin^  obtained  from  a  nian  of  a^-knowied^!?d  musical  pn>nciency.  and
 on  cociP^riEg  the  rec-iiuv  os  it  was  found  that  by  s%ht  alteratiois
 in  pitch  the  scc^  had  becon.e  iiiaionic  in  character,  the  interrak
-ck^elv  reseciblini:  iho^^e  of  ihe  soile  anvi  erivlir^  on  a  keynote.  Ex-
-c^enence  in  bstemr:^  to  the  ni^koiess  cf  Chirp^  wa  anvi  Sioux  niakes  it
+ck^elv  reseciblini:  iho^^e  of  ihe  soile  anvi  erivlir^  on  a  keynote.  Exc^enence  in  bstemr:^  to  the  ni^koiess  cf  Chirp^  wa  anvi  Sioux  niakes  it
 gi'^ie  to  dsstin^-ifiA  berwe^n  a  ^^^^'^^y  which  has  uirjsual  GiitiTc
 S5  and  cce  which  as  iistcrtcvi  by  a  ivx-r  sin^r.
-*cvnxr*cy  of  an  I--'-::!:!  —  r^7^a:i::^  a  s^r^  should  aiso  be  con-
-d.  For  this  pcrrose  sev-ml  ccr^vuv.ve  rvr^titx r^s  of  each
+*cvnxr*cy  of  an  I--'-::!:!  —  r^7^a:i::^  a  s^r^  should  aiso  be  cond.  For  this  pcrrose  sev-ml  ccr^vuv.ve  rvr^titx r^s  of  each
 ^cac  were  re^rord-o.  jU  an  e-i  i.z.:e  :c  a:c:ir^.y  ui  rvr^atir:^  cen^.
 BsociJ anas' ;^^-•'^-^":-^.'-        ^    "'^    "  -=•  -  •-*^^---a-
 
@@ -14874,8 +5912,7 @@ DBM8M0U]  TETON  SIOUX  MUSIC  61
 
 same  in  the  second  as  in  the  first  records.  In  two  of  the  songs  there
 was  no  difference  in  the  slightest  respect;  in  one  what  appeared  as  a
-glissando  progression  in  the  first  recording  was  sung  in  definite  inter-
-vals in  the  second;  and  in  the  fourth  song  there  was  a  slight  differ-
+glissando  progression  in  the  first  recording  was  sung  in  definite  intervals in  the  second;  and  in  the  fourth  song  there  was  a  slight  differ-
 ence in  the  opening  measures  but  none  in  the  part  containing  the
 words.^  Several  consecutive  renditions  of  the  songs  were  recorded
 on  both  occasions.  Another  and  similar  instance  occurred  among
@@ -14889,8 +5926,7 @@ See  also  analysis  of  song  No.  209  of  this  volume.
 
 (2)  Quality  of  tone. — ^The  manner  of  tone  production  by  the  Indian
 is  different  from  that  of  the  white  man.  The  former  cultivates  and
-greatly  admires  a  pronounced  vibrato;  a  falsetto  tone  is  also  con-
-sidered a  mark  of  musical  proficiency.  An  instance  of  this  is  men-
+greatly  admires  a  pronounced  vibrato;  a  falsetto  tone  is  also  considered a  mark  of  musical  proficiency.  An  instance  of  this  is  men-
 tioned in  Bulletin  53  (p.  252):  A  singer  at  Red  Lake,  Minn.,  ''sang
 in  falsetto  voice  with  a  peculiar  throaty  vibrato.  He  said  that  he
 discovered  his  abiUty  to  do  this  when  he  was  a  boy  and  had  cultivated
@@ -14928,8 +5964,7 @@ the  present  work,  selections  being  made  from  this  number  after  tran-
 scription,  and  many  records  being  used  for  comparison  with  records
 of  the  same  song  by  other  singers.
 
-(5)  Interpretdtion  {intellectual  and  emotional). — ^Among  these  In-
-dians, as  among  white  musicians,  there  must  be  a  convincing  quality
+(5)  Interpretdtion  {intellectual  and  emotional). — ^Among  these  Indians, as  among  white  musicians,  there  must  be  a  convincing  quality
 in  a  singer's  rendition  of  a  song.  It  has  frequently  been  said  to  the
 writer, ^'So-and-so  knows  the  old  songs,  but  he  is  not  a  good  singer;
 he  can  give  you  the  melody,  but  it  will  not  be  well  simg."  Into  this
@@ -14939,8 +5974,7 @@ well  as  among  white  men,  shall  carry  with  him  full  confidence  in
 himself,  and  do  his  work  with  authority.
 
 From  the  foregoing  data  it  appears  that  in  general  character  the
-musical  standards  of  the  Chippewa  and  Sioux  Indians  bear  a  resem-
-blance  to  those  of  the  white  race.
+musical  standards  of  the  Chippewa  and  Sioux  Indians  bear  a  resemblance  to  those  of  the  white  race.
 
 
 (CEREMONIES
@@ -14949,14 +5983,12 @@ The  Whttei  Buffalo  Calf  Pipe  (Ptbhin'6ala  Canoij'pa)
 It  is  fitting  that  a  narrative  of  the  gift  of  the  White  Buffalo  Calf  pipe
 to  the  Sioux  should  introduce  the  present  account  of  the  ceremonies
 and  customs  of  the  tribe.  Throughout  this  memoir  reference  will
-be  made  to  ceremonial  acts  performed  in  accordance  with  the  instruc-
-tions of  the  White  Buffalo  Maiden,  a  supernatural  being  through
+be  made  to  ceremonial  acts  performed  in  accordance  with  the  instructions of  the  White  Buffalo  Maiden,  a  supernatural  being  through
 whose  agency  the  ceremonial  pipe  was  given  to  the  Sioux.^
 
 The  narrative  in  its  present  form  was  given  by  I£na'la-wi6a'  (Lone
 Man;  see  pi.  23) ,  and  is  recorded  in  the  words  of  the  interpreter,  Mr.
-Robert  P.  Higheagle.  Preceding  this  recital  by  Lone  Man,  the  sub-
-ject had  been  studied  with  other  informants  for  more  than  two  years.
+Robert  P.  Higheagle.  Preceding  this  recital  by  Lone  Man,  the  subject had  been  studied  with  other  informants  for  more  than  two  years.
 A  summary  of  this  study  was  read  to  Lone  Man  and  discussed  with
 him,  after  which  he  was  requested  to  give  the  narrative  in  connected
 form,  incorporating  therewith  material  which  he  wished  to  add.'
@@ -14999,8 +6031,6 @@ PmMt  Muaeum  Reports,  nx,  Nob.  3  and  4,  pp.  260-76,  Camhridge,  1884.
 
 (pp.  lfift-170),  and  the  sacred  stones  (pp.  214-217).
 
-63
-
 
 64  BUBEAU   OF  AMERICAN  ETHNOLOGY  [BCix.ei
 
@@ -15015,8 +6045,7 @@ buffalo  hair.  [See  pp.  126, 458.]  In  her  right  hand  she  carried  a  fa
 Her  face  was  painted  with  red  vertical  stripes.  Not  knowing  what  to  do  or  say,  they
 hesitated,  saying  nothing  to  her.
 
-She  spoke  first,  thus:  "I  am  sent  by  the  Buffalo  tribe  to  visit  the  people  you  repre-
-sent. You  have  been  chosen  to  perform  a  difficult  task.  It  is  right  that  you  should
+She  spoke  first,  thus:  "I  am  sent  by  the  Buffalo  tribe  to  visit  the  people  you  represent. You  have  been  chosen  to  perform  a  difficult  task.  It  is  right  that  you  should
 try  to  carry  out  the  wishes  of  your  people,  and  you  must  try  to  accomplish  your  purpose.
 Go  home  and  tell  the  chief  and  headmen  to  put  up  a  special  lodge  in  the  middle  of  the
 camp  circle,  with  the  door  of  the  lodge  and  the  entrance  into  the  camp  toward  the
@@ -15034,8 +6063,7 @@ young  man  to  turn  his  back  toward  her  and  face  in  the  direction  of 
 start  for  home.    He  was  ordered  not  to  look  back.
 
 When  the  young  man  came  in  sight  of  the  camp  he  ran  in  a  zigzag  course,  this  being
-a  signal  required  of  such  parties  on  returning  home  from  a  searching  or  scouting  expe-
-dition. The  people  in  the  camp  were  on  the  alert  for  the  signal,  and  preparations  were
+a  signal  required  of  such  parties  on  returning  home  from  a  searching  or  scouting  expedition. The  people  in  the  camp  were  on  the  alert  for  the  signal,  and  preparations  were
 begun  at  once  to  escort  the  party  home.  Just  outside  the  council  lodge,  in  front  of
 the  door,  an  old  man  qualified  to  perform  the  ceremony  was  waiting  anxiously  for  the
 party.  He  knelt  in  the  direction  of  the  coming  of  the  party  to  receive  the  report  of
@@ -15096,8 +6124,7 @@ Then,  taking  up  the  pipe  again,  she  arose  and  said:
 upon  us  this  day  because  we  have  met  as  belonging  to  one  family.  The  best  thing  in
 a  family  is  good  feeling  toward  every  member  of  the  family.  I  am  proud  to  become  a
 memb^  of  your  family — a  sister  to  you  all.  The  sun  is  your  grandfather,  and  he  is
-the  same  to  me.  Your  tribe  has  the  distinction  of  being  always  very  faithful  to  prom-
-ises, and  of  possessing  great  respect  and  reverence  toward  sacred  things.  It  is  known
+the  same  to  me.  Your  tribe  has  the  distinction  of  being  always  very  faithful  to  promises, and  of  possessing  great  respect  and  reverence  toward  sacred  things.  It  is  known
 also  that  nothing  but  good  feeling  prevails  in  the  tribe,  and  that  whenever  any  mem>
 ber  has  been  found  guilty  of  committing  any  wrong,  that  member  has  been  cast  out
 and  not  allowed  to  mingle  with  the  other  members  of  the  tribe.  For  all  these  good
@@ -15186,18 +6213,15 @@ left  side,  walking  very  slowly;  as  soon  as  she  was  outside  the  entra
 a  white  buffalo  calf .'
 
 It  is  said  that  the  chief  who  received  the  pipe  from  the  White
-Buffalo  Maiden  was  Buffalo  Stands  Upward  (Tatai)'ka-woslar-
-na£ii)).  The  pipe  has  been  handed  down  from  one  generation  to
+Buffalo  Maiden  was  Buffalo  Stands  Upward  (Tatai)'ka-woslarna£ii)).  The  pipe  has  been  handed  down  from  one  generation  to
 another,  and  is  said  to  be  now  in  the  possession  of  Elk  Head
 (Heha'ka-pa),  who  lives  at  Thmider  Butte,  on  the  Cheyenne  River
 Reservation.  He  is  said  to  be  of  ''about  the  third  generation"
 which  has  kept  the  pipe,  and  is  98  years  of  age.'  Each  preceding
 keeper  of  the  pipe  lived  to  be  more  than  a  hundred  years  old.
 
-The  Indians  named  the  pipe  the  White  Buffalo  Calf  pipe.  Dupli-
-cates of  it  were  made,  and  soon  every  male  member  of  the  tribe
-carried  a  similar  pipe.  The  stem  was  made  to  resemble  the  wind-
-pipe of  a  calf.  Whenever  this  pipe  is  used  in  a  smoking  circle,  or
+The  Indians  named  the  pipe  the  White  Buffalo  Calf  pipe.  Duplicates of  it  were  made,  and  soon  every  male  member  of  the  tribe
+carried  a  similar  pipe.  The  stem  was  made  to  resemble  the  windpipe of  a  calf.  Whenever  this  pipe  is  used  in  a  smoking  circle,  or
 even  when  two  men  are  smoking  together,  the  rule  is  that  the  pipe
 
 J  It  is  interesting  to  obtenre  that  the  identity  of  a  dream  object  often  is  unreoagnised  until  it  tune  to
@@ -15208,19 +6232,12 @@ depart.    See  Btilletin  63,  p.  907;  also  p.  185  of  this  volume.
 DBNSMOBI]
 
 
-TETON   SIOUX  MUSIC
-
-
-67
-
-
 be  passed  to  the  left,  because  that  was  the  direction  taken  by  the
 White  Buffalo  Maiden  when  she  went  away.  The  one  who  lights
 this  pipe  is  required  to  make  an  offering.
 
 It  is  said  that  the  following  song  was  sung  by  the  White  Buffalo
-Maiden  as  she  entered  the  camp.  This  song  is  sung  in  the  Spirit-
-keeping  ceremony  when  the  man  who  is  keeping  the  spirit  of  his  child
+Maiden  as  she  entered  the  camp.  This  song  is  sung  in  the  Spiritkeeping  ceremony  when  the  man  who  is  keeping  the  spirit  of  his  child
 can  afford  to  have  a  white  buffalo  robe  used  in  the  ceremony,  (See
 pp.  82,  446.)  The  words  ** scarlet  relic"  refer  to  the  scarlet-wrapped
 packet  in  the  lodge  of  those  who  are  **  keeping  a  spirit."
@@ -15268,10 +6285,7 @@ nl  -.  ya      tai)  -  li)-yax)  ma-wa-nl
 ye
 
 
-wa-
-
-
-lu
+walu
 
 
 l^LfT  I
@@ -15304,13 +6318,11 @@ ho  -  tag  -  iij-yaq  ma-wa-ni        ye         ye      ye
 ye     a    ye     a      ye
 
 
-1  The  catalogue  numbers  used  throui^out  this  memoir  correspond  respectively  with  tho  numbers  des-
-ignating the  phonograph  record  of  the  songs,  which  are  preserved  in  the  Bureau  ot  American  Sthnolosy.
+1  The  catalogue  numbers  used  throui^out  this  memoir  correspond  respectively  with  tho  numbers  designating the  phonograph  record  of  the  songs,  which  are  preserved  in  the  Bureau  ot  American  Sthnolosy.
 
 
 68  BUREAU   OP   AMERICAN  ETHNOLOGY  [bull.  61
 
-WORDS
 
 nijra'    t£U)ii)^yai) with  visible  breath  *
 
@@ -15338,8 +6350,7 @@ Analysis.^ — ^This  song  is  minor  in  tonality  and  melodic  in  structure
 Thirty-four  progressions  are  foimd  in  the  melody,  22  (65  per  cent)  of
 which  are  minor  thirds.  This  is  an  unusually  large  proportion  of  any
 one  interval  in  a  song.  Ten  of  the  remaining  intervals  (29  per  cent)
-are  major  seconds,  the  others  being  an  ascending  fifth  and  a  descend-
-ing fourth.  The  tempo  of  the  song  is  slow,  and  the  short  tones  at
+are  major  seconds,  the  others  being  an  ascending  fifth  and  a  descending fourth.  The  tempo  of  the  song  is  slow,  and  the  short  tones  at
 the  end  of  the  first  and  similar  measures  were  given  in  correct  time.
 As  in  all  the  songs,  vocables  are  here  italicized.  In  this  song  they
 were  sung  with  marked  emphasis.
@@ -15347,8 +6358,7 @@ were  sung  with  marked  emphasis.
 The  final  measure  of  this  song  is  transcribed  as  a  complete  measure,
 though  the  song  begins  on  an  unaccented  tone.  This  precedent  will
 be  followed  throughout  the  present  work,  instances  in  which  the
-repetition  of  a  song  begins  without  a  break  in  the  time  being  indi-
-cated by  the  usual  mark  for  repeat.
+repetition  of  a  song  begins  without  a  break  in  the  time  being  indicated by  the  usual  mark  for  repeat.
 
 The  AloVaijpi  Ceremony
 
@@ -15358,8 +6368,7 @@ Omaha  and  Pawnee  has  been  studied  by  Miss  Alice  C.  Fletcher,
 whose  research  includes  the  ceremonial  songs  of  these  tribes.*  As  the
 ceremony  has  been  in  disuse  among  the  Dakota  for  many  years  it  was
 impossible  to  study  it  e;diaustively,  but  sufficient  information  was
-available  for  a  general  comparison  with  the  customs  of  the  above-
-mentioned   tribes.     From   this  comparison  it  is  evident  'that  the
+available  for  a  general  comparison  with  the  customs  of  the  abovementioned   tribes.     From   this  comparison  it  is  evident  'that  the
 
 1  In  cold  weather  the  breath  of  a  herd  of  buffalo,  rising  in  the  frosty  air,  oould  be  plainly  seen.
 
@@ -15392,8 +6401,7 @@ ceremony.
 
 Among  the  Sioux  this  ceremony  was  closely  associated  with  the
 White  Buffalo  Maiden  and  her  mysterious  visit  to  the  tribe.  The
-following  account  concerns  the  usage  of  the  Teton  Sioux.  The  sub-
-ject was  studied  by  the  writer  during  two  visits  to  the  reservation,
+following  account  concerns  the  usage  of  the  Teton  Sioux.  The  subject was  studied  by  the  writer  during  two  visits  to  the  reservation,
 and  Mr.  Higheagle  continued  the  work  for  several  months,  consulting
 the  older  Indians  as  he  had  opportunity.  The  material  embodies  the
 original  narrative  by  Weasel  Bear  and  also  many  points  contributed
@@ -15406,14 +6414,11 @@ who  were  qualified  to  express  opinions  on  the  subject.  The  account
 in  its  final  form  was  translated  to,  and  pronoimced  correct  by,  Weasel
 Bear  and  others  equally  well  informed.
 
-In  a  picture-calendar  of  the  Teton  Sioux  there  occurs  a  native  draw-
-ing of  this  ceremony  (fig.  20),  the  year  represented  by  the  drawing
-being  called  "  Awi'fia  alo'waqpi  wani'yetu,"  meaning  Uterally  "truth-
-fully singing  winter;"  understood  as  "ceremonial  silking  winter."
+In  a  picture-calendar  of  the  Teton  Sioux  there  occurs  a  native  drawing of  this  ceremony  (fig.  20),  the  year  represented  by  the  drawing
+being  called  "  Awi'fia  alo'waqpi  wani'yetu,"  meaning  Uterally  "truthfully singing  winter;"  understood  as  "ceremonial  silking  winter."
 This  is  the  first  year  recorded  on  this  calendar,  and  ^e  writer's
 informant  said  it  represented  the  first  year  in  which  the  Alo'waijpi
-ceremony  was  held  by  the  Standing  Rock  Sioux.  The  date  corres-
-pcnds  to  the  year  1801.  The  calendar,  which  is  owned  by  Black
+ceremony  was  held  by  the  Standing  Rock  Sioux.  The  date  correspcnds  to  the  year  1801.  The  calendar,  which  is  owned  by  Black
 Thunder,  of  Eagle  River,  closes  with  a  representation  of  the  Black
 Hills  council  which  took  place  in^  1912.  The  dates  of  other  historical
 events  are  correctly  indicated.
@@ -15423,8 +6428,7 @@ events  are  correctly  indicated.
 
 70  BUREAU   OF   AMERICAN   ETHNOLOGY  [BULuei
 
-In  describing  the  purport  of  the  ceremony  Looking  Elk  (HeEa'ka-
-wa'kita),  a  Teton  Sioux,  said:
+In  describing  the  purport  of  the  ceremony  Looking  Elk  (HeEa'kawa'kita),  a  Teton  Sioux,  said:
 
 The  great  result  of  thifi  ceremony  is  that  the  man  who  performed  it  was  r^arded  as
 a  father  by  the  child  for  whom  he  performed  it.  He  made  a  solemn  vow  tiding  that
@@ -15466,8 +6470,7 @@ finished  it  was  given  to  the  child  for  whom  the  ceremony  had  been  p
 many  families  such  a  pipestem  was  handed  down  for  many  generations.  The  manner
 of  decorating  the  pipestem  has  also  been  handed  down,  and  neither  the  shape  nor  the
 decoration  can  be  changed.  A  new  pipestem  might  be  made  by  some  one  who  had
-undergone  the  ceremony,  but  an  old  one  was  generally  used.  The  wand,  or  pipe-
-stem,  was  usually  about  20  inches  long.  On  it  were  fastened  tufts  of  the  feathers  of
+undergone  the  ceremony,  but  an  old  one  was  generally  used.  The  wand,  or  pipestem,  was  usually  about  20  inches  long.  On  it  were  fastened  tufts  of  the  feathers  of
 the  kagke'^a,  pUeated  woodpecker,  and  above  each  tuft  of  feathers  was  the  head  of
 
 [I  In  stating  that  the  wand  represented  the  pipe,  the  tradition  related  by  the  informant  seems  to  have
@@ -15504,8 +6507,7 @@ the  man  whom  the  father  desired  to  perform  the  ceremony,  and  who
 thereafter  would  be  bound  to  the  father  by  a  tie  even  stronger  than
 that  of  natural  brotherhood,  because  he  had  assumed  a  responsibility
 not  placed  on  him  by  nature.  An  invitation  was  usually  conveyed
-by  means  of  a  pipe,  but  for  this  ceremony  a  different  form  of  invita-
-tion was  used.  The  father  of  the  child  made  a  case  from  the  dried
+by  means  of  a  pipe,  but  for  this  ceremony  a  different  form  of  invitation was  used.  The  father  of  the  child  made  a  case  from  the  dried
 bladder  of  a  buffalo,  into  which  he  put  many  little  packages  of
 tobacco,  one  or  two  pipefuls  being  wrapped  in  membrane,  sinular  to
 the  packets  fastened  to  sticks  as  offerings  at  the  Sun  dance  (p.  102).
@@ -15544,11 +6546,9 @@ as  swift  in  flight  (p.  319),  and  the  wolf,  in  hardihood  (p.  388).
 
 72  BUREAU   OF  AMERICAN  ETHNOLOGY  Iboll.6i
 
-were  placed  two  buffalo  chips,  which  were  used  in  lighting  the  cere-
-monial pipes.  Sweet  grass  also  was  made  ready  for  lightmg  the  pipes.
+were  placed  two  buffalo  chips,  which  were  used  in  lighting  the  ceremonial pipes.  Sweet  grass  also  was  made  ready  for  lightmg  the  pipes.
 Fresh  sage  was  spread  on  the  ground  in  the  rear  of  the  square,  and  on
-this  was  laid  a  buffalo  skull  painted  with  red  lines  and  having  the  open-
-ings filled  with  sage.  (See  pp.  64, 1 85.)  The  nose  of  the  skull  was  near,
+this  was  laid  a  buffalo  skull  painted  with  red  lines  and  having  the  openings filled  with  sage.  (See  pp.  64, 1 85.)  The  nose  of  the  skull  was  near,
 but  did  not  touch  the  side  of  the  square.  Strips  of  red  flannel  were
 tied  on  the  horns.  Back  of  the  buffalo  skull  stood  a  pipe  rack  formed
 of  two  upright  sticks,  each  having  a  crotch  at  the  top,  between  which
@@ -15564,8 +6564,7 @@ leaned  against  one  of  the  posts  of  the  pipe  rack.  Against  the  pipe
 rack  was  placed  also  an  ear  of  com  on  a  stick,  decorated  in  blue  as
 shown  in  plate  3.  It  was  essential  that  this  be  particularly  regular
 in  form,  with  an  even  number  of  kernels  arranged  in  straight  lines.^
-Thus  the  ceremonial  articles  comprised  the  ear  of  com,  the  deco-
-rated pipe  (or  wand),  the  pipe  rack  and  the  tuft  of  white  down,  and
+Thus  the  ceremonial  articles  comprised  the  ear  of  com,  the  decorated pipe  (or  wand),  the  pipe  rack  and  the  tuft  of  white  down,  and
 also  a  bunch  of  shed  buffalo  hair  which  was  used  in  the  ceremony.
 These  were  provided  by  the  man  who  performed  the  ceremony,  who
 kept  them  wrapped  in  a  red  cloth.  The  preparation  of  the  lodge  was
@@ -15574,8 +6573,7 @@ as  to  keep  spectators  at  a  proper  distance.
 
 The  Teton  Sioux  were  not  originally  an  agricultural  people,  and
 the  use  of  com  in  this  ceremony  formed  the  subject  of  considerable
-inquiry.  In  response  to  this  inquiry  the  writer  was  told  the  follow-
-ing legend  of  the  coming  of  the  com,  which,  in  its  final  form,  is  given
+inquiry.  In  response  to  this  inquiry  the  writer  was  told  the  following legend  of  the  coming  of  the  com,  which,  in  its  final  form,  is  given
 in  the  words  of  the  interpreter,  Mr.  Higheagle:
 
 There  was  an  old  couple  living  on  the  bank  of  a  river.  They  had  been  married  a
@@ -15594,8 +6592,7 @@ the  sweat-bath  booth  and  asked  what  they  should  do.    As  before,  they
 1  Articles  for  ceremonial  use  were  required  to  be  as  perfect  as  possible.  Cf.  choice  of  the  buffalo  skull,
 and  the  tree  for  the  sacred  pole,  in  the  Sun  dance  (pp.  102,  ill),  abo  the  ax  used  in  cutting  the  tree  (p.  112).
 The  sacred  stones  were  regular  in  outline  and  untouched  by  a  tool  (p.  205).  Purity  of  life  was  requlrod  of
-leaders  in  all  ceremonies.  See  abo  the  statement  on  p.  173.  footnote,  that  what  is  genuine  should  be  pre-
-ferred to  what  is  artificial.
+leaders  in  all  ceremonies.  See  abo  the  statement  on  p.  173.  footnote,  that  what  is  genuine  should  be  preferred to  what  is  artificial.
 
 
 DBNBMOBI]
@@ -15604,11 +6601,7 @@ DBNBMOBI]
 TETON  SIOUX  MU8I0
 
 
-73
-
-
-saying : ' '  Fear  not.  This  plant  which  you  behold  is  going  to  grow  into  the  moat  beauti-
-ful child  you  ever  saw.  Watch  for  its  development.  Take  good  care  of  it.  Give  it
+saying : ' '  Fear  not.  This  plant  which  you  behold  is  going  to  grow  into  the  moat  beautiful child  you  ever  saw.  Watch  for  its  development.  Take  good  care  of  it.  Give  it
 plenty  of  air,  sunshine,  and  water.  Let  no  other  plant  or  shrub  grow  near  it.''  So
 they,  realizing  this  was  the  child  they  had  been  desuring,  went  out  and  did  as  they
 were  told.  The  plant  grew  up,  had  green  clothing,  and  beautiful  whitkh  hair.  It
@@ -15636,7 +6629,6 @@ Sung  by  Weasel  Bear
 (Catalogue  No.  64»)
 
 
-Voice  J  =112
 Drum  not  recorded
 
 
@@ -15748,12 +6740,6 @@ lUREAU  OF  AMERICAN  ETHNOLOGY  BULLETIN  61    PLATE  4
 densmobb]
 
 
-TETON   SIOUX  MUSIC
-
-
-75
-
-
 No.  8.  Ceremonial  Song
 
 Stmg  by  Weasel  Bear
@@ -15764,9 +6750,6 @@ Dbum  not  recorded
 
 
 Le      hai)  -ka
-
-
-(Catalogue  No.  648;
 
 
 ye     e     le         huq-ka     a     ya   ya     le
@@ -15792,7 +6775,6 @@ hui)    -  ka      ya       ya      ya        e   -   cb,
 
 waQ-ka-tu   kii)     le       hug  -ka    ya     ya    ya     le       hui)    -   ka
 
-WORDS
 
 (First  rendition)
 
@@ -15863,10 +6845,8 @@ leading  toward  the  second  five-tone  scale.  If  the  first  be  the  correc
 standpoint,  we  may  expect  a  large  proportion  of  songs  containing
 either  the  minor  triad  alone  or  with  some  other  tone  used  as  a
 passing  tone,  but  such  is  not  f oimd .  We  note  only  1  per.  cent
-containing  the  minor  triad  alone,  and  less  than  1  per  cent  with  an-
-other tone  as  a  passing  tone.  Regarding  the  matter  from  the  second
-standpoint,  we  note  that  the  percentage  of  songs  on  the  second  five-
-toned  scale  is  less  than  that  of  those  on  the  fourth  five-toned  scale.
+containing  the  minor  triad  alone,  and  less  than  1  per  cent  with  another tone  as  a  passing  tone.  Regarding  the  matter  from  the  second
+standpoint,  we  note  that  the  percentage  of  songs  on  the  second  fivetoned  scale  is  less  than  that  of  those  on  the  fourth  five-toned  scale.
 It  is  observed,  however,  that  the  proportion  of  songs  containing  the
 major  triad  and  sixth  is  12  per  cent.  This  bears  the  same  relation  to
 the  complete  fourth  five-toned  scale  that  the  minor  triad  and  fourth
@@ -15880,8 +6860,7 @@ on  the  octave  and  ending  on  the  tonic.  It  is,  however,  harmonic  in
 structure-,  while  the  preceding  is  melodic.  The  proportion  of  minor
 thirds  is  larger  than  in  the  preceding  song,  constituting  about  39  per
 cent  of  the  intervals.  As  in  the  preceding  song,  the  vocables  were
-slightly  emphasized,  and  the  words  of  the  many  renditions  were  dis-
-tinctly sung.  Neither  this  nor  the  preceding  song  contains  a  change
+slightly  emphasized,  and  the  words  of  the  many  renditions  were  distinctly sung.  Neither  this  nor  the  preceding  song  contains  a  change
 of  time.  Only  23  per  cent  of  the  340  Chippewa  songs  are  without
 change  of  time,  and  this  continuity  appears  in  only  10  per  cent  of
 this  series.
@@ -15890,14 +6869,12 @@ After  the  ceremony  (which,  as  aheady  stated,  was  not  studied  in  detai
 by  the  writer)  the  decorated  pipe  (or  wand)  and  the  com  became  the
 property  of  the  child  for  whom  the  ceremony  had  been  performed.
 In  departing  with  the  children  the  Itag'cai),  pausing  four  times,  gave
-the  long  "wolf  call''  which  had  signalized  their  approach  to  the  cere-
-monial lodge.  Liberal  rewards  were  given  those  who  performed  this
+the  long  "wolf  call''  which  had  signalized  their  approach  to  the  ceremonial lodge.  Liberal  rewards  were  given  those  who  performed  this
 ceremony.  Weasel  Bear  stating  that  he  bestowed  three  horses  and  a
 pipe  on  the  old  man  who  painted  and  ''sang  over"  his  daughters.
 
 The  celebration  of  this  ceremony  placed  a  child  in  a  highly
-respected  position  in  the  tribe.  Such  a  child  was  regarded  as  possess-
-ing that  which  would  "make  it  nothing  but  good  in  every  way,"  and
+respected  position  in  the  tribe.  Such  a  child  was  regarded  as  possessing that  which  would  "make  it  nothing  but  good  in  every  way,"  and
 was  "recognized  by  all  as  ranking  above  an  ordinary  child."
 
 
@@ -15914,15 +6891,13 @@ might  wear  a  calfskin  robe  similar  to  that  shown  in  plate  5.  The
 decoration  on  this  robe  indicates  that  the  wearer  had  taken  part  in
 the  Hugka  ceremony,  and  also  that  h^  relatives  had  been  successful
 in  war.  Red,  bhie,  and  yellow  are  the  colors  used  in  the  decorations.
-It  was  said  that  '^red  represents  blood,  blue  is  a  'blue  cloud/  indicat-
-ing success,  and  yellow  is  the  color  of  the  sky  at  morning."^  The
+It  was  said  that  '^red  represents  blood,  blue  is  a  'blue  cloud/  indicating success,  and  yellow  is  the  color  of  the  sky  at  morning."^  The
 stripes  on  the  Bead  of  the  calfskin  are  red  and  represent  the  Hu^ka
 stripes  painted  on  the  face  of  the  child  for  whom  the  ceremony  was
 performed.  The  two  lines  bordering  the  entire  decoration  are  blue,
 and  the  space  between  them  Is  yellow.  Near  the  left  margin  are  red
 lines,  said  to  represent  a  spider's  web.  The  crescents  along  the  right
-margin  represent  the  phases  of  the  moon,  blue  being  used  to  repre-
-s^it  a  quarter  moon  and  yd  a  full  moon.  These  are  the  phases  in
+margin  represent  the  phases  of  the  moon,  blue  being  used  to  repres^it  a  quarter  moon  and  yd  a  full  moon.  These  are  the  phases  in
 which  the  child's  relative  engaged  in  the  war  expeditions  noted  in  the
 decoration  of  the  robe.  Next  to  this  border  are  parallel  lines,  the
 dots  on  which  repres^it  the  number  of  camps  made  during  a  certain
@@ -15938,8 +6913,7 @@ In  the  old  days  a  Sioux,  filled  with  grief  at  the  death  of  a  near
 relative,  might  prolong  his  period  of  mourning  by  "keeping  the
 spirit"  for  several  months  or  a  year,  and  then  "letting  it  go"  by
 means  of  a  certain  ceremony.  This  was  a  custom  which  exacted  a
-great  deal  and  which,  having  been  begun,  must  be  carried  out  con-
-sistently, either  by  the  man  who  undertook  it,  or  in  the  event  of  his
+great  deal  and  which,  having  been  begun,  must  be  carried  out  consistently, either  by  the  man  who  undertook  it,  or  in  the  event  of  his
 death  by  his  nearest  relative.  A  man  considered  this  before  he
 announced  his  intention  of  "keeping  the  spirit"  of  a  relative.  He
 considered  the  fact  that  for  many  months  he  could  not  hunt,  nor  go
@@ -15968,13 +6942,10 @@ cults,  in  Eleventh  Rep.  Bur.  Ethn.,  pp.  487-89, 1804.
 to  represent  the  spirit  of  a  relative,  and  also  his  share  of  food  and
 gifts  for  thd  final  feast.
 
-The  Ceremony  of  Spirit-keeping,  like  the  Alo  Vaijpiy  had  its  inspira-
-tion in  the  Coming  of  the  YHiite  Buffalo  Maiden,  and  everything  was
+The  Ceremony  of  Spirit-keeping,  like  the  Alo  Vaijpiy  had  its  inspiration in  the  Coming  of  the  YHiite  Buffalo  Maiden,  and  everything  was
 done  in  accordance  with  her  instructions.  The  manner  of  studying
-this  subject  was  similar  to  that  used  in  connection  with  the  two  pre-
-ceding chapters.  The  spirit  of  a  child  was  ''  kept "  more  frequently
-than  that  of  a  grown  person,  and  the  writer's  first  work  on  this  cere-
-mony consisted  in  taking  down  a  narrative  by  Weasel  Bear  (inter-
+this  subject  was  similar  to  that  used  in  connection  with  the  two  preceding chapters.  The  spirit  of  a  child  was  ''  kept "  more  frequently
+than  that  of  a  grown  person,  and  the  writer's  first  work  on  this  ceremony consisted  in  taking  down  a  narrative  by  Weasel  Bear  (inter-
 preted by  Mrs.  McLaughlin),  in  which  he  told  of  keeping  the  spirit
 of  a  little  daughter.  A  year  later  this  narrative  was  discussed  by
 Bear  Face^  and  other  old  men  (Mr.  Higheagle  interpreting),  and
@@ -15985,8 +6956,7 @@ supplied  by  other  reliable  informants.
 
 (jonceming  this  ceremony  Bear  Face  (MatoMteO  said:
 
-It  is  one  of  the  great  undertakings  of  the  tribe,  not  simply  in  the  honor  which  sur-
-rounds it,  but  because  of  the  work  and  obligation  it  involves,  so  that  a  man  who  can
+It  is  one  of  the  great  undertakings  of  the  tribe,  not  simply  in  the  honor  which  surrounds it,  but  because  of  the  work  and  obligation  it  involves,  so  that  a  man  who  can
 cairy  this  through  successfully  is  recognized  by  the  tribe  as  a  man  who  is  qualified
 to  fulfill  laige  responsibilities.
 
@@ -16052,8 +7022,7 @@ Plate  6  shows  a  ''spirit  wrap''  and  a  braid  of  sweet  grass  which
 was  placed  in  the  spirit  bimdle*.  Mrs.  James  McLaughlin  said  she
 ''purchased  it  30  years  ago  from  Black  Moon's  mother,  who  said  it
 was  then  about  80  years  old  and  had  been  used  in  keeping  the  spirits
-of  her  grandfather,  her  mother,  and  other  relatives."  The  porcu-
-pine quills  on  it  were  dyed  with  native  dyes,  and  the  wrap  is  so  fragile
+of  her  grandfather,  her  mother,  and  other  relatives."  The  porcupine quills  on  it  were  dyed  with  native  dyes,  and  the  wrap  is  so  fragile
 that  it  had  been  used  in  recent  years  as  an  inner  instead  of  an  outer
 wrapping.  A  braid  of  sweet  grass  was  usually  placed  in  a  spirit
 bundle,  and  an  old  one  had  been  preserved  with  this  wrapping.
@@ -16074,8 +7043,7 @@ case  (pay)  of  soft-tanned  hide.  In  it  were  put  gifts  for  the  itai)'�
 who  would  have  charge  of  the  final  ceremony.  These  gifts,  which
 were  gradually  collected,  comprised  needles,  awls,  knives,  tobacco,
 and  sometimes  as  many  as  50  pipes.  In  the  tipi,  between  the  fire
-and  the  place  of  honor,  a  certain  area  of  the  earth  floor  was  "  mel-
-lowed." This  was  round,  not  square  as  in  the  Hui)ka  and  the  Sun
+and  the  place  of  honor,  a  certain  area  of  the  earth  floor  was  "  mellowed." This  was  round,  not  square  as  in  the  Hui)ka  and  the  Sun
 dance.  In  the  center  of  this  space  was  placed  a  buffalo  chip,  and
 beside  it  two  implements  (pi.  7)  made  of  wood,  about  3  feet  in  length,
 one  broad  at  the  end  and  the  other  pointed.  When  sweet  grass  was
@@ -16089,8 +7057,7 @@ buffalo  chip.  The  spirit-keeper  and  his  wife  wore  no  ornaments  dui^
 ing  this  period,  and  their  faces  were  painted  all  the  time.  Their
 manner  was  always  quiet  and  reverent,  as  though  the  body  of  the
 relative  whom  they  mourned  was  in  the  lodge.  It  was  expected  that
-those  who  kept  a  spirit  would  hold  charitable  thoughts  toward  every-
-one in  the  tribe,  and  all  unkind  or  harsh  words  were  forbidden  in  the
+those  who  kept  a  spirit  would  hold  charitable  thoughts  toward  everyone in  the  tribe,  and  all  unkind  or  harsh  words  were  forbidden  in  the
 spirit  lodge.
 
 The  tripod  and  spirit  bundle  were  brought  into  the  lodge  at  night
@@ -16123,8 +7090,7 @@ finished.
 Wen^  Bear  s^ivl  further  that  duriiii:  the  period  of  keeoing  a  spirit
 tihe  contetil5ji  of  ht  Kvfcre  were  supixtikxi  to  boloni:  lo  ihe  tribe.  Thus  if
 a  man  cmme  to  hi?  KxU^^  sayir^.  **  1  have  come  for  some  of  my  tobacco
-and  wd  wilkfcw/'  he  irave  hi:u  what  he  re^uirvd.  Weasel  Bear  con-
-linoed  his  narrative  as  folk>ws:
+and  wd  wilkfcw/'  he  irave  hi:u  what  he  re^uirvd.  Weasel  Bear  conlinoed  his  narrative  as  folk>ws:
 
 
 U^  :jr  a  jbixt  twfc*  i^>vc>-  i*v.  ir^-i  ::  ht*  w.3Cl^  t.^  ^vew  :]r  .-n*  a:  r^-'  --^  ''a?  *-
@@ -16150,8 +7116,7 @@ also  cut  red  willow  l6aV9a^9a]  and  dried  it,  so  that  I  would  have  p
 at  the  final  feast.
 
 The  man  who  kept  a  spirit  was  frequently  invited  to  feasts  of  the
-Yuioiis  societies  Mid  was  expected  to  attend  them.  It  was  under-
-stood that  if  valuable  presents  were  being  given  away  he  would  be
+Yuioiis  societies  Mid  was  expected  to  attend  them.  It  was  understood that  if  valuable  presents  were  being  given  away  he  would  be
 first  to  receive  one.  In  return  for  these  favors  he  mvited  the-societies
 to  attend  the  feasts,  which  were  held  outside  the  lodge,  wh^  the  time
 came  for  releasing  the  spirit.  The  time  for  keeping  a  spint  varied
@@ -16200,8 +7165,7 @@ lines  of  the  paint  are  those  which  would  be  used  for  a  girl  who  ha
 through  the  Alo'wagpi  ceremony.  The  feather  is  that  worn  by-
 Weasel  Bear's  daughter  when  she  was  ''sung  over"  in  that  ceremony.
 Both  the  lines  and  feather  belonged  to  a  daughter  somewhat  older  than
-the  one  whose  spirit  he  kept.  When  the  features  had  been  deline-
-ated on  the  posts  each  itai)'dai)  opened  the  case  (pay)  containing
+the  one  whose  spirit  he  kept.  When  the  features  had  been  delineated on  the  posts  each  itai)'dai)  opened  the  case  (pay)  containing
 the  articles  of  clothing  to  be  placed  on  the  posts.  These,  which  had
 been  previously  exhibited  outside  the  lodge,  were  garments  worn  by
 the  person  whose  spirit  was  to  be  released.  After  the  cer^nony
@@ -16214,24 +7178,19 @@ roimd  piece  of  poimded  meat,  each  itai)'6ai)  held  it  to  the  painted
 mouth  on  a  spirit  post.  At  this  time  any  orphan  in  need  of  help
 might  appear  and  ask  in  the  name  of  the  spirit  to  be  released,  that
 it  be  fed  and  cared  for.  Such  a  request  was  never  refused.  Any
-others  in  need  of  help  might  make  an  appeal  at  this  time,  four  oppor-
-timities  being  given  during  the  ''feeding  of  the  spirits."
+others  in  need  of  help  might  make  an  appeal  at  this  time,  four  opportimities  being  given  during  the  ''feeding  of  the  spirits."
 
-When  this  was  finished  within  the  spirit  lodge  there  was  a  distri-
-bution of  gifts  to  the  people  in  the  camp.  These  gifts  had  been
+When  this  was  finished  within  the  spirit  lodge  there  was  a  distribution of  gifts  to  the  people  in  the  camp.  These  gifts  had  been
 accumulated  by  the  family  of  the  spirit-keeper  and  already  had
 been  exhibited  to  the  people.  Weasel  Bear  said  that  his  wife  put
 up  frames  for  this  purpose,  laying  poles  across  forked  stakes  and
 hanging  belts,  moccasins,  leggings,  and  other  articles  on  the  poles.
-At  this  time  the  spirit-keeper  sent  gifts  to  the  societies,  who  pre-
-served order  in  the  camp.  A  gift  to  a  society  was  said  to  be  some-
+At  this  time  the  spirit-keeper  sent  gifts  to  the  societies,  who  preserved order  in  the  camp.  A  gift  to  a  society  was  said  to  be  some-
 thing about  equal  in  value  to  the  gifts  which  the  spirit-keeper  had
 received  from  that  society,  and  to  be  something  which  could  be
 divided  among  the  members.  Thus  Weasel  Bear  said  that  he  gave
-a  war  bonnet  to  the  Tokala  society,  and  that  the  feathers  were  dis-
-tributed among  the  men.  There  was  much  feasting  in  the  camp  and
-this  was  an  occasion  on  which  prominent  families  announced  pub-
-licly the  names  which  they  had  given  their  children,  or  had  the  ears
+a  war  bonnet  to  the  Tokala  society,  and  that  the  feathers  were  distributed among  the  men.  There  was  much  feasting  in  the  camp  and
+this  was  an  occasion  on  which  prominent  families  announced  publicly the  names  which  they  had  given  their  children,  or  had  the  ears
 of  their  children  pierced  in  the  same  manner  as  at  the  Sun  dance.
 (See  p.  137.)
 
@@ -16241,8 +7200,7 @@ as  a'taya  itay^Satf  was  "prepared  with  proper  songs  and  prayers  and
 was  also  qualified  to  give  lamentations  for  the  dead."
 
 If  a  white  bu£Falo  robe  were  used,  song  No.  1  was  sung.  Mention
-has  been  made  of  a  filled  pipe  placed  beside  the  round  space  of  mel-
-lowed earth  in  the  spirit  lodge.     A  man  was  appointed  to  light  this
+has  been  made  of  a  filled  pipe  placed  beside  the  round  space  of  mellowed earth  in  the  spirit  lodge.     A  man  was  appointed  to  light  this
 
 
 DBXSMonB]  TETON  SIOTJX  MUSIC  83
@@ -16251,8 +7209,7 @@ pipe,  and  was  known  as  itay'dai)  iya'tar)  Id'yapi,  or  'deader  who
 lights  the  pipe."  This  man  put  lighted  sweet  grass  on  the  buffalo
 chip  which  lay  on  the  mellowed  earth.  He  did  not  do  this  with
 directness,  but,  lowering  the  grass  a  short  distance,  he  paused  for  a
-moment;  then  lowering  it  farther,  he  paused  again,  making  four  down-
-ward motions,  after  which  he  moved  it  four  times  in  a  circle,  ''with
+moment;  then  lowering  it  farther,  he  paused  again,  making  four  downward motions,  after  which  he  moved  it  four  times  in  a  circle,  ''with
 the  sun,"  and  placed  it  on  the  buffalo  chip.  The  a'taya  itai)'<5ai)  held
 the  pipe  in  the  ascending  smoke  and  repeated  the  words  which  the
 White  Buffalo  Maiden  said  to  the  Sioux  when  she  appeared  to  them.
@@ -16267,8 +7224,7 @@ said;
 
 After  he  had  smoked  for  awhile  I  sat  down  close  to  him  and  he  pointed  the  stem
 of  the  pipe  toward  me,  saying,  ''Young  man,  you  are  going  to  smoke  this  pipe.  It
-was  hrought  to  ua  hy  a  woman,  and  drawing  it  wiU  lead  you  to  be  as  straight  and  tnith-
-ful  as  the  "Stem  of  the  pipe."  I  smoked  it  without  touching  the  bowl,  and  the  old
+was  hrought  to  ua  hy  a  woman,  and  drawing  it  wiU  lead  you  to  be  as  straight  and  tnithful  as  the  "Stem  of  the  pipe."  I  smoked  it  without  touching  the  bowl,  and  the  old
 manln  taking  it  from  me  passed  his  hand  downward  over  my  face.  The  pipe  was
 then  passed  around  the  lodge,  going  toward  the  left.  When  it  was  smoked  out  itai)'^dai)
 iya'^tag  ki^yapi  took  it  and  three  times  pretended  to  empty  the  ashes  on  the  buffalo
@@ -16282,8 +7238,7 @@ Weasel  Bear  said:
 
 He  did  not  take  all  the  wrapping  from  a  spirit  bundle  at  once.  He  removed  a  poT^
 tion  and  then  made  a  brief  discourse,  doing  this  in  such  a  manner  that  there  were  four
-acts  of  unwra][>ping,  the  last  one  occurring  about  an  hour  before  sunset.  Then  he  un-
-folded the  last  wrapping  and  let  the  spirit  of  my  child  depart.
+acts  of  unwra][>ping,  the  last  one  occurring  about  an  hour  before  sunset.  Then  he  unfolded the  last  wrapping  and  let  the  spirit  of  my  child  depart.
 
 The  lock  of  hair,  or  other  object  which  formed  the  nucleus  of  the
 spirit  bundle,  was  kept  by  the  family,  and  the  itaQ^daij  kept  such
@@ -16293,8 +7248,7 @@ gave  away  practically  all  they  possessed  except  the  clothing  they
 wore.
 
 If  the  principal  spirit-keeper  made  use  of  a  white  buffalo  robe  in  the
-spirit  lodge  there  was  much  interest  at  the  close  of  the  ceremony  in  see-
-ing who  would  have  the  honor  of  carrying  it  out  of  the  lodge.  A  man
+spirit  lodge  there  was  much  interest  at  the  close  of  the  ceremony  in  seeing who  would  have  the  honor  of  carrying  it  out  of  the  lodge.  A  man
 having  the  necessary  qualifications  might  do  this,  and  children  who  had
 been  through  the  Alo  Vagpi  ceremony  might  take  hold  of  it  and  help
 him  carry  it.  The  qualifications  included  uprightness  of  life  and  the
@@ -16307,20 +7261,17 @@ efEgy  of  a  buffalo  had  been  erected  of  small  trees.  After  being  carr
 from  tiie  lodge  the  white  buffalo  robe  was  laid  over  this  framework,  and
 on  it  were  placed  valuable  garments,  as  an  elk-tooth  dress  or  an  eagle
 war  bonnet.  The  white  buffalo  robe,  together  witii  the  artkdes
-placed  upon  it,  were  given  to  the  society  which  had  given  most  assist-
-ance to  the  spirit-keeper.  In  every  society  there  is  one  man  who  is
+placed  upon  it,  were  given  to  the  society  which  had  given  most  assistance to  the  spirit-keeper.  In  every  society  there  is  one  man  who  is
 qualified  to  take  charge  of  such  a  robe  if  the  society  decides  to  keep  it
 intact,  and  such  a  man  may  make  drawings  on  it.  The  society  is  at
-liberty,  however,  to  cut  it  in  pieces  and  divide  it  among  the  mem-
-bers, or  to  sell  it  i£  so  desired.
+liberty,  however,  to  cut  it  in  pieces  and  divide  it  among  the  members, or  to  sell  it  i£  so  desired.
 Weasel  Bear  said:
 
 When  it  was  time  for  the  people  to  depart,  the  itat)^6ai)  went  first,  canning  his  share
 of  the  bundle  in  which  for  so  long  I  had  detained  the  spirit  of  my  little  daughter.  My
 wile  stood  at  the  door  of  tilie  tip!  and  said  to  the  people, '  *  if  you  have  no  leather  you  may
 cut  up  this  tipi."  llie  women  came  like  a  rush  of  wind  and  cut  up  the  tipi  very
-quickly.  My  wife  even  let  them  have  a  little  tipi  in  which  wekept  our  cooking  uten-
-sils and  other  things  not  connected  with  the  spirit-keeping.  They  even  took  away  the
+quickly.  My  wife  even  let  them  have  a  little  tipi  in  which  wekept  our  cooking  utensils and  other  things  not  connected  with  the  spirit-keeping.  They  even  took  away  the
 tipi  poles.  Nothing  was  left  except  the  grass  on  which  we  stood  and  the  little  spirit
 post.  My  wile  and  I  had  parted  with  everything.  We  walked  side  by  side,  and  I
 thought  with  scMue  regret  of  all  I  had  given  away.  We  went  and  sat  down  under  a  tree
@@ -16339,8 +7290,7 @@ kettles  to  the  place,  that  the  hungry  may  eat  and  be  satisfied.  But 
 so  desires,  he  may,  after  a  certain  time,  take  up  the  spirit  posted  bury  it. ' '
 
 After  finiahiTig  his  narrative,  Weasel  Bear  add^:  ''AH  this  came
-to  us  through  the  white  buflfalo  and  is  one  of.  t3ie  reasons  why  every-
-thing connected  with  the  buffalo  is  s6  highly  regarded  by  us.''
+to  us  through  the  white  buflfalo  and  is  one  of.  t3ie  reasons  why  everything connected  with  the  buffalo  is  s6  highly  regarded  by  us.''
 
 The  Sun  Dance
 
@@ -16351,8 +7301,7 @@ human  forms,  and  that  there  were  diflFerences  in  power  among  these,
 the  most  powerful  of  all  being  a  sky  deity  resident  in  or  connected
 with  the  Sim."  Many  other  tribes  held  a  similar  belief,  and  the
 worship  of  such  a  deity  was  widespread  among  the  Indians  of  North
-America.  This  worship  assumed  various  forms,  presenting  con-
-trasts in  many  important  characteristics.     The  Sun  dance  was  a
+America.  This  worship  assumed  various  forms,  presenting  contrasts in  many  important  characteristics.     The  Sun  dance  was  a
 
 1  Indian  Tribes  of  the  Lower  MissiBslppi  Valley  and  Adjacent  Coast  of  the  Gulf  of  Mexico,  Btill.  43,  Cur,
 Amer.  Ethn.,  p.  174,  1911.
@@ -16363,8 +7312,7 @@ DBUBMOBi]  TETON  SIOUX  MUSIC  85
 ceremony  whose  observance  was  limited  to  certain  Plains  tribes.^    In
 the  Sun  dance  the  Indian  considered  that  he  offered  to  Wakai)^tai)ka^
 
-1  Soe  bibliography,  pp.  86, 87,  footnote,  of  this  work,  also  article  Sun  Danee,  by  O.  A.  Dorsey,  in  Hand-
-tiook  of  American  Indians,  pt.  2,  p.  649.
+1  Soe  bibliography,  pp.  86, 87,  footnote,  of  this  work,  also  article  Sun  Danee,  by  O.  A.  Dorsey,  in  Handtiook  of  American  Indians,  pt.  2,  p.  649.
 
 tThrooghout  this  work  the  term  Wakaq'taQka  will  be  used  in  preference  to  the  term  Great  Spirit,
 whieh  is  oonmionly  accepted  as  Its  English  equivalent.   The  word  Wakaz)'tagka  is  composed  of  walutp
@@ -16386,32 +7334,27 @@ not  in  accordance  with  Indian  custom.   The  unspoken  element  may  be  a 
 no  indication  of  which  appears  in  words,  or  it  may  be  something  which  is  Indicated  in  sueh  a  manner  as
 to  be  intelligible  only  to  those  for  whom  it  Is  intended.    Thus  there  is  a  "sacred  language' '  tised  by  medi>
 dne-men  in  which  familiar  words  take  on  an  occult  meaning.    (See  p.  120,  footnote.)    In  attempting  to
-express  the  meaning  of  the  word  wakay  the  following  statement  was  made  to  the  writer  by  several  old  In-
-dians, after  consultation:  "  An  ordinary  man  has  natural  ways  of  doing  things.   Occasionally  there  Is  a  man
+express  the  meaning  of  the  word  wakay  the  following  statement  was  made  to  the  writer  by  several  old  Indians, after  consultation:  "  An  ordinary  man  has  natural  ways  of  doing  things.   Occasionally  there  Is  a  man
 who  has  a  gift  for  doing  extraordinary  things,  and  he  is  called  wakap.    Although  this  is  a  supernatural  gift,
 he  can  use  It  only  by  effort  and  study.    A  man  may  be  able  to  do  things  in  a  mysterious  way,  but  none  has
 ever  been  found  who  could  ommiand  the  sun  and  moon  or  change  the  seasons.   The  most  wonderful  things
 which  man  can  do  are  different  ft'om  the  works  of  nature.   When  the  seasons  changed  we  regarded  it  as  a
-gift  from  the  sun,  which  Is  the  strangest  of  all  mysterious  wdkav  powers."  ^See  p.  96.)    In  another  con-
-sideration of  the  subject  it  was  said:  "We  use  the  words  taku  tpaka'p  for  anything  which  we  can  see  for
+gift  from  the  sun,  which  Is  the  strangest  of  all  mysterious  wdkav  powers."  ^See  p.  96.)    In  another  consideration of  the  subject  it  was  said:  "We  use  the  words  taku  tpaka'p  for  anything  which  we  can  see  for
 ourselves  has  mysterious  power.    Thus  a  pipe  is  taku  (something)  wdkap,  tot  with  it  supplications  mayt
 be  made  and  good  obtained.   We  can  not  see  the  thunder,  and  we  say  it  is  wdkap,  but  we  see  the  lightning
 and  we  know  that  the  thunder  and  lighting  are  a  sign  of  rain,  which  does  good'  to  the  earth.   Anything
-which  has  similar  power  is  wakap,  but  above  all  is  the  sun,  which  has  most  power  of  all."    Other  conversa-
-tions, similar  to  the  preceding,  expressed  the  convIctioD  in  the  minds  of  the  Sioux  that  their  people  had
+which  has  similar  power  is  wakap,  but  above  all  is  the  sun,  which  has  most  power  of  all."    Other  conversations, similar  to  the  preceding,  expressed  the  convIctioD  in  the  minds  of  the  Sioux  that  their  people  had
 always  believed  in  a  mysterious  power  whose  greatest  manifestation  is  the  sun,  and  that  WakaQ'taQka  was
 the  designatlan  of  that  power.   The  belief  in  lesser  "deities"  will  not  be  considered  at  this  time.
 
 The  following  citations  indicate  the  manner  in  which  Wakaq'tagka  is  regarded  by  the  Sioux:  Should  be
 reverenced  (p.  88);  "I  conquered  by  the  help  of  WakaQ'taqka"  (p.  96);  "  Wakag'taqka,  pity  me"  (p.  135);
-is  to  be  petitioned  reverently  (p.  184);  provides  food  (p.  185);  is  maker  of  all  (p.  208);  WakaQ'taqka  repre-
-sented by  sacred  stones  (p.  214);  medicinal  herbs  are  a  gift  from  WakaQ'taqka  (p.  268);  is  all  powerful  (p.
+is  to  be  petitioned  reverently  (p.  184);  provides  food  (p.  185);  is  maker  of  all  (p.  208);  WakaQ'taqka  represented by  sacred  stones  (p.  214);  medicinal  herbs  are  a  gift  from  WakaQ'taqka  (p.  268);  is  all  powerful  (p.
 S7) ;  is  a  help  in  sickness  (p.  275);  gives  success  (p.  341).  See  also  prayers  to  Wakag'taQka,  p.  95,  footnote.
 The  following  authorities  on  this  subject  may  be  consulted,  some  holding  opinions  differing  from  the
 above  statement:  Rev.  G.  H«  Pond,  writing  in  1866,  said:  "Evidence  is  also  wanthig  to  show  that  the
 Dakotas  embraced  in  their  religious  tenets  the  idea  of  one  Supreme  Existence,  whose  existence  is  expressed
-by  the  term  '  Great  Spirit.'"  ( ColU.  Minn,  Hi»t.  Soc.,  vol.  2,  pt.  3,  p.  33, 1867.)  Rev.  8.  R.  Rlggs  men-
-tions nine  "  Dakota  gods,"  saying,  "this  enumeration  of  the  Dakota  gttds  is  not  intended  to  be  exhaustive."
+by  the  term  '  Great  Spirit.'"  ( ColU.  Minn,  Hi»t.  Soc.,  vol.  2,  pt.  3,  p.  33, 1867.)  Rev.  8.  R.  Rlggs  mentions nine  "  Dakota  gods,"  saying,  "this  enumeration  of  the  Dakota  gttds  is  not  intended  to  be  exhaustive."
 (See  Rlggs,  Stephen  Return,  Tah-koo  Wah-kan',  pp.  61-75,  Boston  [I860];  also,  by  the  same  author.  The
 Theogony  of  The  Sioux,  in  Amer.  Antiq.  for  April-June,  n,  No.  4,  pp.  265-70, 1880,  in  which  the  elements
 of  earth,  air,  and  water  have  each  a  special  deity.
@@ -16438,8 +7381,7 @@ to  endure  physical  pain.  He  did  this  in  fulfillment  of  a  yow  made  i
 time  of  anxiety,  usually  when  on  the  warpath.  Strange  as  it  may  seem,
 the  element  of  pain,  which  ennobled  the  ceremony  in  the  mind  of  the
 Indian,  was  a  cause  of  its  misunderstanding  by  the  white  man.  The
-voluntary  suffering  impressed  the  beholder,  while  its  deep  signifi-
-cance was  not  evident.  It  is  probable  that  no  Indian  ceremony  has
+voluntary  suffering  impressed  the  beholder,  while  its  deep  significance was  not  evident.  It  is  probable  that  no  Indian  ceremony  has
 been  misinterpreted  so  widely  and  so  persistently  as  the  Sun  dance.
 V.  T.  McGUlicuddy,  agent  at  Pine  Ridge,  S.  Dak.,  wrote  in  his
 report  for  1882:  ''The  heathenish  annual  ceremony  termed  'the
@@ -16459,8 +7401,7 @@ sacrifices  to  the  Bun|  and  oiu*  petitions  were  granted.  The  Indians  l
 the  old  days  than  now:  I  would  not  say  this  change  is  due  to  throwing  away  the  old
 religion;  there  may  be  other  reasons,  but  in  the  old  times  the  Sun  dance  was  held
 annually  and  was  looked  forward  to  with  eagerness.  I  believe  we  had  true  faith  at
-that  time.  But  there  came  a  year  when  * '  the  sun  died. "  There  was  a  period  of  dark-
-ness,' and  from  that  day  a  new  religion  came  to  the  Indians.  It  is  the  white  man 's
+that  time.  But  there  came  a  year  when  * '  the  sun  died. "  There  was  a  period  of  darkness,' and  from  that  day  a  new  religion  came  to  the  Indians.  It  is  the  white  man 's
 leligion.  We  are  timid  about  it,  as  wc  are  about  the  other  ways  of  the  white  man.
 In  the  old  days  our  faith  was  strong  and  our  lives  were  cared  for;  now  our/at^  is
 weaker,  and  we  die.
@@ -16529,8 +7470,7 @@ have  been  prominent  in  the  history  of  the  tribe  and  its  negotiations
 with  the  Government.  With  one  exception — a  noted  warrior  who
 took  part  in  the  battle  known  as  the  Custer  massacre — they  were
 friendly  to  the  white  men  during  the  troublous  days  on  the  frontier.
-Six  of  the  men  have  steadily  refused  to  be  influenced  by  the  mission-
-aries and  still  retain  the  native  religious  bolicfs.
+Six  of  the  men  have  steadily  refused  to  be  influenced  by  the  missionaries and  still  retain  the  native  religious  bolicfs.
 
 Among  the  Cheyenne:
 
@@ -16583,8 +7523,7 @@ See  also  articles  Sun  danct  and  C^emong  by  Geozge  A.  Dorsey  in  Handb
 88  BUREAU  OF   AMERICAN  ETHNOLOGY  [bcll.«i
 
 (1)  Itui)'ka8ai)-lu'ta  (Red  Weasel),  a  member  of  the  Teton
-division  of  the  tribe.  Concerning  the  Sun  dance  Red  Weasel  is  con-
-sidered the  highest  authority  among  the  Teton  Sioux.  He  acted  as
+division  of  the  tribe.  Concerning  the  Sun  dance  Red  Weasel  is  considered the  highest  authority  among  the  Teton  Sioux.  He  acted  as
 Intercessor  four  times,  the  last  occasion  being  the  Sun  dance  of  1881;
 the  final  ceremony  held  by  the  Teton  in  Dakota.  He  also  took  part
 in  the  dance  four  times,  once  by  being  suspended  from  the  pole  and
@@ -16654,8 +7593,7 @@ bore  the  name  Waha^cai)ka-ya'pi  (Used-as-a-Shield) ;  he  was  noted
 as  a  warrior  against  other  tribes,  but  was  always  friendly  to  the  white
 men.  John  Grass  is  a  Teton  and  was  a  successful  leader  of  war
 parties  against  the  Mandan,  Arikaree,  and  Crow  Indians.  When  the
-Black  Hills  treaty  and  other  treaties  were  made  with  the  Govern-
-ment he  was  the  principal  speaker  for  the  Sioux  tribe.  Since  that
+Black  Hills  treaty  and  other  treaties  were  made  with  the  Government he  was  the  principal  speaker  for  the  Sioux  tribe.  Since  that
 time  he  has  constantly  influenced  his  peof^le  to  adopt  the  customs  of
 civilization.  He  has  been  to  Washington  as  a  tribal  delegate  and  for
 30  years  has  been  the  leading  judge  of  the  Court  of  Indian  Offenses  on
@@ -16664,15 +7602,13 @@ choose  the  Sun-dance  pole,  but  never  made  a  Sim-dance  vow.
 
 (5)  Ituq'kasaq-mato^ (Weasel  Beab)  is  a  Teton  Sioux.  He
 was  once  selected  to  choose  the  Sim-dance  pole  but  never  fulfilled  a
-vow  at  a  Sun  dance.  He  once  made  a  similar  vow,  which,  how-
-ever, was  fulfilled  privately.  When  on  the  warpath  against  the
+vow  at  a  Sun  dance.  He  once  made  a  similar  vow,  which,  however, was  fulfilled  privately.  When  on  the  warpath  against  the
 Crows  he  vowed  that  if  he  were  successful  he  would  give  part  of  his
 flesh  to  Wakai)'tai)ka,  but  did  not  say  ihhib  he  would  do  so  at  the
 Sim  dance.  The  war  party  was  successful,  and  on  the  way  home  his
 arms  were  cut  with  100  gashes  in  fulfillment  of  the  vow,  the  cutting
 being  done  by  a  man  who  had  taken  part  in  the  Sun  dance.  Weasel
-Bear  is  hereditary  chief  of  a  large  band  and  belongs  to  one  of  its  wealth-
-iest families.  As  a  yoimg  man  he  w^  successful  in  war,  a  prominent
+Bear  is  hereditary  chief  of  a  large  band  and  belongs  to  one  of  its  wealthiest families.  As  a  yoimg  man  he  w^  successful  in  war,  a  prominent
 member  of  the  White  Horse  Riders,  and  a  leader  in  the  grass,  dance.
 When  negotiations  with  the  Government  were  begun  he  was  one  of
 
@@ -16680,13 +7616,11 @@ When  negotiations  with  the  Government  were  begun  he  was  one  of
 son,"  by  Red  Bird  (p.  149);  of  the  tbundorblrds,  by  Lone  Man  (pp.  159-161);  of  the  thunderblrds,  and  of
 wolves,  by  Charging  Thunder  (pp.  170-181);  of  the  buflalo,  elk,  wolf,  and  sacred  stones,  by  Brave  Buflalo '
 (pp.  173-179,207-208);  of  the  crow  and  owl,  by  diyalca  (pp.  184-188);  of  the  wolf,  by  Two  Shields  and  by
-Weasel  Bear  (pp.  188-190) ;  of  a  rainbow  (p.  214);  a-  strange  vision  bi  the  sky,  in  which  a  sacred  stone  ap-
-peared, by  Qoose  (p.  251);  a  dream  of  a  badger  by  Eagle  Shield  (p.  266.)
+Weasel  Bear  (pp.  188-190) ;  of  a  rainbow  (p.  214);  a-  strange  vision  bi  the  sky,  in  which  a  sacred  stone  appeared, by  Qoose  (p.  251);  a  dream  of  a  badger  by  Eagle  Shield  (p.  266.)
 
 s  This  is  the  generic  term  for  small  birds  but  is  commonly  translated  simply  "bird."
 
->  Red  Bird  died  a  few  weeks  after  the  study  of  the  Sun  dance  was  cpmpleted.  On  retumJng  to  the  reser-
-vation the  writer  asked  whether  the  death  of  Red  Bird  was  attributed  to  the  information  given  conoeming
+>  Red  Bird  died  a  few  weeks  after  the  study  of  the  Sun  dance  was  cpmpleted.  On  retumJng  to  the  reservation the  writer  asked  whether  the  death  of  Red  Bird  was  attributed  to  the  information  given  conoeming
 the  Sun  donse  and  was  assured  it  was  not.  Indeed  Red  Bird  said  during  his  last  illness  that  he  was  greatly
 oomforted  by  the  thought  that  he  had  helped  to  prteerve  the  aongi  and  baUetsof  his  peoplo.
 
@@ -16702,8 +7636,7 @@ member  of  the  tribe.  He  took  part  in  the  Sun  dance  four  times,  at
 the  ages  of  21,23,  24,  and  25.  On  each  occasion  he  had  vowed  that
 100*cuts  should  be  made  on  his  arms,  but  the  last  time  there  was  not
 room  for  all  the  cuts  on  his  arms,  so  about  20  were  made  on  his  chest.
-He  is  a  man  of  genial  countenance  and  powerful  physique.  In  speak-
-ing of  himself  he  said,  '*My  prayer  has  been  heard  and  I  have  lived
+He  is  a  man  of  genial  countenance  and  powerful  physique.  In  speaking of  himself  he  said,  '*My  prayer  has  been  heard  and  I  have  lived
 long.'*
 
 (7)  Maqa'  (Goose),  plate  31,  was  a  member  of  the  Teton  division,
@@ -16715,8 +7648,7 @@ served  for  a  time  in  the  United  States  Army.  The  records  of  the
 War  Department  show  that  he  enlisted  September  11,  1876,  in
 Buffak)  County,  Dakota  Territory,  as  a  scout,  U.  S.  A.,  and  served
 almost  continuously  in  that  capacity  until  July  10,  1882.  He  again
-enlisted  June  11,  1891,  at  Fort  Yates,  North  Dakota,  and  was  honor-
-ably discharged  April  30,  1893,  a  private  of  Company  I,  22d  United
+enlisted  June  11,  1891,  at  Fort  Yates,  North  Dakota,  and  was  honorably discharged  April  30,  1893,  a  private  of  Company  I,  22d  United
 States  Infantry.  He  was  a  corporal  from  October  16,  1891,  to
 October  18,  1892.    Goose  died  in  September,  1915.
 
@@ -16733,8 +7665,7 @@ a  party  of  26  warriors  on  an  expedition  against  the  Mandan  and
 Arikaree.  About  20  of  the  warriors,  including  himself,  vowed  to
 take  part  in  the  next  Sun  dance  by  dancing,  and  the  other  members
 of  the  party  vowed  to  participate  in  other  ways.  One  battle  was
-fought,  and  all  the  party  returned  home  alive.  His  second  participa-
-tion in  the  Sun  dance  was  at  the  age  of  25,  and  he  bore  throe  long
+fought,  and  all  the  party  returned  home  alive.  His  second  participation in  the  Sun  dance  was  at  the  age  of  25,  and  he  bore  throe  long
 scars  on  each  arm  as  an  evidence  of  the  ordeal.  He  was  once  a  tribal
 delegate  to  Washington.     Siya'ka  died  in  March,  1913.
 
@@ -16754,8 +7685,7 @@ E-BUFFALO-WALKINQ
 
 uB.xBMon]  TETON  SIOUX  MUSIC  91
 
-eral  buffslo  skulls  fastened  to  his  back.  As  evidence  of  his  other  Sun-
-dance TOWS  he  bears  nine  long  soars  on  each  arm,  three  near  the  wrist,
+eral  buffslo  skulls  fastened  to  his  back.  As  evidence  of  his  other  Sundance TOWS  he  bears  nine  long  soars  on  each  arm,  three  near  the  wrist,
 four  near  the  elbow,  and  two  on  the  upper  arm.
 
 (10)  HoGAif'-LU^TA  (Red  Fish),  plate  74,  a  Santee-Yanktonai,  is
@@ -16765,8 +7695,7 @@ second  time  at  the  age  of  40.     (See  song  No.  192.)
 
 (11)  I6na'la-wi6a'  (Lone  Man),  plate  23,  a  Teton,  took  part  in
 the  Sun  dance  when  20  and  when  31  years  of  age,  and  has  100  scars  on
-each  arm.  He  was  chosen  on  one  occasion  to  help  select  the  Sun-
-dance pole  and  on  another  occasion  to  sing  at  the  drum.  He  was
+each  arm.  He  was  chosen  on  one  occasion  to  help  select  the  Sundance pole  and  on  another  occasion  to  sing  at  the  drum.  He  was
 prominent  in  tribal  wars  and  took  part  in  the  Custer  massacre.
 
 (12)  Ma'zakaij'-wi6a'ki  (Seizes-the-Gun-away-from-Them),  a
@@ -16782,8 +7711,7 @@ removed,  after  which  a  tiny  portion  of  flesh  was  offered  as  in  the
 case  of  that  cut  from  the  arms.
 
 (13)  Tataij^ka-hokSi'tji  (Buffalo  Bot),  plate  9,  is  a  Santee-
-Yanktonai.  At  the  age  of  30  he  carried  six  buffalo  skulls  when  ful-
-filling a  Sun-dance  vow.  Ten  years  later  he  took  part  in  the  dance
+Yanktonai.  At  the  age  of  30  he  carried  six  buffalo  skulls  when  fulfilling a  Sun-dance  vow.  Ten  years  later  he  took  part  in  the  dance
 again.  He  received  hia  name  from  a  dream  in  which  he  saw  the
 buffalo.
 
@@ -16796,13 +7724,11 @@ when  20  years  of  age  and  has  100  scars  on  each  arm.
 Teton  and  took  part  in  the  final  Sun  dance  in  1882.
 
 
-The  above-mentioned  men  were  the  principal  informants  concern-
-ing the  Sim  dance,  the  work  being  done  in  a  series  of  conferences.
+The  above-mentioned  men  were  the  principal  informants  concerning the  Sim  dance,  the  work  being  done  in  a  series  of  conferences.
 As  already  stated,  about  40  additional  men  were  interviewed.  All
 were  members  of  the  Teton,  Santee,  and  Yanktonai  divisions  of
 the  tribe.  The  purpose  of  the  interviews  was  to  ascertain  the  facts
-concerning  the  ceremony  which  were  remembered  by  those  who  at-
-tended as  spectators,  and  also  to  ascertain  the  manner  in  which  the
+concerning  the  ceremony  which  were  remembered  by  those  who  attended as  spectators,  and  also  to  ascertain  the  manner  in  which  the
 men  who  took  part  in  the  conferences  were  regarded  by  members
 of  the  tribe.    Thus  the  importance  given  the  opinions  expressed  by
 
@@ -16810,17 +7736,14 @@ of  the  tribe.    Thus  the  importance  given  the  opinions  expressed  by
 92  BXJBEATJ  OP  AMERICAN  ETHNOLOGY  [bull.6i
 
 these  men  was  influenced  somewhat  by  the  authority  accorded  them
-by  these  scattered  members  of  the  tribe.  The  facts  brought  out  dur-
-ing these  interviews  did  not  conflict  with  statements  made  in  the  con-
+by  these  scattered  members  of  the  tribe.  The  facts  brought  out  during these  interviews  did  not  conflict  with  statements  made  in  the  con-
 ferences, but  served  to  corroborate  them  and  to  add  minor  details.
 
-Not  aU  the  men  in  the  foregoing  list  were  present  at  every  confer-
-ence. Thus  on  the  first  occasion  it  was  possible  for  only  9  to  attendt
+Not  aU  the  men  in  the  foregoing  list  were  present  at  every  conference. Thus  on  the  first  occasion  it  was  possible  for  only  9  to  attendt
 It  was  considered  desirable  that  at  least  12  persons  be  present,  and
 as  no  other  elderly  man  was  acceptable  to  the  council,  an  invitation
 was  extended  to  Thomas  Frosted,  a  full-blood  Santee-Yanktonai,
-who  witnessed  several  Sim  dances  when  too  young  to  make  a  Sun-
-dance vow,  and  who  has  given  much  consideration  to  its  history  and
+who  witnessed  several  Sim  dances  when  too  young  to  make  a  Sundance vow,  and  who  has  given  much  consideration  to  its  history  and
 beliefs.  Robert  P.  Higheaglc,  the  interpreter,  also  witnessed  a  Sun
 dance  when  a  child.  These  men,  with  the  writer,  completed  the
 desired  number  and  no  other  persons  were  allowed  in  the  room.  Two
@@ -16830,8 +7753,7 @@ longer  to  record  songs.
 Concerning  these  conferences  I^qa'la-wida'  (Lone  Man)  said  to  the
 writer:
 
-When  we  heard  that  you  had  come  for  the  facta  concerning  the  Sun  dance  we  con-
-sulted together  in  our  homes.  Some  hesitated.  We  have  discarded  the  old  ways,  yet
+When  we  heard  that  you  had  come  for  the  facta  concerning  the  Sun  dance  we  consulted together  in  our  homes.  Some  hesitated.  We  have  discarded  the  old  ways,  yet
 to  talk  of  them  is  '' sacred  talk"  to  us.  If  we  were  to  talk  of  the  Sun  dance  there
 should  be  at  least  12  persons  present,  so  that  no  disrespect  would  be  shown,  and  no
 young  people  should  be  allowed  to  come  from  curiosity.  When  we  decided  to  come
@@ -16841,8 +7763,7 @@ presence  of  anyone  chosen  to  attend,  and  see,  during  all  this  week  t
 thunder  has  not  been  heard,  the  sky  has  been  fair  by  dliy  and  the  moon  has  shone
 brightly  by  night,  so  we  know  that  Wakag^taijka  heard  our  prayer.
 
-Seated  in  a  circle,  according  to  the  old  custom,  the  Indians  lis-
-tened to  the  statements  concerning  the  Sun  dance  as  they  had  already
+Seated  in  a  circle,  according  to  the  old  custom,  the  Indians  listened to  the  statements  concerning  the  Sun  dance  as  they  had  already
 been  given  to  the  writer.  According  to  an  agreeement  there
 were  no  interruptions  as  the  manuscript  was  translated.  The  man
 at  the  southern  end  of  the  row  held  a  pipe,  which  he  occasionally  lit
@@ -16875,8 +7796,7 @@ Rock  Agency,  where  the  last  Sun  dance  of  these  bands  was  held  in
 A  majority  of  the  Indians  who  went  to  the  site  of  the  Sim  dance
 with  the  writer  were  men  who  took  part  in  the  Sun  dance  of  1882
 and  had  not  visited  the  place  since  that  time.  When  nearing  the
-place  they  scanned  the  horizon,  measuring  the  distance  to  the  Mis-
-souri River  and  the  buttes.  At  last  they  gave  a  signal  for  the  wagons
+place  they  scanned  the  horizon,  measuring  the  distance  to  the  Missouri River  and  the  buttes.  At  last  they  gave  a  signal  for  the  wagons
 to  stop,  and,  springing  to  the  ground,  began  to  search  the  prairie.
 In  a  short  time  they  f oimd  the  exact  spot  where  the  ceremony  was
 held.  The  scars  were  still  on  the  prairie  as  they  were  on  their  own
@@ -16891,8 +7811,7 @@ might  find  a  trace  of  the  location  of  the  pole.  It  should  be  about
 ground  18  inches  in  diameter.
 
 One  said,  '^Here  you  can  see  where  the  shade-hoiise  stood."  This
-shade-house,  or  shelter  of  boughs,  was  built  entirely  aroimd  the  Sun-
-dance circle  except  for  a  wide  entrance  at  the  east.  It  was  possible
+shade-house,  or  shelter  of  boughs,  was  built  entirely  aroimd  the  Sundance circle  except  for  a  wide  entrance  at  the  east.  It  was  possible
 to  trace  part  of  it,  the  outline  being  particularly  clear  on  the  west
 of  the  circle;  to  the  east  the  position  of  the  posts  at  the  entrance
 was  also  recognized.  The  two  sunken  places  (where  the  posts  had
@@ -16935,17 +7854,14 @@ its  children — ^would  the  white  man  understand  them  aright  ?
 
 A  few  weeks  later  the  material  was  again  discussed  point  by  point
 with  men  who  came  40  miles  for  the  purpose.  Chief  among  these
-was  Red  Bird,  who  was  under  instruction  for  the  office  of  Inter-
-cessor when  the  Sim  dance  was  discontinued.  He  was  present  at
-the  first  council,  but  some  facts  had  come  to  his  mind  in  the  mean-
-time, and  he  wished  to  have  them  included  in  the  narrative.  These
+was  Red  Bird,  who  was  under  instruction  for  the  office  of  Intercessor when  the  Sim  dance  was  discontinued.  He  was  present  at
+the  first  council,  but  some  facts  had  come  to  his  mind  in  the  meantime, and  he  wished  to  have  them  included  in  the  narrative.  These
 men  met  four  times  for  the  discussion  of  the  subject,  the  phonograph
 records  being  played  for  them  and  approved,  and  some  ceremonial
 songs  being  added  to  the  series.  A  few  days  later  a  conference  was
 held  with  five  other  men,  most  of  whom  were  present  at  the  council
 of  August  28  and  29.  The  session  lasted  an  entire  day,  the  narrative
-which  had  been  prepared  being  translated  into  Sioux  and  the  phono-
-graph records  played  for  them,  as  for  the  previous  group  of  men.
+which  had  been  prepared  being  translated  into  Sioux  and  the  phonograph records  played  for  them,  as  for  the  previous  group  of  men.
 With  one  exception  all  the  men  present  were  chiefs.
 
 Throughout  this  series  of  conferences  the  principal  points  of  the
@@ -16993,8 +7909,7 @@ speak.  The  tribe  shall  live.  Behold  me  for  I  am  humble.  From  above  
 You  are  always  the  truth,  listen  to  me.  My  friends  and  relatives^  sitting  here,  and  I
 shall  be  at  peace .    May  our  voices  be  heard  at  the  future  goal  you  have  prepared  for  us.
 
-The  foregoing  prayer  was  uttered  in  so  low  a  voice  that  the  phono-
-gram was  read  with  difficulty.  It  is  uncertain  whether  the  aged  man
+The  foregoing  prayer  was  uttered  in  so  low  a  voice  that  the  phonogram was  read  with  difficulty.  It  is  uncertain  whether  the  aged  man
 intended  that  it  shoiild  be  recorded^  but  as  he  had  seated  himself
 before  the  phonograph  preparatory  to  singing,  it  was  possible  to  put
 the  machine  in  motion  without  attracting  his  attention.  He  began
@@ -17005,11 +7920,9 @@ filling  his  ceremonial  office.
 The  final  work  on  this  material  was  done  with  Chased-by-Bears,
 (pi.  13),  a  man  who  had  twice  acted -as  Leader  of  the  Dancers,
 had  '^spoken  the  Sun-dance  vow"  of  a  war  party  (see  p.  97),  and  had
-frequently  infficted  the  tortures  at  the  ceremony.  He  was  a  particu-
-larly thoughtful  man,  remaining  steadfast  in  the  ancient  beMefs  of  his
+frequently  infficted  the  tortures  at  the  ceremony.  He  was  a  particularly thoughtful  man,  remaining  steadfast  in  the  ancient  beMefs  of  his
 people.  Few  details  were  added  to  the  description  of  the  ceremony
-at  this  time,  but  its  teachings  received  special  attention.  Chased-
-by-Bears'  recital  of  his  understanding  of  the  Sun  dance  was  not  given
+at  this  time,  but  its  teachings  received  special  attention.  Chasedby-Bears'  recital  of  his  understanding  of  the  Sun  dance  was  not  given
 consecutively,  though  it  is  herewith  presented  in  connected  form.
 This  material  represents  several  conferences  with  the  writer,  and  also
 talks  between  Mr.  Higheagle  and  Chased-by-Bears  which  took  place
@@ -17038,8 +7951,7 @@ will  fill  hiB  pipe  and  hand  it  to  the  other,  who  will  light  it  and
 earth.  Then  they  will  smoke  together,  and  after  smoking  they  will  be  ready  to  talk  of
 holy  things.  '  "
 
-The  cutting  of  the  bodies  in  fulfillment  of  a  Sun  dance  vow  is  different  from  the  cut-
-ling  of  the  flesh  when  people  are  in  sorrow.  A  man's  body  is  his  own,  and  when  he
+The  cutting  of  the  bodies  in  fulfillment  of  a  Sun  dance  vow  is  different  from  the  cutling  of  the  flesh  when  people  are  in  sorrow.  A  man's  body  is  his  own,  and  when  he
 gives  his  body  or  his  flesh  he  is  giving  the  only  thing  which  really  belongs  to  him.  We
 know  that  all  the  creatures  on  the  earth  were  placed  here  by  Wakag^taijka.  Thus/
 if  a  man  says  he  will  give  a  horse  to  Wakag^tagka,  he  is  only  giving  to  Wakag'^taijka
@@ -17154,16 +8066,13 @@ a  few  weeks  before.  The  purpose  of  this  visit  was  that  Chased-by-
 Bears  might  arrange  the  ceremonial  articles  on  the  "  sacred  place  "
 as  would  be  done  in  a  ceremony.
 
-The  outline  of  the  *' sacred  place  *'  was  made  clear  and  intersect-
-ing white  lines  were  traced  on  the  exposed  earth.     (See  page  122.)
+The  outline  of  the  *' sacred  place  *'  was  made  clear  and  intersecting white  lines  were  traced  on  the  exposed  earth.     (See  page  122.)
 
-A  buffalo  skull  had  been  secured  and  brought  to  the  place.  Chased-
-by-Bears  spread  fresh  sage  beside  the  '' sacred  place"  and  laid  the
+A  buffalo  skull  had  been  secured  and  brought  to  the  place.  Chasedby-Bears  spread  fresh  sage  beside  the  '' sacred  place"  and  laid  the
 buffalo  skull  upon  it.  He  then  made  a  frame  to  support  a  pipe  and
 placed  in  ceremonial  position  a  pipe  which  had  been  decorated  by  the
 woman  who  decorated  the  Sim-dance  pipe  for  the  laist  tribal  ceremony.
-The  group  of  articles  was  then  photographed.  (See  pi.  20.)  Sud-
-denly Chased-by-Bears  threw  himself,  face  downward,  on  the  ground,
+The  group  of  articles  was  then  photographed.  (See  pi.  20.)  Suddenly Chased-by-Bears  threw  himself,  face  downward,  on  the  ground,
 with  his  head  pressed  against  the  top  of  the  buffalo  skull.  This
 was  the  position  permitted  a  Leader  of  the  Dancers  when  resting
 
@@ -17188,12 +8097,10 @@ DA^'CE
 
 The  STm  dance  was  called  by  the
 Sioux  Wi  wai]'yai)g  wa^'pi,  which
-is  literally  translated  "Sun-watch-
-ingdanoe."  It  was  their  only  tribal
+is  literally  translated  "Sun-watchingdanoe."  It  was  their  only  tribal
 gathering  of  a  religious  character
 and  Was  held  every  year  at  the  full
-moon  of  midsummer,  "when  all  na-
-ture and  even  men  were  rejoicing."
+moon  of  midsummer,  "when  all  nature and  even  men  were  rejoicing."
 The  tr«es  were  in  full  leaf  and  the
 June  berries  were  ripe.  Further,  the
 wild  sage  was  fully  grown — a  thing
@@ -17203,8 +8110,7 @@ used  in  the  ceremony.
 The  place  where  the  Sun  dance  waa
 held  changed  from  year  to  year,  but
 was  known  to  all  the  tribe.  Across
-the  prairie  came  the  Uttle  compa-
-nies of  Sioux,  some  traveling  a  long
+the  prairie  came  the  Uttle  companies of  Sioux,  some  traveling  a  long
 distance  to  attend  the  ceremony.
 One  band  after  another  arrived  and
 erected  its  tipis  in  the  accustomed
@@ -17218,8 +8124,7 @@ the  ceremony.
 
 The  Sun  dance  was  iield  in  the  center  of  the  great  circle  of  tents.
 The  opening  of  this  tribal  circle  was  toward  the  East,  and  the  tent  of
-■  the  itaq'fiaq'  (Leader  of  the  Dancers)  was  opposite.    A  short  dis-
-tance in  front  of  hia  tent  was  the  council  tent,  larger  than  the  others
+■  the  itaq'fiaq'  (Leader  of  the  Dancers)  was  opposite.    A  short  distance in  front  of  hia  tent  was  the  council  tent,  larger  than  the  others
 and  without  decoration.    There  the  chiefs  and  leading  men  met  to
 
 
@@ -17232,11 +8137,7 @@ DSVSMOIII]
 TETON   BIOUX  MUSIC
 
 
-99
-
-
-transact  the  business  of  the  tribe,  and  thence  the  various  orders  per-
-taining to  the  ceremony  were  carried  to  the  people  by  the  Crier.
+transact  the  business  of  the  tribe,  and  thence  the  various  orders  pertaining to  the  ceremony  were  carried  to  the  people  by  the  Crier.
 Members  of  the  tribe  did  not  approach,  and  children  and  dogs  were
 kept  away  from  the  vicinity  because  the  buffalo  skull  to  be  used  in  the
 ceremony  of  the  Sun  dance  lay  at  the  west  of  this  tent.  During  the
@@ -17252,8 +8153,7 @@ The  sage  used  in  this  connection  was  identified  as  Artemisia  gnaphalod
 Nutt.
 
 A  month  before  the  Sun  dance  the  vxjJca^'h<it)  (medicine-men;  see
-p.  245)  prayed  for  fair  weather,  singing,  burning  sweet  grass,  and  offer-
-ing their  pipes  to  the  sky,  the  earth,  and  the  cardinal  points.  Before
+p.  245)  prayed  for  fair  weather,  singing,  burning  sweet  grass,  and  offering their  pipes  to  the  sky,  the  earth,  and  the  cardinal  points.  Before
 burning  the  sweet  grass,  a  medicine-man  prepared  a  spot  of  bare
 groimd,  placing  a  few  coals  in  the  middle  of  it.  Then,  taking  a
 bunch  of  sweet  grass,  he  offered  it  to  the  sky,  the  earth,  and  the
@@ -17304,7 +8204,6 @@ ka    o-2ag-2ag-yax)y(i9      taxj-yaz)  bi-na- pa   nuj)-we  Ka  h^
 
 100  BUREAU   OF   AMERICAN  ETHNOLOGY  [bull.«i
 
-WORDS
 
 (First  rendition)
 
@@ -17324,8 +8223,7 @@ hina^pa    nugwe^ brightly  shone  upon
 
 Analysis. — ^Like  all  the  ceremonial  songs  of  the  Sun  dance,  this  song
 was  sung  with  much  flexibility  of  both  time  and  intonation^  and
-therefore  can  not  be  fully  represented  by  notation.  In  the  opin-
-ion, of  the  writer  it  is  not  necessary,  however,  that  variations  of  less
+therefore  can  not  be  fully  represented  by  notation.  In  the  opinion, of  the  writer  it  is  not  necessary,  however,  that  variations  of  less
 than  a  semitone  be  represented  to  the  eye,  since  in  this  instance  they
 differ  in  the  several  renditions,  while  the  larger  features  of  the  song  do
 not  show  a  corresponding  difference.  The  same  words  are  always
@@ -17340,10 +8238,8 @@ other  times  was  very  faulty,  the  same  being  true  of  F,  the  second  o
 key.  It  was  noted  among  the  Chippewa  songs  that  the  octave  and
 fifth  were  sung  with  more  accuracy  of  intonation  than  other  intervals.
 (Bulletin  45,  p.  5.)  C  flat  in  the  seventh  measure  of  the  present  song
-was  always  sung  too  high,  and  might  have  been  considered  an  acci-
-dental except  that  the  intonation  is  faulty*  in  the  entire  measure  in
-which  it  occurs,  some  of  the  progressions  in  this  measure  being  glis-
-sando.  Thus  the  character  of  the  song  and  in  many  instances  that
+was  always  sung  too  high,  and  might  have  been  considered  an  accidental except  that  the  intonation  is  faulty*  in  the  entire  measure  in
+which  it  occurs,  some  of  the  progressions  in  this  measure  being  glissando.  Thus  the  character  of  the  song  and  in  many  instances  that
 of  the  singer  as  well  must  be  taken  into  consideration  in  judging  the
 importance  of  points  which  appear  in  the  song.
 
@@ -17351,15 +8247,13 @@ About  three-fourths  of  the  intervals  are  downward  progressions,
 and  the  song  is  melodic  in  structure.  It  has  a  range  of  eleven  tones
 and  comprises  all  the  tones  of  the  octave  except  the  fourth.
 
-The  danger  from  enemies  was  not  forgotten  in  the  season  of  rejoic-
-ing. The  horses  were  herded  near  the  camp,  and  yoimg  men  guarded
+The  danger  from  enemies  was  not  forgotten  in  the  season  of  rejoicing. The  horses  were  herded  near  the  camp,  and  yoimg  men  guarded
 them  during  the  day,  bringing  them  nearer  the  tents  and  picketing
 them  at  night.
 
 There  were  many  greetings  among  the  people.  Events  of  the  year
 were  reviewed,  and  tales  of  war  were  told  again  and  again.  War
-was  an  absorbing  interest,  and  the  Sun  dance  would  see  the  fulfill-
-ment of  many  a  warrior's  vow.
+was  an  absorbing  interest,  and  the  Sun  dance  would  see  the  fulfillment of  many  a  warrior's  vow.
 
 
 •-•  •  ••••  ••
@@ -17375,8 +8269,7 @@ was  usually  made  at  simrise  and  spoken  by  a  warrior  who  had  fulfiUed
 a  similar  vow.  (See  p.  97.)  If  there  were  time  to  secure  a  proper
 offering,  each  man  held  this  in  his  left  hand,  raising  his  right  hand  as
 the  vow  was  spoken.  It  was  a  rite,  which  could  be  varied  by  the
-individual.  Thus  it  was  said  that  some  made  the  vow  more  impres-
-sive by  bowing  the  head  or  lowering  the  right  hand  slowly  toward  the
+individual.  Thus  it  was  said  that  some  made  the  vow  more  impressive by  bowing  the  head  or  lowering  the  right  hand  slowly  toward  the
 earth.  A  man's  spoken  vow  was  only  that  he  would  take  part  in
 the  dance,  but  deep  in  his  heart  was  hidden  a  private  vow  concerning
 the  part  which  he  woidd  take.*  Some  had  left  little  children  at  home,
@@ -17404,22 +8297,15 @@ four  days  next  preceding  the  Sun  dance  these  societies  met  together
 for  the  purpose  of  electing  the  Kwwa'  Kiya'pi  (Intercessor),  the
 Itay'day  (Leader  of  the  Dancers),  the  four  young  men  who  were  to
 select  the  tree  for  the  sacred  pole,  and  the  four  young  women  who
-were  to  cut  it  down.  The  chiefs  wore  also  in  the  council  tent  when-
-ever business  was  transacted.  It  was  generally  known  in  advance
+were  to  cut  it  down.  The  chiefs  wore  also  in  the  council  tent  whenever business  was  transacted.  It  was  generally  known  in  advance
 who  would  be  chosen  Intercessor  and  Leader  of  the  Dancers.  The
-former  office  required  long  and  special  preparation  and  was  re-
-peatedly filled  by  the  same  man.  His  duties  included  the  offering
-of  prayers  on  behalf  of  the  people,  the  singing  of  songs  as  he  per-
-formed certain  ceremonial  acts,  the  painting  of  the  caf^  vxikarf'
+former  office  required  long  and  special  preparation  and  was  repeatedly filled  by  the  same  man.  His  duties  included  the  offering
+of  prayers  on  behalf  of  the  people,  the  singing  of  songs  as  he  performed certain  ceremonial  acts,  the  painting  of  the  caf^  vxikarf'
 (sacred  pole)  and  the  preparation  of  the  oway'lca  wakay'  (sacred
 place).  The  ceremonial  songs  must  either  be  composed  by  the  man
 who  sang  them,  or  purchased  from  some  one  who  had  previously
 
 1  Among  other  irvstances  see  Red  Fox  (p.  376)  and  Jaw  (p.  390).
-4840**— Bull.  61—18 9
-
-
-102
 
 
 [Bnui.«i
@@ -17435,15 +8321,12 @@ an  unworthy  man  to  the  office  of  Intercessor.  In  his  prayers  and
 offerings  he  represented  the  people,  and  if  he  were  not  a  good  man
 Wakai)'t{mka  might  not  answer  his  petitions  and  grant  fair  weather;
 he  even  might  send  disaster  upon  the  tribe.  *'  Chased-by-Bears  said
-that  no  man  who  had  committed  a  great  wrong  could  act  as  Inter-
-cessor, no  matter  how  fully  he  had  repented.  The  record  of  an
+that  no  man  who  had  committed  a  great  wrong  could  act  as  Intercessor, no  matter  how  fully  he  had  repented.  The  record  of  an
 Intercessor  must  be  absolutely  without  blemish.
 
-The  Leader  of  the  Dancers  was  usually  the  warrior  who  first  re-
-turned successful  from  the  warpath,' stating  that  he  had  made  a  Sun-
+The  Leader  of  the  Dancers  was  usually  the  warrior  who  first  returned successful  from  the  warpath,' stating  that  he  had  made  a  Sun-
 dance vow  and  that  he  wished  to  act  as  Leader  of  the  Dancers  at
-the  next  ceremony.  As  with  the  office  of  Intercessor,  the  quali-
-fications were  so  well  known  that  a  man  who  lacked  them  would  not
+the  next  ceremony.  As  with  the  office  of  Intercessor,  the  qualifications were  so  well  known  that  a  man  who  lacked  them  would  not
 presume  to  seek  the  position.  He  must  have  a  reputation  above
 reproach  and  be  able  to  fill  the  office  with  credit  to  himself  and  the
 tribe;  he  must  furnish  the  various  offerings  placed  upon  the  sacred
@@ -17456,8 +8339,7 @@ The  Sim-dance  pipe  (pi.  14),  furnished  by  the  Leader  of  the
 Dancers,  was  decorated  at  his  request  by  one  of  the  most  skillful
 women  of  the  tribe.  It  was  considered  a  great  honor  to  decorate  this
 pipe,  which  was  prepared  some  time  before  the  ceremony.  There
-was  no  prescribed  pattern,  but  the  decoration  consisted  of  porcu-
-pine-quill work  and  did  not  cover  the  entire  stem.  The  men  who  ful-
+was  no  prescribed  pattern,  but  the  decoration  consisted  of  porcupine-quill work  and  did  not  cover  the  entire  stem.  The  men  who  ful-
 filled their  vows  also  made  certain  offerings,  which  they  prepared
 before  the  ceremony;  these  varied  in  value  according  to  the  wealth
 of  the  man.  Thus  a  man  of  large  means  might  give  a  pipe,  a
@@ -17490,18 +8372,15 @@ Bird  asked  for  the  return  of  the  pipe,  but  was  met  with  the  same
 reluctance  as  before.  Finally  he  was  obliged  to  pry  his  friend's
 hands  from  the  pipe  as  he  had  forced  them  open  when  the  pipe  was
 offered.  This  was  said  to  constitute  an  agreement  that  one  man
-would  paint  the  body  of  the  other,  and  in  it  the  ''artistic  tempera-
-ment'' was  typified  in  an  unmistakable  manner.
+would  paint  the  body  of  the  other,  and  in  it  the  ''artistic  temperament'' was  typified  in  an  unmistakable  manner.
 
 For  four  nights  just  before  the  Sun  dance  there  were  rehearsals
-of  those  who  were  to  drum,  sing,  or  dance,  each  person  being  care-
-fully instructed  in  his  part  of  the  ceremony.
+of  those  who  were  to  drum,  sing,  or  dance,  each  person  being  carefully instructed  in  his  part  of  the  ceremony.
 
 Annoimcements  were  made  by  the  Crier,  who  was  a  picturesque
 and  important  figure  in  every  tribal  gathering.  An  old  man  was
 preferred,  as  it  was  said  that  ''the  old  men  were  more  careful  than
-the  young  men  in  making  the  affinouncements.  *'  ^  Mounted  on  horse-
-back, handsomely  dressed,  wearing  a  single  eagle  feather  erect  in  his
+the  young  men  in  making  the  affinouncements.  *'  ^  Mounted  on  horseback, handsomely  dressed,  wearing  a  single  eagle  feather  erect  in  his
 hair  and  carrying  an  eagle-wing  fan,  the  Crier  went  the  round  of  the
 camp  circle,  close  to  the  tent  doors,  announcing  the  decisions  of  the
 council,  the  commands  of  the  Intercessor,  or  the  events  of  the  day.
@@ -17512,16 +8391,14 @@ talk  only  when  it  was  necessary  for  thom  to  do  so.
 During  the  days  immediately  preceding  the  Sun  dance  it  was
 customary  for  each  mihtary  society  to  hold  one  or  more  dances  called
 braves'  dances,  which  were  followed  by  feasts.  The  term  "braves'
-dances"  is  a  general  one,  referring  to  the  dances  of  the  various  mili-
-tary societies.  It  was  said  that  a  dance  of  the  Strong  Heart  society
+dances"  is  a  general  one,  referring  to  the  dances  of  the  various  military societies.  It  was  said  that  a  dance  of  the  Strong  Heart  society
 might  be  announced  by  the  Crier  in  tlic  follo>^4ng  words:,
 
 6ai)te'  Tiq^'za  wag!  I^mnahan  waya^tii)  ktelo'.  Hiyi/  pol  (Strong  Heartsl
 You  are  going  to  eat  to  your  hearts '  content.     Come  on!)
 
 In  response  to  this  summons  the  members  of  the  Strong  Heart
-society  would  come  in  finest  array.  This  society  was  composed  of  war-
-riors, and  the  leaders  of  the  tribe  were  usually  among  its  members.
+society  would  come  in  finest  array.  This  society  was  composed  of  warriors, and  the  leaders  of  the  tribe  were  usually  among  its  members.
 (See  p.  329.)  They  paraded  around  the  camp  circle  before  the
 dance,  singing  the  songs  which  thoy  used  on  the  warpath.
 
@@ -17534,12 +8411,6 @@ I
 
 
 DKNBHOIU]
-
-
-TETON   SIOUX  MUSIC
-
-
-105
 
 
 The  following  song  was  commonly  used  at  the  dances  preceding
@@ -17627,26 +8498,15 @@ t
 4>.--
 
 
-1
-
-
 pe    -     lo
 Dnim-rhythm
-
-
-8
 
 
 >   /   '
 
 
-8
-
-
 ^    J    ^    s    s    ^    4
 
-
-WORDS
 
 kola^pila friends
 
@@ -17664,11 +8524,9 @@ waqoQ'^yaQka    ]yeW they  see  iw
 Analysis — ^This  melody  is  particularly  forceful  and  direct.  It  is
 a  song  which  would  inspire  confidence,  and  is  also  rhythmic  for
 dancing.  The  tonic  triad  is  emphasized,  the  song  consisting  only
-of  the  tonic  triad  and  fourth.  In  one  instance  the  fourth  was  ac-
-cented and  has  no  apparent  chord  relation  to  contiguous  accented
+of  the  tonic  triad  and  fourth.  In  one  instance  the  fourth  was  accented and  has  no  apparent  chord  relation  to  contiguous  accented
 tones.  The  song  is  therefore  classified  as  "melodic  with  harmonic
-framework,"  instead  of  "harmonic''  in  structure.  Descending  pro-
-gressions are  used  effectively  in  this  melody,  the  first  rhythmic
+framework,"  instead  of  "harmonic''  in  structure.  Descending  progressions are  used  effectively  in  this  melody,  the  first  rhythmic
 unit  containing  such  progressions  in  double  and  the  second  in  triple
 time.  It  is  interesting  to  note  throughout  these  songs  the  effect
 produced  by  slight  changes  in  rhythm.  For  instance,  in  the  first
@@ -17693,14 +8551,12 @@ Songs  in  which  the  voice  changes  tempo,  the  song  being  recorded
 without  drum— Nos.  55,  58,  88, 137, 140, 145, 153, 156, 166,  170, 171,
 174.  In  this  song  occurs  one  instance  of  the  omission  of  a  syllable,
 the  third  syllable  of  blihei6iya  being  omitted  by  the  singer.  Among
-other  songs  containing  this  peculiarity  are  Nos.  17,  38.  The  omis-
-sion and  addition  of  syllables  was  frequently  noted  in  the  Chippewa
+other  songs  containing  this  peculiarity  are  Nos.  17,  38.  The  omission and  addition  of  syllables  was  frequently  noted  in  the  Chippewa
 songs.  Throughout  the  present  work  all  interpolated  syllables  are
 indicated  by  itahcs.  These  cnanges  in  the  words  of  songs  represent
 an  Indian  custom  and  do  not  in  any  wise  affect  the  meaning.
 
-The  following  song  was  also  used  in  the  braves'  dance;  it  is  esti-
-mated to  be  about  180  years  old,  as  the  singer,  who  was  a  man  past
+The  following  song  was  also  used  in  the  braves'  dance;  it  is  estimated to  be  about  180  years  old,  as  the  singer,  who  was  a  man  past
 middle  life,  stated  that  his  father  said  that  his  grandfather  sang  it.
 The  age  of  a  song  can  usually  be  determined  in  this  manner  with  a
 fair  degree  of  accuracy.
@@ -17709,17 +8565,10 @@ fair  degree  of  accuracy.
 DBNBMOIIl]
 
 
-TETON  SIOUX  MUSIC
-
-
-107
-
-
 No.  6.  Song^  of  the  Brayes*  Danoe       (Catalogue  No.  498)
 
 
 VoioB  J  =80
-Drum  J  =  80
 
 See  drom-rhythm  below
 
@@ -17760,9 +8609,6 @@ war,  for  the  tree  was  regarded  as  something  to  be  conquered.  The
 following  song  might  be  sung  as  the  people  assembled.  This  song
 was  composed  by  the  singer,  a  man  who  is  known  in  the  tribe  as  a
 composer  of  war  songs.
-
-
-108
 
 
 BU&EAU  OF  AMERIOAK  ETHNOLOOT
@@ -17851,19 +8697,14 @@ rhythmic  units  appear,  and  a  comparison  of  them  is  of  interest.
 The  count-divisions  of  the  first  imit  are  reversed  in  the  second.
 The  third  unit  begins  with  two  eighth  notes,  like  the  first,  but
 these  are  followed  by  a  reversal  of  the  count-division  fomid  in  the
-first  unit.  The  ascent  of  a  twelfth,  which  occurs  with  the  introduc-
-tion of  the  words,  was  given  quite  accurately,  but  the  intonation  on  the
-measure  containing  the  words  wady'  urlo'  was  faulty,  approach-
-ing a  glissando  in  the  descent  from  one  tone  to  another.
+first  unit.  The  ascent  of  a  twelfth,  which  occurs  with  the  introduction of  the  words,  was  given  quite  accurately,  but  the  intonation  on  the
+measure  containing  the  words  wady'  urlo'  was  faulty,  approaching a  glissando  in  the  descent  from  one  tone  to  another.
 
 
 DaNSICOBl]
 
 
 raTON  SIOTJX  MUSIC
-
-
-109
 
 
 The  following  song  was  frequently  used  in  this  connection,  and
@@ -17875,7 +8716,6 @@ SuQg  by  Siya'ka
 
 VOJCB  J=:104
 
-Drum  J  =  96
 
 Dram  in  accented  eighth  notes*
 (1)
@@ -17890,16 +8730,11 @@ he-na  ko-
 ^:f  f  'Lfii^f  "r^
 
 
-ki   -  pe     finl    o   -    ma  -wa-ni         e       m      ite-sa-    bye    <Sa   o-wa-
-
-
-le
+ki   -  pe     finl    o   -    ma  -wa-ni         e       m      ite-sa-    bye    <Sa   o-wale
 •Drum-rhytlim
 
 4        #
 
-
-WORDS
 
 kola' friends
 
@@ -17927,18 +8762,11 @@ the  second  unit.  The  first  part  of  the  song  is  based  on  the  rhythmi
 uniti  and  the  latter  part  on  th(^  second  unit.
 
 
-110
-
-
 BUBEAtJ   OF  AMERICAN"  ETHNOLOGY
 
 
-[BULL.  61
-
-
 The  relative  time-duration  of  quarter  notes  in  voice  and  drum,  as
-given  in  the  preceding  song,  are  shown,  by  means  of  linear  measure-
-ments, drawn  to  scale  in  the  accompanying  illustration.^
+given  in  the  preceding  song,  are  shown,  by  means  of  linear  measurements, drawn  to  scale  in  the  accompanying  illustration.^
 
 
 ^
@@ -18013,9 +8841,6 @@ for  the  woods  to  select  the  tree  which  should  form  the  sacred  pole  
 No.  9.  Song  of  the  Departure  of  the  Toung^  Men    (Catalogue  No.  480)
 
 Sung  by  I^one  Man
-VoicB  J  =96
-Drum  J  =104
-Drum-rhythm  similar  to  No.  5
 
 
 ^
@@ -18043,8 +8868,7 @@ as  to  suggest  A  flat  as  a  satisfactory  tonic.  A  test  by  the  ear  se
 permissible  in  such  an  instance  as  this,  and  the  song  is  accordingly
 transcribed  with  A  flat  as  its  tonic  and  G  flat  as  an  accidental.  The
 tonic  triad  constitutes  the  first  seven  measures  of  the  melody,  the
-descending  fourth  from  the  tonic  to  the  dominant  forming  the  out-
-line of  the  remainder  of  the  song,  with  the  flatted  seventh  as  an
+descending  fourth  from  the  tonic  to  the  dominant  forming  the  outline of  the  remainder  of  the  song,  with  the  flatted  seventh  as  an
 accidental.  A  rhythmic  unit  occurs,  forming  part  of  both  double
 and  triple  measures.  It  is  varied  slightly  in  repetition,  the  second
 count  being  in  some  instances  a  quarter  note  and  in  others  two
@@ -18060,8 +8884,7 @@ all  the  articles  of  wood  used  in  the  Sun  dance,  because  the  white
 down  of  the  cottonwood  seed  resembles  the  downy  eagle  feathers
 used  in  the  ceremony.^  If  a  cottonwood  could  not  be  obtained,  elm
 was  selected,  because  the  elm  is  the  first  tree  to  blossom  in  the  spring.
-The  tree  for  the  Sun-dance  pole  must  be  a  standing  tree  and  par-
-ticularly fine  with  respect  to  straightness,  branching,  and  fullness
+The  tree  for  the  Sun-dance  pole  must  be  a  standing  tree  and  particularly fine  with  respect  to  straightness,  branching,  and  fullness
 of  leaf.  It  was  required  that  the  first  tree  selected  should  be  cut,
 no  change  of  choice  being  allowed.  It  is  interesting  to  note  that  all
 articles  devoted  to  a  ceremonial  use  must  be  the  best  obtainable.  A
@@ -18080,11 +8903,7 @@ buffalo.  After  the  singing  and  dancing  a  feast  was  provided  by
 the  friends  of  the  young  men.  There  wa^  abundance  of  food,  and
 all  were  invited  to  partake.
 
-I  Cottonwood  was  ilshI  also  for  the  post  tn  t\w  spirit  locli^.    (See  p.  SI,  also  in  ofTerin^  placed  on  Hiin-
-danoe  pole,  p.  118.
-
-
-112
+I  Cottonwood  was  ilshI  also  for  the  post  tn  t\w  spirit  locli^.    (See  p.  SI,  also  in  ofTerin^  placed  on  Hiindanoe  pole,  p.  118.
 
 
 BUBEAU   OF  AMERICAN  ETHNOLOGY
@@ -18097,8 +8916,6 @@ No*  10.  Song  of  the  Return  of  the  Toung  Men    (Catalogue  No.  481)
 
 Sung  by  LoNB  Man
 VoicaJ=112
-Drum  J  =104
-Drum-rhythm  similar  to  No.  6
 
 wT^  ^ 1
 
@@ -18118,12 +8935,10 @@ and  harmonic  in  structure.
 
 The  announcement  of  a  choice  was  followed  by  preparation  for
 cutting  the  tree  and  bringing  it  to  the  camp.  The  cutting  of  the
-tree  for  the  Sun-dance  pole  was  an  important  part  of  the  cere-
-mony, and  many  went  to  witness  it.  Some  wont  from  curiosity,
+tree  for  the  Sun-dance  pole  was  an  important  part  of  the  ceremony, and  many  went  to  witness  it.  Some  wont  from  curiosity,
 and  others  wished  to  make  offerings  when  the  tree  was  cut.  Even
 the  children  went  to  see  the  cutting  of  the  pole.  The  young  people,
-riding  their  fleet  ponies,  circled  around  the  party.  The  leading  mem-
-bers of  the  company  were  the  Intercessor  (or,  in  his  absence,  one
+riding  their  fleet  ponies,  circled  around  the  party.  The  leading  members of  the  company  were  the  Intercessor  (or,  in  his  absence,  one
 of  the  old  medicine-men),  the  four  young  men  who  selected  the
 tree,  the  four*  young  women  who  v^ere  to  cut  the  tree,  and  the
 pole-bearers,  who  were  to  carry  it  liKthe  camp.  It  was  the  duty
@@ -18139,19 +8954,11 @@ holding  the  stem  toward  the  top  of  the  tree  and  lowering  it  slowly
 to  the  earth,  repeating  a  prayer  in  a  low  tone.  When  he  held  the
 pipe  toward  the  top  of  the  tree,  he  spoke  of  the  kingbird;  lowering
 it  about  one-third  of  the  distance  to  the  ground,  he  spoke  of  the
-eagle;  lowering  it  half  the  remaining  distance,  he  spoke  of  the  j'oUow-
-hammer,  and  holding  it  toward  tlie  ground  he  spoke  of  tlie  spider.
-The  tree  was  regarded  as  an  enemy,  and  in  explanation  of  the  refer-
-ence to  thft*e  animals  it  was  said  that  ''the  kingbird,  though  small,  is
+eagle;  lowering  it  half  the  remaining  distance,  he  spoke  of  the  j'oUowhammer,  and  holding  it  toward  tlie  ground  he  spoke  of  tlie  spider.
+The  tree  was  regarded  as  an  enemy,  and  in  explanation  of  the  reference to  thft*e  animals  it  was  said  that  ''the  kingbird,  though  small,  is
 
 
 DBN8H01UB]
-
-
-TETON  SIOUX  MUSIC
-
-
-113
 
 
 feared  by  all  its  enemies;  the  eagle  is  the  boldest  of  birds;  the
@@ -18183,9 +8990,6 @@ Drum  J__80
 Drum-rhytlim  similar  to  No.  6
 
 :.  n  S ;  I      Ld   1  hJ     I    I  Lj    L,
-
-
-5
 
 
 »54?
@@ -18221,9 +9025,6 @@ WS^^
 o-wa'-  le   £a        he-6a-moi}
 
 
-WORDS
-
-
 ite-'sabye
 
 owa-'le
@@ -18252,8 +9053,7 @@ owa^e  I  seek
 
 6&  he^6imoi)  therefore  I  have  done  thia
 
-Analysis. — This  melody  comprises  the  tones  of  the  fourth  five-
-toned  scale.  In  two  instances  the  sixth  is  lowered  a  semitone.  A
+Analysis. — This  melody  comprises  the  tones  of  the  fourth  fivetoned  scale.  In  two  instances  the  sixth  is  lowered  a  semitone.  A
 dotted  eighth  note  either  preceded  or  followed  by  a  sixteenth  note  is
 a  count  division  which  characterizes  the  song,  though  it  contains  no
 rhythmic  unit.  This  song  begins  on  the  third  above  the  tonic  and
@@ -18294,12 +9094,6 @@ and  was  frequently  sung  as  it  was  carried  to  the  camp:
 
 
 DBN8M0BI]
-
-
-TETON  SIOUX  MUSIC
-
-
-115
 
 
 No.  12.  Song  of  Tlotory  over  the  Sacred  Pole    (Catalogue  No.  486)
@@ -18366,8 +9160,7 @@ few  have  a  compass  of  a  tenth  in  three  measures,  as  occurs  in  this
 song  with  the  introduction  of  the  words.  This  part  of  the  song
 was  stmg  quite  accurately,  but  in  the  measures  containing  the  last  two
 words  and  in  the  corresponding  measures  of  the  first  section  of  the
-song  the  intonation  was  so  unsteady  as  to  make  transcription  diffi-
-cult. It  has  been  frequently  noted  among  the  Sioux,  as  among  the
+song  the  intonation  was  so  unsteady  as  to  make  transcription  difficult. It  has  been  frequently  noted  among  the  Sioux,  as  among  the
 Chippewa,  that  large  intervals  are  sung  with  more  accuracy  than
 small  ones.  The  drumbeat  was  in  half  notes,  representing  a  very
 slow  tempo.  In  the  double  measures  the  drumbeat  coincided  quite
@@ -18401,8 +9194,7 @@ his  own  voice.
 The  Intercessor  then  prepared  the  sacred  pole,  first  removing  the
 rough  outer  bark,  fragments  of  which  were  eagerly  seized  and  carried
 away  by  the  people.  After  the  pole  had  been  made  sufficiently
-smooth,  it  was  painted  by  the  Intercessor;  native  red  paint  or  ver-
-mUion  *  was  used.  The  pole  was  painted  in  perpendicular  stripes,
+smooth,  it  was  painted  by  the  Intercessor;  native  red  paint  or  vermUion  *  was  used.  The  pole  was  painted  in  perpendicular  stripes,
 beginning  at  the  branch  where  the  cross  bar  would  be  fastened  and
 extending  to  the  base.
 
@@ -18420,8 +9212,7 @@ above  it  This  fire  is  maintained  at  a  gentle,  even  heat  for  about  a
 of  the  substance  usually  pr^)ared  at  a  time.  The  action  of  the  heat  changes  the  color  of  the  substance  to
 red.  When  the  ball  is  cold,  it  is  pounded  to  powder.  In  the  old  days  this  red  powder  was  mixed  with  buHalo
 fat  in  making  the  paint,  but  at  thepresent  time  it  is  mixed  with  water.  White,  black,  and  blue  paints  were
-obtained  by  mixing  colcved  earthy  substances  with  buffalo  fat  The  blue  was  found  in  southern  Min-
-nesota (this  required  no  treatment  by  heat),  and  the  white  and  bla^k  in  Dakota.  ( See  p.  173. )  It  Is  said
+obtained  by  mixing  colcved  earthy  substances  with  buffalo  fat  The  blue  was  found  in  southern  Minnesota (this  required  no  treatment  by  heat),  and  the  white  and  bla^k  in  Dakota.  ( See  p.  173. )  It  Is  said
 that  white  paint  was  preferred  for  the  painting  of  horses  (set"  p.  353)  because  it  was  a  "  genuine  color,"
 and  also  because  other  colors  oould  be  applied  to  ad>'antage  above  it.  Brown  earth  is  mentioned  in  song
 No.  62.    The  symbolisms  of  various  colors  used  in  paint  are  noted  on  pp.  77  and  124.
@@ -18430,20 +9221,12 @@ No.  62.    The  symbolisms  of  various  colors  used  in  paint  are  noted  o
 OUTSHOBl]
 
 
-TETON  SIOUX  MUSIC
-
-
-117
-
-
 No.  18.  Song  of  Painting  the  Sacred  Pole    (Catalogue  No.  452)
 
 Sung  by  Siya^ka
 VoicbJ-160
 
 Drum  J  ^  80
-
-Drum-rhythm  similar  to  No.  12
 
 
 i:^4te£^
@@ -18533,8 +9316,6 @@ s
 ta-wa   ma-ki  -ye
 
 
-WORDS
-
 ate'' father
 
 lena^  taVa  maki^ye all  these  he  has  made  me  own
@@ -18546,11 +9327,9 @@ iia^fii) standing
 hiye^ye  dii) in  their  places
 
 Analysis, — ^This  molody  contains  only  the  tones  of  the  minor
-triad  and  fourth.  The  rhythmic  unit  is  long,  its  repetitions  com-
-prising the  entire  song  except  two  periods  of  six  measures  each,
+triad  and  fourth.  The  rhythmic  unit  is  long,  its  repetitions  comprising the  entire  song  except  two  periods  of  six  measures  each,
 which  consist  principally  of  quarter  notes.  The  sustained  tones  were
-always  given  the  indicated  time.  The  words  are  continuous  through-
-out the  song.  Among  the  Chippewa,  as  well  as  among  the  Sioux,  this
+always  given  the  indicated  time.  The  words  are  continuous  throughout the  song.  Among  the  Chippewa,  as  well  as  among  the  Sioux,  this
 occurs  more  often  in  ''medicine  songs*'  than  in  other  classes  of  songs.
 The  final  tone,  though  very  low  in  pitch,  was  sung  with  distinctness.
 
@@ -18571,17 +9350,14 @@ frinice,  Mid  wim«  wrapp<Hl  in  cherry  branches  4  or  5  feet  long  whic
 eoitipIeU^y  concimled  it.  Inside  the  bag  was  a  smaller  bag  of  tanned
 buffalo  hide  containing  the  offering,  which  consisted  of  a  large  piece
 of  btiffah)  hump,  on  a  sharpened  stick  painted  red.  The  stick  was
-Cottonwood  and,  according  to  Mato'-kuwa'  (Chased-by-Bears),  sym-
-bolixod  the  arrow  with  which  the  buffalo  had  been  killed  and  also
+Cottonwood  and,  according  to  Mato'-kuwa'  (Chased-by-Bears),  symbolixod  the  arrow  with  which  the  buffalo  had  been  killed  and  also
 the  pl(^liet  Ntake  to  which  a  horse  stolen  from  an  enemy  was  fastened
 when  it' wiui  being  brought  to  the  camp.  The  additional  offerings
-fastened  to  the  (*nmHbar  were  two  effigies  (see  pi.  21)  cut  from  raw-
-hide, one  \\\  the  form  of  an  Indian  and  the  other  in  the  form  of  a
+fastened  to  the  (*nmHbar  were  two  effigies  (see  pi.  21)  cut  from  rawhide, one  \\\  the  form  of  an  Indian  and  the  other  in  the  form  of  a
 buffalo,  indioatiTig  that  the  enemy  and  also  the  buffalo  had  been
 Oimquertnl  by  iiu|)ernatural  help.  To  the  crossbar  were  fastened
 alno  i\u\  thongH,  or  cortls,  by  which  the  men  would  be  suspended.
-One  coixi  WUM  made  rtmdy  for  each  man,  the  middle  of  it  being  fast-
-entnl  to  the  ort>s8bar  and  the  two  ends  hanging,  to  be  fastened  to
+One  coixi  WUM  made  rtmdy  for  each  man,  the  middle  of  it  being  fastentnl  to  the  ort>s8bar  and  the  two  ends  hanging,  to  be  fastened  to
 the  Htickn  {uisned  thrtnigh  the  flesh  of  the  man's  chest.  At  the  top
 of  the  piJe  w»WH  hui\g  a  tanntnl  rolw  of  buffalo  calfskin.  In  the  later
 oerivn\onit^  a  banner  of  rtnl  hst  cloth  was  usihI  instead  of  the  buffalo
@@ -18610,9 +9386,6 @@ DWrSMOlUl]
 TBTON  SIOUX  MTJSIO
 
 
-119
-
-
 No.  14.  Song  Sung  after  Bmtoing  the  Sacred  Pole  (a)    (Catalogue  No.  628)
 
 Sung  by  Red  Wxasbl
@@ -18638,28 +9411,19 @@ ema'^kiye  6on was  said  to  me
 Analysis. — ^The  conciseness  of  this  melody  is  interesting,  especially
 in  view  of  the  fact  that  it  was  sung  by  an  aged  man,  who  said  he
 learned  it  in  his  youth.  The  rhythmic  units  are  clear-cut,  and  their
-repetitions  comprise  the  entire  song  except  two  short  parts  some-
-what similar  to  each  other.  Both  intonation  and  time  were  remark-
+repetitions  comprise  the  entire  song  except  two  short  parts  somewhat similar  to  each  other.  Both  intonation  and  time  were  remark-
 ably good,  considering  the  age  of  the  singer.  His  voice  was  as  strong
 as  that  of  a  young  man.  This  has  been  noted  by  the  writer  to  be  the
 case  among  old  men  who,  in  their  younger  days,  were  accustomed  to
 address  large  numbers  of  people  on  the  open  prairie.  Red  Weasel,
-who  had  held  responsible  positions  in  tribal  ceremonies,  had  devel-
-oped this  quality  of  voice.  In  this  connection  the  pitch  of  his  songs
+who  had  held  responsible  positions  in  tribal  ceremonies,  had  developed this  quality  of  voice.  In  this  connection  the  pitch  of  his  songs
 should  be  noted.
 
 This  melody  contains  all  the  tones  of  the  octave  except  the
 sevenths  In  structure  it  is  classified  as  melodic  with  harmonic
 framework.  About  two-thirds  of  the  intervals  ara  downward
-progressions,  the  principal  accented  tones  being  those  of  the  descend-
-ing series  A,  F  sharp,  D,  B,  P  sharp.  Only  two  ascending  progres-
+progressions,  the  principal  accented  tones  being  those  of  the  descending series  A,  F  sharp,  D,  B,  P  sharp.  Only  two  ascending  progres-
 sions appear  between  accented  tones.
-
-
-120
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
 
 
 [BULL,  ei
@@ -18722,8 +9486,7 @@ tho  winds  blow  towaid  me  from  every  side)  I  stand."  Bongs  Nos.  16  a
 the  winds  blow,  the  former  containing  the  words  "at  the  places  of  the  four  winds  may  you  be  revereDced,"
 andthe  latter,  "At  the  four  places  .  .  .  the  places  from  which  the  winds  blow  .  .  .  to  stand  I  was  required;"
 also  "  the  homes  of  the  four  winds, "  p .  127.  The  foltowing  instances  may  also  be  cited:  Anexpression  similar
-to  this  occurs  in  song  No.  93 — ta^fte'  matt/ke6aia,  alte  translated  "  with  a  heart  that  is  difTorent ,"  but  carry-
-ing the  idea  of  the  fierceness  of  a  bear.  The  term  yatin'ktf,  literally  translated  "  you  will  eat ,"  is  a  phrase
+to  this  occurs  in  song  No.  93 — ta^fte'  matt/ke6aia,  alte  translated  "  with  a  heart  that  is  difTorent ,"  but  carrying the  idea  of  the  fierceness  of  a  bear.  The  term  yatin'ktf,  literally  translated  "  you  will  eat ,"  is  a  phrase
 used  only  by  mediclne-nfen  when  addressing  the  sick  (song  No.  57).  The  words  "a  sotirlet  relic "  in  song
 No.  1  refer  to  the  custom  of  spirit  keeping  and  would  not  be  understood  by  these  who  were  unfamiliar  with
 that  ceremony.  The  term  "gnimlfatiier  "  is  found  in  No.  21,  which  is  the  oi)eniMp  imiycr  of  the  Sun  dance.
@@ -18735,14 +9498,7 @@ and  a  rainbow,  the  idea  being  that  these  possess  or  wear  the  man  wh
 DKN8MOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-121
-
-
-Analysis. — This  song  contains  two  rhythmic  units,  but  th^  rhyth-
-mic structure  of  the  song  differs  from  that  of  most  songs  under
+Analysis. — This  song  contains  two  rhythmic  units,  but  th^  rhythmic structure  of  the  song  differs  from  that  of  most  songs  under
 analysis  in  that  thesd  two  units  appear  to  have  no  influence  on  each
 other.  The  first  is  in  triple,  the  second  in  double,  time,  and  none
 of  the  count-divisions  are  alike.  The  song  is  melodic  in  structure  and
@@ -18752,7 +9508,6 @@ fourth  from  the  tonic  to  the  dominant  occurs  with  frequency.
 No.  16.  Song  Sung  after  Ealsing  the  Sacred  Pole  (e)    (Catalogue  No.  630)
 
 Sung  by  Red  Weasel
-Voice  J  =76
 
 
 Dbum  not  recorded
@@ -18820,8 +9575,7 @@ worda  " saored''  or  " holy,"  though  these  are  used  as  its  English  equ
 122  BUBEAU   OF  AMERICAN   ETHNOLOGY    ,  [bi:ll.«i
 
 Analysis. — ^Two  intervals  of  a  fourth  form  the  framework  of  this
-melody,  the  first  being  C-F  and  the  second  G-C.  The  tonic  is  espe-
-cially prominent,  as  it  occurs  in  both  these  intervals  and  is  frequently
+melody,  the  first  being  C-F  and  the  second  G-C.  The  tonic  is  especially prominent,  as  it  occurs  in  both  these  intervals  and  is  frequently
 repeated.  The  song  is  minor  in  tonfdity  and  contains  only  the  tones
 of  the  minor  triad  and  fourth.  A  monotony  in  the  melody  is  shown
 by  the  fact  that  it  contains  27  measures  and  only  12  progressions.
@@ -18841,13 +9595,11 @@ pulverized.  This  square  of  earth  was  called  owar^'ka  vxikat)',
 "sacred  place,"  and  no  one  was  allowed  to  pass  between  it  and  the
 pole.^  Two  intersecting  lines  were  traced  within  the  square  of  earth,
 forming  a  cross,  these  Unes  being  parallel  to  the  sides  of  the  square
-but  not  touching  them.'  After  tracing  these  lines  in  the  soil,  the  Inter-
-cessor filled  the  incisions  with  tobacco  which  had  been  offered  to  the
+but  not  touching  them.'  After  tracing  these  lines  in  the  soil,  the  Intercessor filled  the  incisions  with  tobacco  which  had  been  offered  to  the
 sky,  the  earth,  and  the  cardinal  points.  He  then  covered  the  tobacco
 with  vermilion  paint-powder,  over  which  he  spread  shining  white
 "mica dust.'''  At  the  intersection  and  ends  of  the  lines  he  placed
-bunches  of  downy  white  eagle  feathers.  Very  beautiful  was  the  con-
-trast of  green  turf,  soft  brown  earth,  shining  white  lines,  and  downy
+bunches  of  downy  white  eagle  feathers.  Very  beautiful  was  the  contrast of  green  turf,  soft  brown  earth,  shining  white  lines,  and  downy
 eagle  feathers.  West  of  this  was  placed  a  bed  of  fresh  sage,  on  which
 the  buffalo  skull  would  be  laid  during  the  ceremony.     (Pb.  16,  17.)
 
@@ -18860,12 +9612,10 @@ space  .  .  .  has  never  been  absent  from  any  religious  exercise  I  hav
 Indians.   It  represents  the  unappropriated  life  or  power  of  the  earth,  hence  man  may  obtain  it."
 
 sConceraing  this  outline,  which  is  widely  used  by  the  Indians,  Mr.  W.  H.  Holmes  writes  (in  Handbook
-ADier.Ind8.,j>tl,p.366):  "Primitive  man  adjustshlmself  to  his  environment,  real  and  imaginary,  by  keep-
-ing In  mind  the  cardinal  points  as  he  understands  than.  When  the  Indian  considers  the  world  about  him,
+ADier.Ind8.,j>tl,p.366):  "Primitive  man  adjustshlmself  to  his  environment,  real  and  imaginary,  by  keeping In  mind  the  cardinal  points  as  he  understands  than.  When  the  Indian  considers  the  world  about  him,
 he  thinks  of  it  as  divided  Into  four  quarters,  and  when  he  communicates  with  the  mysterious  beings  and
 powers  with  which  his  Imagination  peoples  it— the  rulers  of  the  winds  and  rains— he  turns  his  face  to  the
-four  direotknis  in  stipulated  order  and  addresses  them  to  make  his  appeals  and  his  offerings.  Thus  his  wor-
-ship, his  oeremonies,  his  games,  and  eveA  his  more  ordinary  occupations  in  many  cases  are  arranged  to  con-
+four  direotknis  in  stipulated  order  and  addresses  them  to  make  his  appeals  and  his  offerings.  Thus  his  worship, his  oeremonies,  his  games,  and  eveA  his  more  ordinary  occupations  in  many  cases  are  arranged  to  con-
 form to  the  cardinal  points,  and  the  various  symbolic  representations  associated  with  them  assume  the
 formoftheoroas."
 
@@ -18893,12 +9643,6 @@ e.     BY  JAW
 DaNBlfORB]
 
 
-TETON  SIOUX  MUSIC
-
-
-123
-
-
 No.  17.  Song  of  PrepAring  the  Sacred  Place    (Catalogue  No.  500)
 
 
@@ -18912,18 +9656,13 @@ Dbum  not  recorded
 To-ps^ki  -  ya  ma-ka-  ta  ^  6e-wa-  ki  ye  -  lo     0
 
 
-to-pa-ki  -yama-ka-
-
-
-o-wai)-ka    ka  -  ^ii)  kta       6a     o-ya-
+to-pa-ki  -yama-kao-wai)-ka    ka  -  ^ii)  kta       6a     o-ya-
 
 
 te  wai>-la-ka  pe-lo     e
 
 
 to-pa-ki-  ya  ma-ka-ta  6e-wa-ki  ye  -  lo     e
-
-WORDS
 
 
 U/pakiyamaka^ta  ^e^waki  yelo^. .  four  times  to  the  earth  I  prayed
@@ -18946,8 +9685,7 @@ as  they  include  the  tonic  and  the  tone  immediately  ttbove  and  below
 it.    About  two-thirds  of  the  intervals  are  downward  progressions.
 
 After  the  sacred  pole  was  erected  and  the  "sacred  place''  prepared,
-a  shelter,  or  "shade-house,"  was  built  entirely  around  the  Sun-
-dance circle,  any.  who  wished  to  share  in  this  work  being  permitted
+a  shelter,  or  "shade-house,"  was  built  entirely  around  the  Sundance circle,  any.  who  wished  to  share  in  this  work  being  permitted
 to  do  so.  Posts  about  6  feet  high  were  erected,  and  upon  these
 were  placed  a  light  framework  of  poles.  This  framework  was  covered
 with  buffalo  hides  and  decorated  with  freshly  cut  boughs.  Beneath
@@ -18957,9 +9695,6 @@ attended  the  ceremony  merely  as  spectators.
 On  the  morning  of  the  Sun  dance  those  who  were  to  take  part  in
 the  ceremony  were  allowed  to  eat  a  full  meal,  after  which  they
 entered  the  vapor  lodge  while  the  following  song  was  simg:
-
-
-124
 
 
 BUREAU  OP  AMEBICAN  ETHNTOLOGY
@@ -19000,10 +9735,8 @@ nama^on  ye hear  me
 
 wani^  ktelo' '. I  will  live
 
-Analysis. — ^This  song  contains  20  measures  and  only  15  pro-
-gressions. In  its  lack  of  progression  it  resembles  Nos.  14,  15,  and
-16,  rendered  by  the  same  singer.  (See  analysis  of  No.  16.)  Two-
-thirds  of  the  progressions  are  downward,  the  song  beginning  on  the
+Analysis. — ^This  song  contains  20  measures  and  only  15  progressions. In  its  lack  of  progression  it  resembles  Nos.  14,  15,  and
+16,  rendered  by  the  same  singer.  (See  analysis  of  No.  16.)  Twothirds  of  the  progressions  are  downward,  the  song  beginning  on  the
 dominant  above  the  tonic  and  ending  on  the  dominant  below  the
 tonic.  The  melody  contains  the  tones  of  the  second  five-toned  scale
 and  is  melodic  in  structure.
@@ -19011,17 +9744,13 @@ and  is  melodic  in  structure.
 After  their  vapor  bath,  the  dancers  were  painted  by  the  men
 whom  they  had  selected  for  that  purpose.  A  few  of  the  writer's
 informants  stated  that  the  bodies  of  the  dancers  were  painted  white
-on  the  first  day  of  the  ceremony,  the  colors  being  added  on  the  morn-
-ing of  the  second  day,  but  others,  including  Itui)'kasai3-lu'ta  (Red
+on  the  first  day  of  the  ceremony,  the  colors  being  added  on  the  morning of  the  second  day,  but  others,  including  Itui)'kasai3-lu'ta  (Red
 Weasel)  stated  positively  that  the  painting  in  colors  was  done  before
 the  opening  of  the  dance.  Red  Bird  stated  that  each  man  who  was
-accustomed  to  paint  the  dancers  had  a  special  color,  which  was  ^^  a.sso-
-ciated  with  his  dream,"  and  that  he  used  this  color  first  in  the  paint-
-ing. The  colors  employed  were  red  (the  '^ tribal  color"),  blue,  yel-
-low, white,  and  black,  each  color  being  a  symbolism  connected  with
+accustomed  to  paint  the  dancers  had  a  special  color,  which  was  ^^  a.ssociated  with  his  dream,"  and  that  he  used  this  color  first  in  the  paint-
+ing. The  colors  employed  were  red  (the  '^ tribal  color"),  blue,  yellow, white,  and  black,  each  color  being  a  symbolism  connected  with
 the  sky.  Thus,  it  was  said  that  red  corresponds  to  the  red  clouds
-of  sunset,  which  indicate  fair  weather;  blue  represents  the  cloud-
-less sky;  yellow,  the  forked  lightning;  white  corresponds  to  the
+of  sunset,  which  indicate  fair  weather;  blue  represents  the  cloudless sky;  yellow,  the  forked  lightning;  white  corresponds  to  the
 
 
 DRNSMOBB]  TETON  SIOUX  MUSIC  125
@@ -19087,8 +9816,7 @@ dancers.  Chased-by-Bears  stated  that  when  acting  as  leader  of
 the  Dancers  he  was  painted  white  with  black  streaks  across  his
 forehead  and  down  his  cheeks.  The  deerskin  nite'iyapehe  which  he
 wore  was  elaborately  wrought  with  porcupine  quills  by  the  women
-among  his  relatives,  who  wished  to  do  the  work  although  such  deco-
-ration was  not  required.
+among  his  relatives,  who  wished  to  do  the  work  although  such  decoration was  not  required.
 
 The  costume  worn  by  an  Intercessor  was  somewhat  similar  to  that
 of  the  dancers,  but  on  his  wrists  and  ankles  he  frequently  wore  bands
@@ -19128,8 +9856,7 @@ he  wore  a  shirt  of  buffalo  hide  trimmed  with  human  hair,  which
 was  supposed  to  represent  the  hair  of  an  enemy.
 
 On  the  morning  of  the  day  appointed  for  the  Sun  dance  the  Crier
-went  around  the  camp  circle,  announcing  the  opening  of  the  cere-
-mony in  the  following  words:  "Wana'  u  po.  Wana'  yuStanpe.
+went  around  the  camp  circle,  announcing  the  opening  of  the  ceremony in  the  following  words:  "Wana'  u  po.  Wana'  yuStanpe.
 InaK'ni  poI"     ("Now  all  come.    Now   it  is  finished.     Hasten!")
 
 In  the  procession  which  approached  the  Sun-dance  circle  the
@@ -19151,11 +9878,9 @@ buffalo  skull,  which  had  been  painted  with  stripes  of  red  extending
 from  the  nostrils  to  the  horns.  Near  him  walked  some  close  relative
 or  friend,  who  carried  the  Leader's  sealed  pipe,  which  would  be
 placed  with  the  buffalo  skull  beside  the  square  of  exposed  earth.
-Those  who  were  to  fulfill  their  vows  walked  on  either  side  of  the  Inter-
-cessor and  the  Leader  of  thiB  Dancers,  and  around  them  were  the  war
+Those  who  were  to  fulfill  their  vows  walked  on  either  side  of  the  Intercessor and  the  Leader  of  thiB  Dancers,  and  around  them  were  the  war
 societies  and  other  organizations  of  the  tribe.  On  reaching  the
-entrance  of  the  Sun-dance  circle  the  procession  paused.  The  Inter-
-cessor directed  the  attention  of  the  people  to  the  east,  and  it  was
+entrance  of  the  Sun-dance  circle  the  procession  paused.  The  Intercessor directed  the  attention  of  the  people  to  the  east,  and  it  was
 understood  that  each  man  offered  a  silent  prayer;  this  action  was
 repeated  toward  the  south,  the  west,  and  the  north,  after  which  they
 entered  the  indOsure.  Amid  impressive  silence  the  procession  passed
@@ -19171,14 +9896,11 @@ ceremonial  position;  it  was  also  extended  toward  the  sky,  the  earth,
 and  the  cardinal  points,  but  the  seal  on  it  was  not  broken  until  after
 the  ceremony.
 
-The  pipe  which  was  smoked  at  the  ceremony  was  that  of  the  Inter-
-cessor. He  first  burned  sweet  grass,  the  ascending  smoke  of  which
+The  pipe  which  was  smoked  at  the  ceremony  was  that  of  the  Intercessor. He  first  burned  sweet  grass,  the  ascending  smoke  of  which
 was  said  to  symbolize  prayer.*  Then  he  lit  the  pipe,  and  extended
-the  stem  toward  the  sky,  the  earth,  and  the  cardinal  points.  The  fol-
-lowing explanation  of  this  action  was  given  by  Wakii)'yai)-wata'-
+the  stem  toward  the  sky,  the  earth,  and  the  cardinal  points.  The  following explanation  of  this  action  was  given  by  Wakii)'yai)-wata'-
 kpe  (Charging  Thunder):  "When  we  hold  the  pipe  toward  the  sky,
-we  are  offering  it  to  Wakai)Hai)ka.  We  offer  it  to  the  earth  be-
-cause that  is  our  home  and  we  are  thankful  to  be  here ;  we  offer  it  to
+we  are  offering  it  to  Wakai)Hai)ka.  We  offer  it  to  the  earth  because that  is  our  home  and  we  are  thankful  to  be  here ;  we  offer  it  to
 the  east,  south,  west,  and  north  because  those  are  the  homes  of  the
 four  winds;  a  storm  may  come  from  any  direction,  therefore  we  wish
 to  make  peace  with  the  winds  that  bring  the  storms."  After  this
@@ -19196,13 +9918,7 @@ entire  assembly.
 *  Certain  features  of  the  oeremony  eeem  to  show  the  influence  of  Christian  teaching.    See  footnoe  p.  88.
 
 
-128
-
-
 BUREAU  OF   AMERICAN  ETHNOLOaY
-
-
-[bull.  61
 
 
 The  opening  song  of  the  ceremony  was  sung  three  times  with  a
@@ -19213,12 +9929,8 @@ Sim  and  with  hands  upraised.
 No.  19.  Opening  Song  of  the  Sun  Dance  (a)    (Catalogue  No.  453)
 
 Sung  by  Siya'ka
-Voice  J  =144
 Dbum  J  =  144
 Dnim  in  unaccented  eighth  notes*
-
-
-1
 
 
 S
@@ -19228,9 +9940,6 @@ rj',[jririrfrii^
 
 
 ^^
-
-
-1
 
 
 ^
@@ -19289,9 +9998,6 @@ DXNBMOBK]
 TETON  SIOUX  MTJBIO
 
 
-129
-
-
 songs  expressive  of  desire  it  is  not  unusual  for  the  tempo  to  be
 increased  with  repetitions  of  the  song  (see  p.  481).  Thus  the  second
 tempo  in  this  instance  is  faster  than  the  first.  Comparing  the  two
@@ -19313,9 +10019,7 @@ The  following  song  also  could  be  used  at  this  time:
 No.  20.  Opening  Song  of  the  Sun  Dance  (b)    (Catalogue  No.  479)
 
 Sung  by  Lonb  Man
-Voice  J  =80
 Drum  J=84
-Drum-rhythm  similar  to  No.  10
 
 
 f.r-if  itrt
@@ -19346,9 +10050,6 @@ respects  "  to  the  parents  of  young  men  who  were  taking  part  in  the
 dance  for  the  first  time.
 
 
-130
-
-
 BUBEAU  OF  AMEBICAN   ETHNOLOGY
 
 
@@ -19360,12 +10061,10 @@ was  a  large  dance  drum  of  the  usual  type  and  elaborately  decorated,
 the  sides  being  hung  with  bead  work  and  fur,  and  the  supports  wound
 with  beads  and  fur.  In  addition  to  the  drum  a  stiff  rawhide  was
 beaten.  This  gave  to  the  accompaniment  of  the  songs  a  peculiar
-quality  of  tone,  which  marked  a  difference  between  that  of  the  ordi-
-nary dances  and  that  of  a  religious  ceremony.  The  men  who  had  car-
+quality  of  tone,  which  marked  a  difference  between  that  of  the  ordinary dances  and  that  of  a  religious  ceremony.  The  men  who  had  car-
 ried the  sacred  pole  were  seated  at  the  dnmi  and  the  rawhide,  together
 with  special  singers,  both  men  and  women,  the  latter  sitting  behind
-the  men  and  forming  an  outer  circle. .  The  voices  of  the  women  sing-
-ers were  ah  octave  higher  than  the  voices  of  the  men.
+the  men  and  forming  an  outer  circle. .  The  voices  of  the  women  singers were  ah  octave  higher  than  the  voices  of  the  men.
 
 The  Intercessor  was  seated  west  of  the  "sacred  place''  during  the
 entire  ceremony.  The  Leader  of  the  Dancers  was  with  the  others
@@ -19387,7 +10086,6 @@ No.  21.  Opening  Prayer  of  the  Sun  Dance    (Catalogue  No.  501)
 
 Sung  by  Bed  Bird
 
-VoicB  J  =168
 Drum  not  recorded
 
 
@@ -19485,7 +10183,6 @@ wa  -  ni    kte  -  lo      e  -  pe  -  lo      o
 
 DBN8M0BK]  TETOK  SIOUX  MUBIG  131
 
-WORDS
 
 tuQka^^ila gnuidfather.    (See  p.  120,  footnote)
 
@@ -19515,8 +10212,7 @@ tonality  and  melodic  in  structure.  The  words  are  continuous.  As
 already  stated,  continuous  words  are  found  most  frequently  in  songs
 connected  with  '  *  medicine.  * '
 
-A  man  might  take  part  in  the  Sun  dance  in  one  of  six  ways,  accord-
-ing to  the  nature  of  his  vow.  The  requirement  of  fasting  was  the
+A  man  might  take  part  in  the  Sun  dance  in  one  of  six  ways,  according to  the  nature  of  his  vow.  The  requirement  of  fasting  was  the
 same  in  every  vow.  The  first  way  of  taking  part  in  the  Sun  dance
 consisted  merely  in  dancing,  the  second  added  a  laceration  of  the
 flesh,  and  the  other  four  required  that  a  stick  be  thrust  through  the
@@ -19571,8 +10267,7 @@ resumed  his  dancing.  The  number  of  cuts  varied  from  10  to  100  or
 even  200,  according  to  the  man's  vow,  though  if  the  vow  required
 the  larger  numbers  named  part  of  the  number  was  usually  assumed
 by  his  relatives.  The  cutting  was  done  by  a  man  of  experience,  to
-whom  the  dancer  gave  one  or  more  horses.  The  man  had  an  assist-
-ant, who  lifted  a  small  portion  of  flesh  on  the  point  of  an  awl,  where-
+whom  the  dancer  gave  one  or  more  horses.  The  man  had  an  assistant, who  lifted  a  small  portion  of  flesh  on  the  point  of  an  awl,  where-
 upon the  man  then  severed  it  with  a  quick  stroke  of  a  knife,  lifting
 the  first  portion  which  he  cut  toward  the  sky,  saying,  ''This  man
 promised  to  give  you  his  flesh;  he  now  fulfills  his  vow.''  (See  p.  96.)
@@ -19601,9 +10296,6 @@ in  this  operation  was  of  bone.     Chased-by-Bears,  who  performed  this
 I  Jatervals  permitted  for  rest  are  noted  on  p.  134.
 
 
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
 BULLETIN  ei     I
 
 
@@ -19627,8 +10319,7 @@ cessation  of  the  motion  of  dancing  only  increased  the  suffering.
 The  men  were  suspended  soon  after  9  o'clock  in  the  morning
 on  the  north  side  pf  the  pole  in  such  a  position  that  their  upraised
 faces  were  in  the  full  glare  of  the  sxm.  It  was  expected  that  they
-would  make  an  effort  to  free  themselves  as  soon  as  possible.  Some-
-times this  was  accomplished  in  half  an  hour,  and  according  to  John
+would  make  an  effort  to  free  themselves  as  soon  as  possible.  Sometimes this  was  accomplished  in  half  an  hour,  and  according  to  John
 Grass  and  other  informants  a  man  seldom  remained  in  that  position
 more  than  an  hour.  If  he  was  unable  to  tear  the  flesh  in  that  time
 by  means  of  the  motion  of  dancing,  he  might  give  horses  for  his
@@ -19655,10 +10346,8 @@ than  six  were  used,  the  additional  skuUs  were  fastened  anywhere  on
 the  upper  part  of  the  back,  it  being  permitted  also  to  fasten  more
 than  one  skull  to  a  thong.  When  several  skulls  were  employed,
 their  weight  made  it  impossible  for  a  man  to  stand  erect,  hence
-the  man  had  to  lean  forward  upon  a  stick,  dancing  in  a  bowed  posi-
-tion. The  scales  indicated  25  pounds  weight  for  a  buffalo  skull
-which  was  obtained  by  the  writer.  Tlie  skull  was  shown  to  Chased-
-by-Bears  who  after  lifting  it,  said  that  although  the  specimen  was
+the  man  had  to  lean  forward  upon  a  stick,  dancing  in  a  bowed  position. The  scales  indicated  25  pounds  weight  for  a  buffalo  skull
+which  was  obtained  by  the  writer.  Tlie  skull  was  shown  to  Chasedby-Bears  who  after  lifting  it,  said  that  although  the  specimen  was
 a  large  one  it  was  not  unusual  for  men  to  carry  such  in  the  Sun  dance.
 
 4840^— BuU.  61—18 U
@@ -19715,31 +10404,21 @@ that  he  continually  faced  the  sun,  toward  which  he  raised  his  face.
 In  dancing  he  raised  himself  on  the  ball  of  his  foot  with  rhythmic
 regularity.  At  intervals  of  a  few  hours  the  men  at  the  drum  were
 allowed  to  rest,  and  the  dancers  might  stand  in  their  places  or  even
-sit  down  and  smoke  for  a  short  time,  but  if  they  showed  any  hesi-
-tation in  resuming  the  dance  they  were  forced  to  their  feet  by  the
-men  who  did  the  cutting  of  the  arms  and  superintended  the  fulfill-
-ment of  the  vows.
+sit  down  and  smoke  for  a  short  time,  but  if  they  showed  any  hesitation in  resuming  the  dance  they  were  forced  to  their  feet  by  the
+men  who  did  the  cutting  of  the  arms  and  superintended  the  fulfillment of  the  vows.
 
 
 DENSMOBS]
 
 
-TETON   SIOUX  MUSIC
-
-
-135
-
-
-Women  whose  relatives  were  fulfilling  vows  frequently  danced  be-
-side them  during  part  of  the  time.  Ta^i'na-skawii)  (White  Robe),
+Women  whose  relatives  were  fulfilling  vows  frequently  danced  beside them  during  part  of  the  time.  Ta^i'na-skawii)  (White  Robe),
 singer  of  the  following  song,  stated  that  she  composed  it  while  taking
 part  in  a  Sun-dance  in  which  her  brother  was  fulfilling  a  vow.  As
 the  result  of  a  successful  raid  against  the  Crows,  he  brought  home
 many  horses,  which  were  divided  among  his  relatives,  she  receiving
 part  of  the  number.  He  had  vowed  that  if  he  were  successful  he
 would  be  suspended  from  the  pole  and  would  also  have  200  cuts
-made  on  his  arms.  She  and  her  sister  assumed  one-half  of  this  num-
-ber, each  having  her  arms  cut  50  times.  She  and  his  other  female
+made  on  his  arms.  She  and  her  sister  assumed  one-half  of  this  number, each  having  her  arms  cut  50  times.  She  and  his  other  female
 relatives  danced  while  he  was  dancing,  and  without  preparation  she
 sang  this  song,  which  was  readily  learned  and  simg  by  all  the  women:
 
@@ -19782,20 +10461,10 @@ eyii)'  na'hai) he  is  saying  thifl,  and
 tehi^ya  na'iii)  ye stands  there,  enduring
 
 Analysis, — The  third  and  second  tones  of  the  octave  are  laxjking
-in  this  melody,  which,  as  already  stated,  was  said  to  have  been  com-
-posed by  a  woman.  The  absence  of  the  third  in  songs  composed  by
+in  this  melody,  which,  as  already  stated,  was  said  to  have  been  composed by  a  woman.  The  absence  of  the  third  in  songs  composed  by
 women  is  considered  in  Bulletm  53  (p.  140).  Only  four  other
 instances  of  the  absence  of  the  third  occur  in  the  present  series.
 These  are  Nos.  5,  42,  99,  131,  169,  and  the  present  song  is  the  only
-
-
-136
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 one  of  the  group  which  was  composed  br  sung  by  a  woman.  One
@@ -19809,20 +10478,16 @@ freely  melodic  in  structure.
 
 The  aged  members  of  the  tribe  were  seated  comfortably  in  the
 "shade  house"  on  the  outer  edge  of  the  dancing  circle.  There  they
-listened  attentively  to  all  that  took  place;  indeed,  the  utmost  rever-
-ence and  respect  for  the  ceremony  were  shown  by  all  who  attended.
-The  spectators  realized  that  when  prayer  was  offered  by  the  Inter-
-cessor "it  was  their  duty  to  join  in  his  prayer  with  their  hearts."
+listened  attentively  to  all  that  took  place;  indeed,  the  utmost  reverence and  respect  for  the  ceremony  were  shown  by  all  who  attended.
+The  spectators  realized  that  when  prayer  was  offered  by  the  Intercessor "it  was  their  duty  to  join  in  his  prayer  with  their  hearts."
 
 Meantime  many  incidents  were  taking  place  in  the  great  tribal
 gathering.  Those  who  rejoiced  were  asking  others  to  rejoice  with
 them,  while  still  others  joined  their  friends  in  lamenting  chiefs  who
 had  died  during  the  year,  or  warriors  who  had  been  slain  by  the
-enemy.  The  relatives  of  those  who  took  part  in  the  Sun  dance  pro-
-vided feasts,  and  little  groups  were  seen  feasting  here  and  there  in
+enemy.  The  relatives  of  those  who  took  part  in  the  Sun  dance  provided feasts,  and  little  groups  were  seen  feasting  here  and  there  in
 the  camp  while  at  the  same  time  songs  of  lamentation  could  be
-heard.  The  following  song  was  used  at  a  Sun  dance  in  commemo-
-ration of  Kaggi'-iyo'take  (Sitting  Crow),  a  Sioux  warrior  who  was
+heard.  The  following  song  was  used  at  a  Sun  dance  in  commemoration of  Kaggi'-iyo'take  (Sitting  Crow),  a  Sioux  warrior  who  was
 killed  in  a  fight  with  the  Crows.  The  words  of  this  song  are  a
 warrior's  best  memori^.
 
@@ -19890,9 +10555,6 @@ s
 DENSMORE]  TETON  SIOUX  MUSIC  137
 
 
-WORDS
-
-
 Ka9^i^-iy(/take Sitting  Crow  (man's  name)
 
 he^6el  yuQkii)^  kte  ll^it) that  is  the  way  he  wished  to  lie
@@ -19902,8 +10564,7 @@ e6el  yuQka^  he he  is  lying  as  he  desired
 •
 
 Analysis, — Five  renditions  of  this  song  were  recorded;  these  are
-entirely  uniform.  The  upward  progressions  in  the  measure  contain-
-ing the  first  word  are  interesting,  also  the  upward  progression  neces-
+entirely  uniform.  The  upward  progressions  in  the  measure  containing the  first  word  are  interesting,  also  the  upward  progression  neces-
 sary in  beginning  a  repetition  of  the  song.  These  intervals  were  sung
 with  good  intonation.  From  the  writer's  observation  an  Indian  may
 vary  the  pitch  of  unimportant  intervals,  but  very  rarely  loses  the  pitch
@@ -19920,8 +10581,7 @@ illness  the  parents  might  vow  that  if  the  child  should  live  imtil  th
 next  Sun  dance  its  ears  would  be  pierced.  This  was  considered  an
 honor,  and  the  gifts  which  were  required  made  it  impossible  for
 poorer  members  of  the  tribe.  The  piercing  of  the  ears  was  done
-publicly  by  any  experienced  person,  in  some  instances  by  the  In-
-tercessor, assisted  by  those  who  cut  the  arms  of  persons  fulfilling
+publicly  by  any  experienced  person,  in  some  instances  by  the  Intercessor, assisted  by  those  who  cut  the  arms  of  persons  fulfilling
 vows  at  the  ceremony.  The  parents  of  the  child  gave  gifts  to  those
 who  pierced  its  ears,  the  gifts  varying  according  to  their  means.
 Some  gave  1  horse,  some  10  horses,  and  wealthy  persons  added
@@ -19940,15 +10600,8 @@ a  piece  of  copper  was  inserted  so  that  the  woimd  would  heal  rapidly.
 One  or  both  ears  might  be  pierced,  and  if  desired  more  than  one  hole
 was  made  in  each  ear.
 
-The  children  whose  ears  were  thus  pierced  were  considered  some-
-what related  in  status  to  the  men  whose  flesh  was  lacerated  in  the  Sun
+The  children  whose  ears  were  thus  pierced  were  considered  somewhat related  in  status  to  the  men  whose  flesh  was  lacerated  in  the  Sun
 dance,  and  feasts  were  given  by  their  relatives  in  honor  of  the  event.
-
-
-138
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
 
 
 [BrLL.  «1
@@ -19972,9 +10625,6 @@ _«^.^^^i^^^  ^^^^
 
 
 I  I  ^ ,         M  -  ■    ■  ■  .i—  ■  ■  —         *-
-
-
-(Catalogue  No.  506)
 
 
 l-)M
@@ -20038,15 +10688,8 @@ introduction.
 DBN8MORB]
 
 
-TETON  SIOUX   MUSIC
-
-
-139
-
-
 The  following  song  was  sung  by  the  Intercessor  during  one  of
-the  periods  when  the  drummers  rested;  the  people  listened  atten-
-tively.    In  explanation  of  this  song  Red  Bird  said:
+the  periods  when  the  drummers  rested;  the  people  listened  attentively.    In  explanation  of  this  song  Red  Bird  said:
 
 This  IB  a  song  concerning  a  dream  of  an  Interceesor.  In  his  dream  he  saw  the  rkLng
 sun  with  rays  streaming  out  around  it.  He  made  an  ornament  which  represented
@@ -20058,7 +10701,6 @@ the  crane,  which  is  the  bird  of  night,  and  the  hawk,  which  is  the  
 No.  25.  Song  concerning  the  Sun  and  Moon    (Catalogue  No.  504)
 
 Sung  by  Red  Bird
-VoiCB  J  =  58
 Dbuu  not  recorded
 
 
@@ -20107,9 +10749,6 @@ ko-la   wa-ye  -  lo
 -«'-
 
 
-9
-
-
 waq  -  bli     wa   -  aq
 
 
@@ -20118,8 +10757,6 @@ ko-yag    ma-ye    -   lo       Ae
 
 2o
 
-
-WORDS
 
 {FiT%i  rendition)
 
@@ -20150,25 +10787,13 @@ koyag'  maye^o it  has  made  me  wear
 koyag'  maye^o it  has  made  me  wear
 
 
-140
-
-
-BUREAU  OP  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
-
-
 AnaiyHs. — In  many  songs  the  rhythmic  imit  is  merely  a  short
-phrase  which  lacks  completeness  in  itself,  but  which  appears  fre-
-quently throughout  the  melody  and  influences  the  rhythmic  divi-
-sions of  the  entire  melody.  The  song  now  under  analysis,  how-
-ever, contains  a  rhythmic  unit  which  is  complete  in  itself,  and  which
+phrase  which  lacks  completeness  in  itself,  but  which  appears  frequently throughout  the  melody  and  influences  the  rhythmic  divi-
+sions of  the  entire  melody.  The  song  now  under  analysis,  however, contains  a  rhythmic  unit  which  is  complete  in  itself,  and  which
 was  sung  with  a  distinct  '* phrase  perception.^'  Repetitions  of  this
 imit  constitute  the  entire  song  except  the  closing  measure.  The
 melody  tones  are  those  of  the  fourth  five-toned  scale.  The  only
-intervals  here  found  are  the  major  second  and  minor  third.  De-
-scending intervals  comprise  about  two- thirds  of  the  entire  number.
+intervals  here  found  are  the  major  second  and  minor  third.  Descending intervals  comprise  about  two- thirds  of  the  entire  number.
 
 The  songs  of  the  hours  of  dancing  are  peculiarly  rhythmic,  the
 following  being  examples.  Those  songs  were  not  used  exclusively
@@ -20178,7 +10803,6 @@ societies.
 No.  26.  ''Wakai|^Ui)ka  Hears  Me"       (Catalogue  No.  483)
 
 Sung  by  Lonb  Man
-VoiCB  J  =88
 Dkum  J -88
 DruiD-rhythm  similar  to  No.  6
 
@@ -20220,21 +10844,13 @@ maku'  wela' hognuit^me
 OBN8MOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-141
-
-
 Anaiysis. — ^The  distinct  minor  character  of  this  song  is  of  interest.
 The  fourth  and  seventh  tones  of  the  octave  are  lacking  in  the  malody.
 It  will  be  noted  that  these  are  the  tones  omitted  from  the  fourth
 five-toned  scale,  which  is  major  in  tonality,  while  this  song  is  minor
-in  tonality,  the  third  and  sixth  being  minor  intervals.  This  tone-
-material  is  found  in  four  Chippewa  songs  (see  Table  6a)  ;  it  is  con-
+in  tonality,  the  third  and  sixth  being  minor  intervals.  This  tonematerial  is  found  in  four  Chippewa  songs  (see  Table  6a)  ;  it  is  con-
 sidered in  Bulletin  53  (p.  188).  Similar  songs  of  the  present  series
-are  Nos.  73,  89,  115,  126,  194.  The  interval  of  the  fourth  is  promi-
-nent, comprising  about  one-fourth  of  the  entire  number  of  intervals.
+are  Nos.  73,  89,  115,  126,  194.  The  interval  of  the  fourth  is  prominent, comprising  about  one-fourth  of  the  entire  number  of  intervals.
 Two  rhythmic  units  occur,  but  have  no  resemblance  to  each  other.
 It  has  been  noted  that  when  several  rhythmic  units  appear  in  a  song
 they  usually  have  some  characteristics  in  common.
@@ -20244,7 +10860,6 @@ No.  27.  ''Black  Face-paint  He  Grants  Me"    (Catalogue  No.  503)
 Sung  by  Red  Bird
 •       Voic»  J  =76
 Dbum  J -76
-Drum-rhythm  similar  to  No.  6
 
 
 f|Fff|tg
@@ -20260,9 +10875,6 @@ ya     6ai)-  na       i  -  te  -  aa  -  bye
 
 
 ma-ku  we-lo
-
-
-WORDS
 
 
 WakaQ^taQka Wakao'tai)ka
@@ -20289,8 +10901,7 @@ HtJHEAU  Oy  AMKUICAK  ETHSOLOGY
 U$  Ui4^  Uu*hf4\y,  An  hhi'MHi  iff  10  Uftu^H  in  a^^romplished  in  the  spac^e
 iff  Uin^ii  nw.tu^itrtm,  ithoijt  midway  ihrrnigh  the  song.  It  will  bo
 h/fU'4i  iUni  n  itu*iiHiirit  rliviHjori  hiriiilar  to  that  in  the  second  measure
-of  Uki  rhyUirnic  unit  in  of  fn'^juent  ocx^urrence,  though  the  ifayth-
-imr  Huil  ori'Mm  only  ttinei)  timeH.
+of  Uki  rhyUirnic  unit  in  of  fn'^juent  ocx^urrence,  though  the  ifaythimr  Huil  ori'Mm  only  ttinei)  timeH.
 Thi*  following  Hon^  iUHnrnottiorttUtH  a  victory  over  the  enemy:
 
 fiihUH.  «'I  Har«  (Conquered  Them"      (Catalogue  No.  484)
@@ -20346,9 +10957,6 @@ T^-lo     w»-ka-so   •    ta   he
 :*Vv
 
 
-1
-
-
 >i
 
 
@@ -20376,17 +10984,9 @@ v»
 DRNRMORl]
 
 
-TETON  SIOUX   MUSIC
-
-
-143
-
-
-Analysis. — ^An  interesting  peculiarity  of  this  song  is  the  progres-
-sion E-D-E,  showing  a  whole  tone  between  the  seventh  and  eighth
+Analysis. — ^An  interesting  peculiarity  of  this  song  is  the  progression E-D-E,  showing  a  whole  tone  between  the  seventh  and  eighth
 of  a  minor  key.  This  occurs  immediately  before  the  words  and
-also  at  the  close  of  the  song.  The  ascent  of  an  octave  in  two  pro-
-gressions (with  the  introduction  of  the  words)  is  also  interesting,  as
+also  at  the  close  of  the  song.  The  ascent  of  an  octave  in  two  progressions (with  the  introduction  of  the  words)  is  also  interesting,  as
 these  intervals  were  sung  with  more  correctness  than  many  smaller
 intervals  in  the  song.  AU  the  tones  of  the  octave  except  the  sixth
 are  present  in  the  song,  which  is  freely  melodic  in  structure.
@@ -20397,12 +10997,7 @@ No.  29.  Dancing  Song^  (a)
 Sung  by  Red  Bird
 
 
-((Catalogue  No.  499)
-
-
 Voic»  J  =80
-Drum  J  =  60
-Drum-rhythm  similar  to  No.  6
 
 
 mp  ^^  i^=£4^
@@ -20414,15 +11009,11 @@ count  of  a  measure,  but  this  appears  to  have  been  accidental,  the  tw
 parts  being  entirely  distinct.  (See  analysis  of  No.  8.)  The  time  of
 the  voice  is  not  rigidly  maintained,  though  the  variations  are  neither
 sufficient  nor  regular  enough  to  be  indicated  except  on  the  E  which
-was  shortened  in  every  rendition,  and  is  so  marked  in  the  transcrip-
-tion. The  structure  of  the  melody  is  more  regular  than  that  of  the
+was  shortened  in  every  rendition,  and  is  so  marked  in  the  transcription. The  structure  of  the  melody  is  more  regular  than  that  of  the
 majority  of  the  songd  under  analysis.  It  comprises  three  periods  of
 four  measures  each,  with  one  additional  measure  after  the  second
 period.  The  melody  tones  are  those  of  the  fourth  five-toned  scale^
 and  two-thirds  of  the  progressions  are  downward.
-
-
-144
 
 
 BUREAU   OF  AMEBICAN  ETHNOLOGY
@@ -20435,34 +11026,27 @@ No.  80.  Dancing^  Song  (b)
 Suiig  by  Ked  Buld
 
 
-(Catalogue  No.  505)
-
-
 VoiOB  J  =80
 
 Dkum  J  =80
 
-Drum-rhythm  similar  to  No.  8.
 (1)
 
 
 ^^^
 
 
-Analysis. — ^The  count-division  which  characterizes  this  song  con-
-sists of  two  sixteenth  notes  followed  by  an  eighth  note.  This  is  com-
+Analysis. — ^The  count-division  which  characterizes  this  song  consists of  two  sixteenth  notes  followed  by  an  eighth  note.  This  is  com-
 bined with  other  divisions  of  a  quarter  note  to  form  five  distinct
 phrases  of  one  measure  each.  The  repetition  of  these  short  phrases,
-or  rhythmic  units,  comprises  the  entire  song  except  the  closing  meas-
-ure. The  first  rhythmic  unit  occurs  twice,  the  second  three  times,
+or  rhythmic  units,  comprises  the  entire  song  except  the  closing  measure. The  first  rhythmic  unit  occurs  twice,  the  second  three  times,
 the  third  three  times,  the  fourth  six  times,  and  the  fifth  twice.  The
 irregular  order  of  these  phrases  prevents  their  grouping  into  periods,
 but  the  rhythm  of  the  song  as  a  whole  is  complete  and  interesting.
 In  structure  the  song  is  harmonic,  the  principal  tones  being  those  of
 the  tonic  triad.  All  the  tones  of  the  octave  except  the  fourth  are
 found  in  the  melody.  An  ascent  of  11  tones  in  two  measures  is  noted
-in  theseventh  and  eighth  measures  before  theclose.  The  small  count-
-divisions  were  clearly  given  by  the  peculiar  action  of  the  throat
+in  theseventh  and  eighth  measures  before  theclose.  The  small  countdivisions  were  clearly  given  by  the  peculiar  action  of  the  throat
 which  characterizes  Indian  singing.  (See  Bulletin  63,  p.  13.)  Half
 the  intervals  (19)  are  major  seconds^  all  but  two  of  which  are  in
 descending  progression.
@@ -20471,22 +11055,8 @@ descending  progression.
 DBKSMORB]
 
 
-TETON   SIOUX  MUSIC
-
 No.  81.  Dancing  Song  (c)
 Sung  by  Lone  Man
-
-
-145
-
-(Catalogue  No.  482)
-
-
-VoicB  J  =  84
-
-Drum  J  =  84
-
-Drum-rhythm  similar  to  No.  6
 
 
 u^  jSagSrif  |.r  r  r  If  r  tc  i
@@ -20510,13 +11080,8 @@ No.  82.  Dancing  Song  (d)
 Sung  by  Lone  ^Ian
 
 
-(Catalogue  No.  485)
-
-
 VoicB  J  ^176
-Drum  J  =176
 
-Drum-rhythm  similar  to  No.  19
 
 ^^ — 5^
 
@@ -20527,10 +11092,7 @@ Drum-rhythm  similar  to  No.  19
 t
 
 
-^Fffit-
-
-
-f  f  if  iB
+^Fffitf  f  if  iB
 
 
 i-M
@@ -20567,15 +11129,6 @@ then  changes  to  the  indicated  rhythm,  which  was  steadily  maintained
 in  all  the  repetitions  of  the  song.
 
 
-1
-
-
-146
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
-
 No.  88.  Dancing  Song  (e)
 
 Sung  by  &ya'ka
@@ -20585,9 +11138,6 @@ Drom-rhythm  similar  to  No.  6
 
 
 [BULt,.  <i
-
-
-(Catalogue  No.  457)
 
 
 0)
@@ -20668,15 +11218,8 @@ per  cent  of  the  intervals  are  major  seconds.
 DBKBMOBB]
 
 
-TETON   SIOUX   MUSIC
-
-
-147
-
-
 Yoicx  J  =176
 Dbum  J  =176
-Drum-rhythm  similar  to  No.  6
 
 (1)
 
@@ -20684,9 +11227,6 @@ Drum-rhythm  similar  to  No.  6
 No.  84.  Dsnctng  Song  (f)
 
 Sung  by  Siya'ka
-
-
-(Catalogue  No.  458)
 
 
 0)
@@ -20733,9 +11273,6 @@ transcribed,  the  part  indicated  as  a  repeat  was  sung  three  times  with
 no  break  in  the  time.
 
 
-148
-
-
 BUBEAU  OF  AMEBICAK  ETHNOLOGY
 
 
@@ -20747,10 +11284,6 @@ No.  85.  Dftoclng  Son^  (g)
 Sung  by  oiya'ka
 
 
-(Catalogue  No.  459)
-
-
-VoiCB  J  =  84
 Dkihi  J=84
 Dnim-rfayUun  siinilar  to  No.  10
 
@@ -20788,9 +11321,6 @@ Dbdm  not  recorded
 No.  36.  Song  at  Sunrise
 
 Sung  by  Red  Bird
-
-
-(Catalogue  No.  502)
 
 
 BULLETIN  E1     PLATE  2
@@ -20833,20 +11363,16 @@ food  or  water.  During  this  day  the  men,  one  after  another,  fell  from
 exhaustion.  Red  Bird  (pi.  22)  said  that  he  had  a  vision  in  the  Sim
 dance.  On  the  second  day,  as  he  was  dancing,  he  noticed  that  the
 Intercessor  held  a  small  mirror  in  his  hand,  and  that  he  threw  the
-light  reflected  from  this  mirror  into  the  face  of  one  dancer  after  an-
-other, each  man  falling  to  the  ground  when  it  flashed  into  his  eyes.
-At  last  Red  Bird  felt  the  flash  of  light  in  his  own  face  and  fell  uncon-
-scious. Then  he  saw  something  in  the  sun;  it  was  a  man's  face,
+light  reflected  from  this  mirror  into  the  face  of  one  dancer  after  another, each  man  falling  to  the  ground  when  it  flashed  into  his  eyes.
+At  last  Red  Bird  felt  the  flash  of  light  in  his  own  face  and  fell  unconscious. Then  he  saw  something  in  the  sun;  it  was  a  man's  face,
 painted,  and  as  he  looked  at  it  he  saw  that  the  man  in  the  sun  was  the
 Intercessor.  It  was  said  that  this  vision  was  sufficient  to  entitle
-Red  Bird  to  act  as  Intercessor,  after  he  had  received  the  proper  in-
-structions concerning  the  duties  of  that  office.
+Red  Bird  to  act  as  Intercessor,  after  he  had  received  the  proper  instructions concerning  the  duties  of  that  office.
 
 As  soon  as  a  man  fell  from  exhaustion  he  was  carried  into  the
 shade,  where  he  gradually  regained  consciousness.
 
-Those  who  had  taken  part  in  the  Sim  dance  returned  to  their  re-
-spective lodges  at  the  close  of  the  dancing.  Before  partaking  of  food
+Those  who  had  taken  part  in  the  Sim  dance  returned  to  their  respective lodges  at  the  close  of  the  dancing.  Before  partaking  of  food
 or  water  they  spent  some  time  in  the  vapor  lodge.  Their  first  sip  of
 water  was  taken  in  the  following  manner:  A  large  bowl  was  filled
 with  water,  and  beside  it  was  placed  a  bunch  of  sweet  grass.  Having
@@ -20869,8 +11395,7 @@ unworthy  efrer  dared  to  touch  the  Sun-dance  pipe.
 
 Among  the  Indians  here  dealt
 with  camp  had  to  be  broken
-before  the  evening  of  the  sec-
-ond day.  The  sacred  pole  and
+before  the  evening  of  the  second day.  The  sacred  pole  and
 its  offerings,  the  red-painted
 buffalo  skull,  and  the  bits  of
 white  eagle  down  remained  on
@@ -20878,24 +11403,19 @@ the  prairie.  As  the  last  man
 left  the  camping  ground,  he
 looked  back  and  saw  them  in
 their  places.  Then  heleft  them
-with  Wakai) 'tai)ka  and  the  si-
-lent prairie.
+with  Wakai) 'tai)ka  and  the  silent prairie.
 
 
 After  the  people  reached  their
-homes  the  boys  of  the  tribe  be-
-gan a  childish  enactment  of  the
+homes  the  boys  of  the  tribe  began a  childish  enactment  of  the
 Sun  dance,  which  continued  at
-intervals  during  the  entire  sum-
-mer, Hoi's  whose  fathers  or
+intervals  during  the  entire  summer, Hoi's  whose  fathers  or
 grandfathers  had  takon  part  in
-the  ceremony  were  given  pref-
-erence in  the  assigning  of  parts.
+the  ceremony  were  given  preference in  the  assigning  of  parts.
 Mr.  Robert  P.  Higheagle,  the
 interpreter,  stated  that  he  well
 remembered  the  gravity  with
-which  the  grandson  of  an  In-
-tercessor imitated  the  actions  of
+which  the  grandson  of  an  Intercessor imitated  the  actions  of
 that  official.  A  ffne  was  exacted
 from  any  boy  who  failed  to  do
 his  part  in  the  proper  manner,  or
@@ -20903,10 +11423,8 @@ who  showed  disrespect  toward
 the  performance.  Whistles  in
 imitation  of  Sun-dance  whistles
 were  made  of  reeds  (see  fig.
-23),  the  plumy  blossom  repre-
-senting the  eagle  down,  and
-long  red  and  green  grasses  be-
-ing wound  around  the  reed  in
+23),  the  plumy  blossom  representing the  eagle  down,  and
+long  red  and  green  grasses  being wound  around  the  reed  in
 
 imitation  of  the  porcupine-quill  decoration.
 Through  the  summer  woods  the  boys  sought  for  wild  grapes  and
@@ -20927,8 +11445,7 @@ Boys  with  good  voices  were  assigned  the  part  of  singers  and  seated
 themselves  around  an  old  pan.  A  hoop  was  sometimes  covered
 with  a  bright  handkerchief  or  cloth;  this  more  nearly  resembled  the
 Sun-Kiance  drum  in  appearance,  but  the  pan  was  considered  more
-satisfying.  The  torture  was  imitated  by  thrusting  a  stiff  cactus-
-spine  through  a  boy's  skin;  this  was  fastened  to  the  pole  by  means
+satisfying.  The  torture  was  imitated  by  thrusting  a  stiff  cactusspine  through  a  boy's  skin;  this  was  fastened  to  the  pole  by  means
 of  a  very  frail  thread.  When  his  movements  in  dancing  broke  this
 thread  the  boy  was  considered  released.
 
@@ -21000,7 +11517,6 @@ Tonic
 
 1,2,3,4,12.13,16,17,19,20,21
 
-15
 
 RELATIO
 
@@ -21008,23 +11524,15 @@ RELATIO
 
 -
 
-2
 
 13,17
 
-1
-
-19
 
 I
 
-20
-
-3
 
 2,3,15
 
-6
 
 1,12,14,16,21,36
 
@@ -21032,14 +11540,8 @@ I
 
 U
 
-1
-
-4
 
 Total.
-
-
-15
 
 
 LAST  NOTE  OF  BONO— ITS  RELATION  TO  KEYNOTE
@@ -21056,10 +11558,6 @@ Tonic
 Total.
 
 
-3
-6
-
-
 1,14,20
 4,11,12,19,21,36
 
@@ -21067,20 +11565,13 @@ Total.
 6  I  2,3.13,15,16,17
 
 
-15
-
-
 1  This  group  oomprises  songs  a  majority  of  which  are  believed  to  be  50  to  150  years  old.
-152
 
 
 DBNBMORl]
 
 
 TETON  SIOUX  MUSIO
-
-
-153
 
 
 Old  Songs — {1)  Oeremonial  Songs — Continued
@@ -21102,19 +11593,10 @@ Songs  containing  a  minor  third  below  the  final  tone . . .
 Total •.
 
 
-13
-1
-1
-
-
-15
-
-
 Serial  Nos.  of  songs
 
 
 1, 2, 3, 4, 11,  la,  13, 14, 15, 17, 20, 21, 36
-16
 
 
 NUMBER  OF  TONES  COMPRISING  COMPASS  OF  SONG
@@ -21132,18 +11614,6 @@ Nine  tones
 Eight  tones...
 
 
-1
-1
-2
-3
-2
-6
-
-
-20
-
-13
-
 4,19
 
 12,21,36
@@ -21154,9 +11624,6 @@ Eight  tones...
 
 
 Total.
-
-
-15
 
 
 TONE  MATERIAL
@@ -21188,31 +11655,10 @@ Octave  complete  except  fourth
 Total.
 
 
-1
-3
-2
-
-
-2
-
-
-2
-
 11,15,36
 
 3,16
 
-21
-
-14
-
-12
-
-20
-
-1
-
-13
 
 ID
 
@@ -21233,16 +11679,7 @@ Fourth  lowered  a  semitone.
 Total.
 
 
-13
-1
-1
-
-
 1, 2, 3, 4, 12, 13, 14, 15, 16, 17, 20, 21, 36
-
-11
-
-19
 
 
 STRUCTURE
@@ -21261,10 +11698,6 @@ Total.
 
 12,14,36
 
-1
-
-
-158
 
 BUHEAU  OF  AMERICAK  ETHNOLOGY
 wonderful  thina  8u„h„..    .  ''^'^"
@@ -21336,8 +11769,7 @@ le  tk
 T  Hi'-
 
 
-c  iol-
-has
+c  iolhas
 
 yto
 In
@@ -21354,8 +11786,7 @@ Q
 158  BUREAU   OF  AMERICAN  ETHNOLOGY  [bull.  «i
 
 wonderful  IhingB,  such  as  digging  the  ditches  where  the  rivers  run.  At  last  they  died
-of  old  age,  and  their  spirits  went  again  to  the  clouds  and  resumed  their  form  as  thunder-
-birds.  While  they  were  on  earth,  the  rain  fell  without  sound  of  thunder  or  flash  of
+of  old  age,  and  their  spirits  went  again  to  the  clouds  and  resumed  their  form  as  thunderbirds.  While  they  were  on  earth,  the  rain  fell  without  sound  of  thunder  or  flash  of
 lightning,  but  after  their  return  to  the  sky  the  lightning  came — ^it  is  the  flash  of  their
 eyes,  and  the  thunder  is  the  sound  of  their  terrible  song.  When  they  are  angry,  the
 lightning  strikes  a  rock  or  tree  as  a  warning  to  men .  The  bod ies  of  these  giants  became
@@ -21365,20 +11796,16 @@ than  one  of  these  giants  has  been  found  in  the  land  of  the  Dakotas.
 The  Heyo'ka  Ka'ga  was  a  ceremony  of  public  humiliation  in
 which  the  man  who  had  been  selected  by  the  thunderbirds  to  receive
 a  manifestation  of  their  presence  in  a  dream  voluntarily  exposed
-himself  to  the  ridicule  of  the  lowest  element  in  the  tribe.*  His  self-
-abasement  was  exaggerated  to  the  greatest  possible  degree.  The
+himself  to  the  ridicule  of  the  lowest  element  in  the  tribe.*  His  selfabasement  was  exaggerated  to  the  greatest  possible  degree.  The
 superficial  and  unthinking  heaped  their  scorn  and  derision  upon  him,
 but  the  wise  of  the  tribe  understood  that,  to  the  end  of  his  life,  that
-man  could  command  the  powers  of  the  sky  to  help  him  in  his  under-
-takings. In  the  opinion  of  the  writer's  informants  the  enacting  of
-the  part  of  a  fool  in  connection  with  a  thunderbird  dream  was  an  ex-
-ample of  the  antithesis  by  which  Indians  sometimes  disguise  their
+man  could  command  the  powers  of  the  sky  to  help  him  in  his  undertakings. In  the  opinion  of  the  writer's  informants  the  enacting  of
+the  part  of  a  fool  in  connection  with  a  thunderbird  dream  was  an  example of  the  antithesis  by  which  Indians  sometimes  disguise  their
 meaning.  In  this  it  might  be  said  to  resemble  the  ''sacred  language"
 (see  p.  120,  footnote),  which  is  unintelligible  to  those  who  are  not
 initiated  into  its  mysteries.
 
-Several  of  the  writer's  informants,  after  consultation,  gave  the  fol-
-lowing meanings  (or  uses)  for  the  word  heyo'Jca:  A  man  who  has
+Several  of  the  writer's  informants,  after  consultation,  gave  the  following meanings  (or  uses)  for  the  word  heyo'Jca:  A  man  who  has
 dreamed  of  the  thimderbirds;  a  person  who  does  things  contrary  to
 the  natural  way  of  doing  them;  and,  in  some  instances,  a  joker.  In
 connection  with  the  ceremony  in  fulfillment  of  a  thunderbird  dream
@@ -21392,8 +11819,7 @@ characters  in  the  field  of  folk  tales,  rather  than  in  that  of  religi
 Holding  the  opposite  view,  both  Riggs  and  Pond  enumerate  heyo'ka
 among  the  Dakota  gods.'  The  reason  for  not  regarding  heyo'ka  as
 gods,  on  the  part  of  the  writer's  informants,  seemed  to  be  that  they
-are  not  accredited  with  supernatural  power.  Writing  on  this  .sub-
-ject J.  Owen  Dorsey  says :^  "  Dr.  Brinton  has  confounded  the  Heyoka
+are  not  accredited  with  supernatural  power.  Writing  on  this  .subject J.  Owen  Dorsey  says :^  "  Dr.  Brinton  has  confounded  the  Heyoka
 with  the  Wakinyan.*  The  two  are  distinct  classes  of  powers,  though
 there  is  some  connection  between  them,  as  may  be  inferred  from  the
 
@@ -21439,18 +11865,15 @@ In  his  Dakota  Dictionary,  Riggs  (under  Heyo'ka)  says;  "Heyoka
 is  represented  as  a  little  old  man  with  a  cocked  hat  on  his  head,  a  bow
 and  arrows  in  his  hands,  and  a  quiver  on  his  back.  In  winter  he  goes
 naked,  and  in  summer  he  wraps  his  buffalo-robe  about  him."  "The
-little  hills  on  the  prairie  are  .  .  .  the  houses  of  Heyoka."  Mythi-
-cal "little  men"  enter  into  the  beliefs  of  many  tribes  of  Indians.
+little  hills  on  the  prairie  are  .  .  .  the  houses  of  Heyoka."  Mythical "little  men"  enter  into  the  beliefs  of  many  tribes  of  Indians.
 Thus  among  the  White  River  Ute,  on  the  Uinta  Reservation,  in
 Utah,  the  writer  was  informed  of  "  little  green  men,"  who  lived  in  the
-mountains  and  often  appeared  to  the  Indians,  telling  them  of  "medi-
-cines" and  teaching  them  songs.^
+mountains  and  often  appeared  to  the  Indians,  telling  them  of  "medicines" and  teaching  them  songs.^
 
 Two  dreams  of  the  thimderbirds  were  related  to  the  writer,  one  by
 Lone  Man  (pi.  23)  j  followed  by  an  account  of  theHeyo'ka  ceremony
 in  fulfillment  of  his  dream,  the  other  by  Charging  Thimder  (see  p.
-170),  this  dream  being  the  source  of  his  name,  which  is  literally  trans-
-lated "Charger-of-the-Thunderbird."  In  describing  his  dream  Lone
+170),  this  dream  being  the  source  of  his  name,  which  is  literally  translated "Charger-of-the-Thunderbird."  In  describing  his  dream  Lone
 Man  said:
 
 One  day  when  I  was  on  the  warpath  I  sat  down  to  rest  and  was  at  some  distance
@@ -21471,13 +11894,7 @@ of  riders  said  that,  having  been  appointed  to  make  this  attack,  I  wo
 among  the  Chippewa  of  northern  Minnesota.    (See  Bull.  S3,  pp.  264, 274.)
 
 
-160
-
-
 BUREAU  OF  AMEBICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 part  of  their  company  and  could  always  call  on  them  for  help  in  time  of  need.    [See
@@ -21490,8 +11907,7 @@ number  and  saying  that  ever  after  I  would  be  able  to  do  things  whic
 could  do,  because  I  had  obeyed  them.  They  also  told  me  that  the  frog  must  not  be
 harmed,  as  he  watches  everything  in  the  water  and  has  been  given  this  peculiar
 power.  They  told  me  a  great  deal  about  the  creatures  that  live  in  the  water,  saying
-they  are  taken  care  of,  and  water  is  sent  them  from  the  sky  when  they  need  it;  there-
-fore they  should  never  be  treated  cruelly.
+they  are  taken  care  of,  and  water  is  sent  them  from  the  sky  when  they  need  it;  therefore they  should  never  be  treated  cruelly.
 
 The  horsemen  in  the  cloud  then  told  me  to  look  down  at  the  earth  and  observe
 everything  on  the  land  and  in  the  water,  and  to  consider  them  all  as  mine.  The  voice
@@ -21564,7 +11980,6 @@ yo
 
 DRNBMOEi]  TETON  SIOUX  MUSIC  161
 
-WORDS
 
 maka^ta the  earth
 
@@ -21603,28 +12018,17 @@ I  always  carried.  If  I  were  in  great  danger  and  escaped  alive  I  att
 charm  and  sang  a  song  in  its  honor.  The  song  relates  to  the  swallow  whose  flying
 precedes  a  thunderstorm.  When  I  sang  the  song  of  my  charm  I  fastened  the  skin  of
 a  swallow  on  my  head.  This  bird  is  so  closely  related  to  the  thunderbird  that  the
-thunderbird  is  honored  by  its  use.  The  action  of  a  swallow  is  very  agile.  The  great-
-est aid  to  a  warrior  is  a  good  horse,  and  what  a  warrior  desires  most  for  his  horse  is  that
+thunderbird  is  honored  by  its  use.  The  action  of  a  swallow  is  very  agile.  The  greatest aid  to  a  warrior  is  a  good  horse,  and  what  a  warrior  desires  most  for  his  horse  is  that
 it  may  be  as  swift  as  the  swallow  in  dodging  the  enemy  or  in  direct  flight.[']  For
 this  reason  my  song  is  in  honor  of  the  swallow  as  well  as  of  my  charm.
 
 >  Bee  footnote  8,  p.  7L
 
 
-162
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.41
-
-
 No.  88.  ''Before  the  Gathering  of  the  Clouds"    (Catalogue  No.  493)
 
 Sung  by  Lone  Man
 
-VOICB   J  =100
 
 Dbum  not  recorded
 
@@ -21672,7 +12076,6 @@ mna  wa-  ye  -  lo     he       yo     ma-Api-  ya    o  -  gli-na  -
 
 ta-6ui)-ke  u-pi  -  to-ta         6a  kii)-yai)-yax)iz)     -    »-yai)-ke-lo  he
 
-WORDS
 
 kida^mnayai) in  erratic
 
@@ -21716,12 +12119,6 @@ No.  66;  Saared«tone  nation,  Nos.  60, 68;  Horae  nation,  Nos.  61,  111, 
 DEN  8  MORE]
 
 
-TETON   SIOUX   MUSIC
-
-
-163
-
-
 fourth  five-toned  scale,  and  about  two-thirds  of  the  mtervals  are
 downward  progressions.  The  occasional  omission  of  syllables  by  the
 singer  does  not  affect  the  meaning  of  the  words.
@@ -21747,7 +12144,6 @@ No.  89.  Song  In  Time  of  Danger        (Catalogue  No.  496)
 
 Sung  by  Lone  Man
 
-VoicB  J  =  72
 
 Bbum  J  =152
 
@@ -21794,7 +12190,6 @@ la     mi-  ta  -   fiuj)-  ke     ii)  -  yai]  -  kit)  kte  waq-yai)-  ki  - 
 
 ye-lo    ko-la    mi-ta  -  fiuq-ke    kii)-yai)-yai)ii)-yai) -ke    ye  -  lo
 
-WORDS
 
 kola^ friends
 
@@ -21825,22 +12220,18 @@ iqyaQ'ke  yelo' is  running
 
 
 Analysis. — The  rhythm  of  this  song  shows  remarkable  oleamess  of
-concept.  There  are  two  rhythmic  units,  the  entire  song  being  com-
-posed of  their  repetitions.  The  order  of  their  oociirren.ce  is  irregular,
+concept.  There  are  two  rhythmic  units,  the  entire  song  being  composed of  their  repetitions.  The  order  of  their  oociirren.ce  is  irregular,
 but  this  feature  seems  to  give  an  interesting  unity  to  the  rhythm  of
-the  song  as  a  whole.  The  melody  tones  are  those  of  the  fourth  five-
-toned  scale.  The  tempo  of  the  drum  indicates  four  dnmibeats  to
+the  song  as  a  whole.  The  melody  tones  are  those  of  the  fourth  fivetoned  scale.  The  tempo  of  the  drum  indicates  four  dnmibeats  to
 one  melody  note,  and  this  proportion  was  mamtained  during  most
 of  the  melody,  drum  and  voice  coinciding  on  the  first  part  of  each
-count.  As  in  many  other  melodies  of  the  present  series,  the  down-
-ward progressions  comprise  about  two-thirds  of  the  whole  number.
+count.  As  in  many  other  melodies  of  the  present  series,  the  downward progressions  comprise  about  two-thirds  of  the  whole  number.
 
 Resuming  the  story  of  his  dream,  Lone  Man  said :
 
 After  my  return  to  the  camp  I  wanted  to  do  something  to  show  that  I  realized  my
 unworthinees  of  the  honor  given  me  by  the  thunderbirds.  No  one  told  me  that  I
-ought  to  do  this,  and  yet  all  who  dream  of  the  thunderbirds  in  any  of  their  manifesta-
-tions have  a  deep  sense  of  their  own  unworthiness.  I  knew  that  I  was  only  an  ordinary
+ought  to  do  this,  and  yet  all  who  dream  of  the  thunderbirds  in  any  of  their  manifestations have  a  deep  sense  of  their  own  unworthiness.  I  knew  that  I  was  only  an  ordinary
 mortal  and  had  often  done  wrong,  yet  the  riders  in  the  air  had  disr^arded  this.  By
 appearing  to  me  they  had  given  me  4  chance  to  redeem  myself.  I  wanted  to  make  a
 public  humiliation  to  show  how  deeply  I  realized  my  unworthiness.  I  wanted  to  do
@@ -21851,16 +12242,9 @@ song.  ,
 DKNSilOBB]
 
 
-TETON   SIOUX   MUSIC
-
-
-165
-
-
 No.  40.  Song:  Concerning:  a  Dream  of  the  Thunderblrds    (Catalogue  No.  491)
 
 Sung  by  Lone  Man
-VoicB  J  =76
 Drum  not  recorded
 
 
@@ -21894,10 +12278,7 @@ ko-
 la  wai]-ma-yai)-ka  yo  wa  -  kai)-yai]  ma-kar^   pe  -  lo     he
 
 
-ma-&pi-
-
-
-ya       o  -  gli  -  na  •  iij]     ta    wa    -    kaq         ma-ka  -  ^  pe   -  lo
+ma-&piya       o  -  gli  -  na  •  iij]     ta    wa    -    kaq         ma-ka  -  ^  pe   -  lo
 
 
 ma-fipi
@@ -21911,8 +12292,6 @@ ya     o-gli   -    na-2ii)    ta  wa   -   kai)  ma-ka- ^  pe-lo
 
 he       ko-la  wa])-ma-yai)-ka  yo  wa  -  kax)  ma-ka-£;a  pe-lo  he     yo
 
-
-WORDS
 
 kola' friends  *
 
@@ -21951,33 +12330,27 @@ wakag'' sacred
 maka'^ga  pelo'' I  have  been  made
 
 Analysis. — ^This  song  contains  several  points  of  unusual  interest.
-First  among  these  may  be  mentioned  its  compass  of  14  tojies,  begin-
-ning on  the  fourteenth  above  the  tonic  and  ending  on  the^tonic.  (See
+First  among  these  may  be  mentioned  its  compass  of  14  tojies,  beginning on  the  fourteenth  above  the  tonic  and  ending  on  the^tonic.  (See
 Table  5.)  We  note  also  the  upward  progression  of  a  tenth,  which  is
 found  midway  through  the  song  and  again  at  the  beginning  of  the
 repeated  part.  The  low  tone  at  the  close  of  the  song  (G  flat)  in  some
-instances  was  given  accurately,  while  in  others  the  singer  found  diffi-
-culty in  reaching  it  and  sang  it  a  trifle  sharp.  It  is  strange  that  a  song
-characterized  by  a  range  of  almost  two  octaves  and  by  one  particu-
-larly large*  interval  should  contain  also  an  unusual  number  of  minor
+instances  was  given  accurately,  while  in  others  the  singer  found  difficulty in  reaching  it  and  sang  it  a  trifle  sharp.  It  is  strange  that  a  song
+characterized  by  a  range  of  almost  two  octaves  and  by  one  particularly large*  interval  should  contain  also  an  unusual  number  of  minor
 seconds — the  smallest  interval  recognized  in  these  analyses.  Many
 songs  do  not  contain  even  one  minor  second,  but  in  this  melody
 18  (44  per  cent)  of  the  entire  number  of  intervals  are  minor  .seconds.
 The  song  contains  all  the  tones  of  the  octave  and  is  melodic  in
 structure.
 
-As  already  stated,  the  ceremony  called  Heyo'ka  Ka'ga  is  a  cere-
-mony of  pubHc  humiUation  and  is  enacted  chiefly  by  those  who  have
+As  already  stated,  the  ceremony  called  Heyo'ka  Ka'ga  is  a  ceremony of  pubHc  humiUation  and  is  enacted  chiefly  by  those  who  have
 dreamed  of  the  thunderbirds,  A  man  is  required  to  be  leader  in  only
-one  such  ceremony,  but  when  other  thunderbird  dreamers  are  enact-
-ing the  ceremony  for  themselves  he  is  expected  to  join  them.  If  a
+one  such  ceremony,  but  when  other  thunderbird  dreamers  are  enacting the  ceremony  for  themselves  he  is  expected  to  join  them.  If  a
 man  who  has  seen  the  thunderbird  in  a  dream  should  become  arrogant
 or  fail  to  express  his  unworthiness,  it  is  said  that  Wakag'taijka  would
 punish  him  through  the  agency  of  sonae  of  the  great  forces  of  nature.
 Thus  every  man  who  has  been  favored  with  this  wonderful  dream
 tries  to  demonstrate  that  in  his  own  estimation  he  is  below  the  least
-in  the  tribe.  A  man  signifies  his  intention  of  performing  this  cere-
-mony by  placing  a  decorated  robe,  tobacco,  or  some  other  offering
+in  the  tribe.  A  man  signifies  his  intention  of  performing  this  ceremony by  placing  a  decorated  robe,  tobacco,  or  some  other  offering
 to  the  thunderbirds  high  on  the  poles  of  his  tent.  All  who  see  such
 offerings  know  that  the  man  intends  to  fulfill  the  obUgations  of  his
 dream  at  the  earUest  opportimity,  after  which  ho  will  feel  free  to
@@ -22012,8 +12385,7 @@ giving  him  jel  horse.
 
 On  the  appointed  day  the  Crier  announced  to  the  tribe  that  a  certain  man  (giving
 his  name)  had  had  a  dream  of  the  thunderbird  and  wished  to  fufill  the  dream,  and  that
-he  requested  all  who  had  had  similar  dreams  to  join  him  in  the  ceremony  of  humilia-
-tion. Sometimes  women  also  had  these  dreams,  and  they  were  under  the  same  obli*-
+he  requested  all  who  had  had  similar  dreams  to  join  him  in  the  ceremony  of  humiliation. Sometimes  women  also  had  these  dreams,  and  they  were  under  the  same  obli*-
 gations  as  the  men.
 
 The  medicine-man  led  the  dreamer  in  tattered  garments  out  of  his  tent.  If  the  man
@@ -22062,13 +12434,7 @@ See  also  Lynd,  aooount  of  Heyoka  Feast,  in  Minn,  Hist,  <9oc.  OoU»,  
 St.  Pi^ul,  1866.
 
 
-168
-
-
 BUREAU   OF  AMtjRICAK   ETHNOLOGY
-
-
-[bull.  41
 
 
 which  were  rubbed  on  the  hands  and  arms,  A  specimen  of  the  herb
@@ -22087,14 +12453,11 @@ dreamers,* who  in  every  movement  attempted  to  imitate  persons  not
 only  poor  but  lacking  in  judgment.  All  intelligent  members  of  the
 tribe,  however,  regarded  the  ceremony  with  greatest  reverence.
 
-This  and  the  following  song  were  sung  by  Lone  Man  when  enact-
-ing his  part  in  this  ceremony.  The  words  of  the  song  require  expla-
+This  and  the  following  song  were  sung  by  Lone  Man  when  enacting his  part  in  this  ceremony.  The  words  of  the  song  require  expla-
 nation. From  the  time  of  a  dream  until  the  time  when  the  dreamer
-has  fulfilled  its  requirements  he  regards  himself  as  belonging  to  the  ele-
-ments and  under  an  obUgation  of  obedience  to  them.  A  medicine-
+has  fulfilled  its  requirements  he  regards  himself  as  belonging  to  the  elements and  under  an  obUgation  of  obedience  to  them.  A  medicine-
 man may  wear  the  head  of  a  bird  as  a  sign  of  his  power,  indicating
-that  bird  to  be  subject  to  his  commands.  So  in  this  song,  the  ele-
-ments are  said  to  be  '^ wearing''  the  singer,  who  has  not  yet  fulfilled
+that  bird  to  be  subject  to  his  commands.  So  in  this  song,  the  elements are  said  to  be  '^ wearing''  the  singer,  who  has  not  yet  fulfilled
 his  obUgations  to  them.  In  the  second  rendition  of  the  song  the
 word  meaning  'wind'  was  replaced  by  wasu^ca,  *hail';  in  the
 third  by  wakar)'glicay  'lightning';  and  in  the  fourth  by  maJipi'ya,
@@ -22108,9 +12471,6 @@ Voice  J  =  km  (or  J^  =  20s)
 Drum  J  =X44
 
 Dnim-rhythm  similar  to  No.  6
-
-
-(Catalogue  No.  494)
 
 
 lie  a  -  ki  -  6i  -  ta
@@ -22152,14 +12512,6 @@ hQ
 DENaHOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-169
-
-
-WORDS
-
 he it  was
 
 aki''<^ita  6a • a  guard
@@ -22181,8 +12533,7 @@ yelo^ •- it  is
 Analysis, — ^The  changes  of  measure-lengths  as  well  as  the  relative
 tempo  of  voice  and  drum  are  interesting  features  of  this  song.  Two
 renditions  were  recorded,  each  with  a  repeated  part,  as  indicated;
-between  the  renditions  was  a  pause,  during  which  the  drum  con-
-tinued its  steady  beat.  The  rhythm  of  the  voice  was  uniform  in
+between  the  renditions  was  a  pause,  during  which  the  drum  continued its  steady  beat.  The  rhythm  of  the  voice  was  uniform  in
 the  two  renditions.  The  measures  containing  six  eighth  notes  are
 not  indicated  as  being  in  6-8  time,  as  they  are  in  groups  of  two,  and
 not  in  triplets.  Melodic  in  structure,  the  song  contains  all  the  tones
@@ -22233,9 +12584,6 @@ I
 ^
 
 
-8
-
-
 wa  -  kaq-yai)       wa  -  ku   we  -  lo
 
 
@@ -22263,7 +12611,6 @@ o  -  ya  -  te        wai)-ma-yai)-ka   yo         wa-kai}-yag  wa-ku  we  -lo 
 
 170  BUREAU  dP  AMERICAN  ETHNOLOGY  [bdll.6i
 
-WORDS
 
 kola' friends
 
@@ -22301,8 +12648,7 @@ waku'' welo'' I  return
 
 Analysis, — This  song  contains  only  the  tones  B  flat,  C,  and  F
 and  is  transcribed  in  the  key  of  B  flat,  as  the  sequence  of  tones,
-especially  at  the  close  of  the  song,  suggests  B  flat  a&  a  keynote  satis-
-factory to  the  ear.  Sixteen  progressions  occur  in  the  song,  seven
+especially  at  the  close  of  the  song,  suggests  B  flat  a&  a  keynote  satisfactory to  the  ear.  Sixteen  progressions  occur  in  the  song,  seven
 of  which  are  fourths  and  eight  of  which  are  major  seconds.  Thio
 melody  is  an  excellent  example  of  the  influence  of  a  rhythmic  unit
 on  those  parts  of  the  song  in  which  it  is  nut  found,  the  count  divisions
@@ -22320,12 +12666,10 @@ In  narrating  his  dream  of  the  thimderbird,  Charging  Thunder  said:
 
 Soon  after  the  Standing  Rock  Agency  was  established  I  asked  the  agent  (an  Army
 officer)  if  I  might  go  hunting.  I  said  that  before  I  settled  down  and  adopted  the  ways
-of  the  white  man  I  would  like  to  go  hunting  for  an  indefinite  length  of  time.  Permis-
-sion was  granted,  and  I  went  out  alone.  As  I  was  going  north,  near  Timber  Lake,  I
+of  the  white  man  I  would  like  to  go  hunting  for  an  indefinite  length  of  time.  Permission was  granted,  and  I  went  out  alone.  As  I  was  going  north,  near  Timber  Lake,  I
 saw  a  deer  coming  toward  me  from  the  north.  I  wanted  to  shoot  the  animal,  but
 thought  I  would  wait  until  it  came  nearer.  The  deer  must  have  come  very  slowly,  for
-while  I  was  waiting  I  fell  asleep  and  dreamed.  In  this  dream  I  saw  the  deer  still  com-
-ing toward  me,  and  behind  it  were  several  men  riding  on  painted  horses  with  grass
+while  I  was  waiting  I  fell  asleep  and  dreamed.  In  this  dream  I  saw  the  deer  still  coming toward  me,  and  behind  it  were  several  men  riding  on  painted  horses  with  grass
 tied  on  their  forelocks.  The  riders  seemed  to  be  pursuing  some  object.  I  became  one
 of  these  riders,  and  they  told  me  to  lead  the  party.  Then  they  told  me  to  make  a  charge
 on  the  object  which  they  were  pursuing.  At  first  I  was  not  sure  what  this  was,  but  I
@@ -22344,9 +12688,6 @@ PEN8M0BB]
 
 
 TETOl^  SlOtJX  MUSIC
-
-
-171
 
 
 been  choeen  to  make  that  charge  and  had  become  one  of  their  number  I  would  ever
@@ -22399,8 +12740,6 @@ wan  -  la  -  ka  -  pi    kte
 si  -  to-mni  -  yaq  wa -ku  -  wa-pi  kte- lo  he
 
 
-WORDS
-
 lena^ke all  these
 
 waku^wapi  kte shall  pursue
@@ -22423,18 +12762,15 @@ sito''mniyai) everyone
 
 waku^wapi  ktelo'' shall  pursue
 
-Analysis, — The  tones  of  this  melody  are  those  of  the  fourth  five-
-toned  scale.  It  has  a  range  of  14  tones,  ending  on  a  particularly  low
-tone.  This  tone  on  the  phonograph  cylinder  is  not  loud,  but  is  dis-
-tinct, corresponding  to  the  indicated  tone  on  the  piano.     The  adjust-
+Analysis, — The  tones  of  this  melody  are  those  of  the  fourth  fivetoned  scale.  It  has  a  range  of  14  tones,  ending  on  a  particularly  low
+tone.  This  tone  on  the  phonograph  cylinder  is  not  loud,  but  is  distinct, corresponding  to  the  indicated  tone  on  the  piano.     The  adjust-
 
 
 172  BUREAU  OF  AMEBICAN  ETHNOLOGY  [boll.  «i
 
 ment  of  the  phonograph  is  believed  to  be  the  same  as  when  the  song
 was  recorded,  hence  the  transcription  indicates  the  tone  actually  sung
-by  the  singer.  The  song  is  melodic  in  structure  and  contains  20  pro-
-gressions, three-fourths  of  which  are  descending  intervals.
+by  the  singer.  The  song  is  melodic  in  structure  and  contains  20  progressions, three-fourths  of  which  are  descending  intervals.
 
 Dreams  Concerning  Animals
 
@@ -22446,8 +12782,7 @@ plant,  or  spot  of  earth.  If  men  would  pay  more  attention  to  these  p
 seek  what  is  best  to  do  in  order  to  make  themselves  worthy  of  that  toward  which  they
 are  so  attracted,  they  might  have  dreams  which  would  purify  their  lives.  Let  a  man
 decide  upon  his  favorite  animal  and  make  a  study  of  it,  learning  its  innocent  ways.
-Let  him  learn  to  understand  its  sounds  and  motions.  The  animals  want  to  communi-
-cate with  man,  but  Wakai)'tai)ka  does  not  intend  they  shall  do  so  directly — man
+Let  him  learn  to  understand  its  sounds  and  motions.  The  animals  want  to  communicate with  man,  but  Wakai)'tai)ka  does  not  intend  they  shall  do  so  directly — man
 must  do  the  greater  part  in  securing  an  understanding.
 
 This  suggests  that  a  fancy  for  a  certain  animal  preceded  a  dream
@@ -22519,8 +12854,7 @@ depends  a  great  doal  on  the  natural  conditions  around  it.  If  the  buf
 to-day,  I  think  they  would  bo  different  from  the  buffalo  of  the  old  days  because  all
 the  natural  conditions  have  changed.  They  would  not  find  the  same  food  nor  the
 same  surroundings.  We  see  tl\e  change  in  our  ponies.  In  the  old  days  they  could
-stand  great  hardship  and  travel  long  d^^^i^ccs  without  water.  They  lived  on  cer-
-tain kinds  of  food  and  drank  pure  water.  Now  our  horses  require  a  mixture  of  food;
+stand  great  hardship  and  travel  long  d^^^i^ccs  without  water.  They  lived  on  certain kinds  of  food  and  drank  pure  water.  Now  our  horses  require  a  mixture  of  food;
 they  have  less  endurance  and  must  have  constant  care.  It  is  the  same  with  the
 Indians;  they  have  less  freedom  and  they  fall  an  easy  prey  to  disease.  In  the  old
 days  they  were  rugged  and  healthy,  drinking  pure  water  and  eating  the  meat  of  the
@@ -22541,8 +12875,7 @@ Brave  Buffalo  related  his  dreams  of  the  buffalo,  elk,  and  wolves;
 Charging  Thunder,  his  dream  of  the  wolves;  and  6iya'ka,  his  dream
 of  the  crow  and  the  owl.  (Dreams  of  the  thunderbirds  by  Ijone  Man
 and  Chargmg  Thunder  are  contained  in  the  preceding  section  on
-the  Heyo'ka.  The  following  group  comprises,  in  addition  to  narra-
-tives by  the  dreamers,  certain  accounts  of  dreams  and  their  songs
+the  Heyo'ka.  The  following  group  comprises,  in  addition  to  narratives by  the  dreamers,  certain  accounts  of  dreams  and  their  songs
 which  were  given  by  men  who  had  heard  them  related  by  others,  and
 also  a  few  dream  songs  whose  history  is  unknown.
 
@@ -22557,9 +12890,6 @@ to  me.    I  dreamed  tha^  I- was  m  the  monnteinfl  aad  fell  asleep  iii.
 
 [}  See  p.  IIG,  footnote,  which  includes  blue,  obtained  from  blue  clay  found  in  Minnesota.    The  above
 list  evidently  includes  only  those  colors  found  in  the  country  of  the  Teton  Sioux.]
-
-
-174
 
 
 BUREAU  OF  AMERICAN  ETHKOLOGY
@@ -22622,9 +12952,6 @@ hi  -  na-wa  -  plq  kte  waq    -    ma-yai)-ka  yo     he       yo       ta  
 he-ma-ki-ya        he     yo  wa  -  hi  -  na-wa-pii)  kte  wai)-mar-yai)-ka  yo    he   yo
 
 
-WORDS
-
-
 wahi^nawa'^pii)  kte I  will  appear
 
 waQma^yaQka  yo behold  me
@@ -22636,16 +12963,14 @@ hemaOdya said  to  me
 
 DiMS&toaa]  TETON  SIOUX  MUSIO  175
 
-Analysis, — ^This  song  comprises  five  periods,  four  of  which  con-
-tain the  rhythmic  unit  while  one  has  a  different  rhythm.  Observ-
+Analysis, — ^This  song  comprises  five  periods,  four  of  which  contain the  rhythmic  unit  while  one  has  a  different  rhythm.  Observ-
 ing the  melodic  form,  we  note  that  the  first  period  consists  of
 three  measures  and  is  based  on  the  minor  triad,  B  flat,  *D  flat,  F,
 the-  tones  occurring  in  descend^g  ord€>r.  In  the  fourth  measiu'e
 the  accidental  B  double  flat  leads  downward  to  A  flat,  and  for
 several  measures  the  melody  is  based  on  the  descending  minor
 third  A  flat-F,  This  is  followed  by  a  return  to  the  minor  triad  in
-the  upper  octave  and  a  descent  to  A,  and  a  recurrence  of  the  acci-
-dental, the  song  closing  with  the  descending  minor  third  A  flat-F.
+the  upper  octave  and  a  descent  to  A,  and  a  recurrence  of  the  accidental, the  song  closing  with  the  descending  minor  third  A  flat-F.
 Five  tones  are  foimd  in  the  melody,  which  is  distinctly  major  in
 tonality.  The  sequence  of  tones  is  such  as  to  suggest  D  flat  as  a
 keynote,  and  the  song  is  accordingly  transcribed  and  analyzed  in
@@ -22670,8 +12995,7 @@ Continuing  his  narrative.  Brave  Buffalo  said :
 The  buffalo  in  my  dream  told  me  that  I  would  live  to  be  102  years  old.  Then  they
 said:  "If  you  are  to  show  people  the  great  value  of  the  buffalo  one  proof  which  you
 must  give  them  is  a  demonstration  of  your  endurance.  After  properly  qualifying
-yourself  you  will  be  able  to  show  that  weapons  can  not  harm  you,  and  you  may  chal-
-lenge anyone  to  shoot  you  with  arrows  or  with  a  gun.
+yourself  you  will  be  able  to  show  that  weapons  can  not  harm  you,  and  you  may  challenge anyone  to  shoot  you  with  arrows  or  with  a  gun.
 
 Brave  Buffalo  said  that  on  waking  from  his  dream,  he  went  home
 and  thought  the  matter  over  seriously.  After  qualifying  himself  for
@@ -22683,9 +13007,6 @@ see  whether  anyone  could  wound  him.  Many  tried  with  arrows,  but
 could  not  do  so.  The  arrows  did  not  penetrate  his  skin.  Several
 years  later  the  test  was  repeated  with  guns,  and  Brave  Buffalo
 stated  that  thoy  were  not  able  to  injure  him.
-
-
-176
 
 
 BUREAU  OF  AMERICAN  ETHNQLOGY
@@ -22712,9 +13033,6 @@ Sung  by  Brave  Buffalo
 m^^iW^^^^
 
 
-(Catalogue  No.  608)
-
-
 iigittfefe^
 
 
@@ -22730,12 +13048,10 @@ in  structure.
 
 DREAMS  GONCERNINQ  THE   ELK
 
-A  dream  of  the  elk  has  a  peculiar  significance.  The  elk  is  a  favor-
-ite animal  among  the-young  men.    Shooter  explained  this  as  follows:
+A  dream  of  the  elk  has  a  peculiar  significance.  The  elk  is  a  favorite animal  among  the-young  men.    Shooter  explained  this  as  follows:
 
 The  best  part  of  a  man's  life  is  between  the  ages  of  IS  and  33 .  Then  he  is  at  his  best.
-He  has  the  strength  and  ability  to  accomplish  his  aims.  He  is  brave  to  defend  him-
-self and  others  and  is  free  to  do  m|ich  good.  He  is  kind  to  all,  especially  to  the  poor
+He  has  the  strength  and  ability  to  accomplish  his  aims.  He  is  brave  to  defend  himself and  others  and  is  free  to  do  m|ich  good.  He  is  kind  to  all,  especially  to  the  poor
 and  needy.  The  tribe  looks  to  him  as  a  defender,  and  he  is  expected  to  shield  the
 women.  His  physical  stren^h  is  at  its  best.  He  is  light  on  his  feet  and  can  reduce
 long  distances  to  short  ones.  He  is  taught  true  politeness  and  is  very  gallant.  What
@@ -22759,12 +13075,6 @@ go  into  the  woods,  on  a  mountain,  or  in  any  dangerous  place.    At  t
 OBirSMORR]
 
 
-TETON  SIOUX   MUSIC
-
-
-177
-
-
 best  in  health  and  in  worthinesB,  for  I  had  conducted  myself  rightly  in  my  youth,
 complying  with  all  that  is  required  of  a  boy  and  young  man  and  living  in  a  manner
 wortliy  of  my  parents  and  grandparents.  I  had  a  clean  record  when  I  dreamed  of
@@ -22772,8 +13082,7 @@ the  elk.
 
 The  dream  came  to  me  when  I  was  asleep  in  a  tent.  Some  one  came  to  the  door
 of  the  tent.  He  said  he  had  come  for  me,  and  I  arose  and  followed  him.  It  was  a
-long  and  difficult  journey,  but  at  last  he  led  me  to  a  beautiful  ledge.  All  the  sur-
-round ings  were  beautiful.  The  lodge  was  painted  yellow  outside,  and  the  door  faced
+long  and  difficult  journey,  but  at  last  he  led  me  to  a  beautiful  ledge.  All  the  surround ings  were  beautiful.  The  lodge  was  painted  yellow  outside,  and  the  door  faced
 the  southeast.  On  entering  the  lodge  I  saw  drawings  on  the  walls.  At  the  right  of
 the  entrance  was  a  drawing  of  a  crane  holding  a  pipe  with  the  stem  upward,  and  at
 the  left  was  a  drawing  of  a  crow  holding  a  pipe  with  the  stem  downward.  I  could
@@ -22793,9 +13102,7 @@ has  no  words.
 No.  46.  Song  of  the  Elks  (Catalogue  No.  609)
 
 Sung  by  Brave  Buffalo
-VoicB  J  =60
 Drum  j=  120
-Drum-rhythm  similar  to  No.  8
 
 
 iia  r^  .c  ^
@@ -22828,8 +13135,7 @@ feather  tied  on  its  right  horn  to  indicate  that  it  could  nm  as  fast
 the  eagle  flies..  He  was  told  to  wear  a  similar  feather  on  his  head,
 and  at  the  time  of  giving  this  narrative  he  had  a  downy  eagle  pliune
 fastened  on  the  right  side  of  his  felt  hat.  (See  p.  248.)  The  elks
-told  him  to  paint  his  tipi  in  a  manner  similar  to  theirs,  yellow  out-
-side with  drawings  of  the  crane  and  the  crow  on  its  inner  walls,  saying
+told  him  to  paint  his  tipi  in  a  manner  similar  to  theirs,  yellow  outside with  drawings  of  the  crane  and  the  crow  on  its  inner  walls,  saying
 that  these  birds  would  protect  him.  This  style  of  painting  the  tipi
 he  has  always  carried  out.  The  elks  told  him  further  that  before  he
 would  be  fully  entitled  to  make  a  request  for  help  from  them  he
@@ -22841,8 +13147,7 @@ On  reaching  home  Brave  Buffalo  made  a  mask  of  elk  hide,  using  for
 this. purpose  the  skin  of  the  head  with  the  horns.  He  then  painted
 himself  yellow  and  held  in  each  hand  a  hoop  wound  with  elk  hide  and
 decorated  with  an  herb  which  is  much  liked  by  the  elks.^  A  specimen
-of  this  herb  was  secured  and  identified  as  Monarda  moUw  L,,  com-
-monly known  as  wild  bergamot.  This  was  used  by  the  young  men
+of  this  herb  was  secured  and  identified  as  Monarda  moUw  L,,  commonly known  as  wild  bergamot.  This  was  used  by  the  young  men
 chiefly  on  accoimt  of  its  fragrance.  Another  variety  of  the  * '  elk  herb  "
 was  used  by  Eagle  Shield  in  his  practice  of  medicine.  (See  p.  270.)
 Brave  Buffalo  made  also  a  hoop  (pi.  26,  which  he  said  was  similiar  to
@@ -22882,9 +13187,6 @@ BULLETIN  SI     PLATE  27
 H4lfl  ORNAMENT  WORN  BV  ELK  DREAMER
 
 
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
 BULLETIN  61     PLATE  28
 
 
@@ -22904,8 +13206,7 @@ elks  and  they  tell  him  what  to  use  and  where  to  find  it.
 The  emblem  of  the  elk  is  a  circle,  exemplified  by  the  hoop  which  an
 elk  dreamer  carries  in  his  hand  when  "acting  out  his  dream."  The
 young  men  wear  a  hair  ornament  consisting  of  a  small  hoop  wound
-with  porcupine  quills  and  having  a  downy  white  eagle  feather  sus-
-pended in  the  center.  Such  an  ornament  is  shown  in  plate  27;  the
+with  porcupine  quills  and  having  a  downy  white  eagle  feather  suspended in  the  center.  Such  an  ornament  is  shown  in  plate  27;  the
 eagle  feather  is  suspended  by  a  tiny  loop  of  hide  at  the  end  of  the
 quill.  This  ornament  is  fastened  by  a  narrow  strip  of  hide  to  a  lock
 of  hair  on  top  and  at  the  left  side  of  a  man's  head;  The  fastening
@@ -22925,8 +13226,7 @@ stood  around  him  untU  he  regained  his  senses;  then  they  moved  on,
 telling  him  to  foUow  them.  They  led  the  way  to  a  wolf  den  on  top  of
 a  high  hUl.  While  he  was  there,  more  wolves  came  out  of  the  hole,
 painted  like  the  others.  The  wolves  have  always  been  wanderers,  not
-knowing  where  they  would  find  food.  They  knew  he  had  been  hunt-
-ing and  had  had  much  difficidty  in  finding  game,  and  they  wanted  to
+knowing  where  they  would  find  food.  They  knew  he  had  been  hunting and  had  had  much  difficidty  in  finding  game,  and  they  wanted  to
 help  him.  They  said  there  was  a  certain  herb  which,  if  dried,  would
 enable  him  to  catch  all  kinds  of  snakes.  lie  was  told  to  dry  this  herb,
 and  put  it  on  the  ground  where  the  snakes  are  woiit  to  come.  He  did
@@ -22942,12 +13242,6 @@ itself  around  the  bow.  He  held  the  snake  close  to  its  head  during  t
 demonstration  and  let  it  go  after  the  demonstration  was  closed.    The
 
 I  Cf.  too  wearlQi^  of  %  woU  lil4^  by  warriors,  p.  388,
-
-
-180
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 (boll.  61
@@ -22966,17 +13260,10 @@ was  his  custom  to  sing  this  song  every  night.
 
 VoiC»  Jzr92
 
-Drum  J  =  92
-
-Drum-rhythm  similar  to  No.  8
-
 
 No.  47.  "Owls  Hooting''
 
 Sung  by  Brave  Buffalo
-
-
-(Catalogue  No.  607)
 
 
 Hi)]-hai)     ho-tuq    pe    -   lo      hii)  -  haq      ho  -  tui)    pe
@@ -23039,9 +13326,6 @@ pe
 hii)  -  hai)     ho  -  tug    pe   -   lo      hii)-hai)     ho  -  tui)    pe
 
 
-WORDS
-
-
 highaD^ owls
 
 ho'tug  *  pelo^ (were)  hooting
@@ -23054,8 +13338,7 @@ ho'tui)  pelo^  ' (wore )  hooting
 
 
 >RIggSKlvoslhefollowlngdoflnitlonof  the  word  ho:  "thf  micr  either  of  a  man  or  of  any  animal  or  thing;
-wwnd  in  general."  Its  exact  meaning  is  understooil  from  its  use  (cf.  itny'tn^,  \).  70).  When  ho  is  used  con-
-oemtng  an  animal,  it  is  understood  to  refer  to  the  peculiar  call  or  cry  of  that  animal.  Thus  in  this  memoir,
+wwnd  in  general."  Its  exact  meaning  is  understooil  from  its  use  (cf.  itny'tn^,  \).  70).  When  ho  is  used  conoemtng  an  animal,  it  is  understood  to  refer  to  the  peculiar  call  or  cry  of  that  animal.  Thus  in  this  memoir,
 in  addition  to  the  present  song,  it  appears  iis  follows:  With  reference  to  wolvas  in  wng  No.  4S,  lo  bulTulo  in
 song  No.  54,  to  owls  and  wolves  in  No.  160,  to  owls  and  crows  in  No.  50,  to  the  bear  in  No.  84,  and  to  the
 horse  in  Nos.  109,  ill.
@@ -23071,8 +13354,7 @@ Three  renditions  recorded  at  a  later  time  were  f  oxmd  to  be  identica
 The  intonation  is  not  so  good  as  in  other  songs  by  the  same  singer,
 an  uncertainty,  or  wavering  of  the  tone,  occurring  at  the  same  point
 in  all  the  renditions.  The  customary  "calls''  or  "cries''  were  given
-between  the  repetitions  of  the  song.  About  one-fourth  of  the  inter-
-vals are  minor  seconds  which^  as  already  noted,  are  found  less  fre-
+between  the  repetitions  of  the  song.  About  one-fourth  of  the  intervals are  minor  seconds  which^  as  already  noted,  are  found  less  fre-
 quently than  major  seconds  in  both  Chippewa  and  Sioux  songs.
 
 Some  medicine-men  consider  the  owl  especially  sacred  among  birds.
@@ -23110,10 +13392,6 @@ which  was  as  follows:
 
 
 (1 A  dream  similar  to  this  is  recorded  by  J.  Owen  Dorsey  in  Eleventh  Rep.  Bw.  Etkn,,  pp.  478-479.)
-4840''— Bull.  61—18 14
-
-
-182
 
 
 BUREAU   OP  AMEEICAN   ETHNOLOGY
@@ -23155,7 +13433,6 @@ ha
 
 e     ya  he      wa  -  kai)  -  yai)  ho  a  ku   -   we  -  lo
 
-WORDS
 
 ate^ father
 
@@ -23189,12 +13466,10 @@ w^akaq'yai] in  a  sacred  manner
 
 ho  ku'welo she  is  coming  home
 
-Analysis. — The  final  tone  of  this  song  is  indistinct  on  the  phono-
-graph cyUnder,  as  it  evidently  was  below  the  natural  range  of  the
+Analysis. — The  final  tone  of  this  song  is  indistinct  on  the  phonograph cyUnder,  as  it  evidently  was  below  the  natural  range  of  the
 singer^s  voice.  It  is  interesting  to  note  the  uncertainty  of  intonation
 on  G.  This  tone  is  first  approached  by  a  descent  of  a  minor  third^
-which  is  un  interval  frequently  sung  too  small,  and  in  its  next  occur-
-rence it  alternates  with  F,  constituting  a  repeated  major  second.
+which  is  un  interval  frequently  sung  too  small,  and  in  its  next  occurrence it  alternates  with  F,  constituting  a  repeated  major  second.
 A  repetition  of  small  intervals  appears  to  be  difficult  for  Sioux  or
 Chippewa.     (See  analysis  of  song  No.  100,  Bulletin  53.)     The  time
 
@@ -23206,12 +13481,6 @@ I  This  word  Is  elided  with  the  followliig  and  sung  as  ipaku.
 
 
 DBN8M0RE]
-
-
-TETON  SIOUX  MUSIC
-
-
-188
 
 
 in  this,  as  in  many  similar  songs,  was  not  rigidly  maintained.    Three
@@ -23247,7 +13516,6 @@ noQ-pa  wai)  to    -    ke-6a    wa    -    kai]-yai]  mi  -  6a  -  ke    -   
 
 kai)  -  yaij  mi  -  i  -  i  -  6a  -  ^e  -  lo        ko  -  la  wai)-ma  -  a  -  o-yai)  -  ka      yo
 
-WORDS
 
 wakaQ^yaQ in  a  sacred  manner
 
@@ -23273,8 +13541,7 @@ wai)ma^yai)ka  yo behold  me
 
 p  The  ability  to  make  objects  "sacred,"  thus  giving  them  mysterious  power,  was  said  to  belong  only  to
 men  who  had  the  ability  to  talk  with  such  objects  and  to  understand  what  they  said.  (Cf.  section  on
-Sacred  Stones,  pp.  218,  230,  231,  234,  236,  238,  in  which  men  talk  with  the  stones  and  receive  their  mes-
-sages.) When  making  a  pipe  "sacred"  the  medicine-man  filled  it,  Incensed  it  with  burning  sweet  gxass,
+Sacred  Stones,  pp.  218,  230,  231,  234,  236,  238,  in  which  men  talk  with  the  stones  and  receive  their  messages.) When  making  a  pipe  "sacred"  the  medicine-man  filled  it,  Incensed  it  with  burning  sweet  gxass,
 and  offand  it  to  the  sky  and  the  cardinal  points.]
 
 
@@ -23286,17 +13553,13 @@ many  similar  songs,  the  time  was  not  strictly  maintained.  From
 the  beginning  of  the  song  to  the  fifth  measure  before  its  close  the
 melody  is  framed  on  the  chord  F  sharp-A-C  sharp-E,  a  minor  triad
 with  minor  seventh  added.  Other  tones  occur,  and  the  descending
-fourth  C  sharp-G  sharp  is  noted,  but  this  chord  is  felt  as  a  frame-
-work. The  song  closes  with  a  repetition  of  the  descending  minor
-third  E-C  sharp.  The  song  is  melodic  in  structure,  and  about  two-
-thirds  of  the  intervals  are  descending  progressions.  .
+fourth  C  sharp-G  sharp  is  noted,  but  this  chord  is  felt  as  a  framework. The  song  closes  with  a  repetition  of  the  descending  minor
+third  E-C  sharp.  The  song  is  melodic  in  structure,  and  about  twothirds  of  the  intervals  are  descending  progressions.  .
 
-See  plot  of  this  melody  on  page  204.
 
 DREAM  OF  THE   CROW   AND  OWL
 
-Siya'ka  in  his  youth  dreamed  of  a  crow  and  an  owl.  His  nar-
-rative as  here  given  reveals  the  manner  in  which  a  dream  was  sought
+Siya'ka  in  his  youth  dreamed  of  a  crow  and  an  owl.  His  narrative as  here  given  reveals  the  manner  in  which  a  dream  was  sought
 and  also  the  importance  attached  to  it:
 
 AU  clasaes  of  people  know  that  when  human  power  fails  they  must  look  to  a  higher
@@ -23314,16 +13577,14 @@ that  reason  a  dreamer  makes  known  his  request  through  what  he  sees  w
 are  closed.  It  has  long  been  his  intention  to  make  his  request  of  WakaQ^taQka,  and
 he  resolves  to  seek  seclusion  on  the  top  of  a  butte  or  other  high  place.  When  at  lost
 he  goes  there  he  closes  his  eyes,  and  his  mind  is  upon  Wakai)^tai)ka  and  his  work.
-The  man  who  does  this  usually  has  in  mind  some  animal  which  he  would  like  for  pro-
-tection and  help.  No  man  can  succeed  in  life  alone,  and  he  can  not  get  the  help  he
+The  man  who  does  this  usually  has  in  mind  some  animal  which  he  would  like  for  protection and  help.  No  man  can  succeed  in  life  alone,  and  he  can  not  get  the  help  he
 wants  from  men;  therefore  he  seeks  help  through  some  bird  or  animal  which  Wakag'-
 tai)ka  sends  for  his  assistance.  Many  animals  have  ways  from  which  a  man  can  learn
 a  great  deal,  even  from  the  fact  that  horses  arc  restless  before  a  storm.
 
 When  I  was  a  young  man  I  wanted  a  dream  through  which  I  could  know  what  to
 depend  upon  for  help.  Having  this  desire,  I  went  to  a  medicine-man  [*]  and  told
-him  about  it.  He  instructed  me  what-  to  do,  and  I  followed  his  instructions  in  every-
-thing. He  told  me  to  get  four  well-tanned  robes,  with  one  for  my  own  use,  also  A
+him  about  it.  He  instructed  me  what-  to  do,  and  I  followed  his  instructions  in  everything. He  told  me  to  get  four  well-tanned  robes,  with  one  for  my  own  use,  also  A
 decorated  pipe  and  offerings  of  tobacco,  and  to  appear  before  him  on  a  certain  day
 prepared  to  seek  my  vision.  I  prepared  the  articles  as  he  directed  and  went  to  him
 on  that  day.  He  painted  my  face  white,  and  before  leaving  him  we  went  together
@@ -23346,8 +13607,7 @@ some  of  the  tobacco.  These  offerings  were  to  show  that  I  desired  mes
 directions  of  the  four  winds  and  was  waiting  anxiously  to  hear  the  voice  of  some  bird
 or  animal  speaking  to  me  in  a  dream.
 
-Having  placed  these  offerings  in  position,  and  according  to  the  advice  of  the  medi-
-cine-man, I  stood  facing  the  west  and  watched  the  sun  disappear.  As  soon  bb  the  sun
+Having  placed  these  offerings  in  position,  and  according  to  the  advice  of  the  medicine-man, I  stood  facing  the  west  and  watched  the  sun  disappear.  As  soon  bb  the  sun
 wafl  out  of  sight  I  closed  my  eyes  and  turned  my  face  toward  the  east,  standing  thus
 for  awhile,  then  facing  the  north  and  the  south.  So  I  stood,  wrapped  in  a  buffalo
 robe.  I  was  not  exactly  singing,  but  more  nearly  lamenting,  like  a  child  asking  for
@@ -23382,26 +13642,15 @@ the  animals  and  birds  were  his  fiiends,  and  that  he  wished  me  to  fo
 used  to  secure  their  friendship.  He  told  me  to  lift  my  head.  I  did  this  and  saw
 dragon  flies,  butterflies,  and  all  kinds  of  small  insects,  while  above  them  flew  all  kinds
 of  birds.  As  soon  as  I  cast  down  my  eyes  again  and  looked  at  the  young  man  and  at
-the  man  who  had  brought  me  thither,  I  saw  that  the  young  man  had  become  trans-
-formed into  an  owl,  and  that  my  escort  had  changed  again  into  a  crow.  The  follow-
+the  man  who  had  brought  me  thither,  I  saw  that  the  young  man  had  become  transformed into  an  owl,  and  that  my  escort  had  changed  again  into  a  crow.  The  follow-
 ing is  the  song  of  this  part  of  my  dream.
 
 • -" ■ -  -  --  I  ^IMM  _
 
 [1  It  will  be  recalled  that  the  stripes  on  the  buffalo  skull  used  In  the  Alo'waQpl  ceremony  and  In  the  Sun
 duioe  were  red,  and  that  In  the  HuQka  ceremony  the  skull  was  laid  facing  the  west  and  in  the  Sun  dance
-facing  the  east.  In  both  these  instances  the  skiiil  was  laid  on  a  bed  of  fresh  sage.  In  a  narrative  con-
-cerning the  "calling  of  the  buffalo  *'  by  a  medicine-man  it  is  stated  that  a  bufl^o  skull  was  painted  with
+facing  the  east.  In  both  these  instances  the  skiiil  was  laid  on  a  bed  of  fresh  sage.  In  a  narrative  concerning the  "calling  of  the  buffalo  *'  by  a  medicine-man  it  is  stated  that  a  bufl^o  skull  was  painted  with
 both  red  and  blue  stripes.    (See  pp.  72, 127,  444.)]
-
-
-186
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  61
 
 
 No.  50.  Song  of  the  Crow  and  Owl     (Catalogue  No.  473)
@@ -23466,9 +13715,6 @@ tOQ-haij    ma-wa  -  ni    nuq
 we        he
 
 
-WORDS
-
-
 {First  rendition)
 
 hagye'tu at  night
@@ -23517,12 +13763,6 @@ minor  in  tonality  and  lacks  the  sixth  and  second  tones  of  the  com-
 DKNStfORBl
 
 
-TETON   SIOUX   MUSIC
-
-
-187
-
-
 plete  octave.  In  structure  it  is  melodic,  and  the  trend  is  steadily
 downward  from  the  eleventh  to  the  tonic.  The  subdominant  is
 more  prominent  in  this  than  in  many  of  the  songs  under  analysis.
@@ -23563,9 +13803,6 @@ m
 .T  r  r  T
 
 
-2
-
-
 ta  -  te        i  -  6a  -
 
 
@@ -23604,8 +13841,6 @@ ta-te    to-kiu-ye
 ta-te       1  -  6a  -  hmux)-yai)    na  -  wa  -  £ii)
 
 
-WORDS
-
 toOci ^ where
 
 tate'' the  wind
@@ -23635,25 +13870,20 @@ nawa^f  ii)  ye I  stand
 
 •
 
-Analysis. — ^Two  renditions  of  this  song  were  recorded,  the  prin-
-cipal difference  between  them  being  that  in  the  second  rendition
+Analysis. — ^Two  renditions  of  this  song  were  recorded,  the  principal difference  between  them  being  that  in  the  second  rendition
 the  half  note  at  the  end  of  the  third  measure  was  simg  a  quarter
 note  and  the  last  note  of  the  following  measure  a  half  note,  thus
 comprising  five  counts  in  the  two  measures,  but  distributing  them
-differently.  The  intonation  ■  was  wavering  throughout  the  ren-
-ditions, making  the  song  especially  difficult  of  transcription.  This
+differently.  The  intonation  ■  was  wavering  throughout  the  renditions, making  the  song  especially  difficult  of  transcription.  This
 was  undoubtedly  due  in  part  to  the  presence  of  the  accidental.
 It  was  clearly  the  intention  of  the  singer  to  differentiate  the  tones
 transcribed  respectively  as  D  sharp  and  D  natural,  but  the  interval
 between  the  two  was  not  always  an  exact  minor  second.  As
 already  stated,  the  minor  second  is  not  of  frequent  occurrence.
-It  is  frequently  simg  too  small,  but  not  with  sufficient  imi-
-formity  to  justify  the  belief  that  a  definite  interval  smaller
-than  a  semitone  is  in  the  mind  of  the  singer.  The  measure  trans-
-cribed in  3-8  time  was  imiformly  sung  in  all  the  rejiditions.  The
+It  is  frequently  simg  too  small,  but  not  with  sufficient  imiformity  to  justify  the  belief  that  a  definite  interval  smaller
+than  a  semitone  is  in  the  mind  of  the  singer.  The  measure  transcribed in  3-8  time  was  imiformly  sung  in  all  the  rejiditions.  The
 melody  tones  are  those  of  the  second  five-toned  scale  with  the  fourth
-raised  a  semitone  as  an  accidental.  The  song  is  melodic  in  struc-
-ture and  has  a  compass  of  12  tones.
+raised  a  semitone  as  an  accidental.  The  song  is  melodic  in  structure and  has  a  compass  of  12  tones.
 
 Siya'ka  said  further:
 
@@ -23694,16 +13924,9 @@ that  he  was  an  old  wolf,  so  old  that  he  had  no  teeth,  and  there  w
 DBNSMOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-189
-
-
 He  could  scarcely  move,  and  be  lay  down  beside  tbeir  fire.  They  cut  up  their  best
 buffalo  meat  and  fed  him.  Afterward  they  learned  his  song,  which  was  the  beginning
-of  all  the  wolf  songs  (war  songs) .  After  this,  too,  the  warriors  began  the  custom  of  carry-
-ing a  wolf-skin  medicine  bag.
+of  all  the  wolf  songs  (war  songs) .  After  this,  too,  the  warriors  began  the  custom  of  carrying a  wolf-skin  medicine  bag.
 
 The  writer  was  told  by  Looking  Elk  and  others  that  the  wolf -akin
 medicine  bag  carried  by  warriors  had  been  known  to  ''come  to  life"
@@ -23714,8 +13937,6 @@ No.  62.  "  I  Made  It  Walk"  (Catalogue  No.  533)
 
 SimgbyTwo  Shields
 VoicH  J^=  168
-Drum  J  =138
-Drum-rhythm  similar  to  No.  19
 
 
 ^S
@@ -23734,9 +13955,6 @@ E
 
 
 %^n^=S=^
-
-
-5
 
 
 g
@@ -23823,9 +14041,6 @@ wa
 kai)  -  yai]        ma  -  ni    wa  -  ye
 
 
-WORDS
-
-
 wakag'yag ^ by  my  Bupematural  power
 
 ma'^ni  waye' 1  made  it  walk
@@ -23841,24 +14056,13 @@ of  this  song.  The  time  is  exactly  maintained  throughout.  The
 melody  tones  are  those  of  the  major  triad  and  second — an  imusual
 tone  material.  The  ascent  of  a  sixth  at  the  opening  of  the  song  is
 also  unusual.  The  song  has  a  compass  of  13  tones.  Two-thirds  of
-the  progressions  are  major  seconds,  and  a  majority  of  the  other  inter-
-vals are  fourths.
+the  progressions  are  major  seconds,  and  a  majority  of  the  other  intervals are  fourths.
 
 Weasel  Bear  related  the  following  incident,  which  he  said  took  place
 when  his  father  was  a  young  man.     His  father,  whose  name  was
 
 
-190
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
-Metal  Knee  (Hu'pahu-ma'za),  was  with  a  number  of  men  on  the  war-
-path. On  stoppmg  beside  a  hill,  they  heard  what  they  beUeved  to  be
+Metal  Knee  (Hu'pahu-ma'za),  was  with  a  number  of  men  on  the  warpath. On  stoppmg  beside  a  hill,  they  heard  what  they  beUeved  to  be
 a  man  singing.  They  counted  their  party,  but  all  were  there.  One  of
 them  climbed  the  hill  and,  looking  over,  saw  a  wolf  sitting  with  his
 back  to  the  hill.  The  wolf  was  looking  away  off  and  singing.  The
@@ -23871,11 +14075,6 @@ was  as  follows:
 No.  68.  Song  of  a  Wolf  (Catalogue  No.  650)
 
 Sung  by  Weasel  Bear
-VoicB  J  =100
-
-Drum  J  =  88
-
-Drum-rhythm  similar  to  No.  19
 
 
 A13  -  pa   -  o      6aij  -  na    o  -  ma    -     wa  -  ni
@@ -23892,8 +14091,6 @@ ka  -  to  -  na  -
 
 oi)k      o  -  ma  -  wa  -  ni      ye
 
-
-WORDS
 
 {First  rendition)
 
@@ -23937,12 +14134,6 @@ oma^wani  ye -  T  mom
 
 
 DBMBlffORBj
-
-
-TETON  SIOUX  MUSIC
-
-
-191
 
 
 Analysis, — ^An  interesting  peculiarity  of  this  song  is  the  difference
@@ -24085,8 +14276,6 @@ y«
 ^^
 
 
-WORDS
-
 (First  rendUion)
 
 tataQ^ka a  buffalo
@@ -24152,12 +14341,6 @@ an  eagle  we  look  at  the  sky  so  steadily  that  everything  appears  blue
 DEN8H0KK]
 
 
-TETON- SIOUX  MUSIC
-
-
-193
-
-
 No.  66.  "An  Eagle  Nation  is  Coming"    (Catalogue  No.  472)
 Sung  by  Siya^'ka
 
@@ -24190,9 +14373,6 @@ J=144
 \%^  uMl
 
 
-144
-
-
 ^
 
 
@@ -24211,12 +14391,6 @@ ta  wai)         6  ya         a  -  u  we    wa  -  yai]    -    ka     yo
 J=  132
 
 
-8
-
-
-WORDS
-
-
 {First  rendition)
 
 ta^6a  ^  oya^te  waQ a  Deer  nation  (see  p.  162,  footnote)
@@ -24230,9 +14404,6 @@ ati'  we is  coming
 wayag^ka  yo behold  it
 
 I  According  to  Rlggs  ta'Mda  is  a  contxBctlon  ol  t'M^,  meaning  "the  common  deer,  Cavttt  capreolu*.
-
-
-194
 
 
 BUREAU  OF  AMEBICAN  ETHNOLbOY
@@ -24265,14 +14436,12 @@ intervals  is  of  less  importance  than  the  fact  that  27  of  the  interva
 intervals  are  major  seconds,  and  the  remaining  15  intervals  are
 minor  thirds.     Changes  of  time  occur  as  indicated.     (See  song  No.  50
 
-No  narrative  was  given  with  this  song.  Four  dream  songs  con-
-cerning deer  were  recorded  among  the  Chippewa — ^Nos.  95-98  in
+No  narrative  was  given  with  this  song.  Four  dream  songs  concerning deer  were  recorded  among  the  Chippewa — ^Nos.  95-98  in
 Bulletin  53.
 
 See  plot  of  this  meJody  on  page  204.
 
 
-Voice  J  =  84
 Drum  not  recorded
 
 
@@ -24281,22 +14450,13 @@ No.  56.  ''A  BlacktaU  Deer"
 Sung  by  Chabqinq  Thunder
 
 
-(Catalogue  No.  564)
-
-
 Wa-  kai)  mi  -  6a  -  ge
 
 
 wa-  kax)  mi  -  6a  -  ^e
 
 
-siq-te        sa-
-
-
-1
-
-
-pe  -  la  war)  wa   -   kai)  mi  -  6a
+siq-te        sape  -  la  war)  wa   -   kai)  mi  -  6a
 
 
 (
@@ -24328,7 +14488,6 @@ yo
 
 DKNSMORB]  TETON  SIOUX  MUSIC  195
 
-WORDS
 
 wakai)^ sacred
 
@@ -24352,17 +14511,14 @@ Analysis, — Tho  interval  of  the  minor  third  characterizes  this
 melody  and  constitutes  41  per  cent  of  the  entire  number  of  intervals.
 The  trend  of  the  melody  is  steadily  downward,  about  two-thirds  of
 the  iiitervals  being  'downward  progressions.  The  compass  of  the
-melody  is  14  tones,  lacking  only  1  tone  of  2  octaves:  Three  rendi-
-tions were  recorded;  these  show  no  points  of  variation.
+melody  is  14  tones,  lacking  only  1  tone  of  2  octaves:  Three  renditions were  recorded;  these  show  no  points  of  variation.
 
-See  plot  of  this  melody  on  page  204.
 
 SOXGS   CONCERNING  THE   BEAR
 
 Two  Shields  said:
 
-The  bear  is  the  only  animal  which  is  dreamed  of  as  offering  to  give  herbs  for  the  heal-
-ing of  man.  The  bear  is  not  afraid  of  either  animals  or  men  and  it  is  considered  ill-
+The  bear  is  the  only  animal  which  is  dreamed  of  as  offering  to  give  herbs  for  the  healing of  man.  The  bear  is  not  afraid  of  either  animals  or  men  and  it  is  considered  ill-
 tempered,  and  yet  it  is  the  only  animal  which  has  shown  us  this  kindness;  therefore
 the  medicines  received  from  the  bear  are  supposed  to  be  especially  effective.
 
@@ -24385,15 +14541,6 @@ passage  in  the  Coues  edition  is  as  follows:  "  Oariacus  macrotla,  also
 white,  but  tipped  with  black."  (History  of  the  Expedition  under  the  Command  of  Lewis  and  Clark,
 edited  by  Elliott  Coues,  vol.  1,  p.  122,  footnote,  1803.)  The  oomm6n  deer  is  mentioned  in  dlya'ka's  song,
 No.  55.
-
-
-196
-
-
-BUREAU  OP  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 VoiOB  J  =88
@@ -24449,16 +14596,11 @@ ban  -  tu    e
 na  -   fii)  -ye
 
 
-ma-
-
-
-te     he-ma  -  ki
+mate     he-ma  -  ki
 
 
 ye    a
 
-
-WORDS
 
 pef  i'liuta  wan a  medicine  (root  of  herb)
 
@@ -24473,8 +14615,7 @@ mato' a  bear
 hema^kiye said  this  to  me
 
 Analysis, — Tho  complex  rhythmic  form  of  this  song,  together  with
-its  clearness  in  repetition,  suggests  that  it  is  an  old  song  and  was  cor-
-rectly sung.  Four  rhythmic  phrases  are  found  in  the  song.  It  will
+its  clearness  in  repetition,  suggests  that  it  is  an  old  song  and  was  correctly sung.  Four  rhythmic  phrases  are  found  in  the  song.  It  will
 bo  noted  that  the  opening  of  the  first  and  second  are  alike,  and  that
 the  opening  of  the  third  and  foiu*th  also  have  a  resemblance  to  each
 
@@ -24488,15 +14629,8 @@ will  eat  this  In  order  to  live,  or  to  reooTer."   (Cf.  words  of  Song
 DBNSUOKS]
 
 
-TETON  SIOUX  MUSIC
-
-
-197
-
-
 other,  the  remainder  of  each  phrase  being  individual.  The  melody
-tones  are  those  of  the  second  five-toned  scale.  There  are  52  pro-
-gressions in  the  song,  37  (71  per  cent)  of  which  are  major  seconds.
+tones  are  those  of  the  second  five-toned  scale.  There  are  52  progressions in  the  song,  37  (71  per  cent)  of  which  are  major  seconds.
 Many  of  the  accented  tones  were  given  with  a  peculiar  attack,  much
 used  by  this  singer,  which  consisted  in  sounding  first  a  tone  slightly
 above  the  principal  tone  and  immediately  sliding  downward  to  that
@@ -24510,9 +14644,6 @@ No.  68.  ''He  Comes  to  Attack"
 Sung  by  Chaboino  Thunder
 VoicB  J -84
 Dkum  not  recorded
-
-
-(Catalogue  No.  562)
 
 
 LFamL^:4Lrig
@@ -24563,9 +14694,6 @@ te
 to  -  ke  -  6a  Ae  wa  -  u   we  he  ye  -  lo  yo    yo     yo
 
 
-WORDS
-
-
 wazi'yatai) from  the  north
 
 natai)'^  hina^pe  lo he  comes  to  attack
@@ -24590,16 +14718,9 @@ he  yelo' he  said
 
 
 1  In  the  usase  of  the  medicine-men  this  phrase  indicates  anger.    ( See  fcx>tnote,  p.  120.)
-4840**— Bull.  61—18 15
 
 
 W8
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 AncdyHs. — ^Two  renditions  of  this  song  were  recorded,  in  both  of
@@ -24615,7 +14736,6 @@ this  melody,  though  15  (39  per  cent)  of  the  intervals  are  minor  thir
 The  change  of  tempo  occurs  in  both  renditions  of  the  song.  (See
 song  No.  5.)
 
-See  plot  of  this  melody  on  page  204.
 
 The  analyses  of  two  other  groups  of  dream  songs  are  on  pp.  239, 278.
 
@@ -24637,18 +14757,11 @@ Mino»  tonality.
 Total.
 
 
-0
-13
-
-
 Serial  No6.  of  songs.
 
 
 38, 39,  42,  43,  44, 48,  52,  53,  55
 37,40,41,45,46,47,49,50,51,54,56,57,58
-
-
-22
 
 
 FIRST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
@@ -24676,13 +14789,8 @@ Fourth
 Total.
 
 
-22
-
-
 Serial  Nos.  of  songs.
 
-
-40
 
 37,61,56
 
@@ -24692,7 +14800,6 @@ Serial  Nos.  of  songs.
 
 41,45,55,58
 
-54
 
 42,44,49,52,53
 
@@ -24715,13 +14822,6 @@ Number
 of  songs.
 
 
-10
-
-2
-
-10
-
-
 Serial  Nos.  of  songs.
 
 
@@ -24735,19 +14835,10 @@ Serial  Nos.  of  songs.
 Total.
 
 
-22
-
-
 1 A  majority  of  these  songs  are  believed  tn  hA  an  fco  150  years  old.
 
 
 DEN  8  MORE]
-
-
-TETON  SIOUX  MUSIC
-
-
-199
 
 
 Old  SoThgs — (2)  Songs  Concerning  Personal  Dreams — Continued
@@ -24768,20 +14859,13 @@ Songs  in  which  final  tone  is  lowest  tone  in  son^
 
 Songs  containing  a  major  third  below  the  final  tone
 
-20
-
-1
-1
 
 37, 38, 3tf,  40. 41,  42,  43,  44,  45,  46,  48, 49,
 
 50,51,62,63,54,55,56,68
-47
-57
 
 Total
 
-22
 
 NUMBER  OF  TONES  COMPRISING  COMPASS  OF  SONG
 
@@ -24811,23 +14895,8 @@ Number
 of  songs.
 
 
-1
-3
-3
-2
-2
-2
-3
-6
-
-
-22
-
-
 Serial  Nos.  of  songs.
 
-
-65
 
 40,43,56
 
@@ -24879,24 +14948,6 @@ Number
 of  songs.
 
 
-2
-6
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-
-
-22
-
-
 Serial  Nos.  of  songs.
 
 
@@ -24906,28 +14957,11 @@ Serial  Nos.  of  songs.
 
 52,65
 
-45
-
-40
 
 37.47
 
-46
-
-58
 
 43,56
-
-50
-
-48
-
-41
-
-42
-
-
-200
 
 
 BUBEAU  OF  AMEBICAN   ETHNOLOGY
@@ -24966,9 +15000,6 @@ Serial  Nos.  of  songs.
 87, 38. 39, 40, 41, 43, 43, 45, 46, 4S,  49, 50, 52,
 
 53,54,65,50,57,58
-51
-44
-47
 
 
 STRUCTURE
@@ -24993,19 +15024,11 @@ Serial  Nos.  of  songs.
 
 1)
 
-2
-
-1
-
-
-22
-
 
 37, 38, 40, 41 ,  42, 43, 44, 45, 46, 47, 48, 49, 50,
 
 51,52,53,55,56,57
 39,54
-58
 
 
 FIRST  PR()(JRE8SION— DOWNWARD  AND  UPWARD
@@ -25016,9 +15039,6 @@ Downward.
 
 Number
 of  songs.
-
-
-16
 
 
 Serial  Nos.  of  soogs.
@@ -25035,21 +15055,15 @@ Total.
 6  I  41,49,52,53,55,56
 
 
-22
-
-
 TOTAL  NUMBER  OF  PROGRESSIONS-DOWNWARD  AND  UPWARD
 
 Downward
 
-420
-315
 
 Unward
 
 Total
 
-635
 
 INTERVALS  IN  DOWNWARD  PROGRESSION
 
@@ -25069,29 +15083,7 @@ Minor  seoond.
 ToliL..
 
 
-5
-4
-
-46
-
-31
-
-109
-
-190
-
-35
-
-420
-
-
 DKNSlfOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-201
 
 
 Old  Songs — (2)  Songs  Concerning  Personal  Dreams — Continued
@@ -25129,32 +15121,6 @@ Total.
 
 Nnmber
 of  songs.
-
-
-1
-
-2
-
-4
-
-2
-
-6
-
-16
-
-36
-
-13
-
-46
-
-73
-
-16
-
-
-216
 
 
 Serial  Nos.  of  songs.
@@ -25213,70 +15179,21 @@ Number
 of  songs.
 
 
-3
-1
-1
-1
-1
-1
-2
-2
-1
-1
-1
-1
-2
-1
-1
-2
-
-
-22
-
-
 Serial  Nos.  of  songs.
 
 
 37.51.54
 
-48
-
-46
-
-38
-
-50
-
-58
 
 39.42
 
 44,52
 
-57
-
-53
-
-55
-
-41
 
 45,49
 
-43
-
-56
 
 40,47
-
-
-202
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Old  Songs — (S)  Songs  Concerning  Personal  Dreams — Continued
@@ -25307,12 +15224,6 @@ RHYTHM  OF  FIRST  MEASURE
 
 First  measure  In—
 
-2-4  time
-
-3-4  time
-
-4-8  time
-
 
 Total.
 
@@ -25322,10 +15233,6 @@ of  songs.
 
 
 Serial  Nos.  of  songs.
-
-
-12
-9
 
 
 37, 38, 33, 42. 44, 47, 48, 49, 50, 53, 56, 58
@@ -25345,13 +15252,11 @@ Serial  Nos.  of  songs.
 
 Somrs  containing  no  change  of  time ..,..  r  r ,..-.,. .
 
-2
 
 39,47
 
 BOT*en  COntafnlncr  fk  chanirii  of  titnA
 
-20
 
 37,  38,  40,  41,  42,  43,  44,  45,  46,  48,  49,  50
 
@@ -25359,7 +15264,6 @@ BOT*en  COntafnlncr  fk  chanirii  of  titnA
 
 Total
 
-22
 
 RHYTHM  OF  DRUM
 
@@ -25383,10 +15287,7 @@ Total.
 Serial  Nee.  of  songs.
 
 
-46
-
 39,44,47,52.53
-41
 
 37,  38,  40.  42,  43,  4.5,  48,  49,  50,  51,  54,  55
 56,57,58
@@ -25410,17 +15311,6 @@ Four  rhy  tlimic  units .
 Total
 
 
-7
-
-13
-
-1
-
-1
-
-22
-
-
 Serial  Nos.  of  songs.
 
 
@@ -25428,18 +15318,8 @@ Serial  Nos.  of  songs.
 
 37, 40, 41, 42. 43, 44, 47, 50. 51, 52, 54, 56. 58
 
-39
-
-57
-
 
 DRNRMORE]
-
-
-TETON  SIOUX  MUSIC
-
-
-203
 
 
 Old  Songs — (£)  Songs  Concerning  Personal  Dreams — Continued
@@ -25490,33 +15370,8 @@ of  songs.
 Serial  Nos.  of  songs.
 
 
-1
-1
-2
-1
-2
-2
-2
-2
-1
-2
-2
-1
-1
-1
-1
-
-
-22
-
-
-51
-
-48
-
 45,46
 
-37
 
 44,50
 
@@ -25526,19 +15381,10 @@ Serial  Nos.  of  songs.
 
 56,58
 
-57
 
 42,47
 
 38.53
-
-55
-
-52
-
-54
-
-41
 
 
 METRIC  UNIT  OF  DRUM  (TEMPO)
@@ -25550,35 +15396,6 @@ Serial  Nos.  Of  songs.
 
 Metrjnome—
 
-63
-
-44
-
-88
-
-53
-
-92
-
-47
-
-120
-
-46
-
-138
-
-52
-
-144
-
-41
-
-152
-
-15
-
-39
 
 Drum  not  recorded
 
@@ -25588,7 +15405,6 @@ Drum  not  recorded
 
 Total
 
-22
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM  (TEMPO)
 
@@ -25606,16 +15422,6 @@ Total
 
 Number
 of  songs.
-
-
-2
-2
-3
-
-15
-
-
-22
 
 
 Serial  Nos.  of  songs.
@@ -25636,8 +15442,7 @@ PLOTS  OF  SONOS   (dBEAMS   ABOUT  ANIHALS)
 
 From  among  the  plots  of  the  preceding  group  of  songs  four  are
 herewith  presented.  No  56  is  an  example  of  Class  A  (see  fig.  19)
-and  contains  no  ascending  intervals.  No.  49  resembles  it  but  con-
-taina  short  intervals  which  frequently  occur  in  songs  concerning
+and  contains  no  ascending  intervals.  No.  49  resembles  it  but  containa  short  intervals  which  frequently  occur  in  songs  concerning
 aiumals  or  suggesting  motion,  as  shown  in  Class  D.  We  note  that
 the  title  of  this  song  ia  "Song  of  the  old  wolf,"  but  that  no  suggestion
 of  motion  is  found  in  the  words,  Ko.  65  has  the  wide  compass  and
@@ -25667,16 +15472,14 @@ use  the  sacred  stones.  This  power  would  be  shown  in  an  abiUty  to
 cure  sickness,  to  predict  future  events,  and  to  tell  the  location  of
 objects  beyond  the  range  of  his  natural  vision.  The  stones  were
 the  native  brown  sandstone,  usually  spherical  in  shape,  though
-oval  stones  and  stones  slightly  flattened  were  also  used,  the  prin-
-cipal requirements  being  that  they  should  be  regiilar  in  outline  and
+oval  stones  and  stones  slightly  flattened  were  also  used,  the  principal requirements  being  that  they  should  be  regiilar  in  outline  and
 untouched  by  a  tool.  The  symbolism  of  the  stones  was  given  by
 Chased-by-Bears ^  as  follows:
 
 The  outline  of  the  stone  is  round,  having  no  end  and  no  beginning;  like  the  power
 of  the  stone  it  is  endless.  The  stone  is  perfect  of  its  kind  and  is  the  work  of  nature,
 no  artificial  means  being  used  in  shaping  it.  Outwardly  it  is  not  beautiful,  but  its
-structure  is  solid,  like  a  solid  house  in  which  one  may  safely  dwell.  It  is  not  com-
-posed of  many  substances,  but  is  of  one  substance,  which  is  genuine  and  not  an
+structure  is  solid,  like  a  solid  house  in  which  one  may  safely  dwell.  It  is  not  composed of  many  substances,  but  is  of  one  substance,  which  is  genuine  and  not  an
 imitation  of  anything  else. '
 
 The  term  used  by  the  Sioux  in  speaking  of  these  stones  is  iuykay',
@@ -25690,8 +15493,7 @@ in  the  mind  of  the  Sioux.     (Cf .  footnote,  p.  88.)
 
 It  is  said  that  a  medicine-man,  in  demonstrating  his  power  to  acquire
 information  by  means  of  the  sacred  stones,  sends  them  long  distances.
-After  a  time  the  stones  return  and  give  him  the  desired  informa-
-tion. He  is  the  only  person  who  can  understand  what  they  say,
+After  a  time  the  stones  return  and  give  him  the  desired  information. He  is  the  only  person  who  can  understand  what  they  say,
 and  therefore  he  repeats  their  message  to  the  man  who  requested
 him  to  make  the  inquiry.  During  a  demonstration  for  the  curing
 of  the  sick  it  is  said  that  the  stones,  flying  through  the  air  in  the
@@ -25718,8 +15520,7 @@ by  the  human  senses.     .  .  .     His  symbol  is  the  bowlder.     .  . 
 lives,  also  in  what  is  termed  'the  four  winds.'  "  *     Dorsey  writes:
 
 Takiu^ksLQ^ai),  the  moving  deity  .  .  .  ie  the  most  powerful  of  their  [the  Dakota]
-gods;  the  one  most  to  be  feared  and  propitiated,  since,  more  than  all  others,  he  in-
-fluences human  weal  and  woe.  He  is  supposed  to  live  in  the  four  winds,  and  the
+gods;  the  one  most  to  be  feared  and  propitiated,  since,  more  than  all  others,  he  influences human  weal  and  woe.  He  is  supposed  to  live  in  the  four  winds,  and  the
 four  black  spirits  of  night  do  his  bidding.'
 
 Miss  Alice  C.  Fletcher  uses  the  term  "Something  that  moves,"
@@ -25734,12 +15535,10 @@ are  symbolized  by  the  raven  and  a  small  black  stone,  lees  than  a  he
 
 The  desire  for  a  dream  of  this  small  black  stone  and  the  manner  of  its
 treatment,  as  described  by  this  author,  are  similar  to  those  connected
-with  the  sacred  stones  which  form  the  subject  of  the  present  dis-
-cussion.
+with  the  sacred  stones  which  form  the  subject  of  the  present  discussion.
 
 Distinct  from  these  small  stones,  which  wore  carried  on  the  person^
-were  the  large!  stones  or  rocks  in  the  field  which  were  **  objects  of  wor-
-ship.^'  liiggs  says,  "Large  bowlders  were  selected  and  adorned  with
+were  the  large!  stones  or  rocks  in  the  field  which  were  **  objects  of  worship.^'  liiggs  says,  "Large  bowlders  were  selected  and  adorned  with
 red  and  green  paint,  whither  the  devout  Dakota  might  go  to  pray  and
 offer  his  sacrifice."^  An  interesting  account  of  such  a  stone,  known
 as  Eyay  Shah,  "Red  Rock,"  is  given  by  Hovey.  This  stone  was
@@ -25747,19 +15546,16 @@ situated  near  the  site  of  St.  Paul,  Minn.,  and  was  last  visited  by  
 Sioux  shortly  before  their  outbreak  in  1862.'  Many  stones  on  the
 Dakota  prairie  are  said  to  have  been  similarly  regarded  by  the  Sioux.
 
-To  talk  of  these  stones  is  "sacred  talk"  to  the  Sioux,  and  the  ma-
-terial comprised  in  this  chapter  was  treated  with  the  same  reverence
+To  talk  of  these  stones  is  "sacred  talk"  to  the  Sioux,  and  the  material comprised  in  this  chapter  was  treated  with  the  same  reverence
 as  that  relating  to  the  dream  of  the  thunderbird  or  the  ceremony  of
 the  Sun  dance.
 
 Songs  and  information  concerning  the  sacred  stones  were  secured
-from  men  who,  in  their  relation  to  these  objects,  may  be  said  to  repre-
-sent five  different  standpoints,  as  follows :
+from  men  who,  in  their  relation  to  these  objects,  may  be  said  to  represent five  different  standpoints,  as  follows :
 
 (1)  Men  who  have  dreamed  of  the  sacred  stones,  possess  one  or
 more  of  them,  and  have  used  them  successfully  in  treating  the  sick  or
-in  locating  lost  articles.  Those  of  this  class  who  furnished  informa-
-tion were  Brave  Buffalo  (Tatar) 'ka-ohi'tika)  and  Goose  (Mag^a').
+in  locating  lost  articles.  Those  of  this  class  who  furnished  information were  Brave  Buffalo  (Tatar) 'ka-ohi'tika)  and  Goose  (Mag^a').
 
 (2)  Men  who  possess  sacred  stones,  and  beheve  they  have  been
 helped  in  various  ways  by  their  presence.     Chased-by-Bears  (Mato'-
@@ -25795,8 +15591,7 @@ Thunder  recorded  songs  which  he  said  were  composed  by  his  father.
 (4)  A  man  who  has  not  used  the  sacred  stones,  but  who  was  one  of
 the  singers  when  White  Shield  (Waha'6ai)ka-ska)  gave  his  wonderful
 demonstrations  with  them.  It  was  customary  for  six  or  eight  singers
-to  sit  at  the  drum  and  sing  with  the  man  who  was  giving  the  demon-
-stration. Two  Shields  (Waha'6ui)ka-noi)'pa)  recorded  two  songs  of
+to  sit  at  the  drum  and  sing  with  the  man  who  was  giving  the  demonstration. Two  Shields  (Waha'6ui)ka-noi)'pa)  recorded  two  songs  of
 White  Shields's  which  had  been  used  on  such  occasions.  Two  Shields
 is  a  close  adherent  of  the  the  old  behefs,  the  missionaries  having  made
 no  impression  on  him  (pi.  47).
@@ -25805,8 +15600,7 @@ no  impression  on  him  (pi.  47).
 in  the  camp,  on  the  hunt,  and  on  the  warpath  and  were  f  amiUar  with
 songs  used  at  such  times.  Songs  were  recorded  by  Gray  Whirlwind
 (Wamni'yomni-ho'ta),  Shooter  (Oku'te),  Teal  Duck  (Siya'ka),  and
-Bear  Eagle  (MatoVai)bli).  Additional  information,  as  well  as  cor-
-roboration and  personal  reminiscence,  was  finnished  by  Buffalo  Head
+Bear  Eagle  (MatoVai)bli).  Additional  information,  as  well  as  corroboration and  personal  reminiscence,  was  finnished  by  Buffalo  Head
 (TataQ 'ka-pa)  and  Standing  Soldier  (Aki'6ita-na'iii)^).
 
 Among  the  above-mentioned  informants  the  man  whose  us9  of  the
@@ -25833,8 +15627,7 @@ seemed  to  have  the  features  of  a  man,  but  they  could  not  answer  me.
 dream,  and  in  my  dream  one  of  these  small  round  stones  appeared  to  me  and  told  me
 that  the  maker  of  all  was  WakaQ^tagka,  and  that  in  order  to  honor  him  I  must  honor
 his  works  in  nature.  The  stone  sidd  that  by  my  search  I  had  shown  myself  worthy
-of  supernatural  help.  It  said  that  if  I  were  curing  a  sick  person  I  might  ask  its  assist-
-ance, and  that  all  the  forces  of  nature  would  help  me  work  a  cure.
+of  supernatural  help.  It  said  that  if  I  were  curing  a  sick  person  I  might  ask  its  assistance, and  that  all  the  forces  of  nature  would  help  me  work  a  cure.
 
 Soon  after  this  dream  Brave  Buffalo  found  on  the  top  of  a  high  butte
 his  first  sacred  stone,  which  is  still  in  his  possession.  About  a  month
@@ -25844,8 +15637,7 @@ number  of  dots,  the  grouping  of  which  suggests  a  tiny  face,  a  charac
 teristic  pointed  out  by  Brave  Buffalo.  The  stone  is  dyed  red  with
 native  dye.  The  color,  which  is  a  favorite  color  of  Brave  Buffalo,
 has  no  significance.  The  stone,  surrounded  by  eagle  down,  is  kept
-in  a  wrapping  of  red  cotton  doth.  It  was  said  that  *'  there  is  some-
-thing between  the  eagle  down  and  the  stone,  because  when  sur-
+in  a  wrapping  of  red  cotton  doth.  It  was  said  that  *'  there  is  something between  the  eagle  down  and  the  stone,  because  when  sur-
 rounded by  eagle  down,  it  can  not  get  away."  The  stona  can  be
 sent  on  errands  of  observation  by  its  owner,  and  when  nolb  in  use  is
 imprisoned  by  the  downy  eagle  feathers.
@@ -25854,8 +15646,7 @@ Brave  Buffalo  said  that  he  had  cured  many  illnesses  by  means  of
 this  stone,  which  he  said  is  "a  brother  of  the  first  stone"  he  found.
 He  said  further  that  he  ''had  no  authority  to  secure  its  sisters,  but
 that  it  was  good  to  have  several  brothers  of  the  original  stone  to
-cooperate  with  it."  He  "can  feel  if  he  is  near  a  relative  of  the  origi-
-nal stone"  and  always  secures  it.  These  relatives  he  may  give
+cooperate  with  it."  He  "can  feel  if  he  is  near  a  relative  of  the  original stone"  and  always  secures  it.  These  relatives  he  may  give
 away  if  he  so  desires,  but  the  original  stone. has  been  seen  by  very
 few  except  the  sick  persons  in  whose  treatment  it  has  been  used.
 (See  p.  211.)
@@ -25887,17 +15678,10 @@ SACREO  STONE  OWNED  BY  BRAVE  BUFFALO
 DSN8M0BB]
 
 
-TETON  SIOUX  MUSIC
-
-
-209
-
-
 No.  69.  "Htkj  Tou  Behold  9^  Stored  Stone  Nation''    (Catalogue  No.  602)
 
 Sung  by  Bra VB  Buffalo
 Yoioa  J  =  80
-Drum  J  =168
 Drom-rhythm  similar  to  Not  19
 
 
@@ -25950,9 +15734,6 @@ te       wai)    ko  -  la     wai]  -  la
 ka     nui)-we      0  ^  he
 
 
-WORDS
-
-
 kola^pila friends
 
 lehagP now
@@ -25990,15 +15771,12 @@ is  classified  as  melodic  with  harmonic  framework,  the  E  flat  in  the
 third  and  the  eleventh  measures  being  the  only  accented  tones  other
 than  those  of  the  tonic  triad.  The  major  second  and  major  third
 constitute  80  per  cent  of  the  intervals,  though  the  tonality  of  the
-song  is  distinctly  minor.  The  drum-beat  is  so  rapid  as  to  be  practi-
-cally a  tremolo.  The  form  of  the  melody  is  regular,  consisting  of  four
+song  is  distinctly  minor.  The  drum-beat  is  so  rapid  as  to  be  practically a  tremolo.  The  form  of  the  melody  is  regular,  consisting  of  four
 periods.  One  rhythmic  unit  occurs  in  the  first  and  third  phrases  and
 a  second  rhythmic  unit  in  the  second  and  foiirth  phrases.  These
 units  show  a  similar  division  in  the  opening  measure,  followed  by
-slightly  different  divisions.  It  is  as  though  the  second  were  an  '^  an-
-swering phrase,"  the  two  combining  to  form  a  satisfactory  whole.
+slightly  different  divisions.  It  is  as  though  the  second  were  an  '^  answering phrase,"  the  two  combining  to  form  a  satisfactory  whole.
 
-See  plot  of  this  melody  on  page  245.
 
 Goose,  a  prominent  medicine-man,  also  dreamed  of  the  sacred  stones-
 (See  p.  251.)  He  said  that  he  had  two  of  these  stones  in  his  possession
@@ -26056,8 +15834,7 @@ and  he  had  suffered  no  great  misfortune  from  any  cause.  In  time  of
 anxiety,  either  through  fear  of  sickness  or  disaster,  he  had  carried
 the  stone  in  his  medicine  bag.  Chased-by-Bears  was  64  years  old
 when  he  gave  this  information  and  seemed  to  be  in  perfect  health.
-He  said  that  the  stone  formerly  belonged  to  a  very  powerful  medi-
-cine-man named  White  Shield,  who  then  Uved  at  Standing  &ock
+He  said  that  the  stone  formerly  belonged  to  a  very  powerful  medicine-man named  White  Shield,  who  then  Uved  at  Standing  &ock
 but  had  since  moved  to  Poplar  Creek,  Mont.  He  warned  the
 writer  that  the  stone  was  still  subject  to  a  summons  from  White
 Shield  and  that  at  some  time  it  might  disappear  from  its  wrappings,
@@ -26071,8 +15848,7 @@ qualified  himself  to  use  them  in  treating  the  sick  and  in  other  ways
 and  had  composed  many  songs  concerning  them.
 
 White  Shield's  stone  came  into  the  possession  of  Chased-by-Bears
-in  the  following  manner:  About  40  years  previous  to  giving  this  in-
-formation a  daughter  of  Chased-by-Bears  was  ill,  and  he  sent  for
+in  the  following  manner:  About  40  years  previous  to  giving  this  information a  daughter  of  Chased-by-Bears  was  ill,  and  he  sent  for
 White  Shield  to  treat  her.  White  Shield  showed  him  the  sacred
 stone,  then  it  disappeared  and  the  tent  was  darkened.  After  a
 time  the  light  was  restored,  whereupon  the  stone  was  found  on  the
@@ -26085,9 +15861,6 @@ Chased-by-Bears  gave  a  horse.  The  song,  which  follows,  is  beUeved
 to  have  been  composed  by  White  Shield.
 
 
-212
-
-
 BUBEAU   OF  AMEBICAN   ETHNOLOGY
 
 
@@ -26097,7 +15870,6 @@ BUBEAU   OF  AMEBICAN   ETHNOLOGY
 No.  60.  "The  Sftcred  Stones  Come  to  See  You"    (Catalogue  No.  675)
 
 Sung  by  Chased-bt-Beabs
-VoiCB  J  =  60
 
 Drux  J  =168
 
@@ -26110,10 +15882,7 @@ He  wag-ni    -    yai)k
 ^m
 
 
-19 m-
-
-
-t==f:^
+19 mt==f:^
 
 
 a-  a     we
@@ -26146,8 +15915,6 @@ I ZT'^i
 ^^^
 
 
-WORDS
-
 he  wagni^yaijk to  see  you
 
 ail''  we they  come
@@ -26165,8 +15932,7 @@ fourth  periods  on  the  minor  third  C-E  flat.  The  song  is  transcribed
 and  analyzed  in  the  key  of  C  minor,  though  the  fifth  of  that  key
 does  not  occur.  The  rhythm  of  the  first  and  second  halves  of  the
 song  is  alike  except  for  slight  changes  in  the  part  containing  the
-words.  The  rhythmic  unit  is  short  and  occurs  frequently.  Two  ren-
-ditions, on  separate  cylinders,  show  no  material  points  of  difference.
+words.  The  rhythmic  unit  is  short  and  occurs  frequently.  Two  renditions, on  separate  cylinders,  show  no  material  points  of  difference.
 
 In  parting  with  the  sacrod  stone  and  in  singing  its  song,  Chaaed-by-
 Bears  seemed  actuated  by  a  sincere  desire  that  his  grandchildren
@@ -26188,17 +15954,14 @@ photographed.  Every  effort  was  made  to  aJlay  the  nervous  tension
 under  which  the  aged  man  was  suffering.  After  a  time  Chased-by-
 Bears  was  well  enough  to  come  and  camp  near  the  agency.  He  walked
 heavily,  leaning  on  his  cane.  Food  was  sent  to  his  camp,  and  when  he
-was  able  to  come  to  the  writer's  office  she  played  for  him  the  phono-
-graph records  of  sacred-stone  songs  which  others  had  sung,  endeavor-
+was  able  to  come  to  the  writer's  office  she  played  for  him  the  phonograph records  of  sacred-stone  songs  which  others  had  sung,  endeavor-
 ing to  impress  him  with  the  idea  that  he  had  not  transgressed  more
 than  they.  At  length  the  subject  of  the  herb  used  with  the  stone  was
 broached,  and  it  was  suggested  that  if  the  stone  were  to  be  returned
-perhaps  he  would  be  wilUng  to  loan  a  portion  of  the  herb  for  identifi-
-oation,  which,  together  with  the  stone,  would  subsequently  be  given
+perhaps  he  would  be  wilUng  to  loan  a  portion  of  the  herb  for  identifioation,  which,  together  with  the  stone,  would  subsequently  be  given
 him  by  Mr.  Higheagle.  After  several  conferences  Chased-by-Bears
 brought  the  plant,  which  was  identified  at  Washington  as  Aster  sp.
-With  this  he  had  in  his  medicine  bag  a-  root  which,  he  said,  he  pow-
-dered and  mixed  with  the  root  of  the  first  plant.  It  was  a  pithy  root,
+With  this  he  had  in  his  medicine  bag  a-  root  which,  he  said,  he  powdered and  mixed  with  the  root  of  the  first  plant.  It  was  a  pithy  root,
 but  as  none  of  the  upper  part  of  the  plant  was  available  it  could  not  be
 identified.  Chased-by-Bears  was  encouraged  to  be  present  when  other
 Indians  were  recording  songs,  and  it, was  observed  that  his  health
@@ -26208,8 +15971,7 @@ appeared  to  be  in  his  usual  health.'  Both  the  stone  land  the  herbs
 were  returned  at  the  earliest  opportunity,  but  it  is  interesting  to  note
 that  the  man's  physical  recovery  began  before  these  were  actually
 restored  to  his  possession.  Chased-by-Bears'  misfortune  did  not  seem
-to  arouse  any  antagonism  toward  the  writer  or  her  work.  In  conver-
-sation with  those  who  were  considered  authorities  on  the  subject  it  was
+to  arouse  any  antagonism  toward  the  writer  or  her  work.  In  conversation with  those  who  were  considered  authorities  on  the  subject  it  was
 said  that  he  "should  have  known  better  than  to  sell  a  stone  when  he
 had  only  (m€."  A  medicine-man  could  sell  the  "  helpers  '•  of  his  special
 stone,  but  even  a  medicine-man  would  not  part  with  the  stone  which
@@ -26217,8 +15979,7 @@ was  the  center  of  his  power.
 
 1  It  is  the  belief  of  the  Chippewa  that  those  who  offend  the  "manido''  are  punished  by  paralysis.  Thus
 the  writer  saw  at  a  remote  Chippewa  village  on  the  northern  shore  of  Lake  Supwior  a  man  who  had  suffered
-paralysis  of  one  side  of  his  face  and  body,  and  whose  personal  record  was  not  good.  It  is  said  by  the  Chip-
-pewa that  many  offending  members  of  the  MldS'wlwIn  become  paralyzed.
+paralysis  of  one  side  of  his  face  and  body,  and  whose  personal  record  was  not  good.  It  is  said  by  the  Chippewa that  many  offending  members  of  the  MldS'wlwIn  become  paralyzed.
 
 *  Chased-by-Bears  died  in  February,  1915,  more  than  two  years  after  the  paxalytic  stroke.
 
@@ -26253,8 +16014,7 @@ and  of  his  natural  surroundings,  gained  through  close  observation . [ *]
 and  on  it  live  many  animals.  This  earth  is  under  the  protection  of  something  which  at
 times  becomes  visible  to  the  eye.  One  would  think  this  would  be  at  the  center  of  the
 earth  [see  p.  120],  but  its  representations  appear  everywhere,  in  laige  and  small  forms —
-they  are  the  sacred  stones.  The  presence  of  a  acred  stone  will  protect  you  from  mis-
-fortune . '  p]  He  then  gave  me  a  sacred  stone  which  he  himself  had  worn .  I  kept  i  t  with
+they  are  the  sacred  stones.  The  presence  of  a  acred  stone  will  protect  you  from  misfortune . '  p]  He  then  gave  me  a  sacred  stone  which  he  himself  had  worn .  I  kept  i  t  with
 me  wherever  I  went  and  was  helped  by  it.  He  also  told  me  where  I  might  find  one
 for  myself.  \Vakai)^tai)ka  tells  the  sacred  stones  many  things  which  may  happen  to
 people.  The  medicine-man  told  me  to  observe  my  natural  surroundings,  and  after  my
@@ -26265,14 +16025,12 @@ stored  this  knowledge  in  my  mind.
 The  medicine-man  also  told  me  th&t  the  sacred  stone  may  appear  in  the  form  of  a
 person  who  talks  and  sings  many  wonderful  songs.  Among  these  was  the  following  song,
 in  which  the  sacred  stone  says  that  all  living  creatures  look  to  him  for  protection.  This
-and  the  song  next  following  were  composed  and  used  by  Ite^-okssQ-lu^ta  [Red-Streaked-
-around- the-Face],  a  man  who  dreamed  of  the  rainbow  and  therefore  painted  his  face
+and  the  song  next  following  were  composed  and  used  by  Ite^-okssQ-lu^ta  [Red-Streakedaround- the-Face],  a  man  who  dreamed  of  the  rainbow  and  therefore  painted  his  face
 with  an  arch  of  color.  He  used  red  for  this  arch,  as  red  was  his  favorite  among  the  colors
 of  the  rainbow.
 
 
-( I  In  this  connection  it  is  interesting  to  note  the  following  statement  by  Father  De  Smet,  anativeofBel-
-gium,  who  came  to  America  in  1821  and  (or  many  years  labored  as  a  Jesuit  missionary  among  the  Sioux,
+( I  In  this  connection  it  is  interesting  to  note  the  following  statement  by  Father  De  Smet,  anativeofBelgium,  who  came  to  America  in  1821  and  (or  many  years  labored  as  a  Jesuit  missionary  among  the  Sioux,
 writing  extensively  of  their  conditions  and  needs.  He  says:  "  Some  writers  have  supposed  that  the  Indians
 are  guided  by  Instinct,  and  have  even  ventured  to  assert  that  their  children  would  find  their  way  through
 the  forests  as  well  as  those  further  advanced  in  age.  I  have  consulted  some  of  the  moat  intelligent  Indians
@@ -26290,17 +16048,10 @@ which  the  English  language  lacks  a  brief  equivalent  for  the  shades  of
 DBNSMOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-215
-
-
 No.  61.  ''I  Sln^  for  the  Animals"       (Catalogue  No.  489)
 Sung  by  Lone  Man
 
 
-.VoiCB  J  =84
 DauM  J  =96
 Dram-rhythm  similar  to  No.  6
 
@@ -26311,10 +16062,7 @@ iy,wi^iLUt  UJi\Ljrr,r^
 Ma  -  ka    tai)  -  hai)  wa  -  ki  -^  lo  -  wai)      ye  -  lo    he
 
 
-yo      ma-
-
-
-ka  taq-hai)  wa  -  ki  -  lo-wai)       ye  -  lo    he    fiuq    -   ka-wa-kaij  o  -  ya  -
+yo      maka  taq-hai)  wa  -  ki  -  lo-wai)       ye  -  lo    he    fiuq    -   ka-wa-kaij  o  -  ya  -
 
 
 gggr^
@@ -26356,9 +16104,6 @@ wai)     Ip     he
 kafi-kaq  wa  -  ki  -  lo-wai]       ye   -   lo    he
 
 
-WORDS
-
-
 maka^  taQhai)^ out  of  the  earth
 
 wakilowai)  yelo^ I  sing  for  them
@@ -26375,8 +16120,7 @@ wama'^ka^kai)  ' the  animals
 
 waki'lowai)  yelo I  sing  for  them
 
-Analysis, — This  melody  comprises  the  tones  of  the  fourth  five-
-toned  scale,  beginning  on  the  dominant  above  the  tonic  and  ending
+Analysis, — This  melody  comprises  the  tones  of  the  fourth  fivetoned  scale,  beginning  on  the  dominant  above  the  tonic  and  ending
 on  the  third  m  the  lower  octave,  a  somewhat  unusual  melodic  out-
 
 
@@ -26384,13 +16128,7 @@ on  the  third  m  the  lower  octave,  a  somewhat  unusual  melodic  out-
 s  One  or  two  syllables  of  this  word  were  omitted  by  the  sioger.
 
 
-216
-
-
 BUREAU  OF  AMEBIGAK  ETHNOLOGY
-
-
-[BULL.  61
 
 
 line.  The  rhythmic  unit  occurs  three  times,  and  there  are  two  other
@@ -26420,8 +16158,7 @@ compaasion  on  me,  whoever  from  above,  you  [who  are]  the  supreme  ruler
 Continuing  his  narrative,  Lone  Man  said:
 
 Another  instruction  given  me  by  the  medicine-man  was  that  aU  herbs  and  roots
-are  made  for  the  benefit  of  animals  or  man.  Some  h*erbs  and  roots  vary  in  color  accord-
-ing to  the  season  of  the  year,  and  others  do  not.  AU  are  carefully  tested,  and  if  one
+are  made  for  the  benefit  of  animals  or  man.  Some  h*erbs  and  roots  vary  in  color  according to  the  season  of  the  year,  and  others  do  not.  AU  are  carefully  tested,  and  if  one
 is  found  to  be  a  cure  for  a  certain  disease,  it  should  be  regarded  as  a  gift  from  Wakai)''-
 ta^ka,  and  intended  especially  as  a  remedy  for  that  disease.  It  should  be  rever>
 enced,  and  this  reverence  should  be  closely  observed,  as  without  it  the  herb  will  have
@@ -26438,9 +16175,6 @@ Sung  by  Lome  Man
 Voica  Jz-104
 Drum  J=  104
 Brum-rhythm  similar  to  No.  6
-
-
-(Catalogue  No.  490)
 
 
 I'^Wi
@@ -26469,7 +16203,6 @@ mi-ta-^    -    k9         ku)  •   yv)    ye  wa-ye  -  lo  he
 
 DENSMOftK]  TETON  SlOtJX  MUSIC  217
 
-WORDS
 
 mita^^uQke my  hone
 
@@ -26530,8 +16263,7 @@ a  dream  of  the  sacred  stones.
 
 Charging  Thunder  said  that  his  father,  while  on  a  buffalo  hunt,  was
 thrown  from  his  horse,  falling  on  a  pile  of  stones  and  injuring  his
-head.  He  lay  unconscious  almost  all  day  and  was  found  in  the  even-
-ing. His  woimd  was  dressed,  and  when  he  regained  consciousness
+head.  He  lay  unconscious  almost  all  day  and  was  found  in  the  evening. His  woimd  was  dressed,  and  when  he  regained  consciousness
 he  said  that  all  the  rocks  and  stones  '  Vere  people  turned  to  stone.''
 
 
@@ -26539,8 +16271,7 @@ he  said  that  all  the  rocks  and  stones  '  Vere  people  turned  to  stone
 
 After  this  he  found  some  stones  (similar  to  those  in  pis.  29  and  30).
 He  could  talk  to  them  and  depended  on  them  for  help.  Once  a  war
-party  had  been  gone  two  months;  no  news  of  them  had  been  re-
-ceivedi  and  it  was  feared  that  all  were  killed.  In  their  anxiety  the
+party  had  been  gone  two  months;  no  news  of  them  had  been  receivedi  and  it  was  feared  that  all  were  killed.  In  their  anxiety  the
 people  appealed  to  Bear  Necklace,  asking  him  to  ascertain,  by  means
 of  the  sacred  stones,  what  had  become  of  the  war  party.  Bear
 Necklace  requested  them  to  tie  his  arms  behind  him,  then  to  tie  his
@@ -26554,36 +16285,25 @@ his  cords  loosened,  and  he  stood  entirely  free.  As  soon  as  the
 medicine  articles  fell  to  the  ground  there  appeared  a  row  of  four  or
 five  small  round  stones  ready  to  tell  him  what  he  wanted  to  know.
 Sitting  Bull  was  present  and  made  an  offering  of  a  buffalo  robe  to  the
-sacred  stones  and  asked  that  he  might  become  famous.^  Bear  Neck-
-lace wrapped  one  of  the  stones  in  buckskin  and  gave  it  to  him.  Sit-
+sacred  stones  and  asked  that  he  might  become  famous.^  Bear  Necklace wrapped  one  of  the  stones  in  buckskin  and  gave  it  to  him.  Sit-
 ting Bull  wore  it  in  a  bag  around  his  neck  to  the  time  of  his  death,
 and  it  was  buried  with  him.
 
 Bear  Necklace  then  gave  correct  information  concerning  the
-absent  war  party.  At  that  time  he  proved  his  power  to  give  informa-
-tion by  the  help  of  the  sacred  stones,  and  afterwards  the  stones
+absent  war  party.  At  that  time  he  proved  his  power  to  give  information by  the  help  of  the  sacred  stones,  and  afterwards  the  stones
 always  told  him  the  names  of  those  who  were  killed  in  war,  the  names
-of  the  survivors,  and  the  day  on  which  they  would  return.  This  in-
-formation  was  always  correct.
+of  the  survivors,  and  the  day  on  which  they  would  return.  This  information  was  always  correct.
 
 The  following  song  was  composed  by  Bear  Necklace  at  the  time  he
 was  hurt,  and  was  sung  by  him  when  demonstrating  his  power.  The
-words  refer  to  the  passing  of  the  stones  through  the  air  in  the  dark-
-ened tent  while  ah  exhibition  of  his  power  was  in  progress.  It  is  said
-that  a  person  who  did  not  beUeve  in  the  power  of  the  stones  was  fre-
-quently struck  by  them,  or  by  other  objects  hurtling  through  the  air
+words  refer  to  the  passing  of  the  stones  through  the  air  in  the  darkened tent  while  ah  exhibition  of  his  power  was  in  progress.  It  is  said
+that  a  person  who  did  not  beUeve  in  the  power  of  the  stones  was  frequently struck  by  them,  or  by  other  objects  hurtling  through  the  air
 in  the  spirit-filled  darkness.
 
 1  S«e  aoooont  of  Sitting  Bull,  p.  i58;  also  sonip  Nos.  91, 92.
 
 
 DENSMORB]
-
-
-TETON  SIOUX  MUSIC
-
-
-219
 
 
 Yoios  J=69
@@ -26596,9 +16316,6 @@ Sung  by  Chaboing  Thunder
 
 
 »»
-
-
-(Catalogue  No.  563)
 
 
 r  LJlKr  r  liaJ.  m
@@ -26712,9 +16429,6 @@ waQyagHciye behold  them
 t  The  singer  elided  the  ftnal  r,  substituting  therefor  the  first  letter  of  the  folbwing  word,  singing  littu.
 
 
-220
-
-
 BUBEAU  OF  AMEEICAN  ETHNOLOGY
 
 
@@ -26737,8 +16451,7 @@ kiyu^'ze continuing  to  fly
 
 waQyaQ^kiye behold  them
 
-Analysis. — ^This  melody  comprises  the  tones  of  the  fourth  five-
-toned  scale  with  the  sharped  second  as  an  accidental.  The  descend-
+Analysis. — ^This  melody  comprises  the  tones  of  the  fourth  fivetoned  scale  with  the  sharped  second  as  an  accidental.  The  descend-
 ing interval  of  an  augmented  second  was  clearly  given.  This  interval
 occurs  also  in  songs  Nos.  106  and  225.  Four  renditions  of  this  song
 were  recorded,  the  repetitions  beginning  without  a  break  in  the  time.
@@ -26753,9 +16466,6 @@ Sung  by  CHAJiomo  Thunder
 Voica  ^  =  168
 Drum   J^  =  168
 See  drum-rhythm  below
-
-
-305
 
 
 Tu-wa    to
@@ -26806,14 +16516,6 @@ J=^  Fi  Fi  I
 DaNSUOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-221
-
-
-WORDS
-
 ta^wa some  one
 
 to^ys somewhere
@@ -26836,8 +16538,7 @@ take^yelo is  speaking
 
 Analyns, — ^This  melody  is  major  in  tonality,  and  contains  all  the
 tones  of  the  octave  except  the  seventh.  One  accidental  occurs — the
-fourth  raised  a  semitone.  The  5-8  time  is  clearly  given  in  all  the  ren-
-ditions. This  is  the  only  song  in  the  entire  work  which  begins  in  5-^8
+fourth  raised  a  semitone.  The  5-8  time  is  clearly  given  in  all  the  renditions. This  is  the  only  song  in  the  entire  work  which  begins  in  5-^8
 time,  but  this  measure-division  is  found  also  in  Nos.  41,  68,  125,  169,
 and  223.  Only  19  progressions  are  found  in  the  song — an  unusually
 small  number  in  a  song  of  this  length.  About  two^thirds  of  the
@@ -26847,7 +16548,6 @@ No.  66.  ''They  Moye  With  a  Purpose"       (Catalogue  No.  567)
 
 Sung  by  Chaboino  Thunder
 
-VoicB  J  =84
 Drum  not  recorded
 
 
@@ -26875,8 +16575,6 @@ le-na -ke         wa-ku- wa-pi  kte-lo  he
 yu
 
 
-WORDS
-
 lenaOce all  these
 
 waku^wapi  kte move  with  a  purpose
@@ -26894,23 +16592,12 @@ lena^e all  these
 waku^wapi  ktelo^ move  with  a  purpose
 
 
-222
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 Arudysis. — ^This  song,  like  the  preceding,  is  major  in  tonality  and
-contains  all  the  tones  of  the  octave  except  the  seventh.  The  repeti-
-tions begin  without  a  break  in  the  time.  In  this,  as  in  numerous
+contains  all  the  tones  of  the  octave  except  the  seventh.  The  repetitions begin  without  a  break  in  the  time.  In  this,  as  in  numerous
 other  instances,  the  tone  marked  •)  was  similarly  shortened  in  all  the
 renditions.  The  song  is  melodic  in  structure,  yet  we  note  that  the
 first  six  measures  are  based  on  the  minor  triad  of  F  sharp;  the
-melody  then  ascends  to  E,  and  the  tonic  chord  appears  in  the  down-
-ward progression.  A  prominence  of  the  submediant  triad  (minor)  at
+melody  then  ascends  to  E,  and  the  tonic  chord  appears  in  the  downward progression.  A  prominence  of  the  submediant  triad  (minor)  at
 the  opening  of  a  song  in  a  major  key  was  observed  in  the  Chippewa
 songs  and  is  of  frequent  occurrence  in  the  present  series.
 
@@ -27018,21 +16705,16 @@ followed  by  the  minor  third  A  flatr-F,  the  song  ending  with  D  flat�
 flat,  making  a  satisfactory  close  on  the  tonic.  All  the  tones  of  the
 octave  are  present  in  this  song  and  the  feeling  of  a  keynote  is  well
 established,  yet  it  is  noted  that  the  tones  are  not  grouped  along  the
-lines  of  triad  chords,  but  of  single  intervals.  This  ''interval  forma-
-tion *'  was  given  extended  consideration  in  Bulletin  53,  pages  7-8.
+lines  of  triad  chords,  but  of  single  intervals.  This  ''interval  formation *'  was  given  extended  consideration  in  Bulletin  53,  pages  7-8.
 
 (4)  In  giving  a  complete  demonstration  of  the  sacred  stones,  it  was
 customary  for  the  man  who  was  proving  his  power  to  tell  his  dreams
-and  sing  the  songs  of  the  dreams,  these  being  in  the  nature  of  creden-
-tials. The  two  following  songs  were  used  in  this  manner  by  White
+and  sing  the  songs  of  the  dreams,  these  being  in  the  nature  of  credentials. The  two  following  songs  were  used  in  this  manner  by  White
 Shield  and  recorded  by  Two  Shields.  The  words  are  obscure,  as  in
 the  majority  of  dream  songs.
 
 In  songs  Nos.  70,  71,  and  72  the  sacred  stones  address  their  owner
 as  ''father,"  or  "grandfather."
-
-
-224
 
 
 BtTBBAt;  OF  AMEBICAN  ETHNOLOGY
@@ -27069,10 +16751,7 @@ i/Lj||,;r-cj]|
 Tu-wa    he    -    ma   -   ki    ye    -      lo
 
 
-tu-wa    he   -    ma  -    ki    ye-
-
-
-a  -  te      e  -  ma    -     ki     ye  -
+tu-wa    he   -    ma  -    ki    yea  -  te      e  -  ma    -     ki     ye  -
 
 
 lo
@@ -27087,16 +16766,11 @@ a  -  te    e  -  ma     -     ki     ye    -     lo
 lJII  rTr  .  n\m
 
 
-tu-wa   he    -   ma  -   ki   ye-
-
-
-laJ  niitn
+tu-wa   he    -   ma  -   ki   yelaJ  niitn
 
 
 lo  6m)-  ka    o    -    y a  -   te  wai)       a  -  te     e  -  ma   -    ki  ye  -  lo
 
-
-WORDS
 
 tu'wa some  one
 
@@ -27106,27 +16780,18 @@ hema^ki  yelo' '. told  me
 
 ate^  ema^ki  yelo^ called  me  "father"
 
-Analysis, — It  is  not  unusual  to  note  a  song  in  a  major  key  begin-
-ning with  the  submediant  chord,  which  is  minor.  In  this  instance,
+Analysis, — It  is  not  unusual  to  note  a  song  in  a  major  key  beginning with  the  submediant  chord,  which  is  minor.  In  this  instance,
 however,  a  song  in  a  minor  key  begins  with  the  submediant  triad,
 which  is  maijor.  The  eighth  measure  introduces  the  descending
 minor  third  A-F  sharp,  which  forms  the  framework  of  the  melody  to
-the  sixteenth  measure.  This  is  followed  by  a  return  to  the  subme-
-diant triad,  the  song  closing  with  the  descending  minor  third  A-F
-sharp.  If  these  tones  (F  sharp-A-C  sharp-E)  were  used  consecu-
-tively, it  might  be  said  that  the  melody  is  based  on  the  minor  triad
+the  sixteenth  measure.  This  is  followed  by  a  return  to  the  submediant triad,  the  song  closing  with  the  descending  minor  third  A-F
+sharp.  If  these  tones  (F  sharp-A-C  sharp-E)  were  used  consecutively, it  might  be  said  that  the  melody  is  based  on  the  minor  triad
 with  minor  seventh  added,  but  this  chord  relation  is  not  suggested  by
 the  framework  of  the  melody.  This  song  is  melodic  in  structure  and
 lacks  the  sixth  and  second  tones  of  the  complete  octave.     The
 
 
 DBN8MOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-225
 
 
 rhythmic  unit  is  well  defined,  and  Its  repetitions  comprise  the  entire
@@ -27221,9 +16886,6 @@ kai)  -  yai)
 ma  -  ni  wa  -  ye
 
 
-WORDS
-
-
 wakaQ^yai)
 
 ma^ni  waye^  tuQkai)^  oya^te  waQ
@@ -27249,20 +16911,10 @@ the  interval  of  the  fourth  seems  to  characterize  songs  concerning
 animals,  especially  men  and  animals  in  motion.     (See  Bulletin  53,  pp«
 
 
-226
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
-
-
 99-101.)    This  progression  is  especially  noted  in  the  descent  C-G-D,
 in  the  seventh  and  eighth  measures  from  the  end.    Two-thirds  of  the
 intervals  in  the  song  are  major  seconds.     The  metric  unit  of  the  drum
 is  slightly  slower  than  that  of  the  voice  and  is  steadily  maintained.
-See  plot  of  this  melody  on  page  245.
 
 (5)  Gray  Whirlwind  also  sang  a  song,  which  was  used  by  White
 Shield  in  his  demonstrations.
@@ -27272,11 +16924,6 @@ No.  69.  ''These  Are  My  Spies''
 
 Sung  by  Gray  Whirlwind
 
-
-(Catalogue  No.  667)
-
-
-VoicB  J  =  92
 
 Drum  J"  132
 
@@ -27291,8 +16938,6 @@ na       mi-ta      toi)-we-ya     ya        ya    kii)-yai]         a-ku   we  
 
 RSkJ]    o  -  ya  -  te  kii)    a-ku    he  -  na  mi-ta  toi)-  we  •  ya  kii)  -  yaq
 
-
-WORDS
 
 he^na these  (are)
 
@@ -27327,18 +16972,11 @@ renditions  were  recorded.     Between  the  renditions  the  singer  gave
 DIN8UOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-227
-
-
 prolonged  cries  or  calls.  In  one  of  these  instances  the  drum  was
 continued,  and  in  the  other  it  was  silent.  The  usual  custom  is  for
 the  drumbeat  to  be  continued  during  these  cries  or  calls.
 
-In  the  following  song  the  stone  addresses  its  owner  as  "grand-
-father":
+In  the  following  song  the  stone  addresses  its  owner  as  "grandfather":
 
 No.  70.  "I  Am  B«quired  to  Roam"      (Catalogue  No.  668)
 
@@ -27347,16 +16985,12 @@ VOIOB  J- 69
 
 Drum  J  ^132
 
-Drum-rhythm  similar  to  No.  19
-
 
 ^^^^^^:,V.#^^
 
 
 Tui)-ka-fii-la  ma-ko  -  6e   kin    i-ye-ki-ya  ma  -  nima-^    ye
 
-
-WORDS
 
 tuQka^dila grandfather
 
@@ -27424,7 +17058,6 @@ A
 
 DENSMOBB]  TETON   SIOUX  MUSIC  281
 
-WORDS
 
 ate' father
 
@@ -27451,8 +17084,7 @@ song  begins  on  the  twelfth  and  progresses  steadily  downward  to  the
 tonic  at  the  close.
 
 When  iSiya'ka  was  on  the  warpath  the  sacred  stones  were  invoked
-by  HeKa'ka-na'ii^  (Standing  Elk),  who  sent  them  on  their  cus-
-tomary search,  and  then  said  to  the  warriors:
+by  HeKa'ka-na'ii^  (Standing  Elk),  who  sent  them  on  their  customary search,  and  then  said  to  the  warriors:
 
 In  the  early  morning  you  will  meet  one  man  and  kill  him.  You  will  meet  a  wolf
 coming  from  the  north  before  you  see  this  enemy.  Let  each  man  pray  to  the  wolf,
@@ -27476,13 +17108,7 @@ with  this  song.
 1  The  right  to  wear  a  war-honor  feather  in  the  hair.
 
 
-232
-
-
 BUREAU  OP  AMEBIGAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 VOICH  J  =100
@@ -27498,10 +17124,7 @@ Sung  by  6iya^ka.
 Ta  -  te     i-6a-ge    -    ya       na  -  j;i     hi  ye-lo      ta
 
 
-te     i-6a-j;e-
-
-
-ya       na  -  gi      hi    ye  -  lo  lie  -  ta  -  ku     a  -  1  -  wa  -  ye  -  <5ii)    ta  -
+te     i-6a-j;eya       na  -  gi      hi    ye  -  lo  lie  -  ta  -  ku     a  -  1  -  wa  -  ye  -  <5ii)    ta  -
 
 
 1   r
@@ -27531,9 +17154,6 @@ na  -^     hi  ye-lo      ta
 te    i-^Br  ge    •    ya     na  -  ^     hi  ye  -  lo
 
 
-WORDS
-
-
 tate'  ida'^ya with  the  wind
 
 naj^i^ a  spirit
@@ -27545,33 +17165,23 @@ hetaOcu , something
 al'waye'diij I  foretold
 
 Analysis. — ^Three  renditions  of  this  song  were  recorded;  these  were
-not  continuous,  but  were  separated  by  cries  and  short  spoken  sen-
-tences. Repetitions  of  the  rhythmic  unit  comprise  the  entire  song
+not  continuous,  but  were  separated  by  cries  and  short  spoken  sentences. Repetitions  of  the  rhythmic  unit  comprise  the  entire  song
 except  two  measures,  iu  the  second  of  which  the  time  was  retarded  to
 permit  a  clear  enunciation  of  the  words.  It  wUl  be  noted  that  the
-rhythmic  unit  occurs  five  times,  and  divides  the  song  into  five  peri-
-ods. This  irregularity  in  the  number  of  periods  is  of  frequent  occur-
+rhythmic  unit  occurs  five  times,  and  divides  the  song  into  five  periods. This  irregularity  in  the  number  of  periods  is  of  frequent  occur-
 rence in  Sioux  and  Chippewa  songs.  This  melody  begins  on  the
 twelfth  and  ends  on  the  tonic,  two-thirds  of  the  progressions  being
 dpwnward.
 
-See  plot  of  this  melody  on  page  245.
 
 At  another  time  Siya'ka  was  with  a  war  party,  the  leader  of  which
 was  Wai)bli'-wica'i§a  (Eagle  Man),  who  was  also  a  modicino-man.
 Eagle  Man  had  an  assistant  named  He-lu'ta  (Rod  Horn).  They  started
 out  and  had  gone  some  distance  when  Eagle  Man  said  he  would  ask
-the  sacred  stones  for  news  of  the  enemy.  He  told  his  followers  to  pre-
-pare a  spot  of  groimd  and  to  bring  him  a  small  pebble.    Having  painted
+the  sacred  stones  for  news  of  the  enemy.  He  told  his  followers  to  prepare a  spot  of  groimd  and  to  bring  him  a  small  pebble.    Having  painted
 
 
 DBNBICOBB]
-
-
-TETON  SIOUX  MUSIC
-
-
-233
 
 
 the  pebble  red,  he  laid  it  on  the  red  hlanket  which  had  been  spread
@@ -27605,10 +17215,7 @@ ye      ta  -  te     o  -  u  -  ye    to  -  pa  -  ki  -  ya         he  -na 
 na    wai)-yai)k       ya        to  -  pa    -    ki  -  ya
 
 
-i  .  na  -  2ix)  ma-
-
-
-ye       ta-te     o-u-yeto-pa-ki-ya
+i  .  na  -  2ix)  maye       ta-te     o-u-yeto-pa-ki-ya
 
 
 he  -  na  wai)-yai)k
@@ -27616,7 +17223,6 @@ he  -  na  wai)-yai)k
 
 ya   he-na  waq-yai)k       ya      to-pa  -   ki-ya         1  -  na-2ii)ma-ye
 
-WORDS
 
 to^pakiya at  the  four  placet)
 
@@ -27652,9 +17258,6 @@ maye^ I  was  required
 
 Analysis, — This  song  is  unusual  in  that  it  contains  only  two  upward
 progressions.     The  melody  descends  from  the  dominant  above  the
-
-
-234
 
 
 BUREAU  OF  AMERICAN  ETHKOLOaY
@@ -27696,9 +17299,6 @@ Drum  not  recorded
 No.  76.  "Something  I  Foretold"
 
 Sung  by  ^iya'ka
-
-
-(Catalogue  No.  464)
 
 
 ^^^jUlirif  LJ^
@@ -27756,7 +17356,6 @@ hi  -  ua  -  til)  wa  -  ye
 
 DKNSMOR13]  TETON   SIOUX  MUSIC  235
 
-WORDS
 
 he  tu^wa one  whom
 
@@ -27784,12 +17383,10 @@ stand)
 
 Analysis, — ^The  rhythmic  unit  of  this  song  consists  of  five  measures,
 and,  as  in  the  preceding  song,  its  repetitions  comprise  the  entire
-melody.  The  first  note  in  the  second  measure  of  the  unit  was  inva-
-riably shortened,  as  indicated.  Four  renditions  were  recorded,  sepa-
+melody.  The  first  note  in  the  second  measure  of  the  unit  was  invariably shortened,  as  indicated.  Four  renditions  were  recorded,  sepa-
 rated by  calls  or  short  spoken  sentences.  In  tonality  the  song  is
 minor,  the  melody  tones  being  those  of  the  minor  triad  and  fourth.
 
-See  plot  of  this  melody  on  page  245.
 
 A  remarkable  demonstration  of  the  sacred  stones  by  White  Shield
 was  related  by  iSiya'ka.  Three  of  White  Shield's  sacred-stone  songs
@@ -27817,14 +17414,7 @@ A  neighbor  of  &ya'ka's  had  been  out  looMng  for  wild  fruit  and  on
 his  way  home  he  saw  the  horses  at  the  fork  of  the  Porcupine  Creek;
 recognizing  them  as  iSiya'ka's,  he  brought  them  back.
 
-I  The  full  form  of  this  expression  Ls  wahu*  no^jM , "  two-legged  object  * ',  used  by  the  medicine-men  to  desig-
-nate a  num.    (See  p.  120,  footnote.)    The  full  form  occurs  in  song  No.  78.
-
-
-236
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
+I  The  full  form  of  this  expression  Ls  wahu*  no^jM , "  two-legged  object  * ',  used  by  the  medicine-men  to  designate a  num.    (See  p.  120,  footnote.)    The  full  form  occurs  in  song  No.  78.
 
 
 [BrLL.  ti
@@ -27839,17 +17429,14 @@ with  a  red  blanket.  When  the  stone  returned  Shell  Necklace  covered
 himself  with  a  buffalo  robe,  head  and  all,  and  asked  what  news  it
 brought.  When  the  usual  pipe  was  offered  to  the  sacred  stone  a
 wolf  was  heard  howling  in  the  distance.  Shell  Necklace  said  the
-stone  reported  that  the  next  day  they  would  meet  two  men  on  horse-
-back and  see  a  large  camp  of  the  enemy.  The  stone  told  the  men
-to  be  ready,  and  they  would  kill  the  enemy,  who  would  fall  on  "pre-
-pared'' or  soft  ground.  Then  the  stones  said  that  they  wanted  a
+stone  reported  that  the  next  day  they  would  meet  two  men  on  horseback and  see  a  large  camp  of  the  enemy.  The  stone  told  the  men
+to  be  ready,  and  they  would  kill  the  enemy,  who  would  fall  on  "prepared'' or  soft  ground.  Then  the  stones  said  that  they  wanted  a
 buffalo  as  a  reward  in  the  morning,  that  the  men  would  kill  the  buffalo
 with  an  arrow,  and  that  it  would  fall  with  its  head  toward  the  south.
 The  next  morning  the  men  killed  a  buffalo  as  the  stone  had  predicted
 and  put  fresh  sage  in  the  wound.  Beside  the  prepared  ground
 where  the  stone  had  lain  was  a  painted  gift-stick  with  tobacco  tied
-at  the  top.  (See  pi.  15.)  They  laid  this  stick  at  the  head  of  the  buf-
-falo they  had  killed,  leaving  it  on  the  prairie  as  an  offering.  That
+at  the  top.  (See  pi.  15.)  They  laid  this  stick  at  the  head  of  the  buffalo they  had  killed,  leaving  it  on  the  prairie  as  an  offering.  That
 day  they  met  two  enemies  and  killed  them  both.
 
 The  two  following  songs  were  said  to  have  been  sung  by  Shell
@@ -27901,14 +17488,6 @@ kaij  yaijwtt-oi)  we    ml  -  ta    -     fiuij-ke   o-ta         ye  -  lo   
 DBNQUORK]
 
 
-TETON   SIOUX   MUSIC
-
-
-237
-
-
-WORDS
-
 wakaQ^aQ  yai) in  a  sacred  maimer
 
 wa6g' I  live
@@ -27942,9 +17521,6 @@ Dbum  not  recorded
 
 No.  78.  "A  Vo!e«  I  Sent"
 Sung  .by  Bear  Eaolb
-
-
-(Catalogue  No.  633)
 
 
 :4:
@@ -27983,13 +17559,8 @@ F=r
 ma  -  ya  -  ku        we  -  lo
 
 
-aij-pe  -,tu  le     mi  -  ta-wa  -  ye  wa-
+aij-pe  -,tu  le     mi  -  ta-wa  -  ye  wahu  noi)-pa  waq        ho  -  ye        wa  -  ki-ye     6li)       wa  -  na    hi    ye  -  lo
 
-
-hu  noi)-pa  waq        ho  -  ye        wa  -  ki-ye     6li)       wa  -  na    hi    ye  -  lo
-
-
-WORDS
 
 aijpe^tu  kiq to-day
 
@@ -28041,8 +17612,7 @@ the  aid  of  the  sacred  stones,  he  appealed  to  him,  asking  him  to  fin
 the  missing  part  of  his  harness  and  also  a  handsome  tobacco  bag  and
 pipe.  White  Shield  came,  and  in  giving  the  performance  held  the
 stone  in  the  palm  of  his  hand,  saying,  "This  will  disappear."  Bull
-Head  said  that  though  he  watched  it  very  closely,  it  suddenly  van-
-ished from  before  his  eyes.  The  length  of  time  that  a  stone  is  absent
+Head  said  that  though  he  watched  it  very  closely,  it  suddenly  vanished from  before  his  eyes.  The  length  of  time  that  a  stone  is  absent
 depends  on  the  distance  it  must  travel  in  finding  the  lost  object.  In
 this  instance  the  stone  was  gone  a  long  time.  At  last  a  rattle  was
 heard  at  the  door.  White  Shield  stopped  the  singing,  and  said,  "The
@@ -28053,23 +17623,15 @@ missing  articles  had  been  taken  by  a  certain  man  who,  for  fear  of
 detection,  had  thrown  them  into  the  river.  The  stone  said  further
 that  the  articles  would  be  brought  back  that  night  and  left  where
 they  had  been  last  seen.  The  next  morning  all  the  missing  articles
-were  found  in  the  place  where  they  had  been  last  seen.  Their  appear-
-ance indicated  that  they  had  been  under  the  water  for  several  days.
+were  found  in  the  place  where  they  had  been  last  seen.  Their  appearance indicated  that  they  had  been  under  the  water  for  several  days.
 
-The  following  is  the  second  analysis  group  of  dream  songs,  com-
-prising those  concerning  the  sacred  stones  (Nos.  59-78,  inclusive).
+The  following  is  the  second  analysis  group  of  dream  songs,  comprising those  concerning  the  sacred  stones  (Nos.  59-78,  inclusive).
 The  aid  of  the  sacred  stones  was  invoked  to  locate  the  camp  of  an
 enemy  (p.  348);  also  in  finding  a  missincr  man  (p.  496).  Other
 analyses  of  dream  songs  are  on  pages  198  and  278.
 
 
 DSNQMORB]
-
-
-TETON  SIOUX  MUSIC
-
-
-239
 
 
 Old  Simgs — (S)  Songs  Concerning  the  Sobered  Stones
@@ -28090,13 +17652,6 @@ Total.
 
 NomlMr
 of  songs.
-
-
-8
-12
-
-
-20
 
 
 Serial  Nos.  of  songs.
@@ -28132,28 +17687,15 @@ Number
 of  songs.
 
 
-6
-1
-2
-3
-1
-7
-
-
-20
-
-
 Serial  Nos.  of  songs.
 
 
 63,  67,  60,  73,  74,  70
 
-66
 
 64,65
 
 60,  62,  71
-59
 
 61,  6«,  70,  72,  75,  77,  78
 
@@ -28175,16 +17717,6 @@ Total,
 
 Number
 of  songs.
-
-
-5
-
-2
-
-13
-
-
-20
 
 
 Serial  Nos.  of  songs.
@@ -28215,29 +17747,12 @@ Number
 of  songs.
 
 
-18
-
-1
-1
-
-20
-
-
 Serial  Nos.  of  songs.
 
 
 59,  60,  61,  62,  63,  61,  66,  67,  68,  60,70,71,
 
 72,  73,  74,  76,  76,  77
-65
-
-78
-
-
-240
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 [BVLL.  ei
@@ -28255,19 +17770,11 @@ of  songs.
 
 Serial  Nos.  of  songs.
 
-0
 
 Compass  of—
 
 Fourteen  tones
 
-1
-3
-8
-5
-3
-
-67
 
 Thirte^m  Xm\m ...
 
@@ -28287,7 +17794,6 @@ Eight  tones
 
 Tntftl -
 
-20
 
 TONE  MATERIAL
 
@@ -28298,18 +17804,14 @@ Serial  Nos.  of  songs.
 
 Fourth  five>toned  scale
 
-3
-2
 
 61,  63,  72
 
 Minor  triad
 
-69
 
 Minor  triad  and  seventh
 
-77
 
 Minor  triad  and  fourth
 
@@ -28317,7 +17819,6 @@ Minor  triad  and  fourth
 
 Octave  complete
 
-66
 
 Octave  complete  except  seventh
 
@@ -28327,8 +17828,6 @@ Octave  complete  except  seventh,  sixth,  and  fourth
 
 Octave  complete  except  seventh  and  fourth
 
-68
-73
 
 Octave  complete  except  seventh  and  second
 
@@ -28336,11 +17835,9 @@ Octave  complete  except  seventh  and  second
 
 Octave  complete  except  sixth  and  second
 
-67
 
 Octave  oomnlete  except  fifth  and  second
 
-60
 
 Octave  complete  except  fourth
 
@@ -28348,7 +17845,6 @@ Octave  complete  except  fourth
 
 Total
 
-20
 
 •
 
@@ -28369,15 +17865,6 @@ Number
 of  songs.
 
 
-16
-
-3
-1
-
-
-20
-
-
 Serial  Nos.  of  songs.
 
 
@@ -28385,7 +17872,6 @@ Serial  Nos.  of  songs.
 
 74,  75,  76,  77
 64,65.78
-63
 
 
 STRUCTURE
@@ -28408,29 +17894,13 @@ Harmonic
 Total.
 
 
-13
-
-4
-
-3
-
-20
-
-
 61,  62,  64,  65,  66,  67,  6.S  71,  73,  74,  75,  76,
 
-78
 59,  60.  63,  77
 69,  70,  72
 
 
 OBNaHOREj
-
-
-TETON  SIOUX   MUSIC
-
-
-241
 
 
 Old  Songs — (S)  Songs  Concerning  the  Sacred  Stones — Continued
@@ -28450,12 +17920,6 @@ Downward.
 Upward
 
 Total.
-
-
-14
-
-
-6
 
 
 ao
@@ -28537,12 +18001,6 @@ Total  number  of  semitones
 Average  number  of  semitones  in  an  interval .
 
 
-242
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
 [BULL,  ei
 
 
@@ -28592,49 +18050,23 @@ Number
 of  songs.
 
 
-20
-
-
 Serial  Nos.  of  songs.
 
 
-65
-
-78
-
-3
-
 09,  73,  77
 
-70
 
 59,66
 
-68
-
-60
-
-72
 
 t        ■*
 
-64
-
-63
-
-3
 
 67,  75,  76
 
-61
-
-74
-
-71
 
 ■     _  .
 
-62
 
 Rhtthmig  Analysis
 
@@ -28649,8 +18081,6 @@ Serial  Nos.  of  songs.
 
 Beeinnins  on  unaccented  part  of  measure
 
-16
-4
 
 59,  61,  63,  64,  65.  66,  67.  68.  69.  70.  71.  72.
 
@@ -28659,11 +18089,9 @@ BMrfnninir  on  accented  ■part  of  measure
 73,  74,  75,  78
 60,  62,  76,  77
 
-1
 
 Total
 
-20
 
 RHYTHM  OF  FIRST  MEASURE
 
@@ -28672,7 +18100,6 @@ First  measure  In—
 
 Z-4time
 
-3-4  time
 
 4^  time
 
@@ -28685,15 +18112,6 @@ Number
 of  songs.
 
 
-12
-6
-1
-1
-
-
-20
-
-
 Swial  Nos.  of  songs.
 
 
@@ -28701,18 +18119,11 @@ Swial  Nos.  of  songs.
 
 61,  62,  65,  67,  72,  78
 
-68
-
-64
-
 
 DENCIMOHE]
 
 
 TETON  SIOUX  MX78IO
-
-
-243
 
 
 Old  Songs — (5)  Songs  Concerning  the  Sacred  Stones — Continued
@@ -28737,7 +18148,6 @@ Serial  Nos.  of  songs.
 
 
 None.
-20
 
 
 ao
@@ -28752,7 +18162,6 @@ RHYTHM  OF  DRUM
 
 •
 
-4
 
 Number
 of  songs.
@@ -28761,14 +18170,6 @@ Serial  Nos.  of  songs.
 
 Sixteenth  notes  unaccented
 
-1
-8
-2
-1
-
-8
-
-64
 
 Eishth  notes  unaccented
 
@@ -28778,17 +18179,14 @@ Quarter  notwi  unwyjented
 
 61,62
 
-Each  beat  preceded  by  an  unaccented  beat  correspond-
-ing to  third  count  of  a  triplet.
+Each  beat  preceded  by  an  unaccented  beat  corresponding to  third  count  of  a  triplet.
 Drum  not  recorded  . . . ,  r . , .
 
-66
 
 63,  65,  73,  74,  75,  76,  77,  78
 
 Total
 
-20
 
 Songs  containing—
 No  rhythmic  unit. .
@@ -28826,77 +18224,23 @@ erial  Nos.  of  songs.
 
 Metronome—
 
-60
-
-1
-3
-1
-1
-1
-2
-2
-1
-4
-1
-1
-1
-1
-
-60
-
-69
 
 63,  70,  71
 
-72
-
-72
-
-76
-
-66
-
-80
-
-59
-
-84
 
 61,65
 
-92
 
 67,78
 
-96
-
-69
-
-100
 
 74,  75,  76,  77
 
-104
-
-62
-
-126
-
-73
 
 160 •
 
-68
-
-188
-
-64
 
 Total
-
-20
-
-244
 
 
 BUBEAU  OP  AMERICAN  ETHNOLOGY
@@ -28914,21 +18258,6 @@ METRIC  UNIT  OF  DRUM  (TEMPO)
 
 Metronome—
 
-76
-
-96
-
-104
-
-132
-
-138
-
-152
-
-160
-
-168
 
 Drum  not  recorded
 
@@ -28938,17 +18267,10 @@ Total
 Serial  Nos.  of  songs.
 
 
-66
-
-61
-
-62
-
 69,70
 
 67,68
 
-72
 
 59,71
 
@@ -28966,14 +18288,6 @@ Serial  Nos.  of  songs.
 
 Drum  and  voice  bavins  the  same  metric  unit
 
-3
-
-8
-
-1
-8
-
-20
 
 62.64.66
 
@@ -28983,7 +18297,6 @@ Drum  Jiaster  than  vole*"
 
 Dnim  »iowf>r  thm  vn*ce
 
-68
 
 Drum  not  recorded
 
@@ -29030,8 +18343,7 @@ man.
 Three  methods  of  treating  the  sick  were  used  by  the  Sioux — by
 means  of  the  sacred  stones,  "conjuring,"  and  the  ^ving  of  herbs.
 The  first  kind  of  treatment  might  be  pven  by  a  vxika^'hay.  This
-term  was  applied  to  the  highest  type  of  medicine-men — those  quali-
-fied to  command  the  sacred  stones,  to  bring  fair  weather,  or  to  fill
+term  was  applied  to  the  highest  type  of  medicine-men — those  qualified to  command  the  sacred  stones,  to  bring  fair  weather,  or  to  fill
 
 
 Fio.  as.     Plots,  Group  3.
@@ -29044,8 +18356,7 @@ roots  of  herbs,"  It  was  not  unusual  for  the  same  man  to  use  more
 than  one  of  these  methods,  but  he  was  best  known  by  the  one  which
 he  employed  the  most.
 
-Treatment  of  the  sick  by  means  of  the  sacred  stones  and  by  con-
-juring has  been  forbidden  by  the  Government  in  recent  years,  but
+Treatment  of  the  sick  by  means  of  the  sacred  stones  and  by  conjuring has  been  forbidden  by  the  Government  in  recent  years,  but
 certain  of  the  old  men  arc  allowed  to  continue  treating  the  sick  by
 administering  herbs.     Four  such  men  described  the  method  they
 4640°— Bull.  61—18 18
@@ -29053,8 +18364,7 @@ administering  herbs.     Four  such  men  described  the  method  they
 
 246  BUREAU  OF  AMERICAN  ETHNOLOGY  rBULL.«i
 
-were  using  at  the  time  of  giving  the  information;  one  (Used-as-
-a-Shield)  gave  an  account  of  ''conjuring"  from  the  standpoint  of
+were  using  at  the  time  of  giving  the  information;  one  (Used-asa-Shield)  gave  an  account  of  ''conjuring"  from  the  standpoint  of
 the  patient;  another  (Old  Buffalo)  narrated  his  fasting  prayer  for
 a  sick  relative;  and  additional  information  was  received  from  otKer
 informants.
@@ -29071,8 +18381,7 @@ tied  in  a  hide.  The  tent  was  dark,  and  the  medicine-man  sang  songs
 addressed  to  the  sacred  stones;  he  sang  also  his  own  dream  songs.
 Strange  sounds  were  heard  in  the  darkness,  and  objects  were  felt  to
 be  flying  through  the  air.  Voices  of  animals  were  speaking.  One
-said,  '*My  grandchild,  you  are  very  sick,  but  I  will  cure  you."  Fre-
-quently a  buffalo  came,  and  those  who  did  not  beUeve  in  the  sacred
+said,  '*My  grandchild,  you  are  very  sick,  but  I  will  cure  you."  Frequently a  buffalo  came,  and  those  who  did  not  beUeve  in  the  sacred
 stones  were  kicked  by  the  buffalo  or  struck  by  a  flying  stone  or  bimdle
 of  clothing.  At  last  the  medicine-man  called,  '^  Hasten,  make  a
 light!"  Dry  grass,  which  was  ready,  was  placed  on  the  fire.  In  its
@@ -29084,8 +18393,7 @@ stones  he  rolled  a  stone  on  the  person's  body  **to  locate  the  ailmen
 and  that  if  the  sick  person  wished  to  hold  the  stone  in  his  mouth  he
 was  allowed  to  do  so,  as  this  produced  an  internal  effect.
 
-In  many  instances  of  treating  the  sick  by  *' conjuring"  no  medi-
-cines were  given,  the  conjuror  claiming  that  he  removed  the  disease
+In  many  instances  of  treating  the  sick  by  *' conjuring"  no  medicines were  given,  the  conjuror  claiming  that  he  removed  the  disease
 from  the  person's  body  by  sucking  it  out.  A  performance  of  this
 kind  was  described  to  the  writer  by  Mrs.  James  McLaughlin,  who
 witnessed  it  on  the  Devils  Lake  Reservation,  in  North  Dakota.  Mrs.
@@ -29136,11 +18444,9 @@ receiving  treatment  by  a  conjurer,  saying:
 
 The  first  thing  done  in  summoning  a  medicine-man  to  treat  a  sick  person  was  to  put
 black  paint  on  the  stem  of  a  pipe.  Charcoal  was  ordinarily  used  in  making  this  paint,
-which  was  smeared  on  the  stem  of  the  pipe,  an  eagle  feather  being  tied  next  the  mouth-
-piece. A  messenger  took  this  painted  pipe  to  the  medicine-man's  lodge,  carrying  it
+which  was  smeared  on  the  stem  of  the  pipe,  an  eagle  feather  being  tied  next  the  mouthpiece. A  messenger  took  this  painted  pipe  to  the  medicine-man's  lodge,  carrying  it
 with  the  bowl  next  him.  If  the  medicine-man  were  at  home,  the  messenger  entered
-the  lodge,  turning  toward  the  left.  Without  speaking  he  handed  the  pipe  to  the  medi-
-cine-man, who  smoked  it  in  token  of  his  assent.  A  request  to  visit  a  sick  person  was
+the  lodge,  turning  toward  the  left.  Without  speaking  he  handed  the  pipe  to  the  medicine-man, who  smoked  it  in  token  of  his  assent.  A  request  to  visit  a  sick  person  was
 never  refused  imless  the  medicine-man  were  physically  unable  to  go.  If  the  man
 were  not  at  home  the  messenger  left  the  pipe  in  the  place  of  honor,  with  the  bowl
 toward  the  door.[^]  The  relatives  of  the  medicine-man  then  made  an  effort  to  find
@@ -29175,11 +18481,9 @@ and  smging,  but  when  he  paused  for  an  instant  I  could  hear  the  soun
 some  who  were  there  eve&  said  they  could  see  the  head  of  a  red  hawk  coming  out  of  hia
 mouth.  He  bent  over  me  and  I  expected  that  he  would  suck  the  poison  from  my
 body  with  his  mouth,  but  instead  I  felt  the  beak  of  a  bird  over  the  place  where  the
-pain  was.  It  penetrated  so  far  that  I  could  feel  the  feathers  of  the  bird.  The  medi-
-cine-man kept  perfectly  still  for  a  time;  then  he  got  up  with  a  jerk  to  signify  that  he
+pain  was.  It  penetrated  so  far  that  I  could  feel  the  feathers  of  the  bird.  The  medicine-man kept  perfectly  still  for  a  time;  then  he  got  up  with  a  jerk  to  signify  that  he
 had  gotten  out  the  trouble.  Still  it  was  the  beak  of  a  bird  which  I  felt.  A  boy  stood
-near,  holding  a  filled  pipe.  It  was  soon  apparent  that  the  medicine-man  had  swal-
-lowed the  poison .  He  took  four  whiffs  of  the  pipe .  Then  he  must  get  rid  of  the  poison.
+near,  holding  a  filled  pipe.  It  was  soon  apparent  that  the  medicine-man  had  swallowed the  poison .  He  took  four  whiffs  of  the  pipe .  Then  he  must  get  rid  of  the  poison.
 This  part  of  the  performance  was  marked  by  great  activity  and  pounding  of  the  drum.
 At  times  he  kicked  the  bare  ground  in  his  effort  to  get  rid  of  the  poison;  he  paced  back
 and  forth,  stamped  his  feet,  and  iised  both  rattle  and  drum.  Finally  he  ejected  the
@@ -29200,8 +18504,7 @@ Rock  Reservation,  and  was
 actively  engaged  in  the  practice
 of  native  medicine  when  he
 held  his  conferences  with  the
-writer.  In  describing  his  treat-
-ment of  the  sick  he  said:
+writer.  In  describing  his  treatment of  the  sick  he  said:
 
 Fia.  20.    Drawing  on  mirror  used  In  treatment  of  „  ,    ,  •  •■       xi.  ^
 
@@ -29245,12 +18548,6 @@ Opening  his  bag,  he  took  from  it  a  small  mirror  inclosed  in  a  flat 
 dbkrmore]
 
 
-TETON  SIOUX  MUSIC
-
-
-249
-
-
 of  unpainted  wood,  the  whole  being  about  4  by  6  inches.  On  the
 mirror  was  a  drawing  of  a  new  moon  and  a  star.  This  design  was
 copied  by  Brave  Buffalo  and  is  shown  in  figure  26.  He  said:  ^'I
@@ -29277,12 +18574,7 @@ sion  of  its  use  was  not  designated.
 No.  79.  "The  Sunrise"
 
 Sung  by  Brave  Buffalo
-Voice  J  =  84
-Drum  J  =72
 Dnim-rhythm  similar  to  No.  19
-
-
-(Catalogue  No.  603)
 
 
 :jt£4#-^4^
@@ -29307,9 +18599,6 @@ g>4'~'^:^^^'r=:  ^^  ^Wi-^^^thsdm
 
 
 lo     wi       lii    -   na    -  pe     wan-la  -  ka       nuij  -  we        o   he
-
-
-WORDS
 
 
 wi  hina''pe sunrise
@@ -29347,18 +18636,14 @@ I  continuously  repeated  than  in  a  majority  of  the  songs.  The  first
 tone  of  the  rhythmic  unit  was  strongly  accented.  The  only  tones
 are  those  of  the  minor  triad  and  fourth,  and  the  structure  of  the  song
 is  melodic  with  harmonic  framework,  the  accented  G  precluding  its
-classification  as  harmonic  in  structure.  Two-thirds  of  the  progres-
-sions are  downward,  the  melody  descending  steadily  from  the  tenth
+classification  as  harmonic  in  structure.  Two-thirds  of  the  progressions are  downward,  the  melody  descending  steadily  from  the  tenth
 to  the  tonic.
 
-See  plot  of  this  melody  on  page  283.
 
 Goose  (pi.  31),  a  widely-known  medicine-man,  is  what  might  be
 termed  a  specialist  in  the  treatment  of  consumption  and  is  said  to
-have  had  no  small  degree  of  success  in  his  work.  Information  con-
-cerning the  Sun  dance  and  the  sacred  stones  was  also  given  by  him.
-(See  pp.  90,  210.)  Goose  narrated  the  dream  by  which  he  felt  him-
-self authorized  to  undertake  the  treatment  of  the  sick.  It  was
+have  had  no  small  degree  of  success  in  his  work.  Information  concerning the  Sun  dance  and  the  sacred  stones  was  also  given  by  him.
+(See  pp.  90,  210.)  Goose  narrated  the  dream  by  which  he  felt  himself authorized  to  undertake  the  treatment  of  the  sick.  It  was
 impossible  to  record  the  songs  when  the  story  of  the  dream  was
 given,  and  imfortunately  another  opportunity  did  not  occur.  In
 describing  the  dream  Goose  said:
@@ -29368,8 +18653,7 @@ After  coming  in  contact  with  the  Army  I  was  given  a  rifle  and  cartr
 missed  my  aim.  One  morning  I  arose  before  daybreak  to  go  on  a  hunting  trip.  As
 I  went  around  a  butte  I  saw  an  antelope,  which  came  toward  me  and  stood  still  a
 short  distance  away  from  me.  The  antelope  looked  at  me  and  then  began  to  graze.
-I  took  my  rifle  and  flred  several  shots  with  no  effect.  I  fired  16  cartridges  and  won-
-dered what  could  be  the  matter.  I  put  in  four  more  cartridges  and  fired  again,  but
+I  took  my  rifle  and  flred  several  shots  with  no  effect.  I  fired  16  cartridges  and  wondered what  could  be  the  matter.  I  put  in  four  more  cartridges  and  fired  again,  but
 with  no  effect  whatever.  Then  the  animal  stopped  grazing  and  began  to  move  slowly
 away.  Then  I  heard  a  voice  speaking  tlu-ee  times,  then  a  fourth  time,  and  the  voice
 said  it  was  going  to  sing  something,  and  I  must  listen.  The  voice  was  above  me  and
@@ -29405,11 +18689,9 @@ and  as  often  afterward  as  the  medicine-man  directs.  I  always  prescribe
 bath  the  first  thing.  I  also  claim  that  a  sick  person  can  not  recover  unless  the  diet  is
 changed.  Certain  kinds  of  food  and  of  wild  fruit  are  bad  in  certain  illnesses,  and
 certain  kinds  of  game  or  venison  are  injurious  to  a  sick  person.  The  food  must  be
-lighter  than  usual,  and  the  person  must  avoid  unnecessary  exertion.  My  require-
-ments are  the  sweat  bath,  light  diet,  and  rest.  I  have  treated  consumption,  and  if  th^
+lighter  than  usual,  and  the  person  must  avoid  unnecessary  exertion.  My  requirements are  the  sweat  bath,  light  diet,  and  rest.  I  have  treated  consumption,  and  if  th^
 disease  is  not  too  far  advanced  the  person  usually  recovers.  The  treatment  depends
-on  the  seriousness  of  the  case.  All  three  herbs  which  I  saw  in  my  dream  were  pre-
-pared in  a  certain  way  and  were  intended  for  use  in  consumption,  which  is  caused  by
+on  the  seriousness  of  the  case.  All  three  herbs  which  I  saw  in  my  dream  were  prepared in  a  certain  way  and  were  intended  for  use  in  consumption,  which  is  caused  by
 improper  circulation  of  the  blood.  I  do  not  want  the  patient  to  make  any  undue
 exertion,  but  I  try  especially  to  keep  up  his  circulation.  The  sweat  bath  makes  the
 circulation  better.  In  the  old  days  a  person  did  not  take  cold  after  a  sweat  bath.  The
@@ -29426,26 +18708,21 @@ not  the  only  type  of  rattle  used  among  the  Sioux  in  treating  the  si
 the  form  of  rattle  depending  on  the  choice  of  the  medicine-man.
 
 Every  medicine-man  had  a  bag  or  case  in  which  he  kept  his  supply  of
-herbs  and  the  articles  used  by  him  in  treating  the  sick.  In  some  in-
-stances the  outer  case  was  of  decorated  rawhide.  A  man^s  medicine
+herbs  and  the  articles  used  by  him  in  treating  the  sick.  In  some  instances the  outer  case  was  of  decorated  rawhide.  A  man^s  medicine
 bag  was  hung  on  a  pole  outside  the  lodge  and  usually  brought  in  at
-night ;  it  was  often  "  incensed  *^  with  burning  sweet  grass.  It  was  be-
-lieved that  the  presence  of  ^'the  wrong  kind  of  person''  in  the  lodge
+night ;  it  was  often  "  incensed  *^  with  burning  sweet  grass.  It  was  believed that  the  presence  of  ^'the  wrong  kind  of  person''  in  the  lodge
 would  affect  the  efficacy  of  the  medicine,  and  that  if  it  were  exposed  to
 such  influence  for  any  considerable  time  its  power  would  be  entirely
 destroyed.  The  writer  secured  three  of  those  medicine  bags.  One
 (pi.  33)  belonged  to  a  medicine-man  named  Wai)bh'iyo'take  (Sitting
-Eagle),  who  lived  many  years  ago.  The  bag  is  made  of  four  ante-
-lope ears.  When  Sitting  Eagle  died  the  medicine  bag  and  its  contents
+Eagle),  who  lived  many  years  ago.  The  bag  is  made  of  four  antelope ears.  When  Sitting  Eagle  died  the  medicine  bag  and  its  contents
 passed  into  the  possession  of  his  niece,  who  emptied  most  of  the
 small  bags  contained  in  the  pouch,  but  kept  the  pouch  and  two  of  the
 
 1  This  specimen  is  described  as  follows  by  Mr.  E.  H.  Hawley,  curator  of  musical  instruments,  U.  8.
 National  Museum:  "Total  length,  10  Inches:  body  length,  6  inches;  diameter,  h'^.i  to  6  inches.  An  Irregular
-gourd  shell  with  a  short  neck .  A  wooden  handle  enters  the  neck  and  comes  out  at  the  blossom  end.  Three-
-sixteenth-inch  holes  are  made  tn  the  neck  and  a  strip  of  leather  sewed  to  the  neck  through  these  holes;  this
-leather  Is  brought  down  over  the  handle  and  bound  to  It  by  a  strip  of  bright  cloth.  This  gives  a  firm  attach-
-ment between  the  gourd  and  handle.  Near  the  outer  end  of  the  handle  a  groove  is  put;  in  it  Is  tied  a  sfxlp
+gourd  shell  with  a  short  neck .  A  wooden  handle  enters  the  neck  and  comes  out  at  the  blossom  end.  Threesixteenth-inch  holes  are  made  tn  the  neck  and  a  strip  of  leather  sewed  to  the  neck  through  these  holes;  this
+leather  Is  brought  down  over  the  handle  and  bound  to  It  by  a  strip  of  bright  cloth.  This  gives  a  firm  attachment between  the  gourd  and  handle.  Near  the  outer  end  of  the  handle  a  groove  is  put;  in  it  Is  tied  a  sfxlp
 of  twisted  cloth  so  it  can  be  worn  on  the  arm  or  himg  up.    The  gourd  incloses  pebbles. "
 
 ■  A  rattle  similar  to  this  Is  pictured  by  Skinner  as  part  of  a  charm  used  by  the  Menomini  to  call  the  buffalo.
@@ -29476,8 +18753,7 @@ BexaUORET  TETON    S1I)U\    MUSIC  253
 remedies.  The  nieco's  name  was  Maka'-po^u'tawii)  (Eartli-medicine
 Woman).  One  of  her  song8  {No.  146}  is  contained  in  this  work.  In
 the  pouch  were  seven  empty  medicine  bags,  the  entire  foot  of  an  eagle,
-and  a  small  piec«  of  bone  of  an  elk.  On  the  inner  edge  of  each  medi-
-cine bag  waa  a  small  mark  by  which  the  contents  could  be  identified.
+and  a  small  piec«  of  bone  of  an  elk.  On  the  inner  edge  of  each  medicine bag  waa  a  small  mark  by  which  the  contents  could  be  identified.
 Earth-medicine  Woman  said  that  her  uncle  used  the  eagle  claw  in
 treating  scrofulous  sores,  especially  on  the  neck.  For  this  purpose
 _  he  scraped  the  surface  of  the  claw,  mixed  a  small  quantity  of  the
@@ -29490,12 +18766,10 @@ A  medicine  pouch  made  of  badger's  paws  is  shown  in  plate  34;  this
 was  secured  among  the  Teton  Sioux,  l>ut  its  history  is  unknown.
 
 Eagle  Shield  said  that  he  received  his  knowledge  of  herbs  from  the
-bear  and  the  badger,  the  former  giving  him  instruc-
-tions concerning  most  of  the  remedies  which  ho  used
+bear  and  the  badger,  the  former  giving  him  instructions concerning  most  of  the  remedies  which  ho  used
 for  adults,  and  the  latter  telling  him  of  remedies  for
 children.     As  already  noted,  those  who  dreamed  of
-the  bear  were  supposed  to  have  particularly  effec-
-tive remedies.     (See  p.  195.)    Like  others  who  gave
+the  bear  were  supposed  to  have  particularly  effective remedies.     (See  p.  195.)    Like  others  who  gave
 valuable  information,  Eagle  Shield  at  first  hesitated,
 but  afterwards  l>ecame  interested,  expressing  a  desire
 to  make  his  part  of  the  work  as  complete  as  possible.'
@@ -29504,10 +18778,8 @@ small  bags  containing  herbs  which  he  always  took
 with  him  when  visiting  the  sick.     He  also  secured    ^o-'^'  ^*'[^'**  J^
 fresh  specimens  of  many  medicinal  herbs  which  he
 used  in  his  practice.    These  were  sent  to  Washington  for  identification,
-with  a  view  to  ascertaining  whether  any  of  them  are  used  in  the  med-
-ical practice  of  the  whit*'  race.     Further,  Eagle  Shield  permitted  the
-photographing  of  a  bear  claw  which  he  said  had  been  in  his  posses-
-sion 48  years  and  was  constantly  used  by  him  in  treating  the  sick.
+with  a  view  to  ascertaining  whether  any  of  them  are  used  in  the  medical practice  of  the  whit*'  race.     Further,  Eagle  Shield  permitted  the
+photographing  of  a  bear  claw  which  he  said  had  been  in  his  possession 48  years  and  was  constantly  used  by  him  in  treating  the  sick.
 (Fig.  27.)
 
 Eagle  Shield's  mechcine-bag  (pi.  36)  was  made  of  the  entire  skin
@@ -29536,8 +18808,7 @@ the  man  who  used  them.  Thus  the  medicine-pouch  belonging
 to  Sitting  Eagle  contained  seven  small  packets,  which  were
 said  to  be  only  part  of  the  remedies  used  by  him.  Eagle
 Shield  had  four  principal  remedies,  the  most  important  of  which,
-was  contained  in  a  beaded  case.  This  herb  is  described  in  connec-
-tion with  song  No.  81.  His  four  medicine -packets,  together  with
+was  contained  in  a  beaded  case.  This  herb  is  described  in  connection with  song  No.  81.  His  four  medicine -packets,  together  with
 a  small  spoon  of  white  bone  used  in  giving  medicine  to  children,
 are  shown  in  plate  36.
 
@@ -29547,14 +18818,12 @@ an  Indian  were  suffering  from  a  malady  he  would  go  to  a  doctor  and
 say,  "Have  you  a  remedy  for  such  and  such  an  ailment?''  The
 doctor  had  no  hesitation  in  saying  he  lacked  the  remedy  if  such  were
 the  case,  as  he  was  not  expected  to  have  any  remedies  except  such
-as  various  animals  had  revealed  to  him,  unless  he  may  have  ac-
-quired a  few  from  other  medicine-men.
+as  various  animals  had  revealed  to  him,  unless  he  may  have  acquired a  few  from  other  medicine-men.
 
 The  herb  kept  by  Eagle  Shield  in  the  decorated  bag  (pi.  36)  was
 called  tdo'pi  pehi^ta,  *herb  for  the  wounded.*'  Many  remarkable
 cures  are  said  to  have  been  wrought  by  Eagle  Shield  through  the  use
-of  this  remedy.  A  fresh  specimen  of  the  herb  was  secured  and  identi-
-fied as  Achillea  lantUosa  Nutt.  (yarrow).  It  was  said  to  '*grow  on
+of  this  remedy.  A  fresh  specimen  of  the  herb  was  secured  and  identified as  Achillea  lantUosa  Nutt.  (yarrow).  It  was  said  to  '*grow  on
 hills  and  in  the  Bad  Lands. "  The  entire  plant  was  dried,  and  instead
 of  being  prepared  as  a  tea  the  patient  was  required  to  chew  it.  Eagle
 Shield  said  that  he  had  treated  men  shot  through  the  body  and  they
@@ -29578,19 +18847,12 @@ frequently  interspersing  these  with  a  hissing  exhalation  of  the  breath.
 drn^mork]
 
 
-TETON  SIOUX  MUSIC
-
-
-255
-
-
 No.  81.  ''Behold  All  These  Things"    (Gatalog:ue  No.  511)
 
 
 Sung  by  Eaols  Shield
 
 
-Voice  J  =66
 Dkum  not  recorded
 
 
@@ -29651,9 +18913,6 @@ waq  -  la  -  ke    (!ii)
 on    ya  -  ni  pi '  kte  -  lo
 
 
-WORDS
-
-
 (First  rendition)
 
 ih&  lens/  waQyag'ka  yo behold  all  these  things
@@ -29679,15 +18938,6 @@ waglake  6ig you  behold
 yani'  pi  ktelo' you  will  Uve
 
 
-256
-
-
-BUREAU   OP  AMERICAN   ETHNOLOGY
-
-
-[BULL.  01
-
-
 Analysis. — ^More  than  60  per  cent  of  the  intervals  in  this  song
 are  larger  than  a  minor  third.  This  is  an  unusual  proportion  of
 large  intervals.  Fifteen  of  these  intervals  are  fourths,  nine  are
@@ -29695,22 +18945,17 @@ fifths,  and  one  is  an  octave.  Two  renditions  were  recorded;  these
 show  no  points  of  difference.  The  melody  is  minor  in  toneUty  and
 contains  all  the  tones  of  the  octave  except  the  sixth  and  seventh.
 
-See  plot  of  this  melody  on  page  283.
 
 The  following  song  was  used  with  the  same  herb  as  the  preceding
 and  was  sung  when  the  patient  began  to  improve.
 
 
-VoiCB  J  =184
 Bbum  not  recorded
 
 
 No.  82.  <<I  Am  Sitting"
 
 Sung  by  Eagle  Shield
-
-
-(Catalogue  No.  515)
 
 
 E^:
@@ -29767,9 +19012,6 @@ ye
 yo
 
 
-WORDS
-
-
 wakaQ'^yai) in  a  sacred  manner
 
 makc^  lo I  am  sitting
@@ -29803,8 +19045,7 @@ sommit.    The  children  prayed  to  the  rocks  as  if  to  tlieir  guardian  
 DBNSHOBK]  TETON  SIOUX   MUSIC  ,257
 
 The  first  half  of  this  song  is  based  on  the  triad  O-E  flat-G.  This  part
-includes  the  repetitions  of  the  rhythmic  unit.  The  latter  part  con-
-tains only  the  tones  of  the  minor  third  G~B  flat,  and  the  song  is  con-
+includes  the  repetitions  of  the  rhythmic  unit.  The  latter  part  contains only  the  tones  of  the  minor  third  G~B  flat,  and  the  song  is  con-
 sidered to  be  in  the  key  of  G  minor  though  the  fifth  of  that  key  does
 not  appear.  The  rhythmic  unit  of  this  song  is  longer  than  that  of
 many  of  the  songs  and  is  interesting.  The  rhythm  of  the  latter  part
@@ -29815,15 +19056,11 @@ p.  222).  The  following  other  songs  in  the  present  series  have  this
 structure:  Nos.  97,  99,  207,  212,  220,  221,  234,  238.  Five  renditions
 of  this  song  were  recorded.  There  was  no  break  between  the  first
 and  second  rendition,  but  a  short  pause  was  made  between  the  others.
-A  remedy  used  by  Eagle  Shield  for  those  suflFering  from  loss  of  appe-
-tite was  called  loie'pi  6ni  peH'huta.  The  plant  was  said  to  grow  '  'near
+A  remedy  used  by  Eagle  Shield  for  those  suflFering  from  loss  of  appetite was  called  loie'pi  6ni  peH'huta.  The  plant  was  said  to  grow  '  'near
 cteeks  and  in  gravel.''  The  root  only  was  used.  This  herb  was
 identified  as  Astragalus  carolinianus  L.  (loco  weed).  The  following
 song  was  sung  in  connection  with  its  use.  In  a  short  speech  before
 singing  the  song  Eagle  Shield  said  that  it  was  the  song  of  a  bear.
-
-
-258
 
 
 BUBEAU  OF  AMEBICAN  ETHNOLOGY
@@ -29832,16 +19069,12 @@ BUBEAU  OF  AMEBICAN  ETHNOLOGY
 [BULL,  ei
 
 
-VoiCB  J  =63
 Dkum  not  recorded
 
 
 No.  88.  ''We  Win  Bat"
 
 Sung  by  Eaole  Shield
-
-
-(Catalogue  No.  512)
 
 
 m
@@ -29895,9 +19128,6 @@ ye      he    tu  -  wa    hi  -  yu
 ye
 
 
-WORDS
-
-
 he  tu''wa some  one
 
 hiyu'ye "come  here "  Ca  command)
@@ -29934,12 +19164,6 @@ eya'  6ey</ has  said
 DBNqifOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-259
-
-
 Ancdyais. — ^This  song  is  characterized  by  the  interval  of  the  fourth,
 which  constitutes  18  per  cent  of  the  entire  number  of  intervaJs.  It
 appears  in  the  first  part  of  the  song  as  the  descending  progression
@@ -29950,8 +19174,7 @@ song  is  harmonic  in  structure.  The  rhythmic  unit  is  short  and  is  a
 phrase  which  is  not  xmusual  in  these  songs.
 
 For  those  suffering  from  headache  Eagle  Shield  had  a  special
-remedy — an  herb  called  nasu'la  yazay'pi  ipi'ya,  'no  appetite  medi-
-cine,' which  grew  on  the  prairie.  The  root,  dried  and  powdered,  was
+remedy — an  herb  called  nasu'la  yazay'pi  ipi'ya,  'no  appetite  medicine,' which  grew  on  the  prairie.  The  root,  dried  and  powdered,  was
 sprinkled  on  hot  coals,  the  patient  inhaling  the  fumes.  This  plan
 was  identified  as  AHemisiafrigida  Willd.  (Colorado  sage).
 
@@ -29974,18 +19197,11 @@ No.  84.  ''These  Are  Good"
 Sung  by  Eagus  Shield
 
 
-(Catalogue  No.  513)
-
-
-Le-na-kewaS  -  te    ke-ya    -    pe  -  lo   ho-ye-
-
-
-m^
+Le-na-kewaS  -  te    ke-ya    -    pe  -  lo   ho-yem^
 
 
 ya      na-^ii)
 
-WORDS
 
 lena^ke all  these
 
@@ -30003,25 +19219,17 @@ t  This  refers  to  the  sounds  made  by  a  bear  standing  erect,  preparato
 p.  180,  footnote.)
 
 
-260
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
 CBULL.  61
 
 
 Analysis. — Few  songs  of  the  present  series  have  the  upward  and
-downward  intervals  so  nearly  equal  as  this  song,  in  which  27  pro-
-gressions are  upward  and  32  are  downward.  The  major  second
+downward  intervals  so  nearly  equal  as  this  song,  in  which  27  progressions are  upward  and  32  are  downward.  The  major  second
 occurs  11  times  in  upward  and  11  times  in  downward  progression,
 and  the  minor  second  is  loimd  10  times  in  upward  and  10  times  in
 downward  progression,  yet  the  melody  is  not  monotonous,  and  the
 intonation  on  these  smfdl  intervals  was  better  than  in  a  majority  of
 such  instances.  The  song  begins  on  the  octave  and  ends  on  the  tonic.
-All  the  tones  of  the  octave  are  present  except  the  sixth.  It  is  inter-
-esting to  observe  that  the  interval  between  the  seventh  and  eighth
+All  the  tones  of  the  octave  are  present  except  the  sixth.  It  is  interesting to  observe  that  the  interval  between  the  seventh  and  eighth
 is  in  some  instances  a  semitone  and  in  others  a  whole  tone.  The
 transcription  is  from  the  first  rendition,  which  gives  the  entire  song,
 the  second  and  third  renditions  omitting  the  first  four  measures.
@@ -30075,7 +19283,6 @@ ii
 
 ma-ui      ye  -  lo
 
-WORDS
 
 ta^u  wakai)'' something  sacred
 
@@ -30101,8 +19308,7 @@ ioL.
 
 ■of
 lie.
-er-
-it
+erit
 he
 
 
@@ -30119,8 +19325,7 @@ this  melody.  It  appears,  in  the  opening  measures,  as  the  descending
 interval  E  flat-B  flat;  the  tone  A  also  occurs,  and  the  descent  from
 B  flat  to  A  flat  introduces  the  tonic  chord.  The  fourth  then  appears
 as  the  descending  interval  A  flat-E  flat.  The  subdominant  of  the  key
-occurs  twice  and  m  both  instances  was  sung  a  trifle  sharp,  as  indi-
-cated  in  the  transcription.  The  song  is  major  in  tonality  and  con-
+occurs  twice  and  m  both  instances  was  sung  a  trifle  sharp,  as  indicated  in  the  transcription.  The  song  is  major  in  tonality  and  con-
 tains all  the  tones  of  the  octave  except  the  sixth  and  seventh.  Four
 renditions  were  recorded,  which  are  uniform  in  every  respect.
 
@@ -30136,14 +19341,12 @@ treatment  that  he  fell  asleep.  The  treatment  was  repeated  three
 times  a  day  and  continued  ''until  the  fracture  was  healed.''  He
 ^aid  that  when  an  arm  or  leg  was  first  broken  he  "pulled  it  until  the
 bone  slipped  into  place,"  then  covered  it  with  a  parfleche  c^se,
-laced  together  with  thongs.  This  case  was  removed  for  the  treat-
-ment described  above,  but  he  emphasized  the  need  of  keeping  the
+laced  together  with  thongs.  This  case  was  removed  for  the  treatment described  above,  but  he  emphasized  the  need  of  keeping  the
 case  firmly  laced,  and  of  tightening  it  whenever  the  thongs  seemed  to
 be  loosening.  He  said  the  purpose  of  the  rubbing  was  to  keep  the
 muscles  from  becoming  stiff.  He  added  that  he  had  treated  four
 cases  in  which  the  large  bone  of  the  leg  was  broken,  and  that  in  each
-instance  the  patient  was  able  to  walk  in  a  month.  One  was  a  frac-
-ture near  the  hip.  It  had  been  put  in  iron  braces  by  a  white  doctor,
+instance  the  patient  was  able  to  walk  in  a  month.  One  was  a  fracture near  the  hip.  It  had  been  put  in  iron  braces  by  a  white  doctor,
 but  the  patient,  not  being  able  to  stand  the  treatment,  came  to  him.
 
 Eagle  Shield  made  a  small  "splint^'  of  parfleche,  8  inches  in
@@ -30160,17 +19363,6 @@ times  "while  getting  ready  to  apply  the  medicine."
 
 *  A  specimen  of  the  same  herb  was  given  by  Bear-wlth-Wliite-Paw,  who  said  it  was  "good  to  reduce
 swellixig."    (See  p.  270.)
-
-4840**— Bull.  61—18 19
-
-
-262
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 No.  86.  Song  Preceding  Treatment  of  Fractures    (Catalogue  No.  516)
@@ -30204,9 +19396,6 @@ ye
 ma   -    to      o-ma  -  ki  -  ya   -  ke
 
 
-WORDS
-
-
 kola' friend
 
 wana' now
@@ -30232,13 +19421,11 @@ omaldyake told  me  this
 Analysis. — ^Threo  renditions  of  this  song  were  recorded,  which  are
 uniform  in  every  respect.  The  melody  progressions  are  somewhat
 peculiar,  but  their  exact  repetition  shows  that  they  were  clear  in  the
-mind  of  the  singer.  There  was  a  slight  lowering  of  pitch  in  the  sus-
-tained tone  which  occurs  in  the  sixth  and  seventh  measures.  The
+mind  of  the  singer.  There  was  a  slight  lowering  of  pitch  in  the  sustained tone  which  occurs  in  the  sixth  and  seventh  measures.  The
 song  is  melodic  in  structure  and  contains  all  the  tones  of  the  octave
 except  the  sixth.  One  accidental  occurs — the  seventh  lowered  a
 semitone.
 
-See  plot  of  this  melody  on  page  283.
 
 Another  remedy  imparted  to  Eagle  Shield  by  the  bear  was  a  remedy
 for  diseases  of  the  kidneys.  This  plant,  which  grew  on  the  prairie,
@@ -30253,12 +19440,6 @@ three  doses  should  be  prepared  at  a  time,  as  it  must  not  be  allowed
 DKNSMOBK]
 
 
-TETON  SIOUX  MUSIC
-
-
-263
-
-
 to  stand  overnight.  This  decoction  was  to  be  taken  three  times
 a  day,  and  the  eflFect  was  said  to  be  better  if  it  were  taken  with  food.
 Eagle  Shield  said:  ''No  matter  how  much  a  person  is  suffering,
@@ -30269,7 +19450,6 @@ A  song  was  sung  four  timed  during  treatment  with  this  remedy.
 In  the  words  of  the  song  the  bear  is  addressed  as  "father."
 
 
-VoiCB  J  =  84
 Dbum  not  recorded
 
 
@@ -30286,10 +19466,7 @@ Utf\r  iriPrTt^p
 A-  te  ho-ye  -  ya
 
 
-a-te  ho-ye     -    ya       l-yo-tl- ye  wa-kl-
-
-
-g^t
+a-te  ho-ye     -    ya       l-yo-tl- ye  wa-klg^t
 
 
 s
@@ -30302,9 +19479,6 @@ ye
 
 
 a-te    ho-ye    •'-    ya     i-yo  -  tl  -  ye    wa-ki    -    ye     yo
-
-
-WORDS
 
 
 ate' father
@@ -30327,8 +19501,7 @@ iyo'tiye a  hard  task
 
 wa'kiye  yo I  am  having
 
-Analysis. — ^This  is  a  pleasing  melody,  with  no  striking  charac-
-teristics. Three-fourths  of  the  intervals  are  'major  seconds,  the
+Analysis. — ^This  is  a  pleasing  melody,  with  no  striking  characteristics. Three-fourths  of  the  intervals  are  'major  seconds,  the
 remainder  comprising  a  fifth,  a  fourth,  and  a  minor  third;  the  song
 is  minor  in  tonality  and  melodic  in  structure,  containing  all  the  tones
 of  the  octave  except  the  seventh  and  second.  Three  renditions
@@ -30342,16 +19515,6 @@ used  in  the  treatment  of  the  sick.  Eagle  Shield  said  that  when
 administering  the  herb  the  song  was  sung  only  three  times.
 
 
-264
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
-Voice  J  =80
 Drum  not  recorded
 
 (I)
@@ -30360,9 +19523,6 @@ Drum  not  recorded
 No.  88.  Song  of  the  Bear
 
 Sung  by  Eagle  Shikld
-
-
-(Catalogue  No.  518)
 
 
 Q:.t>|,u2
@@ -30406,7 +19566,6 @@ e
 
 ta  ye  -  lo        ye  -  lo  mi  -  na-  pe  kiij  pe-2i  -  hu- ta  o  -  ta    ye  -  lo
 
-WORDS
 
 (First  renditian)
 
@@ -30428,8 +19587,7 @@ times  in  340  Chippewa  songs.  The  interval  was  correctly  sung  in
 the  three  renditions  of  the  song.  The  change  of  time  was  the  same
 in  all  renditions.  (See  song  No.  5.)  This  melody  contains  two
 rhythmic  units,  both  of  which  are  found  in  the  first  part  of  the  song.
-The  rhythm  of  the  latter  part,  containing  the  words,  has  no  resem-
-blance to  the  rhythm  of  the  unit.
+The  rhythm  of  the  latter  part,  containing  the  words,  has  no  resemblance to  the  rhythm  of  the  unit.
 
 A  remedy  to  check  hemorrhages,  arising  either  from  wounds  or
 from  some  internal  cause,  was  suppUed  by  an  herb  called  by  the  Sioux
@@ -30438,15 +19596,7 @@ from  some  internal  cause,  was  suppUed  by  an  herb  called  by  the  Sioux
 DBNSMOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-265
-
-
-wir)a'wazi  huikar^,  'root  of  the  bur/  and  identified  as  Ratihida  colum-
-
-naris  (Sims)  Don.  (cone  flower) .    This  was  found  in  damp  places,  along
+wir)a'wazi  huikar^,  'root  of  the  bur/  and  identified  as  Ratihida  columnaris  (Sims)  Don.  (cone  flower) .    This  was  found  in  damp  places,  along
 
 creeks.     For  pain  in  the  side  a  tea  was  made  of  the  stalk  and  leaves
 
@@ -30459,7 +19609,6 @@ of  this  herb.
 No.  89.  "Bear  Told  Me"  (Catalogue  No.  519)
 
 Sung  by  Eagle  Shield
-Voice  J  =80
 (or  J^rrieo)
 Drum  not  recorded
 
@@ -30539,9 +19688,6 @@ fl
 5=?Z
 
 
-2
-
-
 ■^9-
 
 
@@ -30573,9 +19719,6 @@ kan-tu  -  hu-wa  la
 
 
 ta       wai]  ma-to    o  -  ma-ki  -  ya    -    ka
-
-
-WORDS
 
 
 kan^tuhuwa  lu'ta  wag a  scarlet  buckbrush
@@ -30621,8 +19764,7 @@ remedies  for  adults,  as  already  stated,  were  received  from  the  bear.
 
 Eagle  Shield  said :
 
-A  man  appeared  to  me  in  a  dream,  showed  me  a  plant,  and  said,  ''My  Mend,  remem-
-ber this  plant  well.  Be  sure  to  get  the  right  one,  as  this  is  good."  It  was  a  badger,
+A  man  appeared  to  me  in  a  dream,  showed  me  a  plant,  and  said,  ''My  Mend,  remember this  plant  well.  Be  sure  to  get  the  right  one,  as  this  is  good."  It  was  a  badger,
 who  appeared  to  me  in  the  form  of  a  man  and  said  this.  It  was  the  first  time  that  the
 badger  came  to  me,  but  afterward  he  brought  me  other  herbs.  There  were  no  songs
 with  any  of  the  herbs  which  the  badger  brought  me.  In  return  for  the  kindness  of  the
@@ -30684,8 +19826,7 @@ stomach  to  receive  and  digest  the  food/'  A  small  spoon  made  of
 white  bone  was  used  in  giving  medicine  to  children.     (See  pi.  36.)
 
 The  second  of  Eagle  Shield's  remedies  for  children  was  identified
-as  (Thenopodium  album  L,  (lamb's-quarters).  A  decoction  of  the  en-
-tire plant  was  used  in  cases  of  bloody  dysentery.  It  could  be  given
+as  (Thenopodium  album  L,  (lamb's-quarters).  A  decoction  of  the  entire plant  was  used  in  cases  of  bloody  dysentery.  It  could  be  given
 from  the  time  a  child  was  old  enough  to  drink  water,  the  dose  being
 increased  according  to  the  age  of  the  child.
 
@@ -30730,15 +19871,6 @@ that  the  medicine  might  enter  more  easily  and  be  more  effectual.
 Eagle  Shield  also  used  a  bear's  claw  in  treating  the  sick  (p.  253).
 
 
-268
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 Like  Eagle  Shield,  Bear-with-White-Paw  received  his  knowledge
 of  healing  herbs  from  the  bear.  He  said,  *'The  bear  is  very  truthful.
 He  has  a  soul  like  ours,  and  his  soid  talks  to  mine  in  my  sleep  and  tells
@@ -30763,8 +19895,7 @@ Translated  as  follows  by  Mr.  Higheagle:  i
 
 My  friend,  I  am  poor  and  needy.  Listen  well  to  me.  This  day  I  have  something
 in  my  mind,  and  I  wish  to  tell  you.  All  these  medicines  you  have  made  known  to
-me,  and  you  have  commanded  me  to  perform  certain  things  in  order  to  attend  to  cer-
-tain sicknesses,  and  you  have  told  me  that  these  medicines  have  certain  powers  in
+me,  and  you  have  commanded  me  to  perform  certain  things  in  order  to  attend  to  certain sicknesses,  and  you  have  told  me  that  these  medicines  have  certain  powers  in
 them.    Now  I  wish  to  use  them  with  effect.    These  sicknesses,  I  want  them  to  go  away.
 
 Bear-with- White-Paw  said  that  he  had  only  one  song,  which  he
@@ -30854,10 +19985,7 @@ E^^
 yo
 
 
-I  -  na     hi  -  yu    -    ye         yo    hu  uoij-
-
-
-pa  ma-ka-ta  yui)-ka  6a       pi-ya-wa-ka    -    jgd
+I  -  na     hi  -  yu    -    ye         yo    hu  uoijpa  ma-ka-ta  yui)-ka  6a       pi-ya-wa-ka    -    jgd
 
 
 ^  -14  r  -[  114  6J' "  Lld^
@@ -30868,7 +19996,6 @@ i  -  na  hi-yu  -  ye    yo
 
 DBNQif OBE]  TETON .  SIOUX  MUSIC  269
 
-WORDS
 
 ate' father
 
@@ -30900,27 +20027,23 @@ hiyu^ye  yo come  forth
 
 Analysis. — This  is  the  only  song  recorded  by  this  singer.  It  is  an
 interesting  melody  and  was  sung  twice.  There  is  no  difference
-between  the  renditions,  and  the  singer's  performance  was  character-
-ized by  a  marked  degree  of  carefulness,  like  that  of  Brave  Buffalo
+between  the  renditions,  and  the  singer's  performance  was  characterized by  a  marked  degree  of  carefulness,  like  that  of  Brave  Buffalo
 when  singing  similar  songs.  The  tonic  chord  (D  minor)  is  in  evidence
 throughout  this  song  which,  however,  is  classified  as  melodic  with
 harmonic  framework  because  of  the  accented  G,  which  appears  four
 times.  The  last  tone  of  the  rhythmic  unit  was  slightly  shortened
-in  every  instance,  as  indicated  in  the  transcription.  The  song  con-
-tains 32  intervals,  only,  two  of  which  are  larger  than  a  minor  third.
+in  every  instance,  as  indicated  in  the  transcription.  The  song  contains 32  intervals,  only,  two  of  which  are  larger  than  a  minor  third.
 
 The  herbs  furnished  by  Bear-with- White-Paw,  with  the  directions
 for  their  use,  are  as  follows:
 
-(1)  Identified  as  Cheirinia  aspera  (DC.)  Britton  '(western  wall-
-flower). This  was  said  to  be  a  very  rare  plant  among  the  Sioux,
+(1)  Identified  as  Cheirinia  aspera  (DC.)  Britton  '(western  wallflower). This  was  said  to  be  a  very  rare  plant  among  the  Sioux,
 though  it  can  occasionally  be  found  on  level  ground  or  along  a  river.
 It  was  used  as  a  remedy  for  cramps  in  the  stomach  or  bowels.  The
 plant  has  long  slender  seed  pods,  somewhat  resembling  pine  needles.
 In  preparing  the  medicine  these  seed  pods  are  opened  and  the  seeds
 removed  and  crushed.  Warm  (not  hot)  water  is  poured  over  them,
-whereupon  the  water  becomes  yellow.  This  mixture  is  taken  inter-
-nally and  also  applied  externally.  It  is  a  very  strong  medicine,  and
+whereupon  the  water  becomes  yellow.  This  mixture  is  taken  internally and  also  applied  externally.  It  is  a  very  strong  medicine,  and
 if  the  person  has  been  sick  only  one  day  a  single  dose  of  the  remedy
 is  usually  sufficient.
 
@@ -30946,8 +20069,7 @@ the  winter.     (Compare  p.  79.)
 
 (4)  Identified  as  Echinacea  angvMifolia  DC.  ("nigger  head").  A
 specimen  of  this  herb  was  also  brought  by  Jaw  (pL  59),  who,  like
-Bear-with- White-Paw,  said  that  he  used  it  as  a  remedy  for  tooth-
-ache. Bear-with- White-Paw  gave  other  uses  for  it,  saying  that  he
+Bear-with- White-Paw,  said  that  he  used  it  as  a  remedy  for  toothache. Bear-with- White-Paw  gave  other  uses  for  it,  saying  that  he
 used  it  also  for  pain  in  the  bowels;  that  it  would  cure  tonsilitis,  and
 was  frequently  employed  in  combination  with  other  herbs.  Only  '
 the  root  of  this  plant  was  used.
@@ -30963,10 +20085,8 @@ used  in  making  the  tea.
 
 (6)  Thisherb,  identified  ssAUionianycta^gineaMichx.  (umbrellawort),
 is  the  same  as  that  a  specimen  of  which  was  furnished  by  Eagle  Shield
-and  used  externally  by  him  in  the  treatment  of  broken  bones.  Bear-
-with- White-Paw  gave  the  following  directions  for  its  use:  ** Grate
-the  root,  moisten  it,  and  rub  it  on  the  skin  wherever  there  is  a  swell-
-ing." He  said  it  grew  close  to  the  water  and  was  adapted  only  for
+and  used  externally  by  him  in  the  treatment  of  broken  bones.  Bearwith- White-Paw  gave  the  following  directions  for  its  use:  ** Grate
+the  root,  moisten  it,  and  rub  it  on  the  skin  wherever  there  is  a  swelling." He  said  it  grew  close  to  the  water  and  was  adapted  only  for
 external  use.
 
 The  narrative  concerning  these  medicines  was  given  at  intervals
@@ -30984,8 +20104,7 @@ and  another  which  was  said  to  be  an  unfailing  cure  for  rheumatism;
 this  was  identified  as  Parmelia  sp.  (a  Uchen).  No  songs  were  recorded
 by  Jaw  in  connection  with  the  use  of  these  herbs.
 
-In  order  to  ascertain  whether  the  herbs  used  by  Eagle  Shield,  Bear-
-with-White-Paw,  and  Jaw  have  a  known  medicinal  value  the  speci-
+In  order  to  ascertain  whether  the  herbs  used  by  Eagle  Shield,  Bearwith-White-Paw,  and  Jaw  have  a  known  medicinal  value  the  speci-
 mens of  plants  were  submitted  to  the  United  States  Department  of
 
 
@@ -31021,8 +20140,7 @@ medicinally  (p.  263).
 
 *Ratibidacoiumnaris  (Sims)  Don  None  (p.  265).
 
-*Leptilon  canadense  (L.)  Britton  Herb  used  for  hemorrhages  of  various  kinds;  also  em-
-ployed in  diarrhea  and  dropsy.  Volatile  oil,
+*Leptilon  canadense  (L.)  Britton  Herb  used  for  hemorrhages  of  various  kinds;  also  employed in  diarrhea  and  dropsy.  Volatile  oil,
 known  as  oil  of  erigeron,  obtained  by  distillation
 of  the  fresh  flowering  herb  (p.  266).
 
@@ -31043,8 +20161,7 @@ Southwestern  States  is  used  for  tanning  purposes
 
 Cheirinia  aspera  (DC)  Britton. .  None  (pp.  269,  389).
 
-Heuchera  hispida  Pursh Root  said  to  be  employed  by  hunters  and  prospec-
-tors of  the  Northwest  as  an  astringent  to  check
+Heuchera  hispida  Pursh Root  said  to  be  employed  by  hunters  and  prospectors of  the  Northwest  as  an  astringent  to  check
 diarrhea  (p.  269).
 
 *Lithospermum      linearifolium  None  (p.  269).
@@ -31056,8 +20173,7 @@ Ekrhinacea  angustifolia  DC Root  used  for  its  alterative  properties  (pp. 
 
 fMonarda  fistulosa  L Leaves  and  tops  sometimes  used  as  a  substitute  for
 
-M.  punctata^  and  employed  as  a  stimulant,  carmin-
-ative, sudorific,  diuretic,  and  anti-emetic.  Fur-
+M.  punctata^  and  employed  as  a  stimulant,  carminative, sudorific,  diuretic,  and  anti-emetic.  Fur-
 nishes a  sharp  and  pungent  oil  (p.  270).
 
 •Eirigeron  pumilus  Nutt None  (p.  389).
@@ -31068,8 +20184,7 @@ Kuntze.
 Parmelia  sp None  (p.  270).
 
 >  The  writer  gratefully  acknowledges  the  assistance  of  Mr.  Paul  C.  Standley,  assistant  coTBtor,  Divisloa
-of  Plants,  U.  S.  National  Huseum,  who  identified  these  specimens;  also  that  of  Miss  Alice  Henlcel,  assist-
-ant In  eoonomlo  and  systematic  botany,  Bureau  of  Plant  Industry,  U.  S.  Department  of  Agriculture,
+of  Plants,  U.  S.  National  Huseum,  who  identified  these  specimens;  also  that  of  Miss  Alice  Henlcel,  assistant In  eoonomlo  and  systematic  botany,  Bureau  of  Plant  Industry,  U.  S.  Department  of  Agriculture,
 who  reported  on  their  medicinal  properties,  as  here  given.
 
 1  Ethnobotany  of  the  Zufii  Indians,  in  ThirUdh  Rep.  Bw,  Amer.  Ethn.,  pp.  101-102.
@@ -31078,13 +20193,7 @@ who  reported  on  their  medicinal  properties,  as  here  given.
 Attn.,  pp.  121-133.
 
 
-272
-
-
 BURKAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 The  two  following  songs  are  said  to  have  been  used  by  Sitting  Bull
@@ -31135,16 +20244,8 @@ seventh,  and  is  major  in  tonahty  and  melodic  in  structure.  The  first
 interval  is  an  ascending  progression  of  a  major  sixth,  which  is  the  only
 interval  in  the  song  larger  than  a  minor  third.
 
-See  plot  of  this  melody  on  page  283.
-
 
 DENQlfOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-273
 
 
 No.  92.  Sitting  BuU'8  Medkslne  Song  (b)    (Catalogue  No.  655)
@@ -31158,10 +20259,7 @@ Drum  not  recorded
 To  -  pa   ki  -  ya         ko  -  la     ni  -  wa  -  kaq  nuij    -   we
 
 
-to  -pa-  ki-
-
-
-ya
+to  -pa-  kiya
 
 
 ko  -  la     ni  -  wa  -  kai)  noi)
@@ -31194,9 +20292,6 @@ to  -  pa  -  ki
 ya
 
 
-WORDS
-
-
 ko  -  la     ni  -  wa  -  kaq  nuij  -  we
 
 
@@ -31216,8 +20311,7 @@ kola^ friend
 
 ni^wakai)  nugwe' fiiay  you  be  sacred
 
-Analysis, — ^This  melody  contains  23  measures,  but  only  11  progres-
-sions, 6  of  which  are  downward  and  5  upward.  It  has  a  compass  of
+Analysis, — ^This  melody  contains  23  measures,  but  only  11  progressions, 6  of  which  are  downward  and  5  upward.  It  has  a  compass  of
 only  6  tones.  Among  340  Chippewa  songs  7  per  cent  have  a  compass
 of  6  or  fewer  tones,  and  in  the  present  series  5  per  cent  have  this  range.
 The  rhythmic  unit  is  long  and  interesting,  having  a  completeness
@@ -31238,8 +20332,7 @@ a  prayer  vigU  which  he  kept  for  a  niece  who  was  very  ill  and  who,
 he  believed,  recovered  because  of  this  action  on  his  part.  Such  a
 vigil  is  called  by  the  Sioux  hayhle'dapij  'prayers  offered  standing.'*
 This  narrative  is  given  in  the  present  tense,  as  it  was  related,
-and  the  words  of  the  interpreter  (Mrs.  James  McLaughlin)  are  fol-
-lowed as  closely  as  possible.     Old  Buffalo  said:
+and  the  words  of  the  interpreter  (Mrs.  James  McLaughlin)  are  followed as  closely  as  possible.     Old  Buffalo  said:
 
 I  have  a  sister  older  than  myself.  We  are  children  of  one  father  and  one  mother.
 As  my  sister's  child  is  growing  up  to  be  a  young  girl,  she  is  taken  sick,  and  is  so  thin
@@ -31301,12 +20394,6 @@ OLD  BUFFALO
 DBNSHOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-275
-
-
 with  my  friends,  still  walking  with  bare  feet.  They  have  made  a  new  sweat  lodge
 near  the  old  one,  and  I  am  the  first  to  enter  it.  Again  they  bring  hot  stones  and  pour
 water  on  them,  and  again  they  rub  me  with  the  sage  leaves.  After  this  I  put  on
@@ -31316,8 +20403,7 @@ This  is  the  means  by  which  we  prolonged  our  lives  in  the  old  days. 
 recovered.
 
 The  writer  then  asked  some  question  about  the  care  given  the
-girl  by  the  medicine-man  (or  doctor)  and  Old  Buffalo  replied  indig-
-nantly: "It  was  Wakai)'tai)ka  who  saved  her  life;  not  the  doctor.
+girl  by  the  medicine-man  (or  doctor)  and  Old  Buffalo  replied  indignantly: "It  was  Wakai)'tai)ka  who  saved  her  life;  not  the  doctor.
 She  lived  in  answer  to  my  prayer."
 
 This  song  is  commonly  used  by  medicine-men  of  the  tribe:
@@ -31328,8 +20414,6 @@ Sung  by  Two  Shields
 VoicbJ:=132
 
 Drum  J  ^160
-
-Drum-rhythm  similar  to  No.  19
 
 
 ^^
@@ -31365,10 +20449,7 @@ Voice  J- 132
 -t»f  r  r  r  f-^-^-r-^f
 
 
-wa-
-
-
-zi
+wazi
 
 
 ya  -    ta  '       ta  -  te       hi  -  i  -  yo         ma      a  -  a     we
@@ -31407,7 +20488,6 @@ wa  -  ye
 
 276  BUREAU   OF  AMERICAN   ETHNOLOGY  [boll,  ei
 
-WORDS
 
 6ar)te' my  beart
 
@@ -31431,8 +20511,7 @@ also  footnote,  p.  120).
 
 Analysis. — ^This  song  contains  the  tones  of  the  fourth  five-toned
 scale.  In  structure  it  is  melodic  with  harmonic  framework,  the  tonic
-chord  being  strongly  in  evidence  throughout  the  melody.  Concern-
-ing the  change  of  tempo  see  song  No.  5.  In  this  instance  the  phrase
+chord  being  strongly  in  evidence  throughout  the  melody.  Concerning the  change  of  tempo  see  song  No.  5.  In  this  instance  the  phrase
 indicated  as  the  rhythmic  unit  of  the  song  is  long  and  not  accurately
 repeated.  Three  reasons  seem  to  justify  this :  (1 )  the  phrase  forms  the
 rhythmic  divisions  of  the  entire  song;  (2)  the  phrase  in  every  instance
@@ -31445,8 +20524,7 @@ this  melody  on  page  283.
 In  this  song  we  meet  a  strange  phase  of  the  life  of  a  medicine-man.
 Two  Shields,  who  recorded  the  song,  said  that  **  White  Shield  used
 to  sing  this  song  when  he  was  worried  or  disappointed."  Strangely
-human  is  this  little  melody.  Two  Shields  said  also  that  when  sing-
-ing the  song  he  would  mention  the  direction  on  which  the  wind  was
+human  is  this  little  melody.  Two  Shields  said  also  that  when  singing the  song  he  would  mention  the  direction  on  which  the  wind  was
 blowing  that  day,  as  *' every  man  who  performs  ceremonies  respects
 the  various  winds."
 
@@ -31454,13 +20532,6 @@ the  various  winds."
 DINSMOBS]
 
 
-TETON  SIOUX  MUSIC
-
-
-277
-
-
-Voice  J  =176
 Drum  J:^132
 Drum-rhythm  similar  to  Ko.  19
 
@@ -31468,9 +20539,6 @@ Drum-rhythm  similar  to  Ko.  19
 No.  94.    <<May  This  be  the  Day''
 
 SimgbyTwo  Shiblds
-
-
-(Catalogue  No.  640)
 
 
 mh/^^r\'^^^f'n'^\n"M^
@@ -31551,9 +20619,6 @@ tu   nui)-
 I     I     I  |-1
 
 
-5
-
-
 i
 
 
@@ -31578,9 +20643,6 @@ we
 aq-pe-tu   mi  -   ta-wa   ^oi)    le    -     tu  nui)- we
 
 
-WORDS
-
-
 a;)pe^tu     mitaVa    I^oq     le^tu    may  this  be  the  day  which  I  considered
 
 nuQwe^  mine
@@ -31595,22 +20657,10 @@ nugwe^  mine
 
 Analysis. — In  this  song  voice  and  drum  are  entirely  independent
 in  tempo,  the  drum  boating  unaccented  eighths  in  a  tempo  J  =  132,
-while  the  tempo  of  the  voice  is  J  =  176.  Both  are  steadily  main-
-tained. The  song  is  distinguished  by  the  number  of  major  seconds  it
+while  the  tempo  of  the  voice  is  J  =  176.  Both  are  steadily  maintained. The  song  is  distinguished  by  the  number  of  major  seconds  it
 contains,  this  interval  forming  16  per  cent  of  the  progressions.  The
 melody  has  a  compass  of  10  tones  and  is  on  the  fourth  five-toned  scale.
 The  rhythmic  unit  is  interesting  and  is  continuously  repeated.     Three
-
-4840**— Bull.  61—18 20
-
-
-278
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  81
 
 
 renditions  were  recorded,  the  repetitions  being  separated  by  shrill
@@ -31651,9 +20701,6 @@ Minor  tonality .
 Total.
 
 
-16
-
-
 FIRST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
 
 
@@ -31682,28 +20729,15 @@ Keynote
 Total.
 
 
-4
-1
-4
-4
-1
-2
-
-
 79,  80,  86,  94
 
-81
 
 83,  84,  87,  90
 
 85,  89,  91, 93
 
-92
 
 82,88
-
-
-16
 
 
 LAST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
@@ -31733,9 +20767,6 @@ Kevnote .
 
 
 Total.
-
-
-16
 
 
 LAST  NOTE  OF  SONG— ITS  RELATION  TO  COMPASS  OF  SONG
@@ -31768,16 +20799,7 @@ H      7y,  >0,  M.  s2.  s.?,  M,  M".,  S7.  ss,  sr.  «A\  91,
 Total.
 
 
-16
-
-
 DENQMOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-279
 
 
 Old  Songs— r{4)  Songs  Used  in  Treatment  of  the  Sici— Continued
@@ -31805,8 +20827,6 @@ of  songs.
 
 Serial  Nos.  of  songs.
 
-
-88
 
 79,  80,  84, 86,  03,  94
 
@@ -31843,35 +20863,16 @@ Number
 of  songs.
 
 
-3
-3
-1
-2
-1
-1
-1
-4
-
-
 Serial  Nos.  of  songs.
-
-
-16
 
 
 92,93,94
 
 80,83,00
 
-91
 
 81,85
 
-82
-
-89
-
-87
 
 79,84,80,88
 
@@ -31898,21 +20899,8 @@ of  songs.
 Serial  Nos.  of  songs.
 
 
-13
-
-1
-1
-1
-
-16
-
-
 79,  80,  81,  82,  83,  85,  87,  89,  90,  91,  92,
 93,94
-
-88
-84
-86
 
 
 STRUCTURE
@@ -31937,9 +20925,6 @@ Serial  Nos.  of  songs.
 
 80,  81,  82,  85,  88,  90,  92,  93
 83,  84,  89
-
-
-280
 
 
 BUREAU  OF  AMEBICAN  ETHNOLOGY
@@ -32048,20 +21033,12 @@ Total  number  of  semitones
 Avtfage  number  of  semitones  In  an  interval
 
 
-478
-
 1.461
 
 3.05
 
 
 DBNaHOfti]
-
-
-TETON  SIOUX  MUSIC
-
-
-281
 
 
 Old  Songs — (4)  Songs  Used  in  Treatmeni  of  the  Sick — Continued
@@ -32100,8 +21077,6 @@ Total
 Serial  Nos.  of  songs.
 
 
-93
-
 91,92
 
 80,94
@@ -32113,8 +21088,6 @@ Serial  Nos.  of  songs.
 81,83
 
 82,89
-
-86
 
 
 Rhythmic  Analysis
@@ -32132,13 +21105,6 @@ Number
 of  songs.
 
 
-8
-8
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
 
@@ -32152,9 +21118,6 @@ RHYTHM  OF  FIRST  MEASURE
 
 First  measure  in~
 
-2-4  time
-
-3-4  time
 
 ^-8  time
 
@@ -32165,22 +21128,12 @@ Number
 of  songs.
 
 
-10
-5
-1
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
 
 79,  80,  81,  83,  84,  86,  87,  88,  90,  91
 
 86,  89,  92,  93,  94
-
-82
 
 
 CIIANQE  OF  TnCE  (MEASURE-LENGTHS)
@@ -32199,16 +21152,8 @@ of  songs.
 Serial  Nos.  of  songs.
 
 
-80
-
 79,  91,  82,  83,  84.  85,  86,  87,  88,  89,  90,  91,
 92,93,94
-
-
-282
-
-
-BUREAU   OP  AMERICAN  ETHNOLOGY
 
 
 [BDLL.  61
@@ -32233,22 +21178,11 @@ Number
 of  songs.
 
 
-3
-
-1
-
-12
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
 
 79,  93,  04
 
-80
 
 81.82,83,84.85,86,87,88,89,90,91,92
 
@@ -32279,9 +21213,6 @@ Serial  Nos.  of  songs.
 2  8S,  91
 
 
-16
-
-
 I
 
 
@@ -32306,54 +21237,33 @@ IT*
 IM.
 
 
-2
-
 $3.91
 
-2
 
 81,90
 
-1
-
-85
-
-2
 
 84.88
 
-2
 
 79.87
 
-2
 
 ».89
 
-1
-
-99
-
-1
 
 «
 
-1
 
 >0
 
-1
 
 M
 
-1
 
 sa
 
 To;al.
-
-
-16
 
 
 yvTRic  rxiT  or  prim  tempo
@@ -32373,8 +21283,6 @@ W>.
 
 WO      -
 
-
-1
 
 m
 
@@ -32416,10 +21324,7 @@ be  noted  three  which  resemble  Class  A  (see  fig.  19)  but  contain
 ascending  progressions;  these  are  Nos.  79,  86,  and  91.     Kxamples
 
 
-TtlNi'fiT^f-
-
-
-of  Class  C  are  shown  in  Nos.  80  and  81,  the  recmrenco  and  dwelling
+TtlNi'fiT^fof  Class  C  are  shown  in  Nos.  80  and  81,  the  recmrenco  and  dwelling
 on  the  keynote  suggesting  the  confidence  wiiich  the  medicine-man
 felt  in  his  own  power  and  which  he  wished  to  impress  on  tlie  mind
 of  hb  patient.  The  outline  of  song  No.  93  suggests  Class  C  in  its
@@ -32434,8 +21339,7 @@ and  military  societies.  Both  classes  are  mentioned  by  Hayden,  one
 of  the  earliest  writ^:^  on  the  Indians  of  the  upper  plains.  Hayden
 enumerates  the  Sioux  societies  as  the  "Bull  Head,  Elk,  and  Bear"
 (the  first  being  properly  translated  "buffalo"  and  all  being  dream
-societies);  also  the  "Scalp,  Strong  Heart,  Fox,  Big  Owl,  and  Sol-
-dier." *  In^every  instance  the  Sioux  equivalent  is  given,  identifying
+societies);  also  the  "Scalp,  Strong  Heart,  Fox,  Big  Owl,  and  Soldier." *  In^every  instance  the  Sioux  equivalent  is  given,  identifying
 the  societies  with  organizations  of  comparatively  recent  times.
 
 Societies  based  on  dreams  (known  as  ''dream  societies")  were
@@ -32443,8 +21347,7 @@ composed  of  men  who,  in  their  fasting  visions,  had  seen  the  same
 animal.  The  common  experience  of  the  vision  bound  the  men
 together  and  societies  were  thus  formed.  These  societies  had  their
 meetings,  to  which  were  admitted  only  those  who  had  dreamed  of
-the  animal  for  which  the  society  was  named.  Concerning  these  so-
-cieties Miss  Fletcher  writes:
+the  animal  for  which  the  society  was  named.  Concerning  these  societies Miss  Fletcher  writes:
 
 Among  the  Slouan  family  of  Indians  there  are  societies,  religious  in  character,
 
@@ -32469,14 +21372,11 @@ interchangeable  at  the  present  time.  Mention  was  made  of  a  Horse
 society,  but  no  dream  of  a  horse  was  recorded;  it  was,  however,  a
 dream  society,  and  is  included  by  Wissler  in  his  hst  of  ''  dream  cults"
 
-I  Hayden,  F.  V.,  fethnography  and  Philology  of  the  Indian  Tribes  of  the  Missouri  Valley,  p.  281,  Phila-
-delphia, 1982.
+I  Hayden,  F.  V.,  fethnography  and  Philology  of  the  Indian  Tribes  of  the  Missouri  Valley,  p.  281,  Philadelphia, 1982.
 
 «  Fletcher,  Alice  C,  The  Elk  Mystery  or  Festival.  Ogallala  Sioux,  in  Kept.  PeabodyMweum,  m,  pp.  276^
 277  Cambridge;  1887.  Cf.  also  Wissler,  Clark,  Societies  and  Ceremonial  Associations  of  the  Teton-Dakota,
 Anthr.  PapertjAmer.  Mm.  Nat.  Hitt.,  d,  pt.  1.  pp.  81-98,  New  York,  1912.
-
-284
 
 
 BUREAU  OF  AMERICAN  ErHNOLOQV  BULLETIN  ei     PLATE  43
@@ -32534,22 +21434,11 @@ ZI,  pt.  2,  p.  119,  New  York,  1913.
 London,  IMl.
 
 
-286
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 No.  95.  ''Northward  They  Are  Walking"    (Catalogue  No  .663)
 Sung  by  Wakaij^'-cika^'na  (Little  Conjuror)
 
 
-Voice  J  =  96
 Drum  J  =  d6
-Drum-rhythm  similar  to  No.  6
 
 
 f^^^
@@ -32571,9 +21460,6 @@ Eyi^jr  Ld'iia
 
 
 Pl
-
-
-WORDS
 
 
 wazi^yata  ki^ya northward
@@ -32603,23 +21489,12 @@ in  the  rhythm  which  accompanied  the  song.
 DKNSMOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-287
-
-
 No.  96.  "My  Goal"
 
 Sung  by  Little  Conjuror
 
 
 (Catalogue  No.  664}
-
-
-Voice  J  =72
-Drum  J  =  88
-Drum-rhythm  similar  to  No.  19
 
 
 ^^m^
@@ -32653,9 +21528,6 @@ K  W^ 1
 F^^>'(.Vi!i  La*  ^  y  ^
 
 
-WORDS
-
-
 maka''  owi^hai)ke  ta toward  the  end  of  the  earth
 
 he  o'i^nafii) my  goal
@@ -32666,14 +21538,9 @@ Analysis, — Six  renditions  of  this  song  were  recorded,  and  in  each
 the  time  of  the  second  and  third  measures  before  the  close  was  a
 little  slower  than  in  the  rest  of  the  song,  the  original  tempo  being
 resimied  with  the  last  measure,  and  the  repetition  following  without  a
-pause.  The  song  has  a  compass  of  only  seven  tones,  and  yet  two-
-thirds  of  the  progressions  are  downward.  The  first  part  of  the  song
+pause.  The  song  has  a  compass  of  only  seven  tones,  and  yet  twothirds  of  the  progressions  are  downward.  The  first  part  of  the  song
 is  based  upon  the  minor  triad  B  flat-D  flat-F  but  the  progressions
-in  the  latter  part  suggest  G  flat  as  a  keynote,  and  the  song  is  accord-
-ingly transcribed  and  analyzed  in  that  key.
-
-
-288
+in  the  latter  part  suggest  G  flat  as  a  keynote,  and  the  song  is  accordingly transcribed  and  analyzed  in  that  key.
 
 
 BUBEAU  OF  AMERIGAK  ETHNOLOGY
@@ -32689,7 +21556,6 @@ Sung  by  Ma6fi^ta-70  (Blue  Cloud)
 
 VoicB  J=13a
 
-Drum  J  =98
 
 Drom-rhythm  similar  to  No.  6
 
@@ -32718,13 +21584,7 @@ U:
 m
 
 
-5
-
-
 £
-
-
-1
 
 
 Wa
@@ -32751,8 +21611,6 @@ Mt
 ni!^rrriiiirT|f,j||
 
 
-WORDS
-
 wazi^yata  ki^ya in  the  north
 
 tate' the  wind
@@ -32772,10 +21630,8 @@ this  song,  like  the  two  next  preceding,  was  recorded  at  Sisseton.
 This  melody  begins  and  ends  on  the  same  tone.  (See  song  No.  82.)
 Although  this  song  is  minor  in  tonality,  it  contains  only  two  minor
 thirds,  nine  of  the  intervals  (31  per  cent)  being  major  thirds.  Three
-renditions  were  recorded,  the  transcription  being  from  the  second  ren-
-dition. The  last  two  measures  containing  words  were  sung  slightly
-slower,  but  without  enough  change  of  time  to  be  indicated  by  a  metro-
-nome mark.  The  repetitions  of  this  song  were  less  accurate  than  in  a
+renditions  were  recorded,  the  transcription  being  from  the  second  rendition. The  last  two  measures  containing  words  were  sung  slightly
+slower,  but  without  enough  change  of  time  to  be  indicated  by  a  metronome mark.  The  repetitions  of  this  song  were  less  accurate  than  in  a
 large  majority  of  instances,  seemingly  because  of  the  personality  of
 the  singer.  The  rhythm  was  more  exactly  repeated  than  the  melody,
 though  the  changes  in  the  latter  were  unimportant.  For  instance,  in
@@ -32785,12 +21641,6 @@ words  the  tone  B  flat  was  sometimes  sung  instead  of  D.    It  will  be
 
 
 DBlfSMORl]
-
-
-TETON   SIOUX  MUSIC
-
-
-289
 
 
 readily  observed  that  these  changes  did  not  affect  the  harmonic
@@ -32807,7 +21657,6 @@ No.  98.  ''Their  Voices  Could  Be  Heard"    (Catalogue  No.  555)
 Sung  by  Gray  Hawk  (6etag^ota)  *
 VoioB  J  =116
 Dbux  j=II6
-Drum-rhythm  similar  to  No.  6
 
 
 ^m
@@ -32840,8 +21689,6 @@ ho      tai)  -  ii)-yai)    ma    -    ni  -  pi
 ^m
 
 
-WORDS
-
 oya'te  wag a  tribe
 
 ho their  voices
@@ -32866,12 +21713,6 @@ on  the  dominant  below  the  tonic.     Three  renditions  were  recorded;
 1  Bee  pi.  71.
 
 
-1
-
-
-290
-
-
 BXJBEi^U  OP  AMEBICAN  ETHNOLOGY
 
 
@@ -32880,10 +21721,8 @@ BXJBEi^U  OP  AMEBICAN  ETHNOLOGY
 
 these  show  no  points  of  difference.  The  rhythmic  unit  is  long,  but
 its  divisions  were  clearly  given.  In  the  second  occurrence  of  the
-unit  an  accent  was  placed  on  the  final  tone,  this  accent  being  unmis-
-takable though  the  corresponding  tone  in  the  first  occurrence  of  the
-unit  is  unaccented.  The  interval  of  the  fourth  is  prominent,  con-
-stituting 38  per  cent  of  the  entire  number  of  intervals.  As  in  many
+unit  an  accent  was  placed  on  the  final  tone,  this  accent  being  unmistakable though  the  corresponding  tone  in  the  first  occurrence  of  the
+unit  is  unaccented.  The  interval  of  the  fourth  is  prominent,  constituting 38  per  cent  of  the  entire  number  of  intervals.  As  in  many
 other  songs  used  in  dancing,  the  intonation  was  wavering.  In  the
 first  part  of  the  song  the  drum  precedes  the  voice,  but  in  the  closing
 measures  the  drum  and  voice  coincide.
@@ -32894,12 +21733,8 @@ No.  99.  «<A«raliist  the  Wind"
 ^ucgby  Gray  Hawk
 
 
-(Catalogue  No.  556)
-
-
 VoicB  J-  100
 Drum  J=  100
-Drum-rhythm  similar  to  No.  6
 
 
 fz  f:-  fr±^
@@ -32923,17 +21758,13 @@ wa  -  hu  -  ke  -  za      o  -  waq
 ye
 
 
-WORDS
-
-
 ite'  tate'  iya^'pe  waye^ I  caused  the  fape  to  strike  against  the  wind
 
 wahu^keza  owaq^da  waye^ a  lance  I  sent  forth'to  cover  all
 
 Arudx/sis, — A  free  translation  of  the  words  of  this  song  would
 be,  '*I  drove  the  tribe  against  the  wind,  which  struck  their  faces
-like  a  lance.''  Four  renditions  were  recorded,  the  time  being  inter-
-rupted between  the  repetitions.  In  each  rendition  the  drum  was
+like  a  lance.''  Four  renditions  were  recorded,  the  time  being  interrupted between  the  repetitions.  In  each  rendition  the  drum  was
 with  the  voice  in  the  last  measure,  though  it  had  slightly  preceded
 the  voice  in  the  earlier  part  of  the  song.  Concerning  the  beginning
 and  ending  of  a  song  on  the  same  tone,  see  song  No.  82.  The  tonic
@@ -32946,27 +21777,17 @@ octave.     (See  p.  7.)     See  plot  of  this  melody  on  page  419.
 DXNSUOBE]
 
 
-TETON   SIOUX  MUSIC
-
-
-291
-
-
 The  following  song  is  undoubtedly  that  of  a  man  who  dreamed  of
 a  buffalo,  but  the  origin  of  the  song  was  not  given:
 
 
 VoiCK  J  =92
 Dbdm  J~96
-Drum-rhythm  similar  to  No.  19
 
 
 No.  100.  "I  Come"
 
 Sung  by  Gbat  Hawk
-
-
-(Catalogue  No.  546)
 
 
 i
@@ -32980,8 +21801,6 @@ Ta*tar)-ka-o  -  hi  -  ti-ka     mi -ye    wa-hi  -    ye
 
 g^^
 
-
-WORDS
 
 TataQ^ka-oM^tika Brave  Buffalo  (a  man's  name)  *
 
@@ -33005,20 +21824,13 @@ that  of  the  voice.     See  plot  of  this  melody  on  page  419.
 1  This  does  not  refer  to  the  medicine-man  mentioned  in  previous  chapters  of  this  work.
 
 
-292
-
-
 BUBEAU  OF  AMEBICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 No.  101.  Buffalo  Society  Song  (a)       (Catalogue  No.  549)
 Sung  by  Gbay  Hawk
 
 
-VoicB  J  =  92
 Dbux  J  =  92
 Drum-rhythm  eimilar  to  No.  6
 
@@ -33027,8 +21839,7 @@ Analysis,— Three  renditions  of  this  song  were  recorded,  the  time
 being  interrupted  between  the  repetitions.  This  is  a  pleasing  and
 simple  minor  melody  containing  all  the  tones  of  the  octave  except
 the  second.  It  is  harmonic  in  structm-e,  following  first  the  triad  of
-C  minor  and  then  the  triad  of  G  minor.  Two-thirds  of  the  progres-
-sions are  downward  and  comprise  only  the  minor  third  and  major
+C  minor  and  then  the  triad  of  G  minor.  Two-thirds  of  the  progressions are  downward  and  comprise  only  the  minor  third  and  major
 second.  In  the  first  part  of  the  song  the  drum  precedes  and  seems
 to  hurry  the  voice,  but  at  the  close  the  drum  and  voice  coincide.
 The  same  peculiarity  has  been  noted  in  some  other  songs  by  this
@@ -33037,9 +21848,7 @@ singer.     See  plot  of  this  melody  on  page  419.
 No.  102.  Buffalo  Society  Song  (b)      (Catalogue  No.  550)
 
 Sung  by  Gray  Hawk
-VOICB  J  =126
 Dbcm  J  =120
-Drum-rhythm  similar  to  No.  19
 
 ' ?
 
@@ -33048,20 +21857,12 @@ Drum-rhythm  similar  to  No.  19
 
 
 Analysis, — ^This  song  is  characterized  by  an  unusual  prominence  of
-the  interval  of  a  fifth,  about  16  per  cent  of  the  entire  niunber  of  inter-
-vals being  ascending  fifths ;  yet  the  song  has  a  compass  of  only  seven
+the  interval  of  a  fifth,  about  16  per  cent  of  the  entire  niunber  of  intervals being  ascending  fifths ;  yet  the  song  has  a  compass  of  only  seven
 tones.  More  than  half  the  intervals  are  major  seconds,  and  on  these
-the  intonation  was  wavering.  The  rapid  tempo  and  small  count-
-divisions  would  make  a  correct  intonation  difficult.  Tlie  drum  was
+the  intonation  was  wavering.  The  rapid  tempo  and  small  countdivisions  would  make  a  correct  intonation  difficult.  Tlie  drum  was
 
 
 OB.N81IOBE]
-
-
-TETON   SIOUX   MUSIC
-
-
-293
 
 
 persistently  slower  than  the  voice.  This  song  contains  a  rhythmic
@@ -33072,8 +21873,6 @@ No.  108.  Buffalo  Society  Song  (c)       (Catalogue  No.  577)
 
 Sung  by  Shooter
 VOICB  J=ll«
-Drum  J  =112
-Drum-rhythm  similar  to  No.  6
 
 
 iHTi"*^^
@@ -33097,8 +21896,7 @@ W^
 • »
 
 
-Analysis, — ^This  song  is  on  the  second  five-toned  scale  and  is  me-
-lodic in  structure.  Its  compass  is  small,  being  only  six  tones.  Two-
+Analysis, — ^This  song  is  on  the  second  five-toned  scale  and  is  melodic in  structure.  Its  compass  is  small,  being  only  six  tones.  Two-
 thirds  of  the  progressions  are  downward,  and  two  intervals  occur  which
 are  larger  than  a  minor  third.  Several  renditions  were  recorded,  all
 being  uniform.  The  rhythmic  form  of  the  song  is  interesting.  There
@@ -33115,8 +21913,7 @@ been  given  in  the  preceding  measures
 
 ELK   SOCIETY
 
-The  men  who  had  dreamed  of  the  elk  (see  p.  176  et  seq.)  banded  them-
-selves together  and  called  themselves  the  Elk  society.  Two  Shields  was
+The  men  who  had  dreamed  of  the  elk  (see  p.  176  et  seq.)  banded  themselves together  and  called  themselves  the  Elk  society.  Two  Shields  was
 one  of  the  singers  and  drummers  in  this  society,  the  last  meeting  of
 which  was  held  about  30  yeara  ago.  He  sang  the  following  song,  which
 was  used  in  this  society,  and  which  he  said  had  been  handed  down  for
@@ -33124,21 +21921,11 @@ many  generations.  He  stated  that  the  song  is  still  sung  at  dances
 and  must  always  be  paid  for  by  the  man  who  asks  that  it  be  sung.
 Such  a  man  is  usually  an  elk  dreamer.
 
-4840**— Bull.  61—18 21
-
-
-294
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
 
 i  BULL.  61
 
 
-Voice  J  =  80
 Drux  J~88
-Drum-rhythm  similar  to  No.  19
 
 
 No.  104.  Song  of  the  Elk  Society       (Catalogue  No.  538)
@@ -33163,9 +21950,6 @@ yai)  -  ka     6ai)-iia
 6ai}-te  wa-ni-6e
 
 
-WORDS
-
-
 tuwa^ whoever
 
 waSte^i^la consider  themselves  beautiful  (in  character
@@ -33179,8 +21963,7 @@ waQma^yaQka  cag^na after  seeing  me
 Analysis. — Three  renditions  of  this  song  were  recorded,  and  in
 every  instance  the  tones  transcribed,  respectively,  as  D  flat  and  D
 natural  were  distinguished  clearly,  though  the  intonation  on  them
-was  not  exact.  The  intonation  of  these  tones  was  best  in  the  open-
-ing measures.  The  renditions  were  uniform,  but  the  song  was
+was  not  exact.  The  intonation  of  these  tones  was  best  in  the  opening measures.  The  renditions  were  uniform,  but  the  song  was
 especially  difficult  of  transcription,  as  the  tone  was  vibrato  and  the
 time  not  absolutely  regular.  On  analyzing  the  melody,  we  find
 that  55  per  cent  of  the  intervals  are  seconds,  either  major  or  minor.
@@ -33196,9 +21979,6 @@ DBN8M0RE]
 
 
 TETOK   SIOUX  MUSIC
-
-
-295
 
 
 The  hoop  caaried  hy  an  elk  dreamer  is  mentioned  in  the  following
@@ -33218,9 +21998,7 @@ No.  105.  ''Something  Sacrod  I  Wear"    (Catalogue  No.  471)
 Sung  by  Siya-'ka  »
 
 
-VoiCB  J  =  76
 Dbcx  J  =76
-Drum-rhythm  similar  to  No.  8
 
 
 mj  ^-  f  |f  t^l
@@ -33274,17 +22052,6 @@ o   6ai)-gle-6ka  waij  ko-mai}-ya  ke-lo     si  -  to  -  mni-yai)  war)  -  m
 we    si  -  to  -  mni-yaq  waq  -  ma-yaqk        a-u       we     a    he     a     he
 
 
-296
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
-WORDS
-
 (Part  1)
 
 tafku something
@@ -33312,10 +22079,8 @@ wai)ma^yai)k behold  me
 a(l^  we coming
 
 Analysis. — -This  song  contains  40  intervals,  all  but  3  of  which
-are  mmor  thirds  and  major  seconds.  The  intonation  was  particu-
-larly good  considering  the  smaUness  of  the  intervals.  The  rhythmic
-imit,  which  is  interesting,  appears  four  times,  one  of  the  tones  invari-
-ably being  shortened.  Parts  of  the  rhythmic  unit  occm*,  as  well  as
+are  mmor  thirds  and  major  seconds.  The  intonation  was  particularly good  considering  the  smaUness  of  the  intervals.  The  rhythmic
+imit,  which  is  interesting,  appears  four  times,  one  of  the  tones  invariably being  shortened.  Parts  of  the  rhythmic  unit  occm*,  as  well  as
 its  complete  repetitions.  Two  renditions  were  recorded,  separated
 by  shrill  cries  while  the  drum  was  beaten  tremolo.  Drum  and
 voice  have  the  same  metric  imit,  but  coincidences  are  met  with  only
@@ -33330,12 +22095,6 @@ Drum  not  recorded
 No.  106.  <<My  Life  Is  Such
 
 Simg  by  Shooter'
-
-
-99
-
-
-(Catalogue  No.  575)
 
 
 ^1
@@ -33372,12 +22131,6 @@ waoyaQ^a  yo behold  me
 DRN8UORB]
 
 
-TETON   SIOUX   MUSIC
-
-
-297
-
-
 Analysis, — The  first  four  measures  of  this  song  are  based  on  the
 
 tonic  chord.    Among  both  Chippewa  and  Sioux  it  is  unusual  for  the
@@ -33411,7 +22164,6 @@ the  song
 No.  107.  "An  Elk  Am  I"  (Catalogue  No.  622)
 
 Sung  by  Wi^'yaka-waij^ i^la  (Onb  Feather)
-VoiCB  J  =126
 Drum  not  recorded
 
 (1)  (0
@@ -33453,8 +22205,6 @@ mi    -     ye       ye     -
 (2)  (2)
 
 
-WORDS
-
 helia''ka  waq an  elk
 
 miye^  yelo^ am  I
@@ -33470,8 +22220,7 @@ Analysis. — ^The  fourth  constitutes  55  per  cent  of  the  intervals  in
 this  song,  a  peculiarity  frequently  noted  in  songs  concerning  animals.
 Many  other  intervals  in  this  song  are  seconds,  which  form  part  of
 the  descent  of  a  fourth.  An  ascent  of  an  eleventh  is  accomplished
-in  two  intervals,  with  the  introduction  of  the  words.  This  repre-
-sents the  entire  compass  of  the  song,  which  contains  the  tones  of
+in  two  intervals,  with  the  introduction  of  the  words.  This  represents the  entire  compass  of  the  song,  which  contains  the  tones  of
 the  fourth  five-toned  scale  and  is  melodic  in  structure.  Two  rhythmic
 imits  occur,  entirely  diflferent  from  each  other.  It  is  frequently
 noted  that  two  rhythmic  imits  in  a  song  have  one  or  more  measure
@@ -33509,12 +22258,6 @@ the  horse's  neck.    (See  p.  388.)
 
 
 DBXaifORK]
-
-
-TETON  SIOUX  MUSIC
-
-
-299
 
 
 No;  108*  ''My  Horse  Files  Uke  a  Bird"     (Catalogue  No.  573)
@@ -33558,9 +22301,6 @@ lo
 I
 
 
-WORDS
-
-
 kola' friend
 
 mita''^ui)ke. my  horse
@@ -33569,29 +22309,21 @@ kigyax)'  yaQ flies  like  a  bird
 
 iQ-'yaQke  lo as  it  runs
 
-Analysis. — This  is  one  of  the  instances  in  which  the  signature  indi-
-cates the  pitch  of  the  tones  as  sung  by  the  singer  but  does  not  imply
+Analysis. — This  is  one  of  the  instances  in  which  the  signature  indicates the  pitch  of  the  tones  as  sung  by  the  singer  but  does  not  imply
 a  "key"  in  the  musical  sense  of  the  term.  The  song  is  classified  as
-*'  irregular. "  (See  table  on  p.  305.)  It  will  be  noted  that  the  progres-
-sions of  the  first  12  measures  are  based  on  the  major  triad  B-D  sharp-F
+*'  irregular. "  (See  table  on  p.  305.)  It  will  be  noted  that  the  progressions of  the  first  12  measures  are  based  on  the  major  triad  B-D  sharp-F
 sharp,  yet  the  presence  of  E  sharp  makes  it  impossible  to  consider
-that  part  of  the  song  in  the  key  of  B.  The  remainder  of  the  song  sug-
-gests the  key  of  B  minor.  In  the  first  part  of  the  song  Brave  Buflfalo
+that  part  of  the  song  in  the  key  of  B.  The  remainder  of  the  song  suggests the  key  of  B  minor.  In  the  first  part  of  the  song  Brave  Buflfalo
 sang  E  sharp  and  D  sharp,  and  in  the  latter  part  he  sang  E  natural
 and  D  natural,  these  tones  being  given  clearly  and  unmistakably.
-A  comparison  of  the  tone  C,  registered  at  the  beginning  of  the  cylin-
-der; with  C  on  the  piano,  shows  that  the  phonograph  was  properly
+A  comparison  of  the  tone  C,  registered  at  the  beginning  of  the  cylinder; with  C  on  the  piano,  shows  that  the  phonograph  was  properly
 adjusted  when  the  record  was  made,  so  that  the  change  of  pitch  is
 not  due  to  any  slackening  of  speed  in  the  recording  machine,  which
 might  have  been  the  case  if  the  machine  had  been  partially  run  down.
 Two  renditions  were  recorded,  with  a  pause  and  some  conversation
-between  them,  and  the  pecuUarities  of  the  first  rendition  were  re-
-peated exactly  in  the  second.  The  personality  of  the  singer  should
+between  them,  and  the  pecuUarities  of  the  first  rendition  were  repeated exactly  in  the  second.  The  personality  of  the  singer  should
 be  taken  into  account  in  considering  a  song  of  marked  peculiarity,
 and  Brave  Buffalo,  who  made  this  record,  was  not  a  man  given  to
-
-
-300
 
 
 BITKEAIT   OF   AMERICAN   ETHNOLOGY
@@ -33622,12 +22354,6 @@ are  small  intervals.
 No.  109.  "When  a  Horse  Neighs"
 
 Sung  by  Brave  Buffalo
-Voice  J  =76
-Drum  J  =126
-Drum-rhythm  similar  to  No.  19
-
-
-(Catalogue  No.  604)
 
 
 Ai)-pa  -  o
@@ -33637,9 +22363,6 @@ Ai)-pa  -  o
 
 
 hi  -  na  -  pe    t\i\  •  hai}        o      6ui)-ka  -  kaq  waij    ho-tot)  -  we
-
-
-WORDS
 
 
 RQ^pad daybreak
@@ -33662,11 +22385,7 @@ DKNQMOBE]
 TETON   STOUX   MUSIC
 
 
-301
-
-
-Analysis. — It  is  interesting  to  compare  this  with  other  songs  con-
-cerning the  horse,  not  only  in  this  group,  hut  in  the  songs  of  war  (Nos.
+Analysis. — It  is  interesting  to  compare  this  with  other  songs  concerning the  horse,  not  only  in  this  group,  hut  in  the  songs  of  war  (Nos.
 138,  139,  140,  145).  The  tempo  is  slower,  and  the  rhythm  is  not  the
 galloping  rhythm  of  some  of  the  other  songs.  There  is  in  it  a  httle  of
 the  dignity  and  solemnity  which  seems  always  present  in  the  mind  of
@@ -33688,18 +22407,8 @@ No.  110.  "Horses  Are  Coming
 Sung  by  Brave  Buffalo
 
 
-39
-
-
-(Catalogue  No.  605)
-
-
-72
-
-
 Drum  J- 132
 
-Drum-rhythm  similar  to  No.  10
 
 ^^^  infj  Tt%
 
@@ -33725,9 +22434,6 @@ a  -  u      we-lo
 a  -  u      a    we    -  lo
 
 
-WORDS
-
-
 tate'  ott'ye  to^pa  kiij the  four  winds  are  blowing
 
 ^Qka^wakai)  wai)£ig^ii some  horses
@@ -33738,14 +22444,10 @@ Analysis, — Two  renditions  of  this  song  were  recorded;  these  are
 alike  except  that  the  second  is  dightly  lower  in  pitch.  It  has  been
 noted  that  some  singers  will  pause  after  the  first  rendition  of  a  song,
 and  then  begin  a  second  rendition  on  exactly  the  same  pitch  as  the
-first,  while  others  will  begin  slightly  higher  or  lower.  This  song  con-
-tains no  rhythmic  imit,  but  the  song  as  a  whole  has  a  rhythmic  com-
+first,  while  others  will  begin  slightly  higher  or  lower.  This  song  contains no  rhythmic  imit,  but  the  song  as  a  whole  has  a  rhythmic  com-
 pleteness, which  is  interesting.  The  first  and  last  phrases  resemble
 each  other  in  some  of  the  count-divisions,  notably  in  the  first  triple
 measure.
-
-
-302
 
 
 BUBEAU  OF  AMERICAN  ETHNOLOGY
@@ -33760,7 +22462,6 @@ Sung  by  Two  Shields
 
 VOTCB  J  =104
 Drum  J  ^104
-Drum-rhythm  similar  to  No.  6
 
 0)
 
@@ -33814,9 +22515,6 @@ he  -  na    wa  -  6i
 a  -  u    we    ho  -  toq     a  -  u     we  -  lo  A«
 
 
-WORDS
-
-
 he^na see  them
 
 wa^i' prancing
@@ -33840,8 +22538,7 @@ hotoi)' neighing
 au'  welo' they  come
 
 Analy^s, — This  is  a  peculiarly  rhythmic  melody,  which  was  sung
-four  times.  Dnuu  and  voice  have  the  same  metric  unit,  but  the  drum-
-beat follows  the  voice.  The  song  is  strongly  hanuonic  in  feeling,  but
+four  times.  Dnuu  and  voice  have  the  same  metric  unit,  but  the  drumbeat follows  the  voice.  The  song  is  strongly  hanuonic  in  feeling,  but
 the  accented  E  classifies  the  structure  of  the  song  as  melodic  with
 hannonic  framework.  The  compass  of  the  song  is  an  octave,  and
 the  trend  of  the  melody  is  steadily  downward.  Tlie  melody  is  very
@@ -33850,12 +22547,6 @@ See  iJot  of  this  melody  on  page  419.
 
 
 DKNaUORE]
-
-
-TETON  SIOUX  MUSIC
-
-
-308
 
 
 VOICB  J  ^116
@@ -33871,9 +22562,6 @@ Sung  by  ^ita^ka
 
 
 »f
-
-
-(Catalogue  No.  470)
 
 
 I   If    .^
@@ -33926,8 +22614,6 @@ ma  -  ni  -   pi        wa  -  ku   -  wa     ma  -  ni   -   pi       yo      
 yo
 
 
-WORDS
-
 waku^wa chasing
 
 ma^nipi they  walked
@@ -33940,8 +22626,7 @@ waku^wa chasing
 
 ma'^nipi they  walked
 
-Analysis. — ^The  words  of  this  song  refer  to  the  free,  almost  play-
-ful, action  of  a  herd  of  horses.  This  melody  is  especially  rhythmic.
+Analysis. — ^The  words  of  this  song  refer  to  the  free,  almost  playful, action  of  a  herd  of  horses.  This  melody  is  especially  rhythmic.
 Three  double  renditions  were  recorded^  which  show  no  differences
 except  a  slight  lowering  of  pitch.  All  but  three  of  the  intervals  are
 major  seconds.  Difficulty  in  keeping  the  adjustment  of  a  melody
@@ -33953,16 +22638,9 @@ until  the  first  few  measures  of  the  song  had  been  sung,  after  which
 it  was  steadily  maintained.
 
 
-304
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
 [Brix.  <a
 
 
-VoiCB  J  =138
 Dbdm  not  recorded
 (I)
 
@@ -33970,9 +22648,6 @@ Dbdm  not  recorded
 No.  118.  ''A  Root  of  Herb*'
 
 Sung  by  Siya^ka
-
-
-(Catalogue  No.  467)
 
 
 (1)
@@ -34090,9 +22765,6 @@ hel    i  -  to-  he-ya
 6a     wa  -  wa  -  ku- wa    ye
 
 
-WORDS
-
-
 pef  u'ta  (contraction  of  peii^huta) .  a  root  of  herb
 
 wakar)' 8acre<l
@@ -34118,14 +22790,7 @@ measures  of  the  two  being  alike,  but  the  first  having  four  complete  
 DKN8MOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-305
-
-
-ures  and  the  second  six  measures.  The  repetitions  of  these  units  com-
-prise every  note  in  the  song.  In  tonahty  the  melody  is  distinctly
+ures  and  the  second  six  measures.  The  repetitions  of  these  units  comprise every  note  in  the  song.  In  tonahty  the  melody  is  distinctly
 minor,  but  only  one  interval  of  a  minor  third  is  found  in  it;  a  descent
 from  E  flat  to  C  occurs  several  times,  but  always  with  D  as  a  passing
 tone.  The  song  contains  only  the  tones  of  the  minor  triad  and
@@ -34135,8 +22800,7 @@ recorded;  these  are  alike  in  every  respect.
 
 This  group  comprises  the  songs  of  such  societies  as  are  composed  of
 men  having  similar  dreams,  the  name  of  the  society  indicating  the
-animal  which  appeared  in  the  dream  (songs  Nos.  95-113).  Undoubt-
-edly many  of  the  songs  in  this  group  are  songs  which  were  *' received
+animal  which  appeared  in  the  dream  (songs  Nos.  95-113).  Undoubtedly many  of  the  songs  in  this  group  are  songs  which  were  *' received
 in  dreams,"  but  the  names  of  the  original  owners  are  forgotten  and
 the  songs  are  now  the  common  songs  of  the  societies.
 
@@ -34165,9 +22829,6 @@ Serial  Nos.  oX  songs.
 96,  99, 102, 104, 106, 107, 112
 
 95, 97, 98, 100, 101, 103, 105, 109, 110,  111,
-
-113
-108
 
 
 FIRST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
@@ -34205,41 +22866,14 @@ ofsongs.
 
 Serial  Nos.  ofsongs.
 
-109
-
-105
-
-113
 
 101, 110
 
-101
-
-102
-
-7
 
 98,  99, 100, 103,  106,  107,  HI
 
-2
 
 96,112
-
-95
-
-97
-
-108
-
-19
-
-306
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Old  Songs — (5)  Songs  of  Dream  Societies — Continued
@@ -34267,10 +22901,8 @@ Total.
 
 
 95,  98,  99,  100, 104, 107,  110,  111
-106
 
 96,  97, 101, 102, 103,  VXi,  109,  112, 113
-108
 
 
 LAST  NOTE  OF  BONO— ITS  RELATION  TO  COMPASS  OF  BONG
@@ -34295,9 +22927,7 @@ Serial  Nos.  of  songs.
 96, 98, 99, 100, 101, 102, 104, 105, 106, 107,
 
 109, 110,  111,  112, 113
-103
 95,97
-108
 
 
 NUMBER  OF  TONES  COMPRISING  COMPASS  OF  BONO
@@ -34329,22 +22959,13 @@ Serial  Nos.  of  songs.
 
 106, 110,  n^,  113
 
-95
 
 97,  98,  99, 100, 101,  111
 
 96, 102,  111
 
-103
-
 
 DKXtiMOBE]
-
-
-TETON   SIOUX   MUSIC
-
-
-307
 
 
 Old  So7^8 — (5)  Songs  of  Dream  Societies-  -Continued
@@ -34398,9 +23019,6 @@ of  songs. '
 Serial  Nos.  of  songs.
 
 
-15
-
-
 95,  96,  97,  98,  99,  100,  101, 102,  105,  107,
 109, 110,  111,  112, 113
 
@@ -34422,19 +23040,8 @@ I
 Total.
 
 
-1
-
-106
-
-1
-
-104
-
-1
-
 lOR
 
-19
 
 STRUrTURE
 
@@ -34457,11 +23064,7 @@ Irregular
 Total
 
 
-15
-
 I
-2
-1
 
 
 95,  96,  97,  98,  99,  102,  lOS,  104,  105,  106,
@@ -34470,19 +23073,6 @@ I
 HI
 
 100, 101
-108
-
-
-19
-
-
-308
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Old  Songs — (5)  Songs  of  Dream  Societies — Continued
@@ -34496,8 +23086,6 @@ S^SlS'i                 Serial  No«.  of  songs.
 
 Downward
 
-13
-6
 
 95, 98, 100, 101, 102, 103, 104, 106, 106, 109,
 
@@ -34508,7 +23096,6 @@ Upward -  -  -
 
 Total
 
-19
 
 TOTAL
 
@@ -34516,14 +23103,11 @@ NUMBER  OF  PROGRESSIONS— DOWNWARD  AND  UPWARD
 
 Downward
 
-295
-169
 
 Upward -
 
 Total
 
-464
 
 INTERVALS  IN  DOWNW
 
@@ -34533,17 +23117,6 @@ interval  of  a—
 
 Fifth
 
-2
-
-34
-
-39
-
-73
-
-1
-
-132
 
 Fourth
 
@@ -34565,7 +23138,6 @@ u
 
 Total
 
-293
 
 INTERVALS  IN  UPWARD  PROGRESSION
 
@@ -34573,21 +23145,6 @@ Interval  of  a—
 
 Tenth
 
-1
-
-3
-
-1
-
-2
-
-10
-
-31
-
-15
-
-22
 
 Octave
 
@@ -34609,11 +23166,9 @@ Major  second...
 
 •
 
-70
 
 Minor  second.. .
 
-8
 
 Total
 
@@ -34638,12 +23193,6 @@ Average  number  of  semitones  in  an  interval
 
 
 DBMS  MORS]
-
-
-TETON   SIOUX   MUSIC
-
-
-309
 
 
 Old  Songs — (5)  Songs  of  Dream  Societies — Continued
@@ -34690,53 +23239,23 @@ of  wmgs.
 Total.
 
 
-19
-
-
 Serial  Nos.  of  songs.
 
 
-108
-
-100
-
-2
-
 07,98
 
-99
-
-3
 
 103, 106,  111
 
-100
-
-113
 
 J
 
-112
-
-1
-
-95
-
-110
-
-2
 
 104,107
 
-96
-
-102
 
 n
 
-101
-
-108
 
 Rhythmic  Analysis
 
@@ -34752,8 +23271,6 @@ Serial  Nos.  of  songs.
 
 BeeinninK  on  unaccented  part  of  measure
 
-4
-15
 
 95. 90. 107. 113
 
@@ -34765,7 +23282,6 @@ Beginning  on  accented  part  of  measure
 
 Total
 
-19
 
 RHYTHM  OF  FIRST  MEASURE
 
@@ -34774,7 +23290,6 @@ First  measure  in-
 »^time
 
 
-3-4  time.
 Total.,
 
 
@@ -34819,9 +23334,6 @@ Total.
 -22
 
 
-310
-
-
 BUREAU   OF  AMEBICAN  ETHNOLOGY
 
 
@@ -34842,9 +23354,6 @@ Serial  Nos.  of  songs.
 
 Kighth  notMunaomnitiKl
 
-3
-9
-3
 
 100. 102. 104
 
@@ -34856,7 +23365,6 @@ Qnaitur not«infuiO(WQt«4
 
 Total
 
-15
 
 RHYTHMIC  UNIT  OF  SONG
 
@@ -34872,16 +23380,6 @@ Total.
 
 Number
 of  songs.
-
-
-6
-
-10
-
-3
-
-
-19
 
 
 Serial  Nos.  of  songs.
@@ -34927,66 +23425,22 @@ of  songs.
 Serial  Nos.  of  songs.
 
 
-1
-
-106
-
-2
-
 96,110
 
-2
 
 105,109
 
-1
-
-104
-
-1
-
-108
-
-1
-
-100
-
-1
-
-95
-
-2
 
 99,101
 
-1
-
-111
-
-1
-
-103
-
-2
 
 98, 112
 
-2
 
 102, 107
 
-1
-
-97
-
-1
-
-113
 
 Total.
-
-
-19
 
 
 DBN8UOBI]  TETOK  SIOUX  MUSIC
@@ -34998,9 +23452,6 @@ Rhythmic  Analysis — Continued
 METRIC  UNIT  OF  DRUM  (TEMPO)
 
 
-311
-
-
 Nnmber
 of  songs.
 
@@ -35008,61 +23459,18 @@ Serial  Nos.  of  songs.
 
 Metronome—
 
-80
-
-1
-2
-1
-2
-2
-1
-1
-2
-1
-1
-1
-4
-
-105
-
-88
 
 96,104
 
-92
-
-97
-
-96
 
 86,100
 
-110
 
 99,101
 
-104
-
-111
-
-112
-
-108
-
-116
 
 98,112
-102
 
-120
-
-128
-
-109
-
-132
-
-110
 
 Drum  not  recorded
 
@@ -35072,7 +23480,6 @@ Drum  not  recorded
 
 Total
 
-19
 
 COMPARISON  or  METRIC  UNIT  OF  VOICE  AND  DRUM  (TEMPO)
 
@@ -35092,15 +23499,6 @@ Number
 of  songs.
 
 
-5
-7
-3
-4
-
-
-19
-
-
 Serial  Nos.  of  songs.
 
 
@@ -35117,8 +23515,7 @@ MiLiTARy  Societies
 
 Organizations  of  warriors  existed  among  all  the  Plains  tribes.
 The  term  "wolf"  was  applied  to  the  warriors  of  several  tribes,
-while  among  others  the  term  ''dog  soldiers"  was  used..  A  con-
-densed accomit  of  the  military  organizations  of  the  Plains  Indians  is
+while  among  others  the  term  ''dog  soldiers"  was  used..  A  condensed accomit  of  the  military  organizations  of  the  Plains  Indians  is
 given  by  Clark,*  who  places  the  number  of  societies  in  the  Siouan
 peoples  at  11.  Writers  concerning  individual  tribes  have  described
 the  customs  of  such  tribes,  the  following  being  representative
@@ -35129,21 +23526,18 @@ Among  the  Kiowa:
 The  Kiowa  have  an  elaborate  military  organization,  now  fast  becoming  obsolete,
 known  as  YSfp^,  ''Warriors.''  A  similar  organization  is  found  among  most  of  the
 prairie  tribes,  and  is  commonly  known  to  the  whites  as  the  Dog-soldier  society,  from
-an  imperfect  rendering  of  the  name  of  one  of-the  principal  bands.  The  Kiowa  organi-
-zation consists  of  six  orders,  each  having  its  own  dance,  songs,  insignia,  and  dudes.'
+an  imperfect  rendering  of  the  name  of  one  of-the  principal  bands.  The  Kiowa  organization consists  of  six  orders,  each  having  its  own  dance,  songs,  insignia,  and  dudes.'
 
 > Clark  W.  P.,  The  Indian  Sign  Language,  p.  355,  Philadelphia,  18S5.
 
-'ICooney,  James,  Calendar  History  of  the  Kiowa,  SeoenUenth  Rep.  Bur,  Ethn.,  pt.  1,  p.  220,  Washing-
-ton, 1898.
+'ICooney,  James,  Calendar  History  of  the  Kiowa,  SeoenUenth  Rep.  Bur,  Ethn.,  pt.  1,  p.  220,  Washington, 1898.
 
 
 812  BUREAU  OP  AMEBICAN   ETHNOLOGY  [bull.«i
 
 Among  the  Arapaho:
 
-Among  the  Arapaho  the  oi:ganizatioii  was  called  BUni^rUna^  "Warriors/'  and  con-
-sisted of  eight  degrees  or  orders,  including  nearly  all  the  men  of  the  tribe  above  the
+Among  the  Arapaho  the  oi:ganizatioii  was  called  BUni^rUna^  "Warriors/'  and  consisted of  eight  degrees  or  orders,  including  nearly  all  the  men  of  the  tribe  above  the
 age  of  about  17.  ^
 
 Among  the  Cheyenne:
@@ -35154,8 +23548,7 @@ Red-Shield,  Hoof-Rattle,  Coyote,  Dog-Men  *8,  and  Inverted  or  Bow-String.
 
 Among  the  Omaha:
 
-There  were  two  classes  of  societies  among  the  Omaha — social  and  secret.  Member-
-ship in  the  social  class  was  open  to  those  able  to  perform  the  acts  required  for  eligi-
+There  were  two  classes  of  societies  among  the  Omaha — social  and  secret.  Membership in  the  social  class  was  open  to  those  able  to  perform  the  acts  required  for  eligi-
 bility. To  this  claas  belong  the  warrior  societies,  as  well  as  those  for  social  purposes
 only.    [This  is  followed  by  an  extended  consideration  of  the  war  societies.]'
 
@@ -35208,14 +23601,12 @@ I,  p.  130,  New  York,  1904.
 
 DSNQUOBB]  TETON  SIOUX  MUSIC  313
 
-eties  had  their  origin  in  a  dream,  but  the  organization  of  these  soci-
-eties and  their  meetings  were  more  public  than  those  of  the  regular
+eties  had  their  origin  in  a  dream,  but  the  organization  of  these  societies and  their  meetings  were  more  public  than  those  of  the  regular
 'dream  societies.' "
 
 In  his  study  among  the  Oglala  Sioux  Dr.  Wissler  has  divided  the
 societies  for  men  into  Aki^6ita  societies,  Headmen's  societies,  and
-War  societies.*  Six  Aki^cita  societies  are  enumerated  by  him  as  exist-
-ing at  the  time  of  his  observation,  among  the  Oglala  on  the  Pine  Ridge
+War  societies.*  Six  Aki^cita  societies  are  enumerated  by  him  as  existing at  the  time  of  his  observation,  among  the  Oglala  on  the  Pine  Ridge
 and  Rosebud  Reservations,  in  South  Dakota,  these  being  theToka'la
 (Kit  Fox),  Kai)^'yuha  (Crow  Owners),  Cai)te'-tii)2a  (Strong  Heart),
 IHo'ka  (Badgers),  Sotka'yuha  (Bare-lance  Owners),  and  Wi'6iska
@@ -35238,8 +23629,7 @@ is  akin  to  ''guard"  or  "police,"  the  proper  word  for  "warrior"  being
 iJd'Hze.  Thus  the  Aki^6ita  societies  were  those  whose  members
 could  be  required  to  act  as  guards  or  marshals  when  the  tribe  was
 moving,  or  as  "police"  in  the  village.  The  aki'6ita  were  primarily
-associated  with  the  buffalo  hunt,  in  which  they  saw  that  no  one  dis-
-regarded the  laws  of  the  chase  (see  p.  442) ;  they  also  preserved  order
+associated  with  the  buffalo  hunt,  in  which  they  saw  that  no  one  disregarded the  laws  of  the  chase  (see  p.  442) ;  they  also  preserved  order
 in  the  camp  and  punished  all  offenders.  They  were  primarily  civil
 officers,  though  aki^6ita  might  also  be  appointed  to  act  in  connection
 with  a  large  war  party.  Hennepin  notes  an  instance  of  punishment
@@ -35251,8 +23641,7 @@ but  while  they  were  eating,  there  came  other  Indians,  who  took  the
 food  from  them  and  plundered  the  tipi.   Hennepin  says:
 
 We  knew  not  what  theee  Savages  were  at  first;  but  it  appear 'd  they  were  some  of
-those  that  we  had  left  above  at  the  Fall  of  St.  Anthony.  One  of  them,  who  caird  him-
-self my  Uncle,  told  me,  that  those  who  had  given  us  Victuals,  had  done  basely  to
+those  that  we  had  left  above  at  the  Fall  of  St.  Anthony.  One  of  them,  who  caird  himself my  Uncle,  told  me,  that  those  who  had  given  us  Victuals,  had  done  basely  to
 go  and  forestall  the  others  in  the  Oliase;  and  that  according  to  the  Laws  and  Customs
 of  their  Country,  'twas  lawful  for  them  to  plunder  them,  since  they  had  been
 
@@ -35270,8 +23659,7 @@ Lewis  and  Clark  refer  to  these  men  as  follows:
 Those  people  have  Some  brave  men  which  they  make  use  of  as  Soldiers  those  men
 attend  to  the  police  of  the  Village  Correct  all  enx)rB  I  saw  one  of  them  today  whip  2
 Square,  who  appeared  to  have  fallen  out,  when  he  approach^*,  all  about  appeared  to
-flee  with  great  turrow  [terror],  at  night  they  keep  two  3,  4,  5  men  at  different  Dis-
-tances walking  around  Camp  Singing  the  accurrunces  of  the  night '
+flee  with  great  turrow  [terror],  at  night  they  keep  two  3,  4,  5  men  at  different  Distances walking  around  Camp  Singing  the  accurrunces  of  the  night '
 
 The  aki'cita  are  mentioned  also  by  many  writers  on  the  tribes  of
 the  Plains.  Rev.  J.  Owen  Dorsey  states  that  '*  The  Akitcita^  soldiers  or
@@ -35280,12 +23668,10 @@ as  they  do  among  other  Siouan  tribes/''
 
 Wissler  states  that  the  manner  of  selecting  aki'6ita  was  as  follows:
 The  chiefs  chose  the  four  ''head  aki'6ita'^  from  one  society,  who  in
-turn  chose  their  assistants  from  the  society  to  which  they  them-
-selves belonged.  Thus  the  choice  of  the  four  head  aki'6ita  was  practi-
+turn  chose  their  assistants  from  the  society  to  which  they  themselves belonged.  Thus  the  choice  of  the  four  head  aki'6ita  was  practi-
 cally the  choice  of  a  certain  society  for  this  duty.  The  selection
 was  usually  made  at  the  beginning  of  the  sununer  hunt,  and  service
-continued  to  the  close  of  the  season.  It  seems  to  have  been  cus-
-tomary, but  not  obligatory,  for  the  chiefs  to  choose  from  the  societies
+continued  to  the  close  of  the  season.  It  seems  to  have  been  customary, but  not  obligatory,  for  the  chiefs  to  choose  from  the  societies
 in  rotation.*
 
 Concerning  the  organizations  of  these  societies,  Wissler  states:^
@@ -35339,8 +23725,7 @@ When  participating  in  a  dance,  the  officers  paint  their  bodies  yellow.
 
 The*  teachings  of  the  society  inculcated  ''bravery,  generosity,
 chivalry,  morality,  and  fraternity  for  fellow  members."  Men  who
-joined  the  society  were  required  to  promise  obedience  to  these  teach-
-ings, and  the  whip  bearers  had  whips  of  a  peculiar  kind  with  which
+joined  the  society  were  required  to  promise  obedience  to  these  teachings, and  the  whip  bearers  had  whips  of  a  peculiar  kind  with  which
 they  scourged  those  who  disregarded  their  vows.  On6  of  the  officers
 of  the  society  was  the  custodian  of  the  drum.
 
@@ -35365,8 +23750,7 @@ In  the  writer's  study  among  the  Teton  on  the  Standing  Rock
 Reservation  it  was  said  that  "fox  songs  and  coyote  songs  are  the
 same."  It  was  also  decided  that  certain  songs  called  wolf  songs
 or  "Wolf  society  songs"  should  be  included  in  this  section.  In  this
-connection  it  is  interesting  to  note  that  Dr.  Lowie  found  the  kit-
-fox  dance  called  the  coyote  dance  by  the  Santee  at  Fort  Totten,
+connection  it  is  interesting  to  note  that  Dr.  Lowie  found  the  kitfox  dance  called  the  coyote  dance  by  the  Santee  at  Fort  Totten,
 N.  Dak.,^  and  that  among  the  Crows  of  Montana  he  was  told  that
 "all  the  societies  were  originated  by  the  mythical  Old  Man  Coyote."*
 A  similar  correspondence  in  the  terms  "fox"  and  "coyote"  is  found
@@ -35390,9 +23774,6 @@ T  Lowie,  Robert  H.,  Dance  Associations  of  the  Eastern  Dakota,  op  clt.
 *  Lowie,  Robert  H.,  Societies  of  the  Crow,  Hidatsa  and  Mandan  Indians,  op.  clt.,  p.  156,  footnote.
 
 
-316
-
-
 BUREAU   OF  AMEBICAN  ETHNOLOGY
 
 
@@ -35414,8 +23795,6 @@ The  following  song  of  the  Fox  society  was  sung  by  Bear  Soldier
 No.  114.  Song  of  the  Fox  Society  (a)    (Catalogue  No.  677)
 Sung  by  Bear  Soldibr
 
-Voice  J  =  88
-Drum  J  =56
 Drom-rbythm  similar  to  No.  6
 
 
@@ -35443,10 +23822,7 @@ J=96
 gl  lu  gl^J  J  \\t
 
 
-To  -  ka-
-
-
-la    a  kiq  la-  ku     ya   -  ka  -  pi  6aij  -  iia  i  •  yo  ml  -  61  -
+To  -  kala    a  kiq  la-  ku     ya   -  ka  -  pi  6aij  -  iia  i  •  yo  ml  -  61  -
 
 
 la
@@ -35458,9 +23834,6 @@ la
 taq      mi
 
 J=88
-
-
-61
 
 
 la    koq       1  -  yo
@@ -35478,14 +23851,6 @@ Chloaco,  1905.
 
 oinqmobe]
 
-
-TETON  SIOUX  MUSIC
-
-
-317
-
-
-WORDS
 
 Toka^a  Idij the  Fox  (society)
 
@@ -35513,11 +23878,8 @@ in  the  song.     (See  song  No.  5.)
 Ne.  116.  Song  of  the  Fox  Society  (b)    (Catalogue  No.  580)
 
 Sung  by  Shooter
-Voice  J  =84
 
 Drvu  j=84
-
-Drum-rhythm  similar  to  No.  6
 
 
 jMi  i\)  m^'n.nM^rj^
@@ -35536,9 +23898,6 @@ ta-moi)-ka  &ai  ye  -  lo
 
 
 I
-
-
-WORDS
 
 
 kola^ friends
@@ -35576,11 +23935,9 @@ the  bird  being  worn  around  the  neck  or  attached  to  the  spear  which
 was  carried  in  war.  A  "Crow  or  Raven  society''  was  noted  among
 the  Mandan  and  was  mentioned  by  Maximilian.^
 
-The  Crow-owners  society  of  the  Teton  Sioux  and  the  Raven-
-bearers  society  of  the  Mandan,  as  studied  by  the  present  writer,
+The  Crow-owners  society  of  the  Teton  Sioux  and  the  Ravenbearers  society  of  the  Mandan,  as  studied  by  the  present  writer,
 appear  to  be  similar  in  essential  features.  Lowie,  however,  uses  the
-term  Crow  society  in  his  list  of  Mandan  organizations.'  A  Crow-
-owners  society  is  noted  by  the  same  authority,  among  the  Crow
+term  Crow  society  in  his  list  of  Mandan  organizations.'  A  Crowowners  society  is  noted  by  the  same  authority,  among  the  Crow
 Indians.^  The  Raven-owners  society  is  mentioned  by  Lowie  in  his
 observations  among  the  eastern  Dakota,^  and  the  Raven-bearers  by
 Wissler,  among  the  Blackfoot  Indians.*
@@ -35639,9 +23996,7 @@ en
 of
 ch
 
-n-
-
-r-
+nr-
 
 is
 T
@@ -35681,8 +24036,7 @@ belong.  Such  men  of  distinction  could  be  admitted  by  making  the
 request  of  the  leader  and  giving  a  feast  to  the  members  of  the  society.
 
 A  special  tent  in  the  village  was  used  by  this  society  as  its  meeting
-place.  Eagle  Shield  said,  ^Hhe  village  was  full  of  noise,  with  chil-
-dren shouting  at  their  games  and  women  singing  and  dancing,  and
+place.  Eagle  Shield  said,  ^Hhe  village  was  full  of  noise,  with  children shouting  at  their  games  and  women  singing  and  dancing,  and
 the  members  of  the  EaQgi'yuha  Uked  to  spend  the  evenings  in  their
 lodge,  singing  and  enjoying  themselves.''  Over  the  door  of  this  lodge
 was  hung  the  *'Crow  lance"  in  its  wrappings.  According  to  Eagle
@@ -35718,13 +24072,7 @@ lances  are  short  and  covered  with  otterskin;  at  the  top  there  is  an 
 Near  fhe  spear  is  (sfe)  fastened  the  neck  and  liead  of  a  crow.''
 
 
-822
-
-
 BUBEAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 (fig.  29).  A  similar  custom  was  noted  at  White  Earth,  Mimi.,  among
@@ -35755,7 +24103,6 @@ No.  116.  Song  of  the  Strong  Heart  Society  (a)       (Catalogue  No.  509
 
 Sung  by  Eagle  Shield
 
-Voice  J  =  84
 Drum  not  recorded
 
 
@@ -35782,9 +24129,6 @@ Ko-la    tu-wa  na-pe-61-na-  bai)       o-pa  kte  6d\
 yo
 
 
-WORDS
-
-
 kola^ friends
 
 tu^wa whoever
@@ -35803,16 +24147,9 @@ STRONQ  HEART  SOCIETY  RATTLE
 DIN8KOBX]
 
 
-TETON  SIOUX  MUSIC
-
-
-323
-
-
 Analysis, — ^This  melody  has  a  compass  of  12  tones.  This  range
 is  not  so  unusual  as  is  the  frequency  with  which  large  intervals  are
-spanned.  Thus  an  ascent  of  12  tones  is  accomplished  in  two  progres-
-sions at  the  introduction  of  the  words,  and  in  two  instances  a  descent
+spanned.  Thus  an  ascent  of  12  tones  is  accomplished  in  two  progressions at  the  introduction  of  the  words,  and  in  two  instances  a  descent
 of  a  seventh  is  made  in  two  progressions.  Of  the  intervals  22  per
 cent  are  fourths.  The  song  contains  all  the  tones  of  the  octave  except
 the  fourth  and  in  structure  is  classified  as  melodic  with  harmonic
@@ -35824,8 +24161,6 @@ Sung  by  Gray  Hawk
 VoxCB  J  =88
 
 DhUM  Jr=:88
-
-Drum-rhythm  similar  to  No.  19
 
 
 Analysis, — ^This  song  is  minor  in  tonality  and  progresses  largely
@@ -35843,15 +24178,6 @@ who  also  contributed  interesting  material  concerning  the  buffalo  hunt
 (p.  436).
 
 
-324
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 No.  118.  Song  of  the  Strong  Heart  Society  ^  (c)       (Catalogue  No.  548)
 
 Sung  by  Gray  Hawk
@@ -35861,20 +24187,14 @@ Drom-rhythm  similar  to  No.  8
 
 0) 0)
 
-1
-
 
 O)
-
-
-8
 
 
 ^?Hte^
 
 
-Analysis. — ^The  rhythmic  form  of  this  melody  is  clear  and  inter-
-esting. Two  rhythmic  units  are  present,  the  first  count  in  each
+Analysis. — ^The  rhythmic  form  of  this  melody  is  clear  and  interesting. Two  rhythmic  units  are  present,  the  first  count  in  each
 having  a  triplet  division.  The  melody  tones  are  those  of  the  minor
 triad  and  fourth.  About  31  per  cent  of  the  intervals  are  minor  thirds,
 and  one-half  are  major  seconds.  The  song  is  harmonic  in  structure
@@ -35884,10 +24204,6 @@ No.  119.  Song  of  the  Strong  Heart  Society  (d)       (Catalogue  No.  557
 
 Sung  by  Gray  Hawk
 VoicB  J -88
-
-Drum  J  =  96
-
-Drum-rhythm  similar  to  No.  5
 
 
 •t—     4"*       "^—     4~"     "T"^         -| — ■
@@ -35911,9 +24227,6 @@ m
 a
 
 
-1
-
-
 •V  ^1^  r  in?
 
 
@@ -35929,12 +24242,6 @@ first  triple  measure  was  sometimes  sung  below  pitch,  but  the  intona-
 
 
 DXNaMOBS]
-
-
-TETON  SIOUX  MUSIC
-
-
-325
 
 
 tion  of  the  remainder  of  the  song  was  excellent.  The  melody  tones
@@ -35957,12 +24264,6 @@ recorded  at  Standing  Kock.
 No.  120.  Song  of  the  Badger  Society  (a)
 
 Sung  by  Gray  Hawk
-VoicB  J  =80
-Drum  J  =80
-Drum-rhythm  similar  to  No.  0
-
-
-(Catalogue  No.  553)
 
 
 \r^\\i^'
@@ -35972,13 +24273,10 @@ Anaiysis, — ^This  song  is  minor  in  tonality  and  contains  the  tones
 of  the  second  five-toned  scale.  The  tones  transcribed  as  C  natural
 and  C  sharp  are  clearly  distinguished  in  the  three  renditions,  the
 semitone  at  the  banning  of  the  second  measure  being  sung  with
-particularly  good  intonation.  The  minor  third  is  of  frequent  occur-
-rence, constituting  40  per  cent  of  the  intervals.  The  rhythmic
+particularly  good  intonation.  The  minor  third  is  of  frequent  occurrence, constituting  40  per  cent  of  the  intervals.  The  rhythmic
 form  of  the  song  is  good  and  the  rhythmic  imit,  though  short,  is
-interesting.  The  drum  was  slightly  behind  the  voice  in  all  the  rendi-
-tions.
+interesting.  The  drum  was  slightly  behind  the  voice  in  all  the  renditions.
 
-See  plot  of  this  melody  on  page  419.
 
 —^- —  '■^— ^—  ^^— ~^^— ^-^■^— ^■— ^^^^—     »
 
@@ -35989,9 +24287,6 @@ s  Lowie,  Robert  H.,  Dance  Aasodations  of  the  Eastern  Dakota,  op.  dt.,
 *  Lowie,  Robert  H.,  Societies  of  the  Crow,  Hldatsa,  and  Mandan,  op.  dt.,  p.  322.
 
 4840^— Bull.  61—18 23
-
-
-826
 
 
 BUREAU   OF  AMEBICAN   ETHNOLOGY
@@ -36005,7 +24300,6 @@ No.  121.  Song  of  the  Badger  Society  (b)       (Catalogue  No.  554}
 Sung  by  Gray  Hawk
 
 
-VOICB  J  =104
 Drum  j=104
 Drum-rbytbm  similar  to  No.  19
 
@@ -36013,8 +24307,7 @@ Drum-rbytbm  similar  to  No.  19
 Arwlysis. — ^This  song  is  distinctly  major  in  tonality,  yet  one-third
 of  the  intervals  are  minor  thirds.  Five  renditions  were  recorded,
 the  song  being  smig  three  times  without  a  break  in  the  time,  then  a
-short  pause  being  made,  after  which  it  was  sung  twice.  These  repeti-
-tions are  uniform  throughout.  The  tonic  triad  forms  the  basis  of
+short  pause  being  made,  after  which  it  was  sung  twice.  These  repetitions are  uniform  throughout.  The  tonic  triad  forms  the  basis  of
 the  melody,  but  the  accented  A  makes  it  necessary  to  classify  the
 song  as  melodic  with  harmonic  framework.  The  triplets  of  eighth
 notes  were  clearly  enimciated.  This  count-division  is  frequently
@@ -36025,8 +24318,7 @@ unit  of  the  two  is  the  same.
 miwa'tani
 
 The  Miwa'tani  was  an  important  military  society  among  the  Teton
-Sioux,  the  members  of  which  were  exempt  from  aki'cita  duty.  Charg-
-ing Thimder  said  that  he  belonged  to  this  society,  that  it  was  originated-
+Sioux,  the  members  of  which  were  exempt  from  aki'cita  duty.  Charging Thimder  said  that  he  belonged  to  this  society,  that  it  was  originated-
 long  ago  by  a  man  who  dreamed  of  an  owl,  and  that  the  society  was
 sometimes  erroneously  called  the  Owl  society.  The  word  miwa'tani
 is  not  fully  explainable,  as  it  is  not  foimd  in  the  common  speech  of
@@ -36040,8 +24332,7 @@ with  no  concept  other  than  that  of  a  particular  society.  It  is  also 
 Mandan,  the  tradition  being  that  the  latter  were  named  because  of  some  resemblance
 to  the  Miwa'tani  society.
 
-The  Omaha  word  for  Mandan  is  Mawa'dani,*  and  a  ''Mandan  dan-
-cing society"  among  the  Omaha  is  mentioned  and  one  of  its  feasts
+The  Omaha  word  for  Mandan  is  Mawa'dani,*  and  a  ''Mandan  dancing society"  among  the  Omaha  is  mentioned  and  one  of  its  feasts
 described  by  Rev.  J.  Owen  Dorsey.'
 
 1  Societies  and  Ceremonial  Associations  in  the  Oglala  Division  of  the  Teton- Dakota,  op.  dt.,  p.  42.
@@ -36066,8 +24357,7 @@ Wissler^  states  that  the  organization  of  the  Miwa'tani  consisted  of:
 Charging  Thunder  said  the  Miwa'tani  society,  besides  being  one
 of  the  most  difficult  to  enter,  was  one  of  the  most  exacting  in  its
 requirements.  Each  member  pledged  himself  to  sacrifice  his  own
-life  in  defense  of  a  woimded  member,  if  such  sacrifice  became  neces-
-sary on  the  warpath.  When  anything  was  needed  by  the  society
+life  in  defense  of  a  woimded  member,  if  such  sacrifice  became  necessary on  the  warpath.  When  anything  was  needed  by  the  society
 the  principal  officer  appointed  some  one  to  collect  what  was  required,
 and  the  demand  was  never  refused.  The  collecting  was  usually  done
 at  a  public  meeting  of  the  society  and  formed  one  of  the  tests  by
@@ -36096,8 +24386,7 @@ meat.  This  was  all  the  nourishment  they  were  allowed,  hence  the
 end  of  the  four  days  found  them  greatly  weakened.
 
 Two  old  men,  after  consultation,  described  the  initiation  to  the
-writer.  On  the  day  of  the  ceremony  the  officers  of  the  society,  wear-
-ing headdresses  of  owl  feathers  Qii'ghaT)'  6u7)  wapa'ha),  took  their  posi-
+writer.  On  the  day  of  the  ceremony  the  officers  of  the  society,  wearing headdresses  of  owl  feathers  Qii'ghaT)'  6u7)  wapa'ha),  took  their  posi-
 tion in  the  place  of  honor,  opposite  the  entrance  of  the  lodge.  In
 their  hands  they  held  the  owl-feather  headdresses  which  the  new
 members  were  to  receive.  All  the  members  of  the  tribe  were  gathered
@@ -36108,17 +24397,13 @@ the  honor  which  had  been  conferred  on  them.    Back  of  the  fire  was  
 >  SodetJes  and  Ceremonial  Associations  in  the  Oglala  Division  of  the  Yeton-Pakota,  op.  cit.,  p.  42.
 
 
-328
-
-
 BUREAU  OF  AMEBICAN   ETHNOLOGY
 
 
 [BULL,  fil
 
 
-'^mellowed-earth  space"  (see  p.  122^  footnote) ,  and  the  men  were  re-
-quired to  carry  live  coals  in  their  hands  and  put  them  on  the  earth.
+'^mellowed-earth  space"  (see  p.  122^  footnote) ,  and  the  men  were  required to  carry  live  coals  in  their  hands  and  put  them  on  the  earth.
 Each  maU;  rising  from  his  seat,  took  coals  in  the  palm  of  his  hand,  and
 turning  to  the  left,  walked  slowly  around,  the  lodge.  After  the  first
 roimd  of  the  lodge,  pausing  at  the  mellowed-earth  space,  he  pretended
@@ -36160,15 +24445,11 @@ a
 6a  -  ^e
 
 
-WORDS
-
-
 tu'wa  wakai)^  ^oi) the  one  who  is  holy
 
 le  mi'6age has  made  this  for  me
 
-Analysis. — ^This  melody  contains  the  tones  of  the  second  five-
-toned  scale,  with  G  sharp  as  a  keynote.  The  accidental  (F  double
+Analysis. — ^This  melody  contains  the  tones  of  the  second  fivetoned  scale,  with  G  sharp  as  a  keynote.  The  accidental  (F  double
 sharp)  was  clearly  given  in  all  the  renditions.  The  song  is  harmonic
 in  structure  and  has  a  compass  of  12  tones.  Three-fourths  of  the
 progressions  are  downward,  the  trend  of  the  melody  being  steadily
@@ -36177,8 +24458,7 @@ two  measures  is  peculiar  and  was  maintained  less  steadily  than  in  the
 latter  part  of  the  song.
 
 
-re-
-ii.
+reii.
 nd
 rst
 ed
@@ -36212,8 +24492,7 @@ MHBHOMJ  TETON  aOVX  MUSIC  329
 After  a  man  was  admitted  to  this  society  he  (donated  his  best  horse
 to  the  society,  no  matter  what  its  value  might  be.  He  also  hired  a
 man  to  make  hia  paraphernalia,
-usually  giving  a  horae  as  com-
-pensation for  this  service.  One
+usually  giving  a  horae  as  compensation for  this  service.  One
 of  the  articles  with  which  he
 provided  himself  was  a  whistle
 made  of  the  wing  hone  of  an
@@ -36228,16 +24507,14 @@ rattle  was  made  by  boiling  the
 hoof  of  the  deer  and  cutting
 the  hard,  outer  part  into  pieces
 of  the  desired  shape  and  size.
-All  the  feathers  used  in  adorn-
-ment by  members  of  this  society
+All  the  feathers  used  in  adornment by  members  of  this  society
 were  owl  feathera,  tipped  with
 red  down.  The  feathers  of  the
 owl  were  used  abo  on  their
 arrows.
 
 Two  of  the  dancing  songs  of
-this  society  (Nos.  156,  165)  oc-
-cur in  connection  with  the  per-
+this  society  (Nos.  156,  165)  occur in  connection  with  the  per-
 sonal war  narratives  of  Eagle
 Shield  and  One  Feather.
 
@@ -36256,12 +24533,8 @@ which,  in  the  opinion  of  some  „
 
 ,    ,         '  .         ,    .         ,  Fia.  30.  Ulwa'tanlaocirtr  wblsUe.
 
-miormants,  was  local  m  char-
-acter.    The  term  "white  horse  riders"  is  not  an  exact  translation  of
+miormants,  was  local  m  character.    The  term  "white  horse  riders"  is  not  an  exact  translation  of
 the  Sioux  designation,  the  first  word  of  which  means  "white  horse,"
-
-
-330
 
 
 BUREAU  OP  AMEMCAN  ETHNOLOGY
@@ -36302,7 +24575,6 @@ Sung  by  Two  Shields
 
 VoxcB  J =66
 Dritic  J  =  66
-Drum-rhythm  similar  to  No.  6
 
 
 f^
@@ -36320,12 +24592,8 @@ MN8M01R1
 TETON  6I0UX  MUSIC
 
 
-331
-
-
 Artalysis. — ^This  song  contains  an  unusual  number  of  progressions.
-There  are  52  intervals  in  the  song.  It  has  been  stated  that  the  aver-
-age number  of  progressions  in  comparatively  modem  songs  is  31.3.
+There  are  52  intervals  in  the  song.  It  has  been  stated  that  the  average number  of  progressions  in  comparatively  modem  songs  is  31.3.
 Thirty  (58  per  cent)  of  these  intervals  are  thirds,  18  being  major
 and  12  being  minor  thirds.  It  is  interesting  to  note  the  large  niunber
 of  minor  thirds  in  a  song  which  is  distinctly  major  in  tonality;  these
@@ -36340,7 +24608,6 @@ No.  124.  Song  of  the  White  Horse  Riders  (b)       (Catalogue  No.  535)
 
 Sung  by  Two  Shields
 
-VoicB  J  =76
 Dhum  J -63
 Drom-rhythm  similar  to  No.  0
 
@@ -36380,10 +24647,7 @@ i
 s
 
 
-■M — ft-
-
-
-i
+■M — fti
 
 
 ^m
@@ -36396,9 +24660,6 @@ i
 
 
 ■I   Il4    '        '      I— <     :       ir4    ••     •-t-«s' — tf
-
-
-3
 
 
 ±=±
@@ -36431,8 +24692,7 @@ CONBEOUnVE   SONQS  OF   A  TYPICAL  WaR  EXPEDITION
 War  expeditions  were  of  two  kinds — tribal  and  individual.  In  the
 former  the  tribe  acted  as  a  unit,  as  they  did  on  the  buffalo  hunt.
 Thus,  if  the  tribe  as  a  whole  needed  horses,  the  only  way  to  secure
-them  was  by  stealing  them  from  the  enemy.  The  matter  was  dis-
-cussed either  in  the  tribal  coimcil  or  in  the  council  of  the  chiefs.
+them  was  by  stealing  them  from  the  enemy.  The  matter  was  discussed either  in  the  tribal  coimcil  or  in  the  council  of  the  chiefs.
 Scouts  were  selected  by  the  council,  or  each  military  society  could
 choose  some  of  its  members  to  act  in  that  capacity,  the  procedure  of
 selecting  and  sending  the  searching  party  being  similar  to  that
@@ -36494,8 +24754,7 @@ demonstration  was  reserved  to  see  whether  it  would  be  needed  when
 we  returned."
 
 The  following  section  presents  in  consecutive  order  certain  songs
-which  might  be  simg  on  a  war  expedition.  Many  details  of  descrip-
-tion are  omitted,  as  they  are  comprised  in  the  personal  narratives
+which  might  be  simg  on  a  war  expedition.  Many  details  of  description are  omitted,  as  they  are  comprised  in  the  personal  narratives
 which  follow  this  section.
 
 The  next  10  songs  are  common  war  songs,  or  ''wolf  songs,'^
@@ -36504,9 +24763,6 @@ departiure  of  a  war  party.  Many  of  them  mention  the  wolf,  as  the  li
 of  a  warrior  was  supposed  to  be  like  that  of  the  wolf.  Two
 Shields  (pi.  47),  who  recorded  several  of  these  songs,  is  a  leading
 singer  at  every  tribal  gathering.
-
-
-834
 
 
 BUBEAU  OF  AMERICAN  ETHNOLOGY
@@ -36522,9 +24778,6 @@ Sung  by  Two  Shields
 VoiCB  J  =96   (or  J^  =  192)
 
 Dbum  J=  96     ( See  dram-rhythm  below )
-
-
-(Catalogue  No.  528)
 
 
 ^s
@@ -36550,25 +24803,7 @@ I]
 a  8
 
 
-8
-
-
-8
-
-
-8
-
-
-8
-
-
-8
-
-
 2Z
-
-
-8
 
 
 Eo-la
@@ -36598,9 +24833,6 @@ h^^^'rr
 ti         i    -    k6e-ya
 
 
-5
-
-
 wi  -  6o  -  haij
 
 
@@ -36615,7 +24847,6 @@ S-ii    ^    S    ^    4-
 
 DlNQMOitc]  TETON  SIOUX  MUSIC  336
 
-WORDS
 
 kola^pila. .  .* friends
 
@@ -36646,8 +24877,7 @@ exactly  repeated.  It  has  been  frequently  noted  that  the  rhythm
 of  a  song  is  more  accurately  repeated  than  the  melody  progressions.
 The  foregoing  transcription  was  from  the  second  '^recording,"  in
 which  the  song  was  sung  three  times,  while  in  the  first  reoording  it
-was  sung  only  once,  with"  a  repetition  of  the  first  part.  The  tran-
-scription which  follows  this  analysis  is  from  the  first  recording  of  the
+was  sung  only  once,  with"  a  repetition  of  the  first  part.  The  transcription which  follows  this  analysis  is  from  the  first  recording  of  the
 song,  in  which  the  pitch  was  slightly  lower,  and  the  tempo  slower,
 than  in  the  second.  Probably  it  was  because  of  this  low  pitch  that
 the  singer  closed  both  parts  of  the  song  on  the  third  instead  of  on  the
@@ -36656,14 +24886,12 @@ clear  in  the  second,  as  is  shown  in  the  foregoing  transcription.  It  
 not  customary  to  vary  the  rhythm  of  the  drum  as  in  this  instance,
 but  Two  Shields  is  a  particularly  efficient  singer  at  the  drum  when
 large  gatherings  are  held,  and  such  ''leading  drummers"  frequently
-elaborate  their  part,  especially  in  songs  of  this  kind.  It  is  prob-
-ably unnecessary  to  state  that  the  writing  of  the  drum  part  on  a
+elaborate  their  part,  especially  in  songs  of  this  kind.  It  is  probably unnecessary  to  state  that  the  writing  of  the  drum  part  on  a
 staff  does  not  imply  pitch.  Drum  and  voice  coincided  throughout
 the  performance.  Between  the  three  renditions  recorded  at  this
 time  the  drumbeat  was  continuous.  The  pause  in  the  voice  was
 about  equal  to  two  measures,  but  was  not  exact;  in  one  instance  it
-was  interrupted  by  shrill  cries.  The  time  in  the  five-eight  and  three-
-eight  measures  was  absolutely  exact,  and  the  triplet  and  couplet
+was  interrupted  by  shrill  cries.  The  time  in  the  five-eight  and  threeeight  measures  was  absolutely  exact,  and  the  triplet  and  couplet
 groups  are  indicated  according  to  the  rhythm  in  which  the  passage
 was  sung.  The  melody  contains  the  tones  of  the  second  five-toned
 scale.  About  one-fourth  of  the  intervals  are  minor  thirds,  but  the
@@ -36671,12 +24899,6 @@ melody  progresses  principally  by  whole  tones,  the  major  second
 forming  49  per  cent  of  the  entire  number  of  intervals.
 
 1  Cantractioa  of  epe'H    jco^.
-
-
-336
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 [BULL,  tt
@@ -36692,8 +24914,6 @@ VoiCB  J=88  (or  J^  =176)
 
 Dbum  J  =  88
 
-Drum-rhythm  similar  to  No.  6
-
 
 U\:j  u-r\\s(^
 
@@ -36705,9 +24925,6 @@ m
 
 
 -&-
-
-
-3
 
 
 4    ^
@@ -36737,14 +24954,10 @@ the  following  song.
 No.  126.  "Like  a  Wolf  I  Roam"        (Catalogue  No.  666)
 Sung  by  One  Buffalo  (Tata^^ka-wai^zi^la)
 
-Voice  J  =  80
 Drum  not  recorded
 
 
-j§ui]-ka    i-fina-la   mi-ye   -  lo     6a  ma-ka  o  -  ka  wii)-hya  o-ma-wa-
-
-
-ni  t^oi)
+j§ui]-ka    i-fina-la   mi-ye   -  lo     6a  ma-ka  o  -  ka  wii)-hya  o-ma-wani  t^oi)
 
 
 he  -  61-  ya  ta-moi)-ka  fini  ye  -  lo
@@ -36752,14 +24965,6 @@ he  -  61-  ya  ta-moi)-ka  fini  ye  -  lo
 
 DfiNSUOBE]
 
-
-TETON  SIOUX  MUSIC
-
-
-337
-
-
-WORDS
 
 ^Q^ka  i^a^ lone  wolf
 
@@ -36792,8 +24997,6 @@ No.  127.  ''Watch  Tour  Horses"         (Catalogue  No.  532)
 Sung  by  Two  Shields
 
 Voic»J=9a
-
-Drum-rhythm  similar  to  No.  6
 
 
 hv.^a  i  r  F  ii/ ^^  II I  ^  ^  II I  ^'^^  ^  •  II  Tf=n
@@ -36842,8 +25045,6 @@ jm
 m
 
 
-WORDS
-
 Kag^^*  wi6a^& Crow  Indian
 
 kii)  suQk  awaQ'^glaka  po you  must  watch  your  horses
@@ -36861,12 +25062,6 @@ sparrowhawk,  or  bird  people."  The  following  forms  oocur  In  the  words  
 of  AbsK'oka,  Teton  dlaleet)i  Nos.  167, 168;  Foa'dtika  (Sontee  dlatoct).  No.  102.
 
 
-838
-
-
-BUREAU   OP  AMERICAN   ETHNOLOGY
-
-
 [BI7LL.  «1
 
 
@@ -36876,20 +25071,13 @@ tones  of  the  octave  except  the  seventh  and  second  appear  in  the
 song,  which  is  melodic  in  structure  and  has  a  compass  of  an  octave.
 Several  renditions  were  recorded ;  these  show  no  points  of  difference.
 
-See  plot  of  this  melody  on  page  419.
-
 
 No.  128.  ''Friends,  Go  On"
 
 Sung  by  Two  Shields
 
 
-(Catalogue  No.  527)
-
-
 Voice  J=:92
-Drum  J  =  92
-Drum-rhythm  similar  to  No.  6
 
 
 ya    -    pi        ye
@@ -36907,9 +25095,6 @@ WrT^
 u    ye  -  lo
 
 
-WORDS
-
-
 kola^pila friends
 
 iya'yapi  ye you  go  on
@@ -36921,8 +25106,7 @@ zuya^  u  yelo' is  coming  on  the  warpath
 Andlysia, — The  framework  of  this  melody  is  one  which  is  familiar  in
 these  songs.  The  submediant  chord  forms  the  basis  of  the  opening
 measures,  followed  by  a  descent  from  the  dominant  to  the  mediant,  a
-descent  of  a  minor  third:  after  this  the  melodv  returns  to  the  subme-
-diant  chord,  and  the  song  closes  on  the  mediant.  Comparison  with
+descent  of  a  minor  third:  after  this  the  melodv  returns  to  the  submediant  chord,  and  the  song  closes  on  the  mediant.  Comparison  with
 the  preceding  song  will  show  the  same  outline  in  that  melody.  About
 half  of  the  intervals  in  this  song  are  minor  thirds.  The  intonation  is
 good,  and  the  melody  contains  all  the  tones  of  the  octave  except  the
@@ -36933,18 +25117,10 @@ Chippewa  songs,  but  is  much  less  common  among  the  Sioux.
 DEN  4M  ore]
 
 
-TETON   SIOUX   MUSIC
-
-
-339
-
-
 No.  129.  "A  Wolf  I  Considered  Myself"       (Catalogue  No.  547)
 
 Sung  by  Gray  Hawk
-VoiCB  J  =104
 Drum  J=104
-Drum-rhythm  similar  to  No.  8
 
 
 (2)
@@ -37002,8 +25178,6 @@ na-fii]  wa-ka    -   pii)  ye  -  lo
 m
 
 
-WORDS
-
 (^r»t  rendition)
 
 ^UQ^ka a  wolf
@@ -37045,12 +25219,6 @@ the  major  second  is  a  passing  tone  iii  a  descent  of  a  fourth.  This
 song  has  a  compass  of  13  tones  and  is  melodic  in  structure.     The
 
 
-340
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
 [BULL.  U.
 
 
@@ -37061,13 +25229,8 @@ units,  every  tone  in  the  melody  being  comprised  in  these  units.
 No.  180.  "Adyentures  I  Seek"
 
 
-(Catalogue  No.  523)-
-
-
 Sung  by  Two  Shields
-Voice  J  =96
 Dbuh  J=96
-Drum-rhythm  similar  to  No.  19
 
 
 si  -  to-mni-yaq  wi
@@ -37091,8 +25254,6 @@ Ma-ka
 e     i  -
 
 
-WORDS
-
 maka^  aiU/mniyai) in  all  lands
 
 wi^o'hai) adventures
@@ -37107,26 +25268,17 @@ Analysis. — ^This  is  a  particularly  interesting  example  of  a  song
 which  is  harmonic  in  stnicture  and  based  on  the  fourth  five-toned
 scale.  At  the  opening  of  the  song  the  tonic  chord  appears  in  the
 upper  octave  and  there  is  a  descent  through  the  submediant  to  the
-tonic  chord  in  the  lower  octave.  An  ascent  of  12  tones  is  accom-
-plished in  two  progressions,  and  the  melody,  with  the  introduction
-of  the  words,  returns  to  the  tonic  chord  in  the  upper  octave,  descend-
-ing, as  before,  through  G  to  the  tonic  chord  in  the  lower  octave,
+tonic  chord  in  the  lower  octave.  An  ascent  of  12  tones  is  accomplished in  two  progressions,  and  the  melody,  with  the  introduction
+of  the  words,  returns  to  the  tonic  chord  in  the  upper  octave,  descending, as  before,  through  G  to  the  tonic  chord  in  the  lower  octave,
 ending  on  the  tonic.    Though  the  song  is  so  regular  in  melodic  form
 
 
 DBN8M0RE]
 
 
-TETON   SIOUX  MUSIC
-
-
-341
-
-
 and  so  distiactly  major  in  tonality,  40  per  cent  of  the  intervals  are
 minor  thirds.  The  song  contains  60  progressions,  37  of  which  are
-downward  and  23  upward.  It  will  be  recalled  that  the  average  num-
-ber of  progressions  in  comparatively  modem  songs  is  31.3.
+downward  and  23  upward.  It  will  be  recalled  that  the  average  number of  progressions  in  comparatively  modem  songs  is  31.3.
 
 No.  181.  ''His  Horses  He  Granted  Me''       (Catalogue  No.  543)
 Sung  by  Two  Shields
@@ -37148,7 +25300,6 @@ Wa  -  kai)  -  taq  -  ka   fie-  wa  -  ki  -  ya     a  -  wa  -  ku     we
 
 ta-duij-ke    ko    ma-ku         we  -  lo     he
 
-WORDS
 
 Wakaq^taQka Wakao'tagka
 
@@ -37179,21 +25330,11 @@ are  minor  thirds.
 4840«— Bull.  61—18 24
 
 
-342
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
-
-
 No.  182.  ''Those  HUls  I  Trod  Upon"    (Catalogue  No.  670)
 Sung  by  Many  Wounds
 
 VOICB  J— 92
 Dbum  J  =  92
-Drum-rhythm  similar  to  No.  6
 
 
 (1)
@@ -37227,9 +25368,6 @@ ye       e     69k      ya
 hi  -  bu  we-lo
 
 
-WORDS
-
-
 wazi'yata in  the  north
 
 paha^  yai)ke^6e  lo (to)  those  hills
@@ -37258,19 +25396,11 @@ in  structure  and  has  a  compass  of  an  octave.
 DENSAfOBK]
 
 
-TETON   SIOUX   MUSIC
-
-
-343
-
-
 Duplication  of  No.  132
 
 Sung  by  One  Feather
 
-Voice  J  =96
 Dkum  J  =96
-Drum-rhythm  similar  to  No.  5
 
 (I)  (8)
 
@@ -37304,8 +25434,7 @@ itir^f-H
 As  already  stated;  this  is  a  duplication,  the  song  being  sung  on
 different  occasions  by  three  singers.  This  transcription  is  given  for
 purposes  of  comparison.  The  words  of  this  are  the  same  as  No.  132
-except  that  the  word  iya'han  (I  climbed)  is  omitted.  Other  duplica-
-tions transcribed  are  Nos.  125  and  133.
+except  that  the  word  iya'han  (I  climbed)  is  omitted.  Other  duplications transcribed  are  Nos.  125  and  133.
 
 This  and  the  following  duplication  of  No.  132  begin  and  end  on  the
 same  tone.  Other  songs  of  this  series  showing  the  same  peculiarity
@@ -37313,13 +25442,7 @@ are  Nos.  99,  127,  203,  205,  212,  220,  221,  228,  234,  238.  (See  Bull
 53,  page  222.)
 
 
-344
-
-
 BUBEAU   OF   AMEBICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Duplication  of  No.  132
@@ -37329,7 +25452,6 @@ Sung  by  Two  Shields
 
 VoicB  J_z96
 Brum  J  =  96
-Drum-rhythm  similar  to  No.  5
 
 
 £=^
@@ -37370,9 +25492,6 @@ a  -  ke     mi  -  ye         6a      ya     hi  -  bu
 we-lo
 
 
-WORDS
-
-
 wazi''yata iii  the  north  '  ,
 
 wakpa' (by)  Htreams
@@ -37401,24 +25520,16 @@ DENSUOBEl
 TETON   SIOUX   MUBIC
 
 
-345
-
-
 HS
 
 
 No.  188.  Wolf  Song
 
 Sung  by  Two  Shields
-VoiCB  J  =96
 Dbum  j=i96
-Drum-rhythm  similar  to  No.  19
 
 
 (rataloguo  No.  524)
-
-
-1
 
 
 tUjR-  linrni
@@ -37447,8 +25558,6 @@ lEL
 i
 
 
-WORDS
-
 e^6a well
 
 6uq^ka a  wolf
@@ -37469,28 +25578,19 @@ expressed  in  connection  with  the  warpath — that  the  life  of  a  warrio
 was  hke  that  of  a  wolf.  On  examining  the  phonograph  records
 it  was  found. that  the  same  melody  had  been  recorded  by  Siya'ka,
 different  words  being  used.  It  is  probable  that  the  words  used  by
-Siya'ka  are  also  very  old.  Both  transcriptions  are  given  for  the  pur-
-pose of  comparison.  It  will  be  readily  seen  that  the  differences  are
-about  the  same  as  in  other  duphcations;  the  actual  comparison,  how-
-ever, can  be  made  only  by  means  of  structural  analyses.  On  com-
+Siya'ka  are  also  very  old.  Both  transcriptions  are  given  for  the  purpose of  comparison.  It  will  be  readily  seen  that  the  differences  are
+about  the  same  as  in  other  duphcations;  the  actual  comparison,  however, can  be  made  only  by  means  of  structural  analyses.  On  com-
 paring these,  it  is  found  that  both  renditions  contain  only  the  tones
 .of  the  second  five-toned  scale,  have  a  range  of  12  tones,  and  are
 harmonic  in  structure.    The  rhythmic  unit  is  the  same  in  each,  also
 
 
-346
-
-
 BUBEAU   OF  AMEBICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 the  rhythm  of  the  drum.  The  tempo  is  slightly  different  and.  the
 key  is  higher,  which  suggests  a  difference  in  the  adjustment  of  the
-phonograph.  It  is  found  that  the  rendition  by  Two  Shields  con-
-tains 53  progressions  and  that  by  Siya^ka  59;  the  former  contains
+phonograph.  It  is  found  that  the  rendition  by  Two  Shields  contains 53  progressions  and  that  by  Siya^ka  59;  the  former  contains
 18  and  the  latter  20  minor  thirds;  the  former  25  and  the  latter  29
 major  seconds;  the  former  5  and  the  latter  6  asoending  major  thirds.
 The  differences  are  therefore  shown  to  be  slight  and  unimportant.
@@ -37503,8 +25603,6 @@ Voice  J  r^  108
 Dhum  J  ^108
 
 Drum-rhytUm  similar  to  No.  19
-
-1
 
 
 ^
@@ -37575,14 +25673,7 @@ T>
 DSNqMORKl
 
 
-TETON  SIOUX  MUSIC     ,
-
-
-347
-
-
-This  is  not  entirely  similar  to  the  preceding  songs,  as  it  is  a  per-
-sonal rather  than  a  society  song,  but  is  placed  here  as  it  may  be
+This  is  not  entirely  similar  to  the  preceding  songs,  as  it  is  a  personal rather  than  a  society  song,  but  is  placed  here  as  it  may  be
 supposed  to  have  been  sung  prior  to  the  departure  of  a  war  party.
 In  some  respects  the  words  of  this  song  resemble  those  of  Red  Fox's
 war  song  (No.  155),  yet  the  idea  is  exactly  the  opposite,  for  in  this
@@ -37592,9 +25683,6 @@ song  a  reluctant  boy  is  being  urged  to  bravery  by  his  older  brothers
 No.  184.  «'It  Is  Difficult"
 
 Sung  by  Used-as-a-Shield
-
-
-(Catalogue  No.  611)
 
 
 YOICB  J;=:80
@@ -37641,9 +25729,6 @@ yo
 ye      he-ya  -  pi     tka         ta-xnoi)  -ka     &ii    ye  -  lo
 
 
-WORDS
-
-
 zuya' on  the  warpath
 
 waQ''  kta I  waa  coming
@@ -37668,8 +25753,7 @@ tka hence
 
 tamoQ^ka  6ni  yelo^ I  realize  difficulties
 
-Analysis. — In  structure  as  well  as  in  idea  this  song  closely  resem-
-bles No.  155;  indeed  it  was  said  by  some  Indians  to  be  the  same
+Analysis. — In  structure  as  well  as  in  idea  this  song  closely  resembles No.  155;  indeed  it  was  said  by  some  Indians  to  be  the  same
 
 
 348  BUREAU   OF  AMERICAN   ETHNOLOGY  [BrLL.  ei
@@ -37682,8 +25766,7 @@ same,  but  No.  134  contains  all  the  tones  of  the  octave  except  the
 seventh  and  second,  while  song  No.  155  contains  only  the  major  triad.
 
 The  warriors  carried  extra  moccasins,  and  each  man  took  his  own
-cup  or  cooking  utensil,  these  features  of  the  preparation  being  indi-
-cated in  the  personal  war  narratives  which  follow.  The  war  party
+cup  or  cooking  utensil,  these  features  of  the  preparation  being  indicated in  the  personal  war  narratives  which  follow.  The  war  party
 took  also  a  supply  of  medicines  for  the  treatment  of  the  wounded.
 
 The  leader  usually  carried  the  skin  of  a  wolf  with  the  head  pointing
@@ -37693,8 +25776,7 @@ and  when  they  resumed  their  jomney  the  head  still  pointed  the  way.
 No  drum  or  rattle  was  used,  the  men  walking  silently.  If  there
 chanced  to  be  a  man  in  the  party  who  had  dieamed  of  a  wolf,  he  was
 asked  to  perform  certain  ceremonies.  For  instance,  as  the  warriors
-approached  the  camp  of  the  enemy  they  desired  bad  weather,  espe-
-cially a  drizzling  rain,  to  cover  their  attack.  Then  the  medicine-
+approached  the  camp  of  the  enemy  they  desired  bad  weather,  especially a  drizzling  rain,  to  cover  their  attack.  Then  the  medicine-
 man would  sprinkle  water  on  the  wolf  hide,  sing  his  personal  song,
 and  oflFer  a  prayer,  saying  that  the  warriors  wished  for  a  storm  in
 which  to  attack  theii*  enemies.  It  is  said  •  that  a  storm  usually
@@ -37708,8 +25790,7 @@ From  an  old  warrior  the  writer  secured  a  decorated  shield  which,
 he  said,  he  had  carried  in  wars  against  the  Crows  (pis.  48,  49).  The
 shield  is  made  of  rawhide  stretched  over  a  hoop  and  laced  with  a
 strip  of  hide.  The  greatest  diameter  is  16  inches.  The  decoration
-on  the  shield  was  said  to  refer  to  a  dream  of  a  bear.  The  eight  seg-
-ments were  painted  alternately  red  and  yellow,  the  painting  on  the
+on  the  shield  was  said  to  refer  to  a  dream  of  a  bear.  The  eight  segments were  painted  alternately  red  and  yellow,  the  painting  on  the
 yellow  segments,  in  black,  representing  bears'  paws,  while  the  space
 below  the  paws  was  white.  The  warrior  said  that  the  decoration
 commemorated  a  fight  with  the  Crows,  and  that  certain  features  of
@@ -37719,8 +25800,7 @@ the  shield  and  the  enemies  were  all  around  him,  but  the  claws  of
 the  bear  were  on  every  side  to  protect  him/'  hence  he  was  not  hurt
 in  the  battle.
 
-A  typical  Sioux  war  bonnet  is  shown  in  plate  50.  These  head-
-dresses were  made  of  the  tail  feathers  of  the  eagle,  and  many  of  them
+A  typical  Sioux  war  bonnet  is  shown  in  plate  50.  These  headdresses were  made  of  the  tail  feathers  of  the  eagle,  and  many  of  them
 were  tipped  with  horsehair  or  white  down.
 
 
@@ -37745,9 +25825,6 @@ DBNHMOK1S]
 TETON   STOUX   MUSIC
 
 
-349
-
-
 Men  on  tho  warpath  sought  the  highest  points  from  which  to  spy
 the  enemy  and  estimate  distances;  they  often  piled  up  stones  to  shield
 €hem  from  the  sight  of  the  enemy.  Many  of  these  heaps  of  stones
@@ -37758,20 +25835,14 @@ place  and  time  of  meeting  were  understood  before  an  attack  was
 made  on  the  enemy,  but  the  men  were  obliged  to  find  their  way  to  it
 as  best  they  could.
 
-Sui)'kar-wai)bU'^  (Dog  Eagle)  said  that  when  he  went  on  the  war-
-path this  song  was  sung  at  night  in  the  camp  to  ''strengthen  their
+Sui)'kar-wai)bU'^  (Dog  Eagle)  said  that  when  he  went  on  the  warpath this  song  was  sung  at  night  in  the  camp  to  ''strengthen  their
 hearts."     They  sang  very  low,  and  sometimes  imitated  an  owl.
 
 
 No.  185.  Song  of  the  Camp
 
 Sung  by  Dog  Eaolr
-Voice  J  =80
-Drum  J  =  80
 Dram-rhythm  similar  to  Ko.  6
-
-
-(Catalogue  No.  657)
 
 
 £%^^^
@@ -37833,12 +25904,10 @@ melody.
 When  the  warriors  were  acting  as  scouts  or  wished  for  any  reason
 to  be  unobserved,  each  wore  a  white  cloth  arranged  like  a  blanket
 and  frequently  having  eagle  feathers  fastened  at  the  shoulders.
-Sometimes  a  separate  cloth  covered  the  head,  as  shown  in  the  draw-
-ing by  Jaw  (pi.  59),  but  the  hands  were  always  covered.  It  was  said
+Sometimes  a  separate  cloth  covered  the  head,  as  shown  in  the  drawing by  Jaw  (pi.  59),  but  the  hands  were  always  covered.  It  was  said
 that  on  seeing  an  enemy  in  the  distance  the  warrior  strung  his  bow,
 making  ready  to  shoot.  As  he  came  nearer  the  enemy  he  took  an
-arrow  from  his  quiver,  and  putting  the  quiver  close  under  his  arm-
-pit, held  the  bow  below  it  with  the  arrow  in  position,  so  that  in  a
+arrow  from  his  quiver,  and  putting  the  quiver  close  under  his  armpit, held  the  bow  below  it  with  the  arrow  in  position,  so  that  in  a
 moment  he  could  throw  open  his  blanket  and  send  the  arrow  on  its
 way.  Plate  51  shows  two  Sioux  in  this  costume,  enacting  the  part
 of  scouts.  This  was  a  feature  of  a  celebration  of  the  Fourth  of  July,
@@ -37876,9 +25945,6 @@ DKNRMORK]
 
 
 TETON   STOUX   MUSIC
-
-
-351
 
 
 No.  186.  "Clear  the  Way,  I  Gome"     (Catalogue  No.  634)
@@ -37921,7 +25987,6 @@ O'jlf  J  -Ti
 
 a        yo       0      wa  -  kaij-yai]     hi  -  bu   we  -  lo  e  yo
 
-WORDS
 
 haQ^'ta  yo clear  the  way
 
@@ -37946,24 +26011,16 @@ wakag'yai) in  a  sacred  manner
 hibu'  welo^ I  come
 
 Analysis. — This  melody  is  based  on  the  minor  triad  A-C-E,  though
-D  and  G  frequently  appear  as  accented  tones.  The  song  has  a  com-
-pass of  12  tones,  beginning  on  the  twelfth  and  descending  steadily  to
+D  and  G  frequently  appear  as  accented  tones.  The  song  has  a  compass of  12  tones,  beginning  on  the  twelfth  and  descending  steadily  to
 the  tonic  along  the  tones  of  the  second  five-toned  scale.  It  is  minor
 in  tonaUty,  and  about  one-third  of  the  intervals  are  minor  thirds.
 The  intonation  was  particularly  good  in  this  and  the  following  song
-by  the  same  singer.  Three  renditions  were  recorded,  which  are  uni-
-form throughout.
+by  the  same  singer.  Three  renditions  were  recorded,  which  are  uniform throughout.
 
 See  plot  of  this  melody  on  p.  419.
 
 
-352
-
-
 BUREAU   OF   AMERICAN   ETHNOLOOY
-
-
-[BULL.  01
 
 
 ^o.  187.  ''At  the  Wind  (^enter  I  Stand**       (Catalogiie  No.  635)
@@ -38008,8 +26065,7 @@ nawa^figye I  stand
 
 waQma^yaQka  yo behold  me
 
-tate^yo  ^oka^ya at  the  wind  center  (where  the  winds  blow  to-
-ward me  from  every  side  (see  p.  1 20,  footnote)
+tate^yo  ^oka^ya at  the  wind  center  (where  the  winds  blow  toward me  from  every  side  (see  p.  1 20,  footnote)
 
 nawa'f  iQye I  stand
 
@@ -38025,12 +26081,10 @@ tate'yo at  the  wind  center
 
 nawa'f  ii)ye I  stand
 
-Analysis. — Two  renditions  of  this  song  were  recorded,  both  con-
-taining the  change  of  tempo  indicated  in  the  transcription.  This
+Analysis. — Two  renditions  of  this  song  were  recorded,  both  containing the  change  of  tempo  indicated  in  the  transcription.  This
 change  is  sudden  and  definite,  but  the  second  tempo  is  not  sustained
 to  the  end  of  the  song,  the  first  rendition  closing  in  almost  the  original
-tempo.  (See  song  No.  5.)  Throughout  the  renditions  there  are  varia-
-tions in  time  too  sUght  to  be  indicated,  but  the  rfiythmlc  unit  is  cleariy
+tempo.  (See  song  No.  5.)  Throughout  the  renditions  there  are  variations in  time  too  sUght  to  be  indicated,  but  the  rfiythmlc  unit  is  cleariy
 given,  showing  that  the  song  had  a  rhythmic  clearness  in  the  mind  of
 the  singer.    The  intonation  was  good.    The  song  is  analyzed  in  the
 
@@ -38038,22 +26092,14 @@ the  singer.    The  intonation  was  good.    The  song  is  analyzed  in  the
 DENQUOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-353
-
-
 key  of  C  major;  the  minor  triad  A-C-E,  however,  is  prominent  in  the
 melody,  and  about  52  per  cent  of  the  intervals  are  minor  thirds.
 
 A  somewhat  similar  description  of  war  painting  was  given  by
 iSiya'ka,  who  said  that  he  and  four  others  were  in  a  war  party  and  that
-their  horses  were  painted  by  a  man  named  Holy  Horse  (Ta^ug'ka-
-wakar)').  He  painted  the  horses  with  white  clay,  drawing  zigzag
+their  horses  were  painted  by  a  man  named  Holy  Horse  (Ta^ug'kawakar)').  He  painted  the  horses  with  white  clay,  drawing  zigzag
 lines  from  the  mouth  down  the  front  legs,  branching  at  the  hoofs,
-and  the  same  on  the  hind  legs;  there  was  also  a  band  across  the  fore-
-head and  spots  on  the  chest.     All  the  horses  were  painted  aUke.
+and  the  same  on  the  hind  legs;  there  was  also  a  band  across  the  forehead and  spots  on  the  chest.     All  the  horses  were  painted  aUke.
 
 The  four  men  had  their  faces  painted  brown  with  a  white  line
 across  the  forehead  extending  down  the  cheeks  and  forked  at  the  end.
@@ -38101,16 +26147,8 @@ we
 i
 
 
-354
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
 [BULL.  «1
 
-
-WORDS
 
 I
 
@@ -38150,9 +26188,6 @@ DKim  not  recorded
 9«
 
 
-(Catalogue  No.  466)
-
-
 Eji — ^ ■ »        "     ■ 1
 
 
@@ -38171,10 +26206,7 @@ ni - hb)  -  fi  -  ya      jo        ht
 <v  -ra
 
 
-le      m-a-
-
-
-yas
+le      m-ayas
 
 
 t.  s-ift .  nmi-yiiij  ijj4«;.  -  *S' >  y*    y^^yo
@@ -38185,14 +26217,6 @@ t.  s-ift .  nmi-yiiij  ijj4«;.  -  *S' >  y*    y^^yo
 
 DBNSMOBE]
 
-
-TETON   SIOUX  MUSIC
-
-
-355
-
-
-WORDS
 
 wana^ka now  at  this  time
 
@@ -38229,10 +26253,6 @@ No.  140.  ''Behold  My  Horse"
 Sung  by  ^iya'ka
 
 
-(Catalogue  No.  468)
-
-
-VoiCB  J  =  69
 Drum  not  recorded
 
 
@@ -38289,7 +26309,6 @@ i9-
 
 we     yu       le     -    na   waq  -   la     -    ka   nui}-we  yo         he      yo
 
-WORDS
 
 le^na these  (the  painted  horse  and  the  herbs)
 
@@ -38303,12 +26322,6 @@ waQla^a  nuT)we' may  you  behold
 
 
 I
-
-
-356
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
 
 
 Tbull.  ei
@@ -38331,9 +26344,6 @@ No.  141.  "  See  My  Desire  "
 Sung  by  Used-as-a-Shibld
 
 
-(Catalogue  No.  616)
-
-
 VOICB   ^'r=48
 
 Drum  not  recorded
@@ -38347,8 +26357,6 @@ Ta  -  ku  wo  -  wl-taq  o  -  ya  -  le  pi  - 1  -  fta    ko    -    la  -  
 
 yai]  -  ke  wa-6ai)  -  mi   wa-na    ti-ya -ta  tea  6a  -  2e         ma-ya-ta   pe-lo
 
-
-WORDS
 
 ta^ku  wowi^tai) some  honor
 
@@ -38374,8 +26382,7 @@ third.  Half  of  the  intervals  are  minor  thirds,  with  the  result  that
 the  melody  has  a  wailing  effect.  Four  renditions  were  recorded,  the
 first  and  second  being  without  a  break  in  the  time,  as  indicated  in
 the  transcription.  The  song  contains  all  the  tones  of  the  octave
-except  the  second,  and  in  structure  is  melodic  with  harmonic  frame-
-work.
+except  the  second,  and  in  structure  is  melodic  with  harmonic  framework.
 
 The  following  song  was  simg  during  or  after  a  fight:
 
@@ -38383,20 +26390,11 @@ The  following  song  was  simg  during  or  after  a  fight:
 DSMSUOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-357
-
-
 No.  142.  <<The  Earth  Only  Endures"    (Catalogue  No.  617)
 Sung  by  Used-as-a-Shield
 
-VOICB  J  =63
 
 Dbum  J  =  63
-
-Drum-rhythm  similar  to  No.  6
 
 
 1— _^
@@ -38438,9 +26436,6 @@ pe  •  lo
 e  -  hai)-  ke  -  6oi)  wi  -  6a   -  ya  -  ka      pe  -  lo
 
 
-WORDS
-
-
 wi<5a'h(5ala  kii) the  old  men
 
 heya^  pelo^ say
@@ -38460,20 +26455,13 @@ wi6a^  yaka  pelo' you  are  right
 Analysis. — ^This  song  contains  the  tones  of  the  minor  triad  and
 fourth,  and  the  effect  of  minor  tonality  is  very  strong,  yet  the  major
 and  minor  thirds  are  almost  equal  in  number,  there  being  16  major
-and  15  minor  thirds  in  the  melody.  The  song  is  harmonic  in  struc-
-ture, the  accented  tones  following  the  intervals  of  the  tonic  chord.
+and  15  minor  thirds  in  the  melody.  The  song  is  harmonic  in  structure, the  accented  tones  following  the  intervals  of  the  tonic  chord.
 
 Not  all  who  went  on  the  warpath  were  impelled  by  love  of  war.
 It  is  said  that  a  young  man  once  went  because  some  one  told  him
 that  the  girl  he  expected  to  marry  was  untrue  to  him.    The  report
 
 4840*»— Bull.  61—18 25
-
-
-358
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 [BULL.  «1
@@ -38490,14 +26478,10 @@ m
 No.  148.  "TeU  Her"
 
 Sung  by  Used-as-a-Shield
-Voice  J  =76
 
 Dbux  J  =  76
 
 Dram-rhythm  similar  to  No.  6
-
-
-(Catalogue  No.  621)
 
 
 ^
@@ -38545,9 +26529,6 @@ U  !»j  ^  "^  J=ff
 a
 
 
-WORDS
-
-
 iQdii)^  yaki^  ki'nahai) when  you  reach  home
 
 he  oki^diyaka  yo tell  her
@@ -38560,8 +26541,7 @@ Analysis. — This  song  contains  two  sections,  the  latter  parts  of
 which  are  aUke.  Words  are  found  in  the  second  but  not  in  the
 first.  There  are  in  the  song  65  progressions,  almost  62  per  cent
 of  which  are  minor  thirds  and  major  seconds.  Two  renditions
-were  recorded,  which  are  alike  in  every  respect.  The  song  has  a  com-
-pass of  12  tones,  and  contains  all  the  tones  of  the  octave  except  the
+were  recorded,  which  are  alike  in  every  respect.  The  song  has  a  compass of  12  tones,  and  contains  all  the  tones  of  the  octave  except  the
 second.  A  phrase  consisting  of  two  eighth  notes  followed  by  a
 quarter  note  appears  frequently,  but  is  not  marked  as  a  rhythmic
 imit  because  it  characterizes  the  song  less  than  the  dotted  eighth
@@ -38583,8 +26563,7 @@ could  place  a  certain  decoration  on  his  tobacco  bag  or  on  his  blanke
 (Fig.  31.)  By  this  sign  everyone  knew  of  his  act.  If  two  relatives
 were  together  on  a  war  party,  and  one  was  woimded  and  deserted
 by  his  kinsman,  a  stranger  who  saved  him  was  accorded  special
-honor.  Thenceforth  he  was  called  Wawo'Jciyapi,  'Helper  of  the  help-
-less.' To  desert  a  wounded  friend  on  the  warpath  was  considered
+honor.  Thenceforth  he  was  called  Wawo'Jciyapi,  'Helper  of  the  helpless.' To  desert  a  wounded  friend  on  the  warpath  was  considered
 the  greatest  perfidy.     (See  song  No.  167.)
 
 The  custom  of  wearing  feathers  and  painting  the  face,  as  well
@@ -38649,8 +26628,7 @@ the  making  of  the  ornament.  The  strands  of  hair  were  secured  at
 intervals  with  spruce  or  other  gum,  and  the  ornament  was  fastened
 t6  the  wearer^s  head,  the  hair  hanging  down  his  back.
 
-A  victorious  war  party  approached  the  village  on  its  return,  bear-
-ing the  scalps  aloft  on  poles.  Dog  Eagle  said  that  he  sang  this  song
+A  victorious  war  party  approached  the  village  on  its  return,  bearing the  scalps  aloft  on  poles.  Dog  Eagle  said  that  he  sang  this  song
 when  he  came  in  sight  of  the  camp  on  his  retimi  from  war.  It  was
 used  also  in  the  dances  which  followed.
 
@@ -38708,8 +26686,6 @@ na-  tai)  a  -  gli  ya-  ka   kte  -  lo     ko  -  la     e  -  ha  -  pi
 
 wii)-yai)  ^01)  i  -  ha-iia  -  iin  ye
 
-WORDS
-
 
 kola'pila friends
 
@@ -38727,8 +26703,7 @@ iha^nafii)  ye. stands  there  smiling
 
 Aruilysis. — ^This  song  is  rhythmic  and  lively,  yet  very  simple.
 The  only  tones  are  those  of  Uie  major  triad  and  second,  the  tonic
-triad  forming  the  framework  of  the  melody.  The  song  has  a  com-
-pass of  an  octave,  and  the  intonation  was  wavering  in  all  the  rendi-
+triad  forming  the  framework  of  the  melody.  The  song  has  a  compass of  an  octave,  and  the  intonation  was  wavering  in  all  the  rendi-
 tions.   Nearly  two-thirds  of  the  progressions  are  downward.
 
 As  the  warriors  approached  the  village  the  women  came  to  meet
@@ -38737,8 +26712,7 @@ a  man  usually  gave  to  the  women  of  his  inunediate  family  the  scalps
 which  he  had  taken.  (Cf .  Bulletin  53,  pp.  1 18-126.)  The  return  of  the
 war  party  was  followed  by  preparations  for  the  victory  dances.
 Songs  in  honor  of  victorious  warriors  were  sung  in  these  dances,  and
-the  scalps  on  the  poles  were  carried  by  the  women.  When  the  cele-
-bration was  finished  it  was  the  custom  to  take  the  scalps  to  the  top
+the  scalps  on  the  poles  were  carried  by  the  women.  When  the  celebration was  finished  it  was  the  custom  to  take  the  scalps  to  the  top
 of  the  highest  butte,  where  the  poles  were  set  upright  in  the  groimd
 and  food  was  placed  beside  them.  Neither  the  food  nor  the  scalps
 was  ever  molested.
@@ -38746,12 +26720,6 @@ was  ever  molested.
 
 ^  This  word,  tranBlated  "attacking,"  refers  to  the  maimer  in  which  a  retmning  war  party  approached
 the  village,  coming  with  a  rush  as  though  attacking  an  enemy.  *
-
-
-362
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
 
 
 tBUtL.tl
@@ -38767,8 +26735,7 @@ war,  the  wisp  of  horsehair  representing  a  scalp.     (See  also  fig.  29
 If  a  young  man  had  been  successful  on  his  first  war  party,  it  was
 expected  that  at  the  first  large  gathering  after  his  return  he  would
 give  ^ay  many  horses  and  receive  his  manhood  name,  suggestive
-of  his  deed  of  valor.  After  that  he  discarded  his  childhood  or  boy-
-hood names.  If  he  went  on  the  warpath  again  and  excelled  his  first
+of  his  deed  of  valor.  After  that  he  discarded  his  childhood  or  boyhood names.  If  he  went  on  the  warpath  again  and  excelled  his  first
 achievement,  on  his  return  he  could  be  given  still  another  name  to
 correspond  with  his  second  victory.
 
@@ -38782,9 +26749,6 @@ Sung  by  Two  Shields
 
 VoiOB  J  =  84
 Drum  not  recorded
-
-
-(Catalogue  No.  529)
 
 
 J  =  108
@@ -38830,9 +26794,6 @@ I
 
 
 tai)-ke  hi  -  na-pii)  na  waq-f  i  o-yus-pa  yo
-
-
-WORDS
 
 
 taijke' older  siflter
@@ -38903,22 +26864,15 @@ S64
 BUREAU  OF  AMERICAN  ETHNOLOOY
 
 
-[bull.  61
-
-
 »9»
 
 
-Voice  J  =  56
 Drum  not  recorded
 
 
 No.  146.  '<He  Is  Returning'
 
 Sung  by  Eabth-Medicine  Woman
-
-
-(Catalogue  No.  689)
 
 
 i
@@ -38963,9 +26917,6 @@ he
 a    he
 
 
-WORDS
-
-
 oX^yokipi pleasant  times
 
 wa(5ii)' Iwish
@@ -39008,12 +26959,8 @@ OIKftkOftK]
 TETON  SIOTTX  MUfilC
 
 
-365
-
-
 of  the  men  thrust  skewers  through  the  flesh  on  the  outside  of  their
-legs.  It  was  the  custom  for  them  to  go  aroimd  the  village  circle  dis-
-playing these  signs  of  mourning,  and  as  they  went  they  sang  a  song
+legs.  It  was  the  custom  for  them  to  go  aroimd  the  village  circle  displaying these  signs  of  mourning,  and  as  they  went  they  sang  a  song
 in  which  they  inserted  the  name  of  their  dead  relative^  or  they  might
 compose  an  entirely  new  song  in  his  honor.
 
@@ -39041,7 +26988,6 @@ No.  147.  Song  Concemliig  White  Butterfly       (Catalogue  No.  686)
 
 Sung  by  Mrs.  Lawrknctb
 
-Voice  J  =  56
 
 Drum  not  recorded
 
@@ -39070,10 +27016,7 @@ m
 nr
 
 
-To-
-
-
-ka  -  la  to  -  ka-  he     koq        wa  -  na    ku    dni        ye       e   -   ha  -  pi
+Toka  -  la  to  -  ka-  he     koq        wa  -  na    ku    dni        ye       e   -   ha  -  pi
 
 
 ^i^^
@@ -39087,7 +27030,6 @@ pi     i  -  6in-ke-ya4
 
 be  -  6a      o  -  le-ya    -    6a     he-6ui)  we
 
-WORDS
 
 Toka'la  toka^he  ^oi) ,  that  Fox  leader
 
@@ -39108,15 +27050,6 @@ he^6a  ole^ya6a  he^6uD  we he  went  looking  for  this  and  it  has  come  to
 pass
 
 
-366
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 Analysis. — ^This  is  a  strange  melody.  The  tonality  of  the  song  as
 a  whole  is  minor,  the  tone  most  satisfactory  to  the  ear  as  a  keynote,
 being  C  sharp,  yet  the  major  third  occurs  six  times  and  the  minor
@@ -39125,8 +27058,7 @@ minor  second,  which  appears  18  times,  comprising  46  per  cent  of  the
 intervals.  It  will  be  recalled  that  this  interval  is  entirely  absent
 from  a  large  majority  of  these  songs.  All  the  tones  of  the  octave
 except  the  fourth  are  found  in  the  melody,  the  seventh  being  sharped
-as  an  accidental.  Two  renditions  were  recorded.  In  both  the  acci-
-dental was  clearly  given,  but  the  intonation  as  a  whole  was  soniewhat
+as  an  accidental.  Two  renditions  were  recorded.  In  both  the  accidental was  clearly  given,  but  the  intonation  as  a  whole  was  soniewhat
 wavering,  owing  doubtless  in  part  to  the  large  proportion  of  semitone
 progressions.
 
@@ -39142,9 +27074,6 @@ Drum  not  recorded
 No.  148.  "He  Lies  Over  There"
 
 Sung  by  Mrs.  Lawrbncb
-
-
-(Catalogue  No.  687)
 
 
 ^^^ii^J.jJjiiUiir^^j^ijaji
@@ -39192,9 +27121,6 @@ ha  -  pi     ye-lo
 e    -    6i  -  ya  -  na  yuq-ka     ke  -  ya  -  pi      yo
 
 
-WORDS
-
-
 Huq'kpapaya  hok^i^ boys  of  the  Hunkpapa  band
 
 ta^u  kuwa'pi  caQ^na whenever  you  pursue  anything
@@ -39229,15 +27155,11 @@ hand  beside  the  mouth,  they  are  able  to  make  the  sound  carry  a  long
 distance.  In  this  picture  she  is  shown  wearing  the  decorated  dress
 (pi.  65),  the  use  of  which  was  permitted  only  to  those  whose  relatives
 had  been  killed  in  battle.  This  dress  is  a  type  of  costume  worn  in
-the  old  days,  but  the  history  of  the  exploits  pictured  on  the  gar-
-ment is  lost.  It  was  in  a  collection  of  Sioux  articles  owned  by  Mrs.
+the  old  days,  but  the  history  of  the  exploits  pictured  on  the  garment is  lost.  It  was  in  a  collection  of  Sioux  articles  owned  by  Mrs.
 James  McLaughlin  and  was  photographed  with  her  permission.
 
 
 i
-
-
-368
 
 
 BtJBEAU  OF  AMERICAN  ETHNOLOGY
@@ -39248,9 +27170,6 @@ Sung  by  Silent  Woman
 
 
 [boll,  ti
-
-
-(Catalogue  No.  685)
 
 
 VoicB  J=116
@@ -39325,7 +27244,6 @@ i
 
 ke       lo  -  wai)  -  pi      kii)     oi)    -    spe      i  •  f i  •  61  •  ya  -  yo
 
-WORDS
 
 Mato^-05fi5''6a Bobtail  Bear  (man's  name)
 
@@ -39342,9 +27260,6 @@ DBM3M0BS]
 
 
 XBTON  SIOUX  MUSIC
-
-
-369
 
 
 owa^e  ktelc/.
@@ -39386,8 +27301,7 @@ abounds  in  semitone  progressions,  which  give  a  peculiar,  wailing
 effect.  About  13  per  cent  of  the  progressions  are  semitones,  an
 interval  which  is  entirely  absent  from  a  lai^e  majority  of  these  songs.
 The  minor  third  constitutes  about  24  per  cent  of  the  intervals.  An
-ascent  of  13  tones  is  accomplished  in  three  measures  with  the  intro-
-duction of  the  words.  The  intonation  was  good  throughout  the
+ascent  of  13  tones  is  accomplished  in  three  measures  with  the  introduction of  the  words.  The  intonation  was  good  throughout  the
 song.
 
 The  following  song  was  sung  in  honor  of  one  of  the  prominent
@@ -39396,7 +27310,6 @@ warriors  of  the  tribe:
 No.  150.  Song  In  Honor  of  OnlOiaxi     (Catalogue  No.  460)
 
 Sung  by  6iya'ka
-VoicB  J  =  76
 Drum  not  recorded
 
 
@@ -39451,9 +27364,6 @@ e
 ^
 
 
-WORDS
-
-
 Oni^Q Oni^ag  (man's  name,  meaning  ''excited  ")
 
 iki^dze  ^05 that  warrior
@@ -39463,13 +27373,7 @@ wana^ now
 hena^e6i  ye is  no  more
 
 
-370
-
-
 BUBEAU   OF  AMEBICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 Analysis. — This  is  a  rather  simple  melody  on  the  second  five-toned
@@ -39480,8 +27384,7 @@ the  introduction  of  the  words  of  the  song.
 
 The  four  following  songs  might  be  called  ''love  songs  connected
 with  war.''  ^  It  was  said  that  in  the  old  days  all  the  love  songs
-were  associated  with  a  man's  qualification  to  wed,  this  being  deter-
-mined by  his  success  in  war  or  in  the  buffalo  hunt.  (See  duplication
+were  associated  with  a  man's  qualification  to  wed,  this  being  determined by  his  success  in  war  or  in  the  buffalo  hunt.  (See  duplication
 of  song  No.  133.)  No  narratives  concerning  these  songs  were
 secured.
 
@@ -39530,9 +27433,6 @@ ye      to   -  k^      6a   -   2e        na   -  6!  -
 hoT)  kii)-haT)  hiT)-gna     6i-yii)kte  a
 
 
-WORDS
-
-
 h(/  we you  may
 
 zuya'  ya'ye go  on  the  warpath
@@ -39544,12 +27444,6 @@ t(/k6& when
 
 
 DBXQMOItB]
-
-
-TETON  SIOUX   MUSIC
-
-
-871
 
 
 6aJtie^ your  name
@@ -39572,11 +27466,7 @@ only  twice.
 Duplication  of  No.  151.    ''When  Tou  Eeturn"
 
 Sung  by  Siya'ka
-VOICB  J  =100
 Drum  j  =  lOO
-
-
-Drum-rhythm  similar  to  No.  5
 
 
 ^M
@@ -39609,8 +27499,6 @@ ho  we     zu-ya  -ya-ye     ii)  -  cii)    ya-gli     ki    -   ii)     -    h
 61   yii)  kte
 
 
-WORDS
-
 ho  we you  may
 
 zuya'  yaye go  on  the  warpath
@@ -39625,9 +27513,6 @@ Analysis. — ^A  comparison  of  the  rhythm  of  this  and  the  rendition
 of  the  same  song  by  Two  Shields  (No.  151)  is  of  special  interest.  It
 will  be  seen  that  the  same  rhythmic  unit  occurs  in  both  renditions,
 though  not  ajiways  on  the  same  phrase  of  the  song.
-
-
-372
 
 
 BUBEAU  OF  AMERICAN  ETHNOLOGY
@@ -39693,7 +27578,6 @@ to  -  hai)  -  nl
 
 a  -  ke  i  -  ya-  ya  bu;)-^  ta-ku  6an-  sse-ma  -ye
 
-WORDS
 
 ko^ka^  laka  kii)  ahi^yaya  6aQ^na.  as  the  young  men  go  by
 
@@ -39719,12 +27603,6 @@ song  as  a  whole  is  especially  rhythmic  in  character.
 DBNSUOBB]
 
 
-TETON  SIOUX  MUSIC
-
-
-373
-
-
 Like  the  preceding  song,  this  seems  to  require  no  explanation  other
 than  that  contained  in  the  words  of  the  song.  It  represents  the  hfe
 of  the  camp;  the  everyday  hfe  of  Indian  women.
@@ -39736,9 +27614,6 @@ Sung  by  Swift  Dog
 Toica  J =84
 
 
-(Catalogue  No.  591)
-
-
 Drum  not  recorded
 
 
@@ -39748,9 +27623,6 @@ Drum  not  recorded
 j?^
 
 
-VoiCB  J  =52
-
-
 'ytfiji-J  [I'M.
 
 
@@ -39758,8 +27630,6 @@ UJ-^Qi
 
 
 He     hiq   -  gna         wa  -  yii)     kte     6ui)
-
-VoiCB  J  =  84
 
 
 ^^iir  w  ^
@@ -39786,9 +27656,6 @@ rmT[m
 he-ya  -  he  lo
 
 
-WORDS
-
-
 he the  one
 
 hiQgna^  wayii)^  kte  6ui) I  was  going  to  marry
@@ -39807,8 +27674,7 @@ iya'yelo' gone  (on  the  warpath)
 he  miye^  maklQ^na  he'^yahe  lo..  it  was  I  whom  she  meant  by  saying  this
 
 Analysis, — This  song  is  based  on  the  fourth  five-toned  scale,  has  a
-range  of  nine  tones,  and  is  melodic  in  structure.  Twenty-eight  pro-
-gressions are  downward  and  21  are  upward,  these  numbers  being
+range  of  nine  tones,  and  is  melodic  in  structure.  Twenty-eight  progressions are  downward  and  21  are  upward,  these  numbers  being
 more  nearly  equal  than  in  most  of  the  songs  under  analysis.  The
 tones-  transcribed  as  A  natural  and  A  sharp  were  clearly  distinguished,
 the  tone  transcribed  as  A  sharp  being  even  sung  a  trifle  above  the
@@ -39818,23 +27684,11 @@ No.  5.)
 4840O— Bull.  61—18 26
 
 
-874
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 No.  154.  <<Tou  Should  Glre  Up  the  Warpath"       (Catalogue  No.  576)
 
 Sung  by  Shootbb
-VoicB  J  =116
 
 ,DBnMj=:116
-
-Drum-rhythm  similar  to  No.  5
 
 
 m
@@ -39899,7 +27753,6 @@ yat)  -  ke     wa  -  6ii)    na
 
 a-tag-ee  -   la    he-6el     yax)-ka  na
 
-WORDS
 
 zuya^pi  Ioq  he going  on  the  warpath
 
@@ -39970,8 +27823,7 @@ has  a  good  camp,  while  the  others  sleep  as  best  they  can.  The  day  
 rear  party  killed  a  buffalo,  and  they  shared  the  meat  with  the  advance  party  who
 were  waiting  for  them  on  a  butte.
 
-When  my  cousin  saw  me  he  came  over  and  said,  "Why  did  you  come,  brother-in-
-law?"  [*]  I  replied,  "We  were  hunting  birds."  He  said,  "Come  with  me."  So  he
+When  my  cousin  saw  me  he  came  over  and  said,  "Why  did  you  come,  brother-inlaw?"  [*]  I  replied,  "We  were  hunting  birds."  He  said,  "Come  with  me."  So  he
 took  me  to  his  camp.  When  we  entered  all  the  men  said,  "What  a  little  .boy  to  go  on
 the  warpath!"  I  leaned  over  my  dish  and  began  to  cut  and  eat  my  meat.  While
 I  was  eating  I  heard  the  men  say,  "There  is  some  one  coming  on  horseback,  singing."
@@ -40034,8 +27886,7 @@ another  Crow  party,  but  they  did  not  see  us.  They  went  into  the  tim
 fire ,  and  cooked  some  meat.  After  a  time  one  of  them  came  out  and  pointed  his  gun  all
 around.  I  rode  up  and  hit  him  with  a  club.  My  Sun-dance  vow  made  me  fearless.
 This  was  the  fourth  coup  I  counted  on  that  expedition.  We  watched  for  the  man  and
-afterward  killed  him.  From  there  we  went  on  until  we  came  to  a  village  of  the  Black-
-feet.  The  borders  of  the  river  were  heavily  timbered,  and  the  Blackfeet  were  camped
+afterward  killed  him.  From  there  we  went  on  until  we  came  to  a  village  of  the  Blackfeet.  The  borders  of  the  river  were  heavily  timbered,  and  the  Blackfeet  were  camped
 there.  This  was  beyond  the  country  of  the  Crows.  When  in  sight  of  the  Blackfoot
 village  I  put  on  my  war  bonnet,  mounted  my  white  horse,  and  ran  toward  the  village.
 I  charged  them  and  got  about  50  horses  from  the  center  of  their  herd.  They  shot  and
@@ -40091,12 +27942,6 @@ boy.
 was  ready  to  meet  It.    Red  Fox's  song  is  given  as  No.  155.]
 
 
-378
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
-
 [BULL.  «1
 
 
@@ -40120,7 +27965,6 @@ g^,y£:yi
 
 6i  -  ye       he  -  ya      tka      o       ta-moq   -ka     doi-ye-lo      he
 
-WORDS
 
 zuya' on  the  warpath
 
@@ -40184,8 +28028,7 @@ ing  we  started.  We  had  traveled  some  distance  when  my  companion  said,
 climb  that  butte  and  look  over."  We  climbed  the  butte,  and  looking  over  the
 top,  we  saw  a  very  large  Crow  settlement,  and  beyond  the  tipis  was  a  herd  of  horses
 like  a  cloud.  My  companion  said,  "Let  us  take  two  horses  and  go  back.^'  But  I
-replied:  "No.  The  Crows  will  follow  us,  and  as  we  will  be  the  only  ones  on  horse-
-back the  others  will  be  killed."
+replied:  "No.  The  Crows  will  follow  us,  and  as  we  will  be  the  only  ones  on  horseback the  others  will  be  killed."
 
 We  at  once  tiumed  back  toward  our  camp,  traveling  a  little  way  at  a  dogtrot,
 then  stopping  to  rest,  and  then  taking  up  the  dogtrot  again.  It  was  just  daybreak
@@ -40206,8 +28049,7 @@ you  looked  across  the  prairie  or  climbed  a  butte?  Bid  you  see  a  fou
 
 I  said:  "I  went  on  a  butte,  looked  over  and  saw  nothing.  Then  I  went  farther,
 and  what  did  I  see  but  buffalo  coming  toward  me.  I  looked  again,  and  it  was  a
-Crow  village  which  I  saw.  There  were  many  horses.  I  beg  that  you  give  us  some-
-thing to  eat,  for  we  must  start  at  once  and  travel  far.  We  must  reach  there  at  night
+Crow  village  which  I  saw.  There  were  many  horses.  I  beg  that  you  give  us  something to  eat,  for  we  must  start  at  once  and  travel  far.  We  must  reach  there  at  night
 and  take  the  horses  in  the  dark."
 
 They  hastened  and  brought  us  food.  We  kept  our  blankets  tied  down  as  we  ate  and
@@ -40241,8 +28083,7 @@ horses.  **  Some  of  us  were  eating  when  the  alarm  came,  but  we  made 
 at  once.  Four  went  ahead  so  the  horses  would  follow,  and  the  rest  of  us  drove  the
 herd.  The  cold  was  intense.  We  traveled  all  that  night,  and  I  often  went  back  to  see
 if  we  were  being  pursued .  The  next  morning  we  made  a  fire  and  put  on  dry  moccasins.
-We  were  afraid  that  if  we  traveled  slowly  we  would  be  caught  and  killed,  so  we  has-
-tened. That  day  we  let  the  horses  trot  awhile  and  then  walk  awhile,  but  we  did  not
+We  were  afraid  that  if  we  traveled  slowly  we  would  be  caught  and  killed,  so  we  hastened. That  day  we  let  the  horses  trot  awhile  and  then  walk  awhile,  but  we  did  not
 dare  stop  to  rest.  The  second  night  a  man  who  had  been  on  the  lookout  said,  "The
 Crows  are  after  us;  they  are  right  on  our  trail. "
 
@@ -40333,25 +28174,18 @@ to  his  comrades  after  kilUng  the  Crow.  It  was  said  to  be  a  dancing
 song  of  the  Miwa'tani  society.     (See  p.  326.)
 
 
-382
-
-
 BUBEAU  OP  AMERICAN  ETHNOLOGY
 
 
 [BULL,  ei
 
 
-VoiCB  J  =63
 Deum  not  recorded
 
 
 No.  156.  ''May  I  Be  There"
 
 Sung  by  One  Fbatheb
-
-
-(Catalogue  No.  623)
 
 
 u^fjf  |f  tl^tjrM^j'iT  t-|F^
@@ -40427,10 +28261,8 @@ kola^ friend
 hema^tu  nui)we^ may  I  be  there
 
 Analysis. — ^This  melody  has  a  compass  of  an  octave  and  contains
-all  the  tones  of  the  octave  except  the  sixth  and  seventh.  The  pro-
-gression is  principally  by  whole  tones,  about  60  per  cent  of  the  inter-
-vals being  major  seconds.  A  change  of  time  occurs  with  the  intro-
-duction of  the  words.  (See  song  No.  5.)  The  song  is  rhythmic
+all  the  tones  of  the  octave  except  the  sixth  and  seventh.  The  progression is  principally  by  whole  tones,  about  60  per  cent  of  the  inter-
+vals being  major  seconds.  A  change  of  time  occurs  with  the  introduction of  the  words.  (See  song  No.  5.)  The  song  is  rhythmic
 throughout,  but  the  rhythmic  unit  is  found  only  in  the  first  part  of
 the  melody.
 
@@ -40444,14 +28276,8 @@ DINSMOBI]
 TETOK  SIOUX  MU8I0
 
 
-383
-
-
 No.  167.  "A  Prairie  Fire"
 Sung  by  Onb  Feather
-
-
-(Catalogue  No.  624)
 
 
 Voice  Jz=7S
@@ -40474,9 +28300,6 @@ na   wa  -  je     6ii]  -  bai]     wi  -  1  -  fia  -  kta    fii-  £a  wai]
 
 
 he   mi-ye   he-6a-moi)  we
-
-
-WORDS
 
 
 ona' a  piairie  fire
@@ -40515,9 +28338,6 @@ even  that  fact  did  not  make  the  Sioux  happy.  They  all  were  sad
 because  they  had  to  leave  Sitting  Crow  where  he  fell.     A  lament  for
 
 
-384
-
-
 BUREAU  OF   AMEBICAN  ETHNOLOGY
 
 
@@ -40532,7 +28352,6 @@ Crow  was  a  member  of  that  organization.
 No.  158.  Song  Concerning  Sitting  Crow  .     (Catalogue  No.  625)
 
 *    Sung  by  Onb  Feather
-Voice  J  =  76
 
 
 Drum  not  recorded
@@ -40559,9 +28378,6 @@ Ko  -  la  Kaq-gi  -  I  -  yo-  ta-ke  ko  -  la         kn  -  toi
 ye  -  lo
 
 
-WORDS
-
-
 kola' friends
 
 KaQ^iMyo'take Sitting  Crow
@@ -40574,8 +28390,7 @@ Analysis, — Three  renditions  of  this  song  were  recorded,  in  all  of
 which  the  intonation  was  wavering.  The  song  has  a  compass  of  12
 tones,  is  melodic  in  structure,  and  contains  the  tones  of  the  second
 five-toned  scale.  Only  four  intervals  larger  than  a  minor  third  are
-found  in  the  melody,  a  fact  which  may  account  in  part  for  the  uncer-
-tainty of  intonation,  the  Indian  usually  finding  it  difficult  to  sing  a
+found  in  the  melody,  a  fact  which  may  account  in  part  for  the  uncertainty of  intonation,  the  Indian  usually  finding  it  difficult  to  sing  a
 long  succession  of  smaU  intervals  with  correctness.  The  total
 number  of  minor  thirds  and  major  seconds  in  this  song  is  32.
 
@@ -40589,19 +28404,11 @@ time.'
 DBNSMOBl]
 
 
-TETON  SIOUX  MUSIC
-
 No.  159.  ''A  Spotted  Horse''
 
 Sung  by  0ns  Feather
 
 
-385
-
-(Catalogue  No.  626)
-
-
-Voice  J  =  96
 Drum  not  recorded
 
 
@@ -40620,9 +28427,6 @@ Ko  -  la  -pi  -  la
 wa  -  u       we
 
 
-WORDS '
-
-
 kola^pila friends
 
 hiya'yapiye  yo come  with  me
@@ -40633,10 +28437,8 @@ iSuogle^'^ka a  spotted  horse
 
 hiyo'  watt'  we I  am  coming  after
 
-Analysis. — ^This  is  a  pleasing  rhythmic  melody  on  the  fourth  five-
-toned  scale.  The  song  is  based  on  the  tonic  triad,  but  the  second  is
-twice  accented,  classifying  the  song  as  melodic  with  harmonic  frame-
-work. The  eighth  rest  in  the  third  measure  from  the  close  was
+Analysis. — ^This  is  a  pleasing  rhythmic  melody  on  the  fourth  fivetoned  scale.  The  song  is  based  on  the  tonic  triad,  but  the  second  is
+twice  accented,  classifying  the  song  as  melodic  with  harmonic  framework. The  eighth  rest  in  the  third  measure  from  the  close  was
 clearly  given  in  the  three  renditions.  The  intonation  was  good  on
 all  except  the  highest  tones.  As  frequently  occurs  in  songs  on  the
 fourth  five-toned  scale,  the  minor  third  is  prominent,  in  this  instance
@@ -40648,13 +28450,9 @@ in  the  Sioux  songs  under  analysis.     (See  Tables  11,  12,  pp.  16, 17.
 >  The  first  part  of  this  aong  is  addressed  to  friends,  the  remainder  to  the  enemy.
 
 
-386
-
-
 BUBEAU  OP  AMEBICAN  ETHNOLOGY
 
 
-VoiCB  J  =96
 Dri:m  not  recorded
 
 
@@ -40663,9 +28461,6 @@ Sung  by  Onb  Feathbr
 
 
 [BULL.  «1
-
-
-(Catalogue  No.  627)
 
 
 s
@@ -40749,8 +28544,7 @@ from  the  peculiar  outlines  of  his  sketches  of  men  or  horses.  Thus  in
 the  drawings  of  Jaw,  most  of  the  incidents  concern  the  capture  of
 horses  and  the  numbers  of  the  enemy  are  not  shown,  while  in  those  of
 Eagle  Shield  the  latter  feature  is  clearly  indicated,  the  work  including
-more  detail  than  the  drawings  of  any  other  native  artist  except  per-
-haps Old  Buffalo.  Several  rescues  are  shown  in  Eagle  Shield's  work
+more  detail  than  the  drawings  of  any  other  native  artist  except  perhaps Old  Buffalo.  Several  rescues  are  shown  in  Eagle  Shield's  work
 and  none  in  that  of  any  others.  The  coup  stick  appears  frequently
 in  Swift  Dog's  drawings,  but  in  none  of  the  others.
 
@@ -40772,8 +28566,7 @@ name  at  the  present  time.  He  was  given  this  name  after  taking  part
 in  a  fight  for  the  first  time.  He  had  been  out  with  a  war  party
 once  before  and  had  stolen  horses,  but  this  was  his  first  experience  in
 actual  warfare.  On  being  asked  his  connection  in  the  tribe,  he
-replied:  '*I  am  of  two  bands.  My  mother  was  a  Gi'gila^'ka,  a  divi-
-sion of  the  Hunkpa'pa  band,  and  my  father  was  a  Sans  Arc,  of  the
+replied:  '*I  am  of  two  bands.  My  mother  was  a  Gi'gila^'ka,  a  division of  the  Hunkpa'pa  band,  and  my  father  was  a  Sans  Arc,  of  the
 Te'toi)wai)."  He  said  that  he  was  63  years  of  age  at  that  time
 (1913),  and  when  asked  the  year  of  his  birth,  he  said  that  he  was
 bom  in  the  year  known  as  Kewoyu'spatawani'yeiu,  'winter  that
@@ -40809,20 +28602,16 @@ grass  was  put  with  it."  *
 
 Jaw's  manner  of  painting  himself  and  his  horse  when  going  on  the
 warpath  was  as  follows:  He  painted  a  red  crescent  over  his  mouth,
-the  points  of  the  crescent  extending  upward  halfway  to  his  cheek-
-bones. His  hands  were  painted  red  from  the  wrists  and  his  feet  from
+the  points  of  the  crescent  extending  upward  halfway  to  his  cheekbones. His  hands  were  painted  red  from  the  wrists  and  his  feet  from
 the  ankles.  A  large  crescent  like  that  on  his  face  was  painted  on
 his  horse^s  chest,  and  a  smaller  one  on  the  animal's  left  hip,  while
-the  entire  end  of  the  horse's  nose  was  painted  yellow.  If  a  horse  suc-
-ceeded in  some  difficult  undertaking  it  was  his  custom  to  reward  the
-animal  by  putting  a  feather  in  its  mane  or  tail,  or  a  band  of  red  list-
-cloth  around  its  neck.     (See  p.  298.)
+the  entire  end  of  the  horse's  nose  was  painted  yellow.  If  a  horse  succeeded in  some  difficult  undertaking  it  was  his  custom  to  reward  the
+animal  by  putting  a  feather  in  its  mane  or  tail,  or  a  band  of  red  listcloth  around  its  neck.     (See  p.  298.)
 
 Jaw  had  two  medicine  bags  containing  the  same  'medicine,'  one
 for  his  horse  and  one  for  himself.  The  horse's  medicine  bag  was  tied
 to  the  bit  of  its  bridle.  He  said  that  if  his  horse  '*had  a  headache"
-he  chewed  a  certain  herb  and  put  it  into  the  horse's  mouth,  where-
-upon the  trouble  was  relieved  at  once.  This  was  probably  the  herb
+he  chewed  a  certain  herb  and  put  it  into  the  horse's  mouth,  whereupon the  trouble  was  relieved  at  once.  This  was  probably  the  herb
 numbered  4  in  the  component  parts  of  his  war  /  medicine.'  Jaw
 said  that  when  going  to  steal  horses  he  often  went  to  windward  of
 them  and  chewed  this  herb,  at  which  the  horses  at  once  "pricked  up
@@ -40873,10 +28662,8 @@ plant  is  dried  and  chewed,  or  a  tea  may  be  made  if  preferred."
 for  rheumatism  and  lameness,  and  it  was  used  also  for  disorders  of  the
 stomach.
 
-(4)  Ladniaria  punctaia  (Hook.)  Kuntze  (blazing  star).  A  decoc-
-tion of  this  was  given  to  persons  with  pain  in  the  heart,  the  entire
-plant  being  used  for  this  purpose.  The  root  was  also  dried  and  pow-
-dered. This  medicine,  either  in  a  dry  powder  or  in  the  form  of  a
+(4)  Ladniaria  punctaia  (Hook.)  Kuntze  (blazing  star).  A  decoction of  this  was  given  to  persons  with  pain  in  the  heart,  the  entire
+plant  being  used  for  this  purpose.  The  root  was  also  dried  and  powdered. This  medicine,  either  in  a  dry  powder  or  in  the  form  of  a
 decoction,  was  given  also  to  horses.
 
 An  herb  used  by  Jaw  in  the  treatment  of  rheumatism  is  included
@@ -40884,8 +28671,7 @@ in  the  Ust  of  medicinal  herbs  on  page  270.
 
 A  successful  war  expedition  by  Jaw  is  shown  in  a  drawing  by
 himself  (pi.  62),  the  same  drawing  appearing  in  the  backgroimd  of
-his  portrait  (pi.  59).  Jaw  said  that  before  any  important  under-
-taking he  smoked  a  certain  pipe  in  a  ceremonial  manner  and  "offered
+his  portrait  (pi.  59).  Jaw  said  that  before  any  important  undertaking he  smoked  a  certain  pipe  in  a  ceremonial  manner  and  "offered
 prayers  to  Wakag'tagka."  Instead  of  attempting  to  describe  this,
 he  enacted  it  for  the  writer  as  follows:
 
@@ -40910,13 +28696,7 @@ you.     Look  also  at  me."
 4a40*»— Bull.  61—18 ^27
 
 
-390
-
-
 BUBEAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 (4)  After  placing  the  stem  of  the  unlighted  pipe  in  his  mouth
@@ -40947,10 +28727,6 @@ No.  161.  '<!  Wish  to  Boam"
 Sung  by  Jaw
 
 
-(Catalogue  No.  651)
-
-
-Voice  J  =  92
 Dbum  ^  =  88
 Dmm-rhythm  similar  to  Ko.  5
 
@@ -40987,8 +28763,7 @@ na    to-  kel  wa  -  6ii)  •  ka  o    -    ma  -  wa-ni  ktelo    he       
 o  -  wa-le        kte-lo
 
 
-1  Jaw  bore  scars  on  his  chest  and  back,  also  small  scars  the  entire  length  of  his  arms,  showingthat  he  ful-
-filled his  Sun-danoe  vow.
+1  Jaw  bore  scars  on  his  chest  and  back,  also  small  scars  the  entire  length  of  his  arms,  showingthat  he  fulfilled his  Sun-danoe  vow.
 
 
 OlMSMOBK]
@@ -40996,11 +28771,6 @@ OlMSMOBK]
 
 TETON  SIOUX  MtJSIC
 
-
-391
-
-
-WORDS
 
 «
 
@@ -41028,11 +28798,9 @@ only  9  times  in  the  2,864  intervals  of  Chippewa  songs  and  13  times
 in  the  present  series.  This  song  is  melodic  in  structure,  has  a  range
 of  nine  tones,  and  contains  all  tones  of  the  complete  octave.
 
-See  plot  of  this  melody  on  page  419.
 
 When  the  war  party  came  near  the  camp  of  the  enemy  they
-waited  for  night  in  order  to  make  their  attack  under  cover  of  dark-
-ness.    At  that  time  the  following  song  is  said  to  have  been  simg:
+waited  for  night  in  order  to  make  their  attack  under  cover  of  darkness.    At  that  time  the  following  song  is  said  to  have  been  simg:
 
 
 No.  162.  "A  Night  Is  Different"
@@ -41040,10 +28808,6 @@ No.  162.  "A  Night  Is  Different"
 Sung  by  Jaw
 
 
-(Catalogue  No.  6:2)
-
-
-Voice  J  =  88
 Dbum  J  =^88
 Pnun-rhythm  similar  to  No.  19
 
@@ -41081,9 +28845,6 @@ w^^
 0-ta    yanuqwe
 
 
-WORDS
-
-
 kola'' friend
 
 haghe^pi  wag a  night
@@ -41093,9 +28854,6 @@ toke'6a is  different  (from  the  day)
 6a so
 
 mita^dugke  o^ta  nugwe^ may  my  horses  be  many
-
-
-392
 
 
 BUBEAU  OF  AMEBICAN  ETHNOLOGY
@@ -41121,16 +28879,12 @@ not  waken  nor  kill  any  of  the  Crows;  I  just  took  their  horses.  No
 Sioux  ever  took  more  horses  than  that  in  one  night.''
 
 As  Jaw  and  his  party  approached  their  village  they  gave  the  long
-wolf  howl,  at  which  the  people  came  out  to  meet  them.  The  fol-
-lowing song  celebrated  the  victory,  the  women  singing  with  the  men:
+wolf  howl,  at  which  the  people  came  out  to  meet  them.  The  following song  celebrated  the  victory,  the  women  singing  with  the  men:
 
 
 No.  168.  "I  Am  Bringing  Horaes"
 
 Sung  by  Jaw
-
-
-(Catalogue  No.  653)
 
 
 VOICH  J—W
@@ -41176,9 +28930,6 @@ le    tk
 i-?ra   -   ka    we
 
 
-WORDS
-
-
 6ui)ka'wakaq horeefl
 
 owale.. I  seek
@@ -41195,12 +28946,6 @@ m  4
 
 
 V
-
-
-1
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 DBNAMORE]  TETON   SIOUX   MUSIC  393
@@ -41234,11 +28979,6 @@ The  following  was  said  to  be  a  characteristic  song  of  the  Kai)gi'yuha
 The  words  express  reproof.
 
 
-394
-
-
-BUREAU  OP  AMERICAN  ETHNOLOGY
-
 No.  164..'<STeii  the  Eagle  Dies"
 
 Sung  by  Eagle  Shield
@@ -41247,10 +28987,6 @@ Sung  by  Eagle  Shield
 [boll.  «]
 
 
-(Catalogue  No.  507)
-
-
-Voice  J  =88
 Deum  not  reecrded
 
 
@@ -41276,9 +29012,6 @@ wai)  -  bU    ka-yed
 
 
 te  ye-lo
-
-
-WORDS
 
 
 akl^^ta soldiers
@@ -41316,12 +29049,6 @@ f   C
 DBIfSMORK]
 
 
-TETON  SIOUX  MUSIC
-
-
-395
-
-
 And  pursued  them.     Immediately  the  Crows  were  surrounded  and
 most  of  them  were  killed.
 
@@ -41332,9 +29059,6 @@ one  of  the  Crows,  and  that  it  is  a  song  of  the  Miwa'tani  society:
 No.  166.  ''I  Took  Courage"
 
 Sung  by  Eaglb  Shield
-
-
-(Catalogue  No.  508)
 
 
 VoicB  J-9J
@@ -41354,10 +29078,7 @@ m
 t
 
 
-^-ffi-f-
-
-
-a^
+^-ffi-fa^
 
 
 m
@@ -41381,9 +29102,6 @@ Mi  -  wa  -  ta  -  ni       kiq  -    hag      bli
 
 
 he  -  mi    -    6i    ye  -  lo
-
-
-WORDS
 
 
 «   Q
@@ -41421,9 +29139,6 @@ of  the  intervals  are  minor  thirds.  The  only  tones  in  th'ife'lSietotly 
 those  of  the  major  triad  and  second.     Thi^;iTV;!^^14i(^ittgg^!  that  the
 
 
-396
-
-
 BUBEATJ  OP  AMEBICAN  ETHNOLOGY
 
 
@@ -41431,8 +29146,7 @@ BUBEATJ  OP  AMEBICAN  ETHNOLOGY
 
 
 BODg  might  be  harmonic  in  form,  but  the  second  is  frequently  accented,
-causing  the  song  to  be  classified  as  melodic  with  harmonic  frame-
-work. The  melody  has  a  range  of  eight  tones,  extending  from  the
+causing  the  song  to  be  classified  as  melodic  with  harmonic  framework. The  melody  has  a  range  of  eight  tones,  extending  from  the
 dominant  above  the  tonic  to  the  dominant  below  the  tonic.
 
 In  the  time  of  ripe  cherries  *  a  party  of  Sioux  were  in  the  country
@@ -41478,10 +29192,7 @@ J^96
 hu  -  wo
 
 
--\ NH 1 F-i ! — h-
-
-
-wa-ya
+-\ NH 1 F-i ! — hwa-ya
 
 
 ka    ko    ail  -    wa
@@ -41539,7 +29250,6 @@ successful  one.  The  Sioux  killed  three  Crows.  On  their  way  home
 they  sang  this  song,  the  melody  being  the  same  as  that  of  the  preceding
 song,
 
-WORDS
 
 kola^. friend
 
@@ -41561,9 +29271,6 @@ with  the  event  he  sang  the  following  song,  the  words  of  which  expres
 derision  for  warriors  who  would  desert  their  wounded  leader.
 
 
-398
-
-
 BUREAU  OP  AMEBICAN  ETHNOLOGY
 
 
@@ -41573,11 +29280,7 @@ Tbull.  ei
 No.  167.  "They  Deserted  Their  Leader"       (Catalogue  No.  520)
 
 Sung  by  Eagle  Shield
-Voice  J  =96
 
-Drum  J  =  96
-
-Drum-rhythm  similar  to  No.  8
 
 <"  0)
 
@@ -41598,9 +29301,6 @@ U^JIJL^d^^VQtf-tf^-H
 
 
 na-pa-pi     ye    -    lo
-
-
-WORDS
 
 
 Paa'loka"  kii) the  Ciow  Indiana
@@ -41659,14 +29359,10 @@ Fia.  33.    Apparatus  tot  cooking  hmM  without  a  iettlt.
 Shield,  who  was  a  very  old  woman.  Plate  67  shows  also  a  skinning
 knife  made  of  the  shoulder  blade  of  a  buffalo,  the  handle  being  woimd
 with  buffalo  hide.  The  wounded  man  wanted  soup,  but  the  party
-carried  no  utensil  large  enough  for  boiling  meat.  Eagle  Shield,  re-
-membering, however,  that  his  grandfather  told  him  how  the  warriors
+carried  no  utensil  large  enough  for  boiling  meat.  Eagle  Shield,  remembering, however,  that  his  grandfather  told  him  how  the  warriors
 of  his  day  cooked  meat  in  the  stomach  casing  of  the  slain  animal,
 resolved  to  try  the  experiment.  The  casing,  suspended  on  a  tripod,
 wasfilled  with  water  in  which  heated  stones  were  placed.     (See  %.  32.)
-
-
-400
 
 
 BUREAU   OF  AMEBICAN   ETHNOLOGY
@@ -41711,10 +29407,7 @@ fO .  0) ,  0)
 ^^imLj  |f  tit  ^||i^r'i^^^
 
 
-Fsa-
-
-
-zBi^LT--
+FsazBi^LT--
 
 
 E±r*
@@ -41744,9 +29437,6 @@ an  July  5, 1913.  The  stones  were  heated  in  a  fire  near  the  tripod,  
 and  placed  In  the  water.  A  blunt  stick  was  used  in  pushing  the  heated  stones  on  the  forked  sticks,  and
 a  short  stick  was  used  for  stirring  the  boiling  meat.  All  these  articles  (shown  in  fig.  32)  are  ncvw  In
 the  U.  S.  National  Museum,  at  Washington.
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 BULLETIN  61    PLATE  68
@@ -41788,22 +29478,16 @@ On  one  accasion  when  Eagle  Shield  led  a  war  party  against  the
 Crows  they  found  that  the  latter  had  picketed  their  horses  within  the
 circle  of  tents.  Eagle  Shield  and  a  companion,  having  entered  the
 village  as  scouts,  saw  these  horses.  (PI.  68,  B.)  Eagle  Shield  said
-to  his  companion,  "Let  us  go  and  get  some  of  the  horses."  His  com-
-panion replied,  "No;  if  we  do  that  the  rest  of  the  party  will  be  angry."
-Eagle  Shield  then  said,  "Let  us  each  take  one  horse."  His  com-
-panion replied,  "  You  do  it."  Thereupon  Eagle  Shield,  creeping  into
+to  his  companion,  "Let  us  go  and  get  some  of  the  horses."  His  companion replied,  "No;  if  we  do  that  the  rest  of  the  party  will  be  angry."
+Eagle  Shield  then  said,  "Let  us  each  take  one  horse."  His  companion replied,  "  You  do  it."  Thereupon  Eagle  Shield,  creeping  into
 the  circle  of  tents,  took  two  horses,  a  black  and  a  brown,  and  escaped
 without  detection.  Each  mounting  a  horse,  he  and  his  companion
 reached  their  camp  about  daybreak.
 
-The  loss  of  the  horses  was  soon  discovered  by  the  Crows,  who  in-
-creased their  watchfulness,  so  that  the  other  members  of  the  Sioux
+The  loss  of  the  horses  was  soon  discovered  by  the  Crows,  who  increased their  watchfulness,  so  that  the  other  members  of  the  Sioux
 war  party  were  unable  to  secure  any  horses.  So  it  happened  that
 Eagle  Shield  and  his  companion  were  the  only  ones  who  returned  on
 horseback,  the  rest  being  obliged  to  walk.
-
-
-402
 
 
 BUBEAU   OF  AMEBICAN   ETHNOLOGY
@@ -41852,8 +29536,7 @@ he'($amoi)  kii)hai)''.« if  I  do  this
 oma^taQii)  kt^ it  will  be  widely  known
 
 Analysis. — The  tempo  of  this  song  is  slightly  hastened  in  the  first
-measure  containing  words,  but  the  change  is  not  steadily  main-
-tained. The  5-8  measures,  however,  are  clearly  given  and  are  accu-
+measure  containing  words,  but  the  change  is  not  steadily  maintained. The  5-8  measures,  however,  are  clearly  given  and  are  accu-
 rate in  time.  (See  song  No.  64.)  The  triad  of  D  major  is  strongly
 suggested  by  the  melody  progressions;  but  F,  the  third  of  that  chord,
 does  not  appear.  The  song,  however,  is  analyzed  as  in  the  key  of
@@ -41876,12 +29559,6 @@ BUftEAU  OF  AMERICAN  ETHNOLOGV  BULLETIN  «1      PLATE  e»
 DEN8M0RE]
 
 
-TETON   SIOUX   MUSIC
-
-
-403
-
-
 get  my  fame.  My  father's  name  was  Rmming  Fearlessly  (Ka^i'-
 fini-ii)'yai}ka).  When  he  went  to  Washington,  long  ago,  he  was
 given  one  of  the  first  medals  that  ever  were  made.  It  is  now  in  my
@@ -41894,11 +29571,9 @@ in  the  year  1852,  designated  in  the  Sioux  picture  calendar  Heto'pa
 uv'wav  kte'piy  'winter  of  the  killing  of  the  four-homed  enemy.'
 
 Several  of  Swift  Dog's  war  exploits  are  shown  in  his  own  drawing
-(pi.  70),  and  the  songs  accompanying  these  exploits  are  given  here-
-with. *  In  this  drawing  {A)  Swift  Dog  has  shown  the  first  encoimter  in
+(pi.  70),  and  the  songs  accompanying  these  exploits  are  given  herewith. *  In  this  drawing  {A)  Swift  Dog  has  shown  the  first  encoimter  in
 which  he  killed  a  man.  He  was  then  24  years  of  age  and  had  been
-to  war  several  times.  This  expedition  was  to  the  coimtry  of  the  As-
-siniboin,  and  the  man  whom  he  killed  was  a  member  of  that  tribe.
+to  war  several  times.  This  expedition  was  to  the  coimtry  of  the  Assiniboin,  and  the  man  whom  he  killed  was  a  member  of  that  tribe.
 In  describing  the  event  he  said  that  •the  enemy  was  on  foot,  while
 he  was  on  horseback,  on  higher  groimd.  On  this  expedition  he  sang
 the  following  song:
@@ -41951,9 +29626,6 @@ mmiftriru^
 te  mi -ye    o-ma-wa-ni  ye
 
 
-WORDS
-
-
 kola^pila friends
 
 tu^wa no  one's
@@ -41967,15 +29639,6 @@ midaQ^te my  own  heart
 miye^ I,  myself
 
 oma^wani  ye I  am  wondering
-
-
-404
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  01
 
 
 Analysis. — ^Progressions  of  a  semitone  characterize  this  melody,
@@ -42009,9 +29672,6 @@ At  that  time  he  sang  the  following  song:
 No.  171.  ''Horses  I  Seek"
 
 Sung  by  Swot  Dog
-
-
-(Catalogue  No.  584)
 
 
 VoiGB  J  =  84
@@ -42068,10 +29728,8 @@ and  took  away  his  quiver.  (See  pi.  70,  C)  He  was  a  handsome
 young  man.  Afterward  two  others  struck  the  young  man,  and  he  was
 kijled  by  the  last  man  who  struck  him.
 
-The  melody  of  this  song  is  the  same  as  that  of  the  song  next  pre-
-ceding, hence  only  the  words  are  given.
+The  melody  of  this  song  is  the  same  as  that  of  the  song  next  preceding, hence  only  the  words  are  given.
 
-WORDS
 
 ite'  ifla^ye black  face  paint  (see  p.  359.)
 
@@ -42109,9 +29767,6 @@ Drum  not  recorded
 r  I  r  r  ir  r  n
 
 
-1
-
-
 m^
 
 
@@ -42144,9 +29799,6 @@ he  -  ya  ho  hi-  bu    we     ya  -  (Se
 ye  -  lo
 
 
-WORDS
-
-
 taku^  owe'' why
 
 hilu^uwo do  you  come
@@ -42174,12 +29826,6 @@ Crow  Indians,  but  they  escaped.    This  song  relates  to  the  expedition:
 densIioee]
 
 
-TETON   SIOUX   MUSIC
-
-
-407
-
-
 Voics  J  =  60
 DRII3I  not  recorded
 
@@ -42187,9 +29833,6 @@ DRII3I  not  recorded
 No.  178.  "I  Struek  the  Enemy
 
 Sung  by  Swnr  Doo
-
-
-(Catalogue  No.  586)
 
 
 £  -hai)-na  he-6a  -  mor)
@@ -42203,7 +29846,6 @@ Sung  by  Swnr  Doo
 
 ho  na-  ya  -  &oi)    -    pi     hu  -  wo  .
 
-WORDS
 
 ehaQ^zia a  long  time  ago
 
@@ -42236,9 +29878,6 @@ of  the  intervals  are  minor  thirds.  The  song  has  a  range  of  12  tones
 and  is  melodic  in  form.
 
 
-408
-
-
 BUBEAU  OF  AMERICAN  ETHNOLOGY
 
 
@@ -42263,9 +29902,6 @@ wa-na     na
 ya-Iio]}   pe-lo
 
 
-WORDS
-
-
 ehaQ'^na  he^^amoQ a  long  time  ago
 
 kta  <5a I  would  have  done  this
@@ -42278,8 +29914,7 @@ wana'' now
 
 naya'Hoi)  pelo^ you  have  heard  it
 
-Analysis. — ^This  is  a  duplication  of  the  preceding,  and  its  struc-
-ture is  considered  in  the  analysis  of  that  song.  The  renditions  by
+Analysis. — ^This  is  a  duplication  of  the  preceding,  and  its  structure is  considered  in  the  analysis  of  that  song.  The  renditions  by
 .  Balls-at-Night  and  his  wife  wore  recorded  on  two  cylinders,  each
 containing  four  renditions  of  the  song.  In  every  instance  her  voice
 was  silent  during  the  opening  measures,  the  point  of  entrance  varying
@@ -42302,9 +29937,6 @@ btSKd^tOkK]
 
 
 Wit65^  feldtrx  MtJfilO
-
-
-409
 
 
 F  of  plate  70  was  said  to  represent  animals  killed  Iby  Swift  Dog  on
@@ -42359,9 +29991,6 @@ j75  J I J  J  II
 yo      wa  -  u  we  -  lo
 
 
-WORDS
-
-
 Kangi^  to^ka Crow  enemies
 
 nita'^luQke. . ; your  horses
@@ -42379,14 +30008,10 @@ as  **the  influence  of  the  rhythmic  unit  on  parts  of  the  song  in  whi
 it  does  not  occur  in  entirety."  Thus  in  the  measure  following  the
 third  occurrence  of  the  rhythmic  unit  we  have  one  quarter  note
 followed  by  a  group  of  four  sixteenth  notes,  a  reversal  of  coimt
-divisions  appearing  in  the  unit.  The  time  quickens  with  the  intro-
-duction of  the  words,  a  pecuharity  often  found  in  Sioux  war
+divisions  appearing  in  the  unit.  The  time  quickens  with  the  introduction of  the  words,  a  pecuharity  often  found  in  Sioux  war
 songs,  but  not  noted  among  the  Chippewa.  The  song  is  major  in
 tonality  and  progresses  largely  by  whole  tones,  the  major  second
 constituting  46  per  cent  of  the  entire  number  of  intervals.     With  the
-
-
-410
 
 
 feUHEAlT  OF  AMERICAN  filUNOLOOY
@@ -42401,7 +30026,6 @@ five-toned  scale,  but  the  tonic  is  not  prominent,  the  song  beginning
 and  ending  on  the  third.  The  melody  is  harmonic- in  structure.
 Three  renditions  were  recorded;  these  show  no  points  of  difference.
 Concerning  a  change  in  tempo  see  song  No.  5.
-See  plot  of  this  melody  on  page  419.
 
 No  narrative  was  given  regarding  H  of  this  drawing  (pi.  70),  Swift
 Dog  simply  stating  that  he  and  his  brother-in-law  went  after  horses
@@ -42413,10 +30037,6 @@ No.  176.  "Two  War  Parties"
 Sung  by  Swift  Doq
 
 
-(Catalogue  No.  588)
-
-
-VoiCB  J  =54
 Drum  not  recorded
 
 
@@ -42441,16 +30061,10 @@ o=»  r  r  f  r-f-,H^
 ma  -  wa  -  ni     ye  -  lo      mi
 
 
-ye        6ur)-kl  -  6\\     wa-6ii)-fi£l      o-
-
-
-g^F—g
+ye        6ur)-kl  -  6\\     wa-6ii)-fi£l      og^F—g
 
 
 ma-wa-nl   ye-lo
-
-
-WORDS
 
 
 zuya'  nom'lala two  war  parties
@@ -42474,12 +30088,6 @@ interval  used  in  descending  progression.    The  song  is  based  on  the
 DSNq&fORE]
 
 
-TETON   SIOUX  MUSIC
-
-
-411
-
-
 fourth  five-toned  scale,  has  a  compass  of  10  tones,  and  is  melodic  in
 structure.  No  rhythmic  unit  appears  in  the  melody,  and  the  time
 was  not  strictly  maintained.
@@ -42497,9 +30105,6 @@ No.  176.  ''Sister,  I  Bring  You  a  Horse"
 Sung  by  Swift  Dog
 
 
-(Catalogue  No.  589)
-
-
 Voic»  J  =80
 Drum  not  recorded
 
@@ -42515,7 +30120,6 @@ j,4MU'mrT^
 
 ho    hl-na  -  pa    yo  wai)-ii    lu-ha  kte
 
-WORDS
 
 tanke^ older  sister
 
@@ -42534,8 +30138,7 @@ luha''  kte you  may  have  (cf .  words  of  No.  145)
 Analysis. — Three  renditions  of  this  song  were  recorded,  in  each  of
 which  a  short  pause  was  made  after  the  third  and  sixth  measures,  and
 also  after  the  fourth  measure  containing  the  words.  These  pauses  were
-not  such  as  are  indicated  by  rests,  but  appeared  to  be  merely  breath-
-ing spaces.  Such  pauses  are  unusual  in  the  singing  of  Indians  and  were
+not  such  as  are  indicated  by  rests,  but  appeared  to  be  merely  breathing spaces.  Such  pauses  are  unusual  in  the  singing  of  Indians  and  were
 probably  due  to  the  fact  that  Swift  Dog  recorded  his  songs  during  a
 period  of  ii)tense  heat,  in  a  small,  close  building.
 
@@ -42571,8 +30174,7 @@ comrades  were  entirely  surrounded  by  the  Crows,  an  event  which
 Old  Buffalo  depicted  in  a  drawing.  (Fig.  33.)  Old  Buffalo  said  that
 at  the  time  of  this  expedition  his  band  of  the  Sioux  were  living  in
 the  "Queen's  Land"  (Canada),  but  had  come  down  to  the  United
-States  on  a  buffalo  hunt.  From  this  temporary  camp  the  expedi-
-tion started  under  his  leadership.
+States  on  a  buffalo  hunt.  From  this  temporary  camp  the  expedition started  under  his  leadership.
 
 Old  Buffalo  said  further:  '
 
@@ -42610,14 +30212,6 @@ No.  177.  Song  of  Self-reltanoe
 '    Sung  by  Old  Buffalo
 
 
-(Catalogue  No.  636)
-
-
-VoiCB  J  =76
-Drum  J  =76
-Drum-rhythm  similar  to  No.  5
-
-
 Mi^,r  kSi'm
 
 
@@ -42628,9 +30222,6 @@ ka  -6ad  e-6ii)6uqk
 
 
 o  -  wa-le
-
-
-WORDS
 
 
 eya^ well
@@ -42654,11 +30245,6 @@ the  progressions  are  downward.  The  chord  of  B  major  is  prominent
 in  the  melody,  which,  however,  is  not  harmonic  in  structure  but  is
 classified  as  melodic  with  harmonic  framework.  Three  renditions
 were  recorded;  these  are  uniform  in  every  respect.
-
-See  plot  of  this  melody  on  page  419.
-
-
-414
 
 
 BTJUEAU  OF  AMERICAN  ETHNOLOGY
@@ -42707,7 +30293,6 @@ No.  178.  "I  Am  the  Fox".  (Catalogue  No.  637)
 Sung  by  Old  Buffalo
 
 
-VoicB  J  =6(5
 Drum  not  recorded
 
 
@@ -42746,7 +30331,6 @@ hi  -  ka  o  -  wa   -  le  ye  -  lo
 
 bfiyHMoRE]  TETOl^  SIOtTX  MUSIC  415
 
-WORDS
 
 toka^a  ^og the  fox
 
@@ -42772,8 +30356,7 @@ in  botji  Chippewa  and  Sioux  music.  At  ,the  opening  of  the  song
 there  is  a  repeated  phrase,  which  is  not  considered  a  rhythmic  unit
 because  it  has  seemingly  no  influence  on  the  rhythm  of  the  song  as  a
 whole.  Its  repetition  on  the  same  tone  suggests  that*  it  may  be
-simply  an  introductory  phrase.  The  final  tone  is  immediately  pre-
-ceded by  a  tone  a  major  third  lower,  this  close  being  somewhat  unusual
+simply  an  introductory  phrase.  The  final  tone  is  immediately  preceded by  a  tone  a  major  third  lower,  this  close  being  somewhat  unusual
 in  the  songs  imder  analysis.
 
 The  account  of  his  exploit  was  resumed  by  Old  Buffalo  as  follows :
@@ -42843,20 +30426,11 @@ On  our  expedition  we  sang  this  song,  hoping  that  we  would  capture  ma
 DBMflMOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
 No.  179.  ''I  Look  for  Them''
 
 Sung  by  Old  Buffalo
 
 
-417
-
-(Catalogue  No.  638)
-
-
-VoicB  J  =72
 Dbum  J  =73
 'Dram-rhythm  similar  to  No.  6
 
@@ -42880,7 +30454,6 @@ f  ,f  f  ,f  tff  ,frT  r  ^
 
 ye-wa-ya     6a    i  ya        ta  -  fiai)-ke       kiq  a-wa-ku-we
 
-WORDS
 
 Kai)gi^  wida^^  Idi) the  Crow  Indians
 
@@ -42950,8 +30523,7 @@ series.  The  interval  of  a  fourth  is  prominent  in  songs  concerning
 animals  and  implying  motion,  and  this  appears  in  the  plots  of  the
 songs.  Songs  Nos.  Ill,  127,  145,  and  174,  as  reference  to  their
 respective  titles  will  show,  are  songs  concerning  horses,  and  the  plots
-of  the  songs  are  seen  to  resemble  one  another.  Songs  146  and  161  con-
-cern man  and  contain  the  idea  of  motion;  their  titles  are,  respectively,
+of  the  songs  are  seen  to  resemble  one  another.  Songs  146  and  161  concern man  and  contain  the  idea  of  motion;  their  titles  are,  respectively,
 "He  is  returning,"  and  ".I  wish  to  roam."  These  plots  show  the
 characteristics  of  Class  D.  No.  177  is  called  "A  song  of  self-reUance,"
 and  we  note  in  the  plot  of  the  song  the  emphasis  and  dwelling  on  the
@@ -43022,18 +30594,8 @@ Heart  societies,  and  the  White  Horse  Riders — together  with  war
 songs  found  in  ,the  description  of   the  Sun   dance,    and  in  the
 
 
-420
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
-[BULL.  61
-
-
 section  on  war  customs;  also  such  songs  in  honor  of  an  individual  as
-were  sung  to  the  melodies  of  these  war  societies.  This  group  com-
-prises songs  Nos.  6,  7,  8,  9,  10,  22,  23,  26,  27,  28,  29,  30,  31,  32,
+were  sung  to  the  melodies  of  these  war  societies.  This  group  comprises songs  Nos.  6,  7,  8,  9,  10,  22,  23,  26,  27,  28,  29,  30,  31,  32,
 33,  34,  35,  114,  115,  116,  117,  118,  119,  120,  121,  123,  124,  178,  223,
 224,  225,  231.  The  age  of  many  war  songs  can  not  be  stated  with
 exactness,  but  the  division  between  \hese  two  classes  has  been  made
@@ -43075,8 +30637,6 @@ Serial  Nos.  of  songs.
 148, 149,'  150, 152, 154, 158, 161, 162. 167,
 168, 170, 172, 179
 
-166
-
 
 FIRST  NOTE  OF  SONG— ITS  RELATION  TO  KEYNOTE
 
@@ -43108,15 +30668,11 @@ Number
 of  songs.
 
 
-55
-
-
 Serial  Nos.  of  songs.
 
 
 122, 130, 136, 139, 143, 158, 168
 
-150
 
 142, 172, 173
 
@@ -43130,16 +30686,12 @@ Serial  Nos.  of  songs.
 156, 164, 165, 166, 170, 175, 177
 128,  137, 163, 171, 174, 176
 125,  127,  132,  149, 169
-166
 
 
 OBNQMOBB]
 
 
 TETON  SlOUt   MUSIC
-
-
-421
 
 
 Old  Songs — (6)  War  Songs  {section  /)— Continued
@@ -43177,8 +30729,6 @@ Serial  Nos.  of  songs.
 152, 154, 157, 158, 159, 160, 161, 162, 168,
 172, 173, 179
 
-166
-
 
 LAST  NOTE  OF  SONG— ITS  RELATION  TO  COMPASS  OF  SONG
 
@@ -43197,16 +30747,6 @@ Number
 of  songs.
 
 
-53
-
-
-1
-1
-
-
-55
-
-
 Serial  Nos.  of  songs.
 
 
@@ -43216,10 +30756,6 @@ Serial  Nos.  of  songs.
 151, 152, 153, 164, 155, 156, 157, 158, 159,
 160, 161, 162, 163;  165, 167, 168, 160, 170,
 171, 172, 173, 174, 175, 176, 177, 179
-
-164
-
-166
 
 
 NUMBER  OF  TONES  COMPRISING  COMPASS  OF  SONG
@@ -43247,11 +30783,9 @@ of  songs.
 
 Serial  Nos.  of  songs.
 
-4
 
 129, 148, 149, 154
 
-14
 
 122, 125,  130, 133, 136,  138, 139,
 145,  152, 158, 168,  173
@@ -43260,19 +30794,15 @@ M2,
 
 1«,
 
-2
 
 150,169
 
-4
 
 128,166,172,175
 
-7
 
 128, 163, 157, 159, 161, 164, 167
 
-23
 
 127, 131, 132, 134, 135, 137,  140,
 
@@ -43288,19 +30818,11 @@ M2,
 
 171, 174, 176, 177, 179
 
-1
-
-146
-
-55
 
 4840°— Bull.— 61— 18-
 
 
 -29
-
-
-422
 
 
 BUBEAU  OP  AMEBICAN  ETHNOLOGY
@@ -43352,16 +30874,8 @@ Octave  complete  except  second
 Other  combinations  of  tones
 
 
-1
-11
-
-11
-
-
 Serial  Nos.  of  songs.
 
-
-131
 
 122, 125, 126, 120, 133, 136, 137, 160, 152,
 
@@ -43369,61 +30883,39 @@ Serial  Nos.  of  songs.
 130, 132, 151, 153, 150,  168,  IH,  174, 17«,
 
 176, 177
-155
 
 
 Total.
 
 
-3
-
 144,166,173
 
 •
 
-5
 
 135, 139, 142, 162, 179
 
-3
 
 138, 157, 161
 
-5
 
 128, 146, 154, 160, 164
 
-2
 
 156, 167
 
-2
 
 127,134
 
-2
 
 140,170
 
-1
-
-169
-
-1
-
-147
-
-6
 
 141, 143, 145, 148, 140, 172
 
-1
-
-166
 
 •
 
-55
 
 ACCIDENTALS
 
@@ -43449,21 +30941,7 @@ Number
 of  songs.
 
 
-47
-
-
-2
-1
-1
-2
-1
-1
-
-
 Total.
-
-
-55
 
 
 Serial  Nos.  of  songs.
@@ -43478,24 +30956,11 @@ Serial  Nos.  of  songs.
 
 122, 147
 
-170
-
-163
 
 153,164
 
-167
-
-166
-
 
 OENQMOBB]
-
-
-TETON  SIOUX  MUSIC
-
-
-428
 
 
 Old  Songs — (6)  War  Songs  {section  1) — Continued
@@ -43523,11 +30988,8 @@ Total
 166, 167, 169, 170, 171, 172, 173, 175, 176
 
 125, 132, 136, 141, 143, 144, 159, 168, 177,
-179
 
 122, 130, 133, 140, 142, 155,  162, 174
-
-166
 
 
 FIRST  PROGRESSION— DOWNWARD  AND  UPWARD
@@ -43553,7 +31015,6 @@ Serial  Nos.  of  songs.
 139, 140, 141, 143, 146, 147, 150, 151, 164,
 156, 156, 157, 168, 160, 162, 168, 166, 166,
 168, 169, 170, 171, 172, 174, 176, 176, 177,
-179
 
 125, 126, 127, 128, 132, 133, 142, 144, 146,
 148, 149, 152, 153, 159, 161, 164, 167, 173
@@ -43585,12 +31046,6 @@ Major  second.
 Minor  second.
 
 Total
-
-
-424
-
-
-BUREAU   OF  AMERICAN  ETHNOLOGY
 
 
 [BtTZX^A
@@ -43695,36 +31150,10 @@ Number
 of  songs.
 
 
-3
-
-6
-7
-2
-1
-2
-2
-1
-2
-2
-3
-1
-3
 o
-
-1
-
-5
-3
-2
-2
-1
-1
 
 
 Serial  Nos.  of  songs.
-
-
-55
 
 
 131, 155, 164  •
@@ -43735,13 +31164,11 @@ Serial  Nos.  of  songs.
 
 140,152
 
-177
 
 139,158
 
 132, 137
 
-150
 
 146, 147
 
@@ -43749,13 +31176,11 @@ Serial  Nos.  of  songs.
 
 138, 161, 167
 
-163
 
 144, 150, 160
 
 127,129,135,170,179
 
-153
 
 126,145,148,149,172
 
@@ -43765,18 +31190,8 @@ Serial  Nos.  of  songs.
 
 171,173
 
-122
-
-166
-
 
 DBKaHOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-425
 
 
 'Old  Songs — (6)  War  Songs  (section  1) — Continued
@@ -43795,8 +31210,6 @@ r
 
 Beginning  on  unacoented  part  of  measure
 
-22
-33
 
 122, 126. 128. 127, 132, 135, 136, 138,  142.
 
@@ -43814,7 +31227,6 @@ Beeinnins  on  aooented  part  of  measure
 
 Total
 
-55
 
 RHYTHM  OF  FIRST  MEASURE
 
@@ -43822,7 +31234,6 @@ RHYTHM  OF  FIRST  MEASURE
 First  measure  in—
 2-4  time ^
 
-3-4  time
 
 Total
 
@@ -43839,7 +31250,6 @@ Serial  Nos.  of  songs.
 
 143. 147. 150. 151. 152. 154. 155. 157. 159,
 160, 162, 163, 165, 166, 169, 170, 171, 173,
-177
 
 
 CHANGE  OF  TIME,  MEASURE  LENGTHS
@@ -43856,17 +31266,8 @@ Number
 of  songs.
 
 
-1
-54
-
-
-55
-
-
 Serial  Nos.  of  songs.
 
-
-155
 
 122, 125,  126, 127, 128, 129, 130, 131,  132,
 133, 134, 135, 136, 137, 138, 139, 140, 141,
@@ -43877,9 +31278,6 @@ Serial  Nos.  of  songs.
 
 
 n
-
-
-426
 
 
 BUBEAU   OF  AMEBICAN  ETHNOLOGY
@@ -43917,20 +31315,6 @@ Drum  not  recorded... .'.i
 Total
 
 
-3
-
-2
-
-2
-
-10
-
-38
-
-
-55
-
-
 Serial  Nos.  of  songs.
 
 
@@ -43941,7 +31325,6 @@ Serial  Nos.  of  songs.
 120, 167
 
 125, 127, 128, 132, 136, 151, 164,  IM,  177,
-179
 
 122, 126, 131, 134, 136, 137, 138, 130,  140,
 141, 144, 145,.146, 147, 148, 140, 150, 152,
@@ -43971,19 +31354,6 @@ Number
 of  songs.
 
 
-22
-
-
-27
-
-
-6
-1
-
-
-55
-
-
 Serial  Nos.  of  songs.
 
 
@@ -43997,7 +31367,6 @@ Serial  Nos.  of  songs.
 176,  177.
 
 165, 167, 168, 170, 171
-120
 
 
 METRIC  UNIT  OF  VOICE  (TEMPO)
@@ -44005,62 +31374,21 @@ METRIC  UNIT  OF  VOICE  (TEMPO)
 
 Metronome^
 
-48
-
-54
-
-56
-
-58
-
-60
 
 63 •.
-
-66
-
-60
-
-72
-
-76
-
-80
-
-88
 
 
 Number
 of  songs.
 
 
-1
-1
-2
-2
-1
-2
-2
-3
-3
-4
-6
-5
-2
-
-
 Serial  Nos.  of  songs.
 
-
-141
-
-176
 
 146,147
 
 131,174
 
-173
 
 142,156
 
@@ -44082,12 +31410,6 @@ Serial  Nos.  of  songs.
 OKN8MORE]
 
 
-TETON  SIOUX  MUSIC
-
-
-427
-
-
 OH  Songs — [6)  War  Songs  (section  1) — Continued
 
 Rhtthmio  Analtbib — Continued
@@ -44104,12 +31426,6 @@ Metronome— Continued.
 
 02 ;
 
-8
-7
-2
-1
-2
-1
 
 127, 1^,  132, 161, 162, 159, 161, 166
 
@@ -44117,48 +31433,20 @@ Metronome— Continued.
 
 129,168
 
-136
 
 149,154
 
-139
-
-96
-
-104
-
-112
-
-116
 
 144 »
 
 Total
 
-65
 
 METRIC  UNIT  OF  DRUM  (TEMPO)
 
 
 Metronoma—
 
-63
-
-72
-
-76
-
-80
-
-88
-
-92
-
-96
-
-104
-
-116
 
 Drum  not  recorded
 
@@ -44170,31 +31458,11 @@ Number
 of  songs.
 
 
-1
-1
-2
-1
-2
-4
-4
-1
-1
-38
-
-
-55
-
-
 Serial  Noe.  of  songs.
 
 
-142
-
-179
-
 143,177
 
-135
 
 161,162
 
@@ -44202,9 +31470,6 @@ Serial  Noe.  of  songs.
 
 125,130,133,167
 
-129
-
-154
 
 122, 126, 131, 134, 136, 137, 188, 139, 140,
 141, 144, 145, 146, 147, 148, 149, 150, 152,
@@ -44233,19 +31498,12 @@ Serial  Nos.  of  songs.
 125, 127, 128, 129, 130,  132, 133, 135, 142,
 143, 151, 154, 162, 167,  IH,  179
 
-161
 
 122, 126, 131, 134, 136, 137, 138, 139, 140,
 141, 144, 145, 146, 147, 148, 149, 150, 152,
 153, 155, 156, 157, 158, 159, 160, 163, 164,
 165, 166, 168, 169, 170, 171, 172, 173, 174,
 175, 176
-
-
-428
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 tBDLL.  61
@@ -44268,13 +31526,6 @@ Total.
 
 Nomber
 of  aongs.
-
-
-14
-18
-
-
-32
 
 
 Serial  Nos.  of  songs.
@@ -44319,26 +31570,11 @@ Number
 of  songs.
 
 
-7
-1
-5
-3
-6
-6
-1
-1
-2
-
-
-32
-
-
 Serial  Nos.  of  songs.
 
 
 6, 30, 34, 35, 117, 118, 224
 
-23
 
 27,28,32,33,119
 
@@ -44348,9 +31584,6 @@ Serial  Nos.  of  songs.
 
 9,29,31,115,121,231
 
-8
-
-7
 
 10, 178
 
@@ -44373,7 +31606,6 @@ Serial  Nos.  of  songs.
 
 
 7,  9,  10, 26, 31, 32, 114, 115, 116, 124, 178,
-231
 
 8,  29,  33, 119,  121
 
@@ -44388,9 +31620,6 @@ DIN8MOBK]
 
 
 TETON  SIOUX  MUSIO
-
-
-429
 
 
 GomfanjAivdy  Modem  Songs — (1)  War  Songs  {see.  S) — Continued
@@ -44426,11 +31655,6 @@ Serial  Nos.  of  songs.
 114, 115, 116, 117, 118, 119, 120, 121, 123,
 124, 223, 224, 226, 231
 
-178
-
-28
-
-30
 
 10,33
 
@@ -44468,15 +31692,12 @@ Serial  No6.  of  songs.
 
 6,  7, 26, 27, 30, 114, 116, 117, 118, 224
 
-23
 
 8,28,29,33,120,121
 
 123,223
 
 9,22,81,115,119,226,231
-
-6
 
 
 TONE  MATERIAL
@@ -44523,28 +31744,6 @@ Number
 of  songs.
 
 
-2
-3
-1
-1
-3
-1
-4
-4
-3
-2
-1
-1
-1
-1
-2
-1
-1
-
-
-32
-
-
 Serial  Noe.  of  songs.
 
 
@@ -44552,13 +31751,9 @@ Serial  Noe.  of  songs.
 
 8,20,226
 
-9
-
-124
 
 118, 119, 281
 
-178
 
 34, 114, 117,  234
 
@@ -44568,22 +31763,8 @@ Serial  Noe.  of  songs.
 
 26, 115
 
-10
-
-28
-
-33
-
-6
 
 30,116
-
-22
-
-121
-
-
-430
 
 
 BUBEAU  OP  AMERICAN  ETHNOLOGY
@@ -44628,43 +31809,13 @@ Number
 ofsongB.
 
 
-23
-
-
-2
-1
-1
-1
-1
-1
-1
-
-
-32
-
-
 Serial  Nob.  of  songs.
 
 
 7,8,10,23,26,27,28,20,80,31,32,33,34,
 36, 115, 116, 117, 118, 110, 121, 178, 223,
-231
 
 6,120
-
-224
-
-225
-
-9
-
-128
-
-22
-
-114
-
-124
 
 
 STRUCTtTRB
@@ -44723,8 +31874,6 @@ Serial  Nos.  of  songs.
 
 Downward
 
-707
-390
 
 •
 
@@ -44738,9 +31887,6 @@ DENSUOBC]
 
 
 TETON  SIOUX  MUSIO
-
-
-431
 
 
 Comparatively  Modem  Songs — C^)  War  Songs  (sec.  S) — Continued
@@ -44810,9 +31956,6 @@ Total  number  of  semitones
 Average  number  of  semitones  in  an  interval.
 
 
-432
-
-
 BtJBEATT  OP  AMERICAN  ETHNOLOGY
 
 
@@ -44870,9 +32013,6 @@ Serial  Nob.  o(  songB.
 
 31,178
 
-34
-
-35
 
 117,231
 
@@ -44886,19 +32026,8 @@ Serial  Nob.  o(  songB.
 
 116, 124
 
-28
 
 10,32,114,123
-
-7
-
-225
-
-223
-
-0
-
-118
 
 
 Rhtthmio  Analysis
@@ -44913,8 +32042,6 @@ Serial  Nos.  of  songn.
 
 Beslnnlne  on  unaccented  part  of  measure
 
-7
-25
 
 7, 8, 26, 27, 117. 119, 178
 
@@ -44927,7 +32054,6 @@ Beginning  on  accented  part  of  measure
 
 Total
 
-32
 
 RHYTHM  OF  FIRST  MEASURE
 
@@ -44940,14 +32066,9 @@ Serial  Nos.  of  songs.
 
 First  measure  in—
 
-2-4  time
-
-27
-5
 
 6,  7,  8,  9,  22,  23,  26,  27,  29, 30, 31, 32,  33,
 
-3-4  time
 
 34,  35, 115, 116, 117,  118,  119, 120, 121,
 123,178,224,225,231
@@ -44955,15 +32076,8 @@ First  measure  in—
 
 Total
 
-32
 
 DBNQMOBE]
-
-
-TETON  SIOUX   MUSIC
-
-
-433
 
 
 Comparatively  Modem  Songs-^{l)  War  Songs  (sec,  2) — Continued
@@ -44980,10 +32094,6 @@ Serial  Nos.  of  songs.
 
 Songs  oontalnlng  no  chooge  of  time
 
-4
-28
-
-1
 
 31,32,34,121
 
@@ -44996,7 +32106,6 @@ Songs  eontftining  a  change  of  time , ...
 
 Total
 
-32
 
 RHYTHM  OF  DRUM
 
@@ -45007,8 +32116,7 @@ Quarter  notes  unaccented
 
 Eighth  notes  accented  In  groups  of  two
 
-Each  beat  preceded  by  an  unaccented  beat  correspond-
-ing to  third  count  of  a  triplet.
+Each  beat  preceded  by  an  unaccented  beat  corresponding to  third  count  of  a  triplet.
 Drum  not  recorded
 
 
@@ -45017,20 +32125,6 @@ Total.
 
 Number
 of  son^.
-
-
-6
-
-11
-
-3
-
-4
-
-8
-
-
-32
 
 
 Serial  Nos.  of  songs.
@@ -45063,18 +32157,11 @@ Songs  containing—
 
 No  rhythmic  unit
 
-5
 
 22, 23, 178, 223, 231
 
 One  rhythmic  U"**-. .
 
-19
-
-6
-1
-
-1
 
 9,  10,  27,  28,  29,  31,  32,  35,  114,  115,  116,
 
@@ -45085,25 +32172,13 @@ Two  rhythmic  ^mitg .
 
 Three  rhythmic  vnits
 
-7
 
 Five  rhythmic  units
 
 Total
 
-30
-
-32
 
 •
-
-434
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Comparatwely  Modem  Songs — (1)  War  Songs  (sec,  S) — Continued
@@ -45122,44 +32197,19 @@ Serial  Nos.  of  songs.
 
 Metronome—
 
-66
-
-1
-1
-3
-1
-1
-2
-6
-3
-
-23
 
 63 --
 
-22
-
-66
 
 •
 
 123, 178, 226
 
-60
-
-224
-
-72
-
-223
-
-76
 
 «
 
 27,124
 
-80
 
 6, 20, 30, 115, 120, 231
 
@@ -45167,35 +32217,17 @@ Metronome—
 
 31,  35, 116
 
-88
-
-4
 
 26, 114, 117, 110
 
-02
-
-1
-2
-3
-1
-3
-
-28
-
-06
 
 7,0
 
-104
 
 8, 118, 121
 
 112 i
 
-10
-
-176
 
 32, 33, 34
 
@@ -45203,7 +32235,6 @@ Metronome—
 
 Total
 
-32
 
 .
 
@@ -45216,66 +32247,21 @@ Serial  Nos.  of  songs.
 
 Metronome—
 
-56
-
-1
-
-1
-1
-1
-1
-4
-2
-3
-1
-2
-4
-3
-8
-
-114
-
-60
-
-20
-
-63
-
-124
-
-66
-
-123
-
-76
-
-27
-
-80
 
 6, 30, 115, 120
 
-84
 
 31,35
 
-88
 
 26,117,231
 
-02
-
-28
-
-06
 
 8,119
 
-104
 
 0, 10, 118, 121
 
-176
 
 32,33,34
 
@@ -45285,15 +32271,8 @@ Pnim  not  recordfMl ...
 
 TotaL
 
-32
 
 DBNJilCOBa]
-
-
-TETON   SIOUX  MUSIC
-
-
-435
 
 
 ComparativAy  Modem  Songs — {1)  War  Songs  (sec.  Z) — Continued
@@ -45318,16 +32297,6 @@ Number
 of  song?.
 
 
-16
-
-3
-5
-8
-
-
-32
-
-
 Serial  Noe.  of  songs.
 
 
@@ -45340,8 +32309,7 @@ Serial  Noe.  of  songs.
 
 
 A  majority  of  the  remaining  songs  in  this  work  are  comparatiyely
-modem,  their  analyses,  together  with  section  2  of  the  war  songs,  com-
-prising Group  2  in  the  collective  analyses  shown  on  pages  12-21.
+modem,  their  analyses,  together  with  section  2  of  the  war  songs,  comprising Group  2  in  the  collective  analyses  shown  on  pages  12-21.
 
 
 THE  BUFFALO  HUNT  (WANA'SAPI*)
@@ -45378,8 +32346,7 @@ country,  many  years  ago.'
 
 In  studying  the  customs  of  the  buffalo  hunt  among  the  Teton
 Sioux  the  writer  interviewed  many  old  men,  later  reading  the
-unfinished  narrative  to  them  so  they  might  discuss  it  and  make  cor-
-rections or  additions.  The  completed  material  comprises  an  account
+unfinished  narrative  to  them  so  they  might  discuss  it  and  make  corrections or  additions.  The  completed  material  comprises  an  account
 of  the  making  of  buffalo  bows  and  arrows,  and  the  cutting  up  of
 the  buffalo,  by  White  Hawk,  a  narrative  of  the  searching  party  by
 iSiya'ka,  and  an  account  of  the  hunt  consisting  chiefly  of  information
@@ -45427,8 +32394,7 @@ strength,  but  one  characteristic  which  all  had  incommon  was  that  the  
 the  arrow  was  nearer  the  upper  than  the  lower  end  of  the  bow,  the  lower  section  being
 longer  and  thicker  than  the  upper.  Some  men  used  the  wood  of  the  cherry  or  plum
 tree  for  their  bows,  while  others  preferred  the  crab  apple  or  some  other  hardwood.
-The  back  of  the  bow  was  covered  with  sinew  which  bad  been  made  flexible  by  rub-
-bing and  then  dried.  When  this  was  ready  the  back  of  the  bow  was  cut  in  numerous
+The  back  of  the  bow  was  covered  with  sinew  which  bad  been  made  flexible  by  rubbing and  then  dried.  When  this  was  ready  the  back  of  the  bow  was  cut  in  numerous
 places  and  covered  with  glue  made  from  the  hide  of  the  buSalo,  the  part  used  for  this
 purpose  being  a  etrip  between  the  horns,  back  of  the  eyee;  the  anew  was  then  applied
 and  became  put  of  the  bow.  The  itring  of  the  bow  was  of  the  sinew  of  the  bufialo
@@ -45507,8 +32473,7 @@ through  the  tissues  of  the  animal.
 
 Most  quivers  hdd  10  arrows.  A  man  might  make  his  own  quiver,
 although  he  usually  ordered  arrows  from  an  arrow  maker,  a  hundred
-at  a  time.  Red  Fox  (pp.  90, 375,  et  seq.)  was  known  as  a  skillful  arrow-
-maker  in  the  old  days.
+at  a  time.  Red  Fox  (pp.  90, 375,  et  seq.)  was  known  as  a  skillful  arrowmaker  in  the  old  days.
 
 A  buffalo  hunt  frequently  took  place  when  the  tribe  was  about  to
 move  to  a  new  camping  place.     In  describing  such  a  hunt  Siya'ka  said :
@@ -45518,8 +32483,7 @@ whether  there  was  enough  food  to  last  for  a  considerable  tune.  If  it
 a  hunt  was  advisable  these  old  men  .consulted  the  leaders  in  the  various  societies
 (as  the  Strong  Heart  or  White  Horse  societies),  and  together  they  decided  on  the
 young  men  who  were  to  go  and  search  for  the  buffalo.  This  task  required  young  men
-who  were  known  to  be  truthful  and  faithful  to  duty,  as  well  as  possessed  of  the  neces-
-sary physical  ability  and  general  equipment.  Only  men  were  selected  who  were
+who  were  known  to  be  truthful  and  faithful  to  duty,  as  well  as  possessed  of  the  necessary physical  ability  and  general  equipment.  Only  men  were  selected  who  were
 known  to  be  ready,  as  there  was  not  sufficient  time  to  prepare  after  they  were  notified.
 This  was  one  of  the  greatest  honors  which  could  be  conferred  on  a  man,  as  it  indicated
 that  the  tribe  depended  upon  him  for.help  in  the  food  supply,  without  which  it  could
@@ -45555,24 +32519,13 @@ s  Compare  description  of  departure  of  those  who  went  to  select  the  S
 J
 
 
-440
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
 No.  180.  Song  of  the  Buffalo  Hunt  (a)
 
 Sung  by  ^iya'ka
-VoicB  J  =92
 Dbum   J=  98
-Drum-rhythm  similar  to  No.  6
 
 
 f  BDLL.  «i
-
-
-(Catalogue  No.  475)
 
 
 ■ji^itr/r  if|f^  itTT  i|,jkn  tf  II
@@ -45611,24 +32564,16 @@ them,  and  if  these  men  saw  them  coming  they  returned  to  the  camp,  a
 announced  to  the  people  that  the  searching  party  was  in  sight.  The  searching  party
 gave  certain  signals  to  indicate  the  result  of  their  search,  running  back  and  forth  if
 the  buffalo  were  close  at  hand,  or  waving  a  blanket  at  its  full  width  and  then  laying
-it  flat  on  the  ground  if  they  had  seen  a  particularly  large  herd.  Some  went  on  horse-
-back to  meet  them,  and  the  entire  tribe  assembled  in  the  middle  of  the  circle  to  heaz
+it  flat  on  the  ground  if  they  had  seen  a  particularly  large  herd.  Some  went  on  horseback to  meet  them,  and  the  entire  tribe  assembled  in  the  middle  of  the  circle  to  heaz
 their  report.    The  following  song  was  sung  as  they  returned.
 
 
 DEN  smoke]
 
 
-TETON  SIOUX  MUSIC
-
-
-441
-
-
 No,  181.  Soni;  of  the  Buffftlo  Hunt  (b)       (Catalogue  No.  476)
 
 Sung  by  Sita^ka
-VoicB  J  =  80
 
 Dmm-rhythm  similar  to  No.  6.
 
@@ -45649,8 +32594,7 @@ nine  tones,  and  is  melodic  in  structure.
 The  party  entered  the  tribal  circle  with  the  leader  in  advance.^  The  stick  was
 again  placed  upright  in  the  ground,  and  they  circled  around  it,  many  striking  it.  In
 the  middle  of  the  council  tent  a  small  space  of  bare  ground  had  been  made  ready.
-This  was  hard  and  smooth,  not  pulverized  as  in  the  Alo^wagpi  ceremony,  the  Spirit-
-keeping  lodge,  and  the  Sun-dance  ceremony.  [See  pp.  71,  82, 122.]  A  buffalo  chip
+This  was  hard  and  smooth,  not  pulverized  as  in  the  Alo^wagpi  ceremony,  the  Spiritkeeping  lodge,  and  the  Sun-dance  ceremony.  [See  pp.  71,  82, 122.]  A  buffalo  chip
 was  placed  on  this  bare  ground,  and  beside  it  were  placed  a  little  sweet  grass  and  a
 pipe  filled  and  ready  to  smoke.  The  searcher  who  was  first  to  see  the  buffalo  entered
 the  lodge  in  advance  of  his  companions.  As  they  entered  the  lodge  many  of  the
@@ -45678,12 +32622,6 @@ row  of  listeners  sat  with  the  palms  of  their  hands  on  the  ground  as
 >  From  this  point  the  narrative  is  chiefly  that  of  Swift  Dog,  interpreted  by  Mrs.  McLaughlin.
 
 
-442
-
-
-BUREAU   OP  AMERICAN  ETHNOLOGY
-
-
 [BUIX.  SI
 
 
@@ -45706,8 +32644,7 @@ black  with  buffalo. "    And  the  people  would  say  Hi^  once  more.
 
 Thus  far  the  people  had  remained  very  quiet,  but  when  the  report  was  completed
 there  was  great  excitement.  The  crier  shouted,  "Put  saddles  on  your  horses  1  Put
-saddles  on  yoiur  horses  1  We  go  now  to  hunt  the  buffalo  I "  As  soon  as  this  announce-
-ment was  made  to  the  whole  village,  the  horses  were  brought  in,  and  men  and  horseB
+saddles  on  yoiur  horses  1  We  go  now  to  hunt  the  buffalo  I "  As  soon  as  this  announcement was  made  to  the  whole  village,  the  horses  were  brought  in,  and  men  and  horseB
 were  painted.  Whetstones  were  brought  out  and  knives  were  sharpened.  The  scene
 was  one  of  busy  preparation  for  the  great  event.
 
@@ -45737,11 +32674,6 @@ No.  182.  Song  of  the  Buffalo  Hunt  (c)
 
 Sung  by  Gray  Hawk
 VoicB  J  —  92
-Drum   J  =  92
-Drum-rhythm  similar  to  No.  6
-
-
-(Catalogue  No.  545)
 
 
 i
@@ -45768,8 +32700,7 @@ continuing  a  steady  beat  throughout  the  entire  performance.
 
 When  the  killing  of  the  buffalo  was  finished  the  meat  was  dressed
 and  prepared  for  transportation  to  the  camp.  White  Hawk  gave  a
-description  of  the  cutting  up  of  a  buffalo,  which  was  read  to  HeHa'ka-
-wa'-kita  (Looking  Elk),  who  pronoxmced  it  correct.  These  two  men
+description  of  the  cutting  up  of  a  buffalo,  which  was  read  to  HeHa'kawa'-kita  (Looking  Elk),  who  pronoxmced  it  correct.  These  two  men
 were  said  to  be  especially  proficient  in  this  phase  of  the  buffalo  hunt.
 The  description,  which  follows  (interpreted  by  Edward  Swan),  is  that
 of  the  cutting  up  of  a  buffalo  cow:
@@ -45862,9 +32793,6 @@ dkvhmork]
 TETOK  SlOrX  MUSIC
 
 
-445
-
-
 No.  183.  Sonip  To  Secure  Buffalo  In  Time  of  Famine       (Catalogue  No.  469)
 
 Sung  by  Siya-'ka
@@ -45893,8 +32821,6 @@ o  -  ta    e  -  ya
 
 ya     ma    -      wa  -  nl
 
-
-WORDS
 
 (First  rendition)
 
@@ -45946,8 +32872,7 @@ mawa'^ni as  I  walked
 
 446  BUEEAU  OF  AMERICAN  ETHNOLOGY  [boll.  «i
 
-.  Analysis. — All  the ^^  Verses"  of  this  song  were  recorded,  the  repe-
-titions of  the  melody  showing  no  difFerences  except  in  note  values
+.  Analysis. — All  the ^^  Verses"  of  this  song  were  recorded,  the  repetitions of  the  melody  showing  no  difFerences  except  in  note  values
 affected  by  the  words.  It  is  not  a  rhythmic  melody.  In  structure
 the  song  is  melodic.  The  tonality  is  minor,  and  all  the  tones  of  the
 octave  are  present  except  the  second.  Two-thirds  of  the  progressions
@@ -45956,11 +32881,9 @@ seconds.
 
 A  white  buffalo  is  said  to  have  been  particularly  swift  and  wary ;
 for  this  reason,  as  well  as  because  of  its  rarity,  it  was  very  difficult  to
-secure.  It  was  a  handsome  animal,  the  rougher  parts  of  the  fur  be-
-ing soft  and  fine,  and  the  smooth  parts  shiny  and  glossy.  The  horns
+secure.  It  was  a  handsome  animal,  the  rougher  parts  of  the  fur  being soft  and  fine,  and  the  smooth  parts  shiny  and  glossy.  The  horns
 were  black  and  the  hoofs  pinkish,  the  end  of  its  nose,  too,  being
-pink.  The  last  white  buffalo  seen  on  the  Standing  Rock  Reserva-
-tion was  killed  near  the  Missouri  River,  in  the  vicinity  of  th^  present
+pink.  The  last  white  buffalo  seen  on  the  Standing  Rock  Reservation was  killed  near  the  Missouri  River,  in  the  vicinity  of  th^  present
 town  of  Pollock.
 
 If  a  white  buffalo  were  killed  in  a  hunt  the  fatal  arrow  was  purified
@@ -46004,16 +32927,14 @@ bear  and  an  elk  with  bow  and  arrows,  is  shown  in  one  of  his  drawin
 (See  pi  60,  A.)
 
 Jaw  said  that  on  three  occasions  he  killed  a  bear  with  a  gun,
-but  that  it  was  very  hard  to  do  so  with  bow  and  arrows.  The  cir-
-cumstances imder  which  he  was  successful  in  this  are  as  follows.
+but  that  it  was  very  hard  to  do  so  with  bow  and  arrows.  The  circumstances imder  which  he  was  successful  in  this  are  as  follows.
 
 One  simmier  he  and  another  man  had  been  himting  deer  and  were
 returning  with  their  horses  loaded  with  meat.  Jaw  had  a  gun,  while
 his  companion  carried  a  bow  and  arrows.  They  saw  a  mother  beax
 and  two  cubs  coining  toward  them.  Giving  the  gun  to  his  companion.
 Jaw  took  his  bow  and  arrows.  The  bear  tried  to  fight  him,  and  as  it
-turned  he  hit  the  beast  with  an  arrow.  Three  times  the  bear  re-
-newed  the  attack,  but  each  time  he  wounded  it  with  an  arrow,  finally
+turned  he  hit  the  beast  with  an  arrow.  Three  times  the  bear  renewed  the  attack,  but  each  time  he  wounded  it  with  an  arrow,  finally
 killing  it.
 
 The  elk  himt  (shown  in  pi.  60)  took  place  in  winter,  when  he  was
@@ -46123,24 +33044,14 @@ mi  -  ye    ka  -  ked    e  -  6ui]    u  -  wa  -  ta  -  be    we    yo    h
 ^m
 
 
-WORDS
-
 kola^ Mend
 
 ta^ku  yaka^  pelo^ what  you  are  saying  (is  true)
 
 itax)^6ai)  kii) the  chiefs
 
-448
-
 
 DEXQMORE]
-
-
-TETON  SIOUX  MUSIC
-
-
-449
 
 
 hena^pila are  gone
@@ -46169,9 +33080,6 @@ Sung  by  ^iya'ka
 YoxGB  J  =76
 Dbum  J  =76
 Dram-rhythm  similar  to  No.  6
-
-
-(Catalogue  No.  455)
 
 
 &  ii^tfrr  1^  r  ii!iLrtJT7i
@@ -46207,8 +33115,6 @@ V    -fao  -na       ko-wa-ki-pe     toi       le    wa-oi)      we     he
 ^m
 
 
-WORDS
-
 kola'' friends
 
 ta^u  ote^Mka with  all  manner  of  difficulties
@@ -46224,12 +33130,6 @@ le still
 waOg' alive
 
 we ami
-
-
-450
-
-
-BUREAU   OP  AMERICAN  ETHNOLOGY
 
 
 [BULL.  «1
@@ -46285,23 +33185,14 @@ be-  na        o  -  ki  -  hi     wa
 6ai)-mi    ye  -  lo
 
 
-WORDS
-
 oya^te  kii)hai)^  ta'ku  aki^yapi
 
 6ai)^na  he whatever  the  tribe  decide  upon  in  council
 
-he^na  okilii  wada^'mi  yelo'. .  that  is  what  I  wish  to  do  my  part  in  accom-
-plishing
+he^na  okilii  wada^'mi  yelo'. .  that  is  what  I  wish  to  do  my  part  in  accomplishing
 
 
 DENSMORE]
-
-
-TETON   SIOUX   MUSIC
-
-
-451
 
 
 Analysis. — ^In  prominence  of  the  fourth  and  the  minor  second  this
@@ -46320,7 +33211,6 @@ No.  187.  "His  Customs  I  Adopted"     (Catalogue  No.  615)
 Sung  by  Ubed-as-a-Shield
 Voici  J=:66
 Brum  J  =  66
-Drum-rhythm  similar  to  No.  0
 
 
 (1)
@@ -46359,8 +33249,6 @@ m
 EaaSEE
 
 
-WORDS
-
 ate^ father  (referring  to  the  old  men,  liis  ancestors)
 
 tawi^6ohai)^pi  kii) his  customs
@@ -46379,8 +33267,7 @@ waki^  yelo^ I  am  having
 452  BUBEAU   OF  AMEBICAN   ETHNOLOGY  (bull.  •!
 
 Analysis, — ^This  song  contains  a  large  variety  of  intervals,  there
-being  seven  kinds  of  upward,  and  six  kinds  of  downward,  progres-
-sions. Of  the  intervals  75  per  cent  are  minor  thirds  and  major
+being  seven  kinds  of  upward,  and  six  kinds  of  downward,  progressions. Of  the  intervals  75  per  cent  are  minor  thirds  and  major
 seconds.  The  song  is  major  in  tonality,  melodic  in  structure,  and
 lacks  the  seventh  tone  of  the  complete  octave.  Three  rhythmic
 units  are  foimd  in  the  song,  the  second  and  third  having  one  count
@@ -46396,8 +33283,7 @@ song.  It  contains  the  words,  '* Friends  take  courage;  right  here  we
 are  coming;  they  see  us.''  In  explanation  of  %his  class  of  songs
 a  Sioux  said,  **The  chiefs  do  not  sing  these  songs;  the  people  sing
 them  meaning  *the  chief  says  so  and  so\''  Thi  following  belongs
-to  the  second  class  of  Chief  songs  and  is  said  to  |^e  an  old  and  par-
-ticularly good  example.  Two  Bears  was  the  hea^  chief  of  the  Lower
+to  the  second  class  of  Chief  songs  and  is  said  to  |^e  an  old  and  particularly good  example.  Two  Bears  was  the  hea^  chief  of  the  Lower
 Yanktonais  band  of  Sioux,  the  most  numerous  band  on  the  Standing
 Rock  Reservation,  and  was  prominent  in  tribal  councils.  He  died
 about  the  year  1886.  An  interesting  record  concerning  this  man  is
@@ -46405,8 +33291,7 @@ preserved  in  the  report  of  the  Indian  agent  for  thSe  year  1874.*  Thi
 record  is  as  ifollows:  t
 
 On  the  let  of  July  I  was  infonned  that  a  party  of  young  nlen  had  left  this  agency
-to  make  war  on  Indians  up  the  river.  I  asked  the  principal ^hiefs  to  stop  these  pro-
-ceedings. They  promptly  responded  by  sending  their  sblmers  out,  who  overtook
+to  make  war  on  Indians  up  the  river.  I  asked  the  principal ^hiefs  to  stop  these  proceedings. They  promptly  responded  by  sending  their  sblmers  out,  who  overtook
 the  war  party  and  brought  them  back.  The  conduct  of  Chief  Two  Bears  and  Chief
 Antelope  on  this  occasion  deserves  particular  credit.  The  defeat  of  the  party  is
 mainly  attributable  to  the  energetic  action  of  these  two  chiefs.
@@ -46417,20 +33302,12 @@ mainly  attributable  to  the  energetic  action  of  these  two  chiefs.
 DEN8MORE]
 
 
-TETON  SIOUX   MUSIC
-
-
-453
-
-
 No.  188.  Song  In  Honor  of  Two  Bears  (Catalogue  No.  454)
 Sung  by  iSiya'ka
 
 VoicBj=iia
 
 Dbum  J  ^112
-
-Drum-rhythm  similar  to  No.  19
 
 
 I
@@ -46463,8 +33340,6 @@ i^
 i
 
 
-WORDS
-
 oya'te  Irig the  tribe
 
 ta'ini  aki^yapi  6ax)^na whenever  they  council
@@ -46479,8 +33354,7 @@ forming  more  than  55  per  cent  of  the  entire  number..  The  major
 third  and  the  fourth  each  appears  three  times.  The  indicated  change
 of  tempo  occurs  in  all  three  renditions,  the  metronome  speed  of  each
 part  of  the  song  being  accurate.  The  tempo  of  the  drum  remains  the
-same  throughout  the  song.  (See  song  No.  5.)  The  song  has  a  com-
-pass of  an  octave  and  was  sung  with  good  intonation.
+same  throughout  the  song.  (See  song  No.  5.)  The  song  has  a  compass of  an  octave  and  was  sung  with  good  intonation.
 
 The  two  songs  next  following  are  in  honor  of  Gabriel  Renville,
 
@@ -46497,13 +33371,6 @@ fur  hunter,  who  married  into  the  Kaposia,  or  Little  Raven  band  of  th
 
 
 1  Robinson,  De  Lorme  W.,  in  South  Dakoij  Himrieal  OMeeUofu,  vol.  1,  p.  126^  Aberdeen,  S.  Dak.,  1902.
-4840'*— Bull.  61—18 31
-
-
-454
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 [BULL.  <I
@@ -46522,17 +33389,9 @@ distinction  for  his  ability.
 No.  189.  Song  in  Honor  of  Gabriel  BenviUe  (a)
 
 Sung  by  Moses  Renville  (Ma wis)
-Voice  J =92
-
-Drum  J  =  84
-
-Drum-rhythm  similar  to  No.  19
 
 
 t'f^f^
-
-
-(Catalogue  No.  665)
 
 
 ^M
@@ -46586,8 +33445,6 @@ na      na      de
 wa-  on    we
 
 
-WORDS
-
 TiVakai) ' Holy  House  (known  as  Gabriel  Renville)
 
 heye'do has  said
@@ -46612,8 +33469,6 @@ though  fewer  than  one-fourth  of  the  intervals  are  minor  thirds.
 All  the  tones  of  the  octavo  except  the  sixth  are  contained  in  the
 melody,  which  has  a  compass  of  nine  tones.
 
-See  plot  of  this  melody  on  page  461.
-
 
 1  Full  form  is  Trpiwakai).
 
@@ -46624,23 +33479,13 @@ See  plot  of  this  melody  on  page  461.
 DINQlfOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-455
-
-
 No.  190.  Song  In  Honor  of  Gabriel  Senrllle  (b)
 
 Sung  byMosEs  RENvnxB
-VoicB  J  =  92
 
 Dbuk  J=r84
 
 Drum-rhythm  shnilar  to  No.  10
-
-
-(Catalogue  No.  666)
 
 
 'h»it  LJiiar  sj'Cr-rriiy
@@ -46652,10 +33497,7 @@ Drum-rhythm  shnilar  to  No.  10
 ^^
 
 
-Ti-pi-
-
-
-wi,^a  r  jT  f  \\i0
+Ti-piwi,^a  r  jT  f  \\i0
 
 
 f=fra
@@ -46671,9 +33513,6 @@ ye  fini  a     he  Si- si    -     te-tox)-wai)  kii)    he  e
 
 
 ha  -  ya-pi  do
-
-
-WORDS
 
 
 Ti'piwakai} Holy  House  (known  as  Gabriel  Renville)
@@ -46694,35 +33533,24 @@ Sisi^toQ  wai)  klQ the  Sisseton  Sioux
 
 heya^pi  do have  said
 
-Analysis. — In  general  character  this  song  resembles  the  preced-
-ing, but  it  is  longer  and  contains  a  rhythmic  unit.  The  drum  is
-persistently  slower  than  the  voice,  as  in  the  preceding  song,  through-
-out five  renditions.  Of  the  intervals  80  per  cent  are  minor  thirds
+Analysis. — In  general  character  this  song  resembles  the  preceding, but  it  is  longer  and  contains  a  rhythmic  unit.  The  drum  is
+persistently  slower  than  the  voice,  as  in  the  preceding  song,  throughout five  renditions.  Of  the  intervals  80  per  cent  are  minor  thirds
 and  major  seconds,  the  other  intervals  consisting  of  five  fourths  and
 one  ascending  fifth.  The  song  has  a  range  of  an  octave  and  is  melodic
 in  structure.
 
-Songs  Nos.  191  and  192  are  in  honor  of  men  living  at  the  pres-
-ent time  who  were  chiefs  of  the  Teton  Sioux  under  the  old  tribal
+Songs  Nos.  191  and  192  are  in  honor  of  men  living  at  the  present time  who  were  chiefs  of  the  Teton  Sioux  under  the  old  tribal
 organization.  While  their  actual  authority  has  passed  away,  they
 are  still  regarded  as  chiefs  and  accorded  some  of  their  former  honor.
 
-This  melody  was  recently  composed  and  was  said  to  be  a  grass-
-dance  tune.  During  a  gathering  of  Sioux  at  the  Standing  Rock
+This  melody  was  recently  composed  and  was  said  to  be  a  grassdance  tune.  During  a  gathering  of  Sioux  at  the  Standing  Rock
 Agency  in  the  summer  of  1912  this  song  was  sung  in  honor  of  John
-
-
-456
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
 
 
 [BDLL.  m.
 
 
-Grass  (pi.  73),  one  of  whose  native  names  is  Mato'-wata'kpe  (Charg-
-ing Bear) .  John  Grass  is  the  most  prominent  Sioux  chief  living  at  the
+Grass  (pi.  73),  one  of  whose  native  names  is  Mato'-wata'kpe  (Charging Bear) .  John  Grass  is  the  most  prominent  Sioux  chief  living  at  the
 present  time  (see  p.  89).
 
 No.  191.  Song  in  Honor  of  John  Grass       (Catalogue  No.  643)
@@ -46731,12 +33559,6 @@ No.  191.  Song  in  Honor  of  John  Grass       (Catalogue  No.  643)
 
 Sung  by  Shoots  Fiasr  (TokA'ya-wi6a'o)
 Ist  rendition
-
-VoiCB  J  =63
-
-Drum  J  =63
-
-Drum-rhythm  similar  to  No.  6
 
 
 -^t  ir
@@ -46766,8 +33588,6 @@ he    ye      ye     c    ti  -  hi-hi-ya   o  -  ma   -    wa  -  ni  ye  -  lo
 M&-to  -  wa  -  ta  -  kpe   ya    he-ya  -  ke  -  ya  pe  •  lo         he     ye      yo
 
 
-WORDS
-
 oya^'te  kii) the  tribe
 
 wiu6ii)''mayai)'pi depend  upon  me
@@ -46782,8 +33602,7 @@ Mato^-wata^kpe Charging  Bear
 
 heya^keya'  pelo' said  this  (it  is  reported)
 
-Analysis, — This  modem  melody  contains  a  larger  variety  of  inter-
-vals than  most  of  the  older  songs.  Thus  we  note  five  different
+Analysis, — This  modem  melody  contains  a  larger  variety  of  intervals than  most  of  the  older  songs.  Thus  we  note  five  different
 ascending  and  four  different  descending  intervals.  The  numbeirs  of
 ascending  and  descending  intervals  are  more  nearly  equal  than  in  the
 older  songs.  AU  the  tones  of  the  octave  except  the  sixth  and  seventh
@@ -46802,17 +33621,9 @@ U  OF  AMERICAN  ETHNOLOGV  BULLETIN  6^     PLATE  T4
 DBNfllCOBX]
 
 
-TETON  SIOUX  MUSIC
-
-
-457
-
-
 No.  192.  Song  in  Honor  of  Red  Fish       (Catalogue  No.  673)
 Sung  by  Red  Fish  (pi.  74)
-VoiCB  J  =80
 Dbum  Jz=80
-Drum-rhythm  similar  to  No.  10
 
 
 Ku-wa-a-pe    e      e     ku-wa-a-pe    e     e     ku-wa-a-pe    e     e
@@ -46863,9 +33674,6 @@ Psa  -  do  -  0  -  ka    kii)
 ku  -  wa  -  a  -  pe     e     do
 
 
-WORDS
-
-
 kuwa'pe pursued
 
 te^aQ a  long  time
@@ -46906,8 +33714,7 @@ There  are  24  progressions  in  the  song,  17  of  which  are  downward.
 The  melody  tones  are  those  of  the  second  five-toned  scale,  and  the
 song  is  melodic  in  structure.
 
-Probably  no  Sioux  chief  is  more  famous  than  Sitting  Bull  (Tatai)  ^ar-
-iyo'take,  literally  translated  '^ Sitting  Buffalo  Bull"),  plate  75,  of
+Probably  no  Sioux  chief  is  more  famous  than  Sitting  Bull  (Tatai)  ^ariyo'take,  literally  translated  '^ Sitting  Buffalo  Bull"),  plate  75,  of
 whom  the  Handbook  of  the  Indians  (pt.  1,  pp.  583-584)  says:
 
 Sitting  BuU  ...  a  noted  Sioux  wanior  and  tribal  leader  of  the  Hunkpapa  Teton
@@ -46916,13 +33723,11 @@ Bubchief.  .  .  .  He  took  an  active  part  in  the  PlainB  wars  of  the  
 widely  known  to  the  whites  in  1866,  when  he  led  a  memorable  raid  against  Ft.  Buford.
 Sitting  Bull  was  on  the  warpath  with  his  band  of  followers  from  various  tribes  almost
 continuously  from  1869  to  1876,  either  raiding  the  frontier  posts  or  making  war  on  the
-Grows  or  the  Shoshoni,  especially  the  former.  .  .  .  His  refusal  to  go  upon  a  reserva-
-tion in  1876  led  Gen.  Sheridan  to  begin  against  him  and  his  followers  the  campaign
+Grows  or  the  Shoshoni,  especially  the  former.  .  .  .  His  refusal  to  go  upon  a  reservation in  1876  led  Gen.  Sheridan  to  begin  against  him  and  his  followers  the  campaign
 which  resulted  in  the  surprise  and  annihilation  of  Custer's  troop  on  Little  Bighorn  R.,
 Mont.,  in  June.  During  this  battle,  in  which  2,500  to  3,000  Indian  warriors  were
 engaged,  Sitting  Bull  was  in  the  hills  ''making  medicine, ''  and  his  accurate  foretelling
-of  the  battle  enabled  him  ''  to  come  out  of  the  a£fair  with  higher  honor  than  he  pos-
-sessed when  he  went  into  it."  (McLaughlin.)  Sitting  Bull  .  .  .  escaped  to  Canada,
+of  the  battle  enabled  him  ''  to  come  out  of  the  a£fair  with  higher  honor  than  he  possessed when  he  went  into  it."  (McLaughlin.)  Sitting  Bull  .  .  .  escaped  to  Canada,
 where  he  remained  until  1881,  when  he  surrendered  at  Ft.  Buford  under  promise  of
 amnesty  and  was  confined  at  Ft.  Randall  until  1883.  Although  he  had  surrendered
 and  gone  upon  a  reservation  Sitting  Bull  continued  unreconciled.  It  was  through
@@ -46965,11 +33770,7 @@ l>]BNlrU6tEl
 TfiTOlT  ferOtJX  MUSIC
 
 
-459
-
-
-The  following  song  was  sung  by  Sitting  Bull  after  he  had  sur-
-rendered to  the  United  States  authorities,  some  time  after  the  Custer
+The  following  song  was  sung  by  Sitting  Bull  after  he  had  surrendered to  the  United  States  authorities,  some  time  after  the  Custer
 
 
 massacre.
@@ -46993,7 +33794,6 @@ I  -  ki  -  61  -  ze     wa  -  oq   koq      he     wa   -    na    he  -  na
 
 he       1  -yo -  tl  -  ye     ki  -  ya  wa-oi)
 
-WORDS
 
 «
 
@@ -47011,21 +33811,16 @@ wafi5^ I  have
 
 Analysis. — There  is  an  imusually  large  variety  of  intervals  in  this
 song,  two  renditions  of  which  were  recorded.  It  contains  six  kinds
-of  upward  and  four  of  downward  progressions.  The  song  is  charac-
-terized by  the  descending  fourth,  about  one-fourth  of  the  intervals
+of  upward  and  four  of  downward  progressions.  The  song  is  characterized by  the  descending  fourth,  about  one-fourth  of  the  intervals
 being  fourths,  this  number  being  exceeded  only  by  the  number  of
 intervals  of  a  major  second.  The  tone  material  is  the  minor  triad
 and  fourth.  The  tonic  chord  is  prominent  in  the  melody,  but  the
 accents  are  so  placed  that  the  song  is  classified  as  melodic  with
 harmonic  framework.
 
-See  plot  of  this  melody  on  page  461.
 
 In  explaining  the  following  song  Used-as-a-Shield  said:  *' The  last
 time  that  Sitting  Bull  was  in  a  regular  tribal  camp  was  in  the  year
-
-
-460
 
 
 BUBEAU  OF  AMEBICAN  ETHNOLOOY
@@ -47043,11 +33838,7 @@ mentioned  on  page  4.
 No.  194.  Song  of  Sitting  BuU  (b)       (Catalogue  No.  613)
 
 Sung  by  U8E]>-a8-a-Shibld
-VoiCB  J =60
 
-Drum  J  =60
-
-Drum-rhythm  similar  to  No.  6
 
 0)
 
@@ -47099,7 +33890,6 @@ he-ya     ke-ya     pe-  lo
 
 Ta-tai)-ka  -  i-yo-ta-ya-ke    he  he-ya  ke-ya- pi    lo
 
-WORDS
 
 oya^te  kiQhai)^ the  tribe
 
@@ -47127,8 +33917,7 @@ Analysis. — The  upward  and  downward  pn^ressiona  are  more
 nearly  equal  in  this  than  in  many  of  the  songs  under  analyBia,  the
 upward  intervals  being  18  and  the  downward  intervals  22.  The
 fourth  is  prominent,  constituting  37  per  cent  of  the  intervals,  while
-the  minor  second  constitutes  31  per  cent.  Like  the  fourth  five-
-toned  scale,  this  song  lacks  the  fourth  and  seventh  tones  of  the  com-
+the  minor  second  constitutes  31  per  cent.  Like  the  fourth  fivetoned  scale,  this  song  lacks  the  fourth  and  seventh  tones  of  the  com-
 plete octave,  but  the  fourth  five-toned  scale  is  major  in  tonality
 (the  first  third  being  a  major  third),  while  this  song  is  minor  in
 tonality.  This  tone  materid  is  found  in  a  few  Chippewa  songs  and
@@ -47139,16 +33928,14 @@ are  unusual  in  Sioux  and  Chippewa  songs.  (See  Songa  Nos.  165  and
 
 PLOTS   OF   CHIllF   8ON08
 
-Although  both  Buffalo  and  Chief  songs  are  included  in  the  tabu-
-lated analysis,  the  plot  of  the  hunt  soi^  is  considered  with  the  war
+Although  both  Buffalo  and  Chief  songs  are  included  in  the  tabulated analysis,  the  plot  of  the  hunt  soi^  is  considered  with  the  war
 songs,  the  plot  of  song  No.  177  appearing  in  figure  35,  page  419.
 
 
 Fio.  3T.    FloU,  Group  C.
 
 An  interesting  pecuharity  appears  in  the  plots  of  the  Chief  songs.
-{Fig.  37.)  Of  the  8  songs  constituting  this  group,  5  have  a  com-
-pass of  an  octave,  b^;imiing  on  the  upper  tonic  and  ending  on  the
+{Fig.  37.)  Of  the  8  songs  constituting  this  group,  5  have  a  compass of  an  octave,  b^;imiing  on  the  upper  tonic  and  ending  on  the
 lower  tonic,  the  note  being  repeatedly  sounded  in  both  octaves.  It
 will  be  recalled  that  emphasis  on  the  tonic  is  a  characteristic  of  songs
 expressing  self-rehance.  The  songs  of  the  medicine-men  and  also
@@ -47163,9 +33950,6 @@ on  the  tonic,  shows  the  steadily  descending  trend  which  may  be  said
 to  be  the  simplest  as  well  as  the  most  prevalent  type  of  Indian
 melody.  No.  193,  a  song  of  Sitting  Bull's,  shows  as  great  a  contrast
 as  there  was  between  the  two  men.     Not  only  are  the  intervals  wider
-
-
-462
 
 
 BtlREAi;  OP  AMERICAN  ETHKOLOGY
@@ -47189,8 +33973,7 @@ understood  as  offering  only  tentative  observations.
 
 The  songs  of  this  analysis  group  have  neither  origin  nor  use  in
 common,  the  grouping  being  chiefly  for  convenience.  The  songs  of
-the  buffalo  himt  (Nos.  180,  181)  were  favorite  songs  for  that  pur-
-pose, but  the  same  songs  could  be  used  by  those  who  went  out  to
+the  buffalo  himt  (Nos.  180,  181)  were  favorite  songs  for  that  purpose, but  the  same  songs  could  be  used  by  those  who  went  out  to
 look  for  the  enemy.  These  are  followed  by  a  song  of  the  chase  and
 a  song  to  secure  buffalo  during  a  famine.  (Nos.  182,  183.)  Some
 of  the  council  songs  (Nos.  184-187)  are  undoubtedly  very  old,
@@ -47254,46 +34037,18 @@ Number
 of  songs.
 
 
-1
-2
-5
-1
-4
-1
-1
-1
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
-
-5
 
 185,192
 
 183,  187, 189,  190, 198
 
-182
 
 \H,  186, 191, 194
 
-188
-
-181
-
-180
-
 
 dskqmobb]
-
-
-TETON  SIOUX  MUSIC
-
-
-463
 
 
 Gomparaiively  Modem  Songs — (2)  Songs  of  the  Buff  ah  Hunt,  also
@@ -47321,14 +34076,6 @@ Number
 of  songs.
 
 
-5
-3
-8
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
 
@@ -47353,19 +34100,12 @@ Number
 of  songs.
 
 
-15
-
-
-16
-
-
 Serial  Nos.  of  songs.
 
 
 5, 180, 182, 183, 184, 185, 186, 187, 188, 180,
 
 190, 191, 192, 103, 194
-181
 
 
 NUMBER  OF  TONES  COMPRISINO  COMPASS  OF  SONO
@@ -47389,31 +34129,17 @@ Number
 of  songs.
 
 
-1
-1
-2
-3
 .8
-1
-
-
-16
 
 
 Serial  Nos.  of  songs.
 
-
-6
-
-185
 
 180,192
 
 181, 187, 189
 
 183, 184, 186, 188, 190, 191, 103, 191
-
-182
 
 
 TONE  MATERIAL
@@ -47425,19 +34151,9 @@ Serial  Nos.  of  songs.
 
 Second  five-toned  scale
 
-2
 
 •      2
 
-2
-
-1
-3
-2
-1
-1
-1
-1
 
 185,192
 
@@ -47451,7 +34167,6 @@ Fourth  flve-toned  scale
 
 Major  tr'ad  and  second. .....
 
-184
 
 Minor  triad  and  fourth
 
@@ -47463,25 +34178,17 @@ Octave  complete  except  seventh
 
 Octave  comnlete  exoent  seventh  and  sixth
 
-191
 
 Octave  complete  %xcept  seventh  and  fourth
 
-194
 
 Octave  complete  except  sixth
 
-180
 
 Octave  complete  except  second
 
-183
 
 Total
-
-16
-
-464
 
 
 BUBEAU  OF  AMERICAN  ETHNOLOGY
@@ -47512,11 +34219,6 @@ Songs  oontaininK— -
 
 No  accidentals
 
-13
-
-2
-
-1
 
 5. 180, 181, 182, 183, 184. 187, 188, 190. 191,
 
@@ -47527,11 +34229,9 @@ Seventh  raised  a  semitone
 
 Fourth  lowered  a  semitone
 
-186
 
 Total
 
-16
 
 STRUCTURE
 
@@ -47577,7 +34277,6 @@ Serial  Nos.  of  songs.
 
 5, 180, 181, 183, 184, 186, 188, 190. 192, 193,
 
-194
 182, 185, 187, 180, 191
 
 
@@ -47589,14 +34288,7 @@ Downward
 Upward .'*
 
 
-328
-196
-
-
 Total.
-
-
-524
 
 
 INTERVALS  IN  DOWNWARD  PROGRESSION
@@ -47620,12 +34312,6 @@ Total
 
 
 DBXSJfOBE]
-
-
-TETON   SIOUX   MUSIC
-
-
-465
 
 
 Comparatively  Modem  Song8 — (2)  Songs  of  the  Buffalo  Hunt,  also
@@ -47661,9 +34347,6 @@ Minor  seoond.
 
 
 Total.
-
-
-196
 
 
 AVERAGE  NUMBER  OF  SEMITONES  IN  AN  INTERVAL
@@ -47710,57 +34393,16 @@ O  major
 Total.
 
 
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-3
-1
-
 1(3
 
 
-186
-
-194
-
-191
-
-5
-
-188
-
-185
-
-182
-
-193
-
 180. 181
 
-183
-
-187
 
 189, 190, 192
 
-184
-
-
-466
-
 
 BUREAU   OF  AMEEICAN  ETHNOLOGY
-
-
-[BULL.  61
 
 
 Comparatively  Modem  Songa — (J?)  Songs  of  the  Buffalo  Hunt,  also
@@ -47783,30 +34425,17 @@ of  songB.
 Total.
 
 
-1
-15
-
-
 Serial  Nos.  of  songs.
 
 
-188
-
 5, 180, 181, 182, 183,184, 185, 185,  187.  l.*9.
 190, 102, 103, 104
-
-
-16
 
 
 RHYTHM  OF  FIRST  MEASURE
 
 
 First  measure  in—
-
-2-4  time
-
-3-4  time
 
 
 Total.
@@ -47817,13 +34446,6 @@ of  songs.
 
 
 Serial  Nos.  of  songs.
-
-
-10
-6
-
-
-16
 
 
 5, 182, 183, 184, 187, 188, 180, 100, 102, 194
@@ -47848,7 +34470,6 @@ Serial  Nos.  of  sonc:s.
 
 
 None.
-16
 
 
 5, 180, 181, 182, 183, 184, 1&5, 186, 187, 188,
@@ -47862,8 +34483,7 @@ Eighth  notes  unaccented
 
 Quarter  notes  unaccented
 
-Each  beat  preceded  by  an  unaccented  beat  correspond-
-ing to  third  count  of  a  triplet
+Each  beat  preceded  by  an  unaccented  beat  corresponding to  third  count  of  a  triplet
 
 Drum  not  recorded
 
@@ -47884,12 +34504,7 @@ Number
 of  songs.
 
 
-4
-
-8
-
 I
-3
 
 
 Serial  Nos.  of  songs.
@@ -47913,30 +34528,15 @@ of  songs.
 Serial  Nos.  of  songs.
 
 
-6
-7
-
-
 180,181,183,185,189,192.
 182, 184, 186, 188, 190, 191, 193
 5,194
-
-187
 
 
 Toul.
 
 
-16
-
-
 oinquobe]
-
-
-TETON  SIOUX  MUSIC
-
-
-467
 
 
 Comparatively  Modem  Songs — (2)  Songs  of  the  Buffalo  Hunt,  also
@@ -47953,38 +34553,12 @@ Metronome--
 
 eo
 
-63
-
-66
-
-76
-
-80
-
-92
-
-112
-
-126
 
 Total..
 
 
 Number
 of  songs.
-
-
-2
-2
-2
-2
-2
-4
-1
-1
-
-
-16
 
 
 Serial  Nos.  of  songs.
@@ -48000,10 +34574,6 @@ Serial  Nos.  of  songs.
 
 180, 182, 180, 190
 
-188
-
-5
-
 
 METRIC  UNIT  OF  DRUM  (TEMPO)
 
@@ -48015,52 +34585,21 @@ Serial  Nos.  of  songs.
 
 Metronome—
 
-60
-
-2
-1
-2
-1
-1
-2
-1
-2
-1
-3
 
 193. 104
 
-63
-
-191
-
-66
 
 186. 187
 
-76
-
-185
 
 80 ; ,
 
-192
-
-84
 
 189. 190
 
-88
-
-5
-
-92
 
 180. 182
 
-112
-
-188
 
 Pnini  not  recorded,        .  ,
 
@@ -48068,7 +34607,6 @@ Pnini  not  recorded,        .  ,
 
 Total
 
-16
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
 
@@ -48088,7 +34626,6 @@ Serial  Nos.  of  songs.
 
 180, 182,  185,  186,  187,  188,  191, 192,  193,
 
-194
 5,189,190
 181,183,184
 
@@ -48137,14 +34674,11 @@ Miss  Fletcher  describes  one  of  its  meetings,  stating  that ' —
 
 No  clothing  except  the  breechcloth  was  worn  by  the  members,  and  a  long  bunch
 of  grass  representing  scalps  the  wearer  had  taken  was  fastened  to  the  belt  at  the
-back.  .  .  .  When  the  dance  became  known  to  the  Dakota  tribes  and  the  Winne-
-bago, the  significance  of  the  bunch  of  long  grass  having  been  forgotten,  they  gave  the
+back.  .  .  .  When  the  dance  became  known  to  the  Dakota  tribes  and  the  Winnebago, the  significance  of  the  bunch  of  long  grass  having  been  forgotten,  they  gave  the
 
 4 '
 
 ^  Fletcher  and  La  Flesche,  The  Omaba  Tribe,  op.  cit.,  p.  459.  *  Ibid.,  p.  461.
-
-468
 
 
 F  •MERICAK  ETHNOLOGY  BULLETIM  S1     PLATE  T«
@@ -48161,8 +34695,7 @@ The  grass  dance  was  noted  among  the  Yankton  Sioux  by  De  Smet^
 who  described  it  in  a  letter  to  Father  Terwecoren,  dated  November,
 1867,  as  follows:  *
 
-The  principal  one  [society]  among  the  Yanktons  is  called  the  Grass  band  or  Peji-
-mahinnanka.  All  the  braves,  or  men  of  heart,  as  the  Indians  express  it,  belong  to
+The  principal  one  [society]  among  the  Yanktons  is  called  the  Grass  band  or  Pejimahinnanka.  All  the  braves,  or  men  of  heart,  as  the  Indians  express  it,  belong  to
 this  fraternity.  ...  At  the  ceremonial  dances  each  member  carries  a  long  bunch
 of  grass,  which  is  among  them  the  emblem  of  abundance  and  charity.  .  .  .  The
 badge  or  distinctive  mark  of  the  society  is  the  bunch  of  grass  braided  and  attached
@@ -48196,11 +34729,9 @@ the  Oglala  Sioux,'  which  he  identifies  with  the  grass  dance/  "Crow
 belts"  were  worn  in  the  ceremony  of  this  society,  but  no  mention  is
 made  of  grass,  either  carried  or  hung  from  the  belt.  The  grass
 dance  among  the  Sisseton  Sioux  is  described  by  Lowie,  who  says  it
-was  also  called  by  them  the  Winnebago  dance.*  This  widely  dis-
-tributed dance  is  noted  by  Wissler  as  existing  at  the  present  time
+was  also  called  by  them  the  Winnebago  dance.*  This  widely  distributed dance  is  noted  by  Wissler  as  existing  at  the  present  time
 among  the  Blackfopt,  Piegan,  Crow,  Gros  Ventre,  and  Assiniboin
-Indians.®  A  "feather-tail  belt"  seems  to  have  been  generally  con-
-sidered part  of  the  dance  regalia  by  these  tribes.
+Indians.®  A  "feather-tail  belt"  seems  to  have  been  generally  considered part  of  the  dance  regalia  by  these  tribes.
 
 1  Life,  Letters,  and  Travels  of  Father  Pierre-Jean  De  Smet.  S.  J.  1801-1873  (edited  by  Hiram  M.
 Chittenden  and  Alfred  T.  Richardson),  m,  pp.  1059,  lOGO,  New  York,  1905.  ^
@@ -48267,17 +34798,13 @@ DlNQMbBB]
 TETON  8I0TJX  MUSIC
 
 
-471
-
-
 be  removed,  a  heated  iron  being  commonly  used  for  the  purpose.
 Ash  and  box  elder  were  woods  frequently  selected.  Thp  open  end
 of  the  instrument  was  usually  carved  to  represent  the
 head  of  a  bird.  Mr.  Higheagle  stated  further  that  the
 instrument  was  called  6i'yotavTca  (H'yo,  'prairie  chicken';
 tav^Jca,  'large')  by  the  Teton  Sioux.  The  instrument  is
-said  to  have  had  two  uses:  It  was  used  in  dances,  espe-
-cially in  the  grass  dance,  and  also  by  young  men  as  a
+said  to  have  had  two  uses:  It  was  used  in  dances,  especially in  the  grass  dance,  and  also  by  young  men  as  a
 "  courting  call. ''  Plain  bone  whistles  and  bead-decorated
 whistles  were  similarly  used  in  dances;  these  also  were
 known  as  H'yotavlca.  Three  or  four  dancers  might  carry
@@ -48305,8 +34832,7 @@ produced  on  the  Hidatsa  whistle,  the  tones  being  named  in
 ascending  order:  A  flat  (second  space  treble  staff),  D  flat,
 F,  A  flat,  C  flat,  D  flat,  E  flat,  F.
 
-The  grass  dance  of  the  Standing  Rock  Sioux  at  the  pres-
-ent time  (pi.  77,  A)  was  thus  described  by  Kills-at-Night
+The  grass  dance  of  the  Standing  Rock  Sioux  at  the  present time  (pi.  77,  A)  was  thus  described  by  Kills-at-Night
 (Haghe'pikte),  a  comparatively  young  man,  who  is  a
 prominent  singer  at  the  drum  whenever  a  dance  is  held :
 
@@ -48322,8 +34848,7 @@ U
 
 1  This  instrument  has  been  described  as  follows  by  Mr.  Hawley,  above  mentioned:  "  Length  25  inches;
 diameter,  |  inch.  A  straightstick  of  wood,  1  ts  lower  end  carved  to  re]»-esent  n  crane  with  open  beak  and
-its  throat  is  the  open  end  of  the  whistle.  The  bore  appears  to  be  from  t^  to  i  inch  in  diameter.  A  rec-
-tangular opening  \  inch  wide  by  1  inch  long,  commencing  6}  inches  below  the  upper  end  is  made  from
+its  throat  is  the  open  end  of  the  whistle.  The  bore  appears  to  be  from  t^  to  i  inch  in  diameter.  A  rectangular opening  \  inch  wide  by  1  inch  long,  commencing  6}  inches  below  the  upper  end  is  made  from
 the  outside  into  the  bore.  A  little  above  the  middle  of  this  opening  a  dam  of  wax  or  pitch  is  placed  in
 the  bore  to  deflect  the  current  of  air  ao  as  to  impinge  against  the  lip  of  the  sound  hole.  The  sound  hole  is
 about  1^  inch  square.  Its  cap  is  a  piece  of  split  quiU,  its  lower  edge  a  trifle  above  the  orest  of  the  Ht^m  of
@@ -48359,8 +34884,7 @@ make  any  return.  More  than  one  may  strike  a  feather,  each  being
 required  to  give  a  present  to  an  old  man.  Sometimes  four  men  do
 this,  after  which  the  feather  is  returned  to  its  owner.
 
-The  men  dance  alone.  •  The  women  also  dance  alone,  but  occa-
-sionally simimon  a  few  men,  whom  they  call  by  various  terms  of
+The  men  dance  alone.  •  The  women  also  dance  alone,  but  occasionally simimon  a  few  men,  whom  they  call  by  various  terms  of
 relationship,  as  "brother"  or  ''cousin."  If  a  woman  calls  a  married
 man  into  the  dancing  circle  his  wife  regards  it  as  an  honor,  which  is
 correspondingly  greater  the  longer  he  is  required  to  dance.  His
@@ -48395,9 +34919,6 @@ DiNQMOitE]
 TETOIT  ftlOtrX  MUSIC
 
 
-473
-
-
 been  rescued  by  a  friend  riding  double  in  a  fight.  The  honor  dance ,
 in  which  also  a  man  dances  alone,  is  believed  to  be  the  origin  of
 the  tail  dance.
@@ -48412,8 +34933,6 @@ Sung  by  Kills-at-Nioht
 VOICB   jz=7S
 
 Bbum  J  — 72
-
-Drum-rhythm  similar  to  No.  19
 
 
 ^^
@@ -48464,9 +34983,6 @@ he    a-wi-6a      upe
 ha-ki  -  ktayo
 
 
-WORDS
-
-
 awi^(5a  u  pelo' (they)  are  chai^ng  them
 
 haki^kta  yo look  back
@@ -48499,20 +35015,16 @@ are  minor  thirds.  The  descending  intervals  are  as  follows:  3  fourths,
 per  cent  of  the  intervab.  The  rhythmic  imit  is  repeated  throughout
 almost  the  entire  song.
 
-See  plot  of  this  melody  on  page  484.
 
 In  the  following  song  the  words  were  sung  only  during  the  'dancing
 of  the  tail  of  the  song."  Thus  the  principal  part  of  the  melody  is
-found  many  times  on  the  phonographic  cylinder,  while  the  part  con-
-taining the  words  appears  only  at  the  close.
+found  many  times  on  the  phonographic  cylinder,  while  the  part  containing the  words  appears  only  at  the  close.
 
 No.  196.  Song  of  the  Grass  Dance  (a)      (Catalogue  N.  596o)
 
 Sung  by  Kills-at-Night
 
-VoicB  J  =116
 Drum  Jzz116
-Drum-rhythm  similar  to  No.  19
 
 
 n '  u  ¥1 1
@@ -48545,22 +35057,14 @@ i9-
 m
 
 
-3
-
-
 -«=^
 
 
 ^
 
 
-l§ui)  -  ka- wit- ko        koi)     he-ye-lo         he-wa-
+l§ui)  -  ka- wit- ko        koi)     he-ye-lo         he-wawo  -ki-ya     he  wa-og     roe     he  -  e  -  ye  -  lo     o     a
 
-
-wo  -ki-ya     he  wa-og     roe     he  -  e  -  ye  -  lo     o     a
-
-
-WORDS
 
 Sug'Tca-witko^  koij Crazy  Dog  himself
 
@@ -48584,20 +35088,12 @@ called  the  tail  of  the  song.     The  intervals  in  the  first  part  of  
 DINSIfOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-475
-
-
 song  are  larger  than  in  a  majority  of  these  songs,  but  the  intervals  in
-the  tail  of  the  song  are  small.  The  time  was  not  so  strictly  main-
-tained in  this  as  in  many  other  songs.  Thus  in  the  first  rendition  the
+the  tail  of  the  song  are  small.  The  time  was  not  so  strictly  maintained in  this  as  in  many  other  songs.  Thus  in  the  first  rendition  the
 final  tone  in  the  third  measure  was  sung  as  a  half  instead  of  a  quarter
 note,  and  there  was  also  a  slight  hastening  of  some  measures  in  one  or
 more  of  the  renditions.
 
-See  plot  of  this  melody  on  page  484.
 
 No.  197.  Song  of  the  Grass  Dance  (b)     (Catalogue  No.  594)
 
@@ -48607,8 +35103,7 @@ VoiCH  J  =100
 Drum  not  recorded
 
 
-Anahjsis. — ^The  phonograph  cylinder  contains  three  complete  rendi-
-tions of  this  song,  followed  by  four  incomplete  renditions  from  which
+Anahjsis. — ^The  phonograph  cylinder  contains  three  complete  renditions of  this  song,  followed  by  four  incomplete  renditions  from  which
 the  first  and  second  measures,  and  also  the  sixth  measure  from  the
 end,  are  occasionally  omitted.  The  first  tone  in  the  transcription  is
 not  regarded  as  part  of  the  melody,  but  seems  to  be  a  mannerism  of
@@ -48618,18 +35113,11 @@ same  manner,  but  this  is  not  a  common  custom  among  Indian  singers.
 The  progressions  of  this  melody  are  such  as  to  suggest  either  E  or  G
 as  a  possible  kejmotc,  placing  the  song  in  either  the  second  or  fourth
 five-toned  scale,  but  as  the  only  accented  tones  are  G  and  D,  the  song
-is  analyzed  as  having  G  as  its  keynote  and  being  in  the  fourth  five-
-toned  scale.  This  indicates  its  tonality  as  major,  yet  the  major
+is  analyzed  as  having  G  as  its  keynote  and  being  in  the  fourth  fivetoned  scale.  This  indicates  its  tonality  as  major,  yet  the  major
 third  is  not  present,  and  about  one-third  of  the  intervak  are  minor
 thirds.  This  is  one  of  many  instancies  in  which  the  term  '*key''  can
 scarcely  be  appUed  to  an  Indian  song  with  the  fuU  significance  of  the
 term  as  it  is  used  by  white  musicians.
-
-
-476
-
-
-BUREAU  OF  AMERICAN"  ETHNOLOGY
 
 
 [BULL.  €1
@@ -48676,10 +35164,8 @@ Analysis- — ^This  is  typical  of  the  songs  heard  at  the  present  time
 on  the  reservation  when  the  Indians  are  gathered  for  some  social
 occasion.  Like  other  modern  Sioxix  songs,  it  contains  a  wide  variety
 of  progressions,  there  being  five  different  ascending  and  the  same
-number  of  different  descending  intervals.  The  minor  second,  an  inter-
-val occurring  infrequently  in  the  older  songs,  is  here  found  four  times.
-The  tone  material  of  this  song  is  pecuhar.  Considering  G  as  the  key-
-note of  the  entire  song,  the  second,  fifth,  and  seventh  tones  of  the
+number  of  different  descending  intervals.  The  minor  second,  an  interval occurring  infrequently  in  the  older  songs,  is  here  found  four  times.
+The  tone  material  of  this  song  is  pecuhar.  Considering  G  as  the  keynote of  the  entire  song,  the  second,  fifth,  and  seventh  tones  of  the
 octave  are  not  present.  The  drum  was  sHghtly  slower  than  the  voice
 in  all  the  renditions.
 
@@ -48692,9 +35178,6 @@ VoicK  J  =112
 Drum  not  recorded
 
 
-(Catalogue  No.  697)
-
-
 ^^^^^m
 
 
@@ -48704,16 +35187,10 @@ Drum  not  recorded
 ^
 
 
-33
-
-
 ^^^m
 
 
 ■^-
-
-
-25
 
 
 S
@@ -48731,21 +35208,15 @@ DRNSMOftB]
 TETON  SIOTTX  MUSlC
 
 
-411
-
-
-Analysis. — Six  renditions  of  this  song  were  recorded,  some  begin-
-ning with  an  unaccented  tone  an  octave  below  the  opening  tone,  as
+Analysis. — Six  renditions  of  this  song  were  recorded,  some  beginning with  an  unaccented  tone  an  octave  below  the  opening  tone,  as
 in  No.  197.  All  but  3  of  the  progressions  are  minor  thirds  and
 major  seconds,  the  remaining  3  progressions  being  2  fourths  and  1
-ascending  ninth.  The  melody  contains  the  tones  of  the  fourth  five-
-toned  scale,  has  a  compass  of  13  tones,  and  is  melodic  in  structure.
+ascending  ninth.  The  melody  contains  the  tones  of  the  fourth  fivetoned  scale,  has  a  compass  of  13  tones,  and  is  melodic  in  structure.
 
 No.  200.  Song  of  the  Grass  Dance  (e)     (Catalogue  No.  526)
 
 Sung  by  Two  Shields
 Voica  J  =  66
-Drum   J  =66
 Dnim-rhythm  similar  to  No.  10
 
 
@@ -48782,12 +35253,6 @@ Two  songs  of  this  dance  are  given  herewith;  a  third  song  is  No.
 >  Wissler,  Clad^  Societies  and  CenomonJal  Associations  ot  the  Teton-Dakota,  op.  cIt.,  p.  78.
 
 
-478
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
 [bull.  «i
 
 
@@ -48796,7 +35261,6 @@ No.  201.  Song  of  the  Shuffling-feet  Dance  (a).       (Catalcgue  No.  600
 Sung  by  Kills-at-Nioht  and  his  Wife
 VoiCB  J  -  76
 DsDM  J  =76
-Drum-rhythm  similar  to  No.  6
 
 
 £
@@ -48826,9 +35290,6 @@ m
 6  -  6i      ya  >  ta  -  hai)  wa-oi)
 
 
-WORDS
-
-
 wai)<5i'  yaka I  see  (you)
 
 waq^a^  na owfiQ
@@ -48846,16 +35307,9 @@ range  of  1 1  tones  and  progresses  chiefly  by  whole  tones.
 dbnsmobe]
 
 
-TETON  SIOUX  MUSIC
-
-
-479
-
-
 No.  202.  Song  of  the  Shu  filing- feet  Danee  (b)       (Catalogue  No.  592)
 
 Sung  by  Kiixs-at-Nioht
-VoicB  J  =  63
 Drum  not  recorded  (i)  (l)
 
 (
@@ -48876,12 +35330,10 @@ Were  exactly  alike,  showing  that  the  two  units  and  the  rhythmic
 form  of  the  song  as  a  whole  were  clear  in  the  mind  of  the  singer.
 No  interval  larger  than  a  fourth  occurs  in  the  melody.
 
-See  plot  of  this  melody  on  page  484.
 
 NIGHT  DANCE
 
-The  night  dance  is  mentioned  by  both  Wissler  and  Lowie  in  con-
-nection with  the  shufl^g-feet  dance.  It  is  also  mentioned  by  Dor-
+The  night  dance  is  mentioned  by  both  Wissler  and  Lowie  in  connection with  the  shufl^g-feet  dance.  It  is  also  mentioned  by  Dor-
 sey.*  Both  yoimg  men  and  women  took  part  in  this  dance,  which
 Wissler^  describes  as  follows:
 
@@ -48899,9 +35351,6 @@ made.
 *  [Cf.  the  giving  of  presents  in  the  woman's  dance  of  the  Chippewa,  Bull.  45,  p.  192.]
 
 
-480
-
-
 BUMAtr  OP  AMERICAN  ETHNOLOGY
 
 
@@ -48913,28 +35362,22 @@ No.  208.  Song  of  the  Night  Dance    (Caftdogue  No.  601)
 Sung  by  Kill&-at-Nioht  and  ms  Wipb
 =  100
 Dbum  J  =  100
-Drum-rhythm  similar  to  No.  6
 
 
 yfe«
 
 
-Analysis, — This  song  has  a  compass  of  nine  tones,  the  entire  com-
-pass being  attained  in  two  progressions  at  the  opening  of  the  song..
+Analysis, — This  song  has  a  compass  of  nine  tones,  the  entire  compass being  attained  in  two  progressions  at  the  opening  of  the  song..
 The  rest  in  the  fourth  measure  is  somewhat  uinusual.  The  Indian
 does  not  seem  to  require  ''breathing  spaces"  in  his  songs,  and  when
 definite  rests  are  foimd  in  a  melody  they  are  the  more  worthy  of
 attention.  (See  song  No.  79. )  The  rhythihic  xmit  consists  of  a  triplet
-of  eighth  notes  on  the  accented  part  of  a  measure,  followed  by  a  quar-
-ter note.  A  similar  triplet  occurs  on  the  unaccented  part  of  the
+of  eighth  notes  on  the  accented  part  of  a  measure,  followed  by  a  quarter note.  A  similar  triplet  occurs  on  the  unaccented  part  of  the
 measure,  showing  the  influence  of  the  rhythmic  unit  on  the  rhythm
 of  the  song  as  a  whole.  The  song  is  major  in  tonaUty  and  contains
 all  the  tones  of  the  octave  except  the  fourth.  The  seventh  lowered
 a  semitone  is  present  as  an  accidental.  The  song  is  freely  melodic
 in  structure.
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 BULLETIN  61     PLATE  79
@@ -48954,8 +35397,7 @@ begging  of  food  from  tent  to  tent,  which  has  been  witnessed  by  the
 writer  at  tribal  gatherings,  was  accompanied  at  times  with  merriment.
 Such  a  begging  dance  was  seen  among  the  Chippewa  at  Red  Lake,
 Minn.  (See  Bull.  45,  p.  171.)  Certain  songs  are  known  from  usage
-as  begging-dance  songs ;  most  of  these  are  very  short.  The  songs  origi-
-nally used  in  begging  food  were  "praise  songs,"  the  company  standing
+as  begging-dance  songs ;  most  of  these  are  very  short.  The  songs  originally used  in  begging  food  were  "praise  songs,"  the  company  standing
 in  front  of  a  tent  and  singing  the  praises,  of  the  occupant  imtil  he
 appeared  with  the  desired  donations.  While  this  might  be  done  for
 a  social  gathering  it  was  more  often  done  for  the  coimcil  tent  or  for
@@ -48993,12 +35435,6 @@ Distinct  from  the  songs  which  were  used  when  a  party  of  people
 went  from  one  tent  to  another  is  the  following  song  of  four  old  women.
 
 
-482
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
 [BIJLL.C1
 
 
@@ -49006,8 +35442,7 @@ It  is  called  simply  wi&i'lowar^'pi,  'begging  song.'  Yellow  Hair  said
 that  she  had  a  relative  who  went  to  war,  and  that  the  man's  wife,
 with  three  other  women  relatives  of  jbhe  absent  warrior,  stood  in  the
 middle  of  the  village  and  sang  this  song  until  donations  were  brought
-to  them.  The  words  are  not  transcribed,  but  are  taunting  in  char-
-acter, their  general  idea  being,  '*If  you  have  no  buffalo  chips  in  the
+to  them.  The  words  are  not  transcribed,  but  are  taunting  in  character, their  general  idea  being,  '*If  you  have  no  buffalo  chips  in  the
 tipi,  go  find  some  on  the  prairie  for  us,'-  buffalo  chips,  used  as  fuel,
 being  mentioned  as  the  smallest  gift  which  could  be  bestowed  upon
 the  poor.
@@ -49023,8 +35458,7 @@ Sung  by  Yellow  Haik
 
 
 Analysis. — In  this  song,  as  in  No.  215  by  the  same  singer,  the  only
-tones  are  those  of  the  minor  third  and  fourth,  the  song  having  a  com-
-pass of  four  tones.  (See  song  No.  217.)  It  is  a  wailing  melody,  well
+tones  are  those  of  the  minor  third  and  fourth,  the  song  having  a  compass of  four  tones.  (See  song  No.  217.)  It  is  a  wailing  melody,  well
 calculated  to  wear  out  the  patience  of  listeners.  The  intonation  was
 particularly  unsteady,  but  the  repetitions  were  so  many  that  it  was
 possible  to  determine  the  tones  and  make  the  transcription.  The
@@ -49041,23 +35475,12 @@ and  singing  until  he  shared  his  luxuries  with  them.
 DBKSlfOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-483
-
-
 No.  206.  Begiring:  Song
 
 Sung  by  Used-as-a-Shield
 
 
-(Catalogue  No.  619)
-
-
 VoiCB  J—  120
-Drum  J  =120
-Drum-rhythm  similar  to  No.  6
 
 
 ^pGanai
@@ -49067,9 +35490,6 @@ AVa-kal-ya-pi  wa-ciq  yc
 
 
 a  -  gu-ya  -  pi  wa-cii)  ye
-
-
-WORDS
 
 
 wakal'^yapi coffee
@@ -49088,7 +35508,6 @@ in  structure.  The  rhythmic  unit  appears  6  times,  as  well  as  in  the
 first  and  second  endings  of  the  song  where  it  is  not  indicated  by  the
 usual  sign.
 
-See  plot  of  this  melody  on  page  484.
 
 PLOTS   OF   GRASS-DANCE    SONOS
 
@@ -49106,12 +35525,10 @@ showing  the  characteristics  of  songs  of  motion  or  of  animals.
 In  song  No.  205,  however,  we  have  a  plot  wluch  merits  closer
 inspection.  In  this  song  the  final  interval  between  accented  tones
 is  an  ascending  interval,  su^esting  class  E,  in  which  the  first  such
-interval  is  ascending,  and  which  was  found  to  contun  songs  of  dis-
-tress. Songs  similar  to  No,  205  can  scarcely  be  said  to  constitute  a
+interval  is  ascending,  and  which  was  found  to  contun  songs  of  distress. Songs  similar  to  No,  205  can  scarcely  be  said  to  constitute  a
 class  by  themselves,  yet  on  examining  the  plots  of  these  songs  in
 connection  with  their  titles  and  words  we  find  that  many  of  them
-contain  what  might  be  called  a  "sense  of  indefiniteness."  An  excep-
-tion to  this  is  song  No.  16,  which  was  sung  after  the  raising  of  the  Sun-
+contain  what  might  be  called  a  "sense  of  indefiniteness."  An  exception to  this  is  song  No.  16,  which  was  sung  after  the  raising  of  the  Sun-
 dance pole,  though  at  this  point  in  the  ceremony  there  was  an  intense
 feeling  of  suspense  and  expectation.  The  only  other  son^  having
 this  interval  between  accented  tones  at  the  close  are  as  follows:  Xo.
@@ -49144,8 +35561,7 @@ Games
 THE  MOOOASIN  OAME    (hAIJ'PA  AFE^E^XTlfPl)
 
 Guessing  the  location  of  a  hidden  object  was  the  central  idea  in
-one  distinct  class  of  Indian  games,  the  object  varying  in  the  differ-
-ent games.  The  moccasin  game  is  a  familiar  example  of  this  class.
+one  distinct  class  of  Indian  games,  the  object  varying  in  the  different games.  The  moccasin  game  is  a  familiar  example  of  this  class.
 Culin  says:  "The  moccasin  game  was  played  by  the  Algonquian
 tribes,  and  is  found  among  the  Dakota  and  Navajo.  Two,  three,  four,
 six,  or  eight  moccasins  are  used,  but  four  is  the  standard  number.
@@ -49155,19 +35571,15 @@ Sioux  in  Minnesota  is  briefly  described  by  Rev.  E.  D.  Neill',  as  fol
 ^  ^  A  bullet  or  plimi  stone  is  placed  by  one  party  in  one  of  four  moccasins
 or  mittens  and  sought  for  by  the  opposite. "  *  In  the  usual  manner  of
 playing  the  game  four  bullets  are  hidden,  one  under  each  of  four
-moccasins.  One  of  these  bullets  is  marked,  and  the  count  is  deter-
-mined by  the  readiness  with  which  the  marked  bullet  is  found  by  the
+moccasins.  One  of  these  bullets  is  marked,  and  the  count  is  determined by  the  readiness  with  which  the  marked  bullet  is  found  by  the
 "guessing  side,"  and  also  by  the  position  of  the  moccasin  under
 which  it  was  hidden,  whether  it  were  at  the  end  or  in  the  middle  of  the
 row.  The  manner  of  playing  the  game  among  the  Sioux  is  practically
 the  same  as  among  the  Chippewa.  Illustrated  accounts  of  this
 game  among  the  Chippewa  have  been  given  by  Culin,'  and  also  by  the
-present  writer.*  The  Sioux  songs  of  the  moccasin  game  are  espe-
-cially rhythmic,  but  the  drum  is  not  steadily  maintained  in  one  rhythm,
-as  among  the  Chippewa.  Thus  we  find  several  drum  rhythms  occur-
-riag  in  this  group  of  songs.  This  is  one  of  the  instances  which  sug-
-gest a  freer  use  of  the  drum  among  the  Sioux  than  among  the  Chip-
-pewa.
+present  writer.*  The  Sioux  songs  of  the  moccasin  game  are  especially rhythmic,  but  the  drum  is  not  steadily  maintained  in  one  rhythm,
+as  among  the  Chippewa.  Thus  we  find  several  drum  rhythms  occurriag  in  this  group  of  songs.  This  is  one  of  the  instances  which  sug-
+gest a  freer  use  of  the  drum  among  the  Sioux  than  among  the  Chippewa.
 
 1  Culin,  Stewart,  Games  of  the  North  American  Indians,  Twentyfofulk  Rep. Bsr.Amer.  Ethn. ,p.  339,
 Washington,  1907.
@@ -49185,12 +35597,6 @@ op.  cit.,  xm,  pt.  1,  pp.  59-61,  New  York,  1913.
 4840*--B011.  61—18 33
 
 
-486
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
 rBnix.<i
 
 
@@ -49199,11 +35605,9 @@ No.  206.  Song  of  the  Moccasin  Game  (a)     (Catalogue  No.  551)
 Sung  by  Gray  Hawk
 Voice  J_^92
 Dbum  J—\0S
-Drum-rhythm  similar  to  No.  6
 
 
-Analysis. — Three  renditions  of  this  song  were  recorded,  the  repeti-
-tions being  without  a  break  in  the  time.  Throughout  the  renditions
+Analysis. — Three  renditions  of  this  song  were  recorded,  the  repetitions being  without  a  break  in  the  time.  Throughout  the  renditions
 the  drum  was  slightly  faster  than  the  voice,  as  indicated  by  the
 metronome  tempo.  The  rhythmic  unit,  which  is  interesting,  occurs
 three  times.  AH  the  tones  of  the  octave  are  found  in  the  soag,
@@ -49220,8 +35624,6 @@ Voice  ^76
 
 Drum  J  —  108
 
-Drum-rhythm  similar  to  No.  19
-
 
 ^W,
 
@@ -49236,18 +35638,11 @@ i---4^
 
 
 Arwlysis. — This  song  begins  and  ends  on  the  same  tone.  (See  No.  82.)
-The  other  instances  of  this  kind  in  the  present  series  with  one  ex-
-ception begin  with  an  ascent  of  an  octave,  returning  to  the  original  tone
+The  other  instances  of  this  kind  in  the  present  series  with  one  exception begin  with  an  ascent  of  an  octave,  returning  to  the  original  tone
 at  the  close.     It  will  be  noted  that  the  first  tone  of  this  song  is  about
 
 
 DBMSlfOBB]
-
-
-TETON  SIOUX  MUSIC
-
-
-487
 
 
 midway  of  the  compass.  The  tones  in  the  melody  are  those  of  the
@@ -49277,37 +35672,25 @@ I    >    61       finl      ya       wl
 la  -  te
 
 
-WORDS
-
 idl'  ^ni  ya it  is  wrong
 
 wi'lute your  signal  ("you  guessed  wrong")
 
 Analysis, — ^This  melody  is  simple  but  has  a  taunting  sound.  It
 resembles  song  No.  211  in  its  brevity ,  its  range  of  six  tones,  and  its
-tone  material,  which  is  that  of  the  second  five-toned  scale.  A  major-
-ity of  the  progressions  are  major  seconds.  Concerning  songs  which
+tone  material,  which  is  that  of  the  second  five-toned  scale.  A  majority of  the  progressions  are  major  seconds.  Concerning  songs  which
 contain  rests  see  No.  79.
 
 No.  209.  Song  of  the  Moccasin  Game  (d)   (Catalogue  No.  659)
 
 Sung  by  Gray  Hawk
 Voice  J  =7^
-Drum  J  =  108
-Drum-rhythm  similar  to  No.  19
 
 
 '-•••ib     ^±^       ±\^'  '  I
 
 
-Analysis. — This  song  was  recorded  by  Gray  Hawk  on  two  occa-
-sions, the  dupUcation  being  accidental.     On  comparison  it  is  foimd
-
-
-488
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
+Analysis. — This  song  was  recorded  by  Gray  Hawk  on  two  occasions, the  dupUcation  being  accidental.     On  comparison  it  is  foimd
 
 
 [BCTLL.  CI
@@ -49321,13 +35704,8 @@ drum  is  sUghUy  faster  than  that  of  the  voice.
 No.  210.  Song  of  the  Moccasin  Game  (e)    (Catalogue  No.  561)
 
 Sung  by  Gray  Hawk
-VoiCB  J  =96
 
 Drux  j=96
-
-Drum-rhythm  similar  to  No.  10
-
-5
 
 
 ^m
@@ -49357,7 +35735,6 @@ No.  211.  Song  of  the  Moccasin  Game  (f )      (Catalogue  No.  625)
 Sung  by  Two  Shields
 Voice  J  — M)8
 
-Drum  J  =  108
 
 Principal  drum-rhythm  similar  to  No.  5
 
@@ -49380,8 +35757,7 @@ S3
 ^^
 
 
-Analysis. — ^The  drum  rhythm  of  this  song  was  not  steadily  main-
-tained;  the  principal  rhythm  being  often  interrupted  by  beats  sep-
+Analysis. — ^The  drum  rhythm  of  this  song  was  not  steadily  maintained;  the  principal  rhythm  being  often  interrupted  by  beats  sep-
 arated by  the  value  of  a  quarter  note.  (See  song  No.  125.)  The  song
 is  very  rhythmic  and  is  typical  of  the  songs  sung  during  a  moccasin
 game.  The  rhythmic  unit  is  continuous,  and  the  song  was  repeated
@@ -49391,12 +35767,6 @@ whole  tone.    The  melody  tones  are  those  of  the  second  five-toned
 
 
 OENqMOHE]
-
-
-TETON   SIOUX   MUSIC
-
-
-489
 
 
 scale,  and  two-thirds  of  the  progressions  are  downward.    The  song
@@ -49444,12 +35814,6 @@ The  following  signals  are  used  to  indicate  guesses:  Extending  the  firs
 fingers  and  pointing  toward  the  right  indicates  a  guess  that  both  players  have  the
 
 
-490
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
-
-
 [BULL.  CI
 
 
@@ -49467,7 +35831,6 @@ No.  212.  Game  Son^  (Catalogue  No.  598)
 Sung  by  Kills-at-Night
 VoioB  J  =100
 Dkcm  J  =100
-Drum-rhythm  similar  to  No.  8  *
 
 .    — — ,   I r-rr — i    i — i
 
@@ -49495,10 +35858,6 @@ verge  of  winning  the  game."
 No.  218.  Song  When  a  Game  Is  Almost  Won   .    (Catalogue  No.  599)
 
 Sung  by  Kills«at-Nioht
-VoiCB  J  =108
-
-Drum  J  =108
-Drum-rhythm  similar  to  No.  8
 
 
 -#--«-
@@ -49529,12 +35888,6 @@ beginning.    Other  renditions  began  with  F  simg  once  in  the  lower
 OENSMOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-491
-
-
 and  twice  in  the  upper  octave,  making  the  first  interval  an  ascending
 octave,  or  with  the  three  first  tones  on  F  in  the  upper  octave.  The
 aong  is  rhythmic,  with  exact  repetitions  of  the  rhythmic  unit  except
@@ -49557,10 +35910,7 @@ No.  214.  Song  of  Ylctory  (Catalogue  No.  618)
 «  ■
 
 Sung  by  Used-as-a-Shibld
-VoiCB  J  =160
 Dkum  Jr=80
-
-Drum-rhythm  similar  to  No.  6
 
 
 IQiiiif  |f't|L?^
@@ -49577,7 +35927,6 @@ Ma-to-lu-ta   to-ke-fike       wi|-la-te  so
 
 ha  ya   ya-ui    ha  kta  6a  ya   he-6a-noi)8o
 
-WORDS
 
 Mato'-lu'ta Red  Bear
 
@@ -49616,9 +35965,6 @@ No.  216.  Song  of  Little  Girls'  Play  (a)
 Sung  by  Yellow  Haih
 
 
-(Catalogue  No.  680)
-
-
 YoiCB  J  =76
 Dkum  not  recorded
 
@@ -49655,16 +36001,8 @@ could  be  endured  only  a  few  seconds  before  the  little  girls  all  fell
 in  a  state  of  helpless  laughter.  Almost  immediately  the  play  was
 resumed,  and  the  song  sung  again,  to  be  interrupted  before  it  was  half
 
-492
-
 
 DBNQUOBEl
-
-
-TETON   SIOUX  MUSIC
-
-
-493
 
 
 finished.  It  seems  a  foolish  little  play,  yet  war  and  ceremony  were
@@ -49677,10 +36015,6 @@ No.  216.  Song  of  Little  Girls'  Play  (b)
 Sung  by  Ykllow  Haib
 
 
-(Catalogue  No.  681)
-
-
-VoicB  J  =76
 Dkum  not  recorded
 
 
@@ -49710,9 +36044,6 @@ Drum  not  recorded
 No.  217.  LulUby
 
 Sung  by  Yellow  Hair
-
-
-(Catalogue  No.  679)
 
 
 a    wa   vsa
@@ -49754,9 +36085,6 @@ ni  -  na  i  -  dti-ma-na  a
 a  wawawa  wa        i-ni-na  i  - 6ti-ma-na  a
 
 
-WORDS
-
-
 ini'la be  stUl
 
 iiti^mana eleep
@@ -49766,8 +36094,7 @@ iiti^mana eleep
 
 Analysis. — ^This  song  contains  the  tones  of  the  minor  third  and
 fourth,  the  latter  being  sharped  in  three  instances.  The  intonation
-of  the  song  as  a  whole  is  wavering,  yet  in  some  renditions  the  de-
-scending semitones  around  the  accidental  were  sung  with  reasonable
+of  the  song  as  a  whole  is  wavering,  yet  in  some  renditions  the  descending semitones  around  the  accidental  were  sung  with  reasonable
 accuracy.  About  66  per  cent  of  the  intervals  are  major  seconds.
 This  and  song  No.  204  are  the  only  songs  in  the  present  series  having
 a  compass  of  but  four  tones,  a  range  occurring  in  only  2  of  the  340
@@ -49806,12 +36133,6 @@ the  shrill  "woman's  tremolo,"  jumped  into  the  river  below.
 
 
 DRN9M0RE]
-
-
-TETON   SIOUX  MUSIC
-
-
-495
 
 
 No.  218.  Song  of  the  Maiden's  Leap    (Catalogue  No.  620)
@@ -49856,9 +36177,6 @@ i9-
 
 
 Zu-ya
-
-
-5
 
 
 rM^
@@ -49909,9 +36227,6 @@ k^
 I
 
 
-WORDS
-
-
 zu^ya  iya^yelo he  is  gone  to  war
 
 eha'pi  kog you  said
@@ -49923,8 +36238,7 @@ iyo'dye  waki''  ye I  am  sad
 Analysis. — The  closing  tone  in  this  song  is  a  fourth  above  the
 lowest  tone  of  the  melody.  This  is  somewhat  unusual,  the  final
 tone  generally  being  also  the  lowest  tone.  The  song  is  characterized
-by  the  minor  third,  which  forms  more  than  half  the  number  of  inter-
-vals. The  melody  tones  are  those  of  the  second  five-toned  scale.
+by  the  minor  third,  which  forms  more  than  half  the  number  of  intervals. The  melody  tones  are  those  of  the  second  five-toned  scale.
 The  song  has  a  compass  of  an  octave  and  is  melodic  in  structure.
 Two  renditions  were  recorded,  which  show  no  points  of  diflFerence.
 
@@ -49932,15 +36246,6 @@ In  connection  with  Type  C,  on  page  53,  it  is  noted  that  a  recurrenc
 of  accent  on  the  lowest  tone,  usually  the  keynote,  appears  associated
 with  the  idea  of  firmness  and  stability  of  character.  A  contrast  to
 this  is  afforded  by  the  plot  of  this  song  (fig.  42).
-
-
-496
-
-
-BUREAU  OF  AMERICAN"  ETHNOLOGY
-
-
-[BULL.  61
 
 
 LEGEND   OF  GHOST  HHX
@@ -49959,8 +36264,7 @@ consulted  a  man  who  had  some  sacred  stones,  giving  him  a  horse  and  
 would  tell  them  of  their  son.  This  man  said  that  during  the  next  night  the  voice
 of  the  miflHJng  man  would  be  heard  passing  through  the  camp,  and  that  all  must  foUow
 the  voice.  On  the  night  designated  all  the  camp  was  on  the  alert;  just  before  dawn
-they  heard  the  voice  of  the  young  man  approaching.  His  parents  and  friends,  rec<3g-
-nizing  the  voice,  began  to  lament,  and  the  dogs  barked  as  at  the  approach  of  a  person.
+they  heard  the  voice  of  the  young  man  approaching.  His  parents  and  friends,  rec<3gnizing  the  voice,  began  to  lament,  and  the  dogs  barked  as  at  the  approach  of  a  person.
 The  voice  passed  through  the  camp,  singing  a -love  song,  then  turned  and  came  back,
 retracing  its  way  toward  this  hill.  The  people  followed,  but  could  not  go  as  fast  as  the
 voice,  which  gradually  became  more  distant  until  it  was  lost  in  the  darkness.
@@ -49995,12 +36299,6 @@ Reservation.
 
 
 DENaMOBX]
-
-
-TETON  SIOUX  MUSIC
-
-
-497
 
 
 Great  diflSicuIty  was  experienced  in  securing  the  song  which  was
@@ -50048,8 +36346,6 @@ yt         ka-6ka-lai)-ka  wi    -    o-u-spa-pl    6ai}  i- yo-tan  wa-6a-mni  
 ye      yo
 
 
-WORDS
-
 he^nake finally
 
 wafie'ye I  weep
@@ -50084,25 +36380,14 @@ other  persons,  and  also  of  composing  new  words  for  songs.     Three  of
 4840*»— Bull.  61—18 32
 
 
-498
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
-
-
 these  songs  are  melodies  of  distinct  classes,  No.  225  being  a  song  of
 the  White  Horse  Riders,  No.  226  of  the  shuffing-feet  dance,  and  No.
-231  of  the  Strong  Heart  society.  No.  222  is  said  to  have  been  com-
-posed recently.  The  others  are  praise  songs  which  have  been  used
+231  of  the  Strong  Heart  society.  No.  222  is  said  to  have  been  composed recently.  The  others  are  praise  songs  which  have  been  used
 in  the  tribe.  In  many  instances  all  the  words  of  the  song  are  new.
 The  person  whose  name  appears  in  the  songs  is  Two  White  Buffalo,
 whom  Red  Fox  adopted  in  place  of  his  deceased  daughter  and  to
 whom  he  gave  his  daughter's  name.  Red  Fox  stated  that  he  had
-a  right  to  give  this  name  as  he  had  killed  two  white  buffalo.  When-
-ever these  songs  are  sung  it  is  expected  that  Red  Fox  will  make,  in
+a  right  to  give  this  name  as  he  had  killed  two  white  buffalo.  Whenever these  songs  are  sung  it  is  expected  that  Red  Fox  will  make,  in
 behalf  of  Two  White  Buffalo,  a  gift  to  the  singers  or  to  any  project
 for  which  donations  are  being  solicited.  Red  Fox  is  a  man  who  is
 highly  respected  in  the  tribe,  and  these  songs  have  been  widely
@@ -50114,7 +36399,6 @@ Sung  by  Shoots  Fieot
 
 VoiOBjrr72
 Dbum  J— 72
-Drum-rhythm  similar  to  No.  6
 
 
 i
@@ -50143,7 +36427,6 @@ o-huij-ke    6ni         o-ta  -  ye      be-ya^pi    6ai)-zia
 
 6ui)-ka  -  wa  -  kai]         we-£ui)  •  we
 
-WORDS
 
 Pteaaij'-noo'pawii) Two  \^Tiite  Buffalo
 
@@ -50163,12 +36446,6 @@ we<6ui)Ve I  donated
 DEN8M0BE]
 
 
-TETON  SIOUX   MUSIC
-
-
-499
-
-
 Analysis. — ^This  is  the  melody  of  an  old  praise  song,  used  only
 
 for  those  who  give  freely.     It  opens  with  an  ascending  octave,  a
@@ -50186,15 +36463,12 @@ No.  221.  ''I  Expect  to  GIto  Something"        (Catalogue  No.  641)  *
 Sung  by  Shoots  Firot
 Ifit  rendition
 
-VoiCB  J  =  56
 
 Brum  Jz=56
 
 Drum-rhythm  similar  to  Ko.  6
 
 2d  rendition
-VoicB  J  =  84
-Drum  J  =84
 Drum-rhythm  as  above
 
 
@@ -50248,7 +36522,6 @@ i
 
 he  -  ya  -  ke  -  ya  -  pi    6a    ko-haij        wa-kta  wa-oij    ye  -  lo
 
-WORDS
 
 kami^'te  ^      kiQhai)''     wamna^-  tell  me  when  the  committee  is  raising  funds
 y  ai)  pi  <5ai)''na  oma^kiyaka  po .
@@ -50265,9 +36538,6 @@ are  frequently  added  to  Indian  languaf^s  to  express  new  ideas.  An  ext
 Omaha  language  is  given  by  Miss  Fletcher  in  The  Omaha  Tribe,  op.  cit.,  pp.  620, 621.
 
 
-500
-
-
 BUREAU  OF  AMfiBICAN  ETHNOLOGY
 
 
@@ -50280,14 +36550,12 @@ preceding  song,  it  opens  with  an  ascending  octave,  and  begins  and  end
 on  the  same  tone.  (See  song  No.  82. )  Ahnost  one-third  of  the  intervals
 are  fourths,  and  the  minor  thirds  are  exactly  equal  in  number.  The
 song  has  a  compass  of  an  octave  and  contains  all  the  tones  of  the
-octave  except  the  second.  Two  rhythmic  units  occur  in  the  sec-
-ond imit,  the  count  divisions  of  the  first  unit  being  reversed  in  the
+octave  except  the  second.  Two  rhythmic  units  occur  in  the  second imit,  the  count  divisions  of  the  first  unit  being  reversed  in  the
 seconfi
 
 No.  «22.  "Two  White  Buffalo"  (Catalogue  No.  642)
 
 Sung  by  Shoots  Fmar
-VOICB  J  =60
 Dkum  J —  60
 Drum-rhythm  similar  to  Ko.  6
 
@@ -50366,12 +36634,6 @@ he
 DBN81C0KB]     •
 
 
-TETON   SIOUX  MUSIC
-
-
-501
-
-
 Andlysia. — ^This  song  was  sung  by  four  singers,  and  was  afterwards
 recorded  by  Shoots  First  alone,  in  order  that  it  might  be  more  easily
 transcribed.  The  structure  of  the  song  is  interesting.  There  are
@@ -50393,9 +36655,6 @@ Drum  not  recorded
 No.  228.  ''Take  Fresh  Courage
 
 Sung  by  ^ita'^ka
-
-
-(Catalogue  No.  478)
 
 
 ■i^i-^'^ir.  n  jp
@@ -50423,17 +36682,8 @@ waQwi^dalaka  6e you  have  seen
 Analysis. — ^This  song  contains  all  the  tones  of  the  octave  except
 the  sixth  and  seventh..  The  principal  intervals  are  the  fourth  and
 major  second — an  unusual  melodic  formation.  The  song  is  minor  in
-tonality  and  has  a  compass  of  nine  tones.  The  tonic  chord  is  promi-
-nent in  the  melody,  but  the  accents  are  so  placed  that  the  song  is
+tonality  and  has  a  compass  of  nine  tones.  The  tonic  chord  is  prominent in  the  melody,  but  the  accents  are  so  placed  that  the  song  is
 classified  as  melodic  with  harmonic  framework.
-
-4840**— Bull.  61—18 34
-
-
-502
-
-
-BUREAU  OF  AMERICAN  ETHNOLOGY
 
 
 •  [BULL,  ei
@@ -50443,7 +36693,6 @@ No.  224.  '<The  White  Horse  Riders  Said  This"        (Catalogue  No.  477)
 
 Sung  by  Siya^ka
 
-VoiCB  J  =  69
 Drum  not  recorded
 
 
@@ -50458,8 +36707,6 @@ wai]-bla  -  kii)    kte    &6in  na    i-yo-tl-ye    ki  -  ya    o-ma-wa-nl  y
 
 Stir)k-8ka  A  -  kai)-yaij-ke  6ii)    o         he.ya    a  -  a  we  -  lo  he    yo
 
-
-WORDS
 
 e<^a' well
 
@@ -50493,9 +36740,6 @@ DBNQMOBK]
 TETQN   BIOXJX  MUSIC
 
 
-603
-
-
 No.  226.  "Two  White  Buffalo,  Tmke  Courmge"
 
 Sung  by  Haka^la  (Younoest  Chilo)
@@ -50503,9 +36747,6 @@ Sung  by  Haka^la  (Younoest  Chilo)
 VOICB  Jr=66
 
 Drum  not  recorded
-
-
-(Catalogue  No.  671)
 
 
 •  -Lf-'  f  I  f?f  tT'  f
@@ -50528,7 +36769,6 @@ wa^te     wa  -  la  -  ka   ke  -  lo
 
 To-ka  -  la -lu  -  la    he     he-ya   ke  -  ya       pe  -  lo     he  yo
 
-WORDS
 
 Pteflag'-noo'pawii) Two  White  Buffalo
 
@@ -50547,17 +36787,13 @@ keya'  peiy so  they  say
 Analysis. — ^This  is  a  serenade  song  of  the  White  Horse  Riders,
 the  present  words  being  substituted  for  words  formerly  used.  The
 man  who  recorded  this  song  is  a  leader  among  the  middle-aged
-singers  of  the  tribe.  The  keynote  appears  to  be  G,  and  the  tone-
-material  is  therefore  that  of  the  fourth  five-toned  scale,  but  the
+singers  of  the  tribe.  The  keynote  appears  to  be  G,  and  the  tonematerial  is  therefore  that  of  the  fourth  five-toned  scale,  but  the
 second  is  sharped  in  every  occurrence.  The  interval  of  an  augmented
 second  occurs  three  times  and  was  sung  with  good  intonation.  This
 interval  is  foimd  also  in  two  other  songs.  (See  Nos.  63,  106.)  The
 interval  of  a  semitone  appears  seven  times  in  this  melody,  and  the
 minor  third  forms  47  per  cent  of  the  entire  niunber  of  intervals.
 About  two-thirds  of  the  intervals  are  downward  progressions.
-
-
-504
 
 
 BUREAU   OP  AMERICAN  JITHNOLOGY
@@ -50574,13 +36810,8 @@ No.  226.  <<The  TritM  Tou  Help
 Sung  by  Haka'^la  (Youngest  Gaild)
 
 
-(Catalogue  No.  672)
-
-
 YoiCB  J  =66
 Drum  not  recorded
-
-8
 
 
 0-ya-  te  kii)-hai)-  wa-wo-ki-ya  -  po    Pte-saq-noij-pa-wiq
@@ -50590,9 +36821,6 @@ S*
 
 
 wa-na  ig-la  -  so-te-a
-
-
-WORDS
 
 
 oya'te  kii)hai)^ the  tribe
@@ -50626,9 +36854,6 @@ DINSMORI]
 
 
 TETON  SlOXrX   MUSIC
-
-
-505
 
 
 No.  227.  ''Whenerer  the  Tribe  Assembles"       (Catalogue  No.  684)
@@ -50666,9 +36891,6 @@ yu-ba  pe
 Ae     Pte  -  aaQ  -  Box)-pa-wii)  he-  ya  ke-ya  pe
 
 
-WORDS
-
-
 oya^tekiQ  ahi^mnidiyadaQ^na.  whenever  the  tribe  asBemblee
 
 mlta^^Qke my  horses
@@ -50688,9 +36910,6 @@ progression,  which  appears  six  times,  being  well  given.  The  tonic
 chord  is  prominent  in  the  formation  of  the  melody,  though  the
 accented  tones  are  such  that  the  song  is  classified  as  melodic  in
 structure.
-
-
-506
 
 
 BUBEAU   OF  AMEBICAN   ETHNOLOGY
@@ -50718,8 +36937,6 @@ baq      wa   -   Ciq  -  ni    -     yaij     pe  -   lo   he    -    ya-pi
 e    6ai]-  na  ma-zas   -    ka  kii)-  hai)  i    -    hpe-  ya        on-  we    ne       hu
 
 
-WORDS
-
 Pte8ai)^-no5''pawii) Two  White  Buffalo
 
 blihe^'idiya  ye take  courage
@@ -50738,8 +36955,7 @@ ihpe'ya  on^'we you  donated
 
 Analysis. — ^This  melody  is  one  of  the  praise  songs,  or  honor
 songs,  of  the  tribe.  Three  renditions  wore  recorded.  The  first  two
-had  no  words,  and  the  note  values  varied,  but  the  third  was  as  indi-
-cated, though  the  florid  part  of  the  first  measure  can  not  be  transcribed
+had  no  words,  and  the  note  values  varied,  but  the  third  was  as  indicated, though  the  florid  part  of  the  first  measure  can  not  be  transcribed
 with  absolute  accuracy.  The  song  is  minor  in  tonahty,  harmonio  in
 structure,  and  contains  all  the  tones  of  the  octave.  The  upward  and
 downward  progressions  are  more  nearly  equal  than  usual,  there  being
@@ -50749,23 +36965,13 @@ downward  progressions  are  more  nearly  equal  than  usual,  there  being
 DiNaMOBS]
 
 
-TETON  SIOUX   MUSIC
-
-
-507
-
-
 No.  229.  *'l  Donmted  m  Horse''
 
 Sung  by  Shooter
 
 
-(Catalogue  No.  579)
-
-
 YoiCB  J  =  80
 Brum  J  =  80
-Drum-rhythm  similar  to  No.  6
 
 
 rjj  I      lljJM.JP^^
@@ -50791,7 +36997,6 @@ Pi
 
 6a       he     fiui)-ka-  wa     -    kaq   e     we-6oi)  we-  lo
 
-WORDS
 
 Pte8ai)^-nog''pawig Two  White  Buffalo
 
@@ -50815,9 +37020,6 @@ first  unit  in  the  next  preceding  song.
 ^  This  word  was  shortened  by  the  singer.
 
 
-508
-
-
 BUBEAU  OP  AMEBICAN  ETHNOLOGY
 
 
@@ -50830,7 +37032,6 @@ Sung  by  Shootbr
 
 YOICB  J=:66
 Dbum  J=66
-Drum-rhythm  similar  to  No.  6
 
 
 tfJi:
@@ -50852,9 +37053,6 @@ he    Pte-8ai]-noi)-pa-wii)  he
 
 
 he-ya  -  6a  he    a  -  u   we  -  lo
-
-
-WORDS
 
 
 oya^te  klQ  hin'^taya  6ai)^Da. .  whenever  the  tribe  is  gathered  together
@@ -50887,23 +37085,12 @@ Rests  are  considered  in  the  analysis  of  song  No.  79.
 OBNaiCOBB]
 
 
-TETON   SIOUX   MUSIC
-
-
-509
-
-
 No.  281.  *'A  Short  Time''
 
 Song  by  Gray  Hawk
 
 
-(Catalogue  No.  558)
-
-
-VoicB  J  =80
 Drum  J::^88
-Drum-rhythm  similar  to  No.  19
 
 
 ^
@@ -50925,9 +37112,6 @@ bU-i-he-i-6i-ya    yo
 
 
 na  -  ke-nui)-la      ya-  oi)
-
-
-WORDS
 
 
 Pteeai)'-noi)'pawig Two  White  Buffalo ,
@@ -50955,9 +37139,6 @@ Sisseton,  only  the  melody  being  taken.
 
 The  older  form  of  love  song  is  considered  in  connection  with  the
 war  material  on  page  370.
-
-
-510
 
 
 BUREAU  OF  AMEBJCAN   ETHNOLOGY
@@ -51003,9 +37184,6 @@ Taij-uj-yai)-ma-ni-wii)  Ai    he-ya
 lo    wi  -  6a   -   ya  -  ka  he  -  6i  -  na  ya  -  u
 
 
-WORDS
-
-
 wida^yaka  hedi^na  yaQ^  ^ni if  you  are  truthful,  come
 
 TaQiQ^yaQ-ma^niwiQ Walks  Visibly  (woman's  name)
@@ -51015,18 +37193,11 @@ he'ya  helo' has  said  this
 Analysis, — In  several  respects  this  melody  resembles  No.  234.
 like  that  song,  it  has  a  range  of  10  tones,  lacks  the  sixth  and  seventh
 of  the  complete  octave,  and  in  structure  is  melodic  with  harmonic
-framework.  About  one-fifth  of  the  intervals  are  fourths,  the  remain-
-ing intervals,  with  three  exceptions,  being  minor  thirds  and  major
+framework.  About  one-fifth  of  the  intervals  are  fourths,  the  remaining intervals,  with  three  exceptions,  being  minor  thirds  and  major
 seconds.     Two  rhythmic  units  are  present  and  a  comparison  of  them
 
 
 DBN9M0RB]
-
-
-TETON  SIOUX  MUSIC
-
-
-511
 
 
 as  well  as  a  study  of  their  use  is  interesting.  It  will  be  noted  that
@@ -51046,29 +37217,20 @@ No.  288.  LoTe  Song^  (m)
 Sung  by  Swift  Doq
 
 
-(Catalogue  No.  590)
-
-
-Analysis. — ^Two  rhythmic  units  are  found  in  this  song,  each  appear-
-ing twice.  The  larger  part  of  the  second  unit  also  appears  at  the
-close  of  the  song,  but  a  change  of  accent  alters  the  phrase  so  mate-
-rially that  it  is  not  marked  as  a  repetition  of  the  unit.  One  acci-
+Analysis. — ^Two  rhythmic  units  are  found  in  this  song,  each  appearing twice.  The  larger  part  of  the  second  unit  also  appears  at  the
+close  of  the  song,  but  a  change  of  accent  alters  the  phrase  so  materially that  it  is  not  marked  as  a  repetition  of  the  unit.  One  acci-
 dental occurs — the  seventh  raised  a  semitone — this  being  an  accidental
 often  found  in  songs  of  minor  tonality.  This  melody  is  based  on
 the  second  five-toned  scale  and  is  harmonic  in  structure.  One-third
 of  the  intervals  are  minor  thirds.
 
 
-VoicB  J  =63
 Drdm  not  recorded
 
 
 No.  284.  LoTe  Song  (b)
 
 Sung  by  Blub  Cloud
-
-
-(Catalogue  No.  661)
 
 
 mi^^
@@ -51096,8 +37258,7 @@ song.     Twenty-seven  per  cent  of  the  intervals  are  minor  thirds.
 512  BUREAU   OP  AMEBICAN  ETHNOLOGY  tBuix.6i
 
 The  remainder  of  the  progressions  show  a  greater  variety  than  is
-found  in  a  majority  of  the  Sioux  songs.  This  appears  to  be  a  charac-
-teristic of  the  more  modem  songs.  All  the  tones  of  the  octave
+found  in  a  majority  of  the  Sioux  songs.  This  appears  to  be  a  characteristic of  the  more  modem  songs.  All  the  tones  of  the  octave
 except  the  sixth  and  seventh  are  present  in  the  melody.  The  song
 begins  and  ends  on  the  same  tone,  a  somewhat  unusual  feature  in
 both  Chippewa  and  Sioux  songs.  (See  song  No.  82.)  This  song  was
@@ -51110,8 +37271,7 @@ at  Sisseton,  S.  Dak.,  at  the  opening  of  the  writer's  work  among  the
 Sioux.  This  place  was  selected  because  Sioux  from  this  locality
 frequently  visit  the  Chippewa,  among  whom  the  writer's  previous
 work  had  been  done,  and  it  was  thought  that  this  acquaintance  would
-facilitate  the  work.  It  was  impossible,  however,  to  secure  a  satis-
-factory interpreter  at  Sisseton,  and  most  of  the  songs  recorded  there
+facilitate  the  work.  It  was  impossible,  however,  to  secure  a  satisfactory interpreter  at  Sisseton,  and  most  of  the  songs  recorded  there
 were  translated  from  the  phonograph  record  by  Mr.  Higheagle.
 Majiy  of  these  songs  were  familiar  to  the  Standing  Rock  Sioux  ajid
 were  identified  by  them  when  the  records  were  played.  In  one
@@ -51119,18 +37279,15 @@ instance  a  Standing  Rock  singer  supplied  words  which  were  migaing
 from  the  Sisseton  rendition  of  a  song.  A  few  Sun-dance  songs  were
 recorded,  but  these  were  said  to  belong  to  the  Santee  ceremony  and
 were  accordingly  discarded.  It  is,  however,  interesting  to  note
-Sioux  material  from  more  than  one  locality,  and  the  songs  are  there-
-fore included  in  the  series.  Other  Sisseton  songs  are  Nos.  95,  96,
+Sioux  material  from  more  than  one  locality,  and  the  songs  are  therefore included  in  the  series.  Other  Sisseton  songs  are  Nos.  95,  96,
 97,  189,  190.  The  words  of  the  songs  recorded  at  Sisseton  are  in  the
 Santee  dialect.     (See  p.  2.)
 
 On  July  4,  1911,  the  writer  attended  a  gathering  of  Indians
 on  the  Sisseton  Reservation.  The  number  of  dancers  was  small
-compared  with  that  at  Standing  Rock,  and  the  striking  contrast  indi-
-cates the  progress  of  the  Sioux  away  from  the  old  customs.  A  little
+compared  with  that  at  Standing  Rock,  and  the  striking  contrast  indicates the  progress  of  the  Sioux  away  from  the  old  customs.  A  little
 group  of  dancers  facing  the  setting  sun  is  shown  in  plate  82.  One
-of  the  mounted  men  was  Good  Thunder,  the  chief,  who  wore  a  gold-
-braided  uniform  and  acted  as ''  marshal  of  the  day,"  and  the  other  was
+of  the  mounted  men  was  Good  Thunder,  the  chief,  who  wore  a  goldbraided  uniform  and  acted  as ''  marshal  of  the  day,"  and  the  other  was
 a  mounted  Indian  policeman.  In  the  same  plate  is  shown  ako
 the  prairie  on  this  reservation,  which  is  more  rolling  than  that  at
 
@@ -51157,9 +37314,6 @@ SBHaMORB]
 TETON   SIOUX  MTJSIO
 
 
-518
-
-
 was  in  the  nature  of  a  jest,  but  many  songs  of  the  Ticketless  society
 are  still  remembered  by  the  Sioux.
 
@@ -51172,7 +37326,6 @@ No.  285.  ''Tou  Have  BeUed  Upon  Me"       (Catalogue  No.  645)
 Sung  by  Holt-facb  Bear  (Mato'ite'wakan)
 VoiCB  J -96
 Dbcm  J  ^96
-Drum-rhythm  similar  to  No.  8
 
 
 ^   p   p     ^'    4
@@ -51223,16 +37376,11 @@ t
 ^fe^^l^P
 
 
-1
-
-
 na     wa  -  6ir)  ma-y e    y a-pl     ke-ha  -  pi  a  bdi-he    -      1-61-  ya  wa-or)    ht  ya
 
 
 he       e  Wo-wa-fiiq-ye  -  na   o  o  be-ya  6ai)-na      tai)-yax) .
 
-
-WORDS
 
 o^a^te  ^aQ^na in  dances  and  feasts
 
@@ -51254,9 +37402,6 @@ Analysis, — ^An  unusually  large  variety  of  progressions  is  found
 in  this  song,  there  being  6  kinds  of  ascending  and  5  of  descending
 interrals.  The  number  of  major  seconds  is  largest,  though  the
 intervals  are  more  nearly  equal  in  nimiber  than  in  most  of  the  songs
-
-
-514
 
 
 BUBEAU  OF  AMEBIGAN   ETHNOLOGY
@@ -51296,10 +37441,7 @@ wu-  ■  m--^.
 O-j-  »   I"   E^
 
 
-A-te    be-jm    ym    Ae       i-
-
-
-iMMnft-ym  e-te  o   -  hoi)-k6
+A-te    be-jm    ym    Ae       iiMMnft-ym  e-te  o   -  hoi)-k6
 
 
 inikt
@@ -51333,16 +37475,9 @@ sc^le^  and  the  soiig  has  a  conipdt^s  of  an  octave.
 DBN4UOSE]
 
 
-TETON   SIOUX  MUSIC
-
-
-515
-
-
 No.  287.  Bovig  of  the  TlckeOess  Society    (Catalogue  No.  678)
 
 Sung  by  T'win  ((5bkpaO
-VoicB  J  =108
 Drum  not  recorded
 
 ■f-f-f-
@@ -51357,8 +37492,7 @@ I
 -Oh
 
 
-Analysis. — ^Thia  song  contains  all  the  tones  of  the  octave,  an  un-
-usual feature  in  a  song  of  minor  tonality.  It  has  a  range  of  10  tones
+Analysis. — ^Thia  song  contains  all  the  tones  of  the  octave,  an  unusual feature  in  a  song  of  minor  tonality.  It  has  a  range  of  10  tones
 and  is  melodic  in  structure.  Of  the  intervals  63  per  cent  are  whole
 tones.  The  song  is  peculiar  in  that  it  contains  only  one  tone  less
 than  an  eighth  note  in  value.
@@ -51387,22 +37521,14 @@ His  son,  a  boy  of  about  7  years,  went  with  him  to  the  edge  of  the
 biography  in  Handbook  of  American  Indiant,  pt.  1,  pp.  412-413.
 
 
-516
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
 (BULL.  O.
 
 
-Indian  country.  After  following  the  Minnesota  River  to  its  conflu-
-ence with  the  Mississippi,  Fierce  Face  went  down  the  Mississippi
+Indian  country.  After  following  the  Minnesota  River  to  its  confluence with  the  Mississippi,  Fierce  Face  went  down  the  Mississippi
 to  Prairie  du  Chien,  where  he  is  said  to  have  died  in  prison.
 
 More  than  70  years  have  passed  since  this  took  place,  but  through
-a  song  the  Indian  who  gave  himself  for  the  honor  of  his  tribe  now  re-
-ceives the  reward  which  an  Indian  most  desires — that  his  name  and
+a  song  the  Indian  who  gave  himself  for  the  honor  of  his  tribe  now  receives the  reward  which  an  Indian  most  desires — that  his  name  and
 deed  shall  be  remembered.
 
 No.  288.  Song  eoncernlnf^  Fierce  Face       (Catalogue  No.  662)
@@ -51422,9 +37548,6 @@ U    ko  -  da  -  pi     ^oq
 
 
 ta  -  pi
-
-
-WORDS
 
 
 Ite'-hioyaQ^za Fierce  Face  (iiian*8  name)
@@ -51454,12 +37577,6 @@ See  plot  of  this  mokxly  on  page  5U>.
 
 
 OENSUOBE]
-
-
-TETON   SIOUX  MUSIC
-
-
-517
 
 
 No.  289.  Son§r  Concerning^  a  Message  from  Washington       (Catalogue  No.  646)
@@ -51510,9 +37627,6 @@ ye  -  do     c      e
 e  -  pe    6a  wa-wo  wa  -  ki  -  ya
 
 
-WORDS
-
-
 Tuqka^&nayapi The  great  grandfather  (the  President)
 
 heya' has  said
@@ -51544,18 +37658,13 @@ fyk therefore
 wawo^  waki^ya I  have  helped  (to  keep  up  the  old  ways)
 
 Analysis. — This  song  is  remarkable  in  its  opening  interval,  which
-was  uniformly  given  in  three  renditions,  the  fourth  rendition  begin-
-ning on  the  last  part  of  the  first  measure.  The  song  is  melodic  in
+was  uniformly  given  in  three  renditions,  the  fourth  rendition  beginning on  the  last  part  of  the  first  measure.  The  song  is  melodic  in
 structure,  has  a  range  of  10  tones,  and  lacks  the  sixth  and  seventh
 tones  of  the  complete  octave.  This  song  was  said  to  have  been
 recently  composed.
 
-See  plot  of  this  melody  on  page  519.
 
 4840°— Bull.  61—18 35
-
-
-518
 
 
 BtJBEAU   OF  AMERICAN  ETHNOLOGY  IBUIX.«
@@ -51566,7 +37675,6 @@ Sung  by  Holy-facb  Bbaf.
 
 
 VoicB  J- 76
-Drum  J  =  76
 Dnim-rbythm  similar  to  No.  6
 
 
@@ -51649,8 +37757,7 @@ iyo'tan  i>v' ahanitime
 ,i^'\;^ix-^ 1  ^°^  haviti::
 
 J^^fi^-J ,si^^ — Tliis  SiMig  is  iliiiraeteriztHl  by  a  sLsteenth  note  followed
-hv  a  dottotl  oigUlh,  but  this  cvmbi:.ativ>n  is  ustM  in  so  many  connec-
-tions that  the  s<^'ig  c:in  si^arv^^ly  be  said  to  have  a  rhythmic  unit.
+hv  a  dottotl  oigUlh,  but  this  cvmbi:.ativ>n  is  ustM  in  so  many  connections that  the  s<^'ig  c:in  si^arv^^ly  be  said  to  have  a  rhythmic  unit.
 The  niekniv  pix^iTivss*^  chiorly  by  whv^le  tones*  aKmt  77  per  cent  of
 the  intervals  bei::g  major  s^Hvruls.  The  s^>::g  is  mekxlic  in  structure
 aiul  ooiitaiiis  the  toiu^  of  the  s<^x^:id  tivt^toiitxi  s^ale.
@@ -51668,8 +37775,7 @@ more  or  less  evident,  associated  with  sadness,  disappointment,  or
 suffering.  This  type  of  plot,  appearing  to  be  distinct  from  others
 and  to  be  connected  with  the  content  of  the  song,  was  accordingly
 designated  Class  E.  The  plots  of  songs  Nos.  238  and  239  (fig.  43)
-resemble  each  other,  both  being  Sisseton  songs,  the  former  associ-
-ated with  a  tragic  incident  and  the  latter  expressing  dissatisfaction.
+resemble  each  other,  both  being  Sisseton  songs,  the  former  associated with  a  tragic  incident  and  the  latter  expressing  dissatisfaction.
 Similar  to  these  is  the  plot  of  song  No.  99,  concerning  the  driving  of
 buffalo  against  wind  which  cut  their  faces  hke  a  lance.     (See  p.  419.)
 
@@ -51684,8 +37790,7 @@ between  the  first  and  second  accented  tones  are  as  follows:  No.  207
 (ascent  of  a  fifth),  moceasin^ame  song;  No,  200  (ascent  of  a  third),
 grass-dance  song;  No,  35  (ascent  of  a  whole  tone),  Sun-dance  song;
 No,  105,  EUk-society  song;  No.  206,  moccasin-game  song;  Np.  212,
-hiding-stick  game  song;  and  No.  219,  song  of  a  ghost.  The  last-
-named  is  distinctly  a  song  of  sadness;  with  one  exception  the  others
+hiding-stick  game  song;  and  No.  219,  song  of  a  ghost.  The  lastnamed  is  distinctly  a  song  of  sadness;  with  one  exception  the  others
 have  no  words,  and  the  origin  of  these  songs  is  somewhat  uncertain.
 This  final  analysb  group  comprises  several  small  groups  of  songs.
 First  are  three  incidental  songs  (Nos.  IS,  24,  25)  used  during  the  Sun
@@ -51698,8 +37803,7 @@ Next  are  songs  of  the  social  dances — the  grass,  shuflBing-feet,  and
 night  dances  (Nos.  195-203);  songs  used  in  ordinary  begging,
 distinct  from  requests  for  food  accompanied  with  singing  of  praise
 songs  (Nos.  204,  205);  and  songs  of  games  (Nos.  206-213)  together
-with  songs  used  in  children's  play  (Nos.  215-217),  and  songs  con-
-nected with  legends  (Nos.  218,  219).  In  this  group  are  also  such
+with  songs  used  in  children's  play  (Nos.  215-217),  and  songs  connected with  legends  (Nos.  218,  219).  In  this  group  are  also  such
 songs  in  honor  of  the  writer  as  were  sung  to  modem  tunes;  these
 are  Nos.  220,  221, 222, 226, 227,  228, 229, 230.  There  is  a  small  group
 of  modern  love  songs  (Nos.  232-234).  These  are  followed  by  a  group
@@ -51762,12 +37866,6 @@ T.v^                                                                            
 DRNaUOBE]
 
 
-TETON  SIOUX  MUSIC
-
-
-521
-
-
 CompanUivdy  Modem  Songs — (S)  MtaceUaneous   Songs — Continued
 
 Melodic  Analysis — Continued
@@ -51802,8 +37900,6 @@ IK,  196,  199,  201,  202,  203,  200,  210,  212,
 
 229,  232,  233,  236,  236,  237,  238,  239,
 
-240
-
 
 LAST  NOTE  OF  SONO— ITS  RELATION  TO  COMPASS  OF  BONO
 
@@ -51818,15 +37914,6 @@ Serial  Nos.  of  songs.
 Songs  in  which  final  tone  is—
 i-owmt  tone  in  sonE^ ......
 
-34
-
-2
-
-4
-3
-
-1
-1
 
 18,  24, 25, 195, 196, 107, 199, 200, 203, 204,
 206, 206, 209, 212, 215, 217, 210, 220, 221,
@@ -51851,12 +37938,9 @@ SmupR  oantAfnfnfif  ^  fourth  below  the  fiw^l  tone
 Songs  containing  a  major  third  below  the  final  tone. . .
 Songs  oontainhig  a  minor  third  below  the  final  tone. . .
 
-196
-201
 
 Total
 
-45
 
 NUMBER  OF  TONES  COMPRISINQ  COMPASS  OF  SONO
 
@@ -51891,33 +37975,11 @@ Four  tones..
 Total.
 
 
-2
-1
-1
-1
-7
-8
-19
-
-
-1
-2
-1
-2
-
-45
-
-
 Serial  Nos.  of  songs.
 
 
 195,202
 
-25
-
-198
-
-201
 
 24, 200, 206, 232, 234, 237, 239
 
@@ -51927,15 +37989,9 @@ Serial  Nos.  of  songs.
 
 226, 227, 228, 229, 230, 233, 236, 236, 238,
 
-240
-210
 
 206,211
-215
 204,217
-
-
-522
 
 
 BUBEAU  OP  AMEBICAN  ETHNOLOGY
@@ -51959,35 +38015,15 @@ S«JaIXos.oraoa^
 
 Second  lT»-tonBd  sale.
 
-11
 
 s
 
-2
-
-1
 
 «
 
-3
-
-1
-
-5
-
-1
-
-1
-
-1
 
 1  ,
 
-1
-
-1
-
-1
 
 1^.  196. 10%.  211.  213^  21A,  229,  2S3,  2My
 
@@ -52006,7 +38042,6 @@ XiMr  triMl  and  lonrtli
 
 Octan  cionpkt«  exc^M  !9mn*h
 
-219
 
 OeiaT«  fwpiptc  exnpc  serenih  and  sixth.
 Oeta;rB  eoflqrfeca  azcqx  w«Bth,  fifth,  and
@@ -52026,13 +38061,11 @@ l»i
 second. ...
 L
 
-220
 
 as
 
 19S
 
-221
 
 Minar  third  and  foarth
 
@@ -52051,7 +38084,6 @@ Serial  NoLeCaani^
 
 S«a«B:aciiu-
 
-57
 
 •>
 
@@ -52116,12 +38148,6 @@ T^^
 DENflMOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-523
-
-
 Comparatively  Modem  Songs — (3)  Miscellaneous   Songs — Continued
 
 Melodic  Analysis — Continued
@@ -52162,10 +38188,6 @@ TOTAL  NUMBER  OF  PROGRESSIONS— DOWNWARD  AND  UPWARD
 
 Downward.
 Upward. ..
-
-
-795
-464
 
 
 Total.
@@ -52216,42 +38238,10 @@ Minor  second .
 Total.
 
 
-4
-
-80
-
-43
-
-273
-
-376
-
-19
-
-
-795
-
-
 INTERVALS  IN  UPWARD  PROGRESSION
 
 
-1
-
-14
-2
-
-4
-18
-82
-38
-
 no
-
-160
-13
-
-
-464
 
 
 AVERAGE  NUMBER  OF  SEMITONES  IN  AN  INTERVAL
@@ -52269,12 +38259,6 @@ Average  number  of  semitones  in  an  interval.
 3,865
 
 3.07
-
-
-524
-
-
-BUREAU   OP  AMERICAN   ETHNOLOGY
 
 
 [BVVL.  ei
@@ -52334,74 +38318,33 @@ G  sharp  minor.
 Total
 
 
-4
-1
-
 208,214,218,222
-202
 
-3
-
-4
-3
-
-1
 
 201,203,212
 18,196,215,237
 200.207,216
-206
 
-2
-3
-
-1
 
 219,233
 
 206,220,230
 
-217
-
-2
-
-1
 
 210,226
-227
 
-3
-2
-
-1
 
 204,232,239
 
 195,240
 
-25
-
-1
-
-238
-
-2
-
-8
-
-1
 
 198,190
 
 197, 209, 211, 221, 228, 229, 235, 23«
 
-24
-
-2
 
 213,234
-
-46
 
 
 Rhythmic  Analysis
@@ -52415,12 +38358,6 @@ Number
 
 Befdnning  on  unaccented  part  of  mesSiire
 Beginning  on  accented  part  of  measure . . .
-
-
-16
-
-
-29
 
 
 Total
@@ -52458,7 +38395,6 @@ First  measure  in—
 
 2-4  time i
 
-3-4  time
 
 Total
 
@@ -52480,12 +38416,6 @@ i      234,236,237.240
 DKNQMOBE]
 
 
-TETON   SIOUX   MUSIC
-
-
-525
-
-
 CompanUivdy  Modem  Songs — (3)  Miscellaneous    Songs — Continued
 
 Rhythmic  An altsib— Continued
@@ -52501,14 +38431,7 @@ Songs  oontainlng  no  change  of  time.
 Songs  containing  a  change  of  time. .
 
 
-5
-40
-
-
 Total.
-
-
-45
 
 
 Serial  Nos.  of  songs.
@@ -52545,19 +38468,8 @@ Number
 of  songs.
 
 
-45
-
-
 Serial  Nos.  of  songs.
 
-
-6
-0
-
-4
-
-6
-20
 
 105,106,200,207,208,209     .
 
@@ -52571,7 +38483,6 @@ Serial  Nos.  of  songs.
 
 218, 210, 226, 227, 228, 232, 233  234, 237,
 
-238
 
 •
 
@@ -52591,10 +38502,6 @@ Number
 of  songs.
 
 
-12
-28
-
-
 Serial  Nos.  of  songs.
 
 
@@ -52607,20 +38514,7 @@ Serial  Nos.  of  songs.
 
 210, 220, 222, 226, 220, 234, 235, 236, 237,
 
-238
 202,221,230,232,233
-
-
-45
-
-
-526
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-[BULL.  61
 
 
 Comparatively  Modem  Songs — (S)  Miscellaneous  Songs — Continued
@@ -52639,37 +38533,9 @@ Serial  Nos.  of  songs.
 
 Metronome—
 
-56
-
-58
-
-60
-
-63
-
-66
-
-73
-
-76
-
-80
-
-88
-
-92
 
 96 :
 
-100
-
-108
-
-112
-
-116
-
-120
 
 1<4 V
 
@@ -52680,41 +38546,9 @@ Total
 
 I
 
-2
 
-2
-
-3
-
-6
-
-4
-
-6
-
-1
-
-2
-
-1
-
-3
-
-3
-
-5
-
-1
-
-1
-
-1
 o
 
-1
-
-
-221
 
 25,228
 222,227
@@ -52723,22 +38557,13 @@ o
 24,200,217,226,230,233
 195,220,236,238
 201,207,209,215,216,240
-229
 
 232,239
-206
 '  204,210,235
 197,203,212
 211,213,218,219,237
-199
-196
-206
 
 lf»,20B
-214
-
-
-45
 
 
 METRIC  UNIT  OF  DRUM  (TEMPO)
@@ -52782,10 +38607,6 @@ Drum  not  recorded 20
 Total 45
 
 
-221
-
-222
-
 220, 230
 
 195, 220, 236
@@ -52794,7 +38615,6 @@ Total 45
 
 214,229
 
-239
 
 210,235
 
@@ -52804,7 +38624,6 @@ Total 45
 
 196,108
 
-208
 
 IK,  24, 25, 197, 199, 202, 204, 215, 216, 217,
 
@@ -52814,12 +38633,6 @@ IK,  24, 25, 197, 199, 202, 204, 215, 216, 217,
 
 
 DKNaHORE]
-
-
-TETON   SIOUX   MUSIC
-
-
-527
 
 
 Comparatively  Modem  Songs — (3)  MisceUaneoua   Songs — Continued
@@ -52859,10 +38672,6 @@ Serial  Nor.  of  son^s.
 18,24,25, 197, 199, 202, 204, 215, 216, 217,
 
 218. 219. 226. 227. 228. 232. 233. 234. 237,
-238
-
-
-528
 
 
 BUBEAU   OF  AMERICAN   ETHNOLOGY
@@ -52898,9 +38707,6 @@ f—
 
 
 No.  18
-
-
-1
 
 
 ^t-^
@@ -52966,9 +38772,6 @@ TETON  SIOUX  MT78IO
 
 
 No.  20
-
-
-529
 
 
 t^jyj^  ^^'f  1^^
@@ -53037,12 +38840,6 @@ I
 
 
 ^^i-;    jr-l
-
-
-530
-
-
-BUREAU   OF  AMERICAN   ETHNOLOGY
 
 
 [BI7IX.C1
@@ -53117,13 +38914,7 @@ NowM
 DBN9MOEB]
 
 
-TETON   SIOUX   MUSIC
-
-
 No.  67
-
-
-531
 
 
 (1) ^  (^)
@@ -53169,24 +38960,18 @@ No.  60
 
 No.  61
 
-1
 
 ^    ^                  -^    #-  #-•
 
 -  ^  ?
 -— 1
 
-1
 3     1
 
 -    !>  I?y4
 
-1
 
 No.  64
-
-
-532
 
 
 BUBEAU  OF  AMERICAN  ETHNOLOGY
@@ -53199,9 +38984,6 @@ No.  67
 
 
 No.  68
-
-
-1
 
 
 :4.  f  |f
@@ -53246,9 +39028,6 @@ No.  77
 ^^
 
 
-2
-
-
 JZ.
 
 
@@ -53283,12 +39062,6 @@ g
 
 
 OBlCaMOBE]
-
-
-TETON  SIOUX  MUSIC
-
-
-533
 
 
 No.  81
@@ -53388,9 +39161,6 @@ No.  89
 
 
 4840°— BuU.  61—18 36
-
-
-534
 
 
 BUBEAU   OF  AMERICAN  ETHNOLOGY
@@ -53568,9 +39338,6 @@ No.  107
 '/tiftrtpitri
 
 
-535
-
-
 g
 
 
@@ -53578,9 +39345,6 @@ I 1
 
 
 ^
-
-
-536
 
 
 BUBEATT  OF  AMEBICAK  ETHNOLOGY
@@ -53646,9 +39410,6 @@ d^
 6-   WAR   SOXGS    ^SEC.    1).
 
 
-128
-
-
 ^
 
 
@@ -53677,9 +39438,6 @@ UUI9lfOU]
 
 
 TETOK  SIOVX  MXT8I0
-
-
-537
 
 
 No.  182
@@ -53737,9 +39495,6 @@ No.  142
 
 
 ^:9.  f  i^Ua^
-
-
-538
 
 
 BtJEEAU  OF  AMEBICAIT  ETHNOLOGY
@@ -53817,9 +39572,6 @@ MR^flHOlS]
 
 
 TETOK  SlOtnt  MXTStC
-
-
-539
 
 
 No.  161
@@ -53929,9 +39681,6 @@ No.  171
 >>  !>m:  i^
 
 
-540
-
-
 BCBEAU  OF  AMEBICAX  ETHNOLOGT
 
 
@@ -54010,9 +39759,6 @@ teMSMon]
 TETON  8I0UX  MUdIO
 
 
-541
-
-
 No.  10
 
 
@@ -54077,9 +39823,6 @@ t:ti^t:
 
 
 ■4 — ^ — ^
-
-
-542
 
 
 BtntEAlT  OF  AME&ICAK  ETHKOLOOY
@@ -54174,9 +39917,6 @@ TSTOK  dlOtrX  HT78IO
 No.  lie
 
 
-648
-
-
 m
 
 
@@ -54222,9 +39962,6 @@ No.  184
 
 
 V*-
-
-
-644
 
 
 BUREAU  OT  aMEBICAK  BtHNOLOaT
@@ -54288,9 +40025,6 @@ DKfSMOBB]
 
 
 TETON  SIOTTX  MUSIC
-
-
-545
 
 
 No.  191
@@ -54357,9 +40091,6 @@ No.  199
 ^^
 
 
-546
-
-
 BUBE&r  OF  AMOaCAS  ETHKOLOGT
 
 
@@ -54405,12 +40136,6 @@ I —
 
 
 DINSMORB]
-
-
-TETON  SIOUX  MUSIC
-
-
-547
 
 
 No.  211
@@ -54479,9 +40204,6 @@ P^^^
 ^:,l>|  Lj^-TT
 
 
-548
-
-
 BI3EAr  OF  AKEBICAX  ETHKOLOGY
 
 
@@ -54522,9 +40244,6 @@ DaifBMOBB]
 
 
 TETON  SIOUX  MUBIO
-
-
-649
 
 
 No.  888
@@ -54603,8 +40322,7 @@ Densmore,  Frances.    Chippewa  music.    Bull.  45,  Bur.  Amer.  Ethn.,  1910
 
 Chippewa  music — II.    Bull.  53,  "Bur.  Amer.  Ethn.,  1913.
 
-Documents  accompanying  the  President's  message  to  Congress,  at  the  commence-
-ment of  the  first  session  of  the  Nineteenth  congress,  1825.
+Documents  accompanying  the  President's  message  to  Congress,  at  the  commencement of  the  first  session  of  the  Nineteenth  congress,  1825.
 Dorset,  George  A.    The  Arapaho  Sun  dance.    Pub.  Field  Col.  Mus.,  Anihr.  »«r.,
 
 vol.  IV,  1903.
@@ -54648,8 +40366,6 @@ and  La  Flesche,  Francis.    The  Omaha  tribe.     Twenty-seventh  Rep.  Bur.
 
 Amer.  Ethn.,  1911.
 Freire-Marrbco,  Barbara.    See  Robbins.
-
-551
 
 
 552  BIBLIOQBAPHY
@@ -54803,1853 +40519,3 @@ United  States  Office  of  Indian  Affairs.    (Department  of  the  Interior.)
 of  the  Commissioners.     For  the  years  1874,  1875,  1882,  1886.
 
 
-INDEX
-
-
-(For  a  list  of  the  songs  contained  in  this  voluxn^,  see  pages  xm-xzv,  and  of  the  anthortties  dted,
-
-pa^551^S53.1
-
-Beooino  dance.    See  Danoe.  Page
-
-
-AcoDSNTALs—  Page
-
-diagram  Illustrating 45
-
-tabular  analysis 15,30-31
-
-AoK  or  A  soNO,  how  determined 11
-
-AnCiTA—
-
-duties  of. 320
-
-meaning  of  word 313
-
-remarks  conoeming,  by  Rev.  J.  Owen
-
-Dorsey 314
-
-remarks  concerning,  by  Hennepin. .  313-314
-
-remarks  concern*  ng,  by  Lewis  and  Clark .  314
-
-remarks  concerning,  by  Cltfk  Wissler. . .  314
-
-ALo'WAiyn—
-
-also  called  "Hugka" 09
-
-definition  of  word 09
-
-ALO'WAlfPI  CKREMONY—
-
-Invitation  to  perform 71
-
-liberal  rewards  to  performers 76
-
-preparation  for 71
-
-significance  of  colors 77
-
-songs '. 73,75
-
-statement  by  Looking  Elk 70
-
-statement  by  Robert  P .  Higheagle 70
-
-tribes  used  by 68
-
-use  of  com  in 72
-
-Analysis—
-
-descriptive  and  diagrammatic,  of  Si«ux
-
-and  Chippewa  songs 40-62
-
-Manner  of  study  suggested ^-0
-
-melodic 26-34
-
-method  of * 6
-
-rhythmic 36-39
-
-tabulated,  of  600  Chippewa  and  Sioux
-
-songs , 26-39
-
-tabulated,  of  240  Sioux  songs 12-21
-
-Aeeows—
-
-feathers  used 439
-
-for  buffalo,  method  of  making 438
-
-length  required  for  buffalo 438
-
-Augmented  second,  Interval  of,  occurs  in
-songs  Nos.  63, 106,  225.
-
-Badges  society.    See  Society.
-
-Babrett,  S.  a.,  cited  as  an  authority 470
-
-Bear,  songs  concerning 196, 197
-
-Bear  Eagle,  songs  by 236,237,361,352
-
-Bear  Face,  statement  by 78
-
-Bear  Necklace—
-
-composer  of  songs 220
-
-narrative  concerning  sacred  stones 217-218
-
-Bear  Soldier,  song  by .* 316
-
-BEAR-WlTH-WHrrB-PAW—
-
-drum  used  in  practice  of  modidne 267
-
-necklace  worn  when  attending  sick 267
-
-song  by 268
-
-supplication  to  bear  when  treating  sick . .  268
-
-BscKwrrH,  Paxtl,  dted  as  an  authority 470
-
-
-Blue  Cloud,  songs  by 288, 511, 516
-
-Bows  AND  arrows  for  buffalo 437-439
-
-Brave  Buffalo—
-
-dream  of  sacre  dstone 207-208
-
-narrative  of  buffalo  dream 173-174 ,  175
-
-narrative  of  elk  dream 176-177
-
-songs  by . . .  174, 176, 180, 200, 249, 250, 299, 300, 301
-
-speech  concerning  horse 296
-
-statement  concerning  animal  dreams. .  172-173
-
-statement  concerning  sacred  stones 208
-
-treatment  of  sick  by 248-249
-
-Buffalo—
-
-clamshell  used  for  skinning 399
-
-dreams  concerning 173-176
-
-uses  made  of  parts  of 436
-
-white,  description,  uses 446
-
-Buffalo  Boy—
-
-informant  concerning  Sun  dance 91
-
-Sun-dance  vow 91
-
-Buffalo  hunt^
-
-cutting  up  of  buffalo 443-^44
-
-description  by  fllya'ka 43»-!40
-
-description  by  Swift  Dog 441-442
-
-description  of  bows  and  arrows  for 437-439
-
-last  held  in  1882 436
-
-part  of  medicine-men  in 437
-
-prohibited  at  certain  times 437
-
-Buffalo  hunt  songs.    See  Songs.
-
-Buffalo  society.    See  Society.
-
-Buffalo  tribe,  menlloned 66
-
-Bushotter,  George;  mention  of  grass  dance     469
-
-Catlin,  George—
-
-dted 285
-
-concerning  buffalo  hunting 436
-
-Ceremony—
-
-AIo'waQpi 6»-77
-
-Heyo'kaKa'ga ^ 157
-
-Spirit-keepfaig 77-84
-
-Sundance 84-151
-
-White  Buffalo  Calf  pipe 67
-
-See  also  Alo'waz)pl  ceremony ;  Splrit-keep-
-Ing  ceremony;  White  Buffalo  Calf  pipe
-ceremcmy.
-
-Charging  Bear.   See  Grass.
-
-Charging  Thunder—
-
-dream  of  thimderbirds.... : 170
-
-informant  concerning  Sun  dance 90
-
-narrative  of  wolf  dream 181,  183
-
-songs  by 67,
-
-182,  1S3,  184,  194-195,  219,  220,  221,  222,  328
-statement  conceming  Miwa'tani  sodety . .-  327
-Sun-dance  vow 90
-
-Chased-by-Bears—
-
-informant  concerning  Sun  dance 88
-
-narrative  of  Sun  dance 05-97
-
-recoveryafter  return  of  sacred  stone. . .  212-213
-
-555
-
-
-556
-
-
-mmx
-
-
-Cbajbed-bt-Bears— Continued  Page
-
-song  by 212
-
-Sun-danoe  vow 132
-
-visit  to  site  of  last  Sun  dance 07
-
-Chief  sonos.    See  Songs.
-
-Childrsn's  songs.    See  Songs.
-
-Chippewa  songs,  change  of  time 76
-
-Clark,  W.  P.,  cited 311
-
-Compass  of  songs—
-
-eomprislng  17  tones Nos.  55, 195,  202
-
-diagram  illustrating 44
-
-small  compass.. Nos.  02,  103,  204,  215,  217
-tabulated  analysis 13-14,  28
-
-CouNOL  SONGS.    See  Songs.
-
-Croohan,  Col.  George,  dted  as  an  author-
-ity       2-3
-
-Crook,  Maj.  George,  member  boundary
-
-commissian 4
-
-Crooked  Foot—
-
-demoDStratian  of  power  of  sacred  stone. 220-230
-soogby 230
-
-Crow-owners  society.    See  Societies.
-
-CuuN,   Stewart,  description  of  moccasin
-
-game 485
-
-Dakota—
-
-deflnitianof 1
-
-former  home  of 2
-
-variations  of  name 2
-
-Dance—
-
-begging,  description 481-482
-
-begging,  held  before  Sun  dance 103
-
-costumes  worn 4tt8
-
-grass,  description 468-477
-
-night,  description 479
-
-shuffling-feet 477-479
-
-Db  Smet,  Pierre-Jean—
-
-cited  as  an  authority ! 214
-
-description  of  grass  dance 469
-
-Dog  Eagle,  songs  by 349,361, 510
-
-Dog  Feast  of  Strong  Heart  society 322
-
-Dorset,  George  A.—         *
-
-cited  as  an  authority 312,316
-
-Dorset,  James  Owen—
-
-cited  as  an  authority 2, 77, 256, 314, 320, 460
-
-concerning  night  dance 479
-
-reference  to 181, 206
-
-Drawings  accompanying  songs 387-412
-
-Dream  societies-^
-
-songs  of. 54
-
-aee  alw  Societies.
-
-Dream  songs—
-
-considered  best 59
-
-tee  aho  Songs.
-
-Dreams—
-
-announcement  to  tribe 157
-
-concerning  animals 172
-
-concerning  wolf 179
-
-thunderblrd 157-172
-
-Drum,  rhythm  of—
-
-diagram  illustrating 49
-
-examples  of 105, 107, 109, 115, 128, 230
-
-tabular  analysis 19, 36
-
-Eagle,  Mrs.  Holding,  songs  recorded  by. . .       60
-
-Eagle  Man—
-
-sacred  stone  song  by 232-233,234
-
-explanation  of  Crow-owners  society. . . .  319-320
-
-explanation  of  drawings  by 303,
-
-394,396,397,400,401
-
-
-Eagle  Man— Conttnued  pBg^
-
-narrative  of  dream  of  badger 366
-
-personal  narrative 379-381
-
-preparat  ion  of  scalps 360
-
-songs  by 255,250,358,259.260,262,
-
-263,264,365,322,394,395,306,398,400,402
-specialist  in  treatment  of  broken  bones . .     261
-
-treatment  of  wounded 254
-
-Earth  Medicine  Woman,  song  by 364
-
-Eastman,  Rev.  John,  narrative  of  soog 515
-
-Elk,  dreams  conoemlng 176-179
-
-Elk  Head,  possessor  of  White  Buffalo  Calf
-
-pipe 66
-
-Elk  Socdctt.    See  Society.
-
-Falsetto  Tone  mark  of  proficiency 61
-
-Fierce  Face,  surrender  to  authorities 515
-
-First  note  of  song,  relative  to  keynote-
-diagram  illustrating 42
-
-tabular  analysis 12,26
-
-FrVE-TONED  SCALES—
-
-According  to  Helmholtc 7
-
-Comparison  between  occurrence  in  old
-
-and  modem  songs 12
-
-data  in  tabolated  analysis. 28
-
-songs  on  first  fl  ve-toned  scale No.  131
-
-FletciIer,  Alice  C—
-
-Alo'waqpl  ceremony  studied  by 68
-
-cited  as  an  authority .  63 ,  68, 77, 122, 284, 312, 315
-
-reference  to 63
-
-statement  concerning  Crowowners  so-
-ciety      348
-
-statement  concerning  societies 2S4
-
-symbolism  of  sacred  stone 206
-
-Fletcher  and  La  Flesche—
-
-cited 318,326
-
-desc^ptlon  of  grass  dance 468
-
-Fort  Yates  established  1S73 4
-
-Foster,  Ez-Gov.  Charles,  chairman  bound-
-ary cozrmisslon 4
-
-Fox  society.    See  Society.  •
-
-Frosted,  Thomas,  attendant  at  Sun  dance
-
-council 92
-
-Games—
-
-hiding  a  stick,  description 489-400
-
-moccasin,  description^ 485
-
-Ghost  Hill,  legend  of 406
-
-Goose—
-
-demonstrations    of    power    of    sacred
-
-stones 210
-
-dream  authorizing  him  to  treat  sick 251-253
-
-Informant  concerning  Sun  danoe 00
-
-participant  in  Sun  dance 00
-
-scout,  U.  8.  Army 00
-
-specialist  in  treatment  of  consumption. . .      261
-
-Grass  (John)—
-
-informant  concerning  Sun  dance 80
-
-Judge.  Court  of  Indian  Offenses 80
-
-Grass  dance.    See  Dance.
-
-Grass-dance  sonos,  plots 483-484
-
-Gray  Hawk,  songs  by 280,200,201,
-
-292, 323, 324 ,325, 326, 339, 442, 486, 487, 488, 500
-
-Gray  Whirlwind,  songs  by 226,227
-
-Grinnell,  George  Bird,  cited  as  an  au-
-thority        312
-
-Haka'la,  songs  by 503,504
-
-Harmonic  structure  dehned ig
-
-
-iUbkx
-
-
-561
-
-
-Mawl«y,  iI.  ti.—  Page
-
-description  of  grass-dance  whistle 471
-
-description  of  San-dance  whistle 125
-
-statement  by 388
-
-Hayden,  F.  V.,clted 284
-
-Helmholtz,  H.  L.  F.,  cited  as  an  author-
-ity  5,7,40,41,42
-
-Henkel,  Auck,  acknowledgment  of  assist-
-ance by 271
-
-Heknepin,  Fathkb  Louis,  cited  as  an  au-
-thority       314
-
-Herbs.    See  Medicine.
-
-Hewitt,  J.  N.  B.—
-
-dted  as  an  authority 70,71
-
-definition  of  "Sioux" 1
-
-Heto'ka,  uses  of  the  word 168-150
-
-Hiding  ▲  stick.    See  Games.  "
-
-Hioheaole,  Robebt  p.—
-
-attendant  at  Sun-dance  council 02
-
-Interpreter 1,63, 172
-
-statement  by 70-71, 72-73
-
-statement  concerning   Alo'waQpi   cere-
-mony        70
-
-study  of  Alo'waQpi  ceremony 60
-
-Hoffman,  Walter  James—
-
-cited  as  an  authority , 470
-
-reference  to 167
-
-Holmes,  W.  H.,  cited  as  an  authority 122
-
-Holy-face  Bear,  songs  by 513, 514, 517, 518
-
-Hoop,  considered  sacred 205
-
-Horse  society.    See  Society.
-
-HovEY,  H.  C,  cited 206
-
-HrduCka,  Dr.  Ale9,  aclaiow lodgment  to. . .       40
-
-HuNKA.    See  Alo'waQpi.
-
-Interpretation  dependent  on  personality. .       68
-
-Interval  of  a  fourth—
-
-prominent  in Songs  Nos.  7,
-
-10,46,58,72,81/83,05, 120, 160,186, 104.
-
-Intervals,  small—
-
-apparent  difficulty  in  singing 188
-
-large  proportion  in Songs  Nos.  00,
-
-04,104,117.158,170.
-consideration  of 6
-
-Intervals  in  downward  and  upward  pro-
-gression—
-
-diagram  illustrating 46
-
-tabular  analysis 16-17,32-3^
-
-Intonation,  comparison  of  good  and  poor
-singers 60
-
-Jaw—
-
-explanation  of  drawings  by 387-380, 302, 303
-
-herbs  used  as  medicine  by 380
-
-killing  of  white  buffalo,  bear,  uid  elk. .  446-447
-songs  by 300, 301 ,  302
-
-Bleating,  Wm.  H.,  dted  as  an  authority 3
-
-Key—
-
-comparison  with  "interval  formation"..  40-41
-
-definition  of 12,26
-
-tabular  analysis 17-18,34
-
-use  of  term  explained 0
-
-Kills-at-Night,  songs  by 61,
-
-406, 473, 474, 475, 476, 478, 470, 480, 400
-
-Last  note  of  song—
-
-diagram  illustrating 43
-
-relative  to  compass  of  song 16, 27-28
-
-relative  to  keynote 13,27
-
-
-Lavrskce,  Mrs.  Hattie—  page
-
-interpreter 412
-
-songs  by 365,366
-
-Lewis  and  Clark—
-
-description  of  "race  course" 310
-
-Journal  of,  dted  as  an  authority.  3, 105, 312, 314
-
-Littlb  Buffalo,  painter  of  warriors 350
-
-Little  Conjuror,  songs  by 286,287
-
-LonxMan —
-
-dream  of  thunderbird 150-160
-
-In  Custer  massacre 01
-
-informant  concerning  Sun  dan:re 01
-
-narrative  concerning  sacred  stone. .  214, 216, 217
-narrative  of  White  Buffalo  Calf  pipe  by. .       63
-
-partldpant  In  Sun  dance 01
-
-prayer  by 216
-
-songs  by 160,168,163,165,168,160,215,216
-
-statement  concerning  Sun  dance 02
-
-Stat  ement  concerning  thunderbirds 161
-
-163,164,167
-
-Looking  Elk,  statennnt  concerning  Alo'-
-
-waQpl  ceremony 76
-
-Love  songs.   See  Songs.
-
-LowiE,  Robert  H.—
-
-dted  as  an  authority.... i  285,315,318,320,325
-
-ooneeming  night  dance 470
-
-concerning  shuflfing-feet  dance 477
-
-mention  of  grass  dance 460
-
-reference  to iffj
-
-statement  concerning  Buffalo  society 285
-
-McGiLUcuDDY,  V.  T.,  statement  concerning
-
-Sundance go
-
-McKennsy,  Thomas  L.,  dted  as  an  author-
-ity         3
-
-McLaughlin,  Maj.  James—
-
-acknowledgment  to 3
-
-cited  as  an  authority 430
-
-McLaughlin,  Mrs.  Jame^-t
-
-description  of  treatment  of  sick  by  use  of
-
-sacred  stones 346-247
-
-Interpreter 274,370,441
-
-purchase  of  "spirit  wrap" 79
-
-Maiden's  Leap,  legend  of 494
-
-Major  AND  minor  tonauty 40
-
-Many  Wounds,  songs  by 342,448
-
-Maximilian,  Prince  of  Wikd,  cited 315, 318
-
-Measure,  port  of,  on  which  song  begins—
-
-diagram  illustrating 4g
-
-tabular  analysis 18,35
-
-Measure^vision,  5-8,  songs  Nos.  64, 68, 125,
-
-160.
-Measure  lengths,  uniformity  throughout
-song—
-
-diagram  illustrating 49
-
-tabular  analysis ig,  36
-
-Medicine,  herbs  used  as 260-271
-
-Medicine  bag,  remarks  concerning 252-254
-
-Melodic  structure  with  harmonic  frame-
-work defined 19
-
-Melodies,  "plotting"  of 51
-
-Melody—
-
-lack  of  unity  in,  in  "made-up"  songs. . .       50
-
-typical  outline 43
-
-Memory  fob  bongs  extensive 61
-
-
-558
-
-
-INI^EX
-
-
-Page
-
-ICktkic  unit—
-
-determination 50
-
-of  voice  and  drum  compared 10
-
-of  voice  and  drum,  dUTerences 50
-
-Metbic  xjvtt,  tabular  analysis^
-
-comparison  of  voice  and  drum 21,39
-
-diagram  illustrating 51
-
-graphic  representation 110
-
-of  drum 30,21.38,39
-
-of  voice 20.37-38
-
-Meteb,  Prof.  Max.  statement  by 6
-
-KnjTABT  sooETncs.   Stf  Socletles.
-
-MiNOB  INTERVALS,  prominence  in  songs  of
-major  tonality 175
-
-Minor  third—
-
-approximately  the  average  interval 47
-
-frequency  of  occurrence 46
-
-large  proportion  in Songs  Nos.  1,
-
-8,24,27,06, 118, 130, 154, 177. 182, 190
-
-Minor  trud  with  minor  seventh  added —
-
-Songs  Nos.  49, 136
-
-MiwaTani  aocQCTT.   8u  Societies.
-
-Moccasin  game.   8u  Games.
-
-MooNET,  James,  cited  as  an  authority 127,
-
-311,312,316
-
-Mumc  A8  cultivated  art  among  Chippewa
-and  Sioux 58-62
-
-Musical  customs  of  Sioux  and  Chippewa
-compared 9-10
-
-Musical  notation,  use  in  transcribing  songs .        5
-
-NiOHT  DANCE.    See  Dance.
-
-No  Hearts
-
-Informant  concerning  Sun  dance 91  ^
-
-participant  in  Sun  dance 91
-
-6djib' WE,  more  than  80  songs  recorded  by . . .       61
-
-Old  Buffalo—
-
-explanation  of  drawings  by 412.416
-
-narrative  of  vigil  and  prayer  for  sick 274
-
-narrative  of  war. 413-416
-
-spngsby 191,413,414.417
-
-One  Buffalo—
-
-songs  by 272,273.336
-
-One  Feather—
-
-narrative 381
-
-songs  by 397,343,382,383,3^4.385,386
-
-Overtones  defined  by  Helmholts 41
-
-Owl,  considered  sacred 181
-
-Paint,  securing  and  preparing 116
-
-Painting  of  warriors  and  their  horses  . .     353
-
-Palmer,  Eomond,  cited 452
-
-Pentatonic  scales.   Ste  Five-toned  scales.
-
-Picture-calendar,  refforence  to 69
-
-Pitch  discrimination  test  de.<h:ribed 56-58
-
-Phonograph,  use  in  recording  songs 5
-
-*'I*LOTTINO"  of  melodies—
-
-described 61-52
-
-group  1 53
-
-group  2 201
-
-group  3 244
-
-group  4 283
-
-group  5 419
-
-group  6 461
-
-group  7 , 484
-
-grou  d  8 519
-
-ofsongNo.  ?18 496
-
-
-Page
-Pond,  O.  H.,  symbolism  of  sacred  stone. . .  305-306
-Progressions,  downward  and  upward—
-
-diagram  illustrating 46
-
-tabular  analysis 16. 32
-
-RaTTL;  USED  in  TREATINO  sick 252
-
-Red  Bird—
-
-comment  on  Sun-dance  vow 134
-
-discussion  of  Sun  dance 94
-
-explanation  of  Sun-dance  song 139
-
-informant  concerning  Sun  dance 89
-
-song  by 99
-
-statement  concerning  Sun  dance 86. 102
-
-vision  in  Sun  dance 149
-
-Red  Fish—
-
-informant  concerning  Sun  dMice 91
-
-participant  in  Syn  dance 91
-
-song  by 457
-
-Red  Fox-
-informant  oonceming  Sun  dance 90
-
-personal  narrative 375
-
-song  by 378
-
-Sun-danoe  vow 90-91
-
-Red  Weasel—
-
-informant  oonceming  Sun  dance 88
-
-opinion  on  description  of  Sun  dance 94
-
-prayer  by 05
-
-Renville,  Gabriel,  information  oonceni-
-*ng 453-454
-
-Renville,  Moses,  songs  by 454,455
-
-Restoccuts  in  few  songs 249
-
-Rhythm—
-
-comparison  of  old  and  young  singers so
-
-drum 49
-
-importance  emphasized 9
-
-of  first  measure,  diagram  illustrating 48
-
-of  first  measure,  tabular  analysis 18,35
-
-vocal 48
-
-See  aUio  Drum  rhythm.
-
-Rhythmic  unit—
-
-defined 19
-
-diagram  illustrating 50
-
-rhythmic  units  classified 637-549
-
-tabular  analysis 19,^
-
-RiOGs,  Stephen  R.—
-
-cited  as  an  authority 1,180,206
-
-definition  of  word  ho iso
-
-former  home  of  Dakotas 2
-
-reference  to 158,193,306
-
-statement  conceming  thunderbird 150
-
-variations  of  name  "  Dakota" 2
-
-Robinson,  De  Lorme  W.,  information  con-
-ceming Gabriel  Renville 453
-
-Sacred  language 120
-
-Sacred  stones—
-
-demonstration  of  power  of,  in  treatment
-
-of  sick 24fr-347
-
-information  acquired  by  use  of 205
-
-possession  of 206-207,208.210,211
-
-songs,  plots  of 244
-
-statement  by  Brave  BulTalo 308
-
-symbolism 306
-
-Sage,  use  in  Sun  dance 90
-
-Santee  dialect,  songs  recorded  in 1
-
-Santee  Sioux  songs,  Nos.  96,96, 97, 189,190,
-236-340.
-
-
-INPSX
-
-
-559
-
-
-Page
-
-Scalp  dance,  songs 963
-
-Scalps,  preparation  of,  (or  victory  dance —     3G0
-
-Seashore,  Pboe.  C.  E.—
-
-acknowledgment  to 66
-
-assistance  and  suggestions 56
-
-Seizes-thb-Gun-away-pbom-Them—
-
-informant  concerning  Sun  dance 91
-
-Sun-dance  vow 91
-
-Semttones,  average  number  In  an  interval-
-diagram  Illustrating 47
-
-tabular  analysis 17,34
-
-Shell  necklace—
-
-demonstration  of  sacred  stone  by 236
-
-sacred  stone  songs  by 236-237
-
-Shooter—
-
-songs  by 228,229,293,296,317,374,507,508
-
-statement  concerning  animals 172-173
-
-statement  concerning  elk 176
-
-statement  concerning  tbimderbird 157-158
-
-statement  concerning  treatment  of  sick .  244-245
-
-Shoots  First,  songs  by 456,498,499,500
-
-SUUPFLING-PEET  DANCE.     Sec  DaUCe.
-
-Sick—
-
-eagle  claw  used  in  treating 253
-
-methods  of  treating 245
-
-mirror  used  in  treatment  of 24Q
-
-treatment  o( 244-283
-
-treatment  of,  by  Brave  BufTalo 248-249
-
-Used-as-fr-8hield    cured    by    medicine-
-man   247-248
-
-Vigil  and  prayer  for 274
-
-Silent  Woman,  songs  by 368,505,506
-
-Sioux—
-
-adoption  of  civllixed  pursuits 4
-
-assigned  to  reservations -...        4
-
-deftnition  of 1
-
-name  adopted  by  Government  in  1825 '  3
-
-Reservation,  extent  in  1868 3
-
-songs.    See  Songs.
-
-Teton,  Sundance 87
-
-treaty  with  Government  in  1868 3
-
-SfTTiNO  Bull,  information  concerning 458
-
-filYA'KA—
-
-description  of  buffalo  hunt 439-440
-
-Informant  concerning  Sun  dance 90
-
-legend  of  Ghost  Hill 496
-
-narrative  conoeming  bear  songs 195
-
-narrative  ofcrow  and  owl  songs  184-185,  187,  188
-
-remarks  to  horse 298
-
-songs  by , 180,
-
-187,  193,  230,  232,  233,  234,  295,
-303, 304, 346, 353, 354, 355, 369,371,
-440,  441.  445,  449,  453,  501,  502
-
-Sun  dance,  vow 90
-
-Skinner,  A  lanson,  dted  as  an  authority 21 4,
-
-360,470
-Societies—
-
-how  formed 284
-
-mentioned 101
-
-military,  among  dlA'crcnt  tribes 311-312
-
-remarks  by  Lewis  and  Clark 312
-
-SOCTETY—
-
-Badger,  extinct  20  years  ago 325
-
-Buffalo 285
-
-6a5te'  TiQfe  (Strong  Heart) 320-325
-
-Crow-owners 318
-
-
-Page
-SoaVTY— Continued.
-
-l&Vk 293
-
-Fox 314-318
-
-Horse 298
-
-KaQ^'3niha(Crow-owneis) 318-320
-
-Miwa'tani,deflnitian  of  work 326
-
-Mlwa'tanl,  description  of  Initiation 327-329
-
-Mlwa'tani,  members  exempt  fromaki'dta
-
-duty 326
-
-Strang  Heart,  dog  feast 322
-
-Strang  Heart,  requirements  and  privi-
-leges of  members 321
-
-White  Horse  Riders,  d^cription 330
-
-Songs—
-
-acc(»npanied  by  native  drawings 387-412
-
-Alo'waQpl  ceremony 73, 75
-
-analysis 6
-
-Badger  society 325,326
-
-begging  dance 482,483
-
-beginning  and  ending  on  same  tone 257
-
-best,  "composed  in  dreams" 59
-
-buffalo 191
-
-buffalo  hunt,  council,  and  chief,  melodic
-
-analysis 462-465
-
-buffalo  hunt,  council,  and  chief,  rhythmic
-
-analysis 466-467
-
-Buffalo  society 286,
-
-287, 288, 289, 290, 291, 292, 293
-6ar)td  TiQia  (Strang  Heart  society) ....  322-324
-
-ceremonial 152-156
-
-ceremonial,  right  to  sing S9
-
-chief. 453,454,455,456,457,450,460
-
-Chief,  plots 461-462
-
-children's 492, 493
-
-Chippewa  and  Sioux,  compared 54
-
-classified  by  groups 22-25
-
-comparative  study ii
-
-comparatively  modern  war  8ong8,melodic
-
-analysis 428-432
-
-comparatively     modem     war     songs,
-
-rhythmic  tmalysis 432-435
-
-comparison    between    Chippewa    and
-
-Sioux 54
-
-comparison  between  old  uid  compara-
-tively modem 22-25
-
-concerning  sacred  stones . .  209, 212, 215, 21&-217,
-219-220, 220-221, 221, 222, 224, 225, 226,
-227,228,229,230,232,233,234,  236,237
-
-concerning  bear ige,  197
-
-concerning  buffalo 174, 176
-
-concerning  elk 177
-
-concerning  wolf. 180,182, 183
-
-connected  with  legends 495,497
-
-council 448,449,450,451
-
-crow  and  owl 180, 186, 187, 189
-
-deer 193,194
-
-descriptive  analysis 9
-
-determination  of  key 9
-
-determining  age  of 11
-
-Dream  societies 54
-
-duplications  of 6
-
-Elk  society 294,295,296,297
-
-for  treatment  of  sick 249,250
-
-255,256,258,259,260,262,263,
-
-264,265,268,272,273,275,  277
-
-Fox  society 316, 317
-
-
-660
-
-
-iitbtii
-
-
-Songs— Continued  Page
-
-grass  dance 473,474,475,476,477
-
-hiding  a  stick  game 490, 491
-
-Horse  society 299,300,301,302,303,304
-
-Imperfectly  rendered 5
-
-In  honor  of  individual 498, 499, 500,
-
-501, 502, 503, 504, 505, 506, 507, 508, 509
-
-list  of. xra
-
-love 510, 51 1
-
-melodic  analysis 12-21,520^524
-
-method  of  collecting 5
-
-methods  of  tracing 8
-
-Miwa'tani  society 328
-
-moccasin  game 486, 487, 488
-
-night  dance 480
-
-old,  concerning  pergonal  dreams 196-203
-
-old,  concerning  sacred  stones 239-244
-
-old,  Dream  societies,  melodic  analysis..  305-309
-
-old,  melodic  analysis 152-155,
-
-198-201,23^-242,278-281
-
-old,  plots  of 283.
-
-old,  rhythmic  analysis 155-156,
-
-202-203,242-244,281-283,309-311
-
-phonographic  records  made  by  Sioux 22
-
-pitch  discrimination 58
-
-plots  of. 204,519-520
-
-reliability  of  singers 5
-
-represented  as  being  sung  by  animals 60
-
-rhythm,  comparison  of  old  and  young
-
-singers 59
-
-rhythmic  analysis 524-^27
-
-Sioux 513,514,515,516,517,518
-
-Sioux,  comparison  between  old  and  com-
-paratively new 22-25
-
-shuffling-feet  dance 478,479
-
-Sundance 99,
-
-105,  107,  108,  109,  110,  112,  113,  115,  117,  119,
-120,  121,  123,  124,  128,  129,  130,  135,  130,  138,
-139,  140,  141,  142,  143,  144,  145,  146,    147,   148
-
-thunderbird 160, 162, 163, 165, 168, 169, 170
-
-transcribing 7
-
-two  methods  of  closing 10
-
-war 334,
-
-336,  337,  338,  339,  340,  341,  342,  343,  344,  ^5,
-346,  247,  349,  351,  352.  333,  354,  355,  356,  357,
-358,  361,  362,  364,  365,  366,  368,  369,  370,  371,
-372,  373,  374,  378,  382,  383,  384,  385,  386,  390,
-391,  392,  394,  395,  396,  398,  400,  402,  403,  404,
-406,   407,   406,    409,    410,    411,    413,    414,    417
-
-war,  analysis  of 419-427
-
-war,  melodic  analysis 420-424
-
-war,  plots  of- 418
-
-war,  rhythmic  analysis 425-427
-
-White  Buflalo  Maiden 67
-
-White  Horse  Riders 330. 331
-
-wolf 189.190
-
-Spirit-keepdjo  ceremony—
-
-disposition  of  white  buffalo  robe 84
-
-distribution  of  gifts 82
-
-duty  of  itaQ'6ai)  in 81
-
-feasts 81
-
-finest  attire  worn  at  end  of 81
-
-gifts  for  the  itai) 'tag "^
-
-inspired  by  White  Buffalo  Maiden 78
-
-lighting  and  smoking  the  pipe 83
-
-
-Spirit-kbipino  ceremont— Continued  Page
-
-narrative  by  Weasel  Bear 78
-
-preparation  for :'.. 78
-
-song 67
-
-statement  by  Bear  Face 78
-
-unwrapping  the  spirit  bundles 83
-
-Spirtt  POST,  description  of 81
-
-Stakdino  Elk,  statement  concerning  sacred
-
-stone 231
-
-Standing  Rock  Reservation,  part  included
-
-In  1868  treaty 4
-
-Standley,    Paul  C.,   acknowledgment   of
-
-assistance  by 271
-
-Stones.    See  Sacred  stones.
-
-Stronq  Heart  soaETT.    See  Society.
-
-Structure  op  songs—
-
-diagram  illustrating 45
-
-tabular  analysis 16,32
-
-Sun  dance—  0
-
-carrying  buffalo  skulls : 183
-
-children  take  part *. 137
-
-choice  of  participants 103
-
-conliBrences  concerning.  ^ 94
-
-costume 125-126
-
-costume  of  Intercessor 1 26
-
-council  passes  on  statements  concern-
-ing   92
-
-council  visits  site  of  last  celebration 93
-
-Crier,  duties  of. .' 104
-
-cutting  the  flesh  in  fiilfillment  of  vow. . .  132
-
-dancera  abstain  from  food  and  water. . .  130
-
-description  of  ceremony 127
-
-discussion  by  Red  Bird 94
-
-feasting ,  rejoicing,  and  lamenting  during .  136
-
-imitation  of,  by  boys 150-151
-
-information  concerning,  by  several  in-
-formants   88-91
-
-last  held  In  1881 , 4
-
-Leader  of  Dancers,  qualificatlcns  neces-
-sary   102
-
-limited  to  certain  Plains  tribes 85
-
-manner  of  breaking  fast 149
-
-misinterpreted  by  whites 86
-
-offerings 102-103
-
-painting  sacred  pole 1I6
-
-painting  the  body  for 103-104.124-125
-
-pipe,  decoration 102
-
-prayer  for  fair  weather  during 99
-
-preparing  the  inciosure 122
-
-sacred  pole,  description us
-
-selecting  and  raising  sacred  pole 107,  111,
-
-112.114.116,118
-
-six  ways  of  participating  in 131
-
-songs.    S^r  Songs.
-
-statement  of  Red  Bird  concerning 86
-
-suspension  from  pole 13^133
-
-Teton  Sioux,  description 98-151
-
-torture  by  different  methods 131-134
-
-use  of  drum 130
-
-use  of  sage  in 99
-
-variation  In  ceremony gg
-
-vow 101
-
-women  assume  part  of  torture 135
-
-Sun  worshipped  as  deity gj  •
-
-S  wanton,  John  R .,  reference  to  sun  as  deity .       84
-
-
-imnx
-
-
-561
-
-
-Bwirr  Doo—  Pago
-
-description  of  hattalo  hunt 441-442
-
-explanokiaii  of  drawing  by 403,404,405,
-
-406,409,410,411
-
-songs  by 373,403,404,406.
-
-407,409,410.411,511
-
-TaBULAB  ANALTSX5—
-
-ceremonial  songs 1!;3-156
-
-Chippewa  and  Sioux  songs 26-39
-
-comparatively  modem  songs 520-527
-
-Sioux  songs 12-21
-
-songs  oonoeming  personal  dreams 10^203
-
-songs  concerning  the  sacred  stones 239-244
-
-songs  of  buffalo  hunt,  council,  and  chief
-
-songs 463-467
-
-songs  of  Dream  societies 305-311
-
-songs  used  tn  treatment  of  the  sick  —  278-282
-waf  songs 420-435
-
-Teal  Duck.   See  diya'ka.
-
-Tempo,  changes  during  a  song 106
-
-Teton  dulect,  songs  recorded  in 1
-
-Teton  Sioux—
-
-Sun  danoe 87
-
-Sun  dance,  description 98-151
-
-Thibd  or  TUX  SCALE,  absent  fft>m  songs  Nos.
-6,  42, 00, 131, 160.
-
-Tbundexbird  cebemony,   description   by
-Lone  Kan 167-168
-
-Thundexbibo  orrEBiNos,  obligations 166
-
-THUNDEBBIBD&—
-
-definition 157
-
-statement  concerning 157
-
-TiCKETLESS  aOCIXTT 512
-
-Tonality—
-
-consideration  of 41
-
-defined 12,28.40
-
-diagram  illustrating 40
-
-major  and  minor 40
-
-tabular  analysis 15, 26
-
-Tone—
-
-falsetto  fovored 61
-
-nasal,  used  in  love  songs 61
-
-production,  manner  different  from  white
-man 61
-
-Tone  material—
-
-diagram  illustrating 44
-
-tabular  analysis 14-15,  28-^
-
-Twin,  song  by 515
-
-Two  Shield*—
-
-dream  conoeming  wolf 188-189
-
-narrative  conoemlng  bear  songs 195
-
-songs  by 189,  224,  22*,  275,  277,
-
-294,    302,    330,  331,    334,  336,  337,  338,  340,
-
-341,  344,    345,    362,   370,  372,    477,    488,    497
-
-Units,  rhythmic 528-549
-
-Ubed-as-a-Shield—
-
-description  of  cure  by  a  medicine  man.  247-248
-
-songs  by 347,356.
-
-357, 358, 450, 451, 459, 460, 483, 491, 49o
-
-
-WAKAlf'TAlfKA—  PBga
-
-children  sent  by 70
-
-definition  of 85
-
-Wabt-
-
-costom  of  wearing  feathers  and  painting
-
-face 359
-
-narratiTe  by  Old  Buffalo 412-418
-
-preparation  of  scalps 360
-
-purpose  in  going  to 359
-
-Wab  expeditions—
-
-description  of 332^333,  348-349,  350
-
-description  of  return 361-362
-
-dress  and  ornament 350
-
-Wabshielo,  description 348
-
-Wab  songs.   5m  Songs.
-
-Wabneb,  Ma;.  Wm.,  member  boundary  com-
-
-miaion 4
-
-Wabben,  Wm.  W.,  dted  as  an  authority —         1
-
-Wead,  C.  K.,  acknowledgment  to iio
-
-Weasel  Beab—
-
-infonnant  concerning  Sun  dance 80
-
-narrative  by 74,80-81,83,84,
-
-songs  by 73,  75,  189-190
-
-Sun-dance  vow 89
-
-WmsTLE,  ELK,  description 470-471
-
-White  buffalo—
-
-high  regard  for 84
-
-See  aUo  Buffalo.
-
-White  Buffalo  Calf  pipe,  narrative  ol 63-60
-
-White  Buffalo  Maiden—
-
-instructor  of  Spirit-keephig  ceremony 78
-
-mentioned 66,67,69
-
-song  of 67
-
-WmTE-BuFFALO-WALKINO—
-
-informant  canoeming  Sun  dance 91
-
-participant  in  final  Sun  dance  in  1882 91
-
-White  Hawk—
-
-description  of  bows  and  arrows  for  buffalo
-
-hunt 437-438
-
-description  of  cutting  up  of  buffalo 443
-
-White  Uobse  Ridebs.    See  Society.
-
-White  Shield—
-
-composer  of  Bongs 223
-
-demonstration  of  sacred  stone  by ,235, 238
-
-WissLEB,  Clabk—
-
-dted  as  an  authority 313,
-
-314,318,319,320,325,336
-
-concerning  night  dance 470
-
-concerning  shufning-feet  dance 477
-
-definition  of  word  "  Miwa'tani " 326
-
-di\ision  of  military  sodeties 313
-
-mention  of  grass  dance 469
-
-organization  of  Crow-owners  society 348
-
-organization  of  ^f  Iwa'tani  sodety 327
-
-reference  to 158
-
-statement  concerning  Kit-fox  society 314
-
-Wolf,  dreams  concerning 179
-
-Wbiout,  James  C,  t:haracterization  of  Sun
-
-dance 86
-
-Yellow  Haib,  songs  by 4**2,492,493
-
-
-O
-
-
-1
-
-
-I
-
-il
-
-II
-
-
-\
-
-
-^'
-
-
-i;
-II
-
-1!
-
-1
-
-
-I
-
-
-•l      '      f
-
-
-I
-
-
-»
-
-
-3  bios  010  201  51b
-
-
-DATE  DUE
-
-
-x  ^  ■  V
-
-
-^.7-  lyyf
-
-
-STANFORD  UNIVERSITY  LIBRARIES
-
-STANFORD  AUXILIARY  LIBRARY
-
-STANFORD,  CALIFORNIA  94305-6004
-
-(415)  723-9201
-All  books  may  be  recalled  after  7  days
-
-DATE  DUE
-
-
-m(^
-
-
-2005

@@ -1,2442 +1,4 @@
 # Chippewa Music
-
-■'?,
-
-
-5>.,iV
-
-
-V^^'<^      <.*'»-'-\«'*     v*^^^>      <•
-•  °o    /..i.;^.V     c°*.ia^'.%    /.c);^-'
-
-••^.*'  :Ami'^  %./  .'^^v  %/  :
-
-
-"-.c^^
-
-
-.'■     •^^o'      f
-
-
-■'CnV
-
-
-/
-
-
-"o^-^'''/         V^^\**  "o^-^-^*/         V
-
-
-"^^.>*  .'•
-
-
-^.c'i*
-
-
-^
-
-
-V'^^*\^^^^  'V^'^^*V  ..\"'^»^'\^^'
-
-
-^
-
-
-'<>.    c'?^"    *^€Sii^i'".     te,    A^     ^^Va-^.  ^^  ^<i'^'^    *
-
-
-V*^'
-
-
-A^"^
-
-•^^  -^^f
-
-
-:*    -^/.o^    :
-
-
-.^       .  o  •  0  .       "^^  A^  .  "  •  *       ^
-
-.•4        *  SFiil/j'yii^  «      "ST.
-
-
-'bV
-
-
-V*^'
-
-
-^       o-*"'    .V  ^-  **.,.•*  aO'
-
-
-v*-^'
-
-
-^vOV
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  1
-
-
-ODJIB'WE
-
-
-SMITHSONIAN  INSTITUTION
-
-BUREAU  OP^  AMERICAN  ETHNOLOGY
-
-BULLETIN    53
-
-
-CHIPPEWA    MIJSIC-II
-
-
-BY
-
-
-FRANCES  DENSMORE
-
-
-WASHINGTON
-
-GOVERNMENT   PRINTING   OFFICE
-
-1913
-
-
-1    \o    \\     i
-
-
-^Cl,
-
-
-D.  OF  D.
-
-JAN    iO  ^914
-
-
-LETTER  OF  TRANSMITTAL
-
-
-Smithsonian  rxsTiruTioN,
-Bureau  of  American  Ethnology,
-
-^Ymllington,  D.  C,  April  29,  1912.
-Sir:  I  have  the  honor  to  -submit  herewith  a  memoir  bearing  the
-title  "Chippewa  Music — 11,"  by  Miss  Frances  Densmore,  and  to
-recommend  its  publication  as  Bulletin  53  of  the  Bureau  of  American
-Etlmology.  This  paper  embodies  the  results  of  the  author's  final
-studies  of  the  music  of  the  Chippewa,  or  Ojibwa,  Indians,  and  supple-
-ments the  material  published  as  Bulletin  45.  This  latter  publication
-has  met  with  high  favor  among  students  of  primitive  music  through-
-out the  world,  and  some  of  the  material  contained  therein  has  been
-adapted  and  presented  by  orchestras.
-Yovu's,  very  respectfully,
-
-F.  W.  Hodge,
-Etlniologist  in  Charge.
-Hon.  Charles  D.  Walcott,
-
-Secretary  of  the  Smithsonian  Institution.
-
-
-FOREWORD
-
-
-Chippewa  music  in  its  relation  to  tribal  life  constitutes  one  of  the
-subjects  dealt  with  in  the  present  volume,  as  well  as  in  the  writer's
-first  contribution  to  tliis  study. ^  Not  less  important  is  the  melodic
-and  rhythmic  analysis  of  the  songs,  which  was  begun  in  the  first  work
-and  is  developed  more  extensively  in  the  following  pages.  The
-native  religion  of  the  Chippewa  also  was  considered  in  Bulletin
-45.  War  forms  the  keynote  of  the  present  memoir,  together  with  the
-Drum-presentation  Ceremony,  which  is  said  to  have  united  the  Chip-
-pewa and  the  Sioux  in  permanent  peace.  In  both  volumes  there  are
-songs  of  tribal  games  and  dances,  and  songs  "composed  in  dreams,"
-many  of  which  are  the  individual  songs  of  forgotten  warriors.
-
-The  analysis  of  the  Chippewa  words  and  part  of  the  translation
-are  the  work  of  Rev.  C.  H.  Beaulieu,  a  member  of  the  tribe,  and  of
-Rev.  J.  A.  Gilfillan,  who  for  twenty-five  years  lived  on  the  White
-Earth  Reservation,  in  Minnesota.  Grateful  acknowledgment  is
-made  also  to  Mrs.  Mary  Warren  English,  of  White  Earth,  and  to  other
-native  interpreters,  whose  interest  and  cooperation  have  contributed
-materially  to  the  success  of  the  work.
-
-'  Chippewa  Music,  Bulletin  45,  Bur.  A  mer.  Ethn.
-
-
-CONTENTS
-
-
-Page
-List  of  songs
-
-1.  Arranged  in  order  of  serial  numbers xi
-
-2 .  Arranged  in  order  of  catalogue  numbers -■ x vi
-
-Special  signs  employed  in  transcriptions  of  songs xix
-
-Names  of  singers ^'^^
-
-Analysis  of  Chippewa  music 1
-
-What  do  the  Chippewa  sing? ■ 2
-
-How  do  the  Chippewa  sing? 13
-
-\Miy  do  the  Chippewa  sing? 15
-
-Tabulated  analysis  of  340  songs 18
-
-Melodic  analysis 18
-
-Table    1.  Tonality 18
-
-Table    2.  First  note  of  song — its  relation  to  keynote 18
-
-Table    3.  Last  note  of  song — its  relation  to  keynote 19
-
-Table    4.  Last  note  of  song — its  relation  to  compass  of  song 20
-
-Table    5.  Number  of  tones  comprising  compass  of  song 21
-
-Table    6.  Tone  material 21
-
-Table    7.  Accidentals 23
-
-Table    8.  Structure - 24
-
-Table    9.  First  progression — downward  and  upward 24
-
-Table  10.  Total  number  of  progressions — downward  and  upward .  24
-
-Table  11.  Intervals  in  downward  progression 25
-
-Table  12.  Intervals  in  upward  progression 25
-
-Table  13.  Average  number  of  semitones  in  each  interval 26
-
-Table  14.  Key 26
-
-Rhythmio  analysis 28
-
-Table  15.  Part  of  measure  on  which  song  begins 28
-
-Table  16.  Rhythm  of  first  measure 28
-
-Table  17.  Change  of  time 29
-
-Table  18.  Rhytlim  of  drum 29
-
-Table  19.  Rhythmic  unit  of  song 30
-
-Table  20.  Metric  unit  of  voice 30
-
-Table  21.  Metric  unit  of  drum 32
-
-Table  22.  Comparison  of  metric  unit  of  voice  and  drum 33
-
-Group  analysis  of  340  songs 34
-
-Grand  Medicine  songs  (Mide'  na'giimowi^nun) 34
-
-Dream  songs  (Ina'bundjigan'  na'gumowi^nuii) 37
-
-War  songs  (Miga'diwin^  na^gdmowl'nufi) 40
-
-Love  songs  (Sa'gi'i'diwin^  na'gumowi^nuii) 41
-
-Moccasin  game  songs  (Makizin^ata^diwin^  na^gumowi^ntin) 44
-
-Woman's  dance  songs  (Ikwe^nimiwln^  na^gumowi'nun) 45
-
-Begging  dance  songs  (Bagosan^ninge'  nimiwin^  na'giimowi'nun) 47
-
-Pipe  dance  songs  (Opwa'giinini''miwm  na'gumowi'nun) 48
-
-Songs  connected  with  gifts  (Mi'gine,  ma^moya^ne,  na'giimowi'nun) ...  49
-
-Songs  for  the  enterlainment  of  children  (AMizo'ke  na^giimowi^nM) . .  49
-
-LTnclassified  songs ^^
-
-Melodic  and  rhythmic  resemblances  between  song  groups 50
-
-Tabulated  analyses  of  resemblances 51
-
-VII
-
-
-VIII  CONTENTS
-
-War  songs  of  the  Mississippi  Band  of  Chippewa 59
-
-Songs  connected  with  Odjib'we's  personal  experience 67
-
-Personal  reminiscences  of  three  warriors 83
-
-The  child's  dream  of  war  (by  Meja'kigi^jie) 83
-
-The  training  of  young  warriors  (by  Ma^djigi^jig) 84
-
-The  war  badge  (by  A^kiwen^zi) 86
-
-Description  of  (Ihippewa  war  expedition,  with  typical  songs 87
-
-Songs  connected  with  organization  of  war  party 87
-
-Songs  of  the  warpath 94
-
-Songs  on  the  return  of  a  victorious  war  party 118
-
-Songs  of  the  peace  pact 126
-
-War  songs  concerning  women 130
-
-Tabulated  analysis  of  war  songs 134
-
-Children's  games  of  war 137
-
-Drum-presentation  Ceremony 142
-
-Ceremony  of '  restoring  the  mourners 153
-
-Ceremony  of  divorce . : 162
-
-Presentation  of  the  drum 168
-
-Dog  Feast 173
-
-Tabulated  analysis  of  Sioux  songs  of  Drum-presentation  Ceremony 181
-
-Songs  of  Lac  du  Flambeau  Reservation 184
-
-War  songs 185
-
-Tabulated  analysis 195
-
-Dream  songs 198
-
-Songs  concerning  a  boy's  fast 204
-
-Game  songs 206
-
-Tabulated  analysis 213
-
-Love  songs  216
-
-Tabulated  analysis 226
-
-Begging  dance  songs 228
-
-Southern  dance  songs 234
-
-Songs  concerning  gift  of  a  pony 237
-
-Moccasin  game  songs 239
-
-Song  for  the  entertainment  of  children 241
-
-Unclassified  songs — tabulated  analysis 242
-
-Combined  analyses  of  war,  dream,  love,  and  unclassified  songs 244
-
-The  symbols  of  songs  which  never  were  sung : . .  247
-
-Songs  of  the  Chippewa  at  Waba'cifig  village,  Red  Lake  Reservation,  Minnesota.  251
-
-Dream  songs 252
-
-Tabulated  analysis 275
-
-Mide^  songs 278
-
-Love  songs  280
-
-Moccasin  game  songs 282
-
-Dance  songs 284
-
-Combined  analyses  of  dream,  MTde',  love,  moccasin  game,  and  dance
-
-songs 288
-
-Songs  of  White  Earth  Reservation 291
-
-Pipe  dance  songs 293
-
-MTde^  songs 297
-
-Moccasin  game  songs 299
-
-Love  songs 299
-
-Songs  for  the  entertainment  of  children 302
-
-Tabulated  analysis 306
-
-Rhythmic  units  of  Chippewa  songs 309
-
-Authorities  cited 333
-
-Index 335
-
-
-ILLUSTRATIONS
-
-
-Page
-Plate  1.  OdjiVwe -  - Frontispiece
-
-2.  Flageolet  (lover's  flute) 42
-
-3.  Moccasin  game  drum 44
-
-4.  Hole-in-the-day 61
-
-5.  Odjib^we'a  war-honor  feathers 62
-
-6.  OdjibVe's  war-honor  badge 62
-
-7.  Odjib^we's  war  club  and  war  drum 62
-
-8.  Odjib%e's  war  shirt 62
-
-9 .  MaiiVgans 63
-
-10.  Pouch  and  measure  for  bi^jikiwuck' 65
-
-11.  Odjib'we  in  posture  of  scout 74
-
-12.  War  charms 78
-
-13.  Meja'kigi'jig 83
-
-14.  Ma'djigi'jig 84 .
-
-15.  A'kiwen'zi 86
-
-16.  Chippewa  war  banner 91
-
-17.  Scalps  attached  to  hoop 118
-
-18.  Drum  and  stakes  used  in  Drum-presentation  Ceremony 145
-
-19.  Drum  and  its  custodians 145
-
-20.  Mec^kawiga'bau 148
-
-21 .  Participants  m  Drum-presentation  Ceremony 166
-
-22.  Participants  in  Drum-presentation  Ceremony 166
-
-23.  Prominent  Chippewa  actors  in  Drum-presentation  Ceremony 168
-
-24.  Pine  forest,  I^ac  du  Flambeau  Reservation,  Wis 184
-
-25.  Lac  du  Flambeau  and  Chippewa  village 184
-
-26.  E^niwub^e 206
-
-27.  Moccasin  game  at  White  Earth,  Minn 211
-
-28.  Moccasin  game  at  White  Earth,  Minn 211
-
-29.  Moccasin  game  at  White  Earth,  Minn 212
-
-30.  Mrs.  Benjamin  Gauthier 222
-
-31.  Chippewa  dress  ' 223
-
-32.  Sleeve  and  legging — Chippewa 223
-
-33.  Chippewa  sash 223
-
-34.  Chippewa  headband 223
-
-35.  Chippewa  moccasin  (present  style) 223
-
-36.  Chippewa  moccasin  (old  pattern) 223
-
-37.  Ma^kuk  for  maple  sugar 231
-
-38.  Chippewa  summer  camp,  Leech  Lake,  Minnesota 232
-
-39.  Chippewa  cradle-boards 241
-
-40.  Chippewa  medicine  poles 248
-
-41.  Chippewa  medicine  poles 248
-
-42.  Red  Lake,  at  Waba'cing,  Minn 251
-
-43.  Chippewa  camp  at  Waba^cing,  Minn 251
-
-44.  War  dance  of  Waba^cing  Chippewa 252
-
-45.  Dances  of  Waba^cing  Chippewa 252
-
-Figure  1.  Mide^  rattle 34
-
-2.  Dried  root  of  bi'jikiwuck^  with  feathers  attached 64
-
-3.  Stem  of  the  drum  pipe 146
-
-4.  Pattern  of  moccasins 224
-
-5.  Birch-bark  cone  filled  with  maple  sugar 232
-
-6.  Design  on  cloth  attached  to  medicine  pole  (native  drawing) 250
-
-IX
-
-
-LIST  OF  SONGS
-1.  Arranged  in  Order  of  Serial  Numbers
-
-
-Page
-
-
-Songs  connected  with  Odjib'we's  Personal  Experience
-
-Songs  of  War
-Serial  Catalogue
-
-No.  No.
-
-1.  OdjibVe's  dream  song 392  67
-
-2.  OdjibVe's  first  war  song 371  69
-
-3.  "  An  eagle  feather  I  see  " 346  72
-
-4.  Song  of  a  mislaid  scalp 387  73
-
-5.  Song  of  an  unsatisfied  warrior 391  76
-
-6.  War  medicine  song 384  78
-
-7.  Niski'gwun's  dream  song 386  79
-
-8.  Death  song  of  GaVitayac' 338  80
-
-9.  " On  the  bank  of  a  stream  " 339  81
-
-10.  "At  Ca'gobens'  village " 337  82
-
-11.  Song  of  the  war  messenger 358  87
-
-12.  Return  of  the  war  messenger 359  88
-
-13.  "Ifeelnofear" 328  89
-
-14.  "The  man  who  stayed  at  home " 388  90
-
-15.  Pledge  song 360  92
-
-16.  Dance  of  the  dog  feast 361  93
-
-17.  Song  of  departure 362  94
-
-18.  Song  of  the  leader 343  95
-
-19.  "I  will  go  to  the  south " 333  96
-
-20.  "Awarbird" 332  97
-
-21.  Arrow  song 370  98
-
-22.  Origin  of  the  bi'jikiwuck' 372  99
-
-23.  Dancing  song  of  the  bi^jikiwuck' 382  102
-
-24.  First  song  of  the  mi^nTsiiio'wuck 373  103
-
-25.  Second  song  of  the  mi'nismo'wuck 374  104
-
-26.  Third  song  of  the  mrnisinoViick 375  105
-
-27.  Fourth  song  of  the  mi^nisinoVuck 376  106
-
-28.  Song  of  a  war  charm 369  107
-
-29.  Drum  song 341  108
-
-30.  Song  of  a  man  who  rushed  toward  the  enemy 329  109
-
-31.  "If  I  had  been  a  man " 349  111
-
-32.  Song  of  help  in  the  fight 385  112
-
-33.  Death  song  of  Name^bines' 335  114
-
-34.  "The  Sioux  women  gather  up  their  wounded "' 336  115
-
-35.  "They  are  playing  a  game" 342  116
-
-36.  Song  of  the  exhausted  warrior 367  117
-
-37.  Gift  song 389
-
-38.  Scalp  song 366
-
-39.  The  song  of  De'kum 348
-
-40.  Song  of  rejoicing 365
-
-XI
-
-
-119
-120
-121
-122
-
-
-XII  LIST   OF    SONGS    .
-
-Serial                                                                                                                                 Catalogue  p
-
-No.                                                                                                                                              No.  ^  "S"
-
-41.  Victory  Bong ^ 345  123
-
-42.  "A  cloud" 330  124
-
-43.  "I  am  called " 331  125
-
-44.  Song  of  the  peace  pact 352  127
-
-45.  Song  when  offering  the  peace  pipe 390  128
-
-46.  Ca^wuno'ga  song 354  129
-
-47.  Ca^wuno'ga  song 355  130
-
-48.  Song  concerning  a  brave  woman 351  131
-
-49.  "The  Sioux  woman  defends  her  children  " 364  132
-
-50.  Song  of  the  captive  Sioux  woman 334  133
-
-51.  War  song  of  OdjibVe's  childhood 278  138
-
-52.  Song  before  the  boys'  fight  279  139
-
-53.  Little  girls'  war  song 280  139
-
-Songs  of  the  Drum-presentation  Ceremony
-
-54.  Song  of  departure -' -   '■  S.  1  149
-
-55.  Song  of  the  chief S.  2  150
-
-56.  Song  of  the  speaker S.  3  151
-
-57.  Song  of  the  owner  of  the  drum S.  4  151
-
-58.  Song  of  the  warriors S.  5  152
-
-59.  Song  of  giving  away  the  drum S.  6  152
-
-60.  Song  of  restoring  the  mourners S.  7  154
-
-61.  Song  of  painting  the  faces S.  8  155
-
-62.  Mourners'  song S.  9  156
-
-63.  "The  sound  comes  pleasingly" 423  158
-
-64.  "The  ravens  are  singing" 424  159
-
-65.  Warsong 425  160
-
-66.  "lamsmall" 432  161
-
-67.  Divorce  song 428  162
-
-68.  Divorce  song 429  163
-
-69.  Song  of  the  pipe S.  10  169
-
-70.  Song  of  the  drum S.  11  170
-
-71.  Song  of  the  closed  door S.  12  172
-
-72.  First  song  of  the  dog  feast S.  13  173
-
-73.  Second  song  of  the  dog  feast S.  14  174
-
-74.  Third  song  of  the  dog  feast *. S.  15  175
-
-75.  Fourth  song  of  the  dog  feast S.  16  176
-
-76.  Fifth  song  of  the  dog  feast S.  17  176
-
-77.  Sixth  song  of  the  dog  feast S.  18  177
-
-78.  Seventh  song  of  the  dog  feast S.  19  178
-
-79.  Warriors'  song S.  20  178
-
-80.  Song  of  Butterfly 437  179
-
-Songs  op  the  Lac  du  Flambeau  Reservation
-
-Wai'  Songs
-
-81.  A  song  of  indecision 393  185
-
-82.  Song  of  the  sentry 409  186
-
-83.  Song  concerning  GwiVizans 406  187
-
-84.  "The  Sioux  follow  me  " 407  188
-
-85.  "Around  the  sky" 415  189
-
-1  S.= Sioux  song.
-
-
-LIST   OF   SONGS  XIII
-
-Serial  Catalogue
-
-No.                                                                                                                                             No.  Page
-
-86.  "If  he  is  a  warrior" 419  190
-
-87.  "In  the  south" 426  191
-
-88.  War  song  (no  words) 411  192
-
-89.  War  song  (no  words) 412  192
-
-90.  War  song  (no  words) 416  193
-
-91.  War  song  (no  words) 417  193
-
-92.  War  song  (no  words) 418  194
-
-93.  War  song  (no  words) 420  195
-
-Dream  Songs
-
-94.  Song  of  the  thunderbirds 394  198
-
-95.  Song  of  the  deer  (a) 398  200
-
-9G.  Song  of  the  deer  (6) 402  200
-
-97.  Song  of  the  deer  dancing 433  201
-
-98.  "My  shining  horns" 434  202
-
-99.  Song  of  the  buffalo 399  203
-
-Songs  concerning  a  Bot/s  Fast
-
-100.  Song  before  a  boy  goes  out  to  fast 421  204
-
-101.  Song  after  a  boy  returns  from  fasting 422  205
-
-Game  Songs
-
-102.  Song  of  the  hand  game  •. . .  395  208
-
-103.  Moccasin  game  song  (a) 396  209
-
-104.  Moccasin  game  song  {h) -. 397  210
-
-Love  Songs
-
-105.  "Go  with  me  ' 400  216
-
-106.  "Donotweep" 401  217
-
-107.  "You  desire  vainly" 430  218
-
-108.  "He  is  gone" 431  219
-
-109.  " I  am  thinking  of  her  " 442  220
-
-110.  "Weeping  for  my  love" 443  220
-
-111.  "Come,  let  us  sing" 444  221
-
-112.  Song  of  an  ambitious  mother 445  222
-
-113.  Love  song 446  225
-
-Begging  Dance  Songs
-
-114.  Song  of  the  dogs 403  229
-
-115.  "Here  I  come  again" 438  230
-
-116.  "Maple  sugar" 439  231
-
-117.  "My  travels" 440  232
-
-118.  Song  of  thanks  for  f(»od 441  233
-
-Southern  Dance  Songs
-
-119.  (No  words) 404  234
-
-120.  ' '  Invite  our  sweetheart " 405  235
-
-121.  (No  words) 413  236
-
-122.  (No  words) 414  236
-
-Songs  concerning  the  Gift  of  a  Pony
-
-123.  Song  accompanying  the  gift  of  a  pony 435  238
-
-124.  Song  of  thanks  for  the  gift  of  a  pony 436  239
-
-
-XIV  LIST   OF    SONGS
-
-Moccasin  Game  Songs
-Serial  Catalogue
-
-No.  No.  Page
-
-125.  (Nowords) 410  240
-
-126.  (Nowords) 427  241
-
-Song  for  the  Entertainment  of  Children
-
-127.  Lullaby 447  241
-
-Songs  of   the  Chippewa   at  Waba^cing  Village,  Red  Lake  Resep.vation
-
-Dream  Songs
-
-128.  A  song  of  spring 289  253
-
-129.  (No  words) 315  255
-
-130.  (Nowords) 321  256
-
-131.  (Nowords) 324  257
-
-132.  (No  words) 327  257
-
-133.  (No  words) 317  25S
-
-134.  (No  words) 320  258
-
-135.  (No  words) 323  259
-
-136.  (No  words) 325  260
-
-137.  (No  words) 326  260
-
-138.  "My  body  lies  in  the  east" 308  261
-
-139.  "Sitting  with  the  turtle" 309  262
-
-140.  "Carried  around  the  sky" 310  263
-
-141.  "The  approach  of  the  thunderbirds " 311  264
-
-142.  "WTiite-haired  raven  " 312  265
-
-143.  (No  words) .313  266
-
-144.  (No  words) 319  266
-
-145.  "Into  the  several  heavens " 288  267
-
-146.  "Two  foxes  face  each  other  " 290  268
-
-147.  "One  bird" 291  269
-
-148.  "The  sky  will  resound  " 296  270
-
-149.  "One  wind" 298  271
-
-150.  "An  overhanging  cloud  " 299  272
-
-151.  "Heaps  of  clouds" , 314  272
-
-152.  "Around  the  sky" 318  273
-
-153.  "The  thunderbirds  " 322  274
-
-Mtde'  Songs
-
-154.  "The  noise  of  the  village" 306  278
-
-155.  (No  words) 304  279
-
-156.  "Be  kindly" , 307  280
-
-Love  Songs
-
-157.  "I  have  lost  my  sweetheart " 300  280
-
-158.  "I  will  not  drink " 301  281
-
-159.  (No  words) 302  281
-
-160.  (No  words) '. 303  282
-
-Moccasin  Game  Songs
-
-161.  (Nowords) 292  282
-
-162.  "The  sound  of  his  footsteps" 293  283
-
-163.  (No  words) 305  284
-
-
-LIST    OF    SONGS  XV
-
-Dance  Songs
-Serial  Catalogue
-
-No.  No.  Page
-
-164.  Woman's  dance  song .      .    .    295  285
-
-165.  "He  killed  a  man " 294  285
-
-166.  "I  carry  it  away" 316  286
-
-167.  "The  entire  world": 297  287
-
-Songs  of  White  Earth  Reservation
-
-168.  "Wehavesalt" 268  291
-
-169.  "If  I  were  a  son-in-law" 269  292
-
-170.  "Work  steadily" 270  293
-
-Pipe  Dunce  Songs
-
-171.  "O^gima" ! 408  294
-
-172.  "Little  plover" 281  295
-
-173.  "Why?" 282  296
-
-JWide^  Songs
-
-174.  Mide^  bnrial  song  (a) 283  297
-
-175.  Mide^  burial  song  (6) 284  298
-
-Moccasin  Game  Song
-
-176.  (No  words) 285  299
-
-Love  Songs
-
-177.  "I  have  found  my  lover" 286  300
-
-178.  "He  is  going  away  " 287  301
-
-Songs  for  the  Entertainment  of  Children  ^
-
-179.  Song  of  the  Game  of  Silence 448  302
-
-180.  Song  of  the  crawfish 449  305
-
-
-1  See  also  Nos.  (serial)  51,  52,  5.J,  127.
-
-
-xvi  list  of  songs
-
-2.  Arranged  in  Order  of  Catalogue  Numbers
-
-
-Cata-
-logue
-No.
-
-
-26S.
-209
-270
-
-278
-
-279
-280
-281
-282
-283
-284
-285
-286
-287
-288
-289
-290
-291
-292
-293
-294
-295
-296
-297
-298
-299
-300
-301
-302
-303
-304
-305
-306
-307
-308
-309
-310
-311
-
-312
-313
-314
-
-315
-310
-
-317
-318
-319
-320
-321
-322
-323
-324
-325
-
-
-Jllenry  Selkirk.
-
-.3.:do
-
-Main'gans
-
-Odjib'we
-
-
-Name  of  .singer
-
-
-....do
-
-....do
-
-....do
-
-....do
-
-Na'waji'bigo'kwe.
-
-do
-
-William  Potter . . .
-
-Mrs.  Spears
-
-....do
-
-A'jide'gijig
-
-....do
-
-....do
-
-...do
-
-....do
-
-....do
-
-do
-
-do
-
-Ki'miwiln
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-
-....do
-
-....do
-
-Ki'miwdna'nakwad .
-
-....do
-
-Oegwe'djibi'tdn
-
-
-Awto'akCim'IglckCln'
-
-....do
-
-....do
-
-do
-
-do
-
-do
-
-do
-
-....do
-
-....do
-
-
-Description  of  song
-
-
-Unclassified
-
-....do
-
-Ivove  song
-
-For  the  entertainment
-of  children.
-
-....do
-
-....do
-
-ripe  dance  song
-
-....do
-
-MIde'  song
-
-....do
-
-Moccasin  game  song. . .
-
-Love  song
-
-....do
-
-Dream  song
-
-....do
-
-....do
-
-....do
-
-Moccasin  game  song. . .
-
-do
-
-Dance  song
-
-Woman's  dance  song.
-
-Dream  song
-
-Dance  song
-
-Dream  song
-
-do
-
-Love  song
-
-do
-
-do
-
-do
-
-Mlde'song
-
-Moccasin  game  song. . .
-
-Mlde'song
-
-do
-
-Dream  (doctor's)  song.
-
-do
-
-do
-
-do
-
-
-Title  of  song
-
-
-do
-
-do
-
-Dream  song ,
-
-do
-
-Southern  dance  (ca'-
-wdno'ga)  song
-
-Dream  song
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-
-Serial
-No.
-
-
-"  We  have  salt ". .'
-
-"  If  I  were  a  son-in-law  "
-
-"Work  steadil}'"
-
-War  song  of  Odjib'we 's  cliildhood.
-
-
-Song  before  the  boys'  light
-
-Little  girls'  war  song
-
-"Little  plover"
-
-"Why?"
-
-MIde'  burial  song  (n)
-
-MIde'  burial  song  (6)
-
-(No  words)
-
-"I  have  found  my  lover"
-
-"He  is  going  away"
-
-"  Into  the  several  heavens  "
-
-A  song  of  spring
-
-" Two  fo-xes  face  each  other"
-
-"  One  bird"
-
-(No  words)
-
-"The  sound  of  his  footsteps"...
-
-"He  killed  a  man"
-
-(No  words)
-
-"The  sky  will  resound"
-
-"The  entire  world"
-
-"  One  wind  "
-
-"  An  overhanging  cloud  "
-
-"I  have  lost  my  sweetheart "
-
-"I  will  not  drink"
-
-(No  words)
-
-do
-
-do...
-
-do
-
-"The  noise  of  tlie  village"
-
-"  Be  kindly  "
-
-"My  body  lies  in  the  east"
-
-"Sitting  with  the  turtle"
-
-"Carried  around  the  sky"
-
-"The  approach  of  the  thinidcr
-birds."
-
-"  White-haired  raven  "
-
-(No  words)
-
-"Heaps  of  clouds"
-
-(No  words)
-
-"I  carry  it  away'' j
-
-
-(No  words)
-
-"Around  the  sky". . .
-
-(No  words)
-
-do
-
-do
-
-"The  thundcrbirds".
-
-(No  words)
-
-do
-
-do
-
-
-168
-169
-170
-51
-
-52
-53
-172
-173
-174
-175
-176
-177
-178
-145
-128
-146
-147
-161
-162
-165
-164
-148
-167
-149
-150
-157
-158
-159
-160
-155
-163
-154
-156
-138
-139
-140
-141
-
-142
-143
-151
-129
-
-166
-
-133
-152
-144
-134
-130
-l.W
-135
-131
-136
-
-
-LIST   OF    SONGS
-
-
-XVII
-
-
-Name  of  singer
-
-
-Description  of  song
-
-
-Title  of  song
-
-
-Serial
-No.
-
-
-Page
-
-
-Awiin'aktim'IglckM'.
-
-do
-
-Odjlb'we
-
-do
-
-
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Na'waji'bigo'kwe.
-
-do
-
-do
-
-do
-
-Main'gans
-
-Niski'gwun
-
-do
-
-do
-
-Odjlb'we
-
-do
-
-do
-
-
-Dream  song
-do
-
-War  song. .
-do
-
-
-.do.
-.do.
-.do.
-.do.
-.do.
--do.
-.do.
-
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-
-(No  words)
-
-do
-
-"  I  feel  no  fear  "
-
-Song  of  the  man  who  rushed  to-
-ward the  enemy.
-
-"  A  cloud  "
-
-"I  am  called"
-
-"  A  war  bird  "
-
-"I  will  go  to  the  south"
-
-Song  of  the  captive  Sioux  woman.
-
-Death  song  of  Name'bings'
-
-"The  Sioux  women  gather  up
-their  wounded."
-
-"At  Ca'gobgns'  village"
-
-Death  song  of  Ga'witayac'
-
-"On  the  bank  of  a  stream"
-
-Drum  song
-
-"They  are  playing  a  game"
-
-Song  of  the  leader
-
-Victory  song
-
-"An  eagle  feather  I  see"
-
-The  song  of  De'kiim
-
-"If  I  had  been  a  man"
-
-Song  concerning  a  brave  woman . .
-
-Song  of  the  peace  pact
-
-Ca'wuno'ga  song  (a)
-
-Ca'wuno'ga  song  (6)
-
-Song  of  the  war  messenger
-
-Return  of  the  war  messenger
-
-Pledge  song
-
-Dance  of  the  dog  feast
-
-Song  of  departure
-
-"The  Sioux  woman  defends  hfr
-children."
-
-Song  of  rejoicing
-
-Scalp  song
-
-Song  of  the  exhausted  warrior
-
-Song  of  a  war  charm
-
-Arrow  song
-
-Odjib'we's  first  war  song
-
-Origin  of  the  bi'jikiwtick'
-
-First  song  of  the  mi'nislno'wuck. .
-
-Second  song  of  the  mi'nislno'wuck
-
-Third  song  of  the  mi'nislno'wuck.
-
-Fourth  song  of  the  mi'nislno'wuck
-
-Dancing  song  of  the  bi'jlkiwuck' . .
-
-War  medicine  song
-
-Song  of  help  in  the  fight
-
-Niski''g\viiri's  dream  song
-
-Song  of  a  mislaid'scalp;  -
-
-"  The  man  who  stayed  at  home
-
-Gift  song
-
-
-137
-
-132
-
-13
-
-30
-
-42
-43
-20
-10
-50
-33
-34
-
-10
-8
-9
-29
-33
-18
-41
-3
-39
-31
-48
-44
-46
-47
-11
-12
-15
-16
-17
-49
-
-40
-38
-36
-28
-21
-
-
-260
-257
-89
-109
-
-124
-125
-97
-96
-133
-114
-115
-
-82
-80
-81
-108
-110
-95
-123
-72
-121
-111
-131
-127
-129
-130
-87
-88
-92
-93
-94
-132
-
-122
-
-120
-
-117
-
-107
-
-08
-
-(i9
-
-99
-
-103
-
-104
-
-105
-
-106
-
-102
-
-78
-
-112
-
-79
-
-73
-
-90
-
-119
-
-
-67996°— Bull.  53—13 ii
-
-
-XVIII
-
-
-LIST   OF   SONGS
-
-
-Description  of  song
-
-
-War  song
-
-do
-
-do
-
-do
-
-Dream  song
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Love  song
-
-do
-
-Dream  song
-
-Begging  dance  song . . .
-Southern  dance  song . .
-
-do
-
-War  song
-
-do
-
-Pipe  dance  song
-
-War  song
-
-Moccasin  game  song. . .
-War  song
-
-do
-
-Southern  dance  song ( o )
-Southerndance  song(6)
-War  song
-
-do
-
-do
-
-do
-
-do
-
-do
-
-Dream  song
-
-do
-
-
-Title  of  song
-
-
-War  song
-
-do
-
-do
-
-do
-
-Moccasin  game  song. . .
-Divorce  song
-
-do
-
-Love  song
-
-do
-
-War  song
-
-Dream  song
-
-do
-
-Song     accompanying
-
-the  gift  of  a  ponj-.
-Song  ol  tiianL:3  for  the
-'gift  of  a  pony.
-
-War  song
-
-Begging  dance  song. .
-
-do
-
-
-Song  when  offering  the  peace  pipe,
-
-Song  of  an  unsatisfied  warrior
-
-Odjib'we's  dream  song
-
-A  song  of  indecision
-
-Song  of  the  thunderbirds
-
-Song  of  the  hand  game
-
-Moccasin  game  song  (a)
-
-Moccasin  game  song  (6)
-
-Song  of  the  deer  («)
-
-Song  of  the  buflalo
-
-"Go  with  me"
-
-"Do  not  weep "
-
-Song  of  the  deer  (6)
-
-Song  of  the  dogs
-
-(No  words)
-
-"  Invite  our  sweetheart "
-
-Song  concerning  Gwi'wizans. .
-
-"  The  Sioux  follow  me  "
-
-"O'gima"
-
-Song  of  the  sentry
-
-(No  words)
-
-do
-
-do
-
-do
-
-do
-
-
-"  Around  the  sky  "
-
-(No  words)
-
-....do
-
-....do
-
-"  If  he  is  a  warrior  "
-
-(No  words)
-
-Song  before  a  boy  goes  out  to  fast.
-Song  after  a  boy  returns  from
-
-fasting.
-"  The  sound  comes  pleasingly  ". .
-
-"  The  ravens  are  singing  "
-
-(No  words)
-
-"  In  the  south  " '
-
-(No  words)
-
-do
-
-do
-
-"  You  desire  vainly  "
-
-"  He  is  gone  "
-
-"lam  small"
-
-Song  of  the  deer  dancing
-
-"My  shining  horns"
-
-(No  words)
-
-
-.do.
-
-
-Song  of  Butterfly
-
-"Here  I  come  again".
-"  Maple  sugar"
-
-
-Serial
-
-No.
-
-
-Page
-
-
-1
-
-SI
-
-94
-
-102
-
-103
-
-104
-
-95
-
-99
-
-105
-
-106
-
-96
-
-114
-
-119
-
-120
-
-S3
-
-84
-
-171
-
-82
-
-125
-
-88
-
-89
-
-121
-
-122
-
-85
-
-90
-
-91
-
-92
-
-86
-
-93
-
-100
-
-101
-
-63
-64
-65
-87
-
-126
-67
-68
-
-107
-
-108
-66
-97
-98
-
-123
-
-
-115
-116
-
-
-LIST    OF    SONGS
-
-
-XIX
-
-
-Cata-
-logue
-No.
-
-
-Name  of  singer
-
-
-Deseription  of  song
-
-
-Title  of  song
-
-
-Serial
-No.
-
-
-440
-441
-442
-443
-444
-445
-446
-447
-
-448
-449
-
-
-Mec'kawiga'bau . .
-
-do
-
-do
-
-Dji'siii'slno'kwe. .
-
-do
-
-Mrs.  Gauthier
-
-O'gabea'slno'kwe.
-do
-
-
-John  W.  Cari
-Odjib'we
-
-
-Begging  dance  song  . .
-
-do
-
-Love  song
-
-do
-
-do
-
-do
-
-do
-
-For  the  entertainment
-of  children.
-
-do
-
-do
-
-
-"My  travels  "
-
-Song  of  thanks  for  food
-
-"lam  thinking  other"
-
-"  Weeping  for  my  love"
-
-"Come,  let  us  sing"
-
-Song  of  an  ambitious  mother
-
-Love  song
-
-Lullaby
-
-Song  of  the  Game  of  Silence  .
-Song  of  the  crawfish
-
-
-117
-118
-109
-110
-111
-112
-113
-127
-
-179
-180
-
-
-232
-233
-220
-220
-221
-222
-225
-241
-
-302
-305
-
-
-Sioux  Songs  op  the  Drum-presentation  Ceremony
-
-
-Cata-
-logue
-
-No.
-
-
-S.l
-S.2
-S.3
-S.4
-S.5
-S.6
-S.7
-S.8
-S.9
-S.  10
-S.ll
-S.12
-S.13
-S.14
-S.  15
-S.16
-S.  17
-S.  18
-S.  19
-S.20
-
-
-Name  of  singer
-
-
-Mec'kawiga'bau.
-do
-
-
-.do.
-.do.
-.do.
-.do.
-.60.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-.do.
-
-
-Title  of  song
-
-
-Song  of  departure
-
-Song  of  the  chief
-
-Song  of  the  speaker
-
-Song  of  the  owner  of  the  drum
-
-Song  of  the  warriors
-
-Song  of  giving  away  the  drum.
-Song  of  re.storing  the  mourners
-
-Song  of  painting  the  faces
-
-Mourners' song
-
-Song  of  the  pipe
-
-Song  of  the  drum
-
-Song  of  the  closed  door
-
-First  song  of  the  dog  feast
-
-Second  song  of  the  dog  feast. . .
-
-Third  song  of  the  dog  feast
-
-Fourth  song  of  the  dog  feast. . .
-
-Fifth  song  of  the  dog  feast
-
-Sixth  song  of  the  dog  feast
-
-Seventh  song  of  the  dog  feast. .
-Warriors'  song
-
-
-Serial
-
-No.
-
-
-149
-150
-151
-151
-152
-152
-154
-155
-156
-169
-170
-172
-173
-174
-175
-176
-176
-177
-178
-178
-
-
-Special  Signs  Used  in  Transcriptions  of  Songs
-
-
-I  I  placed  above  the  music  indicates   that  the   tones
-
-included  within  the  bracket  constitute  a  rhythmic  unit.
-
-+  placed  above  a  note  indicates  that  the  tone  is  sung  slightly  less
-than  a  semitone  higher  than  the  proper  pitch.
-
-—  placed  above  a  note  indicates  that  the  tone  is  sung  slightly  less
-than  a  semitone  lower  than  the  proper  pitch.
-
-0  placed  above  a  note  indicates  that  the  note  is  prolonged  slightly
-beyond  its  proper  time.
-
-
-XX  SPECIAL   SIGNS
-
-0  placed  above  a  note  indicates  tliat  the  note  is  given  less  than  its
-proper  time.
-
-•  is  used  in  songs  transcribed  in  outline  to  indicate  the  pitch  of  a
-tone  without  reference  to  its  duration.
-
-Meaningless  syllables  are  italicized.
-
-Wliere  no  words  are  beneath  the  notes  it  is  understood  that  mean-
-ingless syllables  were  used,  except  in  songs  whose  words  were  sung
-too  indistinctly  for  transcription,  such  instances  being  described  in
-the  analyses.
-
-
-NAMES  OF  SINGERS
-
-WHITE    EARTH    RESERVATION,  MINNESOTA
-
-Numbers
-of  songs
-
-MaiiVgans  ("little  wolf") 2
-
-Odjib  Ve 48
-
-Na^waji^bigo'kwe  ("woman  dwelling  in  the  midst  of  the  rocks") 6
-
-Niski^gwun  ( ' '  ruffled  feathers  " ) 3
-
-Mrs.  Julia  Warren  Spears 2
-
-Henry  Selkii-k 2
-
-William  Potter 1
-
-John  W.  Carl 1
-
-WABa'cING    VILLAGE,    RED    LAKE    RESERVATION,    MINNESOTA
-
-A^jide^ijig  ("crossing  sky  ") 8
-
-Ki^miwun  ("rainy") 18
-
-Ki^miwuna^nakwad  ("rain  cloud") 2
-
-Gegwe^djibi^tuii  ("sitting  near  it") 1
-
-Awun^akljm^Igickufi^  ("fog  covering  the  earth  ") 11
-
-LAC    DU    FLAMBEAU    RESERVATION,    WISCONSIN
-
-Mide^wigi^jig  (" Grand  Medicine  sky  " ) 1
-
-E^niwub'e  ("sits  farther  along " ) 33
-
-Mec^kawiga'bau  ("stands  firmly  ") 16
-
-Dji^sia^slno^kwe  ("deceiving  woman ") 2
-
-O^gabea^sino^kwe  ("woman  of  the  breeze  that  blows  to  the  end  ") 2
-
-Mrs.  Benjamin  Gauthier 1
-
-
-Total 1 60
-
-XXI
-
-
-CHIPPEWA   MUSIC-II
-
-By  Frances  Densmore
-
-
 ANALYSIS  OF  CHIPPEWA  MUSIC
 
 Three  questions  will  be  considered  in  the  present  section,  namely :
@@ -2444,14 +6,12 @@ Fu'st,  What  do  the  Chippewa  sing;  Second,  How  do  they  sing;  and.
 Third,  Why  do  they  sing?  The  material  under  analysis  in  Tables
 1  to  22  (pp.  18-33)  comprises  340  songs,  recorded  by  the  phonograph
 and  transcribed  in  ordinar}''  musical  notation  with  the  addition  of  a
-few  special  signs.  The  songs  were  collected  on  the  principal  Chip-
-pewa reservations  in  Minnesota  and  on  the  Lac  du  Flambeau  Reser-
+few  special  signs.  The  songs  were  collected  on  the  principal  Chippewa reservations  in  Minnesota  and  on  the  Lac  du  Flambeau  Reser-
 vation in  W^isconsin.  All  the  leadmg  classes  of  songs  in  use  among
 the  Chippewa  are  represented:  The  songs  of  the  Mide'wiwin  (Grand
 Medicine),  dream  songs,  war  songs,  and  love  songs,  songs  of  the
 moccasin  game,  songs  of  the  woman's  dance,  of  the  begging  dance,
-and  of  the  pipe  dance,  songs  connected  with  gifts,  songs  for  the  enter-
-tainment of  children,  and  a  limited  number  not  classified.  This  col-
+and  of  the  pipe  dance,  songs  connected  with  gifts,  songs  for  the  entertainment of  children,  and  a  limited  number  not  classified.  This  col-
 lection does  not  include  all  the  available  material,  the  purpose  of  the
 work  being  to  preserve  the  oldest  songs  and  those  connected  with
 tribal  history,  custom,  and  ceremony.  The  songs  included  in  Bulletin
@@ -2473,7 +33,6 @@ repeated  at  various  times  and  with  a  number  of  songs.  In  every  test
 a  comparison  of  tlie  phonograms  showed  the  identity  of  the  song,
 though  the  renditions  were  not  always  uniform  in  every  respect.
 The  rhythm  was  repeated  more  exactly  than  the  melod}',  the  latter
-67996°— Bull.  53—13 1
 
 
 2  BUREAU    OF    AMERICAN   ETHNOLOGY  [bfll.  53
@@ -2523,8 +82,7 @@ of  minor  tonaUty.  (Table  1.)  The  term  "key"  can  not  properl}'-  be
 used  in  this  work,  as  the  complete  tone-system  implied  by  that  term
 
 I  Charles  S.  Myers,  M.  A.,  M.  D.,  The  Ethnological  Study  of  Music  (in  Anthropological  Essays  Presented
-<o  ^(fu'ard  B«rne/<  7'2/;or,  etc.,  p.  236):  "The  words  are  commonly  sacrificed  to  the  tune.  .  .  .  We  fre-
-quently find  that  liberties  are  taken  with  words,  or  that  meaningless  words  or  syllables  are  introduced  into
+<o  ^(fu'ard  B«rne/<  7'2/;or,  etc.,  p.  236):  "The  words  are  commonly  sacrificed  to  the  tune.  .  .  .  We  frequently find  that  liberties  are  taken  with  words,  or  that  meaningless  words  or  syllables  are  introduced  into
 primitive  music.  Yet  another  cause  of  the  presence  of  meaningless  words  lies  in  the  antiquity  of  the  music.
 The  words  become  so  archaic,  or  their  sense  was  orij;inally  so  involved  or  so  symbolical  that  all  meaning
 gradually  disappears  as  the  song  is  handed  down  from  generation  to  generation."
@@ -2535,8 +93,7 @@ DENSMORB]  CHIPPEWA    MUSIC II  3
 is  not  always  present.  Key  is  defined  by  Webster  as  "a  system  or
 family  of  tones  based  on  their  relation  to  a  keynote,"  also  as  "the
 total  harmonic  and  melodic  relation  of  such  a  family  of  tones,"
-unplying  an  harmonic  as  well  as  a  melodic  test.  In  recorded  Chip-
-pewa songs  the  relation  of  the  tones  to  a  keynote  is  usually  evident,
+unplying  an  harmonic  as  well  as  a  melodic  test.  In  recorded  Chippewa songs  the  relation  of  the  tones  to  a  keynote  is  usually  evident,
 the  tone-material  of  the  key  being  present,  and  what  might  be
 termed  the  "melodic  relation"  being  satisfactory,  but  the  sequence
 of  tones  in  many  of  the  songs  is  such  that  the  "harmonic  relation"  is
@@ -2549,8 +106,7 @@ in  all  the  songs,  the  rudimentary  elements  of  key.  The  persistence  of
 the  third  and  fifth  above  the  keynote,  the  correct  intonation  of  the
 octave,  and  the  frequent  occurrence  of  the  tonic  triad,  may  be  noted.
 The  term  "tonality"  is  employed  therefore  in  this  work,  its  use
-seemingly  bemg  warranted  by  the  definition  in  the  Standard  Diction-
-ary (1910) :  "Tonality,  the  quality  and  peculiarity  of  a  tonal  system."
+seemingly  bemg  warranted  by  the  definition  in  the  Standard  Dictionary (1910) :  "Tonality,  the  quality  and  peculiarity  of  a  tonal  system."
 
 In  determining  the  keynote  of  a  song  a  test  by  the  ear  seems
 permissible  and  the  tonality  of  the  song  is  determined  by  the  distance
@@ -2558,8 +114,7 @@ of  the  third  and  sixth  above  this  keynote.  The  third  occurs  in  about
 97  per  cent  of  the  songs  under  analysis.  A  song  is  classified  as  major
 in  tonality  if  the  third  is  a  major  third  (two  whole  tones)  above  the
 keynote,  and  as  minor  in  tonality  if  the  third  is  a  minor  third  (a  whole
-and  a  half  tone)  above  the  keynote.  According  to  this  basis  of  classi-
-fication 57  per  cent  of  the  songs  are  major  in  tonality  and  42  per
+and  a  half  tone)  above  the  keynote.  According  to  this  basis  of  classification 57  per  cent  of  the  songs  are  major  in  tonality  and  42  per
 cent  minor,  while  three  songs  show  k  change  from  major  to  minor
 or  from  minor  to  major  by  altermg  the  pitch  of  the  third,  the  keynote
 remaining  the  same.  These  songs  are  Nos.  189  and  1 92  in  Bulletin  45,
@@ -2595,13 +150,10 @@ the  final  tone  is  the  lowest  tone  occurring  in  the  melody.  From
 these  characteristics  it  is  not  surprising  to  find,  in  Table  5,  that  the
 largest  proportion  of  songs  has  a  compass  of  1 2  tones  and  that  the
 next  smaller  group  has  a  range  of  an  octave.  Thus  it  wUl  be  seen
-that  the  melodic  boundary  of  a  majority  of  Chippewa  songs  corres-
-ponds to  a  fundamental  tone  and  its  principal  harmonic  upper  partial
-tones,  commonly  called  overtones.^  It  has  been  stated  already  (Bul-
-letin 45,  p.  5)  that  "  the  phonograph  record  shows  the  octave,  fifth,
+that  the  melodic  boundary  of  a  majority  of  Chippewa  songs  corresponds to  a  fundamental  tone  and  its  principal  harmonic  upper  partial
+tones,  commonly  called  overtones.^  It  has  been  stated  already  (Bulletin 45,  p.  5)  that  "  the  phonograph  record  shows  the  octave,  fifth,
 and  twelfth  sung  accurately  by  men  who  give  the  other  intervals  with
-uncertain  pitch,"  and  further  observation  has  confirmed  this  state-
-ment.
+uncertain  pitch,"  and  further  observation  has  confirmed  this  statement.
 
 Having  observed  the  outlines  of  the  melodies,  the  tone-material
 comprised  in  them  may  be  noted.  Table  6  shows  that  131  songs,
@@ -2620,8 +172,7 @@ songs  on  the  fourth  five-toned  scale,  more  commonly  known  as  the
 "major  pentatonic,"  or  "Scotch  scale,"  and  40  songs  on  the  second
 five-toned  scale,  more  commonly  known  as  the  "minor  pentatonic,"
 whUe  two  songs  (Nos.  51,  2)  are  on  the  fifth  five-toned  scale,  and
-one  (No.  116)  is  on  the  first  five-toned  scale.  As  the  fourth  five-
-toned  scale  occurs  in  the  largest  number  of  songs,  we  seek  to  know
+one  (No.  116)  is  on  the  first  five-toned  scale.  As  the  fourth  fivetoned  scale  occurs  in  the  largest  number  of  songs,  we  seek  to  know
 what  groups  of  tones  may  have  led  up  to  it  or  in  what  incomplete
 form  it  may  be  found.  It  is  interesting  to  note  that  the  next  smaller
 group  (the  major  triad  and  sixth)  comprises  12  per  cent  of  the  entire
@@ -2648,10 +199,8 @@ We  next  observe  the  tone-material  of  Chippewa  songs  in  its  relation
 to  the  tones  of  the  diatonic  octave  and  find  the  seven  tones  of  the
 diatonic  octave  in  only  6  per  cent  of  the  songs.  The  fifth  is  present
 in  338  songs,  the  only  songs  in  which  it  does  not  occur  being  the  two
-songs  (Nos.  51,  52)  on  the  fifth  five-toned  scale.  A  similar  persist-
-ence of  the  fifth  is  noted  by  Doctor  Baker  in  his  analysis  of  31  Indian
-songs,  the  fifth  being  present  in  30  of  the  songs  under  his  observa-
-tion.* The  relative  persistence  of  the  fifth  and  fourth  in  the  songs
+songs  (Nos.  51,  52)  on  the  fifth  five-toned  scale.  A  similar  persistence of  the  fifth  is  noted  by  Doctor  Baker  in  his  analysis  of  31  Indian
+songs,  the  fifth  being  present  in  30  of  the  songs  under  his  observation.* The  relative  persistence  of  the  fifth  and  fourth  in  the  songs
 of  the  Murray  Islanders  has  been  exhaustively  studied  by  Dr.  C.  S.
 Myers,  who  states:^  "There  is  good  reason  to  believe  that  in  Murray
 Island  the  use  of  the  fourth  preceded  that  of  the  fifth,  but  that
@@ -2667,8 +216,7 @@ Chippewa  songs;  that  of  the  second  in  210,  or  about  62  per  cent;
 of  the  fourth  in  135,  or  about  40  per  cent;  and  of  the  seventh  in  only
 110,  or  about  32  per  cent  of  the  songs.  Doctor  Baker  noted  also  the
 seventh  as  being  found  in  only  8,  or  26  percent,  of  the  songs  under
-his  analysis,  this  being  the  interval  which  occurred  with  least  fre-
-quency. Thus  is  noted  some  similarity  between  the  result  of  Doctor
+his  analysis,  this  being  the  interval  which  occurred  with  least  frequency. Thus  is  noted  some  similarity  between  the  result  of  Doctor
 Baker's  analysis  of  the  songs  of  several  Indian  tribes  and  the  result
 of  the  analysis  of  Chippewa  songs,  in  which  the  persistence  (or
 frequency  of  occurrence)  of  the  tones  of  the  diatonic  octave  are
@@ -2691,8 +239,7 @@ und  des  Tacts,"  p.  82.
 6  BUREAU    OF    AMERICAN    ETHNOLOGY  [bull.  5^
 
 The  tone-material  of  most  of  these  songs  is  diatonic,  Table  7
-showing  that  85  per  cent  contain  no  accidentals.  In  songs  contain-
-ing accidentals  the  tone  most  frequently  affected  is  the  sixth,  this
+showing  that  85  per  cent  contain  no  accidentals.  In  songs  containing accidentals  the  tone  most  frequently  affected  is  the  sixth,  this
 interval  being  either  raised  or  lowered  a  semitone  in  27,  or  8  per  cent,
 of  such  songs.  Accidentals  occur  more  frequently  in  the  love  songs
 than  in  any  other  group.
@@ -2713,8 +260,7 @@ tones;  a  third  group  was  made  therefore  to  include  these  songs,
 which  may  be  termed  "intermediate"  in  structure.  Such  songs
 are  classified  as  "melodic  with  harmonic  framework."  This  group
 comprises  35  songs,  or  10  per  cent  of  the  entire  number,  an  example
-being  No.  30,  in  which  the  only  accented  tone  not  having  a  chord-
-relation  to  a  contiguous  accented  tone  is  B  flat  in  the  fourth  measure
+being  No.  30,  in  which  the  only  accented  tone  not  having  a  chordrelation  to  a  contiguous  accented  tone  is  B  flat  in  the  fourth  measure
 from  the  close  of  the  song.
 
 It  has  been  noted  that  the  Ijoundaries  of  the  melodies  suggest  a
@@ -2728,8 +274,7 @@ per  cent  of  the  songs  the  first  progression  is  downward,  and  Table  1
 that  65  per  cent  of  the  entire  number  of  progressions  in  the  songs
 are  downward.^  It  has  been  noted  that  in  90  per  cent  of  the  songs
 the  last  tone  is  the  lowest  tone  in  the  song  (see  Table  4) ;  thus  these
-three  tables  combine  to  demonstrate  the  downward  trend  of  Chip-
-pewa melodies.
+three  tables  combine  to  demonstrate  the  downward  trend  of  Chippewa melodies.
 
 The  nature  of  the  intervals  now  claims  attention  in  Tables  1 1  and
 12.  The  interval  which  occurs  most  frequently  is  the  second;  but
@@ -2759,8 +304,7 @@ call,  with  its  answer,  of  a  small  beetle,  the  former  being  represente
 by  the  descending  minor  third  F-D,  and  the  latter  by  the  descending
 minor  third  B  flat-G.  In  these  observations  it  can  not  be  assumed
 that  the  intervals  heard  by  the  travelers  were  accurate  minor  thirds,
-but  that,  to  the  ear  accustomed  to  the  musical  standards  of  civiliza-
-tion, the  interval  of  the  third  was  clearly  a  non-major  interval.
+but  that,  to  the  ear  accustomed  to  the  musical  standards  of  civilization, the  interval  of  the  third  was  clearly  a  non-major  interval.
 
 In  the  Chippewa  songs  it  is  noted  that  the  percentage  of  minor
 thirds,  in  both  ascending  and  descending  progression,  is  more  than
@@ -2778,20 +322,17 @@ in  No.  86,  the  framework  of  which  consists  of  two  intervals  of  the
 fifth,  and  in  No.  82,  the  framework  of  which  consists  of  two  descending
 fourths.
 
-In  order  to  determine  the  feeling  for  the  interval  in  melodv-for-
-mation,  a  test  was  made  which  included  the  40  songs  recorded  at
+In  order  to  determine  the  feeling  for  the  interval  in  melodv-formation,  a  test  was  made  which  included  the  40  songs  recorded  at
 Waba'cmg,'^  the  50  war  songs  ofOdjib'we  (pi.  1)  recorded  at  White
 Earth,  and  14  songs  recorded  by  E 'niwub'e  at  Lac  du  Flambeau.  The
-songs  of  Odjib'we  did  not  show  a  smgle  instance  of  "  mterval-forma-
-tion,"  but  it  was  found  to  characterize  4(10  per  cent)  of  the  Waba'cing
+songs  of  Odjib'we  did  not  show  a  smgle  instance  of  "  mterval-formation,"  but  it  was  found  to  characterize  4(10  per  cent)  of  the  Waba'cing
 songs  (Nos.  136,  144,  148,  161),  and  3  (21  per  cent)  of  the  Lac  du
 Flambeau  songs,   under  observation.     From   the  character  of  the
 
 1  Up  the  Niger,  by  Mockler-Ferryman,  with  chapter  on  musical  instruments  of  the  natives  by  Charles
 R.  Pay,  LonJon,  1S92,  p.  272.
 
-2  Music  of  the  Australian  Aborif;inos,  in  Journil  of  tUc  A  nihropnlojical  Institute  of  Great  Britain  and  Ire-
-land, London,  1887,  p.  336.
+2  Music  of  the  Australian  Aborif;inos,  in  Journil  of  tUc  A  nihropnlojical  Institute  of  Great  Britain  and  Ireland, London,  1887,  p.  336.
 
 3  History  of  Sumatra,  London,  1811,  p.  190.
 
@@ -2822,8 +363,7 @@ method  of  phonographic  recording.  As  the  phonograph  best  adapted
 to  field  work  at  the  present  time  is  a  machine  operated  by  a  spring
 motor,  it  is  impossible  to  obtain  absolute  uniformity  of  speed,  but  the
 following  method  is  used  by  the  writer  and  gives  results  of  reasonable
-accuracy.  The  speed  of  the  phonograph  is  adjusted  to  160  revolu-
-tions a  minute,  and  the  tone  C,  sounded  by  a  pitch-])ipe  of  known
+accuracy.  The  speed  of  the  phonograph  is  adjusted  to  160  revolutions a  minute,  and  the  tone  C,  sounded  by  a  pitch-])ipe  of  known
 vibration,  is  recorded  on  the  blank  cylinder,  immediately  preceding
 the  record  of  the  song.  When  the  transcription  of  the  song  is  made,
 the  speed  of  the  phonograj^h  is  adjusted  so  that  the  tone  C  on  the
@@ -2848,8 +388,7 @@ part  of  the  measure.  This  directness  in  beginning  a  song  is  shown
 also  by  the  fact  that  in  most  of  the  songs  the  rhythmic  unit  occurs
 in  the  first  measure  and  that  the  first  tone  is  usually  a  high  tone.
 The  interest  of  a  Chippewa  song  frequently  diminishes  as  the  song
-proceeds,  and  in  some  instances  the  closing  measures  contain  char-
-acterless phrases,  repeated  indefinitely.
+proceeds,  and  in  some  instances  the  closing  measures  contain  characterless phrases,  repeated  indefinitely.
 
 
 DENSMOUE]  CHIPPEWA    MUSIC II  9
@@ -2867,8 +406,7 @@ of  primitive  music/  and  in  the  music  of  the  Omaha  there  occur  also
 songs  with  7  counts  in  a  measure.
 
 Table  17  shows,  however,  that  the  rhytlim  of  the  first  measure  is
-rarely  continued  throughout  the  song.  Forty-two  songs  were  tran-
-scribed in  outline,  without  time-indication,  but  in  77  per  cent  of  the
+rarely  continued  throughout  the  song.  Forty-two  songs  were  transcribed in  outline,  without  time-indication,  but  in  77  per  cent  of  the
 remainder  the  rhythm  (or  number  of  counts)  in  the  first  measure
 does  not  continue  throughout  the  song.  The  transcriptions  show  in
 many  instances  a  change  of  time  with  almost  every  measure.  In  No.
@@ -2907,8 +445,7 @@ Among  the  Creek  and  Yuchi:  Frank  G.  Speck,  Ceremonial  Songs  of  the  C
 Anthropological  Publications  of  the  Museum  of  the  University  of  Pennsylvania,  Philadelphia,  1911,  vol.  1
 No.  2,  pp.  109, 170,  178,  226.
 
-Also  among  the  Sudanese:  Heinrich  Zollner,  Einiges  iiber  sudanesische  Musik,  Musikalischcs  Wochen-
-blatt,  Leipzig,  1885,  p.  440.
+Also  among  the  Sudanese:  Heinrich  Zollner,  Einiges  iiber  sudanesische  Musik,  Musikalischcs  Wochenblatt,  Leipzig,  1885,  p.  440.
 
 
 10  BUREAU   OF   AMEEICAN   ETHKOLOGY  [bull.  53
@@ -2927,8 +464,7 @@ changed  to  that  most  often  recorded  on  the  phonograph,  in  which
 the  unaccented  stroke  precedes,  instead  of  follows,  the  accented  stroke.
 
 In  aU  theMide'  songs  and  in  53  per  cent  of  the  war  songs  there  is  a
-drum-rhythm  of  rapid  unaccented  strokes,  two  of  which  are  approxi-
-mately equal  to  one  metric  unit  of  the  melody.  It  is  stated  that  under
+drum-rhythm  of  rapid  unaccented  strokes,  two  of  which  are  approximately equal  to  one  metric  unit  of  the  melody.  It  is  stated  that  under
 certain  conditions,  "especially  a  moral  emotion  or  violent  physical
 exertion,"  the  triple  rhythm  of  the  heart  becomes  "allied  to  a  double
 measure."^  The  collection  of  additional  data  may  throw  more  light
@@ -2937,17 +473,14 @@ and  the  form  assumed  by  primitive  musical  expression.
 
 The  next  observation  concerns  the  rhythmic  unit,  or  motif  (Table
 19),  which  appears  to  constitute  the  rhythmic  nucleus  of  the  song,
-as  the  interval  forms  its  melodic  nucleus.  As  a  basis  for  this  classifi-
-cation, a  rhythmic  unit  was  defined  as  "a  group  of  tones  of  various
+as  the  interval  forms  its  melodic  nucleus.  As  a  basis  for  this  classification, a  rhythmic  unit  was  defined  as  "a  group  of  tones  of  various
 lengths,  comprising  more  than  one  count  of  a  measure,  occurring
 at  least  twice  in  a  song  and  having  an  evident  influence  on  the
 rhythm  of  the  entire  song."  According  to  this  basis  of  classification
 it  was  found  that  62  per  cent  of  the  songs  contain  a  rhythmic  unit,
 whUe  in  many  other  instances  the  song  itself  possesses  a  rhythmic
-completeness  which  constitutes  it  a  unit.  One  hundred  and  ninety-
-one  songs  contain  a  rhythmic  unit,  and  in  132  songs  (69  per  cent)
-the  unit  occurs  in  the  first  measure,  showing,  as  in  Table  15,  a  direct-
-ness of  "attack."
+completeness  which  constitutes  it  a  unit.  One  hundred  and  ninetyone  songs  contain  a  rhythmic  unit,  and  in  132  songs  (69  per  cent)
+the  unit  occurs  in  the  first  measure,  showing,  as  in  Table  15,  a  directness of  "attack."
 
 There  are  four  ways  in  which  a  rhythmic  unit  is  used  to  form
 a  Chippewa  song:  First,  it  is  continuously  and  exactly  repeated
@@ -2993,8 +526,7 @@ Among  the  191  Chippewa  songs  containing  a  rhythmic  unit  there
 is  only  one  duplication,  Nos.  192  and  195  in  Bulletin  45  containing
 the  same  unit.  In  the  20  Sioux  songs  of  the  Drum-presentation
 Ceremony  the  percentage  is  much  larger,  as  the  second  rhythmic
-unit  in  song  No.  73  of  the  present  series  is  similar  to  the  unit  occur-
-ring in  No.  77.  There  is,  however,  a  division  of  a  count  fjj  which
+unit  in  song  No.  73  of  the  present  series  is  similar  to  the  unit  occurring in  No.  77.  There  is,  however,  a  division  of  a  count  fjj  which
 occurs  in  Chippewa  songs  recorded  on  a  reservation  showing  Sioux
 influence,  and  which  is  found  also  in  Sioux  songs.  This  division  of
 the  count  occurs  in  15  per  cent  of  the  songs  recorded  at  Waba'cing
@@ -3012,8 +544,7 @@ note  that  the  correspondence  between  the  music  of  the  Chippewa
 and  the  Sioux,  which  may  be  attributed  to  contact  of  the  two  tribes,
 is  rhythmic,  not  melodic.
 
-Further  evidence  of  the  rhythmic  unit  as  a' nucleus  of  Chippewa-
-song  i5  found  in  the  fact  that  some  songs  were  repeated  in  sections,
+Further  evidence  of  the  rhythmic  unit  as  a' nucleus  of  Chippewasong  i5  found  in  the  fact  that  some  songs  were  repeated  in  sections,
 
 1  John  Comfort  Fillmore,  Primitive  Scales  and  Rhythms,  in  Memoirs  of  the  International  Congress  cf
 Anthropology,  Chicago,  1894,  p.  175.
@@ -3024,20 +555,15 @@ Anthropology,  Chicago,  1894,  p.  175.
 the  singer  using  the  phrases  in  varying  oi'der,  a])|)arently  as  liis  fancy
 prompted  him.  Tliis  is  noted  in  the  analysis  of  No.  105,  and  was
 observed  especially  in  the  love  songs.  No.  100  affords  an  example
-of  a  song  the  entire  rhythm  of  which  constitutes  a  unit  that  is  com-
-plete in  itself  and  can  not  be  divided.  Such  a  song  would  become,
-in  its  repetitions,  the  rhythmic  unit  of  an  extended  musical  perform-
-ance.
+of  a  song  the  entire  rhythm  of  which  constitutes  a  unit  that  is  complete in  itself  and  can  not  be  divided.  Such  a  song  would  become,
+in  its  repetitions,  the  rhythmic  unit  of  an  extended  musical  performance.
 
 Finally,  there  is  observed  the  speed  of  voice  and  drum,  as
 indicated  by  a  Maelzel  metronome,  the  number  representing  the
-number  of  beats  per  minute.  The  method  of  adjusting  the  phono-
-graph to  secure  uniform  speed  in  recording  and  in  playing  a
+number  of  beats  per  minute.  The  method  of  adjusting  the  phonograph to  secure  uniform  speed  in  recording  and  in  playing  a
 song  has  been  already  described.  Table  20  shows  the  metric  unit
-of  the  voice,  the  indication  being  usually  for  the  time  of  a  quarter-
-note,  though  in  some  instances  a  half-note,  or  even  an  entire  measure-
-length,  was  the  only  unit  by  which  the  tone-values  could  be  deter-
-mined. It  will  be  noted  that  the  largest  percentages  of  speed  occur
+of  the  voice,  the  indication  being  usually  for  the  time  of  a  quarternote,  though  in  some  instances  a  half-note,  or  even  an  entire  measure-
+length,  was  the  only  unit  by  which  the  tone-values  could  be  determined. It  will  be  noted  that  the  largest  percentages  of  speed  occur
 on  the  numbers  96  to  104  M.  M.,  this  group  being  a  somewhat  clearer
 indication  of  the  natural  tempo  of  Chippewa  song  than  the  average
 speed  of  the  entire  collection  (107  M.  M.),  as  the  latter  is  slightly
@@ -3074,9 +600,6 @@ coinciding   on    the    first    of   each    measure.^     In    Chippewa   m
 
 
 DENSJIOUE
-
-
-CHIPPEWA    MUSIC II  13
 
 
 however,  the  two  expressions  seem  to  be  entirely  distinct.  Even
@@ -3125,8 +648,7 @@ Instituts  der  Universitat  Berlin,  Frankfurt  am  Main,  190S,  phonogramme  
 
 2  Charles  S.  Myers,  M.  A.,  M.  D.,  The  Ethnological  Study  of  Music  (in  Anthropological  Essays  Presented
 to  Edivard  Burnett  Tylor,  etc.),  p.  237:  "  Not  infrequently  the  accents  or  measures  in  the  melody  are  opposed
-to  those  in  the  accompaniment."  P.  2;5.S:  [In  polyphonic  music  of  primitive  peoples]  "different  simul-
-taneous rhythms  are  allowed  full  scope  for  independent  development.  .  .  .  Such 'heterophonic' music
+to  those  in  the  accompaniment."  P.  2;5.S:  [In  polyphonic  music  of  primitive  peoples]  "different  simultaneous rhythms  are  allowed  full  scope  for  independent  development.  .  .  .  Such 'heterophonic' music
 surely  demands  of  the  native  audience  the  .same  oscillations  of  attention  as  occur  in  us  when  we  listen
 to  two  persons  talking  simultaneously."
 
@@ -3135,12 +657,10 @@ to  two  persons  talking  simultaneously."
 
 Concerning  accuracy  of  intonation  according  to  the  piano  scale,
 there  is  wide  variance  among  singers,  as  well  as  in  some  instances,
-among  the  several  intervals  sung  by  the  same  person.  The  tran-
-scriptions of  these  songs  should  be  understood  as  indicating  the  tones
+among  the  several  intervals  sung  by  the  same  person.  The  transcriptions of  these  songs  should  be  understood  as  indicating  the  tones
 produced  by  the  singers  as  nearly  as  it  is  possible  to  indicate  them
 in  a  notation  wliich  is  familiar  by  usage  and  therefore  convenient
-for  observation.^  A  few  additional  signs  are  used  and  the  pecuhar-
-ities  which  can  not  be  expressed  graphically  are  noted  in  the  descrip-
+for  observation.^  A  few  additional  signs  are  used  and  the  pecuharities  which  can  not  be  expressed  graphically  are  noted  in  the  descrip-
 tive analyses  of  the  songs.  Where  a  variation  from  the  piano  scale
 was  marked  and  was  repeated  in  the  several  renditions  of  a  song,
 it  is  indicated  by  the  sign  +  or  —  above  the  note,  showing  the  tone
@@ -3167,8 +687,7 @@ lacking  at  the  present  time.  It  is  the  opinion  of  the  writer  that
 these  minutely  graded  tones  are  survivals  of  a  less  differentiated
 vocal  expression.  In  the  present  analysis  of  Indian  music  we  observe
 the  tones  on  which  a  purely  natural  vocal  expression  crystallizes  and
-first  coincides  with  that  system  of  tones  which  has  gradually  devel-
-oped in  the  musical  history  of  the  white  race.
+first  coincides  with  that  system  of  tones  which  has  gradually  developed in  the  musical  history  of  the  white  race.
 
 In  the  early  part  of  the  investigations  a  few  phonogi'aph  records  were
 made  which  were  found  to  be  "musically  hicoherent,"  the  tones  having
@@ -3191,21 +710,18 @@ been  a  few  instances  in  which  singers  have  tried  to  improvise  parts
 of  songs  which  they  could  not  remember  and  have  even  ''made  up
 songs  as  they  went  along."  These  attempts  were  readily  discovered
 and  the  records  discarded,  together  with  the  efforts  of  those  who,
-like  some  members  of  the  white  race,  ''could  not  carry  a  tune."  Indi-
-ans distinguish  clearly  between  competent  and  incompetent  singers,
+like  some  members  of  the  white  race,  ''could  not  carry  a  tune."  Indians distinguish  clearly  between  competent  and  incompetent  singers,
 and  when  the  purpose  of  the  writer's  work  was  fully  understood  they
 recommended  only  such  of  their  number  as  were  good  singers.
 
 The  management  of  the  breath  by  a  Chippewa  singer  is  radically
 different  from  that  of  a  member  of  the  white  race.  This  is  indicated
 by  the  fact  that  rests  occur  in  only  13  (4  per  cent)  of  the  songs,  about
-half  of  these  being  songs  of  the  ]\llde'  ceremonies,  which  are  charac-
-terized by  forcible  ejaculations.  The  Chippewa  sing  almost  con-
+half  of  these  being  songs  of  the  ]\llde'  ceremonies,  which  are  characterized by  forcible  ejaculations.  The  Chippewa  sing  almost  con-
 tinuously for  several  hours  at  a  time,  each  song  being  repeated  an
 indefinite  number  of  times.  In  some  instances  the  measure  which
 connects  the  song  and  its  repetition  is  a  complete  measure  and  is  so
-indicated  in  the  transcription,  but  in  many  others  the  song  is  com-
-pleted as  transcribed  and  the  smger  at  once  begins  the  repetition,
+indicated  in  the  transcription,  but  in  many  others  the  song  is  completed as  transcribed  and  the  smger  at  once  begins  the  repetition,
 disregarding  uniformity  of  measure-lengths.
 
 The  accents  are  clearly  given  and  never  vary  in  the  repetitions  of
@@ -3217,8 +733,7 @@ tliis  metric  unit  was  discovered  it  could  easily  be  traced  throughout
 the  song  and  its  repetitions,  and  could  be  heard  clearly  when  the
 original  speed  of  the  phonograph  was  restored.  In  the  writer's
 experience  the  metric  unit  and  the  measure-length  are  practically
-without  variation  in  the  repetitions  of  Chippewa  songs,  and  the  note-
-values  are  changed  only  when  words  are  mtroduced,  or  occasionally
+without  variation  in  the  repetitions  of  Chippewa  songs,  and  the  notevalues  are  changed  only  when  words  are  mtroduced,  or  occasionally
 in  the  closing  phrases  of  a  song,  which  are  often  without  special
 interest  or  importance.
 
@@ -3244,8 +759,7 @@ as  speaking — "I  am  a  spirit  to  be  able  to  become  visible,  I  that 
 a  male  beaver"  (Bulletin  45,  No.  34),  and  ''I  am  about  to  alight
 that  you  may  see  me"  (ibid..  No.  41).
 
-It  is  said  that  in  the  old  days  all  the  important  songs  were  "com-
-posed in  dreams,"  and  it  is  readily  understood  that  the  man  who
+It  is  said  that  in  the  old  days  all  the  important  songs  were  "composed in  dreams,"  and  it  is  readily  understood  that  the  man  who
 sought  a  dream  desired  power  superior  to  that  he  possessed.  A
 song  usually  came  to  a  man  in  his  "dream";  he  sang  this  song  in  the
 time  of  danger  or  necessity  in  the  belief  that  by  so  doing  he  made
@@ -3263,8 +777,7 @@ In  addition  to  songs  connected  with  dreams  and  with  triumphs
 gained  by  supernatural  aid,  there  are  love  songs,  and  songs  of  physical
 activity  (as  the  social  dances)  and  of  the  home  life  (as  the  songs  for
 the  entertamment  of  children).  Almost  without  exception  the  love
-songs  are  songs  of  disappointment  and  longing,  though  a  few  love-
-charm  songs  are  mcluded  among  those  of  the  Mide'  (Bulletin  45,
+songs  are  songs  of  disappointment  and  longing,  though  a  few  lovecharm  songs  are  mcluded  among  those  of  the  Mide'  (Bulletin  45,
 Nos.  71-76).
 
 The  words  of  248  songs  are  transcribed;  one- third  of  tliis  number
@@ -3302,8 +815,7 @@ DENSMORE]  CHIPPEWA    MUSIC II  17
 
 raven,  plover,  eagle,  '' thunderbird,"  and  "water-birds."  Reference
 to  water  occurs  princijjally  in  songs  of  the  Mide'wiwin,  the  emblem
-of  that  organization  being  a  shell,  and  all  its  traditions  being  asso-
-ciated with  water  and  with  aquatic  animals.
+of  that  organization  being  a  shell,  and  all  its  traditions  being  associated with  water  and  with  aquatic  animals.
 
 A  spontaneous  outburst  of  melody,  giving  expression  to  either
 joy  or  sorrow,  does  not  characterize  Chippewa  songs;  mdeed,  the
@@ -3348,16 +860,6 @@ of  various  classes,  it  is  found  that  a  minor  tonality  is  used,  pract
 without  exception,  in  songs  directly  expressing  sadness,  distress,  or
 imcertainty.  These  observations  may  have  a  bearuig  on  the  further
 study  of  the  ])sychology  of  Indian  song.
-07996°— Bull.  53—13 2
-
-
-18
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 O
@@ -3391,7 +893,6 @@ t--^
 
 ^8
 
-0
 
 E-
 
@@ -3399,7 +900,6 @@ E-
 
 rv
 
-0
 
 ■*
 
@@ -3423,7 +923,6 @@ di  s
 
 ^
 
-00
 
 ^
 
@@ -3440,21 +939,16 @@ z
 ■'
 
 Songs  for
-the  enter-
-tainment
+the  entertainment
 
 of
 children
 
 t-  *J
 
-0
-
-0
 
 ^  g
 
-6
 
 1^
 
@@ -3462,7 +956,6 @@ t-  *J
 
 •>*
 
-00
 
 ■g"
 
@@ -3478,7 +971,6 @@ r-H
 
 m
 
-00
 
 8^
 
@@ -3501,7 +993,6 @@ Cj  =a  0
 
 f^g
 
-6
 
 N
 
@@ -3519,7 +1010,6 @@ songs
 
 feg
 
-6
 
 "5
 
@@ -3531,9 +1021,6 @@ m
 
 fc-  -*-*
 
-0
-
-0
 
 C  ffi  m
 
@@ -3546,13 +1033,11 @@ Ph  S
 Hi
 1^
 
-6
 
 CC
 
 r^
 
-0
 
 Is
 
@@ -3572,13 +1057,10 @@ d
 
 ^
 
-c-
-
-o>
+co>
 
 'A
 
-0
 
 <;>
 
@@ -3598,7 +1080,6 @@ CO
 
 <?
 
-0
 
 0^  e3
 
@@ -3610,11 +1091,9 @@ x;
 
 ^g
 
-0
 
 Tl
 
-00
 
 :?;
 
@@ -3622,7 +1101,6 @@ Tl
 
 ■*
 
-00
 
 ■to
 
@@ -3634,7 +1112,6 @@ eg
 
 Cm  '^
 
-6
 
 o-
 
@@ -3722,11 +1199,9 @@ E
 
 _
 
-0
 
 0        5
 
-0
 
 r
 
@@ -3744,7 +1219,6 @@ cfl
 
 0  e;
 
-0
 
 1^
 
@@ -3754,7 +1228,6 @@ K
 
 a
 
-1
 
 &-
 
@@ -3787,7 +1260,6 @@ t^    CO     1-1     <M     <N     rt     .-
 
 ^    ^    -H
 
-05
 
 to
 
@@ -3805,7 +1277,6 @@ C^     CO
 
 S    ^  2
 
-0
 
 l-H       -^       rH
 
@@ -3830,7 +1301,6 @@ t^
 
 ®>    to
 
-00
 
 to     M     CO     j-H
 
@@ -3889,12 +1359,6 @@ c
 DKNSMORE]
 
 
-CHIPPEWA    MUSIC — II
-
-
-19
-
-
 '■2
 
 -«f
@@ -3919,7 +1383,6 @@ i-T
 
 ■<i<
 
-00
 
 §
 
@@ -3951,7 +1414,6 @@ O
 
 C^     ^     M
 
-05
 
 -J^     J-
 
@@ -3982,22 +1444,17 @@ C
 
 2  c
 
-1
-
-1
 
 .C.
 
 'E
 c
 
-1
 
 to
 
 -^
 
-1
 
 05     O     -O
 
@@ -4015,7 +1472,6 @@ S  ^
 
 »     (N
 
-00
 
 60.0
 
@@ -4026,7 +1482,6 @@ S  ^
 
 »
 
-100
 
 m
 
@@ -4051,7 +1506,6 @@ o
 
 to   CO
 
-05
 
 to    »-    «^
 
@@ -4084,8 +1538,6 @@ to    «^»    >-.
 
 S  S  2
 
-1
-1
 
 El
 
@@ -4244,12 +1696,6 @@ o    o   o   o   o
 ZZZtBcowajM
 
 
-20
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
 [BULL.  5C
 
 
@@ -4258,7 +1704,6 @@ M        ^
 
 -<
 
-1
 
 ;?
 
@@ -4417,7 +1862,6 @@ Z     D.  o   -=
 
 S    S  -5
 
-7
 
 >>
 
@@ -4484,14 +1928,6 @@ II  «  I
 1>ENSM<U!E]
 
 
-CHIPPEWA  MUSIC — II
-
-
-21
-
-
-3
-
 Pi
 
 •^t-
@@ -4504,7 +1940,6 @@ to
 
 ^
 
-05
 
 ^
 
@@ -4512,7 +1947,6 @@ oc
 
 «o
 
-1
 
 d
 
@@ -4530,15 +1964,13 @@ O    Oi    «s    ~*  o    ~*  o
 
 ■~,    o<            o,    ,^    ^     ~,        .
 
-1
 
 e^    tc   -^   "o   c<i    CO   N
 
 o«
 
 Songs  for
-the  enter-
-tainment
+the  entertainment
 
 of
 children
@@ -4553,7 +1985,6 @@ US     «<5         ■
 
 «s     «s        ;
 
-6
 
 a;
 
@@ -4563,7 +1994,6 @@ c^
 
 "  "    :
 
-00
 
 Songs
 connected
@@ -4634,7 +2064,6 @@ o   c,   o
 
 ^
 
-1
 
 ^  -  -
 
@@ -4678,7 +2107,6 @@ songs
 Sa
 (^g
 
-1
 
 d       1
 
@@ -4759,14 +2187,11 @@ C
 '      C
 
 j
-5
 
 i
-9
 
 _  1
 
-3
 
 •^^
 
@@ -4900,7 +2325,6 @@ U
 
 i
 
-3
 
 i     r
 '    T
@@ -4909,7 +2333,6 @@ i     r
 
 H      1
 
-1
 
 <
 
@@ -4938,21 +2361,9 @@ c
 :
 '  'e
 
-3
-1
-
-22
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
 
 'T3
 
-3
 
 .s
 
@@ -4961,7 +2372,6 @@ o
 
 !
 
-3
 
 "^
 
@@ -4987,8 +2397,7 @@ CO
 
 CC^HCCOCi0T-l0iC^^-*'-H^^''5^'-''0-HrHi-lOC0»H
 
-Unclassi-
-fied songs
+Unclassified songs
 
 ^8
 
@@ -5000,7 +2409,6 @@ O    -<5       ;
 
 «s
 
-6
 
 N  „    ;
 
@@ -5010,9 +2418,7 @@ CO
 
 gsfor
 
-3nter-
-
-ment
+3nterment
 
 of
 
@@ -5219,11 +2625,6 @@ d
 
 •     Oi
 
-1
-
-1
-
-1
 
 •i
 
@@ -5242,28 +2643,22 @@ S
 
 3    "
 
-3
 3    .
 
 3    '•
 
-3
 3  .
 
 ft  **
 
 3     ^
 
-3
 a  .
 
-5
 3  -
 
-3
 a
 
-3
 
 a
 g
@@ -5280,7 +2675,6 @@ s  -
 
 \  1
 
-3
 
 >
 ■i
@@ -5311,7 +2705,6 @@ P
 
 1     i
 
-0
 
 u
 
@@ -5319,16 +2712,13 @@ u
 !
 1  ■
 
-3
 
 5  .
 
 3    '
-3
 
 J
 
-3
 
 5  <
 
@@ -5359,7 +2749,6 @@ b
 
 P.
 
-6
 
 o
 o
@@ -5398,7 +2787,6 @@ s  s
 
 :>  o  <
 
-3
 
 3    ■
 
@@ -5406,15 +2794,9 @@ h
 
 i
 
-3
-
-3
-
-3
 
 i
 
-3
 
 i  .
 <
@@ -5432,10 +2814,8 @@ s
 
 0   '■
 
-3
 3    ^
 
-7
 
 ?
 
@@ -5446,26 +2826,15 @@ a    S
 
 5  ,
 
-3
 >
 J
 
-3
-
-3
-
-3
-
-3
-
-3
 
 ■8
 J
 
 15   C
 
-3
 
 -^     "
 I)   _
@@ -5476,7 +2845,6 @@ i
 
 3    .
 
-3
 
 a
 
@@ -5488,15 +2856,8 @@ a
 d~
 a
 
-8
 
 densmore]
-
-
-CHIPPEWA   MUSIC II
-
-
-23
 
 
 sj    so
@@ -5514,9 +2875,6 @@ M
 
 d
 
-00
-
-00
 
 CO
 
@@ -5538,8 +2896,6 @@ g
 
 m
 
-00
-00
 
 •o
 
@@ -5547,27 +2903,22 @@ m
 
 n    n
 
-1
 
 -3
 3,
 
-1
 
 o
 
 i
-1
 
 E
 
-1
 
 c
 '  -a
 
 i
-1
 
 O
 
@@ -5578,7 +2929,6 @@ o
 -1
 i
 
-1
 o
 
 o
@@ -5605,23 +2955,16 @@ us
 
 c-<
 
-1
-
-00
 
 vC
 
 «5
 
-00
 
 1^
 
 -^
 
-00
-
-1
 
 CO
 
@@ -5629,7 +2972,6 @@ CO
 
 to
 
-00
 
 ^*
 
@@ -5649,11 +2991,9 @@ OS
 
 o
 
-05
 
 to
 
-00
 
 -
 
@@ -5731,7 +3071,6 @@ e^
 
 lO      1-1       rM      0^       CO
 
-31
 
 Songs  containing—
 
@@ -5743,9 +3082,6 @@ d
 
 c
 
-03
-
-1
 
 >
 
@@ -5762,7 +3098,6 @@ C3
 
 CO
 
-1
 
 CS
 
@@ -5771,9 +3106,7 @@ CS
 o
 
 a>
-1
 
-1
 u
 
 -3
@@ -5782,7 +3115,6 @@ u
 
 i
 
-1
 
 ■s
 
@@ -5794,13 +3126,11 @@ i
 
 0)
 
-01
 
 C
 
 c
 
-1
 
 M
 
@@ -5809,7 +3139,6 @@ M
 .2
 o:
 
-1
 
 •3
 g
@@ -5821,7 +3150,6 @@ O
 ■3
 C
 
-1
 li
 
 C3    .Ti
@@ -5833,10 +3161,6 @@ in     '3
 
 1^
 
-1
-
-1
-1
 
 »|
 
@@ -5846,12 +3170,10 @@ li
 
 1.
 
-1
 C3
 
 o
 
-1
 
 CO
 
@@ -5862,7 +3184,6 @@ a>
 
 CO
 
-03
 
 -3
 
@@ -5877,14 +3198,10 @@ _o
 "J
 a
 
-1
-
-03
 
 ■3
 
 c
-1
 
 C3
 
@@ -5892,14 +3209,12 @@ C3
 
 O
 
-5
 
 c3
 ■3
 
 o
 
-1
 
 V
 C
@@ -5908,16 +3223,13 @@ c
 
 i
 
-03
 •3
 
-1
 
 IB
 
 a
 
-03
 •3
 
 !S
@@ -5928,10 +3240,8 @@ O
 ■3"
 1-*
 
-2
 ll
 
-02
 
 o
 
@@ -5964,12 +3274,6 @@ g  fc!
 
 
 03    rf
-
-
-24
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
 
 
 [bull.  5S
@@ -6136,7 +3440,6 @@ a;
 
 O^
 
-00
 
 ■a  c
 
@@ -6208,15 +3511,11 @@ o;
 
 (TS
 
-00
 
 ^
 
 cs
 
-00
-
-1
 
 Ob
 
@@ -6274,7 +3573,6 @@ Ol
 
 o
 
-3
 
 o
 
@@ -6336,13 +3634,11 @@ CO    oo
 
 ^    ^
 
-00
 
 p   p
 
 Tf    -1<
 
-00
 
 ^,     CO
 
@@ -6356,14 +3652,12 @@ X5     -«
 
 ^     CO
 
-1
 
 O    <3
 Us     U5
 
 <o    >o
 
-2
 
 »rS     ^
 
@@ -6393,11 +3687,9 @@ CO     T-i
 
 00     ,-
 
-05
 
 o
 
-1
 
 c
 
@@ -6408,14 +3700,12 @@ s
 5,422
 2,864
 
-00
 
 -*    CO
 Co     93
 
 U5     lO
 
-1
 
 §  §
 
@@ -6433,7 +3723,6 @@ CO     (33
 
 CO     00
 
-1
 
 §  s?
 
@@ -6480,7 +3769,6 @@ CO
 
 Co     so
 
-11
 
 Oi
 
@@ -6488,7 +3776,6 @@ C
 c
 
 d
-1
 
 c
 
@@ -6509,12 +3796,6 @@ O)     0:1     QJ
 densmork]
 
 
-CHIPPEWA   MUSIC II
-
-
-25
-
-
 25-::
 
 JJ-    00
@@ -6525,7 +3806,6 @@ T)<        -.0       00       TJ<
 
 IN
 
-10
 
 g    0    0    C>
 ^    »-i    ©:>    *-.
@@ -6540,7 +3820,6 @@ i
 
 t^    0:    t^    0    w
 
-01
 
 0    '^^    00    Oi
 
@@ -6556,7 +3835,6 @@ t^    0:    t^    0    w
 
 »^     CO     ■<(<     rt     rt
 
-2
 
 g  ^  to  to  -,  ^
 
@@ -6568,7 +3846,6 @@ m
 
 S  S  5:  2  "
 
-2
 
 ??  22  g  2   ^^
 
@@ -6600,7 +3877,6 @@ S;  5  S  g  «  CO  ^
 
 CS     rt     CO
 
-00
 
 ^  ss  ^  ^
 
@@ -6608,11 +3884,9 @@ I~     C<1     C     0     M
 
 !=  S  ^  -^
 
-0
 
 CO
 
-1
 
 C3
 
@@ -6627,9 +3901,6 @@ c
 u
 C
 
-1
-
-1
 
 u
 
@@ -6639,17 +3910,14 @@ C
 
 i
 
-1
 
 c7
 
-1
 a
 a:
 
 >
 
-1
 
 C
 
@@ -6657,7 +3925,6 @@ C
 
 I5<
 
-05
 <><
 
 -*  i^
@@ -6667,7 +3934,6 @@ I5<
 >-i
 
 i
-1
 
 OSlOOOOOt^OiCOC^M^COt^rH
 
@@ -6687,7 +3953,6 @@ CO
 
 IN
 
-2
 
 W5     --1      SO     J^     00     »-,
 
@@ -6708,7 +3973,6 @@ s
 
 ^/
 
-1
 
 r-<      CO      10       t^    ■  CO
 
@@ -6745,7 +4009,6 @@ g  2  53  S  -*  =^
 
 eq
 
-00
 
 'V3    '-H    ^<^  «^   4^    to
 
@@ -6758,7 +4021,6 @@ CM,-H»OINC0:C,-tO5
 
 rH
 
-2
 
 ISO     »^     »<3      ^^    ©J     ©*
 
@@ -6767,9 +4029,7 @@ ISO     »^     »<3      ^^    ©J     ©*
 ■M
 
 ■^ccoiior^occMOJ^
-(^   IN    -0    -j;    -n-
-
-t^
+(^   IN    -0    -j;    -nt^
 
 (N
 
@@ -6795,7 +4055,6 @@ f
 
 ■<»<
 
-05
 
 •o    »f5    00    o»    ^    (^i
 
@@ -6807,7 +4066,6 @@ OOINOON-*— |(N(N— irtCO-^
 
 <N               rt
 
-0
 
 s
 
@@ -6819,11 +4077,7 @@ C
 ii
 
 t
-1
 
-5
-
-1
 
 c
 
@@ -6833,19 +4087,8 @@ c
 
 "a
 
-1
-
-1
 
 c
-
-26
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 ►J
@@ -6908,7 +4151,6 @@ tH    ^
 
 s>  a
 
-1
 
 P-,  g
 
@@ -6920,7 +4162,6 @@ o
 
 05    00    r^
 
-6
 
 ;z;
 
@@ -6939,7 +4180,6 @@ O
 
 s
 
-6
 
 G
 
@@ -6958,7 +4198,6 @@ c
 
 i
 
-6
 
 O
 
@@ -6980,7 +4219,6 @@ _o
 
 S
 
-6
 
 Ol
 
@@ -7006,7 +4244,6 @@ pq.S
 
 a
 
-6
 
 M
 
@@ -7028,7 +4265,6 @@ _
 
 "1
 
-6
 
 S
 
@@ -7082,7 +4318,6 @@ u
 
 o
 
-1
 
 i  a  a  c
 
@@ -7090,12 +4325,6 @@ i  a  a  c
 
 
 DEN"  smoke]
-
-
-CHIPPEWA   MUSIC — II
-
-
-27
 
 
 »
@@ -7138,7 +4367,6 @@ c^
 
 <5«
 
-05
 
 *^
 
@@ -7150,7 +4378,6 @@ c^
 
 5o
 
-1
 
 •*
 
@@ -7170,19 +4397,14 @@ K5
 
 tc
 
-0
-
-00
 
 (N
 
 ~^
 
-50
 
 f^
 
-50
 
 --»■
 
@@ -7208,17 +4430,14 @@ to
 
 '
 
-0
 
 ■*
 
 t^
 
-0
 
 1^
 
-1
 
 "
 
@@ -7270,7 +4489,6 @@ s<
 
 0^1
 
-93
 
 '
 
@@ -7290,11 +4508,6 @@ M
 
 >n
 
-05
-
-05
-
-01
 
 t-
 
@@ -7327,9 +4540,7 @@ c
 
 £
 
-i-
-
-c
+ic
 
 "■  .£
 
@@ -7366,8 +4577,7 @@ c
 
 6-
 
-t-
-c
+tc
 
 £
 C
@@ -7376,7 +4586,6 @@ c
 
 '  £
 
-1
 
 6i
 
@@ -7397,7 +4606,6 @@ c
 -  £
 E
 
-0
 
 c
 £
@@ -7417,7 +4625,6 @@ c
 'E
 a
 
-1
 
 £
 
@@ -7428,19 +4635,11 @@ c
 .E
 
 ;     6;
-1
 
 i
 
-1
-
-28
-
 
 BUREAU   OP   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
 
 
 p
@@ -7461,24 +4660,17 @@ t~  ^  ^  ^
 
 N          j
 
-10
 ©j
 
 ;0     rt
 
 -
 
-00
 
 ©:>    X5    ®*
 
 •0    CM    ,-1
 
-00
-
-1
-
-1
 
 CO
 
@@ -7500,13 +4692,11 @@ t^
 
 •*   0
 
-0
 
 t~     f^     «5
 
 0   01   1-1
 
-01
 
 §  Si-
 
@@ -7520,7 +4710,6 @@ E'i
 
 -
 
-0
 
 CO
 
@@ -7542,7 +4731,6 @@ CO
 
 --
 
-88
 
 >iS     Oi     <3>i     G»>
 
@@ -7554,7 +4742,6 @@ X5    eo
 
 -^
 
-10
 
 ©»     f^     Oi     ~*    ©J
 
@@ -7570,27 +4757,17 @@ X5    eo
 
 S
 
-1
 
 £
 
 a
-1
 
-4
-
-4
-1
 
 J
 
-1
-
-1
 
 a
 
-1
 
 <1
 
@@ -7600,17 +4777,10 @@ c
 .    c
 
 i
-1
 
 >
 
 dhnsmoke]
-
-
-CHIPPEWA   MUSIC II
-
-
-29
 
 
 >
@@ -7631,15 +4801,11 @@ S
 
 t-     -H
 
-00
 
 S5     f^
 
 Hi     CO
 
-00
-
-1
 
 CO
 
@@ -7657,13 +4823,11 @@ to    -<^
 
 to    ■*
 
-0
 
 CO     GO
 
 N     t~
 
-05
 
 ^^    Co
 
@@ -7671,7 +4835,6 @@ N     t~
 
 s  «
 
-0
 
 CO
 
@@ -7686,7 +4849,6 @@ CO      CO
 
 ^^    Co
 
-01
 
 1         00     CO
 
@@ -7700,24 +4862,19 @@ o:    '<'    g     1    L-3
 
 £
 
-0
 
 g
 C
-0
 
 C3
 
-1
 
 £
 
-0
 
 s
 
 I    c
-0
 
 c
 c
@@ -7725,17 +4882,14 @@ c
 C3
 
 c
-0
 
 C
-0
 
 c
 ■0
 
 c
 
-0
 
 *»  .0
 
@@ -7755,19 +4909,16 @@ i
 
 J2
 
-8
 
 M
 
 !    0
 
-00
 
 i*»  &j
 
 rt         10
 
-00
 
 1?
 
@@ -7782,11 +4933,9 @@ CO
 ;^
 
 CO
-00
 
 "*
 
-0
 
 t-
 
@@ -7796,9 +4945,6 @@ I
 
 -
 
-0
-
-00
 
 ^
 
@@ -7820,14 +4966,11 @@ s     '^
 
 CO
 
-00
-00
 
 l§
 
 ^
 
-05
 
 CO
 
@@ -7843,54 +4986,42 @@ CO
 
 00     I    xo
 
-0
 
-5
 ti
 
 ■c
-0
 
 a^
 
-0
 C
 
 ji
-1
 
 s
 
 ■C
 C
 
-1
 
-1
-0
 a
 
 ec
 
 e
 
-0
 C
 
 L^
 CD
 
-3
 
 i
 
 c
-8
 
 s
 
 a>
-0
 
 a
 "a
@@ -7938,22 +5069,13 @@ of  four  sixteenth  notes  8
 c
 ■o
 
-0
 
 •d
 
 ■§
-8
-
-0
-
-30
 
 
 BUKEAU    OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
 
 
 ©5
@@ -7992,7 +5114,6 @@ P^g
 
 1-S
 
-6
 
 Tj<       -H
 
@@ -8001,12 +5122,10 @@ Tj<       -H
 cs
 
 fur
-ter-
-ent
+terent
 
 ren
 
-00
 
 .    'to
 
@@ -8046,7 +5165,6 @@ o
 
 •     M
 
-00
 
 8^
 
@@ -8146,7 +5264,6 @@ a  a
 
 ^*
 
-6
 
 o
 
@@ -8174,7 +5291,6 @@ dng
 
 .    un
 
-00
 
 ^
 
@@ -8218,7 +5334,6 @@ t--M
 
 ffl  a
 
-00
 
 si
 
@@ -8226,7 +5341,6 @@ fe  8
 
 S   M
 
-6
 
 2;
 
@@ -8244,10 +5358,6 @@ i !  1 1
 
 C    «   1
 
-3
-5
-
-3
 
 B     t>»    '
 
@@ -8279,7 +5389,6 @@ b
 
 ■1
 
-1
 
 o
 
@@ -8289,7 +5398,6 @@ i
 
 o
 
-3
 
 Ph
 
@@ -8297,20 +5405,17 @@ Ph
 
 a
 
-3
 
 rH      .-1      N      N      .-H      0>      •<»<
 
 hi
 
 Songs  for
-entertain-
-ment of
+entertainment of
 children
 
 Songs
-connect-
-ed with
+connected with
 gifts
 
 oj  y  "=
@@ -8343,25 +5448,14 @@ songs
 B
 
 O
-1
 
-5
-
-5
 
 g
 
 s
 
-2
 
 kens.more]
-
-
-CHIPPEWA   MUSIC II
-
-
-31
 
 
 <»
@@ -8408,7 +5502,6 @@ o»
 
 inooo-Hrtnfoi£;c^ooo«jooo'*t^MNt^oo»«m(M"3    0NNt~
 
-1
 
 ^N-H^e^r^(N^          '.
 
@@ -8490,9 +5583,7 @@ i  §
 
 i  f
 
--      t-
-
-i  s
+-      ti  s
 
 >    c
 
@@ -8510,9 +5601,7 @@ i  s
 
 5  S
 
-i    r-
-
-i    g
+i    ri    g
 
 5     C
 H     ?-
@@ -8523,9 +5612,6 @@ H     ?-
 
 e-
 
-1
-
-1
 
 ^
 
@@ -8579,12 +5665,6 @@ P.-S  33
 o  d  ^  f"
 
 
-32
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
 [BULL.  ^3
 
 
@@ -8592,17 +5672,12 @@ CO       U
 
 
 ■3
-0
 
-0
-
-3
 
 ~ij-     SI     ©<     «
 
 ^'-H-^OjOto^S*
 
-5
 
 M
 
@@ -8615,24 +5690,20 @@ N
 C-l
 
 Songs  for
-entertain-
-ment of
+entertainment of
 children
 
 -
 
 CO
 
-00
 
 Songs
-connect-
-ed with
+connected with
 gifts
 
 1-1    CT    CO
 
-00
 
 ■^i"^
 
@@ -8659,7 +5730,6 @@ S  c3  0
 
 rt     rH     W     M
 
-0
 
 III
 
@@ -8677,11 +5747,6 @@ It
 
 rHC^C<COOlOCOC^l»-Ht^rt<^lOCO
 
-0
-
-00
-
-00
 
 1  S)
 
@@ -8703,17 +5768,12 @@ rt     00
 
 ■0
 
-1
-
-1
 
 9)
 
-0
 
 IN
 
-0
 
 s
 
@@ -8727,7 +5787,6 @@ CT
 
 s
 
-0
 
 CO
 
@@ -8747,43 +5806,31 @@ CO
 
 CO
 
-1
 
 c^
 
 g
 
-0
 
 £
-0
 
 -a
 ■H
 
-0
 
 c^
 
 K
 
 ■5
-0
 
 Eh
 
 densmore]
 
 
-CHIPPEWA  MUSIC II
-
-
-33
-
-
 o
 
-93
 
 Co     00
 
@@ -8804,8 +5851,7 @@ O    --1     00     c^
 1— 1
 
 Songs  for
-the  enter-
-tainment
+the  entertainment
 
 of
 children
@@ -8821,7 +5867,6 @@ d
 
 iH      CO
 
-00
 
 ■aw
 
@@ -8838,11 +5883,9 @@ d
 
 •^  ■*
 
-00
 
 ^8
 
-1
 
 d
 
@@ -8890,12 +5933,10 @@ CO     Tf
 
 (N
 
-05
 
 •1.  60
 -1-)   g
 
-1
 
 d
 
@@ -8917,8 +5958,6 @@ d
 O     (N     T)!     o
 CM     CO     i-H     -H
 
-00
-00
 
 «  a
 
@@ -8950,7 +5989,6 @@ d
 
 1--     0>     -H     00
 
-05
 
 a
 
@@ -8986,7 +6024,6 @@ c
 
 i:
 
-1
 
 E
 
@@ -9001,11 +6038,8 @@ a
 
 T
 
-1
 
 i
-
-67996°— Bull,  53—13-
 
 
 34  BUREAU    OF   AMERICAN    ETHNOLOGY  [bui.l..53
@@ -9048,8 +6082,7 @@ DEXSMORE]  CHIPPEWA   MUSIC II  35
 nected  witli  special  "medicines."  The  latter  are  sung  by  members
 of  the  Mide'wiwin  in  connection  with  the  use  of  medicines  for  the
 curing  of  the  sick  or  the  working  of  charms,  and  also  in  the  dances
-which  follow  the  meetings  of  members,  either  for  a  feast  or  an  initia-
-tion. Throughout  these  songs  the  element  of  affirmation  is  very
+which  follow  the  meetings  of  members,  either  for  a  feast  or  an  initiation. Throughout  these  songs  the  element  of  affirmation  is  very
 strong;  indeed,  many  have  a  triumphant  tone.  The  idea  underlying
 them  all  is  the  securing  of  a  definite  result  through  supernatural  power,
 the  music  being  an  indispensable  factor.  In  the  initiation  the  desired
@@ -9058,8 +6091,7 @@ men  and  women  who  were  initiating  him,  also  the  renewal  of  the  same
 power  in  the  members  of  the  order  who  witnessed  the  ceremony,  and
 the  prolonging  of  tlieir  lives  to  old  age.  In  the  songs  connected  with
 special  "medicines"  the  purpose  to  be  accomplished  was  the  healing
-of  the  sick  and  the  producing  of  a  certain  effect  on  one  or  more  per-
-sons, as  in  the  use  of  various  "charms."  Thus  it  is  seen  that  this
+of  the  sick  and  the  producing  of  a  certain  effect  on  one  or  more  persons, as  in  the  use  of  various  "charms."  Thus  it  is  seen  that  this
 purpose  was  usually  objective,  the  effect  on  the  singer  being  only
 secondary,  that  the  means  of  securing  benefit  was  supernatural,  and
 that  the  singer  had  full  confidence  in  its  bestowal  as  well  as  in  its
@@ -9068,8 +6100,7 @@ efficacy.
 In  the  first  tal)le  of  analysis  it  is  noted  tliat  72  per  cent  of  the
 Mide'  songs  are  major  in  tonality,  this  proportion  being  the  same  as
 in  the  songs  of  the  begging  dance,  and  exceeded  only  by  the  group  of
-dream  songs,  which  contains  76  per  cent  of  major  songs.  The  propor-
-tion of  songs  begiiming  on  the  dominant  (either  the  twelfth  or  the
+dream  songs,  which  contains  76  per  cent  of  major  songs.  The  proportion of  songs  begiiming  on  the  dominant  (either  the  twelfth  or  the
 fifth)  is  70  per  cent,  the  largest  of  any  except  the  begging  dance  songs,
 which  contain  71  per  cent,  the  dream,  the  love,  and  the  moccasin
 game  songs  ranging  from  52  to  56  per  cent.  Of  songs  beginning  on
@@ -9120,8 +6151,7 @@ per  cent  and  the  latter  31  per  cent  greater.
 Here,  then,  is  a  group  of  songs  known  to  be  used  as  a  means  for
 accomplishing  a  purpose,  namely,  the  securing  of  a  definite  effect,
 usually  on  a  person  other  tlian  the  singer,  by  supernatural  power;
-and  the  characteristics  of  this  group  are  found  to  resemble  the  beg-
-ging (lance  songs  more  frequently  than  they  do  any  other  group.  A
+and  the  characteristics  of  this  group  are  found  to  resemble  the  begging (lance  songs  more  frequently  than  they  do  any  other  group.  A
 prevailing  major  tonality  is  noted,  and  the  feeling  for  the  dominant
 is  more  marked  than  for  the  tonic;  the  songs  open  with  less  directness
 of  "attack"  than  otliers,  but  contain  a  rhythmic  unit  more  frequently
@@ -9157,8 +6187,7 @@ induce  a  certain  condition  in  which  he  "saw  a  vision"  and  "composed
 a  song."  In  the  belief  of  the  Indian  fasting  is  a  condition  essential  to
 certain  classes  of  musical  composition.  It  is  a  well-known  fact  that
 in  a  condition  of  inanition  the  brain  enters  on  a  phase  of  abnormal
-activity  akin  to  that  produced  by  narcotic  stimulants.  The  com-
-position of  songs  during  or  immediately  following  an  abnormal
+activity  akin  to  that  produced  by  narcotic  stimulants.  The  composition of  songs  during  or  immediately  following  an  abnormal
 mental  state  has  been  noted  among  other  Indian  tribes.  Thus,  for
 instance,  Mr.  James  Mooney  states  that  "persons  taking  part  in  the
 ghost  dance  voluntarily  sought  the  trance  condition,  and  on  emerging
@@ -9178,8 +6207,7 @@ nature  occur  in  many  dream  songs;  these  are  considered  on  page  16.
 
 It  is  noted  that  16  per  cent  of  the  dream  songs  relate  to  flight
 through  the  air.  The  sensation  of  aviation  in  dreams,  due  to  some
-disturbance  of  the  nervous  equilibrium,  is  not  an  uncommon  ])he-
-nomenon.
+disturbance  of  the  nervous  equilibrium,  is  not  an  uncommon  ])henomenon.
 
 In  the  circumstances  attending  both  the  composition  ami  the
 use  of  the  dream  songs  the  underlying  idea  was  tliat  of  expectancy
@@ -9191,18 +6219,15 @@ hour  of  need.  Considering  this  idea  of  acquirement,  so  closely
 associated  with  the  dream  songs,  it  is  not  surprising  to  find  them,
 in  analysis,  allied  to  the  woman's  dance  songs  and  the  songs  con-
 
-•  The  writer  gratefully  acknowledges  the  assistance  of  Dr.  Ales  Hrdli6ka,  curator  of  physical  anthro-
-pology, United  States  National  Museum,  and  of  Mr.  James  Mooney  of  the  Bureau  of  American  Eth-
+•  The  writer  gratefully  acknowledges  the  assistance  of  Dr.  Ales  Hrdli6ka,  curator  of  physical  anthropology, United  States  National  Museum,  and  of  Mr.  James  Mooney  of  the  Bureau  of  American  Eth-
 nology, in  studying  the  relation  between  physiological  conditions  and  musical  expression.
 
 
 38  BUREAU   OP   AMERICAN"   ETHNOLOGY  [bull.  53
 
 nected  with  gifts.  One  of  the  principal  features  of  the  woman's
-dance  is  the  presenting  of  gifts,  an  invitation  to  dance  being  accom-
-panied by  a  gift.  Frequently  these  gifts  are  valuable  articles,  as
-ponies,  rifles,  and  beaded  garments,  and  the  dancers  wait  with  pleas-
-urable expectancy  to  know  what  presents  will  be  bestowed  on  them.
+dance  is  the  presenting  of  gifts,  an  invitation  to  dance  being  accompanied by  a  gift.  Frequently  these  gifts  are  valuable  articles,  as
+ponies,  rifles,  and  beaded  garments,  and  the  dancers  wait  with  pleasurable expectancy  to  know  what  presents  will  be  bestowed  on  them.
 
 At  this  dance  tlie  writer  has  often  observed  the  interest  witli  which
 the  Indians  watcli  a  man  who  rises  and  walks  across  the  dancing
@@ -9237,11 +6262,9 @@ In  tone  material  this  group  shows  a  difference  from  the  Mide'  and  a
 similarity  to  certain  other  groups,  51  per  cent  of  the  songs  being
 based  on  the  five-toned  scales  while  the  Mide'  shows  only  33  per
 cent  based  on  these  scales;  the  allied  groups  are  the  woman's  dance
-songs,  the  songs  connected  with  gifts,  and  the  songs  for  the  enter-
-tainment of  children,  50  per  cent  of  each  being  on  the  five-toned
+songs,  the  songs  connected  with  gifts,  and  the  songs  for  the  entertainment of  children,  50  per  cent  of  each  being  on  the  five-toned
 scales.  The  proportion  of  songs  containing  only  the  tones  of  the
-major  triad  and  sixth  is  the  largest  except  in  the  pipe  dance,  consti-
-tuting 26  per  cent  of  the  number.  The  proportion  of  songs  con-
+major  triad  and  sixth  is  the  largest  except  in  the  pipe  dance,  constituting 26  per  cent  of  the  number.  The  proportion  of  songs  con-
 taining the  octave  complete  except  the  seventh  is  only  2  per  cent,  in
 contrast  with   14  per  cent  in  the  Mide'.      The  dream  songs  differ
 
@@ -9254,10 +6277,8 @@ many  songs  are  harmonic  except  for  one  measure) ;  thus,  65  per  cent
 of  the  dream  songs  are  harmonic  in  feeling,  compared  with  23  per
 cent  in  the  Mde'  and  44  per  cent  in  the  war  songs.  In  the  proportion
 of  songs  beginning  with  a  downward  progression  this  group  is  next  to
-the  Alide',  77  per  cent  beginning  thus.  In  total  number  of  down-
-ward progressions  this  group  shows  66  per  cent,  the  same  as  the
-woman's  dance  songs  and  the  songs  connected  with  gifts.  The  pro-
-portion of  minor  thirds  in  both  ascending  and  descending  progression
+the  Alide',  77  per  cent  beginning  thus.  In  total  number  of  downward progressions  this  group  shows  66  per  cent,  the  same  as  the
+woman's  dance  songs  and  the  songs  connected  with  gifts.  The  proportion of  minor  thirds  in  both  ascending  and  descending  progression
 is  much  larger  in  this  than  in  any  other  group .  The  average  interval  is
 the  same  as  in  the  woman's  dance — 3.1  semitones,  this  being  also  the
 average  interval  of  the  entire  series.  The  beginnings  of  these  songs
@@ -9301,8 +6322,7 @@ pages  314-317.
 WAR    SONGS     (MIGA'dIWIN'     NA'GUMOWi'NUN)
 
 This  group  comprises  Nos.  122-132  and  154-172  in  Bulletin  45,
-and  Nos.  1-50,  63-66,  and  80-93  of  the  present  work.  On  the  war-
-path these  songs  wore  accompanied  by  a  small  drum  (see  pi.  7).  At
+and  Nos.  1-50,  63-66,  and  80-93  of  the  present  work.  On  the  warpath these  songs  wore  accompanied  by  a  small  drum  (see  pi.  7).  At
 the  dances  in  the  village,  preceding  the  departure  and  after  the  return
 of  a  war  party,  a  large  drum  was  used  and  the  drummers  were  seated
 around  it.  In  recent  years  the  war  songs  are  sung  at  the  social
@@ -9353,8 +6373,7 @@ movement.  The  average  interval  is  one- tenth  of  a  semitone  below
 the  average  interval  of  the  entire  series  of  songs.  Fifty-one  per  cent
 of  the  songs  begin  in  double  time,  but  this  is  not  steadily  maintained,
 66  per  cent  of  the  songs  containing  a  change  of  time.  The  triple
-rhythm  is  said  to  be  the  drum-rhythm  of  the  victory  dance,  com-
-monly known  as  the  scalp  dance;  but  this  is  fountl  in  only  35  per
+rhythm  is  said  to  be  the  drum-rhythm  of  the  victory  dance,  commonly known  as  the  scalp  dance;  but  this  is  fountl  in  only  35  per
 cent  of  the  war  songs,  42  per  cent  showing  the  even  beats  which
 characterize  the  Mde'  (see  footnote,  p.  10).  Seventy-one  per  cent
 contain  a  rhythmic  unit,  the  largest  proportion  except  in  the  IMide'.
@@ -9404,16 +6423,14 @@ were  unaccompanied  by  any  instrument,  but  lovers  frequently  played
 
 on  a  musical  instrument  commonly  called  a  flute,  but  similar  in
 construction  to  a  flageolet,  being  blown  at  the  end  instead  of  at  the
-side.^  The  instrument  is  called  hibl'gwiln.  (See  pi.  2.)  This  instru-
-ment was  procured  at  Lac  du  Flambeau,  from  a  middle-aged  woman,
+side.^  The  instrument  is  called  hibl'gwiln.  (See  pi.  2.)  This  instrument was  procured  at  Lac  du  Flambeau,  from  a  middle-aged  woman,
 who  said  it  had  belonged  to  her  grandfather.  It  is  2 1  ^  inches  long  and
 \\  inches  in  diameter.  A  test  of  the  mstrument  shows  its  lowest  tone
 to  be  about  a  quarter  tone  above  G,  second  line,  treble  clef;  in  the
 octave  above  this  the  tones  are  clear,  but  in  the  second  octave  the
 mstrument  does  not  respond.  It  is  worthy  of  note  that  the  fourth
 produced  by  this  instrument  was  less  accurate  than  other  intervals
-and  that  the  seventh  was  very  faulty  and  not  a  clear  tone.  Uncer-
-tain intonation  on  the  fourth  and  seventh  is  noted  in  Bulletin  45,
+and  that  the  seventh  was  very  faulty  and  not  a  clear  tone.  Uncertain intonation  on  the  fourth  and  seventh  is  noted  in  Bulletin  45,
 pages  4-5.  The  following  melody,  played  on  this  instrument,
 was  furnished  by  Rev.  C.  H.  Beaulieu;  it  is  said  to  be  very  old.
 
@@ -9427,24 +6444,20 @@ been  found  to  characterize  11  per  cent  of  the  love  songs  (see  No.  1
 The  love  songs  of  the  Chippewa  are  plaintive  in  character,  usually
 expressmg  sadness  and  disappointment.  Thirty  of  these  songs  have
 been  recorded  and  only  one  of  this  number  is  inspu'ed  by  happiness
-(No.  177).  The  words  of  seven  are  not  transcribed.  In  most  in-
-stances the  words,  which  are  continuous  throughout  the  melody,  were
+(No.  177).  The  words  of  seven  are  not  transcribed.  In  most  instances the  words,  which  are  continuous  throughout  the  melody,  were
 not  accurately  repeated  in  the  repetitions  of  the  songs,  but  it  has
-usually  been  possible  to  give  a  free  translation  indicating  the  char-
-acter of  the  words.  Only  one  love  song  expresses  a  promise  and  one
+usually  been  possible  to  give  a  free  translation  indicating  the  character of  the  words.  Only  one  love  song  expresses  a  promise  and  one
 a  request,  six  concern  the  departure  of  a  lover,  and  five  concern  loss
 and  longmg.  Two  express  jealousy  and  offense,  two  fickbness,  and
 two  relate  to  an  attempt  to  drown  disappointment  in  drink.  It
-has  been  already  stated  that  the  words  of  the  love  songs  are  some-
-times impromptu,  and  that  new  words  are  sometimes  fitted  to  old
+has  been  already  stated  that  the  words  of  the  love  songs  are  sometimes impromptu,  and  that  new  words  are  sometimes  fitted  to  old
 tunes,  the  general  idea  remaining  the  same.  Expression  by  means
 of  a  combination  of  words  and  music  is  much  more  free  in  the  love
 songs  than  in  any  other  group,  and  they  may  be  said  to  constitute
 a  distinct  phase  of  musical  culture  and  practice.
 
 Although  these  songs  are  indicative  of  an  unhappy  state  of  mind,
-40  per  cent  of  them  arc  major  in  tonality.  In  this  group  the  per-
-centage of  songs  beginning  on  the  octave  is  larger  tlian  in  any  other
+40  per  cent  of  them  arc  major  in  tonality.  In  this  group  the  percentage of  songs  beginning  on  the  octave  is  larger  tlian  in  any  other
 except  the  war  songs.  Eighty-six  per  cent  begin  on  either  the  tonic,
 octave,  or  dominant,  nearest  to  this  being  the  songs  of  the  begging
 dance,  which  show  85  per  cent,  and  of  the  moccasin  game,  84  per  cent.
@@ -9462,12 +6475,10 @@ and  the  songs  for  the  entertainment  of  children.  Ninety-seven  per
 cent  of  the  love  songs  have  a  compass  of  an  octave  or  more,  and
 four  songs  have  a  range  of  14  tones.
 
-The  love  songs  have  the  highest  percentage  among  songs  contain-
-ing all  the  tones  of  the  octave,  the  begging  dance  songs  ranking  next;
+The  love  songs  have  the  highest  percentage  among  songs  containing all  the  tones  of  the  octave,  the  begging  dance  songs  ranking  next;
 ths  omitted  seventh,  which  characterizes  the  war  songs,  docs  not
 appear  in  this  group,  and  the  octave  complete  except  the  second  occurs
-in  17  ])er  cent  of  the  number.  The  fivc-toned  scales  appear  less  fre-
-quently in  this  than  in  any  other  group.  In  accidentals  the  sixth  is
+in  17  ])er  cent  of  the  number.  The  fivc-toned  scales  appear  less  frequently in  this  than  in  any  other  group.  In  accidentals  the  sixth  is
 sharj^ed  more  often  than  in  any  other  group;  the  flat  third,  which
 we  are  accustomed  to  connect  with  the  idea  of  sadness,  does  not
 appear,  and  the  flatted  sixth  occurs  only  twice.  Two  songs  have  the
@@ -9480,12 +6491,10 @@ it  being  the  songs  for  the  entertamment  of  children,  which  contains
 upward  and  half  with  a  downward  progression,  the  ])roportion  being
 the  same  in  the  woman's  dance,  tlie  gift  songs,  and  the  songs  for  the
 entertainment  of  children.  The  love  songs,  so  eminently  songs  of
-sadness,  contain  a  smaller  })ercentage  of  minor  thirds  (in  both  ascend-
-ing and  descentling  progression)  than  any  other  group.  The  pro-
+sadness,  contain  a  smaller  })ercentage  of  minor  thirds  (in  both  ascending and  descentling  progression)  than  any  other  group.  The  pro-
 portion of  ascending  fifths  is  much  larger  than  in  any  other  group,
 aud  seven  ascending  intervals  of  a  twelfth  are  found,  showing,  as  in
-the  precedmg  Tables,  a  strong  feeling  for  the  dominant.  The  aver-
-age interval  Ls  3.4  semitones,  the  highest  except  in  the  moccasin
+the  precedmg  Tables,  a  strong  feeling  for  the  dominant.  The  average interval  Ls  3.4  semitones,  the  highest  except  in  the  moccasin
 game  and  tlu'.  pipe  dance  songs,  two  classes  comprising  songs  of  a
 high  degree  of  excitement,  in  whicli  the  average  interval  is  3.5.  In
 contrast  to  this  the  metric  unit  of  the  voice  is  slow.  The  proportion
@@ -9494,10 +6503,8 @@ most  of  the  songs  do  not  contam  a  rhythmic  unit.
 
 The  interval  of  the  twelfth  is  prominent,  showing  a  feeling  for  the
 second  overtone  as  in  the  IMide';  it  will  be  recalled  that  the  war  songs
-show  the  first  overtone,  which  is  the  octave.  Completeness  and  free-
-dom of  expression  are  suggested  by  the  melodic  form,  the  large  com-
-pass, and  the  use  of  all  the  tones  of  the  octave;  an  element  of  excite-
-ment by  the  largeness  of  the  average  interval,  and  an  element  of
+show  the  first  overtone,  which  is  the  octave.  Completeness  and  freedom of  expression  are  suggested  by  the  melodic  form,  the  large  com-
+pass, and  the  use  of  all  the  tones  of  the  octave;  an  element  of  excitement by  the  largeness  of  the  average  interval,  and  an  element  of
 control  by  the  slow  metric  unit,  while  a  lack  of  definitely  formed
 thought  is  suggested  by  the  small  percentage  containing  a  rhythmic
 unit.
@@ -9512,13 +6519,10 @@ MOCCASIN    GAME    SONGS    (mAKIZIN'aTA'dIWIN'    NA^GUMOWI^NUn)
 
 This  group  comprises  Nos.  142-145  and  168-176  of  Bulletin  45,
 and  Nos.  125,  126,  161-163,  and  176  of  the  present  work.  It  is  said
-that  in  the  old  days  most  of  the  moccasin  game  songs  were  "com-
-posed in  dreams"  but  only  a  few  such  are  included  in  this  series.
+that  in  the  old  days  most  of  the  moccasin  game  songs  were  "composed in  dreams"  but  only  a  few  such  are  included  in  this  series.
 
-The  instrument  used  to  accompany  these  songs  is  a  drum,  speci-
-mens of  which  vary  but  little  in  size,  provided  usually  with  deersldn
-heads  (see  pi.  3).^  With  this  drum  is  used  an  ordinary  short  drum-
-stick the  end  of  which  is  wound  with  cloth.  Small  pieces  of  tin  are
+The  instrument  used  to  accompany  these  songs  is  a  drum,  specimens of  which  vary  but  little  in  size,  provided  usually  with  deersldn
+heads  (see  pi.  3).^  With  this  drum  is  used  an  ordinary  short  drumstick the  end  of  which  is  wound  with  cloth.  Small  pieces  of  tin  are
 sometimes  set  in  the  frame  of  the  moccasin  game  drum,  to  add  a
 jingling  effect.
 
@@ -9530,12 +6534,10 @@ compass  of  less  than  an  octave,  resembling  in  this  respect  the  woman'
 dance  and  the  pipe  dance  songs.  One-third  of  the  songs  are  on  the
 second  five-toned  scale,  this  being  the  largest  proportion  in  the  entire
 collection,  the  closest  approximation  being  the  woman's  dance  songs.
-The  several  five-toned  scah^s  comprise  43  per  cent  of  the  entu'e  num-
-ber, and  apart  fi-om  these  the  group  presents  a  wide  range  of  tone
+The  several  five-toned  scah^s  comprise  43  per  cent  of  the  entu'e  number, and  apart  fi-om  these  the  group  presents  a  wide  range  of  tone
 material.  Oidy  one  song  contains  an  accidental — the  flat  sixth.
 Forty-two  per  cxnit  of  tlie  songs  are  harmonic  in  structure,  the  group
-being  exceeded  in  this  respect  ^nly  by  the  dream  songs.  The  per-
-centage of  descending  minor  thirds  is  below  the  average,  notwith-
+being  exceeded  in  this  respect  ^nly  by  the  dream  songs.  The  percentage of  descending  minor  thirds  is  below  the  average,  notwith-
 standing so  large  a  pro})ortion  of  the  songs  is  minor  in  tonality,  this
 group  resembling  the  love  songs  in  this  respect.  The  average  interval,
 which  is  the  same  as  in  the  pipe  dance  (3.5  semitones),  is  the  largest  in
@@ -9545,8 +6547,7 @@ respect  only  by  the  woman's  dance  songs  with  90  per  cent,  and  by  th
 pipe  dance  songs  with  100  per  cent.  With  the  exception  of  the
 woman's  dance  and  the  gift  songs  this  group  maintains  the  time
 throughout  the  song  more  steadily  than  any  other  group,  a  feature
-which  is  surprising  in  view  of  the  excitement  of  the  game.  Thirty-
-three  per  cent  of  the  songs  contain  a  rhythmic  unit,  the  percentage
+which  is  surprising  in  view  of  the  excitement  of  the  game.  Thirtythree  per  cent  of  the  songs  contain  a  rhythmic  unit,  the  percentage
 of  songs  in  the  entire  series  containing  such  unit  bemg  62.  In  this
 the  moccasin  game  songs  are  seen  to  be  below  the  average,  songs  for
 
@@ -9555,16 +6556,9 @@ been  renewed  from  time  to  time,  the  design  being  duplicated  on  the  n
 Odjib'we's  war  drum  (p.  62).  The  diameter  of  the  drum  shown  in  plate  3  is  ISi  inches,  the  thickness
 2i  inches.  A  single  piece  of  deerskin  forms  both  heads;  this  is  sewed  with  strips  of  hide  on  v/hich  some
 of  the  hair  remains.  Inside  the  drum  are  three  tightly  stretched  cords,  each  provided  with  small  pegs  tied
-at  equal  distances.  At  the  writer's  request  the  former  owner  of  the  drum  fastened  a  cord  across  an  ordi-
-nary hoop  (pi.  3)  in  the  same  manner  as  the  cords  are  fastened  inside  the  drum.  The  pegs  are  tied  to  the
+at  equal  distances.  At  the  writer's  request  the  former  owner  of  the  drum  fastened  a  cord  across  an  ordinary hoop  (pi.  3)  in  the  same  manner  as  the  cords  are  fastened  inside  the  drum.  The  pegs  are  tied  to  the
 cord  and  before  the  cover  of  the  drum  is  put  in  place  the  cord  is  twisted  to  increase  the  tension,  permitting
 the  pegs  to  vibrate  against  the  deerskin.
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  3
 
 
 MOCCASIN    GAME    DRUM
@@ -9585,8 +6579,7 @@ connection  it  will  be  noted  that  the  chief  concern  of  the  moccasin
 game  player  is  to  give  no  clue  to  his  thought,  thus  mentally  eluding  his
 opponents.  A  wide  range  is  shown  in  the  speed  of  both  voice  and
 drum,  and  in  comparing  the  metric  units  of  the  two  it  is  found  that
-the  drum  is  faster  than  the  voice  in  82  per  cent  of  the  songs,  the  per-
-centage for  the  entire  series  being  only  46.
+the  drum  is  faster  than  the  voice  in  82  per  cent  of  the  songs,  the  percentage for  the  entire  series  being  only  46.
 
 Thus  the  moccasin  game  songs  constitute  a  group  which  in  some
 phases  of  analysis  shows  itself  allied  to  the  groups  of  tlance  songs  (the
@@ -9609,8 +6602,7 @@ to  be  the  point  of  contact  between  the  moccasin  game  and  the  dance
 groups.  A  resemblance  to  the  love  songs  may  be  noted  in  the
 seeming  discrepancy  between  the  tonality  and  the  character  of  the
 intervals.  Perhaps  it  may  be  said  that  the^e  two  groups  have  in
-common  a  certain  elusiveness  and  whimsical  changeableness.  Direct-
-ness is  shown  in  the  accentetl  begumings  of  the  songs  and  their  endings
+common  a  certain  elusiveness  and  whimsical  changeableness.  Directness is  shown  in  the  accentetl  begumings  of  the  songs  and  their  endings
 on  the  tonic,  but  this  is  contradicted  by  the  small  percentage  of  songs
 containing  a  rhythmic  unit.  The  rhythm  of  the  drum  is  the  usual
 moccasin  game  rhythm  (see  No.  125).
@@ -9629,8 +6621,6 @@ usually  accompanied  by  a  gift.  This  dance  is  described  in  Bulletin
 dance  i§  said  to  have  been  acquired  long  ago  from  the  Sioux,  but  the
 
 
-46  BUREAU    OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 songs  ill  this  collection  are  supposed  to  have  been  composed  by
 Chippewa.  The  drum  used  to  accompany  the  woman's  dance  is  the
 large  drum  similar  to  that  used  in  the  Drum-presentation  Ceremony
@@ -9639,8 +6629,7 @@ but  less  elaborately  decorated.
 Seventy  per  cent  of  the  woman's  songs  are  minor  in  tonality,  this
 being  the  largest  proportion  of  any  group  except  the  gift  songs,
 which  show  75  per  cent.  Half  the  songs  begin  on  the  dominant  and
-one-fifth  begin  on  the  octave  above  the  tonic.  The  proportion  end-
-ing on  the  tonic  exceeds  the  average  of  the  series.  Forty  per  cent
+one-fifth  begin  on  the  octave  above  the  tonic.  The  proportion  ending on  the  tonic  exceeds  the  average  of  the  series.  Forty  per  cent
 have  a  range  of  an  octave,  and  40  per  cent  a  range  of  a  twelfth,  this
 being  the  highest  percentage  in  the  group.  Half  the  songs  are  on
 the  five-toned  scales',  this  proportion  being  the  same  as  in  the  gift
@@ -9649,15 +6638,13 @@ song  contains  an  accidental,  and  all  the  songs  are  purely  melodic  in
 structure,  the  love  songs  (93  per  cent)  being  the  nearest  rivals  in  this
 respect.  The  upward  and  downward  progressions  are  evenly  divided,
 as  in  the  love  songs  and  in  those  for  the  entertainment  of  children.
-One-fourth  of  the  intervals,  in  both  ascending  and  descending  pro-
-gression, are  minor  thirds.  It  will  be  recalled  that  the  moccasin
+One-fourth  of  the  intervals,  in  both  ascending  and  descending  progression, are  minor  thirds.  It  will  be  recalled  that  the  moccasin
 game  songs,  with  almost  the  same  proportion  of  minor  tonality,  do
 not  show  so  great  prominence  of  minor  thirds.  The  average  interval
 is  the  same  as  the  average  for  the  entire  series — 3.1  semitones,  the
 same  interval  being  shown  by  the  dream  songs.  In  definiteness  of
 beginning  these  songs  exceed  all  excei)t  the  songs  of  the  pii)e  dance,
-90  per  cent  beginning  on  the  accented  part  of  the  measure.  Conti-
-nuity of  measure-lengths  is  greater  in  this  group  than  in  any  other,
+90  per  cent  beginning  on  the  accented  part  of  the  measure.  Continuity of  measure-lengths  is  greater  in  this  group  than  in  any  other,
 40  per  cent  of  the  songs  showing  no  change  of  time.  The  triple
 drum-rhythm  occurs  with  all  the  songs.  Considering  the  definiteness
 of  beginning,  the  large  proportion  of  songs  ending  on  the  tonic,  and
@@ -9668,14 +6655,12 @@ of  children.  The  proportion  of  songs  having  the  same  metric  unit  of
 voice  and  drum  is  largest  except  in  the  pipe  dance.
 
 The  rhythm  of  the  woman's  dance  songs  is  particularly  "catchy"
-and  pleasing,  but  the  element  of  what  might  be  termed  intellectu-
-ality does  not  enter  into  this  merrymaking,  and  perhaps  this  lack  is
+and  pleasing,  but  the  element  of  what  might  be  termed  intellectuality does  not  enter  into  this  merrymaking,  and  perhaps  this  lack  is
 one  of  the  factors  essential  to  the  development  of  a  song  from  a  small
 group  of  tones.  In  tonality  we  note  a  correspondence  with  the  gift
 songs  and  recall  that  gifts  were  an  important  feature  of  the  woman's
 dance.  Simple  pleasure  allied  this  group  to  that  of  the  pipe  dance
-songs  and  the  songs  for  the  entertainment  of  children,  and  some  cor-
-responding characteristics  are  shown  by  the  analysis.
+songs  and  the  songs  for  the  entertainment  of  children,  and  some  corresponding characteristics  are  shown  by  the  analysis.
 
 The  rhythmic  imits  occurring  in  the  woman's  dance  songs  will  be
 found  on  page  328.
@@ -9692,12 +6677,10 @@ The  begging  dance,  like  the  woman's  dance,  is  said  to  have  been
 derived  from  the  Sioux.  In  the  writer's  observation  of  this  dance
 among  both  Chippewa  and  Sioux  the  large  drum  is  used;  this  is
 carried  by  two  or  three  men  as  the  begging  party  goes  from  tent  to
-tent.  This  dance  is  described  in  Bulletin  45  (p.  171)  and  its  tradi-
-tional origin  is  given  on  page  228  of  the  present  work.
+tent.  This  dance  is  described  in  Bulletin  45  (p.  171)  and  its  traditional origin  is  given  on  page  228  of  the  present  work.
 
 The  percentage  of  these  songs  in  major  tonality  is  72,  the  same
-as  in  the  Mide'  and  4  per  cent  less  than  in  the  dream  songs.  Seventy-
-one  per  cent  begin  on  the  dominant,  resembling  the  ]\llde'  songs,  in
+as  in  the  Mide'  and  4  per  cent  less  than  in  the  dream  songs.  Seventyone  per  cent  begin  on  the  dominant,  resembling  the  ]\llde'  songs,  in
 which  70  per  cent  begin  on  the  dominant.  Fourteen  per  cent  only
 begin  on  the  tonic.  The  proportion  of  songs  ending  on  the  tonic
 is  24  per  cent  below  the  average  (see  Tables  2  and  3),  indicating  a
@@ -9715,25 +6698,20 @@ concerning  motion;  it  is  considered  in  the  analysis  of  song  No.  22.
 The  average  interval  of  this  group  is  the  same  as  in  the  Mide',  and  is
 the  smallest  in  the  entire  series  except  in  the  songs  connected  with
 gifts.  The  percentage  of  songs  beginning  in  double  time  is  the  largest
-except  in  the  pipe  dance  and  the  songs  for  the  entertainment  of  chil-
-dren, and  the  time  is  more  steadily  maintained  than  in  any  except
+except  in  the  pipe  dance  and  the  songs  for  the  entertainment  of  children, and  the  time  is  more  steadily  maintained  than  in  any  except
 these  groups  and  the  unclassified  songs.  A  small  proportion  of  these
 songs  contains  a  rhythmic  unit,  the  related  groups  being  the  woman's
-dance  and  the  songs  for  the  entertainment  of  children.  The  num-
-ber of  songs  having  the  same  metric  unit  of  voice  and  drum  is  the
+dance  and  the  songs  for  the  entertainment  of  children.  The  number of  songs  having  the  same  metric  unit  of  voice  and  drum  is  the
 same  as  the  number  in  wliich  the  drum  is  faster  than  the  voice.
 
 In  the  analysis  of  the  Mide'  songs  a  similarity  between  that  group
-and  the  songs  of  the  begging  dance  was  noted  and  some  corre-
-spondence of  motive  was  traced.  In  the  analysis  of  the  begging
+and  the  songs  of  the  begging  dance  was  noted  and  some  correspondence of  motive  was  traced.  In  the  analysis  of  the  begging
 dance  songs  are  found  similarities  to  the  songs  of  the  pipe  dance
 and  the  woman's  dance,  the  songs  for  the  entertainment  of  children,
 and  the  songs  connected  with  gifts;  and  some  similarity  of  motive
 also  can  be  traced  between  these  groups.  The  purpose  of  the  begging
 dance  was,  of  course,  the  securing  of  gifts.     Underlying  the  other
 
-
-48  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 three  classes  of  songs  is  a  strong  element  of  pleasure  and  simple
 amusement.  The  woman's  dance,  with  its  exchange  of  gifts,  is
@@ -9743,15 +6721,13 @@ return  one  of  equal  value.  The  pipe  dance  is  a  ludicrous  pantomime,
 and  the  songs  for  the  entertainment  of  children  usually  end  in
 laughter.  The  element  of  pleasure  is  equally  strong  in  the  begging
 dance.  The  writer  has  seen  a  merry  party  going  from  tent  to  tent,
-singing  the  begging  dance  songs.  This  dance  forms  the  great  recrea-
-tion in  a  camp.  There  is  the  discomfiture  of  the  people  who  are
+singing  the  begging  dance  songs.  This  dance  forms  the  great  recreation in  a  camp.  There  is  the  discomfiture  of  the  people  who  are
 not  prepared  with  proper  gifts  of  food  (the  recollection  comes  to  the
 writer  of  a  woman  running  after  a  begging  dance  party  with  a  pail
 of  maple  sugar  which  she  could  not  find  when  they  were  at  her  tent),
 and  there  is  the  pleasure  of  forcing  people  to  give  who  are  not  disposed
 to  be  generous.  Added  to  these  factors  is  the  delightful  uncertainty
-as  to  the  nature  of  the  food  to  be  bestowed  and  the  pleasant  anticipa-
-tion of  the  varied  feast  to  follow.  No  one  acquainted  with  a  Chippewa
+as  to  the  nature  of  the  food  to  be  bestowed  and  the  pleasant  anticipation of  the  varied  feast  to  follow.  No  one  acquainted  with  a  Chippewa
 or  a  Sioux  camp  would  be  surprised  at  the  resemblances  shown  in  this
 analysis.
 
@@ -9807,8 +6783,7 @@ and  begging  dance.  Half  the  songs  are  on  the  five-toned  scales,  as
 in  the  woman's  dance  and  the  songs  for  the  entertainment  of  children,
 and  all  contain  the  tonic  triad.  Only  one  song  contains  an  accidental
 and  in  this  the  second  is  lowered  a  semitone.  Sixty-two  per  cent  of
-the  songs  are  purely  melodic  in  structure.  Half  begin  with  a  down-
-ward progression,  the  same  proportion  occurring  in  the  songs  of  the
+the  songs  are  purely  melodic  in  structure.  Half  begin  with  a  downward progression,  the  same  proportion  occurring  in  the  songs  of  the
 woman's  dance  and  the  songs  for  the  entertainment  of  children.  The
 minor  third  constitutes  more  than  one-fourth  of  the  intervals  in  both
 ascending  and  descending  progression.  The  average  interval  is  the
@@ -9833,8 +6808,7 @@ This  group  comprises  Nos.  149  and  197  in  Bulletin  45  and  Nos.
 51-53,  127,  179,  and  180  of  the  present  work.  Nos.  149  of  Bidletin
 45  and  No.  127  in  this  vohime  represent  different  versions  of  the
 same  song,  recorded  on  widely  separated  reservations,  which  present
-some  differences  on  analysis.  It  wiU  be  noted  that,  with  the  excep-
-tion of  the  lullaby,  all  these  songs  are  characterized  by  a  marked
+some  differences  on  analysis.  It  wiU  be  noted  that,  with  the  exception of  the  lullaby,  all  these  songs  are  characterized  by  a  marked
 sense  of  humor  and  usually  mimic  the  interests  and  occupations  of
 the  tribe.
 
@@ -9847,19 +6821,16 @@ begin  on  the  tonic  and  three-fourths  end  on  the  tonic.  Two  songs
 
 are  on  the  fifth  five-toned  scale  and  two  on  the  fourth  five-toned
 scale,  these  comprising  half  the  group.  From  two  of  the  songs  the
-third  is  omitted  (see  analysis  of  No.  53).  None  of  these  songs  con-
-tain an  accidental  and  S7  per  cent  are  purely  melodic  in  structure.
+third  is  omitted  (see  analysis  of  No.  53).  None  of  these  songs  contain an  accidental  and  S7  per  cent  are  purely  melodic  in  structure.
 Half  begin  with  a  downward  and  half  witii  an  upward  progression.
 The  minor  third  is  especially  prominent  in  the  descending  intervals.
 The  average  interval  is  tlie  same  as  in  the  war  songs,  and  we  note
 that  three  of  these  songs  are  concerned  with  a  child's  game  of  war
 and  one  with  war  between  animals.  Half  the  songs  begin  on  tlie
-accented  and  half  on  the  unaccented  part  of  the  measure.  Three-
-fourths  begin  in  2-4  time  and  the  percentage  of  songs  marked  by  a
+accented  and  half  on  the  unaccented  part  of  the  measure.  Threefourths  begin  in  2-4  time  and  the  percentage  of  songs  marked  by  a
 change  of  time  is  the  largest  except  in  the  dream  songs,  the  pipe
 dance  songs,  and  the  unclassified  songs.  Sixty-two  per  cent  contain
-no  rhythmic  unit,  this  proportion  being  exceeded  only  in  the  moc-
-casin game  songs.  In  the  rendermg  of  these  songs,  as  well  as  in
+no  rhythmic  unit,  this  proportion  being  exceeded  only  in  the  moccasin game  songs.  In  the  rendermg  of  these  songs,  as  well  as  in
 those  of  the  moccasin  game,  a  high  degree  of  excitement  prevails.
 Most  of  the  songs  were  recorded  without  the  drum;  in  one  song  drum
 and  voice  show  the  same  metric  unit,  wliile  in  another  the  drum  is
@@ -9872,8 +6843,7 @@ UNCLASSIFIED    SONGS
 
 This  group  comprises  tlie  following  songs:  Nos.  146,  147,  148,  150,
 186,  and  192-196  in  Bulletin  45,  and  Nos.  67,  68,  119-122,  165-169
-of  the  present  work.  These  songs  present  a  mde  variety  of  inter-
-est, including  s-ongs  of  the  ca'wfmo'ga  (southern)  dance,  the  divorce
+of  the  present  work.  These  songs  present  a  mde  variety  of  interest, including  s-ongs  of  the  ca'wfmo'ga  (southern)  dance,  the  divorce
 ceremony,  the  friendly  visit  of  one  band  to  another,  and  a  song
 concerning  an  historical  incident.  As  the  topics  of  the  songs  are  so
 diverse  it  does  not  seem  expedient  to  consider  the  group  as  a  unit.
@@ -9886,11 +6856,9 @@ melodic  and  rhythmic  resemblances   between   song  groups
 The  preceding  analysis  suggests  connection  between  the  idea  of  the
 song  and  its  musical  form,  and  also  indicates  resemblance  between
 groups  of  songs  containing  a  somewhat  similar  idea.  Tables  (pp.  51-58)
-have  been  prepared  in  order  that  these  resemblances  may  be  more  con-
-veniently observed.  For  instance,  it  will  be  noted  that  the  Mide'  songs
+have  been  prepared  in  order  that  these  resemblances  may  be  more  conveniently observed.  For  instance,  it  will  be  noted  that  the  Mide'  songs
 resemble  the  begging  dance  songs,  the  idea  common  to  both  being
-desire  for  acquirement,  in  the  former  for  the  acquirement  of  super-
-natural power  and  in  the  latter  for  gifts  of  food.  Turning  to  the
+desire  for  acquirement,  in  the  former  for  the  acquirement  of  supernatural power  and  in  the  latter  for  gifts  of  food.  Turning  to  the
 analysis  of  the  begging  dance  songs,  they  are  found  to  be  allied  to  the
 three  groups  of  songs  in  which  the  element  of  pleasure  is  strongest —
 the  songs  of  the  woman's  dance,  the  pipe  dance,  and  those  for  the
@@ -9976,8 +6944,7 @@ In  proportion  of  songs  in  which  drum  is  faster  than  voice
 
 2.    DREAM    SONGS
 
-General  motive  of  songs:  The  securing  of  supernatural  aid  in  per-
-sonal undertakings.
+General  motive  of  songs:  The  securing  of  supernatural  aid  in  personal undertakings.
 
 Melodic  resemhlances  of  dream  songs  to —
 Mide'  Songs
@@ -10076,8 +7043,7 @@ In  proportion  having  drum  faster  than  voice
 
 4.    LOVE    SONGS
 
-Generalcharacter  of  songs:  The  expression  of  disappointment,  loneli-
-ness, and  sadness.
+Generalcharacter  of  songs:  The  expression  of  disappointment,  loneliness, and  sadness.
 
 Melodic  resemblances  of  love  songs  to —
 Mide'  Songs
@@ -10105,8 +7071,7 @@ b,  In  average  interval
 Melodic  resemblances  of  love  songs  to —
 Woman's  Dance  Songs
 
-a,  In  relative  proportion  of  downward  and  upward  pro-
-gressions
+a,  In  relative  proportion  of  downward  and  upward  progressions
 h,  In  melodic  structure
 Begging  Dance  Songs
 
@@ -10125,8 +7090,7 @@ In  relative  number  of  downward  and  upward  progressions  •
 Songs  for  the  Entertainment  of  Children
 
 a,  In  proportion  of  songs  ending  on  tonic  or  dominant
-h,  In  relative  ])r()portion  of  downward  and  upward  progres-
-sions M
+h,  In  relative  ])r()portion  of  downward  and  upward  progressions M
 Rhythmic  reseinblances  of  love  songs  to —  ■
 Beggmg  Dance  Songs
 In  change  of  time
@@ -10135,8 +7099,7 @@ In  change  of  time
 
 5.    MOCCASIN    GAME    SONGS
 
-Elements  in  moccasin  game:  Controlled  excitement,  desire  for  suc-
-cess and  gain,  pleasure,  and  confidence  in  supernatural  aid.
+Elements  in  moccasin  game:  Controlled  excitement,  desire  for  success and  gain,  pleasure,  and  confidence  in  supernatural  aid.
 
 Melodic  resemblances  of  moccasin  game  songs  to —
 Dream  Songs
@@ -10236,8 +7199,6 @@ Songs  for  the  Entertainment  of  Children
 
 In  rhythmic  unit
 
-
-56  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
 
 7.    BEGGING   DANCE   SONGS
 
@@ -10347,8 +7308,7 @@ In  time  steadily  maintained
 
 10.    SONGS   FOR  THE    ENTERTAINMENT   OP  CHILDREN
 
-Comprising  songs  of  mimic  warfare  and  of   warfare  l)etween  ani-
-mals— two  songs  intended  only  for  amusement,  and  one  lullaby.
+Comprising  songs  of  mimic  warfare  and  of   warfare  l)etween  animals— two  songs  intended  only  for  amusement,  and  one  lullaby.
 
 Melodic  reseniblances  of  songs  for  the  entertainment  of  children  to —
 Mide'  Songs
@@ -10378,13 +7338,7 @@ a,  In  five-toned  scales
 h,  In  proportion  of  downward  and  upward  progressions
 
 
-58
-
-
 BUREAU   01'   AMERICAN   ETHNOLOGY
-
-
-[bull.  5;'.
 
 
 Rhythmic  resemblances  of  songs  for  the  entertainment  of  children  to-
@@ -10445,8 +7399,7 @@ Regulations  relating  to  Indian  affaks,  compiled  and  published  under  ord
 Washington  City,  1826.)
 
 The  meaning  of  the  word  Odjib'we  (pronounced  Ojib'way)  has  been  a  subject  of  much  discussion.  (See
-William  H.  Keating,  in  Narrative  of  an  E.xpedition  to  the  Source  of  St.  Peter's  River,  vol.  2,  p.  151,  Phila-
-delphia, 1824;  Gov.  Alexander  Ramsey,  in  Report  of  Commissioner  of  Indian  Affairs,  Washington,  1850,
+William  H.  Keating,  in  Narrative  of  an  E.xpedition  to  the  Source  of  St.  Peter's  River,  vol.  2,  p.  151,  Philadelphia, 1824;  Gov.  Alexander  Ramsey,  in  Report  of  Commissioner  of  Indian  Affairs,  Washington,  1850,
 p.  83;  and  William  W.  Warren,  in  History  of  the  Ojibways,  St.  Paul,  Minn.,  1885,  p.  36.)  The  derivation
 of  the  word  from  a  root  meaning  "to  pucker"  is  established,  but  the  connection  of  the  idea  is  a  matter  of
 dispute.  The  form  of  moccasin  to  which  some  have  attributed  the  name  is  shown  in  plate  36.  It  is  possible
@@ -10455,10 +7408,6 @@ came  many  generations  ago.
 
 2  See  description  of  song  No.  37,  p.  119.
 
-59
-
-
-60  BUREAU   OF  AMERICAN  ETHNOLOGY  [bull.  53
 
 Truly  Odjib'we  wS,s  a  musician  as  well  as  a  warrior.  More  than
 70  of  his  songs  were  recorded,  and  these  were  only  part  of  the  melodies
@@ -10493,8 +7442,7 @@ wars  against  the  Sioux,  the  two  last  named  fighting  under  Odjib'we's
 leadershij).     These  persons  furnished  the  material  in  this  section.
 
 Odjib'we  died  in  April,  1911.  Many  of  the  songs  herein  preserved
-were  known  only  to  him.  He  stood  alone,  his  preeminence  unques-
-tioned by  his  tribe  throughout  northern  Minnesota.  His  hand  was
+were  known  only  to  him.  He  stood  alone,  his  preeminence  unquestioned by  his  tribe  throughout  northern  Minnesota.  His  hand  was
 never  lifted  against  the  white  man,  but  when  war  was  glory  he  led
 his  people  to  victory  over  the  Sioux.     May  he  rest  in  peace.
 
@@ -10510,12 +7458,6 @@ Government.
 1  See  pp.  77-79.
 
 
-BUREAU    OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  4
-
-
 HOLE-IN-THE-DAY
 
 
@@ -10523,8 +7465,7 @@ DENSMORE]  CHIPPEWA   MUSIC — II  61
 
 On  August  19,  1825,  a  treaty  was  negotiated  at  Prairie  du  Chien,
 Michigan  Territory,^  in  which  the  Chippewa  and  the  Sioux  agreed
-on  a  line  of  demarkation  between  their  territories.  Tliis  line  (sur-
-veyed in  1835)  extended  diagonally  across  what  is  now  the  State  of
+on  a  line  of  demarkation  between  their  territories.  Tliis  line  (surveyed in  1835)  extended  diagonally  across  what  is  now  the  State  of
 Minnesota  from  near  the  site  of  the  present  town  of  Moorhead  to  a
 point  on  the  Saint  Croix  River  a  few  miles  above  Still  water. ^  In  spite
 of  the  agreement,  however,  the  war  parties  of  both  tribes  continued
@@ -10577,11 +7518,8 @@ Catalogue  of  the  Photographs  nf  the  United  States  Geological  Survey  of
 1873,  inclusive,  by  W.  H.  Jackson,  Washington,  1S74.
 
 
-62  BUREAU    OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 In  generalship  Odjib'we  was  distinguished  for  sound  judgment  and
-steadiness  of  purpose  rather  than  for  reckless  darmg.  Ills  war  expe-
-ditions were  successful  and  he  boasted  that  he  was  never  wounded
+steadiness  of  purpose  rather  than  for  reckless  darmg.  Ills  war  expeditions were  successful  and  he  boasted  that  he  was  never  wounded
 by  the  Sioux.
 
 Odjib'we's  prowess  won  for  him  the  right  to  wear  11  war-honor
@@ -10618,8 +7556,7 @@ was  explained  as  follows  in  the  language  of  the  interpreter:
 There  was  a  man  who  invented  the  use  of  the  drum  among  the  Indians.  The
 lightning  is  a  picture  of  his  dream,  and  the  sound  of  his  drum  was  like  the  rumble  of
 the  thunder.  When  We^nabo^jo  was  wandering  around  he  always  sent  MicFken
-("large  turtle")  on  his  errands;  so  the  large  turtle  came  to  be  considered  a  greai  war-
-rior. When  Mici^ken  went  to  war  he  had  Miskwa^des  ("small  snapping  turtle  ")  as  his
+("large  turtle")  on  his  errands;  so  the  large  turtle  came  to  be  considered  a  greai  warrior. When  Mici^ken  went  to  war  he  had  Miskwa^des  ("small  snapping  turtle  ")  as  his
 oc'kahe'uns  (messenger).  That  is  why  the  picture  of  the  lightning  and  the  turtle  is
 on  the  war  drum.  The  Indians  fought  with  bows  and  arrows,  so  a  picture  of  a  bow
 and  arrow  is  also  on  the  drum.
@@ -10631,30 +7568,12 @@ with  the  Sioux  were  ended  Odjib'we  kept  it  in  a  bag  woven  of  cedar
 Washington.
 
 
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE  5
-
-
 ODJIB'WE'S    WAR-HONOR    FEATHERS
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  6
 
 
 FRONT  BACK
 
 ODJIB'WE'S    WAR-HONOR    BADGE
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE  7
 
 
 ODJiB'WE'S    WAR    CLUB    AND    WAR     DRUM
@@ -10680,12 +7599,9 @@ wanderer,  and  a  warrior.  A  well-laiown  authority  states,^  "I  can
 not  learn  of  any  other  creature  that  is  more  thoroughly  possessed  of
 the  lust  for  blood  than  are  these  slim-bodied  little  creatures."
 
-The  principal  kinds  of  ''medicine"  carried  by  the  Chippewa  war-
-riors were  hi'jihkvuclc' -  ("cattle  herb  medicine"),  mi'nisino'vvicJc
-("island  herb  medicine"),  and  wa'huno'wuck  (" eastern  herb  medi-
-cine"). These  medicines  were  secured  by  the  warriors  from  the  old
-men  of  the  tribe,  usually  members  of  the  ^Mide'wiwm  (Grand  j\Iedi-
-cine  Society),  who  made  a  special  study  of  the  compounding  of  herbs.
+The  principal  kinds  of  ''medicine"  carried  by  the  Chippewa  warriors were  hi'jihkvuclc' -  ("cattle  herb  medicine"),  mi'nisino'vvicJc
+("island  herb  medicine"),  and  wa'huno'wuck  (" eastern  herb  medicine"). These  medicines  were  secured  by  the  warriors  from  the  old
+men  of  the  tribe,  usually  members  of  the  ^Mide'wiwm  (Grand  j\Iedicine  Society),  who  made  a  special  study  of  the  compounding  of  herbs.
 They  were  used  both  externally  and  internally  and  were  supposed  to
 have  efficacy  as  charms,  their  mere  presence  serving  as  a  protection.
 They  were  believed  also  to  "counteract  the  effect  of  bad  medicine
@@ -10704,8 +7620,7 @@ There  was  once  a  Mide^wini'ni  [male  member  of  the  Mide^wiwin]  who  dre
 that  he  saw  homed  animals  resembling  cattle,  under  the  water.  They  came  up  from
 the  water  and  talked  with  him,  telling  him  how  to  prepare  this  wonderful  medicine.
 In  order  to  persuade  them  to  return  he  composed  and  sang  a  song  (No.  22).  He  was
-a  young  man  at  the  time,  but  he  sang  this  song  until  he  was  old.  He  sang  it  when-
-ever he  dug  the  roots  or  prepared  the  hi' jikiwiicV .  Others  learned  it  from  him  and
+a  young  man  at  the  time,  but  he  sang  this  song  until  he  was  old.  He  sang  it  whenever he  dug  the  roots  or  prepared  the  hi' jikiwiicV .  Others  learned  it  from  him  and
 now  it  is  always  sung  when  this  medicine  is  prepared.
 
 It  was  customary  for  the  old  men  when  preparing  this  medicine  to
@@ -10714,8 +7629,7 @@ songs  were  sung  in  war  dances  (see  No.  23).
 
 Main'gans  used  four  ingredients  in  compounding  hi'jikiwucJc' .  The
 number  of  ingredients  was  said  to  vary  from  two  to  eight,  according
-to  the  judgment  of  the  man  proparmg  the  medicine,  but  the  prin-
-cipal herb,  that  from  which  the  medicine  took  its  nam3,  was  always
+to  the  judgment  of  the  man  proparmg  the  medicine,  but  the  principal herb,  that  from  which  the  medicine  took  its  nam3,  was  always
 present.
 
 1  Witmer  Stone  and  William  Gram,  A  merican  Animals,  Now  York,  1902,  p.  237.
@@ -10728,21 +7642,11 @@ no.  1,  pp.  40,  41,  1902.
 *  Main'gans  and  Odjib'we,  treating  the  sick,  are  shown  in  pi.  10,  Bulletin  4.').
 
 
-64
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
-
-
 Specimens  of  the  four  herbs  used  by  Main'gans  were  secured  and
 wei*e  identified  by  Dr.  J.  N.  Rose,  Division  of  Plants,  United  States
 National  Museum.     These  herbs  are  as  follows :
 
-(1)  Bi'jikiwuck'  ("cattle  herb")>  tlic  plant  from  which  the  medi-
-cine took  its  name.  This  was  said  to  be  "a  plant  a  few  inches  high
+(1)  Bi'jikiwuck'  ("cattle  herb")>  tlic  plant  from  which  the  medicine took  its  name.  This  was  said  to  be  "a  plant  a  few  inches  high
 which  grows  on  the  prairie  toward  the  west  and  is  sometimes  found  in
 sandy  soil.  The  blossoms  appear  before  the  leaves,  which  are  not
 notched  but  are  round  in  shape;  the  root  is  wliite  when  dried,  and  is
@@ -10759,10 +7663,8 @@ Doctor  Rose  is  as  follows:
 The  root  is  that  of  Polygala  senega
 L . ,  Seneca  snake-root.  ' '  The  bark
 of  the  root  is  the  most  important
-part  of  the  plant;  the  ligneous  por-
-tion is  comparatively  inert.  The
-root  possesses  various  medicinal  vir-
-tues. It  is  a  stimulant,  diuretic,  ex-
+part  of  the  plant;  the  ligneous  portion is  comparatively  inert.  The
+root  possesses  various  medicinal  virtues. It  is  a  stimulant,  diuretic,  ex-
 pectorant, purgative,  emetic,  and  a
 sudorific.  For  many  years  it  was
 used  by  the  Indians  of  our  country
@@ -10796,12 +7698,6 @@ U'jikiwljicl:'  medicine  pouch  (pi.  10)  which  he  always  carries  with  hi
 Fig.  2.    Dried  root  of  bi'jtkiwi'ick'  with  feathers  attached .
 
 
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE   10
-
-
 (.''litilitly  reduced)
 
 
@@ -10819,8 +7715,7 @@ flap  of  the  pouch  was  a  small  tied  packet  of  tlie  prmcipal  ingredien
 Main'gans  said  that  he  frequently  took  a  Httle  spoonful  of  the  powder
 from  the  pouch,  and,  suiting  the  action  to  the  word,  he  took  a  dose  of
 the  medicine  to  show  that  it  could  easily  be  swallowed  without  water.
-On  the  foUowiiig  day,  in  the  writer's  presence,  he  prepared  the  medi-
-cine in  liquid  form.  Taking  a  pail  containing  about  a  quart  of  hot
+On  the  foUowiiig  day,  in  the  writer's  presence,  he  prepared  the  medicine in  liquid  form.  Taking  a  pail  containing  about  a  quart  of  hot
 water,  he  placed  a  little  spoonful  of  the  three  mixed  ingredients  on
 the  surface  of  the  water  at  the  eastern  side  of  the  pail,  saying
 Wa'hunong  (' '  at  the  east ") ,  then  at  the  southern  side,  saying  Ca'wunong
@@ -10852,17 +7747,13 @@ medicine  contains  eight  mgredients,  said  to  be  herbs  of  about  the
 same  sort.  An  herb  called  "the  last  ingredient"  is  found  growing  in
 the  woods  at  White  Earth.
 
-Na'waji'bigo'kwe  said  that  many  years  ago  the  Sioux  were  "get-
-ting too  powerful  for  the  Chippewa,"  and  that  about  that  time  a
+Na'waji'bigo'kwe  said  that  many  years  ago  the  Sioux  were  "getting too  powerful  for  the  Chippewa,"  and  that  about  that  time  a
 man  "dreamed  of  a  thunderbird,  who  told  him  how  to  prepare  and
 use  this  medicine."  She  related  the  two  following  mcidents  of  her
 personal  experience  with  mi'nisino'wllclc:  In  the  autumn  of  IQCO  a
 member  of  her  family  was  involved  in  serious  and  complicated
 difl&culties.  She  resolved  to  help  him  by  means  of  mi'mslno'wuck.
-67996°— Bull.  53—13 5
 
-
-66  BUREAU    OF    AMERICAN   ETHNOLOGY  [bull.  53
 
 After  searching  many  weaks  in  the  woods  she  found  at  last  one  little
 root,  not  the  principal  ingredient  but  all  she  could  find.  She  took
@@ -10917,12 +7808,6 @@ Rep.  Bur.  Ethn.,  pp.  15(5,  157.
 dexsmore]
 
 
-CHIPPEWA    MUSIC II
-
-
-67
-
-
 The  three  medicines  above  dsscribed,  imparting  power  of  heaUng,
 success,  and  revenge,  respectively,  were  well  adapted  to  the  use  of
 men  on  the  warpatli.
@@ -10958,7 +7843,6 @@ not  live  long,  as  he  had  given  away  his  most  sacred  possession.
 No.  1.  Odjib^we's  Dream  Soug  (Catalogue  No.  392)
 
 Sung  by  Odjib'we
-Voice  J  =  88
 Recorded  without  drum
 
 r:
@@ -10988,10 +7872,7 @@ a
 i^
 
 
-O-  bic-ko-
-
-
-m^^^^^^^^^m^
+O-  bic-kom^^^^^^^^^m^
 
 
 na-wa-wan  i  -  m  -  ui-wo-wun
@@ -10999,9 +7880,6 @@ na-wa-wan  i  -  m  -  ui-wo-wun
 
 1  See  also  Nos.  32,  33,  34,  35,  39,  40, 41,  which  are  included  in  a  subsequent  chapter  to  illustrate  certain
 events  of  a  typical  war  expeditiou.
-
-
-68  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  5:1
 
 
 obic^kona''wawau^ when  they  shot,  they  missed
@@ -11034,8 +7912,7 @@ dancing,  and  many  speeches,  the  youths  whose  courage  was  to  be
 tested  were  seated  on  the  ground  in  a  circle,  in  the  center  of  wdiich  a
 dog  was  killed.  The  liver  was  then  removed  and  cut  into  small
 pieces,  one  of  which  was  given  each  young  man  on  a  long  stick.  If
-he  chewed  and  swallowed  the  morsel  without  flinching,  he  was  con-
-sidered brave  enough  for  the  warjiath,  but  if  he  shuddered  or  drew
+he  chewed  and  swallowed  the  morsel  without  flinching,  he  was  considered brave  enough  for  the  warjiath,  but  if  he  shuddered  or  drew
 back  he  was  deemed  faint-hearted  and  was  greeted  with  jeers  by  the
 assembly.  Odjib'we  said  that  he  endured  this  test  "without  the
 slightest  change  of  expression,"  but  that  for  many  days  afterward
@@ -11057,14 +7934,7 @@ Chippewa  custom  of  changing  the  words  of  a  song  to  fit  the  music  is
 DENRArORF.]
 
 
-CHIPPEWA   MUSIC II
-
-
-69
-
-
-to  avenge,  and  there  was  probably  in  their  minds  uncertainty  regard-
-ing their  own  fate.
+to  avenge,  and  there  was  probably  in  their  minds  uncertainty  regarding their  own  fate.
 
 Odjib'we  said  that  they  sang  the  following  song  every  one  of  the
 four  nights  they  camped.  The  words  imply  that  there  were  more
@@ -11082,9 +7952,6 @@ Drum  J^  108
 
 
 r"
-
-
-1
 
 
 3=1^=^=H^=^=1^
@@ -11197,8 +8064,7 @@ nisese^sinawa' I  make  him  bite  the  dust
 Wape^tawan  .(Sioux  word)  '  . . .   the  Wapeton  Sioux
 wabamiig' when  I  see  him
 
-Odjib'we  stated  that  he  did  not  sing  his  dream  song  on  the  expedi-
-tion which  has  just  been  described,  nor  untU  fii'st  he  was  frightened  by
+Odjib'we  stated  that  he  did  not  sing  his  dream  song  on  the  expedition which  has  just  been  described,  nor  untU  fii'st  he  was  frightened  by
 the  Sioux,  under  the  following  circumstances :  There  was  a  Chippewa
 camp  near  the  site  of  the  present  town  of  Little  Falls,  JMuinesota.
 One  day  two  men  and  then-  wives  started  from  this  village  on  a  hunting
@@ -11207,8 +8073,7 @@ saw  two  Sioux  scouts,  and  on  their  husbands'  return  so  reported  to
 them.  All  started  at  once  to  return  to  the  main  camp,  arriving  that
 evening.  One  of  the  hunters  told  Odjib'we  that  the  women  had  seen
 the  Sioux,  but  Odjib'we  thought  little  about  the  matter,  saying  the
-women  were  probably  mistaken.  As  Odjib'we  was  eating  his  break-
-fast the  next  mornmg  a  man  said  to  him,  ''Let  us  go  and  see  if  there
+women  were  probably  mistaken.  As  Odjib'we  was  eating  his  breakfast the  next  mornmg  a  man  said  to  him,  ''Let  us  go  and  see  if  there
 are  really  any  Sioux  around."  Odjib'we  consented  to  go,  but  had  so
 little  confidence  in  tlie  ti-uth  of  the  report  that  he  put  on  his  brightest
 finery,  making  himself  a  shining  mark.  Odjib'we  and  his  friend
@@ -11217,15 +8082,13 @@ the  women  said  they  had  seen  the  Sioux,  the  former  carrying  his  gun
 on  his  right  arm.
 
 Two  Sioux  were  on  the  watch,  and  when  they  saw  Odjib'we  and  his
-companion  approaching,  they  hid  in  bushes  beside  the  road;  one  car-
-ried a  spear,  the  other  a  club.  Without  warning  they  attacked  the  two
+companion  approaching,  they  hid  in  bushes  beside  the  road;  one  carried a  spear,  the  other  a  club.  Without  warning  they  attacked  the  two
 Chippewa.     The  main  body  of  Sioux  warriors  then  appeared,  some
 
 >  "The  Dakota  call  themselves  Otceti  cakowin  (Oceti  sakowig),  The  Seven  Fireplaces  or  Council-fires.
 This  designation  refers  to  their  original  gentes,  the  Mdewakantonwa"  (Mdewakag-togwag),  Waqpekute
 (Wahpe-kute),  Waqpe-to'>\van  (Walipetogwaq),  Sisitoawai  (Sisitoriwari),  Ihank-to"wa"i  (Ihariktoqwai)),
-Ihank-to"\va"na  (Ihaqktoriwarjna),  and  Tito"wa"  (Titogwai)).  .  .  .  The  Waqpe-tonwa"  or  Wahpe-
-ton  [:]  The  name  of  this  people  signifies  Village-among-the-leaves  (of  deciduous  trees),  the  gens  being  known
+Ihank-to"\va"na  (Ihaqktoriwarjna),  and  Tito"wa"  (Titogwai)).  .  .  .  The  Waqpe-tonwa"  or  Wahpeton  [:]  The  name  of  this  people  signifies  Village-among-the-leaves  (of  deciduous  trees),  the  gens  being  known
 to  the  whites  as  Leaf  Village  or  Wahpeton."— James  Owen  Doksey,  Siouan  Sociology, in  Fi/Uenth  Ann.
 Rep.  Bur.  Amer.  Ellin.,  pp.  215,  21(5.
 
@@ -11251,8 +8114,7 @@ The  following  song  (No.  3)  was  composed  by  Odjib'we  after  killing
 a  Sioux  and  was  sung  by  liim  whan  carrying  the  scalp  in  the  victory
 dance.
 
-A  small  war  party  was  organized  by  Bti'gonegi'jig  (Hole-in-the-
-day),  Odjib'we  being  one  of  the  number.  They  went  to  a  point  on
+A  small  war  party  was  organized  by  Bti'gonegi'jig  (Hole-in-theday),  Odjib'we  being  one  of  the  number.  They  went  to  a  point  on
 the  Minnesota  River  near  the  site  of  the  present  city  of  St.  Paul  and
 took  their  position  near  the  road  which  the  Sioux  would  travel  in  gomg
 from  their  village  to  the  white  settlement.  Hole-in-the-day  told  his
@@ -11260,10 +8122,8 @@ men  to  lie  in  a  row  behind  a  fallen  tree  and  gave  strict  orders  th
 they  should  await  his  signal  for  firing,  that  only  one  man  should  fire,
 and  that  no  one  should  shoot  a  woman.  In  silence  the  Chippewa  lay
 behind  the  log,  waiting  for  an  unwary  Sioux  to  pass  that  way.  Soon
-a  company  of  men  and  women  came  down  the  path,  talkmg  and  laugh-
-ing merrily.  The  warriors  watched  their  leader  but  he  gave  no  signal
-and  the  Sioux  passed  on.  Later  a  man  came  alone.  Hole-m-the-
-day  gave  the  signal  to  Odjib'we,  who  fired.  The  Sioux  staggered  and
+a  company  of  men  and  women  came  down  the  path,  talkmg  and  laughing merrily.  The  warriors  watched  their  leader  but  he  gave  no  signal
+and  the  Sioux  passed  on.  Later  a  man  came  alone.  Hole-m-theday  gave  the  signal  to  Odjib'we,  who  fired.  The  Sioux  staggered  and
 fell  on  his  side.  Odjib'we  rushed  forv/ard  and  dragged  the  man
 toward  a  clump  of  bushes,  but  his  victim  died  on  the  way.  Because  he
 caught  the  wounded  Sioux  by  the  arm  Odjib'we  was  entitled  to  wear
@@ -11283,13 +8143,7 @@ saying  that  they  "just  killed  that  man  to  let  the  Sioux  know  they
 had  been  around."
 
 
-72
-
-
 BUREAU    OF   AMEEICAN   ETHNOLOGY
-
-
-[bull.  53
 
 
 No.  3.  "An  Eagle  Feather  I  See"    .     (Catalogue  No.  346)
@@ -11317,8 +8171,6 @@ ai^igiifeii^i^iisSH
 etc.
 
 
-WORDS
-
 gini^wigwun'' an  eagle  feather  '
 
 niwa'l>ama^ I  see
@@ -11331,12 +8183,10 @@ ninde^bibina^ I  have  caught
 Analysis. — Triple  and  double  measures  alternate  throughout  this
 song.  The  first  and  second  measures  constitute  a  rhythmic  unit,  the
 tones  being  those  of  the  major  triad  of  A.  In  the  third  and  fourth
-measures  this  unit  is  repeated  on  the  minor  triad  of  F  sharp.  (Com-
-pare repetitions  of  the  rhythmic  unit  in  No.  5.)  The  remainder  of
+measures  this  unit  is  repeated  on  the  minor  triad  of  F  sharp.  (Compare repetitions  of  the  rhythmic  unit  in  No.  5.)  The  remainder  of
 the  song  consists  of  three  phrases,  each  comprising  a  triple  and  a
 double  measure;  these,  however,  are  not  repetitions  of  the  rhythmic
-unit.  The  manner  in  which  the  rhythm  of  the  rhythmic  unit  influ-
-ences the  rhythm  of  other  parts  of  the  song  is  worthy  of  observa-
+unit.  The  manner  in  which  the  rhythm  of  the  rhythmic  unit  influences the  rhythm  of  other  parts  of  the  song  is  worthy  of  observa-
 tion. Four  renditions  of  this  song  were  recorded,  the  rhythm  being
 accurately  repeated.
 
@@ -11358,12 +8208,6 @@ Odjib'we  sent  two  men  to  reconnoiter,  saying,  ''Do  not  kill  the  Sioux
 dexsmore]
 
 
-CHIPPEWA   MUSIC— II
-
-
-73
-
-
 until  after  he  has  shot  the  chicks."  Odjib'we  and  the  rest  of  his  war
 party  remained  in  conceahnent.  Soon  they  heard  the  report  of  a
 gun,  indicating  that  the  Sioux  had  shot  the  ducks.  Tlien  they  heard
@@ -11382,8 +8226,7 @@ was  in  charge  of  the  man  who  removed  it;  when  the  party  stopped
 for  their  noon  lunch  he  either  laid  the  scalp  beside  him  or  hung  it
 on  a  bush  and  forgot  it.  The  scalp  was  not  missed  until  the  party
 went  into  camp  at  night,  many  mUes  from  the  halting  place  at  noon.
-It  was  out  of  the  question  to  return  and  find  the  scalp,  so  they  com-
-posed this  song,  which  they  sang  at  home  in  the  victory  dance.
+It  was  out  of  the  question  to  return  and  find  the  scalp,  so  they  composed this  song,  which  they  sang  at  home  in  the  victory  dance.
 Mo'kadjiwens'  was  given  credit  for  taking  the  scalp,  but  mingled
 with  the  lionor  was  open  ridicule  for  having  left  it  "hanging  in  some
 marsh."
@@ -11391,7 +8234,6 @@ marsh."
 No.  4.  Song  of  a  Mislaid  Scalp  (Catalogue  No.  387)
 
 Sung  by  Odjib'we
-Voice  J—  108
 Recorded  without  drum
 
 
@@ -11487,8 +8329,7 @@ dark  and  traveled  rapidly  while  the  others  followed  slowly.  In  a
 short  time  the  scouts  came  running  back.  "What  did  you  see?"
 asked  the  warriors.  "A  wide  path,"  replied  the  scout.  "It  is  a  new
 trail.  The  Sioux  must  have  passed  to-day."  One  scout  said,  "There
-must  have  been  a  hundred;"  the  other  was  more  conservative,  esti-
-mating the  number  at  forty.
+must  have  been  a  hundred;"  the  other  was  more  conservative,  estimating the  number  at  forty.
 
 It  was  decided  to  remain  in  a  li  'e  grove  until  morning  and  then
 follow  the  Sioux  trail.  In  the  '^ay  dawn,  after  cleaning  and
@@ -11503,19 +8344,10 @@ indicated  the  number  of  warriors  present  at  this  council.     While
 2  Of.  pi.  14.
 
 
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  11
-
-
 ODJIB'WE    IN     POSTURE    OF    SCOUT
 
 
 DEXSiMdUi;]
-
-
-CHIPPEWA    MUSIC II  75
 
 
 looking  over  the  camj),  they  heard  in  the  distance  the  guns  of  the
@@ -11553,20 +8385,13 @@ ahead  to  watch  at  a  spot  where  the  Sioux  would  pass,  and  when  the
 latter  came  up,  shot  one  man.  That  was  the  beginning  of  a  hot
 fight,  which  lasted  all  day  and  until  after  nightfall;  it  was  fought
 in  the  open  with  no  jirotection  except  the  high  grass.  No  bows  and
-arrows  were  used,  both  Chippewa  and  Sioux  being  armed  with  shot-
-guns. The  fighting  was  particularly  fierce  on  both  sides.  Odjib'we
+arrows  were  used,  both  Chippewa  and  Sioux  being  armed  with  shotguns. The  fighting  was  particularly  fierce  on  both  sides.  Odjib'we
 said  that  he  was  obliged  to  "dodge  and  look  out  aU  the  time,"  and
 that  in  the  confusion  it  was  impossible  to  tell  who  killed  each  man.
 Toward  evening  No 'din  CS\dnd"),  the  Mille  Lac  chief,  was  killed,
 and  the  Chippewa  could  not  recover  his  body.  Three  Sioux  scalps
 were  secured  by  the  Chippewa.  After  the  fight  they  did  not  foUow
 the  Sioux,  but  returned  home  with  these  trophies.
-
-
-76
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
 
 
 fBurj,.  5o
@@ -11579,17 +8404,11 @@ the  warpath  again.
 No.  5.  Song  of  an  Unsatisfied  Warrior    (Catalogue  No.  391)
 
 Sung  by  OdjIb'we
-Voice  J  =  88
-Drum  J  =  88
-( Drum-rhythm  similar  to  No.  2 )
 
 
 Mi  -  sfi  -  wa  -bfin-ji
 
-1    r-
-
-
-bo  -  zi  -  yan       e
+1    rbo  -  zi  -  yan       e
 
 
 a  -  sa  -  kfim  -ig  -  dji
@@ -11654,8 +8473,7 @@ The  lower  Sioux,  who  late  in  1853  reluctantly  retired  to  their  reserv
 upper  Minnesota,  were  wont  to  return  in  summer  weather  in  straggling  companies  to
 their  old  homes.  .  .  .  Shakopee  and  his  band  of  150  had  early  in  the  summer  of  1858
 come  down  and  gone  into  camp  near  the  town  which  bears  his  name.  One  of  his
-braves,  fishing  in  the  river  (the  Minnesota)  at  an  early  hour,  was  fired  upon.  Shako-
-pee's  men  instantly  recognized  the  sound  as  coming  from  a  Chippeway  gun.  They
+braves,  fishing  in  the  river  (the  Minnesota)  at  an  early  hour,  was  fired  upon.  Shakopee's  men  instantly  recognized  the  sound  as  coming  from  a  Chippeway  gun.  They
 gathered  at  Murphy's  Ferry  and,  presuming  that  the  hostile  shot  came  from  one  of
 some  very  small  party,  they  let  their  women  put  30  or  40  of  them  across.  They  did
 not  suspect  that  back  of  the  timbered  bluff  a  mile  distant  there  lay  in  hiding  150  or
@@ -11666,8 +8484,7 @@ when  they  gave  up  the  effort  and  departed  in  haste  for  their  homes, 
 wounded  and  perhaps  some  dead.  Four  of  their  corpses  were  left  to  the  cruel  mercies
 of  the  Sioux.  .  .  .     Such  was  the  so-called  "Battle  of  Shakopee,"  May  27,  1858.
 
-An  account  of  the  fight  from  the  standpoint  of  the  native  his-
-torian is  given  by  Warrsn.^  Odjib'we's  narrative  is  given  below  in
+An  account  of  the  fight  from  the  standpoint  of  the  native  historian is  given  by  Warrsn.^  Odjib'we's  narrative  is  given  below  in
 connection  with  song  No.  8,  which  concerns  the  death  of  a  warrior  in
 the  engagement.
 
@@ -11682,14 +8499,11 @@ war  is  compared  to  a  game,  the  bodies  of  the  dead  being  its  score.
 The  charm  usually  worn  by  the  Chippewa  warrior  consisted  of  the
 skm  of  a  bird,  dried  and  filled  with  a  medicine  known  only  to  the
 wearer,  probably  an  herb  or  other  substance  suggested  to  hun  in  a
-dream.  (See  No.  28.)  This  charm  was  hung  around  the  neck  of  the  war-
-rior, who  believed  in  its  power  to  protect  him.  It  was  said  that  if,  by
-any  chance,  a  bullet  struck  this  charm  it  would  kill  the  man.  Accord-
-ing to  Ma'djigi'jig  (see  p.  84),  who  made  a  duplicate  of  the  old  war
+dream.  (See  No.  28.)  This  charm  was  hung  around  the  neck  of  the  warrior, who  believed  in  its  power  to  protect  him.  It  was  said  that  if,  by
+any  chance,  a  bullet  struck  this  charm  it  would  kill  the  man.  According to  Ma'djigi'jig  (see  p.  84),  who  made  a  duplicate  of  the  old  war
 charm  (pi.  12),  the  bird  used  m  preparing  this  charm  w^as  "the
 smallest  of  a  kind  of  bird  that  flies  at  evening;"  it  was  identified  by
-AIi\  Henry  Oldys,  of  the  Biological  Survey,  as  the  kingbu'd,  or  bee  mar-
-tin ( Tyrannus  tyrannus) .  The  characteristics  of  this  bird  may  explain
+AIi\  Henry  Oldys,  of  the  Biological  Survey,  as  the  kingbu'd,  or  bee  martin ( Tyrannus  tyrannus) .  The  characteristics  of  this  bird  may  explain
 its  use  by  Indian  warriors  in  preparing  a  charm.  "Nothmg  can  be
 more  striking  than  the  intrepidity  with  which  one  of  these  birds  will
 pounce  upon  and  harass  birds  vastly  larger  and  more  powerful  than
@@ -11700,15 +8514,6 @@ pounce  upon  and  harass  birds  vastly  larger  and  more  powerful  than
 
 3  other  songs  connected  with  the  use  of  "medicine"  are  Nos.  21,  22,  23,  24,  25,  26,  27,  28,  32,  36,  141,
 142,  143.
-
-
-78
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 itself.  The  kingbii'd  is  always  prompt  to  perceive  the  approach  of
@@ -11727,12 +8532,7 @@ No.  6.  War  Medicine  Song
 Sung  by  Niski^gwun
 
 
-(Catalogue  No.  384)
-
-
-Voice  J  =  138
 Drdm  Jrr  108
-(  Drum-rhythm  similar  to  No.  2 )
 
 I
 
@@ -11787,7 +8587,6 @@ li=^=
 
 nim-bi  -  ne  -si-wa    -  yan         ga-um    -    ba  -  ci  -  wad         e         nim-  bi  -  ne
 
-WORDS
 
 {First  rendition)
 
@@ -11803,8 +8602,7 @@ nim^bika^kwadon' my  balls
 
 Analysis. — Four  renditions  of  this  song  were  recorded.  In  two
 of  these  the  close  of  the  song  was  as  transcribed ;  the  other  renditions
-were  interrupted  several  measures  earlier  by  shrill  war  cries.  Indif-
-ference concerning  the  completion  of  a  song  has  been  noted  in  a  few
+were  interrupted  several  measures  earlier  by  shrill  war  cries.  Indifference concerning  the  completion  of  a  song  has  been  noted  in  a  few
 other  instances,  the  singer  seeming  satisfied  without  hearing  the
 final  tone.  This  suggests  tliat  the  relation  of  the  tones  to  a  keynote
 is  not  clearly  felt.  A  strong  rhythmic  sense  is  shown  by  the  accuracy
@@ -11824,12 +8622,6 @@ I
 dbnsmore]
 
 
-CHIPPEWA    MUSIC II
-
-
-79
-
-
 endured  a  vigil  of  10  days,  during  which  time  he  took  only  enough
 
 food  to  sustain  life.     The  words  are  obscure,  a  feature  characteristic
@@ -11841,9 +8633,6 @@ dream.
 No.  7.  NiskFgwun's  Dream  Song        (Catalogue  No.  386)
 
 Sung  by  Niski^gwun
-Voice  J  =  88
-Drum  J=  100
-(Drum-rhythm  similar  to  No.  2)
 
 
 "  ,^~«
@@ -11885,20 +8674,16 @@ y:
 I
 
 
-WORDS
-
 gi^jig the  heavens
 
 ni Vidji^wigo' go  with  me
 
 
 Analysis. — This  song  was  recorded  three  times;  the  transcription
-was  made  from  the  first  rendition.  In  general  character  the  song  pre-
-sents a  contrast  to  the  songs  recorded  by  Odjib'we.  The  rhythm  is  less
+was  made  from  the  first  rendition.  In  general  character  the  song  presents a  contrast  to  the  songs  recorded  by  Odjib'we.  The  rhythm  is  less
 clearly  marked.  In  it  we  find  neither  rhythmic  unit  nor  repeated
 phrase;  the  succession  of  triple  and  double  measures  is  irregular,
-and  although  the  rhythm  of  the  song  as  a  whole  has  a  certain  indi-
-viduality it  can  scarcely  be  said  to  be  complete  and  satisfactory.
+and  although  the  rhythm  of  the  song  as  a  whole  has  a  certain  individuality it  can  scarcely  be  said  to  be  complete  and  satisfactory.
 The  melody  is  based  on  a  major  triad  and  would  be  classified  as
 harmonic  except  for  the  E  flat  in  the  first  measure.  This  tone  was
 sung  firmly  and  accurately.  The  sixth  lowered  a  semitone  is  the
@@ -11916,15 +8701,6 @@ north  and  remained  behind  a  bluff,  from  the  summit  of  which  they
 could  see  the  Sioux  tipis  on  the  opposite  shore.  At  daybreak  a  band
 of  about  25  Chippewa  warriors  descended  the  bluff  and  hid  in  the
 bushes  beside  the  water;  among  the  number  were  Odjib'we  and
-
-
-80
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 Ga'witayac/  ("whirling  wind"),  a  very  brave  and  handsome  young
@@ -11948,16 +8724,12 @@ returned  to  their  camp  and  prepared  for  the  homeward  journey.
 The  wounded  were  laid  upon  litters  of  poles,  each  carried  on  the
 shoulders  of  four  men.  On  such  a  litter  Ga'witayac'  was  borne,  his
 friends  standing  around  him  as  he  sang  his  death  song.  Slowly  his
-voice  faded  away  and  in  a  few  hours  he  dietl  while  he  was  still  sing-
-ing. The  large  bear  was  his  ''manido'  animal,"  in  whose  guidance
+voice  faded  away  and  in  a  few  hours  he  dietl  while  he  was  still  singing. The  large  bear  was  his  ''manido'  animal,"  in  whose  guidance
 he  had  trusted.
 
 No.  8.  Death  Song  of  Ga'witayac'     (Catalogue  No.  338)
 
 Sung  by  Odjib^we
-Voice  J  —  92
-Drum  J=  100
-( Drum-rhythm  similar  to  No.  3)
 
 r
 
@@ -11999,9 +8771,6 @@ densmore]
 CHIPPEWA   MUSIC ^U
 
 
-81
-
-
 ki^tcimak'wa large  bear
 
 ni^waye'jimig'  ^ deceives  me
@@ -12014,26 +8783,18 @@ middle  part,  which  contains  the  words.  (See  Nos.  1,  12,  13,  30,
 39,40,81,  105.)
 
 The  song  is  major  in  tonality  and  contains  the  flatted  sixth  as  an
-accidental.  The  chords  of  the  tonic  and  submediant  form  the  frame-
-work of  this  melody,  but  the  accented  A  flat  prevents  the  classifica-
-tion of  the  song  as  purely  melodic  in  structure.  It  is  classified  there-
-fore as  "melodic  with  harmonic  framework."
+accidental.  The  chords  of  the  tonic  and  submediant  form  the  framework of  this  melody,  but  the  accented  A  flat  prevents  the  classifica-
+tion of  the  song  as  purely  melodic  in  structure.  It  is  classified  therefore as  "melodic  with  harmonic  framework."
 
 Two  songs  were  composed  concerning  this  fight  and  were  sung  in
 the  dances  which  followed  the  return  of  the  warriors.  One  of  these
-songs  recalls  the  fight  beside  the  river  and  is  said  to  have  been  com-
-posed during  the  fight.  The  struggle  continued  until  past  noon.  Five
+songs  recalls  the  fight  beside  the  river  and  is  said  to  have  been  composed during  the  fight.  The  struggle  continued  until  past  noon.  Five
 Chippewa  were  killed  and  10  wounded,  and  many  Sioux  were  killed.
 
 
 No.  9.  "On  the  Bank  of  a  Stream'
 
 Sung  by  Odjib^we
-
-
-Voice  J  —  144
-Drum  J:-:  104
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 ^     4t-
@@ -12052,9 +8813,6 @@ Drum  J:-:  104
 
 
 4:
-
-
-(Catalogue  No.  339)
 
 
 1^=^
@@ -12086,9 +8844,6 @@ gss
 a=U:
 
 
-4
-
-
 £=t
 
 
@@ -12108,10 +8863,6 @@ interval  occurs  in  only  five  other  songs  of  the  series  of  340  Chippe
 songs  (see  Nos.  170,  174  in  Bulletin  45  and  Nos.  31,  53,  125  in  the
 
 '  One  syllable  of  this  word  was  omitted  by  the  singer.
-67996°— Bull.  53—13 6
-
-
-82
 
 
 BUKEAU    OF   AMERICAN    ETHNOLOGY
@@ -12126,12 +8877,10 @@ and  No.  53  the  song  before  a  boys'  fight.  The  character  of  these
 songs  suggests  a  correspondence  between  the  mental  state  of  the
 singer  and  the  initial  intervals  of  the  songs.  The  tonality  of  the
 present  song  is  minor,  but  the  tonic  does  not  appear  until  the  nmth
-measure,  the  opening  being  based  on  the  major  third,  which  consti-
-tutes the  upper  part  of  the  tonic  triad.  This  opening  is  noted  in
+measure,  the  opening  being  based  on  the  major  third,  which  constitutes the  upper  part  of  the  tonic  triad.  This  opening  is  noted  in
 five  other  songs  of  the  present  series  (Nos.  1,  34,  83,  94,  120).  Four
 of  these  are  songs  of  war  or  of  dances  connected  with  war  and  one
-concerns  thunderbirds.  In  a  less  marked  degree  it  occurs  in  the  fol-
-lowing songs  in  Bulletm  45:  Mide'  songs  Nos.  51,  54,  59,  69,  79,  and
+concerns  thunderbirds.  In  a  less  marked  degree  it  occurs  in  the  following songs  in  Bulletm  45:  Mide'  songs  Nos.  51,  54,  59,  69,  79,  and
 war  song  No.  130.
 
 At  the  close  of  this  song  we  fuid  the  progression  8-7-8,  which
@@ -12149,21 +8898,12 @@ rhythm  of  the  song  as  a  whole.  The  metric  unit  was  mamtained
 with  less  regularity  m  this  than  in  the  majority  of  the  songs.
 
 The  second  song  concernmg  this  fierce  fight  calls  to  mind  the  grief
-of  the  Sioux.  Odjib'we  said  he  remembered  the  Sioux  women  fol-
-lowing them  across  the  river,  crying,  and  cursing  the  Chippewa.
+of  the  Sioux.  Odjib'we  said  he  remembered  the  Sioux  women  following them  across  the  river,  crying,  and  cursing  the  Chippewa.
 
 
 No.  10.  "At  Ca'gobgns'  Village"
 
 Sung  by  Odjib^we
-
-
-(Catalogue  No.  337)
-
-
-Voice  J=  100
-Drum  J—  108
-(Drum-rhythm  similar  to  No.  3)
 
 
 m
@@ -12223,19 +8963,12 @@ S=
 ^H
 
 
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN  53     PLATE  13
-
-
 (Copyriglu  by  Sweet  .Stndit>,  Miniieiii)olis,  Miiiii.
 MEJA'KIGI'JIG
 
 
 DENSMOKE]  CHIPPEWA    MUSIC II  83
 
-WORDS
 
 ( First  rendition)
 
@@ -12263,8 +8996,7 @@ minor  in  tonahty  and  by  the  tonic  appearing  in  the  first  measure.
 which  is  complete  in  itself  and  is  not  repeated;  the  last  six  measures
 also  have  a  rhythm  of  their  own  and  may  be  said  to  constitute  an
 answering  phrase.  Between  these  sections  is  the  part  of  the  song
-containing  the  words.  This  is  not  strongly  accented,  though  the  note-
-values  are  the  same  in  all  the  renditions.  The  transcri])tion  contams
+containing  the  words.  This  is  not  strongly  accented,  though  the  notevalues  are  the  same  in  all  the  renditions.  The  transcri])tion  contams
 the  first  half  of  the  words,  the  remainder  being  given  with  a  second
 rendition  of  the  song.
 
@@ -12278,8 +9010,7 @@ THE    child's    dream    OF    WAR
 
 (By  Meja^kigi^jig)
 
-Meja'kigi'jig '  (pi.  13),  chief  of  the  White  Earth  Chippewa,  fur-
-nished, in  June,  1911,  the  following  narrative  of  his  chUdish  dreams
+Meja'kigi'jig '  (pi.  13),  chief  of  the  White  Earth  Chippewa,  furnished, in  June,  1911,  the  following  narrative  of  his  chUdish  dreams
 and  their  fulfillment.  He  stated  at  that  time  that  he  was  the  sole
 survivor  of  the  representatives  of  the  tribe  who  selected  White  Earth
 for  the  abode  of  the  Chippewa  under  the  terms  of  the  treaty  of  1867.
@@ -12297,8 +9028,6 @@ dream  of  something  which  should  enable  him,  a  boy  of  7  years,  to
 man  the  name  of  the  chief  was  explained  to  him  by  the  old  Indians  as  meaning  "the  sky  over  all  the  earth,
 coming  down  to  the  earth  at  the  horizon."
 
-
-84  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 kill  a  Sioux.  Tlie  older  people  told  him  to  "go  to  sleep  and  be  good,"
 but  his  young  mind  was  filled  with  thoughts  of  war.  He  refused
@@ -12324,8 +9053,7 @@ of  his  career.  With  confidence  he  joined  the  warriors,  and  his  faith
 in  his  dream  remained  unshaken  and  at  last  the  day  came  when  he
 held  aloft  three  Sioux  scalps.
 
-Thus  the  boy,  grown  to  manhood,  avenged  his  father's  death  accord-
-ing to  the  custom  of  his  people.
+Thus  the  boy,  grown  to  manhood,  avenged  his  father's  death  according to  the  custom  of  his  people.
 
 THE   TRAINING    OF   YOUNG   WARRIORS
 
@@ -12351,9 +9079,6 @@ rice,  either  parched  or  only  partially  cooked,  and  seasoned  slightly
 with  maple  sugar.  Sometimes  they  were  given  dried  fish  or  tough
 smoked  meat  and  occasionally  lean  fresh  meat  hai'dly  seared  before
 the  fire.
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
 
 
 3ULLETIN   53     PLATE   14
@@ -12409,8 +9134,7 @@ a  snake.
 Ma'djigi'jig  related  the  story  of  an  attack  on  a  Sioux  village,  which
 took  place  during  his  first  war  expedition.  At  dusk  the  leader  of  the
 party  sent  several  experienced  men  to  reconnoiter.  Under  cover  of
-night  they  approached  the  Sioux  village,  counted  the  tipis,  and  esti-
-mated the  number  of  warriors.  Soon  after  midnight  they  returned
+night  they  approached  the  Sioux  village,  counted  the  tipis,  and  estimated the  number  of  warriors.  Soon  after  midnight  they  returned
 and  made  their  report.  Preparations  for  a  march  were  begun  at
 once  and  just  before  daybreak  the  Chippewa  drew  near  the  Sioux
 village.  The  leader  then  called  for  the  wind  and  the  \vind  came.
@@ -12418,8 +9142,6 @@ The  Sioux  heard  the  wind  singmg  through  the  tipi  poles,  and  the
 flapping  of  the  tipi  canvas,  but  they  did  not  hear  the  soft  tread  of  the
 Chippewa  as  the  latter  entered  the  camp.     The  Chippewa  lowered
 
-
-86  .  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull,  53
 
 their  guns,  aiming  at  the  places  where  the  Sioux  lay  asleep.  When
 all  was  ready  one  of  the  warriors  blew  a  quavering  note  on  a  tiny
@@ -12430,8 +9152,7 @@ the  head  of  a  Sioux  from  his  body  and  ran  away  with  it,  removing  t
 scalp  afterward.  Three  or  four  scalps  were  sometimes  cut  from  one
 head.  The  term  "scalp  lock,"  however,  was  applied  to  the  lock
 situated  just  back  of  the  crown.  As  this  is  the  only  spot  at  which
-the  scalp  adheres  closely  to  the  skull,  the  scalp  lock  is  especially  diffi-
-cult to  remove,  but  a  skillful  warrior  could  do  so  with  one  motion  of
+the  scalp  adheres  closely  to  the  skull,  the  scalp  lock  is  especially  difficult to  remove,  but  a  skillful  warrior  could  do  so  with  one  motion  of
 his  knife.  He  then  slipped  the  end  of  the  hair  beneath  the  string
 which  held  his  breechcloth,  and  the  scalp  dangled  at  the  victor's  side.
 If  a  war  party  ran  short  of  ])rovisions  the  leader  selected  a  place  to
@@ -12441,8 +9162,7 @@ smoked  again.  At  length  he  pointed  in  a  certain  direction  and  said,
 supplied  with  meat.  Ma'djigi'jig  said  he  had  known  this  to  occur
 many  times.  He  stated  also  that,  before  attacking  a  Sioux  vjllage,
 the  leader  of  a  war  party  frequently  "called  on  the  thunderbird  to
-send  rain,"  in  order  that  the  Sioux  would  remain  at  home,  not  chang-
-ing their  camp  or  wandering  in  the  vicinity,  where  they  might  detect
+send  rain,"  in  order  that  the  Sioux  would  remain  at  home,  not  changing their  camp  or  wandering  in  the  vicinity,  where  they  might  detect
 the  approach  of  the  Chippewa.
 
 THE    WAR    BADGE
@@ -12452,8 +9172,7 @@ THE    WAR    BADGE
 A'kiwen'zi  ("old  man")  wore  proudly  the  double  insignia  of  his
 success  as  a  warrior — feathers  in  his  headdress  and  skunk  skins
 attached  to  his  ankles  (pi.  15).  Even  at  his  advanced  age  he  was  so
-lithe  and  agUe  in  the  dance  that  one  could  readily  believe  his  state-
-ment that  as  a  warrior  he  was  distinguished  for  fleetness  of  foot.
+lithe  and  agUe  in  the  dance  that  one  could  readily  believe  his  statement that  as  a  warrior  he  was  distinguished  for  fleetness  of  foot.
 Two  of  his  war-]ionor  feathers  w^ere  won  at  the  memorable  fight  at
 Ca'gobens'  vUlage  (see  p.  79).  After  that  fight  there  were  many
 dead  and  wounded  Sioux  lying  on  the  ground.  He  kicked  one  of  the
@@ -12466,12 +9185,6 @@ his  ankle.  In  June,  1911,  A'kiwen'zi  was  living  on  the  Wliite  Earth
 Reservation.  There  he  and  his  war  comrades  frequently  joined  in
 social  dances  with  their  old  enemies,  and  again  smoked  the  pipe  of
 peace  with  the  Sioux.
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  15
 
 
 A'KIWEN'21
@@ -12499,7 +9212,6 @@ smoking  the  pipe.
 No.  11.  Song  of  the  War  Messenger      (Catalogue  No.  358)
 
 Sung  by  Odjib^we
-Voice  J  —  100
 Drum  Jr=92
 (  See  drum-rhythm  below )
 
@@ -12561,12 +9273,6 @@ no- SIS  nin-do  -pwa-gfin
 etc
 
 
-87
-
-
-88
-
-
 BUP.RATT    OF    AMERICAN    ETHNOLOGY
 
 
@@ -12580,8 +9286,7 @@ nin'dopwa^gun my  pipe
 no'sis my  grandchild
 
 Analysis. — The  drum-rhythm  of  this  song  is  unusual;  it  consists  of
-an  accented  stroke  followed  by  a  short  unaccented  stroke  correspond-
-ing to  the  second  count  of  a  triplet.  The  metric  unit  of  the  (bum  is
+an  accented  stroke  followed  by  a  short  unaccented  stroke  corresponding to  the  second  count  of  a  triplet.  The  metric  unit  of  the  (bum  is
 slightly  slower  than  that  of  the  voice.  Four  renditions  of  the  song
 were  secured,  throughout  which  the  rhythmic  unit  was  mauitained
 with  great  regularity,  though  the  intonation  varied  perceptibly.
@@ -12599,9 +9304,6 @@ No.  12.  Return  of  the  War  Messenger   (Catalogue  No.  359)
 
 Sung  by  Odjib^we
 Voice  j=z  192
-Drum  J  =  100
-
-(Drum-rhythm  similar  to  No.  11 )
 
 
 O   -   gi  -   tci
@@ -12658,14 +9360,7 @@ in  the  third  part,  which  has  a  different  rhythm.  (See  Nos.  1,  8,  13
 PEN'S  more!
 
 
-CHIPPEWA  MUSIC — II
-
-
-89
-
-
-ceding  song.     The  descending  interval  of  the  minor  third  occurs  fre-
-quently, and  the  song  is  distinctly  minor  in  tonahty.
+ceding  song.     The  descending  interval  of  the  minor  third  occurs  frequently, and  the  song  is  distinctly  minor  in  tonahty.
 
 In  a  short  time  the  warriors  arrived  and  camped  near  the  lodge
 of  the  leader.  A  feast  was  given  by  the  leader,  at  which  he  explained
@@ -12683,9 +9378,6 @@ SunK  by  Odjib'we
 
 Voice  J_  160
 
-Drum  J— 104
-
-(  Drum-rhythm  similar  to  No.  3  )
 
 r
 
@@ -12736,10 +9428,7 @@ win  nin-ca  -  gwe  -  ni-  mu   -  si       ka  -  win  nin  -  ca  -  gwe-  i
 '-Hi  lt^ — ^-^-^ — r
 
 
--Ji-fi—ff-
-
-
-ifEEE^p^Ef
+-Ji-fi—ffifEEE^p^Ef
 
 
 1=:1==
@@ -12759,7 +9448,6 @@ a
 
 win  nin-ca  -  gwe  -  ni-mu   -  si        ka-win    nin-ca  -  gwe  -  ni-mu  -  si
 
-WORDS
 
 ^'^^^^"' -.; I  Ifeelnofear
 
@@ -12777,21 +9465,10 @@ Mississippi  Band  of  Chippewa,
 s  Tlie  last  syllable  is  divided  and  also  changed,  to  fit  the  music.
 
 
-90
-
-
-BUREAU    OF   AMERICAN"   ETHNOLOGY
-
-
-[BULL.  53
-
-
-Analysis. — This  is  the  first  song  recorded  by  Odjib'we.  Four  ren-
-ditions were  secured  and  found  to  be  uniform.  The  first  two  were
+Analysis. — This  is  the  first  song  recorded  by  Odjib'we.  Four  renditions were  secured  and  found  to  be  uniform.  The  first  two  were
 without  the  drum;  these  were  followed  by  a  pause,  during  which  it  was
 explained  to  the  singer  that  the  drum  was  desired;  he  then  resumed
-his  singing  with  the  accompaniment  of  that  instrument.  On  com-
-parison it  is  found  that  the  pitch  and  metric  unit  of  the  two  parts
+his  singing  with  the  accompaniment  of  that  instrument.  On  comparison it  is  found  that  the  pitch  and  metric  unit  of  the  two  parts
 of  the  record  are  identical.  This  ability  to  resume  his  song  in  the
 same  tempo  is  the  more  interesting  when  we  note  the  discrepancy
 between  the  metric  units  of  voice  and  drum.
@@ -12806,8 +9483,7 @@ songs.  The  flatted  seventh  also  occurs,  which  strengthens  the  phrase.
 The  song  is  grim  in  its  suggestion,  yet  it  is  major  in  tonality  and
 cheerful  in  its  rhythm.
 
-The  following  song  was  sung  at  the  dances  preceding  a  war  expedi-
-tion. It  contains  the  name  of  a  man  who  once  stayed  at  home,  and
+The  following  song  was  sung  at  the  dances  preceding  a  war  expedition. It  contains  the  name  of  a  man  who  once  stayed  at  home,  and
 was  intended  to  shame  all  who,  without  proper  excuse,  failed  to  join
 the  warriors.
 
@@ -12847,8 +9523,6 @@ efeag^jsjfr^dE^-
 wfi-U  go   -  cH   o-don-da  -   me-ni-man
 
 
-WORDS
-
 mi'nodj although
 
 Jiiigwa'be Jingwa'loe  (man's  name;  meaning,  "man
@@ -12866,14 +9540,7 @@ gocix' certainly
 odon^dame^niman^ takes  all  his  attention
 
 
-1  The  initial  g  of  the  fourth  word  in  the  music  is  carried  over  from  the  ii,  the  final  letter  of  the  pre-
-ceding word— an  example  of  elision  by  Chippewa  singers.
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE   16
+1  The  initial  g  of  the  fourth  word  in  the  music  is  carried  over  from  the  ii,  the  final  letter  of  the  preceding word— an  example  of  elision  by  Chippewa  singers.
 
 
 CHIPPEWA    WAR     BANNER
@@ -12923,9 +9590,6 @@ were  prepared  to  meet  the  full  fortune  of  war,  whether  death  or
 worse,  at  the  hands  of  the  enemy.
 
 
-92
-
-
 BUREAU   or   AMERICAN   ETHJSTOLOGY  [bdll.  r.?.
 
 (Catalogue  No.  3fi0)
@@ -12935,8 +9599,6 @@ No.  15.  Pledf^e  Song
 Sung  by  Odjib^we
 
 
-Voice  J—  108
-
 Brum  Jrz  108
 
 (  See  drum-rhythm  below  )
@@ -12944,10 +9606,7 @@ Brum  Jrz  108
 r
 
 
-JE     ya        nin-da- ca- mi-gog  e      ya        nin- da- ca- mi-
-
-
-e     ya
+JE     ya        nin-da- ca- mi-gog  e      ya        nin- da- ca- mie     ya
 
 
 r
@@ -13033,8 +9692,6 @@ etc.
 I
 
 
-WORDS
-
 ninMacamigog^ they  feed  me
 
 ogi^tcidag' the  braves
@@ -13065,25 +9722,16 @@ DENSMOUE]
 Voice
 
 
-CHIPPEWA   MUSIC — II
-
 No.  16.  Dance  of  the  Dog  Feast
 
 Sung  by  Odjib^we
 
 
-93
-
-(Catalogue  No.  361)
-
-
 i92
-92
 
 
 Drum
 
-(Drum-rhythm  similar  to  No.  15)
 
 r".
 
@@ -13114,8 +9762,7 @@ varied  m  repetition.  No  variation  in  either  melody  or  rhythm
 appears  in  the  four  renditions  of  the  song  except  that  in  the  second
 of  each  group  of  two  renditions  the  shiger  avoided  the  first  high  note
 and  began  with  the  last  note  of  the  second  measure.  The  tempo  is
-slow  and  the  drum  and  voice  are  in  consonance.  In  general  char-
-acter the  song  is  dignified,  yet  vigorous,  as  befitted  the  song  of  those
+slow  and  the  drum  and  voice  are  in  consonance.  In  general  character the  song  is  dignified,  yet  vigorous,  as  befitted  the  song  of  those
 who  were  equipped  and  ready  for  the  warpath.
 
 At  the  conclusion  of  the  dog  feast  and  dance  the  leader  of  the  party
@@ -13132,9 +9779,6 @@ With  eyes  turned  toward  tlie  enemy's  country  the  warriors  went
 forth  to  meet  their  uncertain  fate.
 
 
-94
-
-
 BUREAU    OF   AMERICAN   ETHNOLOGY  Ibull.  53
 
 No.  17.  Song  of  Departure  '  (Catalogue  No.  362)
@@ -13145,12 +9789,6 @@ Sung  by  Odjib^we
 Voice
 
 
-108
-
-
-Drum  J—  108
-
-(Drum-rhythm  similar  to  No.  16)
 (1st)  (1st)
 
 \r
@@ -13240,12 +9878,6 @@ they  said  oracular."
 DENSMORKl
 
 
-CHIPPEWA    MUSIC II
-
-
-95
-
-
 The  following  song  was  said  to  have  l)een  sung  by  the  leader  every
 night  while  on  an  exj^edition.
 
@@ -13258,13 +9890,8 @@ Sung  by  Odjib^we
 Voice  J_  104
 Dkum  J=  104
 
-(  Drum-rhythm  similar  to  No.  15 )
-
 
 1  r
-
-
-(Catalogue  No.  343)
 
 
 -0-  -0.  .0-      -4-  -0-  -0-'  .0,  ,0.
@@ -13278,10 +9905,7 @@ we         a-ni  de
 
 •     •-
 
-ba  -  bQn-da-
-
-
-a  -  ki      we
+ba  -  bQn-daa  -  ki      we
 
 
 dEEE4
@@ -13307,8 +9931,6 @@ ba  -  bfi.n-da-man   a  -  ki     we
 
 a  -  ni  de  -ba  -  b(in-da-mau  a  -  ki    we
 
-
-WORDS
 
 ani^ as
 
@@ -13339,15 +9961,6 @@ entire  song.  An  additional  quarter  note  is  inserted  after  the  second
 and  fifth  rej^etitions ;  this  is  found  in  all  the  renditions  and  adds
 
 
-96
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
-
-
 interest  to  the  rhythm  of  the  song  as  a  whole.     The  metric  unit  of
 voice  and  drum  is  the  same,  the  voice  slightly  ])receding  the  drum.
 
@@ -13361,13 +9974,7 @@ No.  19.  "I  will  go  to  the  South"
 Sung  by  Odjib^we
 
 
-(Catalogue  No.  333)
-
-
 Voice
-
-
-112
 
 
 Drum  ,'=112
@@ -13378,10 +9985,7 @@ Drum  ,'=112
 3=piip-^^i^^
 
 
-ca   -  wtin-
-
-
-nin-sra  -  di
+ca   -  wtinnin-sra  -  di
 
 
 ja        ca  -   wtin     -      ong  nin-ga  -  di  •
@@ -13452,19 +10056,12 @@ ra'wuninoMin the  south  wind
 
 
 Analysis. — This  song  was  recorded  twice,  an  interval  of  two  weeks
-elapsing  between  the  making  of  the  two  records.  On  the  first  occa-
-sion the  singer  sang  the  song  twice,  and,  after  pausing  to  explain  the
+elapsing  between  the  making  of  the  two  records.  On  the  first  occasion the  singer  sang  the  song  twice,  and,  after  pausing  to  explain  the
 w^ords,  again  sang  it  twice.  On  the  second  occasion  also  he  sang  the
 song  twice.     Thus  six  renditions  were  secured,  in  groups  of  two.     On
 
 
 DEXS.MOIiE]
-
-
-CHIPPEWA    MUSIC II
-
-
-97
 
 
 comparison  it  is  found  that  these  renditions  vary  in  intonation,  but
@@ -13488,12 +10085,6 @@ two  songs  are  characteristic  of  this  class.
 No.  20.  "A  War  Bird'
 
 Sung  by  Odjib^wb
-Voice  J  =:  112
-Drum  J—  116
-(  Drum-rhythm  similar  to  No.  19  )
-
-
-(Catalogue  No.  .332)
 
 
 Ja-  wGu-i  -  bi-si
@@ -13532,16 +10123,9 @@ altered.  The  rhythmic  unit  is  short  and  occurs  in  both  double  and
 triple  measures ;  the  song  as  a  whole  has  an  interesting  completeness
 or  unity  of  rhythm.  The  melody  is  clearly  in  the  key  of  G,  although
 the  tonic  does  not  appear  until  the  eighth  measure.
-67996°— Bull.  53—13 7
-
-
-98
 
 
 BUEEAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 By  midday  the  warriors  were  on  their  journey.  Odjib'we  said
@@ -13549,8 +10133,7 @@ that  before  starting  the  leader  frequently  filled  and  lighted  a  i)ipe,
 after  which  he  took  a  puff  and  held  the  stem  toward  the  enemy's
 country,  saying,  "Every  Sioux  who  puffs  this  pipe  will  soon  be  a
 dead  man."  He  then  passed  the  pi])e  to  all  the  warriors,  each  of
-whom  took  a  puff.  The  leader  then  spoke  to  the  drum  in  a  low  mut-
-tering tone,  "Be  faithful,  my  drum,"  or  "Be  faithful,  be  true."
+whom  took  a  puff.  The  leader  then  spoke  to  the  drum  in  a  low  muttering tone,  "Be  faithful,  my  drum,"  or  "Be  faithful,  be  true."
 
 When  this  ceremony  was  finished  the  drum  gave  the  signal  and
 the  warriors  took  up  their  journey,  with  the  pipe-bearer  leading  the
@@ -13577,10 +10160,6 @@ Sung  by  Odjib^we
 
 Voice  J  ^  60
 Dkum  J  — 84
-(  Drum-rhythm  similar  to  No.  2  )
-
-
-(Catalogue  No.  370)
 
 
 O  -  na  -  mfm-un     i   de  -  bwan      o  -  na  -  mQn-tiu
@@ -13607,10 +10186,7 @@ S3
 hu     ya
 
 
-wa    hi        yu      wa    hi        yu      hu      o  -  na-mfiu-
-
-
-m^^^
+wa    hi        yu      wa    hi        yu      hu      o  -  na-mfium^^^
 
 
 3  '  3
@@ -13629,12 +10205,6 @@ I
 de.xsaiore]
 
 
-CHIPPEWA   MUSIC II
-
-
-99
-
-
 Analysis.— The  rhythmic  unit  of  this  song  is  short  and  vigorous.
 The  melody  is  inspiring  in  character  and  well  fitted  to  increase  a
 warrior's  confidence  in  his  success.  The  ending  is  peculiar  but  was
@@ -13651,9 +10221,6 @@ preparing  the  medicine.
 No.  22.  Origin  of  the  Bi'jikiwflck'       (Catalogue  No.  372)
 
 Suug  by  Odjib'we
-Voice  J=  100
-Drum  J—  100
-(Drum-rhythm  similar  to  No.  2)
 
 \-f-     -fL     ^        iff    .#.     ^  ~i       i  i      p^
 
@@ -13693,8 +10260,6 @@ three  ways,  which  form  a  basis  for  a  closer  observation  of  the  group
 First,  two  continuously  descending  fourths  form  the  framework  of  the
 
 
-100  BUREAU    OF    AMERICAN    ETHNOLOGY  [bull.  53
-
 melody;  thus  Nos.  6  and  9  in  Bulletin  45  are  based  on  the  descending
 intervals  D-A,  A-E,  ending  with  the  descending  tonic  triad  D-B-G  in
 the  closing  measures.  No,  3  in  Bulletin  45  and  No.  82  in  the  present
@@ -13718,8 +10283,7 @@ characteristic,  we  note  with  interest  that  they  have  also  a  common
 subject,  all  being  songs  concerning  motion  (20)  or  animals  (15),  in
 some  instances  the  two  ideas  being  combined.  The  single  exception
 is  a  love  song  which  contains  the  words  "I  sit  here  thinking  of  her."
-While  the  idea  of  motion  is  not  expressed  therein,  it  can  not  be  con-
-sidered entirely  absent  from  the  mind  of  the  singer.
+While  the  idea  of  motion  is  not  expressed  therein,  it  can  not  be  considered entirely  absent  from  the  mind  of  the  singer.
 
 The  numbers  and  titles  (or  words)  of  this  group  of  songs  are  as
 follows :
@@ -13845,16 +10409,10 @@ animals,  these  being  calls  which  they  intended  to  use  in  decoying
 the  Sioux.
 
 
-102
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
-
 No.  23.  Dancing  Song  of  the  Bi'jikiwuck'  (Catalogue  No.  382)
 Sung  by  Main'gans  ("little  wolf'')
 
 
-Voice  J  =96
 Recorded  without  drum
 
 f-m-  -0-  -0-  -•-  -^
@@ -13974,8 +10532,7 @@ gi^takiminaii^ our  land
 
 wewa^giwini' with  curved  horns
 
-Analysis. — The  descending  interval  of  the  fourth  is  especially-
-prominent  in  this  melody  (see  analysis  of  No.  22).  The  fu'st  five
+Analysis. — The  descending  interval  of  the  fourth  is  especiallyprominent  in  this  melody  (see  analysis  of  No.  22).  The  fu'st  five
 measures  comprise  the  rhythmic  unit,  which  is  well  adapted  to  the
 expression  of  the  words.  This  rhytlim,  combined  with  the  peculiar
 melodic  outline,  causes  the  song  to  produce  an  effect  of  rugged
@@ -13988,12 +10545,6 @@ and  also  before  a  battle  the  following  four  songs  were  sung  by  the
 densmore]
 
 
-CHIPPEWA   MUSIC— II
-
-
-103
-
-
 warriors  to  make  the  medicine  cfTectual  as  a  charm.  This  group  of
 songs  was  rendered  by  Na'waji'bigo'kwe  ("woman  dwelhng  in
 the  midst  of  the  rocks").
@@ -14004,14 +10555,7 @@ No.  24.  First  Song  of  the  Mrnisino^wflck
 Sung  by  Na^waji'bioo'kwe
 
 
-(Catalogue  No.  373)
-
-
-Voice  J  —  69
-
 Drdm  J—  108
-
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 Ka  -  ga   -   gi  -  wi  -  wan    nin  -  dau     ba-on    -     dji    -    o-non
@@ -14034,8 +10578,7 @@ nindan >
 
 ba^ondji'onongeyan^ J  is  my  flight
 
-Analysis. — Tliis  melody  was  sung  very  slowly  with  a  rapid  drum-
-beat. The  song  is  harmonic  in  structure  and  contains  tlie  tones  of
+Analysis. — Tliis  melody  was  sung  very  slowly  with  a  rapid  drumbeat. The  song  is  harmonic  in  structure  and  contains  tlie  tones  of
 the  fourth  five-toned  scale.  The  rhythmic  unit  does  not  vary  in
 the  four  renditions  of  the  song,  but  there  is  a  slight  variation  in
 unimportant  melody  progressions.  Attention  is  directed  to  the
@@ -14046,12 +10589,6 @@ All  the  songs  of  this  series  close  with  the  ejaculations  We  ho  Jto  
 which  characterize  also  the  Mde'  songs.
 
 
-104
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
 [Bn.L.  5o
 
 
@@ -14060,14 +10597,7 @@ No.  25.  Second  Sonj;  of  Ihe  Mrnisiiio'wuek
 Sung  by  Na^waji'bigo^kwe
 
 
-Voice  J— 152
-
 DbDM    J  :ii;  92
-
-(Drum-rhythm  similar  to  No.  2  )
-
-
-(Catalogue  No.  374)
 
 
 LiFtt     ._!  L   J
@@ -14128,12 +10658,6 @@ length  and  apparently  serve  as  resting  places  for  the  voice.
 dexsmore]
 
 
-CHIPPEWA   MUSIC II
-
-
-105
-
-
 No.  2(>.  Third  Song  of  the  MrnTsiiu/wfick
 
 Suntr  by  Na^waji'bigo'kwe
@@ -14185,7 +10709,6 @@ i
 
 ga  -  mi-no-  gi  -  we  -  pu-ya  -  ya  -ne         ga  -  mi-no  gi  -  we  -  pu  -  ya-  ya  -  ue
 
-WORDS
 
 ga''minogi'wepu'yane' I  will  return  to  my  home  in  safety
 
@@ -14198,27 +10721,14 @@ quarter  note.  The  song  is  harmonic  in  structure  and  contams  the
 tones  of  the  fourth  five-toned  scale;  it  was  recorded  without  the  drum.
 
 
-106
-
-
-BUREAU    OF  AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 No.  27.  Fourth  Song  of  the  MriiMno'wuck
 
 Sung  by  Na^waji'bigo^kwe
 
 
-Voice  J  —  168
 Recorded  without  drum
 
 I  "
-
-
-(Catalogue  No.  376)
 
 
 Na-mundj-ge  -  do-gwen    e     ba  -  on -dji- o  -  nan -ge-yau  e
@@ -14278,9 +10788,6 @@ rJ
 S^E^
 
 
-1
-
-
 na-mfindj-ge  -  do-gwen     bu  -  on -dji  -  bfi  -  si  -  gwi-yan
 
 
@@ -14310,14 +10817,12 @@ namundj'gedogwen' it  is  uncertain  what  will  happen
 
 bliondji^usigwiyan' to  the  one  from  whom  I  rise
 
-Analysis. — This  moUuly  is  unusually  irregular  in  form.  The  prin-
-cipal measures  are  in  7-4  time;  thfe  rhythmic  unit  contains  three
+Analysis. — This  moUuly  is  unusually  irregular  in  form.  The  principal measures  are  in  7-4  time;  thfe  rhythmic  unit  contains  three
 measures  and  occurs  five  times.  Four  renditions  were  secured;
 these  are  identical  except  that  after  the  first  rendition  the  singer
 omitted  part  of  tlie  last  phrase,  closing  with  the  calls  We  ho  Jio  Tio.
 Apparently  this  was  done  to  avoid  the  very  low  tone  at  the  close,
-which  was  sung  with  difficulty.  The  song  is  freely  melodic  in  struc-
-ture and  contains  all  the  tones  of  the  octave  except  the  seventh.
+which  was  sung  with  difficulty.  The  song  is  freely  melodic  in  structure and  contains  all  the  tones  of  the  octave  except  the  seventh.
 
 If  a  great  fight  were  expected,  the  Chippewa  made  preparations  for
 the  care  of  the  wounded.  Litters  were  constructed  of  poles,  these
@@ -14326,12 +10831,6 @@ in  an  effort  to  capture  the  wounded.     Every  war  party  included  an
 
 
 dexsmore]
-
-
-CHIPPEWA   MUSIC II
-
-
-107
 
 
 oUl  man  whose  duly  it  was  to  carry  an  extra  supply  of  medicine  and
@@ -14343,8 +10842,7 @@ with  his  hfe.  The  drum  was  beaten  during  the  contest  by  one  of  the
 warriors,  who  also  sang  to  inspu-e  the  men.  This  duty  likewise
 required  special  courage.  Before  entering  a  fight  the  leaders
 arrayed  themselves  in  brilliant  trappmgs.  Each  wore  a  band  around
-the  head  in  which  were  bright  feathers;  this  rendered  them  con-
-spicuous and  showed  their  fearlessness.  The  neck  was  usually
+the  head  in  which  were  bright  feathers;  this  rendered  them  conspicuous and  showed  their  fearlessness.  The  neck  was  usually
 encircled  by  a  charm  consisting  of  the  dried  skin  of  a  bird,  which
 contamed  a  medicme  known  only  to  the  wearer  (see  p.  77).  This
 charm  was  wrapped  in  birch  bark  but  before  a  battle  the  warrior
@@ -14355,9 +10853,6 @@ used  for  this  purpose.
 No.  28.  Song  of  a  War  Charm  (Catalogue  No.  369)
 
 Sung  by  Odjib'we
-Voice  J  =  80
-Drum  J  —  92
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 We  -  go  -  nen
@@ -14369,12 +10864,8 @@ We  -  go  -  nen
 s=
 
 
-ya   -    Aa-han     nin-bi-nes  -  i -wa-yan   e        he     he      e       e  -  pe-ni-mo-
+ya   -    Aa-han     nin-bi-nes  -  i -wa-yan   e        he     he      e       e  -  pe-ni-moya  -  Aa-bau  e      we-go-nen  -  i  -  wi  -  ne  -  he-he-ne  e  -  pe  -  ni  -  mo-yan     e
 
-
-ya  -  Aa-bau  e      we-go-nen  -  i  -  wi  -  ne  -  he-he-ne  e  -  pe  -  ni  -  mo-yan     e
-
-WORDS
 
 wegonen''iwinen'' ' in  what
 
@@ -14388,26 +10879,15 @@ epe'nimoyan^ is  my  trust
 1  See  footnote  2,  p.  89.
 
 
-108
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  5'
-
-
 Analysis. — This  son^  is  transcrilxHl  in  the  key  ol"  D  flat,  though
 the  third  of  that  key  does  not  appear  in  the  melody  (see  analysis  of
 No.  53).  In  broad  outline  the  framework  of  the  melody  may  be
 said  to  be  the  descending  interval  of  the  fourth — E  flat-B  flat,  and
 D  flat-A  flat  (see  analysis  of  No.  22).  The  song  is  regular  in  form,
-the  rhythmic  unit  occurring  four  times;  the  first  two  occurrences  con-
-tain the  words  of  the  question  whUe  the  last  two  contain  the  answer.
+the  rhythmic  unit  occurring  four  times;  the  first  two  occurrences  contain the  words  of  the  question  whUe  the  last  two  contain  the  answer.
 
 According  to  OdjibVe  the  Chippewa  always  sang,  if  possible,
-before  attacking  the  enemy.  If  the  attack  were  to  be  made  at  day-
-break, the  Chippewa  crept  stealthily  to  an  ambush  near  the  village,
+before  attacking  the  enemy.  If  the  attack  were  to  be  made  at  daybreak, the  Chippewa  crept  stealthily  to  an  ambush  near  the  village,
 the  drum  was  beaten  very  softly,  and  the  following  song  was  sung
 in  subdued  tones.  Then  came  a  piercing  yeU  as  the  warriors  dashed
 on  the  sleeping  enemy.  In  open  fight  the  war  cry  of  the  Chij)pewa
@@ -14419,11 +10899,6 @@ throb  of  the  drum,  which  impressed  itself  indelibly  on  the  mind.
 No.  29.  Drum  Song  (Catalogue  No.  341)
 
 Sung  by  Odjib^we
-
-
-Voice  J  —  96
-Drum  J  --  96
-(Drum-rhythm  similar  to  No.  15  )
 
 
 Ga-ki-na  -  ni -ni  -  mi-ag    o  -  gi  -  tcl-dag     e       en-da-cl    -      wad     e
@@ -14463,12 +10938,6 @@ in  common  use.    (See  Warren's  History  of  the  Ojibways,  in  Colls.  Min
 DENSJIOUE]
 
 
-CHIPPEWA    MUSIC II
-
-
-109
-
-
 Tlic  tone  material  comprises  only  the  first,  second,  third,  fifth,  and
 sixth  tones  of  tlie  minor  scale,  the  second  beuig  lowered  in  one
 measm'e.  Although  the  song  is  minor  in  tonality  it  is  found  that
@@ -14491,16 +10960,11 @@ number  might  inspire  the  others  to  bravery  by  making  himself  a
 target.  Throwing  aside  his  weapons  and  divesting  himself  of  all
 clothmg,  he  rushed  toward  the  enemy.  If  the  Sioux  failed  to  kiU
 him  at  the  first  shot,  it  was  permissible  for  him  to  attempt  to  escape.
-It  is  said  that  a  man  namecl  Ogima'wudjiweb'  ("chief  of  the  moun-
-tains") had  an  experience  of  this  kind  and  made  his  escape.
+It  is  said  that  a  man  namecl  Ogima'wudjiweb'  ("chief  of  the  mountains") had  an  experience  of  this  kind  and  made  his  escape.
 
 No.  30.  Song  of  a  Man  Who  Rushed  Toward  the  Enemy
 
 Sung  by  Odjib'we  (Catalogue  No.  329)
-
-Voice  J  =  76
-Drum  J  =88
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 Ni  -  dji  -  ki-we   -   i-dog     e      ge  -go        ji  -  mo-ke  -gun
@@ -14511,8 +10975,6 @@ i^-i
 
 nin  zon-gi  -  de-e
 
-
-WORDS
 
 nidjiki'weidog' my  friends
 
@@ -14529,14 +10991,11 @@ zon'gidee^ am  strong-hearted
 See  footnote,  p.  90.
 
 
-110  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
-
 Analysis. — The  rhythmic  unit  of  this  song  is  short  but  interesting.
 It  occurs  three  times  and  comprises  the  entire  song  except  that
 part  which  contains  the  words.  (See  Nos.  1,  8,  12,  13,  39,  40,
 81,  105.)  The  song  was  recorded  four  times,  the  renditions  being
-uniform  except  that  in  the  fourth  from  the  last  measure  the  pro-
-gressions vary  slightly.  It  is  worthy  of  note  that  this  is  the  only
+uniform  except  that  in  the  fourth  from  the  last  measure  the  progressions vary  slightly.  It  is  worthy  of  note  that  this  is  the  only
 measure  whose  principal  tones  are  not  those  of  the  chord  of  F  minor.
 The  melody  is  strongly  harmonic  in  feeling,  although  classified  as
 melodic  because  of  the  accented  B  flat.
@@ -14565,21 +11024,9 @@ although  they  carried  the  scalps  in  the  victory  dance.
 DEN'S  MORE  J
 
 
-CHIPPEWA   MUSIC — II
-
 No.  31.  If  I  Had  Been  a  Man
 
 Sung  by  OdjSEb'we
-
-
-111
-
-(Catalogue  No.  349)
-
-
-Voice  J  =  76
-Drum  J  — 92
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 A    -    pi  -  dGc      i  -  ni  -  ni-yan  -  ban
@@ -14628,8 +11075,7 @@ Three  renditions  of  the  song  were  recorded.  In  each  the  tempo
 was  more  rapid  and  less  regular  in  the  four  measures  following  the
 words,  returning  in  tlie  last  two  measures  to  the  metric  unit  of  the
 beginning.  This  unit  is  slow,  as  in  other  songs  of  self-control.  The
-more  rapid  and  free  rhythm  of  the  middle  part  is  the  more  inter-
-esting if  considered  in  connection  with  the  words  and  origin  of  the
+more  rapid  and  free  rhythm  of  the  middle  part  is  the  more  interesting if  considered  in  connection  with  the  words  and  origin  of  the
 song.  Other  songs  com])osed  by  women  are  Nos.  39,  40,  112,  127,
 151,  177,  178.
 
@@ -14640,18 +11086,11 @@ warriors  were  nerved   to    renewed    endeavor.     After  the   fight    th
 1 A  syllable  is  omitted  to  make  the  words  conform  to  the  music.
 
 
-112
-
-
 BUREAU    OF    AMEBICAN    ETHNOLOGY
 
 
-[BULL.  5.'
-
-
 names  were  remembered,  and  the  warriors  were  given  proper  credit.
-In  the  old  days  each  warrior  marked  his  arrows,  hence  it  could  usu-
-ally be  determined  by  whose  hands  the  slain  fell ;  but  after  the  intro-
+In  the  old  days  each  warrior  marked  his  arrows,  hence  it  could  usually be  determined  by  whose  hands  the  slain  fell ;  but  after  the  intro-
 duction of  guns  it  would  have  been  impossible  to  ascertain  who  had
 killed  the  Sioux  unless  the  call  above  mentioned  were  given  during
 the  engagement.
@@ -14659,10 +11098,8 @@ the  engagement.
 It  was  not  unusual  for  a  warrior  to  sink  exhausted  (hiring  a  fight.
 This  misfortune  once  befell  Odjib'we,  and  the  incident  was  related  by
 his  friend  Niski'gwun,  who  was  present  on  one  occasion  when  Odjib'we
-was  recording  songs  on  the  phonograpli.  Niski'gwun  was  with  Od-
-jib'we in  many  of  the  contests  with  the  Sioux.  Niski'gwtin  stated
-that  on  one  occasion  Odjib'we  went  into  a  fight  without  his  ''medi-
-cine." The  fight  had  scarcely  begun  wlien  Odjib'we  appeared  to
+was  recording  songs  on  the  phonograpli.  Niski'gwun  was  with  Odjib'we in  many  of  the  contests  with  the  Sioux.  Niski'gwtin  stated
+that  on  one  occasion  Odjib'we  went  into  a  fight  without  his  ''medicine." The  fight  had  scarcely  begun  wlien  Odjib'we  appeared  to
 be  almost  ])aralyzed.  He  was  not  able  to  strike  a  blow  in  his  own
 defense  and  would  have  fallen  an  easy  prey  to  the  Sioux  had  not
 Niski'gwun  rushed  to  him  and  given  him  medicine  from  his  own  bag,
@@ -14677,9 +11114,6 @@ the  medicine.
 No.  32.  Song  of  Help  in  the  Fight        (Catalogue  No.  385)
 
 Sung  by  Niski'gwun
-Voice  J=  144
-Drum  J  =  108
-( Drum-rhythm  similar  to  No.  2 )
 
 r 1:7==^ 1
 
@@ -14768,12 +11202,7 @@ Ii
 '~^
 
 
-t—[:—t-
-
-
-de         a  -  kin       we  -  yan  -  e
-
-WORDS
+t—[:—tde         a  -  kin       we  -  yan  -  e
 
 
 ba  -  si  -  gwi-yan     e
@@ -14789,23 +11218,19 @@ weyan'eba^sigweyan'. , whence  I  arise
 DEXSMORE]  CHIPPEWA   MUSIC II  113
 
 Analysis. — Four  renditions  of  this  song  were  recorded,  in  all  of  which
-the  final  word  was  mispronounced,  this  license  being  allowed  in  Chip-
-pewa songs.  On  the  octave  and  fifth  the  intonation  is  fairly  correct,
+the  final  word  was  mispronounced,  this  license  being  allowed  in  Chippewa songs.  On  the  octave  and  fifth  the  intonation  is  fairly  correct,
 and  these  tones  were  sung  firmly;  the  other  tones  are  variable  in
 pitch,  and  the  transcription  should  be  understood  as  approximate.
 The  signature  is  that  of  the  key  of  D,  as  both  F  sharp  and  C  sharp
 occur  in  the  melody,  but  the  "sense  of  key"  is  not  clear.  It  seems
-probable  that  the  singer's  recollection  of  tlie  song  was  not  quite  dis-
-tinct. The  rhythmic  unit  contains  seven  measures,  and  its  repeti-
+probable  that  the  singer's  recollection  of  tlie  song  was  not  quite  distinct. The  rhythmic  unit  contains  seven  measures,  and  its  repeti-
 tions comprise  the  entire  song.  The  framework  of  the  melody  is  the
-descending  interval  of  the  fourtli,  a  peculiarity  which  is  fully  con-
-sidered in  the  analysis  of  Xo.  22.  Wliile  this  is  not  an  inspiring  mel-
+descending  interval  of  the  fourtli,  a  peculiarity  which  is  fully  considered in  the  analysis  of  Xo.  22.  Wliile  this  is  not  an  inspiring  mel-
 od}^,  there  is  something  in  it  deeper  and  stronger  than  enthusiasm;
 there  are  steadiness  and  control.  Strongest  of  all  is  the  idea  of  the
 words — the  picture  of  the  prairie,  calm  in  its  consciousness  of  power.
 
-The  following  three  songs  relate  to  one  of  Odjib'we's  war  expedi-
-tions and  illustrate  the  singing  of  a  death  song  and  the  composing  of
+The  following  three  songs  relate  to  one  of  Odjib'we's  war  expeditions and  illustrate  the  singing  of  a  death  song  and  the  composing  of
 songs  concerning  a  notable  victory.
 
 These  songs  are  connected  with  an  expedition  against  a  Sioux
@@ -14817,8 +11242,7 @@ the  first  man  killed  was  the  Sioux  chief.  During  the  fight  the  Sioux
 women  rushed  out  and  dragged  back  the  wounded  men  that  they
 might  not  be  scalped.  Although  seven  of  their  number  were  killed
 the  Chippewa  would  have  been  victorious  had  not  a  large  party  of
-Sioux  come  on  the  field  from  a  distance.  Finding  themselves  out-
-numbered, the  Chippewa  began  to  retreat.  The  Sioux  used  poisoned
+Sioux  come  on  the  field  from  a  distance.  Finding  themselves  outnumbered, the  Chippewa  began  to  retreat.  The  Sioux  used  poisoned
 arrows.  One  of  the  Chippewa  warriors  was  wounded  in  the  foot  by  a
 barbed,  poisoned  arrow,  but  his  friends  were  able  to  carry  him  away.
 The  Sioux  followed  the  Chippewa  a  long  distance  and  many  of  the
@@ -14839,24 +11263,10 @@ the  women  to  dance  by  and  tell  them  how  I  died."
 67996°— Bull.  53—13 S
 
 
-114
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  33.  Death  Song  of  Name'bines^     (Catalogue  No.  335)
 
 Sung  by  Odjib^we
 
-Voice  J  =  104
-
-Drum  J  =104
-
-(  Drum-rhythm  similar  to  No.  2  )
 
 ^
 
@@ -14882,8 +11292,7 @@ gna'sumi^kayau' in  the  front  of  my  body
 Analysis. — Ten  renditions  of  this  song  are  on  the  phonograph
 cylinder,  the  transcription  being  from  the  eighth  rendition.  The
 words  vary  in  the  several  renditions,  sometimes  only  one  word  being
-used  or  jrneaningless  syllables  sung.  The  principal  variation  in  intona-
-tion is  on  the  tone  A  in  the  second  measure.  The  intonation  of  the
+used  or  jrneaningless  syllables  sung.  The  principal  variation  in  intonation is  on  the  tone  A  in  the  second  measure.  The  intonation  of  the
 last  three  measures  is  uniform  and  the  rhythm  of  the  entire  song  shows
 no  variation.  The  song  contains  a  short  rhythmic  unit,  which  occurs
 five  times  without  interruption.  The  last  three  measures  are  in  a
@@ -14907,22 +11316,12 @@ village  to  drag  back  the  wounded  men.
 DEXSMOKE
 
 
-CHIPPEWA   MUSIC — II
-
-
-115
-
-
 No.  34.  "The  Sioux  Women  Gather  Up  their  Wounded"
 
 Sung  by  Odjib'we
 
 
-(Catalogue  No.  336)
-
-
 Voice  J—  lOO
-Drum  J=  108
 (  Drum-rhj^thm  similar  to  No.  3  )
 
 
@@ -15004,12 +11403,10 @@ ani^mude^muwug' the  voice  of  their  weeping  comes  back  to
 
 Us
 
-Analysis. — Six  renditions  of  this  song  were  recorded,  the  transcrip-
-tion being  from  the  third  rendition.  The  rhythm  and  the  melody
+Analysis. — Six  renditions  of  this  song  were  recorded,  the  transcription being  from  the  third  rendition.  The  rhythm  and  the  melody
 tones  are  the  same  in  all  the  renditions  but  the  words  vary  slightly,
 affecting  the  length  of  the  tones;  for  instance,,  the  word  meaning
-''village"  is  used  in  one  rendition  and  the  order  of  the  words  is  some-
-times changed.  The  tonality  is  minor  but,  as  in  many  similar  songs,
+''village"  is  used  in  one  rendition  and  the  order  of  the  words  is  sometimes changed.  The  tonality  is  minor  but,  as  in  many  similar  songs,
 the  tonic  does  not  appear  in  the  opening  measures.  (See  analysis
 of  No.  9,  also  of  Nos.  1,  83,  94,  120.)  This  song  contains  a  short
 rhythmic  unit  which  is  repeated  without  variation  except  for  the
@@ -15024,22 +11421,11 @@ Kemembering  the  tread  of  the  pursuing  enemy,  they  sang  of  war  as  a
 game  with  the  bodies  of  the  dead  as  its  score.
 
 
-116
-
-
-BUREAU   OF   AMERICAN    ETHNOLOGY
-
-
 [BULL.  5o
 
 
 No.  35.  "They  are  Playing  a  Game"    (Catalogue  No.  342)
 Sung  by  Odjib'we
-
-
-Voice  J=  104
-Drum  J=  104
-(  Drum-rhythm  similar  to  No.   15)
 
 
 ^ii
@@ -15102,8 +11488,6 @@ ga-  bi-mi  -  bi-di
 kweg  muc-ko-deng    bi-mi  -  a  -  ta  -    di-wftg  e         i  -  ni  -  ul-wug  e
 
 
-WORDS
-
 gabimi^bidikweg' the  noise  of  passing  feet
 
 niiic'kodeng' on  the  prairie
@@ -15116,8 +11500,7 @@ Analysis. — This  ^melody  is  based  on  the  tones  of  the  minor  triad,
 the  sixth  being  used  as  a  passing  tone  and  occurring  only  once.  The
 song  contams  a  rhythmic  unit  eight  measures  in  length,  which  occurs
 three  times,  is  accurately  repeated,  and  comprises  the  entire  song.
-It  is  worthy  of  note  that  the  song  contains  only  one  upward  progres-
-sion; this  occurs  between  the  second  and  third  sections  of  the  song.
+It  is  worthy  of  note  that  the  song  contains  only  one  upward  progression; this  occurs  between  the  second  and  third  sections  of  the  song.
 The  compass  of  the  song  is  unusual,  as  it  begins  on  the  tenth  above
 the  tonic  and  ends  on  the  fifth  in  the  octave  below  the  tonic.  Four
 renditions  of  the  melody  were  recorded;  the  intonation  of  the  tones
@@ -15127,8 +11510,7 @@ Odjib'we  stated  that  on  one  occasion  a  warrior  sank  exhausted  as
 the  war  party  was  returning  home.  The  other  warriors,  reluctant  to
 leave  him  a  prey  to  some  wandering  enemy,  stayed  with  liim.  It
 seemed  imi)ossible  for  him  to  rise.  However,  he  used  his  medicine,
-and  after  a  time  sprang  to  his  feet,  singing  this  song,  which  he  com-
-posed at  the  time.  The  war  party  resumed  its  journey,  and  he
+and  after  a  time  sprang  to  his  feet,  singing  this  song,  which  he  composed at  the  time.  The  war  party  resumed  its  journey,  and  he
 accompanied  them,  stiU  singing  his  new  song.
 
 
@@ -15138,22 +11520,9 @@ DENRMOKE]
 CHIPPEWA    MUSIC^ — II
 
 
-117
-
-
 No.  36.  Soiifc  <»f  tln'  ExhaiistiMl  Warrior
 
 Sung  by  Odjib'we
-
-
-Voice  J  =  84
-
-Drum  J-  104
-
-( Drum-rhythm  similar  to  No.  2  )
-
-
-(Catalogue  No.  367)
 
 
 Ba   -  ba
@@ -15221,22 +11590,18 @@ is  characterized  by  the  sharped  seventh,  which  is  found  but  rarely
 in  the  minor  songs  under  analysis.  By  this  accidental  the  song  is
 more  fully  identified  with  what  is  commonly  termed  the  nunor  scale.
 The  relation  of  the  rhythm  to  the  content  of  the  song  is  worthy  of
-note,  the  effect  of  perturbation  in  the  first  part  of  the  song  being  con-
-trasted with  the  more  regular  rhythm  of  the  latter  part.
+note,  the  effect  of  perturbation  in  the  first  part  of  the  song  being  contrasted with  the  more  regular  rhythm  of  the  latter  part.
 
 1  Where  no  words  appear  in  the  music  above,  meaningless  syllables  were  sung.
 *  A  syllable  is  added  to  this  word  to  make  it  conform  to  the  music.
 
-
-118  BUREAU    OF   AMERICAN   ETHNOLOGY  [bull.  53
 
 Songs  on  the   Return  of  a  Victorioits  War  Party
 
 On  retui'iiiug,  ji  victorious  war  party  seat  riiimers  in  advance  to
 carry  the  news  of  their  approach,  and  preparations  for  a  suitable
 reception  were  begun  at  once.  Meantime  the  warriors  made  their
-hist  camp  before  reaching  home;  liere  tliey  rehearsed  the  songs  con-
-cernuig  the  victory  and  arrayed  themselves  m  their  finest  apparel.
+hist  camp  before  reaching  home;  liere  tliey  rehearsed  the  songs  concernuig  the  victory  and  arrayed  themselves  m  their  finest  apparel.
 Then  began  the  final  stage  of  the  journey.  As  they  approached  the
 village  they  fired  guns  as  a  signal  and  the  women  came  out  to  meet
 them.  One  woman  led  the  party,  to  whom  were  given  the  scalps
@@ -15253,8 +11618,7 @@ was  selected,  to  which  was  carried  a  large  quantity  of  food— dried
 meat,  wild  rice,  and  maple  sugar.  The  poles  bearmg  the  Sioux
 scalps  were  stuck  in  the  ground  beside  the  pile  of  food,  and  the  feast
 was  called  "feasting  the  Sioux."  There  was  no  song  connected  with
-this  feast.  After  the  feast  a  simple  ceremony  in  praise  of  the  war-
-riors took  place.  The  victors  were  seated  in  a  row  and  their  friends
+this  feast.  After  the  feast  a  simple  ceremony  in  praise  of  the  warriors took  place.  The  victors  were  seated  in  a  row  and  their  friends
 brought  gifts,  which  were  laid  before  them.  Often  the  following  song
 was  sung  at  this  time.  The  words  of  this  song  require  explanation.
 According  to  Odjib'we,  defeated  warriors  were  treated  with  scorr.
@@ -15271,12 +11635,6 @@ tlie  words  of  a  song  provided  the  ''tunc"  and  the  meanmg  of
 words  remauied  the  same.
 
 
-BUREAU   OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE   17
-
-
 FRONT  BACK
 
 SCALPS    ATTACHED    TO    HOOP
@@ -15285,14 +11643,11 @@ SCALPS    ATTACHED    TO    HOOP
 DENSMOKE]
 
 
-CHIPPEWA   MUSIC — II
-
 No.  37.  Gift  Song
 
 Sung  by  Odjib'we
 
 
-Voice  J—  116
 Recorded  without  drum
 
 
@@ -15306,11 +11661,6 @@ i
 
 
 n  r:
-
-
-119
-
-(Catalogue  No.  389)
 
 
 £
@@ -15377,8 +11727,7 @@ ga''gayac''gonsikag' at  Gull  Lake
 
 manoga^yana'wenimigo'min . .  let  them  speak  lightly  of  us
 
-Analysis. — This  song  was  transcribed  from  the  first  of  three  ren-
-ditions. The  melody  consists  of  four  parts.  Tlie  rhythmic  unit  was
+Analysis. — This  song  was  transcribed  from  the  first  of  three  renditions. The  melody  consists  of  four  parts.  Tlie  rhythmic  unit  was
 accurately  repeated  except  for  a  slight  change  in  the  note-values  of
 the  last  measure.  The  other  renditions  were  only  partial  and  were
 similar  to  the  latter  half  of  the  transcription.  Wlien  different  words
@@ -15397,16 +11746,12 @@ with  his  father  and  Hole-in-the-day  and  had  cut  off  a  Sioux  woman's
 head,  bringing  home  the  scalp.
 
 
-120  BUREAU    OF   AMERICAN    ETHNOLOGY  [buLL.  53
-
 No.  38.  Scalp  Song  (Catalogue  No.  366)
 
 Sung  by  Odjib'wp:
 VoicB  J—  160
 
 Dr0M    J  r=  104
-
-(  Drum-rhythm  similar  to  No.  2 )
 
 
 Go  -  ui  -  ge  -   ta  -  gi  -  na        a  -  ga-  den  -  da-mo  -  dog      o  -  ma  -  mi-kwe
@@ -15435,7 +11780,6 @@ I
 
 M)e        gi-  kic  -  ki-gwe  -  jfig
 
-WORDS
 
 gonige'tagina'' I  wonder
 
@@ -15445,8 +11789,7 @@ Oma'mikwe'' the  Sioux  woman
 
 gikic^kigwejug' that  I  cut  off  her  head
 
-Analysis. — This  is  a  song  of  derision,  and  in  that  respect  it  resem-
-bles No.  14;  comparison  of  the  two  songs  is  therefore  of  interest.
+Analysis. — This  is  a  song  of  derision,  and  in  that  respect  it  resembles No.  14;  comparison  of  the  two  songs  is  therefore  of  interest.
 Both  are  minor  in  tonality,  begin  on  the  octave,  and,  as  is  unusual,
 have  the  descending  fourth  as  their  first  progression.  Both  end  on
 the  fifth,  the  compass  being  from  the  dominant  below  the  tonic  to
@@ -15457,16 +11800,14 @@ No.  14  is  in  double  time  with  two  triple  measures,  begins  on  the
 accented  part  of  the  measure,  and  contains  no  rhythmic  unit;  while
 the  song  under  analysis  is  in  triple  time  throughout,  begins  on  the
 unaccented  part  of  the  measure,  and  contains  a  short  rhythmic  unit
-continuously  repeated.  These  points  of  difference  show  the  individ-
-uality of  the  two  songs.  The  derision  in  No.  14  is  subtle  and  tan-
+continuously  repeated.  These  points  of  difference  show  the  individuality of  the  two  songs.  The  derision  in  No.  14  is  subtle  and  tan-
 talizing and  the  rhythmic  swing  is  long,  without  a  clearly  defined
 unit;  while  in  the  present  instance  the  derisive  idea  is  more  direct,
 the  taunting  more  keen,  finding  expression  in  a  short,  crisp  rhythm.
 Five  renditions  of  the  song  were  recorded,  the  rhythm  showing  no
 variation.
 
-Gifts  were  distributed  to  all  the  people  by  members  of  the  war-
-rior's clan;  for  instance,  Odjib'we's  do'dem  (clan  animal)  was  the
+Gifts  were  distributed  to  all  the  people  by  members  of  the  warrior's clan;  for  instance,  Odjib'we's  do'dem  (clan  animal)  was  the
 bear.  When  he  returned  bringing  a  scalp,  all  the  men  and  women
 belonging  to  the  Bear  Clan  danced  around  him  with  their  arms  full
 of  presents,  after  which  they  distributed  the  presents  throughout  the
@@ -15476,16 +11817,9 @@ village  in  his  honor.
 bBNSMORE]
 
 
-CHIPPEWA   MUSIC — II
-
-
-121
-
-
 The  next  event  was  the  victory  dance,  which  often  continued  until
 daylight,  by  the  light  of  torches  and  bonfires.  At  this  dance  the
-Sioux  scalps  were  carried  and  songs  were  sung  in  honor  of  the  war-
-riors. (See  Nos.  80,  83,  165.)  This  is  illustrated  by  the  following
+Sioux  scalps  were  carried  and  songs  were  sung  in  honor  of  the  warriors. (See  Nos.  80,  83,  165.)  This  is  illustrated  by  the  following
 two  songs,  which  were  composed,  respectively,  by  the  wife  and  the
 mother-in-law  of  Odjib'we  and  sung  in  recognition  of  his  prowess.
 Odjib'we  recorded  the  first  song  :^n  August,  1909,  and  sang  it  again
@@ -15507,13 +11841,6 @@ No.  39.  The  Song  of  De'kum
 
 Sung  by  Opjib'we
 
-
-(Catalogue  No.  348)
-
-
-Voice  J=  168
-Drum  J—  108
-(Drum-rhythm  similar  to  No.  2)
 
 r"
 
@@ -15569,8 +11896,6 @@ O  -  djib-we     gi    -    sal  -  ye-nan   o-  bi  -  nan
 a
 
 
-WORDS
-
 Odjib Ve Odjib Ve
 
 gisai'yenan our  brother
@@ -15587,15 +11912,6 @@ of  No.  22.)  Other  songs  composed  by  women  are  Nos.  31,  40,  112,
 127,  151,  177,  and  178.
 
 
-122
-
-
-BUREAU   OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
-
-
 When  De/kum  had  finished  the  song,  her  mother,  Djingwa/kumigo'-
 kwe  ("rumbling-earth  woman"),  arose,  and,  taking  the  seal]),  danced
 while  singuig  the  following  song,  which  she  composed  in  honor  of
@@ -15604,9 +11920,6 @@ Odjib'we.
 No.  40.  Song  of  Rejoicing  (Oataloojue  No.  805)
 
 Sung  by  Odjib'we
-Voice  J  —  168
-Drum  J  =104
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 r
@@ -15709,25 +12022,17 @@ classified  as  "melodic  with  harmonic  framework"  instead  of  purely
 DEXSMORE]
 
 
-CHIPPEWA    MUSIC II
-
-
-123
-
-
 harmonic  in  structure.  The  four  renditions  of  the  song  recorded
 are  i<lentical  in  every  respect.  Other  songs  composed  by  women  are
 Nos.  31,  39,  112,  127,  151,  177,  178.
 
 Odjib'we  stated  that  he  took  part  in  a  severe  figlit  witli  a  Ijand  of
-Sioux  led  by  the  famous  chief  Gaga'gins  (Little  Crow).  Tlie  circum-
-stances were  as  follows:  Little  Crow's  band  was  in  camp  on  the  west
+Sioux  led  by  the  famous  chief  Gaga'gins  (Little  Crow).  Tlie  circumstances were  as  follows:  Little  Crow's  band  was  in  camp  on  the  west
 side  of  the  Minnesota  River  a  few  miles  below  the  site  of  the  present
 St.  Paul.  The  blind  warrior  accurately  described  a  level  tract  of  land
 west  of  the  first  bend  in  the  river.  A  large  war  party  of  Chippewa
 prepared  to  attack  the  Sioux  village  and  sent  two  scouts  in  advance,
-who  killed  and  scalped  a  Sioux  woman  coming  Out  of  a  tipi.  Think-
-ing that  the  scouts  were  unprotected,  the  Sioux  warriors  pursued
+who  killed  and  scalped  a  Sioux  woman  coming  Out  of  a  tipi.  Thinking that  the  scouts  were  unprotected,  the  Sioux  warriors  pursued
 them  and  soon  met  the  entire  force  of  the  Chippewa.  A  terrible  fight
 followed  in  which  the  Chippewa  were  victorious.  The  following  song,
 which  relates  to  this  victory,  was  composed  by  Hole-in-the-day,
@@ -15737,14 +12042,9 @@ leader  of  the  expedition.     (See  p.  61.)
 No.  41.  Victory  Song
 
 Sung  by  Odjib'we
-Voice  J=92
 Drum  J~  104
-(  Drum-rhythm  similar  to  No.  2  )
 
 ^      ^       ^-
-
-
-(Catalogue  No.  345)
 
 
 do  -  ka  -  ma
@@ -15766,29 +12066,17 @@ aci'doka^ma surely
 
 gewa'winigoyan' I  will  have  great  praise
 
-Analysis. — Seven  renditions  of  this  song  were  recorded,  the  tran-
-scri])tion  being  from  the  sixth,  which  is  the  only  one  in  which  the
-words  occur  twice.  The  rhythm  of  the  first  part  is  uniform  in  the  sev-
-eral renditions  recorded,  while  that  of  the  latter  part  varies  with  the
+Analysis. — Seven  renditions  of  this  song  were  recorded,  the  transcri])tion  being  from  the  sixth,  which  is  the  only  one  in  which  the
+words  occur  twice.  The  rhythm  of  the  first  part  is  uniform  in  the  several renditions  recorded,  while  that  of  the  latter  part  varies  with  the
 presence  or  omission  of  words.     The  melody  moves  freely  along  the
 
 •  Where  no  words  appear  in  the  musie  above,  meaningless  syllables  were  siuifr.
 
 
-124
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 intervals  of  the  fourth  fivcvtoncd  scale.  The  first  three  measures
 constitute  an  interesting  rliytiimic  phrase  but  it  is  not  re])eatefl  and
 the  song  as  a  whole  lacks  rhythmic  unity;  it  is,  however,  inspiring
-and  joyful  in  general  character.  Attention  is  directed  to  the  discrep-
-ancy between  the  metric  units  of  voice  and  drum.
+and  joyful  in  general  character.  Attention  is  directed  to  the  discrepancy between  the  metric  units  of  voice  and  drum.
 
 The  following  incident  illustrates  the  use  of  a  dream  song,  which
 the  warrior  sang  while  on  the  warpath,  to  secure  supernatural  aid,
@@ -15811,12 +12099,7 @@ No.  42.  "A  Cloud'
 Sung  by  Odjib'we
 
 
-(Catalogue  No.  330)
-
-
 Voice  Jrr  96
-Drum  J  =  96
-(  Drum-rhythm  similar  to  No.  3  )
 
 r
 
@@ -15859,12 +12142,6 @@ a'nakwad' a  cloud
 DKN.SMORE]
 
 
-CHIPPEWA    MUSIC — II
-
-
-125
-
-
 Analysis. — This  song  contains  three  accidentals — the  second,
 third,  and  sLxtli  lowered  a  semitone.  The  F  natural  was  imperfectly
 given  at  the  opening  of  the  song  but  accurately  sung  in  the  latter
@@ -15880,14 +12157,8 @@ The  following  is  the  dream  song  of  a  forgotten  warrior.
 No.  43.  "I  am  Called"
 
 Sung  by  Odjib'we
-Voice  J=  104
-Drum  J=  116
 
-(  Drum-rhythm  similar  to  No.  2 )
 ( 1st  phrase )
-
-
-(Catalogue  No.  331)
 
 
 k^^~:^-
@@ -15945,8 +12216,6 @@ It  will  be  noted  that  the  first  five  measures  of  the  song  constitute
 a  rhythmic  phrase,  marked  'Mst  phrase";  instead  of  repeating  this,
 
 
-126  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 however,  the  song  introduces  another  phrase  of  7  measures,  marked
 "2d  phrase,"  followed  by  still  another  of  5  measures,  marked  ''3d
 phrase."  Thus  the  song  contains  17  measures,  divided  into  tliree
@@ -15954,8 +12223,7 @@ parts,  each  part  making  "rhythmic  sense,"  the  three  forming  a
 rhythmic  whole.
 
 The  tones  of  the  song  are  grouped  about  the  chord  of  E  mmor,  the
-tone  A  in  the  ninth  measure  being  the  only  accented  tone  not  belong-
-ing to  that  chord.  The  presence  of  this  tone,  however,  makes  it
+tone  A  in  the  ninth  measure  being  the  only  accented  tone  not  belonging to  that  chord.  The  presence  of  this  tone,  however,  makes  it
 necessary  to  classify  the  song  as  melodic  rather  than  harmonic  in
 structure.  The  song  contains  all  the  tones  of  the  octave,  also  one
 accidental — the  sixth  raised  a  semitone.
@@ -15970,8 +12238,7 @@ the  two.     This  change  of  drum-rhythm  in  a  record  is  unusual.
 At  the  conclusion  of  these  dances  ^  the  scalps  were  carefully
 wrapped  and  kept  until  the  next  dance.  When  one  village  was
 tu-ed  of  dancing  with  the  scalps  they  were  sent  to  another  village,
-where  similar  dances  were  held.  ISIrs.  English  (the  writer's  inter-
-preter) stated  that  she  remembered  when  Sioux  scalps  were  sent
+where  similar  dances  were  held.  ISIrs.  English  (the  writer's  interpreter) stated  that  she  remembered  when  Sioux  scalps  were  sent
 from  the  Minnesota  villages  to  those  on  the  shore  of  Lake  Superior,
 a  distance  of  more  than  a  hundred  miles.  The  scalps  w^ere  carried
 by  the  same  oc'kabe'wis  who  bore  the  war  message  and  tobacco  before
@@ -16004,12 +12271,6 @@ the  formal   proceedings.     The   meeting   was   attended   with   much
 densmore]
 
 
-CHIPPEWA   MUSIC II
-
-
-127
-
-
 pomp  and  ceremony.  The  warriors  arrayed  themselves  in  their
 gayest  attire.  In  each  camp  was  the  sound  of  singino;  and  of  shrill
 war  cries,  excitement  was  in  the  air,  and  it  seemed  that  an  encounter
@@ -16034,8 +12295,7 @@ song,  introducing  the  names  of  the  following  Sioux  leaders  in  the
 successive  renditions:  Ca'gobens  (Little  Six),  Bi'nicons',  and  Wa'-
 bacons'.  He  then  stated  that  he  wished  to  record  the  song  as  it
 was  sung  by  the  Sioux.  The  melody  was  the  same  but  the  following
-names  of  Chippewa  leaders  were  introduced:  Bti'gonegi'jig  (Hole-in-
-the-day),  Wa'bejic'  ("marten"),  and Zon'gakum'Ig  ("strong  earth").
+names  of  Chippewa  leaders  were  introduced:  Bti'gonegi'jig  (Hole-inthe-day),  Wa'bejic'  ("marten"),  and Zon'gakum'Ig  ("strong  earth").
 
 
 No.  44.  Song  of  the  Peace  Pact
@@ -16043,12 +12303,8 @@ No.  44.  Song  of  the  Peace  Pact
 Sung  by  Odjib'we
 Voice  J^r  126
 Drum  J^i:  76
-( Drum-rhythm  similar  to  No.  2  )
 
 I ";  1
-
-
-(Catalogue  No.  352)
 
 
 gi
@@ -16080,17 +12336,10 @@ Contrs.,  vol.  iv,  Washington,  1852.
 Riggs,  Grammar  and  Dictionary  of  the  Dakota  Language,  Smithson.
 
 
-128
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
 [BULL.  5o
 
 
-Analysis. — This  melody  is  characterized  by  directness  and  simplic-
-ity. It  begins  on  the  tonic,  an  unusual  beginning  in  minor  songs,  and
+Analysis. — This  melody  is  characterized  by  directness  and  simplicity. It  begins  on  the  tonic,  an  unusual  beginning  in  minor  songs,  and
 the  minor  tonality  is  fully  established  in  the  first  two  measures.  The
 song  contains  12  measures  and  consists  of  three  parts,  the  rhythmic
 unit  occurring  in  the  first  and  last  parts  and  the  names  in  the  middle
@@ -16125,10 +12374,7 @@ Recorded  without  drum
 Epig=^^[[-5EgE^i^
 
 
-Nin  -  do-kidj  an  nin-
-
-
-do  -  kidj  an    nin-do  -  kidj  an
+Nin  -  do-kidj  an  nindo  -  kidj  an    nin-do  -  kidj  an
 
 
 nindo'kidj my  pipestem
@@ -16139,8 +12385,7 @@ tones  are  frequently  approached  from  the  tone  above.  (See  analysis
 of  No.  53.)  The  rhythmic  unit  occurs  only  twice,  the  latter  part  of
 the  song  containing  a  division  of  the  count  similar  to  one  which
 occurs  in  the  unit  but  not  contaming  a  repetition  of  the  unit.  The
-rhythm  of  the  song  as  a  whole  is  particularly  interesting  and  pro-
-duces an  effect  of  dignified  action  well  suited  to  the  occasion  of  its
+rhythm  of  the  song  as  a  whole  is  particularly  interesting  and  produces an  effect  of  dignified  action  well  suited  to  the  occasion  of  its
 use.  The  melody  tones  are  those  of  the  fourth  five-toned  scale.
 The  four  renditions  recorded  are  uniform  in  every  respect.
 
@@ -16149,9 +12394,6 @@ DBNSMORE]
 
 
 CHIPPEWA   MUSIC — n
-
-
-129
 
 
 When  the  smoking  of  the  peace  pipe  was  finished,  the  opposing
@@ -16189,18 +12431,9 @@ No.  46.  Ca^wuno^ga  Song     (a)
 Sung  by  Odjib'we
 
 
-(Catalogue  No.  354)
-
-
 Voice
 Drum
 
-
-88
-104
-
-
-(Drum-rhythm  similar  to  No.  2)
 
 — 1
 
@@ -16239,23 +12472,12 @@ t=^
 
 Analysis. — This  song  should  be  regarded  as  one  of  those  fugitive
 melodies  in  which  the  signature  indicates  the  pitch  of  the  tones  rather
-07996°— Bull.  53—13 9
-
-
-130
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.
 
 
 than  an  established  key.  The  six  renditions  of  the  song  recorded
 are  identical.  In  every  instance  the  close  was  as  transcribed,  and
 the  return  to  the  first  measure  was  without  a  pause.  The  first  two
-measures  are  in  an  ordinary  rhythm,  and  around  them,  in  the  repe-
-titions of  the  song,  there  circles  a  succession  of  measures  so  irregular
+measures  are  in  an  ordinary  rhythm,  and  around  them,  in  the  repetitions of  the  song,  there  circles  a  succession  of  measures  so  irregular
 in  rhythm  as  to  fascinate  and  hold  the  attention.  One  can  readily
 imagine  that  to  such  rhythms  the  excitable  Indians  might  have  danced
 all  night.
@@ -16264,11 +12486,9 @@ No.  47.  CaVuno^ga  Soni?    (b)  (Catalogue  No.  355)
 
 Sung  by  Oujib'we
 
-Voice  J  =168
 
 Drcm  J=  108
 
-(  Drum-rhythm  similar  to  No.  2 )
 
 (1)
 
@@ -16300,8 +12520,7 @@ ca'wuno^ south
 
 ga-yan dancing
 
-Analysis. — The  four  renditions  of  this  curious  song  show  no  varia-
-tion. The  general  effect  of  the  song  is  jerky,  yet  the  rhythm  has  an
+Analysis. — The  four  renditions  of  this  curious  song  show  no  variation. The  general  effect  of  the  song  is  jerky,  yet  the  rhythm  has  an
 element  of  indefinite  continuity;  it  is  a  rhythm  which  fascinates  and
 could  be  kept  up  for  a  long  time.  The  principal  rhythmic  miit  occurs
 four  times  at  the  opening  of  the  song,  and  is  followed  by  a  shorter
@@ -16319,12 +12538,6 @@ to  the  writer  by  Mr.  John  W.  Carl  (see  pp.  83,  303) .     Mr.  Carl, 
 uensmouk]
 
 
-CHIPPEWA    MUSIC II
-
-
-131
-
-
 grandson  of  Blca/ganab,  said  that  in  his  childhood  he  often  heard
 the  following  story:
 
@@ -16335,8 +12548,7 @@ were  born  to  them,  one  being  the  mother  of  Bica^ganab .  Years  passed 
 granddaughter  of  the  Hudson's  Bay  trader,  grew  to  womanhood.  One  day  as  she  was
 lighting  her  breakfast  fire  she  heard  the  cry,  "The  Sioux  are  upon  us !  "  This  was
 followed  by  the  report  of  guns.  Immediately  the  camp  became  a  scene  of  confusion,
-the  men  trying  to  repulse  the  Sioux  and  the  women  hastening  to  put  their  house-
-hold goods  into  canoes.  The  father  of  Bica^ganab  went  into  the  fight ;  he  was
+the  men  trying  to  repulse  the  Sioux  and  the  women  hastening  to  put  their  household goods  into  canoes.  The  father  of  Bica^ganab  went  into  the  fight ;  he  was
 wounded  five  times  but  contrived  to  get  near  the  water  and  was  helped  into  a  canoe.
 It  was  supposed  that  Bica^ganab  had  been  killed,  but  when  the  escaping  party  were
 far  from  shore  they  saw  a  woman  fighting  the  Sioux  with  a  club.  The  Sioux  drove
@@ -16347,8 +12559,7 @@ were  forced  into  the  water  and  she  pounded  them  with  a  paddle  as  th
 shore.  Instead  of  following  the  retreating  Chippewa  she  went  upstream,  hiding  in
 the  bushes,  returning  later  to  the  battlefield  by  a  circuitous  path.  There  she  found
 only  the  dead  Sioux,  covered  with  their  blankets;  beside  them  lay  their  guns  and
-much  beautiful  beadwork.  Bica'ganab  scalped  the  Sioux,  put  on  a  Sioux  war  bon-
-net, and  made  a  great  pack  of  blankets,  guns,  and  beadwork;  then  she  painted  her
+much  beautiful  beadwork.  Bica'ganab  scalped  the  Sioux,  put  on  a  Sioux  war  bonnet, and  made  a  great  pack  of  blankets,  guns,  and  beadwork;  then  she  painted  her
 face  and  went  to  the  Chippewa  camp  with  her  trophies.
 
 Bica'ganab,  one  of  the  bravest  of  Chippewa  women,  died  in  1892.
@@ -16361,23 +12572,14 @@ No.  48.  Song  Concerning  a  Brave  Woman
 
 
 Sung  by  Odjib'we
-Voice  J—  160
-Drum  J  -  160
-(Drum-rhythm  similar  to  No.  15)
 
 -•-       -•-       -•-       -(■-       -T-
-
-
-(Catalogue  No.  351)
 
 
 -•-    -•-    -F-    +-    -#-     -1—
 
 
 4:
-
-
-111
 
 
 i^i^
@@ -16416,18 +12618,11 @@ gigijawa^sonoda'gonani fought  for  us  all
 omitted  to  make  the  words  conform  to  the  music.
 
 
-132
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
 [BULL.  r»o
 
 
 Analysis. — This  melody  presents  an  interesting  study  of  rhythm.
-It  contains  19  measures  and  is  divided  into  three  parts,  the  first  con-
-taining 5  measures,  the  second  4,  and  the  third  10.  It  has  no  rhythmic
+It  contains  19  measures  and  is  divided  into  three  parts,  the  first  containing 5  measures,  the  second  4,  and  the  third  10.  It  has  no  rhythmic
 unit,  yet  there  is  a  melodic  phrase  which  occurs  three  times — in  the
 second  and  third,  and  in  the  sixth  and  seventh,  measures.  It  occurs
 also  in  the  tenth  and  eleventh  measures,  but  in  the  latter  instances  the
@@ -16449,20 +12644,10 @@ the  incident.
 
 No.  49.  "The  Sioux  Woman  Defends  Her  Children"
 
-(Catalogue  No,  304)
 Sung  by  Odjib^we
 
-Voice  J  =  92
 
-Drum  J  =  92
-
-(  Drum-rhythm  similar  to  No.  2 )
-
-
-Ne  -  ta  -  gi  -ca-wa  -  so    -    sTg  Wa-pe-ton     bi  -  a  -  pi  -  sT  -  ka  -  dug  go-
-
-
-a^iiiisi
+Ne  -  ta  -  gi  -ca-wa  -  so    -    sTg  Wa-pe-ton     bi  -  a  -  pi  -  sT  -  ka  -  dug  goa^iiiisi
 
 
 4=t^t
@@ -16478,7 +12663,6 @@ P
 
 ca-\vin  bi-gi  -  ca-wa-sud
 
-WORDS
 
 neta'gica^wasosig' once  careless  of  her  children
 
@@ -16498,12 +12682,6 @@ uniform.     Not  only  is  the  rhythm  identical,  but  slight  variations  in
 
 
 DENSMOREl
-
-
-CHIPPEWA    MUSIC II
-
-
-133
 
 
 tempo  are  duplicated.  The  melody  is  based  on  the  major  triad  and
@@ -16526,14 +12704,8 @@ No.  60.  Song  of  the  Captive  Sioux  Woman
 
 
 Sung  by  Odhb'we
-Voice  J  =  80
-Drum  J=  100
-(Drum-rhythm  similar  to  No.  3)
 
 :P4
-
-
-(Catalogue  No.  334)
 
 
 ^m^m
@@ -16543,9 +12715,6 @@ Ka-ka-ta-wfi  wi    he
 
 
 ya -ba- ma  -  gin  go  -  dji    -     ma    he     ke-
-
-
-VoiCE  J  =  92
 
 
 PS^^
@@ -16568,8 +12737,7 @@ Analysis. — Five  renditions  of  this  song  were  recorded.  The  metric
 unit  varies  slightly  in  these  renditions,  the  metronome  indication
 being  from  the  fourth  rendition.  The  same  rhythmic  pocularities
 appear  in  all  the  renditions,  the  first  count  in  the  second  measure
-receiving  more  than  the  regular  time  and  the  last  two  measures  be-
-ing sung  more  rapidly  than  the  preceding  part  of  the  song.  The
+receiving  more  than  the  regular  time  and  the  last  two  measures  being sung  more  rapidly  than  the  preceding  part  of  the  song.  The
 upward  progressions  in  the  second  measure  are  uncertain  in  intona-
 
 1  Word  used  by  the  Sioux  in  designating  the  Chippewa.
@@ -16578,19 +12746,9 @@ upward  progressions  in  the  second  measure  are  uncertain  in  intona-
 words  to  the  music.
 
 
-134
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 tion,  the  upper  tones  not  being  clearly  sung  but  rendered  with  what
 might  be  termed  a  "toss"  of  the  voice.  The  song  contains  no
-rhythmic  unit,  yet  the  melody  as  a  whole  has  a  complete  and  satis-
-factory rhythm.  Attention  is  directed  to  the  interval  of  a  whole
+rhythmic  unit,  yet  the  melody  as  a  whole  has  a  complete  and  satisfactory rhythm.  Attention  is  directed  to  the  interval  of  a  whole
 tone  between  the  seventh  and  eighth  of  the  scale,  near  the  close  of  the
 song.  This  interval  was  firmly  given.  It  is  an  unusual  progression
 in  recorded  Chippewa  songs  although  found  also  in  songs  Nos.  9,  85,
@@ -16616,11 +12774,6 @@ Serial  Nos.  of  songs
 
 Major
 
-27
-23
-
-54
-40
 
 2,  3,  5,  6,  7,  8,  L3,  Ifi,  18,  19,  20,  21,  22,  23,  2r),
 
@@ -16631,7 +12784,6 @@ Major
 
 Total
 
-50
 
 BEGINNINGS  OF  SONGS
 
@@ -16646,29 +12798,9 @@ Serial  Nos.  of  songs
 
 Thirteenth
 
-3
-
-1
-11
-
-8
-11
-
-5
-10
-
-1
 
 fi
 
-22
-16
-
-10
-
-20
-
-2
 
 19,  20,  29
 
@@ -16676,7 +12808,6 @@ Sixth
 
 Twelfth
 
-45
 
 1,  2,  3,  7,  12,  10,  22,  27,  40,  41,  42
 
@@ -16698,11 +12829,9 @@ Octave
 
 Fourth
 
-46
 
 Total
 
-50
 
 ENDINGS  OF  SONGS
 
@@ -16717,15 +12846,6 @@ Serial  Nos.  of  songs
 
 Tonic
 
-31
-
-14
-5
-
-62
-
-28
-10
 
 1,  2,  3,  4,  6,  7,  8,  9,  10,  11,  12,  16,  19,  24,  25,  26,
 
@@ -16741,15 +12861,8 @@ Third
 
 Total
 
-50
 
 ii
-
-
-CHIPPEWA   MUSIC — II
-
-
-135
 
 
 Melodic  Analysih — continued
@@ -16764,8 +12877,6 @@ Serial  Nos.  of  songs
 
 Second  five-toned  scale
 
-6
-16
 
 S2
 
@@ -16778,29 +12889,13 @@ Fourth  five-toned  scale
 
 41   42
 
-2
-
-4
-2
 
 33,  37
 
-1
-
-49
 
 Minor  triad  and  seventh
 
-1
 
-2
-
-36
-
-2
-2
-
-4
 4.
 
 29,  35
@@ -16810,89 +12905,47 @@ Minor  triad  and  fourth
 
 Minor  third  and  fourth
 
-1
-
-2
 
 U
 
-1
-
-2
-
-43
 
 Octave  complete  except  seventh
 
-5
-
-10
 
 2,  7,  25,  27,  32
 
 Octave  complete  except  seventh  and
 
-1
-
-2
-
-38
 
 sixth
 
 Octave  complete  except  seventh  and
 
-2
-
-4
 
 14,  15
 
 second
 
-3
-
-6
 
 9,  39,  46
 
-3
-
-6
 
 13,  20,  48
 
 Octave   complete   except   fourth    and
 
-1
-
-2
-
-28
 
 third
 
-Octave  complete  except  fourth  and  sec-
-
-1
-
-2
-
-5
-
-ond
+Octave  complete  except  fourth  and  second
 
 Octave  complete  except  second
 
-2
-
-4
 
 4,50
 
 Total
 
-50
 
 ACCIDENTALS
 
@@ -16905,9 +12958,6 @@ Per  cent.
 
 Serial  Nos.  of  sonps
 
-38
-
-76
 
 1,2,3,4,5,6,  9,  10,  11,12,  13,14,  15,16,17,18,
 20,21,23,24,25,26,  27,28,  31,33,34,35,37,
@@ -16916,64 +12966,31 @@ Serial  Nos.  of  sonps
 
 Seventh  raised  a  semitone
 
-1
-
-1
-
-2
-2
-
-36
 
 Sixth  raised  a  semitone
 
-43
 
 Sixth  lowered  a  semitone
 
-5
-
-1
-2
-
-1
-
-10
-
-2
-4
-
-2
 
 7   8   19  22  41
 
 Fourth  lowered  a  semitone
 
-30
 
 Second  lowered  a  semitone
 
 29  4(j  ■
 
-Second,  third,  and  sixth  lowered  a  semi-
-
-42
-
-tone
+Second,  third,  and  sixth  lowered  a  semitone
 
 Second  lowered  a  semitone  and  fourth
 
-1
-
-2
-
-32
 
 raised  a  semitone
 
 Total
 
-50
 
 STRUCTURE
 
@@ -16986,15 +13003,6 @@ Serial  Nos.  of  songs
 
 Harmonic
 
-11
-25
-
-14
-
-22
-50
-
-28
 
 3  4  5  10  17  24  26  33  35  37  50
 
@@ -17009,18 +13017,9 @@ Melodic  with  harmonic  framewcJrk
 
 Total
 
-50
-
-136
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
 
 Melodic  Analysis — continued
 FIRST  PROGRESSIONS
-
-
-[BULL.  53
 
 
 Numbers
@@ -17029,10 +13028,6 @@ Percent.
 
 Serial  Nos.  of  songs
 
-30
-20
-
-60
 
 1,  2,  3,  4,  5,  0,  8,  12,  14,  15,  17,  19,  21,  22,  23,
 
@@ -17044,7 +13039,6 @@ Serial  Nos.  of  songs
 
 Total
 
-50
 
 Rhythmic  Analysis
 part  of  measure  on  which  song  begins
@@ -17058,11 +13052,8 @@ Serial  Nos.  of  songs
 
 On  accented  part
 
-24
-20
 
 4S
-52
 
 2,  3,  5,  6,  8,  14, 15,  16, 17,  20,  23,  25,  26,  27,  31,
 
@@ -17073,7 +13064,6 @@ On  accented  part
 
 Total
 
-60
 
 RHYTHM  OF  FIRST  MEASURE
 
@@ -17088,21 +13078,6 @@ Serial  Noa.  of  songs
 
 2-4  time
 
-26
-
-19
-
-1
-3
-1
-
-62
-
-38
-
-2
-6
-2
 
 5,  6,  9,  11,  13,  14,  16,  18,  21,  23,  24,  29,  30,  31,
 
@@ -17112,17 +13087,14 @@ Serial  Noa.  of  songs
 1,  3,  4,  7,  8,  10,  12,  15,  19,  20,  22,  28,  36,  38,  39,
 
 43,  44,  47,  50
-27
 
 17,  25,  26
 
 5-8  time
 
-2
 
 Total
 
-50
 
 CHANGE  OF  TIME
 
@@ -17135,10 +13107,6 @@ Percent.
 
 Serial  Nos.  of  songs
 
-38
-12
-
-76
 
 u
 
@@ -17150,18 +13118,12 @@ u
 
 Total
 
-50
 
 densmore]
 
 
-CHIPPEWA   MUSIC II
-
 Rhythmic  Analysis — continued
 RHYTHMIC  UNIT
-
-
-137
 
 
 Songs  containing—
@@ -17174,15 +13136,6 @@ Serial  Nos.  of  songa
 
 A  rhythmic  unit
 
-38
-
-2
-10
-
-76
-
-4
-20
 
 1,  2,  3,  4,  5,  6,  8,  11,  12,  13,  15,  IG,  18,  19,  20,
 
@@ -17194,7 +13147,6 @@ A  rhythmic  unit
 
 Total
 
-50
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DifUM  i
 
@@ -17209,13 +13161,6 @@ Unit  the  same
 
 Unit  different
 
-12
-29
-
-9
-
-68
-18
 
 5,  15,  16,  17,  18,  19,  22,  29,  33,  42,  48,  49
 
@@ -17229,7 +13174,6 @@ Recorded  without  drum
 
 Total
 
-50
 
 1  For  more  detailed  analysis  see  Table  20,  p.  30.
 
@@ -17254,9 +13198,6 @@ serious  injur}^  might  have  resulted,  but  the  fight  was  waged  right
 lustily  and  blood  flowed  freely.
 
 
-138
-
-
 BUREAU    OP   AMEEICAN    ETHNOLOGY
 
 
@@ -17267,12 +13208,6 @@ No.  51.  War  Soii^  of  OdJU/we's  Childliood
 
 
 Sung  by  Oujib'we
-Voice  J  —  80
-Drum  J  =  80
-(Drum-rhythm  similar  to  No.  19)
-
-
-(Catalogue  No.  278)
 
 
 4-^—^
@@ -17298,7 +13233,6 @@ EEgEE^l
 
 do-kidj  a  nin-do-kidj  a
 
-WORDS
 
 uindo^kidj my  pipestem
 
@@ -17306,8 +13240,7 @@ Analysis. — This  song  conttiins  the  tones  of  the  fiftli  five-toned  sc
 accordmg  to  Hehiilioltz  (see  p.  4),  a  scale  wluch  comprises  the  tones
 of  the  diatonic  octave,  with  the  exception  of  the  second  and  fifth.
 The  song  is  in  the  key  of  D  mmor  and  the  tones  E  and  A  do  not
-appear.  No.  52  is  based  on  the  same  scale.  This  song  is  charac-
-terized by  the  approach  to  an  harmonic  tone  by  means  of  the  tone
+appear.  No.  52  is  based  on  the  same  scale.  This  song  is  characterized by  the  approach  to  an  harmonic  tone  by  means  of  the  tone
 above.  (See  No.  53.)  The  three  renditions  recorded  are  uniform  in
 QY&iy  respect.  The  metric  unit  is  very  slow,  a  characteristic  of  many
 songs  of  self-control.     (See  Nos.  30,  52,  103,  161).
@@ -17338,14 +13271,10 @@ de:^.smoke1
 CHIPPEWA   MUSIC^ — n
 
 
-139
-
-
 No.  52.  Song  Beforo  the  Boys'  Fight    (Oatalo^'uc  No.  L'7!))
 Sung  by  Odjib^we
 
 
-Voice  J  =  63
 Recorded  without  drum
 
 
@@ -17362,7 +13291,6 @@ No.  53.  Little  Girls'  War  Song
 Sung  by  Odjib^wk
 
 
-Voice  J  =  96
 Recorded  without  drum
 
 
@@ -17425,7 +13353,6 @@ l=j=gl
 
 Nin-a-bem      ga-mo-kwa-na-wind
 
-WORDS
 
 nina'bem. my  husband
 
@@ -17445,14 +13372,11 @@ This  feature  is  found  in  only  1 1  songs  (3  per  cent)  of  the  entu'e 
 of  340.     The  examples  found  in  Bullethi  45  are  Nos.  132,  142,  149,
 
 
-140  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 150,  170,  174,  197;  those  in  the  present  volume  are  Nos.  53,  112,  125,
 and  127,  the  last  being  another  version  of  No.  149  in  Bulletin  45.
 Of  this  number  4  are  moccasin  game  songs,  2  are  war  songs,  1  is  a
 love  song,  and  3  (including  the  present  example)  are  songs  for  the
-entertainment  of  children.  Second,  it  begins  with  the  upward  pro-
-gression of  an  octave,  a  characteristic  of  only  5  other  songs  of  tlie
+entertainment  of  children.  Second,  it  begins  with  the  upward  progression of  an  octave,  a  characteristic  of  only  5  other  songs  of  tlie
 entire  series ;  possible  connection  of  this  with  the  content  of  the  song
 is  noted  in  the  analysis  of  No.  9.  The  other  examples  are  Nos.  170
 and  174  in  Bulletin  45,  and  Nos.  9,  31,  and  125  in  the  present  volume.
@@ -17549,8 +13473,7 @@ are  the  principal  "overtones"  (see  p.  4)  of  a  fundamental  tone.
 
 DRUM-PRESENTATION  CEREMONY
 
-In  October,  1910,  the  wTiter  witnessed  the  ceremony  accompany-
-mg  the  presentation  of  two  drums  by  the  Lac  du  Flambeau  Band
+In  October,  1910,  the  wTiter  witnessed  the  ceremony  accompanymg  the  presentation  of  two  drums  by  the  Lac  du  Flambeau  Band
 of  Chippewa  in  Wisconsin  to  the  Menominee  Indians  in  the  same
 State.  Part  of  this  ceremony  was  enacted  on  the  Lac  du  Flambeau
 Reservation  and  part  on  the  Menominee  Reservation.  It  is  called
@@ -17568,18 +13491,14 @@ So  great  is  the  veneration  in  which  the  drum  and  its  ceremonies
 are  held  that  there  has  sprung  up  what  is  called  the  "drum  religion."
 This  does  not  supplant  the  Mde'  (Grand  Medicine),  but  introduces
 a  new  element.  The  Mide'  ^  has  regard  chiefly  for  the  individual;  its
-aim  is  to  secure  health  and  long  life  for  him,  and  its  mstructions  con-
-cern his  own  character.  Its  precepts  regarding  the  relation  of  man  to
+aim  is  to  secure  health  and  long  life  for  him,  and  its  mstructions  concern his  own  character.  Its  precepts  regarding  the  relation  of  man  to
 his  neighbor  (so  far  as  observed)  are  connected  with  the  cure  of  illness
-and  general  rectitude  of  conduct.  The  "religion  of  the  drum"  incul-
-cates a  developed  and  broadened  sense  of  responsibiUty  and  con-
-cerns peace  between  peoples  who  have  been  at  enmity.  The  cere-
-monies of  the  Mide'  are  not  marked  by  extreme  ritual  exactness  and
+and  general  rectitude  of  conduct.  The  "religion  of  the  drum"  inculcates a  developed  and  broadened  sense  of  responsibiUty  and  con-
+cerns peace  between  peoples  who  have  been  at  enmity.  The  ceremonies of  the  Mide'  are  not  marked  by  extreme  ritual  exactness  and
 some  latitude  is  allowed  the  leaders  in  the  choice  of  songs  as  well  as
 in  the  text  of  their  discourses,  but  in  the  ceremonies  connected  with
 the  drum  certain  songs  and  no  others  must  be  sung,  and  dancing
-once  begun  must  be  contmued  the  prescribed  length  of  time  regard-
-less of  conditions.  The  central  idea  of  the  "  drum  religion"  is  that  of
+once  begun  must  be  contmued  the  prescribed  length  of  time  regardless of  conditions.  The  central  idea  of  the  "  drum  religion"  is  that  of
 peace,  yet  mingled  with  this  idea  is  law,  rigorous  and  inflexible.  The
 Chippewa  say  that  the  drum  and  its  "religion"  came  to  them  from
 the  Sioux  many  years  ago,  but  it  came  to  them  also  through
@@ -17593,21 +13512,17 @@ Bur.  Ethn.,  pt.  1,  pp.  loT-lOl.
 
 2  See  Bulletin  45,  p.  U.
 
-142
-
 
 DENSMOKE]  CHIPPEWA    MUSIC— II  143
 
 No  attempt  has  been  made  herein  to  analyze  this  "drum  rehgion,"
-but  the  attitude  of  the  Indians  toward  it  is  indicated  by  the  foUow-
-uig  statement  of  Wis 'kino  ("bird  ") ,  the  Menominee  chief  to  whom  one
+but  the  attitude  of  the  Indians  toward  it  is  indicated  by  the  foUowuig  statement  of  Wis 'kino  ("bird  ") ,  the  Menominee  chief  to  whom  one
 of  the  Chippewa  drums  was  given.  Referring  to  his  position  as  owner
 of  a  drum,  Wis 'kino  said:*
 
 I  will  keep  this  drum  in  my  house.  There  will  always  be  tobacco  beside  it  and
 the  drum  pipe  will  always  be  filled.  When  I  smoke  at  home  I  will  use  the  pipe  that
-belongs  to  the  drum.  My  friends  will  come  to  my  house  to  visit  the  drum.  Some-
-times my  wife  and  I  will  have  a  little  feast  of  our  own  beside  the  drum,  and  we  will
+belongs  to  the  drum.  My  friends  will  come  to  my  house  to  visit  the  drum.  Sometimes my  wife  and  I  will  have  a  little  feast  of  our  own  beside  the  drum,  and  we  will
 ask  the  drum  to  strengthen  us  in  our  faith  and  resolution  to  Uac  justly  and  to  wrong
 no  one.  When  my  wife  and  I  do  this  alone  there  will  be  no  songs.  Only  special  men
 may  sing  the  songs  of  the  drum,  and  my  part  is  that  of  speaker.
@@ -17620,8 +13535,7 @@ speaker  at  these  small  gatherings.  He  speaks  as  representati^•e  of  t
 presents  the  tobacco  to  the  drum,  after  which  it  is  given  to  the  singers  who  sit  at
 the  drum.
 
-It  is  said  that  many  generations  ago  the  Sioux  gave  to  the  Chip-
-pewa a  large  drum  similar  to  the  one  used  at  the  pres*ent  time  in  the
+It  is  said  that  many  generations  ago  the  Sioux  gave  to  the  Chippewa a  large  drum  similar  to  the  one  used  at  the  pres*ent  time  in  the
 ceremony  here  considered,  taught  them  the  "songs  belonging  to  the
 drum,"  and  related  to  them  the  tradition  concerning  its  origin.  It
 is  believed  that  permanent  peace  between  the  two  tribes  was  a
@@ -17642,10 +13556,8 @@ the  means  used  by  the  manido'  ^  in  giving  this  type  of  drum  to  the
 1  This  and  other  speeches  hy  WIs'Hno  were  interpreted  by  Mr.  Frank  Gokay,  a  prominent  member  of
 the  Menominee  tribe.
 
-2  The  word  manido'  (spelled  also  manito)  is  defined  by  Baraga  as  "spirit,  ghost."  The  following  explana-
-tion of  the  word  in  some  of  its  compounds  was  given  by  Rev.J.  A.GilfiUan:  Ki'j'ie'  manido',  literally,  '•  he  who
-has  his  origin  from  no  one  but  himself ,  the  Uncreated  God";  Men'ido  wcnda'g  wHk,  that  which  is  so  astonish-
-ing as  to  be  considered  superhuman;  Manido'  wah,  the  name  of  a  man,  meaning,  "  he  looks  through  the  thing
+2  The  word  manido'  (spelled  also  manito)  is  defined  by  Baraga  as  "spirit,  ghost."  The  following  explanation of  the  word  in  some  of  its  compounds  was  given  by  Rev.J.  A.GilfiUan:  Ki'j'ie'  manido',  literally,  '•  he  who
+has  his  origin  from  no  one  but  himself ,  the  Uncreated  God";  Men'ido  wcnda'g  wHk,  that  which  is  so  astonishing as  to  be  considered  superhuman;  Manido'  wah,  the  name  of  a  man,  meaning,  "  he  looks  through  the  thing
 asGod  does,  or  with  superhuman  insight";  Man'idoka'zo,  he  tries  to  make  people  believe  he  has  superhuman
 power,  but  he  is  an  impostor.  The  same  authority  states  that  a  small  wild  animal  is  called  man' idow ens',
 meaning  "  a  poor,  miserable  little  spirit,"  the  explanation  Ijeing  that  the  little  animal  is  not  a  clod  of  earth,
@@ -17659,8 +13571,6 @@ earth."  The  word  is  applied  to  animals  in  the  MIde'  (songs  Nos.  34  
 seesananimalinhisyouthful  vision  calls  that  animal  his  manido'  and  wears  some  part  of  the  animal  on
 his  person  as  part  of  his  "medicine."
 
-
-144  BUREAU   OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 Indians,  thus  securing  peace  between  the  Sioux  and  the  Chippewa.
 They  agreed  also  in  the  statement  that  the  woman  hid  in  the  water
@@ -17691,8 +13601,7 @@ told  her  that  when  the  first  drum  was  finished  he  would  come  down  t
 men  must  be  offered  to  him  in  return  for  his  gift  of  the  drum.
 
 The  woman  told  the  men  how  to  make  the  drum.  When  it  was  finished  and  the
-singers  had  learned  the  songs  they  all  gathered  around  it.  The  instant  that  the  drum-
-mers struck  the  drum  for  the  first  time  '  the  manido^  appeared  again  and  the  two  men
+singers  had  learned  the  songs  they  all  gathered  around  it.  The  instant  that  the  drummers struck  the  drum  for  the  first  time  '  the  manido^  appeared  again  and  the  two  men
 who  had  made  the  drum  fell  dead  beside  it.
 
 It  is  said  that  the  drums  now  given  by  one  tribe  or  band  to  another
@@ -17718,21 +13627,12 @@ slightly  in  size  and  in  elaborateness  of  decoration.     The  larger  is
 given  (see  p.  171).— F.  D.
 
 
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN  53     PLATE   18
-
-
 W .  t^Upa
 
 M
 
 ■^        »»
 
-1
-
-9
 
 I
 
@@ -17744,7 +13644,6 @@ u
 
 Hi
 
-1
 
 DRUM  AND  STAKES  USED  IN  DRUM-PRESENTATION  CEREMONY
 
@@ -17759,10 +13658,8 @@ is  presented  by  one  member  of  the  tribe  to  another.  The  word
 village  or  settlement  and  throughout  the  description  of  the  ceremony
 the  word  "warrior"  refers  to  any  of  the  men  of  the  assembly.
 
-At  the  ceremony  witnessed  by  the  writer  the  chief  drum  was  pre-
-sented to  Wis 'kino,  chief  or  "speaker"  of  the  West  Branch  Settle-
-ment of  the  Menominee  tribe,  by  Bi'jikens  *  ("small  ox"),  a  ])romi-
-nent  member  of  the  Lac  du  Flambeau  Band  of  Chippewa,  and  tlie
+At  the  ceremony  witnessed  by  the  writer  the  chief  drum  was  presented to  Wis 'kino,  chief  or  "speaker"  of  the  West  Branch  Settle-
+ment of  the  Menominee  tribe,  by  Bi'jikens  *  ("small  ox"),  a  ])rominent  member  of  the  Lac  du  Flambeau  Band  of  Chippewa,  and  tlie
 warrior  drum  was  presented  to  a  Menominee  from  another  ])art  of
 the  reservation  by  a  Lac  du  Flambeau  Chippewa.
 
@@ -17770,8 +13667,7 @@ The  chief  drum  (pi.  18)  presented  on  this  occasion  was  seen  by  the
 writer  in  the  house  of  Bi'jikens.  It  was  placed  on  a  low  box  in  one
 corner  of  the  room;  the  box  and  the  floor  around  it  were  covered
 with  a  clean  white  quilt.  Beside  the  drum  were  the  various  articles
-belonging  to  it,  the  pipe  filled  and  ready  for  use,  and  the  drum-
-sticks in  neat  cloth  cases.  The  drum  and  all  that  pertamed  to  it
+belonging  to  it,  the  pipe  filled  and  ready  for  use,  and  the  drumsticks in  neat  cloth  cases.  The  drum  and  all  that  pertamed  to  it
 were  treated  with  greatest  respect  by  Bi'jikens  and  his  family.
 After  some  hesitation  he  gave  his  consent  to  the  photographing  of
 the  drum  and  it  was  carried  to  the  dancing  circle  by  his  son  and  his
@@ -17783,28 +13679,19 @@ drum  was  27  inches  in  diameter  and  about  12  inches  in  thickness.
 It  had  two  heads  of  untanned  hide  decorated  alike — one  half  painted
 blue  and  the  other  half  red,  with  a  band  of  yellow  near  the  edge  of
 the  blue  segment.  The  sides  of  the  drum  were  concealed  by  a  strip  of
-red  flannel  edged  with  blue,  which  hung  below  the  rim;  this  was  deco-
-rated with  pierced  silver  disks.  Around  the  upper  rim  was  a  band  of
+red  flannel  edged  with  blue,  which  hung  below  the  rim;  this  was  decorated with  pierced  silver  disks.  Around  the  upper  rim  was  a  band  of
 otter  fur  2  inches  wide,  with  four  loops  of  fur  which  served  as
 handles  for  lifting  the  drum  and  also  as  a  means  of  suspendhig  it
 from  the  stakes  wlien  in  use.  Below  the  band  of  fur  was  a  broad  band
 of  beadwork  edged  with  a  deep  fringe  of  beads  terminatmg  in  tassels
 and  metal  thimbles.  Four  ornaments  of  heavy  beadwork  decorated
-the  sides  of  the  drum.  The  stakes  supportmg  the  drum  were  com-
-pletely covered  with  beadwork  and  bands  of  otter  fur.  In  a  socket
+the  sides  of  the  drum.  The  stakes  supportmg  the  drum  were  completely covered  with  beadwork  and  bands  of  otter  fur.  In  a  socket
 on  the  top  of  each  were  placed  two  large  feathers,  and  each  stake  was
-tipped  with  the  tufted  end  of  a  cow's  tail  and  several  ribbon  stream-
-ers, blue  on  the  stakes  at  the  west  and  north  and  red  on  those  at
+tipped  with  the  tufted  end  of  a  cow's  tail  and  several  ribbon  streamers, blue  on  the  stakes  at  the  west  and  north  and  red  on  those  at
 
 
-I  This  name  is  composed  of  two  words,  "bf'jai,"  meaning  originally  "buffalo"  and  later  applied  to  "cat-
-tle" (see  pp.  63,  203),  and  "ens,"  a  diminutive  termination.  The  meaning  of  the  name  was  given  as
+I  This  name  is  composed  of  two  words,  "bf'jai,"  meaning  originally  "buffalo"  and  later  applied  to  "cattle" (see  pp.  63,  203),  and  "ens,"  a  diminutive  termination.  The  meaning  of  the  name  was  given  as
 "small  ox,"  this  being  the  more  common  translation  ofbi'jiki.
-
-67996°— Bull.  53—13 10
-
-
-146
 
 
 BUEEAU    OF   AMERICAN    ETHNOLOGY
@@ -17816,16 +13703,14 @@ Lbiill.  53
 the  east  and  south.  Beside  the  drum  were  the  four  drumsticks  used
 by  the  leading  drummers,  each  covered  with  soft  brown  deerskin  and
 decorated  with  a  band  of  otter  fur  and  long  ribbon  streamers.  There
-was  also  a  longer  stick  used  only  by  the  owner  of  the  drum  in  a  par-
-ticular part  of  the  ceremony  (see  p.  171) .  This  stick  was  more  than  3
+was  also  a  longer  stick  used  only  by  the  owner  of  the  drum  in  a  particular part  of  the  ceremony  (see  p.  171) .  This  stick  was  more  than  3
 feet  long.  Over  the  curved  end  was  slipped  the  skm  from  the  neck
 of  a  loon,  its  glossy  black  feathers  dotted  with  white.  The  pipe
 belonging  to  the  drum  had  a  flat  stem  decorated  with  geometric
 drawings,  with  a  tuft  of  red  woodpecker  feathers  sunk  in  the  wood
 (fig.  3) .  (The  second  pipe  belonging  to  the  drum,  known
 as  the  warrior  pipe,  is  not  shown  in  the  illustration,  as
-it  had  been  sent  to  Wis 'kino  in  anticipation  of  the  cere-
-mony.) Beside  the  pipe  are  seen  also  a  turtle  shell,  which
+it  had  been  sent  to  Wis 'kino  in  anticipation  of  the  ceremony.) Beside  the  pipe  are  seen  also  a  turtle  shell,  which
 contained  a/pak' osigun'  (tobacco  mixed  with  the  inner
 Inirk  of  the  red  willow)  and  a  wooden  box  having  three
 compartments;  those  at  the  ends  contained,  respectively,
@@ -17836,23 +13721,20 @@ ordinary  drumsticks  used  by  the  drummers.
 
 Four  years  ago  this  drum  was  given  to  Bi'jikens  by  a
 leader  of  the  Bad  River  Chippewa.  Although  he  has
-parted  with  it,  Bi'jikens  retains  the  right  to  make  dupli-
-cates and  to  give  them  away  at  any  time.  In  connection
+parted  with  it,  Bi'jikens  retains  the  right  to  make  duplicates and  to  give  them  away  at  any  time.  In  connection
 with  this  right  the  following  incident  came  to  the  writer's
 notice:  A  few  weeks  before  the  presentation  of  the  drums
 to  the  Menominee  a  drum  was  given  by  Mec'kawiga'bau  to
 a  Chippewa  at  a  neighboring  settlement.  Mec'kawiga  'bau
 stated  that  he  intended  to  make  a  dupHcate  of  the  drum
 during  the  coming  winter  and  to  give  it  away  the  next
-summer.  According  to  him  there  are  no  songs  or  cere-
-monies connected  with  the  making  of  a  drum,  but  the
+summer.  According  to  him  there  are  no  songs  or  ceremonies connected  with  the  making  of  a  drum,  but  the
 songs  used  in  connection  with  the  new  one  must  be
 those  he  received  with  the  origmal  drum.  He  did  not
 receive  the  drum  in  the  usual  manner.  It  had  been
 given  to  Me'dweya'sun  (seep.  249),  the  chief  of  the  Lac  du  Flambeau
 Chi})pewa,  whose  advanced  age  rendered  him  unable  to  discharge  the
-obligations  associated  witli  it.  A  few  months  before  his  death,  there-
-fore, he  gave  a  dance  at  which  he  made  a  speech  saymg  that  he  was
+obligations  associated  witli  it.  A  few  months  before  his  death,  therefore, he  gave  a  dance  at  which  he  made  a  speech  saymg  that  he  was
 very  feeble  and  wanted  tlie  drum  to  be  in  safe  keeping,  but  that  he
 was  not  strong  enough  to  visit  some  other  settlement  in  order  to
 present  it  to  the  people.  As  he  did  not  want  to  impose  that  duty  on
@@ -17875,8 +13757,7 @@ Lake  Reservation,  the  drum  was  suspended  from  crotched  sticks
 (see  p.  252) ;  in  all  other  mstances  it  rested  on  the  ground.  No
 decorated  drumsticks  were  used,  there  was  no  pipe  belongmg  to
 the  drum,  and  its  significance  as  a  peace  symbol  seemed  to  have  been
-lost.  It  is  reported,  however,  that  occasional  ceremonies  of  drum-
-presentation  are  still  held  in  remote  parts  of  the  Aliiinesota  reserva-
+lost.  It  is  reported,  however,  that  occasional  ceremonies  of  drumpresentation  are  still  held  in  remote  parts  of  the  Aliiinesota  reserva-
 tions. The  Chippewa  of  Minnesota  are  in  frequent  contact  with  the
 Sioux,  the  two  tribes  advancmg  side  by  side  in  civilization.  In
 Wisconsin  the  contact  is  less  recent  and  more  of  a  glamor  is  thrown
@@ -17892,8 +13773,7 @@ party  is  as  follows:  The  chief  of  the  settlement;  the  owner  of  the
 drum;  the  speaker;  the  aid  (oc'kabe'wis) ;  the  manager  of  the
 dancing  hall  or  circle;  five  men  who  take  care  of  the  drum;  the  man
 who  takes  care  of  the  drum  pipe  (used  by  the  drummers) ;  the  man  who
-takes  care  of  the  warrior's  pipe  (used  by  the  dancers) ;  the  chief  drum-
-mer and  singer;  four  leading  drummers  and  singers  (one  being  seated
+takes  care  of  the  warrior's  pipe  (used  by  the  dancers) ;  the  chief  drummer and  singer;  four  leading  drummers  and  singers  (one  being  seated
 at  each  ''leg"  of  the  drum) ;  four  leadmg  women  singers  (seated  behind
 the  leading  ch'ummers) ;  four  assistant  women  singers  (seated  between
 the  leading  women  singers) ;  four  leading  dancers  (said  to  be  "one  for
@@ -17903,8 +13783,7 @@ During  a  ceremony  the  chief  drummer  is  usually  seated  at  the
 western  side  of  the  drum  and  at  his  right  hand  are  placed  the  drum
 ])ipe,  the  turtle  shell  filled  with  a'pak'osigun  (tobacco  mixed  with  red
 willow  bark),  and  the  other  articles  belonging  to  the  drum.  He
-it  is  wlio  starts  the  songs  and  leads  the  singing.  The  leading  drum-
-mers are  seated  by  the  four  stakes,  or  "legs"  supporting  the  drum,
+it  is  wlio  starts  the  songs  and  leads  the  singing.  The  leading  drummers are  seated  by  the  four  stakes,  or  "legs"  supporting  the  drum,
 and  between  them  are  the  singers  and  drummers  of  less  importance,
 who  have  no  permanent  seats.  The  women  form  a  large  outer
 circle,  sittmg  with  bowed  heads,  their  mouths  covered  by  theu*  hands
@@ -17915,15 +13794,11 @@ between  the  voices  of  men  and  women  when  singing  together.  It
 is  possible  that  the  perception  of  the  octave  as  a  pleasing  musical
 
 
-148  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
-interval  may  have  come  to  the  Indians  from  this  source.  The  promi-
-nence of  the  octave  in  Chippewa  melodies  is  noted  on  page  4.
+interval  may  have  come  to  the  Indians  from  this  source.  The  prominence of  the  octave  in  Chippewa  melodies  is  noted  on  page  4.
 
 The  chief  of  the  band,  owner  of  the  drum,  speaker,  and  the  four
 leading  dancers  sit  on  the  long  seat  which  surrounds  the  dancing  hall
-or  circle.  The  aid  sits  alone  at  a  little  distance,  ready  to  act  as  mes-
-senger. Those  who  take  care  of  the  drum  and  the  pipes  have  no
+or  circle.  The  aid  sits  alone  at  a  little  distance,  ready  to  act  as  messenger. Those  who  take  care  of  the  drum  and  the  pipes  have  no
 official  duties  during  a  ceremony  and  are  usually  seated  with  the
 drummers.
 
@@ -17934,33 +13809,22 @@ from  the  one  to  whom  he  wishes  to  present  it  whether  the  latter
 desires  to  assume  the  obligations  associated  with  its  acceptance.  This
 is  done  several  months  before  the  drum  is  to  be  given.  It  is  the  duty
 of  the  recij)ient  to  see  that  a  suitable  quantity  of  gifts  is  presented  to
-the  drum  party  at  the  ceremony,  that  one  or  more  feasts  are  pro-
-vided for  the  guests,  and  that  their  camp  is  sui)plied  with  food  during
-their  entire  stay.  At  some  later  date  he  must  return  a  full  equiva-
-lent of  gifts  to  the  donor  of  the  drum.  A  year  or  two  may  elapse
-before  he  is  prepared  to  do  this.  When  he  is  ready  he  sends  a  mes-
-senger to  the  donor,  and  shortly  afterward  visits  him  with  a  large
+the  drum  party  at  the  ceremony,  that  one  or  more  feasts  are  provided for  the  guests,  and  that  their  camp  is  sui)plied  with  food  during
+their  entire  stay.  At  some  later  date  he  must  return  a  full  equivalent of  gifts  to  the  donor  of  the  drum.  A  year  or  two  may  elapse
+before  he  is  prepared  to  do  this.  When  he  is  ready  he  sends  a  messenger to  the  donor,  and  shortly  afterward  visits  him  with  a  large
 party  carrying  the  gifts.
 
 About  10  days  before  the  presentation  of  the  drums  by  the  Lac
 du  Flambeau  Chippewa  to  the  Menominee  two  messengers  were  sent
 with  the  warrior  pipes  belonging  to  the  two  drums.  Before  they
 left  Lac  du  Flambeau  a  dance  was  held,  the  final  song  being  the
-Sioux  song  of  departure  sung  at  the  close  of  all  the  gatherings  con-
-nected with  the  Drum-presentation  Ceremony.
+Sioux  song  of  departure  sung  at  the  close  of  all  the  gatherings  connected with  the  Drum-presentation  Ceremony.
 
 All  the  ceremonial  songs  given  in  connection  with  the  following
-narrative  were  sung  by  Mec'kawiga'bau  (pi.  20),  one  of  the  promi-
-nent singers  of  the  tribe.  As  he  was  the  leading  singer  of  the  drum
+narrative  were  sung  by  Mec'kawiga'bau  (pi.  20),  one  of  the  prominent singers  of  the  tribe.  As  he  was  the  leading  singer  of  the  drum
 })resented  by  Bi'jikens,  these  songs  represent  those  of  a  chief  drum;
 the  songs  used  during  tlie  presentation  ceremony  of  the  warrior  drum
 were  difl'erent,  although  they  have  the  same  general  characteristics.
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE  20
 
 
 MEC'KAWIGA'BAU
@@ -17969,15 +13833,10 @@ MEC'KAWIGA'BAU
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
 No.  54.  Song  of  Departure
 
 Sung  by  Me'ckawiga'bau
-Voice  J  =::  76
 Drum  Jrr76
-( Drum- rhythm  similar  to  No.  2 )
 
 
 i^izfcfcdi
@@ -17997,8 +13856,6 @@ E
 
 i-.t:-^~^
 
-
-149
 
 (Catalogue  No.  S.  1)'
 
@@ -18058,8 +13915,7 @@ H
 
 
 Analysis. — The  three  renditions  of  this  song  recordeil  are  uniform
-throughout.  The  time  is  not  rigidly  maintained,  but  varies  in  cor-
-responding measures  in  the  several  renditions.  The  intonation  of  the
+throughout.  The  time  is  not  rigidly  maintained,  but  varies  in  corresponding measures  in  the  several  renditions.  The  intonation  of  the
 D  flat  in  the  opening  measures  was  faulty  in  the  first  two  renditions,
 but  practically  correct  in  the  third  rendition  (compare  Nos.  129,
 133,  146,  164).  A  faulty  intonation  on  the  interval  of  a  second  occurs
@@ -18072,8 +13928,7 @@ their  people  after  a  certain  number  of  days  and  smoke  the  pipes  agai
 This  number  of  days  was  supposed  to  allow  adequate  time  for  the
 messengers  to  return  and  the  people  to  make  the  journey.
 
-When  the  messengers  reached  Lac  du  Flambeau,  active  prepara-
-tions for  departure  were  begun.  It  was  the  custom  for  each  tribe  to
+When  the  messengers  reached  Lac  du  Flambeau,  active  preparations for  departure  were  begun.  It  was  the  custom  for  each  tribe  to
 dance  four  days  on  its  own  reservation,  and  during  this  period  tlio
 Chippewa  held  a  ceremony  called  the  Restoring  of  Mourners,  and,  if
 occasion  required,  a  Ceremony  of  Divorce.
@@ -18084,9 +13939,6 @@ occasion  required,  a  Ceremony  of  Divorce.
 and  Chippewa  songs.
 
 
-150
-
-
 BUKEAU    OF    AMERICAN   ETHNOLOGY
 
 
@@ -18095,19 +13947,16 @@ BUKEAU    OF    AMERICAN   ETHNOLOGY
 
 At  the  presentation  of  the  drum  the  tribes  dance  together  for  four
 days,  and  on  the  fourth  day  a  Dog  Feast  may  be  hekl  for  the  further
-cementing  of  the  peace  boncU  This  feast  was  not  held  on  the  Menom-
-inee Reservation,  but  the  writer  witnessed  it  on  the  Leech  Lake
+cementing  of  the  peace  boncU  This  feast  was  not  held  on  the  Menominee Reservation,  but  the  writer  witnessed  it  on  the  Leech  Lake
 Reservation  in  Minnesota  during  the  celebration  of  July  Fourth,  1910
-(see  p.  173).  A  Dog  Feast  may  be  held  independent  of  a  Drum-pres-
-entation and  is  of  somewhat  frequent  occurrence  on  the  Wisconsin
+(see  p.  173).  A  Dog  Feast  may  be  held  independent  of  a  Drum-presentation and  is  of  somewhat  frequent  occurrence  on  the  Wisconsin
 Reservation.
 
 On  the  first  day  of  dancing  on  tlieir  own  reservation  the  Chippewa
 sang  a  series  of  five  songs,  called,  respectively,  the  Song  of  the  Chief,
 Song  of  the  Speaker,  Song  of  the  Owner  of  the  Drum,  Song  of  the
 Warriors,  and  the  Song  of  Giving  Away  the  Drum.  These  were
-also  sung  at  the  opening  of  the  ceremony  on  the  Menominee  Reser-
-vation, and  if  the  final  four  days  of  dancing  had  been  held  at  Lac  du
+also  sung  at  the  opening  of  the  ceremony  on  the  Menominee  Reservation, and  if  the  final  four  days  of  dancing  had  been  held  at  Lac  du
 Flambeau  these  songs  would  have  been  repeated  at  the  beginning
 of  that  period  of  the  ceremony.
 
@@ -18115,15 +13964,9 @@ of  that  period  of  the  ceremony.
 No.  55.  Song  of  the  Chief
 
 Sung  by  Mec'kawiga'bau
-Voice  J  =  88
-Drum  J  -  96
-(  Drum-rhythm  similar  to  No.  2 )
 
 
 (Catalogue  No.  S.  2)
-
-
-1
 
 
 t
@@ -18138,10 +13981,7 @@ t
 w=w^
 
 
--Qf-
-
-
-t??^
+-Qft??^
 
 
 ^ — • — • — • ^ — a*-
@@ -18155,34 +13995,19 @@ on  the  interval  of  a  second  in  the  opening  measures,  in  some  instanc
 the  upper  tone  being  flatted  and  in  others  the  lower  tone  being  sharped.
 This  uncertainty  suggests  that  it  may  be  difficult  for  the  singer  to
 adapt  his  voice  to  so  small  an  interval  (see  Nos.  54,  61,  64,  100,  145,
-166).  The  interval  of  the  eleventh  was  sung  with  reasonable  accu-
-racy in  beginning  the  repetitions  of  the  song.  In  the  first  two  meas-
+166).  The  interval  of  the  eleventh  was  sung  with  reasonable  accuracy in  beginning  the  repetitions  of  the  song.  In  the  first  two  meas-
 ures the  harmonic  tone  is  approached  by  the  tone  above,  which  is
 accented;  this  characteristic  leads  to  the  classification  as  melodic
-with  harmonic  framework  of  a  song  which  otherwise  would  be  classi-
-fied as  liarmonic  in  structure.  The  song  contains  only  the  tones  of
+with  harmonic  framework  of  a  song  which  otherwise  would  be  classified as  liarmonic  in  structure.  The  song  contains  only  the  tones  of
 the  minor  triad  and  fourth.
 
 
 DENSMORE]
 
 
-CHIPPEWA   MUSIC II
-
-
-151
-
-
-Voice  J=  184
-Drum  J  —  80
-
-
 No.  56.  Song  of  the  Speaker  (Catalogue  No.  S.  3)
 
 Sung  by  Mec^kawiga^bau
-
-
-( Drum-rhythm  similar  to  No.  3  )
 
 
 W-    -| —     -j^   1—1—1—1 —     -f-   -f^*  -f^-    -(•-
@@ -18218,8 +14043,7 @@ IX-Az
 -(2-
 
 
-Analysis. — This  song  is  transcribed  as  it  was  sung  in  three  rendi-
-tions. The  first  part  of  the  song  is  distinctly  major  and  the  last
+Analysis. — This  song  is  transcribed  as  it  was  sung  in  three  renditions. The  first  part  of  the  song  is  distinctly  major  and  the  last
 part  minor  in  tonality;  therefore  it  is  transcribed  in  the  keys  of
 D  major  and  D  minor.  The  F  in  the  opening  measures  is  clearly
 sung  F  sharp,  and  the  F  in  the  latter  part  is  as  clearly  sung  F
@@ -18240,10 +14064,6 @@ No.  57.  Song  of  the  Owner  of  the  Drum
 
 Sung  by  Mec^kawiga^bau
 
-Voice  J  =  80
-Drum  J  —  92
-(  Drum-rhythm  similar  to  No.  2  )
-
 
 (Catalogue  No.  S.  4)
 
@@ -18251,13 +14071,7 @@ Drum  J  —  92
 Pfe^
 
 
-152
-
-
 RUREAU   OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 Analysis. — This  is  an  instance  in  which  the  sharps  at  the  beginning
@@ -18278,8 +14092,6 @@ Sung  by  Mec'kawiga'bau
 
 
 Voice  Jrr  108
-Drum  J  =116
-( Drum-rhythm  similar  to  No.  15  )
 
 
 sass
@@ -18288,10 +14100,7 @@ sass
 as?3:
 
 
-:t-
-
-
-zt:tz=
+:tzt:tz=
 
 
 ii:
@@ -18330,8 +14139,7 @@ g^i
 S
 
 
-Analysis. — This  song  is  characterized  by  the  approach  to  an  har-
-monic tone  by  means  of  the  tone  above  it.  The  melody  tones  are
+Analysis. — This  song  is  characterized  by  the  approach  to  an  harmonic tone  by  means  of  the  tone  above  it.  The  melody  tones  are
 those  of  the  fourth  five-toned  scale  and  the  trend  of  the  song  is  an
 almost  unbroken  descent.  Four  renditions  were  recorded,  whicli  are
 uniform  in  every  respect.
@@ -18339,9 +14147,6 @@ uniform  in  every  respect.
 No.  59.  Song  of  Giving  Away  the  Drum  (Catalogue  No.  S.  6)
 
 Sung  by  Mec'kawiga^bau
-Voice  J— 80
-Drum  J  -  80
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 ^^J=£i^-^^t£:^^^^^
@@ -18360,8 +14165,7 @@ DENSMORE]  CHIPPEWA    MUSIC II  153
 
 Analysis. — The  intonation  of  the  opening  measures  of  this  song
 was  faulty  in  all  tlie  renditions.  The  melodic  tones  are  those  of  the
-fourth  five-toned  scale  and  the  trend  of  the  melody  is  steadily  down-
-ward. Although  strongly  rhythmic  in  character,  the  song  contains
+fourth  five-toned  scale  and  the  trend  of  the  melody  is  steadily  downward. Although  strongly  rhythmic  in  character,  the  song  contains
 no  unit  of  rhythm.
 
 Ceremony  of  Restoring  the  Mourners
@@ -18384,8 +14188,7 @@ At  this  ceremony  the  period  of  mourning  of  four  persons — a  man
 who  had  lost  his  wife,  two  young  women  who  had  lost  children,  and
 an  aged  woman  who  had  lost  her  husband — came  to  an  end.  All
 these  deaths  had  occurred  since  a  similar  gathering  of  the  tribe,  the
-period  of  mourning  usually  lasting  from  six  months  to  a  year.  Dur-
-ing that  time  a  mother  who  has  lost  her  child  carries  a  cup  tied  in  a
+period  of  mourning  usually  lasting  from  six  months  to  a  year.  During that  time  a  mother  who  has  lost  her  child  carries  a  cup  tied  in  a
 cloth  around  her  waist.  This  she  frequently  fills  with  berries  or
 some  other  delicacy  and  places  beside  her  ''for  the  child."  After
 a  little  while  she  gives  the  food  to  some  needy  person  and  replaces
@@ -18409,19 +14212,9 @@ were  the  smaller  cabins  of  the  dead.  Above  aU  was  the  bluest  of
 October  skies.     Some  said  the  ceremony  was  pagan,  yet  ui  it  was
 
 
-154
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 mingled  all  that  is  deepest  and  most  tender  in  human  life.
 
-The  leader  of  the  ceremony  was  White  Feather,  who  is  highly-
-respected  by  both  Indians  and  white  men-.  On  being  asked  his
+The  leader  of  the  ceremony  was  White  Feather,  who  is  highlyrespected  by  both  Indians  and  white  men-.  On  being  asked  his
 ''Indian  name"  he  gave,  not  the  Chippewa  equivalent  of  Wliite
 Feather  (Wa'bickigwijLn'),  but  Odja'nimwe  'wegijlgons'.'^
 
@@ -18441,11 +14234,7 @@ Sung  by  Mec^kawiga^bau
 (Catalogue  ]l*o.  S.  7)
 
 
-Voice  J=:  176
-
 Drom  J  =  88
-
-(  Drum-rhythm  similar  to  No.  2 )
 
 
 r  •  •  ^
@@ -18492,8 +14281,7 @@ When  this  was  finished  White  Feather  rose  and  said :  ^
 1  The  meanings  of  the  component  parts  of  this  word  are  as  follows:  odja'nim  signifies  a  disturbance;
 wtwe  is  a  root  implying  a  swaying  motion  (see  footnote  2,  p.  241);  and  gi'jlg  in  proper  names  is  usually
 translated  "  sky."  The  last-mentioned  part  of  the  word  is  found  also  on  p.  249,  with  the  prefix  ki'tci,
-"  large."  Hence  the  name  as  analyzed  thus  far  may  be  translated  ■'  sky  in  commotion."  The  termina-
-tion ons  in  some  cases  indicates  that  the  bearer  of  the  name  was  small  in  stature,  but  more  often  that
+"  large."  Hence  the  name  as  analyzed  thus  far  may  be  translated  ■'  sky  in  commotion."  The  termination ons  in  some  cases  indicates  that  the  bearer  of  the  name  was  small  in  stature,  but  more  often  that
 his  father  bore  the  same  name.    (Cf.  pp.  76, 145.)
 
 2  This  and  other  speeches  made  by  White  Feather  were  given  the  writer  at  a  later  date  by  While  Feather
@@ -18501,12 +14289,6 @@ himself  and  are  transcribed  in  the  words  of  the  interpreter.
 
 
 DRNSMOREl
-
-
-CHIPPEWA   MUSIC II
-
-
-155
 
 
 A  person  who  believes  in  the  drum  and  has  lost  friends  can  not  go  to  a  dance  unless
@@ -18563,15 +14345,6 @@ of  the  voice  and  seems  constantly  urging  the  voice  forward.  Four
 renditions  were  recorded,  which  are  uniform  in  every  respect.
 
 
-156
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
-
-
 The  eldest  woman  among  the  mournere  was  White  Feather's
 mother,  who  mourned  the  death  of  his  father;  for  this  reason  it  was
 deemed  not  fitting  that  he  should  make  the  speech  which  preceded  the
@@ -18593,11 +14366,6 @@ point  to  it  saying,  "I  was  as  brave  as  that."  Sometimes  the  right
 thus  generously  shared  was  won  at  the  risk  of  the  man's  life.
 
 The  following  song  was  sung  during  the  ceremony.
-
-
-Voice  J  =  84
-Drum  J— 84
-(Drum-rhythm  similar  to  No.  2)
 
 
 No.  62.  Mourners'  Song
@@ -18629,8 +14397,7 @@ i:=t:
 Analysis. — The  metric  unit  of  this  song  is  miusuaUy  slow  and  was
 not  maintained  with  absolute  regularity.  The  tlu-ee  renditions
 recorded  show  no  variation.  The  rhythm  is  less  mteresting  than  in
-many  songs  of  tlie  present  series,  but  was  clearly  marked  and  accu-
-rately repeated.  The  song  is  mmor  hi  tonality  anil  has  a  range  of
+many  songs  of  tlie  present  series,  but  was  clearly  marked  and  accurately repeated.  The  song  is  mmor  hi  tonality  anil  has  a  range  of
 12  tones.
 
 
@@ -18661,8 +14428,7 @@ the  drum  could  be  heard  distinctly  and,  as  there  was  a  full  moon,  i
 was  thought  possible  that  the  Indians  were  dancmg  outdoors.  On
 arriving  at  the  village,  however,  the  bright  light  in  E'niwtib'e's
 window  and  the  sound  of  the  druni  indicated  where  the  Indians
-were  gathered.  The  house  is  small  and  in  beating  the  drum  the  In-
-dians make  little  difference  whether  they  are  beneath  a  roof  or  the
+were  gathered.  The  house  is  small  and  in  beating  the  drum  the  Indians make  little  difference  whether  they  are  beneath  a  roof  or  the
 dome  of  the  sky.  The  four  or  five  drummers,  seated  around  the
 warrior  drum  which  would  be  presented  to  the  Menommee,  played
 and  sang  right  heartily.  A  drum  of  similar  type  was  on  a  table,
@@ -18683,12 +14449,6 @@ frequently  sung  at  the  dances  precedmg  or  followmg  the  presentation
 of  a  drum.
 
 
-158
-
-
-Voice  J  =  100
-
-
 BUEEAU   OF   AMERICAN    ETHNOLOGY
 No.  63.  "The  Sound  Comes  Pleasingly"
 
@@ -18698,16 +14458,7 @@ Hung  by  E'niwub^e
 [bull.  5o
 
 
-(Catalogue  No.  423)
-
-
 Drum
-
-
-112
-
-
-(  Drum-rhythm  similar  to  No.  19 )
 
 
 Ge  -  bi  -  o  -  dja-  min  -  we  -  we  gi  -    jig     e
@@ -18746,26 +14497,11 @@ melodic  in  structure.
 DENSMOREj
 
 
-CHIPPEWA   MUSIC- — II
-
-
-159
-
-
 No.  64.  "The  Ravens  are  Singing"      (Catalogue  No.  424)
 Sung  by  E^niwub^e
 
 
-Voice  J=  120
-
-
 Drum
-
-
-120
-
-
-(  Drum-rhythm  similar  to  No.  19  )
 
 
 P&
@@ -18819,30 +14555,16 @@ contains  all  the  tones  of  the  octave  except  the  seventli.  The  interva
 of  the  fourth  is  prominent  in  the  structure  of  the  melody  (see  No.  22).
 
 
-160
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  65.  War  Song
 
 Sung  by  E'niwub^e
-Voice  J=  116
 Drum  Jiz:  126
-(  Drum- rhythm  similar  to  No.  19)
 
 
 mm&^^m^
 
 
 -</-^
-
-
-(Catalogue  No.  425)
 
 
 '■^—f-t
@@ -18857,10 +14579,8 @@ mm&^^m^
 ^^^"^113=^3=^^0
 
 
-Analysis. — In  structure  this  song  is  classified  as  melodic  with  har-
-monic framework.  It  begins  on  the  twelfth  and  ends  on  the  tonic,
-the  descending  intervals  of  the  tonic  chord  being  varied  by  a  fre-
-quent occurrence  of  the  tone  above  the  harmonic  tone,  which  is
+Analysis. — In  structure  this  song  is  classified  as  melodic  with  harmonic framework.  It  begins  on  the  twelfth  and  ends  on  the  tonic,
+the  descending  intervals  of  the  tonic  chord  being  varied  by  a  frequent occurrence  of  the  tone  above  the  harmonic  tone,  which  is
 accented  and  forms  an  important  part  of  the  melody  (see  No.  53).
 The  rhythmic  unit  is  long  and  occurs  only  twice.  Five  renditions
 of  the  song  were  recorded.
@@ -18869,19 +14589,14 @@ of  the  song  were  recorded.
 UEiN'.SMOUK]
 
 
-Voice  J -88
 Drum  J—U2
 {  Drum-rhythm  similar  to  No.  19  )
 
-
-CHIPPEWA   MUSIC II
 
 No.  66.  "lam  Small"
 
 Sung  l)y  Mec^kawiga^bau
 
-
-161
 
 (Catalogue  Nu.  432)
 
@@ -18889,10 +14604,7 @@ Sung  l)y  Mec^kawiga^bau
 mwW^E^MMs^mm^M^^
 
 
-Wen-
-
-
-tW-
+WentW-
 
 
 •-•     -•-  -#-  -#-        -•-      -0-
@@ -18956,10 +14668,6 @@ and  in  the  distance  a  light  shone  from  Bi 'jTkens's  window.  On  inquir
 it  was  learned  that  the  party  bclongmg  to  the  chief  drum  had  been
 dancing  at  Bi'jikens's  house  and  that  they  were  bringing  that  drum
 to  E'niwub'e's,  where  they  would  sing  with  both  drums.
-67996°— Bull.  53—13 11
-
-
-162
 
 
 BUREAU    OF   AMEEICAN   ETHNOLOGY
@@ -18978,8 +14686,7 @@ Ceremony  of  Divorce
 
 A  Ceremony  of  Divorce  is  sometimes  held  on  the  last  day  of  one  of
 the  periods  of  dancing.  There  are  four  songs  for  this  ceremony;
-these  are  similar  in  character,  and  only  two  are  recorded.  The  cere-
-mony is  said  to  be  very  simple,  the  man  or  woman  desiring  the  divorce
+these  are  similar  in  character,  and  only  two  are  recorded.  The  ceremony is  said  to  be  very  simple,  the  man  or  woman  desiring  the  divorce
 merely  going  through  the  motions  of  throwing  something  outside  the
 dancing  circle  as  these  songs  are  sung.
 
@@ -18988,11 +14695,6 @@ No.  67.  Divorce  Song
 Sung  by  Mec'kawiga'bau
 
 
-(Catalogue  No.  428)
-
-
-Voice  J  —  88
-Drum  J— 80
 (  Drum-rhylhm  similar  to  No.  2  )
 
 
@@ -19025,12 +14727,6 @@ tonality,  the  rhythm  of  these  measures  being  direct  and  somewhat
 DENSMORK]
 
 
-CHIPPEWA    MUSIC II
-
-
-163
-
-
 emphatic,  but  is  used  in  the  recurring  minor  passage  and  is  suggested
 in  the  triple  measure  near  the  close  of  the  song,  as  though  sung  in  a
 lingering  fashion.  (Other  mstances  of  a  change  in  tonality  are  Nos.
@@ -19045,18 +14741,12 @@ No.  68.  Divorce  Song
 Suiig  by  Mec'kawiga'bau
 
 
-(Catalogue  No.  429)
-
-
 Voice  J-8i
-Drum  J— 80
-(  Drum-rhythm  similar  to  No.  2 )
 
 I
 
 
-Analysis. — The  rhythmic  unit  of  this  song  resembles  that  of  the  pre-
-ceding, but  is  in  triple  instead  of  double  time.  This  unit  occurs  five
+Analysis. — The  rhythmic  unit  of  this  song  resembles  that  of  the  preceding, but  is  in  triple  instead  of  double  time.  This  unit  occurs  five
 times,  comprising  practically  the  entire  song.  The  interval  of  the
 fourth  is  emphatic  at  the  close  of  the  song,  but  can  not  be  said  to
 characterize  it  as  a  whole.  In  this  connection  the  freciuent  use  of  the
@@ -19082,11 +14772,8 @@ carrying  the  two  drums,  tents  and  camp  equipment,  rolls  of  blaidvets
 and  mattmg,  and  huge  packs  containmg  the  gifts  intended  for  the
 
 
-164  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 Menominoe.  The  distance  to  the  Menominee  settlement  by  rail,  the
-route  taken  by  the  writer,  was  about  150  miles.  The  Indians,  how-
-ever, left  the  tram  at  Antigo,  a  station  about  half  that  distance  from
+route  taken  by  the  writer,  was  about  150  miles.  The  Indians,  however, left  the  tram  at  Antigo,  a  station  about  half  that  distance  from
 Lac  du  Flambeau,  and  walked  eastward  20  miles  across  the  countiy.
 This  part  of  the  trip  was  carefully  planned — they  would  walk  12
 miles  the  first  day,  camp  at  night,  finish  the  journey  the  second  day,
@@ -19137,14 +14824,12 @@ to  go  to  meet  them  and  to  bring  the  women  and  chilcken  in  their
 DBN.SMOUKJ  CHIPPEWA   MUSIC II  165
 
 wagons.  Some  had  already  gone  and  he  was  hourly  expecting  their
-return.  Several  miles  westward  the  first  Chipj^ewa  were  found  rest-
-ing by  the  roadside,  while  in  the  distance  others  appeared,  toiling
+return.  Several  miles  westward  the  first  Chipj^ewa  were  found  resting by  the  roadside,  while  in  the  distance  others  appeared,  toiling
 and  staggermg  beneath  their  packs.  Could  these  be  the  same  men
 who  had  set  forth  so  bravely  the  day  before  ?  Footsore,  dusty,  tired,
 and  bedraggled,  they  had  reached  the  country  of  the  Menominee.
 
-The  next  morning  the  Chippewa  were  much  refreshed.  A  tempo-
-rary camp  had  been  established  about  a  quarter  of  a  mile  from  the
+The  next  morning  the  Chippewa  were  much  refreshed.  A  temporary camp  had  been  established  about  a  quarter  of  a  mile  from  the
 dancmg  circle.  The  tents,  which  were  close  together,  shone  white
 beneath  the  pine  trees;  camp  foes  burned  brightly,  kettles  were
 steaming,  and  a  pleasant,  cheery  atmosphere  pervaded  the  scene.
@@ -19160,8 +14845,7 @@ Wis' kino's  messenger  was  a  tall,  finely  built  Indian.  His  headdress
 was  of  stiff  moose  hah-  and  erect  feathers  and  his  garments  were  bright
 with  beads  and  scarlet  trimmings.  He  was  a  picturesque  figure  as
 he  ran  down  the  winding  road  in  the  direction  of  the  Chippewa  camp.
-In  a  short  tune  he  returned  and  said,  "They  have  accepted  your  invi-
-tation and  are  on  the  way."
+In  a  short  tune  he  returned  and  said,  "They  have  accepted  your  invitation and  are  on  the  way."
 
 Wis 'kino  then  directed  the  messenger  to  take  up  the  American  flag
 and  cany  it  before  hmi.  Preceded  by  the  flag,  Wis 'kino  left  the
@@ -19250,24 +14934,12 @@ success  by  serving  Ki^jie'  Manido^  l)efore  I  finish  my  harvest.
 I
 
 
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  21
-
-
 MENOMINEE  AWAITING  APPROACH   OF  CHIPPEWA
 
 
 APPROACH   OF  CHIPPEWA
 
 PARTICIPANTS    IN     DRUM-PRESENTATION     CEREMONY
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  22
 
 
 CHIPPEWA  SHAKING   HANDS  WITH    MENOMINEE
@@ -19316,8 +14988,7 @@ deep  m  the  little  hollows  of  the  dancing  circle.  At  the  Chippewa
 camp  a  few  fires  were  smoldering  and  most  of  the  tents  were  tightly
 closed.  It  was  evidently  impossible  to  proceed  with  the  ceremony
 and  that  day  was  not  counted  as  one  of  the  four  days  of  dancmg.
-It  was  stated  that  this  was  permissible  because  the  actual  presenta-
-tion of  the  drums  had  not  taken  place.
+It  was  stated  that  this  was  permissible  because  the  actual  presentation of  the  drums  had  not  taken  place.
 
 With  the  sudden  changes  of  weather  which  characterize  the  autumn
 season  the  next  morning  dawned  bright  and  clear.  Preparations
@@ -19333,15 +15004,11 @@ women  and  the  beadwork  worn  by  the  men.
 1  The  Chippewa  were  supposed  just  lo  have  arrived  after  a  continuous  journey  from  i  heir  own  reserviil  ion.
 
 
-168  BUREAU    OF   AMERICAN   ETHNOLOGY  [bull.  53
-
-By  about  half-past  10  in  the  morninj^^  all  tlie  Chippewa  and  Menomi-
-nee were  in  the  dancing  circle.  Wis'kino,  his  aid,  and  his  loadmg
+By  about  half-past  10  in  the  morninj^^  all  tlie  Chippewa  and  Menominee were  in  the  dancing  circle.  Wis'kino,  his  aid,  and  his  loadmg
 dancers  wore  seated  on  the  farther  side,  opposite  the  entrance.  On
 the  right  of  the  circle  were  two  Menommee  drums;  at  the  left,  next
 to  the  entrance,  was  the  chief  drum,  which  was  to  be  given  away  that
-day,  and  next  to  it  was  the  warrior  drum  to  be  given  away  the  fol-
-lowing day,  while  nearest  Wis 'kino  was  a  Menominee  drum.  Thus
+day,  and  next  to  it  was  the  warrior  drum  to  be  given  away  the  following day,  while  nearest  Wis 'kino  was  a  Menominee  drum.  Thus
 there  were  five  drums  in  the  circle.  Only  a  few  persons  were  seated
 around  the  Menominee  drums,  but  the  full  quota  were  around  the
 two  Chippewa  drinns,  where  most  of  the  singing  was  to  be  done.
@@ -19365,8 +15032,7 @@ so  that  it  may  not  be  injured.  The  four  leading  Menommee  dancers
 wore  these  feather  garments,  resembling  a  row  of  brilliant  birds.
 
 The  officials  of  the  chief  drum  sat  at  the  side  of  the  circle,  on  the
-left  of  the  entrance.  Their  faces  were  painted,  and  they  wore  orna-
-ments of  beadwork  and  many  streamers  of  bright-colored  ribbon.
+left  of  the  entrance.  Their  faces  were  painted,  and  they  wore  ornaments of  beadwork  and  many  streamers  of  bright-colored  ribbon.
 
 Presentation  of  the  Drum
 
@@ -19384,12 +15050,6 @@ the  pipes  to  the  circle  of  the  sky,  lighted  them  and  offered  them  f
 to  the  drummers  in  order  of  importance,  then  to  the  enthe  company.
 
 
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  23
-
-
 OWNER   OF   DRUM    (DANCING)
 
 PROMINENT    CHIPPEWA    ACTORS    IN    DRUM-PRESENTATION    CEREMONY
@@ -19398,25 +15058,16 @@ PROMINENT    CHIPPEWA    ACTORS    IN    DRUM-PRESENTATION    CEREMONY
 DEXSiMOUE]
 
 
-CHIPPEWA   MUSIC II
-
-
-169
-
-
 the  Song  of  the  Pipe  bemg  sung  contmuously.  In  presenting  the
 pipe  to  the  sk}^  the  drummer  stood  facing  the  east,  hokliiig  the  pipe
 almost  horizontal  and  tiirnmg  it  four  times  in  a  circle  above  his  head.
 This  was  done  four  times  during  the  day,  at  intervals  as  nearly
 equal  as  possible,  the  last  offering  of  the  pipe  being  near  the  close  of
-the  day.  By  reason  of  its  frec{uent  repetition  this  song  became  par-
-ticularly familiar  to  those  attending  the  ceremony.
+the  day.  By  reason  of  its  frec{uent  repetition  this  song  became  particularly familiar  to  those  attending  the  ceremony.
 
 No.  69.  Song  of  the  Pipe  (Catalogue  No.  S.  10)
 
 Sung  ))y  Mec'kawiga'bau
-Voice  J  — 84
-Drum  J  =92
 ( Urum-rhytlim  similar  to  No.  2  )
 
 (1)
@@ -19435,16 +15086,14 @@ mis^^^^m
 
 
 Analysis. — This  song  consists  of  two  distinct  parts,  each  of  which
-is  characterized  b}^  a  rhythmic  unit.  These  units  are  somewhat  simi-
-lar in  divisions  of  the  count  and  form  answeruig  phrases.  It  should
+is  characterized  b}^  a  rhythmic  unit.  These  units  are  somewhat  similar in  divisions  of  the  count  and  form  answeruig  phrases.  It  should
 be  noted  that  the  melodic  feeling  of  the  song  seems  to  require  a  break
 between  the  first  and  second  measures  of  the  repetition  of  the  second
 rhythmic  unit,  a  feature  showing  the  extreme  freedom  of  native
 nmsical  expression.  The  effect  of  the  triple  measures  is  interestmg,
 as  they  add  character  and  effect  to  the  rhythm  of  the  song  as  a
 whole.  The  song  is  minor  in  tonality  and  contains  the  interval  of  a
-whole  tone  between  the  seventh  and  tonic.  (See  No.  9.)  The  acci-
-dental was  uniformly  given  in  the  several  renditions.
+whole  tone  between  the  seventh  and  tonic.  (See  No.  9.)  The  accidental was  uniformly  given  in  the  several  renditions.
 
 There  were  many  speeches,  and  the  ceremony,  so  briefly  described,
 lasted  many  hours.  At  noon  a  feast  was  held  similar  to  that  of  the
@@ -19456,12 +15105,6 @@ It  sometmies  hai)pens  that  the  untanned  head  of  the  drum  becomes
 loos(Mie(l  (hiruig  a  C(>remony.     When  this  occurs,   the  Song  of  the
 
 
-170
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
 [Bt^LL.  53
 
 
@@ -19469,15 +15112,12 @@ Drum  is  started  by  ono  of  tlie  drunimers.  At  this  signal  the  five  m
 wlio  have  charge  of  tlie  drum  rise  and  dance  around  it.  Wlien  their
 special  dancing  is  finished,  they  take  the  drum  from  the  inclosure
 and  hold  it  near  a  fire  until  the  desu'ed  resonance  is  restored.  The
-fastening  of  a  drumhead  is  rarely  disturbed,  tightening  being  accom-
-plished by  exposing  it  to  the  heat  of  a  fire  or  of  the  sun.
+fastening  of  a  drumhead  is  rarely  disturbed,  tightening  being  accomplished by  exposing  it  to  the  heat  of  a  fire  or  of  the  sun.
 
 
 •  No.  70.  Song  of  the  Drum
 
 Sung  by  Mec'kawiga'bau
-Voice  J  -  84
-Drum  J  =  92
 ( I)rum-i"hythm  similar  to  No.  2)
 
 r:— n  ^
@@ -19548,8 +15188,7 @@ hand,  led  him  to  a  seat  on  the  matting  beside  the  drum.  This  was
 the  man  whom  Wifs'kino  had  selected  to  have  charge  of  the  pipe
 belonging  to  the  drum.  It  would  be  his  duty  to  see  that  the  pipe  was
 always  filled  and  also  to  be  present  whenever  the  drum  was  taken
-from  Wis 'kino's  house  for  use  m  a  general  assembly.  The  pipe  belong-
-ing to  the  drum  was  then  presented  to  Wis 'kino  by  the  Chippewa
+from  Wis 'kino's  house  for  use  m  a  general  assembly.  The  pipe  belonging to  the  drum  was  then  presented  to  Wis 'kino  by  the  Chippewa
 pipe  bearer.
 
 The  drum  was  then  considered  transferred  to  Wis'kino.  He  brought
@@ -19569,21 +15208,18 @@ same  time  each  of  the  four  leading  drummers  struck  it  a  sharp  blow
 with  his  decorated  drumstick.  The  Song  of  the  Owner  of  the  Drum
 (No.  57)  burst  forth,  signifying  that  the  drum  belonged  fully  to  the
 Menominee.  The  strikmg  of  the  drum  by  Wis'kino  was  done  with
-great  dramatic  effect;  his  feints  at  striking  held  the  people  in  sus-
-pense, and  the  final  tap  was  welcomed  as  a  relief  from  the  tension.
+great  dramatic  effect;  his  feints  at  striking  held  the  people  in  suspense, and  the  final  tap  was  welcomed  as  a  relief  from  the  tension.
 The  Menominee  drummers  took  up  their  task  with  right  good  will,
 singuig  a  number  of  Menominee  songs.
 
-It  was  then  the  turn  of  the  Menominee  to  present  gifts  to  the  Cliip-
-pewa,  though  it  was  not  expected  that  a  full  equivalent  would  be
+It  was  then  the  turn  of  the  Menominee  to  present  gifts  to  the  Cliippewa,  though  it  was  not  expected  that  a  full  equivalent  would  be
 given  at  that  time.  A  blanket  was  spread  on  the  ground,  and  on  it
 were  laid  articles  sunilar  to  those  which  the  Chippewa  had  given  to
 the  Menominee.
 
 Wis'ldno  made  a  speech  concernmg  the  drum,  saying  that  he  would
 take  good  care  of  it  and  that  the  persons  whom  he  had  selected  as  his
-drum  party  could  use  it  whenever  they  desired  to  do  so.  He  pre-
-sented Bi'jikens  with  three  or  four  new  blankets  and  added  several
+drum  party  could  use  it  whenever  they  desired  to  do  so.  He  presented Bi'jikens  with  three  or  four  new  blankets  and  added  several
 crisp  bank  notes  which  he  took  from  his  wallet.  The  two  then  shook
 hands  and  sat  down  side  by  side.
 
@@ -19591,12 +15227,6 @@ The  day  was  wearing  to  a  close.  Rising  in  then*  places,  the  pipe
 bearers  again  presented  their  pipes  to  the  circle  of  the  sk}^,  lighted
 them,  and  passed  them  from  one  to  another  in  the  assembly,  each
 person  j)ufhng  the  pipe.
-
-
-172
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
 
 
 >.rLL.  53
@@ -19610,8 +15240,7 @@ and  heside  it  as  of  old  was  the  pipe,  filled  and  ready  for  use.
 
 On  the  following  day  took  place  the  presentation  of  the  warrior
 drum.  This  was  given  by  a  Chippewa  to  a  member  of  the  Menominee
-tribe  from  another  part  of  the  Menominee  Reservation.  The  cere-
-mony, which  was  not  so  impressive  as  that  for  the  chief  drum,
+tribe  from  another  part  of  the  Menominee  Reservation.  The  ceremony, which  was  not  so  impressive  as  that  for  the  chief  drum,
 lasted  about  the  same  time.  The  differences  between  the  ceremonies
 were  but  slight.  For  instance,  the  drum  was  lifted  from  the  ground
 and  placed  on  the  pile  of  gifts,  all  being  presented  together;  and  when
@@ -19634,11 +15263,6 @@ Sung  by  Mec'kawiga^bau
 Voice
 
 
-92
-
-
-Drum  J -92
-
 (  Urum-rliytlim  similar  to  No.  2  )
 
 
@@ -19657,19 +15281,11 @@ If  lie
 Ui=t^_=[|^J=a=:tg=t=[||^^^
 
 
-Analysis. — This  song  begins  on  the  seventh  and  the  opening  meas-
-ures do  not  suggest  the  chord  of  F,  which  characterizes  the  close  of
-the  song.  It  is  interesting  to  note,  therefore,  that  the  several  rendi-
-tions were  l)egini  on  the  same  tone,  the  transition  from  the  close  of  the
+Analysis. — This  song  begins  on  the  seventh  and  the  opening  measures do  not  suggest  the  chord  of  F,  which  characterizes  the  close  of
+the  song.  It  is  interesting  to  note,  therefore,  that  the  several  renditions were  l)egini  on  the  same  tone,  the  transition  from  the  close  of  the
 
 
 DENSAIOUi:
-
-
-CHIPPEWA   MUSIC II
-
-
-173
 
 
 song  to  the  beginning  l^eing  made  with  no  break  in  the  time  and  no
@@ -19681,25 +15297,21 @@ tonality,  melodic  m  structure,  and  contains  all  the  tones  of  the  octa
 
 Dog  Feast
 
-A  Dog  Feast  is  sometimes  held  on  the  fourth  day  of  a  drum-])resenla-
-tion.  Such  a  feast  was  not  held  (m  the  Menominee  Reservation,  but
+A  Dog  Feast  is  sometimes  held  on  the  fourth  day  of  a  drum-])resenlation.  Such  a  feast  was  not  held  (m  the  Menominee  Reservation,  but
 the  writer  witnessed  one  on  the  Leech  I^ake  Reservation,  Minnesota,
 durmg  the  celebration  of  the  Fourth  of  July,  1910.  Only  Chippewa
 took  part  in  this  ceremony,  two  of  them  enacting  the  part  of  Sioux
 who  were  said  to  be  "teaching  them  the  ceremony."  It  was  stated
 that  the  ceremony  had  been  received  from  the  Sioux  and  that  the
-feather  garments  worn  l)}^-  the  four  leaders  were  given  to  the  Chip-
-pewa by  the  Sioux  about  fifty  years  ago.  The  songs  of  the  Dog  Feast
+feather  garments  worn  l)}^-  the  four  leaders  were  given  to  the  Chippewa by  the  Sioux  about  fifty  years  ago.  The  songs  of  the  Dog  Feast
 (sung  by  Mec'kawiga'bau)  were  recorded  at  Lac  du  Flambeau  in
 October,  1910.  His  description  of  the  ceremony  as  given  on  that
 reservation  corresponded  with  the  ceremony  witnessed  in  Minnesota,
 and  it  may  be  assumed  that  the  songs  he  furnished  are  the  proper  ones.
 
-The  four  chief  actors  in  the  ceremony  were  two  Chippewa  repre-
-senting respectively  the  oc'kabeVis  (aid  or  messenger)  of  the  entire
+The  four  chief  actors  in  the  ceremony  were  two  Chippewa  representing respectively  the  oc'kabeVis  (aid  or  messenger)  of  the  entire
 Drum-presentation  Ceremony  and  the  oc'kabe'wis  of  the  Dog  Feast,
-and  two  Chippewa  representing  the  Sioux.  Those  men  wore  elabo-
-rate native  costumes,  and  feather  garments  of  the  kind  described  on
+and  two  Chippewa  representing  the  Sioux.  Those  men  wore  elaborate native  costumes,  and  feather  garments  of  the  kind  described  on
 page  168.  The  ceremony  was  held  late  in  the  afternoon.  A  large
 number  of  Chippewa  were  seated  around  the  dancing  circle,  many
 having  come  from  other  reservations  to  attend  the  ceremony.
@@ -19713,9 +15325,6 @@ was  finished  he  removed  the  kettle  to  the  western  side  of  the  inclos
 No.  72.  First  Song  of  the  Dog  Feast
 
 Sung  by  Mec^kawiga'bau
-Voice  J  =80
-Drum  J  =88
-(Drum-rhythm  similar  to  No.  10)
 
 
 (Catalogue  No.  S.  13)
@@ -19729,13 +15338,7 @@ EiiES^
 • A — r» — • P-l" — i 1 — I — 1 — ^-
 
 
-174
-
-
 BUEEAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
 
 
 Analysis. — This  song  was  sung  with  great  vibrato.  The  rhythm,
@@ -19748,8 +15351,7 @@ oc'kabe'wis  on  one  side,  and  the  two  men  representing  the  Sioux  on
 the  other  side,  of  the  kettle,  at  a  distance  of  about  6  feet.  As  the
 song  was  sung  they  raised  then-  arms  high  above  then-  upturned
 faces,  then  lowered  them  until  the  palms  of  their  hands  almost
-touched  the  ground.  This  was  repeated  five  or  six  times,  the  sweep-
-ing downward  motion  of  the  arms  being  simultaneous.  Then  the
+touched  the  ground.  This  was  repeated  five  or  six  times,  the  sweeping downward  motion  of  the  arms  being  simultaneous.  Then  the
 second  of  the  group  of  songs  was  sung,  the  men  rising  and  dancing
 around  the  drum,  led  by  the  oc'kabe'wis  of  the  drum,  with  theii'
 hands  extended  in  turn  toward  the  north,  east,  south,  and  west.
@@ -19761,9 +15363,7 @@ hands  extended  in  turn  toward  the  north,  east,  south,  and  west.
 No.  73.  Second  Song  of  the  Dog  Feast
 
 Sung  by  Mec^kawiga^bau
-Voice  J  =  88
 Drum  Jzz88
-(Drum-rhythm  similar  to  No.  19)
 
 
 :^i3zt
@@ -19815,8 +15415,7 @@ t
 jtllMl
 
 
-Analysis. — This  song  contauis  two  rhythmic  units,  the  first  occur-
-ring four  times,  the  second  three  times.  A  pleasing  effect  is  i)ro-
+Analysis. — This  song  contauis  two  rhythmic  units,  the  first  occurring four  times,  the  second  three  times.  A  pleasing  effect  is  i)ro-
 duced  by  the  succession  of  these  units  m  the  middle  and  latter  part
 of  the  song.  The  rhythmic  unit  of  No.  77  (S.  18)  is  similar  to  the
 second  unit  of  this  song  and  with  one  exception  forms  the  only  instance
@@ -19828,14 +15427,10 @@ the  tonic,  and  is  melodic  in  structure.
 DENSMORE]
 
 
-CHIPPEWA   MUSIC II
-
 No.  74.  Third  Song  of  the  Dog  Feast
 
 Sung  by  Mec'kawiga'bau
 
-
-175
 
 (Catalogue  No.  y.  15)
 
@@ -19843,9 +15438,7 @@ Sung  by  Mec'kawiga'bau
 Voice
 
 
-120
 Drum   J^  104
-(Drum-rhythm  similar  to  No.  10)
 (1)
 
 
@@ -19923,11 +15516,6 @@ No.  75.  F()ur<h  Sonj;;  of  the  Dog  Feast
 
 Sung  by  Mec'kawiga'bali
 
-Voice  J;    88
-
-Drum  J;    88
-
-(  Drum-rhythm  similar  to  No.  19  )
 
 r
 
@@ -19961,9 +15549,6 @@ all  to  rise  and  dance.
 No.  76.  Fifth  Song  of  the  Dog  Feast
 
 Sung  by  ]\Ikc'kawiga^bau
-Voice  J -88
-Drum  J -96
-(Drum-rhythm  similar  to  No.  2)
 
 I ~~"
 
@@ -20010,12 +15595,6 @@ of  tune  being  at  the  close,  where  three  measures  m  double  time  occur
 DENSMORE]
 
 
-CHIPPEWA   MUSIC II
-
-
-177
-
-
 double  measures  and  the  repetitions  of  the  song  began  without  a
 break  in  the  time.  It  should  be  noted  that  the  phrase  which  occurs
 on  the  fourth  and  fifth  counts  of  the  third  measure  is  used  on  the
@@ -20034,9 +15613,6 @@ oc'kabe'wis  danced  alone  around  the  drum.
 No.  77.  Sixth  Song  of  the  Dog  Feast
 
 Sung  by  Mec'kawiga'bau
-Voice  J=  104
-Drum  J—  104
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 Analysis. —The  rhythmic  unit  of  this  song  is  the  same  as  that  of
@@ -20052,18 +15628,12 @@ men  from  the  assembly,  leading  them  forward  one  at  a  time  and
 seating  them  beside  the  pan.  These  were  warriors  of  the  tribe  who
 had  distinguished  themselves  by  deeds  of  valor.  They  ate  the  meat
 from  the  dog's  head  as  the  following  song  was  sung  at  the  drum.
-67996°— Bull.  53—13 12
 
-
-178  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 (Catalogue  No.  S.  19)
 No.  78.  Seventh  Song  of  the  Dog  Feast
 
 Sung  by  Mec^kawiga^bau
-Voice  J  =  88
-Drum  J  =  96
-( Drum-rhythm  similar  to  No.  19  )
 
 
 EB-i
@@ -20082,7 +15652,6 @@ f£
 
 -'^
 
-1
 
 : — w~
 
@@ -20142,11 +15711,7 @@ places,  and  the  following  song  was  sung.
 No.  79.  Warriors'  Song
 
 Sung  by  Mec'kawiga^bau
-Voice  J  =88
 
-Drum  J  =  96
-
-(  Drum-rhythm  similar  to  No.  19  )
 
 r
 
@@ -20200,12 +15765,6 @@ double,  and  once  m  a  triple,  measure.     Four  renditions  were  recorded
 DBNSMOKE]
 
 
-CHIPPEWA  MUSIC II
-
-
-179
-
-
 The  repetitions  were  exact,  but  the  time  was  not  maintained  with
 absohite  regularity.  The  song  begins  on  the  sixth  above  the  tonic
 and  ends  on  the  fifth  in  tlie  lower  octave;  thus  about  half  the  melcKly
@@ -20229,11 +15788,6 @@ No.  80.  The  Song  of  Butterfly
 
 Sung  by  Mec^kawiga^bau
 Voice  J  z=  84
-Drum  J  =84
-( Drum- rhythm  similar  *to  No.  2)
-
-
-(Catalogue  No.  437)
 
 
 r"
@@ -20291,16 +15845,11 @@ the  rhythmic  unit  on  parts  of  the  song  m  which  it  is  not  repeated.
 Thus  the  sixth  measure  from  the  close  of  the  song  resembles  the  first
 measure  of  the  rhythmic  unit,  the  fifth  and  third  measures  from
 the  close  are  similar  to  the  last  measure  of  the  unit,  and  the  measure
-next  to  the  last  is  similar  to  the  second  measure  of  the  unit.  Obser-
-vation of  many  of  these  songs  wiU  detect  separation  of  the  rhythmic
+next  to  the  last  is  similar  to  the  second  measure  of  the  unit.  Observation of  many  of  these  songs  wiU  detect  separation  of  the  rhythmic
 
 
-180  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
-unit  into  phrases,  one  or  two  of  which  are  combmed  with  other  meas-
-ures to  form  the  rhythm  of  the  song  as  a  whole.  This  song  is  classi-
-fied as  melodic  with  harmonic  framework.  The  metric  unit  is  imiisn-
-ally  slow.  Four  renditions  of  the  song  were  recorded ;  these  show  no
+unit  into  phrases,  one  or  two  of  which  are  combmed  with  other  measures to  form  the  rhythm  of  the  song  as  a  whole.  This  song  is  classi-
+fied as  melodic  with  harmonic  framework.  The  metric  unit  is  imiisnally  slow.  Four  renditions  of  the  song  were  recorded ;  these  show  no
 important  variation.
 
 At  the  conclusion  of  this  song  the  kettle  containing  the  remainder
@@ -20310,13 +15859,10 @@ short  time  the  feast  was  concluded.
 
 
 Eeturning  to  the  narrative  ol  the  Drum-presentation  Ceremony,  as
-witnessed  on  the  Menoimuee  Reservation — the  day  after  the  drum-
-presentation  was  completed  the  %vriter  went  again  to  the  ])lace  where
-the  Indians  were  assembled.  The  Menominee  had  proved  most  gra-
-cious hosts,  and  the  Chippewa  had  decided  to  remam  four  days  longer.
+witnessed  on  the  Menoimuee  Reservation — the  day  after  the  drumpresentation  was  completed  the  %vriter  went  again  to  the  ])lace  where
+the  Indians  were  assembled.  The  Menominee  had  proved  most  gracious hosts,  and  the  Chippewa  had  decided  to  remam  four  days  longer.
 Custom  requhed  that  each  tribe  dance  four  more  days,  and  it  was
-decided  that  they  should  dance  together.  It  was  a  hospitable  sug-
-gestion on  the  part  of  the  ^lenommee,  which  promised  much  pleasure,
+decided  that  they  should  dance  together.  It  was  a  hospitable  suggestion on  the  part  of  the  ^lenommee,  which  promised  much  pleasure,
 but  a  gray  cloud  lay  close  to  the  horizon,  and  in  a  day  or  two  the
 snow  came,  falling  steadily  m  large,  soft  flakes.  Several  mches  of
 snow  covered  the  ground,  but  still  they  danced,  as  custom  requhed
@@ -20324,24 +15870,15 @@ that  the  dancmg,  once  begun,  be  finished.
 
 ^lore  dilhcult  than  the  dancing  was  the  weaiy  tramp  of  20  miles
 which  the  Chippewa  must  take  m  order  to  reach  the  railroad.  Theh
-packs  were  lighter  than  when  they  came,  for  the  gifts  they  then  car-
-ried had  been  given  away  and  the  Menominee  had  not  yet  returned
-the  fuU  equivalent,  and,  further,  quantities  of  provisions  had  disap-
-peared. The  shawls  which  seemed  a  burden  when  the  sun  shone  so
+packs  were  lighter  than  when  they  came,  for  the  gifts  they  then  carried had  been  given  away  and  the  Menominee  had  not  yet  returned
+the  fuU  equivalent,  and,  further,  quantities  of  provisions  had  disappeared. The  shawls  which  seemed  a  burden  when  the  sun  shone  so
 warm  were  but  a  scanty  protection  from  the  keen  north  wind.
 
-It  was  a  rather  forlorn  company  that  returned  to  Lac  du  Flam-
-beau; yet  it  was  something  to  have  been  for  a  little  while  on  the
+It  was  a  rather  forlorn  company  that  returned  to  Lac  du  Flambeau; yet  it  was  something  to  have  been  for  a  little  while  on  the
 heights  and  to  have  given  two  drums  to  the  Menonmiee.
 
 
 DENSMORE]
-
-
-CHIPPEWA    MUSIC— II
-
-
-181
 
 
 Sioux  Songs  of  Drum-presentation  Ceremony
@@ -20367,7 +15904,6 @@ Major
 
 Total
 
-20
 
 BEGINNINGS   OF   SONGS
 
@@ -20382,35 +15918,15 @@ of  songs
 
 On  the  twelfth
 
-2
-3
-1
-2
-2
-6
-1
-3
-
-10
-
-5
-10
-10
-30
-
-5
-15
 
 62,73
 57,69,76
-55
 74,75
 
 72,78
 
 54.56.6(1,61.70,77
 
-71
 
 58, 59, 79
 
@@ -20430,7 +15946,6 @@ On  the  sixth
 
 Total
 
-20
 
 Note. — The  Chippewa  war  songs  occurring  in  the  Drum-presentation  Oeremonj-  (Nos.  63,  64,  (i5,  66,  80)
 are  included  in  the  tabulate<l  analysis  of  war  songs  on  p.  195,  and  the  divorce  songs  (67,  68)  are  included  in
@@ -20445,21 +15960,11 @@ Per  cent.                   Serial  Nos.  of  songs
 
 On  the  tonic
 
-13
-
-6
-
-1
-
-65
-
-30
 
 55, 56, 60, 61, 62, 69, 70, 71, 72, 73, 74, 75
 
 54.57,58,76,78,79
 
-59
 
 „_
 
@@ -20467,11 +15972,9 @@ On  the  fifth
 
 On  the  third
 
-5
 
 Total
 
-20
 
 TONE  MATERIAL
 
@@ -20484,19 +15987,6 @@ Serial  Nos.  of  .songs
 
 Second  live-toned  scale
 
-3
-2
-
-15
-30
-10
-10
-5
-10
-5
-5
-5
-5
 
 69, 73, 74
 
@@ -20515,15 +16005,9 @@ Octave  complete  except  sixth
 
 72,78
 
-62
 
 56,61
 
-75
-
-75
-
-55
 
 Octave  complete  except  sixth  and  fifth
 
@@ -20532,16 +16016,8 @@ Minor  triad  and  fourth
 
 Other  combinations  of  tone
 
-60
 
 Total
-
-20
-
-182
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
 
 
 [bi'll.  5:^
@@ -20563,25 +16039,15 @@ Songs  containing  no  accidentals
 Songs  containing  seventh  raised  a  semitone..
 Songs  containing  sixtli  raised  a  semitone
 
-18
 
-1
-1
-
-90
-
-5
 '5
 
 54, 55, 50, 57, 58, 59,  (iO,  (il ,  (12,  70,  7 1 ,  72,715,
 
 74, 76, 77, 78, 79
-75
-69
 
 Total
 
-20
 
 STRUCTURE
 
@@ -20597,7 +16063,6 @@ Serial  Nos.  of  songs
 None
 .    17
 
-3
 
 54,  56, 57,  5S,  59,  60,  61,  62,  69,  70,  71
 
@@ -20606,8 +16071,6 @@ None
 
 Purely  melodic*
 
-85
-15
 
 ,72,73,
 
@@ -20627,12 +16090,6 @@ Serial  Nos.  of  songs
 
 Downward
 
-12
-
-8
-
-60
-40
 
 54, 55, 68, 60, 62, 69, 71 ,  73, 76, 77, 7
 56,  .57, 59, 61, 70, 72, 74,75
@@ -20641,7 +16098,6 @@ Downward
 
 Total
 
-20
 
 Rhythmic  Analysis
 
@@ -20656,11 +16112,6 @@ Serial  Nos.  of  songs
 
 On  accented  part
 
-8
-12
-
-40
-60
 
 54,56,59,61,62,70,72,79
 
@@ -20668,11 +16119,9 @@ On  accented  part
 
 On  unaccented  part
 
-78
 
 Total
 
-20
 
 RHYTHM   OF   FIRST   MEASURE
 
@@ -20686,15 +16135,9 @@ Per  cent.
 Serial  Nos.  of  songs
 
 
-Songs  beginning  in  2-4  time.
-Songs  beginning  in  3-4  time.
-Songs  beginning  in  5-4  time.
 Songs  beginning  in  5-S  time.
 
 Total
-
-
-20
 
 
 58. 59, 61, 62, 72, 73. 74. 78, 79
@@ -20703,16 +16146,8 @@ Total
 
 55, 75. 76, 77
 
-60
-
 
 DEN'S  Nf  ore]
-
-
-CHIPPEWA   MUSIC — II
-
-
-183
 
 
 Rhythmic  Analysis — continued
@@ -20730,22 +16165,13 @@ Songs  containing  a  change  of  time
 
 Songs  containing  no  change  of  time
 
-19
-
-1
-
-95
-
-5
 
 54, 56, 57, 58, 59, 60, 61,  62, 69, 70,  71, 72,73,
 
 74,75,76,77,78,79
-55
 
 Total
 
-20
 
 RHYTHMIC  UNIT
 
@@ -20756,12 +16182,7 @@ Percent.
 
 Serial  Nos.  of  songs
 
-10
-3
 
-50
-
-15
 S3
 
 54, 58, 60, 62, 70, 72. 75, 76, 78, 79
@@ -20774,7 +16195,6 @@ Songs  containing  no  rhythmic  unit
 
 Total
 
-20
 
 COMPARISON   OF  METRIC   UNIT   OF   VOICE   AND   DRUM
 
@@ -20801,13 +16221,10 @@ SONGS  OF  THE  LAC  DU  FLAMBEAU  RESERVATION
 
 111  the  north-central  part  of  Wisconsm,  about  80  miles  southeast
 of  Asliland,  is  the  Lac  du  Flambeau  Chippewa  Reservation,  formerly
-under  the  La  Pointe  Agency,  but  now  in  charge  of  the  school  super-
-intendent. It  is  a  beautiful  region  of  pme  forests  and  quiet  lakes.
-A  typical  forest  on  the  reservation  is  shown  in  plate  24.  The  prin-
-cipal Chippewa  village  (pi.  25)  is  several  miles  from  the  agency.  The
+under  the  La  Pointe  Agency,  but  now  in  charge  of  the  school  superintendent. It  is  a  beautiful  region  of  pme  forests  and  quiet  lakes.
+A  typical  forest  on  the  reservation  is  shown  in  plate  24.  The  principal Chippewa  village  (pi.  25)  is  several  miles  from  the  agency.  The
 ceremonies  of  the  ^Iide'wiwm  are  held  regularly  and  many  other  native
-customs  are  perpetuated.  The  gathering  of  wdld  rice  forms  an  absorb-
-ing interest  in  autumn,  followed  by  hunting  expeditions.  Deer  are
+customs  are  perpetuated.  The  gathering  of  wdld  rice  forms  an  absorbing interest  in  autumn,  followed  by  hunting  expeditions.  Deer  are
 ])lentiful  on  the  reservation  and  bears  are  not  infrequent  trophies  of
 the  chase.  With  these  native  avocaticms  is  mingled  much  that  has
 been  taught  by  the  Government,  many  of  the  Indians  cultivating
@@ -20836,16 +16253,8 @@ Dji'sia'sino'kwe  ("deceiving  woman"),  also  sang  two  love  songs,
 naively  insisting  that  her  husband  depart  while  she  recorded  them,  to
 be  recalled  when  they  were  played  on  the  phonograph.
 
-Seventy-five  songs  were  recorded  at  Lac  du  Flambeau.     The  per-
-sonality of  the  other  singers  is  described  in  connection  Avith  the
+Seventy-five  songs  were  recorded  at  Lac  du  Flambeau.     The  personality of  the  other  singers  is  described  in  connection  Avith  the
 analyses  of  the  songs.
-184
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  24
 
 
 PINE    FOREST,     LAC    DU     FLAMBEAU     RESERVATION,     WIS.
@@ -20863,15 +16272,7 @@ No.  81.  A  Song  of  Indecision
 Sung  by  Mide^wigi'jig
 
 
-185
-
-
-(Catalogue  No.  393)
-
-
-Voice  J  =96
 Drum  Jr=  96
-( Drum-rhythm  similar  to  No.  2 )
 
 
 Wi-na  -  wa  -  nin  -da  -  ci-mi-gog       wi  -  na  -  wa  -  nin  -  da  -  ci-i
@@ -20888,12 +16289,8 @@ wi  -  na  -  wa  -   nin  -  da  -  ci  -  mi-g^
 wi-na  -   wa  -  nin  -  da  -  ci  -  mi-gog
 
 
-be  -  SI-  na  -  sT  -  wi-djTg  e  wi  -na-wa-nin  -  da  -  ci-  mi-gog        wi  -na-wa  -  nin-
+be  -  SI-  na  -  sT  -  wi-djTg  e  wi  -na-wa-nin  -  da  -  ci-  mi-gog        wi  -na-wa  -  ninda-  ci-  mi-gog      wi-na  -wa  -  nin-  da  -  ci  -mi-gog     wi-  na-wa-nin  -  da-  ci-mi-gog
 
-
-da-  ci-  mi-gog      wi-na  -wa  -  nin-  da  -  ci  -mi-gog     wi-  na-wa-nin  -  da-  ci-mi-gog
-
-WORDS
 
 Fart  1
 
@@ -20925,12 +16322,6 @@ nindikwgm^ my  wife
 ge^mawimid^ would  weep  for  me
 
 
-188
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
 [BULL.  5^
 
 
@@ -20948,10 +16339,7 @@ idea  of  the  song.
 
 No.  84.  "  The  Sioux  Follow  Me"         (Catalogue  No.  407)
 Sung  by  fyNiwuB'K
-Voice  J  =  96
-Drum  J  -  96
 
-(Drum-rhythm  similar  to  No.  19)
 ^  •    •      #  _      #
 
 
@@ -20965,9 +16353,6 @@ pi  -  si  -  ka  -  clog  ic  -  kwe  -  yan
 
 
 ii 0 0 1— #-
-
-
-4
 
 
 s-^—s
@@ -20989,8 +16374,7 @@ biiipi^sika^dog  ^ is  no  doubt  following
 
 Analysis. — This  song  is  based  on  the  chord  of  D  major  and  would
 be  classified  as  harmonic  except  for  the  presence  of  E  flat  as  an
-accented  tone.  The  phrases  are  of  irregular  length  and  the  song  con-
-tains no  rhythmic  unit,  yet,  as  a  whole,  it  has  a  certain  rhythmic
+accented  tone.  The  phrases  are  of  irregular  length  and  the  song  contains no  rhythmic  unit,  yet,  as  a  whole,  it  has  a  certain  rhythmic
 unity  and  completeness.  The  only  tones  used  are  those  of  the  major
 triad  and  second.
 
@@ -20998,8 +16382,7 @@ The  words  of  this  and  of  the  followmg  song  suggest  that  the  songs
 were  composed  during  dreams.
 
 
-1  The  syllable  dog  affixed  to  a  verb  indicates  lack  of  absolute  knowledge,  but  confidence  that  the  state-
-men  I  is  correct.
+1  The  syllable  dog  affixed  to  a  verb  indicates  lack  of  absolute  knowledge,  but  confidence  that  the  statemen  I  is  correct.
 
 
 DBNSMORE]
@@ -21008,19 +16391,9 @@ DBNSMORE]
 Voice  Jrrll6
 
 
-CHIPPEWA   MUSIC — II
-
 No.  85.  "Around  the  Sky'
 
 Sung  by  E^niwub^e
-
-
-189
-
-(Catalogue  No.  415)
-
-
-(Drum-rhythm  similar  to  No.  10)
 
 
 i2:^^
@@ -21106,9 +16479,6 @@ The  drum  is  slightly  faster  than  the  voice  and  seems  constantly
 hurrymg  it  forward.
 
 
-188
-
-
 BUEEAU    OF   AMERICAN   ETHNOLOGY
 
 
@@ -21136,13 +16506,7 @@ Sung  by  K'niwi'ie'r
 (C'atalogno  No.  407)
 
 
-Voice  J  =  96
-
-
 Drum
-
-
-96
 
 
 (Drmu-rhytbm  similar  to  No.  19)
@@ -21162,36 +16526,23 @@ biilpi^sika^dog  ^ is  no  doubt  following
 
 Analysis. — This  song  is  leased  on  the  chord  of  D  major  and  would
 be  classified  as  harmonic  except  for  the  presence  of  E  flat  as  an
-accented  tone.  The  phrases  are  of  irregular  length  and  the  song  con-
-tains no  rhj^thmic  unit,  yet,  as  a  whole,  it  has  a  certain  rhythmic
+accented  tone.  The  phrases  are  of  irregular  length  and  the  song  contains no  rhj^thmic  unit,  yet,  as  a  whole,  it  has  a  certain  rhythmic
 unity  and  completeness.  The  only  tones  used  are  those  of  the  major
 triad  and  second.
 
 The  words  of  this  and  of  the  followmg  song  suggest  that  the  songs
 were  composed  during  dreams.
 
-1  The  sy!lal)le  dog  affixed  1o  a  verl)  indicates  lack  of  absolute  knowledge,  l)ut  confidence  that  the  state-
-ment is  correct.
+1  The  sy!lal)le  dog  affixed  1o  a  verl)  indicates  lack  of  absolute  knowledge,  l)ut  confidence  that  the  statement is  correct.
 
 
 DBNSJMOUE]
 
 
-CHIPPEWA   MUSIC II
-
-
 No.  85.  "Around  the  Sky'
 
 Sung  by  E^niwub^e
-Voice  J  =  116
 Drum  J=z  120
-
-(Drum-rhythm  similar  to  No.  10)
-
-
-189
-
-(Catalogue  No.  415)
 
 
 n
@@ -21251,19 +16602,12 @@ The  drum  is  slightly  faster  than  the  voice  and  seems  constantly
 hurrymg  it  forward.
 
 
-100
-
-
-BUREAU   OF   AMERICAN    ETHNOLOGY  [bull.  53
-
 No.  86.  "If  He  is  a  Warrior"  (Catalogue  No.  419)
 
 Sung  by  E^niwub'e
 
 
 Voice  Jrzl26
-Drum  J—  126
-(Drum-rhythm  similar  to  No.  15)
 
 
 :gii^§^£E
@@ -21321,8 +16665,7 @@ ogiE^tcida^gwen  ' if  he  is  a  warrior  /
 
 nawi^nakwedag^ he  will  answer  me
 
-Analysis. — This  melody  comprises  the  tones  of  the  fourth  hve-
-toned  scale.  It  will  be  readily  seen  that  the  progressions  of  the
+Analysis. — This  melody  comprises  the  tones  of  the  fourth  hvetoned  scale.  It  will  be  readily  seen  that  the  progressions  of  the
 first  six  measures  are  outlmed  by  the  descending  interval  A-E,  the
 prmcipal  tones  being  those  of  the  triad,  with  the  second  as  a  passing
 tone.  The  next  twelve  measures  are  outlined  by  the  descending
@@ -21346,21 +16689,9 @@ understood).    See  pp.  72,  76,  108,  186,  230.
 DBNSMORE]
 
 
-CHIPPEWA  MUSIC — II
-
 No.  87.  "In  the  South"
 
 Sung  by  E'niwub^e
-
-
-Voice  J  — 112
-Drum  J—  120
-(Drum-rhythm  similar  to  No.  19)
-
-
-191
-
-(Catalogue  No.  426)
 
 
 ^laJEEgEFl^
@@ -21412,8 +16743,6 @@ fS-l-
 I
 
 
-WORDS
-
 caVunoiig' in  the  south
 
 bine^siwug the  birds
@@ -21425,12 +16754,9 @@ measure,  the  singer  striking  a  tone  above  the  proper  pitch  and
 descendmg  glissando,  apparently  as  an  embellishment  of  the  melody.
 The  transcription  is  from  the  first  rendition,  the  others  diflfermg  in
 some  unimportant  note-values  but  not  m  the  rhythm  or  m  the
-embellishments.  The  song  would  be  classified  as  harmonic  in  struc-
-ture except  for  the  accented  E  in  next  to  the  last  measure.  It  is
+embellishments.  The  song  would  be  classified  as  harmonic  in  structure except  for  the  accented  E  in  next  to  the  last  measure.  It  is
 based  on  the  fourth  five-toned  scale  and  contains  no  rhythmic  unit.
 
-
-192  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
 
 No.  88.     War  Song  (Catalogue  No.  411)
 
@@ -21438,9 +16764,6 @@ Sung  by  E^niwub^e
 
 VOICB   J  =120
 
-Drum  J  =132
-
-( Drum-rhythm  similar  to  No.  19 )
 
 I
 
@@ -21469,8 +16792,7 @@ m
 :4iU,3:zii=g:=[l
 
 
-Analysis. — -This  song  is  particularly  definite  in  tonality  and  force-
-ful in  rh^^thm,  seeming  to  retain  some  of  the  spirit  of  the  warriors
+Analysis. — -This  song  is  particularly  definite  in  tonality  and  forceful in  rh^^thm,  seeming  to  retain  some  of  the  spirit  of  the  warriors
 who  sang  it  long  ago.  The  song  is  characterized  by  syncopations,
 which  are  found  but  rarely  in  the  songs  under  analysis  (see  No.  47  of
 the  present  book,  and  Nos.  123,  147,  152  in  Bulletin  45).  Attention
@@ -21480,11 +16802,6 @@ of  the  song.
 No.  89.    War  Song  (Catalogue  No.  412)
 
 Sung  bv  I/niwub^e
-
-
-Voice  J  =112
-Drum  J=  112
-(  Drum-rhythm  similar  to  No.  10 )
 
 
 r"
@@ -21505,10 +16822,7 @@ Ft=EEE
 ^i
 
 
-1  r-
-
-
-m
+1  rm
 
 
 ;fe=t
@@ -21549,14 +16863,7 @@ drum  have  the  $a-me  metric  unit  but  the  drum  precedes  the  voice  by
 DENSMORE]
 
 
-CHIPPEWA   MUSIC II
-
-
-193
-
-
-a  perceptible  interval  of  time.     The  tonic  chord  is  the  evident  frame-
-work of  the  melody.     From  two  of  the  four  renditions  the  last  six
+a  perceptible  interval  of  time.     The  tonic  chord  is  the  evident  framework of  the  melody.     From  two  of  the  four  renditions  the  last  six
 
 measures  are  omitted.
 
@@ -21564,11 +16871,6 @@ No.  90.  War  Song  (Catalogue  No.  416)
 
 Sung  by  E^niwub^e
 
-Voice  J=  116
-
-Drum   J  =  132
-
-(Drum-rhythm  similar  to  No.  10)
 
 r n      -•-  -
 
@@ -21588,8 +16890,7 @@ Amdysis. — The  first  measure  of  this  song  comprises  a  rhythmic
 unit,  which  occurs  only  twice  but  forms  the  basis  of  the  rhythm  of
 the  entire  song.  (See  Nos.  94,  96,  103,  108,  109,  115,  123.)  The
 second  measure  contains  the  same  division  of  the  counts  but  is  a
-double  instead  of  a  triple  measure  and  the  rhythmic  unit  is  unfui-
-ished.  The  fourth  and  openmg  of  the  fifth  measure  contain  the  same
+double  instead  of  a  triple  measure  and  the  rhythmic  unit  is  unfuiished.  The  fourth  and  openmg  of  the  fifth  measure  contain  the  same
 division  of  the  counts  but  with  a  change  of  accent.  Five  complete
 renditions  were  recorded  with  seven  repetitions  of  the  latter  half  of
 the  song,  the  singer  seeming  to  have  no  preference  whether  he  began
@@ -21601,8 +16902,6 @@ No.  91.  War  Song  (Catalogue  No.  417)
 
 Sung  by  E^niwub^e
 VoiCB  J—  126
-Drum  J=  126
-(  Drum-rhythm  similar  to  No.  19 )
 
 
 ii^^n
@@ -21623,32 +16922,15 @@ r^^^n — ' — •-^ — I — ^-g-ri  o  - — ---
 ^^^^§|f^S
 
 
-67996°— Bull.  53—13 13
-
-
-194
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
-Analysis. — A  strongly  descending  progression  and  a  vigorous  rhyth-
-mic unit  characterize  tliis  song.  A  similarity  between  this  and  the
-next  succeedmg  song  (No.  92)  suggests  that  they  may  have  been  com-
-posed by  the  same  man,  this  being  first  in  order  of  composition.  It
+Analysis. — A  strongly  descending  progression  and  a  vigorous  rhythmic unit  characterize  tliis  song.  A  similarity  between  this  and  the
+next  succeedmg  song  (No.  92)  suggests  that  they  may  have  been  composed by  the  same  man,  this  being  first  in  order  of  composition.  It
 is  a  stirring  melody,  but  lacks  the  smoothness  and  grace  of  No.  92.
 The  rhythmic  unit  of  the  latter  contains  two  measures  instead  of  one
-the  division  of  the  first  measure  being  the  same  as  that  of  the  rhyth-
-mic unit  of  this  song.
+the  division  of  the  first  measure  being  the  same  as  that  of  the  rhythmic unit  of  this  song.
 
 No.  92.     War  Song  (Catalogue  No.  418)
 
 Sung  by  E^niwub^'e
-Voice  J— 126
-Drum  J=  126
 (  Urum-rhythm  similar  to  No.  19)
 
 
@@ -21666,21 +16948,12 @@ this  and  No.  91  has  been  noted  in  the  analysis  of  the  preceding  son
 DBNSMORE]
 
 
-CHIPPEWA  MUSIC — II
-
 No.  93.  War  Song
 
 Sung  by  E'niwub^e
 
 
-Voice  J  =  108
 Drum  Jz3ll2
-(  Drum-rhythm  similar  to  No.  19  )
-
-
-195
-
-(Catalogue  No.  420)
 
 
 m^Si^^^^m^^^i^^^
@@ -21706,8 +16979,7 @@ m^
 
 Analysis. — The  effect  of  this  song  is  rhythmic,  yet  we  find  no  phrase
 repeated  accurately  enough  to  constitute  it  a  unit  of  rhythm.  The
-openmg  measure  of  the  repeated  part  contains  a  succession  of  note-
-values  in  triple  time,  which  is  twice  repeated  m  double  time,  and
+openmg  measure  of  the  repeated  part  contains  a  succession  of  notevalues  in  triple  time,  which  is  twice  repeated  m  double  time,  and
 which  forms  an  interesting  example  of  freedom  in  rhythmic  treatment.
 The  song  contains  one  accidental,  which  was  sung  distinctly  m  all
 the  renditions.
@@ -21728,8 +17000,6 @@ Serial  Nos.  of  songs
 
 Major
 
-10
-8
 
 Minor
 
@@ -21737,16 +17007,9 @@ Minor
 
 Total
 
-18
 
 Note.— The  following  songs,  included  in  this  table,  are  found  in  the  account  of  the  Drum-presentation
 Ceremony  (pp.  158-161, 179;:  Nos.  63,  64,  65,  66,  80.
-
-
-196
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
 
 
 [BOLL.  53
@@ -21765,11 +17028,6 @@ Serial  Nos.  of  songs
 On  the  twelfth...
 
 s
-2
-2
-1
-4
-1
 
 64,  65,  66,  80,  86,  87,  89,  93
 
@@ -21783,7 +17041,6 @@ On  the  tenth
 
 On  the  ninth
 
-81
 
 On  the  octave
 
@@ -21791,11 +17048,9 @@ On  the  octave
 
 On  the  sixth
 
-91
 
 Total.   .
 
-18
 
 ENDINGS  OF  SONGS
 
@@ -21805,10 +17060,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-14
-
-3
-1
 
 64,  65,  66,  80,  81,  82,  83,  85,  86,  87,  89, 90,
 
@@ -21819,11 +17070,9 @@ On  the  fifth
 
 On  the  third
 
-91
 
 Total
 
-18
 
 TONE   MATERIAL
 
@@ -21856,15 +17105,9 @@ Serial  Nos.  of  songs
 82,  89,  92
 
 63,  66,  80,  81,  86,  87
-84
 
-90
-93
 
 64,  65,  88,  91
-83
-
-85
 
 
 ACCIDENTALS
@@ -21875,27 +17118,17 @@ of  songs
 
 Serial  Nos.  of  songs
 
-17
-1
 
 03,  64,  65,  66,  SO,  81,  82,  83,  84,  85,  86,  87,
 
 Songs  containing  the  seventh  lowered  a  semitone
 
 88,  89,  90,  91,  92
-93
 
 Total
 
-18
 
 DENS MORE]
-
-
-CHIPPEWA  MUSIC — II
-
-
-197
 
 
 Melodic  Analysis — continued
@@ -21932,8 +17165,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-15
-3
 
 63 ,  64, 65, 66, 80,  81, 82, 84, 85, 86, 87, 88, 89
 
@@ -21942,7 +17173,6 @@ Serial  Nos.  of  songs
 
 Total
 
-18
 
 Rhythmic  Analysis
 
@@ -21966,9 +17196,6 @@ Total
 65,66,83,85,86,91
 
 
-18
-
-
 RHYTHM  OF   FIRST  MEASURE
 
 
@@ -21979,7 +17206,6 @@ of  songs
 Serial  Nos.  of  songs
 
 
-Songs  beginning  in  2-4  time .
 Songs  begioning  in  3-4  time .
 
 
@@ -22000,8 +17226,6 @@ Serial  Nos.  of  songs
 
 Songs  containing  a  change  of  time
 
-16
-2
 
 63, 64, 65, 66, 81, 82, 83, 84, 85, 86, 87, 88, 90,
 
@@ -22012,15 +17236,8 @@ Songs  containing  no  change  of  time. .
 
 Total
 
-18
-
-198
-
 
 BUREAU   OF   AMEEICAN  ETHNOLOGY
-
-
-[bull.  53
 
 
 Rhythmic  Analysis — continued
@@ -22055,8 +17272,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-9
-9
 
 64,  80,  81,  Sa,  84,  86,  89,  91,  92
 
@@ -22064,7 +17279,6 @@ Serial  Nos.  of  songs
 
 Total
 
-18
 
 Dream  Songs
 
@@ -22072,17 +17286,13 @@ The  following  is  the  dream  song  of  a  man  who  painted  liis  face  with
 charcoal  and  endured  a  fast  of  ten  days.  At  the  end  of  that  time  he
 dreamed  that  he  saw  clouds  rising  in  the  south.  There  were  manido'
 in  the  clouds  who  spoke  to  him,  saying,  "Brother,  come  here  with
-us."  So  the  man  went  up  into  the  clouds.  There  he  saw  the  thunder-
-birds,  who  taught  him  this  song  which  they  were  singing.
+us."  So  the  man  went  up  into  the  clouds.  There  he  saw  the  thunderbirds,  who  taught  him  this  song  which  they  were  singing.
 
 No.  94.  Song  of  the  Thunderbirds  (Catalogue  No.  394)
 
 Sung  by  E^niwub^e
 Voice  ,'—116
 
-Drum  J  =116
-
-( Drum-rhythm  similar  to  No.  19  )
 
 r~
 
@@ -22150,8 +17360,7 @@ unit,  which  is  repeated  practically  without  change  in  the  second
 phrase.  The  third  phrase  (measure  3)  shows  a  reversal  of  the  couplet
 and  triplet  division  which  occurs  in  the  corresponchng  measure  of  the
 rhytlunic  unit,  the  two  followmg  measures  being  jiractically  the  same
-as  in  the  unit.  The  variations  in  the  final  phrase  are  readily  dis-
-cerned. The  variation  of  a  rhythmic  phrase  is  a  feature  of  special
+as  in  the  unit.  The  variations  in  the  final  phrase  are  readily  discerned. The  variation  of  a  rhythmic  phrase  is  a  feature  of  special
 importance  in  the  study  of  primitive  musical  development.  (See
 Nos.  90,  96,  103,  108,  109,  115,  123.)
 
@@ -22175,24 +17384,9 @@ melody.  Before  singing  this  and  the  two  next  succeeding  songs  the
 singer  "imitated  the  noise  made  by  the  deer."     (See  pp.  101,  203.)
 
 
-200
-
-
-BUREAU   OF   AMERICAN  ETHNOLOGY
-
-
-[bull.  53
-
-
 No.  95.  Song  of  the  Deer  lai
 
 Sung  by  fyNiwuB^E
-Voice  J  =  104
-Drum  J  =104
-(  Drum-rhythm  similar  to  No.  2 )
-
-
-(Catalogue  No.  398)
 
 
 mik^"^=f^^^^^^f^^^A
@@ -22231,8 +17425,7 @@ be^jig one
 aiya''b6 buck
 
 Analysis. — Although  minor  in  tonaUty  this  song  is  bright  and  full
-of  action.  The  descending  interval  of  the  fourth,  which  occurs  fre-
-quently, has  been  noted  in  other  songs  concerning  animals  (see  No.
+of  action.  The  descending  interval  of  the  fourth,  which  occurs  frequently, has  been  noted  in  other  songs  concerning  animals  (see  No.
 22).  The  rhythmic  unit,  which  is  clear  and  vigorous,  is  found  three
 times  in  this  song.
 
@@ -22243,12 +17436,6 @@ Sung  l)y  lyNiwuH'p:
 
 
 (( 'atalogue  No.  402)
-
-
-Voice  J=  100
-Drum  J=  108
-
-( Drum-rhythm  .similar  to  No.  2)
 
 
 ggi^js^^^^^g^jigjEg:^
@@ -22293,9 +17480,6 @@ DENS  more]
 CHIPPEWA   MUSIC 11
 
 
-201
-
-
 songs  under  analysis.  The  interval  of  the  fourth  is  prominent  in  the
 framework  of  tliis  melody  (see  No.  22),  the  descending  intervals  D
 flat-A  flat,  A  flat-E  flat  being  snnilar  to  the  intervals  C  sharp-G
@@ -22326,10 +17510,6 @@ mornino:/
 No.  97.  Song  of  the  Deer  Dancing        (Catalogue  No.  433)
 Sung  by  Mec^kawiga'bau
 
-
-Voice  J--  104
-Drum  j  -  112
-(  Drum-rhythm  similar  to  No.  19 )
 
 I
 
@@ -22392,33 +17572,19 @@ hnilallon  of  the  plover,  in  the  pipe  dance  (p.  295).
 "  Wliere  did  he  spring  from? "
 
 
-202
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
 [BtTLL.  53
 
 
 No.  98.  "My  Shining  Horns"
 
 Sung  by  Mec^kawiga^bau
-Voice  J=:  108
 Drdm  J=  108
-(  Drum-rhythm  similar  to  No.  19)
-
-
-(Catalogue  No.  434)
 
 
 r^      m      •  ~i   «     -^-  -I*-     m  ,    ^  f  mm        I  i  i      r     1^       "'l  1^
 
 
 Wen-dji-we  -  a  -  sa-ko-nes-we-yan
-
-
-WORDS
 
 
 wen''diiwea''sako'nesweyan' my  shining  horns
@@ -22448,18 +17614,10 @@ DENS more]
 CHIPPEWA  MUSIC — n
 
 
-203
-
-
 No.  99.  Song  of  the  Buffalo  (Catalogue  No.  399)
 
 Sung  by  E^niwub^e
 
-
-Voice  J  =  96
-Drum  J=  100
-
-( Drum-rhythm  similar  to  No.  2  )
 
 I ' 1  r
 
@@ -22525,8 +17683,7 @@ we'yaka^gabuwiwa^djin as  they  stand  in  a  circle
 wa^doka'wagwa'nine I  join  with  them
 
 Analysis.- — Except  in  the  last  nine  measures,  the  piincipal  tones  of
-this  melody  are  those  of  the  triad  of  F  sharp  minor;  the  song  is  there-
-fore transcribed  in  that  key,  although  the  second  and  seventh  of  the
+this  melody  are  those  of  the  triad  of  F  sharp  minor;  the  song  is  therefore transcribed  in  that  key,  although  the  second  and  seventh  of  the
 key  do  not  occur.  This  is  an  instance  in  which  "key"  can  scarcely
 be  said  to  exist,  and  the  signature  should  be  understood  as  indicating
 merely  the  pitch  of  certain  tones.  The  formation  of  the  melody  is
@@ -22540,12 +17697,6 @@ are  major  thirds,  the  song  containing  18  mtervals  and  9  mmor  thhds
 the  final  word,  the  singer  ''imitated  the  noise  made  by  the  buffalo."
 Several  renditions  were  recorded,  interspersed  with  these  peculiar
 "noises."
-
-
-204
-
-
-BUREAU   OF    AMERICAN   ETHNOLOGY
 
 
 [btll.  53
@@ -22566,12 +17717,8 @@ boon  for  the  child  whose  vision  was  yet  to  come.
 
 No.  100.  Song  Before  a  Boy  Goes  Out  to  Fast
 
-(Catalogue  No.  421)
 
 Sung  by  E^niwub^e
-Voice  J  =  84
-Drum  J  =  88
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 A  -  ni  -  nen-we-we
@@ -22586,8 +17733,6 @@ a  -  ni  -  nen-we  -  we     wa  -  zi-swtin  nim-bi  -  zin-
 da  -go  -ne
 
 
-WORDS
-
 a'nin6i/wewe^ the  receding  sound
 
 wa'ziswlan^ of  the  nest  '
@@ -22599,11 +17744,9 @@ the  first,  second,  third,  and  seventh  of  the  minor  scale;  it  begins  
 the  third,  descends  to  the  second,  and  ends  on  the  tonic.  Eight
 renditions  of  the  song  were  recorded;  these  are  uniform  in  rhythm
 but  uncertain  in  the  intonation  of  the  opening  measures,  the  singer
-seeming  to  have  difficulty  in  giving  intervals  so  small,  with  dis-
-tinctness. (See  Nos.  54,  55,  61,  64.)  In  contrast  to  this  uncertainty
+seeming  to  have  difficulty  in  giving  intervals  so  small,  with  distinctness. (See  Nos.  54,  55,  61,  64.)  In  contrast  to  this  uncertainty
 as  to  semitones  and  whole  tones,  we  find  the  accidental  in  the  thu'd
-measure  and  A  flat  near  the  close  of  the  song  given  firmly  and  unmis-
-takably. The  whole  tone  between  7  and  8  is  promment  in  tliis  song.
+measure  and  A  flat  near  the  close  of  the  song  given  firmly  and  unmistakably. The  whole  tone  between  7  and  8  is  promment  in  tliis  song.
 (See  Nos.  9,  50,  85,  119,  124.)     The  melody  forms  a  good  example
 
 1  This  may  refer  to  the  "nest"  which  a  man  built  in  a  tree,  in  which  he  waited,  fasting,  for  a  vision  (see
@@ -22613,19 +17756,12 @@ p.  84),  though  the  use  of  the  word  "sound"  in  this  connection  is  ob
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
-205
-
-
 of  the  entire  song  as  a  rhythmic  unit,  complete  and  homogeneous.
 The  metric  unit  of  both  voice  and  drum  is  slow  and  the  general  effect
 of  the  song  is  different  from  that  of  the  majority  of  songs  under
 analysis.
 
-When  the  boy  E'niwUb'e  returned  from  liis  fasting  vigil  his  grand-
-father insisted  that  he  dance  before  tasting  food;  he  also  talked  with
+When  the  boy  E'niwUb'e  returned  from  liis  fasting  vigil  his  grandfather insisted  that  he  dance  before  tasting  food;  he  also  talked  with
 him,  asking  long  life  for  him  and  saying  that  he  needed  water  to
 drink.  Other  boys  returned  at  the  same  time  from  their  fasts  and
 E'niwub'e's  grandfather  talked  to  them  all.  Near  his  door  there
@@ -22637,22 +17773,17 @@ placed  a  birchbark  dish.  As  the  boys  danced  and  the  old  man  sang
 a  strange  thing  happened — water  flowed  from  the  hole  in  the  pole
 and  fell  into  the  dish.^  When  it  was  full  E'niwub'e's  grandfather
 stopped  the  dancers  and  gave  them  this  water  to  drink.  In  this
-manner  then*  fast  was  broken.  Both  these  fasting  songs  by  E'ni-
-wub'e's  grandfather  were  ''composed  in  his  dreams,"  and  the  medi-
+manner  then*  fast  was  broken.  Both  these  fasting  songs  by  E'niwub'e's  grandfather  were  ''composed  in  his  dreams,"  and  the  medi-
 cine pole  was  made  to  correspond  to  that  which  he  saw  in  one  of  his
 visions.      (Compare  Me'dweya 'sun's  medicine  pole,  p.  249.)
 
 No.  101.  Song  After  a  Boy  Returns  from  Fasting
 
-(Catalogue  No.  422)
 Sung  by  E'niwub^e
 
 
 VoiCK  J  =  144
 
-Drum  J  —  80
-
-(  Drum-rhythm  similar  to  No.  2  )
 
 I
 
@@ -22691,12 +17822,6 @@ line  on  the  Sun-dance  pole,  drawing  his  feather  fan  down  this  line,  
 for  the  refreshment  of  those  taking  part  in  the  Sun  dance.
 
 
-206  BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
-
-WORDS
-
-
 taki''gami'' cool  water
 
 niu
@@ -22718,8 +17843,7 @@ forms  a  rhythmic  unit  which  occurs  four  times  and  clearly  influences
 the  rhythm  of  the  entire  song.  The  flatted  sixth  is  found  twice  and
 was  given  in  all  of  the  six  renditions  of  the  song;  it  is  not  correct  in
 intonation,  being  somewhat  less  than  a  semitone  above  C.  The  song
-is  harmonic  in  structure  and  contains  the  tones  of  the  fourth  five-
-toned  scale.  Attention  is  directed  to  the  very  low  note  at  the  close
+is  harmonic  in  structure  and  contains  the  tones  of  the  fourth  fivetoned  scale.  Attention  is  directed  to  the  very  low  note  at  the  close
 of  the  song;  this  was  sung  softly  but  was  clear  and  approximated
 accuracy  of  intonation.
 
@@ -22731,8 +17855,7 @@ and  ill  fortune.  Three  games  were  taught  them  for  this  purpose —
 the  hand  game  {onm'jiwatage'wm),  the  moccasin  game  {rrmkizm' ata' -
 diwm'),  and  the  plate  game  {hugese'wm).  Songs  were  sung  during
 the  first  two  games,  but  there  was  no  music  with  the  plate  game,  as
-the  play  was  very  brief  and  the  computing  of  the  score  required  con-
-siderable time.  All  these  games  are  played  by  the  Chippewa  of  the
+the  play  was  very  brief  and  the  computing  of  the  score  required  considerable time.  All  these  games  are  played  by  the  Chippewa  of  the
 present  day  and  are  commonly  regarded  as  mere  pastimes,  but  it  is
 said  that  ''the  older  Indians  who  understand  the  origin  of  the  games
 and  songs  still  hold  them  in  reverence  as  a  gift  from  the  Manido'."
@@ -22745,8 +17868,7 @@ The  man  was  a  great  hunter  and  could  kill  any  animal  that  he  desire
 his  family  and  went  on  a  hunting  expedition.  They  went  far  away  from  all  other
 Indians.  Suddenly  one  of  his  children  died  and  the  next  day  another  died.  He  and
 his  wives  buried  them.  The  third  day  another  child  died  and  on  the  following  day
-the  last  of  his  children  died.  The  fourth  day  one  of  his  wives  died  and  on  the  follow-
-ing day  his  other  wife  died.  He  buried  them  both.  Then  he  wondered  what  would
+the  last  of  his  children  died.  The  fourth  day  one  of  his  wives  died  and  on  the  following day  his  other  wife  died.  He  buried  them  both.  Then  he  wondered  what  would
 become  of  him.  Should  he  kill  himself  with  his  knife  or  with  his  arrow?  He  decided
 not  to  do  so.  A  death  as  certain  awaited  him  if  he  wandered  about  the  country  until
 worn  out  with  exhaustion,  and  he  decided  on  this  course.  Day  after  day  he  walked
@@ -22754,14 +17876,10 @@ continuously.  If  he  saw  water  he  did  not  drink,  for  he  was  determine
 staggered  on  his  way  until  at  last  he  fell  and  could  not  rise.     His  clothing  of  skins  had
 
 '  In  his  description  of  Iroquois  Music  (in  Archseological  Report  of  Ontario  1898,  p.  145)  Mr.  A.  T.  Cringan
-states:  "The  rate  of  movement  in  the  melody  may  be  accelerated  or  retarded  but  that  of  the  accompani-
-ment remains  constant  throughout."
+states:  "The  rate  of  movement  in  the  melody  may  be  accelerated  or  retarded  but  that  of  the  accompaniment remains  constant  throughout."
 
 
 5UREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  26
 
 
 E'NIWUB'E
@@ -22785,8 +17903,7 @@ he  himself  used  the  piece  of  metal.
 
 The  stranger  showed  the  man  how  to  play  the  hand  game.  Laying  his  coat  across
 his  knees,  he  concealed  his  hands  beneath  it;  in  one  hand  was  the  metal  object.  He
-then  passed  his  closed  hands  rapidly  before  his  opponent.  Skill  in  the  game  con-
-sisted in  transferring  this  from  one  hand  to  the  other  while  both  were  closely  watched
+then  passed  his  closed  hands  rapidly  before  his  opponent.  Skill  in  the  game  consisted in  transferring  this  from  one  hand  to  the  other  while  both  were  closely  watched
 by  the  opponent,  who  attempted  to  guess  in  which  hand  the  object  was  concealed.
 The  man  who  had  been  dead  won  the  game  from  the  stranger,  although  it  had  just
 been  taught  him.-
@@ -22839,21 +17956,8 @@ America,  New  York,  1845,  p.  85),  whose  description  of  the  game  and  i
 observations  made  by  the  writer  on  the  Leech  Lake  Reservation,  in  Minnesota,  in  1910.
 
 
-208
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
-
-
 No,  102.  Song  of  the  Hand  Game        (Catalogue  No.  395)
 Sung  l>y  1'7niwub^e
-Voice  J=  120
-Drum  J=:  120
-
-(  Drum-rhythm  similar  to  No.  19)
 
 
 lie
@@ -22897,17 +18001,9 @@ the  phonographic  record  of  the  song.
 de.nsmore]
 
 
-CHIPPEWA   MUSIC- — II
-
-
-209
-
-
 No.  103.  Moccasin  Game  Son|?  (a)        (Catalogue  No.  396)
 Sung  by  E'niwub^e
 VoiCK  J  —  88
-Drum  J=  104
-(Drum-rhythm  similar  to  No.  19)
 
 
 iiiA5Et=^
@@ -22988,26 +18084,13 @@ excitement  is  noted  also  in  Nos.  30,  51,  52,  161.
 67996°— Bull.  53—13 li
 
 
-210
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 Voice  Jr=  100
 DRdM  J—  104
-(  Drum-rhythm  similar  to  No.  10)
 
 
 No.  104.  Moccasin  Game  Song  (b)
 
 Sung  by  E^niwub^e
-
-
-(Catalogue  No.  397)
 
 
 a_u f-      -f-rf-  Tf- "^  r-#-  I  I
@@ -23056,8 +18139,7 @@ The  Moccasin  Game
 This  game  is  frequently  played  by  the  Chippewa  at  the  present
 time,  but  has  ceased  to  be  a  serious  occupation  and  has  become  a
 mere  diversion.  The  days  are  past  when  men  sought  success  in
-dreams  and  lost  or  won  fortunes  in  a  day.  Yet  many  of  the  charac-
-teristics of  the  game  remain  unchanged.  In  July,  1910,  the  writer
+dreams  and  lost  or  won  fortunes  in  a  day.  Yet  many  of  the  characteristics of  the  game  remain  unchanged.  In  July,  1910,  the  writer
 saw  a  party  of  Chippewa  from  Bear  Island  playing  the  moccasin
 game  with  a  party  from  tlie  I^eech  I^ake  Agency.  One  side  had  won
 1 1  games  and  the  other  had  not  won  a  single  game,  yet  from  the  faces
@@ -23074,12 +18156,6 @@ early  days  obtained  the  secret  of  his  success  from  his  wife,  who  ret
 dream  after  death.  He  had  been  a  gambler  for  many  years  before  her  death  and  had
 been  fairly  successful,  but  after  she  died  he  met  with  nothing  but  failure  xintil  finally
 he  lost  everything.     In  despair  he  went  into  the  woods  to  fast  and  "dream."    After  a
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  27
 
 
 '"'^''''Im^WS
@@ -23112,12 +18188,6 @@ HIDING  THE  BULLETS
 GUESSING  THE   LOCATION   OF  THE    MARKED   BULLET
 
 MOCCASIN     GAME    AT    WHITE    EARTH,     MINN.
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  28
 
 
 HIDING  THE    BULLETS
@@ -23198,8 +18268,7 @@ Before  beginning  the  game  a  knife  is  tossed  to  decide  which  side
 shall  be  first  to  hide  the  bullets.  On  the  side  which  is  to  hide  the
 bullets  one  player  holds  a  drum;  the  other  lays  four  moccasins  in  a
 row  on  the  blanket  and  takes  in  his  hand  the  four  bullets  wliich  he  is
-to  hide.  On  the  side  which  is  to  guess,  one  player  holds  the  striking-
-stick  with  which  to  toss  aside  the  moccasins,  and  the  other,  seated  at
+to  hide.  On  the  side  which  is  to  guess,  one  player  holds  the  strikingstick  with  which  to  toss  aside  the  moccasins,  and  the  other,  seated  at
 his  left,  holds  in  his  left  hand  the  four  bullets  with  which  he  will
 indicate  his  guess.  Beside  these  players  are  laid  the  20  sticks  with
 wliich  the  score  is  kept.
@@ -23227,8 +18296,7 @@ of  the  row,  he  places  the  marked  bullet  in  liis  own  hand  between  th
 first  and  second  fingers,  the  position  corresponding  to  that  moccasin
 when  his  open  hand  is  extended  toward  his  opponents.  The  man
 holding  the  bullets  is  allowed  only  one  guess.  The  man  with  the
-striking-stick  is  allowed  three  guesses;  if  he  tosses  aside  two  mocca-
-sins without  disclosing  the  marked  bullet,  he  may  turn  another,  on
+striking-stick  is  allowed  three  guesses;  if  he  tosses  aside  two  moccasins without  disclosing  the  marked  bullet,  he  may  turn  another,  on
 which  the  score  is  made.  His  ]>artner  then  indicates  his  own  guess;
 if  correct,  he  qpens  liis  hand  and  shows  the  marked  bullet  in  the
 right  position;  if  incorrect,  he  extends  liis  hand  with  the  thumb
@@ -23236,12 +18304,6 @@ right  position;  if  incorrect,  he  extends  liis  hand  with  the  thumb
 
 A  correct  guess  by  both  players  is  called  a  "double  crack,"  wliich
 entitles  them  to  an  additional  turn  at  hiding  the  bullets,  provided
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN  53     PLATE  29
 
 
 SIGNAL   "I   GUESSED  WRONG"
@@ -23255,12 +18317,6 @@ MOCCASIN     GAME    AT    WHITE    EARTH,     MINN.
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
-213
-
-
 thoir  opponents  do  not  make  a  "douhlo  crack"  iti  the  meantime  to
 counterbalance  the  first.  The  "tk>uble  crack"  is  mentioned  in  the
 words  of  song  No.  175,  Bulletin  45.  One  side  continues  to  hide  the
@@ -23272,15 +18328,12 @@ by  the  score.  When  the  counting-sticks  which  remain  are  three  or
 fewer  in  number  the  man  holding  the  bullets  does  not  guess,  the
 game  depending  on  the  player  who  holds  the  striking-stick.  If  the
 marked  bullet  is  under  either  moccasin  at  the  end  of  the  row  and  he
-guesses  right,  the  game  is  his;  if  it  is  under  either  of  the  middle  moc-
-casins and  he  fails  to  locate  it,  the  game  is  won  by  his  opponents.
+guesses  right,  the  game  is  his;  if  it  is  under  either  of  the  middle  moccasins and  he  fails  to  locate  it,  the  game  is  won  by  his  opponents.
 
-The  score  is  complicated,  depending  on  the  position  of  the  moc-
-casin under  which  the  marked  bullet  was  hidden — whether  at  the
+The  score  is  complicated,  depending  on  the  position  of  the  moccasin under  which  the  marked  bullet  was  hidden — whether  at  the
 end  or  in  the  middle  of  the  row,  also  on  the  number  of  guesses
 required  by  the  man  with  the  striking-stick  in  locating  the  marked
-bullet  and  on  the  agreement  or  disagreement  of  himself  and  his  part-
-ner in  their  choice.  For  instance,  if  the  bullet  is  under  one  of  the
+bullet  and  on  the  agreement  or  disagreement  of  himself  and  his  partner in  their  choice.  For  instance,  if  the  bullet  is  under  one  of  the
 middle  moccasins  and  both  guessers  fail  to  locate  it,  the  side  which
 hid  the  bullet  adds  eight  counting-sticks  to  its  score.  If  the  bullet
 is  in  the  same  location  and  only  one  guesser  fails  to  locate  it,  the
@@ -23326,12 +18379,8 @@ Serial  Nos.  of  songs
 
 On  the  twelfth
 
-2
 .3
-4
 
-1
-1
 
 94, 101
 
@@ -23345,26 +18394,17 @@ On  the  octave
 
 On  the  fourth        . . '.
 
-90
 
 On  the  third.
 
-100
 
 Total
-
-11
-
-214
 
 
 BUREAU   OF   AMEEICAN   ETHNOLOGY
 Melodic  Analysis — continued
 
 ENDINGS  OF  SONGS
-
-
-[bull.  53
 
 
 On  the  tonic.
@@ -23396,30 +18436,17 @@ Serial  Nos.  of  songs
 
 Second  five-toned  scale.  ;
 
-1
-2
-
-97
 
 98, 101
 
-94
 
 95,  102,  104
 
 Octave  complete  except  seventh
 
-96
-
-99
-
-103
-
-100
 
 Total
 
-11
 
 ACCIDENTALS
 
@@ -23442,10 +18469,6 @@ Serial  Nos.  of  songs
 
 94,  95,  96,  97,  98,  99,  102,  103,  104
 
-100
-
-101
-
 
 STRUCTURE
 
@@ -23455,8 +18478,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-3
-8
 
 97,  98, 101
 
@@ -23464,7 +18485,6 @@ Serial  Nos.  of  songs
 
 Total
 
-11
 
 FIRST  PROGRESSIONS
 
@@ -23474,21 +18494,12 @@ of  songs
 
 Serial  Nos.  of  songs
 
-8
-8
 
 94,  95,  96,  99,  100,  102,  103,  104
 
 97,  98,  101
 
 Total                                     .
-
-11
-
-CHIPPEWA   MUSIC II
-
-
-215
 
 
 Rhythmic  Analysis
@@ -23508,8 +18519,6 @@ On  unaccented  part
 Total
 
 
-11
-
 None
 
 
@@ -23524,18 +18533,14 @@ of  songs
 
 Serial  Nos.  of  songs
 
-3
-1
 
 95,  96,  97,  98,  99,  102,  104
 
 94,  100,  101
 
-103
 
 Total
 
-11
 
 CHANGE  OF  TIME
 
@@ -23553,7 +18558,6 @@ Songs  containing  no  change  of  time
 Total
 
 
-11
 None
 
 
@@ -23590,9 +18594,6 @@ Serial  Nos.  of  songs
 
 Metric  unit  of  voice  and  drum  the  same
 
-4
-
-7
 
 94,  95,  98,  102
 
@@ -23601,13 +18602,6 @@ Metric  unit  of  voice  and  drum  different
 96,  97,  99,  100,  101,  103,  104
 
 Total
-
-11
-
-216
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
 
 
 [BiTLL.  5n
@@ -23622,9 +18616,6 @@ Kecoided  without  drum
 No.  105.  "Go  with  Me"
 
 Sung  by  E'niwub'e
-
-
-(Catalogue  No.  400)
 
 
 ya  -  ni  -   ne
@@ -23720,9 +18711,6 @@ DENS  more]
 CHIPPEWA   MUSIC — 11
 
 
-217
-
-
 phrases  and  sections  in  an  iiTogiilar  order,  seeming  to  sing  them  as
 suggested  by  his  fancy.
 
@@ -23732,16 +18720,12 @@ No.  106.  "Do  not  Weep'
 Sung  by  E'niwub'e
 
 
-Voice  J  =  72
 Recorded  without  drum
 
 r  -•-•-  -•-       -X  1     V-m
 
 
 1    n
-
-
-(Catalogue  No.  401)
 
 
 w^^^^mw^^^t^m^m^
@@ -23774,10 +18758,7 @@ t=P=^
 u^t=^:^[  3EtEEIS^=£eEl
 
 
-ca-i    -     gwfi  ni-ma     -    dja     ke- go- sfi  ma-wi    -     ken  ke-go-sfi  ma-wi-
-
-
-ken     ca  -  i'
+ca-i    -     gwfi  ni-ma     -    dja     ke- go- sfi  ma-wi    -     ken  ke-go-sfi  ma-wiken     ca  -  i'
 
 
 gwd  ni-ma
@@ -23813,18 +18794,8 @@ the  melody,  which  lias  a  compass  of  an  octave.  It  will  be  noted  tha
 the  same  octave  represents  the  compass  of  the  precedmg  song,  but
 the  two  melodies  are  in  different  keys.  (See  Nos.  95,  96.)  As  in
 the  preceding  song,  the  interval  of  the  fourth  is  of  frequent  occurrence.
-(See  No.  22.)  The  rhythmic  unit,  which  occurs  five  times,  is  accu-
-rately repeated.  The  prominence  of  the  subdominant  is  noted  in
+(See  No.  22.)  The  rhythmic  unit,  which  occurs  five  times,  is  accurately repeated.  The  prominence  of  the  subdominant  is  noted  in
 this  and  in  other  songs  of  sadness.     (See  Nos.  109,  110,  170.)
-
-
-218
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
 
 
 No.  107.  "You  Desire  Vainly"
@@ -23832,10 +18803,6 @@ No.  107.  "You  Desire  Vainly"
 Sung  by  Mec^kawiga^bau
 
 
-(Catalogue  No.  430)
-
-
-Voice  J=  92
 Recorded  without  drum
 
 
@@ -23887,20 +18854,12 @@ minor  in  tonality  and  freely  melodic  in  structure.
 DENS  MORE]
 
 
-CHIPPEWA  MUSIC — II
-
 No.  108.  "He  is  Gone"
 
 Sung  by  Mec^kawiga^bau
 
 
-Voice  J—  92
 Recorded  without  drum
-
-
-219
-
-(Catalogue  No.  431)
 
 
 ^m
@@ -23999,8 +18958,7 @@ whose  lover  was  dead.
 
 Analysis. — This  song  contains  29  measures  and  comprises  five
 periods  of  irregular  lengths.  The  rhythmic  unit  occurs  only  three
-times,  but  it  is  interesting  to  observe  that  the  rhythm  of  the  inter-
-vening parts  of  the  song  resembles  the  rhythm  of  this  unit.  For
+times,  but  it  is  interesting  to  observe  that  the  rhythm  of  the  intervening parts  of  the  song  resembles  the  rhythm  of  this  unit.  For
 instance,  in  the  phrase  which  includes  measures  6  to  13  we  note  that
 the  opening  and  the  close  of  the  phrase  correspond  to  the  beginning
 and  the  end  of  the  unit,  respectively,  but  the  pln-ase  contains  eight
@@ -24009,16 +18967,10 @@ measures  while  the  unit  contains  only  five.  (See  Nos.  90,  94,  96,  10
 equally  accented.
 
 
-220
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 No.  109.  "I  am  Thinkinj?  of  Her"        (Catalogue  No.  442)
 Sung  by  Mec^kwawiga^bau
 
 
-Voice  J  —  92
 Recorded  without  drum
 
 
@@ -24038,8 +18990,7 @@ an  imiisiial  number  of  intervals  of  a  whole  tone — 14  (58  per  cent)
 the  24  intervals  in  the  song.  Reference  to  Tables  Nos.  11  and  12
 will  show  that  only  42  per  cent  of  the  ascending,  and  35  per  cent
 of  the  descending,  intervals  in  the  340  songs  under  analysis  are
-intervals  of  a  second,  either  a  whole  tone  or  a  semitone.  The  promi-
-nence of  the  subdominant  is  noted  in  this,  as  in  other  songs  of
+intervals  of  a  second,  either  a  whole  tone  or  a  semitone.  The  prominence of  the  subdominant  is  noted  in  this,  as  in  other  songs  of
 sadness.  (See  Nos.  106,  110,  170).  The  melody  tones  are  those
 of  the  second  five-toned  scale.  The  rhythmic  unit,  although  repeated
 only  once,  clearly  influences  the  rhythm  of  the  entire  song.  (See
@@ -24049,7 +19000,6 @@ formation  of  a  melody  is  considered  in  the  analysis  of  No.  22.
 No.  110.  "Weeping  for  My  Love"         (Catalogue  No.  443)
 
 Sung  by  Dji^sia^sinC'kwe  ("deceiving  woman  ")
-Voice  J  =92
 Recorded  without  dram
 
 
@@ -24098,12 +19048,6 @@ Ipi
 DENSaiORE]
 
 
-CHIPPEWA   MUSIC II
-
-
-221
-
-
 WORDS  (free   translation)
 
 I  go  around  weeping  for  my  love
@@ -24124,10 +19068,6 @@ No.  111.  "Come,  Let  Us  Sing"
 Sung  by  Dji'sia'sino^kwe
 
 
-(Catalogue  No.  444)
-
-
-Voice  J  =96
 Recorded  without  drum
 
 
@@ -24147,15 +19087,6 @@ mdistinctly,  are  not  transcribed.  The  interval  of  the  fourth  occurs
 frequently  in  the  middle  part  of  the  song  (see  No.  22).
 
 
-222
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  112.  Song  of  an  Ambitious  Mother
 
 
@@ -24165,9 +19096,6 @@ Recorded  without  drum
 
 
 Sunj^  by  Mrs.  Gauthier  '
-
-
-(Catalogue  No.  445)
 
 
 I  r
@@ -24270,37 +19198,26 @@ inin'akik  - brass  kettle
 
 ogimi^giwe'nun he  is  giving
 
-The  singer  stated  that  this  song  was  a  memoiy  of  her  earliest  child-
-liood,  when  she  heard  her  mother  sing  it.  A  brass  kettle  is  said  to
-have  been  one  of  the  first  manufactured  articles  secured  by  the  Chip-
-pewa and  was  a  highly  valued  possession.  The  words  of  the  song
+The  singer  stated  that  this  song  was  a  memoiy  of  her  earliest  childliood,  when  she  heard  her  mother  sing  it.  A  brass  kettle  is  said  to
+have  been  one  of  the  first  manufactured  articles  secured  by  the  Chippewa and  was  a  highly  valued  possession.  The  words  of  the  song
 suggest  that  the  woman  singer  is  bestowing  her  own  property,  yet
 the  last  line  indicates  that  in  doing  so  she  is  representing  her  son.
 
-Analysis. — This  song  begins  and  ends  on  the  same  tone,  a  pecidi-
-arity  found  in  only  11  songs  of  the  series  of  340,  namely,  Nos.  132,
+Analysis. — This  song  begins  and  ends  on  the  same  tone,  a  pecidiarity  found  in  only  11  songs  of  the  series  of  340,  namely,  Nos.  132,
 142,  149,  150,  170,  174,  197  in  Bulletm  45  and  Nos.  53,  112,  125,  127
 of  the  present  work.  No.  127  being  a  duplicate  of  No.  149  in  Bulletin
 45.  All  these  songs  begm  and  end  on  the  tonic.  This  is  one  of  the
 comparatively  few  songs  composed  by  women  (see  Nos.  31,  39,  40,
 127,  151,  177,  178).  The  last  measure  of  the  rhythmic  unit  varies
-slightly  in  its  repetitions,  a  measure  being  added  in  the  second  occur-
-rence of  the  unit.     A  peculiarity  of  this  song  is  that  it  contains  only
+slightly  in  its  repetitions,  a  measure  being  added  in  the  second  occurrence of  the  unit.     A  peculiarity  of  this  song  is  that  it  contains  only
 
 J  Mrs.  Benjamin  Gauthier  (see  pi.  30),  who  -sang  this  song,  is  knowTi  also  by  her  Chippewa  name
 Bl'tawagi'jlgo'kwe  (" double  sky  woman  ").  She  is  a  granddaughter  of  Ginlc'tano  ("  wind-bound "'),  who
 was  chief  of  the  Ma'nltowlc'  and  Bimidjig'amag  bands  of  Wisconsin  Chippewa,  and  who  several  times
-visited  Washington  with  tribal  delegations.  Mrs.  Gauthier  is  a  progressive  member  of  the  Lac  du  Flam-
-beau village,  but  retains  her  interest  in  tribal  traditions  and  customs.
+visited  Washington  with  tribal  delegations.  Mrs.  Gauthier  is  a  progressive  member  of  the  Lac  du  Flambeau village,  but  retains  her  interest  in  tribal  traditions  and  customs.
 
 'Said  to  be  a  compound  of  the  words  inl'nl  ("man")  and  wa'bV;  ("metal"),  the  large  brass  kettles
 obtained  from  the  traders  in  the  early  days  being  called  "man-kettles."
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  30
 
 
 MRS.     BENJAMIN     GAUTHIER
@@ -24310,12 +19227,6 @@ BUREAU  OF  AMERICAN   ETHNOLOGY  BULLETIN  53     PLATE  31
 
 
 CHIPPEWA    DRESS
-
-
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  32
 
 
 SLEEVE    (ABOVEi    AND    LEGGING- CHIPPEWA
@@ -24333,19 +19244,7 @@ BUREAU   OF  AMERICAN    ETHNOLOGY  BULLETIN   53     PLATE  34
 CHIPPEWA    HEADBAND
 
 
-BUREAU   OF   AMERICAN    ETHNOLOGY
-
-
-BULLETIN  53     PLATE  35
-
-
 CHIPPEWA    MOCCASIN     (PRESENT    STYLE)
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE  36
 
 
 CHIPPEWA    MOCCASIN    (OLD    PATTERN)
@@ -24363,8 +19262,7 @@ and  in  other  songs  concernmg  motion.
 At  the  time  this  song  was  used  the  Chippewa  women  were  wearing
 the  old,  tribal  style  of  dress.  Mrs.  Gautliier  recalled  her  mother's
 description  of  this  dress,  and  the  costume  she  wears  (pi.  30)  was  made
-under  her  own  direction,  no  fewer  than  seven  Chippewa  women  con-
-tributing their  skill.  The  several  parts  of  the  costume  (dress,  sleeves,
+under  her  own  direction,  no  fewer  than  seven  Chippewa  women  contributing their  skill.  The  several  parts  of  the  costume  (dress,  sleeves,
 leggings,  sash,  headband,  and  moccasins)  are  shown  in  plates  31-35.
 Before  securing  broatlcloth  the  Chippewa  made  a  garment  of  similar
 design  from  a  blanket.  E'niwub'e  offered  to  explain  this  to  the
@@ -24376,8 +19274,7 @@ young.  The  surplus  length  of  the  blanket  was  folded  over  and  allowed
 to  hang  loosely  on  the  chest,  the  garment  being  held  in  place  by
 shoulder  bands.  In  the  old  days  the  only  ornamentation  was  on  this
 piece  which  hung  over  the  chest,  the  depth  of  which  dei3ended  on  the
-height  of  the  person.  Later,  when  broadcloth  was  used  for  the  gar-
-ment, this  was  replaced  by  a  strip  of  that  material,  beaded,  and  still
+height  of  the  person.  Later,  when  broadcloth  was  used  for  the  garment, this  was  replaced  by  a  strip  of  that  material,  beaded,  and  still
 later  by  beaded  velvet.  The  sash  worn  by  Mrs.  Gautliier  is  of  yarn,
 woven  in  an  ancient  manner  by  the  wife  of  E'niwiib'e,  the  singer.
 
@@ -24399,17 +19296,10 @@ ma'ktik  (pi.  37).  The  ''star  pattern"  is  said  to  have  been  originally
 a  dream  symbol  (pi.  33).  The  decoration  on  Odjib'we's  war  drum
 also  was  the  outcome  of  a  dream  (see  p.  62).
 
-Plate  35  shows  the  type  of  moccasin  now  in  use  among  the  Chip-
-pewa, and  plate  36  the  type  from  which  some  writers  have  believed
-
-
-224
+Plate  35  shows  the  type  of  moccasin  now  in  use  among  the  Chippewa, and  plate  36  the  type  from  which  some  writers  have  believed
 
 
 BUEEAU   OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 that  tlio  tribe  derived  its  name,  many  Indians  holdinj^  the  same
@@ -24447,17 +19337,10 @@ phonograph.
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
-225
-
-
 No.  113.     Love  Song  (Catalo<i;ue  No.  446)
 
 Sung  by  O^gabea^sino'kwe  ("woman  of  the  breeze  that  blows  to  the  end")
 
-Voice  J=  160
 Recorded  without  drum
 
 
@@ -24491,10 +19374,7 @@ A-^i
 yi
 
 
--S*-     -25*-   -Z5l-
-
-
-nin-ga-da   -    wi-ga-ga-no
+-S*-     -25*-   -Z5lnin-ga-da   -    wi-ga-ga-no
 
 
 bi  -  ji  -  go  -   kwe
@@ -24602,11 +19482,6 @@ love  songs,  but  this  is  compensated  for  by  the  frequent  occurrence  of
 prolonged  tones.  All  the  tones  of  the  octave  except  the  thii-d  occur
 in  the  song,  which  is  freely  melodic  in  structure.     (See  No.  53.)
 
-67996°— Bull.  53—13 15
-
-
-226
-
 
 BUEEAU    OF   AMERICAN    ETHNOLOGY
 
@@ -24616,16 +19491,11 @@ Melodic  Analysis
 tonality
 
 
-[BULL.  53
-
-
 Number
 of  songs
 
 Serial  Nos.  of  songs
 
-3
-6
 
 105,  112,  113
 
@@ -24635,7 +19505,6 @@ Minor
 
 Total
 
-9
 
 BEGINNINGS  OF  SONGS
 
@@ -24645,13 +19514,10 @@ of  songs
 
 Serial  Nos.  of  songs
 
-4
-1
 A
 
 106,  107,  109,  111
 
-113
 
 On  the  fifth
 
@@ -24659,7 +19525,6 @@ On  the  fifth
 
 Total     . .                        .          .   .
 
-9
 
 ENDINGS  OF  SONGS
 
@@ -24669,8 +19534,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-5
-4
 
 106,  107,  109,  110,  lU
 
@@ -24680,7 +19543,6 @@ On  the  fifth
 
 Total
 
-9
 
 TONE  MATERIAL
 
@@ -24712,17 +19574,8 @@ Serial  Nos.  of  songs
 
 108,  109
 
-105
 
 106,  111
-
-110
-
-113
-
-107
-
-112
 
 
 ACCIDENTALS
@@ -24732,17 +19585,10 @@ of  songs
 
 Serial  Nos.  of  songs
 
-9
 
 105, 106, 107, 108, 109, 110, 111, 112, 113
 
 DENHMOllE]
-
-
-CHIPPEWA    MUSIC II
-
-
-227
 
 
 Melodic  Analysis — continued
@@ -24778,8 +19624,6 @@ Serial  Nos.  of  songs
 
 Downward
 
-4
-5
 
 106,  107,  108,  111
 
@@ -24789,7 +19633,6 @@ Upward
 
 lota!
 
-9
 
 Rhythmic  Analysis
 
@@ -24821,22 +19664,14 @@ of  songs
 
 Serial  Nos.  of  songs
 
-Songs  beginning  in  2-4  time
-
-4
-5
 
 107,  108,  110  111
 
-Songs  beginning  in  3-4  time
 
 105,  106,  109,  112,  113
 
 Total
 
-9
-
-1
 
 CHANGE  OF  TIME
 
@@ -24848,7 +19683,6 @@ Serial  Nos.  of  songs
 
 Songs  containing  a  change  of  time
 
-9
 None
 
 105,  lOG,  107,  108,  109,  110,  111,  112,  113
@@ -24856,13 +19690,6 @@ None
 Songs  containing  no  change  of  time
 
 Total
-
-9
-
-228
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
 
 
 [hull.  5u
@@ -24909,8 +19736,7 @@ around  him  with  tlieir  heads  toward  him,  and  their  breath  helped  to
 keep  him  warm.  It  was  said  that  the  dogs  gave  this  song  to  a  boy
 during  the  time  that  he  spent  among  them.  E'niwtib'e  said  that  the
 dogs  did  not  sing  the  song  but  vnlled  the  boy  to  know  it  and  he  did.
-When  the  latter  reached  manhood  he  went  from  camp  to  camp  sing-
-ing this  song,  followed  by  the  dogs.  In  his  hand  he  carried  a  rattle
+When  the  latter  reached  manhood  he  went  from  camp  to  camp  singing this  song,  followed  by  the  dogs.  In  his  hand  he  carried  a  rattle
 of  deer  hoofs  which  he  shook  as  he  sang.  When  he  finished  the  song
 he  was  given  food  and  his  dogs  also  were  fed.  This  was  the  origin
 of  the  begging  dance.  In  its  later  use  it  was  considered  a  legitimate
@@ -24928,15 +19754,8 @@ then  arose  and  gave  them  food,  for  those  who  danced  tlie  begging
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
-229
-
-
 dance  were  never  refused.  If  the  people  had  no  cooked  food,  the
-visitors  took  such  provisions  as  they  had,  placing  them  in  a  hirch-
-bark  bag  which  an  old  woman  carried  for  the  purpose.
+visitors  took  such  provisions  as  they  had,  placing  them  in  a  hirchbark  bag  which  an  old  woman  carried  for  the  purpose.
 
 
 No.  114.  Song  of  the  Dogs
@@ -24945,11 +19764,6 @@ Sung  by  E'niwGb^e
 
 
 (Catalogue  No.  40:^)
-
-
-Voice  J  =  84
-Drum  J  —  92
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 Eii;
@@ -24995,14 +19809,10 @@ a'nimokan'ug the  dogs
 
 ningawi^djiwigog^ will  go  with  me
 
-Analysis. — In  structure  this  song  is  classified  as  melodic  with  har-
-monic framework.  It  contains  no  rhythmic  unit  and  the  time  was
+Analysis. — In  structure  this  song  is  classified  as  melodic  with  harmonic framework.  It  contains  no  rhythmic  unit  and  the  time  was
 not  steadily  maintained.  It  is  interesting  to  note  that  a  variation  in
 time  occurs  on  correspondmg  measures  in  the  four  renditions  of  the
 sonsr.
-
-
-230
 
 
 BUREAU    OF    AMERICAN    ETHNOLOOY  [bull.  53
@@ -25010,11 +19820,6 @@ BUREAU    OF    AMERICAN    ETHNOLOOY  [bull.  53
 No.  115.  "Here  I  Come  Again"  (Catalogue  No.  -J38)
 
 Sung  by  Mec'kawiga^bau
-
-
-Voice  J  =  84
-Drum  J  =84
-(  Drum-rhythm  similar  to  No.  19)
 
 
 Ca  -  i-  gwfi  mi  -  na-  wa
@@ -25045,8 +19850,7 @@ ni'gabidwc'wedum howling  as  I  come
 ogi^tcida''dog  ^ 0  you  warriors
 
 Analysis. — Those  who  take  part  in  the  begging  dance  represent
-themselves  as  dogs,  using  the  term  {ogi'tcida'dog)  which  dogs  are  sup-
-posed to  use  toward  their  masters.
+themselves  as  dogs,  using  the  term  {ogi'tcida'dog)  which  dogs  are  supposed to  use  toward  their  masters.
 
 The  first  two  measures  of  this  song  comprise  tlie  rhythmic  unit.
 These  are  followed  by  a  triple  measure  containing  the  note-values  of
@@ -25057,8 +19861,7 @@ song;  the  first  tone  of  the  triplet  is  accented,  and  the  note-values 
 steadily  maintained.  The  song  contains  all  the  tones  of  the  octave
 and  is  purely  melodic  in  structure.
 
-1  Ogi'tcida  (from  Sioux  aki'cita,  warrior)  is  a  word  which  has  come  into  common  use  among  the  Chip-
-pewa. The  ending  dog  in  the  case  of  a  noun  is  a  vocative,  having  a  different  significance  than  when  used
+1  Ogi'tcida  (from  Sioux  aki'cita,  warrior)  is  a  word  which  has  come  into  common  use  among  the  Chippewa. The  ending  dog  in  the  case  of  a  noun  is  a  vocative,  having  a  different  significance  than  when  used
 with  a  verb  (see  No.  84).  For  other  Instances  of  words  from  Indian  languages  incorporated,  with  some
 modification,  Into  Chippewa,  see  pp.  76,  186,  190.
 
@@ -25072,15 +19875,9 @@ MA'KUK     FOR     MAPLE    SUGAR
 densmore]
 
 
-CHIPPEWA   MUSIC — II
 No.  116.  "Maple  Sugar"
 
 Suns;  by  Mec'kawiga'bau
-
-
-Voice  J  =  88
-Drum  J  —  88
-(Drum- rhythm  similar  to  No.  19)
 
 
 r
@@ -25093,11 +19890,6 @@ X-
 
 
 X=-
-
-
-231
-
-(Catalogue  No.  439)
 
 
 r..  ^.    .^.     ^
@@ -25147,21 +19939,11 @@ The  maple  sap  {sinziba'lwadwabo')  is  boiled  into  sirup  {jiwagum'-
 izigun)  and  then  prepared  in  three  forms,  the  most  common  being
 the  grained  sugar  (nasa'igHn),  wliich  is  stored  in  ma'Tcilks  (pi.  37),
 varying  in  size  from  very  small  ones  to  large  ones  holding  20  pounds
-or  more.  With  the  covers  sewed  down  the  ma'ktiks  afford  a  con-
-venient method  of  storing  the  sugar.     In  the  old  days  they  were
+or  more.  With  the  covers  sewed  down  the  ma'ktiks  afford  a  convenient method  of  storing  the  sugar.     In  the  old  days  they  were
 
 
 1 A  pail  or  ma'k&k  of  maple  sugar  was  a  gift  liighly  valued  by  those  who  joined  in  the  begging  dance.
 2  In  Sensations  of  Tone,  p.  2(30.
-
-
-232
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
-[bull.  53
 
 
 sewed  with  spruce  roots.     The  ''molded  sugar ' '  (zi'gav/un)  was  packtHl
@@ -25171,11 +19953,9 @@ liung  ])y  narrow  strips
 of  bark ;  several  of  these
 cones  were  sometimes
 hung  together.  A
-duck's  bill  was  fre-
-quently used  to  hold
+duck's  bill  was  frequently used  to  hold
 the  "molded  sugar."
-A  tliird  method  of  pre-
-paring the  sugar  was
+A  tliird  method  of  preparing the  sugar  was
 in  the  form  of  a  sticky
 gum  or  "taffy"  (bigi-
 > /uwi'zigiln),  which,  was
@@ -25201,11 +19981,7 @@ No.  117.  "My  Travels"
 Sung  by  Mec'kawiga^bau
 
 
-(Catalogue  No.  440)
-
-
 Voice  ,'=:88
-Drum  J  =  88
 (  Drum-iiiythm  .similar  to  No.  19  )
 
 
@@ -25240,8 +20016,7 @@ bebama'diziyai/ my  travels
 
 Analysis. — The  words  of  this  song  suggest  that  the  singer  is
 emphasizing  his  need  of  food  by  referring  to  the  length  of  his  journey.
-This  song  contains  no  rhythmic  unit  but  is  characterized  by  a  six-
-teenth note  at  the  beginning  of  the  measure,  followed  by  a  dotted
+This  song  contains  no  rhythmic  unit  but  is  characterized  by  a  sixteenth note  at  the  beginning  of  the  measure,  followed  by  a  dotted
 eighth.  Double  and  triple  measures  alternate  throughout  the  song.
 This  succession  of  measure-lengths  is  uniform  in  the  several  renditions
 on  the  phonograph  cylinder.  The  song  is  purely  melodic  in  structure
@@ -25250,10 +20025,6 @@ and  contains  the  tones  of  the  fourth  five-toned  scale.
 No.  118.  Song  of  Thanks  for  Food       (Catalogue  No.  441)
 
 Sung  by  Mec'kawiga'bau
-
-Voice  J—  120
-Drum  J  —  138
-(  Drum-rhythm  .similar  to  No.  19  )
 
 
 gsgi^i^ii^§igg?^gi^ggH
@@ -25272,9 +20043,6 @@ in  the  fourth  measure  from  the  close.  Eleven  renditions  of  the  song
 were  recorded,  wliich  are  identical  in  every  respect.
 
 
-234
-
-
 BUREAU    OF   AMERICAN   ETHNOLOGY  [bull,  r.n
 
 Southern  Dance  Songs ^
@@ -25284,8 +20052,6 @@ No.  119  (Catalogue  No.  4n4)
 Sung  by  K'niwub^e
 
 Voice  Jrr  144
-Drum  J-  120
-(Drum-rhythm  similar  to  No.  19  )
 
 
 r
@@ -25353,21 +20119,12 @@ unusually  pleasing  and  effective.
 PEXSMOREl
 
 
-CHIPPEWA   MUSIC II
-
 No.  120.  "Invite  Our  Sweetheart'
 
 Sung  l>y  E^niwub^'e
 
 
-235
-
-(Catalogue  No.  405)
-
-
 Voice  ^=184
-Drum  J=  116
-(  Drum- rhythm  similar  to  No.  19)
 
 
 r,
@@ -25391,10 +20148,7 @@ mn
 A-wi-nHn-do-ma-keg      a-\vi-nfin-do-ma
 
 
-ki      ni-mu    -    ce-nano-
-
-
-gi  -  tci-miu-weu  -  da      go   -  cO.        o  ca  -  wOji  -  o
+ki      ni-mu    -    ce-nanogi  -  tci-miu-weu  -  da      go   -  cO.        o  ca  -  wOji  -  o
 
 
 a^wim'ni^doma^keg go  and  invite
@@ -25418,9 +20172,6 @@ Nos.  1,  9,  34,  83,  94).  There  is  no  rhytlmiic  unit  after  the  fourth
 measure,  yet  the  song  as  a  whole  has  a  rhythmic  swing.
 
 
-236
-
-
 BUREAU    OF   AMEEICAN    ETHNOLOGY
 
 
@@ -25429,9 +20180,6 @@ BUREAU    OF   AMEEICAN    ETHNOLOGY
 
 No.  121.  Southern  Dance  Song        (Catalogue  No.  413)
 Sung  by  E'niwub'e
-Voice  J  =  96
-Drum  J  =96
-(  Drum-rhythm  similar  to  No.  19 )
 
 (1)
 
@@ -25440,9 +20188,6 @@ Drum  J  =96
 
 
 4=' — ^-^^-
-
-
-1
 
 
 *—f
@@ -25455,10 +20200,7 @@ t~m^^^\
 A:
 
 
-ft — fi-fi—li-
-
-
-it
+ft — fi-fi—liit
 
 
 I :^ i        I ^ 1
@@ -25467,8 +20209,7 @@ t-^.  I — Ts-0-»-m—»-m-m-~0 — ri-=r-#-*— • r,-r^-m  0-0—0-0-0— m
 
 
 Analysis. — The  singer  stated  that  tliis  and  the  following  song  were
-always  sung  together  and  at  liis  request  they  were  recorded  consecu-
-tively on  the  phonograph  cylinder.  Throughout  this  song  a  double
+always  sung  together  and  at  liis  request  they  were  recorded  consecutively on  the  phonograph  cylinder.  Throughout  this  song  a  double
 measure  follows  a  triple  measure,  the  accent  being  so  clearly  defined
 that  the  two  can  not  be  combined  in  a  5-4  measure.  Two  rhythmic
 units  are  contained  in  the  song,  the  division  of  the  last  measure
@@ -25485,19 +20226,11 @@ No.  122.  Southern  Dance  Song
 Sung  by  E^niwub^e
 
 
-(Catalogue  No.  414)
-
-
 Voice  J^  -  200
 
 
 Drum
 
-
-96
-
-
-( Drum-rhythm  similar  to  No.  19 )
 
 ^0^0         ^       ^1      r
 
@@ -25531,23 +20264,19 @@ DENS  MORE]  CHIPPEWA    MUSIC II  237
 Analysis. — Between  the  recording  of  this  and  the  preceding  song
 the  pause  was  sufficient  only  for  the  prolonged  call  with  which  an
 Indian  frequently  closes  a  song.  It  is  impossible  to  transcribe  tliis
-call,  or  ejaculation,  which  begins  on  a  high  tone  and  descends  glis-
-sando,  the  syllables  being  yu-u-u,  wa!  Sometimes  such  a  close  is
+call,  or  ejaculation,  which  begins  on  a  high  tone  and  descends  glissando,  the  syllables  being  yu-u-u,  wa!  Sometimes  such  a  close  is
 given  with  the  syllables  wa-a-a,  Jii!  accompanied  by  a  rapid  beating
 of  the  drum.
 
-Tliis  song  contains  the  same  drumbeat  as  the  preceding;  the  voice-
-rhythm  is  more  rapid  than  in  the  preceding  song,  and  can  be  meas-
+Tliis  song  contains  the  same  drumbeat  as  the  preceding;  the  voicerhythm  is  more  rapid  than  in  the  preceding  song,  and  can  be  meas-
 ured only  by  an  eighth  note  as  the  metric  unit.  (See  Nos.  100,  101 ;
 103,  104;  also  No.  168.)  Five  renditions  of  the  song  were  recorded
 and  the  metric  unit  was  steadily  maintained,  the  only  difference  in
 the  renditions  being  that  the  last  phrase  was  omitted  from  the  first
 tlu-ee.  Comparison  with  the  preceding  song  will  show  the  rhythmic
 unit  of  each  to  consist  of  triple  followed  by  double  time,  but  in  the
-first  song  there  is  one,  and  in  the  second  there  are  two,  double  meas-
-ures. The  dance  seems  to  gather  speed  until  it  ends  in  a  veritable
-whirlwind,  but  through  it  all  the  stoUd  drum  retains  its  even,  mod-
-erate beat.
+first  song  there  is  one,  and  in  the  second  there  are  two,  double  measures. The  dance  seems  to  gather  speed  until  it  ends  in  a  veritable
+whirlwind,  but  through  it  all  the  stoUd  drum  retains  its  even,  moderate beat.
 
 Songs  Concerning  the  Gift  of  a  Pony
 
@@ -25566,30 +20295,13 @@ forced.  All  who  have  given  away  ponies  join  in  the  dance  and  if
 others  dance  at  this  time  they  are  required  to  part  %vith  their  ponies.
 
 
-238
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  123.  Song  Accompanying  the  Gift  of  a  Pony
 
-(Catalogue  No.  435)
 Sung  by  Mec^kawiga''bau
-
-Voice  J  =  96
-
-Drum  J—  100
-
-( Drum-rhythm  similar  to  No.  19  )
 
 
 Analysis. — This  song  opens  with  a  two-measure  phrase,  which  is
-repeated.  Tliis  is  followed  by  a  phrase  of  two  measures,  which  reap-
-pears near  the  close  of  the  song.  The  first  phrase  is  not  regarded  as
+repeated.  Tliis  is  followed  by  a  phrase  of  two  measures,  which  reappears near  the  close  of  the  song.  The  first  phrase  is  not  regarded  as
 a  rhythmic  unit,  as  it  is  found  only  at  the  opening  and  does  not
 influence  the  rhythm  of  the  remainder  of  the  song.  The  second
 phrase  has  an  evident  relation  to  the  rhytlmi  of  the  entire  song,
@@ -25602,17 +20314,13 @@ the  tones  of  the  minor  triad  and  fourth.
 
 The  man  who  has  received  the  pony-stick  leads  the  dance  as  the
 following  song  is  sung,  carrying  the  stick  in  his  hand.  All  who  have
-ever  given  away  ponies  dance  with  him,  many  holding  up  fingers  to  in-
-dicate the  total  number  of  ponies  thus  presented  at  various  dances.
+ever  given  away  ponies  dance  with  him,  many  holding  up  fingers  to  indicate the  total  number  of  ponies  thus  presented  at  various  dances.
 
 
 DENS moke]
 
 
 CHIPPEWA   MUSIC^ — II
-
-
-239
 
 
 No.  124.  Song  of  Thanks  for  the  Gift  of  a  Pony
@@ -25623,16 +20331,8 @@ No.  124.  Song  of  Thanks  for  the  Gift  of  a  Pony
 Sung  by  Mec'kawiga^bau
 
 
-Voice  J  — 96
-
-
 Drum
 
-
-100
-
-
-(  Drum-rhythm  similar  to  No.  2  )
 
 r
 
@@ -25687,9 +20387,6 @@ This  and  the  f  oho  wing  song  are  ordinary  songs  of  the  game/,  and
 no  dream  origin  is  attributed  to  them  (compare  Nos.  103,  104),
 
 
-240
-
-
 BUEEAU    OF    AMERICAN    ETHNOLOGY  [bull.  53
 
 No.  125.  Moccasin  Game  Song  (Catalogue  No.  410)
@@ -25697,8 +20394,6 @@ No.  125.  Moccasin  Game  Song  (Catalogue  No.  410)
 Sung  by  E^niwub^e
 
 
-Voice  J  =  84
-Drum  J:=92
 ( See  drum-rhythm  below )
 
 r
@@ -25740,16 +20435,8 @@ also  begins  and  ends  on  the  same  tone  (see  No.  53).  The  rhythmic
 unit  is  steadily  repeated  except  in  two  measures  in  which  the  division
 of  the  last  count  is  changed,  this  slight  change  giving  character  to  a
 melody  which  otherwise  would  be  monotonous.  The  entire  song  is
-in  triple  time.  Four  renditions  were  recorded,  the  repetitions  usu-
-ally succeeding  each  other  without  a  long  closing  tone.  Such  a  tone
-is  indicated  in  the  transcription,  but  appears  only  once  on  the  pho-
-nograph cylinder.
-
-
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
-BULLETIN   53     PLATE  39
+in  triple  time.  Four  renditions  were  recorded,  the  repetitions  usually succeeding  each  other  without  a  long  closing  tone.  Such  a  tone
+is  indicated  in  the  transcription,  but  appears  only  once  on  the  phonograph cylinder.
 
 
 CHIPPEWA    CRADLE-BOARDS
@@ -25758,18 +20445,9 @@ CHIPPEWA    CRADLE-BOARDS
 uensmoue]
 
 
-CHIPPEWA    MUSIC II
-
-
-241
-
-
 No.  126.  Moccasin  Game  Song
 
 Suiii^  by  Mec^kawiga^bau
-Voice  J  — 96
-Drum  J  =104
-(Drum-rhythm  similar  to  No.  125)
 
 
 (Catalof^nie  No.  427)
@@ -25779,8 +20457,7 @@ Analysis. — This  song  is  based  on  the  tones  of  the  minor  triad.
 The  rhythmic  unit  occurs  seven  times,  with  a  sUght  variation  in  the
 division  of  the  first  count.  The  speed  of  the  phonograph  was  greatly
 ro(hiced  in  order  to  test  this  variation,  which  was  found  to  be  clearly
-and  uniformly  given  throughout  the  several  renditions.  The  intona-
-tion on  the  sixteenth  notes  occurring  at  the  close  of  the  measures  Vv^as
+and  uniformly  given  throughout  the  several  renditions.  The  intonation on  the  sixteenth  notes  occurring  at  the  close  of  the  measures  Vv^as
 uncertain,  these  being  given  with  a  'Hoss  of  the  voice."
 
 Song  for  the  Entertainment  of  Children  ^
@@ -25790,11 +20467,6 @@ No.  127.  Lullaby
 
 Sun<f  by  O^gabea^sino'kwe
 
-
-(Catalogue  No,  447)
-
-
-Voice  J  —  96
 
 Recorded  without  drum
 
@@ -25820,8 +20492,7 @@ we  we    we   we     we
 we  we    we
 
 
-Analysis. — The  only  two  songs  which  the  Lac  du  Flambeau  Chip-
-pewa were  found  to  have  in  common  with  the  White  Earth  Chippewa
+Analysis. — The  only  two  songs  which  the  Lac  du  Flambeau  Chippewa were  found  to  have  in  common  with  the  White  Earth  Chippewa
 are  the  lullaby  and  the  song  accompanying  the  folk  tale  of  We'nabo'jo
 and  the  ducks  (Bulletin  45,  No.  197).  This  lullaby  was  first  recorded
 at  White  Earth,  Minnesota  (see  ibid.,  p.  193).  On  comparing  the
@@ -25840,11 +20511,6 @@ a  stick,  which  she  swimg  back  and  forth  until  the  baby  fell  asleep. 
 also  shown  in  the  same  plate;  here  the  woman  is  seated  on  the  ground  with  feet  extended  in  front  and
 the  cradle-board  resting  against  them,  enabling  her  to  move  the  cradle-board  slightly  back  and  forth  by  a
 motion  of  the  feet.
-
-67996°— Bull.  53—13 16
-
-
-242
 
 
 BUKEAU    OF   AMERICAN   ETHNOLOGY
@@ -25874,7 +20540,6 @@ Total
 
 68, 115, 116, 117, 118, 121, 122, 127
 114, 119, 120, 123, 124, 125, 126, 171
-67
 
 
 BEGINNINGS
@@ -25888,14 +20553,6 @@ Serial  Nos.  of  songs
 
 On  twelfth
 
-2
-4
-2
-
-5
-2
-1
-1
 
 68, 115
 
@@ -25913,15 +20570,12 @@ On  ninth
 
 On  third
 
-171
 
 On  tonic
 
-127
 
 Total
 
-17
 
 ■
 
@@ -25935,11 +20589,6 @@ Serial  Nos.  of  songs
 
 On  tonic
 
-12
-
-4
-
-1
 
 67, 68, 114, 115,  119,  121, 122,  123, 124, 126,
 
@@ -25950,11 +20599,9 @@ On  fifth
 
 On  third
 
-118
 
 Total
 
-17
 
 TONE  MATERIAL
 
@@ -25999,9 +20646,6 @@ densmore]
 CHIPPEWA   MUSIC U
 
 
-243
-
-
 Melodic  Analysis — continued
 
 ACCIDENTALS
@@ -26012,15 +20656,10 @@ of  songs
 
 Serial  Nos.  of  songs
 
-16
-
-1
-17
 
 67,  68, 114, 115, 116, 117, 118, 120,
 
 123,124,125,126,127,171
-119
 
 121,
 
@@ -26035,25 +20674,18 @@ of  songs
 
 Serial  Nos.  of  songs
 
-3
-11
-
-3
 
 120, 123, 124
 
 67,  68,  115,  116,  117, 119,  121, 122,
 
-171
 114, 118, 126
 
-125
 
 127j
 
 Total
 
-17
 
 FIRST  PROGRESSIOl'
 
@@ -26064,20 +20696,15 @@ of  songs
 
 Serial  Nos.  of  songs
 
-10
-
-7
 
 68, 114, 117, 118, 119, 120, 121, 122
 67, 115, 116, 124, 125, 127, 171
 
-123
 
 1?6
 
 Total
 
-17
 
 Rhythmic  Analysis
 
@@ -26104,9 +20731,6 @@ Total
 5  i  67,114,119,120,127
 
 
-17
-
-
 RHYTHM   OF   FIRST  MEASURE
 
 
@@ -26115,35 +20739,17 @@ of  songs
 
 Serial  Nos.  of  songs
 
-Songs  beginning  in  2-4  time
-
-12
-
-4
-1
 
 67, 114, 115, 116, 117, 118, 119, 120, 123, 124,
 
 127,171
 68,121,125,126
 
-Songs  beginning  in  3-4  time
-
-Songs  beginning  in  3-8  time
-
-122
 
 Total
 
-17
-
-244
-
 
 BUEEAU    OF    AMERICAN    ETHNOLOGY
-
-
-[BULL.  5:'
 
 
 Rhythmic  Analysis — continued
@@ -26183,15 +20789,10 @@ Songs  containing  rhythmic  unit
 
 Songs  containing  two  rhythmic  units
 
-14
-
-1
-2
 
 67, 68, 115, 116, 118, 119, 120, 122, 123, 124,
 
 125, 126, 127, 171
-121
 
 Songs  containing  no  rhythmic  units
 
@@ -26199,7 +20800,6 @@ Songs  containing  no  rhythmic  units
 
 Total
 
-17
 
 COMPARISON    OF   METRIC   UNIT    OF   VOICE   AND    DRUM
 
@@ -26211,10 +20811,6 @@ Serial  Nos.  of  songs
 
 Metric  unit  of  voice  and  drum  the  same
 
-5
-11
-
-1
 
 115,116,117,121,122
 
@@ -26222,13 +20818,9 @@ Metric  unit  of  voice  and  drum  different
 
 67,  68,  114,  lis,  119, 120, 123,  124,  125, 126,
 
-171
-
-127
 
 Total
 
-17
 
 Combined  Analyses  of  War,  Dream,  Love,  and  Unclassified
 Songs  ^ — Lac  du  Flambeau  Reservation
@@ -26247,8 +20839,7 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
@@ -26256,58 +20847,21 @@ Per  cent.
 
 Major
 
-10
 
-8
-
-2
-9
-
-3
-6
-
-8
-8
-
-1
-
-23
-31
-
-1
-
-42
 S6
 
 Minor
 
-Beginning  major,  ending  minor  (same  key-
-note)
+Beginning  major,  ending  minor  (same  keynote)
 
-2
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 >  Given  separately  on  pages  195,  213,  226,  242.
 
 
 dexs.more]
-
-
-CHIPPEWA    MUSIC II
-
-
-245
 
 
 Melodic  Analysis-  contiimecl
@@ -26323,8 +20877,7 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
@@ -26332,93 +20885,37 @@ Per  cent.
 
 On  the  twelfth
 
-8
-2
-2
-
-2
-3
-
-2
-4
-
-12
-13
-2
-2
-3
-17
-1
-1
-3
-1
 
 2^
 
 On  the  fifth                 .                    ....
 
-4
-
-4
-5
 
 On  the  tenth
 
 On  the  third
 
-1
-
-1
-2
-
-5
 
 On  the  ninth
 
-1
-4
 
 On  the  octave          .        .'
 
-4
-
-4
-1
-
-30
 
 On  the  seventh
 
-2
 
 On  the  si-xlh
 
-1
-
-2
 
 On  the  fourth
 
-1
-
-2
-1
 
 On  the  tonic
 
-2
 
 Total          ...          .
 
-18
-
-11
-
-9
-
-17
-
-55
 
 ENDINGS  OF  SONGS
 
@@ -26432,8 +20929,7 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
@@ -26441,44 +20937,14 @@ Percent.
 
 On  the  tonic
 
-14
-3
-1
-
-8
-3
-
-5
-
-4
-
-12
-4
-1
-
-40
-13
-2
-
-72
 
 On  the  fifth
 
-24
 
 On  the  third
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 TONE  MATERIAL
 
@@ -26495,8 +20961,7 @@ Love
 songs
 
 
-Unclassi-
-fied songs
+Unclassified songs
 
 
 Total
@@ -26549,16 +21014,9 @@ Other  combinations  of  tones
 Total.
 
 
-246
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
 Mklodic  Analysis — continued
 
 ACCIDENTALS
-
-
-[BULL.  53
 
 
 War
@@ -26570,8 +21028,7 @@ songs
 lyove
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
@@ -26579,22 +21036,6 @@ Per  cent.
 
 Songs  containing  no  accidentals
 
-17
-
-9
-
-1
-
-9
-
-16
-
-31
-
-1
-
-2
-1
 
 9S
 
@@ -26602,26 +21043,13 @@ Songs  containing  seventh  raised  a  semitone.
 
 «
 
-Songs  containing  seventli  lowered  a  semi-
+Songs  containing  seventli  lowered  a  semis
 
-1
-
-1
-
-4
-s
-
-1
 
 Total
 
 18  1              11
 
-9
-
-17
-
-55
 
 STRUCTURE
 
@@ -26635,51 +21063,20 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-1
-9
-8
-
-3
-
-8
-
-3
-11
-3
-
-7
-
-37
-11
 
 IS
 
 Purely  melodic
 
-9
-
-67
-
-20
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 FIRST  PROGRESSION
 
@@ -26693,46 +21090,18 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-15
-3
-
-8
-3
-
-4
-5
-
-10
-
-7
-
-37
-18
-
-67
 
 Upward.
 
-33
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 Rhythmic  Analysis
 
@@ -26749,8 +21118,7 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
@@ -26758,21 +21126,6 @@ Per  cent.
 
 On  accented  part ...
 
-12
-6
-
-11
-
-4
-5
-
-12
-5
-
-39
-16
-
-71
 
 On  unaccented  part
 
@@ -26780,26 +21133,13 @@ On  unaccented  part
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 densmoue]
 
 
-CHIPPEWA    MUSIC — II  .
 Rhythmic  Analysis — continued
 
 RHYTHM  OF  FIRST  MEASURE
-
-
-247
 
 
 War
@@ -26811,56 +21151,20 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-12
-6
-
-7
-3
-1
-
-4
-
-5
-
-12
-4
-
-35
-
-18
-
-1
-
-1
-
-65
 
 S3
 
-2
-
-1
 
 g
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 CHANGE  OF  TIME
 
@@ -26875,43 +21179,18 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-16
-2
-
-11
-
-9
-
-14
-3
-
-50
-5
-
-91
 
 Songs  containing  no  change  of  time
 
-9
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 RHYTHMIC  UNIT
 
@@ -26925,52 +21204,18 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-14
-
-9
-
-6
-
-14
-1
-2
-
-43
-1
-11
-
-78
-
-2
 
 Songs  containing  no  rhythmic  unit
 
-4
-
-2
-
-3
-
-20
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
 
@@ -26985,57 +21230,26 @@ songs
 Love
 songs
 
-Unclassi-
-fied songs
+Unclassified songs
 
 Total
 
 Per  cent.
 
-9
-9
-
-4
-
-7
-
-5
-11
-
-1
-
-18
-27
-10
 
 3S
 
-18
-
-9
 
 Total
 
-18
-
-11
-
-9
-
-17
-
-55
 
 The  Symbols  of  Songs  Which  Never  Were  Sung
 
 In  passing  through  the  Chippewa  village  at  Lac  du  Flambeau  tall
-poles  may  be  seen  standing  beside  many  of  the  houses.  Surmount-
-ing each  pole  is  a  cloth-covered  frame  wliich  resembles  a  small  flag
+poles  may  be  seen  standing  beside  many  of  the  houses.  Surmounting each  pole  is  a  cloth-covered  frame  wliich  resembles  a  small  flag
 and  is  so  fastened  as  to  permit  it  to  swing  with  the  wind.  On
 gray  weather-beaten  poles  only  part  of  the  frame  and  a  few  tatters  of
 
-
-248  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 cloth  remain  (pi.  40),  but  from  the  newer  ones  fly  banners  bearing
 strange  figures  outlined  in  red  and  blue.  Symbols  of  the  sun,  moon,
@@ -27058,14 +21272,11 @@ to  fulfill  that  dream,  and  his  struggle  against  sickness  and  death.
 
 It  is  said  that  the  custom  of  erecting  a  medicine  pole  beside  a  house
 had  its  origin  many  generations  ago,  and  was  as  follows:  A  young
-man  blackened  liis  face  and  went  away  to  fast,  according  to  the  cus-
-tom of  the  tribe  (see  pp.  83,  204).  He  dreamed  a  dream,  in  which  he
-saw  the  thunderbirds  and  the  tall  tree  on  which  they  lived.  Return-
-ing to  his  home,  he  cut  down  a  tall  straight  tree  and  trimmed  off  the
+man  blackened  liis  face  and  went  away  to  fast,  according  to  the  custom of  the  tribe  (see  pp.  83,  204).  He  dreamed  a  dream,  in  which  he
+saw  the  thunderbirds  and  the  tall  tree  on  which  they  lived.  Returning to  his  home,  he  cut  down  a  tall  straight  tree  and  trimmed  off  the
 branches,  making  a  pole,  which  he  placed  in  the  ground  at  liis  door.
 He  picturetl  on  a  deerskin  the  birds  he  had  seen  in  his  dream.  This
-he  stretched  on  a  frame  and  fastened  at  the  top  of  the  pole,  complet-
-ing the  representation  of  his  dream.  The  later  custom  differed,  in
+he  stretched  on  a  frame  and  fastened  at  the  top  of  the  pole,  completing the  representation  of  his  dream.  The  later  custom  differed,  in
 that  the  young  man  did  not  erect  the  medicine  pole  as  soon  as  he
 returned  from  his  fasting  vigil,  but  waited  to  see  whether  his  dream
 would  come  true.  The  dream  usually  concerned  war  and  promised
@@ -27117,12 +21328,6 @@ I  '^
 o  s
 
 
-BUREAU   OF  AMERICAN    ETHNOLOGY
-
-
-BULLETIN   53     PLATE  41
-
-
 -^"
 
 
@@ -27132,7 +21337,6 @@ BULLETIN   53     PLATE  41
 
 «.
 
-1
 
 .  ;\^:%.
 
@@ -27143,8 +21347,7 @@ UENSMORE]  CHIPPEWA   MUSIC — II  249
 
 long  life,"  ho  brings  one  of  his  garments  with  tobacco  folded  in  it
 and  ties  the  garni<>nt  around  the  pole.  In  the  autumn  a  similar
-feast  is  often  held,  but  the  frozen  state  of  the  gi'ound  makes  it  impos-
-sible to  tsike  down  the  pole.
+feast  is  often  held,  but  the  frozen  state  of  the  gi'ound  makes  it  impossible to  tsike  down  the  pole.
 
 When  the  friends  of  a  sick  person  are  anxious  about  liis  condition
 they  put  tobacco  in  one  of  liis  gannents,  which  they  fasten  liigh  on
@@ -27196,7 +21399,6 @@ bird    (fig.   6),   that   the  story  of  his   dream   and   his  medicine  
 
 /
 
-4
 
 /    //
 
@@ -27208,8 +21410,7 @@ bird    (fig.   6),   that   the  story  of  his   dream   and   his  medicine  
 
 Fig.  6.    Design  on  cloth  attached  to  meiicine  pole  (native  drawing).
 
-might  be  known  to  his  white  brethren  far  away.  His  is  the  monoto-
-nous life  of  a  reservation  Indian  who  can  not  fully  adapt  himself  to
+might  be  known  to  his  white  brethren  far  away.  His  is  the  monotonous life  of  a  reservation  Indian  who  can  not  fully  adapt  himself  to
 the  white  man's  way,  yet  beneath  it  is  the  memory  of  a  dream  and
 above  it  is  the  symbol  of  the  song  that  never  was  sung.
 
@@ -27247,8 +21448,7 @@ They  are  acknowledged  to  be  above  the  average  in  character  and
 mtelligence.  Most  of  them  are  full-blood  Chippewa.  The  first
 encroachment  of  civilization  occurred  in  1901  when  the  Government
 established  a  day  school  at  the  settlement.  The  Indians  opposed  this
-to  the  full  extent  of  their  power.  To-day  they  are  tractable  and  con-
-tented and  are  interested  in  keeping  their  children  at  school.  Some
+to  the  full  extent  of  their  power.  To-day  they  are  tractable  and  contented and  are  interested  in  keeping  their  children  at  school.  Some
 of  the  younger  men  work  in  the  logging  camps  during  the  winter.
 
 Most  of  the  Indians  at  Waba'cing  are  members  of  the  Mide'wiwin,
@@ -27262,10 +21462,6 @@ had  loved,  and  beside  it  was  a  paper  bag  containing  food.
 The  dancmg  of  the  Waba'cing  Chippewa  was  characterized  by
 freedom  and  individuality,  the  best  dancers  usmg  the  muscles  of  the
 
-251
-
-
-252  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
 
 entire  body.  Witli  some  the  motion  seemed  to  begin  in  the  shoulders
 and  j)rc)gr(^ss  with  sinuous  grace  to  the  feet,  while  in  others  shrugging
@@ -27300,8 +21496,7 @@ do  this  when  he  was  a  boy  and  had  cultivated  it  ever  since.
 The  other  singers  were  A'jide'gijig  ("crossing  sky"),  an  old  man
 who  seldom  leaves  Waba'cing  and  who  wears  his  hair  in  long  braids;
 Ki'miwvln  ("rainy"),  a  man  of  middle  age  who  is  prominent  in  the
-tribal  councils;  Ki'miwiina'nakwad  ("rain  cloud"),  who  had  a  par-
-ticularly good  voice,  and  Gegwe'djibi'tfm  ("sitting  near  it"),  who
+tribal  councils;  Ki'miwiina'nakwad  ("rain  cloud"),  who  had  a  particularly good  voice,  and  Gegwe'djibi'tfm  ("sitting  near  it"),  who
 sang  only  one  song.
 
 Reproduction  of  these  songs  by  the  phonograph  afforded  the
@@ -27321,9 +21516,6 @@ understand.     The  young  man  who  had  a  dream  in  his  fasting  vigil
 >  See  p.  37.
 
 
-BUREAU  OF  AMERICAN   ETHNOLOGY
-
-
 ULLETIN  53     PLATE  45
 
 
@@ -27336,12 +21528,6 @@ DANCES    OF    WABA'CING    CHIPPEWA
 
 
 DENSMORKJ
-
-
-CHIPPEWA   MUSIC II
-
-
-253
 
 
 was  usually  an  individual  of  character  and  strength  of  ])iirpose.
@@ -27364,8 +21550,6 @@ No.  128.  A  Song  of  Spring  (Catalogue  No.  289)
 
 Sung  by  A^jide'gijig  ("'crossing  sky")
 Voice  J~  108
-Drum  J  =  108
-(  Drum-rhythm  similar  to  No.  2  )
 
 X"  ~~ 7
 
@@ -27475,9 +21659,6 @@ i=ttiz:i=t
 254  BUREAU   OF   AMEEICAN   ETHNOLOGY  [bull.  53
 
 
-WORDS
-
-
 wa^paba^ as  my  eyes
 
 ina'biyan^ search
@@ -27486,8 +21667,7 @@ miic^kode' the  prairie
 
 nongo^migodjini^bin I  feel  the  summer  in  the  spring
 
-Analysis. — Tliis  song  consists  of  nine  phrases,  seven  of  which  con-
-tain three  measures  each.  From  the  beginning  of  the  song  to  the
+Analysis. — Tliis  song  consists  of  nine  phrases,  seven  of  which  contain three  measures  each.  From  the  beginning  of  the  song  to  the
 close  of  the  eighth  measure  the  melody  contains  only  the  tones  of
 the  minor  triad  F  sharp  A-C  sharp.  In  the  ninth  measure  F  descends
 to  E,  introducing  the  chord  of  A  major,  which  forms  the  basis  of  the
@@ -27503,19 +21683,12 @@ It  is  interesting  to  note  the  two  eighth  notes  in  the  last  measure  
 the  rhythmic  unit,  second  section,  which  take  the  place  of  the  unequal
 division  of  the  corresponding  count  in  the  first  section,  the  song
 seeming  to  grow  more  steady  as  it  draws  to  a  close.  In  the  ca'wtino'ga
-songs  Nos.  121  and  122  it  was  noted  that  the  songs  gained  in  excite-
-ment as  they  proceeded.  The  melody  is  marked  by  simplicity  and
+songs  Nos.  121  and  122  it  was  noted  that  the  songs  gained  in  excitement as  they  proceeded.  The  melody  is  marked  by  simplicity  and
 well  reflects  the  mood  of  one  who  discerns  the  first  signs  of  spring  on
 the  famihar  prairie.
 
 
 dknsmore]
-
-
-CHIPPEWA   MUSIC II
-
-
-255
 
 
 No.  129.  Dream  Song  (Catalogue  No.  315)
@@ -27524,8 +21697,6 @@ Sung  by  Ki'miwuna'nakwad  (''rain  cloud")
 
 
 Voice  Jr=116
-Drum  J- 116
-(Drum-rhythm  similar  to  No.  19)
 
 
 m^
@@ -27618,12 +21789,6 @@ the  song  was  given  with  correct  intonation.  (See  analyses  of  Nos.  54,
 133,146,164.)
 
 
-256
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
 IHILL.  53
 
 
@@ -27633,7 +21798,6 @@ Sung  by  Awun^akum^igickun'  ("fog  covering  the  earth")
 
 Voice  J^=  184
 Drum  J^  =  152
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 t$
@@ -27706,8 +21870,7 @@ Aruilysis. — The  metric  unit  of  this  song  was  difficult  to  recognize
 m  the  tempo  at  which  the  song  was  sung.  By  greatly  reducuig  the
 speed  of  the  phonograph  it  was  possible  to  detect  this  unit,  and  the
 relative  note-values  were  thus  transcribed.  The  metric  unit  is
-^  =  184,  which  is  unusually  rapid.  The  tempo  of  the  original  rendi-
-tion was  determined  in  the  usual  manner,  that  is,  by  adjusting  the
+^  =  184,  which  is  unusually  rapid.  The  tempo  of  the  original  rendition was  determined  in  the  usual  manner,  that  is,  by  adjusting  the
 speed  of  the  phonograph  at  160  revolutions  per  minute,  so  that  the
 tone  C  as  registered  on  the  cylinder  corresponded  to  the  same  tone
 as  given  by  the  pitch  pipe.  The  metric  unit  was  steadily  maintained
@@ -27719,22 +21882,12 @@ twelve  tones,  beginning  on  the  twelfth  and  ending  on  the  tonic.
 densmore]
 
 
-CHIPPEWA   MUSIC — II
-
-
 No.  131.  Dream  Song
 
 Sung  by  Awun^akum'igickun'
 Voice  J  _  69
-Drum  J  :=:;  80
-(  Drum-rhythm  similar  to  No.  2 )
 
 I
-
-
-257
-
-(Catalogue  No.  324)
 
 
 ^^^
@@ -27763,15 +21916,6 @@ No.  132.  Dream  Song
 
 Sung  by  Awun'akum^igickun''
 
-Voice  J  —  108
-
-Drum    J  =88
-
-(  Drum-rhythm  similar  to  No.  2  )
-
-
-(Catalogue  No.  32';
-
 
 I
 
@@ -27796,26 +21940,13 @@ measures  were  not  included  in  the  repetitions  of  the  song.
 This  and  the  following  four  dream  songs  are  said  to  have  been  used
 in  the  woman's  dance.
 
-67996°— Bull.  53—13 17
-
-
-258
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
-
 
 No.  133.  Dream  Song
 
 Sung  by  Awun^akum^igIckun'
 
 
-Voice  J=:  104
 Drum  J  r=  108
-(Drum-rhythm  similar  to  No.  19)
 
 
 (Catalogue  No.  3 J 7)
@@ -27873,8 +22004,7 @@ Analysis. — The  first  two  renditions  of  this  song  were  faulty  in
 intonation,  being  sung  a  tone  lower  than  the  transcription;  after  a
 pause  the  singer  gave  the  song  as  transcribed,  with  more  correct
 intonation.  (See  Nos.  54,  129,  146,  164.)  This  is  interesting,  as  the
-singer  stated  that  he  was  not  accustomed  to  hearing  tuned  instru-
-ments. The  song  is  harmonic  in  structure,  contains  only  the  tones  of
+singer  stated  that  he  was  not  accustomed  to  hearing  tuned  instruments. The  song  is  harmonic  in  structure,  contains  only  the  tones  of
 the  tonic  triad  and  sixth,  and  has  a  compass  of  eleven  tones.  The
 submediant,  or  third  below  the  tonic,  is  frequently  used  in  connection
 with  the  tonic  triad,  producing  a  minor  triad  with  minor  seventh
@@ -27885,9 +22015,6 @@ added,  a  group  of  tones  occurring  also  in  Nos.  147,  151,  152,  153,  
 No.  134.  Dream  Song  (Catalogue  No.  320)
 
 Sung  by  Awun^akum'igickun'
-Voice  J—  120
-Drum   J  =  120
-(  Drum-rhythm  similar  to  No.  19)
 
 I ^1  I 1  I 1  I 1
 
@@ -27919,12 +22046,6 @@ Se^^^
 dens.moue]
 
 
-CHIPPEWA   MUSIC II
-
-
-259
-
-
 Analysis. — Three  renditions  of  this  song  were  recorded,  the  first
 three  and  a  half  measures  })eing  omitted  in  the  repetitions.  The  range
 of  the  song  is  unusually  high  and  the  first  two  tones  were  slightly
@@ -27940,15 +22061,6 @@ No.  135.  Dream  Song
 Sung  by  Awun^akum^igick^n^
 
 
-(Catalogue  No.  323)
-
-
-Voice  J—  100
-Drum  J  =  100
-
-(Drum-rhythm  similar  to  No.  19)
-
-
 Analysis. — This  song  is  a  particularly  good  example  of  a  melody
 based  on  the  second  five-toned  scale.  The  first  measure  contains
 the  rhythmic  unit  of  the  song,  which  occurs  five  times.  The  first
@@ -27961,14 +22073,9 @@ to  be  established.  The  relation  of  the  tones  is  an  interval-relation
 rather  than  a  key-relation  (see  jjp.  7,  8).
 
 
-260  BUREAU    OF    AMERICAN    ETHNOLOGY  [bull.  53
-
 No.  136.  Dream  Song  (Catalogue  No.  325)
 
 Sung  by  AwuN^AKUM^ioicKUN^
-Voice  J  =112
-Drum    J=112
-( Drum-rhythm  similar  to  No.  19 )
 
 
 m
@@ -28061,8 +22168,7 @@ P==P=
 ii=M=zMr
 
 
-Analysis. — The  intervals  of  progression  in  this  melody  are  unusu-
-ally large  and  would  present  some  dilhculties  to  a  singer  of  the  white
+Analysis. — The  intervals  of  progression  in  this  melody  are  unusually large  and  would  present  some  dilhculties  to  a  singer  of  the  white
 race.  It  is,  however,  a  bright  and  attractive  melody,  lively  in
 tempo,  and  strongly  rhythmic  m  character.  The  tones  are  those  of
 the  tonic  triad  and  sixth.  The  first  measures  were  not  included  in
@@ -28071,13 +22177,6 @@ the  repetitions  of  the  song.
 No.  137.  Dream  Song
 
 Sung  by  Awun^akum^igickux''
-
-Voice  J -112
-Drum  J  112
-(  Drum-rhythm  similar  to  No.  10  )
-
-
-(Catalogue  No.  326)
 
 
 mt^^-
@@ -28116,9 +22215,6 @@ tf^
 &=S
 
 
-1
-
-
 ^^ilsl
 
 
@@ -28149,21 +22245,13 @@ r-y:
 densmore]
 
 
-CHIPPEWA   MUSIC II
-
-
-261
-
-
 Analysis. — In  this  song  the  signature  of  the  transcription  should
-be  regarded  as  indicating  the  pitch  of  certain  tones  and  not  as  imply-
-ing an  established  key.  The  transcription  merely  represents  the
+be  regarded  as  indicating  the  pitch  of  certain  tones  and  not  as  implying an  established  key.  The  transcription  merely  represents  the
 tones  sung  by  the  Indian  singer.
 
 The  framework  of  this  melody  is  characterized  by  the  interval  of
 the  third.  The  first  seven  measures  are  based  on  the  descending
-third  F  sharp-D  sharp,  with  G  sharp  as  a  tone  of  approach  (see  analy-
-sis of  No.  53).  This  is  followed  by  the  descendmg  thirds  B-G  sharp;
+third  F  sharp-D  sharp,  with  G  sharp  as  a  tone  of  approach  (see  analysis of  No.  53).  This  is  followed  by  the  descendmg  thirds  B-G  sharp;
 D  sharp-B;  B-G  sharp,  with  a  return  to  the  third  F  sharp-D  sharp,
 with  G  sharp  as  a  tone  of  approach.  The  second  section  of  the  song
 has  essentially  the  same  framework.
@@ -28175,8 +22263,6 @@ Bulletin  45,  pp.  119,  120.)
 No.  138.  ''My  Body  Lies  in  the  East"     (Catalogue  No.  308)
 Sunt;;  by  Ki'miwun  ("rainy")
 Voice  J:^88
-Drum  J  =112
-( Drum-rhythm  similar  to  No.  2  )
 
 
 Wa-bfin-ong  a     -     te  ni  -  au   e
@@ -28204,37 +22290,19 @@ ate'' lies
 ni-au^ my  body
 
 
-262
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 Analysis. — The  two  renditions  of  this  strange  melody  secured  are
 identical.  The  song  is  based  on  the  minor  triad,  the  fourth  and
 sixth  being  used  as  passing  tones.  The  tempo  is  slow,  with  long
 swinging  cadence.  The  rhythm  is  characterized  by  the  triplet,
 which  occurs  frequently  on  the  last  count  of  the  measure.  The  song
-contains  no  rhythmic  unit,  but  the  rhythm  of  the  entire  song  consti-
-tutes a  homogeneous  whole.  In  this  group  of  six  "doctor's  songs"
+contains  no  rhythmic  unit,  but  the  rhythm  of  the  entire  song  constitutes a  homogeneous  whole.  In  this  group  of  six  "doctor's  songs"
 it  is  noted  that  vowel  syllables  distinctly  enunciated  are  used  on  the
 tones  not  supplied  with  words,  resembling  the  Mide'  songs,  and
-differing  from  the  majority  of  Chippewa  songs,  in  which  the  separa-
-tion of  tones  is  produced  by  muscular  action  of  the  throat  (see
+differing  from  the  majority  of  Chippewa  songs,  in  which  the  separation of  tones  is  produced  by  muscular  action  of  the  throat  (see
 No.  134).
 
 No.  139.  "Sitting  with  the  Turtle"       (Catalogue  No.  309)
 Sung  by  Ki^miwun
-
-
-Voice  J  =  96
-
-Drum  J  =  112
-
-( Drum-rhythm  similar  to  No.  2  )
 
 
 Ml-  kin-  ak     ni  -  wi   -  ta  -  bi
@@ -28306,8 +22374,7 @@ niwi^tabimu^ I  am  sitting  with  him
 Analysis. — Five  renditions  of  this  song  were  recorded.  In  the
 first  and  fourth  renditions  no  words  were  used;  in  the  second  and
 fifth  the  words  occurred  as  transcribed,  and  m  the  third  the  words
-were  used  in  the  seventh  and  eighth  measures  instead  of  at  the  open-
-ing of  the  song.  The  first  rendition  begins  on  D  flat  instead  of  E
+were  used  in  the  seventh  and  eighth  measures  instead  of  at  the  opening of  the  song.  The  first  rendition  begins  on  D  flat  instead  of  E
 flat,  a  fact  which  suggests  that  D  flat  is  felt  to  be  the  principal  tone,
 E  flat  being  used  as  an  approach  to  that  tone.  (See  analysis  of  No
 53.)
@@ -28316,20 +22383,10 @@ E  flat  being  used  as  an  approach  to  that  tone.  (See  analysis  of  No
 DENS  MORE]
 
 
-CHIPPEWA    MUSIC II
-
-
-263
-
-
 No.  140.  "Carried  Around  the  Sky"      (Catalogue  No.  310)
 
 Sung  by  Ki'miwun
 
-Voice  J-  116
-Drum    J  —  116
-
-(Drum-rhythm  similar  to  No.  19  )
 
 I
 
@@ -28394,11 +22451,9 @@ kiwita^yaciyau^ ' as  the  wind  is  carrying  me
 
 gi^jigung' around  the  sky
 
-Analysis. — This  is  an  example  of  a  song  showing  an  interval  forma-
-tion and  containing  what  would  be  called  in  musical  terms  "the
+Analysis. — This  is  an  example  of  a  song  showing  an  interval  formation and  containing  what  would  be  called  in  musical  terms  "the
 tonic  of  the  key"  only  in  the  middle  part  of  the  song.  Chippewa
-songs  with  this  characteristic  have  been  noted  only  among  those  col-
-lected at  Waba'cffig;  these  are  Nos.  135,  137,  139,  141,  142,  165.  If
+songs  with  this  characteristic  have  been  noted  only  among  those  collected at  Waba'cffig;  these  are  Nos.  135,  137,  139,  141,  142,  165.  If
 we  depend  on  the  musical  ear  in  determining  the  key  of  a  song,  we
 place  this  song  in  the  key  of  G  major,  yet  85  per  cent  of  the  intervals
 are  minor.  The  song  contains  13  intervals,  of  which  9  (70  per  cent)
@@ -28416,15 +22471,6 @@ This  and  the  two  following  songs  are  saitl  to  be  sung  after  the
 One  syllable  of  this  word  was  omitted  by  the  singer.
 
 
-264
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 the  sick  person.  After  the  second  rendition  of  the  song  there  is
 recorded  on  the  phonograph  cyUnder  a  sharp  hissing  sound  which  the
 doctor  makes  as  he  breathes,  or  "blows,"  on  the  person  receiving
@@ -28440,12 +22486,8 @@ by  them.
 
 No.  141.  "The  Approach  of  the  Thunderbirds"
 
-(Catalogue  No.  311)
 
 Sung  by  Ki'miw^n
-Voice  J -88
-Drum   J  -  138
-(Drum-rhythm  similar  to  No.  2)
 
 
 Ka  -  bl  -  de  -  bwe    -  we  -  da  -  mo-  wad    bi
@@ -28474,21 +22516,12 @@ tone  by  the  tone  above  is  discussed  in  the  analysis  of  No.  53.
 DENSMOHEJ]
 
 
-CHIPPEWA   MUSIC II
-
 No.  142.  "White-haired  Raven"
 
 Sung  by  Ki^miwun
 
 
-Voice  J=  160
 Drum  J  _=  120
-(  Drum-rhythm  similar  to  No.  2 )
-
-
-265
-
-(Catalogue  No.  312)
 
 
 S
@@ -28541,8 +22574,6 @@ I
 wa  -  bi  -  kwe  -  ka  -  ga    -    gi     kwe  ba    -    ba-  mac    niu    -    de  -  go
 
 
-WORDS
-
 wa^bikwe^kaga'gi "  white-haired  raven
 
 babamac^ flying  around  the  sky  "
@@ -28553,21 +22584,10 @@ Analysis. — The  four  recorded  renditions  of  this  song  are  identical
 in  all  respects  except  that  in  one  instance  D  instead  of  B  was  sung
 on  the  last  count  of  the  first  measure.  This  is  unimportant  except
 that  it  is  the  only  variation.  At  the  close  of  the  second  rendition
-is  recorded  the  peculiar  whistle  described  in  connection  with  the  pre-
-ceding song.  There  is  no  perceptible  secondary  accent  in  the  meas-
-ures marked,  respectively,  7-4  and  5-4.  The  rhythmic  unit  com-
-prises three  measures  and  occurs  four  times.  The  measures  in  3-4
+is  recorded  the  peculiar  whistle  described  in  connection  with  the  preceding song.  There  is  no  perceptible  secondary  accent  in  the  meas-
+ures marked,  respectively,  7-4  and  5-4.  The  rhythmic  unit  comprises three  measures  and  occurs  four  times.  The  measures  in  3-4
 time  were  sung  with  a  slightly  slower  metric  unit  than  those  in  7-4
 time.     The  melody  is  particularly  striking  and  forceful.
-
-
-266
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
 
 
 No.  143.  Dream  Song
@@ -28575,14 +22595,9 @@ No.  143.  Dream  Song
 Sung  by  Ki^MiwuN
 
 
-Voice  J  —  144
-Drum  J  =  1 20
 (Drum-i-hythm  similar  to  No.  2)
 
 r
-
-
-(Catalogue  No.  313)
 
 
 =4=
@@ -28673,16 +22688,7 @@ No.  144.  Dream  Song
 Sung  by  Awxjn'akum^igickun'
 
 
-(Catalogue  No.  319)
-
-
 Voice
-
-
-72
-
-
-(Drum-rhythm  .similar  to  No.  19)
 
 
 Nilp;
@@ -28709,12 +22715,6 @@ i^^5E^i«^B
 DENS  more]
 
 
-CHIPPEWA   MUSIC — II
-
-
-267
-
-
 Analysis. — The  entire  trend  of  the  melody  is  downward,  along  the
 intervals  of  the  tonic  triad.  The  metric  unit  of  the  voice  is  slow  and
 that  of  the  drum  is  rapid,  a  peculiarity  found  in  most  of  the  moccasin
@@ -28731,10 +22731,7 @@ to  be  of  supernatural  origin.
 
 No,  145.  "Into  the  Several  Heavens"     (Catalogue  No.  288)
 Sung  by  AOideV.ijig
-Voice  J—  104
-Drum  J=  104
 
-( Drum-rhythm  similar  to  No.  19 )
 +
 
 
@@ -28765,8 +22762,6 @@ en   -  ga  -  ba    -    bi  -  ni  -  go
 '^^m
 
 
-WORDS
-
 o'gima the  chief
 
 gi'jiguiig' into  the  heavens
@@ -28783,12 +22778,6 @@ reached  by  an  ascending  progression,  this  feature  being  uniform
 throughout  the  two  renditions  of  the  song.     Faulty  intonation  on  the
 
 
-268
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
 [boll.  53
 
 
@@ -28796,16 +22785,10 @@ interval  of  a  second  is  noted  in  Nos.  54,  55,  61,  64,  100,  145,  16
 The  closing  tone  was  sung  with  good  intonation,  representing  an
 unusually  low  range  of  voice.
 
-(Catalogue  No.  290)
 
 No.  146.  "Two  Foxes  Face  Each  Other"
 
 Sung  by  A'jiDE^GiJiG
-
-Voice  J  =112
-Drum   J  =112
-
-(  Drum-rhythm  similar  to  No.  2  )
 
 
 ff^^E^I
@@ -28874,21 +22857,10 @@ as  unaccented  passing  tones.
 DENS  more]
 
 
-CHIPPEWA   MUSIC — II
-
 No.  147.  "One  Bird"
 
 Sung  by  A'jide^gijig
 
-
-269
-
-(Catalogue  No.  291)
-
-
-Voice  J=  108
-Drum  J  =  108
-(Drum-rhythm  similar  to  No.  2)
 
 r-#-'-»-^  -•-  -&
 
@@ -28944,9 +22916,6 @@ of  the  Chippewa  and  also  in  the  music  of  other  primitive  people.
 133,  151,  152,  153,  154,  and  163  of  the  present  work.
 
 
-270
-
-
 BUEEAU   OF   AMERICAN   ETHNOLOGY  [bull.  53
 
 No.  148.  "The  Sky  Will  Resouud"        (Catalogue  No.  296)
@@ -28955,7 +22924,6 @@ Sung  by  Ki^MiwuN
 
 Voice  J  z^  100
 Drum  J^  100
-(  Drum-rhythm  similar  to  No.  19 )
 
 ^-4
 
@@ -29036,19 +23004,11 @@ by  the  singer.
 DiiNSMORE]
 
 
-CHIPPEWA   MUSIC — II
-
 No.  149.  "One  Wind'*
 
 Sung  by  Ki'miwun
 
 
-271
-
-(Catalogue  No.  298)
-
-
-Voice  J—  100
 Dkum  Jz=  104
 (  Druui-rhytlim  similar  to  No.  19  )
 
@@ -29062,10 +23022,7 @@ Dkum  Jz=  104
 :SiS::
 
 
-:r-
-
-
-t=:t=t::
+:rt=:t=t::
 
 
 -I —     -F--F-
@@ -29138,20 +23095,8 @@ appearing  only  as  passing  tones.  No  rhythmic  unit  occurs  in  the
 song,  although  the  rhythm  of  the  song  as  a  whole  is  strongly  marked.
 
 
-272
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  150.  "An  Overhanging  Cloud"       (Catalogue  No.  299)
 Sung  by  Ki'miwun
-Voice  J=  120
-Drum   J  =120
-(Drum-rhythm  similar  to  No.  19)
 
 
 -^4t-A--ft.
@@ -29198,7 +23143,6 @@ I
 
 gwto
 
-WORDS
 
 ka^bibabam^agodeg' an  overhanging
 
@@ -29207,8 +23151,7 @@ a^nakwad cloud
 tcibaba^minota'gwun repeats  my  words  with  pleasing  sound
 
 Analysis. — This  melody  consists  of  two  sections,  the  first  comprising
-six  measures  and  the  second  comprising  eight  measures.  The  melody-
-tones  are  those  of  the  fourth  five-toned  scale,  and  the  song  is  harmonic
+six  measures  and  the  second  comprising  eight  measures.  The  melodytones  are  those  of  the  fourth  five-toned  scale,  and  the  song  is  harmonic
 in  structure.  The  rhythm  is  so  decided  that  one  looks  for  a  rhythmic
 unit  or  some  regularity  in  the  succession  of  double  and  triple  measures,
 but  neither  is  present.
@@ -29216,11 +23159,6 @@ but  neither  is  present.
 No.  151.  "Heaps  of  Clouds"  (Catalogue  No.  314)
 
 Sung  by  Ki^MiwuNA^NAKWAD  ("rain  cloud")
-Voice  J—  112
-Drum   J=  112
-(Drum-rhythm  similar  to  No.  19)
-
-3
 
 
 -^^m^^mi
@@ -29239,12 +23177,6 @@ wm^^.^=^'^~LrW&T^
 
 
 DENSMORK
-
-
-CHIPPEWA    MUSIC II
-
-
-273
 
 
 ka'bibabi^kwagodeg^ great  lieaps
@@ -29281,27 +23213,14 @@ Sung  by  AwuN^AKUM'itiicKUN^
 
 Voice  J  ^80
 
-Drum  J=:  104
-
-(  Drum-rhythm  similar  to  No.  19  )
-
 
 Ki-wi-ta-  gi-jig  e      ka-bi-de
 
 
-3
-
 bwe-wi-da  -  mon
-67996°— Bull.  53—1.3 18
-
-
-274
 
 
 BUEEAU    OF    AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 ki'witagi^jig around  the  sky
@@ -29309,8 +23228,7 @@ ki'witagi^jig around  the  sky
 ka^bidebwe^widamon^ I  come  to  you  with  my  sound
 
 Analysis. — This  is  a  particularly  graceful  melody  and  was  sung
-with  regularity  of  rhythm  and  good  intonation.  The  downward  pro-
-gressions E-C  sharp-A-F  sharp  form  the  minor  triad  with  minor
+with  regularity  of  rhythm  and  good  intonation.  The  downward  progressions E-C  sharp-A-F  sharp  form  the  minor  triad  with  minor
 seventh  added,  which  resolves  into  the  tonic  chord  by  the  tone  E  in
 the  eighth  and  eighteenth  measures  (compare  Nos.  133,  147,  151,  152,
 154,  163).  At  the  opening  of  the  seventh  measure  occurs  a  peculiar
@@ -29325,15 +23243,8 @@ Sung  by  Awun^akum^igickun'
 
 Voice  J  ^_  72
 
-Drum   J—  144
 
-(  Drum-rhythm  similar  to  No.  2  )
-
-
-)  '  r-
-
-
-a=±
+)  '  ra=±
 
 
 ±=±
@@ -29423,14 +23334,7 @@ ixikoc'koigog^ startle  me
 DENS  more]
 
 
-CHIPPEWA   MUSIC II
-
-
-275
-
-
-Analysis. — The  first  three  measures  of  this  song  contahi  the  down-
-ward progression  G-E-C-A,  comprising  the  minor  triad  with  minor
+Analysis. — The  first  three  measures  of  this  song  contahi  the  downward progression  G-E-C-A,  comprising  the  minor  triad  with  minor
 seventh  added  (see  Nos.  133,  147,  151,  152),  the  tonic  chord  of  C
 major  being  estabUshed  in  the  ninth  measure.  The  remainder  of
 the  song  is  based  on  the  tonic  triad,  the  sixth  occurring  only  as  a
@@ -29464,8 +23368,6 @@ Sorial  Nos.  of  songs
 138,  139,  140,  141, 142, 143, 144, 145, 140,
 147,  148,  149,  150,  151,  152,  153
 
-135
-
 
 BEGINNINGS  OF  SONGS
 
@@ -29477,17 +23379,6 @@ Serial  Nos.  of  songs
 
 On  thirteenth
 
-1
-5
-11
-
-4
-3
-2
-
-26
-
-145
 
 137,  139,  141,  147,  152
 
@@ -29534,17 +23425,6 @@ Serial  Nos.  of  songs
 131,  134
 133,  135,  137,  1.39,  140,  141,  142,  147,  149,
 
-152
-
-
-276
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
 
 Melodic  Analysis — continued
 
@@ -29566,19 +23446,14 @@ Number
 of  songs
 
 
-26
-
-
 Serial  Nos.  of  songs
 
 
 128,  129,  130,  131,  132,  135,  140,  142,  146,
 
 147,  14S,  149,  150,  151,  153
-144
 
 133,  134,  136,  137,  139,  141,  143,  145,  152
-138
 
 
 ACCIDENTALS
@@ -29593,8 +23468,6 @@ Serial  Nos.  of  songs
 
 Songs  containing  ho  accidentals
 
-24
-2
 
 128,  129,  130,  131,  132,  133,  134    135   136
 
@@ -29604,7 +23477,6 @@ Songs  containing  ho  accidentals
 
 Total
 
-26
 
 STRUCTURE
 
@@ -29614,11 +23486,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-14
-
-4
-
-8
 
 129,  133,  134,  138,  140,  141,  143,  144,  146,
 
@@ -29631,7 +23498,6 @@ Melodic  \vith  harmonic  framework
 
 Total
 
-26
 
 FIRST  FROGRESSION
 
@@ -29658,12 +23524,6 @@ Total
 
 
 DENSMOREl
-
-
-CHIPPEWA   MUSIC II
-
-
-277
 
 
 Rhythmic  Analysis
@@ -29699,17 +23559,9 @@ of  songs
 
 Serial  Nos.  of  songs
 
-Songs  beginning  in  2-4  time
-
-13
 
 in
 
-1
-1
-1
-
-26
 
 129,  131,  132,  134,  135   137    138   139   140
 
@@ -29718,18 +23570,6 @@ Songs  beginning  in  3^  time
 141,  147,  150,  152
 128,  133,  136,  144    145   146   148   149    151
 
-Songs  beginning  in  4-4  time
-
-153
-143
-
-Songs  beginning  in  7-4  time
-
-142
-
-Songs  beginning  in  3-8  time
-
-130
 
 Total
 
@@ -29743,17 +23583,11 @@ Serial  Nos.  of  songs
 
 Songs  containing  rhythmic  unit
 
-9
-
-1
-
-16
 
 131,  1.34,  135    140   141    142   143    147    153
 
 Songs  containing  two  rhythmic  units
 
-128
 
 Songs  containing  no  rhythmic  unit.  .
 
@@ -29763,7 +23597,6 @@ Songs  containing  no  rhythmic  unit.  .
 
 Total
 
-26
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND   BRUM
 
@@ -29775,9 +23608,6 @@ Serial  Nos.  of  songs
 
 Metric  unit  of  voice  and  drum  the  same
 
-13
-
-13
 
 128,  129,  134,  135,  136,  137,  140,  145,  146,
 
@@ -29790,18 +23620,9 @@ Metric  unit  of  voice  and  drum  different
 
 Total
 
-26
-
-278
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
 
 Rhythmic  Analysis — coni inued
 CHANGE  OF  TIME
-
-
-[bull.  53
 
 
 Number
@@ -29840,12 +23661,7 @@ No.  154.  "The  Noise  of  the  Village"     (Catalogue  No.  306)
 Suna;  by  Ki^miwun
 
 
-56
-
-
 Drum  ^  =112
-
-(Drum-rhythm  similar  to  No.  2)
 
 
 ^
@@ -29917,9 +23733,6 @@ ode'na of  the  village
 DE^'R^roREl
 
 
-CHIPPEWA  MUSIC — II
-
-
 2Y9
 
 
@@ -29935,10 +23748,6 @@ glissamlo  being  frequently  introduced.
 No.  155.  Mid«^^  Song
 
 Sune:  l)y  Ki^miwun
-
-Voice  J  =  72
-Drum  J=  112
-(Drum-rhythm  similar  to  No.  2)
 
 
 (Talalo^ie  No.  304)
@@ -29984,8 +23793,7 @@ Analysis. — Tliree  renditions  of  this  song  were  recorded  at  Waba'clng.
 A  few  weeks  later  the  phonograph  record  was  played  for  a  member  of
 the  Mide'wiwin  on  the  Wliite  Earth  Reservation,  who  said  that  the
 melody  was  correct,  but  that  the  words  were  not.  As  he  was  a
-particularly  good  authority,  the  words  are  omitted  in  the  transcrip-
-tion. The  melody  is  simple,  containing  only  the  tonic  triad  and
+particularly  good  authority,  the  words  are  omitted  in  the  transcription. The  melody  is  simple,  containing  only  the  tonic  triad  and
 sixth  and  moving  along  harmonic  lines.  Attention  is  directed  to  the
 slow  metric  unit  of  the  voice  and  the  rapid  unit  of  the  drum.  The
 rhythmic  unit  is  unusually  long  and  its  repetitions  embrace  the
@@ -30017,8 +23825,7 @@ nimanido'' my  manido''
 
 nikan^ my  Mide^  brother
 
-Analysis. — This  song  is  transcribed  in  outline,  quarter  notes  with-
-out stems  being  used  to  indicate  the  trend  of  the  melody,  but  not
+Analysis. — This  song  is  transcribed  in  outline,  quarter  notes  without stems  being  used  to  indicate  the  trend  of  the  melody,  but  not
 the  length  of  the  tones.  The  first  interval  of  the  descending  fourth
 is  somewhat  unusual.  The  flatted  sixth,  which  was  accurately  sung,
 gives  an  effect  of  sadness  to  the  close  of  the  song.  The  words  are
@@ -30071,8 +23878,6 @@ h4-W
 i=¥
 
 
-WORDS
-
 keii^bigo^ and  still
 
 niwa'nia I  have  lost
@@ -30081,17 +23886,13 @@ nin^imu'ce mv  sweetheart
 
 
 Analysis. — This  song  contains  three  rhythmic  units,  and  its  melodic
-formation  shows  the  triads  of  B  minor  and  G  major.  The  fu'st  sec-
-tion comprises  three  plirases  on  the  triad  of  B  minor  and  one  on  the
+formation  shows  the  triads  of  B  minor  and  G  major.  The  fu'st  section comprises  three  plirases  on  the  triad  of  B  minor  and  one  on  the
 
 
 DENS  MORE  1
 
 
 CHIPPEWA   MUSIC n
-
-
-281
 
 
 triad  of  G  major,  the  first  rhythmic  unit  being  steadily  maintained.
@@ -30111,7 +23912,6 @@ Sung  by  Ki^mivvun
 (Catalogue  No.  .'{Ol)
 
 
-Voice  J  =  66
 Recorded  without  drum
 
 
@@ -30168,7 +23968,6 @@ is  unusual.  The  song  is  minor  in  tonality,  melodic  in  structure,  and
 contains  all  the  tones  of  the  octave  except  the  second.
 
 
-Voice  J  =  63
 Recorded  without  drum
 I
 
@@ -30193,9 +23992,6 @@ tt
 -•^-^
 
 
-(Catalogue  No.  302)
-
-
 -#-  -^  -s*-
 
 
@@ -30210,18 +24006,8 @@ tt
 ^M
 
 
-282
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 Analysis. — This  song  is  unusually  regular  in  form.  It  has  16
-measures  and  4  periods,  the  first,  second,  and  last  periods  con-
-taining the  rhythmic  unit.  In  the  third  period  the  phrases  of  the
+measures  and  4  periods,  the  first,  second,  and  last  periods  containing the  rhythmic  unit.  In  the  third  period  the  phrases  of  the
 rhythmic  unit  are  found  in  a  reversed  order.  The  metric  unit  was
 not  steadily  maintained,  but  the  rhythmic  imit  shows  no  variation  in
 the  five  renditions  of  the  song.  The  division  of  the  last  count  of  the
@@ -30236,7 +24022,6 @@ Siino:  by  Ki^Miwfm
 (Calaloojne  No.  303)
 
 
-Voice  J  =  96
 Recorded  without  drum
 
 _r_
@@ -30313,24 +24098,13 @@ I
 1-=^
 
 
-t-
+tt:
 
 
-t:
-
-
-Analysis. — This  song  consists  of  five  sections,  each  of  which  con-
-tains four  measures.  Each  section  is  designated  as  a  rhythmic  unit
+Analysis. — This  song  consists  of  five  sections,  each  of  which  contains four  measures.  Each  section  is  designated  as  a  rhythmic  unit
 although  the  measure-divisions  differ  somewhat  in  the  latter  part  of
 the  song.  The  accidentals  were  sung  with  correct  intonation  and  the
 effect  of  the  song  is  pleading  and  plaintive.
-
-
-Voice  J —  63
-
-Drum  J— 112
-
-(  Drum-rhythm  similar  to  No.  125 )
 
 
 MoccASiN  Game  Songs
@@ -30367,14 +24141,7 @@ f^
 DENS  moke]
 
 
-CHIPPEWA    MUSIC II
-
-
-283
-
-
-Analysis. — This  song  has  the  slow  voice-rhythm  which  character-
-izes the  moccasin  game  songs  and  which  is  noted  also  in  Nos.  .30,  51 ,  52,
+Analysis. — This  song  has  the  slow  voice-rhythm  which  characterizes the  moccasin  game  songs  and  which  is  noted  also  in  Nos.  .30,  51 ,  52,
 103.  The  melody  comprises  the  tones  of  the  fourth  five-toned  scale
 and  is  harmonic  in  structure.  Although  the  song  is  major  in  tonality
 a  large  majority  of  the  intervals  are  minor  thirds.  The  song  contains
@@ -30390,9 +24157,6 @@ Sung  by  AOide^gijig
 
 Voice  JL  192
 
-Drum  J  — 112
-
-(  Drum-rhythm  similar  to  No.  125  )
 
 r~ — -r--
 
@@ -30439,21 +24203,10 @@ of  the  singer.  The  fourth  is  the  principal  interval  of  progression
 (see  No.  22).
 
 
-284
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 No.  163.  Moccasin  Game  Song  (Catalogue  No.  305)
 
 Sung  by  Ki^miwun
-Voice  J -96
 Drum  J  -^  108
-(Drum-rhythm  similar  to  No.  125)
 
 
 ■^.
@@ -30513,21 +24266,10 @@ together,  the  men  and  women  alternating  around  the  circle.
 DENS  more]
 
 
-CHIPPEWA   MUSIC — II
-
 No.  164.  Woman's  Dance  Song
 
 Sung  by  A^jide'gijIg
 
-
-285
-
-(Catalogue  No.  295)
-
-
-Voice  J  =  108
-Drum  J  =  108
-(  Drum-rhythm  similar  to  No.  19  )
 
 +
 
@@ -30535,10 +24277,7 @@ Drum  J  =  108
 WJ
 
 
-w-
-
-
-t4:
+wt4:
 
 
 WAi
@@ -30572,12 +24311,7 @@ No.  165.  "He  Killed  a  Man"
 Sung  by  A^jide^gijig
 
 
-(Catalogue  No.  294)
-
-
 VoicK  J  =168
-Drum  J  =  100
-(  Drum-rhythm  .similar  to  No.  2  )
 
 
 r
@@ -30641,15 +24375,6 @@ Analysis. — Tliis  very  old  song  was  sung  by  the  women  who  went  to
 meet  a  war  party  on  its  return  to  the  village  (see  p.  118).     The  same
 
 
-286
-
-
-BUREAU   OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
-
-
 song  was  recorded  at  White  Earth  (see  Bulletin  45.  p.  143),  the  two
 records  being  identical  except  that  the  former  record  includes  the  shrill
 falsetto  cry  given  by  the  women.  The  structure  of  the  melody  is
@@ -30667,8 +24392,6 @@ Sung  by  Gegwe'djibi'tun  ("sitting  near  it")
 
 
 Voice  J  ^100
-Drum  J;=100
-(  Drum-rhythm  similar  to  No.  2)
 
 
 f"*  y  p  tl  '  T  ^^^
@@ -30698,8 +24421,6 @@ IB
 ninMama^djidon' .
 
 
-WORDS
-
 I  farry  it  away
 
 
@@ -30708,27 +24429,15 @@ Analysis. — Tliis  is  a  song  of  the  ca'wuno'ga  (southern  dance)
 also  and  the  records  were  found  to  be  identical.  The  rhythmic  unit
 is  not  continuous  but  gives  character  to  the  song.  The  melody  tones
 are  those  of  the  fourth  five-toned  scale  and  the  effect  of  the  song  is
-that  usually  associated  with  this  scale.  Faulty  intonation  on  the  in-
-terval of  the  second  is  noted  also  in  Nos.  54,  55,  61,  64.  100,  145,  166.
+that  usually  associated  with  this  scale.  Faulty  intonation  on  the  interval of  the  second  is  noted  also  in  Nos.  54,  55,  61,  64.  100,  145,  166.
 
 
 densmore]
 
 
-CHIPPEWA   MUSIC — II
 No.  167.  "The  Entire  World'
 
 Sung  by  Ki^miwun
-
-
-287
-
-(Catalogue  No.  297)
-
-
-Voice  J  —  100
-Drum  J=  100
-(Drum-rhythm  similar  to  No.  10)
 
 
 ^I^^^E^^
@@ -30803,15 +24512,6 @@ of  which  are  found  throughout  the  song.  The  melody  is  minor  in
 tonality  and  contains  only  the  tones  of  the  tonic  triad  and  sixth.
 
 
-288
-
-
-BUREAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
-
-
 Combined  Analyses  of  Dream,  Mide',  Love,  Moccasin  Game,  and
 Dance  Songs — Waba'cing  Village,  Red  Lake  Reservation
 
@@ -30846,40 +24546,9 @@ Per  cent.
 
 Major            i
 
-25
-
-1
-
-3
-
-1
-3
-
-3
-
-2
-2
-
-34
-6
-
-85
-
-15
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 beginnings  of  songs
 
@@ -30906,21 +24575,6 @@ Total
 
 I'cr  cent.
 
-1
-5
-11
-4
-3
-2
-
-1
-5
-
-20
-6
-3
-3
-2
 
 2.5
 
@@ -30928,20 +24582,9 @@ I'cr  cent.
 
 On  twelfth
 
-1
-2
-
-4
-
-2
-
-2
-
-50
 
 On  fifth
 
-15
 
 On  tenth
 
@@ -30949,32 +24592,12 @@ On  tenth
 
 On  third
 
-1
-
-1
 
 7.5
 
 
-1
-
-6
-
-1
-
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 endings  OF  SONGS
 
@@ -31000,34 +24623,12 @@ Total
 
 I'or  cent.
 
-14
-2
-10
-
-2
-1
-
-4
-
-2
-
-1
-
-2
-
-24
-4
-12
-
-60
 
 On  fifth
 
-10
 
 On  third
 
-2
 
 SO
 
@@ -31035,13 +24636,6 @@ Total
 
 26  1               •?
 
-4
-
-3
-
-4
-
-40
 
 TONE  MATERIAL
 
@@ -31068,54 +24662,20 @@ Total
 
 Per  cent.
 
-1
-2
-
-1
-22
-1
-11
-2
-1
-1
-1
 
 S.5
 
 Fourth  five-toned  scale
 
-15
-1
-9
-
-2
-
-1
-
-2
-
-56
 
 2.5
 
-1
-
-1
 
 27.5
 
-1
-
-1
-
-5
-
-1
 
 2.5
 
-1
-1
 
 2.5
 
@@ -31123,25 +24683,8 @@ Fourth  five-toned  scale
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 DENS  moke]
-
-
-CHIPPEWA  MUSIC — II
-
-
-289
 
 
 Melodic  ANALYsts — continued
@@ -31172,63 +24715,33 @@ Per  cent.
 Songs  containing  no  accidentals.
 Songs  containing  sixth  raised  a
 
-24
 
-2
-
-2
-1
-
-3
-
-3
-
-34
-
-1
-3
-
-1
-
-85
 £.6
 
 Songs  containing  second  raised
 
-2
-
-1
 
 7.6
 
 Songs  containing  second  raised
 a  semitone  and  sixth  lowered
 
-1
 
 e.6
 
 Songs  containing  sixth  lowered
 
-1
-
-1
 
 i.B
 
 Total
 
-26
 
 ;{
 
-4
-
-3
 
 4  1             40
 
-1
 
 STRUCTURE
 
@@ -31254,31 +24767,9 @@ Total
 
 Per  cent.
 
-14
-4
-
-8
-
-1
-2
-
-1
-3
-
-2
-1
-
-2
-2
 
 ..   .
 
-20
-12
-
-8
-
-60
 
 SO
 
@@ -31288,17 +24779,6 @@ SO
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 FIRST  PROGRESSION
 
@@ -31325,41 +24805,11 @@ Per  cent.
 
 Downward
 
-21
-5
-
-3
-
-3
-
-1
-
-3
-
-2
-2
-
-32
-
-8
-
-80
 
 SO
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 Rhythmic  Analysis
 
@@ -31390,26 +24840,6 @@ Per  cent.
 Beginning  on  accented  part  of
 measure
 
-17
-9
-
-1
-2
-
-3
-
-1
-
-3
-
-3
-
-1
-
-27
-13
-
-67
 
 Beginning  on  unaccented  part
 
@@ -31417,28 +24847,11 @@ SS
 
 Tot-al
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 G7996°— Bull.  53—13 19
 
 
-290
-
-
 BUEEAU    OF   AMERICAN    ETHNOLOGY
-
-
-[bull.  53
 
 
 Rhythmic  Analysis — continued
@@ -31465,67 +24878,25 @@ Per  cent.
 
 Beginning  in  2-4  time
 
-15
-9
-
-1
-
-2
-
-2
-
-1
-
-1
-2
-
-1
-2
-
-21
-14
-
-1
-2
-1
-
-1
 
 62.0
 
-35
 
 2.0
 
 Beginning  in  5-4  time
 
-1
-
-1
 
 B
 
-1
 
 2.5
 
-1
 
 2.5
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 CHANGE  OF  TIME
 
@@ -31557,27 +24928,8 @@ Per  cent.
 Songs  containing  change  of  time.
 Songs  containing  no  change  of
 
-26
-
-1
-
-1
-1
-
-3
-1
-
-3
-
-4
-
-37
-
-2
-1
 
 92.5
-5
 
 Transcribed  in  outline
 
@@ -31585,17 +24937,6 @@ Transcribed  in  outline
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 RHYTHMIC  UNIT
 
@@ -31621,60 +24962,23 @@ Per  cent.
 Songs  containing  rhythmic  unit.
 Songs  containing  two  rhythmic
 
-9
-
-1
-
-2
-
-2
-
-1
-
-2
-
-16
-1
-
-1
-
-21
-1
-
-2
 
 Songs  containing  three  rhyth-
 
-1
-
-1
-
-2
 
 Songs  containing  no  rhythmic
-
-16
 
 
 2                  2
 
-53
-
-1
 
 S
 
 Total
 
-26
-
-3
-
-4
 
 3                  4
 
-40
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
 
@@ -31701,48 +25005,20 @@ Per  cent.
 
 Metric  unit  of  voice  and  drum
 
-13
-13
-
-3
-
-1
 
 16             iO
 
 Metric  unit  of  voice  and  drum
 diflerent
 
-2
-1
-
-3
-
-19
-1
-4
 
 47.5
 
 2.5
 
-4
-
-10
 
 Total
 
-26
-
-3
-
-4
-
-3
-
-4
-
-40
 
 SONGS  OF  WHITE  EARTH  RESERVATION
 
@@ -31756,19 +25032,10 @@ No.  168.  "We  Have  Salt"
 Sung  by  Henry  Selkirk
 
 
-(Catalogue  No.  268)
-
-
 Voice  Jr::  160
 
 
 Drom
-
-
-104
-
-
-(Drum-rhythm  similar  to  No.  19)
 
 
 -• — • • — P
@@ -31838,11 +25105,6 @@ years.
 'A  compilation  of  all  the  treaties  between  the  Unitid  States  and  the  Indian  tribes  now  in  force  as  laws,
 Washington,  1873,  p.  212.
 
-291
-
-
-292
-
 
 BUKEAU   OF   AMERICAN   ETHNOLOGY
 
@@ -31862,12 +25124,9 @@ of  the  song.
 
 No.  169.  "If  I  Were  a  Son-in-law"
 
-(Catalogue  No.  269)
 Sung  by  Henry  Selkirk
 
 Voice  Jzr  184
-Drum  J  =108
-( Drum-rhythm  similar  to  No.  19  )
 
 
 Ko  ■  zi  -  gwa   -  ko-mi-nGg
@@ -31909,16 +25168,13 @@ gfib-i  -   yan      e
 ±=t=
 
 
-WORDS
-
 kozigwa^komiiiiig^ June  berries
 
 ninda^nawapo'kinug' I  would  take  to  eat  on  my  journey
 
 naangub^iyan^  - if  I  were  a  son-in-law
 
-June  berries,  which  are  abundant  in  the  Chippewa  country,  con-
-stitute the  simplest  possible  form  of  refreshment.  ''Take  some  June
+June  berries,  which  are  abundant  in  the  Chippewa  country,  constitute the  simplest  possible  form  of  refreshment.  ''Take  some  June
 berries  with  you,"  is  a  common  saying  among  the  Chippewa.  These
 berries  grow  on  tall  bushes;  they  are  small  and  red,  have  firm  white
 meat  and  very  little  juice,  and  are  sweetish  in  taste.
@@ -31931,8 +25187,7 @@ tempo  is  rapid  and  the  song  has  a  marked  individuality.
 1  One  syllable  of  this  word  was  omitted  by  the  singer.
 
 2  Two  consecutive  syllables  of  this  word  are  accented.  The  Chippewa  word  meaning  "son-in-law"  is
-naang'ic.  The  word  occurring  in  the  song  contains  also  the  root  Hb,  meaning  "to  sit, "  and  would  be  lit-
-erally translated,  "if  I  were  sitting  as  a  son-in-law."  In  the  old  days  each  member  of  a  Chippewa  family
+naang'ic.  The  word  occurring  in  the  song  contains  also  the  root  Hb,  meaning  "to  sit, "  and  would  be  literally translated,  "if  I  were  sitting  as  a  son-in-law."  In  the  old  days  each  member  of  a  Chippewa  family
 had  his  or  her  seat  in  the  wigwam,  and  the  son-in-law,  coming  into  the  home  of  his  wife,  had  a  seat  assigned
 him,  and  was  referred  to  as  "sitting."  This  indicated  that  he  had  been  received  as  a  member  of  the
 family.
@@ -31941,19 +25196,11 @@ family.
 DENS  more]
 
 
-CHIPPEWA  MUSIC — II
-
 No.  170.  "Work  Steadily"
 
 Sung  by  Main^gans
 
 
-293
-
-(Catalogue  No.  270)
-
-
-Voice  J  =  60
 Recorded  without  drum
 
 
@@ -32002,8 +25249,6 @@ I
 i^
 
 
-WORDS
-
 ayangwa^misin^ be  very  careful
 
 tciano^kiyun^ to  work  steadily
@@ -32039,13 +25284,7 @@ wliich  he  carried.  This  procedure  was  continued  until  all  the  men
 had    danced.     Some    were    awkward,  and    their   frantic    efforts    to
 
 
-294
-
-
 BUEEAU   OF   AMERICAN   ETHNOLOGY
-
-
-[bull.  53
 
 
 imitate  a  pipe  produced  great  merriment.  It  was  considered  a  test
@@ -32066,15 +25305,9 @@ to  keep  in  perfect  time  with  it.
 No.  171.   "O'gima"  ^
 
 Sung  by  E^niwub^e
-Voice  J  — 208
-Drum   J  —  138
 
-(Drum-rhythm  similar  to  No.  2 )
 
 I  :  1   I
-
-
-(Catalogue  No.  408)
 
 
 aas
@@ -32146,8 +25379,7 @@ Waba^ca Waba'ca,  name  of  a  Sioux  chief
 
 o^gima chief
 
-Analysis. — In  the  several  renditions  of  this  song  E'niw^b'e  intro-
-duced the  names  of  four  chiefs,  belonging  to  three  different  tribes:
+Analysis. — In  the  several  renditions  of  this  song  E'niw^b'e  introduced the  names  of  four  chiefs,  belonging  to  three  different  tribes:
 Waba'ca,  a  Sioux;  Na'ogade',  a  Winnebago;  and  Kaga'giwayan'
 and  Wasi'kwade',  of  the  Chippewa.^  The  mention  of  these  names
 does  not  signify  that  the  cliiefs  were  actually  present  at  the  dance,
@@ -32162,12 +25394,6 @@ but  that  the  Chippewa  remembered  them  on  an  occasion  of  pleasure.
 DENS  more]
 
 
-CHIPPEWA  MUSIC — II
-
-
-295
-
-
 The  melody  is  simple  in  structure  and  contains  only  the  tonic  with
 the  third  and  fourth.  This  tone  material  (minor  third  and  fourth)  is
 found  in  only  two  songs  of  the  series  of  340  (see  No.  157  in  Bulletin
@@ -32179,8 +25405,6 @@ No.  172.  "Little  Plover"  (Catalogue  No.  281)
 
 Sung  by  Odjib^we
 Voice  J=r  160
-Drum    J  =  96
-(  Drum-rhythm  similar  to  No.  19 )
 
 
 ^?
@@ -32224,7 +25448,6 @@ g*^
 
 kai  yo  we    ni  kai  yo  we     ni  kai  yo   we    ni
 
-WORDS
 
 djitcis'kiwen^ little  plover,  it  is  said
 
@@ -32252,18 +25475,11 @@ nine  renditions  of  tliis  song  recorded  show  no  variation.
 2  See  pp.  101,201,  203.
 
 
-296
-
-
 BUKEAU    OF   AMEEICAN    ETHNOLOGY  [bull.  53
 
 No.  173.  "Whyr'  (Catalogue  No.  282)
 
 Sung  by  Odjib^we
-
-
-Voice  J  =192
-Drum   J  =  96
 
 
 (  Drum-rhythm  similar  to  No.  IQ)
@@ -32312,8 +25528,7 @@ nindan^gwe my  (female)  friend
 
 wen^djini^miyung^ do  we  dance?
 
-Analysis.— Six  renditions  of  this  song  were  recorded.  In  a  major-
-ity of  these  the  last  tone  of  the  transcription  was  omitted,  the  singer
+Analysis.— Six  renditions  of  this  song  were  recorded.  In  a  majority of  these  the  last  tone  of  the  transcription  was  omitted,  the  singer
 returning  to  the  first  measure  with  no  interruption  of  the  time  (see
 No.  125).  It  will  be  noted  that  the  next  to  the  last  measure  of  the
 song  is  abrupt  and  unfuiished,  but  the  singer  found  no  difficulty  in
@@ -32325,17 +25540,10 @@ tone  on  the  descending  intervals  of  the  tonic  triad.
 densmore]
 
 
-CHIPPEWA  MUSIC — II
-
-
-297
-
-
 Miue'  Songs
 No.  174.  Mide'  Burial  Song  (a)  (Catalogue  No.  283)
 
 Sung  by  Na^waji^bigo^kwe
-Voice  J=  152
 Recorded  without  drum
 
 
@@ -32482,7 +25690,6 @@ _
 
 
 so       gi-di-no  -  se
-1
 
 
 ya         gi  -  di-  no
@@ -32520,7 +25727,6 @@ dja
 
 yo,  gl-ga-ma
 
-WORDS
 
 ^^gamadja^ you  shall  depart
 
@@ -32532,19 +25738,12 @@ This  and  the  song  next  following  were  recorded  by  a  prominent
 member  of  the  Mide'wiwin  on  the  White  Eai-th  Reservation ;  they  were
 
 
-298
-
-
 BUKEAU    or    AMERICAN   ETHNOLOGY
-
-
-[bull.  53
 
 
 said  to  be  used  during  the  burial  of  a  member  of  that  society.  There
 is  a  peculiar  gentleness  in  both  these  melodies.  They  are  cheerful,
-yet  plaintive,  and  are  worthy  of  attention  as  features  of  the  cere-
-monies connected  with  what  is  commonly  designated  ''a  heathen
+yet  plaintive,  and  are  worthy  of  attention  as  features  of  the  ceremonies connected  with  what  is  commonly  designated  ''a  heathen
 burial."
 
 Analysis. — A  persistent  rhythmic  unit  characterizes  this  song.  The
@@ -32562,10 +25761,6 @@ No.  175.  MIde'  Burial  Song  (b)
 Sung  by  Na^waji^bigo^kwe
 
 
-(Catalogue  No.  284)
-
-
-Voice  J=:  160
 Recorded  without  drum
 
 
@@ -32698,12 +25893,6 @@ ni-ba-wi    -    da      ha    Ne  -  ni  -  wa       ha  ni-ba-wi  -  da
 DEN'S  more!
 
 
-CHIPPEWA   MUSIC II
-
-
-299
-
-
 Neniwa^ Neniwa^  (name  of  a  man)
 
 ni^bawida^ let  us  stand
@@ -32715,8 +25904,7 @@ niau my  body
 enen^daman' as  I  desire
 
 Analysis. — This  song  is  in  the  same  key  as  the  preceding  and  has
-the  same  pecuhar  ending.  The  rhythmic  unit  shows  a  slight  varia-
-tion in  the  middle  of  the  song,  but  clearly  influences  the  entire  rhythm.
+the  same  pecuhar  ending.  The  rhythmic  unit  shows  a  slight  variation in  the  middle  of  the  song,  but  clearly  influences  the  entire  rhythm.
 The  song  contains  only  the  tones  of  the  minor  triad  and  fourth.
 
 
@@ -32727,12 +25915,7 @@ No.  176
 Sung  by  William  Potter
 
 
-(Catalogue  No.  285)
-
-
-Voice  J—  108
 Drum  Jhz  108
-(  Drum-rhythm  similar  to  No.  125  )
 
 
 -^     ^     -^-       .  f-      m       m      -^  m  . .
@@ -32781,15 +25964,6 @@ Ojibway,  and  sister  of  Mrs.  Mary  Warren  English  (see  p.  v).
 Both  Mrs.  Spears  and  her  sister  are  women  of  marked  ability;  they
 
 
-300
-
-
-BUREAU    OF   AMERICAN   ETHNOLOGY
-
-
-[BULL.  53
-
-
 are  lineal  descendants  of  Richard  Warren  who  came  over  in  the
 Mayflower.  Mrs.  Spears  is  mother  of  Mrs.  Charles  Mee,  who  has
 greatly  assisted  the  writer  in  securing  material  on  the  White  Earth
@@ -32808,15 +25982,12 @@ and  being  very  lonely  she  sings  the  sad  little  song.
 
 Mrs.  Spears  learned  these  songs  more  than  60  years  before  they
 were  recorded  by  the  phonograph.  The  writer  heard  them  sung  by
-Mrs.  Spears  at  intervals  during  a  period  of  several  years  and  the  rendi-
-tions never  varied  in  any  respect.
+Mrs.  Spears  at  intervals  during  a  period  of  several  years  and  the  renditions never  varied  in  any  respect.
 
-(Catalogue  No.  286)
 No.  177.  "I  Have  Found  My  Lover"
 
 Sung  by  Mrs.  Julia  Warren  Spears
 
-Voice  J—  108
 Recorded  without  drum
 
 
@@ -32876,8 +26047,7 @@ nia Oh
 nin^inen^dum I  think  it  is  so
 
 Analysis. — This  song  is  purely  melodic  in  structure,  the  melody
-moving  freely  along  the  tones  of  the  tonic  triad.  Other  songs  com-
-posed or  sung  by  women  are  Nos.  31,  39,  40,  112,  127,  151,  178.  The
+moving  freely  along  the  tones  of  the  tonic  triad.  Other  songs  composed or  sung  by  women  are  Nos.  31,  39,  40,  112,  127,  151,  178.  The
 rhythm  of  the  first  six  measures  is  somewhat  changed  in  the  second
 section  of  the  song.     The  range  of  the  melody  is  of  interest  in  con-
 
@@ -32888,19 +26058,12 @@ section  of  the  song.     The  range  of  the  melody  is  of  interest  in  c
 densmorb]
 
 
-CHIPPEWA   MUSIC II
-
-
-301
-
-
 nection  with  the  fact  that  it  was  sung  correctly  and  with  pleasing
 tone  by  a  woman  more  than  70  years  of  age.
 
 No.  178.  " He  Is  Going  Away"  (Catalogue  No.  287)
 
 Sung  by  Mrs.  Julia  Warren  Spears
-Voice  J  —  54
 Recorded  without  drum
 
 
@@ -32953,14 +26116,10 @@ been  composed  or  sung  by  women  are  Nos.  31,  39,  40,  112,  127,  151,
 177.
 
 
-302  BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
-
 Songs  for  the  Entertainment  of  Children
 No.  179.  Song  of  the  Game  of  Silence
 
-(Catalogue  No.  448)
 Sung  by  John  W.  Carl
-Voice  J=  192
 Recorded  without  drum
 
 
@@ -33115,9 +26274,6 @@ ha  -  na  -  na  -  ga  -  na  kwa-kwac-kwan-da-mo  kwa-kwac-kwan-da-mo   sep
 DENSMOREj  CHIPPEWA    MUSIC II  303
 
 
-WORDS
-
-
 ago''djIn it  is  hanging
 
 ekwateg^ in  the  edge  of  the  sunshine
@@ -33152,25 +26308,21 @@ kwa^kwackwandamo^ it  is  a  jumping  trail  (referring  to  a  rabbit
 
 trail  by  which  the  singer  will  travel  to
 safety)
-sep!  (an  interjection  without  mean-
-ing)
+sep!  (an  interjection  without  meaning)
 This  song  was  recorded  by  Mr.  John  W.  Carl  (see  pp.  83,  130),  a
 graduate  of  Haskell  Institute.     Mr.  Carl's  mother,  a  Chippewa,  sang
 two  of  the  MIde'  songs  contained  in  Bulletin  45  (serial  Nos.  78,  79).
-Until  he  was  10  years  of  age  Mr.  Carl  lived  the  typical  life  of  a  Chip-
-pewa child  in  a  tribal  camp.     He  stated  that  he  had  a  distinct  recol-
+Until  he  was  10  years  of  age  Mr.  Carl  lived  the  typical  life  of  a  Chippewa child  in  a  tribal  camp.     He  stated  that  he  had  a  distinct  recol-
 lection of  this  game.
 
 The  "game  of  silence,"  which  consisted  in  keeping  still  as  long  as
 possible,  was  played  by  the  children  at  the  suggestion  of  the  older
 members  of  the  family.  It  is  said  to  have  been  called  frequently
-into  requisition  when  the  adults  wished  to  discuss  matters  of  impor-
-tance. A  pile  of  presents  was  placed  m  the  center  of  the  wigwam —
+into  requisition  when  the  adults  wished  to  discuss  matters  of  importance. A  pile  of  presents  was  placed  m  the  center  of  the  wigwam —
 beaded  moccasins,  belts,  and  arrows  of  attractive  design.  These
 were  to  be  the  reward  of  keeping  perfectly  still  for  an  indefinite
 period  of  time.  The  game  was  usually  played  in  the  evening,  and
-if  the  children  fell  asleep  before  the  spell  was  broken  it  was  cus-
-tomary to  renew  the  contest  as  soon  as  morning  came  and  the  family
+if  the  children  fell  asleep  before  the  spell  was  broken  it  was  customary to  renew  the  contest  as  soon  as  morning  came  and  the  family
 were  waking.  The  child  who  first  spoke  or  laughed  was  regarded  as
 ingloriously  defeated,  while  he  who  held  out  the  longest  received  the
 spoils.
@@ -33186,8 +26338,6 @@ distinct  sections  with  no  apparent  connection  between  them.     To  the
 '  This  refers  to  a  familiar  folk-tale  in  which  the  rabbit  defied  the  lynx.
 
 
-304  BUREAU    OF   AMERICAN   ETHNOLOGY  [bull.  53
-
 child  mind  is  first  presented  the  vision  of  a  pig — a  very  fat  pig —
 hanging  in  a  tree.  Next  is  shown  the  Frenchmen  in  gory  conflict,
 followed  instantly  by  the  rich  man,  who  carries  a  pack  toward  the
@@ -33201,8 +26351,7 @@ the  brush.  It  was  a  jumping  trail.  We  know  that  kind  of  trail.
 Sep!  The  singer  has  stopped.  What  child  laughed?  The  story
 ended  so  suddenly!  It  was  a  very  funny  story.  We  watch  the  fire
 with  blinking  eyes.  ''A  pig  in  a  tree."  Yes,  yes!  It  is  warm  in
-the  wigwam.  The  little  dogs  snuggle  cosily.  "  The  fighting  French-
-men." We  saw  a  Frenchman  once.  It  is  fair  to  yawn  if  you  do  not
+the  wigwam.  The  little  dogs  snuggle  cosily.  "  The  fighting  Frenchmen." We  saw  a  Frenchman  once.  It  is  fair  to  yawn  if  you  do  not
 make  any  noise.  Let  us  have  part  of  that  blanket.  There  is  a  bow
 that  goes  with  the  red  arrows  in  the  pile  of  presents.  Perhaps  we
 will  get  it.  But  we  wish — wish — we  might  have — really  seen — the
@@ -33228,23 +26377,15 @@ similar  to  the  one  under  consideration,  which  are  brief  and  concise.
 On  the  Red  Lake  Reservation  the  writer  was  told  stories  which  were
 said  to  be  native  but  which  were  in  reality  a  Chippewa  version  of
 such  well-known  Hans  Andersen  stories  as  "Little  Claus  and  Big
-Claus."  The  story  of  Cinderella  also  was  related  with  slight  adapta-
-tion. It  is  probable  that  these  stories  were  introduced  many  years
+Claus."  The  story  of  Cinderella  also  was  related  with  slight  adaptation. It  is  probable  that  these  stories  were  introduced  many  years
 ago  by  the  wives  of  traders  who  came  from  Canada.  It  is  said  that
 many  of  these  were  women  of  culture  and  that  they  often  told  stories
-to  the  Indian  children.  These  stories  were  found  on  no  other  reser-
-vation. Several  of  the  stories  told  to  children  have  been  given  to  the
+to  the  Indian  children.  These  stories  were  found  on  no  other  reservation. Several  of  the  stories  told  to  children  have  been  given  to  the
 writer  on  three  reservations  in  Minnesota  and  also  on  the  Lac  du
 Flambeau  Reservation  in  Wisconsin,  the  versions  differing  in  detail
 
 
 DENS. more!
-
-
-CHIPPEWA    MUSIC II
-
-
-305
 
 
 but  retaining  the  same  outline.  Many  of  these  stories  contain  one
@@ -33267,8 +26408,7 @@ The  coon  was  lying  beside  the  road  when  the  crawfish  came  along,  sin
 song.  He  seemed  to  be  asleep.  Gathering  around  him  and  still  singing  their  song,
 the  crawfish  pinched  him  with  their  claws;  sometimes  he  winced  as  they  did  so,
 pleasing  the  crawfish  very  much.  But  the  song  was  interrupted.  The  coon  suddenly
-jumped  up,  crying,  "WTiy  are  you  disturbing  my  nap?"  Then  he  ate  all  the  craw-
-fish— every  one  of  them.
+jumped  up,  crying,  "WTiy  are  you  disturbing  my  nap?"  Then  he  ate  all  the  crawfish— every  one  of  them.
 
 The  old  "woman"  standing  up  to  her  neck  in  the  water  saw  it  all;  she  was
 safe  and  the  coon  could  not  get  her.  She  laughed  to  see  that  what  she  said  had  come
@@ -33285,9 +26425,6 @@ Sung  by  Odjib^we
 
 
 Voice
-
-
-108
 
 
 Recorded  without  drum
@@ -33318,8 +26455,6 @@ e'sibun.
 ni''bo...
 
 
-WORDS
-
 coon
 
 
@@ -33336,15 +26471,6 @@ r)7n!)n°— p.uii.  ^^—iii-
 
 
 -20
-
-
-306
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY
-
-
-[BULL.  53
 
 
 Songs —  White  Earth  Reservation
@@ -33403,13 +26529,9 @@ Total.
 
 168,  166,  176
 172,  174,  178,  179
-51
 
-52
-173
 
 169,  170
-180
 
 53,  175
 
@@ -33422,8 +26544,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-10
-5
 
 51,  52,  53,  168,  169,  170,  172,  173,  176,  177
 
@@ -33433,15 +26553,8 @@ On  tonic  fifth
 
 Total
 
-15
 
 DENS  more]
-
-
-CHIPPEWA   MUSIC II
-
-
-307
 
 
 Melodic  Analysis — continued
@@ -33501,10 +26614,6 @@ of  songs
 
 Serial  Nos.  of  songs
 
-3
-
-10
-2
 
 172,  176,  177
 
@@ -33516,7 +26625,6 @@ Melodic  with  harmonic  framework
 
 Total
 
-15
 
 FIRST  PROGRESSION
 
@@ -33532,15 +26640,6 @@ Total
 
 51, 52, 170,  172,  173,  174,  176,  177,  179,  180
 53,  168,  169,  175,  178
-
-
-308
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY
-
-
-[bull.  53
 
 
 Rhythmic  Analysis
@@ -33577,14 +26676,10 @@ of  songs
 Serial  Nos.  of  songs
 
 
-Songs  beginning  in  2-4  time.
-
-Songs  beginning  in  3-4  time .
 Total
 
 
 11  t  51,  52, 168, 172,  173,  174, 175, 176, 17S,  179,
-180
 53,  169,  170,  177
 
 
@@ -33596,17 +26691,13 @@ of  songs
 
 Serial  Nos.  of  songs
 
-14
-1
 
 51,52,53,168,169,  170,172,  173,  174,  175,
 
 177,178,179,180
-176
 
 Total
 
-15
 
 RHYTHMIC  UNIT
 
@@ -33618,8 +26709,6 @@ Serial  Nos.  of  songs
 
 Songs  containing  rhythmic  unit
 
-6
-9
 
 168,  172,  173,  174,  175,  180
 
@@ -33627,7 +26716,6 @@ Songs  containing  rhythmic  unit
 
 Total
 
-15
 
 COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
 
@@ -33658,18 +26746,10 @@ RHYTHMIC  UNITS  OF  CHIPPEWA  SONGS
 
 The  purpose  of  the  following  .section  is  to  place  the  rhythmic  units
 of  the  several  classes  of  songs  in  convenient  form  for  observation.
-The  analyses  on  pages  51-58  note  some  melodic  and  rhythmic  resem-
-blances between  song-groups  which  have  an  underlying  idea  in  com-
-mon. The  study  of  resemblances  can  be  carried  still  further  by  com-
-paring the  rhythmic  units  of  songs  of  related  groups.
+The  analyses  on  pages  51-58  note  some  melodic  and  rhythmic  resemblances between  song-groups  which  have  an  underlying  idea  in  com-
+mon. The  study  of  resemblances  can  be  carried  still  further  by  comparing the  rhythmic  units  of  songs  of  related  groups.
 
 Rhythmic  Units  of  Mide'  Songs  ^
-
-
-No.  1  (Bull.  45)
-
-
-(Catalogue  No.  189)
 
 
 ^M=^
@@ -33690,12 +26770,6 @@ H:
 fei^E^E^afep^
 
 
-No.  2   (Bull.  45)
-
-
-(Catalogue  No.  238)
-
-
 §iiS
 
 
@@ -33708,15 +26782,10 @@ m
 Nfe
 
 
-No.  3   (Bull.  45)
-
 v-^-
 
 
 ^ ^
-
-
-(Catalogue  No.  239)
 
 
 Noo  5  (Bull.  45)
@@ -33725,28 +26794,7 @@ Noo  5  (Bull.  45)
 ^^^^
 
 
-(Catalogue  No.  240)
-
-
-No.  6  (Bull.  45)
-
-
-(Catalogue  No.  241)
-
-
-No.  7    (Bull.  45)
-
-
-(Catalogue  No.  54)
-
-
 I  See  pp.  34,  51.
-
-
-309
-
-
-310
 
 
 BUREAU    OF    AMERICAN    ETHNOLOGY  [bi  i^i- f>-
@@ -33758,17 +26806,6 @@ r^^^^U=^:^^^^f^^^=ff±=ff^
 
 _2_^ _I_-L_-L  J — J
 
-No.  10  (Bull.  45)
-
-
-(Catalogue  No.  237)
-
-
-No.  11    (Bull.  45)
-
-
-(Catalogue  No.  61]
-
 
 H{-E^E£ll=Fi
 
@@ -33777,12 +26814,6 @@ H{-E^E£ll=Fi
 
 
 S^
-
-
-No.  12   (Bull.  45)
-
-
-(Catalogue  No.  62)
 
 
 -0--0--0--m-   -i5>-      -G>-      -•--#
@@ -33795,12 +26826,6 @@ iigg!
 
 
 i^
-
-
-No.  13  (Bull.  45)
-
-
-(Catalogue  No.  63)
 
 
 ITl
@@ -33816,15 +26841,6 @@ A-     ^         ^
 
 
 :ii
-
-
-No.  14  (Bull.  45)
-
-
-(Catalogue  No.  65)
-
-
-1
 
 
 fP?P=^
@@ -33848,12 +26864,6 @@ f — f  4  -^^
 ?^
 
 
-No.  15  (Bull.  45)
-
-
-(Catalogue  No.  66)
-
-
 r^
 
 
@@ -33869,9 +26879,6 @@ iig^
 • — p- — p — p~
 
 
-No.  17  (Bull.  45]
-
-
 f  Catalogue  No.  123)
 
 
@@ -33880,11 +26887,6 @@ f  Catalogue  No.  123)
 -^T-^— h 1 1 \ 1 1 1 \
 
 ]^L^               '          '        Y^ ^ f-J 1 1 —  U 1
-
-No.  39  (Bull.  45)
-
-
-(Catalogue  No.  30)
 
 
 a
@@ -33899,21 +26901,6 @@ a
 DENS  more]
 
 
-CHIPPEWA    MUSIC — II
-No.  61  (Bull.  45)
-
-
-311
-
-(Catalogue  No.  69)
-
-
-No.  62  (Bull.  45)
-
-
-(Catalogue  No.  70)
-
-
 =§i»i
 
 
@@ -33924,18 +26911,6 @@ V-
 
 
 -^  (*  #-
-
-
-No.  63   (Bull.  45)
-
-
-(Catalogue  No.  254)
-
-
-No.  64  (Bull.  45)
-
-
-(Catalogue  No.  67)
 
 
 ^
@@ -33962,12 +26937,6 @@ Sil
 -tz^AA.
 
 
-No.  65  (Bull.  45)
-
-
-(Catalogue  No.  56)
-
-
 ^-^   ^-
 
 
@@ -33980,22 +26949,10 @@ ilM
 .^-! ^ ^-
 
 
-No.  68  (Bull.  45)
-
-
-(Catalogue  No.  59)
-
-
 li^i^i^^^liazEEE^^
 
 
 IS
-
-
-No.  69  (Bull.  45)
-
-
-(Catalogue  No.  60)
 
 
 -P — P-
@@ -34013,21 +26970,10 @@ ir-^--=r^ffi
 jf — f-
 
 
-No.  70  (Bull.  45)
-
-
-(Catalogue  No.  64)
-
-
 I  #- -PL -F- -«--#-  -{S'-    -^'     m  m  m.  ^     ^    I
 
 
-312
-
-
 BUREAU    OF    AMERICAN    ETHNOLOOY  [ruli,.  5.-^
-
-No.  71   (Bull.  45)  (Catalogue  No.  73)
 
 
 #.-^--^-..#--».
@@ -34051,22 +26997,10 @@ ife^in^
 •zz^zzizit
 
 
-No.  77  (Bull.  45)
-
-
-(Catalogue  No.  78)
-
-
 i^
 
 
 pfc|^4^^Ete«
-
-
-No.  78  (Bull.  45)
-
-
-(Catalogue  No,  79)
 
 
 i
@@ -34084,19 +27018,7 @@ PE*
 4:
 
 
-No.  79  (Bull.  45)
-
-
 ^ 1^
-
-
-(Catalogue  No.  71)
-
-
-No.  80  (Bull.  45)
-
-
-(Catalogue  No.  14)
 
 
 w^=£^^
@@ -34108,12 +27030,6 @@ w^=£^^
 :f=f=
 
 
-No.  81  (Bull.  45)
-
-
-(Catalogue  No.  191)
-
-
 p^i^ii '  rt^^
 
 
@@ -34123,27 +27039,11 @@ p^i^ii '  rt^^
 ap
 
 
-No.  82  (Bull.  45)
-
-
-(Catalogue  No.  192)
-
-
 r
-
-
-No.  83  (Bull.  45)  (Catalogue  No.  193)
 
 
 pensmorb]
 
-
-CHIPPEWA    MUSIC II
-
-No.  84  (Bull.  45)
-
-
-313
 
 (Catalofj;ue  No.  1<I4)
 
@@ -34157,49 +27057,13 @@ No.  84  (Bull.  45)
 asis
 
 
-No.  85  (Bull.  45)
-
-
-(Catalogue  No.  195)
-
-
-No.  86  (Bull.  45)
-
-
-(Catalogue  No.  197)
-
-
 S^^^^^^
-
-
-No.  87  (Bull.  45)
-
-
-(Catalogue  No.  199)
 
 
 Si^^i
 
 
 ^9=H»=
-
-
-No.  88  (Bull.  45)
-
-
-No.  89  (Bull.  45)
-
-
-(Catalogue  No.  200)
-
-
-(Catalogue  No.  236)
-
-
-No.  90  (Bull.  45)
-
-
-(Catalogue  No.  248)
 
 
 ^isS
@@ -34217,28 +27081,13 @@ M:
 H U h
 
 
-No.  91  (Bull.  45)
-
-
-(Catalogue  No.  253)
-
-
 t§Si^
 
 
 es*
 
 
-No.  92  (Bull.  45)
-
-
-(Catalogue  No.  255)
-
-
 ^^^^^
-
-
-314
 
 
 BUREAU    OF    AMERICAN    ETHNOLOGY  |  nri.T..  5.-^
@@ -34252,12 +27101,6 @@ No.  93  (Bull.  45)  (Catalogue  No.  25H)
 -12^*
 
 
-No.  154  (Bull.  53)
-
-
-(Catalogue  No.  306)
-
-
 EBiJLEf
 
 
@@ -34265,18 +27108,6 @@ m.
 
 
 ^
-
-
-No.  155  (Bull.  53)
-
-
-(Catalogue  No.  304)
-
-
-No.  174  (Bull.  53)
-
-
-(Catalogue  No.  283)
 
 
 priii^affi?
@@ -34289,12 +27120,6 @@ i
 
 
 afe
-
-
-No.  175  (Bull.  53)
-
-
-(Catalogue  No.  284)
 
 
 fii
@@ -34311,8 +27136,6 @@ No.  109  (Bull.  45)       ^  (Catalogue  No.  245)
 :f^
 
 
-No.  110  (Bull.  45)
-
 r:
 
 
@@ -34325,10 +27148,7 @@ r:
 No.  Ill  (Bull.  45)
 
 
-(Catalogue  No.  246)
 /
-
-(Catalogue  No.  213)
 
 
 m-
@@ -34340,18 +27160,10 @@ m-
 DEXSMOllE]
 
 
-CHIPPEWA    MUSIC II
-
-No.  112  (Bull.  45)
-
-
 BjM^^
 
 
 ;Se
-
-
-No.  115  (Bull.  45)
 
 
 ^m
@@ -34363,36 +27175,16 @@ a
 £=&
 
 
-No.  116  (Bull.  45)
-
-
 I  -•-  -#-  -m-     -#-   ^   -#-
 
 
 m
 
 
-315
-
-(Catalogue  No.  206)
-
-
-(Catalogue  No.  209)
-
-
-(Catalogue  No.  210)
-
-
 SE
 
 
 S^='
-
-
-No.  118  (Bull.  45)
-
-
-(Catalogue  No.  212)
 
 
 ■(5>-  -*-.
@@ -34404,29 +27196,16 @@ a
 Qiferif  ts^^^
 
 
-No.  121  (Bull.  45)
-
-
-(Catalogue  No.  261)
-
-
 m^
 
 
 # — 0 — »
 
 
-No.  94  (Bull.  53)
-
-
-(Catalogue  No.  394)
-
-
 3K^ ^1^-^ —
 
 X-i  Llt  k  t'^  r'
 
-1
 
 -fi— r —
 
@@ -34435,11 +27214,6 @@ X-i  Llt  k  t'^  r'
 --^^ — ^**^-j — ii  1 1  n — \ —
 
 — W 1- — ■ 1
-
-No.  95  (Bull.  5.3)
-
-
-(Catalogue  No.  398)
 
 
 i  r  f  p
@@ -34460,21 +27234,11 @@ lie
 =^=^
 
 
-No.  97  (Bull.  53)
-
-
-(Catalogue  No.  433)
-
-
-1
-
 I'l           p     p     p     p
 
 f-f-  f     .   .              '
 
--^:fo   P-r-r-p-
-
-n  '^  1  r  —\
+-^:fo   P-r-r-pn  '^  1  r  —\
 
 -S— J*
 
@@ -34483,8 +27247,6 @@ n  '^  1  r  —\
 % ^LJ_
 
 -4-F=-
-
-316
 
 
 BUREAU    OF    AMERICAN    ETHNOLOGY  fiu  i.r,.  r.M
@@ -34500,55 +27262,22 @@ mm
 ^— ^— f
 
 
-No.  99  (Bull.  53)
-
-
-(Catalogue  No.  399)
-
-
 r^  •  -0-
 
 
 afe
 
 
-No.  101  (Bull.  53)
-
-
-(Catalogue  No.  422)
-
-
--•-  -•-  b-p-
-
-
-m
+-•-  -•-  b-pm
 
 
 Ml
-
-
-No.  102  (Bull.  53)
-
-
-(Catalogue  No.  395)
 
 
 SE^S^
 
 
 :#:
-
-
-No.  103  (Bull.  53)
-
-
-(Catalogue  No.  396)
-
-
-No.  104  (Bull.  53)
-
-
-(Catalogue  No.  397)
 
 
 mM^.
@@ -34558,12 +27287,6 @@ s
 
 
 =d
-
-
-No.  128  (Bull.  53)
-
-
-(Catalogue  No.  289)
 
 
 (^)
@@ -34597,16 +27320,8 @@ r:irr
 :a#j^i^g^^5a^.0=j
 
 
-No.  131  (Bull.  53)
-
-
-(Catalogue  No.  324)
-
-
 densjiuue]
 
-
-CHIPPEWA    MUSIC II
 
 No.  134  (Bull. ^3)
 
@@ -34614,21 +27329,7 @@ No.  134  (Bull. ^3)
 ii^
 
 
-317
-
 (Catalogue  No.  3^0)
-
-
-No.  135  (Bull.  53)
-
-
-(Catalogue  No.  323)
-
-
-No.  140  (Bull.  53)
-
-
-(Catalogue  No.  310)
 
 
 ±^=#
@@ -34637,19 +27338,7 @@ No.  140  (Bull.  53)
 4:
 
 
-No.  141  (Bull.  53)
-
-
-(Catalogue  No.  311)
-
-
 m^^m^m
-
-
-No.  142  (Bull.  53;
-
-
-(Catalogue  No.  312)
 
 
 :5t|P
@@ -34667,12 +27356,6 @@ No.  142  (Bull.  53;
 # IS g-
 
 
-No.  143  (Bull.  53)
-
-
-(Catalogue  No.  313)
-
-
 @%
 
 
@@ -34683,9 +27366,6 @@ Jt-      ^22.         .fL      ^_      hS.         .^.         .^      ^      .^
 
 
 #:
-
-
-No.  147  (Bull.  53)
 
 
 :d — I — ^
@@ -34700,7 +27380,6 @@ No.  147  (Bull.  53)
 l£
 
 
-(Catalogue  No.  291 ;
 ~^^^
 
 
@@ -34713,26 +27392,10 @@ a:
 ^
 
 
-No.  153  (Bull.  53)
-
-
-(Catalogue  No.  322)
-
-
-318
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY  [bull.  53
-
 Rhythmic  Units  of  War  Songs  ^
-
-No.  125  (Bull.  45)  (Catalogue  No.  215)
 
 
 i^j
-
-
-No.  127  (Bull.  45)
 
 
 S^M
@@ -34742,15 +27405,6 @@ S^M
 
 
 ^¥-^-
-
-
-( Catalogue  No.  230)
-
-
-No.  128  (Bull.  45)
-
-
-(Catalogue  No.  271)
 
 
 4=
@@ -34768,9 +27422,6 @@ sg^=^_^^^
 s
 
 
-No.  129  (Bull.  45)
-
-
 ±
 
 
@@ -34780,25 +27431,10 @@ m
 l4zr-#-r
 
 
-(Catalogue  No.  276)
-
-
-No.  130  (Bull.  45)
-
-
 mM
 
 
-(Catalogue  No.  277)
-
-
-No.  131  (Bull.  45)
-
-
 gy^iOq:^
-
-
-(Catalogue  No.  114)
 
 
 No.  132  (Bull.  45^
@@ -34816,15 +27452,6 @@ r
 b=4:
 
 
-(Catalogue  No.  116)
-
-
-No.  155  (Bull.  45)
-
-
-(Catalogue  No.  140)
-
-
 P^^
 
 
@@ -34834,35 +27461,13 @@ P^^
 ubnsmoke]
 
 
-CHIPPEWA   MUSIC II
-
-No.  161  (Bull.  45)
-
-
-319
-
-(Catalogue  No.  167)
-
-
 m
-
-
-No.  1  (Bull.  53)
-
-
-(Catalogue  No.  392)
 
 
 ^^
 
 
 ^
-
-
-No.  2  (Bull.  53)
-
-
-(Catalogue  No.  371)
 
 
 EpS:
@@ -34874,12 +27479,6 @@ ifcz^
 J    J^."
 
 
-No.  3  (Bull.  53)
-
-
-(Catalogue  No.  346)
-
-
 ^ -)§-.#.
 
 
@@ -34887,12 +27486,6 @@ f^^^-l^-
 
 
 Btfa^:^
-
-
-No.  4  (Bull.  53)
-
-
-(Catalogue  No.  387)
 
 
 ^•^  ^
@@ -34904,19 +27497,7 @@ No.  4  (Bull.  53)
 ^
 
 
-No.  5  (Bull.  53)
-
-
-(Catalogue  No.  391 ;
-
-
 -^-^  -^
-
-
-No.  6  (Bull.  53)
-
-
-(Catalogue  No.  384)
 
 
 ""1
@@ -34940,39 +27521,13 @@ No.  6  (Bull.  53)
 1^4
 
 
-No.  8  (Bull.  53)
-
-
 -^   -.  ^^^.
-
-
-(Catalogue  No.  338)
 
 
 — ^ — ^ iF
 
 
-320
-
-
-BUREAU    OF    AMERICAN    ETHNOLOGY  [bull  53
-
-No.  11  (Bull.  53)  (Catalogue  No.  358)
-
-
-No.  12  (Bull.  53)
-
-
-(Catalogue  No.  359)
-
-
 EESp
-
-
-1
-
-
-No.  13  (Bull.  53)  (Catalogue  No.  13)
 
 
 ^m
@@ -34981,22 +27536,10 @@ No.  13  (Bull.  53)  (Catalogue  No.  13)
 fi^^£-f  ift^f  if-—
 
 
-No.  15  (Bull.  53)
-
-
-(Catalogue  No.  360)
-
-
 I  -•-  -•-  -•-  ~0-  -•-
 
 
 E^E
-
-
-No.  16  (Bull.  53)
-
-
-(Catalogue  No.  361'
 
 
 t^
@@ -35032,32 +27575,16 @@ r±2=^
 1:^     A..  ^.  ...
 
 
-No.  17  (Bull.  53)
 — 1  (2)
 
 
-(Catalogue  No.  362)
-
-
 ■^ r    rr^.  er-    ^ — ^ — P — ^ — • — • — s — s ri
-
-
-No.  18  (Bull.  53)
-
-
-(Catalogue  No.  343)
 
 
 m
 
 
 fc3^=?
-
-
-No.  19  (Bull.  53)
-
-
-(Catalogue  No.  333)
 
 
 r  •-  -m-      •
@@ -35072,12 +27599,7 @@ Ei?^
 ^=e£
 
 
-No.  20  (Bull.  53)
-
 r:
-
-
-(Catalogue  No.  332)
 
 
 gg£^g^
@@ -35086,25 +27608,10 @@ gg£^g^
 DENSJMORE]
 
 
-CHIPPEWA    MUSIC — II
-No.  21  (Bull.  53)
-
-
 :-*-«.^-f-f--^'--r£=-^^^=f^
 
 
-321
-
-(Catalogue  No.  370)
-
-
 ^«P^
-
-
-No.  22  (Bull.  53)
-
-
-(Catalogue  No.  372)
 
 
 ■f-  -•-  -•-  -#-
@@ -35113,22 +27620,10 @@ No.  22  (Bull.  53)
 m^^^^^^^E
 
 
-No.  23  (Bull.  53)
-
-
-(Catalogue  No.  382)
-
-
 -•-   -•-    -•-   -i9-
 
 
 mi^^^^i^^^^^mm
-
-
-No.  24  (Bull.  53)
-
-
-;  Catalogue  No.  373)
 
 
 t— «— L« B_« 0^^^ ^- — ^_0_LIJi:_^__ 1^
@@ -35140,12 +27635,7 @@ t— «— L« B_« 0^^^ ^- — ^_0_LIJi:_^__ 1^
 :1:
 
 
-No.  25  (Bull.  53)
-
-
 *  -^      -&      -&     -^     -^
-
-(Catalogue  No.  374)
 
 
 u
@@ -35160,9 +27650,6 @@ u
 :tii=at
 
 
-No.  26  (Bull.  53)
-
-
 ^Catalogue  No.  375)
 
 
@@ -35175,13 +27662,7 @@ atizzt
 =^=4=
 
 
-No.  27  (Bull.  53)
-
-
 -4 s*-
-
-
-(Catalogue  No.  376)
 
 
 gg^
@@ -35193,16 +27674,7 @@ gg^
 ^=i=EtEZE^=^,^Jit4^:
 
 
-No.  28  (Bull.  53)
-
-
-si-
-
-
-(Catalogue  No.  369)
-
-
-ii**^
+siii**^
 
 
 -•--#-■#-  -^  -^-  -f--  #--•-  -•--•-  -  i»-  -•-  -•-•
@@ -35217,32 +27689,10 @@ ii**^
 _^„^__H^_p_
 
 
-No.  29  (Bull.  53)
-
-
-(Catalogue  No.  341)
-
-
 mm^^
 
 
 h—  1-4  '       ^
-
-
-67996°— Bull.  53—13 21
-
-
-322
-
-
-BUREAU    OF   AMERICAN    ETHNOLOGY  [bull.  53
-
-No.  30  (Bull.  53)  (Catalogue  No.  329)
-
-No.  32  ( Bull.  53)
-
-
-(Catalogue  No.  385)
 
 
 ^   ^
@@ -35266,12 +27716,6 @@ t:
 ;E^t:33gES
 
 
-No.  33  (Bull.  53)
-
-
-(Catalogue  No.  335)
-
-
 ^1
 
 
@@ -35287,19 +27731,7 @@ No.  33  (Bull.  53)
 :t!^
 
 
-No.  34  (Bull.  53)
-
-
-No.  35  (Bull.  53]
-
-
 H^
-
-
-(Catalogue  No.  336)
-
-
-(Catalogue  No.  342)
 
 
 J^  -PL  J^  J^  ^  ^-
@@ -35314,12 +27746,6 @@ p — ^
 
 
 ii:=l:=:==E
-
-
-No.  36  (Bull.  53)
-
-
-(Catalogue  No.  367]
 
 
 -^-     Jt     -'•-    -^*    -^    -^     »-••
@@ -35337,20 +27763,9 @@ Az
 EE^-^
 
 
-No.  37  (Bull.  53)
-
-
-(Catalogue  No.  389)
-
-
 [Q.^j-f— f— 1 — -rf^ — f— rf i — 1
 
 =9^=p....F-L_^ '^-J^— p--
-
-No.  38  (Bull.  53)
-
-
-(Catalogue  No.  366)
 
 
 '#-•  -^    -^-
@@ -35360,16 +27775,6 @@ iMi
 
 
 DENS  MOKE]
-
-
-CHIPPEWA   MUSIC II
-
-No.  39  (Bull.  53)
-
-
-323
-
-(Catalogue  No.  348)
 
 
 =9*
@@ -35393,19 +27798,10 @@ T-
 4:
 
 
-No.  40   (Bull.  53)
-
-
-(Catalogue  No.  365)
-
-
 ii.te^^i3£=^
 
 
 S
-
-
-4
 
 
 -"P
@@ -35417,19 +27813,7 @@ EE
 :=^=
 
 
-No.  42  (Bull.  53)
-
-
-(Catalogue  No.  330)
-
-
 S
-
-
-No.  44  (Bull.  53)
-
-
-(Catalogue  No.  352)
 
 
 m
@@ -35447,12 +27831,6 @@ a=i:
 -^ ^
 
 
-No.  45  (Bull.  53)
-
-
-(Catalogue  No.  390)
-
-
 #
 
 
@@ -35468,22 +27846,10 @@ _ff _^ ^_
 :t:=t/:
 
 
-No.  46  (Bull.  53)
-
-
 ^lE^-fEEE
 
 
 6E4:
-
-
-No.  47    (Bull.  53)
-
-
-(Catalogue  No.  354)
-
-
-(Catalogue  No.  355)
 
 
 (1)     r
@@ -35507,27 +27873,13 @@ b=lz4=
 g^^^^^t
 
 
-ft-^L^-fl-
-
-
-No.  63  (Bull.  53)
-
-
-(Catalogue  No.  423)
-
-
-r:i^
+ft-^L^-flr:i^
 
 
 z^ifzzL--^^^^
 
 
-324
-
-
 BUREAU    OF    AMERICAN    ETHNOLOGY  [bull.  5!]
-
-No.  64  (Bull.  53)  (Catalogue  No.  424)
 
 
 ^   -#-
@@ -35551,9 +27903,6 @@ a#iiSi^
 |i— •
 
 
-(Catalogue  No.  425)
-
-
 ^^t^trzt
 
 
@@ -35572,13 +27921,7 @@ t--=F=F
 No.  66  (Bull,  ryi)
 
 
-(Catalogue  No.  432)
-
-
 m>^^
-
-
-No.  80  (Bull.  53)  .(Catalogue  No.  437)
 
 
 -0-    ^.    ^
@@ -35590,12 +27933,6 @@ No.  80  (Bull.  53)  .(Catalogue  No.  437)
 • — P-7^ — r — T — f — •— p^  • — •^^ — •-
 
 
-No.  81  (Bull.  53:
-
-
-(Catalogue  No.  393)
-
-
 m
 
 
@@ -35603,12 +27940,6 @@ i2
 
 
 f-f.    -ft-   -^-.    .^-   -^-   -^-  -p-  -^- 1
-
-
-No.  83  (Bull.  53)
-
-
-:  Catalogue  No.  406)
 
 
 -fi-     -/•■
@@ -35625,16 +27956,7 @@ n
 -(2-
 
 
-No.  85  (Bull.  53)
-
-
-(Catalogue  No.  415)
-
-
 r-T •  •      •      -0-  1
-
-
-No.  86  (Bull.  53)
 
 
 =9
@@ -35643,18 +27965,10 @@ No.  86  (Bull.  53)
 ^S;
 
 
-(Catalogue  No.  419)
-
 : — TTi
 
 
 i^
-
-
-No.  88  (Bull.  53:
-
-
-;  Catalogue  No.  411)
 
 
 -•-     -•-  -•-   :f-  -•-  -•-  -•-
@@ -35677,31 +27991,13 @@ No.  89  (Bull.  5:5)  ((Malogue  No.  412)
 ^&=F=H
 
 
-No.  90  (Bull.  53)
-
-
-(Catalogue  No.  41()]
-
-
 ^J2^#z=
-
-
-No.  91  (Bull.  53)
-
-
-(Catalogue  No.  417)
 
 
 r
 
 
 SE
-
-
-No.  92  (Bull.  53)
-
-
-(Catalogue  No.  418)
 
 
 &S|4:
@@ -35711,8 +28007,6 @@ No.  92  (Bull.  53)
 
 
 Rhythmic  Units  of  Love  Songs  '
-
-No.  134  (Bull.  45)  (Catalogue  No.  99)
 
 
 r"
@@ -35727,12 +28021,6 @@ r"
 :^:
 
 
-No.  135  (Bull.  45)
-
-
-;  Catalogue  No.  101 ;
-
-
 ir^
 
 
@@ -35742,31 +28030,16 @@ i? — ^^^ —
 4=^3=j
 
 
-No.  136  (Bull.  45)
-
-
-[Catalogue  No.  104)
-
-
 ifefeFJ^
 
 
 :4:
 
 
-No.  138  (Bull.  45)
-
-
-(Catalogue  No.  107)
-
-
 -•-   -•-    -•-  -*-   -^-'  I
 
 
 1  See  pp.  41,  53.
-
-
-326
 
 
 BUREAU    OF    AMERICAN    ETHNOLOGY  [BriLL.  53
@@ -35780,28 +28053,10 @@ r:^:-
 EgjgEEE^EEEBEE
 
 
-No.  140  (Bull.  45)
-
-
-(Catalogue  No.  262)
-
-
 rtll
 
 
-No.  163  (Bull.  45)
-
-
-(Catalogue  No.  161)
-
-
 -(i fi^ ^_
-
-
-No.  164  (Bull.  45)
-
-
-(Catalogue  No.  155)
 
 
 r7
@@ -35819,37 +28074,16 @@ r-
 ^:
 
 
-No.  105  (Bull.  53)
-
-
-[Catalogue  No.  400)
-
-
 f--^^i 'fr^t^-f- ft^^-0^-
 
 
-r  !     I    -h-r-
-
-
-i^^i^^gi^g
-
-
-No.  106  (Bull.  53)
-
-
-(Catalogue  No.  401)
+r  !     I    -h-ri^^i^^gi^g
 
 
 fs-  -•-  -#-    -#-
 
 
 P^H?4 ^ FF4=^
-
-
-No.  108  (Bull.  53)
-
-
-(Catalogue  No.  431)
 
 
 ^    ^.  ...^        -p..  ^
@@ -35861,29 +28095,10 @@ No.  108  (Bull.  53)
 na —
 
 
-No.  109  (Bull.  53)
-
-
-(Catalogue  No.  442)
-
-
-I  -(=z-
-
-
-a^
+I  -(=za^
 
 
 DENSMOREl
-
-
-CHIPPEWA   MUSIC II
-
-No.  110  (Bull.  53)
-
-
-327
-
-(Catalogue  No.  443)
 
 
 gi^
@@ -35891,11 +28106,6 @@ gi^
 
 t
 
-
-No.  112  (Bull.  53)
-
-
-(Catalogue  No.  445)
 
 I
 
@@ -35921,11 +28131,7 @@ m
 'lm=^-
 
 
-No.  157  (Bull.  53)
 (2)
-
-
-(Catalogue  No   300)
 
 
 (3)
@@ -35937,12 +28143,6 @@ No.  157  (Bull.  53)
 a^ipMii=?lS
 
 
-No.  159  (Bull.  53)
-
-
-(Catalogue  No.  302)
-
-
 m=^.
 
 
@@ -35952,12 +28152,7 @@ Az=az
 ■^=±=^-
 
 
-No.  160  (Bull.  53)
-
-
 -&         it-       si-
-
-( Catalogue  No.  303)
 
 
 ;|g§Egjg^g_E[g;
@@ -35983,8 +28178,6 @@ No.  160  (Bull.  53)
 
 Rhythmic  Units  of  Moccasin  Game  Songs  '
 
-No.  142  (Bull.  45)  (Catalogue  No.  112)
-
 
 r
 
@@ -35998,59 +28191,28 @@ r
 :t=l
 
 
-No.  172  (Bull.  45)
-
-
 m^'^^^.
 
 
 itV^:
 
 
-(Catalogue  No.  171)
-
-
-No.  174  (Bull.  45)
-
 r
-
-
-1
-
-
-(Catalogue  No.  150)
 
 
 1  See  pp.  44,  54.
 
 
-328
-
-
 BUREAU    OF    AMERICAN    ETHNOLOGY  |  bull.  5:5
-
-No.  125  (Bull.  53)  (Catalogue  No.  410)
 
 
 _^  .    r    -•-  -•-  -•- '_
-
-
-No.  126  (Bull.  53)
-
-
-(Catalogue  No.  427
 
 
 mm^
 
 
 r!c;z::j
-
-
-No.  162  (Bull.  53)
-
-
-;  Catalogue  No.  293)
 
 
 :ld2S;
@@ -36065,31 +28227,13 @@ V — 1-
 Rhythmic  Units  of  Woman's  Dance  Songs  ^
 
 
-No.  177  (Bull.  45)
-
-
-(Catalogue  No.  132)
-
-
 4z^-=d
-
-
-No.  180  (Bull.  45)
-
-
-(Catalogue  No.  141)
 
 
 ^ft|=q^5z^:
 
 
 4=iii:izt
-
-
-No.  181  (Bull.  45)
-
-
-(Catalogue  No.  153)
 
 
 rTTTT:
@@ -36099,12 +28243,6 @@ rTTTT:
 
 
 ^^r^^B^gg
-
-
-No.  184  (Bull.  45)
-
-
-(Catalogue  No.  177)
 
 
 ii*#
@@ -36119,8 +28257,6 @@ ii*#
 DENSMOUIO
 
 
-.CHIPPEWA   MUSIC II  329
-
 Rhythmic  Units  of  Begging  Dance  Songs  *
 
 No.  115   (Bull.  53)  (Catalogue  No.  ^88)
@@ -36130,12 +28266,6 @@ i9i-|2:s2:
 
 
 -•-    -•-    -#-    -f-'    -0.    -^-
-
-
-No.  116  (Bull.  53)
-
-
-(Catalogue  No.  439)
 
 
 ag
@@ -36150,17 +28280,9 @@ E
 ^^=J^^^f--^^.
 
 
-No.  118  (Bull.  53)
-
 FT-
 
 4=:
-
-
-(Catalogue  No.  441)
-
-
-71
 
 
 ii^E^^
@@ -36168,18 +28290,11 @@ ii^E^^
 
 Rhythmic  Units  of  Pipe  Dance  Songs  ^
 
-No.  171  (Bull.  53)  (Catalogue  No.  408)
 
 r"
 
 
 ^^^^^^^m
-
-
-No.  173   (Bull.  53)
-
-
-(Catalogue  No.  282)
 
 
 [-»-'     -P-  H*.     -ft     -(SL
@@ -36190,16 +28305,8 @@ No.  173   (Bull.  53)
 
 Rhythmic  Units  of  Songs  Connected  with  Gifts  ^
 
-No.  152  (Bull.  45)  (Catalogue  No.  92)
-
 
 ^ES
-
-
-No.  153  (Bull.  45)
-
-
-(Catalogue  No.  93)
 
 
 :s^^
@@ -36214,18 +28321,10 @@ No.  153  (Bull.  45)
 3  See  pp.  49,  57.
 
 
-330
-
-
 L-i2:^4=L
 
 
 BUREAU    OP   AMERICAN    ETHNOLOGY  [bull.  5B
-
-No.  189  (Bull.  45)  (Catalogue  No.  168)
-
-
-912
 
 
 -I 1 1 — F-
@@ -36236,11 +28335,6 @@ tr-
 
 4:
 
-
-No.  123  (Bull.  53]
-
-
-(Catalogue  No.  435)
 
 I
 
@@ -36263,12 +28357,6 @@ p — ^
 4=
 
 
-No.  124  (Bull.  53)
-
-
-(Catalogue  No.  436)
-
-
 !:p:    :f:    fz    :*-    :f:    :£     :•:
 
 -•-    -•-    -•-      -•-•    -•-  -•- 1
@@ -36277,20 +28365,14 @@ No.  124  (Bull.  53)
 
 =2=h|^-^^-«^^^^-—
 
-3
 
 Rhythmic  Units  of  Sonos  for  the  Entertainment  of  Children  ^
-
-No.  197   (Bull.  45)  (Catalogue  No.  272)
 
 
 &:
 
 
 :^=S:
-
-
-No.  127   (Bull.  53)
 
 
 ^=s:
@@ -36303,15 +28385,6 @@ _p_^
 
 
 ;^-=t=^
-
-
-(Catalogue  No.  447)
-
-
-No.  180  (Bull.  53)
-
-
-(Catalogue  No.  449)
 
 
 m^
@@ -36331,8 +28404,6 @@ i==
 
 Rhythmic  Units  of  Unclassified  Songs  ^
 
-No.  146  (Bull.  45)  (Catalogue  No.  105)
-
 
 §g^S=£^
 
@@ -36346,10 +28417,6 @@ I  See  pp.  49,  hi.
 DBNSMoriE]
 
 
-CHIPPEWA    MUSIC II
-
-No.  147  (Bull.  45)
-
 r -1
 
 
@@ -36359,39 +28426,13 @@ mz
 -p~
 
 
-331
-
-(Catalogue  No.  109)
-
-
-No.  192  (Bull.  45)
-
-
 r:r7
 
 
 m^i^
 
 
-(Catalogue  No.  160)
-
-
-No.  194  (Bull.  45)
-
-
-No.  195  (Bull.  45)
-
-
-(Catalogue  No.  164)
-
-
 :5xS=^£^f:
-
-
-No.  67  (Bull.  53)
-
-
-(Catalogue  No.  428)
 
 
 --^
@@ -36405,19 +28446,10 @@ No.  G8   (Bull.  53)
 r"
 
 
-(Catalogue  No.  429)
-
-
 ^iii^^^3^^^^EE
 
 
 i=i=d:
-
-
-No.  119  (Bull.  53)
-
-
-(Catalogue  No.  404)
 
 
 ~s
@@ -36441,9 +28473,6 @@ Srprzt
 ^No.  120  (Bull.  53)
 
 
-(Catalogue  No.  405)
-
-
 y- ^ ^_
 
 
@@ -36451,9 +28480,6 @@ E^St:
 
 
 =t=zt:t
-
-
-332
 
 
 BUREAU    OF    AMP:RICAN    ETllNOJ.OOY  [bull.  5?
@@ -36488,9 +28514,6 @@ No.  121  (Bull.  53)  (Catalogue  No.  4i:5)
 2=S^t=p
 
 
-No.  122   (Bull.  53)
-
-
 Fi
 
 
@@ -36503,12 +28526,6 @@ Fi
 i^£tEE3
 
 
-(Catalogue  No.  414)
-
-
-No.  165   (Bull.  53)
-
-
 r
 
 
@@ -36518,24 +28535,10 @@ r
 ^S^i
 
 
-(Catalogue  No.  294)
-
-
-No.  166  (Bull.  53)
-
 I \
 
 
 mi^
-
-
-(Catalogue  No.  316)
-
-
-No.  167   (Bull.  53)
-
-
-(Catalogue  No.  297)
 
 
 S||^^^:f^^=^
@@ -36547,12 +28550,7 @@ S||^^^:f^^=^
 i-iiz!!rb^ii:
 
 
-No.  168  (Bull.  53)
-
 I
-
-
-(Catalogue  No.  2(58)
 
 
 :Birfc|3=t
@@ -36582,8 +28580,7 @@ CuLiN,  Stewart.    Indian  games;  in  24th  Rep.  Bur.  Amer.  Ethn.    Washin
 Day,  Charles  R.     Chapter  on  musical  instruments,  in  Mockler-Ferryman,  Up  the
 
 Niger.     London,  1892.
-DoRSEY,  J.  Owen.     Siouan  sociology;   in  15th  Rep.  Bur.  Amer.  Ethn.    Washing-
-ton, 1897.
+DoRSEY,  J.  Owen.     Siouan  sociology;   in  15th  Rep.  Bur.  Amer.  Ethn.    Washington, 1897.
 Ellis,  Alex.  J.     See  Helmholtz.
 Fillmore,   John   Comfort.     Primitive  scales  and  rhythms;  in  Mem.   Int.  Cong.
 
@@ -36592,8 +28589,7 @@ Fletcher,  Alice  C,  aided  by  Francis  La  Flesche.     A  study  of  Omaha  
 
 music.     With  a  report  on  the  structural  peculiarities  of  the  music  by  John
 
-Comfort  Fillmore,  A.  M.     Arch,   and   Ethn.     Papers    Peabody  Mus.,  Har-
-vard Univ.,  vol.  I,  No.  5.     Cambridge,  1893.
+Comfort  Fillmore,  A.  M.     Arch,   and   Ethn.     Papers    Peabody  Mus.,  Harvard Univ.,  vol.  I,  No.  5.     Cambridge,  1893.
 FoLWELL,  W.  W.     Minnesota,  the  North  Star  State.     Boston,  1908.
 Gardiner,  William.     The  music  of  nature.     Boston,  1838.
 GiLMAN,  Benjamin  Ives.     Ilopi  songs.     Boston,  1908.
@@ -36613,9 +28609,7 @@ Ethn.     Washington,  1896.
 .     The  Mide'wiwin  or  "Grand  Medicine  Society"  of  the  Ojibwa;  in  7th  Rep.
 
 Bur.  Amer.  Ethn.     Washington,  1891.
-HoRNBOSTEL,  Erich  M.  VON.     Uber  die  Musik  der  Kubu;  aus  dem  Phonogramm-
-
-archiv  der  psychologischen  Instituts  der  Universitiit  Berlin.    Frankfurt  am  Main,
+HoRNBOSTEL,  Erich  M.  VON.     Uber  die  Musik  der  Kubu;  aus  dem  Phonogrammarchiv  der  psychologischen  Instituts  der  Universitiit  Berlin.    Frankfurt  am  Main,
 
 1908.
 Hrdlicka,   Ales.     Physiological  and  medical  observations  among  the   Indians  of
@@ -36623,8 +28617,6 @@ Hrdlicka,   Ales.     Physiological  and  medical  observations  among  the   In
 southwestern  United  States  and  northern  Mexico.     Bull.  34,  Bur.  Amer.  Ethn.
 
 Washington,  1908.
-
-333
 
 
 334  AUTHORITIES    CITED
@@ -36637,8 +28629,7 @@ Indian  treaties  and  laws  and  regulations  relating  to  Indian  affairs,  c
 and  published  under  orders  of  the  Department  of  War.     Washington,  1826.
 Jackson,  W.  H.     Descriptive  catalogue  of  the  photographs  of  the  United  States
 
-Geological  Survey  of  the  Territories  for  the  years  1869  to  1873,  inclusive.     Wash-
-ington, 1874.
+Geological  Survey  of  the  Territories  for  the  years  1869  to  1873,  inclusive.     Washington, 1874.
 Keating,  Wm.  H.     Narrative  of  an  expedition  to  the  source  of  St.  Peter's  River,
 
 vols.  i-ii.     Philadelphia,  1824.
@@ -36659,8 +28650,7 @@ Ridgway,  R.     See  Baird,  Brewer,  and  Ridgway.
 RiGGS,  S.  R.     Grammar  and  dictionary  of  the  Dakota  language;  in  Smithson.  Contrs.,
 
 vol.  IV.     Washington,  1852.
-Royce,  C.  C.     Indian  land  cessions;  in  18th  Rep.  Bur.  Amer.  Ethn.,  pt.  2.     Washing-
-ton, 1899.
+Royce,  C.  C.     Indian  land  cessions;  in  18th  Rep.  Bur.  Amer.  Ethn.,  pt.  2.     Washington, 1899.
 Schoolcraft,  Henry  R.     Oneo^ta,  or  characteristics  of  the  Red  Race  of  America.
 
 New  York,  1845.
@@ -36675,9 +28665,7 @@ Warren,  William  W.     HLstory  of  the  Ojibways.     St.  Paul,  1885.
 Wead,  Charles  Kasson.     Contribution  to  the  history  of  musical  scales;  in  Rep.
 
 U.  S.  Nat.  Mus.  1900.     Washington,  1902.
-ZoLLNER,  Heinrich.     Eiiiigcs  iiber  sudanesische  Musik;  in  Musikalisches  Wochen-
-
-blatt.     Leipzig,  1885.
+ZoLLNER,  Heinrich.     Eiiiigcs  iiber  sudanesische  Musik;  in  Musikalisches  Wochenblatt.     Leipzig,  1885.
 
 
 IISTDEX
@@ -36810,9 +28798,7 @@ Bellabella  song,  reference  to 12
 
 BJca'ganab,  story  of 131
 
-Bi'jIkSns-
-
-in  Drum-presentation  Ceremony 166,
+Bi'jIkSnsin  Drum-presentation  Ceremony 166,
 
 168,170,171
 
@@ -36858,8 +28844,7 @@ references  to 83, 303
 Ca'wOno  'ga  dance,  descript  ion  of 129
 
 Sec  also  Southern  dance  songs.
-Chippewa  and  Sioux  music,  rhythmic  cor-
-respondence of 11
+Chippewa  and  Sioux  music,  rhythmic  correspondence of 11
 
 Chippewa    language,    words   incorporated
 
@@ -36881,1423 +28866,4 @@ general  nature 17
 
 manner  of  rendition 13-15
 
-335
 
-
-336
-
-
-INDEX
-
-
-Chippewa  songs— Continued.
-
-material
-
-mostly  major  in  tonality
-
-origin
-
-CHIPPEWA,  use  of  term
-
-Chippewa,  warfare  with  Sioux . .  60-61, 70-71
-
-See  also  Warfare.
-Church,    George   Earl,   on  use  of  rattle
-
-among  Pampas  Indians
-
-Clouds—
-
-songs  connected  with
-
-songs  Nos.t2,*131, 150.1.31.
-Compass  of  song,  number  of  tones  compos-
-
-
-Page
-
-2-13
-
-17
-
-15-17
-
-59
-
-, 72-73
-
-
-ma
-
-
-Coon  and  Crawfish,  story  of
-
-Costume,  woman's,  description  of 2i
-
-Crawfish.    See  Coon  and  Crawfish.
-
-Creek  music,  work  on
-
-Cringan,  a  .  T.,  on  rate  of  movement  in  melo-
-dy and  accompaniment
-
-Cross  Lake  Settlement,  Minn.  See  Wa-
-ba'clng.
-
-CuLiN,  Stewart,  on  Indian  games
-
-
-21
-
-305
-
-3-224
-
-
-206
-
-
-207
-
-
-Dakota,  reference  to 70
-
-Dancing  at  Waba'cWg  village....  251-252,284-290
-Day,  Ch.^rles  R.,  on  songs  of  the  Asaba —  7
-
-De'kum,  references  to 121. 122
-
-Division  of  a  count—
-
-in  Chippewa  songs Nos.  *6, 21 ,  *10S,
-
-*110. 117, 119, 131,  152,  153,  157,  159,
-161, 163.
-
-in  Siou.x  songs Nos.  54, 62.
-
-Divorce,  Ceremony  of—
-
-description 162-163
-
-reference  to 149
-
-DjiSgwa'kumigo'kwe,  reference  to 122
-
-Dji'sia'sino'kwe.  reference  to 184
-
-Dog  feast—
-
-description  of 68, 91
-
-feature  of  Drum-presentation  Ceremony. .     150,
-
-173-180
-
-DOR.SEY,  James  Owen,  on  the  Dakota 70
-
-Dream  dance.  See  Drum-presentation  Cere-
-mony.
-
-Dreams,  connection  with  songs
-
-Dream  songs —
-
-as  war  songs 40
-
-close  relationships  of 34
-
-description 37-39
-
-Lac  du  Flambeau  Reservation 198-
-
-203,244-247
-
-reference  to 10
-
-resemblances  to  other  song  groups 52
-
-rhythmic  units 314-317
-
-W'aba'clhg  village.  Red  Lake  Reserva-
-tion   252-278. 288-290
-
-Drum—
-
-as  an  accompaniment 15
-
-for  moccasin  game  songs 41
-
-independent  of  voice 12-13
-
-in  use  at  Waba'cing  village 252
-
-metric  imit 32, 33
-
-origin 143-144
-
-rhythm 10, 29,  41
-
-used  in  war  songs 40
-
-See  also  Drum-presentation  Ceremony.
-
-
-16
-
-
-Drum-presentation  Ceremony—  Page
-
-analysis  of  songs 181-183
-
-Ceremony  of  Divorce 162-16:}
-
-departure  of  Menominee 180
-
-dog  feast 150,17:5-180
-
-drum  party 147-148
-
-drums  presented  in 144-147
-
-"drum  religion" 142-144
-
-journey  of  Menominee 163-165
-
-presentation  of  the  drum 168-173
-
-reception  of  Menominee 164-168
-
-Restoring  the  Mourners 153-162
-
-songs  on  first  day  of  dancing 150
-
-
-Ejaculations,  characteristic  of  certain  songs     103
-
-Engusii,  Mrs.  Mary  Warren—
-
-acknowledgment  to v
-
-on  use  of  scalps 126
-
-reference  to 299
-
-fi'NiwCii'E—
-
-account  of 184
-
-in  Ceremony  of  Restoring  the  Mourners..      153
-
-on  origin  of  gambling 206-207
-
-on  Sioux  custom 228
-
-references  to 204, 205, 223, 294
-
-Entertainment  of  cihldren,  songs  for  the—
-
-description 49-50
-
-Lac  du  Flambeau  Reservation 241
-
-resemblances  to  other  song  groups 57-58
-
-rhythmic  units 330
-
-White  Earth  Reservation 302-305
-
-
-Fast,  boy's,  songs  concerning 204-206
-
-Fasting  essential  to  certain  musical  compo-
-sition         37
-
-Fifth  of  the  scale —
-
-absent  from songs  Nos.  51 ,  52.
-
-occurrence  of 5
-
-Fillmore,  John  Comfort—
-
-cited  as  authority  on  Omaha  music 9
-
-on  Bellabella  Indian  song 12
-
-on  construction  of  Indian  songs 11
-
-First  note  of  song,  relation  to  keynote. . .  18-19
-
-Flag,  use  in  warfare 91, 107
-
-Fletcher,  Auce  C,  cited  as  authority  on
-
-Omaha  music 9
-
-Flute,  description  of 42
-
-Folk-tales,  reference  to 304-.305
-
-Form  of  song,  connection  with  motive  of
-
-song 34
-
-Fourth—
-
-occurrence  of .' 5
-
-prominence  in. songs  Nos.  106, 109, 110, 170
-
-G AGA'GINS,  references  to 123, 127
-
-Gaga'gIwIgwCn', reference  to 91
-
-Gambling,  account  of 206-213
-
-Game  of  silence,  description  of 303-304
-
-Games  of  war,  cliildren's,  description  of. .  137-141
-Gardiner,  William,  on  call  of  plover  and
-
-beetle 7
-
-Gauthier,  Mrs.  Benjamin—
-
-on  women's  dress 223
-
-sketch  of 222
-
-Ga'wit.\yac',  death  of 80
-
-Gegwe'djibi'tOS,  reference  to 252
-
-G e'miwOnac',  reference  to 74
-
-Gift  of  pony,  songs  concerning 237-239
-
-
-INDEX
-
-
-337
-
-
-Gifts,  songs  connected  with —  Page
-
-description 49
-
-resemblances  to  other  song  groups 57
-
-rhythmic  units 329-330
-
-GiLFiLLAN,  Rev.  J.  A. —
-
-acknowledgment  to v
-
-on  name  Meja'kigi'jig 83
-
-on  term  manido' 143
-
-Oilman,  Benjamin  Ives,  cited  as  an  author-
-ity on  Hopi  music 9
-
-GinIc'tano,  reference  to 222
-
-GoKAY,  Frank,  as  an  interpreter 143,165
-
-Gradation  of  tone,  discussion  of 14-15
-
-Gram.    Sec  Stone  and  Gram.
-
-Grand  Medicine  songs.    See  MIde'  songs.
-
-Gwi'wiZANs,  reference  to 1S7
-
-Hand  game,  description  of 206.207
-
-Harmonic  m  structure,  applicable  to  few
-
-songs '. 6
-
-Harmonic  tone,  approach  to  by  tone  above
-songs  Nos.  29,  45,  51,  53,  65,  137,  139,  141.
-
-HARMONnc  UPPER  PARTIAL  TONES,  reference
-to 4
-
-Head  Flier,  reference  to 165
-
-Helmholtz—
-
-cited  as  an  authority 231
-
-on  overtones  and  pentatonic  scales 4-5
-
-on  scales  in  European  notation 14
-
-Hewitt,  J.  N.  B.,  cited  as  an  authority 63
-
-Hoffman,  Walter  James,  M.  D.,  cited  as  an
-authority 66, 142
-
-Hole-in-the-day—
-
-references  to 61 ,  71 . 1 19. 127
-
-song  composed  by 123
-
-Hopi  music,  work  on 9
-
-Hornbostel,  Dr.  Erich  M.  von,  on  rhythm
-of  voice  and  drum 13
-
-Horses,  use  of 186
-
-HrdliCka,  Dr.  Ale§,  acknowledgments  to. .  19,37
-
-Interval-formation  in  various  song  groups.      7-8
-Intervals—
-average-
-in  Chippewa  songs 8
-
-in  songs  connected  with  gifts 49
-
-average  number  of  semitones  in 26
-
-in  downward  and  upward  progression ...        25
-
-in  melody-formation,  feeling  for 7-8
-
-.  of  the  fifth song  No.  86.
-
-of  the  fourth—
-
-in  songs  concerning  animals .  .Nos.  *3,
-
-*21, 23. 28, 64, 82, 85, 95, 96,
-
-97,  103,  104,  147,  180,  *196.
-
-insongsof  motion.  .Nos.  *6,  *9.  *10,  22,
-
-32,  34,  39,  *63,  *86,  *91,  105,  106,  109,
-
-*109,110,111,  121,  *132,  162,  170,174.
-
-Intonations,  faulty—
-
-correction  of songs  Nos.  54,
-
-129, 133, 146, 164.
-
-on  interval  of  a  second,  .songs  Nos.  54,  .55,
-
-61,64,100,145,166.
-
-
-Jackson,  W.  H.,  cited  as  an  authority.
-
-
-Kaga'giwayan',  Chippewa  chief,  reference
-
-to
-
-Keating,  Wiluam  H.,  cited  as  an  authority.
-
-67996°— BuU.  53—13 22
-
-
-61
-
-
-294
-59
-
-
-Key—  Page
-
-meaning  of  term 2-3
-
-tabular  analysis 26-27
-
-Keynote,  determination  of 3-j
-
-Ki'miwOn,  reference  to 2.52
-
-Ki'miwOnana'kwad,  reference  to 2.52
-
-Kingbird,  reference  to 77-78
-
-Ki'ose'wini'ni,  on  moccasin  game 211
-
-KI'tciodja'nimwewegi'jIg,    medicine    pole
-
-of 249-250
-
-KWAKIUTL  MUSIC,  work  on 9
-
-Lac  du  Flambeau  Chippewa—
-
-Ceremony  of  Restoring  the  Mourners 153
-
-on  origin  of  drum 144
-
-references  to 142, 143
-
-Lac  du  Flambeau  Reservation,  Wis. —
-
-description 184
-
-folk-tales 304
-
-songs  of —
-
-analysis 242-247
-
-begging  dance  songs 228-233
-
-dream  songs 198-215
-
-interval-formation 7-8
-
-love  songs 216-228
-
-moccasin  game  songs 239-241
-
-song  for  entertainment  of  children. . .      241
-
-songs  concerning  gift  of  pony 237-239
-
-southern  dance  songs 234-237
-
-war  songs 185-198
-
-symbols  of  songs  never  sung 247-250
-
-See  aluo  Lac  du  Flambeau  Chippewa.
-La  Flesche,  Francis,  cited  as  an  authority
-
-on  Omaha  nmsic 9
-
-Lahousse,  reference  to 10
-
-La  Pointe  Agency,  Wis.,  reference  to 184
-
-Last  note  of  song,  relation  to-
-compass  of  song 20
-
-keynote 19
-
-Leech  Lake  Reservation,  dog  feast  on. .  173-180
-
-Little  Carp,  death  of 113
-
-Little  Corn,  reference  to 1 13
-
-Little  Crow,  references  to 123, 127
-
-Little  Eagle,  reference  to 91
-
-Little  Six,  reference  to 127
-
-Love  songs—
-
-accidentals  in 6
-
-description 16, 17,41-43
-
-Lac  du  Flambeau  Reservation 216-228,
-
-244-247
-
-resemblances  to  other  song  groups 53-54
-
-rhythmic  units 325-327
-
-Waba'cliig  village 280-282, 288-290
-
-White  Earth  Reservation 299-301
-
-words  of 2
-
-Ma'djigi'jIg —
-
-on  Chippewa  war  charm 77
-
-on  training  of  young  warriors 84-86
-
-reference  to 60
-
-MaiS'gans—
-
-on  herb  bi'jikiwflck' 63-64, 65
-
-reference  to 60
-
-Manda'mInSs,  reference  to 1 13
-
-Manido'—
-
-ca'wtlno'ga  taught  by 129
-
-connection  with  origin  of  drum 144
-
-explanation  of  term 143
-
-
-338
-
-
-INDEX
-
-
-Manido' — ConlLnued.  Page
-
-gambling  taught  by 207
-
-in   connection   with   Drum-presentation
-
-Ceremony 166
-
-in  form  of  thunderbirds 198
-
-Ma'nItowIc'Rand  of  Chippewa,  reference  to.      222
-
-Maple  sugar,  reference  to 231-232
-
-Marsden,  William,  on  Sumatran  music 7
-
-Meaningless  syllables,  use  of 13
-
-Measure-lengths,  determined  by  accents. .        15
-
-Mec'kawiga'bau—
-
-on  Drum-presentation  Ceremony 146
-
-references  to 148, 173, 179, 184
-
-Medicine—
-
-manido' animal  as 143
-
-principal  kinds 63-67
-
-songs  connected  with 15, 35
-
-songs  Nos.  6,  21,  22,  23,   24,  25,  20,
-27,  28,  32,36,141,142,143.
-use  in  warfare 91, 98, 99, 102-103, 107, 112
-
-Medicine-men,  treatment  of  sick  by 263-264
-
-Medicine  poles,  description  of 247-250
-
-Me'dweya'sOn—
-
-dnim  presented  by 146
-
-medicine  poles  connected  with 249
-
-Mee,  Mrs.  Charles,  acknowledgment  to...      300
-
-Meja'kigi'jIg—
-
-personal  reminiscences  of 83-84
-
-reference  to 60
-
-Melodic  resemblances  between  song  groups  60-58
-
-Memen'gwa,  reference  to 179
-
-Menominee,  references  to 142, 143
-
-See  also  Drum-presentation  Ceremony.
-
-Metric  unit—
-
-in  songs  of  controlled  excitement 12
-
-songs  Nos.  30,  51,  52,  103,  161.
-
-of  drum,  tabular  analysis 33
-
-of  voice,  tabular  analysis 30-31, 33
-
-MIde'—
-
-description 142
-
-manido'  connected  with 143
-
-MIde' songs-
-
-description 16, 34-36
-
-ejaculations  in 103
-
-meaningless  syllables 13
-
-reference  to 10
-
-reference  to  water 17
-
-resemblances  to  other  song  groups 51-52
-
-rests  in 15
-
-rhythmic  units 309-314
-
-sadness  and  sickness  elements  in 17
-
-use  of  rattle  in 15
-
-Waba'cing  village 278-280, 288-290
-
-AVhite  Earth  Reservation 297-299
-
-words  of 2
-
-MIde'wigi'jIg,  reference  to 185
-
-MIde'wIwIn-
-
-ceremonies 184
-
-conditions  at  Waba'cing 251
-
-status  of 34
-
-Mi'gIsIns',  reference  to 91
-
-Minor  third—
-
-average  interval  in  Chippewa  songs 8
-
-descending,  in  moccasin  game  songs 44
-
-frequency  of 6-7
-
-in  dream  songs ; 39
-
-in  love  songs 43
-
-
-Minor  third- Continued.  Page
-
-prominence  in  songs  of  major  tonality . . .
-songs  Nos.  140, 141, 151, 161, 163.
-Minor  third  and  fourth,  only  tones  in
-
-songs  Nos.  11,*157,  171.
-Minor  triad  and  minor  seventh,  in  songs
-
-Nos.  133,  147,  151,  152,  153,  154,  163.
-Mississippi  Band  of  Chippewa,  references  to . .  89, 91
-
-Moccasin  game,  description  of 207, 210-213
-
-Moccasin  game  songs—
-
-description 17,44-45
-
-I>ac  du  Flambeau  Reservation 239-241
-
-proportion  minor  in  tonality 17
-
-resemblances  to  other  song  groups 54-55
-
-rhythmic  units 327-328
-
-Waba'cing  village 282-284, 288-290
-
-White  Earth  Reservation 299
-
-Mo'KADJiwfiNs',  reference  to 73
-
-Mooney,  James,  acknowledgment  to 37
-
-Motion,  characteristic  of  certain  songs 100
-
-Motive  of  song,  connection  with  form  of
-
-song 34
-
-Murray  Island,  songs  of 5, 20
-
-Myers,  Dr.  C.  S.—
-
-on  rhythm  of  voice  and  <irum 13
-
-on  songs  of  Murray  Islanders 5, 20
-
-on  words  of  primitive  songs 2
-
-Na'ganac',  references  to 165, 167
-
-NAME'BiNES',  death  of 113
-
-Na'Ogade',  Winnebago  chief,  reference  to. . .      294
-Narcotic  stimulants,  influence  on  musical
-
-composil  ion 37
-
-Na'waji'bigo'kwe—
-
-on  certain  medicinal  herb 65-66
-
-on  Chippewa  belief  in  spirits 143
-
-on  origin  of  ca'wtino'ga 129
-
-reference  to 60
-
-Niski'gwOn—
-
-on  incident  of  warjjath 112
-
-references  to 60, 78-79
-
-No'DiN,  reference  to 75
-
-Octave—
-
-complete    except    seventh    and    fourth,
-
-songs  so  classified 5-6
-
-diatonic,  occurrence  of 5
-
-Odja'nimwewe'gijIgons'.    See     White
-
-Feather.
-OdjIb'we—
-
-account  of 59-60, 62, 112, 121, 123
-
-incidents  of  wari)ath  narrated  by 116, 124
-
-on  Battle  of  Shakopee 79-80
-
-on  children's  games  of  war 137,139
-
-on  making  of  peace 126, 127
-
-on  war  customs 98, 108, 110, 118
-
-songs  in  honor  of 121, 122
-
-war  songs  of 7-8
-
-OgIma'wCdjiweb',  reference  to 109
-
-Ojibway,  derivation  of  name 59
-
-Oldys,  Henry,  on  the  kingbird 77-78
-
-Omaha  music,  work  on 9
-
-OmIskwa'wegi'jIgo'kwe,  reference  to 110
-
-Overtones,  meaning  of  term 4
-
-Peace  pact,  songs  of  the 126-130
-
-Periods,  song  in  four songs  Nos.  1 ,
-
-8,12,13,30,39,40,81,105.
-
-
-INDEX
-
-
-839
-
-
-Page
-
-Phonographic  recording,  acfiuacy  in. ... .         s
-Phrases,  order  of  changed  in  repetition  of
-
-songs songs  Nos.  90,  inf).
-
-Pipe  -
-
-in  connection  with  peace  pact 127, 128
-
-in  "drum  religion" 143
-
-in  songs  Nos.  *(i,  11,  *20, 45, 50, 171.172, 173.
-
-use  by  war  leader 94
-
-use  in  Drum-presentation  Ceremony...     140,
-147.16(),  It)8-1(;9
-
-Pipe  dance,  description  of 293-294
-
-Pipe  dance  songs—
-
-description 4S
-
-resemblances  to  other  song  groups 5(i
-
-rhythmic  units 329
-
-White  p:arth  Reservation 293-296
-
-Plate  game,  description  of 200, 207
-
-Prairie  du  Chien,  Treaty  of 01
-
-Primitive  music —
-
-interval  of  minor  third  in 7
-
-rhythms  of 13
-
-Progressions —
-
-downward  and  upward 24-25
-
-upward —
-
-none  in  song  No.  fi.
-
-of  an  octave,  in  songs  Nos.  9,  31,  53,
-
-125,  *170,  *174.
-one  in  song  No.  *109.
-two  in  songs  Nos.  *(i,  *3S,  172.
-
-Ramsey,    Gov.    Alexander,    cited    as   an
-
-authority 59
-
-Rattle—
-
-as  an  accompaniment 15
-
-reference  to 34
-
-use  on  warpath 94
-
-Red  Lake  Reservation,  stories  from 304
-
-Restoring  the  Mourners,  description  of
-
-■     ceremony 149,153-162
-
-Rests,  occurrence  of 15
-
-songs  Nos.  *3,  *fi,  *7,   *69,   *78,  *83,  86,
-*129, *137, *148, *152, *164, 171.
-Rhythm—
-
-of  drum 10, 29, 41
-
-of  first  measure 9, 28
-
-more  uniform  than  melody 1-2
-
-Rhythmic    resemblances    between    sons;
-
-groups .50-58
-
-Rhythmic  unit —
-
-as  basis  for  rhythm  of  song  in  separated
-
-phrases  or  with  change  of  accent
-
-songs  Nos.  90, 94. 90, 103, 108, 109, 1 15. 123.
-
-continuous  e.xcept  at  close  of  song,  .songs
-
-Nos.  4, 5, 19,  .33, 34.
-
-definition 10, 31
-
-in  groups  of  Chippewa  songs —
-
-begging  dance  songs 329
-
-dream  songs 314-317
-
-love  songs 325-327
-
-MIde'  songs 309-314
-
-moccasin  gam.e  songs 327-328
-
-pipe  dance  songs 329
-
-songs  connected  with  gifts 329-330
-
-songs  for  entertainment  of  children . .      330
-
-tabular  analysis 30
-
-unclassified  songs 330-332
-
-
-Page
-Rhythmic  unit— Continued.
-
-in  groups  of  Chippewa  songs— Continued.
-
-war  songs 31S-325
-
-woman's  dance  songs :j2S
-
-maimer  of  use 10-11
-
-occurrence  in  Chippewa  song^ U
-
-same  in  Sioux  songs  Nos.  73,  77.
-three  units  in  song  No.  157.
-two  units  in  songs  Nos.  17,  47,  73,  74,  121,
-128.
-
-Richet,  Ch.,  reference  to lo
-
-Rock  Sioux.  See  Assinibotn.
-Roger.  Sfe  Barth  and  Roger.
-Rose,  Dr.  J.  N.,  on  certain  medicinal  herbs..       64
-
-"Salt  Treaty,"  reference  to 291
-
-Scale—
-
-diatonic     minor,     lacking    fourth     and
-
-seventh songs  Nos.  83,
-
-125,*178,*184.
-five-toned —
-
-extent  of  use 4-5
-
-fifth songs  Nos.  51, 52.
-
-first song  No.  116.
-
-fourth songs  Nos.  3, 6, 8, 16,
-
-18, 19,  21,  22,  23,  20, 31, 40, 41, 42,
-45,  47,  03,  66,  68,  80,  81,  86,  87, 98,
-101, 117, 127, 128, 129, 1.30, 131, 1,32,
-135, 140, 142, 140, 147, 148, 149, 150,
-151, 152, 154, 1.59, 162, 163, 105, 160.
-
-least  frequent  in  love  songs'. . 43
-
-second 44
-
-songs  Nos.  1,  17,  24,  30,  34,  44,  82,
-89, 92, 97, lOS, 109, 122, 164.
-Scalp  dance.    Ser  Victory  dance.
-Scalping—
-
-customs  connected  with 62
-
-in  connection  with  women HO
-
-Scalps —
-
-in  victory  dance 1  IS.  121
-
-treatment  of 126
-
-Schoolcraft,  H.  R.,  cited  as  to  plate  game. .      207
-
-Second  of  the  scale,  occurrence  of 5
-
-Se.mitones,  average  number  in  each  interval.        26
-
-Seventh  of  the  scale,  occurrence  of 5
-
-Shakopee,  r.\ttle  of 61.70-77,79-80
-
-Shell,  emlilem  of  MIde'wIwin 17
-
-Signs  used  in  transcription  of  songs xix-xx,  14
-
-Singers,  names  of xy.i
-
-Sioux—
-
-authors  of  "drum  religion" 142. 143, 144
-
-custom  with  regard  to  ch  ildren 228
-
-dog  feast  received  from 173
-
-lack  of  horses  among 186
-
-vibrato  used  l)y 13
-
-warfare  with  Chippewa 60-Cl,  70-7 1 .  72-73
-
-See  also  Assiniboin,  Dakota,  Warfare.
-Sioux  songs —
-
-containing  same  rhythmic  unit
-
-songs  Nos.  73,77.
-
-division  of  a  count songs  Nos.  54. 62 .
-
-two  rhythmic  units songs  Nos.  73. 74 .
-
-Sixth—
-
-lowered  a  semitone
-
-songsNos.7,8. 19,22.41,  lOI,  1,56.  160.
-occurrence  of 5,6
-
-
-340
-
-
-INDEX
-
-
-Page
-Sky,  songs  connected  with  the 16
-
-songs  Nos.  7,  25,  *46,  *64,  *83,  *97,  *115,
-*116,  *117,  140,  145,  148,  *148,  152,  *l(i2,
-*193,  *194.
-
-Song  groups,  resemblances  between 50- J8
-
-Songs,  lis  t  of xi-xix
-
-Southern  dance  songs,  Lac  du  Flambeau
-
-Reservation 234-237
-
-See  also  Ca'wiino'ga.
-Spears,  Mrs.  Julli  Warren,  sketch  of. . .  299-300
-Speck,  Frank  G.,  as  authority  on  Creek  and
-
-Yuchi  music 9
-
-Stone,  Wither,  and  M'^ilmam  Gram,  cited
-
-as  an  authority 63
-
-Structure  of  songs,  tabular  analysis 24
-
-Sudanese  music,  work  on 9
-
-Sun  dance,  reference  to 205
-
-Supernatural  power—
-
-as  an  element  in  Mlde'  songs 17, 35
-
-in  connection  with  Chippewa  songs..  15-16,37
-
-Syncopations
-
-songs  Nos.  47,88,*123,*147,*152.
-
-Tempo—
-
-change  of 29
-
-of  drum  in  relation  to  voice songs
-
-Nos.  *5, 100-101, 103-104, 121-122, 168.
-Third  of  the  scale—
-
-absent  from  songs  Nos.  28,  *45,  *49,  53,  *60,
-*91, 112, 113, 121, 178, ISO.
-
-occurrence  of 5
-
-Thunderbirds,  references  to 198, 248
-
-Time.    See  Tempo.
-Tonality—
-major-
-in  various  groups  of  songs 35
-
-minor  third  prominent songs
-
-Nos.  140,141,151,161,163.
-
-meaning  of  term 3
-
-minor-
-beginning  with  a  major  third.,  songs
-Nos.  1,9, 34, 83, 94, 120.
-
-in  woman's  dance  songs 46
-
-semitone  between  7  and  8 songs
-
-Nos.  36,*79,100,119.
-
-songs  containing  large  proportion  of
-
-major  thirds . .  songs  Nos.  29, 83, 99.
-
-whole  tone  between  7  and  8. . .  songs
-
-Nos.  9,  *19, 50, 85, 100,
-
-119,   124,  *126,   *1.50.
-
-tabular  analysis 1^
-
-Tone  material,  tabular  analysis  of 21-23
-
-Tonic,  more  prominent  in  middle  than  at  end
-
-of  song songs
-
-Nos.  135, 137,  139, 140, 141, 142, 165.
-Torrance,  Rev.  G.  W.,  on  songs  of  Austra-
-lian aborigines ~
-
-Unclassified  songs,  group  of 50
-
-Vibrato,  use  of 13
-
-Victory  dance  —
-
-description I'-l
-
-drum-rhythm 41
-
-scalps  in 118
-
-Vocables,  use  of 13
-
-
-Voice—  Page
-
-independent  of  drum 12-13
-
-metric  unit 30-31,33
-
-woman's,  register  of 103
-
-Waba'ca,  Sioux  chief,  reference  to 294
-
-Waba'cISg  village.  Red  Lake  Reservation —
-
-conditions  at 251-252
-
-songs  of—
-
-dance  songs 284-290
-
-dream  songs 252-278, 288-290
-
-interval-formation  in 7-8
-
-love  songs 280-282, 288-290
-
-Mlde'  songs 278-280, 288-290
-
-moccasin  game  songs 282-284, 288-290
-
-Wa'bac6ns',  reference  to 127
-
-Wa'bejic',  reference  to 127
-
-War  charm,  description  of 77-78, 107
-
-War  decorations,  description  of 62-63
-
-War  drum,  description  of 02
-
-Warfare  between  Chippewa  and  Sioux-
-account  of 79-80
-
-incidents  of 85-86, 113, 123, 124, 131, 132, 133
-
-care  of  wounded 106-107
-
-children's  games  of  war 137-141
-
-dream  songs  used  in 252-253
-
-on  the  warpath 94-117
-
-organization  of  war  party 87-94
-
-peace  pacts 126-130
-
-return  of  victorious  war  party 118-126
-
-Warren,  Richard,  reference  to 300
-
-Warren,  Willlam  W. —
-
-cited  as  an  authority 59, 108
-
-reference  to '299
-
-Warriors,  training  of 84-86
-
-War  songs—
-
-close  relationships  of 34
-
-connected  with  organization  of  war  party.  87-94
-
-description 17, 40-41
-
-expressing  derision songs  Nos.  14, 38.
-
-Lac  du  Flambeau  Reservation. .  185-198, 244r-247
-
-reference  to 10
-
-resemblances  to  other  song  groups 53
-
-rhythmic  units 318-325
-
-songs  concerning  women 130-134
-
-songs  of  the  warpath 94-1 17
-
-songs  on  return  of  victorious  war  party .  118-126
-White  Earth  Reservation,  analysis  of. .  134-137
-
-words  of ■- 2
-
-W asi'kwade',  Chippewa  chief,  reference  to . .      294
-
-Water,  songs  connected  with 16, 17
-
-songs  Nos.  9,  *'27,  *'28,  *29,  *30,  *31,  *32,
-*33,  43,  *54,  101.
-
-Wavering  tone,  use  of 13
-
-Wead,  Charles  Kasson—
-
-acknowledgment  to 19
-
-work  by  cited 42
-
-Weasel,  reference  to 63
-
-White  Earth  Reservation—
-
-analysis  of  songs 30f)-308
-
-love  songs 299-301
-
-Mlde'  songs 297-299
-
-miscellaneous  songs 291-293
-
-moccasin  game  song 299
-
-pipe  dance  songs 293-296
-
-songs  for  entertainment  of  children 302-305
-
-
-INDEX
-
-
-341
-
-
-White  Feather—  Page
-
-in  Ceremony  of  Restoring  the  Mourners. .     151-
-
-155, 157
-in  Drum-presentation  Ceremony 165-166
-
-Willpower songs  Nos.  83,  114.
-
-Wind,  songs  connected  with  the 16
-
-songs  Nos.  19,  *112,  *113,  149.
-
-Wis'kIno —
-
-dram  presented  to 145
-
-in  Drum-presentation  Ceremony 166, 167,
-
-168, 170, 171
-
-Menominee  received  by 165-168
-
-on  "dram  religion" 143
-
-Woman's  dance,  description 38, 284
-
-Woman's  d.\nce  songs—
-
-description 4.5-46
-
-resemblances  to  other  song  groups 55
-
-rhythmic  units 328
-
-
-Women—  Page
-
-members  of  dram  party 147
-
-part  in  warfare 93.110,113,118,128,131
-
-songscomposed  or  sung  by.. songs  Nos.  31,
-39,40,112,127,151,177,178.
-
-style  of  dress 223-224
-
-war  songs  concerning 130-134
-
-Words  incorporated  into  Chippewa 76,
-
-186, 190, 230
-
-Words  of  songs  changed  to  "fit"  music. . .  90, 109,
-
-111,113,131,133
-
-YuCHi  MUSIC,  work  on 9
-
-
-Zollner,  Heinrich,  as  authority  on  Sudan-
-ese music 9
-
-ZoN'GAXtM'lG,  reference  to 12
-
-
-o
-
-
-2ttZ
-
-
-O'
-
-
-4y       ^^   .
-
-
-■^^  .<^     ♦iMA'-o   "^^  ♦^    *^
-
-
-^•/     \/^^\/    V^^*/    \/^^\/
-
-
-'^^

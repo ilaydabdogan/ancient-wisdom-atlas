@@ -1,387 +1,4 @@
 # The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King, the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East, Vol. 3)
-
-CONTENTS.
-
-
-PAGB
-
-Preface " xiii
-
-
-THE SRtJ.
-
-Introduction.
-
-CHAP.
-
-I. The Nature and History of the ShCt , . . . i
-
-Meaning of the name Shu King. The Shu existed as a
-collection of documents before Confucius. Number of
-documents in it in his time. The Preface ascribed to him.
-The sources of the Shu. Destruction of the classical literature by the emperor of K'Mn. Recovery of the Shu.
-
-II. The Credibility of the Records in the ShC . . 12
-Are the records reliable or not .'' The Books of A'au ; of
-
-Shang ; of Hsia. The Books of Thang and Yii are professedly
-later compilations ; legendary ; based on ancient documents.
-The Tribute of Yii. Yao, Shun, and Yii are all historical
-personages.
-
-III. On the Chronology of China, and the Principal
-
-Eras in the Shx) 20
-
-No detailed chronological system can be made out from
-the Shu. Attempts at systematic chronology began in the
-Han period. Ancient method of determining the length of
-Chinese history. The period of the A'au dynasty ; of the
-Shang ; of the Hsia ; of Yio and Shun.
-
-A Chart by the Rev. Professor Pritchard, representing
-the principal zodiacal stars above the horizon of any place in
-central China, about the year B. c. 2300 ; with note, and table
-of the apparent positions of the principal stars in B. C. 2300,
-B.C. 1500, a.d. I, A. d. iooo, and a. d. 1878 . . . 27-30
-
-Part I. The Book of Thang.
-The Canon of Yao 3'
-
-
-Vlll
-
-
-CONTENTS.
-
-
-Part II. The Books of Yii.
-
-BOOK ^^^^
-
-1. The Canon of Shun • -37
-
-2. The Counsels of the Great Yii 46
-
-3. The Counsels of Kao-yao 53
-
-4. The Yi and A"! 56
-
-
-Part III.
-I, The Tribute of Yii.
-
-
-The Books of Hsia.
-
-
-Section i .
-
-2. The Speech at Kan
-
-3. The Songs of the Five Sons
-
-4. The Punitive Expedition of Yin
-
-
-Part IV. The Books of Shang.
-
-
-1. The Speech of Thang , . .
-
-2. The Announcement of isTung-hui .
-
-3. The Announcement of Thang
-
-4. The Instructions of i .
-
-5. The Thai KiL Section i
-
-,, „ ii
-
-„ „ iii . .
-
-6. The Common Possession of Pure Virtue
-
-7. The Pan-kang. Section i
-
-» ii • •
-
-« iii
-
-
-8. The Charge to Yiieh. Section i
-
-
-9. The Day of the Supplementary Sacrifice
-
-10. The Chief of the West's Conquest of Li
-
-11. The Count of Wei ....
-
-
-to Kao 3ung
-
-
-III
-
-
-Part V. The Books of Kav.
-I. The Great Declaration. Section i
-
-
-The Speech at Mu .
-
-The Successful Completion of the War
-
-The Great Plan
-
-The Hounds of Lii .
-The Metal-bound Coffer
-
-
-CONTENTS.
-
-
-IX
-
-
-7. The Great Announcement .
-
-8. The Charge to the Count of Wei
-
-9. The Announcement to the Prince of Khang
-
-10. The Announcement about Drunkenness
-
-11. The Timber of the Rottlera
-
-12. The Announcement of the Duke of Shao
-
-13. The Announcement concerning Lo
-
-14. The Numerous Officers
-
-15. Against Luxurious Ease
-
-16. The Prince Shih ....
-
-17. The Charge to A'ung of 3hai
-
-18. The Numerous Regions
-
-19. The EstabHshment of Government
-
-20. The Officers of A'au .
-
-21. The A^iin-zt/ian ....
-
-22. The Testamentary Charge .
-
-23. The Announcement of King Khang
-
-24. The Charge to the Duke of Pi .
-
-25. The A'iin-ya ....
-
-26. The Charge to A'y^iung
-
-27. The Marquis of Lii on Punishments
-
-28. The Charge to the Marquis Wan
-
-29. The Speech at Pi
-
-30. The Speech of the Marquis of KK\x\
-
-
-PAGE
-
-
-THE SHIH.
-
-Introduction.
-
-CHAP.
-
-I. The Name and Contents of the Shih
-
-The meaning of the character Shih. The contents. Only
-the pieces of the fourth Part have professedly a religious
-character. Classification of the pieces from their form and
-style.
-
-
-II. The Shih before Confucius, and what, if any, were
-his Labours upon it 280
-
-Statement of Sze-ma A7/ien ; in the Records of the Sui
-Dynasty; of A'u Hsi. View of the author. Groundlessness
-of AVnen's statement. What Confucius did for the Shih.
-
-
-CONTENTS.
-
-
-III. The Shih from the Time of Confucius till the
-
-General Acknowledgment of the Present Text 285
-
-From Confucius to the rise of the KKm. dynasty. The Shih
-was all recovered after the fires of Khm. Three different
-texts :— of Lu ; of Kh\ ; of Han Ying. The text of Mao.
-
-IV. The Formation of the Collection of the Shih;
-
-HOW IT came to be SO SMALL AND INCOMPLETE; THE
-
-Interpretation and Authors of the Pieces ; one
-Point of Time certainly indicated in it ; and
-THE Confucian Preface 290
-
-The theory of the Chinese scholars about a collection of
-poems for governmental purposes. The music-master of the
-king got the odes of each state from its music-master ; and
-the collected poems were disseminated throughout the states.
-How the Shih is so small and incomplete. The authors of the
-pieces. The year B. c. 776 clearly indicated. The Preface
-to the Shih.
-
-
-Odes of the Temple and the Altar.
-
-1, The Sacrificial Odes of Shang
-
-2. The Sacrificial Odes of A'au. Decade i
-n
-iii
-
-
-3. The Praise Odes of Lu
-
-
-The Minor Odes of the Kingdom.
-
-Decade i. Odes 5, 6, 9 347
-
-iv. Odes 5, 6, 7, 8, 9, 10 349
-
-V. Odes I, 2, 3, 4, 6, 9 358
-
-vi. Odes 3, 5, 6, 7, 8 3^4
-
-vii. Odes i, 6 373
-
-viii. Ode 5 V^
-
-
-The Major Odes of the Kingdom.
-
-Decade i. Odes i, 2, 3, 4, 5, 6, 7, 9, 10
-„ ii. Odes i, 2, 3, 4, 5, 8, 9, 10 .
-„ iii. Odes i, 2, 3, 4, 5, 6, 7, 8, 10, 1 1 .
-
-
-Lessons from the States.
-
-Book 2. Odes 2, 4 . 43°
-
-„ 3. Odes 4, 15 433
-
-„ 4. Odes I, 3, 6 434
-
-
-CONTENTS. XI
-
-
-PAGE
-
-Book 5. Ode 4 437
-
-„ 6. Odes I, 9 438
-
-„ 10. Odes 8, II 440
-
-„ II. Ode 6 442
-
-„ 15. Ode I 444
-
-
-THE HSIAO.
-
-Introduction.
-
-CHAP.
-
-I. The Name of the Classic ; its Existence before the
-
-Han Dynasty ; its Contents, and by whom it was
-
-WRITTEN 449
-
-Meaning of the character Hsiao. Was the treatise called
-the Hsiao King by Confucius? It existed before the Han
-dynasty during the time of the A'au. It came, probably, from
-the school of 3ang-5ze.
-
-II. The Recovery of the Hsiao under the Han
-
-Dynasty, and its Preservation down to the
-Publication of the Commentary of the Thang
-Emperor Hsuan Bung 45^
-
-Recovery of the Hsiao. The shorter or modern text. The
-old or longer text. Was another copy in the old text discovered ? Can we fully rely on the copies catalogued by Liu
-Hin? From Khung An-kwo to the emperor Hsuan 3ung.
-The emperor's work. Hsing Ping's work.
-
-III. Criticism of the Hsiao since the Thang Dynasty 458
-Works on the old text by Sze-m£ Kwang and Fan 3u-yu.
-
-Sceptical criticism ;— views oi Kn Hsi and Wu A7;ang. Conclusion regarding the genuineness and integrity of the Hsiao.
-Note on the translation.
-
-
-1. The Scope and Meaning of the Treatise .
-
-2. Filial Piety in the Son of Heaven
-
-3. Filial Piety in the Princes of States .
-
-4. Filial Piety in High Ministers and Great Officers
-
-5. Filial Piety in Inferior Officers ....
-
-6. Filial Piety in the Common People .
-
-7. Filial Piety in Relation to the Three Powers .
-
-
-Xll CONTENTS.
-
-
-Filial Piety in Government
-
-The Government of the Sages
-
-An Orderly Description of the Acts of Filial Piety .
-Filial Piety in Relation to the Five Punishments
-Amplification of ' the All-embracing Rule of Conduct ' in
-
-Chapter I
-
-Amplification of 'the Perfect Virtue' in Chapter I
-Amplification of 'Making our Name Famous' in Chapter I
-Filial Piety in Relation to Reproof and Remonstrance
-The Influence of Filial Piety and the Response to it
-The Service of the Ruler ......
-
-Filial Piety in Mourning for Parents ....
-
-
-Transliteration of Oriental Alphabets adopted for the Translations of the Sacred Books of the East .... 489
-
-
 PREFACE.
 
 
@@ -1174,9 +791,6 @@ is now, that it was not written by the sage. I entirely
 B 2
 
 
-4 THE SHtj KING.
-
-
 agree myself with the judgment of ^hki Khd^rv, the disciple
 of K\X Hsi, whose Collected Comments, first published
 A. D. I2IO, are now the standard of orthodoxy in the interpretation of the Shu. He says of the document : ' It
@@ -1473,8 +1087,7 @@ place by Fu ; but the additional ones found by Khung Ankwo are so much more easi
 wonder that the charge of not being genuine has been
 raised against them. But even they are not easy. They
 only appear to be so, when we come to one of them, after
-toiling through some of the more contorted portions common to both texts. And, moreover, the style of the dif-
-ferent books differs according to their subjects. The
+toiling through some of the more contorted portions common to both texts. And, moreover, the style of the different books differs according to their subjects. The
 'Announcements' are the hardest to understand of all.
 The ' Charges,' ' Speeches,' and ' Instructions ' are much
 simpler in their construction ; and the portions which we
@@ -1509,8 +1122,7 @@ Confucius.
 Chapter II.
 The Credibility of the Records in the Shu.
 
-1. Accepting the conclusion which I have stated immediately above, I now go on to enquire whether the docu-
-v\'hether the r^cnts in the Shu can be relied on as genuine
+1. Accepting the conclusion which I have stated immediately above, I now go on to enquire whether the docuv\'hether the r^cnts in the Shu can be relied on as genuine
 records in narratives of the transactions which they prothe Shu r 1 A
 
 are reliable less to relate. And it may be said at once,
@@ -1529,8 +1141,7 @@ are they to be relied on. And provision was made, we have
 seen, by the statutes of /i au, for the preservation of the
 records of previous dynasties. But it was not to be expected that many of those should not perish in the lapse
 of time, and others suffer mutilations and corruptions.
-And this, we find, was the case. Of the eighty-one documents that the Shu at one time contained, only one be-
-longed to the period of Yao ; seven to the period of Shun ;
+And this, we find, was the case. Of the eighty-one documents that the Shu at one time contained, only one belonged to the period of Yao ; seven to the period of Shun ;
 four to the dynasty of Hsia, much the larger one of which
 narrates what was done in the time of Yao ; thirty-one to
 the dynasty of Shang; and thirty-eight to the first 500
@@ -1660,9 +1271,6 @@ form, we cannot tell. Probably it was in the early period of
 the /Tau dynasty, though I am not without a suspicion
 that some verbal changes were made in them under the
 short-lived dynasty of AT/^in, which intervened between
-
-
-1 6 THE SHtj KING.
 
 
 the dynasties of TTau and Han, and possibly some also
@@ -1910,9 +1518,6 @@ The other passage is the last chapter of the works of Mencius, where that philos
 to Thang' — a period including all the dynasty of Hsia —
 
 
-22 THE SHfj KING.
-
-
 * there were 500 years and more ; from Thang to king
 Wan ' — the period of the Shang dynasty — ' 500 years and
 more ; and from king Wan to Confucius, 500 years and
@@ -1993,9 +1598,6 @@ solar tables of Delambre, and brought out the result that
 
 
 * Mencius, II, i, ch. i.
-
-
-24 THE SHtj KING.
 
 
 there was indeed an eclipse on the day stated, but before
@@ -2187,8 +1789,7 @@ This is a third correspondence with the indications of the astronomical sovereig
 
 Lastly, at sunset of the Autumnal Equinox the movable horizon
 is to be shifted to the left until the point A falls upon it, where it
-will be seen in this position that the stars in Aquarius are culminating at the time. It is scarcely possible that all these indica-
-tions of the positions of the stars at these several times of the year
+will be seen in this position that the stars in Aquarius are culminating at the time. It is scarcely possible that all these indications of the positions of the stars at these several times of the year
 could be simultaneously correct at any other epoch than somewhere about B.C. 2300 or a very small number of centuries before
 or after.
 
@@ -2508,8 +2109,6 @@ with a view to regulate the seasons of agriculture. See Parts HI,
 iv, and V, xxvii. On Yao's directions to them, see the Introduction, pp. 24-28.
 
 
-CHAP. 2. THE CANON OF YAO. 33
-
 He separately commanded the second brother
 Hsi to reside at Yli-i ^ in what was called the
 Bright Valley, and (there) respectfully to receive
@@ -2521,8 +2120,7 @@ are dispersed (in the fields), and birds and beasts
 breed and copulate.'
 
 He further commanded the third brother Hsi to
-reside at Nan-zCnao 2, (in what was called the Brilliant Capital), to adjust and arrange the transforma-
-tions of the summer, and respectfully to observe the
+reside at Nan-zCnao 2, (in what was called the Brilliant Capital), to adjust and arrange the transformations of the summer, and respectfully to observe the
 exact limit (of the shadow). ' The day,' (said he),
 ' is at its longest, and the star is in Hwo ; — you may
 thus exactly determine mid-summer. The people
@@ -2592,8 +2190,6 @@ according to tradition, he had been appointed.
 appear in the next Book as great criminals.
 
 
-CHAP. 3. THE CANON OF YAO. 35
-
 Mountains \ destructive in their overflow are the
 waters of the inundation. In their vast extent they
 embrace the hills and overtop the great heights,
@@ -2633,9 +2229,6 @@ in Shen-hsi.
 ^ See on the title of next Book.
 
 D 2
-
-
-36 THE SH^ KING.
 
 
 PART I.
@@ -2696,9 +2289,6 @@ ministers and complete organization of his government; and
 the sixth, his death.
 
 
-38 THE SHtj KING.
-
-
 PART II.
 
 
@@ -2740,8 +2330,6 @@ may mean ' the Glorious (Yao) repeated.'
 ^ The Accomplished Ancestor would be, probably, the individual in some distant time to whom Yao traced his possession of
 the throne.
 
-
-BOOK I. THE CANON OF SHUN. 39
 
 with its transverse tube of jade, and reduced to a
 harmonious system (the movements of) the Seven
@@ -2823,8 +2411,6 @@ cutting off the nose ; cutting off the feet ; castration ; and death,
 inflicted in various ways.
 
 
-BOOK I. THE CANON OF SHUN. , 4 1
-
 employed in schools \ and money to be received
 for redeemable offences. Inadvertent offences and
 those which could be ascribed to misfortune were
@@ -2877,8 +2463,7 @@ ability of the near. Give honour to the virtuous,
 and your confidence to the good, while you discountenance the artful ; — so shall the barbarous tribes
 lead on one another to make their submission.'
 
-Shun said, * Ho ! (President of) the Four Mountains, is there any one who can with vigorous ser-
-vice attend to all the affairs of the Ti, whom I may
+Shun said, * Ho ! (President of) the Four Mountains, is there any one who can with vigorous service attend to all the affairs of the Ti, whom I may
 appoint to be General Regulator, to assist me in
 (all) affairs, managing each department according to
 its nature ? ' All (in the court) replied, ' There is
@@ -2904,8 +2489,6 @@ denotes, probably, his order as the eldest among his brothers.
 in the Shih and other books as Hau--('i, the progenitor of the kings
 of ^au. See the legend about him in the Shih, Part III, ii, Ode i.
 
-
-BOOK I. THE CANON OF SHUN. 43
 
 Minister of Agriculture, (continue to) sow (for them)
 the various kinds of grain,'
@@ -2992,8 +2575,6 @@ of which ruled in Kh\ and other states.
 The character denotes a monstrous animal, ' a dragon with one leg,'
 
 
-BOOK I, THE CANON OF SHUN. 45
-
 not arrogant. Poetry is the expression of earnest
 thought ; singing is the prolonged utterance of that
 expression ; the notes accompany that utterance, and
@@ -3071,8 +2652,6 @@ evidently based on the commonly received history of Yii.
 of Commands.'
 
 
-BOOK 11. THE COUNSELS OF THE GREAT YU. 47
-
 Straitened and poor ; — it was only the (former) Ti
 who could attain to this,'
 
@@ -3145,8 +2724,6 @@ offend against the regulations of the government is
 owing to your being Minister of Crime, and intelligent in the use of the five punishments, thereby
 
 
-BOOK II. THE COUNSELS OF THE GREAT YU. 49
-
 assisting (the inculcation of) the five cardinal duties,
 with a view to the perfection of my government,
 and that through punishment there may come to
@@ -3182,9 +2759,6 @@ the palm of ability ; you make no boasting, but no
 [I] E
 
 
-50 THE SHtj KING.
-
-
 PART II.
 
 
@@ -3210,8 +2784,7 @@ It is the mouth which sends forth what is good, and
 raises up war. I will not alter my words.'
 
 Yii said, ' Submit the meritorious ministers one
-by one to the trial of divination ^ and let the favouring indication be followed.' The Ti replied, '(Ac-
-cording to the rules for) the regulation of divination,
+by one to the trial of divination ^ and let the favouring indication be followed.' The Ti replied, '(According to the rules for) the regulation of divination,
 one should first make up his mind, and afterwards
 refer (his judgment) to the great tortoise-shell. My
 mind (in this matter) was determined in the first
@@ -3220,8 +2793,6 @@ place ; I consulted and deliberated with all (my
 
 On Divination, see Part V, iv.
 
-
-BOOK II. THE COUNSELS OF THE GREAT YU. 5 1
 
 ministers and people), and they were of one accord
 with me. The spirits signified their assent, and the
@@ -3263,8 +2834,6 @@ was established over the country.
 £ 2
 
 
-52 THE SHtj KING. PART 11.
-
 is sending down calamities upon him,* I therefore,
 along with you, my multitude of gallant men, bear
 the instructions (of the Ti) to punish his crimes.
@@ -3299,9 +2868,6 @@ here of Shun ' in his early life ' and his father Ku-sau with the
 account of it as happening when Shun was fifty years old ; see
 Mencius V, Part i, ch. 5. The whole is legendary, and there were,
 no doubt, more forms of the legend than one.
-
-
-BOOK III. THE COUNSELS OF KAO-YAO. 53
 
 
 Book III. The Counsels of Kao-yao.
@@ -3373,8 +2939,6 @@ valour combined with righteousness. (When these
 qualities are) displayed, and that continuously, have
 we not the good (officer) ? When there is a daily
 
-
-BOOK III. THE COUNSELS OF kAo-YAO. 55
 
 display of three (of these) virtues, their possessor
 could early and late regulate and brighten the clan
@@ -3453,8 +3017,6 @@ of rank in connexion with the five constituent relations of society.
 ^ See in next Book, ch. i.
 
 
-BOOK IV. THE YI AND ^I. 57
-
 in it. Yii is the principal speaker; the Book belongs to the
 class of ' Counsels.'
 
@@ -3495,8 +3057,6 @@ to the streams, sowing (grain), at the same time,
 * See the Introduction, pp. i6, 17.
 
 
-58 THE SH1& KING. PART II.
-
 along with Al, and showing the multitudes how to
 procure the food of toil, (in addition to) the flesh meat.
 I urged them (further) to exchange what they had for
@@ -3534,9 +3094,6 @@ garment), — (I wish to see all these) fully displayed
 
 
 BOOK IV.
-
-
-THE YI AND k\. 59
 
 
 in the five colours, so as to form the (ceremonial)
@@ -3621,9 +3178,6 @@ to be 360 paces.
 BOOK IV.
 
 
-THE YI AND A'!. 6 1
-
-
 in the regions beyond, reaching to the four seas,
 five Presidents. These all pursue the right path,
 and are meritorious ; but there are still (the people
@@ -3631,8 +3185,7 @@ of) Miao, who obstinately refuse to render their
 service. Think of this, O Ti.' The Ti said,
 ' That my virtue is followed is the result of your
 meritorious services so orderly displayed. And now
-Kao-yao, entering respectfully into your arrangements, is on every hand displaying the (various) pun-
-ishments, as represented, with entire intelligence.'
+Kao-yao, entering respectfully into your arrangements, is on every hand displaying the (various) punishments, as represented, with entire intelligence.'
 
 2. Khwei said, 'When the sounding-stone is tapped
 or struck with force, and the lutes are strongly swept
@@ -3661,9 +3214,6 @@ ch. 5. They are more in place here, though this second chapter
 has no apparent connexion with what precedes. ' The stone '
 is the sonorous stone formed, often in the shape of a carpenter's
 square, into a musical instrument, still seen everywhere in China.
-
-
-62 THE Sut KING.
 
 
 PART II.
@@ -3789,8 +3339,6 @@ the Shfi, and take too much space, to give notes on the details
 of Yti's operations in K\ A'au and the other provinces.
 
 
-BOOK I, THE TRIBUTE OF YU. 65
-
 The (waters of the) Hang and Wei were brought
 to their proper channels, and Ta-lii was made capable
 of cultivation.
@@ -3834,9 +3382,6 @@ portions of those of -^i-nan and Yen-Mu, in Shan-tung.
 province) on the west and south, Yen Aau and the sea on the
 north-west and the north, and the sea on the east and south,
 [I] r
-
-
-66 THE SHtj KING.
 
 
 PART III.
@@ -3884,8 +3429,6 @@ and Ling-pi, department of Fang-yang, with Sze Aau and Hsii
 Aau, — all in An-hui.
 
 
-BOOK I. THE TRIBUTE OF YU. 67
-
 a marsh) ; and (the tract of) Tung-yiian was successfully brought under management.
 
 The soil of this province was red, clayey, and rich.
@@ -3928,8 +3471,6 @@ it extended southwards into A'e-/('iang and ATiang-hst, it is impossible to say.
 F 2
 
 
-68 THE Snt KING. PART III.
-
 to settle on. The three iTiang were led to enter
 the sea, and it became possible to still the marsh of
 Kan. The bamboos, small and large, then spread
@@ -3971,8 +3512,6 @@ and Hu-nan, and parts also of Kwei-Mu and Sze-/7zuan. Some
 geographers also extend it on the south into Kwang-tung and
 Kwang-hsi, which is very unlikely.
 
-
-BOOK I. THE TRIBUTE OF YU. 69
 
 their proper channels. The land in (the marsh of)
 Yiin (became visible), and (the marsh of) Mang was
@@ -4054,8 +3593,6 @@ with parts of Shen-hsi and Kan-su. I can hardly believe, as many
 do, that it extended far into Yiin-nan and Kwei-Mu.
 
 
-BOOK T. THE TRIBUTE OF YU. 7 1
-
 The soil of this province was greenish and hght.
 Its fields were the highest of the lowest class ; and
 its contribution of revenue was the average of the
@@ -4131,8 +3668,6 @@ A^ieh, where he reached the sea.
 
 (South of the Ho, he surveyed) Hst-Ming, A^u-yii,
 
-
-BOOK I. THE TRIBUTE OF YU. 73
 
 and Niao-shu, going on to Thai-hwa; (then) Hsiung-r,
 Wai-fang, and Thung-pai, from which he proceeded to
@@ -4210,12 +3745,7 @@ was secured for all within the four seas.
 
 The six magazines (of material wealth) were fully
 attended to ; the different parts of the country were
-subjected to an exact comparison, so that con-
-
-
-BOOK I. THE TRIBUTE OF YU. 75
-
-tribution of revenue could be carefully adjusted
+subjected to an exact comparison, so that contribution of revenue could be carefully adjusted
 according to their resources. (The fields) were all
 classified with reference to the three characters of
 the soil ; and the revenues for the Middle Region
@@ -4291,8 +3821,6 @@ it), the king called together the six nobles, (the
 leaders of his six hosts), and said, 'Ah ! all ye who
 
 
-BOOK II. THE SPEECH AT KAN. 77
-
 are engaged in my six hosts, I have a solemn
 announcement to make to you.
 
@@ -4329,9 +3857,6 @@ expedition was to put down a dangerous rival.
 army ; it is long before we read of cavalry. A war-chariot generally carried three. The driver was in the centre ; on his left was
 an archer, and a spearman occupied the place on his right. They
 all wore mail.
-
-
-78 THE SHtj KING.
 
 
 PART III.
@@ -4374,8 +3899,6 @@ spirit,' = the image into which the spirit entered. Thai Khang
 was but a personator on the throne, no better than a sham
 sovereign.
 
-
-BOOK III. THE SONGS OF THE FIVE SONS. 79
 
 self-restraint. He went out to hunt beyond the Lo,
 and a hundred days elapsed without his returning.
@@ -4504,16 +4027,13 @@ punish them.
 * Ah ! ye, all my men, there are the well-counselled
 instructions of the sage (founder of our dynasty),
 clearly verified in their power to give stability and
-security : — '* The former kings were carefully attentive to the warnings of Heaven \* and their minis-
-ters observed the regular laws (of their offices). All
+security : — '* The former kings were carefully attentive to the warnings of Heaven \* and their ministers observed the regular laws (of their offices). All
 the officers (moreover) watchfully did their duty to
 
 ^ That is, here, such warnings as were supposed to be conveyed
 by eclipses and other unusual celestial phenomena,
 [i] G
 
-
-82 THE SHtj KING. PART III.
 
 assist (the government), and their sovereign became
 entirely intelligent." Every year, in the first month
@@ -4550,8 +4070,6 @@ let them be put to death without mercy ; when (their
 eclipse of the sun. See Biot's Etudes sur I'Astronomie Indienne
 et Chinoise, pp. 357-360.
 
-
-BOOK IV. THE PUNITIVE EXPEDITION OF YIN. 83
 
 reckoning) is behind the time, let them be put to
 death without mercy."
@@ -4620,8 +4138,6 @@ reasons for attacking the tyrant, argues against their reluctance,
 using in the end both promises and threats to induce them to
 obey his orders.
 
-
-BOOK I. THE SPEECH OF THANG. 85
 
 The king said, ' Come, ye multitudes of the
 people, listen all to my words. It is not I, the
@@ -4705,8 +4221,6 @@ into all disorders ; and Heaven again gives birth
 ^ Nan-/{'/^ao is identified with the present district ofiT/mo, department Lu-X'au, An-hui.
 
 
-BOOK 11. THE ANNOUNCEMENT OF ^UNG-HUI. 87
-
 to the man of intelligence to regulate them.* The
 sovereign of Hsia had his virtue all-obscured, and
 the people were (as if they had fallen) amid mire
@@ -4741,9 +4255,6 @@ merit great rewards. He employed others as if
 to change his errors. Rightly indulgent and rightly
 benevolent, from the display (of such virtue), confidence was reposed in him by the millions of the
 people.
-
-
-88 THE SH^ KING.
 
 
 PART IV,
@@ -4787,8 +4298,6 @@ them. This aroused Thang's indignation, and he made him the
 first object of his punitive justice.
 
 
-BOOK in. THE ANNOUNCEMENT OF THANG. 89
-
 by righteousness ; order your heart by propriety ; —
 so shall you transmit a grand example to posterity.
 I have heard the saying, " He who finds instructors
@@ -4827,8 +4336,7 @@ Five Sons, as a designation of the sovereign. It continues to be
 so to the present day.
 
 
-(even) on the inferior people a moral sense, compliance with which would show their nature invaria-
-bly right."' To make them tranquilly pursue the
+(even) on the inferior people a moral sense, compliance with which would show their nature invariably right."' To make them tranquilly pursue the
 course which it would indicate is the work of the
 sovereign.
 
@@ -4863,8 +4371,6 @@ the Confucian Analects, XX, i, professing to quote this passage,
 2 'The great Sage' must be I Yin, Thang's chief adviser and
 minister, who appears prominently in the next Book.
 
-
-BOOK III. THE ANNOUNCEMENT OF THANG. 9 1
 
 harmony and tranquillity of your states and clans ;
 and now I know not whether I may not offend
@@ -4939,8 +4445,6 @@ described the complete virtue of the Meritorious
 Ancestor for the instruction of the (young) king.
 
 
-BOOK IV. THE INSTRUCTIONS OF 1 93
-
 2. He said, 'Oh! of old the former kings of Hsia
 cultivated earnestly their virtue, and then there
 were no calamities from Heaven. The spirits of
@@ -5014,8 +4518,6 @@ the three evil fashions ; — two under the sorcerers' fashion, and four
 under each of the other two fashions.
 
 
-BOOK V. THE THAI A'lA. 95
-
 them ! — sacred counsels of vast importance, admirable words forcibly set forth ! (The ways) of God
 are not invariable: — on the eood-doer he sends
 down all blessings, and on the evil-doer he sends
@@ -5088,8 +4590,6 @@ own overthrow. Be careful to strive after the virtue
 from the standpoint of Po.
 
 
-BOOK V. THE THAI ^lA. 97
-
 of self-restraint, and cherish far-reaching plans. Be
 like the forester, who, when he has adjusted the
 spring, goes to examine the end of the arrow,
@@ -5133,8 +4633,6 @@ has been built.
 [i] H
 
 
-98 THE SH^J KING. PART IV.
-
 Great Heaven has graciously favoured the House of
 Shang, and granted to you, O young king, at last to
 become virtuous.'" This is indeed a blessing that will
@@ -5171,8 +4669,6 @@ punishments (that we now do)."
 (the example of) your meritorious grandfather. At
 no time allow yourself in pleasure and idleness. In
 
-
-BOOK V. THE THAI A'lA. 99
 
 worshipping your ancestors, think how you can prove
 your fihal piety ;''" in receiving your ministers, think
@@ -5524,8 +5020,7 @@ Section 2.
 I. Pan-kang arose, and (was about to) cross the
 Ho with the people, moving (to the new capital).
 Accordingly, he addressed himself to those of them
-who were (still) dissatisfied, and made a full announcement to their multitudes, to induce a sincere acqui-
-escence (in the measure). They all attended, and
+who were (still) dissatisfied, and made a full announcement to their multitudes, to induce a sincere acquiescence (in the measure). They all attended, and
 (being charged) to take no liberties in the royal
 courtyard, he called them near, and said, ' Listen
 clearly to my words, and do not disregard my
@@ -5598,8 +5093,7 @@ whom I (wish to) cherish. But your conduct is injurious ; — it is cherished in
 royal predecessors made your ancestors and fathers
 happy, they, your ancestors and fathers, will (now)
 cut you off and abandon you, and not save you from
-death.* Here are those ministers of my government, who share with me in the offices (of the king-
-dom) ; — and yet they (only think of hoarding up)
+death.* Here are those ministers of my government, who share with me in the offices (of the kingdom) ; — and yet they (only think of hoarding up)
 cowries and grems. Their ancestors and fathers
 earnestly represent (their course) to my high
 sovereign, saying, " Execute great punishments on
@@ -5733,8 +5227,7 @@ remonstrated with him, saying, ' Oh ! him who is
 and the intelligent man is the model for others.
 The Son of Heaven rules over the myriad regions,
 and all the officers look up to and reverence him.
-They are the king's words which form the commands (for them). If he do not speak, the minis-
-ters have no way to receive their orders.' On this
+They are the king's words which form the commands (for them). If he do not speak, the ministers have no way to receive their orders.' On this
 the king made a writing, for their information, to
 the following effect : — 'As it is mine to serve as the
 
@@ -5790,8 +5283,6 @@ the use of the line is made straight, and the sovereign who follows reproof is m
 sovereign can (thus) make himself sage, his ministers,
 
 
-BOOK VIII. THE CHARGE TO YUEH. 1 1 5
-
 without being specially commanded, anticipate his
 orders ; — who would dare not to act in respectful
 compliance with this excellent charge of your
@@ -5846,8 +5337,7 @@ with preparation there will be no calamitous issue.
 Do not open the door for favourites, from whom you
 will receive contempt. Do not be ashamed of mistakes, and (go on to) make them crimes. Let your
 mind rest in its proper objects, and the affairs of
-your government will be pure. Officiousness in sacrificing is called irreverence ; ^'' and multiplying cere-
-monies leads to disorder. To serve the spirits
+your government will be pure. Officiousness in sacrificing is called irreverence ; ^'' and multiplying ceremonies leads to disorder. To serve the spirits
 acceptably (in this way) is difficult' *
 
 2. The king said, ' Excellent ! your words, O
@@ -5871,8 +5361,6 @@ one, first learned with Kan Pan ^ Afterwards I lived
 of Wu-ting. It is supposed that he had been minister to Wu-ting's
 father, and died during the king's period of mourning.
 
-
-BOOK VIII. THE CHARGE TO YUEH. 1 1 7
 
 concealed among the rude countrymen, and then I
 went to (the country) inside the Ho, and hved there \
@@ -5937,8 +5425,7 @@ House of Shang.
 
 * The sovereign should share his government with
 none but worthy officers. The worthy officer should
-accept his support from none but the proper sovereign. May you now succeed in making your sove-
-reign a (true) successor of the founder of his line, and
+accept his support from none but the proper sovereign. May you now succeed in making your sovereign a (true) successor of the founder of his line, and
 in securing the lasting happiness of the people ! '
 
 Ylieh did obeisance with his head to the ground,
@@ -5957,8 +5444,6 @@ special idea was connected with it, it would be difficult to say ;
 ' Styled A-hang in the beginning of ' the Thai--^ia.' Pao-hang=
 ' the Protector and Steelyard.'
 
-
-BOOK IX. SACRIFICE TO KAO 3UNG. II 9
 
 but at the close of it, the representatives or personators of the
 dead in the sacrifice of the preceding day were all feasted.
@@ -6038,8 +5523,6 @@ has cast us off, and there are no good harvests to
 supply us with food.* Men have no regard to their
 
 
-BOOK XI. THE COUNT OF WEI. 121
-
 heavenly nature, and pay no obedience to the statutes (of the kingdom). (Yea), our people now all
 wish (the dynasty) to perish, saying, " Why does not
 Heaven send down its indignation ? Why does not
@@ -6081,8 +5564,7 @@ and share in the unavoidable ruin.
 1. The Count of Wei spoke to the following
 effect: — ' Grand -Master and Junior-Master ^ (the
 House of) Yin, we may conclude, can no longer
-exercise rule over the four quarters (of the kingdom). The great deeds of our founder were dis-
-played in former ages, but by our maddened indulgence in spirits, we have destroyed (the effects of)
+exercise rule over the four quarters (of the kingdom). The great deeds of our founder were displayed in former ages, but by our maddened indulgence in spirits, we have destroyed (the effects of)
 his virtue in these after-times. (The people of)
 Yin, small and great, are given to highway robberies, villainies, and treachery. The nobles and
 officers imitate one another in violating the laws,
@@ -6112,8 +5594,6 @@ see next Part, Book xx. The individuals whom the count of Wei
 consulted were probably the count of K\ and Pi-kan, who are
 classed with him in the Confucian Analects, XVIII, i.
 
-
-BOOK XI. THE COUNT OF WEI. 123
 
 for things which he ought to reverence, but does
 despite to the venerable aged, the men who have
@@ -6187,8 +5667,6 @@ to their hosts ; and in the third, to his officers. The ruling idea
 in the first is the duty of the sovereign, — what he ought to be
 
 
-BOOK I. THE GREAT DECLARATION. 1 25
-
 and to do ; with this it begins and ends. There is not the same
 continuity of thought in the second, but the will and purpose of
 Heaven is the principal thing insisted on. The last Part shows
@@ -6229,11 +5707,7 @@ to his father as ' the Chief of the West.'
 district in the department of Ho-nan, Ho-nan.
 
 
-126 THE Sut KING.
-
-
-women. Great Heaven was moved with indignation, and charged my deceased father Wan to dis-
-play its terrors ; but (he died) before the work was
+women. Great Heaven was moved with indignation, and charged my deceased father Wan to display its terrors ; but (he died) before the work was
 completed.*
 
 ' On this account, I, Fa, the little child, have by
@@ -6268,12 +5742,7 @@ would be as great*
 * I, the little child, early and late am filled with
 apprehensions. I have received the command of
 my deceased father Wan ; I have offered special
-sacrifice to God ; I have performed the due ser-
-
-
-BOOK I. THE GREAT DECLARATION. 1 27
-
-vices to the great earth ; and I lead the multitude
+sacrifice to God ; I have performed the due services to the great earth ; and I lead the multitude
 of you to execute the punishment appointed by
 Heaven. '" Heaven compassionates the people.
 What the people desire, Heaven will be found to
@@ -6308,9 +5777,6 @@ A^ieh, the sovereign of Hsia, would not follow the
 ^ In Book iii we are told that Wft commenced his march to
 attack ^au-hsin, on Kwei->('t, the 2nd day of the moon. Calculating on to the day Wu-wu, we find that it was the 28th day of
 the same moon.
-
-
-128 THE SHtj KING.
 
 
 example of Heaven, but sent forth his poisonous
@@ -6349,8 +5815,6 @@ glorious than that executed by Thang. Rouse ye,
 these ten was a woman ; but whether the lady was Wu's wife or
 mother is disputed.
 
-
-BOOK I. THE GREAT DECLARATION. 1 29
 
 my heroes ! Do not think that he is not to be
 feared ; — better think that he cannot be withstood,
@@ -6503,8 +5967,6 @@ be energetic ! If you be not energetic (in all
 these matters), you will bring destruction ou yourselves.'
 
 
-BOOK III. SUCCESSFUL COMPLETION OF THE WAR. I 33
-
 Book III.
 The Successful Completion of the War.
 
@@ -6584,8 +6046,6 @@ History is then silent about the family for more than four centuries,
 when we find Than-fu, called here ' king Thai/ founding the state
 of Aau.
 
-
-BOOK III. SUCCESSFUL COMPLETION OF THE WAR. I 35
 
 ment of Heaven, to soothe the regions of our great
 land.* The great states feared his strength ; the
@@ -6746,8 +6206,6 @@ The whole of the treatise is divided into three chapters. The
 first is introductory, and relates how the Great Plan with its
 
 
-BOOK IV. THE GREAT PLAN. 1 39
-
 nine divisions was at first made known to Yii, and came at this
 time to be communicated to king Wu ; the second contains
 the names of the nine divisions of the Plan ; and in the third
@@ -6869,9 +6327,6 @@ human correspondency of water, speech that of fire, &c.
 ^ Medhurst calls the eight (objects of) government ' the eight
 
 
-142 THE SHtj KING.
-
-
 The first is food ; the second, wealth and articles
 of convenience ; the third, sacrifices ; the fourth, (the
 business of) the Minister of Works ; the fifth, (that
@@ -6891,8 +6346,7 @@ and pattern of excellence, concentrates in his own
 person the five (sources of) happiness, and proceeds
 to diffuse them, and give them to the multitudes
 of the people. Then they, on their part, embodying your perfection, will give it (back) to you, and
-secure the preservation of it. Among all the multitudes of the people there will be no unlawful con-
-federacies, and among men (in office) there will be
+secure the preservation of it. Among all the multitudes of the people there will be no unlawful confederacies, and among men (in office) there will be
 no bad and selfish combinations ; — let the sovereign
 regulators,' and Gaubil calls them 'les huit regies du gouvernement.' The phrase means the eight things to be attended to in
 government, — its objects and departments.
@@ -6909,8 +6363,6 @@ and serving as an example and attractive influence to all below,
 both ministers and people.
 
 
-BOOK IV. THE GREAT PLAN. 1 43
-
 establish in (himself) the highest degree and pattern
 of excellence.
 
@@ -6926,8 +6378,7 @@ favours on them ; — those men will in this way advance to the perfection of th
 let him oppress the friendless and childless, nor let
 him fear the high and distinguished. When men
 (in office) have ability and administrative power,
-let them be made still more to cultivate their conduct ; and the prosperity of the country will be pro-
-moted. All (such) right men, having a competency,
+let them be made still more to cultivate their conduct ; and the prosperity of the country will be promoted. All (such) right men, having a competency,
 will go on in goodness. If you cannot cause them
 to have what they love in their families, they will
 forthwith proceed to be guilty of crime. As to
@@ -6984,16 +6435,13 @@ strong rule; for the high(-minded) and distinguished,
 
 * It belongs only to the sovereign to confer
 dignities and rewards, to display the terrors of
-majesty, and to receive the revenues (of the kingdom). There should be no such thing as a minis-
-ter's conferring dignities or rewards, displaying the
+majesty, and to receive the revenues (of the kingdom). There should be no such thing as a minister's conferring dignities or rewards, displaying the
 terrors of majesty, or receiving the revenues. Such
 
 
 ^ ' The three virtues ' are not personal attributes of the sovereign, but characteristics of his rule, the varied manifestations of
 the perfection described in the preceding division.
 
-
-BOOK IV. THE GREAT PLAN. 145
 
 a thing is injurious to the clans, and fatal to the
 states (of the kingdom) ; smaller affairs are thereby
@@ -7073,8 +6521,6 @@ officers, and the common people, oppose, internal
 operations will be fortunate, and external undertakings unlucky. When the shell and stalks are
 both opposed to the views of men, there will be
 
-
-BOOK IV. THE GREAT PLAN. 1 47
 
 good fortune in being still, and active operations
 will be unlucky.' ""
@@ -7237,8 +6683,6 @@ are assigned to the east, the Zung to the west, the Ti to the
 north, and the Man to the south.
 
 
-BOOK VI. THE METAL-BOUND COFFER. 1 5 1
-
 he ruins his aims. His aims should repose in what
 is right ; he should listen to words (also) in their
 relation to what is right.
@@ -7321,8 +6765,6 @@ is ascribed, and Thai-kung, who became the first of the lords
 of li^hl
 
 
-BOOK VI. THE METAL-BOUND COFFER. 1 53
-
 the tortoise-shell about the king;' but the duke of
 A'au said, ' You must not so distress our former
 kings \' He then took the business on himself, and
@@ -7401,8 +6843,6 @@ but I rather suppose it to have been different, and a special chest
 in which important archives of the dynasty, to be referred to on
 great emergencies, were kept.
 
-
-BOOK VI. THE METAL-BOUND COFFER. 1 55
 
 dom, to the effect that the duke would do no good
 to the (king's) young son. On this the duke said to
@@ -7567,8 +7007,6 @@ government.
 to make, to the complicity of his brothers in the existing troubles.
 
 
-BOOK VII. THE GREAT ANNOUNCEMENT. 1 59
-
 Alas ! these senseless movements will deplorably
 afflict the wifeless men and widows ! But I am the
 servant of Heaven, which has assigned me this
@@ -7726,8 +7164,6 @@ the sovereign, coming to his court and assisting in the services
 in his ancestral temple, nearly on a footing of equality with him.
 
 
-BOOK VIII. CHARGE TO THE COUNT OF WEI. 1 63
-
 has belonged to you for long. Reverently and carefully have you discharged your filial duties ; gravely
 and respectfully you behave to spirits and to men.*
 I admire your virtue, and pronounce it great and not
@@ -7806,9 +7242,6 @@ good government of the people entrusted to him. The third
 inculcates on him how he should be careful in the use of
 
 
-BOOK IX. ANNOUNCEMENT TO THE PRINCE OF KHANG, 1 65
-
-
 punishments, and sets forth the happy effects of his being so.
 The fourth insists on the influence of virtue, as being superior
 in government to that of punishment, and how punishments
@@ -7884,8 +7317,6 @@ nugatory the king's charge.'
 Should we noL think the better of him for it ?
 
 
-BOOK IX. ANNOUNCEMENT TO THE PRINCE OF KIIANG. 167
-
 The king says, ' Oh ! Fang, the little one, be
 respectfully careful, as if you were suffering from
 a disease. Awful though Heaven be, it yet helps
@@ -7958,8 +7389,6 @@ are also known to you.
 ^ This is supposed to refer to a case where guilt would involve
 death, so that there could be no remedying a wrong decision.
 
-
-BOOK IX. ANNOUNCEMENT TO THE PRINCE OF KHANG. 1 69
 
 ' All who of themselves commit crimes, robbing,
 stealing, practising villainy and treachery, and who
@@ -8123,8 +7552,6 @@ by whatever liquor occasioned, that the king of A'au condemns
 and denounces.
 
 
-BOOK X. ANNOUNCEMENT ABOUT DRUNKENNESS. 1 73
-
 What we commonly understand by wine is never intended by
 JtLi^ in the Chinese classics, and therefore I cannot use that
 term. After searching as extensively as I could do in this
@@ -8205,8 +7632,6 @@ where Heaven sends down its terrors, put away as well the use of
 them which Heaven has prescribed. It is not so with us of the
 learned (i.e. the Confucian or orthodox) school; — we only put
 
-
-BOOK X. ANNOUNCEMENT ABOUT DRUNKENNESS. I 75
 
 * King Wan admonished and instructed the young
 nobles, who were charged with office or in any employment, that they should not ordinarily use spirits;
@@ -8325,9 +7750,6 @@ A'au had been made in the time of Shang.
 [I] N
 
 
-178 THE Snt KING.
-
-
 and showed no love for it, — because of such excesses.
 There is not any cruel oppression of Heaven ; people
 themselves accelerate their guilt, (and its punishment.)'*
@@ -8363,8 +7785,6 @@ follow these (lessons of mine), I will give them
 bright distinction. If they disregard my lessons,
 then I, the One man, will show them no pity. As
 
-
-BOOK XI. THE TIMBER OF THE ROTTLERA. I 79
 
 they cannot change their way, they shall be classed
 with those who are to be put to death.'
@@ -8451,8 +7871,6 @@ that the text is unintelligible to them.
 ^ It is difficult to say what the exact meaning here is.
 
 
-BOOK XII. ANNOUNCEMENT OF THE DUKE OF SHAO. I 51
-
 to apply the paint of red and other colours ; — (so do
 you finish for me the work which I have begun in
 the state of Wei.)'
@@ -8485,8 +7903,7 @@ Shan-hsi. It was the appanage of Shih, one of the ablest of the
 men who lent their aid to the establishment of the dynasty of
 ATau. He appears in this Book as the Grand-Guardian at the
 court of king A7;ang, and we have met with him before in
-the Hounds of Lii and the Metal-bound Coffer. He is introduced here in connexion with one of the most important enter-
-prises of the duke of ^au, the building of the city of Lo, not
+the Hounds of Lii and the Metal-bound Coffer. He is introduced here in connexion with one of the most important enterprises of the duke of ^au, the building of the city of Lo, not
 very far from the present city of Lo-yang, in Ho-nan, as a new
 and central capital of the kingdom. King Wu had conceived
 the idea of such a city ; but it was not carried into effect till the
@@ -8527,8 +7944,6 @@ reverently to his duties, and all would be well. The people
 would love and support the dynasty of ATau, and Heaven would
 smile upon and sustain it.
 
-
-BOOK XII. ANNOUNCEMENT OF THE DUKE OF SHAO. 1 83
 
 I. In the second month, on the day Yi-wei, six
 days after full moon, the king proceeded in the
@@ -8648,10 +8063,7 @@ great city has been built, from henceforth he may
 here refers to him by it, in accordance with the rule that ' ministers
 
 
-1 86 THE Snt KING. PARTY.
-
-be the mate of great Heaven, and reverently sacrifice to (the spirits) above and beneath ; from hence-
-forth he may from this central spot administer
+be the mate of great Heaven, and reverently sacrifice to (the spirits) above and beneath ; from henceforth he may from this central spot administer
 successful government." Thus shall the king enjoy
 the favouring regard (of Heaven) all-complete, and the
 government of the people will now be prosperous.*
@@ -8685,8 +8097,6 @@ should be called by their names in the presence of the sovereign.'
 King ^>^ang, indeed, was not now really present in Lo, but he
 was represented by his uncle, the regent.
 
-
-BOOK XII. ANNOUNCEMENT OF THE DUKE OF SHAO. 1 87
 
 of) their meritorious (sovereigns) ; — (let him do this
 especially) at this commencement of his duties.
@@ -8764,8 +8174,6 @@ city and completed it, and how king AV^ang, after offering the
 sacrifices and inaugurating the government, returned to Hao,
 and did not, after all, make his capital at Lo. ,
 
-
-BOOK XIII. THE ANNOUNCEMENT CONCERNING LO. 1 89
 
 Many critics make much to do about the want of historical order
 in the Book, and suppose that portions have been lost, and other
@@ -8887,9 +8295,6 @@ there will be no venturing to disregard your orders.
 Go, and be reverent. Henceforth I will study
 
 
-192 THE SHtj KING.
-
-
 husbandry ^ There do you generously rule our
 people, and there is no distance from which they
 will not come to you.'
@@ -8930,8 +8335,6 @@ to retire into private life ; intimates his own resolution to return to
 Hao ; and wishes the duke to remain in Lo, accomplishing all that
 was still necessary to the establishment of their dynasty.
 
-
-BOOK Xlll. THE ANNOUNCEMENT CONCERNING LO. 1 93
 
 The king said, ' O duke, let me, the Httle child,
 return to my sovereignty in Aau, and I charge you,
@@ -9005,8 +8408,6 @@ the guardianship of the dynasty which he had so long efliciently
 discharged on earth. This gives occasion for the duke to exhibit
 anew his humihty, piety, and loyalty.
 
-
-BOOK Xlll. THE ANNOUNCEMENT CONCERNING LO. 1 95
 
 and we have received his well-ordered charges,
 (sufficient to direct us) for myriads of years, but let
@@ -9084,9 +8485,6 @@ to aim at the appointment belonging to Yin. But
 Heaven was not with (Yin), for indeed it would not
 
 
-BOOK XIV. THE NUMEROUS OFFICERS. 197
-
-
 Strengthen its misfule. It (therefore) helped us; —
 did we dare to seek the throne of ourselves ? God
 was not for (Yin), as appeared from the mind and
@@ -9156,8 +8554,6 @@ dynasty had their archives and statutes, (showing
 Hao, the capital of king Wu ; but it was west from A'ao-ko, the
 capital of Yin.
 
-
-BOOK XIV. THE NUMEROUS OFFICERS. 1 99
 
 how) Yin superseded the appointment of Hsia.
 Now, indeed, ye say further, ' (The officers of) Hsia
@@ -9292,8 +8688,7 @@ mourning shed, it may be said that he did not speak
 for three years. (Afterwards) he was (still inclined)
 not to speak ; but when he did speak, his words
 were full of harmonious (wisdom). He did not dare
-to indulge in useless ease, but admirably and tranquilly presided over the regions of Yin, till through-
-out them all, small and great, there was not a single
+to indulge in useless ease, but admirably and tranquilly presided over the regions of Yin, till throughout them all, small and great, there was not a single
 murmur. It was thus that he enjoyed the throne
 fifty and nine years. In the case of Bu-i'ia^, he
 refused to be king unrighteously, and was at first
@@ -9320,8 +8715,6 @@ already appeared in the 8th and 9th Books of Part IV.
 ^ 3'^-'^i^ was the twenty-first of the Yin sovereigns, and reigned
 B.C. 1258-1226.
 
-
-BOOK XV. AGAINST LUXURIOUS EASE. 203
 
 for seven or eight, for five or six, or perhaps (only)
 for three or four.'
@@ -9393,8 +8786,6 @@ generous heart. You will confusedly punish the
 guiltless, and put the innocent to death. There
 will be a general murmuring, which will be concentrated upon your person.'
 
-
-BOOK XVI. THE PRINCE SHIH. 205
 
 7. The duke of Kkn said, ' Oh ! let the king, who
 has succeeded to the throne, make a study of these
@@ -9479,8 +8870,7 @@ displayed (their merit), preserving and regulating
 the dynasty of Yin, so that, while its ceremonies
 lasted, (those sovereigns), when deceased, were assessors to Heaven^,* and its duration extended over
 many years. Heaven thus determinately maintained
-its favouring appointment, and Shang was replenished with men. The various heads of great sur-
-names and members of the royal House, holding
+its favouring appointment, and Shang was replenished with men. The various heads of great surnames and members of the royal House, holding
 employments, all held fast their virtue, and showed
 an anxious solicitude (for the kingdom). The smaller
 ministers, and the guardian princes in the Hau and
@@ -9509,9 +8899,6 @@ We know of Wu Hsien only that he was B'^i-yi's minister.
 to it.
 
 
-208 THE Suts KING.
-
-
 that those ministers) maintained and regulated the
 dynasty of Yin.* He who came last to the throne
 granted by Heaven was extinguished by its terrors.
@@ -9538,13 +8925,10 @@ Heaven, to give themselves to enlighten king Wan,
 and lead him forward to his high distinction and universal rule, till his fame reached the ears of God, and
 he received the appointment that had been Yin's.*
 There were still four of those men who led on king
-Wu to the possession of the revenues of the kingdom, and afterwards, alone with him, in ereat reve-
-rence of the majesty of Heaven, slew all his enemies.*
+Wu to the possession of the revenues of the kingdom, and afterwards, alone with him, in ereat reverence of the majesty of Heaven, slew all his enemies.*
 These four men, moreover, made king Wu so illustrious that his glory Overspread the kingdom, and
 (the people) universally and greatly proclaimed his
 
-
-BOOK XVI. THE PRINCE SKIH. 209
 
 virtue. Now with me Tan, the little child, it is as
 if I were floating on a great stream ; — with you,
@@ -9615,9 +8999,6 @@ be (all we could desire) ; but it is the end (that is
 to be thought of). Act in careful accordance with
 this fact. Go and reverently exercise the duties- of
 your office.'
-
-
-BOOK XVII. THE CHARGE TO ^UNG OF 3HAL 211
 
 
 Book XVII. The Charge to A'ung of 3hai.
@@ -9703,8 +9084,6 @@ His copying the example of his grandfather would be the best
 service he could render to his father.
 
 
-BOOK XVIII. THE NUMEROUS REGIONS. 21 3
-
 Be a fence to the royal House, Live in amity
 with your brethren. TranquilHze and help the
 lower people.
@@ -9787,9 +9166,6 @@ were permitted — to continue the sacrifices to its founder and his
 descendants.
 
 
-BOOK XVIII. THE NUMEROUS REGIONS. 215
-
-
 decree of God (in his favour), and did not cultivate
 the means for the people's support* By great
 inflictions of punishment also he increased the disorder of the states of Hsia. The first cause (of his
@@ -9864,9 +9240,6 @@ subsequent specification of five years. We do not know the
 events of the times sufficiently to say what it was.
 
 
-BOOK XVIII. THE NUMEROUS REGIONS. 21 7
-
-
 ' " The wise, through not thinking, become foolish,
 and the fooHsh, by thinking, become wise. Heaven
 for five years waited kindly, and forbore with the
@@ -9932,8 +9305,7 @@ be proved to be attentive to your duties. Do not
 be afraid, I pray you, of the evil ways (of the
 people) ; and moreover, by occupying your offices
 with a reverent harmony, yon will find it possible to
-select from your cities individuals on whose assistance you can calculate. You may thus long con-
-tinue in this city of Lo^, cultivating your fields.
+select from your cities individuals on whose assistance you can calculate. You may thus long continue in this city of Lo^, cultivating your fields.
 Heaven will favour and compassionate you, and we,
 
 ' Referring probably to 'the Great Announcement' in Book vii.
@@ -9942,8 +9314,6 @@ Heaven will favour and compassionate you, and we,
 made in Lo ; and some critics have argued that Lo was ' the
 honoured capital ' in the first sentence.
 
-
-BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT. 219
 
 the sovereigns of A'au, will greatly help you, and
 confer rewards, selecting you to stand in our royal
@@ -9956,8 +9326,7 @@ regard to my charges, it will further show that you
 are unable to honour your sovereign ; and all the
 people will (also) say, ' We will not honour him.'
 Thus will ye be proved slothful and perverse,
-greatly disobedient to the royal charges. Throughout your numerous regions you will bring on your-
-selves the terrors of Heaven, and I will then inflict
+greatly disobedient to the royal charges. Throughout your numerous regions you will bring on yourselves the terrors of Heaven, and I will then inflict
 on you its punishments, removing you far from your
 country." '
 
@@ -10020,8 +9389,6 @@ sufficiently anxious about them.'
 had a certain jurisdiction over several states and their princes.
 ^ The high ministers of Instruction, War, Works, &c.
 
-
-BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT. 22 1
 
 2. ' Among the ancients who exempHfied (this
 anxiety) there was the founder of the Hsia dynasty.
@@ -10097,8 +9464,6 @@ smaller cities assigned in the royal domain to the
 That is, within the royal domain.
 
 
-BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT. 223
-
 nobles ; their men of arts ^ ; their overseers whose
 offices were beyond the court ; their grand historiographers ; and their heads of departments ; — all good
 men of constant virtue.
@@ -10118,8 +9483,7 @@ pastors (to attend to them), whom he (simply)
 taught to be obedient (to his wishes), and not to
 be disobedient. (Yea), as to litigations and precautionary measures, he (would seem as if he) did
 not presume to know about them. He was followed
-by king Wta, who carried out his w^ork of settlement, and did not presume to supersede his right-
-eous and virtuous men, but entered into his plans,
+by king Wta, who carried out his w^ork of settlement, and did not presume to supersede his righteous and virtuous men, but entered into his plans,
 and employed, as before, those men. Thus it was
 that they unitedly received this vast inheritance.'
 
@@ -10170,8 +9534,6 @@ government, make no use of artful-tongued men,
 They are there prepared to speak their views, when the duke of
 A'au takes all the discoursino: on himself.
 
-
-BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT. 225
 
 but (seek for) good officers, and get them to use
 all their powers in aiding the government of our
@@ -10251,8 +9613,6 @@ regulated the officers of the administration.
 2. The king said, * It was the grand method of
 former times to regulate the government while there
 
-
-BOOK XX. THE OFFICERS OF ^AU. 22 7
 
 was no confusion, and to secure the country while
 there was no danger.' He said, ' Yao and Shun,
@@ -10336,8 +9696,6 @@ to define the order of rank and precedence. This seems to be
 what is meant by his ' making a harmony between high and low.'
 
 
-BOOK XX. THE OFFICERS OF KAU. 229
-
 country, commands the six hosts, and secures the
 tranquillity of all the regions ; the Minister of Crime,
 who presides over the prohibitions of the country,
@@ -10354,8 +9712,7 @@ of the people. In six years (the lords of) the five
 tenures appear once at the royal court ; and after
 a second six years, the king makes a tour of inspection in the four seasons, and examines the (various)
 regulations and measures at the four mountains.
-The princes appear before him each at the mountain of his quarter ; and promotions and degrada-
-tions are awarded with great intelligence.'
+The princes appear before him each at the mountain of his quarter ; and promotions and degradations are awarded with great intelligence.'
 
 4. The king said, ' Oh ! all ye men of virtue, my
 occupiers of office, pay reverent attention to your
@@ -10495,8 +9852,6 @@ difficulty of the subject. Some things have to be
 abolished, and some new things to be enacted ; —
 
 
-BOOK XXI. THE Kijl<!-KHAN. 233
-
 going out and coming in, seek the judgment of your
 people about them, and, when there is a general
 agreement, exert your own powers of reflection.
@@ -10518,8 +9873,7 @@ easy forbearance.
 punishment, if I say " Punish," do not you therefore
 punish ; and if I say " Spare," do not you therefore
 spare. Seek the due middle course. Those who
-are disobedient to your government, and uninfluenced by your instructions, you will punish, remem-
-bering that the end of punishment is to make an
+are disobedient to your government, and uninfluenced by your instructions, you will punish, remembering that the end of punishment is to make an
 end of punishing. Those who are inured to villainy
 and treachery, those who violate the regular duties
 of society, and those who introduce disorder into
@@ -10550,8 +9904,7 @@ aees ! '
 Book XXII. The Testamentary Charge.
 
 This Book brings us to the closing act of the life of king ^//ang,
-whose reign, according to the current chronology, lasted thirtyseven years, ending in b.c. 1079. From the appointment of ^iin-
-kh^.n to his death, the king's history is almost a blank. The
+whose reign, according to the current chronology, lasted thirtyseven years, ending in b.c. 1079. From the appointment of ^iinkh^.n to his death, the king's history is almost a blank. The
 only events chronicled by Sze-ma A7;ien are a coinage of round
 money with a square hole in the centre, — the prototype of the
 present cash ; and an enactment about the width and length
@@ -10568,12 +9921,7 @@ the accession of A'ao to the throne. It is an interesting account
 of the ways of that distant time on such occasions.
 
 I. In the fourth month, when the moon began to
-wane, the king was indisposed. On the day A'ia-
-
-
-BOOK XXII. THE TESTAMENTARY CHARGE. 235
-
-gze, he washed his hands and face ; his attendants
+wane, the king was indisposed. On the day A'iagze, he washed his hands and face ; his attendants
 put on him his cap and robes ^ ; (and he sat up),
 leaning on a gem-adorned bench ^ He then called
 together the Grand-Guardian Shih, the earls of Zui
@@ -10611,9 +9959,6 @@ Pi was Minister of War. called Duke or Kung, as Grand-Master.
 It is not known where Mao was. The lord of it was Minister
 of Works, and Grand-Assistant. The marquis of Wei, — see on
 Book ix. He was now, it is supposed, Minister of Crime.
-
-
-236 THE SH^ KING.
 
 
 instructions. (The people) accorded a practical
@@ -10654,8 +9999,6 @@ of it were separated by courts that embraced a large space of
 ground, and were partly open overhead. The gates leading to
 the different parts had their particular names, and were all fronting
 
-
-BOOK XXII. THE TESTAMENTARY CHARGE. 237
 
 the court ; and on the next day, (being) Yi-/7^au,
 the king died.
@@ -10744,8 +10087,6 @@ screens, and mats were now set. It was presumed he would be
 present in spirit at the ceremony of proclaiming his son, and
 
 
-BOOK XXII. THE TESTAMENTARY CHARGE. 239
-
 (They set forth) also the five pairs of gems (or
 jade), and the precious things of display. There
 were the red knife, the great lessons, the large
@@ -10786,8 +10127,6 @@ least were now set forth inside the last gate, that everything might
 again be done, as when the king was alive. On the west side
 of the hall were the guests' steps (or staircase), by which visitors
 
-
-240 THE SH^ KING. PART V.
 
 Two men in brownish leather caps, and holdingthree-cornered halberts, stood inside the gate leading
 to the private apartments. Four men in caps of
@@ -10913,8 +10252,6 @@ and by the sacrifices, been converted into a sort of ancestral
 temple.
 
 
-BOOK XXIII. ANNOUNCEMENT OF KING KHANG. 243
-
 Book XXIII.
 The Announcement of King Khang.
 
@@ -10997,8 +10334,6 @@ utmost and maintaining an entire impartiality and
 sincerity, they became gloriously illustrious all under
 heaven. Then they had officers brave as bears and
 
-
-BOOK XXIV. CHARGE TO THE DUKE OF PI. 245
 
 grisly bears, and ministers of no double heart, who
 (helped them) to maintain and regulate the royal
@@ -11083,8 +10418,6 @@ dynasty.
 of Grand-Master, under king -Oang.
 
 
-BOOK XXIV. CHARGE TO THE DUKE OF PI. 247
-
 lessons. Six and thirty years have elapsed^; the
 generation has been changed ; and manners have
 altered. Through the four quarters of the land
@@ -11124,17 +10457,13 @@ inscription testifying his approbation. All over China, at the
 present day, such testimonials are met with.
 
 
-248 THE SHtj KING. PART v.
-
 mark off the boundaries of their hamlets, making
 them fear (to do evil), and desire (to do good).
 Define anew the borders and frontiers, and be
 careful to strengthen the guard-posts through the
 territory, in order to secure tranquillity (within) the
-four seas. In measures of government to be consistent and constant, and in proclamations a combi-
-nation of completeness and brevity, are valuable.
-There should not be the love of what is extraordinary. Among the customs of Shang was the flat-
-tery of superiors ; sharp-tonguedness was the sign of
+four seas. In measures of government to be consistent and constant, and in proclamations a combination of completeness and brevity, are valuable.
+There should not be the love of what is extraordinary. Among the customs of Shang was the flattery of superiors ; sharp-tonguedness was the sign of
 worth. The remains of these manners are not yet
 obliterated. Do you, O duke, bear this in mind.
 I have heard the saying, " Families which have for
@@ -11159,8 +10488,6 @@ enjoy lengthened years, virtue, and righteousness ! —
 these are the great lessons. If you do not follow
 
 
-BOOK XXIV. CHARGE TO THE DUKE OF PI. 249
-
 in dealing with them these lessons of antiquity,
 wherein will you instruct them ? '
 
@@ -11184,8 +10511,7 @@ follow your perfect pattern, governing accordingly.
 
 'Oh! do not say, "I am unequal to this;" but
 exert your mind to the utmost. Do not say, " The
-people are few ; " but attend carefully to your business. Reverently follow the accomplished achieve-
-ments of the former kings, and complete the excellence of the government of your predecessors.'
+people are few ; " but attend carefully to your business. Reverently follow the accomplished achievements of the former kings, and complete the excellence of the government of your predecessors.'
 
 ^ Confucius once praised Kwan A'ung, a great minister of Kh\,
 in the seventh century B.C., for his services against the wild tribes
@@ -11236,8 +10562,6 @@ during their lifetime, preparatory to their sharing in the sacrifices
 of the ancestral temple after their death.
 
 
-BOOK XXV. THE X-iJN-YA. 251
-
 be as my limbs to me, as my heart and backbone.
 Continue their old service, and do not disgrace your
 grandfather and father.
@@ -11273,9 +10597,6 @@ on this. You will thus follow the practice of your
 grandfather and father, and make the good government of your sovereign illustrious.'
 
 
-252 THE SUtj KING.
-
-
 Book XXVI. The Charge to A'^iung.
 
 The charge recorded here, like that in the last Book, is assigned
@@ -11309,12 +10630,9 @@ falling into errors. Formerly Wan and Wu were
 endowed with all intelligence, august and sage,
 while their ministers, small and great, all cherished
 loyalty and goodness. Their servants, charioteers,
-chamberlains, and followers were all men of correctness ; morning and evening waiting on their sove-
-reign's wishes, or supplying his deficiencies. (Those
+chamberlains, and followers were all men of correctness ; morning and evening waiting on their sovereign's wishes, or supplying his deficiencies. (Those
 kings), going out and coming in, rising up and sitting
 
-
-BOOK XXVI. THE CHARGE TO rfflUNG. 253
 
 down, were thus made reverent. Their every warning or command was good. The people yielded a
 reverent obedience, and the myriad regions were all
@@ -11390,8 +10708,6 @@ of every subsequent dynasty. Great official corruption and depravation of the ge
 from such a system. The fifth chapter returns again to the
 
 
-BOOK XXVII. MARQUIS OF LU ON PUNISHMENTS. 255
-
 reverence with which punishments should be employed; and the
 sixth and last is addressed to future generations, and directs
 them to the ancient models, in order that punishments may
@@ -11433,9 +10749,6 @@ men's affairs.
 ^ I do not think it is intended to say here that ' the five punishments ' were invented by the chiefs of the Miao ; but only that
 
 
-256 THE SHtj KING.
-
-
 slaughtered the innocent, and were the first also to
 go to excess in cutting off the nose, cutting off the
 ears, castration, and branding. All who became
@@ -11474,8 +10787,6 @@ appear to be any change of subject in the paragraph. We get
 from this Book a higher idea of the power of the Miao than
 from the Books of Part II.
 
-
-BOOK XXVII. MARQUIS OF LU ON PUNISHMENTS. 257
 
 tinue to future orenerations. Then he commissioned
 A'^ung and Li^ to make an end of the communications between earth and heaven ; and the descents
@@ -11520,8 +10831,6 @@ rules for the people. In this way both spirits and people were
 [r] S
 
 
-258 THE Sut KING. PARTY.
-
 inferior officers, all helped with clear intelligence
 (the spread of) the regular principles of duty, and
 the solitary and widows were no longer overloolced.
@@ -11558,8 +10867,6 @@ Canon of Shun and other Books of Part II.
 
 ^ Kao-yao.
 
-
-BOOK xxvii. MARQUIS OF LU ON PUNISHMENTS. 259
 
 punishment in exact adaptation to each offence,
 and taught them to reverence virtue. The greatest
@@ -11639,8 +10946,6 @@ of ' mild government.'
 ^ Meaning all the princes ; — of the king's own and other surnames.
 
 
-BOOK xxvil. MARQUIS OF LU ON PUNISHMENTS. 26 1
-
 about the choosing of ? Should it not be the proper
 men ? What should you deal with the most reverently ? Should it not be punishments ? What
 should you calculate the most carefully ? Should
@@ -11679,8 +10984,7 @@ It would be very leniently dealt with, and perhaps pardoned. In
 * the Counsels of Yii,' Kao-yao says to Shun, ' You pardon inadvertent oifences however great.'
 
 
-infliction of any of the five fines, it should be forborne. Do you carefully examine, and prove your-
-selves equal to overcome (every difficulty). When
+infliction of any of the five fines, it should be forborne. Do you carefully examine, and prove yourselves equal to overcome (every difficulty). When
 you have examined and many things are clear, yet
 form a judgment from studying the appearance of
 the parties. If you find nothing out on examination, do not listen (to the case any more). In
@@ -11710,8 +11014,6 @@ with the (next) higher or (next) lower offences, not
 
 ^ Or solitary confinement in the case of a female.
 
-
-BOOK XXVII. MARQUIS OF LU ON PUNISHMENTS. 263
 
 admitting assumptive and disorderly pleadings, and
 not using obsolete laws. Examine and act lawfully,
@@ -11786,14 +11088,11 @@ your sovereigns the good multitudes, behold in the
 case of those men punishments made felicitous ! '
 
 
-BOOK XXVIII. CHARGE TO THE MARQUIS WAN. 265
-
 Book XXVIII.
 The Charge to the Marquis Wan.
 
 The king to whom this charge is ascribed was Phing (b. c. 770-7 19).
-Between him and Mu there was thus a period of fully two centuries, of which no documents are, or ever were, in the collec-
-tion of the Shu. The time was occupied by seven reigns, the
+Between him and Mu there was thus a period of fully two centuries, of which no documents are, or ever were, in the collection of the Shu. The time was occupied by seven reigns, the
 last of which was that of Nieh, known as king Yu, a worthless
 ruler, and besotted in his attachment to a female favourite,
 called Pao-sze. For her sake he degraded his queen, and sent
@@ -11865,8 +11164,6 @@ the example of Wan and Wu, collecting (the scattered powers), and continuing (th
 line of) your sovereign. Your filial piety goes back
 
 
-BOOK XXIX. THE SPEECH AT PI. 267
-
 to your accomplished ancestor, (and is equal to his.)
 You have done much to repair my (losses), and
 defend me in my difficulties, and of you, being such,
@@ -11904,8 +11201,6 @@ not of taking life without first reporting to the court. The gift
 was also a tribute to the merit of the receiver. See the Book of
 Poetry, II, iii, ode i.
 
-
-268 THE SHtj KING. PART V.
 
 the Book's being the record not of any royal doings, but of
 the words of the ruler of a state.
@@ -11949,8 +11244,6 @@ people), do you close your traps and fill up your
 pitfalls, and do not presume to injure any of the
 animals (so let loose). If any of them be injured,
 
-
-BOOK XXIX. THE SPEECH AT pl 269
 
 you shall be dealt with according to the regular
 punishments.
@@ -12342,8 +11635,7 @@ the Sui Dynasty (a. d. 589 to 618), it is said : — 'When royal
 „, ., r benign rule ceased, and poems were no more
 
 The writer of ° ' ithe Records of collected, i^ih, the Grand Music-Master of
-t e ui ynas y. -j^.^ arranged in order those that were existing, and made a copy of them. Then Confucius expur-
-gated them ; and going up to the Shang dynasty, and
+t e ui ynas y. -j^.^ arranged in order those that were existing, and made a copy of them. Then Confucius expurgated them ; and going up to the Shang dynasty, and
 coming down to the state of Lu, he compiled altogether
 300 pieces.'
 
@@ -12891,8 +12183,7 @@ throughout the kingdom, we might conclude that the collection would have been fa
 How the Shih "^^ have it now. The smallness of it is to be
 is so small and accountcd for by the disorder into which the
 ^^ '^ ' kingdom fell after the lapse of a few reigns
-from king Wu. Royal progresses ceased when royal government fell into decay, and then the odes were no more col-
-lected^. We have no account of any progress of the kings
+from king Wu. Royal progresses ceased when royal government fell into decay, and then the odes were no more collected^. We have no account of any progress of the kings
 during the Khun Kh\\x period. But before that period
 there is a long gap of nearly 150 years between kings
 K/i^.ng and 1^ covering the reigns of Khang, A'ao^ Mu,
@@ -13251,9 +12542,6 @@ being the founder of the dynasty of A'au.
 With these preliminary observations to assist the reader in understanding the pieces in this Part, I proceed to give —
 
 
-THE SACRIFICIAL ODES OF SHANG. 303
-
-
 I. The Sacrificial Odes of Shang.
 
 These odes of Shang constitute the last Book in the ordinary
@@ -13335,9 +12623,6 @@ Yin began with a performance of music'
 preliminary to the service, had to fast for some days, and to think
 of the person of his ancestor, — where he had stood and sat, how
 he had smiled and spoken, what had been his cherished aims,
-
-
-ODE 2. THE SACRIFICIAL ODES OF SHANG. 305
 
 
 drums and drums ; Shrilly sound the flutes ; All
@@ -13424,9 +12709,6 @@ Thang !
 ^ These lines are descriptive of the feudal princes, who were present and assisted at the sacrificial service. The chariot of each was
 drawn by four horses yoked abreast, two insides and two outsides,
 on each side of the bits of which small bells were attached.
-
-
-ODE 3. THE SACRIFICIAL ODES OF SHANG. 307
 
 
 OuE 3. The Hsuan Niao.
@@ -13517,8 +12799,6 @@ name of a hill in the region where the capital of Shang was.
 after the time of Pan-kang, b.c. 1401 to 1374. Wu-ting's reign
 was subsequent to that of Pan-kang.
 
-
-ODE 4. THE SACRIFICIAL ODES OF SIIANG. 309
 
 ' great Tt sacrifice/ when the principal object of honour would
 be the ancient Khu, the father of Hsieh, with Hsieh as his
@@ -13653,8 +12933,6 @@ be fully cleared up ; but on the whole I accept the words of the
 ode as sufficient proof against the silence of other documents.
 
 
-312 THE sum KING. ODE 5.
-
 Boldly he entered its dangerous passes, And
 brought the multitudes of A^ing together, Till the
 country was reduced under complete restraint : —
@@ -13695,9 +12973,6 @@ did so, we may suppose, at the court of Wu-ting, the more so
 because of his subjugation of A'ing-A7/u.
 
 
-ODE I. THE SACRIFICIAL ODES OF KAV. 313
-
-
 over the states, And he made his happiness
 grandly secure.
 
@@ -13735,8 +13010,6 @@ when, the building of Lo being finished, king A7;ang came to
 
 J* See on the last line but two of ode 3.
 
-
-314 THE sum KING. DECADE I.
 
 the new city, and offered a red bull to Wan, and the same to
 . Wu. It seems to me to have been sung in honour of Wan,
@@ -13782,9 +13055,6 @@ and other parts of the sacrifice.
 
 ^ See what 3ze-sze says on these four lines in the Doctrine of
 the Mean, XXVI, par. 10.
-
-
-ODE 4. THE SACRIFICIAL ODES OF KAU. 315
 
 
 king Wan ; And may his remotest descendant be
@@ -13867,8 +13137,6 @@ dare to rest idly in it. But night and day enlarged
 ^ Meaning mount K'M. * Wan and Wu.
 
 
-ODE 8. THE SACRIFICIAL ODES OF ^AU. 3 I 7
-
 its foundations by his deep and silent virtue. How
 did he continue and glorify (his heritage), Exerting
 all his heart, And so securing its tranquillity !
@@ -13938,8 +13206,7 @@ Truly is the king our sovereign lord.
 Brilliant and illustrious is the House of A'au.
 He has regulated the positions of the princes ;
 He has called in shields and spears; He has returned to their cases bows and arrows^. I will
-cultivate admirable virtue, And display it throughout these great regions. Truly will the king pre-
-serve the appointment.
+cultivate admirable virtue, And display it throughout these great regions. Truly will the king preserve the appointment.
 
 
 ^ ' All spiritual beings ' is, literally, ' the hundred spirits,' meaning the spirits presiding, under Heaven, over all nature, and
@@ -13950,9 +13217,6 @@ and hills, no doubt, were so.
 
 ^ Compare with these lines the last chapter of ' the Completion
 of the War ' in the Shu.
-
-
-ODE 10. THE SACRIFICIAL ODES OF KAU. 319
 
 
 Ode 9. The A'ih A'ing.
@@ -14038,8 +13302,6 @@ them.
 
 Ah ! ah ! ye assistants, It is now the end of
 
-
-ODE 2. THE SACRIFICIAL ODES OF ^AU. 32 1
 
 spring ^ ; And what have ye to seek for ? (Only)
 how to managfe the new fields and those of the third
@@ -14209,8 +13471,6 @@ the open court below the hall. Nothing is said of the stringed
 instruments which were used in the hall itself; nor is the enumeration of the instruments in the courtyard complete.
 
 
-ODE 7. THE SACRIFICIAL ODES OF KAU. 325
-
 these passages, the prefatory notice was, no doubt, constructed.
 Choice specimens of the earliest-caught fish were presented by
 the sovereign to his ancestors, as an act of duty, and an acknowledgment that it was to their favour that he and the people were
@@ -14296,8 +13556,6 @@ the subject of this line as king Wu, in opposition to his father
 Wan.
 
 
-ODE 9- THE SACRIFICIAL ODES OF A'AU. 327
-
 Enabling him to perpetuate them in their brightness as pure blessing.
 
 Ode 9. The Yu Kho.
@@ -14379,8 +13637,6 @@ thou wast filial.
 
 Thou didst think of my great grandfather, (Seeing
 
-
-ODE 3. THE SACRIFICIAL ODES OF A'AU. 329
 
 him, as it were) ascending and descending in the
 court, I, the little child, Day and night will be
@@ -14511,8 +13767,6 @@ bird is ' the clever wife,' from the artistic character of its nest,
 which would point it out as the small ' tailor bird.' But the name
 is applied to various small birds.
 
-
-332 THE SHIH KING. " DECADE III.
 
 There are the master and his eldest son; His
 younger sons, and all their children ; Their strong
@@ -14646,8 +13900,6 @@ by any one offending at the feast against the rules of propriety ;
 but here there was no occasion for it.
 
 
-ODE lo. THE SACRIFICIAL ODES OF A'AU. 335
-
 time was yet dark. When the time was clearly
 bright, He thereupon donned his grand armour.
 We have been favoured to receive What the martial
@@ -14726,8 +13978,6 @@ by the duke of ^au, granted to Po-XVnn, (the duke's eldest son,
 and first marquis of Lfi), the privilege of using the royal ceremonies and music, in consequence of which Lfi had its Sung,
 which were sung to the music in its ancestral temple. Afterwards, they made in Lfi other odes in praise of their rulers,
 
-
-ODE 3. THE PRAISE ODES OF LU. 337
 
 which they also called Sung.' In this way it is endeavoured
 to account for there being such pieces in this part of the Shih
@@ -14820,8 +14070,6 @@ council with their ministers. The college was in the western
 suburb of each capital.
 
 
-ODE 3- THE PRAISE ODES OF LU. 339
-
 given to him such old age as is seldom enjoyed!
 May he accord with the grand ways, So subduing
 to himself all the people !
@@ -14898,9 +14146,6 @@ about the Hwai.
 
 * That is, according to 'the Tribute of Yii,' in the Shu, from
 Kv!\s-kivi and Yang-X'au.
-
-
-ODE 4- THE PRAISE ODES OF ht. 34 1
 
 
 Ode 4. The Pi Kung.
@@ -14987,8 +14232,6 @@ acknowledging the jurisdiction of the lords of Lu, and dependent
 on them for introduction to the royal court.
 
 
-ODE 4. THE PRAISE ODES OF LU. 343
-
 and autumn he is not remiss; His offerings are
 all without errors To the great and sovereign
 God, And to his great ancestor Hiu-/C't, He
@@ -15074,8 +14317,6 @@ Shang, and the name Shu was applied to several half- civilized states
 to the east of it, which it brought, during the A7mn K/iiu period,
 one after another under its jurisdiction.
 
-
-ODE 4. THE PRAISE ODES OF ht. 345
 
 shall make you long-lived and wealthy. The hoary
 hair and wrinkled back, Marking the aged men,
@@ -15235,8 +14476,6 @@ them at the service.
 ^ The spirits here are, of course, those of the former dukes and
 kings. J
 
-
-ODE 9, THE MINOR ODES OF THE KINGDOM. 349
 
 the luxuriance of the fir and the cypress ; — May
 such be thy succeeding line !
@@ -15425,8 +14664,7 @@ holds the ordering of the kingdom ? He attends
 not himself to the government, And the result is
 toil and pain to the people.
 
-1 yoke my four steeds, My four steeds, longnecked. I look to the four quarters (of the king-
-dom) ; Distress is everywhere ; there is no place
+1 yoke my four steeds, My four steeds, longnecked. I look to the four quarters (of the kingdom) ; Distress is everywhere ; there is no place
 I can drive to.
 
 Now your evil is rampant ^, And I can see your
@@ -15503,9 +14741,6 @@ pretensions.
 * That is, the productive energy of nature manifests itself in the
 most unlikely places ; how was it that ' the great God, who hates
 no one,' was contending so with the writer ?
-
-
-ODE 9- THE MINOR ODES OF THE KINGDOM. 355
 
 
 They sought me (at first) to be a pattern (to them),
@@ -15667,8 +14902,6 @@ not tell us anything about the plans. The counsellors are very many, But on that
 is accomplished. The speakers fill the court, But
 
 
-ODE 2. THE MINOR ODES OF THE KINGDOM. 359
-
 who dares to take any responsibility on himself?
 We are as if we consulted (about a journey) without
 taking a step in advance, And therefore did not
@@ -15744,9 +14977,6 @@ the farmsteadings, and are therefore mentioned here. They carried
 the thoughts back to the father or grandfather, or the more remote
 ancestor, who first planted them, and so a feeling of reverence
 attached to themselves.
-
-
-ODE 6. THE MINOR ODES OF THE KINGDOM. 36 1
 
 
 Ode 4, Stanza 1, The Khiko Yen.
@@ -15835,8 +15065,6 @@ in the thought of the material heavens.
 obliged to make their journey on foot.
 
 
-ODE 9. THE MINOR ODES OF THE KINGDOM. 363
-
 conveyed home ! Alas for us the toiled people !
 Would that we could have rest ^ !
 
@@ -15920,8 +15148,6 @@ The author of the piece, however, evidently took Lucifer and Hesperus to be two 
 of Sagittarius.
 
 
-ODE 5. THE MINOR ODES OF THE KINGDOM. 365
-
 being permanent. Quietly fulfil the duties of your
 offices, Associating with the correct and upright ;
 So shall the spirits hearken to you, And give you
@@ -16000,11 +15226,8 @@ cakes, condiments, &c.
 ^ ' The guests and visitors ' would be nobles and officers of different surnames from the sacrificer, chosen by divination to take
 part in the sacrificial service.
 
-* ' Present the cup all round ' describes the ceremonies of drinking, which took place between the guests and visitors, the repre-
-sentatives of the dead, and the sacrificer.
+* ' Present the cup all round ' describes the ceremonies of drinking, which took place between the guests and visitors, the representatives of the dead, and the sacrificer.
 
-
-ODE 5- THE MINOR ODES OF THE KINGDOM. 367
 
 with great blessings, — Myriads of years as the
 (fitting) reward.
@@ -16054,8 +15277,7 @@ but all feel happy. They drink to the full, and eat
 to the full ; Great and small, they bow their heads,
 (saying), 'The spirits enjoyed your spirits and
 viands. And will cause you to live long. Your
-sacrifices, all in their seasons, Are completely discharged by you. May your sons and your grand-
-sons Never fail to perpetuate these services ! '
+sacrifices, all in their seasons, Are completely discharged by you. May your sons and your grandsons Never fail to perpetuate these services ! '
 
 Ode 6. The Hsin Nan Shan.
 
@@ -16086,8 +15308,6 @@ conclusion that the ode was written, in compliment to the sacrificer,
 by one of the relatives who shared in the feast ; and so here he
 addresses him directly.
 
-
-ODE 6. THE MINOR ODES OF THE KINGDOM. 369
 
 of which this is the middle one, seem all to be royal odes. The
 mention of * the southern hill ' strongly confirms this view.
@@ -16169,8 +15389,6 @@ meaning the produce of ten acres in every hundred, and of a
 thousand in every ten thousand.
 
 
-ODE 7- THE MINOR ODES OF THE KINGDOM. 37 1
-
 Stores, And with them feed the husbandmen. From
 of old we have had good years ; And now I go to
 the south-lying acres, Where some are weeding,
@@ -16250,8 +15468,6 @@ them in the blazing fire !
 
 ^ The ancient Shan Nang, as in the preceding ode.
 
-
-ODE 8. THE MINOR ODES OF THE KINGDOM. 373
 
 The clouds form ia dense masses, And the rain
 comes down slowly. May it first rain on our public
@@ -16335,12 +15551,7 @@ drums, but it was necessary now to remove them more on one side,
 to leave the ground clear for the archers.
 
 * The host first presented a cup to the guest, which the latter
-drank, and then he returned a cup to the host. After this pre-
-
-
-ODE 6. THE MINOR ODES OF THE KINGDOM. 375
-
-target is set up ; The bows and arrows are made
+drank, and then he returned a cup to the host. After this pretarget is set up ; The bows and arrows are made
 ready for the shooting. The archers are arranged
 in classes ; * Show your skill in shooting,' (it is said
 by one). ' I shall hit that mark ' (is the response),
@@ -16463,8 +15674,7 @@ direct line and the collateral branches for a hundred
 generations ^. All the officers of Aau Shall (also)
 be illustrious from ag^e to a^e.
 
-They shall be illustrious from age to age, Zealously and reverently pursuing their plans. Admir-
-able are the many officers, Born in this royal
+They shall be illustrious from age to age, Zealously and reverently pursuing their plans. Admirable are the many officers, Born in this royal
 kingdom. The royal kingdom is able to produce
 them, The supporters of (the House of) A'au.
 Numerous is the array of officers. And by them
@@ -16491,8 +15701,6 @@ constitute the branches of the great A'au tree.
 
 ^ The Shang or Yin dynasty of kings superseded by Aau.
 
-
-ODE I. THE MAJOR ODES OF THE KINGDOM. 379
 
 than hundreds of thousands. But when God gave
 the command, They became subject to KdiU.
@@ -16623,8 +15831,6 @@ Shen-hsi.
 ^ ' The ceremonies ' would be various ; first of all, divination by
 means of the tortoise-shell.
 
-
-382 THE" SHIH KING. DECADE I.
 
 ment, And In accordance with it smote the great
 Shang.
@@ -17275,8 +16481,6 @@ stanza, — and that she did so all alone with the special object which
 is mentioned.
 
 
-ODE I. THE MAJOR ODES OF THE KINGDOM. 397
-
 That her childlessness might be taken away. She
 then trod on a toe-print made by God, and was
 moved \ In the large place where she rested. She
@@ -17867,8 +17071,7 @@ and curses. Without limit, without end.'
 
 King Wan said, ' Alas ! Alas ! you (sovereign of)
 Yin-shang, You show a strong fierce will in the
-centre of the kingdom. And consider the contracting of enmities a proof of virtue. All-unintelli-
-gent are you of your (proper) virtue, And so you
+centre of the kingdom. And consider the contracting of enmities a proof of virtue. All-unintelligent are you of your (proper) virtue, And so you
 have no (good) men behind you, nor by your side.
 Without any intelligence of your (proper) virtue,
 You have no (good) intimate adviser or minister.'
@@ -18470,9 +17673,6 @@ Shan-ffi.
 or of an expedition. Sec note 2 on p. 399.
 
 
-426 THE SHIII KING.
-
-
 DECADE III.
 
 
@@ -18602,8 +17802,6 @@ Heaven is represented as letting it down.
 ^ Compare ode 9 of the fourth decade in the former Part.
 
 
-ODE II THE MAJOR ODES OF THE KINGDOM. 429
-
 its net, And soon (all will be caught in it). (Good)
 men are going away, And my heart is sad.
 
@@ -18675,9 +17873,6 @@ supposed to have been produced in Shao, and the principalities
 south of it within his jurisdiction, by the duke.
 
 
-BOOK II. 2. LESSONS FROM THE STATES. 43 1
-
-
 Ode 2. The Zhai Fan.
 
 CELEBRATING THE INDUSTRY AND REVERENCE OF A PRINCE's WIFE,
@@ -18747,8 +17942,7 @@ is the subject of the piece. The princes of states were succeeded,
 as a rule, by the eldest son of the wife proper. Their sons by
 other wives were called ' other sons.' The eldest son by the wife
 proper of one of them became the 'great ancestor' of the clan
-descended from him, and ' the ancestral chamber' was an apartment dedicated to him. Mao and other interpreters, going on cer-
-tain statements as to the training of daughters in the business of
+descended from him, and ' the ancestral chamber' was an apartment dedicated to him. Mao and other interpreters, going on certain statements as to the training of daughters in the business of
 sacrificing in this apartment for three months previous to their
 marriage, contend that the lady spoken of here was not yet
 married, but was only undergoing this preparatory education.
@@ -18842,8 +18036,6 @@ convey. This appears to be what we often mean by ' Providence,'
 when we speak of anything permitted, rather than appointed, by
 the supreme ruling Power.
 
-
-ODE 3. LESSONS FROM THE STATES. 435
 
 what the Chinese have always considered a great virtue, — the
 refusal of a widow to marry again.
@@ -18939,8 +18131,6 @@ was arrived.
 * Kh\l, or Khn-khm, was the new capital of Wei, in the present district of A7iang-wu, department S-^ao-z^au, Shan-tung.
 
 
-BOOK V. 4. LESSONS FROM THE STATES. 437
-
 its aspects by means of the sun. He built the
 palace at AVzu. He planted about it hazel and
 chesnut trees, The I, the Thung, the 3ze, and the
@@ -19021,8 +18211,6 @@ of seduction. The critics dwell on the inconsistency of divination
 being resorted to in such a case: — 'Divination is proper only if
 used in reference to what is riQ:ht and moral.'
 
-
-ODE I. LESSONS FROM THE STATES. 439
 
 of A'au, near the present Lo-yang, and called ' the eastern
 capital.' Meetings of the princes of the states assembled there ;
@@ -19196,8 +18384,6 @@ charge of the herds of horses belonging to king Hsiao (b.c. 909-
 as the widow thinks of them, her grief becomes more intense.
 
 
-ODE 6. LESSONS FROM THE STATES. 443
-
 the small territory of AV/in, as an attached state. A descendant
 of his, known as duke Hsiang, in consequence of his loyal services, when the capital was moved to the east in b. c. 770, was
 raised to the dignity of an earl, and took his place among the
@@ -19277,8 +18463,6 @@ of the Odes of the Royal Domain, and the eighth of those of
 Thanof.
 
 
-ODE I. LESSONS FROM THE STATES. 445
-
 full of interest ; but it is not till we come to the concluding stanza
 that we find anything bearing on their religious practices.
 
@@ -19319,8 +18503,6 @@ offered when the ice began to be collected. The ceremony may be
 taken as an illustration of the manner in which religious services
 entered into the life of the ancient Chinese.
 
-
-446 TPIE SHIH KING. BOOK XV.
 
 the cup of rhinoceros horn, Wish him long hfe, —
 that he may Hve for ever \
@@ -19469,9 +18651,6 @@ Piety, he repeated to the disciples of his own school what
 formed the treatise.'
 
 
-452 THE HSIAO KING.
-
-
 Chapter II.
 
 The Recovery of the Hsiao King under the Han
@@ -19557,9 +18736,6 @@ Wan feasted the San lao and Wii kang, 'the three classes of old men and
 five classes of men of experience,' in his royal college. The three classes of old
 men were such as were over 80, 90, and 100 years respectively. It was from
 a man of one of these classes that the emperor received the Hsiao in the old
-
-
-454 THE HSIAO KING.
 
 
 (better known as Wang Po-hau, A. D. 1 233-1296), say that
@@ -19653,9 +18829,6 @@ are suspicious resemblances between the style and method
 of the present classic and those of the original works of
 
 
-456 THE HSIAO KING.
-
-
 Hsiang that have come down to us. It is impossible to
 say, from the want of information, what Hberties he took
 with the documents put into his charge. The differences
@@ -19736,9 +18909,6 @@ tablets were in all 650,252. Mr. T. W. Rhys Davids (Buddhism, p. 19) estimates t
 The first Psalm, in what is called the Delegates' version, very good and concise, contains 100 Chinese characters, and in our English version 130 words.
 The classics of the Thang tablets, if the translator were a master of both languages, might be rendered in English so as to form a volume not quite so large
 as our Bible.
-
-
-458 THE HSIAO KING.
 
 
 It is hardly necessary to say more on the preservation
@@ -19824,9 +18994,6 @@ slight, — hardly greater than the variations in the different recensions of ou
 Gospels and the other books of the New Testament.
 
 
-460 THE HSIAO KING.
-
-
 some of the passages which he suppressed, and to the
 reasons, generally satisfactory, which he advanced for his
 procedure. Evidently he was influenced considerably by
@@ -19890,8 +19057,7 @@ the first and eighth emperors of the eastern ATin dynasty
 ninth of the northern Wei (386-534) had published their
 labours upon it. The Manchau rulers of the present dynasty
 have signalised themselves in this department. In 1656 the
-first emperor produced in one chapter his ' Imperial Commentary on the Hsiao King,' and in 1728 the third pub-
-lished a ' Collection of Comments ' on it. Between them was
+first emperor produced in one chapter his ' Imperial Commentary on the Hsiao King,' and in 1728 the third published a ' Collection of Comments ' on it. Between them was
 the long reign known to us as the Khang-hsi period (1662-
 1722), during which there appeared under the direction of
 the second emperor, the most distinguished of his line,
@@ -19916,13 +19082,9 @@ containing, even as expurgated by A'u, about 400 characters,
 may be correctly ascribed to the sage. I agree with them
 
 
-462 THE HSIAO KING.
-
-in this. All the rest of the treatise, to whomsoever it maybe ascribed, from 3ang-^ze, the immediate disciple of Confu-
-cius, down to Liu Hsiang (b. C. 80-9), took its present form
+in this. All the rest of the treatise, to whomsoever it maybe ascribed, from 3ang-^ze, the immediate disciple of Confucius, down to Liu Hsiang (b. C. 80-9), took its present form
 in the first century before our Christian era. The reader
-will fail to see in it a close connexion between the different chapters, and think that the author or authors try-
-to make more of Filial Piety than can be made of it. The
+will fail to see in it a close connexion between the different chapters, and think that the author or authors tryto make more of Filial Piety than can be made of it. The
 whole, however, is a valuable monument of antiquity, and
 an exhibition of the virtue which Chinese moralists and
 rulers, from the most ancient times, have delighted to celebrate as the fundamental principle of human virtue, the
@@ -20004,8 +19166,6 @@ have rendered this opening address of Confucius very imperfectly.
 [I] H h
 
 
-466 THE HSIAO KING. CH. I.
-
 should I, Shan, who am so devoid of intelhgence,
 be able to know this ? ' The Master said, ' (It was
 filial piety). Now filial piety is the root of (all)
@@ -20045,8 +19205,6 @@ is the way in which ^ix Hst and other critical scholars reconcile the statements
 as to the constituents of humanity.
 
 
-CH. II. FILIAL PIETY IN THE SOVEREIGN. 467
-
 of parents ; it proceeds to the service of the
 ruler ; it is completed by the establishment of
 the character.
@@ -20069,8 +19227,7 @@ the utmost in the service of his parents, the lessons
 of his virtue affect all the people, and he becomes
 
 ^ See the Shih King, HI, i, ode 2, stanza 4. ^u Hsi commences
-his expurgation of our classic with casting out this concluding paragraph; and rightly so. Such quotations of the odes and other pas-
-sages in the ancient classics are not after the manner of Confucius.
+his expurgation of our classic with casting out this concluding paragraph; and rightly so. Such quotations of the odes and other passages in the ancient classics are not after the manner of Confucius.
 The application made of them, moreover, is often far-fetched, and
 away from their proper meaning.
 
@@ -20089,8 +19246,6 @@ in it.'
 
 H h 2
 
-
-468 THE PISIAO KING. CH. III.
 
 a pattern to (all within) the four seas ^ : — this is the
 filial piety of the Son of Heaven ^.
@@ -20131,8 +19286,6 @@ able to protect their ancestral possessions with the produce of
 their lands;' 'They will make sure the supreme rank to their
 
 
-CH. IV. FILIAL PIETY IN HIGH OFFICERS. 469
-
 It is said in the Book of Poetry ^
 ' Be apprehensive, be cautious,
 As if on the brink of a deep abyss,
@@ -20172,8 +19325,6 @@ of the ancient kings would suffice for these, as their enactments
 for the dress.
 
 
-470 THE HSIAO KING. CH. V.
-
 from their mouths there comes no exceptionable
 speech, and in their conduct there are found no
 exceptionable actions. Their words may fill all
@@ -20207,13 +19358,10 @@ loyal ; when they serve their superiors with reverence they are obedient. Not fa
 ^ Their ancestral temples were to the ministers and grand
 officers what the altars of their land and grain were to the feudal
 lords. Every great officer had three temples or shrines, in which
-he sacrificed to the first chief of his family or clan ; to his grandfather, and to his father. While these remained, the family re-
-mained, and its honours were perpetuated.
+he sacrificed to the first chief of his family or clan ; to his grandfather, and to his father. While these remained, the family remained, and its honours were perpetuated.
 
 " See the Shih, III, iii, ode 6, stanza 4.
 
-
-CH, VI. FILIAL PIETY IN THE COMMON PEOPLE. 47 1
 
 and obedience in serving those above them, they
 are then able to preserve their emokiments and
@@ -20300,8 +19448,6 @@ and had not come from Confucius. The discourse in the 3o
 ATwan, which is quite lengthy, these sentences being only the com-
 
 
-CH. VII. FILIAL PIETY AND THE THREE POWERS. 473
-
 ' Yes, filial piety is the constant (method) of Heaven,
 the righteousness of Earth, and the practical duty of
 Man ^ Heaven and earth invariably pursue the
@@ -20333,8 +19479,7 @@ P. Cibot gives a correct translation of the first part in a note, but
 adds that it carries the sense of the text much too high, and would
 bring it into collision with the prejudices of the west, and he has
 preferred to hold to the more common explanation : — ' Ce qu'est
-la r^gularite des monuments des astres pour le firmament, la fertility des campagnes pour la terre, la Pi^td Filiale Test constam-
-ment pour les peuples!'
+la r^gularite des monuments des astres pour le firmament, la fertility des campagnes pour la terre, la Pi^td Filiale Test constamment pour les peuples!'
 
 ^ An amusing translation of this sentence is found in Samuel
 Johnson's ' Oriental Religions, China,' p. 208, beginning, ' Filial
@@ -20342,13 +19487,10 @@ Piety is the Book of Heaven !' Mr. Johnson does not say where
 he got this version.
 
 
-474 THE HSIAO KING. CH. VIII.
-
 ' The ancient kings, seeing how their teachings ^
 could transform the people, set before them therefore an example of the most extended love, and
 none of the people neglected their parents ; they set
-forth to them (the nature of) virtue and righteousness, and the people roused themselves to the prac-
-tice of them ; they went before them with reverence
+forth to them (the nature of) virtue and righteousness, and the people roused themselves to the practice of them ; they went before them with reverence
 and yielding courtesy, and the people had no contentions ; they led them on by the rules of propriety
 and by music, and the people were harmonious and
 benignant ; they showed them what they loved and
@@ -20378,8 +19520,6 @@ cannot insist on internal evidence.
 ' Under the -^au dynasty there were five orders of nobility, and
 the states belonging to their rulers varied proportionally in size.
 
-
-CH. VIII. FILIAL PIETY IN GOVERNMENT. 475
 
 ' The rulers of states did not dare to slight wifeless men and widows ; — how much less would they
 slight their officers and the people ! Thus it was
@@ -20464,8 +19604,6 @@ of his countrymen down to the present day.'
 ^ It is difficult to say in what the innovation of the duke of iTau
 
 
-CH. IX. THE GOVERNMENT OF THE SAGES. 477
-
 ' Formerly the duke of Kkw at the border altar
 sacrificed to Hau-Zn as the correlate of Heaven,
 and in the Brilliant Hall he honoured king Wan,
@@ -20513,8 +19651,6 @@ the Brilliant Hall, to king Wan, as ' the correlate of God.' The
 first three lines have been versified by —
 
 
-478 THE HSIAO KING. CH. ix.
-
 consequence was that from (all the states) within
 the four seas, every (prince) came in the discharge
 of his duty to (assist in those) sacrifices. In the
@@ -20560,9 +19696,6 @@ explained in Exodus xv. 1 4 ; while T i is God, ' our Father in
 heaven.'
 
 
-CH. IX. THE GOVERNMENT OF THE SAGES. 479
-
-
 rous, was effective. What they proceeded from was
 the root (of fihal piety implanted by Heaven).
 
@@ -20601,8 +19734,6 @@ un autre oil ils ne comprennent rien.' But there is neither difficulty
 in the construction of the text here, nor mystery in its meaning.
 
 
-480 THE HSIAO KING. CH. X.
-
 * It is not SO with the superior man. He speaks,
 having thought whether the words should be spoken ;
 he acts, having thought whether his actions are sure
@@ -20638,14 +19769,11 @@ together passages from the 3o A'wan.
 ^ See the Shih, I, xiv, ode 3, stanza 3.
 
 
-CH. XII. THE ALL-EMBRACING RULE. 481
-
 ' He who (thus) serves his parents, in a high
 situation, will be free from pride ; in a low situation,
 will be free from insubordination ; and among his
 equals, will not be quarrelsome. In a high situation
-pride leads to ruin ; in a low situation insubordination leads to punishment ; among equals quarrel-
-someness leads to the wielding of weapons.
+pride leads to ruin ; in a low situation insubordination leads to punishment ; among equals quarrelsomeness leads to the wielding of weapons.
 
 ' If those three things be not put away, though
 a son every day contribute beef, mutton, and pork*
@@ -20718,8 +19846,6 @@ reason similarly of the other two cases of reverence specified.
 sovereign. P. Cibot translates it by ' un prince.'
 
 
-CH. XV. FILIAL PIETY IN RELATION TO REPROOF. 483
-
 ' It is said in the Book of Poetry^,
 
 " The happy and courteous sovereign
@@ -20760,8 +19886,6 @@ Shih here are, possibly, not an interpolation.
 I i 2
 
 
-484 THE HSIAO KING. CH. XVI.
-
 although he had not right methods of government,
 he would not lose his possession of the kingdom ;
 if the prince of a state had five such ministers,
@@ -20800,11 +19924,8 @@ of Filial Piety in Relation to ' the Three Powers.' It is indeed a
 sequel to that. Heaven and Earth appear as two Powers, or as
 
 
-CH. XVI. INFLUENCE OF FILIAL PIETY. 485
-
 the right course with reference to their (own) seniors
-and juniors, and therefore they secured the regulation of the relations between superiors and infe-
-riors (throughout the kingdom).
+and juniors, and therefore they secured the regulation of the relations between superiors and inferiors (throughout the kingdom).
 
 'When Heaven and Earth were served with intelligence and discrimination, the spiritual intelligences
 displayed (their retributive power ^),
@@ -20841,8 +19962,6 @@ winds and rain, the absence of epidemic sickness and plague, and
 the repose of all under heaven.' Compare with this what is said
 in 'the Great Plan ' of the Shu, pp. 147, 148.
 
-
-486 THE HSIAO KING. CH. xvil.
 
 utmost reverence, the spirits of the departed manifest themselves ^ Perfect fiHal piety and fraternal
 duty reach to (and move) the spiritual intelligences,
@@ -20886,8 +20005,6 @@ officer in the royal domain or at a feudal court.
 * See the Shih, II, viii, ode 4, stanza 4.
 
 
-CH. XVIII. FILIAL PIETY IN MOURNING. 487
-
 Chapter XVIII.
 Filial Piety in Mourning for Parents. ^
 
@@ -20925,8 +20042,6 @@ It is not thought necessary to give any details as to the other
 different rites of mourning which are mentioned. They will be
 found, with others, in the translations from the Li A'l.
 
-
-488 THE HSIAO KING. CH. XVIII.
 
 there they lay the body in peace. They prepare
 the ancestral temple (to receive the tablet of the

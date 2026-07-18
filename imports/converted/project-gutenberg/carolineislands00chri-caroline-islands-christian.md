@@ -1,213 +1,4 @@
 # The Caroline Islands: Travel in the Sea of the Little Lands
-
-CONTENTS
-
-
-PACE
-PREFACE ........ IX
-
-INTRODUCTION ........ I
-
-GENERAL SKETCH OF THE CAROLINES ..... I7
-
-PART I
-
-CHAP
-
-
-I. SYDNEY TO HONG KONG .....
-
-II. HONG KONG TO MANILLA ....
-
-^III. YAP AND THE MARIANNES TO PONAPE — DESCRIPTION OF
-PONAPE ......
-
-IV. NALAP ISLAND — PONAPEAN SUPERSTITIONS AND CHARACTER
-V. FIRST AND SECOND VISITS TO THE RUINS OF NAN-MATAL
-VI. THIRD VISIT TO THE RUINS ....
-
-VII. VISIT TO CEMETERY OF THE CHOKALAI OR LITTLE PEOPLE,
-PONAUL AND LANG TAKAI, AND RETURN FROM METALANIM
-TO KITI AND COLONY . . . . . .110
-
-PART II
-
-VIII. PONAPE : DRESS, INDUSTRIES, AND MANUFACTURES . . 122
-
-IX. VISIT TO MOKIL, PINGELAP AND KUSAIE . . . I42
-
-X. STAY ON LELE ....... I54
-
-PART III
-
-XI. RETURN TO COLONY ; VISIT TO MUTOK AND PANIAU . . 175
-
-XII. FEAST IN MUTOK, KAVA-MAKING, THE STORY OF THE NAMING
-
-OF BIRDS, MAKING OF FISH OIL DESCRIBED . . . 186
-
-XIII. PANIAU TO COLONY . . . . . -197
-
-XIV. FROM PANIAU TO MARAU ..... 209
-XV. PANIAU TO COLONY, THENCE TO GUAM AND YAP . . 22$
-
-PART IV
-
-XVI. DESCRIPTION OF YAP ; TOMIL TO LAI .... 234
-
-XVII. VISIT TO ONOTH AND GOROR ..... 247
-
-XVIII. TO TOMIL, LAI, ELIK, JOURNEY BY BOAT TO NORTH YAP . 262
-
-XIX. STAY IN PILAU, FOLK-LORE, LEGEND OF FLOOD, AN ACCOUNT
-
-OF THE TABU SYSTEM OF YAP .... 278
-
-XX. NORTH YAP — RETURN TO TARRANG .... 294
-
-XXI. STAY AT TARRANG AND DEPARTURE FOR HONG KONG . . 310
-
-
-Vlll
-
-
-CONTENTS
-
-
-APPENDIX
-
-
-(a) CLAN NAMES OF PONAPE ....
-(d) NAMES OF NATIVE DISEASES
-
-(c) PONAPEAN TREES, PLANTS AND SHRUBS
-
-(d) SUPPLEMENTARY LIST OF YAP PLANT AND TREE NAMES
-(<?) PONAPEAN FISHES, INSECTS, BIRDS, AND ANIMALS
-(/) MARINE CREATURES OF YAP
-
-ig) PONAPE ONOMATOPCEAS, OR IMITATIVE SOUNDS
-{A) PONAPE GODS
-
-(z) YAP GODS ....
-
-ij) VARIETIES OF BREADFRUIT IN PONAPE
-(/&) PONAPE— DAYS OF THE MOON'S AGE
-(/) LAMOTREK STAR-NAMES
-{m) MORTLOCK STAR-NAMES
-(n) YAP STAR-NAMES
-(o) LAMOTREK GODS
-
-(/) LAMOTREK — DAYS OF THE MOON's AGE
-(<7) MORTLOCK ISLANDS— DAYS OF THE MOON'S AGE
-(r) MORTLOCK MONTHS .
-{s) MORTLOCK GODS
-(^) YAP — DAYS OF THE MOON'S AGE
-(Zi) NAMES OF MONTHS IN YAP YEAR
-{v) ULEAI — DAYS OF THE MOON'S AGE
-{w) SOUTH KENSINGTON MUSEUM NOTES
-(x) KUSAIAN TEXTILES .
-{_y) PONAPEAN SHELL — ADZES .
-(2) COMPARATIVE TABLE OF THE NAMES FOR THE FOUR QUARTERS IN
-
-THE MICRONESIAN AND INDONESIAN AREAS
-
-
-LIST OF ILLUSTRATIONS
-
-
-N.-W. ANGLE OF CYCLOPEAN ENCLOSURE ON LELE ISLAND
-
-
-F rontispieci
-
-
-MILLE LAGOON, MARSHALL GROUP . . . . .
-
-THE WALLED ISLET OF UCHENTAU — OUR CAMPING PLACE IN
-
-METALANIM
-GROUP OF YAP NATIVES
-THE KING OF U AND FAMILY
-A PALIKER FISHING CANOE
-A NATIVE OF LOT
-
-S.-E. ANGLE OF INNER WALL OF NAN-TAUACH .
-PATTERNS IN PONAPEAN WOOD-CARVING {twO half-plates)
-GREAT CENTRAL VAULT, NAN-TAUACH
-BREAKWATER AT NAN-MOLUCHAI
-THE HAUNTED ISLAND OF PAN-KATARA
-INNER ANGLE OF GREAT OUTER WALL, NAN-TAUACH .
-KING PAUL'S BIG CANOE ....
-
-SOUTH SIDE OF INNER ENCLOSURE, NAN-TAUACH
-N.-E. ANGLE OF INNER COURT, NAN-TAUACH .
-N.-E. ANGLE OF OUTER WALL, NAN-TAUACH .
-S.-W. SHOULDER OF INNER LINE OF WALL, NAN-TAUACH
-RELICS OF OLD SEA-WALL, NAKAP ISLAND
-PONATIK CHIEF
-THE BEACH AT LOT
-NANAUA, NEPHEW OF KING ROCHA
-A PONAPEAN CANOE
-CARVED DANCING PADDLES
-PILUNG ADOLOL, A CHIEF OF RUL
-PONAPEAN HOUSE
-LANDING-PLACE, LELE HARBOUR
-KUSAIAN BAGS .
-
-
-PAGE
-
-
-LIST OF ILLUSTRATIONS
-
-
-WOMAN S KUSAIAN SHAWL
-DEACON OBADIAH OF ARU
-THE GREAT CLIFF OF CHOKACH
-STONE MONEY OF YAP .
-THE HOUSE OF TANIS .
-A PAL OR woman's HOUSE
-
-bachelors' club-house
-a "bai" or lodge in rul district
-
-THE hill-side RUL DISTRICT, .
-KUSAIAN BELTS
-KUSAIAN BELTS
-PONAPEAN SHELL-ADZES
-
-
-PAGE
-
-. 158
-
-. 204
-
-
-.
-
-
-.
-
-
-.
-
-
-MAPS AND PLANS
-
-
-PLAN OF THE SANCTUARY OF NAN-TAUACH
-
-SKETCH MAP OF NAN-MAT AL .
-
-PLAN OF THE CEMETERY OF THE DWARFS
-
-PLAN OF LELE RUINS .
-
-MAP OF THE CAROLINE ISLANDS
-
-
 PREFACE
 
 THE period between the years 1890 and 1893 ^^
@@ -285,8 +76,6 @@ give me a full account later, so that I could have the
 by Admiral Cyprian Bridge, who visited these seas about 1884 in H.M.S.
 Espiegle.
 
-
-PREFACE XI 11
 
 satisfaction of working independently ; and on my return
 we had many interesting discussions together. Soon after
@@ -403,8 +192,6 @@ here. It is largely action such as has been just indicated
 that has made it possible for travellers like Mr Christian
 
 
-INTRODUCTION 3
-
 to move about many of the archipelagos of the Pacific
 Ocean with the freedom necessary to enable them to carry
 on their investigations. Moreover, as these parts of the
@@ -426,8 +213,7 @@ flight by the report of a rifle, I found that the name of
 " Queen Victoreea " was quite familiar to them. To be
 recognised as one of Queen Victoreea's " white chiefs " was
 nearly always and everywhere to ensure a naval officer a
-friendly reception. Where the natives could make themselves intelligible to white visitors they frequently ex-
-pressed warm regard and admiration for Her Majesty.
+friendly reception. Where the natives could make themselves intelligible to white visitors they frequently expressed warm regard and admiration for Her Majesty.
 They have an unfailing confidence in her desire to do
 them good. There was something inexpressively gratifying to an Englishman to notice this far-reaching effect of
 our Queen's beneficent character. In the Pacific it has
@@ -455,8 +241,7 @@ in great number and often of great value, were made, no
 doubt ; but the trained students residing for long periods
 amongst the island people for the purpose of carrying
 out their investigations have been almost exclusively
-" naturalists " or geologists. We owe much of our knowledge of the south sea islanders themselves to mission-
-aries ; but their very calling put them out of sympathy
+" naturalists " or geologists. We owe much of our knowledge of the south sea islanders themselves to missionaries ; but their very calling put them out of sympathy
 with many native customs and institutions deser\'ing of
 study ; whilst the earlier missionaries, i.e. those most
 favoured by opportunity, were without the proper preliminary training.
@@ -474,8 +259,6 @@ result in the discovery of marketable commodities. Even
 now, as Mr Christian has probably found, it is well to
 combine, at least to a small extent, examination of the
 
-
-INTRODUCTION 5
 
 economic botany of an island with linguistic researches.
 Till lately, if not till this very moment, the general interest in the branches of science dealing with material
@@ -566,8 +349,7 @@ however, merely accidental circumstances recalling incidents in a great poem.
 
 What was of real historical interest was the mode in
 which the besiegers carried on the war. On the shore
-was drawn up a line of " hollow ships " — the great oceangoing canoes in which the fearless navigators of the Mar-
-shall group make long voyages. The besieging army,
+was drawn up a line of " hollow ships " — the great oceangoing canoes in which the fearless navigators of the Marshall group make long voyages. The besieging army,
 having disembarked, lay cantoned in rows of huts. The
 battlefield was the space between the cantonment and the
 beleaguered stronghold in which the runaway dame had
@@ -626,8 +408,6 @@ particular areas — bears a strong likeness to the more
 beneficent aspects of the tabu, which is often adopted, on
 the pretext of divine prohibition, to prevent unrestricted
 
-
-INTRODUCTION 9
 
 access to fruit-bearing trees and cultivated plots. The
 traditional, perhaps historically warranted conception of
@@ -696,13 +476,10 @@ English-speaking nations that " stone-walling " or " obstruction '' first origin
 in the legislature of the Vaitupuans. Members of that
 body who were resolved not to allow their proposals to
 be " talked out " were provided with substantial wooden
-couches, on which they could take a nap and thus outstay the longest-winded orator or the most adroitly-
-arranged succession of obstructive motions. These
+couches, on which they could take a nap and thus outstay the longest-winded orator or the most adroitlyarranged succession of obstructive motions. These
 couches, which had evidently been long in use, were
 shown to visitors sixteen years ago.
 
-
-INTRODUCTION 1 1
 
 Several South Sea Island races are not now savage in
 any sense, except as to rarity of trousers and absence of
@@ -775,8 +552,6 @@ study, viz. language, the Pacific Islands offer a fine field
 for investigation. The evolution of dialects, and, perhaps,
 of distinct languages, can be followed as we follow an
 
-
-INTRODUCTION 13
 
 experiment in a laboratory. On Mallicolo (Malekula) and
 Espiritu Santo of the New Hebrides one could measure
@@ -852,8 +627,6 @@ United Kingdom and the Australasian colonies, this must
 have been a comfort. We are often ready to assume that
 a work must be good because those who do it are men of
 
-
-INTRODUCTION 15
 
 noble spirit and unselfish practice. Intimacy with some
 of the British missionaries of all the churches cannot fail
@@ -1000,8 +773,6 @@ inland are extensive swamps laid out in plantations of a
 ^ Recent events have proved these words only too true.
 
 
-SKETCH OF THE CAROLINE GROUP 19
-
 water taro, the Colocasia of the Nile valley. The island
 is full of relics of a vanished civilisation — embankments
 and terraces, sites of ancient cultivation, and solid roads
@@ -1082,8 +853,6 @@ Islanders style their little sun -scorched coral atolls " Te Ada."
 The island-name Wop or YaJ) in the Western Carolines has the same
 
 
-SKETCH OF THE CAROLINE GROUP 21
-
 about seventy islands of basalt and coral lying in the
 middle of a lagoon about one hundred and forty miles
 round. There is a fine depth of water and good anchorage for vessels of large draft. There is a great annual
@@ -1158,8 +927,6 @@ can make money too !
 I will refer briefly to the principal explorers who have
 visited these waters.
 
-
-SKETCH OF THE CAROLINE GROUP 23
 
 On the 6th March, 1521, the illustrious navigator
 Magellan discovered the Mariannes to which he gave the
@@ -1243,8 +1010,6 @@ June 16, 1887. — Mr Doane, the head of the Methodist
 Mission, deported to Manilla.
 
 
-SKETCH OF THE CAROLINE GROUP 25
-
 July I, 1887. — Massacre of a detachment of Manilla
 soldiers under Ensign Martinez on the Island of
 Chokach, followed by a general native rising and
@@ -1286,8 +1051,7 @@ one of the leading rebel chiefs of the League.
 
 October 15, 1890. — Second desultory bombardment of
 the Metalanim coast by the Ulloa, Arrival of the
-American corvette Alliance^ demanding compensation for the proposed expulsion of their mission-
-aries, and obtaining 17,000 gold dollars, leaving
+American corvette Alliance^ demanding compensation for the proposed expulsion of their missionaries, and obtaining 17,000 gold dollars, leaving
 on 2nd November, and conducting Mr Rand and
 his Methodist colleagues to the Island of Kusaie.
 
@@ -1396,8 +1160,6 @@ fleets of dugong fishers from South New Guinea, who
 have haunted these coasts for many a hundred years.
 
 
-SYDNEY TO HONG KONG 29
-
 The seas hereabouts are famous for beche-de-mer and pearlshell, and Mr J. has several luggers in hand for this
 service, which is one of considerable adventure and hardship. The place is called Somerset, and was formerly the
 residence of the local magistrate appointed by the Government, who has now been removed to Thursday Island.
@@ -1417,8 +1179,7 @@ The island is a barren sandy spot, and the township a
 miserable collection of tumbledown shanties and stores
 faced with shaky verandahs and roofed with corrugated
 iron, which with the fiery heat beating down overhead
-makes the interior a positive furnace, creating a helllike heat and thirst, which many of the settlers appro-
-priately quench with huge draughts of spirits that might
+makes the interior a positive furnace, creating a helllike heat and thirst, which many of the settlers appropriately quench with huge draughts of spirits that might
 have come out of Beelzebub's own private still. Here
 indeed is a wonderful mixture of races for poet, painter,
 or artist of an unhealthy turn of mind. Crapulous, unwashed white men with low foreheads and cunning shifty
@@ -1466,8 +1227,6 @@ Barracks, wherein some fifty men of the Permanent Artillery are stationed — st
 bush, suppliers of water, and pioneers of civilisation generally, and preservers of law and order. Let us hope that
 some years of Purgatory may be remitted them for doing
 
-
-SYDNEY TO HONG KONG 3 1
 
 their duty amidst such unpleasant surroundings — and men
 say they perform it well. Lo ! the dingy street is lighted
@@ -1533,8 +1292,7 @@ with the inevitable corrugated iron, shimmering like
 burnished copper in the glare of the evening sun. On
 a closer view, however, some of the houses of the better
 sort appear lying back in little gardens of their own,
-fronted by spacious verandahs with shades of split bamboo-cane, and embowered with masses of roses and climb-
-ing creepers, conspicuous amongst which are the rich
+fronted by spacious verandahs with shades of split bamboo-cane, and embowered with masses of roses and climbing creepers, conspicuous amongst which are the rich
 purple leafy-petaled blossoms of the Bougainvillea and
 the blue and white bells of the convolvulus major. Here
 and there the eye rests pleasantly upon clumps of crotons,
@@ -1546,8 +1304,6 @@ Holtze we drove out next day to visit the Botanical
 Gardens, which lie about three miles out of town a little
 way past Shell Bay, where a friendly tribe of neighbouring blacks are encamped. The former of our entertainers
 
-
-SYDNEY TO HONG KONG 33
 
 is the Police Magistrate of the district, who has contributed
 much interesting knowledge to scientific journals concerning the languages and customs of the native races of the
@@ -1628,8 +1384,6 @@ stretches the great island of Timor, on the southern horn
 of which lies Dilli, our port of destination, one of the last
 
 
-SYDNEY TO HONG KONG 35
-
 strongholds of senile Portugal, erstwhile the successful
 trading rival of the stubborn Dutchman in these far-off
 tropic seas. About fifty hours out, passing Nusa Besi
@@ -1707,8 +1461,6 @@ in some fearful dog-Latin, I felt I could not hold out much
 longer, and was seriously thinking of making a bolt for
 
 
-SYDNEY TO HONG KONG 37
-
 the door, when the catalogue ended. The Governor gave
 a liberal order, which was promptly filled. Up to present
 date, however, I have never learned that my good old
@@ -1782,8 +1534,6 @@ word-forms akin to the Polynesian.
 As I found out afterwards from further information
 carefully collected and sifted, Timor was anciently an
 
-
-SYDNEY TO HONG KONG 39
 
 important point in the migrations of the Malayan race, in
 whose calendar Timor is still preserved to denote the East
@@ -1859,8 +1609,6 @@ China loom skyward. A week of wonders ashore, and I
 left by the Menmuir for Shanghai and Kobe, just to catch
 
 
-HONG KONG TO MANILLA 41
-
 a passing glimpse of these two famous cities of the East,
 before setting out for Manilla and my yet far-off goal, the
 Carolines. I will set down here no thrice-told tale of
@@ -1893,8 +1641,7 @@ Shimonoseki, passing like imps of Eblis, along our gangway with supplies of coal
 Then back again for a brief space to the cheery life of
 Hong Kong with its cricket matches and dinner parties.
 Here I met several old London friends, amongst them
-the Hon. Stewart Lockhart, one of the most accomplished Chinese scholars in the East, who has since suc-
-ceeded to the post of Colonial Secretary, for which his zeal
+the Hon. Stewart Lockhart, one of the most accomplished Chinese scholars in the East, who has since succeeded to the post of Colonial Secretary, for which his zeal
 and fine abilities had already marked him out. By his kind
 offices I received ample credentials from the Governor,
 Sir William Robinson, to the Spanish Governor- General
@@ -1934,8 +1681,6 @@ vessels of every kind of rig drawn up alongside. We saw
 also numerous Banka or native craft (Javanese Wang-
 Kang) from which the South Sea Island canoe seems to
 
-
-HONG KONG TO MANILLA 43
 
 have been named {cf. Polynesian dialects Wanga, Waka^
 VakUy Va'a, and Wa'a). The Customs Officials were
@@ -2015,14 +1760,11 @@ Luzon Sugar-Refining Company. In time past Malabon
 was a centre of the tobacco industry, which has since been
 
 
-HONG KONG TO MANILLA 45
-
 nearly strangled in the clutch of Government monopoly.
 A number of natives are still employed by a local firm in
 manufacturing the commoner classes of cigars, of which
 there is an enormous annual consumption. On the way
-to Malabon the tram-line runs through the village of Maypayo, where there is a cock-pit keenly attended on Sun-
-days and holidays by the local fancy. Parallel with this
+to Malabon the tram-line runs through the village of Maypayo, where there is a cock-pit keenly attended on Sundays and holidays by the local fancy. Parallel with this
 sporting rendezvous, a few hundred yards back through
 the palms and bamboos lies the village of Caloocan, the
 scene of the late furious engagement between the American
@@ -2061,8 +1803,7 @@ on the border being taken from native trees, fruits and
 flowers.
 
 I attended a grand Fiesta at Malate, interminable processions passing down the village street all day, the houses
-hung with gay banners, and after dark a glorious supperparty of the European residents followed by a brilliant fire-
-work display, and songs, music, cards and dancing, lasting
+hung with gay banners, and after dark a glorious supperparty of the European residents followed by a brilliant firework display, and songs, music, cards and dancing, lasting
 well into the small hours. Some pleasant evenings were
 spent with the Spanish residents, whose hospitality fully
 bore out the old Castilian tradition. I took many country
@@ -2088,8 +1829,6 @@ the line to a big Pampanga village to view the national
 sport. They gave us the seat of honour above the cockpit, whence we witnessed some sharp combats of warlike
 
 
-HONG KONG TO MANILLA 47
-
 roosters before a large and excited audience of natives and
 half-castes who staked their money as freely and merrily
 as holiday makers at Epsom. Next evening we visited
@@ -2106,8 +1845,7 @@ several native markets, Tiangui or Tianggi (Mexican
 Tianquiz\ taking down careful notes of all the odd fishes,
 fruits and vegetables, laid out for sale in the stalls.
 
-The sight of my notebook and pencil so busily employed aroused a deep suspicion amongst the simple-
-minded vendors of fish and buffalo-beef, shrimps and
+The sight of my notebook and pencil so busily employed aroused a deep suspicion amongst the simpleminded vendors of fish and buffalo-beef, shrimps and
 mussels, squid and sausages, taro and tomatos, onions
 and bananas, yams and garlic, cabbages and coconuts,
 sour toddy and medicinal barks. One and all they took
@@ -2166,8 +1904,6 @@ aback at arriving in such dramatic fashion. Not a word
 of reproach from the Captain, only a little good-natured
 chaff. This forbearance of a choleric ocean potentate
 
-
-HONG KONG TO MANILLA 49
 
 and a bit of a martinet reflects infinite credit on Spanish
 politeness.
@@ -2233,16 +1969,10 @@ taste of the rattan. The first and second engineers speak
 English very well, as is generally the case with those on
 the mail-service lines. Many of them, like my two acquaintances came from the Pyrenean Provinces in the
 north of Spain, and spent some years in the Engineering
-School of Instruction in Liverpool. Naturally our con-
-
-
-YAP AND THE MARIANNES TO PONAPE 51
-
-versation often turned on that philological puzzle, the
+School of Instruction in Liverpool. Naturally our conversation often turned on that philological puzzle, the
 Basque language.
 
-At noon on the seventh day out, we raise the westernmost isle of the long Caroline Archipelago — variously-
-termed Yap, Guap or Wap — a low-lying strip of land
+At noon on the seventh day out, we raise the westernmost isle of the long Caroline Archipelago — variouslytermed Yap, Guap or Wap — a low-lying strip of land
 rising in the middle into a round plateau looking down
 upon an exquisitely green belt of coconut palms, and
 recalling exactly my impressions on sighting Tongatabu
@@ -2321,8 +2051,6 @@ gave me the following facts : Discovered by Magellan
 in 1 52 1 and Christianised about 1662, the islands of the
 
 
-YAP AND THE MARIANNES TO PONAPE 53
-
 Marianne or Ladrone group came under Spanish power.
 The present population is under ten thousand, of which
 more than two-thirds are located in Agafia, the metropolis
@@ -2380,8 +2108,7 @@ coral-reefs mixed with a great quantity of mortar made
 of burnt coral lime and sand. One of these curious
 pyramids still standing had on its top a large bowl about
 five feet in depth. This,, according to tradition, was the
-grave of Taga's daughter and in it, sure enough, the explorers found some human bones ; but of these, unfor-
-tunately, no scientific measurements were recorded. This
+grave of Taga's daughter and in it, sure enough, the explorers found some human bones ; but of these, unfortunately, no scientific measurements were recorded. This
 monument is at the end of the village and faces north-west.
 
 Thus far the Spaniard, and it is much to be hoped
@@ -2403,8 +2130,6 @@ nine o'clock a boat comes off, manned by a crew of natives
 under the command of the son of Joe Wilson, the pilot.
 We pulled in through the shallows marked out by a long
 
-
-YAP AND THE MARIANNES TO PONAPE 55
 
 line of stakes. Our way lay under the lee of Goat Island,
 the scenery of which much resembles that of Mauke in the
@@ -2484,12 +2209,7 @@ study of that interesting tongue. However, we contrived
 to make our meaning tolerably clear to one another. It
 turns out from the Governor's account that the ruins lie in
 a district hostile to Europeans, the rulers of which are
-only kept in good humour by the receipt of monthly sub-
-
-
-DESCRIPTION OF PONAPE 57
-
-sidies. As late as six years ago they proved themselves
+only kept in good humour by the receipt of monthly subsidies. As late as six years ago they proved themselves
 treacherous and bloodthirsty to a degree. He tells me
 that the natives are savages no better than heathen Moors
 or Ethiopians, and that sundry ignorant and self-willed
@@ -2566,8 +2286,6 @@ the Wachai of Chokach, whose respective territories
 bounded the colony in the north-east and northwest. The two chiefs were a curious contrast to one
 another. The former is a very genial old gentleman, and
 
-
-DESCRIPTION OF PONAPE 59
 
 a great admirer of English and Americans. He is neither
 Protestant nor Catholic, and I am sorry to say I once
@@ -2770,12 +2488,7 @@ Nanapei has his folk well in hand. There is no lack of
 food in the land, for yams and taro are zealously cultivated. A giant species of Arum {A. costatmn) is especially
 noticeable. The Caroline islanders call it Pulak, the Polynesians Puraka and Kape or 'Ape, In the Philippines it
 is called Gabe, It has a very large tuber, but contains
-much acrid juice, only dispelled by long and careful cook-
-
-
-THE FISHING-STATION OF NALAP 65
-
-ing, and is only eaten in times of famine. There is quite
+much acrid juice, only dispelled by long and careful cooking, and is only eaten in times of famine. There is quite
 a mixture of nationalities in Ronkiti. Men from Ruk and
 the Mortlocks are easily discerned by the enormous size
 of the lower lobe of their ears, unnaturally distended,
@@ -2937,8 +2650,6 @@ published shortly in the Journal of the Polynesian Society of New Zealand at
 Wellington.
 
 
-THE FISHING-STATION OF NALAP 69
-
 and even elegance to a tongue which at first strikes one as
 rather harsh.
 
@@ -2963,8 +2674,7 @@ woman's love.
 In Chinese we find the word for woman affixed to many
 uncomplimentary adjectives.
 
-I pass rapidly over our life upon Nalap, somewhat uneventful, save that one evening we were nearly cap-
-sized on a shoal called the Horseheads, where two years
+I pass rapidly over our life upon Nalap, somewhat uneventful, save that one evening we were nearly capsized on a shoal called the Horseheads, where two years
 ago one of the Kiti chiefs was upset, and lost an entire
 set of false teeth supplied him by a compassionate Spanish
 doctor in Ascension Bay. One little expedition of mine,
@@ -3020,12 +2730,7 @@ to visit the Ant Islands, which lie about twelve miles off
 the west coast. They were colonised from Kiti as the
 Pakin group, a little to the northward was from Chokach.
 The Ant's are a cluster of thirteen small and two larger
-islets, disposed in the usual horse-shoe formation, the prin-
-
-
-PONAPEAN CHARACTER AND SUPERSTITIONS 71
-
-cipal entrance being the Tau-en-iai or Channel of Fire at
+islets, disposed in the usual horse-shoe formation, the principal entrance being the Tau-en-iai or Channel of Fire at
 the south end of Kalap, the largest, upon which live
 about thirty of the Kiti folk, engaged in collecting copra
 from the magnificent groves of cocoanuts that cover one
@@ -3095,8 +2800,6 @@ and hereafter. It is much to be regretted that the Ponapean character has change
 years. Many of the natives have grown thievish, churlish
 and disobliging : this more particularly with the Metalanim
 
-
-PONAPEAN CHARACTER AND SUPERSTITIONS 73
 
 folk on the east coast who are the most difficult of all the
 tribesmen.
@@ -3175,8 +2878,6 @@ and solemn funeral orations. They are most unwilling to
 repeat the name of a dead ancestor — a very Melanesian
 
 
-PONAPEAN CHARACTER AND SUPERSTITIONS 75
-
 trait Consequently, I did not meet with in Ponape anyelaborate family genealogies, like the ancient and carefully
 preserved oral records of the Marquesans and Maoris, and
 the kindred Polynesian races. Something of the sort may
@@ -3250,8 +2951,6 @@ present. The king was a corpulent old man with a large
 broad head, and a massive square chin, his somewhat heavyfeatures being of a Melanesian rather than Polynesian
 type. Looking into his shifty eyes I could see surly
 
-
-FIRST VISIT TO THE RUINS OF NAN-MATAL 77
 
 pride mingled with suspicion and vague uneasiness. The
 gruff old churl's countenance irresistibly recalled to me the
@@ -3331,8 +3030,6 @@ merriment of our guides was hushed, and conversation
 died down to whispers.
 
 
-FIRST VISIT TO THE RUINS OF NAN-MATAL 79
-
 We were bound for Uchentau, where a little native
 house had been set apart for our temporary camp. We
 arrived about nightfall, and as there was no particular use
@@ -3377,8 +3074,7 @@ structures of Ake, and Chichen-Itza in Yucatan. A
 series of huge rude steps brings us into a spacious courtyard, strewn with fragments of fallen pillars, encircling
 a second terraced enclosure with a projecting frieze or
 cornice of somewhat Japanese type. The measurement
-of the outer enclosure, as we afterwards roughly ascertained, was some 185 feet by 1 1 5 feet, the average thick-
-ness of the outer wall 15 feet, height varying from 20 to
+of the outer enclosure, as we afterwards roughly ascertained, was some 185 feet by 1 1 5 feet, the average thickness of the outer wall 15 feet, height varying from 20 to
 nearly 40 feet. The space within can only be entered
 by the great gateway in the middle of the western face,
 and by a small ruinous portal in the north-west corner.
@@ -3396,8 +3092,7 @@ other of these vaults, the double line of terraces built
 up of basalt and limestone blocks, and the several
 courtyards separated off by low intersecting lines of
 wall. In this connection Kubary remarks, and I think
-very truly, " A certain irregularity in the whole building, as in the differing height and breadth of indi-
-vidual terraces, betokens a variety of builders, following
+very truly, " A certain irregularity in the whole building, as in the differing height and breadth of individual terraces, betokens a variety of builders, following
 one another, and knowing how to give expression to their
 respective ideas."
 
@@ -3450,8 +3145,6 @@ Scale 1 incfv to 40 feet.
 Plan of the double parallelogram enclosed bj the walls (^ NanTauach,
 in the district of Nan Matal, tribe of Metalanim. East coast of Ponape.
 
-
-FIRST VISIT TO THE RUINS OF NAN-MATAL 8 1
 
 doctor, Pereiro Cabeza, who in 1890 nearly lost his life in
 battle near these same ruins, has to say. " Between the discovery of Ponape in 1595 and modern times the island
@@ -3530,8 +3223,6 @@ ancient fort and holy place crowning one of the hills above
 Marau on the Kiti coast. In the same district similar
 
 
-FIRST VISIT TO THE RUINS OF NAN-MATAL 83
-
 ruins are reported in the hill-settlement of Chalapuk near
 the head-waters of the Ronkiti River.
 
@@ -3575,8 +3266,7 @@ horde from the Pali-Air, the barren lands of the south,
 probably some portion of New Guinea or the Melanesian
 Islands, led by a fierce and terrible warrior, Icho-Kalakal,
 Kubary's Idzi-Kolkol. Swarms of savage invaders poured
-in upon the peaceful settlers, and almost completely destroyed the ancient civilisation after an obstinate resist-
-ance, in which numbers were slain on both sides ; the
+in upon the peaceful settlers, and almost completely destroyed the ancient civilisation after an obstinate resistance, in which numbers were slain on both sides ; the
 king himself, in his flight, being drowned in the Chapalap
 River at the head of Metalanim Harbour. The pitying
 Ani or gods changed him into a blue river fish, the Kital^
@@ -3618,8 +3308,6 @@ oi \ 3
 
 - o
 
-
-SECOND VISIT TO THE RUINS 85
 
 2. A wonderful similarity in root-words between Ponapean and the language of the Gilbert group and the
 dialect of Efate in the New Hebrides and that of Mota in
@@ -3665,8 +3353,7 @@ on the walls heedless of tottering slabs, tearing away long
 festoons of creeper and great clumps of weed and fern,
 close-rooted in the crevices of the mighty structure. The
 patient man with the camera clicks off view after view of
-the massive walls sullenly frowning down upon the assailants, who have rent their way through the mazy wilder-
-ness and lifted the veil of clinging greenery and let in the
+the massive walls sullenly frowning down upon the assailants, who have rent their way through the mazy wilderness and lifted the veil of clinging greenery and let in the
 light of day upon these halls of Eblis. A jovial party
 surrounds the blazing hearth that night, all but Keroun,
 who sits apart fitfully muttering to himself, a prey to
@@ -3696,8 +3383,6 @@ March 17th was spent in digging in chambers A and
 B with moderate results. I returned with my party to
 Ponatik in the afternoon, leaving the exploration of the
 
-
-SECOND VISIT TO THE RUINS 87
 
 pits, the taking of more elaborate measurements, and
 photographing of the north side for next excursion.
@@ -3838,10 +3523,7 @@ We also turned up a vast number of fragments of bone,
 portions of skulls and bits of shell-bracelets, a couple of
 
 
-THIRD VISIT TO THE RUINS 91
-
-small shell gouges, a piece of iron resembling a spearhead, and a smoke-coloured fragment of vitreous appear-
-ance, that Kubary and others since have pronounced to be
+small shell gouges, a piece of iron resembling a spearhead, and a smoke-coloured fragment of vitreous appearance, that Kubary and others since have pronounced to be
 obsidian or volcanic glass, the Itztli of the ancient
 Mexicans.
 
@@ -3875,8 +3557,7 @@ by Mr Le Hunt in 1885, who happily describes them as a
 scarlet waterfall of blossom. The afternoon of March
 25 th was spent in clearing the walls of the inner precinct,
 and taking various photographs. Just beyond the crosswall at the back of vault B we saw a long basalt slab
-curved into a shallow crescent and balanced on two projecting shafts of masonry on the inner side of the south-
-west wall. When tapped it gave a clear ringing sound,
+curved into a shallow crescent and balanced on two projecting shafts of masonry on the inner side of the southwest wall. When tapped it gave a clear ringing sound,
 and was probably used for an alarum or for a sort of bell
 in sacred ceremonies. We found just such another subsequently in Nanapei's settlement of Ronkiti. I brought
 it home and it is now in the British Museum.
@@ -3919,8 +3600,6 @@ It may be well here to take some of the island names
 
 %.'
 
-
-THIRD VISIT TO THE RUINS 93
 
 and explain them, giving at the same time any interesting
 points attaching to them, for some of them throw light on
@@ -4017,8 +3696,6 @@ THE HAUNTED ISLAND OF PAN-KATARA
 INNER ANGLE OF GREAT OUTER WALL, NAN-TAUACH
 
 
-THIRD VISIT TO THE RUINS 95
-
 shadow it, and similarly a neighbouring islet is named
 Pan-Tipopj i.e. Under the Tipop or Tupap^ from a huge
 umbrella tree (the Pacific almond) which grows at its
@@ -4083,8 +3760,7 @@ tale of the Itet monster.
 
 In the reign of King Chau-te-Leur, a huge lizard (Kieil
 alap amen) came swimming into the great harbour and
-took up its quarters on the island of Pan-Katara, otherwise called Pangothra. Taking him for an Ani or tute-
-lary genius, they brought him baskets of fruit and savoury
+took up its quarters on the island of Pan-Katara, otherwise called Pangothra. Taking him for an Ani or tutelary genius, they brought him baskets of fruit and savoury
 messes of cooked yams and bananas to conciliate the
 favour of their spectral-looking visitor (man likamichik
 aman). As might well be expected, vegetable diet did
@@ -4100,8 +3776,6 @@ which was kept in Nan-Matal and fed as a sacred animal.
 "^ This probably represents a human sacrifice. In the same way in New
 Zealand, Ika or Ngohi, a fish, is used to denote a human victim.
 
-
-THIRD VISIT TO THE RUINS 97
 
 the tribe went forth to battle with the monster. But he
 came forward very angry, seized some of the boldest in his
@@ -4234,7 +3908,6 @@ uJ
 
 f
 
-THIRD VISIT TO THE RUINS 99
 
 the firing which presently began from a body of natives
 in ambush, was disabled by a bullet in the knee" (for
@@ -4281,8 +3954,7 @@ flat stone on the Chapalap River called Takai-nin-Talang.
 It stands near Ketam where the Spanish met with such a
 warm reception in 1892. It has prints of a man's feet in
 the stone, and on its face weapons carved in outline, which
-from his description mightily resemble the Japanese Katana or curved swords. He gave us further edifying anec-
-dotes ; amongst others, one of his meeting a boat-load of
+from his description mightily resemble the Japanese Katana or curved swords. He gave us further edifying anecdotes ; amongst others, one of his meeting a boat-load of
 missionaries on the Matup flats near Metalanim Harbour,
 whilst he was taking a cargo of kava down to a Fijian
 trading schooner lying in port. " Oh, for shame, Mr
@@ -4393,8 +4065,6 @@ N.E. INNER ANGLE OF INNER COURT, NAN-TAUACH
 
 N.E. ANGLE OF OUTER WALL, NAN-TAUACH
 
-
-THIRD VISIT TO THE RUINS 103
 
 the network of canals rippling beneath the screen. In
 clearing this angle on the inner side we found the stonework less regular than on the outer face, where these
@@ -4548,8 +4218,6 @@ headquarters, and strongly advising him to run no risks
 by giving his men leave to go ashore in the present state
 
 
-THIRD VISIT TO THE RUINS 107
-
 of affairs. And the same afternoon we started for Lot,
 where for the next two or three days we had ample work
 in hand, sorting and washing curios, with Theodoro
@@ -4638,8 +4306,6 @@ THE BEACH AT LOT
 RUIZ SURROUNDED WITH BUNCHES OF KARRAT OR GIANT PLANTAINS
 
 
-THIRD VISIT TO THE RUINS 109
-
 he was fortunate enough to drive the king back upon the
 chief island, and even to kill him. This Idzikolkol was
 the founder of the customs which endure to this day, and
@@ -4697,8 +4363,7 @@ will be remembered having finished all his plates, much to
 his satisfaction had been despatched across the border to the
 Catholic settlement of King Rocha at Aleniang — to perform his chemical operations in peace, and there abide
 collecting and labelling botanical specimens until he
-received further instructions. Accordingly one fine morning Joe Kehoe, his eldest son Lewis, and myself are trudg-
-ing sturdily up the hill-ridge behind Nantamarui over a
+received further instructions. Accordingly one fine morning Joe Kehoe, his eldest son Lewis, and myself are trudging sturdily up the hill-ridge behind Nantamarui over a
 rough, steep and intricate trail — I will not call it pathway
 — thickly carpeted with the convolvuluses Yo/ and Chenchel.
 The weeds underfoot treacherously hide from our view
@@ -4773,8 +4438,7 @@ seems no reason why the tale of the Au should not be
 true, and that we have here overlapped and all but exterminated the survivors of the Negrito race who made these
 curious little graves. Be it remarked that in Ponape, the
 Marquesas, and many other islands, the natives have a
-dread of venturing too far into the interior — their sensitive fancies filling the mountain jungle with deadly lurk-
-ing influences and the arrows of fairy foes — doubtless a
+dread of venturing too far into the interior — their sensitive fancies filling the mountain jungle with deadly lurking influences and the arrows of fairy foes — doubtless a
 recollection of early struggles of the Malayan races in
 Indonesia and their own islands with the dwarf aborigines
 of the mountain and the bush.
@@ -4859,8 +4523,6 @@ H
 u
 
 
-VISIT TO CHOKALAI CEMETERY 113
-
 fibrous roots of the bush-ferns, which in thick wavy
 clumps flourish under the shadow of great forest trees.
 We set to work at our excavations. After clearing away
@@ -4938,8 +4600,6 @@ and anon comes down through the aisles of the woodland
 a waft of fragrance from the Matakel^ the flower of some
 remote tree-pandanus, distilling its subtle and delicate
 
-
-VISIT TO LANG TAKAI 1 15
 
 exhalation rich as incense-cloud, all as though some old
 god of the forest were breathing down a benediction upon
@@ -5103,8 +4763,6 @@ much ridiculed by their critical neighbours of Kiti as " Namiamanam " or
 jargon.
 
 
-RETURN FROM METALANIM 119
-
 beyond the sunset, where many a liquid unharvested acre
 stretches on and onward to the gates of Gilolo Sunda, and
 San Bernardino, whence for ages and ages the swarming
@@ -5210,8 +4868,7 @@ PONAPE : DRESS, INDUSTRIES, AND MANUFACTURES
 
 THE various excursions in and around Ponape described in the First Part had rendered familiar to
 me much of the inner Hfe and outward fashions of the
-natives both on the east and west coast. Before detailing any further adventures, I will now give a carefully-
-considered description of the domestic economy of the
+natives both on the east and west coast. Before detailing any further adventures, I will now give a carefullyconsidered description of the domestic economy of the
 Ponapeans, their weapons and dwellings.
 
 The dress of the men worn at work was a narrow
@@ -5235,8 +4892,6 @@ often dyed bright yellow with turmeric, or with the juice
 of the bark of the Morinda citrifolia or Flame Tree. A
 new Kol is a pretty sight, but exposure to the sun quickly
 
-
-DRESS, INDUSTRIES, MANUFACTURES 123
 
 makes the bright hues fade out. Sometimes with the
 cockle-shell each frond would be carefully pinched,
@@ -5315,12 +4970,9 @@ is the Tipanit or coconut fibre, obtained after sinking the
 husks a few days in the sand about high water mark. Each
 
 
-DRESS, INDUSTRIES, MANUFACTURES 125
-
 tiny strand is laboriously twisted end on end between the
 deft fingers and thumbs of the old men, until a surprisingly
-strong cord or rope is formed — the thickness varying according to the patience of the operator. This is the far-
-famed cinnet cord so extensively used in Pacific waters for
+strong cord or rope is formed — the thickness varying according to the patience of the operator. This is the farfamed cinnet cord so extensively used in Pacific waters for
 lashing cross-beams and posts into place in house-building,
 and in canoe-making as a substitute for nails in keeping
 the framework and delicate cross-pieces of the outrigger in
@@ -5354,8 +5006,6 @@ sometimes in a Ponapean hut a ridiculously tame blue
 heron {Kaualik\ or a pretty black and white sea-bird
 called Chik — children's pets. Their matter-of-fact elders,
 
-
-126 THE CAR'OLINE ISLANDS
 
 knowing the trouble in times of scarcity of filling hungry
 mouths, are hardly likely to let childish sentiment interfere
@@ -5407,8 +5057,6 @@ sea ; Qxzxig-laut, a pirate.
 KANAUA, NEPHEW OF KING ROCHA OF KITI, SEA'JED ON HIS PARROR,
 OR CARPET OF CEREMONY
 
-
-DRESS, INDUSTRIES, MANUFACTURES 127
 
 Liem. — A bag-net used at openings of weir or passage
 at the beginning of ebb-tides, generally four days after
@@ -5504,8 +5152,6 @@ the Marquesan very closely.
 I
 
 
-DRESS, INDUSTRIES, MANUFACTURES 129
-
 Et (Maori Kete, Samoan and Tahitian Ete). — A netted
 bag of Nin or Kalau fibre.
 
@@ -5550,8 +5196,7 @@ iron-pot is supplanting everywhere the earthen vessels of
 Micronesia, where the primitive industry is yet preserved,
 The ainpot is to be found in most Ponapean households
 and embraces a variety of uses, being alternately used
-for making huge brews of black tea, and boiling quantities of yam and coconut milk, the result being fre-
-quently a weird blending of different flavours on the
+for making huge brews of black tea, and boiling quantities of yam and coconut milk, the result being frequently a weird blending of different flavours on the
 palate of the European who drops in by chance to
 pot-luck.
 
@@ -5593,8 +5238,6 @@ A PONAPEAN CAKOE
 
 CARVED DANCING-PADDLES FROM METALANIM DISIRICT
 
-
-DRESS, INDUSTRIES, MANUFACTURES 131
 
 husking-stick (Ak), (called in Samoan O'a, and in Tongan
 Oka), used for tearing off the fibrous outer envelope of
@@ -5676,8 +5319,6 @@ shell age ; moreover, they inversely show the early influence of an active Malay
 extensive Caroline Archipelago. Writing clearly was not
 the only art lost by these Ocean tribes during their long
 
-
-DRESS, INDUSTRIES, MANUFACTURES 133
 
 isolation. And by examining these words we can easily
 infer how these two things came about, though the dates
@@ -5761,8 +5402,6 @@ iron. Magyar Vas, iron. Sanskrit Asi, iron, bronze,
 copper, a sword. Latin JSs.
 
 
-DRESS, INDUSTRIES, MANUFACTURES 135
-
 N.B. — In the language of the Tinneh group in North
 America we find the words Pesh, Pash^ Mash, and Bash,
 denoting knife.
@@ -5841,8 +5480,6 @@ or Van is an arrow, and Panach is a bow-string). It may
 
 PILUNG ADOLOL, A CHIEF OF RUL
 
-
-DRESS, INDUSTRIES, MANUFACTURES 137
 
 be worth mentioning that in ancient Hawaii the bow was
 used by lads, old men, and women for the noble sport of
@@ -5925,8 +5562,6 @@ on occasions of festival. The Spanish chronicler Pereiro
 describes a smaller sort which he saw in Not district which
 
 
-DRESS, INDUSTRIES, MANUFACTURES 139
-
 he calls Piki-piki, evidently from mistaking the meaning
 and application of the word Pikir which is a verb meaning
 to beat a drum — not, I think, denoting the drum itself.
@@ -6002,8 +5637,6 @@ or Tet. (Compare Hindustani Tatti — a shutter of reed
 or cane of a similar design.) The pillars that bear up the
 
 
-DRESS, INDUSTRIES, MANUFACTURES 141
-
 house are made of Katar or tree-fern, of bread-fruit wood,
 or that of one of the useful timber trees with which the
 island abound. The rafters are of the sturdy Ak or
@@ -6019,8 +5652,7 @@ and thatch, situated a little to the rear of the premises.
 The Nach or Council Lodge was a lofty, wide, long and
 spacious building with a raised platform, at the end of
 which there was often a room for the sleeping place of the
-Chief and his family, railed off by shutters of cane sometimes called Pel or Ueip ; the partition is called Mech-en-
-tet. On this raised platform, about six feet in height
+Chief and his family, railed off by shutters of cane sometimes called Pel or Ueip ; the partition is called Mech-entet. On this raised platform, about six feet in height
 {Lempantam or Leppantam)^ ascended by a rude ladder
 {Kantake)^ sat the chiefs and distinguished men. Along
 both sides within the Lodge ran a wooden terrace or platform, with reed-grass or cane flooring, where the women
@@ -6046,8 +5678,7 @@ CHAPTER IX
 VISIT TO MOKIL, PINGELAP AND KUSAIE ^
 
 ON May 2nd, 1896, just after the departure of the
-mail steamer for Manilla, there arrived in Ascension Bay a little trading-schooner, the Tulengkun, belong-
-ing to Captain M., an American subject, who offered me
+mail steamer for Manilla, there arrived in Ascension Bay a little trading-schooner, the Tulengkun, belonging to Captain M., an American subject, who offered me
 a passage by her to Kusaie, his headquarters. Taking
 advantage of the opportunity of her return trip, arrangements were speedily concluded, and on a miserable
 Saturday afternoon we ran from the Langar anchorage
@@ -6074,8 +5705,6 @@ islands — Urak, Manton and Kdlap — lying close together
 1 A portion of the narrative below appeared in the Hong Kong Telegraph
 early in the following year.
 
-
-VISIT TO MOKIL, PINGELAP AND KUSAIE 143
 
 in a lagoon of no great extent. Manton is rounded in
 outline like a boomerang or horse-shoe ; Urak and Kalap
@@ -6152,11 +5781,8 @@ needs put up with a woeful number of bad debts, the
 competition in trade moving in the old vicious circle.
 
 
-VISIT TO MOKIL, PINGELAP AND KUSAIE 145
-
 Still the shiftless credit system goes on, the native now
-and again paying a trifle on account, after alternate bullying and cajolery. Very often the native reserves to him-
-self the right of repudiating his debts altogether, and when
+and again paying a trifle on account, after alternate bullying and cajolery. Very often the native reserves to himself the right of repudiating his debts altogether, and when
 he does receive a little money, of going straight across to
 the rival store, and paying ready cash for goods to the
 frenzied excitement of his creditors. On the other hand,
@@ -6196,8 +5822,7 @@ together. The usual littoral shrubs common on low coral
 islands flourish here, amongst them two medicinal in
 quality, the Ramak and Sisin (known in Ponape as the
 I not and Titin). Giant screw-pines {P. edulis), with their
-quaint leaf whorls, their huge orange-red fruit like exaggerated pine apples, and long sword-shaped, prickly-
-edged leaves, fringe the shore, and the air is filled with
+quaint leaf whorls, their huge orange-red fruit like exaggerated pine apples, and long sword-shaped, pricklyedged leaves, fringe the shore, and the air is filled with
 the subtle perfume of the delicate white blossoms of the
 tree-gardenia {Pur).
 
@@ -6229,8 +5854,6 @@ excited like very children at the prospect of fingering and
 handling, and perhaps even purchasing, the much-coveted
 foreign goods. Voices, a regular Babel, are raised, some
 
-
-VISIT TO MOKIL, PINGELAP AND KUSAIE 147
 
 in solemn argument and serious questioning, some rippling
 into light jests, chaff and repartee, some melting into those
@@ -6306,8 +5929,6 @@ And wanted neither beef nor ale
 As long as their neighbour's lasted."
 
 
-VISIT TO MOKIL, PINGELAP AND KUSAIE 149
-
 Heaps of coconuts and baskets of cooked food were
 lying on the ground outside — forming the Mairong or
 church offering to which every good member of the congregation is expected to contribute. Then I visited the
@@ -6381,8 +6002,6 @@ gloom. In the early morning. May loth, we are off
 Coquille, and make a long tack to double the North-East
 Point. On rounding the promontory, the island of Lele
 
-
-VISIT TO MOKIL, PINGELAP AND KUSAIE 151
 
 with its spacious harbour of Chabrol on the far side, comes
 in sight. Hereabouts a powerful current runs, setting to
@@ -6459,8 +6078,6 @@ road beyond, for it is Sunday and church time is nigh, and
 defaulters rnn the risk of censure. Everybody seemed
 
 
-VISIT TO MOKIL, PINGELAP AND KUSAIE 153
-
 greatly interested in our arrival, and many thronged the
 landing-place to welcome us on shore. The men were
 neatly dressed in European garb, the women in loose
@@ -6510,8 +6127,6 @@ he is a keen cultivator and consumer. He did not appear
 to deserve the harsh criticisms passed upon him in Louis
 Beck's logbook and in Mr Dewar's account of his cruise —
 
-
-STAY ON LELE 155
 
 both of whom style him a cheating, canting and selfrighteous rascal. Similar unfavourable first impressions
 are common enough in tales of travel, which a more extended experience of a stay, one likes to fancy, would
@@ -6581,8 +6196,6 @@ long voyages to the south and east, before the Emperor
 Harvey group. Cf. also Maori Kotiu the N.W. wind.
 
 
-STAY ON LELE 157
-
 To-Kogunsama interdicted distant trading expeditions
 about the year 1640. Nagasaki, according to these traditions, used to be the great emporium of trade with the
 Marai-jin or Malays a thousand years ago. The Caroline
@@ -6609,8 +6222,7 @@ and shafts of prismatic basalt, were brought, the natives
 say, from South Harbour on rafts and floats. The ruins
 on Lele are not so elaborately constructed as those of
 Metalanim, but they have a rude and massive grandeur
-of their own. Like the Ponapeans, these people for working wood (not stone) used axes and adzes {told) of excel-
-lent make, laboriously ground and polished down from the
+of their own. Like the Ponapeans, these people for working wood (not stone) used axes and adzes {told) of excellent make, laboriously ground and polished down from the
 great central piece of the Tridacna-gigas or great Kima-
 Cockle shell. The specimens received from Li-kiak-sa
 are exceedingly white, and smooth as polished marble, with
@@ -6654,8 +6266,6 @@ more particular description of these fabrics vide Appendix.
 
 ■J Q
 
-
-STAY ON LELE 159
 
 Products : — Coconut oil (Kaki-fusas), Copra {Kaki)^
 Pearlshell {Fai\ and Beche-de-mer {Moet or Penipen).
@@ -6807,8 +6417,6 @@ tinned food, biscuit and breadfruit, and made ourselves
 comfortable for the night. Next morning bright and early
 
 
-STAY ON LELE 163
-
 the ship's boat was speeding me over the drowsy lagoon,
 its still deep waters barely yet a-sparkle. The pearl-grey
 of the eastern sky is melting into a shimmer of pink and
@@ -6883,8 +6491,6 @@ treachery, plundering, and scuttling or burning the craft
 and cutting the throats of every soul on board. These
 
 
-STAY ON LELE 165
-
 playful pursuits would sometimes give way to a game at
 civil war. This kindly folk would vary the programme
 of murder, rapine, infanticide, and the wiping out of some
@@ -6924,8 +6530,7 @@ to the student of human nature as his barbarian ancestors.
 The duplicity and sly reticence of the savage is unchanged
 in him, and ever and anon the old natural man peeps out
 to gambol in most unorthodox cantrips. Unstable as
-water and at first sight without any real depth of character, he is as shrewd a hand at a bargain as any chapel-
-going grocer who sands his sugar. Anecdotes to the
+water and at first sight without any real depth of character, he is as shrewd a hand at a bargain as any chapelgoing grocer who sands his sugar. Anecdotes to the
 above effect whiled away the afternoon as we strolled about
 the little settlement. The students, some one hundred
 and forty in all, appeared on their very best behaviour,
@@ -6959,8 +6564,6 @@ Harvard, Princeton, and their sister universities are turning
 out year after year to enrich Young America. By and by
 i
 
-
-STAY ON LELE 167
 
 we pay a visit to the class-rooms and converse a while
 with the boys, most of whom understand English — of the
@@ -7015,8 +6618,7 @@ to take away to his bleak northern home. The worthy old
 deacon Kevas turned up, and we put in four hours' solid
 work up to midnight mastering the intricacies of the
 Kusaian tongue ; and the good old man handed me over
-several crude Kusaian translations from the New Testament as a parting gift. He had worked very conscienti-
-ously, never shirking a difficulty, but explaining everything
+several crude Kusaian translations from the New Testament as a parting gift. He had worked very conscientiously, never shirking a difficulty, but explaining everything
 within his power. The king, also, who speaks English
 correctly and even elegantly, has proved a valuable assistant. Since the visit of the Coquille nobody has apparently
 taken trouble to collect any facts about these interesting
@@ -7032,8 +6634,6 @@ diseases introduced by the brutal and lawless crews of
 visiting whalers whom Dr Rife, from some heart-rending
 medical experience, with perfect justice denounces as the
 
-
-STAY ON LELE 169
 
 vilest miscreants, the enemies of God and man. Any unprejudiced reader of history — of the voyages of Cook and
 Roggenwein and other early navigators — must needs admit
@@ -7132,8 +6732,6 @@ Stone barrier
 S.E
 
 
-STAY ON LELE 171
-
 one by one into dim immensity, ephemeral as the leaves
 of the forest fluttering down year after year to their dust.
 
@@ -7220,8 +6818,6 @@ breadth, and 3 feet in depth.
 
 The branch canal running along this (the north-east)
 
-
-STAY ON LELE 173
 
 side is 4 feet in breadth, bordered by a wall built up of
 rubble 5 feet high.
@@ -7322,8 +6918,7 @@ miles away to the south-west, who had come up on one
 of their rare visits. They are the descendants of an
 American negro castaway, who, with his native wife and
 children and a few relations and servants from Kiti, landed
-on the islet about forty years ago. Strange to say, during that short period of isolation they have actually de-
-veloped a new and peculiar dialect of their own, broadening
+on the islet about forty years ago. Strange to say, during that short period of isolation they have actually developed a new and peculiar dialect of their own, broadening
 the softer vowels and substituting TH or F for the original
 T sound in the parent Ponapean.
 
@@ -7379,8 +6974,6 @@ over the hillside. A brief but violent shower of rain suddenly patters down and 
 bush all a-drip and steaming in the noonday heat. At
 length we struggle up to the dividing ridge, where a
 
-
-TO MUTOK AND PANIAU 177
 
 clump of sago-palms in varying stages of growth looks
 down through hanging woods upon the calm bay below.
@@ -7463,8 +7056,6 @@ washed up by the ocean currents. Immediately above
 tide-mark is a belt of coarse, creeping grass, mingled
 with a tangle of yellow veitchling {Keiwalu\ and a
 
-
-TO MUTOK AND PANIAU 179
 
 large purplish-flowered creeper {Iponiea sp.) (ihQfuefue of
 Samoa), which bind the sandy soil together with their
@@ -7619,8 +7210,6 @@ inflict unmerciful raps on shin and ankle. Under the
 tree-roots lurks the ever-watchful Birgus in his burrow on
 
 
-TO MUTOK AND PANIAU 183
-
 a couch of coconut husk, gloating over his unholy spoils.
 To seaward one at all events has the satisfaction of seeing
 one's way. These cruelly sharp coral ridges are appropriately called by the natives Racharach, a word which also
@@ -7693,8 +7282,6 @@ sea-tangle, and things marine, rich in ozone and iodine,
 with a sickly phosphoric aftertang from heaps of dead
 
 
-TO MUTOK AND PANIAU 185
-
 and decaying coral. To seaward the air is thick with
 motes of spray, and over Ant Atoll in the west ominous
 banks of cloud are forming up. Mid-heaven as yet is
@@ -7766,8 +7353,6 @@ of a hind leg of the canine victim and a huge mass of the
 pig's fat proffered with ceremony in a lordly dish. There
 i86
 
-
-FEAST IN MUTOK 187
 
 were plenty of yams boiled and baked, breadfruits plain
 and preserved, plantains and bananas roasted and raw,
@@ -7842,12 +7427,7 @@ process so horrifying to English readers and certain oversqueamish early voyager
 districts to grating. It is styled the nasty root and the
 accursed liquor by certain good and worthy missionaries
 whose convictions are sometimes sturdier than their
-charity. The symptoms, however, which follow an over-
-
-
-KAVA-MAKING 1 89
-
-dose of kava by no means coincide with the accepted
+charity. The symptoms, however, which follow an overdose of kava by no means coincide with the accepted
 notions of intoxication. The head remains perfectly clear,
 but the legs sometimes suffer a sort of temporary paralysis. This, however, as with tea, coffee and alcohol, is
 only the punishment which, under a wise law of Nature,
@@ -7923,8 +7503,6 @@ sonorous rhythm as they pounded up the pieces of
 tough root into mere masses of trash. The root, be
 it observed, is neither dried in the sun as in southwestern Polynesia, nor carefully washed with water. The
 
-
-KAVA-MAKING 191
 
 latter ceremony, they say, spoils the flavour and weakens
 the strength.
@@ -8004,8 +7582,6 @@ of the doctors I commend it They may blend it as they
 will, but let it not fall into the clutches of Exeter Hall.
 
 
-NAMING OF BIRDS 193
-
 To the thoughtless reveller, the kava-bowl is in itself
 an end, to the philosopher a means of catching at some
 floating thread of tradition to weave into the fabric of his
@@ -8082,8 +7658,6 @@ his hapless offspring. Thus ran Laponga's imprecation : —
 casts a stone at you, that you may fall at their feet from
 very dizziness, and men shall bake you in the oven for
 
-
-MAKING OF FISH OIL 195
 
 their meat. This, I say, whenever the hungry wanderer
 does as I do now ." With these words he chased
@@ -8224,8 +7798,6 @@ or even visit these parts again. Therefore we were revisiting these spots at som
 We are once more in the heart of Nan-Matal, threading the labyrinth of narrow canals intersecting the rows
 
 
-PANIAU TO COLONY 199
-
 of walled islets of the water-town. We pass Peikap,
 Chaok, Tapau, and Nan-Pulok, catching stray glimpses
 of massive masonry looming up dark and imposing
@@ -8300,8 +7872,6 @@ like a prudent lad, had been carefully saving up for the
 last two months. Nothing would serve us but to visit
 
 
-PANIAU TO COLONY 201
-
 the German branch store at Chau-inting, close by the
 headland of Not. So the little craft, what with this and
 that article declared indispensable, is loaded down to the
@@ -8371,8 +7941,6 @@ fill of excitement for the present, and bidding farewell to
 our hosts, pursue our way, heartily devoting the contending parties to the fate of the Kilkenny cats. By and by,
 when we find a couple of bottles of spirits missing — laid
 
-
-PANIAU TO COLONY 203
 
 in strictly for medical purposes — grievous suspicions fall
 on Obadiah and his fellow-deacons. With the hopes of
@@ -8493,8 +8061,6 @@ rude fellow to go forth."
 more with pidgin English,
 
 
-PANIAU TO COLONY 205
-
 the congregation was in an uproar, each party manfully
 upholding their favourite. Knives were brought into play,
 and blood flowed freely from some ugly gashes, as each
@@ -8573,8 +8139,6 @@ do not loiter about here for fear of the rascals swarming
 out on us in superior force, but holding on our way, once
 more enter the labyrinth of Nan-Matal with lively anticipations of possible rifle-shots singing out of the dense
 
-
-PANIAU TO COLONY 207
 
 masses of greenery on every side. We pass Uchentau
 and leave a message for Alek, my cunning carver in
@@ -8693,8 +8257,7 @@ long wooded promontory into which the Paliker country
 runs. With the slowly-rising tide we find ourselves off
 the flats of Marau, amongst beds of seagrass, with a
 curious round bald mountain showing up in the background. Wading along with our craft in tow we pick up
-on our leisurely way a number of cockles and a spidercrab of surpassing ugliness. We have to traverse a con-
-siderable stretch of thick black mud, taking us up to the
+on our leisurely way a number of cockles and a spidercrab of surpassing ugliness. We have to traverse a considerable stretch of thick black mud, taking us up to the
 knees at every step — by no means an uncommon thing
 in the approach to a Ponapean settlement. At last we
 reach firm ground, and are glad to take a bath in a clear,
@@ -8707,8 +8270,6 @@ or platforms of stone.
 A little higher, and the inland wilderness with its thick
 tangle of forest, scrub, weeds and climbing vines, shuts in
 
-
-FROM PANIAU TO MARAU 21 1
 
 the little village. The clearing below is occupied by
 banana and breadfruit trees and clumps of giant taro, a
@@ -8791,8 +8352,6 @@ the northern Ladrone islands, where many active volcanoes
 are always in play ? Some again may contend that the
 
 
-FROM PANIAU TO MARAU 213
-
 explorers penetrated into the zone, where the fiery lances
 of the Aurora Borealis or Northern lights are visible
 darting across the heavens. In any case the story illustrates the energy of early Caroline island navigators in
@@ -8818,8 +8377,7 @@ tapering slab of basalt rudely worked into the form of a
 shark. It is some fifteen feet in length. A sharp threecornered ridge runs along the centre of the back ; the
 dorsal fins are decidedly in evidence, and the tail distinctly indicated. The head is left pretty well to the
 imagination. This is one of the rude Tikitik-en-ani or
-images found here and there in Ponape, and dedicated to presiding genii or guardian spirits of a com-
-munity or family. (Compare Maori and Marquesan
+images found here and there in Ponape, and dedicated to presiding genii or guardian spirits of a community or family. (Compare Maori and Marquesan
 Tiki and Tikitiki, an image.) This and Laponga's head
 were the only ones I saw, but I have no doubt that there
 are many more of them ; and that the unconverted folk, as
@@ -8844,8 +8402,7 @@ Kicha, the chief of Wana, who besieged the king in his
 stronghold and captured it, slaying him and many of his
 chiefs and warriors. The enclosure forms a nearly complete square, bulging out at the north-western angle.
 
-The northern end along the Takiririn road was defended by a row of palisades, for which system of forti-
-fication the Ak or mangrove supplies excellent materials.
+The northern end along the Takiririn road was defended by a row of palisades, for which system of fortification the Ak or mangrove supplies excellent materials.
 These estacadas de mangle gave the Spanish considerable
 trouble to carry during the eventful two da}'s' fighting
 on the 22nd and 23rd of November, 1890, before the
@@ -8864,8 +8421,6 @@ other sides, finally broke their way in. Doubtless some
 excavations made hereabouts would bring to light many
 interesting relics such as permachapang, or stone clubs,
 
-
-FROM PANIAU TO MARAU 215
 
 like the " 7nere " of the Maori, war-axes made out of
 the centre shaft of the great Kima-cockle, and head
@@ -8942,8 +8497,6 @@ Whatu, Fatu, Atu — a stone.
 Close here, about the year 1882, a small bronze cannon
 was discovered and taken away by a party of explorers
 
-
-FROM PANIAU TO MARAU 217
 
 from the Larne^ which circumstance may give some colour
 to the ipse dixit of the Spanish, who insist that the ruins
@@ -9023,8 +8576,6 @@ the afternoon we limp into a little clearing, weary,
 bedraggled and mud-daubed — a sorry spectacle for saints
 
 
-FROM PANIAU TO MARAU 219
-
 and sinners. Not so, however, to a mirthful company of
 some forty persons there collected. An important ceremony— the building of a council-lodge — has just been
 concluded for the day, and another equally important —
@@ -9102,8 +8653,6 @@ old gentleman then hastens, or rather dances, back,
 skipping about vigorously, showering around him plenteous jokes and japes. It seems to be expected of him.
 
 
-FROM PANIAU TO MARAU 221
-
 and every jest is honoured with hearty laughter. Without
 delay, up comes the English visitor's portion. A haunch
 and shoulder of roast pork, a large baked breadfruit,
@@ -9178,8 +8727,6 @@ all refreshment, and leaving us in charge of his wife,
 whose kindly solicitude for our comfort seems to outweigh
 her own private griefs. Immediately after his leaving,
 
-
-FROM PANIAU TO MARAU 223
 
 a thick, black squall comes humming over the waters,
 with a fresh tremendous downpour of rain. With sympathy we picture the old man toiling on in a little canoe
@@ -9314,8 +8861,6 @@ has the most population, and one views the rude cabins
 of the settlers perched high amongst hanging woods
 
 
-PANIAU TO COLONY, GUAM AND YAP 227
-
 like the peasants' chalets fringing the wooded heights
 round Altdorf or some Unterwalden hamlet in Switzerland's forest cantons. On this side of Chokach the
 groves of breadfruit are magnificent, the greater and
@@ -9394,8 +8939,6 @@ down into the Micronesian area from out the maze of
 shimas or islets which so thickly sprinkle the ocean south
 
 
-PANIAU TO COLONY, GUAM AND YAP 229
-
 of Japan and the sister chain of the Lew-Chews {Ryu-
 Kyu).
 
@@ -9472,8 +9015,6 @@ list of the ancient numerals, and all tallied wonderfully
 with the vocabulary collected by Chamisso in 1 8 14, a
 
 
-PANIAU TO COLONY, GUAM AND YAP 231
-
 fact of which I was then ignorant. The Chamorro dialect
 in grammar is akin to the Tagala and Pampang of the
 Philippines, and to the Favorlang of Formosa. In
@@ -9488,8 +9029,7 @@ Skt., Pipal, pepper ; Paka^ white ; Skt., Pak^ bright ; Lada,
 an orange-red dye-wood (Morinda) ; Skt, Rata, (i) red,
 (2) dyed, coloured ; Luluk, Lulik, iron ; Skt, Lauh, Lauk.
 Padre Jose made much of the ruins upon the neighbouring
-islands of Saipan, Rota, and Tinian, which I much regretted being unable to visit this time, and firmly re-
-solved to thoroughly explore on my return. He told me
+islands of Saipan, Rota, and Tinian, which I much regretted being unable to visit this time, and firmly resolved to thoroughly explore on my return. He told me
 also of a cave upon Guam, near the village of Ina-rahan,
 near Agafia, the walls of which are covered with hieroglyphical characters inscribed by one of the ancient queens
 of the island. There seems no reason why the Chamorros
@@ -9545,8 +9085,6 @@ getting ready for the planting of rice {Fai). This was a
 well-defined branch of industry of the natives prior to the
 conquest of 1570, which the Spanish chronicler remarks
 
-
-PANIAU TO COLONY, GUAM AND YAP 233
 
 upon as a fact of peculiar interest — as indeed it is. It is
 doubtless due to the occasional visits in early times of
@@ -9620,8 +9158,6 @@ may very well be so. They are not particularly
 
 I
 
-
-DESCRIPTION OF YAP 235
 
 cordial to strangers, and they often fail to keep their
 word. Their character is peaceable and apathetic. They
@@ -9729,8 +9265,6 @@ and ornament than for use. The village club houses are
 called Fe-bai or stone money-houses, from the wheels of
 
 
-DESCRIPTION OF YAP 237
-
 stone which rest against their walls. In any of the
 settlements these great discs or wheels may be seen
 outside the houses of the Madangadang or plutocrat class,
@@ -9805,12 +9339,7 @@ any slight put upon him."
 We sweep along, tacking every now and then to
 avoid the numerous weirs of stone and canework {Thagal
 and Aech) with which Yap fishermen have industriously
-filled the shallow lagoon that girdles their coasts. Look-
-
-
-TOMIL TO LAI 239
-
-ing to landward every now and then, one after another
+filled the shallow lagoon that girdles their coasts. Looking to landward every now and then, one after another
 of the great Bachelor Halls or Club-houses with its
 peculiar high-pointed gables and projecting eaves shows
 up inshore and is swallowed up in the succeeding scenes
@@ -9887,8 +9416,6 @@ hodge-podge of vowels and consonants which the Yap
 folk fondly conceive to represent articulate speech. The
 village patriach Gili-megak was told off for duty on
 
-
-TOMIL TO LAI 241
 
 the reef, and undertook to provide at need a trustworthy
 native to help in specimen-collecting. He received the
@@ -9968,8 +9495,6 @@ on earth like dollars." And I believe the practical man
 meant what he said, every word.
 
 
-TOMIL TO LAI 243
-
 Punctually to his appointment the Minister of the Reef
 bade one of the Pilung or district chiefs to have a fofod
 or raft of bamboos ready that very morning. So about
@@ -10042,8 +9567,6 @@ violet and brown sea-urchin, a hideous sea-spider, a seacentipede, and various q
 a fine specimen of the Cancrejo pintado or painted crab of
 the Mariannes, colours light blue, red, yellowish-brown, and
 
-
-TOMIL TO LAI 245
 
 white. We caught sight of a yellow and black-ringed
 sea-snake {Lilibots)^ but he was too quick for us Our
@@ -10179,8 +9702,6 @@ heavily-seeded nettle with a fiery sting, springs up
 amongst the stones. We came into a broad avenue
 
 
-VISIT TO ONOTH AND GOROR 249
-
 flanked by tall forest trees, conspicuous amongst which is
 the Bioutch or Callophyllum, and the Abit^ a curious tree
 bearing large dull-green fruit covered with yellowish
@@ -10205,8 +9726,7 @@ graves or marking the limits of burial grounds are called
 
 We rested awhile, and Fatumak brought out betel-nut,
 leaf and lime from his ever-ready pouch, without which no
-native would think of travelling, any more than a Scandinavian peasant on his errands to fjord or soeter would for-
-get his flask of corn-brandy. By and by Fatumak waxes
+native would think of travelling, any more than a Scandinavian peasant on his errands to fjord or soeter would forget his flask of corn-brandy. By and by Fatumak waxes
 unexpectedly eloquent in broken English, and turns out
 to have been a protege of ill-fated Captain Holcombe.
 Pursuing our way we passed one of the Big Houses,
@@ -10241,8 +9761,7 @@ into the interior. The thick clumps of bamboo planted
 along the tops of the Yap embankments doubtless serve
 the double purpose of binding together the soil with their
 clinging root-fibres, and at the same time by their steady
-and vigorous growth of holding in check the everspreading multitudes of weed and creeper. The Hebrew pro-
-phet's figure of desolation, " a lodge in a garden of cucumbers," is expressive indeed to one who has viewed and
+and vigorous growth of holding in check the everspreading multitudes of weed and creeper. The Hebrew prophet's figure of desolation, " a lodge in a garden of cucumbers," is expressive indeed to one who has viewed and
 fought with the hosts of the tropical forest. Rudyard
 Kipling knows and tells us what the Rukh of India can
 do. No vain words were those of Mowgli, Child of the
@@ -10254,8 +9773,6 @@ but the sturdy man of Yap says to Nature, " Thus
 far," and rolls back the invading forest from his little
 domain.
 
-
-VISIT TO ONOTH AND GOROR 25 1
 
 It is really pretty to see some of the paved causeways
 which are exactly similar to those which so struck Captain
@@ -10333,8 +9850,6 @@ bead-necklaces. Some wear bunches of flowers stuck
 behind their ears ; all of them unclothed save for the
 usual cincture of grass or leaf-filaments. Some wear Roai
 
-
-VISIT TO ONOTH AND GOROR 253
 
 or carven wooden combs — the emblem of the Pilung
 or upper classes, stuck in front of their fuzzy chevelure
@@ -10417,8 +9932,6 @@ Can the wise and benevolent-looking Fatumak be
 thinking of some youthful escapade that brought him a
 
 
-VISIT TO ONOTH AND GOROR 255
-
 smarting skin, or maybe a broken head ? He looks
 away, and promptly turns the subject, and falls to praising
 the skill of Yap natives in dancing. The performance
@@ -10492,8 +10005,6 @@ around the protecting trunks and boughs of the trees that
 overshadow their hidden tubers. We saw on our way
 three sorts of butterflies, the marsh fritillary, the small
 
-
-VISIT TO ONOTH AND GOROR 257
 
 sulphur, and small blue ; of other winged life, two or
 three little dark coloured bush-birds, possibly a species
@@ -10573,8 +10084,6 @@ or, as the Japanese would term it, Geisha girl. The young
 men only remember astronomy enough to plant yams by
 and look out for wet weather, but the old men know the
 
-
-VISIT TO ONOTH AND GOROR 259
 
 ancient names of the stars from north to south and east
 to west {Cf. list of Yap star names and days of the
@@ -10658,8 +10167,6 @@ Lai, where we found Lewis still busy amongst the
 I
 
 
-VISIT TO ONOTH AND GOROR 261
-
 coconuts and trading accounts. A venerable old man
 was with him, whose long black beard streaked with
 grey gave him a most patriarchal appearance. He was
@@ -10719,8 +10226,6 @@ male. There are in consequence many marriageable
 young girls of the Chamorro or aboriginal race of the
 group — a handsome debonnair Malayan people of lightbrown complexion who do not share the prejudices of
 
-
-TO TOMIL, LAI, ELIK, AND NORTH YAP 263
 
 the Yap folk against the white man. These Marianne
 ladies are supposed to make excellent housewives, and
@@ -10799,8 +10304,6 @@ colony in the Pacific. This the Godeffroys of Hamburg
 in the past sixty years have proved beyond question by
 the well-educated and industrious type of traders whom
 
-
-TO TOMIL, LAI, ELIK, AND NORTH YAP 265
 
 they selected to represent their interests in these out-ofthe-way regions. And this gives Germany a considerable
 advantage over her trading rivals in Pacific waters. A
@@ -10881,8 +10384,6 @@ were strong currents which might sweep us out to sea.
 .- 4
 
 
-TO TOMIL, LAI, ELIK AND NORTH YAP 267
-
 Moreover, the deeper pools in the lagoon at South Point
 swarmed with sharks (Awng-),hy no means an encouraging
 reflection to two navigators in so frail a craft as our
@@ -10929,8 +10430,7 @@ On making inquiries about the interesting subject of
 tattooing, which natives call Eloi or Iloi, it was found that
 the ceremony was universally practised and free to all.
 Compare the Samoan verb Elei^ to mark or stamp the
-native cloth with designs from the Upeti or printingframe, or again the root may be the Maori Iro (Whaka-
-iro, to write or carve). The Japanese word Iro^ colour,
+native cloth with designs from the Upeti or printingframe, or again the root may be the Maori Iro (Whakairo, to write or carve). The Japanese word Iro^ colour,
 may be a remote derivative. Taking Taman, a stalwart
 native from Goror district for an example, I noticed that
 on his chest were marked two large representations of the
@@ -10956,8 +10456,6 @@ into " Matches," a designation which sorted well with his
 occasional flashes of ill-humour whenever Mr E., who is a
 somewhat choleric individual, threatened to lay him out
 
-
-TO TOMIL, LAI, ELIK AND NORTH YAP 269
 
 with a " stuffed club " for carelessness or slurring over his
 duties, which in the busiest times were not very onerous.
@@ -11000,8 +10498,7 @@ their simplicity they will tender a meagre half-dollar for a
 musket or cross-cut saw. Nearly all business there goes
 by barter. Shells of the pearl-oyster, of which there is a
 large yearly output from the Pamotus or Low Archipelago,
-are imported from Tahiti at a moderate rate, and exchanged for copra with the Yap people at a very profit-
-able rate, the natives preferring them to the Yar-ni-Balao
+are imported from Tahiti at a moderate rate, and exchanged for copra with the Yap people at a very profitable rate, the natives preferring them to the Yar-ni-Balao
 or Pelew Island shell, which next to the stone money is
 their most favoured currency. Waist-cloths or Lablab
 (Samoan Lavalava) of Turkey red for the young men,
@@ -11031,8 +10528,6 @@ penetrates into this distant corner of the world. In a
 boatshed on the sands of Hana-mate or Deadman's Bay
 
 
-TO TOMIL, LAI, ELIK AND NORTH YAP 271
-
 on Hiva-Oa I actually found a tattered copy of the
 Sporting Times.
 
@@ -11059,8 +10554,7 @@ carrying off of some Mespil or slave-woman. Every now
 and then an angry band of neighbours come up and try to
 beat the children of Amon out of their lines. First, so my
 informant tells me, there is a vast deal of jabbering between
-the besiegers and besieged, like the noise of a monkeyhouse in full chatter, as a sort of prelude to serious busi-
-ness, each man vying with his opponent in the choicest
+the besiegers and besieged, like the noise of a monkeyhouse in full chatter, as a sort of prelude to serious business, each man vying with his opponent in the choicest
 native Billingsgate. Bit by bit their feelings are wrought
 up, and finally a more than usually brilliant flower of
 speech is the signal for a howling fracas. Spears and
@@ -11108,8 +10602,6 @@ from the mother tree. Bang went the first barrel, and
 out squirted a jet of milk from the nut ; a second and
 a third shot tapping two others of the cluster, which shed
 
-
-TO TOMIL, LAI, ELIK AND NORTH YAP 273
 
 their milky blessings on the head of the chief below.
 " * How d'ye like that/ said the marksman, turning his
@@ -11188,8 +10680,6 @@ shambled to the door to pick up his property, and
 presently the people indoors, all on the broad grin, picked
 up their belongings and went forth one by one cuddling
 
-
-TO TOMIL, LAI, ELIK AND NORTH YAP 275
 
 their beloved bags under arm. " And now let us talk,"
 said I, as I followed them out. " Does anyone here speak
@@ -11270,8 +10760,6 @@ To his wild woods leave
 him then, O Spain.
 
 
-TO TOMIL, LAI, ELIK AND NORTH YAP 277
-
 Another gem in Spanish and Bicol.
 
 A tete-a-tete Dinner.
@@ -11348,8 +10836,6 @@ winks or forty drinks, as the case may be. Many of the
 weirs are in a very dilapidated condition, and long past
 
 
-STAY IN PILAU 279
-
 use, but still they lie round blocking up the water-ways —
 a standing menace to traffic. Whilst we were painfully
 feeling our way along through the labyrinth, I remembered
@@ -11424,10 +10910,7 @@ Two or three native huts and a boatshed adjoined
 ^ Faijfe illustration in The Geographical Journal, February number, 1899.
 
 
-FOLK-LORE 281
-
-the wharf, the only living being around being a melancholy old greybeard, superintending with languid in-
-terest the boiling of some sweet potatoes in an iron
+the wharf, the only living being around being a melancholy old greybeard, superintending with languid interest the boiling of some sweet potatoes in an iron
 pot over a fire of driftwood. We found B. at home,
 one of the sober, thrifty and industrious traders of the
 new school, and a hospitable welcome he gave us,
@@ -11496,8 +10979,6 @@ feast was held, and the people brought plenty of coconuts and all manner of food
 abundantly. The two fairies fell to and polished oft" the
 heap of food in quick time, devouring coconut after coconut, husk, shell, and all, continually calling for more and
 
-
-FOLK-LORE 283
 
 more. All stood aghast at the marvellous sight. At
 length Igereng, fearing a famine in the land from such
@@ -11578,8 +11059,6 @@ Tengerd), the yams {Dot, Dok, Dal), and the water-taro
 ^Lak).
 
 
-FOLK-LORE 285
-
 Therefore to this day, when they see the frigate-bird in
 the land of Tomil, they say, " Lo, the sacred messenger
 of the mercy of Yalafath, Lord of the skies."
@@ -11659,12 +11138,7 @@ flood that follows in seven days, agree closely with the
 northern version given by Toluk. The name of the survivor from Unean, who had escaped by climbing a tall
 palm, is given as Angafau. This ancient worthy's name
 appears oddly enough in early Samoan legend as Ongafau^
-coupled with another mysterious personage Tqfitofau, with-
-
-
-FOLK-LORE 287
-
-out whose names no orthodox fairy tale can start — a sort
+coupled with another mysterious personage Tqfitofau, without whose names no orthodox fairy tale can start — a sort
 of traditional introduction.
 
 Legerem creates by magic art five boys and a girl.
@@ -11744,8 +11218,6 @@ make their escape. These serfs belong to certain district
 chiefs, and in some cases to chief women. They have to
 
 
-THE TABU SYSTEM 289
-
 do all the menial work for their masters. They live on
 poor food, such as the Kai and the Luat^ the greater and
 lesser squid, which the chiefs do not care to eat. The
@@ -11824,8 +11296,6 @@ the building belongs. As with the Kroomen on the Gold
 Coast, each man, married or unmarried, takes his turn by
 
 
-THE TABU SYSTEM 291
-
 rotation in the rites through which each girl must pass
 before she is deemed ripe for marriage. The natives say
 it is an ordeal or preliminary trial to fit them for the
@@ -11901,8 +11371,6 @@ crossed by the still-haunting shadow of China, Rome,
 or Egypt.
 
 
-THE TABU SYSTEM 293
-
 Have none of my readers felt some vague thrill of
 horror lurking behind the jewelled and glorious luxury
 of the East — some jarring chord amongst her golden
@@ -11965,8 +11433,6 @@ face of the land is covered with tufts and clumps of coarse
 grasses, wild sorrel, and the South Sea arrowroot {Tacca\
 diversified by patches of a peculiar pitcher-plant, At.
 
-
-NORTH YAP 295
 
 The parcel of land presents the appearance like an
 old fashioned English orchard, save that instead of apple
@@ -12046,8 +11512,6 @@ abruptness and a considerable shock. These are the
 relics of gardens of the olden time, where they used to
 
 
-NORTH YAP 297
-
 grow beds of yams and turmeric or wild ginger. Of the
 roots of the latter they used to make the cones of Rang^
 Reng, or Taik, a widely-used cosmetic from one end of
@@ -12121,8 +11585,6 @@ everywhere, and the path was frequently intersected by the
 gnarled roots of the native chestnut. After a long climb
 we found ourselves on the plateau, from which we had a
 
-
-NORTH YAP 299
 
 fine view. The pitcher - plant with its quaint lidded
 flower-cups grows in abundance on the rich red soil, also
@@ -12204,8 +11666,6 @@ Ramung over the water, and get a few more facts out of
 the old people. The talk that evening turned upon rats
 
 
-NORTH YAP 301
-
 and lizards and the like small deer, and Konias told a
 heart-rending tale how the Sonsorol people dealt with the
 rats which were such a plague in the island, and woefullyreduced their stores of food, scanty already as they were.
@@ -12232,8 +11692,7 @@ water which made the old feel young and strong again ?
 On being told the new ordinance of the Spanish Governor
 prohibiting the supply of gin to the natives, he looked
 deeply disappointed, but on receiving a tumbler of red
-wine, which is not prohibited, he brightened up wonderfully and promised me a fine large iguana for my collec-
-tion. I did not put implicit faith in his promises, but
+wine, which is not prohibited, he brightened up wonderfully and promised me a fine large iguana for my collection. I did not put implicit faith in his promises, but
 sure enough early next morning I beheld the old man
 and his son seated on the verandah smoking, and two
 very fine iguanas lying on the ground below tied up and
@@ -12281,8 +11740,6 @@ sent round to meet us, and to take in a number of sacks
 of copra, thus combining business and pleasure in our
 overland march. After getting back to B.'s station, he
 
-
-RETURN TO TARRANG 303
 
 presented me with some pretty good sketches of the
 graves which he found time to make.
@@ -12359,8 +11816,6 @@ square taking a siesta in the heat of the day. Crossing a
 narrow brook spanned by a fallen palm-trunk we went up
 to the house which lay embowered in a dense mass of
 
-
-RETURN TO TARRANG 305
 
 dracaena, crotons, ferns, and giant arum, a pretty little
 nook. We found Lirou sitting up, and he received us
@@ -12442,8 +11897,6 @@ rather unusual type.
 It goes without saying that a goodly number of
 
 
-RETURN TO TARRANG 307
-
 village urchins, and a few curious idlers of maturer age,
 gathered around with their comments, and more than
 once our old guide in indignation drove the former
@@ -12524,8 +11977,6 @@ dragon-fly — one was small and of brown and yellow
 tinting {Osongol), the other (called Galaoleu) larger, had a
 
 
-RETURN TO TARRANG 309
-
 red body, and the wings prettily variegated dark blue and
 white. Returning to our boat we found one of the paddles
 gone, picked up doubtless in a moment of abstraction by
@@ -12576,11 +12027,8 @@ beyond. Many such tales did they utter, and stubbornly
 pencil and note-book toiled behind. The man from
 Mokomok overcame his bashfulness at the bidding of
 Matuk, who conjured him to answer all my questions as
-if I was his very father. Over four hundred Uluthi keywords were added to the table of Caroline Island langu-
-ages. They much resembled the Lamotrek, Sonsorol, and
+if I was his very father. Over four hundred Uluthi keywords were added to the table of Caroline Island languages. They much resembled the Lamotrek, Sonsorol, and
 
-
-STAY AT TARRANG 311
 
 Uleai equivalents, but had a distinct and peculiar phonesis
 of their own, forming a curious and beautiful link in the
@@ -12599,8 +12047,7 @@ make sure of every doubtful or obscure point in each tale.
 The Mokomok man said that it was like being tried
 before the council of old men at home, so minutely was
 his evidence sifted and weighed ; but the man, and indeed
-all my teachers, had excellent patience, and native curiosity effectually put native indolence to the rout. More-
-over, there was plenty of strong tobacco to smoke ; they
+all my teachers, had excellent patience, and native curiosity effectually put native indolence to the rout. Moreover, there was plenty of strong tobacco to smoke ; they
 were not kept at one subject too long, and to relieve the
 tension, I told them many tales for my part from Ponape
 and Kusaie, fourteen hundred miles to the east, of which
@@ -12652,8 +12099,6 @@ eggs {Fak-en-nu'men or Hen-fruit), which somehow have
 been preserved from rats, pigs, dogs, and iguanas — a very
 rare dish in the Caroline Islands, and from its rarity much
 
-
-STAY AT TARRANG 313
 
 prized. A custard and some Spanish sweetmeats, coffee
 and cura^oa, ended our meal, which was moistened by a
@@ -12731,8 +12176,6 @@ for cheating, and half strangled him into the bargain.
 Vomiting strange maledictions, his adversary follows
 
 
-STAY AT TARRANG 315
-
 with a bitten hand. Things are getting lively, now that
 fighting has started, so after doing a little barter we start
 for Tarrang, carrying with us three carven combs, a
@@ -12807,8 +12250,6 @@ on their heads, like the Egyptians at Port Said, or the
 Japanese coolies at Moji at the entrance of the Inland
 Sea. It was ludicrous to see a stalwart native stalking
 
-
-STAY AT TARRANG 317
 
 along the quivering plank, basket on head, mother-naked
 under the scorching sun, save for a scanty girdle of red
@@ -12886,9 +12327,6 @@ came in the afternoon, and as a final bonne bouche, served
 me up further food for thought in the form of the following Yap traditions.
 
 
-STAY AT TARRANG 319
-
-
 THE INVENTION OF STONE MONEY
 
 There was a wise old man in Tomil named Anagumdng^
@@ -12964,8 +12402,6 @@ the latent sparks of fire, and went his way. This is how
 the art of making fire from the friction of wood, and the
 moulding of pots out of clay came to the primitive folk of
 
-
-STAY AT TARRANG 321
 
 Yap. Hence two proverbs suggested to the cautious and
 practical Yap mind.
@@ -13047,8 +12483,6 @@ And thus I made my first step back to the civilisation of the West, carrying wit
 streets of great cities and the stirring hum of their marts,
 
 
-DEPARTURE FOR HONG-KONG 323
-
 thoughts of a strange folk whom my people have not
 known ; carrying with me, I say, into our island of cloud
 and mist and fog, memories ineffaceable of tropic woods
@@ -13074,4036 +12508,3 @@ While I stand on the roadway, or on the pavements grey
 I hear it in the deep heart's core."
 
 
-APPENDIX
-
-(a) clan names of ponape
-
-Called Tupu or Tipu, also Cho7i-tapa
-
-Note, — The names within brackets are those of the
-principal chiefs belonging to the several tribes.
-
-1. Tupu-en-Panamai (Noch, in Metalanim).
-
-2. Tupu-en-man tontol (King Rocha of Kiti), patronsaint Ilako, a name that appears in the Yap Pantheon as
-Ilagoth. The Man tontol, or Dark bird, is the Kau-alik
-or Blue Heron.
-
-3. Choun-Kaua (The Wachai of Chokach, Lap-en-Not,
-the headman of Not, and Chaulik of Tomara).
-
-4. Tupu-lap, a Mount Wana clan, allied to Nos. 2 and i 3.
-
-5. Lipitan (Nanekin of Kiti).
-
-6. Lachi-alap (King of U).
-
-7. Tupu-en-Papa.
-
-8. Tupu-en-Luk = the children of Luk, the spirit of
-guile and mischief
-
-9. Tip-en-uai, the descendants of Icho-Kalakal's great
-invading force from the South. (Nanekin in Metalanim,
-also Lap-en-Paliker, Lap-en-Langar, and the influential
-chieftain Nan-matau of the Palang valley. The totem of
-this tribe is the Likantenkap or Sting-ray.
-
-10. Latak.
-
-1 1. Chau-n-P6k.
-
-12. Tup-en-man-en-Chatau. The children of the Devil-
-Bird or Native Owl. (Chatau = Pueliko, the Ponapean
-Inferno.) In Malay the name of the Owl Burong Hantu
-has the same meaning.
-
-13. Tip-en-man-potopot. The Man-potopot or White
-Bird is the Chik or Boatswain bird. Another Kiti tribe.
-
-
-CLAN NAMES OF PONAPE 325
-
-14. Choun-pali-en-pil. The people of the waterside.
-
-15. Naniak (Nanchau-Rerren of Roch and Annepein).
-
-16. Chou-n-Chamaki. Chamaki is the name of a hill
-near Chap-en-Takai on the south-west coast.
-
-17. Li-ara-Katau. This tribe is now extinct.
-
-18. Chou-n-mach. Probably representing the ancient
-Malay element. Literally. The People of the olden Times.
-
-19. Choun-Kiti.
-
-The old name for a king was Chau or Akata, and
-Icho meant a prince. The kings of Metalanim and U
-are entitled Ichipau, their queens Likant. The king of
-Kiti is variously called Nanamareki or Rocha^ his wife
-being called Nan-alik. The wife of the Wachai or prince
-of Chokach is styled Nanep. The children of a king
-were called Cherrichou. Other chiefly titles were Taok^
-Noch, ChaU'Wana, Nanaua^ Nanapei, Nankerou-n-pontake,
-Nanit-lapalap^ Nalik-lapalap, Nanckau, Chautel, Lumpot^
-A untol-rerreUy Mar} A ti, A u-en-pon-pei^ Choumatau, Chaulik^
-the smallest title of all. Then came the Maio or Freedmen^ then the Aramach-mal or Common folk ; and, last of
-all, Litu or serfs, mostly descended from prisoners of war.
-
-Counted equal to the nobles were the two religious
-bodies, the Chaumaro or high priests, and the Laiap or
-priests of the second order. These were of great weight
-and importance in the land, and united the functions of
-doctor, magician, rain-maker, and diviner of the future.
-Theirs was the knowledge of medicinal herbs and poisons,
-the gift of Kapakap or prophecy, of the Macha-kilang or
-second sight, the interpretation of dreams and omens, and
-the dreaded power of the Ria or imprecation of curses.
-Upon them devolved the ordering of Court ceremonies
-and public festivals, and the seasonable invocation of the
-gods of rain and harvest, the staving off of famine and all
-calamities, public and private, and the maintenance of the
-
-^ Cf. Maori, Mara! Sir, a salutation of a young man to an older.
-2 Perhaps akin to S. -W. and S. Polynesian, Tatdekaleka, Tatirekareka, and
-Taule'ale'a^ a youth, beau. (In Maori, a rascal.)
-
-
-Charaui or Tabu. Theirs were the principal seats upon the
-Lempantam or high stone platform in the Nach or Council
-Lodge — theirs, next to the king's, the best portion of
-cooked food and kava upon the days of solemn festival.
-
-Throughout all the tribes great respect was paid to the
-chiefs, who were never addressed as " thoul' but always in
-the second person plural "j^^." As in Malaysia there
-were many special words used in addressing a chief, and
-again there was another set form of words for addressing
-the king, who was looked up to with great awe, and only
-addressed in the plural of majesty as " They!' The
-chiefs mingle amongst their tribesmen with great familiarity and affability, which, no doubt, forms a fresh bond
-of sympathy and union. They all hold together loyally ;
-offend one, and all are eager to take up his quarrel. If
-the chief be a kindly hospitable man, his people will follow
-his example. If he be a rogue and a churl, his people
-will act as rogues and churls too. And this I have
-observed is a characteristic of Caroline islanders in
-general. They seem to have little independence of
-judgment, and love to follow the lead of their chiefs in all
-things crooked or straight, right or wrong.
-
-(b) names of native diseases
-
-The miasmas arising from the swampy belt of alluvium
-surrounding Ponape give rise to various catarrhal and
-febrile maladies, very fatal to the old people during the
-rainy season, with its flight and variable winds. An
-important factor in the health of the people is the tradewind that blows clear and fresh out of the north-east from
-October to May. Their names for fever are : Cho-maupou and Chomau-karrakar, the first denoting the cold, the
-second the hot fit of the malady.
-
-They call the smallpox, introduced by a whaling vessel
-some forty years ago, and which carried off half the
-population of the island, Kilitap or Peeling Skin.
-
-Consumption, for which the natives also have to thank
-
-
-NATIVE DISEASES 327
-
-the whalers, is called by the grim name Ll-MONGOMONG
-or " The Lady who shrivels men up!'
-
-The venereal disease, now happily quite of rare occurrence, is called Kench (Jap. Kanso), upon Yap Rabungek,
-
-Scrofula {Pir) is fairly common, the result of a poor diet.
-
-Leprosy {Tukotuk), somewhat rare, and of a comparatively mild type ; probably introduced from the East by
-the early Asiatic settlers (cf. Maori Tukutuku : a curse, to
-bewitch).
-
-Rip is the generic term for sores and ulcers (Kusaian
-Ruf) (c/. Tahitian ; Ripa, wasting sickness).
-
-Cough is Kopokop (Kusaie Kofkof), a cold or catarrh,
-Toi or Punan,
-
-Asthma is Lukoluk. Hiccough, Marrer.
-
-Rheumatism, Matak. Vomiting, Mumuch. Headache,
-vertigo, Maaliel.
-
-Home-sickness or nostalgia, Lit-en-chap. Paralysis,
-Li-chongapo.
-
-Delirium, Li-aurdra. Insomnia, Ika-n-pong.
-
-Itching, Kili-pitipit or Quick-skin.
-
-Constipation, Tang^ Teng. Dysentery, said to have
-been introduced from Manilla, Pek-en-inta.
-
-Squint is called Macha-pali, or eye on one side.
-
-Blindness is Mach-kun. Fainting is Machapong.
-
-Lameness is Chikel {cf. Javanese Chongkul).
-
-A swelling of the hands into hard lumps is called
-Komut-en-Kiti ; query, chalk-stones.
-
-The disease known as Tanetane in Polynesia, appearing
-as an eruption of light-coloured maculae on the brown
-native skin, is Chenchen (Kusaie Tantan, spotted).
-
-The curious furfuraceous disease, mentioned by Guppy
-as so prevalent in the Solomon and Gilbert Islands
-called Tokelau Leprosy or Tokelau ringworm, is very
-common in Ponape, where it is called Kili-en- Wai or The
-Foreign Skin.
-
-Elephantiasis is also common in this group which the
-ethnic mutilation {Lekelek) is supposed to guard against.
-
-
-(C) PONAPEAN TREES, PLANTS AND SHRUBS
-
-I here give the native names arranged in alphabetical
-order, and where possible with the botanical name side by
-side. To each is affixed a description of its economical or
-medicinal qualities, use, or special virtues. I have sometimes subjoined the neighbouring Micronesian, the Poly-
-nesian, or the Philippine Island name, agreeably to the
-recommendation of Guppy in his book upon the Solomon
-Islands, pp. 186-190. A more complete dissertation
-upon the widespread distribution of similar plant and
-tree-names throughout the great Pacific area will be found
-in a paper of mine which appeared in the Transactions
-of the Polynesian Society of New Zealand in 1897.
-
-A
-
-Abity Abith, Abiut. The Yap name for a bush-tree
-bearing round edible fruit of a dull green, marked all over
-with light yellow raised patches. Flavour sweet and
-mawkish. The pulp has an offensive, sour odour.
-
-Aio. The Banyan-tree of Ponape (Ficus Indica). The
-Ao oi the Mortlocks and the Aoa of Polynesia. (Also
-called on the east coast Oio?)
-
-Ais. (Parinarium laurinum.) The Atita of the Solomon Islands, the Adhidh of Yap, the Aset of the Mortlocks.
-In the Pelews known as Laug. It grows to a considerable
-height and produces large circular rough reddish-brown
-fruits about the size of a cricket-ball. A decoction of
-the pericarp is used for painting canoes red, and the
-kernel produces a good varnish-oil used in conjunction
-with clay for caulking seams of leaky boats.
-
-Ak. The generic word for mangroves. (Tagal BakaJi).
-The upper branches run into long straight wands or poles
-which are used for spear-shafts, rafters, punting-poles
-and husking-sticks. N.B. — In Polynesia Oka denotes a
-husking-stick or rafter.
-
-Alek. An elegant species of reed-grass, the slender
-stems of which are extensively used for making shutters
-and floorings.
-
-Aput, Apuit. A white-wood riverside tree used for the
-Kerek or figure-heads of canoes.
-
-Aulong. A species of wild ginger bearing a reddish or
-crimson spike of flowers called Likaitit.
-
-C H
-
-Chai. The Custard-apple (Anona squamosa). In Yap,
-Sausau.
-
-Chaiping, Chaping. (Heritiera littoralis.) The Metalanim
-name for the Marrap-en-chet^ i.e. the Marrap or chestnut
-of the salt water, the sea-side species, to distinguish it from
-the Marrap of the woods (Inocarpus edulis). The
-Chaiping has singular keeled seeds. The under part of the
-leaf is of a silvery whiteness. Wood hard and white, used
-by boat-builders. The Pipilusu of the Solomon Islands
-(Guppy). In Tagal Sapang denotes a hard-wood tree.
-
-Chair-en-uai {i.e. The Foreign Flower). The U and
-Metalanim name applied indifferently to a species of
-Gardenia, and to the Cananga odorata. (The latter is the
-Ylang-ylang of the Philippines and the Moso'oi, Mohoki
-and Motoki of Polynesia.) With Chair, Sair, " a flower,"
-compare Javanese Sari, " a flower," and Polynesian Tiare,
-Siale id.
-
-Chakan. The Candle-nut tree (Aleurites triloba).
-Known in the Polynesian area as Rama, Lama and Ama,
-also as Tutui. The charred nuts used by the Ponapeans
-for making a black paint.
-
-Chakau, Choko. The kava of Polynesia (Piper Methysticum). From its pounded roots the national beverage is
-made. It is extensively grown all over the island, except in
-the Metalanim tribe, where its raising is vetoed. The word
-is connected with the Japanese Sake, Saka, which denotes
-(a) rice-spirit, {b) strong drink in general. Compare Kusaie
-Seka, {a) the kava-plant, {h) the drink prepared from it.
-
-Chalanga-en-ani. A fungus or toadstool. Literally
-"Devil's ear."
-
-
-Chapachap, Chap-el-lang, A sort of rush growing on
-the plateaus and hillsides.
-
-Chapokin. A species of wild arum.
-
-Chatak. The Elaeocarpus, and the Ntl-Kanth of India.
-A tall forest tree, its trunk supported by wide flanges or
-buttresses. The wood is white and firm, much used by
-the Ponapeans for canoe-building. The berries are exactly
-the size and shape of an olive, but of an intense cobalt
-blue. They are eaten by the fruit-pigeons. I have seen
-the tree also upon Strong's Island {Kusaie). Habitat the
-upper hill-slopes. (Perhaps akin to Malay Jati^ teak.)
-
-Chaua. The generic name for the A ru7n esculentum or
-Taro, of which several varieties are cultivated on Ponape.
-(Compare Motu, Nuku-Oro, and Marquesan Tao the Taro, of
-which word the Ponapean is a harsher Micronesian variant.)
-
-Chenchul {Ipomea sp.). A creeping plant with purple
-flowers, like a convolvulus, found on all the island beaches.
-Decoction of leaves drunk by child-bearing women.
-
-Ckeu. The sugar-cane. (Compare Polynesian To, Fijian
-Ndovu, Malayan Tubu, German New Guinea Tab, Tup,
-Tep.) Called upon Ngatik Chou. In Paliker district the
-name Ckeu is tabued, as it occurs in the name of a local
-chief, and \hQm.rc\eNan-Tap or Madame Tap is substituted,
-the older form of the word coming back into life and use
-in this curious way. (Varieties : Cheu-ntd, with dark-red
-stems. Cheu-puot, with light- coloured stems. Cheu-e?t-uai,
-with brownish stems. Cheu-en-air, with speckled stems.
-Cheu-rei, with banded stems and dark-coloured juice.)
-
-Choio. A waterside tree. Hard white wood. Drooping habit of boughs. Longish leaves. Habitat, the
-swampy banks near the mouths of the rivers.
-
-Chong, Chom. A variety of the mangrove {Bruguiera).
-{Cf. Polynesian Tongo, the mangrove.) The bark of the
-root-stems is used for dyeing a brown or reddish-brown
-colour. In some Pacific Islands bits of the bark are
-thrown into the calabashes of fresh coconut-toddy so as
-to set up a speedier fermentation.
-
-
-Choun-mal, i.e., " Worthless fellow!' The Stinging Nettle.
-(The Salato of Samoa. Malay Jalatan id.)
-
-Chongut. A bush-tree in Yap with a burning milky
-sap, which, falling on the skin, produces obstinate and
-terrible ulceration.
-
-
-Ichak. A wild vine of the gourd family {Cucurbitacece).
-The natives use its fruit for calabashes. The name is also
-used to denote a coconut bottle.
-
-Ichao, Ichau, the Callophyllum Inophyllum. The Fetao,
-Hetau and Tamanu of the Polynesian area, and the Bitao
-of the Philippines. It is the Iter of Kusaie, the Icher of
-the Marshall group. Its wood is firm and durable and of
-a rich reddish-brown colour, equally good for boat-building or for ornamental work. It produces round fruits
-with a bitter-sweet kernel, rich in a resinous greenish oil
-most valuable for rheumatism. It is the Ndilo oil of
-Fiji, which in 1870 commanded such a ready sale in the
-European market. In 1890 I sent two bottles of the oil
-from Samoa to Dr Tarrant of Sydney for experimental
-purposes, but, as frequently happens in these cases, no
-reply was ever received.
-
-Ikoik. The Kanava of Nuku-Oro, the Tou of the
-Marquesas. A littoral tree producing scarlet trumpetshaped flowers. It has a dark brownish-red wood
-valuable for boat-building.
-
-IkoL A small weed with round leaves used for dressing
-burns.
-
-Ingking {Compotacea sp.). A littoral shrub found on
-the low coral islets in the lagoon bearing crimson fruit,
-oblong like that of a sweet-briar. Flowers small ;
-greenish yellov/. A decoction of the bark and leaf are
-used to cure colic and internal pains.
-
-Inot(^SccevolaKcenigii). A tall littoral tree with large juicy
-obovate leaves of a bitter flavour and small white cruciform
-flowers with a violet centre. A decoction of the leaves
-forms a fine tonic, and the natives say an aphrodisiac. A
-curious appearance is given to the leaves by the presence
-of white, raised markings running into a network recalling
-the maculae of the Tokelau ringworm on the human skin.
-I have seen the shrub growing on the roadside near the
-Quarries and the Sugar- Works in Hong-Kong harbour.
-Upon Nuku-Oro it is called Manuka-pasanga. In the
-Mariannes it is called Nanaso; in Japanese, KUSA-TOBERA.
-
-loio. A bush-plant running up to some ten or twelve
-feet in height, with leaves like a Canna and juicy stalks
-like a ginger plant. It bears white flowers. The fruits are
-red in colour and oblong in form, growing together in a long
-bunch or raceme. The juice is aromatic and astringent.
-A decoction of the pith is used by the natives as an
-unfailing specific for diseases of the mucous membrane.
-
-lol, Vol. A species of giant convolvulus growing on
-the hill-slopes : flowers large, white, with sulphur-yellow
-centre. A decoction of the leaves and seeds possesses
-properties akin to those of ergot of rye. Much used
-by the native women for procuring abortion.
-
-I^a^ Ita-n-wal. The wild Ratan-cane (Samoan Lafo).
-
-K
-
-Ka, Ke. A shrub cultivated for the sweet cinnamonscented essential oil extracted from its bruised and
-crushed bark. The Ka-en-Mant is a particularly choice
-species (Cinnamum Terglanicum ?).
-
-Kalak. A tall bush-tree.
-
-Kalau. The Hibiscus Tiliaceus. (The Gili-fau of
-the Mortlocks, the Kal of Yap, the Lo of Kusaie and
-the Marshall Islands.) (The Ponapean name Kala-Jiau
-contains two elements, the latter the Polynesian Fau^
-Hau, Malay Baru} Tagal Bali-bago.) Strips of the bark
-form the native cord or string, and was often beaten
-out into baste to make women's dresses (" Li-kau ") in
-olden times. From the flowers and leaves a decoction
-
-^ The Varii of Aurora and New Hebrides.
-
-
-is made possessing astringent qualities, a great native
-remedy for urethritis.
-
-Kamp-en-ial^ Kamp-en- Yap. A bush-shrub with long
-narrow leaves, bearing tiny inodorous white flowers,
-four or five together on a stem. The Seasea of Samoa.
-(Eugenia sp.).
-
-Kamuche. A shrub growing some ten feet high,
-bearing small bluish-mauve flowers. Habitat, the low
-coral islets in the lagoon.
-
-Kanau^ Kamau. A tall bush-tree with pinnate leaves
-and curious heavy wrinkled seeds like the kernel of a
-walnut. Firm white wood. Habitat, the banks of the
-Pillap-en-Chakola Creek, Ascension Bay, north coast
-(Cynometra sp.).
-
-Kanepap. A tall forest tree bearing minute flowers
-in panicles. Wood used in house-building.
-
-Kanepul. Bush - tree. (According to Dr Pereiro, a
-Dracontomelum, order Anacardiae.)
-
-Kangit The name applied indifferently to the true
-Mango (Mangifera Indica) ; and to a large tree (Pangium
-edule), bearing huge round fruits like those of an alligator
-pear, containing ten or twelve seeds exactly like the single
-one of a mango, and filled with a custard-like yellowish pulp
-of delicious flavour. Upon Yap the tree is called Raual.
-Decoction of the boiled bark valuable cure for urethral
-troubles. The kernel of the seeds contains a narcoticoirritant poison.
-
-Kap. The generic word for the yam, extensively
-cultivated in all the districts.^ {Cf. Japanese Kabu^ a
-turnip ; Philippines, Gabe ; Polynesian, Kape ; Ape id,
-the Arum costatum.
-
-Some of the varieties : —
-
-Kap-e-lai, Kape-e-palai. Sweet variety. (Samoan Ufi-
-
-^ At the planting of the yams at the beginning of the rainy season there was
-held a singular ceremony. The chief priest came forward with a digging-stick
-in his hand, with which he raked about in the ground, with the solemn
-incantation, " Champa kota, airi koti^'^ i.e., " Good soil rise up, poor soil sink
-down."
-
-
-lei, and Palai yam. sp., compare Mangaian Ui-parai.)
-Kap-en-mali : Round, light-coloured skin. Kap-namu :
-Long. Kap-en-Ant : Light-coloured skin. Kap-mpulampul : Dark purple skin and flesh. Choice variety. The
-potato is called Kap-en-uai or the Foreign Yam ; and the
-Sweet Potato Kap-en-Tomara, or the Yam of Tomara,
-from a village near the Palang River on the west coast
-where it was first introduced. Similarly the Fijians call
-the sweet potato Kawai-ni-vavalangi, or the Foreign
-Yam ; the Malays Ubi-Jawa, the Yam of Java. In the
-Pelews the potato and the sweet potato are styled Tulngutal-Barath, i.e. the Yam from the Westward.
-
-Kara, Kora. A tall forest tree. Hard heavy wood,
-white when first cut, but turning red after a few days.
-Good for cabinet-making. Habitat, hill-slopes above
-Metalanim harbour and around the Kipar and Paliker
-district on the west and south-west coast.
-
-Karara. A species of wild nutmeg (Myristica). Fruits
-chewed in olden time to make the teeth red. (Query, as a
-substitute for betel-nut ?)
-
-Karamat. Species of dead-nettle. Crushed leaves used
-for poulticing indolent ulcers.
-
-Karrat. A large plantain with bright orange flesh
-(Malay Kalat, Kusaie Kalas, Hindustani Kadli, Kela).
-
-Karrer. The Kiti and Chokach word for trees of the
-citrus family, such as the orange, lemon or lime. (The
-Kahit of the Mariannes. In Kusaie, Osas. In Yap,
-Gurgur and Guerguer.)
-
-Katai, Kotop. Varieties of areca-palm found on the
-plateaus and the upland slopes. Children sometimes
-chew the nuts, the adults very rarely. The habit of
-Betel-nut chewing practised so universally in the Philippines, the Mariannes, the Pelews and in Yap, somehow
-has not taken root firmly amongst the Ponapeans, who
-appear to find the stimulus of Kava-drinking sufificient
-for their needs.
-
-Katar. The tree-fern found in great abundance in
-ravines and clefts of the hills. The trunks are often used
-for posts in house-building.
-
-Katereng. The sweet basil. Used in soups and for
-making tea, an excellent fever draught. A decoction of
-the leaves in boiling water is a capital application to
-fevered, aching and wearied limbs.
-
-Katiu, Katia, The Ixora. A forest tree of upright and
-sturdy growth, with long narrow leaves and umbels of
-brilliant scarlet blossoms with a yellow centre. Spearshafts are made of the stems, also punting-poles and
-rafters. This tree also grows in great magnificence upon
-Kusaie to the south-east and upon the King's Isle of Lele
-where it is called Kasiu. In Yap it is called Katchu, and
-in the Uluthi group Kathiu.
-
-Katol The Paper-Mulberry (Broussonettia papyrifera).
-The Pu'uehu of the Marquesas and the Lau- Ua of Samoa.
-It is not common in Ponape, which may account for the
-absence of the native cloth called Siapo, Ngatu or Tapa
-by the Samoan, Tongan and Marquesan islanders. However, rarity or absence of this fabric in Ponape was
-compensated by the bast obtained from the bark of the
-Hibiscus and the Nin^ a ficoid tree. A curious and
-instructive word in this connection is the Gilbert Island
-word for clothes, Kun-ne-kai, literally Skin of Trees.
-
-Kawa. A tree growing on the mud-flats and salt-water
-marshes just inside the outer girdle of mangroves that
-hem in the lowlands. It has narrow, pointed, fleshy
-leaves growing two and two on a stalk, and bears tufted
-crimson flowers (Kandelia Rhoedii).
-
-Keiwalu. A wild vetchling. There are two sorts, one
-resembling an everlasting pea, with pinkish-purplish flowers
-and broad leaves ; the other, with smaller leaves and
-yellow flowers of like shape, found creeping everywhere
-around the beaches just above high water mark.
-
-Ken. A tree found growing on the swampy banks near
-the mouths of the rivers. It has dark brown wood, used
-for boat-building and for making posts for the houses.
-
-
-In the Solomon Islands, Kenken is the Coix lacryma or
-Job's tears.
-
-Kerari. In Kiti, a shrub with rough leaves like those of
-a sage-bush and bearing bright blue flowers. On the
-North Coast, Maikon. Upon Yap, Tenk.
-
-Kiap, Kiep, Kiop, The native lily, with white petals and
-yellow stamens and pistils. The Kiuf of Kusaie, the Gieb
-of the Marshall and Gilbert Islands. In the Mariannes
-Kafo is the flower of the Pandanus. Cf. Maori, Kopakopa,
-the New Zealand Lily. In Japan Gibo denotes one of the
-Liliaceae.
-
-Kipar. The Kiti name of the Pandanus or Screw-pine
-(P. utilis and odoratissimus). The Fas, Far, and Fat, of
-the Mortlocks, the Fala and Fasa of Samoa, the Hala and
-Fara of Hawaii and Tahiti, the Hara-hagh and Harassas
-of Indonesia. In Japanese Tako-no-Ki, i.e., The Tree of
-the Octopus.^
-
-Kirikei. The old name of the Wompul, Weipul or
-Morinda Citrifolia.
-
-Kiri-n-chom. The rhizome of the mangrove tree.
-
-Kirrak-en-Wal. Lit. The Kirrak of the Bush. The
-jamboo or Malay apple, the Nonu-fiafia of Samoa, known
-in other portions of the Pacific area as Kehia, Ehia, Ohia,
-Kahika, Kafika and Geviga. In the central Carolines the
-name Kirak or Girek denotes the native chestnut {Inocarpus edulis) {cf. Maori Karaka, a tree with edible seeds).
-
-Kitau. The Polypody fern — much used for garlands.
-The crushed leaves and stalks are mingled with scraped
-coconut and a scented oil is expressed therefrom.
-
-Kiti. The Cerbera lactaria and C. Odollam, found on
-the island beaches. The Leva, Reva and Eva of Polynesia. Every part of the tree is highly poisonous, and the
-crushed nuts are all too frequently employed by the women
-of the Marquesas group for suicide.
-
-^ The natives of the Harvey Group (S.-E. Polynesia) have a strange idea
-current of a species of octopus that comes ashore at dark, climbs the Ara or
-Pandan tree and devours its fragrant blossoms.
-
-
-Kont, Cf. Japanese Kombu, seaweed. A seaweed with
-remarkable narcotic properties found growing in little tufts
-on the edge of the Mat or detached reefs in the lagoon.
-Used by fishermen in capturing the jellyfish Raraiak and
-Tentumoi.
-
-Konok. The betel-pepper, a small species of the kava
-plant which climbs like ivy around the trunks of trees.
-The Kolu of the Solomon Islands. (In Peru Kunuka is a
-climbing plant.)
-
-Korrom. A burr-bearing weed, found on rubbish-heaps
-and in the neighbourhood of the clearings in rear of each
-native settlement {Sida retusd).
-
-Koto. A species of mangrove with white flowers and
-circular leaves and rounded seeds. Wood white and firm,
-good for cabinet-making. It is the Hali-a-paka or White
-Mangrove of the Marianne Group.
-
-Kupu-n-Tanapai^ i.e. the plant of the Tiger Shark.
-The fanciful name of the Osmunda regalis or Royal Fern.
-
-L
-
-Lampa, mould, mildew.
-
-Likaitit. The rose-coloured flower-spike of the wild ginger.
-
-Likam. A climbing plant bearing flowers like a convolvulus in shape — of a light mauve -colour — with a deep
-purple-mauve eye.
-
-Lim. General term for sponges (Polynesian Limu^
-Rimu = seaweed).
-
-Lim-en-kaualik is a scarlet sponge — Paia^ a yellow one.
-
-Lim-en-tutu. The sponge of commerce, and Lim-enauar a brown and dark-blue species.
-
-Lim-en-Tuka. Lichen or moss growing on trees, which
-sometimes is wonderfully like a sponge. (Specimen in
-South Kensington Museum.)
-
-Lim-Par. A long-fronded fern growing on trees overhanging the riverside.
-
-Luach. A tree exactly resembling Callophyllum inophyllum, save that instead of round fruits it bears pear-
-Y
-
-
-shaped ones. (Upon Kusaie — Luas.) The aromatic
-rhind used by natives for stringing garlands, and as an
-ingredient in preparing their Uchor or scented oil.
-
-M
-
-Mai. The breadfruit,of which I counted forty-five species.
-
-Maikon. A shrub growing five or six feet high ; rough
-leaves, blue flowers. Decoction of leaves a blood purifier.
-
-Makiach. A bush-shrub.
-
-Mang. The swamp-taro (Colocasia) with forked roots,
-whence its name. It bears yellowish flower-spathes. {Cf.
-Samoan Manga-na'a^ Manga-siva^ species of water-taro.
-
-Mangat. A large species of plantain.
-
-Marachau (i.e. the king's garland or necklace).
-(Dysoxylum or Averrhea, sp. ?) A tall and handsome
-forest tree. The leaves grow by fives together on a stalk,
-and somewhat resemble those of an English ash.
-
-Marek. The common fern.
-
-Marrap. The Inocarpus edulis, the Ihi, Ifi and li of
-Tonga, Samoa and Mangaia. In Efatese — Mabe. The
-Tahitian name is Mape. In Mortlocks, Marefa. It is a
-sacred tree in which Naluk the God of Thunder is supposed to dwell. Its boiled bark yields a valuable
-astringent drug. Its firm white wood is much used in
-boat-building, the root buttresses supplying good material
-for the bends and strengthening pieces. The large
-flattish fruits are very much like an English chestnut
-in flavour, and form a very welcome addition to the native
-fare. A sucking-pig or fowl stuffed with Marrap fruit
-and baked in the earth-oven is a dish not to be despised.
-
-Marrap -en- Chet. (In the white man's pidgin Ponapean
-" Marry-bunchy " ) is the Kiti name for Heritiera littoralis^
-properly not a Marrap at all.
-
-Matakel. The fragrant leaf-like flower of the Pandanus
-odoratissimus.
-
-Matai. A medicinal bush-weed, decoction of leaves
-drunk by child-bearing women.
-
-
-Matal. Applied both to the bush pandanus and to the
-Freycinetia, the Salasala and leie of Samoa, the Kiekie of
-eastern Polynesia, the Gire of the Banks Group, and the
-N'er of Yap.
-
-Matal-in-Iak. A bush-weed. Decoction of leaves
-good for headache.
-
-Mateu, Matu. The Sassafras or wild Sarsaparilla.
-
-Matil. A long-fronded fern.
-
-Mekei. The old name for the Kitau or Polypody fern.
-
-Mokomok. The generic name of the Tacca or South
-Sea arrowroot all over the Caroline area. (In Polynesian
-called Pia^ The Mamago of Mamako or the Solomon
-Islands (Guppy). One of the Uluthi or Mackenzie Group
-gets its name from the quantity of Tacca grown there.
-
-Momiap. The pawpaw, mammee or mummy apple
-(Carica papaya). The Ketela of Malaysia, the Es of Kusaie
-and the ^j-^' of Samoa. Introduced into Ponape about 1840
-by an old French settler — the recluse of Nan-Moluchai referred to in the account of our visit to the Metalanim ruins.
-
-Mpai. A species of tree-fern.
-
-Muerk (Psychotria). A bush-tree. Decoction of
-bark used for curing aphthce or thrush in children.
-
-N
-
-Nan-Karu. Name given to plants of the orchid
-species, which also is designated by the name Kiki-enkaualik or " Blue Heron's claw."
-
-Nan-Tap. The Paliker local name for the Cheu or
-sugar-cane.
-
-NL The coconut palm, of which there are several
-varieties.^ One has an edible husk {Ni-atol, the Niumangalo of Polynesia). N.B. — A curious freak of nature
-is sometimes seen in a single nut out of a cluster, the
-kernel of which is divided up into two, three, or four
-compartments, from each of which a shoot springs.
-
-^ In Polynesian, JSliu^ Nu ; Malayan, Niyor, Nur ; Philippines, Niyog ;
-Skt., Nariyar,
-
-
-This is called in Ponape Pat-en-parang. Upon Mokil,
-Pat-en-maram.
-
-The nut has several names according to its stages of
-development Small nut just forming, Kurup {Cf. Maly.,
-Karapa, Kalapa), Green drinking-nut, soft kernel commencing to line the shell, Up in Kiti, Pen in Chokach and
-Metalanim. Next stage, kernel - thickening, Mangach.
-Stage when the nut is fully ripe and falls down ready for
-copra-making, Arring, Arrin. [Upon Pingelap, Takatak^
-In the final stage the solid kernel occupying the whole of
-the interior takes on change, and becomes a soft spongy
-mass, and the shoot of the young palm sprouts out through
-one of the eyes. It is then called Par. The contents of
-the sprouting nut, when roasted, are a favourite diet for
-invalids. The husk is called Tipanit. From this the cinnet
-or cord is twisted. Inipal is the name of the natural
-cloth clinging around the base of the leaf-stalks or fronds.
-The flower-stalk is Tangkal ; the leaf or frond Paint ; the
-sheath of the flower-stalk Koual ; the central spine of
-leaflets Nok, and the oil Le or Ler (when scented, Uchor.)
-
-Nin. A ficoid tree allied to the Banyan. It grows
-abundantly in the valleys and hill-slopes. From the bark
-the woman's dress (" Li-kau ") was made. {Cf. Malay Nunu^
-the lesser Banyan.) N.B. — Nin in the Mortlock's denotes
-the Morinda citrifolia (Samoan Nonu^ Gilberts Non, Malay
-Nona, Uluthi Lol)
-
-NG
-
-Ngi (Metrosideros). A littoral shrub, eight to ten
-feet in height, with very hard but brittle wood, minute
-leaves, and small delicate flowers like those of a myrtle.
-It grows in great abundance on the small islands out in
-the lagoon, rooting itself firmly in between the blocks of
-coral, its roots washed by the salt water. It bears tiny
-capsules containing minute dark seeds resembling those of
-the tobacco-plant. When empty they resemble the bell of
-a lily-of-the-valley. Decoction of bark a native cure for
-dysentery. {Cf. Pelew Islands, Ngis ; Lamotrek, Gaingi ;
-Pulawat and Satawal, Aingi.)
-
-Ngiungiu. The Yap name for a climbing fern {Lygodium
-scandens).
-
-Ngkau. A common bush-weed both on mainland and
-coral islets in the lagoon. It bears small yellow flowers,
-like a marguerite or Michaelmas daisy. Leaves heartshaped, serrated at edges, yielding when crushed a rank
-and powerful odour. The pounded leaves or a decoction
-of them are a valuable application to sores and ulcerated
-wounds.
-
-O
-
-Och. A species of sago-palm {Metroxylon amicarum).
-Habitat^ the swampy lowlands and the neighbourhood of
-rivers ; the Ota of the Banks Group ; the Os or Rapun of
-Ruk and the Mortlocks. It produces large black, round
-fruits, with a scaly pericarp, which gives them considerable
-powers of flotation. The kernels are very hard, and exported to Germany for button-making. They are an
-effective substitute for the ivory-nut or vegetable ivory of
-South America. Hence the Spanish call the tree Palma
-de Marfil or Ivory-palm. The Ponapeans do not make
-sago from it, like their Melanesian neighbours to the
-south and south-east.
-
-Oio, The Chokach and Metalanim name for the
-Banyan tree.
-
-Oliol. A bush-plant. Decoction of leaves good lotion
-for wounds and cuts.
-
-Olot. Species of sea-grass, with patches of which the
-mud-flats appear studded at low tide.
-
-Ong. The wild ginger, of which there are several sorts.
-{Cf. Pampanga, Ango, Curcuma ; Samoan, Ango, Turmeric ;
-Javanese, Wong, gamboge. (Perhaps connected are the
-Chinese words Hoang, Wong, denoting a red, yellow, or
-orange colour.)
-
-Ong-en-Pele. A choice kind.
-
-
-Ong-en-Pele-en-Uai, i.e. Peles ginger from abroad. The
-ginger plant of commerce (introduced).
-
-Or. Bush-weed. Decoction drunk to cure sore throat
-and low fever.
-
-Oramai. Species of Ramie or Kleinhovia. Fibres of
-bark anciently used in making fish-nets. The Lafai of
-the Solomon Islands (Guppy).
-
-Ot, Wot. The Giant Taro (Arum costatum). In
-Kusaie, Wos. Called in Central Carolines Pulak or Purak,
-(In Solomon Island an Arum is called Kuraka.) (With
-Wot, Wos, cf. Samoan Vase, a species of taro.) N.B. — In
-the Polynesian area Puraka, Pulaka and Pula'a denote
-various species of taro.
-
-
-Pai, Pai- Uet. Species of tree-fern.
-
-Pa7'. Two sorts, Para-pein, the female ; and Paraman, the male. Bark of latter in decoction used by
-natives as a tonic. The Erythrina Indica — the Ngatae of
-Samoa, the Atae of Tahiti, the Netae of the Marquesas.
-In India it is called Pari-bhadra, the Par, or season
-coming round of the bhadra or fifth solar month, August,
-at which time the tree is covered with scarlet flovv^ers. The
-Ponapeans divide their wet and dry seasons, which they
-also call Par, from the appearance of these brilliant blossoms.
-It is interesting to see the Asiatic name retained in this
-remote corner. (In Kusaie Pal also denotes a season.)
-
-Parram. The swamp-palm (Nipa fruticans), the
-Ballang oi ih.^ Sulu Archipelago ; the Betram or Batram of
-Java. (^Cf. Fijian Balabala, the Cycas Revoluta. Maori,
-Para, a fern. Marianne (P. to F.,R. to D.) FADAN,the Cycas
-Revoluta. Marquesan Pda-hei (i.q. Para-hei), a tree-fern.
-An island on the north coast of Ponape is named Parram,
-from the abundant growth of this palm on it. The
-strange-looking fluted seeds float for a long time in the
-water without injury. Hence one need not be surprised
-at the very wide distribution of this palm throughout the
-
-
-Micronesian and Melaneslan area, carried by the ocean currents. I did not notice the Parram either in Tahiti or the
-Marquesas. In the latter group however the fan-palm grew
-abundantly, especially upon HivaOa and Tahuata, a species
-that though found in the Solomon Group, unaccountably
-fails to present itself in the Caroline Archipelago.
-
-Parri^ Pearri. The generic name of the Bamboo
-(Bambusa). {^N.B, — In Efatese, New Hebrides, Borai is
-the sugar-cane.) In the Favorlang dialect of Formosa,
-Borro is small cane or reed-grass. In Yap, Mor is the
-dwarf bamboo. In Kusaie the bamboo is called Alkasem^
-a word of doubtful derivation. In Hindustani, Baro is
-reed-grass ; and in Malagasy, Fari is the sugar-cane. In
-Nuku-Or, the bamboo is called Matira, which word in
-Maori denotes di fishing-rod. The Ponapeans make flutes
-out of the smaller canes, using the larger ones to store
-up water in as the Marquesan islanders do. They also
-employ them as water-conduits {Kerrikef). Hence the
-Ponapean verb Kerrikereti-pil, to bring down water from
-the hills for irrigation purposes by a line of bamboo pipes,
-end on end.
-
-Peapa, Peapea, Peepee. Varying dialect words for a forest
-tree with fine small leaves like those of a privet shrub.
-The wood is white, firm in grain. Used for boat-building.
-
-Peipei, Paipai-Ani^ i.e. the Peipei of the Gods.
-
-Peipei, Paipai-Aramach, i.e. the Peipei of Mortals.
-
-Two beautiful ferns, closely resembling the umbrellafern of New South Wales. The name is also applied to
-a species of Adiantum. Peipei is a poetical word, meaning
-long tresses of hair.
-
-Pelak. One of the gourd family, the fruits of which
-furnish the natives with their calabashes.
-
-Pena^ Pona^ Pana. The Thespesia populnea, a common
-littoral tree with a reddish-brown wood. The so-called
-rosewood of Polynesia. (Samoan, Milo ; Tahitian, Miro
-and Amae ; Marquesan, Mio?) In Kusaie, Pangapanga
-or Penga ; in Yap, Bonabeng ; in the Gilberts, Bengibeng.
-
-
-Perrafiy Paran. The Metalanim name for the orange,
-lime, or lemon-tree.
-
-Pinipin. One of the gourd family allied to the Pelak {q.v.).
-
-Poke {Pandanus inermis). Upon Lamotrek, Pogo. Bush
-variety — no aerial roots.
-
-Puek. The Puka or Pukatea of Polynesia. A species
-of tulip-tree. Wood soft and valueless. (Tongan, Buka,
-Hernandia peltata.)
-
-Pulok {Carapa Moluccensis). A tall, hard- wood tree, with
-curious curving flanges or buttresses. Habitat : the saltmarshes, where it occurs mingled with the Ak^ Koto, Kawa^
-and Waingal. It bears a number of curious polygonal
-seeds, closely packed together in the pericarp like pieces
-in a puzzle. The seeds float, and, to judge from the wide
-distribution of the tree, drift long distances upon the
-ocean currents. A similar species is found in Africa, the
-kernel of which yields a useful oil. The wood of the Pulok
-is much used by native carpenters and boat-builders, especially the curious ridges of its root-buttresses, which come in
-handy for the bends in fashioning the bows of a craft.
-
-Putoput. A shrub common on the low coral islands,
-recalling the Tou of Samoa {Sponia timoriensis).
-
-Pur. Flowers in general. In the U and Metalanim districts. Chair or Sair. (Javanese, Sari, a flower.) The Tree-
-gardenia is also called Pur or Chair ; in Yap, Angak.
-
-R
-
-Ramak. The Mokil name of the /;2^/(5<:^w/^ Kcsnigii).
-
-Rapun. The Mortlock name for the Och or sago-palm
-{Metroxylon).
-
-Rara. A species of Freycinetia. Leaves about a cubit
-long, fluted in the middle by a slightly serrated ridge.
-
-Ratil. A long fronded fern, also the giant fern. The
-Nase or Nahe of Polynesia (Angioptera erecta and Marattia
-fraxinea)}
-
-Re, Rei. The varying tribal and local names for grass.
-Reirei (adj.) denotes a green colour.
-
-^ Cf. Pelew Islands, Ngas, a tree-fern.
-
-
-Re-chap^ i.e., grass-rush or rush-grass ; a coarse grass.
-In decoction a vermifuge.
-
-Ro, Rirro, Roi. A small species of reed-grass, the stems
-of which are sometimes used for making the native flute.
-
-
-Taip. The Metalanim name for trees of the genus
-Pandanus in general. {^Cf. Gilbert Islands, Taba, the
-flower of the Pandanus tree.) The bush variety is called
-Taip-en-wal, and the seaside species bearing large edible
-fruits — introduced from the Marshall Group — is called
-Taip-en-wai, i.e. the Pandanus from abroad.
-
-Talik. The Bird's-nest fern, resembling an English
-hart's-tongue, found on the sides of the stone-work of
-Nan-Tauach, and at the base of the branches of forest
-trees. The Talik-en-wal or Talik of the bush is a climbing
-species, forming most ornamental festoons amongst the
-nurseries of young trees upspringing in the undergrowth.
-
-Tikap. A species of mountain plantain. (In Samoa,
-Soa'a ; in Marquesan, Huetu ; in Tahitian, Fei?) Botanical
-name, Musa uranospatha, literally, the Musa (Arabic,
-Mawz), with the spathe pointing heavenward. So called
-because the leaves of the plantain and its bunches of fruit
-point upwards, whilst the true banana, leaves and bunch,
-droops earthward ; vide Mr Grant Allen's excellent essay
-" De Banana."
-
-Ting. The Dracoena terminalis. The Ti, Ji or Ki of
-Polynesia ; the Ndili of the Banks Group ; the Ndong or
-Andong of Java. N.B. — In Samoa Tongotongo also denotes a species of Dracoena.
-
-Tip. The generic name for weeds, grasses, creepers, and
-undergrowth. {^Cf. Polynesian Tupu, to grow ; spring up.)
-
-Tip-en-chalang. A minute and pretty species of seafan found amongst the patches of Olot upon the mud-
-flats at low tide.
-
-Tipop, Tupap, Tipap. The native almond (Terminalia
-catappa). Upon Kusaie, Sufaf. The Talie of Polynesia,
-the Salite of the Banks Group, the Talisai of the Philippines. Called in Solomon Group Saori (Guppy).
-
-Titin. Littoral shrub with soft downy leaves like those
-of a fox-glove. It bears small white flowers upon six or
-seven stalks, which grow into a cruciform branch, It is the
-Sisin of Mokil. (Tournefortia sarmentosa.)
-
-Tong. A tall buttressed forest tree. It has long lobed
-leaves and small seeds. The wood is of a dark reddish
-brown, hard and excellent for boat-building. The natives
-also use it for making their Kachak or food-troughs, which
-answers to the Polynesian Umete or Kumete. Dr Pereiro
-declares it to be either Dipterocarpus mayapis or Dipterocarpus polispermus. It is found in the interior of Yap,
-where it is called Ramilu.
-
-Tupuk, Tupok. A tree found on the mainland and also
-upon the coral islets in the lagoon. It grows from ten to
-twenty feet in height and bears umbels of greenish-white
-flowers, and clusters of dark berries, very much like those
-of our elder tree, which in scent they strongly resemble.
-The pounded bark is good as an external application to
-obstinate sores and slowly healing wounds. The wood
-was anciently used for making fire by friction, and also
-was employed in the manufacture of the Aip or native
-drum. In the Pelews it is called KOSOM, and is a sacred
-tree. Upon Yap Ar. In the Mariannes Argau. In
-Bisayan a species of Premna is Argao, in Tagal AODAU
-and Alagao.
-
-U & W
-
-Waingal, Uaingal. (Lumnitsera sp.). A tall tree with
-small oblong leaves, notched at tip, bearing small crimson
-flowers and roundish flattened seeds. Wood reddish-brown,
-very hard and durable, used in house-building, and for
-making keels, masts, and gunwales of boats. Habitat, the
-salt marshes at the back of the mangrove-belt where it is
-found side by side with the Koto^ Kawa, and Pulok.
-
-Wantal, Uantal (Ipomea pes-caprae). A sea - side
-creeper, bearing round black flattish seeds like broad
-beans, and pinkish purple flowers.
-
-Uch, Uich^ Uch-en-ant. Species of rush (Samoan Z7/^, id).
-
-Weipul, Wompul, Umpul. The morinda citrifolia (Lit.
-Flame tree, so called from the bright yellow dye extracted from its roots and wood). The Nonu of Polynesia,
-the Wong-kudu of Java, and the Tumbung-aso of the
-Philippines.
-
-Wet, Wot, Ot. The Giant Taro. In Kusaie Wos.
-Cf. Samoan Vase, a species of taro.
-
-Ui, Wi. The Barringtonia specioso and racemosa.
-Habitat, coastline of mainland and small islands. A
-species growing in the bush is called Wi-en-mar, or the
-Wi of the bush clearings. N.B. — In Samoan Vi is the
-Spondias dulcis.
-
-Ulunga-en-Kieil. " The pillow of the Kieil lizard^'
-(Scincus). The parsley-fern found growing in tufts upon
-the flower-pot-shaped, limestone islets in the lagoon, also
-upon the trunks of coconut palms.
-
-Up. A creeper resembling our Wistaria, the pounded
-roots of which are used for stupefying fish. Yap Yub.
-In Malaysia Tuba. Compare Kusaie Op.
-
-Ut. The name for bananas in general. {^Cf. Fijian
-Vundi, Samoan Futi, Ellice Group Futi, Nuku-Oro
-Huti, etc. etc.)
-
-Varieties : —
-
-Ut-en-wai. The Foreign or China banana with
-speckled skin.
-
-Ut-iak. Small, deep yellow flesh.
-
-Ut-en- Yap, or Yap banana, a choice species of plantain,
-pink flesh, very delicate in flavour, and the portion of the
-priests and high chiefs at a festival.
-
-Other varieties : — Karrat, Mangat, Tikop, q. v.
-
-(d) supplementary yap plant and tree-names
-
-Ari-fath., Uatol. Sp. Barringtonia.
-Ir-nim, Aral. Species of plantain.
-
-
-Raual. The Kangit of Ponape. Huge spherical fruit
-filled with delicious creamy pulp, enclosing large roundish
-seeds which when grated up and mixed with coconut
-shavings have a remarkable narcotic effect on foods.
-
-Gurgur. The native name for Citrus fruits in general.
-
-Gurgur-nu-ap is the orange.
-
-Gurgur-morretSy the lime.
-
-Lur. A weed growing on side of causeways in swampy
-districts.
-
-Olomar. The sweet basil (Ponape Katereng).
-
-Langil, Thlangil. A variety of wild kava, the Avaavaaitu, or Kavakava-atua of south-west Polynesia.
-
-Wote^ Ote. Sp. wild fig, bearing small reddish rough
-fruits on its trunk like Eugenia.
-
-Rtep. A sort of orchid climbing on trunks of cocopalms.
-
-Rumig. A Callophyllum with pear-shaped fruits.
-The variety with round seeds is known as Bioutch.
-In Tagal Bitao. Fetao is the Yap name for the yellowish
-waxy flower of the tree.
-
-Adid. Bush-tree. Long-ribbed leaves, smooth reddish
-bark, spherical rough-rinded reddish-brown fruit. The
-Ais of Ponape called Aset in the Mortlocks.
-
-Topoiopy Talaboi. Sp. Tacca. The Mokomok of
-Central and East Carolines. The Mamago of Solomon
-Islands.
-
-Tenk, a shrub with rough leaves and intense blue
-flowers. The Mateu of Ponape.
-
-Ruaiy Tugu. Species of mangrove.
-
-Rung, Voi. Sp. Native chestnut (Inocarpus Edulis).
-In the Mariannes, Ufa. In Polynesian, Ifi. In the
-Philippines, Dungun.
-
-Liinuet. Creeping plant, small round leaves, good
-for burns.
-
-Yenuk, Pipi. The common rush.
-
-Uelem. The King Fern.
-
-Re : Lem, Two species of Sea-grass.
-
-
-I
-
-
-Kana. Parasol fern.
-
-Thengibur. Sp, fern.
-
-TratL Hart's-tongue fern.
-
-Likelike niu. Van parsley fern growing on trunks
-of coco-palms.
-
-Kopokop, Polypody fern.
-
-Para-lol. Long-fronded fern.
-
-Lek^ Gulugului, Asplenium.
-
-Likilik-a-voi. Parsley fern, sp.
-
-Tulubuky Tilibuk. Common male fern.
-
-Gumar. Acacia inermis.
-
-Golat. Sp. thorny Acacia.
-
-Maikitibum : Mangamang : Mong. The Giant Fern
-of the swampy districts.
-
-Talafat. Sp. grass.
-
-Rangaranga. Parsley fern growing in cracks of old
-walls.
-
-Lobat, Talilra. A delicate species of Adiantum.
-
-Tamagateu, Large fern resembling Osmunda Regalis.
-
-Orotrol. Thespesia populnea. A littoral tree.
-
-Komai. Rice (introduced).
-
-Yams. Dok^ wild yam ; Dok-nu-obachai, variety introduced from Eastern Carolines ; Bta, species brought from
-Ladrone Islands ; Dal, short, oval, like sweet potato ;
-Dol, wild yam, small round seeds growing at base of
-leaves, like Ponape Likam ; Fap^ sp. sub-varieties, Gote-lap
-and Nanebo.
-
-Thau} The breadfruit. (Artocarpus Incisa.)
-
-Varieties: (i) Yao-lei ; (2) Yae-reb ; (3) Tagafei ;
-(4) Fanum ; {^) Pemathau ; (6) Yao-uat ; {j') Dapanapan,
-(Jackfruit — A. integrifolia) ; (8) Yeo-tui ; (9) Mai-nior ;
-(10) Luathar; (11) Pe-au; (12) Yoa-tathen; (13) Yu-goi ;
-(14) Yu-ngalu.
-
-Gotruk. The Croton shrub of which there are many
-
-^ Cf. Ural-Altaic, Thav^ Thavi, a head. N.B,—lxi Polynesian Ulu means
-both head and breadfruit.
-
-
-very ornamental varieties with which the village squares
-and roadsides are thickly planted.
-
-Irich, Rich, Rit. The Dracoena terminalis, the Ki of
-Hawaii, the Ti of south-west Polynesia.
-
-Notes on the Coconut. Flower, Achabai. Small nut
-forming, M achat {^'A.uiO'd.w Aili). Green drinking - nut,
-Tob^ Tub {cf. Hindustani Dob). Kernel thickening,
-Manao. Kernel further developed, Agel. Fully developed, ready for copra, Marau (Samoan Popo), Sprouting
-nut. But (Tahitian Uto). Old mouldy nut, Ap. Husk
-surrounding nut, Kapat, Ling. Coconut-toddy, Achif.
-Stalk of nuts, Uongoi. Copra, Fatuis-a- Marau. Trunk
-of a tree, Binat.
-
-Mor. The dwarf bamboo, probably introduced anciently
-from Japan. Planted thickly on top of the ancient embankments which overlook the paved roads running
-throughout the southern portion of the island.
-
-Tifif. A variety of Canna Indica, with bright orange
-berries. Found in the bush in the neighbourhood of the
-taro swamps inland.
-
-Waraburub. An ornamental fern (Japanese, Warabi).
-
-Parafai. A large tree fungus, dried and used in
-commerce.
-
-Gathemat. Sp. Cordia, sweet-scented white flower.
-
-Tingiting. Species of Taro, yellowish flowers.
-
-Butrat. A scitamineous plant, with purplish mauve
-spikes of bloom, a sort of wild ginger.
-
-Ao. The banyan tree (Polynesian, Aoa).
-
-Tengauai. Cerbera Lactaria. The deadly Leva^ Reva,
-or Eva of south-west Polynesia.
-
-Amarat. A heavily-seeded nettle found outside villages
-near rubbish heaps.
-
-Matuek. A variety of morinda citrifolia.
-
-Ugina-maluak. Species bearing long white umbels
-of flower.
-
-At. A pitcher-plant, found in vicinity of Tan-ne-
-Erouach on South Ramung.
-
-
-Giligil-wath. Littoral shrub. Leaves used as medicinal plaster in Samoa.
-
-Tarau. Meadow-grass.
-
-Pui-wol. The Pulok of Ponape ; a large hardwood
-tree, with curiously keeled roots and polygonal seeds
-(Carapa Moluccensis).
-
-Gogoth. Sp. Betel Pepper. {Cf. Pelew Islands, Kokuth,
-aromatic).
-
-Gonek. Prickly shrub, edible, oval fruit, turning red
-when ripe.
-
-The Banana grows in great profusion. Fruit, Pau ;
-Tree, Denai, Varieties .* ( i ) YereiiUy long-fruited plantain ;
-(2) Tengere, yellow-fleshed plantain, roundish (Ponape,
-Karrai) ; (3) Boul, Voul, small banana ; (4) Tafagef,
-China banana ; (5) Fak-e-uel, small, round ; (6) Yugo ;
-(7) Ganaeko ; (8) Daver ; (9) Malukier ; (10) Arai ;
-(11) Gumoi ; (12) To-nu-Uap ; (13) vS<^/^<3:i-, large yellow
-plantain.
-
-Mai. The Taro plant. Tingiting, Lak, big, yellow
-flower, grows in swamps ; Guiagui, sp.
-
-Faa. The wild Pandanus.
-
-Olowalogu. Bush-shrub.
-
-Uapof. The Paper Mulberry (Broussonettia Papyri fera).
-
-Ramilu. Tree with huge long leaves (Ponape, Tong).
-
-Arr. Coarse seagrass.
-
-Tha^ Thea. A common weed, with yellowish flowers
-and strong-scented, heart-shaped leaves, the juice of which
-is very healing to wounds and ulcers. Common on coral
-islets off Ponape coast, where it is called Ngkau,
-
-OtrafangaL Large convolvulus.
-
-Utel^ Roi. Reed-grass (Samoan, Fisd).
-
-Laingen-en-lip-otol. Curious marsh weed ; soft, red,
-spongy caps or buttons on stem for flowers.
-
-Kurrukur. Burr-bearing weed (Ponape, Koroni),
-
-Thagumut. Bush-shrub, leaf like coffee.
-
-Fauteir. A species of cycas ; same name sometimes
-applied to the Nipa palm occasionally found in the
-swamps.
-
-BH. The Areca Palm. In Pelew, Buok ; in Sanskrit,
-P'iig ; in Ladrones, Pagua.
-
-Chongot. Tall, poison tree ; light bark, long leaves, like
-Ramilu. White acrid juice, producing terrible swellings
-and sores.
-
-Avetch. Curious shrub, leaf like that of Eugenia or
-Malay apple in shape. White leaf on end of each bunch
-of seed capsules, which resemble these of tobacco. Small
-golden yellow, star-shaped flower.
-
-Choi, Troi. The Pandanus.
-
-FaL The Pandanus flower. (Ponape, Matakel ;
-Mariannes, Kafo ; Samoan, Singano ; Tahitian, Hinano.
-
-(e) ponapean fishes, insects, birds, and
-
-ANIMALS
-
-Fishes. Many of these appear in the splendid illustrations of Godeffroy's album of the South Seas.
-
-Ukair. A bright golden-yellow fish about a foot long.
-(The Tapereper of Mokil.)
-
-Kamaik. A species of Parrot-Wrass. The Butter-
-Fish of New Zealand.
-
-Kapai, Kipai. Small reddish-brown fish with dark
-spots. Head and tail project out of a most comical suit
-of defensive armour shaped exactly like the square ginbottle of commerce (Ostraceon cubicus).
-
-Palat, Length about one foot. Longish nose. Body,
-light red. Head, salmon-pink. Tail and fins, dark red.
-
-Pako. The generic name for sharks (Polynesian Mako,
-Mango) called Charaui on the Ant Atoll, where the
-name Pako is tabooed. Panayan (south Philippines).
-Baguis. Solomon Islands Pagoa ; Marshall Islands
-Bako ; Polynesian Mako, id.; Gilbert Island Bakoa. It
-is an Asiatic word, the Sea-Tiger. Indian Bag, Bagha,
-a tiger.
-
-
-Another shark-name is Tanapai, The Tiger-shark,
-popularly supposed to be deaf. The dreaded Tanifa of
-the Samoans, the Ndaniva of Fiji. Compare with this
-the Maori Taniwha, a water monster, or sea-devil. Malay
-Danawa a goblin, evil spirit. Sanskrit Danawa id.
-N.B. — One of the words borrowed by the Malays from
-the Sanskrit, and which has filtered through into Micronesia and Polynesia. Cognate are S. N. Guinea Dirawa,
-an evil spirit. Pelews Deleb, Thalib, a devil.
-
-A. The mullet.
-
-Karangat. The bonito. From Ranga — to rise up, so
-called from its rising to the surface in great shoals like the
-English herring.
-
-Ki. A Dolphin or porpoise.
-
-Roch. A whale. (Sometimes pronounced Rack). It
-means the King-Fish. The word also denotes a high
-chief {cf. Malay and Hindustani Rajah), and perhaps
-Fijian Ratu a high chief {^Cf. Kusaian Lat, a whale).
-
-Pup. The Leather Jacket. Silvery- white below ; forehead bright blue ; tip of nose bright blue ; sides and back
-yellowish brown ; body striped blue and yellow. One
-long erect spine just behind shoulders. Habitat, holes
-in the reef and in floating logs of wood.
-
-Lioli. Large dark-blue species of Leather Jacket. A
-deep-water fish.
-
-Paikop. A fish with a remarkably flat face and thick
-body picked out in chevrons of white and dark olivegreen. The people of Palang on the Chokach coast
-are jocularly styled by their neighbours of Kiti Macha-en-
-Paikop, Paikop-faces, from the prevailing type of features
-there.
-
-Mengar, Mdngar. The Flying-fish, also known as
-Mam-pir.
-
-Mdngar. Large brown and white speckled fish with
-spiny dorsal fin. The Spaniards call it Garrofa.
-
-Ikan. Greenish body, brown dorsal fins. Front fins a
-fine golden-yellow. {Cf. Malay Ikan, fish in general.)
-z
-
-
-Tak. The Gar-fish, which often leaps on board fishing
-canoes, and inflicts mortal wounds with its sharp lance.
-
-Uat. The Bladder- fish, so called from its frequentlypuffing itself up like a balloon. The Sue of Samoa,
-the Huehue-kava of the Marquesan Islands. Deadly
-poisonous.
-
-Pulak. Large, roundish, dark green body. Flesh
-firm like a halibut's.
-
-Pulak-toL A remarkably handsome brown fish with
-black and white spiny dorsal fins, two yellow spiny
-pectoral fins and a continuous row of orange, black and
-white ventral fins.
-
-Chara. A pinkish-red fish, small body, large flat
-head. Row of spines along back. Minute teeth sharp
-as needles.
-
-Litak. The Climbing-fish, to be seen hopping and
-crawling in numbers upon the rocks and stones on the
-sea-shore. Colour — light green, speckled dark brown.
-
-Toik. Small red fish.
-
-Potarar. Small black and white handed fish.
-
-Mamo-tik. The beautiful little cobalt and orange fish
-seen playing in and out of the forests of coral in the
-pools and on the edge of the deep water. Called in
-Nuku-Oro Mamo-riki, and in Tahiti Mamo. Also known
-in Ponape as Ta-kap-en-taok. All these three are fond of
-the pools left in the reef at low tide.
-
-Uakap. Lower part of body steel blue, upper part
-dark blue ; black and yellow stripes.
-
-Kir. Bright crimson fish about i \ feet long. Spiny
-row of back fins.
-
-Korikor. A beautiful fish about ij feet long, marked
-throughout with white and brown lozenges (<^), a band
-of similar pattern but minute design running round the
-body. Fins and tail dark brown.
-
-Chaok, Chauk. Small fish, brown body, speckled
-white.
-
-Marrer^ Merra. Large, dull, blue fish ; flesh rather
-soft and woolly. Excellent pickled raw with salt water,
-Chili pepper, and lime-juice.
-
-Li-er - puater {Chcetodon sp.). Length five to six
-inches, circular body. Large dark brown anal fin, white
-band round back, surmounted by a ridge of seven small
-yellowish spines. The far dorsal fin is edged with rich
-orange. Tail light, greenish-blue, sparsely tipped with
-orange ; thorax deep orange. Slight tinge of orange
-along belly. Lower part of face up to the eyes deep
-orange. Thin nose, projecting some f inch, orange.
-Slightly projecting lower jaw. Rest of body light pale
-green, streaked with wavy lines of alternating light blue
-and darker green from back of gills to tail. Mean thickness of body four inches. N.B. — Another closely related
-fish of the same name has tail, anal, and dorsal fins
-banded black and orange. Perpendicular black stripe
-down face. Nose and thorax white.
-
-Lipar. A flat fish, reddish-brown above. Meaning of
-name, Red Woman. Flesh full of small, crooked bones.
-Of little esteem for food.
-
-
-SEA-BIRDS
-
-Two species of Sand-piper are found on the coasts, the
-smaller called Kulu^ the larger Chakir. The former is the
-Tuli of Nuku-Oro and Samoa, the Dulili or Tulili of the
-Mariannes ; cf. the Indian Dulika, a wag-tail. The Kulu
-is known in the Pelews as Golo, in Yap as Ruling^ in
-the Marshalls and Mokil as Kolech, and elsewhere in the
-Carolines as Kuling^ Kulung, or Kilung. The Malay Chorling may be cognate. In South America we find very
-strange coincidences — Quichuan, Chulla ; Araucanian,
-Chtli, Tkili, id.; whilst in Aymara Kullu means a partridge.
-
-The Ponapean name of the larger variety {^Chakir) is
-paralleled by the Hindustani Chakor {Tetrao) ; by the
-Japanese Shako, a partridge ; and by the Quichuan
-Tsakua, a partridge.
-
-
-The most exacting philological critic cannot deny that
-these far-reaching coincidences are very curious. Many
-will probably argue that most bird-names are onomatopoeic,
-i.e., imitation sounds, and that the human machinery of
-speech being cast in a somewhat limited mould, would
-everywhere produce independently the same or similar
-results, even amongst remote tribes which have had
-absolutely no connection with one another. However,
-when we reach the animal, or, at all events, the tree-names,
-we shall find ourselves upon somewhat less debatable
-ground, and these will afford clearer evidence as to the
-separate waves of population rolling outwards from
-Indonesia to the farthest isles of the Pacific, up to the
-very shores of the great continent on the further side.
-
-Akiaky Kake. Varieties of white gull. The latter
-builds no nest, but lays its eggs in the small brush growing
-on top of the flower-pot-shaped masses of Takai-Mai or
-coral limestone which stud the shallow water off the low
-island beaches. From this habit the observant Ponapeans
-have deduced a slang word — Pon-Kake, i.e. like the Kake,
-to denote any useless, idle, lazy fellow.
-
-There is a large grey gull which they call Karakar.
-
-A brown tern with a white head {Parrat) is found on
-the coral islets of the coast. It makes its nests in the
-tops of the Barringtonia trees. Its young make very
-good food, albeit a trifle fishy in taste.
-
-Another sea-bird, black and white with two long tailfeathers, is called Chik (Phaethon).
-
-There are three sorts of heron, called by the generic
-name of Kau-alik. The first is the Matuku or Matuu, the
-common blue heron of Polynesia ; the second is the Otuu
-or Kotuku, the white heron, a much less common species ;
-the third is the speckled heron, doubtless a cross of the
-above two. The Kau-alik is jocularly styled in Tahiti
-and the Marquesas as Frenchman' s turkey from the skill
-with which some of their colonial cooks will disguise his
-fishy flavour.
-
-
-LAND-BIRDS
-
-Cherret. A reddish-brown parrakeet peculiar to the
-island (Eos rubiginosa). Cf. Maori, Toreta. The New-
-Zealand parrakeet. The old name of the Cherret was
-Terrep-e-icho or King Terrep. Cf. Maori Tarepa, a
-species of bush parrakeet.
-
-Li-maaliel-en-takai. A little brown bird inhabiting the
-bush. Its name means Woman-giddy -at-stone. The
-natives say that when a stone is thrown near it, it falls
-down dizzy.
-
-Murroi. Large grey dove. The Lupe or Rupe of
-South Polynesia.
-
-Kingking. Small green dove, maroon crest on head,
-breast maroon (Ptilnopus Ponapensis). Cf. Mariannes
-Kunao, a green dove.
-
-Kinuet. Variety of above, but with cream and maroon
-markings (Samoan Manuma).
-
-Paluch. Small dark violet brown pigeon, white breast
-— a ground pigeon. Peculiar to Ponape. Scientific name
-Phlegcenas Kubaryi from J. S. Kubary of the Godeffroy
-Firm in Germany who first made it known to science.
-Habitat, high up on the densely wooded mountain slopes ;
-shy and wild. The Ponapeans have used an ancient
-generic Malay name to denote a single species.
-
-Compare the following curious and interesting cognates which certainly cannot be mere coincidences ; i.e.
-German New Guinea coast, an area thickly scattered with
-Malay words : Palussia, Balus, Balusi, Barussi, Beli, all
-meaning dove or pigeon.
-
-Bismarck Archipelago — Palus, Walus, Balus.
-
-Pelew Islands — Bulokol, Pelokol.
-
-Tagala (Philippines) — Balos, Balod.
-
-Sulu Archipelago — Baud. (Sulu drops medial Z.)
-
-Solomon Islands — Baolo.
-
-Malay — Balam .
-
-Hindustani — Palka, Parewa, Parawat.
-
-
-Latin — Palumbes (whence Spanish Paloma) and
-Colmnba (P. to K.),
-
-The above show as well the exceedingly wide distribution of the bird. This is only one of many instances out
-of the Micronesian and Polynesian to show how tenaciously
-the early Asiatic and Indonesian names of birds and
-plants have been preserved in the wanderings of this race
-over the great waste of waters.
-
-Cheok. A sort of blackbird ; a sacred bird in Ponape.
-
-Puliet (Myzomela rubrata). A red-breasted honeyeater, to be seen hovering round the coco-palm spathes,
-from which he draws his food.
-
-Kutar, Tirou. Varieties of the king-fisher (Alcedo).
-With Kutar compare Maori Kotare, the New Zealand
-king-fisher ; Tahitian Otare, a king- fisher. In Futuna the
-bird is called Tikotala ; in Samoan, Tiotala ; in Tongan,
-Sikota'a.
-
-Possibly in the last three the T or S represents the
-unconscious article, so frequent in the Gilbert group.
-
-Koekoe, Kuikui. Small, blackish-brown bird ; flycatcher (Myagra pluto).
-
-Li-kapichir, Li-kaperai. Small cuckoo. Small bird,
-long tail ; dark colour (Endynamis Taitiensis).
-
-Li-mati. Small green bird, found in coconut groves.
-Resembles the Samoan lao, but smaller.
-
-Li-porok. Night bird ; black and white. Habitat,
-mangrove swamps.
-
-Li-kat-e-pupu. The name of several kinds of little bush
-birds. Breast red, plumage green, wings and tail dark
-green. Speckled black, white and blue, or white, yellow
-and blue, or black, red and blue.
-
-Lukot, Likot. The native owl. (The Pueo of Hawaii,
-the Utak of the Mariannes.) Dr Gulick in his Ponapean
-dictionary gives Teiap, possibly an older word preserved
-in some of the districts as late as 1870, the date of his
-visit. For those who love imitative sounds I subjoin the
-following equivalents : —
-
-
-An owl is called Lulu in Samoa ; it is the Kasuk of
-the Pelews ; the Zuku or Kizu of Japan ; Timor, Kaku,
-Lakuko ; Indian, Ulu^ Uluk, Ghughu^ Kuchkuchua,
-
-The South American names have also a pleasing sound :
-Quichuan, Chusek, Chaksa, Pakpaka and Tuku ; Aymara,
-Choseka and Huku ; and the Araucanian on the south
-border of Chili has Nuku.
-
-INSECTS
-
-Lang, Long. The Rango or Lango of the south Pacific.
-The common fly which simply swarms around the huts
-and cook-houses.
-
-Em-en-ual is the sand-fly, not half so troublesome as
-his relation in the North Marquesas.
-
-Amu-che,Emu-che, Omu-che. The dialect words for the
-ever-present mosquito, the Namukik of the Mortlocks, the
-Namu of Polynesia, the Nyamok of Malaysia, the Yamuk
-of Pampanga (Luzon).
-
-Kat-el-lang, Kiti-el-lang. Lady of the sky or Dog of
-heaven are the quaint native titles of the Looper caterpillar.
-
-The general term for grubs, small caterpillars, or
-maggots is Mach, Maach, Muach or Much, without doubt
-akin to the Japanese word Mushi, generic term for
-worms and insects.
-
-Some caterpillars are called Mueti, likewise a small
-reddish-brown horse-leech, found in great numbers in the
-bush after rain, and actually applied to the eyes by the
-natives in cases of ophthalmia.
-
-The common earthworm is called Kamotal, sometimes
-Much.
-
-A flat spiral landshell is called Chepei-en-Kamotal, the
-dish or wash-bowl of the earthworm. Drs Finsch and
-Kubary discovered several curious endemic species. The
-dense hanging woods of Ponape, with their very considerable height above sea-level, will no doubt yield a fresh
-curious harvest to the energetic explorer devoted to this
-branch of natural history.
-
-
-Ants
-
-The large black ant, the bull-dog ant of Australia, is
-called Kakalich, a large dark brown one Loi-poro, and the
-small red ant Kat.
-
-Fleas
-
-Li-karrak, Li-n-karrak. Woman of Corruption is the
-word applied to troublesome insects of the bug and flea
-order.
-
-Til (Ngatik Thil). Applied to creatures of similar type
-affecting the head. Caucasian dialects, Til, Tili, and Thil.
-(Indian, Dhil ; Araucanian, Thin^
-
-Solomon Islands 7>/, Sonsorol Tir id.
-
-Beetles
-
-The old word was Kari.
-
-Kul is the term applied to the black-beetle of commerce.
-They have a water-beetle, fancifully called in the Central
-Carolines " the turtle of the fresh water I' and several duU-
-hued bush-beetles. The sand-hopper is called Men-en-pik,
-i.e., the creature of the sand.
-
-Spiders
-
-I noticed three sorts, one large and black {Likan), the
-other two small and speckled, called Chilapani-i^n and
-Naluky the latter also a chiefs title. The web is called
-Chaling-likan or Sal-ing-likan (Hindu, fhdl).
-
-A small red and black dragon-fly is common, which
-they call Man-en-kalip, the creatiwe of the pools.
-
-There are at least three sorts of butterflies : one red,
-white and black, one sulphur-yellow, and one small blue.
-There are numerous moths, amongst them the Sphinx.
-The generic name for all these is Li-parruru or the
-Fluttering Lady.
-
-The cicala or cicada {Tenter^ is very much in evidence
-in the groves on moonlight nights. Grasshoppers are
-found, to which they give the name Man-cheok.
-
-
-The name Tenter is applied also to any noisy, blustering
-person, to chattering busy-bodies, and carriers of tales and
-idle gossips.
-
-In a chant on Paniau we find allusion to the habits of
-this insect in approved Kalevala metre : —
-
-" Tititik melakaka-n-tenter
-
-Nin chounopong chenchereti."
-
-" Shrills the chirp of the cicala
-
-Thrilling through the silvery moonlight."
-
-Scorpions
-
-A small sandy-hued scorpion is found, but its sting,
-unlike those of Java, Sumatra, and Timor, is not very
-venomous. The natives term it Iki-mang or Ikimuang,
-i.e., Fork-tail or Branch-tail, with their minute insight into
-small things. In Samoa upon Manu'a the centipede or
-scorpion is called I'UMANGA, word for word the same
-name as the Ponapean. The Upolu word is Mongamongaiu-manga — the prefix denoting Beetle or Insect.
-
-Centipedes
-
-Two or three kinds of centipedes (Scolopendra) are
-not uncommon in the thatch and under the tet or floorings
-of reed-grass in the huts, especially those of old standing.
-The old Malay name Alipan (Formosan Arripas) has been
-dropped — doubtless by some priestly or chiefly taboo, like
-the Te-pi custom of Tahiti. There are two ceremonious
-names for the creature which go to strengthen the impression. Throughout the central Carolines the custom holds
-also. By day they call it Man-en-ran — the Creature of the
-Day. By night they call it Man-en-pong — the Creature of
-the Night. If this rule were neglected the careless person
-would be in danger of a nip from one of these crawling
-horrors. Similarly the earwig is called in Samoan Mongamonga-iao or The Beetle of the Day. The centipede's bite
-is often distressingly painful, though it is not so common
-here as in Indonesia, and the natives give it a wide berth.
-
-The people of Ruk call it Kutu-nial or mischievous
-insect^ and the Samoans to the south Atua-loa or the long
-devil^ for which relic of heathenry the missionaries have
-substituted Manu-loa or long insect. (It is the Saligo of the
-Mariannes, the Lalian of Timor, the Nina-kuru ox fiery worm
-of Peru.)
-
-LIZARDS AND SNAKES
-
-Kieil. The skink (Scincus) called Kiuen in Ruk and Gual
-ox Kuel in central Carolines. Cf. Indian Ghariyal, Gavial,
-the crocodile of the Ganges ; cf. Motu, Uala, a crocodile.
-The Kieil is a large black lizard with red spots, slightlyyellowish below, and resembles a miniature alligator. The
-alligator itself they call Kieil-alap or Kiel-en-pil, of the
-arrival of which the natives have some tradition. Kubary
-brought a couple of young alligators with him to Mpompo,
-near the European colony, and for some reason or other
-let them loose in the Pillapenchakola River. One of my
-specimens of these " Kieil,'' as if foreseeing the alcohol
-bottle, furiously resisted capture, and when hit with a stick
-fastened to it like a bull-dog. The Kieil lives in holes in
-the ground, much preferring the sites of old burying
-places. The natives say he feeds on the bodies of the
-dead, which is very possible. They call him Chaot or
-" unclean," and view him with dislike and dread as
-Likamichik or " uncanny." A strange fact about this
-lizard is that he has established a regular colony on the
-low coral island of Paniau in Mutok harbour, right off
-the mouth of the Kiti river, a good two miles from shore,
-whereas on land he is not so easily seen, generally
-preferring the thick bush. On Paniau at first they were
-very bold, and would crawl close up to us at our meals
-and eat bits of meat thrown to them, to the great horror
-of the natives. But the speedy disappearance of some
-of the largest and boldest of these intruders soon made
-them keep their distance.
-
-There is a brownish-black house-lizard with a flattish nose
-which the natives call Lamuar* All night long one might
-
-* [Lipidodactylus lugubris.]
-
-
-hear them hissing and tchik-tchiking away in the thatch
-overhead, but they are perfectly harmless, nobody minds
-them. The same name is also incorrectly given to two small
-species ornamented with a double row of black and white
-circular spots down the sides like the eyes on the wings of a
-peacock-butterfly. Both are only three inches in length ;
-one dark green, the other light green with faint yellow markings. (The accurate names are Li-pa-irer or the Speckled
-Lady and Li-menimen-en-cherri or the Lady who loves little
-children, a pretty and poetical idea.) N.B. — The former is a
-curious endemic species (Perocheirus articulatus) and has
-only four fingers, and the thumb shrunk down to a tiny knob.
-
-There are two slightly differing green and yellow lizards
-found around the trunks of the coco-palms which they
-nimbly dart up at the least alarm, called the Li-teitei-paini
-or Woman rout about or stir up coconut lea/ a.nd Nan-chelang;
-the latter much larger and of more brilliant colouring.
-
-The commonest of all however is the little green lizard
-with a tail of bright electric blue, so widely distributed
-over the Pacific area, occurring in the Philippines, Moluccas,
-New Guinea, Solomon Islands and the Pelews, and even
-as far south as Samoa and Rarotonga.
-
-Dr Cabeza speaks of a lizard of considerable length
-which he declares to be the Varanus, known in Yap and
-the Philippines.
-
-The large green and yellow iguana of Yap I did not
-meet with here, but the Ponapeans tell of a longish
-prickly green lizard which may be akin, found on the Och
-or ivory-palm. They call it Man-tau-och or Animal go up
-ivory-palm tree, also Man-kalanga or the climbing animal.
-Connected with this creature they have an old superstition that anyone who meddles with it will presently be
-seized with dizziness and fall out of the top — no very
-pleasant prospect, as the ivory or Sago-palm runs up from
-forty to fifty feet.
-
-Dr Cabeza gives three species of the Lygosoma in scientific
-form, L. mivartioc; L. atrocostatum ; and L. abofas do latum.
-
-
-Dr Cabeza goes on to say that during his stay he saw
-no frogs or toads, but mentions the interesting fact that a
-species of horned toad {Cornufer corrugatus) is found in
-the Pelews, 1300 miles distant He deals in a single
-sentence with snakes, almost as badly as the historian
-with the snakes of Iceland. " There are no land-snakes,
-but some are seen in the sea."
-
-I saw no snakes in Ponape, but I did meet with a
-specimen of a large pugnacious green eel. The natives
-called it Macho to distinguish it from the common rivereel. The macho is amphibious and has its habitation in
-the salt-water marshes behind the mangrove belts, where
-it lives on the purple and brown crabs (inachat) crawling
-on the tree-trunks, up which it writhes itself and coils in
-the branches waiting for its prey. When I was in Paniau a
-woman in the Matup district was bitten by one of them and
-died in less than two days, probably from the shock ; the
-natives said from its venom. The natives fear it greatly,
-saying that the fierce creature is the incarnation of the spirit
-of a wicked and cruel chief who murdered his wife and
-children, and was chased into the swamp by the avengers
-and put to death. A specimen was obtained with great difficulty by Kaneke and Nanchom. It was a yard in length,
-body about the thickness of one's thumb, dark green in
-colour, the two long projecting fangs much in evidence.
-
-With the Ponapean name Macho, compare Japanese
-Mushi, a worm ; Marshall Island Moch, a sea-eel ;
-Central Carolines Mas, Mat, a worm ; Gilbert Island
-Mata, a worm ; Formosa Matkad, a sea-eel.
-
-All the following mean snake or serpent : German New
-Guinea Mot, Mat, Matsch ; Bismarck Archipelago Mote ;
-Louisade Archipelago Afata ; British New Guinea Mota,
-Mata, Ma; New Hebrides Mata, Mwata ; Malo Moata ;
-Santo Mata. In Kusaian, Mwat is a worm and Moet,
-beche-de-7ner.
-
-There are two sorts of sea-snakes {Pelainis bicoler), both
-called Na-llupu-loi-loi or Nan-li-puloiloi, i.e., Lady madam
-
-
-I
-
-
-with parti-coloured bands} One is banded black and white,
-and one black and yellow. Habitat, the beds of olot or
-sea-grass when the tide is out.
-
-Fresh-water Eels
-
-These abound in the creeks and rivers, especially in the
-deeper pools, and sometimes attain great length and thickness. The natives hold them in mortal dread, and call
-them Kamichik, that is Terrible. Nothing will induce the
-Ponapeans to eat their flesh. The old name, now dropped
-out of use by the taboo, is said to have been // (Pangasinan Igat). They will sometimes unexpectedly attack
-people fording the rivers, inflicting very severe bites. Mr
-C. F. Wood who visited the Kiti and Metalanim coast in
-his yacht about 1870 speaks feelingly of the horror he
-felt of these creatures whilst bathing in the creeks. Far
-up in the Kiti highlands on a tableland some 3000 feet
-above the sea is reported to be an extensive lake filled
-with these creatures, like the Tahitian lake Vaihiria and
-the Samoan Lanu-toa. Tuna is the name given to the
-eels in the high basaltic islands of Polynesia (Kusaian
-Ton\ either from their dark colour (Micr. Ton, dark ;
-Mangarevan Tunatuna, black, brown ; Skt Tarn, Tan\
-or derived from an old Aryan and Semitic root Tan, to
-stretch. {^Cf. Hebrew Tannin, a water-snake, sea-monster.)
-The Mortlock islanders call the eel Tiki-tol, and use it for
-the equivalent of the Serpent in the Garden of Eden. To
-express the same zoomorphic notion of the Devil the
-Tahitians have the inimitable phrase, " Moo-rahi-avae-ore,
-i.e., " The long lizard without paws," or as the French
-have it, " Longue lezard sans pattesT
-
-It is very remarkable the horror in which Micronesians
-and Polynesians alike hold lizards and eels, and it certainly
-seems to point to a traditional recollection of the crocodiles and venomous serpents they left behind them in the
-great rivers and jungles of Asia and the larger islands of
-
-^ In Samoan Puleilei denotes a necklace of beads strung in alternate colours.
-
-
-Indonesia. What proves this so strongly is the fact that
-crocodile and snake names in New Guinea in many instances coincide with lizard and eel designations current
-in the dialects embracing all the isles of the Pacific.
-
-DOMESTIC ANIMALS
-
-First and foremost is that noble animal the pig {Puik),
-the Puaka or Puaa of south Polynesia. There are two
-varieties, one long and thin flanked with a long snout
-like a greyhound, known to the Australian farmers as
-Pangoflin ; the other with a short snout and serenelyswelling barrel, descended either from the sort introduced
-by traders and settlers in the last century, or from stray
-parents deposited in more remote times by Chinese or
-Japanese trading-junks. The names Puik and Puaka are
-certainly the Thibetan Phuag or Phak with which the
-Latin Porcus is a cognate. Even with the Melanesians
-who represent the early Dravidian element in these seas,
-the syllable Bu, Bo, or Ba underlies their names for pig ;
-the Malay word Babi is one of these primitive forms.
-In a few of the central Carolines we find the word Seilo
-or Silo (Javanese Chileng, a pig), which certainly points
-to the advent of a Javanese prau. In the Paliker district
-the pig is called Man-teitei, or the anwial that grubs in
-the soil ; the name Puik being tabooed in the district on
-the death of Lap-en-Paliker's father who bore that name.
-This is a living instance showing how under our very
-eyes old words are dropping out of use in these isolated
-dialects and new ones taking their place, and yet folk
-thoughtlessly ask, " Why are not all the words in
-Pacific tongues clearly traceable to India?" To this the
-above is partly a reply. In the next place we have not
-got all or anything like all the Asiatic dialects properly
-set down so as to form reliable tables of comparison.
-Moreover there are a good many dialects in Indonesia
-and in New Guinea, and certainly a few in the central
-Carolines yet unchronicled, which if set down would
-add their quota to the continually increasing number
-already established and brought together. Anyone
-who has seriously studied the gradual building up of
-the English tongue from Early Saxon, Norse, Danish,
-and Latin elements will readily see that tracing the
-influence of the rapidly succeeding waves of varying
-stocks is an intricate rather than an impossible task, as
-some philologists have somewhat supinely been content
-to call it. In the last place, most Micronesian and Polynesian words are very clearly traceable from Asia, though
-from long isolation they have been greatly planed, chipped,
-attenuated, and whittled down. A great deal of the rough
-material out of which the Aryan languages were developed
-doubtless entered into the composition of the Oceanic
-tongues which are classified as Melanesian, Micronesian,
-and Polynesian. Many such common words occur in the
-languages of the hill-tribes of India, and in the elaborate
-and probably much later Sanskrit. A more exhaustive
-study of Micronesian tongues will yield facts enough to
-prove occasional intrusions of Mongol and later Malay,
-which latter tongue in vocabulary may well lay claim to
-possess many Sanskritic affinities.
-
-The next domestic animal is man's faithful friend the
-dog, Kiti {Cf. Indian hill-tribes' dialect — Kiranti Kochu^
-Karwa Kuttu, Mundari Kota, Savara Kinchoi id.). Cf. Hindustani Kutta^ Sulu Archipelago Kitu^ Araucanian Kiltho,
-
-The dog is not only valued as a custodian, but for
-supplying a delicate dish in time of need, especially in the
-tribe of Metalanim. King Paul, unless report belies him,
-is particularly fond of the tongue, liver, and entrails, which
-are always set apart for His Majesty at high feasts.
-
-The native dogs are ordinarily of a dull brownish
-yellow, the tint of an old copper coin. Their nature is
-stealthy, sneaking and thievish. They are kept on very
-short commons, which is thought to increase their vigilance.
-Many of them — by nature, not art — are entirely lacking
-in a caudal appendage, which gives the poor wretches a
-very comical appearance. The unfortunate animal marked
-out for the feast is either beaten to death with sticks, or
-seized by the hind legs and its brains dashed out against
-the nearest stone. Unlike the Japanese the Ponapeans
-seem to have no consideration for animals. So that the
-Society for Prevention of Cruelty to Animals is likely to
-have its hands full for awhile if these islands should ever
-fall into the hands of John Bull or Brother Jonathan.
-
-Outside the Colony the sheep has not been introduced,
-though Narhun and the German trader at Chauenting
-keep a few, and the Ponapeans, like their Polynesian
-cousins, as a rule hate the taste of mutton whether fresh
-or preserved. Goats are found on Mutok (Tenedos) and
-on several places along the coast — introduced by early
-traders. The natives rather like their flesh, but view the
-animal with great disfavour for the havoc he makes with
-their breadfruit trees, ring-barking them as accurately as
-an Australian woodman clearing a eucalyptus forest.
-
-There is a singular word running throughout the Caroline archipelago which shows that once upon a time their
-ancestors had a closer acquaintance with the above
-animals either in Malaysia or India. For the word for
-feathers or animals' hair all over the group is Un or Ul.
-(Compare Sanskrit Un, wool, fur, and Turkish Yun id).
-
-The domestic fowl Malek {cf. central Caroline Maluk,
-Pelews Malk, Mariannes Manok, Malay Maiiuk, Peruvian
-Mallko, a chicken) is well represented in every settlement.
-Their plumage has a peculiar ruffled and bristly appearance. They are rather shy of approach and remarkably
-strong on the wing. The cock is called King (Peruvian
-Kanka), the hen Lu-tok or Li-tok, i.e. the Clucking female ;
-chickens are called Purrok, plural Purrongko, cf. Malay
-Burong, a bird. {^Cf. Peruvian Tokto, Maori Tikao-kao,
-Ruk Tukao.) Their eggs {Kzitor) are small and not very
-easy to gather. Directly the cackle of a hen disturbs
-the air, the pigs and dogs are on the move through the
-brushwood to secure the precious Qgg. What they pass
-over the rats generally secure. Any chickens raised
-run so many risks in their infancy that it really is a
-wonder how so many come through with their lives. It
-is no uncommon thing in some quiet corner of a native
-hut to come across a mother hen sitting upon her eggs
-venting her displeasure by a crooning sort of twitter at
-the approach of a stranger. Fresh eggs are less esteemed
-than. those which have been some time under wing. These
-the natives consider more savoury. Addled eggs from
-their delicious odour are called Puaich-en-uair^ the inheritance of the bat ; and by the natives of Yap, Batai.
-
-Jungle fowl {Malik-en-ual) are to be met with on the
-mountain slopes. Adventurous young cockerels sometimes descend into the valleys and engage in furious
-conflict with the chanticleers of the settlement, and find
-their way into the all-embracing ever-ready iron pot, for
-the watchful native, unlike the effeminate Manilla man,
-seldom throws away a shot, lead, powder and caps, being
-so scarce and dear.
-
-Kau (Ang. Cow) is the generic word for cattle. Henry
-Nanapei keeps a small herd in the Ronkiti valley. Like
-the Japanese, the natives do not particularly relish cow's
-milk. They fall eagerly however upon the condensed
-milk, whether the much advertised Nestle's or some less
-distinguished brand. It is all the same to them. It is
-sweet, and they like it. Beef, whether fresh or salt, lean
-or fat, tough or tender, I had nearly said cooked or uncooked, is devoured with delight, forming a most welcome
-addition to their frugal fare of shell-fish, fish, and yams.
-There was a carabao or water-buffalo, imported from
-Manilla, employed in carting earth and stones in the
-colony at Santiago. He was of a vicious and surly disposition, greatly admired b}^ the natives for his enormous
-horns, with which he would upset any stranger who came
-near enough.
-
-The domestic cat is quite a household pet, and often
-enjoys a hearty meal of scraped coconut when the house-
-2 A
-
-
-dog goes hungry. Should he presume to actively remonstrate at this one-sided arrangement, he is either seized by
-the scruff of the neck and dropped out of doors, or kicked
-into a corner, where, lying supperless, head between paws,
-he views his hated rival feasting to repletion, growling to
-himself in a muffled undertone, never once taking his
-hungry, wistful eyes off the fast-vanishing provender — so
-near and yet so far.
-
-A kitten is called Kat-pul or Pusa-pul, " a green puss!'
-The Malays for the same kitten would say Kuching-muda^
-or for a gosling Angsom-muda^ exactly as in the English
-phrase, " a green gosling!'
-
-CRABS, CRAYFISH, AND MARINE CREATURES
-
-Rokum, Rakum. Generic word for small crabs.
-
-Alimang. Large brown swimming crab, found amongst
-the roots on the edge of the mangrove swamps (Tagal,
-Alemang ; Samoan, Alimango).
-
-Paru, Poru. A digging-crab that throws up little
-hillocks of sand on the shore.
-
-Karrach. A green rock-crab {Brachyura).
-
-Omp. The coconut crab {Birgiis latro or the Robber
-Crab). It is of large size, blue with red markings, and is
-furnished with enormous claws, with which it tears off
-the husks of coconuts and the tough pericarps of other
-oily and juicy fruits, and feasts on the kernels.
-
-Li-matal-en-iak. Small marsh-crab, speckled black
-and white or purple and white, with a disproportionately
-large red claw.
-
-Umpa. The Maka-ura of the Gilbert Islands. The
-hermit-crab, of which there are several varieties.
-
-Land, (i) Light green, found inside shells of seasnails.
-
-Sea. (2) Red and white, sometimes with golden
-splashes on claws, found in purplish or red
-and white shells.
-
-
-Sea. (3) Black and purple, claws tipped with red or
-yellow, found inside old broken shells.
-Land. (4) A dark blue sort, with red body and claws,
-resembling robber crab, wedges his body
-into old coconut shells or large sea-shells.
-Machat, Machaut. A purple and brown swamp-crab
-seen crawling over the dead timber and on the trunks of
-trees in the swamp and up the river.
-
-ChiwaUy Kopuk. Marsh-crabs related to Machat,
-
-Cray-Fish
-
-Urana. The lobster. {Cf. Malay Udang, a prawn ;
-Mortlock Ur, lobster.)
-
-Inchang (Hindu Inchna). Blue and white banded
-cray-fish found in holes on the mud-flats at low tide
-especially off Langar Island.
-
-Li-katap-en-chet (Squilla). A small sea - crayfish
-marked yellow, purple and white, no larger than a good
-sized prawn.
-
-Li-katap-en-pil (The Ulavai of Samoa). The freshwater shrimp. The name means Useful Woman of the
-fresh water, which it indeed deserves as it is a capital
-addition to the Ponapean bill-of-fare, sometimes growing
-to a length of four or five inches. The women dip them
-out, the boys catch them with minute nooses on the
-end of sticks.
-
-Tapap, Curious black and white or brown and white
-banded crayfish. The Tapapa of Futuna, the Tumal of
-Yap, the Thabethabe of Fiji.
-
-Tarrich. The timber-worm. Frequently mentioned
-by whaling captains in these seas, but never once with
-approbation.
-
-Lit. The generic name for sea-anemones.
-
-Ip. A curious slug-like creature of a light blue colour
-found adhering to the underside of limestone blocks on
-the reefs at low tide. Cf Samoan Ipo, an edible mudworm. On Yap, Inap.
-
-
-Li-ulul^ LuluL Lady Pillow. A large blue starfish
-found on the sandy or coralline bottom of the shallow
-pools in the lagoon. Compare the Japanese term for the
-creature Tako-no-makura^ the Octopus' pillow. The
-Lamotrek folk call it Laul-a-garao or the Laul of the
-skies. The Ponapeans have a curious superstition about
-the Li-ulul that if taken out of water a heavy shower of
-rain will soon follow. Called on Ngatik Kich-el-lang,
-i.e.^ a little bit of the sky. There seems to be a hazy sort
-of connection in the native mind between the colour of the
-creature and that of the sky, upon which convenient peg
-some designing medicine-man or rain-maker hung his moral.
-
-There is another species of starfish brownish-red and
-spiny which they call Rar.
-
-Likant-en-Kap. Queen of the sea-bottom. The modern
-name for the sting-ray or skate-fish, of which there are
-several species in Pacific waters. The old tabooed
-name is given as Pae or Pai (Pingelap and Mokil abbreviated form Pa, Pae), the Fai of the Mortlock Islands,
-the Hai-manu of Nuko-Oro (compare Polynesian Hai,
-Fai and Whai). In Yap Pai appears only in the compound word PaiA:ioV, the Bok or tail of the Pai. These
-are all abraded forms of an ancient Sanskrit word. The
-Tagala of the Philippines gives us Pagui, Pagi, with
-its usual change of G for Malayan R. {Cf Layag for
-Layar, a sail; Niyog for Niyor, a coconut; Itlog, Telog for
-Telor, an ^g^^ The original form appears in Malay Ikan-
-Pari, the Fairy Fish, from the Indian Pari, Peri, our
-Fairy. (In Sulu the skate is called Isda-palit). By some
-curious chance with us on the Atlantic side, the word has
-gone through exactly the same process as with our poor
-relations on the Pacific. Our collateral form for Fairy,
-Fay, has also lost the medial R.
-
-The names of three varieties were given me by
-Nanchau of Mutok. (i) Pae-pai-lik or skate-skate-little, a
-small sort, (2) Pata-lik or little-tail, and (3) Pai-wawa, the
-spotted variety known in Kusaie as Asasa. The Ray is fond
-of basking in the muddy shallows, and when trodden on by
-an incautious foot, it inflicts terrible wounds with the barb
-of its flexible tail. This the Ponapeans call Och (Polynesian Hoto, Foto, Oto). In the absence of iron the Caro-
-line islanders used these barbs as spear or arrow-heads,
-for which purpose they are eminently adapted. From the
-rest of the tail riding-whips are made of terrific cutting
-power. In Samoa the Foto or barb was frequently used
-for secret assassination. The old king Tamasese is reported to have met his death from unexpectedly rolling
-upon one of these wrapped up in his sleeping mats. A
-terse Samoan proverb thus runs : " Ua solo le faz, ua tuu
-ai le foto!' " The ray runs off, but leaves her barb
-behind."
-
-Til-en-Paran^ i.e.^ the orange-coloured louse. A sort
-of limpet-like slug found sticking to the under part of
-limestone rocks in the shallow pools on the reef at low
-tide. Colour, white veined with dark red, with blotches
-or splashes of vivid yellow and scarlet. It is a Chiton,
-and I have seen a dull-coloured variety sticking to the
-sea-washed rocks on the coast of the north and south
-Marquesan Islands.
-
-Kick is the term for the octopus or squid, Li-puleio for
-the larger kind. With Kick compare Kusaian Koet, Mortlock Kis, Mokil Kueit, Pulawat Rush, Lamotrek Kuich
-and Ngit, Nuku-oro Kueti, Marshall Islands Kweit, Fijian
-Kuita, Tagal Kugita, Malay Gorita, Ilocan Kurita, Mota
-Ugita, and Motu (Pt. Moresby) Urita. A line of very
-curious cognates, showing how rapidly the early Malay
-word gets attenuated as we get further and further eastward away from Indonesia into the Pacific area and find
-the word at last down in New Zealand worn away down
-to NgM or Ku.
-
-Beche-de-iner is abundant in these waters, variously
-styled the Holothuria, sea-slug or sea-cucumber, which
-when dried forms one of the staple exports of the great
-Archipelago.
-
-
-The generic term for these creatures is Men-ika or
-Man-ika, i.e., " Animal-fish " or Man fish {Man = animal or
-Man, Ika = fish). Penipen, Pelipel, and Periper is another
-Caroline name for them, sometimes denoting a species,
-sometimes the genus. {Cf. Polynesian Penupenu — tough,
-glutinous, flaccid). There are a great many species, and
-the ones most highly esteemed for trade I mention first.
-
-Class No. I. The most highly esteemed of all,
-" Li-machamach-ueipul'' " The favourite wife of the
-Flame-tree," called by trading-skippers the Tiger-fish,
-sometimes measuring a foot and a half in length. It is
-olive-green, covered with deep yellow spots each surrounded
-by a circle of deep olive. The touch of its tentacles or
-entrails produces a most violent itching and burning on
-the skin like the sting of a nettle, and the water it squirts
-out when taken out of the water if a drop gets in the
-eyes causes violent inflammation and sometimes loss of
-sight.
-
-Habitat, the " mat',^ or detached reefs in the lagoon.
-It mostly lies in the deep water, six to ten feet, on the
-rocky shelves or amongst the coral lumps.
-
-In cutting up slugs for the try-pot we found inside
-some of the larger ones minute sea-eels, and small fry,
-upon which it appears these creatures feed.
-
-Main, the Shoe-fish, so called from its thick-rounded
-body, of a dark grey colour.
-
-Limach. Teat-fish. Large, black, covered all over with
-whelks and knobs and projections like a horned frog.
-
-Li-kapichino, Li-kapichinana, also called Penipe7i. Large,
-thick red, found on the Paina or outer reef
-
-Torono. Large, reddish above, orange below ; found
-on the outer reefs at low tide.
-
-There are other edible varieties, some of which are put
-in with the rest as make-weights, or sorted into separate
-sacks. One dark yellow {Li-keniken), one light-coloured,
-found by moonlight {Penipen), one yellowish with black
-spots called in Kiti by the same name as the foregoing.
-
-
-There are four varieties sometimes eaten in times of
-scarcity, the common small thin black sort (^Katup, in the
-Pelews Kasupl) ; one thick, black, nocturnal in its habits
-{Matup), after which a district in Metalanim is called ; one
-white, spotted-brown, found at the edge of mangrove
-swamps {Longun) ; and another light-brown above, white
-beneath {Kamet, Kamai).
-
-There are other varieties which the natives do not eat.
-One large greenish-brown {Manet), one light-brown, spotted
-black, with a black line down the middle of the back
-{Uarer), one long black found under rocks and stones in
-the shallow pools {Chaparang), another long black one
-of similar habits known as Keeka or Kdkd, and one dull
-green mottled dark-brown called Ul-alap-onge.
-
-Method of preparing Beche-de-mer. The slugs are taken
-straight ashore, split open with a knife, and the viscera
-( Ward) taken out — a most unenviable piece of work — and
-they are boiled in a deep iron try-pot. A substantial drying shed has already been erected, the framework of stakes
-of mangrove-wood, thatched and walled in from the winds
-on every side with solid layers of young palm-fronds cut
-when the leaflets grow thickest together. Only the
-narrowest of entrances is left. Within is constructed a
-platform of shutters of reed-grass raised some four or five
-feet above the floor. On these the slugs, after the boiling
-process, are laid out to dry in a dense column of smoke
-which a carefully tended fire of driftwood below sends up
-night and day. When thoroughly cured, in course of
-which process they undergo considerable shrinkage, the fish
-according to their class are put up into sacks ready to be
-hoisted on board. They are kept carefully dry, as they
-spoil very rapidly with the least damp. The Chinese and
-Japanese value beche-de-mer very highly as a food, and
-pay very good prices, as much as £Zo per ton having been
-realised with fish of the best quality.
-
-By a somewhat tedious preparation of stripping and
-soaking, the beche-de-mer is made into a delicious
-
-
-3/6 THE CAROLINE ISLANDS
-
-gelatinous soup, which has most invigorating properties,
-and when better known should take its place alongside of
-beef-tea and chicken-broth in the dietary of invalids, and
-as an easy rival of the much-vaunted turtle-soup of civic
-banquets. For the turtle, as every native knows, owes
-his flavour to the sea-slugs he feeds upon during the
-breeding-season. In combination with a peculiar vegetable styled Chinese parsley, beche-de-mer forms a most
-delicate stew, which I tested one evening at Macao and
-rendered it ample justice, to the delight of my Chinese
-entertainer.
-
-(f) marine creatures of yap
-Crabs and Crustacea
-
-Small brown — Tafagif. The Rakumor Rokuni of Ponape
-and the New Hebrides. Brownish purple, Teiteiguluf.
-
-Large — light blue and red markings (Sp. Cancrejo
-pintado). Maldob.
-
-Small, light brown, long arms. Or.
-
-Small, olive-coloured, hairy. Tamalang, Nomit.
-
-Small, spotted black, red and white, large red claw,
-found burrowed in sand and mud near in mangrove
-swamp. Gaburrogok.
-
-Hermit-crab. Yekayek.
-
-Burrowing crab. Kathiu.
-
-Robber or Coconut crab (Birgus latro) Aiyui. (Lamotrek, Yeffi). Dark brown, Kafira.
-
-Swimming crab. Arum-a-dai.
-
-Cray-fish. Arangoi, Mathithin. Black and white
-barred. Tumal.
-
-LIZARDS
-
-Gaiutch, Aius, Gains. An alligator. A word derived
-from the Pelews, where they are occasionally found.
-(Malay and Philippine Buaiya, B to G?)
-
-Atelapok. The skink. A black lizard with red spots,
-about a foot in length, called Kieil in Ponape, Kiuen in
-Ruk, and Gual in the Central Carolines.
-
-Galuf, Guluf. The Iguana (Varanus sp.).
-
-Ataligak, Adaburru, Atarau. Sp. small lizards.
-
-BIRDS
-
-Curlew id) with curved bill. Kaku (J?) with straight
-bill. Ruling.
-
-Plover. Sp. Gabachai. Albatross Mui-bab. Sacred
-to the god of war.
-
-Fruit-bat. Magelao^ Maguilao
-
-DOMESTIC ANIMALS
-
-In^men^ N^min, the domestic fowl. Pilis^ the dog. \^Cf.
-Hindustani Pilla, a puppy.]
-
-MARINE ANIMALS
-
-Tai-on. Curious circular medusa, with six tentacles,
-found amongst the Lem or clumps of sea-grass which
-cover the sandy flats in the shallow lagoon, which the
-ebbing of the tide leaves with only five or six inches of
-water to cover them.
-
-Rikr. A brownish-red starfish, studded thickly with
-bluntish dark blue points or spikes, about three quarters
-of an inch in length.
-
-Inap (Ponape, Ip). A curious bluish annelid adhering
-to the under parts of masses of limestone rock on the
-reef.
-
-Rimich. The Tentumuoi of Ponape ; a gelatinous reddish-brown creature, living in cracks and fissures of coral
-reef, stretching out a forest of suckers resembling a clump
-of water-weeds.
-
-Thilthil. Yellow or orange variety of Rimich, called in
-Mariannes Dodak-man-yagu, i.e. the animal that ducks
-down.
-
-Lon. Sp., jellyfish.
-
-Goloth. A sea-eel (murcend).
-
-
-Mokelikil, Ar^ Marabilag. Species of sea-spider.
-Lilibots. A species of sea-snake, ringed black and
-white or yellow and black.
-
-HOLOTHURIA, OR SEA-CUCUMBERS
-
-Daotan. Grey body, whitish below, found on edge of
-mangrove belt ; edible, but scarcely palatable even in
-famine time.
-
-Buro. Large, inedible, greenish-brown.
-
-INSECTS
-
-Somening. A large brown and yellow-winged grasshopper.
-
-OsongoL The dragon-fly : one sort large, reddish-brown ;
-the other small, brown and yellow body.
-
-Galaoleu. Another species of dragon-fly ; body red,
-wings dark blue and white.
-
-Girrigir. The fire-fly, seen in great numbers in the
-evening darting in and out of the groves of areca and
-coco-palms like winged sparks of fire.
-
-Ngal. The white ant ; very destructive to pillars and
-flooring and furniture in houses.
-
-Ganau. The house-spider (Aranea).
-
-Riu. The cicala (Malay, Riang-riang).
-
-Elolai, Alolai. Worm.
-
-Gorro-mangamang. Caterpillar.
-
-SEA-URCHINS
-
-Buol. The Cheuak of Ponape.
-
-Olaa. Large-pointed spines, spotted brown and white
-like those of porcupine.
-
-FISHES
-
-Along, Oiong. The shark, i.e. the Hungry One.
-Litak. Small cobalt-blue fish, hovering round the clumps
-of branching coral, familiar to visitors in Pacific waters.
-
-
-PONAPE ONOMATOPCEAS 379
-
-Ngong. Small fish, banded black and white. Same
-habitat as Litak.
-
-U. The Leather Jacket.
-
-Rul. Sting-Ray.
-
-Kai. Octopus, or squid. Smaller sort, Luat.
-
-Tsinua. Black and white spiny fish.
-
-SHELLS
-
-Botangol. A dingy brown swamp-shell, resembling an
-elongated whelk.
-
-Dabau. A species of cockle found in mud near mangrove belt.
-
-Sanaf. Black and white speckled shell.
-
-Atani-a-lang. Sp. whelk.
-
-Tinatef. Sp. cockle, speckled red, white and yellow.
-
-Eon, The Tiger cowry.
-
-Furufur. A curiously-shaped shell of the cockle order.
-
-(g) PONAPE ONOMATOPCEAS, OR IMITATIVE SOUNDS
-
-Chakachak. Smashing of glass, rattling, clinking,
-chinking sound ; ticking of clock or watch ; tolling of
-a bell. Cf, Persian, chakachak^ clashing of swords.
-
-Teteng. A slamming or banging sound.
-
-Rarrar: Patapatar, The falling or pattering of raindrops.
-
-Ngirringirrichak. The roar of a waterfall.
-
-Ueichip. To splash about whilst bathing.
-
-Tautau. A splashing noise as of oars or paddles.
-
-Monomonoi. Sound of liquid shaken in a cask.
-
-Rarrar. A rattling, scratching, ripping, grating or
-tearing sound.
-
-Mpimpering. To flare ; rumble, as a blaze of flame.
-
-Ngorrangorrachak. To jingle ; tinkle ; clink.
-
-Kuku : Kingking. The cooing of doves.
-
-Ketiketikak. To cackle, of fowls.
-
-
-Tontorrok. To cluck ; twitter, as a hen over eggs.
-
-Kokorrot : Kokkoroti. To crow as a cock.
-
-Chinchich. To skim stones along water ; to play at
-" ducks and drakes."
-
-Kumukumu-chak. The croak or grunting of the
-leather-jacket when taken out of water. Cf. Maori,
-kumukumu^ the gurnard.
-
-Uerreuerre-chak : Uerreuer. To shout ; scream.
-
-Ngirchak, The noise of rushing water ; fall of
-cascade.
-
-Terterak. A scraping or grinding noise.
-
-Tontot. Cry of cicala.
-
-Titik. Squeaking of rats.
-
-Ichi. To hiss, as snake or lizard.
-
-Uat. To hoot, as an owl.
-
-Momant. To rustle, as a dress.
-
-Kumuchak : Poch, The detonation of a musket or
-cannon.
-
-Pungpungak. The noise of the surf on the reef
-
-Tui. The cry of a small black bird of the woods.
-
-Uetle. The note of the kinuet^ a small green dove
-with maroon markings.
-
-Kamakamait : Lokalokaia. The song of birds.
-
-Tukutukamak. Squeaking of rats.
-
-Li-aurdra. Indistinct mutterings during sleep ; delirium.
-
-Nannamanani. To jabber ; speak confusedly.
-
-Kemntemar. To snore.
-
-Ngiringir. To growl ; snarl.
-
-Ngarangar. To quarrel ; scold.
-
-Ngai. To snap (as a savage dog).
-
-Molipe. To call out ; summon.
-
-Tantanir. To lament ; weep.
-
-Melakaka. The song of a chief Cf. Hawaiian, 77iele ;
-Tahitian, umere.
-
-Kotuk. To break ; smash.
-
-Tenterong. To chatter. {Tenter, the cicala.)
-
-
-PONAPE GODS 381
-
-Uerreuer .- Uerreuerre-chak. To shout ; scream ;
-screech.
-
-Morromor. A noise ; tumult.
-
-Ngichingich, To shout (of a crowd).
-
-(h) PONAPE GODS
-
-Kimai. A Metalanim wise woman of old from the
-Matup district, where the luSu or ornamental bracelets of
-shell were first made.
-
-Chau-te-Leur. The name of an ancient king or dynasty
-of kings in Metalanim, when Ponape was under one rule,
-and the great walls of Nan-Tauach, the breakwater of
-Nan-Moluchai, and the sanctuary of Pan-Katara and the
-walled islets near Tomun were built by the divine twin
-brethren — the architects Olo-sipa and Olo-sopa. The
-last of them, defeated in battle by barbarian hordes from
-the south, under Icho-Kalakal, perished in the waters of
-the Chapalap river, near the great harbour, and was turned
-into a blue fish, the kital^ which to this day is a tabu
-fish.
-
-Chenia and Monia. Two adventurous heroes of old
-who explored the northern seas, until they saw the midnight sky filled with fire, and returned home with speed.
-
-Kutun. God of the reef and all therein, and the little
-islands in the lagoon. His totem is the Li-er-puater or
-black and yellow chcetodon fish.
-
-Rakim. God of house-building and carpentry. According to Dr Gulick the god of evil, disease, death, and
-famine. In Ruk, Rakim = the rainbow ; and Sonsorol,
-Glagini ; and on Kusaie, Nelakem or Nlakem has the
-same meaning. So Rakim is probably a sky-god, answering to the classic Iris.
-
-Chou-mach-en-cheu. The god of the sugar-cane.
-
-Li-kant-en-kap. The sting-ray (anciently Pae or Pat)
-the totem of the Tip-en-uai tribe, the descendants of Icho-
-Kalakal's great invasion.
-
-Changoro. The god of famine (worshipped in Chokach).
-
-
-Lumpoi-en-chapal. The name of an ancient hero who
-built the ancient fortifications at Chap-en-Takai, above
-Ronkiti, on the south-west coast.
-
-Nan-chapue. The god of kava and feasting. The
-Marrap or Native chestnut, sacred to him.
-
-Le pepe-en-waL God of the inland wilderness and
-jungle.
-
-Nan-kieil-ilil-mau. God of the Kieil — a large black
-lizard with red spots, looked upon by the Natives as
-" li-kamichik" or " uncanny," from its savage disposition.
-
-Chokalai. The " Kichin-Aramach" or " little people " —
-the Trolls, or dwarf goblins, dwelling in the interior of
-the island. Doubtless here we have the tradition of
-dwarf Negrito hill-tribes, little by little exterminated by
-the early Malay settlers.
-
-Kona. The giant race of old. The grave of one of
-them is shown — an extensive barrow or tumulus at
-Kipar, near Annepein, on the Kiti coast
-
-Cherri-chou-lang. i.e. The little angel from heaven.
-One of the lesser divinities who stole the kava plant
-ichakaic) from the isle of Koto (Kusaie, or Strong's
-Island). A piece of the root dropped down from the
-feast of the gods in the clouds, and thus the kava plant
-came to Ponape.
-
-Chau-yap. An early navigator from Yap, in the westward, who was directed to Ponape by following the flight
-of the kutar, or king-fisher bird. Cf. Maori, kotare, id.
-According to one account, with his irar, or magic staff,
-he dug up the kava plant, and gave it to the men of
-Ponape, amongst whom he settled.
-
-Li-oumere, A fairy with long iron teeth, who visited
-Ponape and abode some time ; who was prevailed upon
-to show them in a ghastly grin, at the sight of the antics
-of a very ugly and comical buffoon. A man close by
-in hiding dashed out the coveted iron fangs with a stone,
-and great was the scrambling of the clan for their newfound treasures.
-
-
-PONAPE GODS 383
-
-Ina maram. The moon-goddess. Cf. Pol., Sina^
-Hina, Ina. Cf. Assyrian, Sin^ the moon.
-
-Tau-koto. One of the gods of Kiti revered in the
-kava-drinking.
-
-Chei-aki. An early navigator who landed on the
-Paliker coast, from the East Mortlocks, with seven companions, Manchai, Chiri-n-rok, Man-in-nok, Chinchich, Pai-
-rer, Roki, and Machan.
-
-Nan-iinu-lap. (lit.) " The lord of the great house or
-lodge." — The god of dances.
-
-Nan-ul-lap. The Ponapean Priapus, and god of
-festivals. Sacred to Nan-ul-lap, who ruled all the contingencies of death, birth, sickness, and good and bad
-luck, were the turtle, the kamaik or parrot wrass, the
-marrer^ and the tep fishes. They were chapu^ and only
-to be eaten by the chiefs of the tribe.
-
-Likant-Inacho. i.e. Queen Inacho. The presiding
-goddess of Chokach Island.
-
-Icho Kalakal. The war-god of Metalanim, i.e. Prince
-Wonderful.
-
-Icho Chau ; Icho Lumpoi. Tribal gods of Metalanim.
-
-Luka lapalap ; Luk. The prince of evil. Also, the
-spirit that flew over the face of the seas, bidding the
-lands rise up, and giving the names to trees and plants.
-Cf. Scandinavian, Lok : Loki^ the prince of evil and
-cheatery.
-
-^ Li-cher. Lady of the torch.
-
-^ Li-char. Lady of the knife or sword.
-
-Olo-pat. A demigod. The patron saint of Ngatik.
-
-Olo-sipa ; Olo-sopa. Demigods of the olden time who
-constructed the great walls, the stone-water frontages
-and wharves upon the islets between Tomun and Leak,
-on the Metalanim coast. Cf. the two great demigods of
-Tahiti, Oro-tetefa and Uru-tetefa.
-
-Nan-chelang. The god of canoe-building and carpentry
-incarnate in a green and yellow tree-lizard of the same name.
-
-^ The female guardians of Pueliko, the Ponapean inferno.
-
-
-Kaneki. God of the coconut palm.
-
-Inacho ; Likant-en-A ram ; Li-ara-katau ; Likant-erairai ; Li-mot-a-lang. Fairies — woodland goddesses or
-nymphs. The emblem of Li-ara-Katau was the lukot or
-Native owl.
-
-Nan-Ilakinia. God of Nan-Tamarui district, on southeast coast.
-
-Maile. A spirit who smites men with dizziness and
-vertigo.
-
-Li - arongorong - pel. A sea - goddess worshipped on
-Ngatik, 2>., the Lady who loves the Holy places.
-
-Tau-Katau. The rain-god ; god of the breadfruit-tree.
-
-Li-Au-en-pon-tau. i.e., Lady-chief of the waterway.
-Goddess of the Palikalao river, on the south-west coast.
-
-Ilako. The family-god of King Rocha, of Kiti, on the
-south-west coast ; greatly revered in kava-drinking ceremonies. Cf. Yap, ilagoth, name of a god ; and Tagala,
-ilagai, to command, order, direct.
-
-Nanchau-en-chet. The lord of the morasses and salt
-marshes, dwelling in the body of the kaualik or blue
-heron.
-
-Kili-unan. A hairy and shaggy goblin of the woods
-who brings disease and death. (Possibly a faint recollection of the orang-utan, left behind them in Java, Sumatra,
-and other large islands of Indonesia.)
-
-(l) YAP GODS
-
-Yalafath. The Creator ; regarded as a benevolent but
-indolent being ; incarnate in the bird mui-bab (albatross
-or Frigate Bird).
-
-Nemegai or Nemegui. His wife.
-
-Luk. The god of death and disease ; a mischievous
-and ever-active deity ; incarnate in the orra, a black bird
-of nocturnal habits.
-
-Luk-e-ling. The god of sea-faring men and navigation.
-
-Kuku'balal. The god of cultivation and planting.
-
-
-YAP GODS 385
-
-Kanepai. The god of the tsuru or Native dances.
-
-Ilagoth. The god who blesses and defends folk of
-good and peaceable life. (Ponape, Ilako.)
-
-Marapou. The sun-god.
-
-Urur. The moon-god.
-
-Mukolkol. The god of thieves and robbers, who
-generally leaves his votaries in the lurch in the long
-run. The Evil Spirit Luk also is a patron saint of the
-light-fingered fraternity.
-
-Mam, The goddess of childbirth.
-
-Uaga damang. The god of war.
-
-Dotra. The god of canoe-building, house-building, and
-carpenter's work.
-
-Magaragoi. The god who brings typhoons, gales of
-wind, and heavy rains.
-
-Madai; Wareleng. The gods of fishes,fishermen,and sailors.
-
-Pof. The god of women and love-making in general.
-
-Koko-galal. God of the niu or coconut palm.
-
-Lugeleng. The god of rain.^
-
-Tereteth. Goddess of the atchif or coconut-toddy.
-
-Mui-bab. The god of war.
-
-Ilu-mokan. God of dances.
-
-Wol Trabab. God of strangers.
-
-Dessra ; Derra. God of fire and earthquake.
-
-Gora dai leng. The avenging deity who punishes bad
-men after death. A river flows by his abode, running
-underground. Tortured by fire, the bad spirit falls into
-the water, and the current takes him along and plunges
-him down into a deep hole or abyss of flames {lu-ni-gd),
-where he disappears for ever.
-
-Karaneman. The god of whales and sharks.
-
-Ligich. The god of the turtle.
-
-Giligei. Ademi-god — the inventor of the^/ or shell adzes.
-
-Lusarer. A hero of olden time, who taught the
-men of Yap to build fish-weirs of stone and wood.
-
-Bota-Sunumi. A title of Yalafath, the creator.
-
-^ Cf. Lamotrek. Luk-el-Iang. The god of carpenters.
-2 B
-
-
-TRIBAL OR DISTRICT GODS
-
-Yangalav. In Gochepa (central).
-
-Gutherei. In Rul (central).
-
-Ath. In Nimiguil and Goror (south).
-
-Gatamir. In Map and Ramung Islands (north).
-
-Magaragoi, In Tomil (central).
-
-(j) VARIETIES OF BREADFRUIT IN PONAPE
-
-Mai — Generic name. Cf. Tongan, Mei ; Marquesan,
-Mei. Cf. Chinese and Japanese Mai^ rice.
-
-I En pakot. Long ; rough rind.
-
-Pon-panui. Long ; rough.
-
-Chaniak. Small variety.
-
-Paimach, Small variety.
-5 Yong. Small variety.
-
-En-uaoutak. Small variety.
-
-Takai. Round ; very hard.
-
-Impak, Round ; large size.
-
-En-uchar. Long,
-lo Katiu. Long.
-
-Kumar. Long.
-
-En-machal. Long.
-
-Nine. Long.
-
-Letam. Small ; round.
-I 5 Nakont. Small ; round.
-
-En-pol-le. Longish.
-
-Apil. Round ; small.
-
-Chai. Smooth.
-
-En Kaualik. Long ; rough rind.
-2o En-chak. Longish.
-
-Nue. Large ; smooth ; round ; the most highly
-esteemed of all.
-
-En-charak. The mountain variety ; prickly rind.
-
-Koli. Seeded ; eaten ripe and raw (the jack-fruit).
-
-Pa or Mat. Seeded ; eaten ripe and raw (the jack-fruit).
-25 Kalak. Smooth; small.
-
-
-PONAPE 387
-
-Talk. Smooth ; large fruit
-Pulang. Smooth ; large fruit.
-
-All the following have a Rough and Prickly Rind
-
-Lipet. Large ; prickly rind.
-
-Uaka. Longish ; large.
-30 Potopot ; Puetepuet. Light-coloured ; long.
-
-En-pon-chakar. Reddish rind.
-
-Nan-umal, Longish.
-
-En-paipai. Long.
-
-Lukual ; Lokual. Wild bush variety ; very prickly.
-35 Tol. Small; round; dark rind.
-
-En-patak. Reddish ; longish.
-
-En-put. Very small ; round.
-
-En-cherrichang. Reddish rind ; small.
-
-En-patak^ Long ; thin.
-40 En-par. Long ; darkish.
-
-En-kotokot, Round ; small.
-
-En-monei. Long ; thin.
-43 Ti. Long.
-
-PONAPE
-
-(k) days of the moon's age!
-
-First period is called Rot or darkness, i.e., nights when
-there is no moon. Rot has 13 days. {^Cf. Persian, Rat,
-the night.)
-
-
-I Ir.
-
-8 Chau-pot-mur.
-
-2 Lel-eti,
-
-9 Chau-pot-moa.
-
-3 Chanok.
-
-10 Arichau.
-
-4 Chenok-en-komoni,
-
-I I Chutak-ran,
-
-5 Chanok-en-komdna.
-
-12 EU,
-
-6 Epenok-omur.
-
-13 Aralok.
-
-7 Epenok-omoa.
-
-^ Most of these correspond closely to the ancient Tahitian sequence. In this
-connection cf. Appendix A to Tregear's Maori Comparative Dictionary.
-
-The Ponapean Ir is certainly the Tahitian Hiro ; and the Tahitian Art is
-clearly the Ponapean Arichau with its affixed princely titles.
-
-
-Second period — new moon — called Mach ; contains 9
-days, following the sequence of the numerals : —
-
-1 At, 6 Aon.
-
-2 Arre. 7 Eich.
-
-3 EchiL 8 Aual.
-
-4 Apang, 9 Malatuatu.
-
-5 Alim,
-
-Last period, Pul, contains 5 days : —
-
-1 Takai-en-pai. 4 Olo-mal}
-
-2 Aro-puki. 5 Mat.
-
-3 Olo-pua}
-
-PONAPE STAR NAMES
-
-
-I Choropuel.
-
-
-Uchu-nenek.
-
-2 Mai-lap.
-
-
-Mel (The Southern
-
-3 Mai-tik.
-
-Cross).
-
-4 Tumur.
-
-
-Langkoroto.
-
-5 Pongenai.
-
-
-L^-poniong (seen about
-
-6 Li-katat.
-
-time of variable winds).
-
-7 Kien-ua.
-
-
-Katipar (the blank space
-
-8 Langemur.
-
-in heaven known as
-
-9 Li-kamar-en-ich.
-
-the Magellan Cloud).
-
-10 Nach-e-lap.
-
-
-Aron-mechei-rak = a
-
-1 1 Pal-an-tuniur.
-
-comet ; also known as
-
-12 Larele.
-
-Ucku - pata-iki - niia =
-
-I 3 Makeriker (Pleiades).
-
-the star with a tail.
-
-(l) lamotrek star-names
-
-1 Uiliuil-al-evang. The Pole-star.
-
-2 Uiliuil-al-eaur, The Southern Cross ; also called
-
-Pup, or the Leather-Jacket Fish.
-
-3 Tumur, Antares.
-
-4 Meal. Vega and a Lyrae.
-
-5 Ualego. Ursa Major. Literally, " The Broom."
-
-6 6^/. Aldebaran. Literally, " The Virile Momber."
-
-^ The Ponapean Olo is the Tahitian Oro or its equivalent Roo {cf. Hawaiian
-Lono, Maori Rongo) Marquesan Ono ; all varying titles of one of the Polynesian
-ideals of the Supreme Being, i.e., Sound.
-
-
-LAMOTREK STAR-NAMES 389
-
-7 Evang-el-ul. Capella ; its appearance denotes heavy
-gales and bad weather.
-
-8 Magarigar. Pleiades.
-
-9 Oliel. Orion and Rigel.
-
-10 Kolong-al-mal. Sirius ; i.e., literally, "The Body of
-the Animal."
-
-1 1 Ping-en-lakh. Arietes ; i.e., literally, " The Centre of
-the House."
-I 2 Met-a-ryo. Scorpio ; i.e., " The Two Eyes."
-I 3 Sor-a-bol. Corvi ; literally, " The Viewer of the Taropatches." Shines during Taro season. {^Sor, to
-look ; bol, a Taro-patch.)
-1 4 Tchrou. Corona ; i.e., " The Fowling-net." ^
-I 5 Mai-lap. Althoea and (a) Aquilce.
-
-16 Aramoi. Arcturus. (.^^n?, to conclude ; moi,\.o coxn^^
-
-So called because the rising of Arcturus marks the
-end of the north-east winds which bring visiting
-parties to the island.
-
-1 7 Yuk-ol-ik. Cassiopcea ; literally, " The Tail of the Fish."
-
-18 Mongoi-sap. Gemini.
-
-19 Ik. Pisces.
-
-20 Mai ; man. Can is Major.
-
-2 1 Ililigak. Regulus.
-
-22 Gapi-sarabol. Speaker.
-
-23 Ngi-tau. Piscis Australis.
-
-
-24 Gapi-lah.
-
-Pegasi.
-
-MONTHS OF LAMOTREK
-
-YEAR
-
-I Sarahol.
-
-5 Mai-lap.
-
-9 UL
-
-2 A ramaus.
-
-6 Seuta.
-
-10 A Hie I.
-
-3 Tumur.
-
-7 Lakh.
-
-1 1 Man.
-
-4 Mai-rik.
-
-8 Kit
-
-12 Ich.
-
-(m) mortlock star-names
-
-I Fusa-makit. A Ursce Minoris. " The Seven Mice,"
-Makit. Cf. Ponape, Make; and Murray Island,
-
-^ Cf. Yap Chau, a fowling-net. Ellice group, Shau, Sheau, id. ; and
-Mortlock, Sezi, id.
-
-
-Mokis, a mouse. Or it may mean " The Fus or Star
-that moves or changes its position."
-2. Ola. Ursa Major.
-
-3 Seu. Corona Borealis,
-
-4 Moel. Lyra.
-
-5 Manga-n-kiti. Gemini.
-
-6 Pou-n-man. Procyon.
-
-7 Vis. Leo. (Lit, The Rat.)
-
-8 Ap-in-Soro-puel. Virginis.
-
-9 Soro-puel. Corvi.
-
-I o Eon-mas. Crateris.
-
-I I Tanup. The Southern Cross. (Perhaps " The Shark"
-
-cf. Polynesian Tanifa : Taniwha^ id.)
-1 2 Uk-en-ik. (Unidentified.) Literally, " The Fish-net."
-I 3 Sepei-ping-en-Sota. Delphini and Cygni. " The Bowl
-in the midst of Sota.
-
-1 4 Soto. Equuleus.
-
-15 Man. Sirius. The Dog-Star; literally, " T'i^^/iw/wdj/."
-
-16 Un-allual ; elluel. Orion and Aldibaran ; i.e.,
-
-" The Bunch of Three." Cf. Maori, Tau-toru.
-
-17 Ku. Aries.
-
-J 8 La. Pegasus.
-
-19 Marikir. Pleiades.
-
-20 Tumur. Scorpio.
-
-2 1 Mei-sik. v^o. Herculis.
-2 2 Mei-lap. Aquila.
-
-23 Aramoi. Arcturus.
-
-(n) yap star-names
-
-Told by Matuk, of Gochepa, on Tarrang Island
-
-Beginning from East to North.
-
-1 Mai-lap^. 3 Magirigit^.
-
-2 Un^. 4 Moul\
-
-^ Mai-lap. cf. Mortlock, Mei-lap.
-
-2 Un. cf. Lamotrek, Ul (Aldebaran) ; Mortlocks, Ola (Ursa Major),
-^ Magirigir. cf. Mortlocks, Mariker (Pleiades) ; Ponape, Makcriker ; and
-Lamotrek, Magarignr, id.
-
-^ Moid. cf. Mortlocks, Afoel {hyra.) ; Lamotrek, Meal [a. Lyroe).
-
-
-LAMOTREK MEASURES 391
-
-5 Yigelik or Yik-el-ik. 7 Mai-le-palafaL
-
-6 Ulagok.
-
-From East to West
-
-8 YiliyeV'. 12 Matarei.
-
-9 Sarabul^. 1 3 Wonowon-le-ySr^ the
-
-1 o Thamur^. southernmost.
-1 1 Thagal'k.
-
-From South to West.
-
-1 4 Tholon-a- Wonowon^. i 8 Tholon-a-wun.
-
-1 5 „ matarei. 19 „ yiliyel,
-
-16 „ sarabul. 20 „ mailap^ the
-
-17 „ thamur. westernmost.
-
-From West to North
-
-21 Tholon-a-magiregir. 24 Tholon-a-ulagok.
-
-22 „ :;;2^2^/. 25 „ 7nai-le-palafal^
-
-2 2, „ yigelik. the northernmost
-
-LAMOTREK MEASURES
-
-6^<2^ ; Si-gat A finger's length, ?>., 3 inches.
-
-Rua-gat. Two „ 6 inches.
-
-Sili-gat. Three „ 9 inches.
-
-Fd-gat. Four „ 1 2 inches, and so on.
-
-Si-ang ; Ang. One span.
-
-Ru-ang. Two spans.
-
-Sili-ang. Three spans, and so on.
-
-Rolibos. A half-cubit.
-
-Gopa. A cubit.
-
-Si-pap. Distance from tip of finger to centre of chest.
-
-Si-ngaf. One fathom.
-
-Si-gip. One foot ; literally, footprint.
-
-1 Cf. also Mortlock. Elluel -. Allual, id.
-
-2 Sarabul. cf. Mortlocks, Soropuel (Corvi) ; Lamotrek, Sor-a-hol ; Ponape,
-Choro-pucl.
-
-^ Thamur. cf. Mortlocks, Tumur (Scorpio) ; Lamotrek, Tumur (Antares).
-* Tholon = facing ; opposite.
-
-
-(O) LAMOTREK GODS
-
-Aliu-Lap. The Creator or Supreme Being.
-
-Luk-e-lang ; Olevat. His sons — presiding over the
-work of carpenters and boat-builders.
-
-Semili-goror. The wife of Aliu-Lap.
-
-Selang. Her brother.
-
-Saulal. The Prince of Evil.
-
-Alis-i-tet, also called Toutop. The Lamotrek Neptune
-and God of Fishes, called in Satawal Aliu-sat or Ponnorol.
-
-LAMOTREK
-
-
-(P) DAYS OF THE ]
-
-moon's age
-
-Crescent M
-
-oon
-
-I
-
-Sigauru.
-
-
-Emital.
-
-
-Elling. (Root, Ling,
-
-
-Epei. (When at sundown
-to shine.)
-
-the moon is canted
-
-
-Mes-elling.
-
-over a little to west-
-
-
-Mis-al.
-
-ward.)
-
-
-Mesa-fois.
-
-
-Rua-bong. (The joining
-
-
-Meso-ual.
-
-together {^Rud) of the
-
-
-Messe-tiu.
-
-nights.)
-
-Full Moon
-
-1 1
-
-Yarabuki.
-
-
-Evelak.
-
-
-Olo-boa.
-
-
-Kochalak.
-
-
-Olo-mai.
-
-
-Karotali-evelak.
-
-
-Mares ( = Ripe ; de-
-
-
-Saopas-maimor
-veloped.)
-
-
-Kill.
-
-
-Ur. (Sun and moon
-
-^S
-
-Omolo.
-
-together on sea in
-
-
-Roinuli-fan.
-
-the evening.)
-
-
-A rafoi.
-
-
-Lotiu.
-
-
-Eoi.
-
-
-Kill.
-
-
-Effeng
-
-
-Kalawalo.
-
-
-Erdf.
-
-
-Saopas.
-
-DAYS OF MOON S AGE IN MORTLOCK ISLANDS 393
-
-MORTLOCK ISLANDS
-
-[From " Die Bewohner der Mortlock Inseln," by J. S.
-Kubary ; published in Hamburg by the Geographical
-Society in 1878-79.]
-
-
-(q) days
-
-OF
-
-THE
-
-moon's age
-
-I
-
-Sikauru.
-
-
-Natiu ; Netiu.
-
-
-A Hang, Elleng
-
-
-Kinnei.
-
-
-Mes-allang.
-
-
-Ummala.
-
-
-MeS'Oan.
-
-
-Sdpas.
-
-
-Mes-e-fiu
-
-
-Aanak ; Effanak.
-
-
-Mes-e-ual.
-
-
-Osselang.
-
-
-Mes-e-tou
-
-
-Aanak.
-
-
-Ruapong.
-
-
-Sapas.
-
-
-Apei.
-
-
-Ummala.
-
-
-EmdtaL
-
-
-Ara.
-
-1 1
-
-A ro-puki.
-
-
-Roman-fel.
-
-
-Olo-pue.
-
-
-A ro-fiu.
-
-
-Olo-mau.
-
-
-Ell.
-
-
-Ammas, Emmas.
-
-
-Affen.
-
-
-Aur, Eur.
-
-
-Ese.
-
-(r) MORTLOCK
-
-MONTHS
-
-Named
-after certain Stars
-
-I
-
-Vis (Leo).
-
-
-La (Pegasus).
-
-
-Soropuel (Corvi).
-
-
-Ku (Aries).
-
-
-Aramoi (Arcturus^
-
-).
-
-
-. Mariker (Pleiades).
-
-
-Tumur (Scorpion),
-
-1 1 '■
-
-^ Un-allual; elluel (Alde-
-
-
-Mei-sik {yla Herculis).
-
-baran and Orion).
-
-
-Mei-lap (Aquila).
-
-
-Man (Sirius, or the Dog-
-
-
-Sota (Equuleus).
-
-star).
-
-
-'Unelluel (Orion) =
-
-the
-bunch of three. Cf. Maori,
-
-Tautoru ; Mangarevan, Toutoru. id.
-
-(S) MORTLOCK GODS
-
-Rasau, God of war.
-
-Sapinfa; Sau-piong ; Ulu-puau; Terie-lap; Piol.
-gods.
-
-
-Tribal
-
-
-YAP
-
-(t) days of the moon's age
-
-The Yap month has 30 days counted in three divisions
-(i) Pul— New Moon
-
-
-I
-
-Bungdl. 5
-
-Nga-lal-e-pul.
-
-
-Nga-ru-e-pul. 6
-
-Nel-e-pul.
-
-
-Nga-thalib deleb-e-puL 7
-
-Medelib-e-pul.
-
-
-Nga-aningek-e-pul 8
-
-Meruk-e-pul.
-
-1 1
-
-Kaiper-e- pul-na-tha-kan- 9
-
-Mereb-e-pul.
-
-«^<2£ 1 0
-
-A regak-e-pul.
-
-
-Nga-logoru-e-pul. 1 3
-
-0-thalib-e-pul.
-
-(2) Botrau—VxsXX Moon
-
-
-Erebeb-a-botrau. 1 9
-
-Medilib-a-botrau.
-
-
-Thalib-a-bo trail. 2 0
-
-Meruk-a-botrau.
-
-
-Aningek-a-botrau, 2 1
-
-Mereb-a-botrau
-
-
-Lal-a-botrau. 2 2
-
-A regak-a-botrau.
-
-
-Nel-a-botrau.
-
-(3) Z?/;/^^r = darkness. 6)^ Pampanga, lumlum,
-lumdum^ id. Ponape, lunior, the sickness of a chief.
-
-
-2 3 Kaipir-e-lunior-ko-pul.
-
-
-Nga-lal.
-
-24 Nga-ru-e-lmnor-ko-p7il.
-
-
-Nga-nel.
-
-2 5 Nga-dalib.
-
-
-Nga-medelib.
-
-26 Nga-aningek.
-
-
-Ka-mai-e-pul.
-
-(U) NAMES OF MONTHS IN YAP YEAR
-
-
-I
-
-Maragil.
-
-
-Tobil
-
-
-^ w<5/«,
-
-
-Paga-ath
-
-
-Dimom.
-
-
-F//^//.
-
-
-Lagu.
-
-
-Mathaek.
-
-I I
-
-Puloi.
-
-
-Olo.
-
-
-Ya-olang.
-
-
-Tchef,
-
-KUSAIAN BELTS
-
-
-DAYS OF THE MOON S AGE IN ULEAI 395
-
-ULEAI
-(V) DAYS OF THE MOON'S AGE
-
-An independent list compiled by Chamisso during
-Kotzebue's Voyage in these seas in 1 8 1 5- 1 8 1 8
-
-1 Lingiling. 16 Ladi.
-
-2 Sigaur. 17 Gilei.
-
-3 MesuL 18 Kaira.
-
-4 Meseren. 19 Gopatemir.
-
-5 Meselim. 20 Arotevalan.
-
-6 Mesaul. 2 1 Olabugi.
-
-7 MesaveL 22 Olohue.
-
-8 Mesavol. 23 Olamahe.
-
-9 Mesadu. 24 Tamalaval.
-
-10 Chabong. 25 Ereve.
-
-1 1 Alabugi. 26 Eii.
-
-I 2 Olobao. 2 7 Erevi.
-
-I 3 Olomoal. 2 8 ^^?/.
-
-14 ^^[to. 29 Evan.
-
-\^ Ir. 30 ^^'(^iz/.
-
-Observe the wonderful coincidence with the Mortlock
-and Lamotrek equivalents with a mere change from N. to
-L. and T. to R. G. to K. and T. to S.
-
-This shows very clearly the minute and accurate astronomical knowledge possessed by the early Caroline Island
-navigators, and the very considerable range of their maritime activity in generations past.
-
-(W) SOUTH KENSINGTON MUSEUM NOTES
-
-(a) The following is the result of a preliminary inspection
-of some dredgings taken by the Spanish Cruiser Quiros
-in the Ant Lagoon to the west of Ponape Island, East
-Carolines.
-
-The washings consist chiefly of Foraminifera, in addition
-to which may be noted Alcqonarian spicules, spines of
-several genera of echinoderms, numerous pteropods, heteropods, and ostracoda (including Bairdia and Loxoconchd).
-The most conspicuous foraminifera are : —
-
-Spiroloculina impressa, Terquem.
-
-grata,
-Miliolina agglutinans (d'Orb).
-Pelosina variabilis, Brady.
-Textularia concava (Karrer).
-Globigerina bulloides, d'Orb, var. triloba, Reuss.
-Truncatulina rostrata, Brady.
-Calcarina spengleri (Linn.).
-Amphistegina lessonii, d'Orb.
-
-radiata (Fich. & Moll).
-Operculina complanata (Defrance).
-
-„ ,-, „ var. granulosa,
-
-Leymerie.
-Heterostegina Depressa, d'Orb.
-
-(y8) The stone money of Yap is merely crystallised carbonate of lime (calcite), and is probably from a vein of that
-substance filling cracks in limestone or other rock.
-
-(y) A microscopical examination of a thin slice of the
-limestone from Gerem Islet, Lai, South Yap district, West
-Carolines, shows the rock to have been a calcareous sand
-composed of molluscan shell fragments, echinoderm spines
-and plates, foraminifera such as Orbitolites complanata Lam.
-Textularia barrettii I. and P., and AmpJiistegina lessonii
-d'Orb., also numerous pieces of Lithothamnion and joints of
-Halimeda. These organic fragments are firmly compacted
-by a dolomitised matrix with some cavities in the rock.
-The matrix is probably the result of crystallisation and
-subsequent dolomitisation ^ of a calcareous mud.
-
-((5) The reddish rock from Elik seems to be an impure
-limestone stained in bands by iron oxide.
-
-Kindly supplied by F. Chapman, A.L.S., F.R.M.S.
-
-^ Dolomitisation is the partial replacement of the carbonate of lime in a
-limestone by carbonate of magnesia.
-
-
-KUSAIAN BELTS
-
-
-KUSAIAN TEXTILES 397
-
-(X) KUSAIAN TEXTILES
-
-Four photographs — (a) Two " To/s" or woven belts of
-banana fibre crossed, one dark, one light coloured ; (^)
-eight Kusaian " Tols " in line on screen ; (y) two finely
-finished specimens of same ; (S) four ditto from the King's
-House.
-
-Notes on Photo (a).
-
-Black " Toi;' Length, 4ft. 9i ins.
-Width, 7j ins.
-
-Ends terminating with fringes knotted — stained salmonpink. One end has five particoloured bands in various
-designs, each about | in. wide.
-
-In line with the length of the " ToV the space is occupied
-at regular intervals by three particoloured stripes and
-borders of various widths extending into the body of the
-" ToV for a distance of ten inches. Colours in stripes red,
-dark-blue, purple, yellow, pink and brown.
-
-The central portion is stained a glossy black, the texture
-having the appearance of horse-hair cloth.
-
-The upper right-hand end is woven in eighteen bands
-similar to those previously described, and of the same
-colours, save that the red and the blue are not found. The
-design is uniform but not continuous, the colours of each
-band running in broken lines.
-
-Light-coloured " Toir
-
-Length, 3 ft. 4I ins.
-Breadth, 5f ins.
-
-Made from natural coloured banana-fibre — fringed at
-each end. At varying intervals across the width, and
-almost uniformly disposed, are bands of interwoven ornament in dark red and black, forming diapers, ornamental
-chequers and diamonds variously disposed. The outer
-edges are bordered by two narrow lines in dark red.
-
-Notes on Photo (/3).
-
-These " Tols " sustain the character of the two described
-above, but are less elaborate in pattern, and woven in plain
-lines or checks. The natives use them for sashes and
-sometimes as a hat-ribbon. In Honolulu the curio-shops
-used to receive regular small consignments of these from the
-Boston mission at Mout on Ualan, and they were quite the
-fashion amongst the society belles of that city.
-
-Notes on Photo (y).
-
-Two exquisitely finished belts given me by Likiak-Sa.
-The upper one has a lozenge ornamentation in a lovely
-electric blue. The delicate designs of the one below are
-traced in brown, dark-red and dark-blue upon a sheeny
-white background.
-
-Notes on Photo (S).
-
-Four delicately finished Tols of the finest sort. The
-top one picked out in graceful patterns in blue, black,
-crimson and brown. The second striped light blue and
-white. The third striped reddish-brown, yellow and white.
-The lowest red-brown, with white perpendicular ornamentation with the names of the weavers, Kenie and
-Malem, in broken lettering.
-
-Similar woven belts of the same fibre, frequently of very
-fine design, are found throughout the Melanesian area.
-
-In Aneityam (N.H.) they are called 'N^etuT They are
-found in Santa Cruz, where they call them " Neveianikapu,'' specimens of which, brought by Mr Jennings, may
-be seen at the Liverpool and British Museum, and the
-Rev. Codrington showed me some very fine specimens
-which he said came from the Banks Group.
-
-One is reminded somewhat of the Basho-fu or bananafibre fabric of Japan, said to be derived mainly from the
-Ryu-Kyu or Lew-Chew Islands.
-
-The same industry is seen in Sumatra, and I believe in
-many other islands of the Malay Archipelago.
-
-The loom is a simple hand-loom. In Ponape they
-call it Tantar, in Kusaie Ptias, in Bencoolen (Sumatra)
-Pisa.
-
-
-SPECIMENS OF SHELL-ADZES
-OF NAN-TAUACH
-
-
-FOUND IN THE GREAT CENTRAL VAULT
-IN THE NAN-MATAL RUINS
-
-
-PONAPEAN ADZES
-
-
-In the Malayan area the Rainbow is called Bahag-Ari
-or Pznang-Rajah, both of which names denote the belt of
-a great lord. Possibly some such elaborate and beautiful
-fabric as this was worn by the great chiefs of Malaysia in
-early days, before the Arab merchants plied, and before
-cheap tawdry cotton goods came in from Manchester.
-
-(y) PONAPEAN ADZES
-
-Notes on Ponapean Shell Adzes.
-
-Seven adzes and gouge ground down into present shape
-from central shaft or hinge of the Tridacna Gigas or Giant
-Clam. Found in the central vault called the Tomb of
-Chau-Te-Leur upon Nan-Tauach Island in the Island City
-of Nan-Matal, Metalanim district, Ponape, east coast. The
-five first named are now in the British Museum.
-
-
-No. L, .
-No. II.,
-No. III.,
-No. IV.,
-No. v.,
-No. VI.,
-No. VIL,
-Scale of measurement in

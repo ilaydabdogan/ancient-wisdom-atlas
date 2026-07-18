@@ -1,5 +1,4 @@
 # The Melanesians of British New Guinea
-
 PREFACE
 
 THE greater part of the material which has been utilised
@@ -64,8 +63,7 @@ ethnic groups of each division and Indicated the directions in
 which our knowledge is most defective.
 
 In the first half of the book I have described certain of
-the tribes of the Western Papuo-Melanesians. It was impossible in the time at my disposal to make a lengthy investi-
-gation of the customs and habits of all the tribes of this great
+the tribes of the Western Papuo-Melanesians. It was impossible in the time at my disposal to make a lengthy investigation of the customs and habits of all the tribes of this great
 division with which I came in contact. I therefore resolved
 
 
@@ -242,18 +240,15 @@ V
 
 
 CHAPTER I
-GEOGRAPHICAL AND SOCIAL RELATIONS 41
 
 CHAPTER II
 
-SOCIAL SYSTEM AND REGULATION OF PUBLIC LIFE . . 49
 
 Iduhu^ Clans — Iduhu Dagi, Clan-badges — Chieftainship — Duties and
 Privileges of Iduhu Rohi and Rohi Ketaike — Present Conditions —
 Tribal Status and Address Terms — The Dubu.
 
 CHAPTER III
-FAMILY LIFE 66
 
 Kinship and Relationship — Functions and Privileges of Certain Kin —
 Friendship — Adoption — Name Giving — Heni Ceremony — Ear Piercing
@@ -261,14 +256,12 @@ Friendship — Adoption — Name Giving — Heni Ceremony — Ear Piercing
 
 CHAPTER IV
 
-COURTSHIP, BETROTHAL AND MARRIAGE .... 76
 
 Courtship and Marriage — Divorce — The Regulation of Marriage —
 Intermarriage of Koita and Motu — Marriage within the Village —
 Marriage within the Iduhu — Marriage and Kinship — Polygyny.
 
 CHAPTER V
-MIDWIFERY 84
 
 Conception and Pregnancy — Labour and Care of Child — Puerperium —
 Twins.
@@ -280,14 +273,12 @@ CHAPTER VI
 
 PAGE
 
-PROPERTY AND INHERITANCE 87
 
 Land Tenure— Women in Relation to Land— Personal Property-
 Inheritance of Personal Property— Inheritance of Real Property.
 
 CHAPTER Vn
 
-TRADE 92
 
 Markets.
 
@@ -295,7 +286,6 @@ CHAPTER VIII
 
 THE ANNUAL TRADING EXPEDITION TO THE PAPUAN
 
-GULF. By F. R. BARTON 96
 
 Legend of the Origin of the //zW— Customs and Procedure before the
 Voyage— Arrival of Lakatoi in the Gulf— The Return Journey-
@@ -305,38 +295,32 @@ S3.go— Lakatoi Ehona — Return visits of Gulf Natives — Lakatoi Language.
 
 CHAPTER IX
 
-WAR AND HOMICIDE 121
 
 War— Homicide in relation to the Community — Homicide in relation
 to the individual.
 
 CHAPTER X
 
-MORALS 131
 
 Theft — Domestic and Sexual Morality — Homicide — Gambling.
 
 CHAPTER XI
-TABOO 136
 
 Taboo Signs— Death Taboos — Food Taboos— Place Taboos — Name
 Taboos — Sex Taboos.
 
 CHAPTER XII
 
-CEREMONIAL FEASTS 141
 
 The Koriko Feast — The Hekarai Ceremony — The Tabu Feast.
 
 CHAPTER XIII
 
-SONGS AND DANCES 151
 
 Maf^inogo.
 
 CHAPTER XIV
 
-FUNERAL AND MOURNING CEREMONIES 159
 
 Bowa Feast— Venedairi Fe2iSt—/ta Feast.
 
@@ -350,7 +334,6 @@ CHAPTER XV
 
 PAGE
 
-MAGIC AND SORCERY 167
 
 Sorcery — Popular and Minor Magic — Origin of Charms — Agricultural
 Charms — Hunting Charms — Fishing Charms — Dugong and Turtle
@@ -358,14 +341,12 @@ Charms — War Charms — Love Charms — Weather Charms — Divination.
 
 CHAPTER XVI
 
-RELIGION 183
 
 Mythical Beings — Omens — Eschatology — Cult of the Heavenly Bodies.
 
 
 CHAPTER XVII
 
-GEOGRAPHICAL AND SOCIAL RELATIONS 195
 
 History and Migrations of the Roro-speaking Tribes — Distribution of
 Clans within the Villages — External Relations and Trade.
@@ -373,19 +354,16 @@ Clans within the Villages — External Relations and Trade.
 
 CHAPTER XVIII
 
-CLAN-BADGES 207
 
 Decay of Oaoa — Doubtful Oaba.
 
 CHAPTER XIX
 
-CHIEFTAINSHIP 216
 
 Insignium of Chieftainship.
 
 CHAPTER XX
 
-MAREA, CLUBHOUSES 223
 
 The Building and Inauguration of a Marea — Oaoa in relation to the
 Marea — Classification of Oaoa found in Marea — Ornaments in and
@@ -393,7 +371,6 @@ upon Marea — Tables of Local Groups, Clans, Clan-badges and Clubhouses of the 
 
 CHAPTER XXI
 
-FAMILY LIFE 255
 
 Childhood — Assumption of the Perineal Bandage, Itaburi — The Ibitoe —
 ^ Initiation — Aruaru Ceremonies — Tattooing of Girls.
@@ -405,45 +382,37 @@ CHAPTER XXII
 
 PAGE
 
-MARRIAGE 267
 
 CHAPTER XXIII
 % FUNERAL AND MOURNING CEREMONIES . . . . .273
 
 CHAPTER XXIV
 
-MAGIC AND SORCERY 278
 
 Sorcery— Magic — Kaivakuku — Minor Magic.
 
 CHAPTER XXV
 
-RELIGION 303
 
 Spiritual Beings— Oa Rove— Omens— Eschatology.
 
 
 CHAPTER XXVI
-GEOGRAPHICAL AND SOCIAL RELATIONS 311
 
 CHAPTER XXVII
 
 lAUAFANGAI, KANGAKANGA (CLAN-BADGES) AND UFU
 
-(CLUBHOUSES) 320
 
 Kangakanga — Ngopu Groups — Table of the Pangua of the Biofa and
 Vee, showing the Ngopu group to which each Pangua belongs — Clubhouses— Ngove.
 
 CHAPTER XXVIII
-DIVISIONS WITHIN THE PANGUA 336
 
 CHAPTER XXIX
-CHIEFTAINSHIP 342
 
 CHAPTER XXX
 
-THE UFUAPIE 349
 
 List of Pangua of the Vee Villages, their Ufuapie and Iauafa7igai —
 Inawaia — List of Pangua of some of the Biofa villages, their Ufuapie
@@ -460,18 +429,15 @@ PAGE
 
 SUMMARY OF THE HISTORY AND CONSTITUTION OF
 
-MEKEO 366
 
 Table of Mekeo Villages, Pangua (Clans), Ngopu Groups, lauafangai^
 Ufii (Clubhouses) and Kangakanga (Clan-badges).
 
 CHAPTER XXXn
-NOTE ON POKAO 373
 
 
 CHAPTER XXXni
 
-FOLK TALES. By C G. SELIGMANN and E. L. GIBLIN . . 376
 
 Wagawaga : The Birth of the Sun — How Fire came — The first Coconut— The Story of the snake Sinerogusi Sarasara — Hagwai the Cuscus
 — The Story of the Bat's Cave — How Drums came to Wagawaga — The
@@ -488,7 +454,6 @@ Cock — (Wamira) The Dun Pig — (Gelaria) Dabedabe — The Mapa Tree —
 
 CHAPTER XXXIV
 
-GEOGRAPHICAL RELATIONS AND HISTORY .... 422
 
 Wagawaga — Tubetube — Bartle Bay (by C. G. Seligmann and E. L.
 Giblin).
@@ -496,7 +461,6 @@ Giblin).
 
 CHAPTER XXXV
 
-CLANS AND TOTEMS 435
 
 Clans and Clan-Groups : Wagawaga— Tubetube— Bartle Bay.
 ToTEMiSM : Wagawaga — Tubetube — Bartle Bay (by C. G. Seligmann
@@ -509,7 +473,6 @@ CHAPTER XXXVI
 
 PAGE
 
-THE REGULATION OF PUBLIC LIFE 453
 
 Chieftainship : Wagawaga and Tubetube— Bartle Bay (by C. G. Seligmann and E. L. Giblin). CLUBHOUSES AND PUBLIC PLATFORMS:
 Wagawaga and Tubetube. Stone CIRCLES AND Squatting Places :
@@ -519,7 +482,6 @@ Bay (by C. G. Seligmann and E. L. Giblin)— Note by Mr Newton.
 
 CHAPTER XXXVn
 
-* FAMILY LIFE 479
 
 The Hamlet and the Family-Group. Kinship and Relationship: Wagawaga— Tubetube. FUNCTIONS AND Privileges of
 Certain Kin. Name Avoidance. Avoidance of Contact.
@@ -528,7 +490,6 @@ and E. L. Giblin): Initiation of Boys — Initiation of Girls.
 
 CHAPTER XXXVHI
 
-COURTSHIP, BETROTHAL AND MARRIAGE 499
 
 Wagawaga— Tubetube. COURTSHIP and Betrothal : Bartle Bay
 (by C. G. Seligmann and E. L. Giblin). Marriage: Wagawaga —
@@ -539,25 +500,21 @@ Polygyny — Divorce.
 
 CHAPTER XXXIX
 
-PROPERTY AND INHERITANCE 513
 
 Inheritance: Wagawaga— Tubetube— Bartle Bay (by H. Newton).
 
 CHAPTER XL
-TRADE 526
 
 Wagawaga — Tubetube — Trading Voyages — Commercial Agents —
 Trade from beyond the Massim Area.
 
 CHAPTER XLI
 
-WARFARE 541
 
 Peace- .making: Bartle Bay (by H. Newton).
 
 CHAPTER XLII
 
-CANNIBALISM > 548
 
 Wagawaga — Tubetube.
 
@@ -568,7 +525,6 @@ CHAPTER XLIII
 
 PAGE
 
-MORALS 565
 
 Domestic morality — Sexual Morality — Modesty — Homicide — Suicide —
 Theft — Commercial Morality.
@@ -583,7 +539,6 @@ Taboo Signs — Death Taboos— Food Taboos — Place Taboos — Name
 Taboos — Sex Taboos.
 
 CHAPTER XLV
-CEREMONIAL FEASTS, DANCES AND SONGS .... 583
 
 Feasts : Wagawaga — Tubetube. Dances : Wagawaga — Tubetube —
 Bartle Bay. Songs: Wagawaga — Tubetube. The Walaga Feast
@@ -592,7 +547,6 @@ E. L. Giblin). The Walaga Feast at Diwari (by H. Newton).
 
 CHAPTER XLVI
 
-i FUNERAL AND MOURNING CEREMONIES 607
 
 Death and Burial: Wagawaga— Tubetube— Bartle Bay (by C. G.
 Seligmann and E. L. Giblin). Mourning : Wagawaga — Tubetube.
@@ -604,12 +558,10 @@ Tubetube. Destruction of the Houses of the Dead : Wagawaga
 
 CHAPTER XLVn
 
-MAGIC AND SORCERY 638
 
 The production of disease and death by magical means.
 
 CHAPTER XLVni .
-RELIGION 646
 
 Wagawaga — Tubetube — Bartle Bay. CuLT OF THE Heavenly
 Bodies. The Cult of the Mango. Omens : Wagawaga — Tubetube
@@ -619,7 +571,6 @@ Wagawaga — Tubetube — Bartle Bay.
 
 CHAPTER XLIX
 
-GEOGRAPHICAL AND SOCIAL RELATIONS 660
 
 The Trobriands — The Marshall Bennets — Murua and its Annexes.
 
@@ -644,7 +595,6 @@ The Trobriands— The Marshall Bennets.
 
 CHAPTER LH
 
-FAMILY LIFE, YOUTH AND ADOLESCENCE 704
 
 Childhood and Adolescence.
 
@@ -662,7 +612,6 @@ V BURIAL AND MOURNING CEREMONIES 7i5
 The Trobriands— The Marshall Bennets— Murua.
 
 CHAPTER LV
-RELIGION 733
 
 APPENDIX No. I
 
@@ -675,8 +624,6 @@ MUKAUA. (By E. L. GIBLIN) 74°
 Totemism— Chieftainship— Betrothal and Marriage.
 
 GLOSSARY .747
-
-INDEX 755
 
 
 LIST OF PLATES
@@ -2216,8 +2163,7 @@ of the length of the building or of the massive quality of the
 posts which support it, features which are more readily
 appreciated in a side or even in a back view of the structure.
 
-From Redscar Bay eastwards along the coast to Kapakapa and beyond in the Ikoro villages, that is to say through-
-out the area in which the open dubu occurs, skull trophies
+From Redscar Bay eastwards along the coast to Kapakapa and beyond in the Ikoro villages, that is to say throughout the area in which the open dubu occurs, skull trophies
 are not kept, but directly the open dubu gives place to the
 house dubu an area is reached where, until the Government
 enforced peace, skulls were collected and hung upon the dubu.
@@ -2740,8 +2686,7 @@ extremely limited. Some of these tribes speak Papuan
 languages, others Melanesian, but the slightest acquaintance
 with these people shows that language is not here a criterion
 of race, for broadly speaking the members of all these tribes
-are alike in general appearance, being short, dark, and frizzlyhaired. It is probable that there is also a substantial agree-
-ment in the customs of all these people, for their women all
+are alike in general appearance, being short, dark, and frizzlyhaired. It is probable that there is also a substantial agreement in the customs of all these people, for their women all
 wear a narrow perineal band instead of the petticoat of their
 eastern neighbours the Koiari, and they all inhabit small
 settlements of an impermanent character perched on the
@@ -2988,8 +2933,7 @@ they ornament many of their utensils in every-day use, and
 they appear to fully appreciate the designs carved not only on
 their big imported canoes, but also on smaller articles such as
 drums and spatulae. The same aesthetic appreciation is found
-in the Central Division where some tribes have copied decorations although avowedly ignorant of the significance of the de-
-signs they have borrowed, merely imitating objects that gave
+in the Central Division where some tribes have copied decorations although avowedly ignorant of the significance of the designs they have borrowed, merely imitating objects that gave
 them pleasure because they were judged to be beautiful. The
 most obvious examples of such borrowings occur in the province
 of decorative art, but in chapter xiii an example is given of a
@@ -3830,8 +3774,7 @@ Dubara. As far as active work goes Ahuia must be
 regarded as the present iduhu rohi, though his maternal
 uncle Taubada (a by no means inactive, if somewhat crippled
 old man), who inherited the chieftainship from his father Ova
-Abau, still takes an active interest in village affairs. Doubtless part of the influence Ahuia already wields, as a compara-
-tively young man, is to be traced to his being village constable,
+Abau, still takes an active interest in village affairs. Doubtless part of the influence Ahuia already wields, as a comparatively young man, is to be traced to his being village constable,
 and the interpreter most commonly employed by the Government. His activity and intelligence are however so much
 above the average, that it seems certain he would have ultimately succeeded Taubada in the chieftainship, even without
 government assistance. At the death of Ahuia, the chieftainship will revert to Ova Tau, the eldest son of Taubada, who is
@@ -12108,8 +12051,7 @@ S. N. G.
 
 2IO The Roro-speaking Tribes
 
-Waima settlements the mandibles of the hornblll are commonly worn as an ornament, and are devoid of any special sig-
-nificance. The two figures of Plate XXXIII reproduced from
+Waima settlements the mandibles of the hornblll are commonly worn as an ornament, and are devoid of any special significance. The two figures of Plate XXXIII reproduced from
 photographs taken by the Rev. H. M. Dauncey are examples
 of daiki in the form of elaborate feather-dancing headdresses
 such as are w^orn by the Roro-speaking tribes, but unfortunately I cannot identify the particular itsitbu to which they
@@ -12242,8 +12184,7 @@ of quarrels within a clan or local group)
 appear to have been common. Hisiu, a
 Waima colony, is a good example of this ;
 Dr Strong was told that it consisted of
-families from Korina, Ereere and Roroaiera settlements, who formed fresh settle-
-ments, i.e. local groups. There are in
+families from Korina, Ereere and Roroaiera settlements, who formed fresh settlements, i.e. local groups. There are in
 addition representatives of Arabure and
 Hauramiri itsubu, the latter with certain
 members of the Komo Kupunu settlement united with families (?) called Ere Kupunu and Opi Kupunu to constitute a
@@ -12318,8 +12259,7 @@ of the ornaments they had adopted.
 
 DOUBTFUL OAOA.
 
-Besides such important clan-badges as the carvings exhibited on viarea and the feather headdresses used in cere-
-monial dances, there are a number of customs and methods
+Besides such important clan-badges as the carvings exhibited on viarea and the feather headdresses used in ceremonial dances, there are a number of customs and methods
 of performing the common acts of life which are peculiar to
 certain groups of men, and which, in the broad sense, noted
 on page 207, are regarded as dada, although many of these
@@ -13218,8 +13158,7 @@ viarea does not belono-.
 (iii) Oaoa, the property of the ovia itsipana of the
 itstcbu or local group to which the marea belongs.
 
-(iv) Oaoa which were stated to belong to, or to be associated with the marea building as such, that is to say-
-certain marea with a given historic name and belonging to
+(iv) Oaoa which were stated to belong to, or to be associated with the marea building as such, that is to saycertain marea with a given historic name and belonging to
 a particular clan or local group, had associated with them
 certain oaoa.
 
@@ -13756,8 +13695,7 @@ appeared that some such division was
 necessarv for a certain class of daba.
 The oada referred to seem to have
 ceased to exist in the villaQfes of
-the Roro tribe, but the following information was obtained at Siria re-
-garding their former occurrence.
+the Roro tribe, but the following information was obtained at Siria regarding their former occurrence.
 
 Anapua inarea of the local group
 of Koae Kupunu itsubu formerly had
@@ -14138,8 +14076,7 @@ Maneva
 
 Paitana
 
-Mairi (a crescentic orna-
-ment of
+Mairi (a crescentic ornament of
 pearl-shell)
 
 Kevori
@@ -14415,20 +14352,17 @@ Arabure
 Itaba
 
 
-Itaba and perhaps iave-
-iave the
+Itaba and perhaps iaveiave the
 white cockatoo
 
 
 Itaba and raia^
-the 'crabclaw' laka-
-toi sail
+the 'crabclaw' lakatoi sail
 
 
 Pehera{swordifish)
 
-Uala (crocodile) and ai-
-rava
+Uala (crocodile) and airava
 
 
 Airava
@@ -14550,8 +14484,7 @@ sp.) and perhaps raia
 Tautaa
 
 An arua7'u marea. Dr Strong
-was told that the oaoa of Herahera settlement were a liz-
-ard something like a small
+was told that the oaoa of Herahera settlement were a lizard something like a small
 crocodile and raia the crabclaw sail. There is some little
 doubt whether airava is an
 oaoa of this settlement, the
@@ -15308,8 +15241,7 @@ carrying the bride-price, goes with two or three of his itsubtt
 to the house of the father of the girl he wishes his son to
 marry. The convention is that at this stage of the proceed-
 
-^ My thanks are due to the Rev. Father Ernest Guibaud for additional information about the Roro marriage ceremonies, as well as for much tedious interpret-
-ing in connection with these and cognate matters.
+^ My thanks are due to the Rev. Father Ernest Guibaud for additional information about the Roro marriage ceremonies, as well as for much tedious interpreting in connection with these and cognate matters.
 
 2 The value of the ornaments collected and paid is considerable. Aihi Naime
 of the Waima settlement Ereere stated that his folk had paid for his wife Aiva of
@@ -17665,8 +17597,7 @@ white influence first began to be exerted in the district, who
 confuse iauafangai and kangakanga and the names of these
 with those of clubhouses. In fact it must be assumed that
 Mekeo had, apart from white influence, reached a state at
-which iauafangai (perhaps representing the earliest clanbadges) had become degraded and were confused with kanga-
-kanga which in their turn were thus subjected to an influence
+which iauafangai (perhaps representing the earliest clanbadges) had become degraded and were confused with kangakanga which in their turn were thus subjected to an influence
 making for degeneration. Father Egidi states that the weak
 local group, Inawaia Koko of Yeku Baibua village, actually
 assert that oolo is alike their iauafangai, and one of their
@@ -17895,8 +17826,7 @@ Inawi village wear as their kangakanga an
 extremely beautiful feather headdress called
 7nengunge in which, according to a sketch
 I have seen, the plumes of Paradisea
-raggiana predominate ; it is said to represent the outline of Boboleva, Mount David-
-son.
+raggiana predominate ; it is said to represent the outline of Boboleva, Mount Davidson.
 
 The people of Oxi^oio\x\2L pangua wear
 as kangakanga the sword of the swordfish
@@ -21000,8 +20930,7 @@ to the east of the St Joseph River, between the present sites of
 Oriropetana and Bebeo, the Biofa settlement was called
 loiovina, that of the Vee loiofaopo. These centres must have
 been near each other, for in a story recorded by Father Egidi,
-a youth of one of these villages, by blocking the track, compelled two girls, returning from collecting firewood, to ac-
-company him to his village after which he escorted them to
+a youth of one of these villages, by blocking the track, compelled two girls, returning from collecting firewood, to accompany him to his village after which he escorted them to
 theirs. Each pangua had a chief, lopia fda, whose office
 is, and was, strictly hereditary, and who was especially
 responsible for the upkeep of the clubhouse {ufu) of the
@@ -21676,8 +21605,7 @@ Eleya (a
 mountain
 peak)
 
-Poo (? a treeclimbingkanga-
-roo)
+Poo (? a treeclimbingkangaroo)
 
 Kaenga
 
@@ -23038,8 +22966,7 @@ groaning in great pain.
 
 So there was nothing to be done but for his mother to
 leave him while she went home to tell his father, who would
-come and carry him home : so she covered him up very carefully and left him. After dusk had set in, an ogre, Wavinerua-
-tonu by name, came to see how the cucumber he had planted
+come and carry him home : so she covered him up very carefully and left him. After dusk had set in, an ogre, Wavineruatonu by name, came to see how the cucumber he had planted
 was getting on, and he saw it had disappeared. As he was
 looking about to see what had become of it he muttered to
 himself: 'I'd like to know who has eaten up my plant.'
@@ -25523,8 +25450,7 @@ Modewa
 Yabarawa
 Dobuapa
 
-Siai {Pa?'adisea raggia-
-na) and
+Siai {Pa?'adisea raggiana) and
 Kulokulo
 
 Kurau
@@ -26625,8 +26551,7 @@ possessor or owner of something, thus each householder is
 the taniwaga of his house, but the idea of control is also
 generally included in the term, so that taniwaga means the
 controller of a particular process or thing. This matter will
-be again referred to when considering Mr Newton's information concerning status in the Bartle Bay communities. A tani-
-waga generally passes on his knowledge to his brother or his
+be again referred to when considering Mr Newton's information concerning status in the Bartle Bay communities. A taniwaga generally passes on his knowledge to his brother or his
 sister's son. A taniwaga of an important form oi pari may be
 chief [gtclau) of a community, thus Bamdiri who is gulau
 of Wedau is, in his magical aspect, taniwaga oi pari which
@@ -31026,8 +30951,7 @@ and gardens, burn the village, and so on, all this being accompanied by the most
 
 * This happens, of course, when the attacking party completely routs its opponents. But this seldom occurs. It has
 to be borne in mind that war is made to avenge one person's
-death. Therefore, when the assailants succeed in capturinoor killing one person they do not care to run the risk of losino-
-any of their men, and gladly listen to the voice of any one of
+death. Therefore, when the assailants succeed in capturinoor killing one person they do not care to run the risk of losinoany of their men, and gladly listen to the voice of any one of
 them who says, '' Let us go back and eat him," and return to
 their canoes carrying with them the slain or captured person.'
 
@@ -34981,8 +34905,7 @@ Mourning Feasts 627
 We are Indebted to Mr Newton for much of the information
 Incorporated in the following account of the banivi. It has
 been mentioned already in chapter xxxv that the clans of
-Wedau and Wamira are united into clan-groups practisinogroup exogamy, and it is between individuals of the com-
-ponent clans of each clan-group that banivi are reciprocally
+Wedau and Wamira are united into clan-groups practisinogroup exogamy, and it is between individuals of the component clans of each clan-group that banivi are reciprocally
 exchanged. It seems probable that where a clan-group
 contains more than two clans, each clan exchanges banivi
 with a particular clan within its clan-group, it is even possible
@@ -37053,8 +36976,7 @@ Again, Mr Fellowes' account of peace-making is perhaps
 somewhat coloured.
 
 Taolu, who is a member of the Tabalu family of the
-Malasi clan, i.e. the family providing chiefs [guyau), undoubtedly has some fine native jewellery, especially arm-
-shells and kaipwesi (walstbelts of shell discs) and many neku
+Malasi clan, i.e. the family providing chiefs [guyau), undoubtedly has some fine native jewellery, especially armshells and kaipwesi (walstbelts of shell discs) and many neku
 (ceremonial axe blades). Much of this wealth he obtained
 upon the death of his brother Enamakala, but it is hardly
 correct to speak of any portion of it as the 'sacred emblems of
@@ -38023,8 +37945,7 @@ similarity, physical or psychical, between an individual and
 his or her totem bird or fish, but at Iwa it was said that
 a man of the fish-hawk totem would catch plenty of fish, while
 other men of such totems as the lory and pigeon ' no savy
-catch plenty fish.' This was, however, the only 'correspondence' elicited. Totem birds do not play any consider-
-able part in omens, only one example of an omen taken from a
+catch plenty fish.' This was, however, the only 'correspondence' elicited. Totem birds do not play any considerable part in omens, only one example of an omen taken from a
 totem bird was found at Iwa, where it was said that in going
 fishing a man would be lucky if he saw his totem bird coming
 towards him, but unlucky if he saw the bird crossing behind
@@ -40777,596 +40698,3 @@ after another, he will not usually build a fresh house for
 each one.
 
 
-GLOSSARY OF NATIVE WORDS
-
-Abde, anklets (Roro)
-
-Agariria^ male initiates (Bartle Bay)
-
-Ageru, a bamboo dancing staff (Koita)
-
-Ageva, shell discs used as beads (Motu)
-
-Ahatabubu^ the custom of relatives of a dead man sleeping in his house (formerly
-on his grave) for the first four nights after his death (Koita)
-Aina^ sacred, set apart (Koita)
-Airipa^ a grass petticoat (Bartle Bay)
-Aiyaiyai^ a death chair (Roro)
-Apa^ leglets (Roro)
-Ara^ 3. perineal band (Wagawaga)
-Aru, spirit, soul, or shade of the dead (Bartle Bay)
-
-Aruaru vtarea^ clubhouse in which boys were secluded at puberty (Roro)
-Arugo^ soul, spirit, life, applied to ghosts of the dead (Wagawaga)
-Asi^ dug-out canoes made in the Papuan Gulf, and of which the lakatoi are
-formed (Motu)
-Aii, maternal uncle (Wagawaga)
-Auau^ armshells (Mekeo)
-
-Auba^ the hkeness or reflection of a human being (Roro)
-Aurago, (i) a taboo sign (Motu); (2) a word used generally for garden Uboos
-
-(Motu)
-Avu^ maternal uncle (Bartle Bay), see aii
-
-Bada^ an old man (Tubetube)
-
-Baditauna, one of the captains of a lakatoi (Motu)
-
-Bagi, a highly prized ornament consisting of lengths of sapisapi discs attached to
-one of the conical processes derived from shells of the genus cassis (current
-over a large portion of the Massim area)
-Bago, a. dance held in honour of a homicide (Koita)
-Balii^ see baru
-Banaga^ clans (Bartle Bay)
-Banahivi, a funeral feast (Wagawaga)
-
-Banivi, a death feast (Bartle Bay) . r . m ^u
-
-Bariaua, uncanny, supernatural, out of the common, also used of totems (H.irtle
-
-Bay)
-Baro7n, shades of the departed (Trobnands)
-Baru, stone circles used as public meeting places (Rogea)
-Baubau, a bamboo pipe (Motu)
-Bedi, a coconut shell spoon (Motu)
-Be7iam, ceremonial axe blades (S. Massim)
-Berasi, a song, also a class of songs (Koita)
-
-
-748 Glossary of Native Words
-
-Beriwa^ (i) spirits, not necessarily of the dead, non-human agencies (Roro);
-
-(2) bull-roarers (Pokao)
-Besa^ a dance performed at a cannibal feast (Wagawaga)
-Beiube^ presents from relations of the bridegroom to the relations of the bride
-
-(Koita)
-Bigo^ revenge (Wagawaga)
-
-Bisa^ the chair on which the dead are exposed (Koita)
-Bodibo^ a taboo sign (Koita)
-Boima, yam houses (Trobriands)
-Boimaviaka^ a ceremonial platform (Trobriands)
-Botn\ see besa
-
-Bolaboluy stone circles and rows, used for meeting places and feasts (Bartle Bay)
-Bowa^ a mourning feast (Koita)
-
-Buiapu^ a status term for an adult of either sex (Roro)
-
-Bjiibui, a. collar worn by a widow, made of a dead man's perineal band etc. (Koita)
-Buna, white cowry shells, Ovulum ovum (Trobriands)
-Bwabwakipa, small armshells (Trobriands and Tubetube)
-Bwagau^ sorcery (Trobriands)
-
-Daam^ a sleeping mat (Wagawaga and Tubetube)
-
-Dahudahu^ a fish Caranx species (Koita)
-
-Dakwai^ a net for catching mullet (Motu)
-
-Dalela^ a family group within the clan (Trobriands)
-
-Dam^ a. clan (Bartle Bay)
-
-Damorea, a dance at the toreha ceremony (Wagawaga)
-
-Damu^ bride-price (Koita)
-
-Dederi^ a taboo sign (Tubetube)
-
-Devase^ mythical beings (Koita)
-
-Dihu^ a wooden food bowl (Motu)
-
-Diniga^ a bone fork (iMotu)
-
-Dirava, a species of mythical being (Motu)
-
-Doa^ a boar's tusk which has grown into a spiral or almost a circle (Motu and
-
-Koita)
-Doba^ the petticoat worn by a widow in mourning (Marshall Bennets)
-Dobu^ a hamlet (Wagawaga)
-
-Dodoma^ a necklace of dog's teeth (Motu and Koita)
-Dogoro^ a clan (Sinaugolo)
-
-Doiona^ hair matted up, a sign of mourning (Tubetube)
-
-Dona^ a boar's tusk which has grown into a spiral or almost a circle (Tubetube)
-Doritauna^ one of the captains of a lakatoi (Motu)
-Dubu, a ceremonial platform (Motu and Koita)
-
-Ea, paternal aunt (Wagawaga)
-
-Eaii rove^ an ornament of a boar's tusk worn by chiefs only (Roro)
-
-Eheteharana^ bamboo poles upon which food is hung (Roro)
-
-Ehona^ a song (Motu)
-
-Eiei^ a small cooking pot (Roro)
-
-Ekei^ literally ' subsequently born,' applied to clans which have split from the parent
-stock, also to their chiefs (Mekeo)
-Eravo^ the clubhouse of the Elema tribes
-Eriam^ a kind of brotherhood. At Bartle Bay (Wedau) this relationship carries
-
-
-Glossary of Native Words 749
-
-rights of access to the wines of fellow eriam ; at Wagawaga and Tubetube it
-has no such meaning, but is applied to specially good friends
-
-Fda aui^ a subdivision of a clan (Mekeo)
-
-Fdangiau, literally 'first born,' applied to the oldest division of a clan (Mekeo)
-
-Faonga, the ceremonial lime gourd used only by chiefs (Mekeo)
-
-Gabaiera, a lime spatula (Louisiades)
-
-Gabuaio, presents made by the bridegroom to the bride's parents (Koita)
-
-Gado^ tattoo marks on the chest, assumed about the time of marriage (Motu)
-
-Gadogado^ tattoo marks on the nape of the neck (Motu)
-
-Gahana^ a stone circle used as a meeting place and for feasts (Wagawaga)
-
-Gaiba^ a wooden dish (Tubetube)
-
-Game^ (i) a sister's child (Tubetube) ; (2) child, brother's child (Koita)
-
-Gana^ plaited armlets and leglets (Koita)
-
-Garabi^ a common taboo sign on a single tree (Motu)
-
-Gariaiina, the relatives of the dead who prepare the grave and perform certain
-functions (Wagawaga and Bartle Bay)
-Gariauuna, relations who prepare the grave and perform certain burial functions
-
-(Tubetube)
-Gidana^ a fragment of coral used by sorcerers to produce disease (Bartle Bay)
-Gidu^ the ceremony of filling visitors' bags with yams at the tabu feast (Koita and
-
-Motu)
-Ginauri^ charms (Bartle Bay)
-Giriba, a taboo sign (Tubetube)
-
-Goga^ a man or woman of a generation older than the speaker (Wagawaga)
-Gorugoru, a parcel of sago weighing from 250 to 350 lbs. (Motu)
-Gulau, a chief (Bartle Bay)
-Gum, payment, the victim of a cannibal feast killed in revenge for a comrade
-
-(Tubetube)
-Gumagi, agents for procuring bagi tic. (S. Massim)
-Guingum, a song without drum or dance (Tubetube)
-Guyau, a chief (Trobriands)
-Gwala, stegwara
-
-Gwara, a taboo sign (Wagawaga and Tubetube)
-Gweri, the process of removing sickness by sorcery (Bartle Bay)
-Gweri ravai, a medicine man (Bartle Bay)
-Gwigwi, the women's portion of the house (Wagawaga and 1 ubeiubc)
-
-Harihu, experts in garden taboo (Elema)
-
-Hato, taboo signs (Wagawaga)
-
-Hauani, a bone implement for removing the meat of the coconut (Roro)
-
-Hehe, bride-price (Roro)
-
-Hekarai, a Koita ceremony
-
-Helaga, sacred, set apart (Motu)
-
-M^f^amo a ceremonial bond of friendship Motu and Koila) . , ^ ^ .
-
-HenTk^ blood pr^ce (Motu) ; (2) a ceremony held m connection w.th the firstborn
-
-(Koita)
-^/«^, mother (Wagawaga) u t^r ^'.oc^
-
-Hiri, the Motu trading voyage to the Papuan Gulf for sago
-Hisiu bada, the morning star (Motu)
-
-
-750 Glossary of Native Words
-
-Hiwoga^ a small feast held when building canoes (Wagawaga)
-Hodu^ a pot generally used for carrying water (Motu)
-
-lauafangai^ an animal or plant which was perhaps once a totem (Mekeo)
-
-Ibitot\ a boy between puberty and adolescence (Roro)
-
-Idaidaga, a debt little likely to be paid, hence, someone eaten, not in revenge for a
-comrade (Wagawaga)
-Iduhu, a clan (Koita and Motu)
-Iduhu ddi^ij a. clan-badge (Koita)
-Iduhu rohi^ a. clan chief (Koita)
-Iduhu toana, a clan-badge (Motu)
-Iha, brother-in-law, sister-in-law, see siba (Motu)
-Ikupu^ a group within the clan (Mekeo)
-Ikwato^ a taboo sign (Motu)
-Ina^ see hina
-
-Inai, a seine net (Tubetube)
-
-Inutiu^ fits and convulsions attributed to tabu agency (Koita)
-lo lopia, a war chief (Mekeo)
-//rt, a funeral feast (Koita)
-Itaburi, a. perineal band (Roro)
-Itara, the platform in front of the marea (Roro)
-Itsubu^ a clan (Roro)
-lu, a musical instrument worn when dancing (Roro)
-
-Kada^ maternal uncle, or sister's son (Marshall Bennets)
-
-Kaikwabuna, shadows of men (Trobriands)
-
-Kaipapa, small armshells (Tubetube)
-
-Kaiva^ the anterior projection of the thatch of a 7narea (Roro)
-
-Kaivakuku^ experts who taboo vegetable food (Roro)
-
-Kaiwos womilamala^ a funeral feast (Trobriands)
-
-Kaiyawos^ the breath of men and other living things (Trobriands)
-
-Kaluga^ a square cradle fixed to the deck of the lakatoi and used for storing pots
-for the captains of the lakatoi (Motu)
-Kanekapu^ a death feast (Tubetube)
-Kangakanga^ a clan-badge (Mekeo)
-Kapahene^ the ridge pole of the marea (Roro)
-Karoa^ heaps of food distributed at the koriko feast (Koita)
-Kaukaua^ brother or sister (Tubetube)
-Kebwaii^ a small built-up canoe (Tubetube)
-
-Kefe^ the Mekeo name for the turtle-shell ornament called koiyu by the Roro
-Keikei^ a special form of pot used ceremonially (Motu)
-Keripa^ a wooden sword (Tubetube)
-Kiapa^ a string bag (Koita and Motu)
-
-Kibo^ a conch shell blown to summon the people to the tabu feast (Koita and Motu) J
-Kimta^ a social division according to age (Bartle Bay)
-Kiva^ a petticoat (Roro)
-Koda^ a pig net (Motu)
-
-Koge^ the steeple-houses of the Hood Peninsula
-Koiyu, a turtle-shell ornament (Roro)
-Kokoaga, a grave (Bartle Bay and Wagawaga)
-Kokoana^ a string necklace (Tubetube)
-
-
-Glossary of Native JVords 751
-
-Kokohara, a parcel of sago weighing about 40 lbs. (Motu)
-
-Komakoma, turtle-shell earrings (Wagawaga and Tubetube)
-
-Konedoi, a dance, also a song (Koita and Motu)
-
-Koriko, a feast (Koita)
-
-Kuakua^ armlets worn by a widow (Tubetube)
-
-Kum^ a clan (Trobriands)
-
-Kupua, the front central post of the marea and the most important from a ceremonial standpoint (Roro)
-Kupunu, origin, root, the lower part of a tree (Roro)
-
-Labuni, a 'sending' which women who have born children expel from their bodies
-
-(Bartle Bay)
-Lahidairi^ a mourning ceremony (Motu)
-Lakatoi, composite craft used on the hiri (Motu)
-Laraha, (i) payment made when a widow remarries (Koita); (2) adultery price
-
-(Koita)
-Laulauma, the shadow or reflection of a human being (Motu)
-Lauma, soul, life, spirit of the dead (Motu)
-Loe^ a. clubhouse (Pokao)
-
-Loe Kautia^ the man responsible for the upkeep of the clubhouse (Pokao)
-Lopia aui^ a subdivision of the clan (Mekeo)
-Lopia ekei, a sub-chief, the chief of an ekei section of a local group, often applied to
-the most important man in a strong ikupu (Mekeo)
-Lopia fda^ the high chief, the head man of a local group of a clan (Mekeo)
-Lopia pao^ the insignium of chiefs (Mekeo), see eaii rove among Roro
-Losufna^ a feast held before a war party sets out (Wagawaga and Tubetube)
-Lubai, certain relations or connections by marriage, members of the same clan
-cannot be lubai (Trobriands)
-
-Mada^ a. dance, also a song (Koita)
-
-Maginogo^ a dance, also a song (Koita)
-
-Magula^ the cross shoulder straps worn by a widow in mourning (Marshall
-
-Bennets)
-Mahawa^ a netted bag (Roro)
-Mahia, a paternal uncle (Wagawaga)
-Maia^ see viaiha
-
-Maiha, the victim of a cannibal feast killed in revenge (Wagawaga)
-Mairi, a. crescent-shaped mother-of-pearl ornament (Motu and Koita)
-Mama, a paternal uncle (Koita)
-Man, a clan (Murua)
-Marea, a clubhouse (Roro)
-
-Marea ahuahu, the 7narea of a war chief (Roro) •
-Marea arawae, literally spear marea, the marea of a war chief (Roro)
-Marea ovia, the 7narea of the ovia itsipana (Roro)
-
-Masiwarii, the large armshells worn on the upper arm by adults (Tubetube)
-Maura, (i) a clan corresponding to iduhu (Mailu); (2) a widow's neck oman^cnl
-
-(Wagawaga)
-Meke, the side posts of the viarea (Roro)
-Melagai, a settlement (Bartle Bay)
-
-Melu7n, a return present of food made at the banaluvi (Wagawaga)
-Miori^ a boy before puberty (Roro)
-
-
-752 Glossary of Native Words
-
-Moari, shell armlets (S. Massim)
-
-Mobio, the strings of A\issa shells called tautau by the Motu (Roro)
-
-Moki^ an ornament worn in the nasal septum (Koita)
-
-Movio^ see mobio
-
-Muiiy see muri
-
-Munkutis^ carved figure head on waga (N. Massim)
-
-Muri^ exchange presents between the parents of a bride and bridegroom
-
-(Wagawaga)
-Musikaka, a fighting ornament held between the teeth during battle (Motu)
-Mwaie, armshells corresponding to the masiwaru of the S. Massim (Trobriands)
-
-Naka^ open platforms (Tubetube)
-
-Nakanaka., the men's portion of the house (Wagawaga)
-
-Name, the petticoat worn by a widow (Tubetube)
-
-Nana, elder brother, sister, or cousin (Koita)
-
-Natu, child (Wagawaga)
-
-Nau, a shallow open pot commonly used as a dish (Motu)
-
-Nekii, a ceremonial axe blade (Trobriands)
-
-Ngopu, a. group of clans of common descent (Mekeo)
-
-Ngove, (i) sacred, set apart (Mekeo) ; (2) a clubhouse for the ikupu (Mekeo)
-
-Nowe, a sister or cousin (Wagawaga)
-
-Oada, a clan-badge (Roro)
-
-Ogatara, a feast held before a war party sets out (Wagawaga)
-
-Oina, a cousin (Wagawaga)
-
-Oriorena, the shadow of a human being (Roro)
-
-Orope, wristlets (Roro)
-
-Ovia, a chief (Roro)
-
-Ovia ahuahu, a war chief (Roro)
-
-Ovia akiva, ' chief of the knife,' the man who ceremonially cuts up the pigs at
-feasts (Roro)
-Ovia awarina, sub-chief, literally 'chief of the left' (Roro)
-Ovia itsipana, a clan chief, literally ' chief of the right ' (Roro)
-
-Paiha, the department of magic which insures success in warfare (Roro)
-
-Paiha marea^ the marea of the war magic experts (Roro)
-
-Paipai, malevolent spirits (Roro)
-
-Pangua, a clan (Mekeo)
-
-Paraiima, a ' sending ' which women who have born children expel from their bodies
-
-(Waima), see labuni
-Pari, a spell (Bartle Bay)
-
-Pata, a platform erected for part of the tabu ceremonial (Koita and Motu)
-Pediri, (i) a dancing song (Tubetube) ; (2) a dance (Wagawaga)
-Pegara, the cross shoulder straps worn by the children of deceased as mourning
-
-(Marshall Bennets)
-Pepe, a clan-badge used on the hiri (Motu)
-Pianai, linked totems (Wagawaga)
-
-Pokina, origin, secondarily the steering paddle of a canoe (Roro)
-Potuma, (i) a clubhouse (Southern Massim); (2) a lime spatula made from bone
-
-(Wagawaga)
-
-
-Glossary of Native IVords 753
-
-Raimu, a maternal uncle (Koita)
-
-Rausi, (,) a dance performed at a cannibal feast (Tubetube) ; (2) a song (Tubetube)
-
-Reke, a seine net (Koita) ^ >^iuoc;
-
-Rigariga, a mourning feast (Tubetube)
-
-Robu7no7nomo, part of the zVa funeral feast (Koita)
-
-Rohi baugi^ see rohi keiaike
-
-Rohi ketaike, the head man of a division (Koita)
-
-Ropo^ a belt (Roro)
-
-Roro, younger brother, sister or cousin (Koita)
-
-Rove, (I) sacred, set apart (Roro); (2) a girl during the time of tattooing (Roro)
-
-Rumaru7na, shelters erected at either end of the lakatoi (Motu)
-
-Rurepo, a dance held at a cannibal feast (Wagawaga)
-
-Sagali, a funeral feast (Trobriands)
-
-Sa7nakupa, a necklace of sapisapi discs (Tubetube)
-
-Sapisapi, shell discs (Tubetube)
-
-Sede, a percussion instrument made of bamboo (Motu)
-
-Sese, a bamboo decked with ornaments used in healing the sick (Koita)
-
-Siba, a brother-in-law, a sister-in-law (Koita)
-
-Sihi, a perineal band (Motu and Koita)
-
-SiTiabubu, a basket work cap worn as mourning by a widow (Tubetube)
-
-Sinapopo, a basket (Tubetube)
-
-Sipupu, a series offcasts given after the birth of the firstborn (Wagawa<,'a)
-
-Soi, the last of a series of funeral feasts (Wagawaga and Tubetube)
-
-Sua, soul, life, spirit of the dead (Koita)
-
-Sulii, a clan (Tubetube)
-
-Tabu, (i) a very important feast (Motu and Koita) ; (2) a species of mythical brings
-
-(Koita)
-Tabu biagu, the master of the tabu feast (Motu and Koita)
-Tahaka, the bowl figure of the magi7iogo dance (Koita)
-Tahutahu, the borrowing of pigs for the tabu feast (Motu and Koita)
-Taitu, a kind of yam (Koita)
-TaTiiwaga, an influential man, a 'possessor' of something, an expert in a particular
-branch of knowledge. This word is probably used in all these senses at
-
-Wagawaga and Tubetube though its usual meaning is 'owner' or 'possessor'
-Tarua, a particular friend of a member of the hiri (Motu)
-Taubada, see bada
-
-TauTia, a master, or possessor (Motu)
-
-Tautau, strings of the ground down shells oi Nassa callospira (Motu and Koita)
-Teri, heaps of bananas prepared for the koriko feast (Koita)
-Tobi, an erection of the broken fragments of a dead man's possessions (Koita)
-Tobwagau, a sorcerer (Trobriands)
-
-Toia, armshells made from Co7ius 7nilleputictatus (Motu and Koita)
-Tokai, commoners (Trobriands)
-
-Tor a, (i) a special taboo sign (Koita); (2) a general word for garden taboos (Koita)
-Toreha, a feast given about a year after a death has occurred in a hamlet, provided
-no other death has intervened (Wagawaga)
-Torela, the last of a series of death feasts (Bartle Bay)
-Toriwaga, a village head man (Trobriands)
-Tsiratna, see isirava
-
-S. N. G. ^
-
-
-754 Glossary of Native Words
-
-Tsirava, the soul, life, spirits of the dead (Roro)
-Tttrua, a bag of sago weighing about 80 lbs. (Motu)
-
-Ualare, a totem, or clan-badge (Elema)
-
-Ubona, a star (Bartle Bay)
-
-Udiha, the attendant of each lakatoi captain (Motu)
-
-Ufu^ a clubhouse (Mekeo)
-
-Ufuapie, a special relationship existing between certain clans (Mekeo)
-
-Urita, mythical beings supposed to live in wells and springs (Koita)
-
-Vada, sorcerers, malicious spirits (Motu and Koita)
-
-Vadavada^ see vada
-
-Vaina, a netted bag (Motu)
-
-Vanagai, an outrigger canoe (Motu)
-
-Varavara, relations by blood or iduhu (Motu)
-
-Variva, the shadow or reflection of a human being (Koita)
-
-Vasi/a, specially good friends (Koita)
-
-Vaura, a dance, also a song (Motu and Koita)
-
-Vaurabada, a dance, also a song (Motu and Koita)
-
-Venedairi, a mourning feast (Koita)
-
-Viagajravu, a custom preliminary to marriage (Bartle Bay)
-
-Vivireina^ sacred, set apart (Bartle Bay)
-
-Wabukwadaia, that part of the ita ceremony at which a widow is relieved of her
-mourning ^^Motu)
-Waga, a large built-up canoe (Tubetube)
-Wahia^ grandparents and elders (Koita)
-Waho, a girl after she has been tattooed (Roro)
-IVaia, a dancing song (Tubetube)
-
-Waiapa, a ceremony performed during the toreha feast (Wagawaga)
-Walaga^ an important feast (Bartle Bay)
-Wanepa^ a nose ornament (Tubetube)
-Wapa, (i) the long hair at the back of the head (Wagawaga); (2) the name of a
-ceremony connected with the hair of the dead (Wagawaga)
-IVarihi, brothers or cousins (Wagawaga)
-Watara, a ceremonial platform (Wagawaga and Tubetube)
-Wawaho, a girl before she is old enough to be tattooed (Roro)
-Weroro, a widow's petticoat (Wagawaga)
-
-Yaiya, father's sister, maternal uncle's wife (Koita)
-Yarasi, the netted cap and vest worn by a widow (Koita)
-Yariiyartia, the soul, life, spirit of the dead (Tubetube)
-Yawasi, the breath of living beings (Tubetube)

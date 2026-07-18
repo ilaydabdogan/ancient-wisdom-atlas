@@ -1,13 +1,11 @@
 # An Unknown People in an Unknown Land: An Account of the Life and Customs of the Lengua Indians of the Paraguayan Chaco
-
 PREFACE
 
 
 It is prophesied that during the next decade the attention ot
 the world will be turned to South America as markedly as it
 has been directed to the Far East in this. There are undoubtedly substantial grounds for such a forecast. The natural
-wealth of the Continent is unquestioned, and rapid developments have taken place of recent years. But with few excep-
-tions— in particular, that of the linking of the east and west
+wealth of the Continent is unquestioned, and rapid developments have taken place of recent years. But with few exceptions— in particular, that of the linking of the east and west
 coasts by the completion of the Trans-Andine Railway— these
 developments are confined to the coast-line of the Continent.
 Though some of its mighty rivers are navigable for thousands
@@ -1440,8 +1438,7 @@ this I agreed, but took the precaution of remaining at their
 village until they got together the necessary amount of skins
 and feathers.
 
-During this period of waiting relations between us were somewhat strained. They wanted me to promise that I would con-
-fine myself to their village, and become a member of their
+During this period of waiting relations between us were somewhat strained. They wanted me to promise that I would confine myself to their village, and become a member of their
 particular clan. This I refused to do, telling them that I
 intended eventually to make my headquarters in the interior of
 their country, and that I would not rest till all the Indians were
@@ -1710,8 +1707,7 @@ and his feet would become sore. “ Oh ! what a mistake I
 have made !” I replied. “ I thought I was speaking to one of
 the men, but I see it is one of the girls. Go away and weave
 blankets, my girl,” I said. “ Of course, no one could expect you
-to go all the way to the river and carry heavy burdens.” Looking very angry, he went off sulking. His Chief, who was stand-
-ing near, said to me : “ Why don’t you beat him ?” I told him
+to go all the way to the river and carry heavy burdens.” Looking very angry, he went off sulking. His Chief, who was standing near, said to me : “ Why don’t you beat him ?” I told him
 that unless his people would obey me willingly, I would go elsewhere, as it was not my object to use force among them. “ I
 will speak to him,” he said, and, calling him up, he told him
 before all the people that if ever he spoke to me again as he had
@@ -1794,8 +1790,7 @@ operation of pulling out all hair on his body, the top of the head excepted.
 instead of being apologetic, I assumed rather a tone of authority,
 and that I had some strange customs which they could not
 understand, believed that I was a powerful witch-doctor ; but
-whether my presence would prove a benefit to them or otherwise they were rather doubtful. This latter opinion is unfor-
-tunately still held by the more remote tribes, and in the early
+whether my presence would prove a benefit to them or otherwise they were rather doubtful. This latter opinion is unfortunately still held by the more remote tribes, and in the early
 years it placed me in many difficulties and no little danger.
 
 The most marvellous powers have been attributed to me. I
@@ -2441,8 +2436,7 @@ so perpetually hungry that you dare not leave your saddle gear,
 boots, or belt within their reach. The only notice taken of
 them by their masters is a blow, a kick, or a piece of fire-brand
 hurled at them. The Indian, however, will never kill his dogs,
-out of respect for their spirits. The Chaco dog is of no particular breed ; you find them of all sizes, coloui's, and descrip-
-tions, but all are thin, and more than half-starved, savage, and
+out of respect for their spirits. The Chaco dog is of no particular breed ; you find them of all sizes, coloui's, and descriptions, but all are thin, and more than half-starved, savage, and
 very treachei’ous.
 
 Having found, then, that the dogs prove unreliable sentinels,
@@ -2826,8 +2820,7 @@ be seen seated cross-legged on the ground, spending hours at a
 time in this tedious performance.
 
 A necklace is frequently worn, consisting of about six yards
-of these buttons strung closely together, and certainly containing some hundreds of them — a proof of the patience and per-
-severance of the maker. These strings of buttons are the money
+of these buttons strung closely together, and certainly containing some hundreds of them — a proof of the patience and perseverance of the maker. These strings of buttons are the money
 of the people. A necklace such as the above would represent
 the value of one sheep.
 
@@ -6049,8 +6042,7 @@ failed ignominiouslv or proved very erroneous. Their reputation
 accordingly began to wane.
 
 These sorcerers are held to have the power of raising storms.
-One man was reported to have been the author of very disastrous rains, and some Indians were recounting to me his wonder-
-ful powers. I asked them if they thought that it was really
+One man was reported to have been the author of very disastrous rains, and some Indians were recounting to me his wonderful powers. I asked them if they thought that it was really
 he who brought about the torrential rains, and they unhesitatingly answered in the affirmative. I then remarked that
 it was strange that this very witch-doctor had suffered serious
 inconvenience in his own hut from this rain, and that furthermore his garden was practically ruined. “ Now,” I said, “ when
@@ -6250,8 +6242,7 @@ I simply showed the bones to the onlookers, and this, with a
 look, conveyed all that was required ; but that witch-doctor
 hated me for several years afterwards.
 
-We find many specialists in the profession. One witchdoctor of my acquaintance practised as his speciality the extrac-
-tion of small needles from afflicted Indians. This, of course,
+We find many specialists in the profession. One witchdoctor of my acquaintance practised as his speciality the extraction of small needles from afflicted Indians. This, of course,
 was the result of contact with foreigners, and shows that Indian
 witchcraft is not too rigidly conservative, but advances with the
 times. This adaptability, however, to changed circumstances
@@ -6594,8 +6585,7 @@ is no possible hope of his living through the night, his funeral
 begins, in order that it may be completed before darkness
 sets in.
 
-The rites to be performed alter according to the circumstances of death, but there is never any variation in the purifi-
-cation ceremony, the words at the graveside, the plants laid
+The rites to be performed alter according to the circumstances of death, but there is never any variation in the purification ceremony, the words at the graveside, the plants laid
 thereon, and the position of the body in the grave. The burning of the village and the destruction of the property of the
 deceased are always customary.
 
@@ -7646,8 +7636,7 @@ I should have lost weight with them had I given way to this
 weakness.
 
 We even encouraged feasts for a time with a view of drawing
-the people together, and we ourselves contributed to the foodsupply. Even after we were in a position to begin mission-
-work amongst them we found it necessary to continue our
+the people together, and we ourselves contributed to the foodsupply. Even after we were in a position to begin missionwork amongst them we found it necessary to continue our
 sanction to this their chief form of amusement, for they would
 not have remained with us had we prohibited feasts altogether ;
 but we enforced certain restrictions. At an early stage we
@@ -8360,8 +8349,7 @@ naked and maniacal state.
 
 One curious story was told me — the truth of which, however,
 I cannot vouch for — of a woman who was supposed to have
-escaped from her grave, but was never seen again. Her footprints were observed erratically diverging from the path, some-
-times entering a wood and sometimes apparently running in
+escaped from her grave, but was never seen again. Her footprints were observed erratically diverging from the path, sometimes entering a wood and sometimes apparently running in
 the open country. It is just possible that this story may be
 true, for granted that the severer rites of burial had not been
 performed, and that the woman had sufficient strength, it would
@@ -8437,8 +8425,7 @@ They know, too, that their visitors have not told the truth in
 their humble statement that their part of the country is poor
 and unproductive; so they in turn are quick to assure them
 that their crops that year have proved a failure ; that game,
-owing to the evil action of the spirits, is practically nonexistent ; and that they themselves are on the verge of starva-
-tion. They constantly go out of their way to say how deeply
+owing to the evil action of the spirits, is practically nonexistent ; and that they themselves are on the verge of starvation. They constantly go out of their way to say how deeply
 they regret that they are in such miserable circumstances, and
 that they are therefore unable to offer more than a meagre
 entertainment to their much-loved and welcome guests. The
@@ -9608,8 +9595,7 @@ shifting the blame on him, shield themselves ; so they were
 very disappointed when they found that their scheme was
 detected and had failed. We gave the grandfather little peace for
 the next few months. Sometimes I would meet him, and would
-casually remark, “Saptaha narnuk ?” (What says the bottletrunk tree ?), or would pick up a club in his presence, and, look-
-ing at it intently for a minute or two, would drop it suddenly,
+casually remark, “Saptaha narnuk ?” (What says the bottletrunk tree ?), or would pick up a club in his presence, and, looking at it intently for a minute or two, would drop it suddenly,
 as in disgust. These little reminders had the desired effect,
 and he learned to know the haunting power of sin, and that the
 way of transgressors is far from pleasant.
@@ -9733,8 +9719,7 @@ forward with great pleasure to greet me, but on this occasion, as
 soon as they caught sight of me, they ran away in the direction
 of their village. I expressed my surprise to my two Indian
 companions, but one of them said, “ Be quite still and listen.”
-I obeyed, and presently heard unmistakable sounds of a commotion, and occasionally snatches of a drunken chant. My com-
-panions looked at me significantly, but said nothing. We
+I obeyed, and presently heard unmistakable sounds of a commotion, and occasionally snatches of a drunken chant. My companions looked at me significantly, but said nothing. We
 broke into a trot, and were soon at the village. The people,
 however, having been warned by the girls, had been given time
 to prepare for our arrival.
@@ -9972,8 +9957,7 @@ that feasts must not continue longer than three days. Thirdly,
 that no infanticide would be allowed. Fourthly, that the people
 must work when called upon. Fifthly, that they must be
 prepared to carry mails to the River Paraguay, and bring out
-goods when required. Sixthly, that they must keep the carttrack clear, and that the peace which had already been estab-
-lished between the three tribes must be maintained.
+goods when required. Sixthly, that they must keep the carttrack clear, and that the peace which had already been established between the three tribes must be maintained.
 
 When we first contemplated the foundation of a new station
 at Waikthlatingmangyalwa, and sub-stations in other parts, we
@@ -10613,8 +10597,7 @@ at full speed to the forest, and was not again seen for about a
 fortnight.
 
 The man bearing my message explained to the people the real
-state of affairs, and they in turn sent on a message to Waikthlatingmangyalwa, with the true account instead of Poit’s fabri-
-cated story.
+state of affairs, and they in turn sent on a message to Waikthlatingmangyalwa, with the true account instead of Poit’s fabricated story.
 
 After telling me all this news, Wischi-apkyitkya-aptawa
 drew six arrows from his belt, and flourishing them above his
@@ -11106,8 +11089,7 @@ any kind of vengeance, and refusal even to receive the compensation offered for 
 our disinterested and genuine friendship for them. Many of
 them, at least, expected that the Mission party would leave
 their country in disgust, and would never incur the risk of
-another venture ; but the fact that I returned so shortly afterwards to their country — albeit against the best advice — demon-
-strated to them that we were void of fear, were by no means
+another venture ; but the fact that I returned so shortly afterwards to their country — albeit against the best advice — demonstrated to them that we were void of fear, were by no means
 discouraged, and that we intended at all costs to prosecute our
 Mission. This conviction encouraged those who were inclined
 to adopt our teaching, and greatly disconcerted those who
@@ -11551,8 +11533,7 @@ take prudent steps to get the upper hand. On arriving at the
 village, many of the people — among them most of the ringleaders of the trouble — came out with apparent pleasure to
 welcome me, but I absolutely refused to take any notice of
 them. The Indian is very proud and sensitive, and they resented
-this act, as I intended they should. I then took the first opportunity of gathering all possible information from my com-
-panions. Once armed with this, I retired to my room with my
+this act, as I intended they should. I then took the first opportunity of gathering all possible information from my companions. Once armed with this, I retired to my room with my
 powerful ally, Philip. I instructed him to go up to the village
 to his own hut, but on no account to show an aggressive attitude— to mix freely with the people, learn all he could, and
 then to communicate with me privately. The result was highly
@@ -11997,8 +11978,7 @@ Only ten years ago it would have been impossible for anyone
 to establish an estancia (cattle-ranch) in the interior. The wire
 fences would have been cut and the cattle stolen and killed,
 and it is highly probable that those tending them would also
-have run great personal risk. Through the direct instrumentality of the Mission a large English Company, with its head-
-quarters in London, has now been established at a point more
+have run great personal risk. Through the direct instrumentality of the Mission a large English Company, with its headquarters in London, has now been established at a point more
 than ten leagues in the interior, where they possess two hundred
 and fifty thousand acres of land, and employ Indians, together
 with Paraguayans, as cowboys, and in fencing and transport
@@ -12322,8 +12302,7 @@ of Llanos de Manso. During the following century (the seventeenth) there is litt
 headquarters in Paraguay, sent numerous missionaries into the
 Chaco, whose efforts towards the permanent conversion of the
 Indians were quite fruitless, and many of whom lost their lives in
-the attempt. This and the eighteenth century were also characterized by several military attempts at Chaco exploration and subjuga-
-tion, mostly at the instance of successive Governors of Tucuman,
+the attempt. This and the eighteenth century were also characterized by several military attempts at Chaco exploration and subjugation, mostly at the instance of successive Governors of Tucuman,
 such as Angelo Peredo (1670), Urizar (1710), Espinosa (1759),
 Matorras (1774), and Arias (1780). These, however, I pass over
 without further comment, and I shall now restrict myself, from time
@@ -12569,8 +12548,7 @@ explorers of the salt-saturated region it inhabits, for the hollow
 axils of its leaves store up the dew and other moisture, and preserve
 it cold and clear, as if for the special benefit of the traveller.
 
-“ I have said that the vegetation of the Chaco is poor and monotonous on the whole, but I must qualify this statement by mention-
-ing that on the borders, where the climate is more equable and
+“ I have said that the vegetation of the Chaco is poor and monotonous on the whole, but I must qualify this statement by mentioning that on the borders, where the climate is more equable and
 the country better drained, we find a band of luxuriant vegetation.
 Towards the western border this takes the form of a continuous
 strip of absolutely impenetrable forest ; on the eastern, of rich
@@ -12691,8 +12669,7 @@ to the lung-fishes, of which one survives in Queensland, one in
 Africa, and the third in South America. The South American
 lung -fish, Lepidosiren, besides its interest from its position in the
 animal kingdom, forming, as it does, a sort of connecting link
-between fishes and terrestrial vertebrates, happens to afford probably the most favourable material of all vertebrates for deter-
-mining certain problems of the microscopical structure of living
+between fishes and terrestrial vertebrates, happens to afford probably the most favourable material of all vertebrates for determining certain problems of the microscopical structure of living
 animals. . . .
 
 “ It must not be supposed, however, that the presence of these

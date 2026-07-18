@@ -1,304 +1,4 @@
 # Shans at Home, With Two Chapters on Shan History and Literature
-
-CONTENTS
-
-PAGE
-
-INTRODUCTION xiii
-
-CHAP.
-
-I. THE NORTHERN SHANS I
-
-II. THE BABY . . . . . . -31
-
-in. A CHILD'S LIFE 42
-
-IV. BOYS AND GIRLS ...... 49
-
-V. YOUNG MEN AND MAIDENS .... 66
-
-VI. MARRIAGE ' 75
-
-VII. OLD AGE AND FUNERAL CEREMONIES . . 86
-
-VIII. THE HOME 98
-
-IX. CHARACTERISTICS AND CUSTOMS . . .114
-
-X. VILLAGE LIFE ' 130
-
-XI. AGRICULTURE 148
-
-XII. COUNTRY AND JUNGLE 159
-
-XIII. INDUSTRIES ....... l6/
-
-XIV. MEDICINE AND CHARMS . . . . .178
-XV. GOVERNMENT 1 86
-
-XVI. SHAN COSMOGONY AND THE CREATION . .196
-
-XVII. LANGUAGE AND LITERATURE . . . 2O8
-
-XVIII. FOLK-LORE .221
-
-vii
-
-
-NOTE
-
-The cover design is from the
-border of a Shan turban.
-
-
-LIST OF ILLUSTRATIONS
-
-THE WIFE OF A SHAN CHIEF .... Frontispiece
-
-FACING PAGE
-MY HOUSE XVi
-
-MAP 4
-
-THE VALLEY OF THE SHWE-LI RIVER NEAR NAMKHAM . 1 6
-
-LITTLE NURSES 36
-
-GIRLS AGED EIGHT AND THREE ...... 36
-
-LITTLE GIRLS 38
-
-GIRL FIVE YEARS OLD ........ 40
-
-LITTLE GIRL 42
-
-BOYS AND BUFFALOES 44
-
-BUFFALO BELL . . . . . . . . . p. 46
-
-COW BELL p. 46
-
-AFTER A BATHE .46
-
-BOYS WITH RAIN-CAPES ....... 46
-
-BUDDHIST MONK ......... 50
-
-COUNTING ONE AND THREE . . . . . $2
-
-CLIMBING . . . . . . . . . .52
-
-BOY BECKONING . . . . . . . -P- 53
-
-AT SCHOOL ... -54
-
-BOYS MAKING SAND PAGODAS 56
-
-A MONK FOLLOWED BY SCHOOLBOYS 56
-
-THE HINDU DEVOTEE IN THE NAMKHAM MONASTERY GARDEN 58
-
-BOY FRIENDS ......... 60
-
-ix
-x LIST OF ILLUSTRATIONS
-
-FACING PAGE
-
-BOYS BESIDE PAGODA 60
-
-BOYS AT PLAY p. 6l
-
-LITTLE GIRL ... 62
-
-LITTLE BOY WITH LARGE BAMBOO HAT .... 62
-
-CHILDREN BATHING 64
-
-A favourite attitude.
-
-DRAWING OF A BUFFALO BY A SHAN SCHOOLBOY . . . p. 65
-
-YOUNG GIRLS FROM TEN TO TWELVE YEARS OF AGE . . 66
-
-WOMAN IN WORKING DRESS ...... 68
-
-A BOY ........... /O
-
-YOUNG MAN WITH GOURD FLUTE ..... /O
-
-GIRL SPINNING ......... /2
-
-WATER-POTS 74
-
-SAND FILTERS 74
-
-SHAN MEN 76
-
-YOUNG MARRIED WOMEN ....... 78
-
-A BAND, WITH DRUM, GONGS, AND CYMBALS 80
-
-MARRIED WOMAN ........ 84
-
-SILVER CLASP p. 8$
-
-OLD WOMEN 86
-
-AN OLD COUPLE . . 88
-
-A FUNERAL ......... 94
-
-SHAN HOUSES . . . . . . . . IOO
-
-THE BUILDING OF A HOUSE ..... IO2
-
-(1) The framework with split bamboo for flooring.
-
-(2) How a door is hung.
-
-(3) Thatching.
-
-HUSBAND (AGED 18) AND WIFE (AGED 15) AT HOME. CHEST
-
-FOR SACRED BOOKS IN THE BACKGROUND . . . IO4
-
-A VILLAGE HOUSE ........ IO6
-
-THE SVASTIKA ........ p. IO6
-
-PHOTOGRAVURE OF SHAN BABY . . . I IO
-
-
-LIST OF ILLUSTRATIONS xi
-
-FACING PAGE
-VILLAGE HOUSES . . . * . . • .112
-
-SHAN MAN . . . . . . . . . .114
-
-SHAN WOMAN, UGLY TYPE . 1 14
-
-A SHAN LOOM . . . . . . . . . I2O
-
-EMBROIDERED BANNER . . . . . . . 122
-
-MEMORIAL BANNERS . . . . . . . .124
-
-BUDDHIST TEMPLE 126
-
-GOING TO MARKET . . . . . . . .ISO
-
-NATIVE REST-HOUSES . . . . . . . 1 3O
-
-GIRL CARRYING BASKETS FOR RELIGIOUS OFFERINGS . .132
-
-UNMARRIED KACHIN WOMEN . . . . . .134
-
-THE HEADMAN OF A VILLAGE . . . . . .136
-
-A PALAUNG MAN WITH HIS HAT . , . . . .136
-
-MARKET DAY . . . . . . . . .138
-
-A BRIDGE .......... I4O
-
-WELLS 146
-
-A SHAN VALLEY WITH RICE FIELDS 148
-
-PLOUGHING RICE FIELDS . . . . . . 1 5O
-
-PADDY PLANTING . . . . . . . .152
-
-PINEAPPLES FOR SALE . . . . . . .154
-
-OXEN CARRYING GREAT BELLS 154
-
-BOYS ON BUFFALOES . . . . . . . .156
-
-THE COMING RAINS ........ IOO
-
-IN THE JUNGLE . . . . . . . . . 1 62
-
-TREADLES . . . . . . . . . p. 1 68
-
-PREPARING THREAD FOR WEAVING ..... l68
-
-A COTTON GIN ..... I 68
-
-DESIGNS ON THE BORDERS OF TURBANS . . . p. 169
-
-DESIGNS ON THE CLOTH USED AS WRAPPERS FOR SACRED
-
-WRITINGS p. l69
-
-
-xii LIST OF ILLUSTRATIONS
-
-FACING PAGE
-CHINESE SHAN WOVEN DESIGN p. I/O
-
-DESIGN FROM COVERLET FOR BED . . . . p. 171
-
-DESIGN FROM BED COVER . . . . . . p. 1/2
-
-A WOMAN MAKING POTS . . . . . . .1/4
-
-PAPER DRYING IN THE SUN . . . . . .1/6
-
-A PIECE OF SHAN PAPER 1/6
-
-DESIGN OF PART OF BED COVER . . . . p. 1/7
-
-YOUNG MAN WITH SWORD 1/8
-
-A "WISE MAN " . . . . . . . . . I/S
-
-A SUBORDINATE CHIEF, HIS INFANT SON, AND NIECE . 1 86
-
-KACHIN MARRIED WOMAN 1 88
-
-A CHIEF'S HOUSE 190
-
-KACHIN BAG 192
-
-MOUNT MERU RESTING ON THE GREAT FISH, THE SUN (A
-
-PEACOCK) AND THE MOON (A HARE) CIRCLING ROUND p. 205
-
-From a Shan painting.
-
-MONASTERY AND PAGODA . 2IO
-
-A WRITER OF LOVE SONGS . . . . . .212
-
-A MONASTERY . . . . . . . . .214
-
-SPECIMEN OF SHAN WRITING ..... p. 22O
-
-CHILDREN PLAYING AT " MAK-NIM " . . . . . 232
-
-TETHERED BUFFALOES 242
-
-NATIVE REST HOUSES ....... 242
-
-DESIGNS ON BED QT7IL7S 250
-
-I and 2 in black, white, and ted.
-
-3 and 5 in black and white.
-
-4 in various colours.
-
-GIRLS AGED EIGHT TO TEN YEARS 256
-
-HOUSE SHOWING ENTRANCE LADDER 268
-
-THE LOTUS . . . . 278
-
-
 INTRODUCTION
 
 THIS book does not profess to give a full and scientific
@@ -835,8 +535,6 @@ to beat ; lai, to confer ; lam, to covet. Of these udu
 (or wutu) is an old Shan word for tiger ; tarn, to beat,
 
 
-THE GREAT PANG STATE 3
-
 is still in common use ; lai is a common Shan word,
 though it now could scarcely mean to confer ; lam
 means to envy rather than to covet. In another connection a few other T'su words are given, as kon ngau,
@@ -914,8 +612,6 @@ Kingdom — not the present small Hsen-wi State—
 
 1 The Languages of China before the Chinese.
 
-
-KINGDOM OF T'SU 5
 
 recognised this fact It is not by accident that what
 English writers call the Mao Kingdom of the
@@ -999,8 +695,6 @@ narrative.
 In the year 47 A.D. the Ngai-Lao king, called by the
 
 
-NGAI-LAOS 7
-
 Chinese Hien-Lih, sent troops on rafts down the
 Yang-tze to attack the Luh-to barbarians. The
 troops were defeated. In A.D. 54 Hien-Lih, with
@@ -1010,8 +704,7 @@ was between the Ya-lung and the Yang-tze rivers.
 In A.D. 69 Liu-Man, a king of the Ngai-Lao, with
 communities comprising half a million of people,
 became tributary to the Chinese. They appear to
-have occupied territory in the south and west of Ssuch'uan, on the left of the upper reaches of the Yang-
-tze. The Tai — or Shans — farther to the south, in
+have occupied territory in the south and west of Ssuch'uan, on the left of the upper reaches of the Yangtze. The Tai — or Shans — farther to the south, in
 the present province of Yun-nan, could scarcely have
 been included in this submission to Chinese suzerainty. These Ngai-Lao peoples were represented as
 possessing a considerable degree of culture, dyeing
@@ -1074,8 +767,6 @@ largely from the time when the Chinese came into
 1 Descriptive Ethnology of Bengal, 1872.
 
 
-KING KOH-LO-FENG 9
-
 close political relations with them, from about the
 beginning of the eighth century A.D. From this time
 the relationship — whether friendly or hostile — did not
@@ -1125,8 +816,7 @@ of Ta-ho. At this time, Mr. Parker tells us, An-luhshan, a Turk in the employ of
 set himself up as Emperor of Yen, and Koh-lo-feng
 took advantage of the disturbance to annex another
 strip of Chinese territory, along the border of Tibet.
-In A.D. 779, thirty-one years after this king had ascended the throne, he associated with him as Ken-
-mong (heir-apparent) his grandson, called by the
+In A.D. 779, thirty-one years after this king had ascended the throne, he associated with him as Kenmong (heir-apparent) his grandson, called by the
 Chinese I-mou-sun. The name looks like the Shan
 for " stupid pig," but the young man is credited with
 much shrewdness and tact. It is also said that he had
@@ -1242,8 +932,6 @@ war was continued two years longer before there were
 decisive results. The Chinese troops and their allies,
 
 
-RELATIONS WITH CHINA 13
-
 the Uigur Turks, in the north-west, did some serious
 work, and won several notable victories, but full credit
 was given to the Ngai-Lao troops of Nan-chao. They
@@ -1325,8 +1013,6 @@ peace with their enemies the Tibetans, to the disadvantage of the people of Nan-
 now little hope of success in the north, their forces
 1 Of Ssu-ch'uan.
 
-
-THE MAO KINGDOM 15
 
 turned towards the south, and ravaged Hanoi and
 Annam. When the Treasury of the Imperial Government was empty, the Chinese deemed it wise to make
@@ -1410,8 +1096,6 @@ has its modern representative in Mong-// ; Mou, in Mong-mao ; and
 Tsiu seems to appear in Hso, the Tiger race of Hsen-wi.
 
 
-MAO LEGEND 17
-
 have begun before the middle of the seventh century
 A.D., or a century later if we follow the Hsen-wi
 Chronicle. The former authority is more reliable.
@@ -1475,8 +1159,7 @@ a Chinese mis-spelling of Hkun-lu-fong. That the
 prince Hkun-lu, of the Mao, was named after Hkun-lu,
 the glorious, of Nan-chao, we feel sure is no accident.
 Hkun-lu is said to have reigned for the remarkable
-length of eighty years. His son Hkun-lai, who presumably succeeded at middle life, reigned for thirty-
-six years, to A.D. 951. About these two princes rose
+length of eighty years. His son Hkun-lai, who presumably succeeded at middle life, reigned for thirtysix years, to A.D. 951. About these two princes rose
 a legend, quoted by Ney Elias, in which they are
 brothers, mythical heroes that descended from heaven
 on a golden ladder. As the word hpa (fa) is still used
@@ -1492,8 +1175,6 @@ to account for the expansion of the Mao-Shan power
 to the north. It is more in harmony with what we
 know of events, to assume that the Hkamti regions
 
-
-SHAN STATES 19
 
 were first settled by Ngai-Lao Shans from Yun-nan.1
 Another legend is this : A blind Chinese princess was
@@ -1580,8 +1261,6 @@ of Upper Burma and the Shan States.
 8 Spirit.
 
 
-HSO-HKAN-HPA 21
-
 years earlier according to the Hsen-wi Chronicle — there
 came to the throne the greatest of Mao-Shan Chiefs,
 Hso-hkan-hpa. He first gathered an army, then
@@ -1661,8 +1340,6 @@ tribute from Assam did not long satisfy the Mao
 in the jungles near the Chinese Shan town of Mong-Mao, at the
 beginning of the dry season. — M. L. M.)
 
-
-CAPTURE OF NEW PAGAN 23
 
 King, so, about A.D. 1229, he made a certain Shan,
 named Chao-ka-hpa, the ruling prince over the conquered territory. (In later times Assam became
@@ -1748,8 +1425,6 @@ made the capital. ... A few years afterwards the
 2 The Siamese race descends from the Lao branch of the Tai family.
 
 
-WARS WITH CHINA 25
-
 whole of the Burmese Empire was divided into States,
 and governed (for about thirty years) by princes of the
 Mao family."
@@ -1825,8 +1500,6 @@ hill people of Indo-China have no " priests." It is all
 but certain, as we shall see, that these " priests " were
 1 Mong-Mao,
 
-
-BUDDHISM 27
 
 Buddhist monks, and that the aim was to reform,
 rather than implant Buddhism among the Mao Shans,
@@ -1907,8 +1580,6 @@ two years.
 When the Shan States were annexed by the British
 Government, after the fall of Mandalay, they were in
 
-
-DISTURBED CONDITION OF COUNTRY 29
 
 a condition of social and political confusion, little short
 of utter chaos. Burman interference, exactions, oppressions, and general misrule for three centuries had
@@ -2015,8 +1686,6 @@ have been sadly lacking in merit in previous lives.
 Therefore a baby is always welcome in a Shan home,
 
 
-32 THE BABY
-
 not only because it is a baby — Shans are all baby
 lovers — but also because it brings a cachet of respectability, a proof of the excellence of the past
 lives of the parents.
@@ -2059,8 +1728,6 @@ another wise woman, gives him his first bath, pouring
 clean warm water over him as he lies on her knee —
 
 
-MOTHER AND CHILD 33
-
 or on a mat— and she rubs him gently with her
 hand. Then he is dried, his little stomach is bound
 round with a strip of cloth, and a silk scarf is twisted,
@@ -2102,8 +1769,6 @@ do any housework for thirty days, so has a quiet
 time to rest and grow strong. She does not even
 cook her own food ; her husband would not eat
 
-
-34 THE BABY
 
 what she prepared, as she is unclean,1 so a sister, or
 mother, or friend stays in the house and cooks the
@@ -2149,8 +1814,6 @@ in a neighbouring building. — W. W. C.
 2 The following also applies to girl babies.
 
 
-NAMING THE BABY 35
-
 in the water, she washes her long hair most carefully ;
 she also washes her baby, and then pours water over
 the hair of her husband and the woman. Now she is
@@ -2192,8 +1855,6 @@ round the child's wrist, and tells him the name that
 
 * One rupee = one shilling and fourpence.
 
-
-36 THE BABY
 
 has been chosen for him. The thread is not tied, and
 it very soon falls off. Shans can give no reason for
@@ -2246,14 +1907,11 @@ GIRLS AGED EIGHT AND THREE.
 P. 36]
 
 
-THE BABY'S NAME 37
-
 complexion the colour of cream. His skin tans
 very easily, but at first he is almost as light in colour
 as an English baby, though he has no roses on his
 cheeks. He has dark-brown eyes, so dark that it is
-not easy to distinguish the iris from the pupil. Lightbrown eyes or blue are rarely seen, and are con-
-sidered extremely ugly. His hair is black, but, with
+not easy to distinguish the iris from the pupil. Lightbrown eyes or blue are rarely seen, and are considered extremely ugly. His hair is black, but, with
 the exception of a tuft on the crown, the head is
 shaved. The first hair which is cut off is very carefully
 kept. It is put into a little bag and hung round his
@@ -2288,8 +1946,6 @@ hides him under a bush. She leaves him there, and
 tells a friend, who has followed her, where he is.
 She goes home and weeps and wails, and announces
 
-
-38 THE BABY
 
 to all her friends that she is a miserable woman, who
 has lost her baby. The father scolds her, and tells
@@ -2333,8 +1989,6 @@ sacred books are recited ; and now, as the baby is
 dead and buried, the evil spirit will surely depart.
 
 
-BIRTHDAY SUPERSTITIONS 39
-
 After a little while the baby is taken home, is again
 called by a new name, and has another chance to
 escape from the troublesome evil spirits.
@@ -2377,8 +2031,6 @@ children little or no pain.
 
 As soon as the baby can walk he begins to help in
 
-
-40 THE BABY
 
 the work of the house. He picks up and carries home
 little twigs of wood for the fire, and, when his mother
@@ -2427,8 +2079,6 @@ GIRL FIVE YEARS OLD.
 
 P. 40]
 
-
-GAMES 41
 
 tooth must be hidden among the ashes of the
 hearth, while the same appeal to the little mice
@@ -2487,8 +2137,6 @@ LITTLE GIRL.
 p. 42]
 
 
-CHILDREN AT WORK 43
-
 cold water and a lacquer drinking-cup, always remembering that they must on no account touch their
 father's water-bottle, as it belongs only to him.
 Whether he is present or absent it is daily filled
@@ -2526,8 +2174,6 @@ manage the ponderous beast. Very soon a child
 gains courage to ride alone, though for some time he
 requires help in mounting his great steed, whose
 
-
-44 A CHILD'S LIFE
 
 slippery sides are steep for short, fat legs to climb,
 and when the boy is very small a big brother or
@@ -2571,8 +2217,6 @@ A small boy generally eats the first meal of the
 day about eight o'clock. His breakfast consists of
 1 See illustration at p. 156.
 
-
-CHILDREN'S FOOD 45
 
 plenty of rice and a little curry made of vegetables,
 with perhaps a very little meat. Before he starts for
@@ -2674,8 +2318,6 @@ BOYS WITH RAIN-CAPES.
 p. 46]
 
 
-JUNGLE FRUITS 47
-
 to aim wonderfully well. They often hit small birds,
 but are sorry and ashamed if they are so unlucky as
 to kill them, believing that to kill any creature is a
@@ -2718,8 +2360,6 @@ very soon learn to follow the spoor of any animal,
 even on hard and stony ground. They help each
 other to track any missing beast, and the finder calls
 
-
-48 A CHILD'S LIFE
 
 to the others to stop the search. There are marvellous tales of messages that have passed with
 incredible swiftness from one district to another. The
@@ -2844,8 +2484,6 @@ BUDDHIST MONK.
 P- 50]
 
 
-LESSONS AT THE MONASTERY 51
-
 man's boy would be sent to a less strict monastery,
 probably to the Poikyaung, if there were any of
 these monks in the district.
@@ -2886,8 +2524,6 @@ best to explain and translate the ancient writings to
 their pupils. The boys have often great reverence
 and love for their teachers, and when they grow to
 
-
-52 BOYS AND GIRLS
 
 manhood they return to the monks for advice, and
 the advice given is generally wise and kind. A good
@@ -2985,8 +2621,6 @@ They make a little notch at one side to represent each
 two-anna piece, longer notches at the other side are
 
 
-54 BOYS AND GIRLS
-
 cut for each four-anna piece, longer cuts at one end
 for the eight-anna piece, and still longer scores at the
 other end for the rupees.
@@ -3024,8 +2658,6 @@ at a forbidden hour, so he accepts the rule quite
 
 1 They are sometimes older, if required to help in work at home,
 
-
-PIGS IN MONASTERIES 55
 
 cheerfully, and probably quenches his hunger with
 long drinks of water or tea.
@@ -3067,8 +2699,6 @@ these refugees, a village council is held, a resolution
 is made, and, at an early hour next day, there is a great
 pig-hunt The pigs must be caught, but they must on
 
-
-56 BOYS AND GIRLS
 
 no account be hurt,1 so many men and boys join in the
 chase, and there is tremendous shouting and squealing.
@@ -3122,8 +2752,6 @@ A MONK FOLLOWED BY SCHOOLBOYS.
 P. 56]
 
 
-MONASTIC HOSPITALITY 57
-
 gained some merit by trying to make holy things.
 Sometimes they carry sand and stones from the stream
 and build a larger pagoda, two or three feet high : many
@@ -3168,8 +2796,6 @@ beggar through the world. Europeans are apt to
 of the Shan States the food is carried to the monasteries by devout
 women.— W. W. C.
 
-
-58 BOYS AND GIRLS
 
 despise Hindu ascetics, and they blame them for deserting their families, but it must be remembered that
 in the East the wife and children of a " holy man " do
@@ -3218,8 +2844,6 @@ THE HINDU DEVOTEE IN THE NAMKHAM MONASTERY GARDEN.
 
 P. 58]
 
-
-NAMES OF CONSTELLATIONS 59
 
 Shans believe, as did the Egyptians of old, that at
 death the soul goes to that river, where a boat waits
@@ -3353,8 +2977,6 @@ garments, she joins her friends quite sure that their
 welcome will be as hearty as if her clothes had been
 
 
-62 BOYS AND GIRLS
-
 new and fine. There is no respect paid to money
 or dress by Shans, who live far from what we call
 " civilisation."
@@ -3396,8 +3018,6 @@ do her no harm, and were lucky for those who had
 written them, but I thought that they brought no
 good fortune to us. These words may be bought
 
-
-GAMES 63
 
 in any quantity through all the Shan States, where
 unfortunately such British " charms " are rare.
@@ -3442,8 +3062,6 @@ lang " (most fragrant), meaning, " you are very sweet, very dear to
 me."— W. W. C.
 
 
-64 BOYS AND GIRLS
-
 companions, who form a circle round them, holding
 hands.
 
@@ -3485,8 +3103,6 @@ for children. With the exception of wooden tops,
 and whistles made of clay in the shape of birds and
 beasts, which can be bought in the markets, Shan
 
-
-PRACTICAL JOKES 65
 
 children make their own toys of seeds or shells,
 sticks and stones, and with these they are perfectly
@@ -3562,8 +3178,6 @@ lose the fairness of skin that characterises young
 people.
 
 
-TATTOOING 67
-
 They say that the pain of the tattooing process is
 less trying than the intolerable itching that follows,
 which lasts for several days. When boys are to be
@@ -3605,8 +3219,6 @@ safety to those who wear them.
 
 No ceremony marks the passing of childhood into
 
-
-68 YOUNG MEN AND MAIDENS
 
 womanhood. Girls do not tattoo unless they are
 crossed in love, when a small charm may be tattooed
@@ -3657,8 +3269,6 @@ WOMAN IN WORKING DRESS.
 p. 68]
 
 
-EAR ORNAMENTS 69
-
 the greatest indifference. She is not ashamed of her
 purchase ; why, then, should she be ashamed of washing it in public ?
 
@@ -3700,8 +3310,6 @@ in the middle. It is most amusing to see two lads
 assisting each other to arrange their turbans. One
 holds the looking-glass— which is seldom more than
 
-
-70 YOUNG MEN AND MAIDENS
 
 three inches square — while the other twists and retwists
 the folds. Sometimes, after many attempts, the boy
@@ -3745,8 +3353,6 @@ again without any variation :
 
 ^-
 
-
-COURTSHIP, LOVE LETTERS 71
 
 If a young girl dies before marriage, having had no
 lover, the youths of the village in turn play sad little
@@ -3799,8 +3405,6 @@ Made, fair one, by thee of the finest of silk.
 
 1 Translated by Rev. W. W. Cochrane.
 
-
-72 YOUNG MEN AND MAIDENS
 
 Bend quickly towards me, the industrious peasant,
 
@@ -3859,8 +3463,6 @@ come in conjunction. It is peculiar that the above love-poem was
 written by a Buddhist monk.— W. W. COCHRANE,
 
 
-WATER POTS FOR THE USE OF TRAVELLERS 73
-
 the ground is white with hoar-frost in the early
 mornings, so the difference in temperature between
 the warm days and the cold nights is very great.
@@ -3901,8 +3503,6 @@ fresh water to fill them day by day, having been
 taught that a " cup of cold water " given to tired and
 thirsty wayfarers brings much reward in a future life,
 
-
-74 YOUNG MEN AND MAIDENS
 
 If there are no water-pots, girls passing the resting
 people sometimes pause to offer water from their full
@@ -3969,8 +3569,6 @@ bamboo house is delightfully pretty; it is green all
 over, inside and out. The upright posts are green,
 
 
-76 MARRIAGE
-
 and the mat walls are green also. The floor, also
 green, raised many feet above the ground and reached
 by a slender ladder of bamboos, is so high that no fierce
@@ -4010,8 +3608,6 @@ is expected to give her earnings to help in the
 home. Shans are very dutiful children, and treat an
 old father and mother with kindness and reverence.
 
-
-DIVORCE 77
 
 When there is no question of poverty, a girl may
 spend her earnings as she pleases. Any woman —
@@ -4054,8 +3650,6 @@ young they are always given to the mother. If the
 husband dies and the widow remains for some time
 in the house of her father-in-law, a small sum should
 
-
-78 MARRIAGE
 
 be paid to him should she marry again. It is quite
 correct and customary, but not obligatory, that a
@@ -4100,8 +3694,6 @@ thought unlucky to dream of a marriage, of copper
 
 YOUNG MARRIED WOMEN.
 
-
-DREAMS 79
 
 coins, of running water, of bathing, of a bite from a
 snake or dog, of the moon, of boiling rice, of a boat
@@ -4185,8 +3777,6 @@ of silver or, more rarely, of gold. The turban is black,
 with many rows of brightly coloured silks and gold
 
 
-THE WEDDING CEREMONY 81
-
 threads at each end, the svastika playing a conspicuous
 part in the patterns of the borders. Young women
 arrange the gay ends of their turbans to hang loose at
@@ -4228,8 +3818,6 @@ elders ask that she should be brought to her husband.
 The custom is that they should ask for her three times.
 
 
-82 MARRIAGE
-
 Twice the father refuses the request, saying that he
 has changed his mind and prefers to keep his daughter
 a little longer at home ; the third time he either goes
@@ -4243,8 +3831,7 @@ to shed many tears ; even if she is fond of her fiance
 and glad to marry him, she must pretend to be sorry.
 At last they persuade her to go to her father, who places
 her hand in the outstretched hand of the bridegroom,
-saying, " Here is your wife, you may take her " ; sometimes, however, no word is spoken, and the bride-
-groom receives his wife in silence.
+saying, " Here is your wife, you may take her " ; sometimes, however, no word is spoken, and the bridegroom receives his wife in silence.
 
 One of the elders now leaves the house, carrying
 small packets of tea, salt, and rice ; these he holds over
@@ -4269,8 +3856,6 @@ the wrist being a survival of the custom.
 The bridegroom now leads the bride to a low table
 of bamboo— not more than a foot high— and they sit
 
-
-THE WEDDING CEREMONY 83
 
 together near it, on a mat ; there they eat curry and
 rice in the presence of the wedding guests. The
@@ -4313,8 +3898,6 @@ her up the steps ; then, when she has joined him at the
 top, he takes her hand and leads her to his father and
 
 
-84 MARRIAGE
-
 mother, who are waiting in the doorway of the livingroom. The bride usually kneels before them, with her
 hands palm to palm, and, if she wishes to be very
 respectful, removes her turban, laying it at their feet.
@@ -4354,8 +3937,6 @@ looks on them as her own, and is very fond of them.
 
 Shan traders, who spend much time travelling between the Shan States and Yun-nan, generally have
 
-
-POLYGAMY 85
 
 two homes, one in British territory, the other in
 China, and they may have wives in both countries.
@@ -4426,8 +4007,6 @@ that they are still useful members of the family.
 They can watch the fire, and see that the sticks do
 
 
-TREATMENT OF OLD PEOPLE 87
-
 not roll off the box of sand on which the fire is made ;
 they can also watch the rice as it cooks, stirring it
 now and then, occasionally adding a little water so
@@ -4470,8 +4049,6 @@ the door of the house the children at once run to
 offer him food. I recollect a poor madman in a Shan
 
 
-88 OLD AGE AND FUNERAL CEREMONIES
-
 village who would wear no clothes except a long piece
 of cloth twisted round his body, one end trailing on
 the ground behind him as he walked. He lived in
@@ -4512,8 +4089,6 @@ again takes a human form.
 
 1 See footnote on p. 106,
 
-
-DEATH AS A TOPIC OF CONVERSATION 89
 
 There is often real sorrow when husbands and
 wives and brothers and sisters are separated by
@@ -4601,8 +4176,6 @@ the country inviting every one to attend the funeral.
 Outside the house where a dead person of importance
 
 
-WAILING FOR THE DEAD 91
-
 is lying men sit on the ground, beating drums, gongs,
 and cymbals, to scare the evil spirits which might
 attack the helpless disembodied ghost, and for the
@@ -4644,11 +4217,8 @@ of these gifts goes to the spirit of the dead person, so
 that he may enjoy more happiness in his next life.
 
 
-92 OLD AGE AND FUNERAL CEREMONIES
-
 The presents are a curious assortment: European
-biscuits and tins of milk, bottles of lemonade and ginger-beer—brought from Burma by Chinese traders-
-paper umbrellas and palm-leaf fans, brooms, waterbottles, mats rolled up and tied with red cord, pillows,
+biscuits and tins of milk, bottles of lemonade and ginger-beer—brought from Burma by Chinese traderspaper umbrellas and palm-leaf fans, brooms, waterbottles, mats rolled up and tied with red cord, pillows,
 bedquilts, betel-boxes of scarlet lacquer. All these
 articles, and many others, are brought to the room
 where the dead person lies. There are sometimes
@@ -4684,8 +4254,6 @@ another is given on the seventh day after the burial
 of the dead, and sometimes a feast is also held on
 the anniversary of the death.
 
-
-THE FUNERAL 93
 
 When the guests have all finished eating, the
 presents, which have been tied to long poles, are
@@ -4729,8 +4297,6 @@ If a young girl dies unmarried it is the custom
 to knock the bier — and if possible the coffin also—
 against a tree on the way to the burial-ground. By
 
-
-94 OLD AGE AND FUNERAL CEREMONIES
 
 doing this it is hoped that in her next life she will
 not have the misfortune to die unmarried. Among
@@ -4780,8 +4346,6 @@ A FUNERAL.
 P. 94]
 
 
-FUNERAL CEREMONIES 95
-
 women offer water in the name of the dead to any one
 who may be thirsty.
 
@@ -4820,8 +4384,6 @@ beside the burial-ground.
 
 1 The rope ceremony is often omitted.
 
-
-96 OLD AGE AND FUNERAL CEREMONIES
 
 On the seventh day after the funeral another feast
 is held, and it is generally believed that the spirit of
@@ -4865,8 +4427,6 @@ to destroy both body and dwelling-place.
 
 When any person has been killed by lightning the
 
-
-PECULIAR BURIAL CUSTOMS 97
 
 body is not placed in a coffin, but wrapped in a fine
 mat. The grave is dug in the form of a well, the
@@ -4931,8 +4491,6 @@ pine-apples, or fruit trees must be cultivated instead,
 
 1 Chief.
 
-
-CHOOSING A SITE 99
 
 Before a prospective householder applies for a site
 he must discover whether the land he fancies would
@@ -5014,8 +4572,6 @@ begun, the hole for the centre post is dug exactly
 where the grains of rice placed to choose the site
 were laid. The centre pole is placed in it, and
 
-
-BUILDING A HOUSE 101
 
 from it measurements are taken for the corner posts.
 The holes are at least a yard in depth ; the winds
@@ -5100,8 +4656,6 @@ building in the village, and is dignified by the name
 of " palace." When wood is required for the monastery or palace the village men and women go to
 
 
-BUILDING A HOUSE 103
-
 the jungle, and when the trees are cut down they tie
 strong ropes round the trunks ; then a row of people
 unite in pulling each fallen tree, which has been
@@ -5185,8 +4739,6 @@ walls, garments and quilts being thrown over them.
 Great hats, worn by all Shan men, women, and
 
 
-GONGS 105
-
 children, hang from wooden pegs on the walls, where
 the}7 look like shields. At one side of the room hangs
 a gong, large or small, according to the wealth of
@@ -5269,8 +4821,6 @@ expressly built for the use of pilgrims or travellers. No rent is asked
 for their use,
 
 
-THE GARDEN 107
-
 hearth in the living-room, is a great attraction. Beside
 it Shans receive their friends when the work of the
 day is done. Neighbours coming in are offered tea
@@ -5349,12 +4899,7 @@ names of rulers is a custom all over the East.
 Among Hebrews, one of the names of God was
 never uttered, as it was considered too sacred for
 human speech; and possibly the reason why so
-many of the spirits are nameless is the Shan dis-
-
-
-BELIEFS 109
-
-like to mention aloud the name of any powerful
+many of the spirits are nameless is the Shan dislike to mention aloud the name of any powerful
 being.
 
 If the weather is cold, a favourite topic of conversation is the price of German blankets — there are few,
@@ -5524,8 +5069,6 @@ more than the other ; these hang at either end of a
 L
 
 
-KINDNESS TO ANIMALS 113
-
 bamboo pole, which rests sometimes on one shoulder,
 sometimes on the other. The pole is never carried
 at right angles to the body; if one basket hangs in
@@ -5577,8 +5120,6 @@ black eyelashes.
 The nose is generally short and straight, often broad
 
 
-NATIVE TYPES 115
-
 at the nostrils, with a low bridge. The face is rather
 flat and the cheek-bones high.
 
@@ -5589,8 +5130,7 @@ more than five feet four inches. A Shan five feet ten
 inches in height was known in the district where he
 lived as the " tall one."1
 
-There are two distinct types of Shans — the prognathous type, with lips (often thick) and jaws pro-
-truding. Others are of a type which is more European,
+There are two distinct types of Shans — the prognathous type, with lips (often thick) and jaws protruding. Others are of a type which is more European,
 with finely cut nose and mouth. The latter is more
 admired by Shans than the former.
 
@@ -5670,8 +5210,6 @@ them ; often loops of rope take the place of stirrups,
 and are held between the great toe and the second.
 They use no whips, but pound the horses' sides with
 
-
-AN EASTERN CONSCIENCE 117
 
 their heels, when they wish them to go fast. The point
 of the stirrup when the heel is in it is used as a spur.
@@ -5758,8 +5296,6 @@ who prefer games of chance rather than skill. The
 1 Chief.
 
 
-GAMBLING 119
-
 favourite gambling games are played with cowrie shells;
 one is of the " odd-and-even " type. The cowries
 are shaken, like dice, in a box, and are then thrown
@@ -5839,8 +5375,6 @@ but I have always found that they enjoy doing anything that may be required for 
 (and sometimes women) from every house in the
 
 
-FESTIVALS 121
-
 village help in the work ; if they do it unwillingly
 they certainly show no signs of discontent.
 
@@ -5883,8 +5417,6 @@ and velvets are thronged by villagers, waiting to buy
 or barter their goods. Materials for the skirts and
 turbans of the women are woven at home, but jackets
 
-
-122 CHARACTERISTICS AND CUSTOMS
 
 are of imported stuffs. Women, besides fashioning
 pretty clothes, prepare great streamers, which, when
@@ -5932,8 +5464,6 @@ EMBROIDERED BANNER.
 
 p. 122]
 
-
-THE AUTUMN FESTIVAL 123
 
 say, is the reason why narrow strips of cloth may be
 seen, near Buddhist temples, in memory of the poor
@@ -6029,8 +5559,6 @@ MEMORIAL BANNERS.
 p. 124]
 
 
-DANCING AT FESTIVALS 125
-
 In the Shan States women never dance, and men
 only do so in connection with some religious ceremony.
 Each small village has at least one band, and men and
@@ -6073,8 +5601,6 @@ into the temple to pray before beginning to dance
 again.
 
 
-126 CHARACTERISTICS AND CUSTOMS
-
 In every open space during festivals there spring up
 numbers of booths, at which merchandise is sold.
 They consist of thatched roofs supported by poles,
@@ -6100,8 +5626,7 @@ heads, wearing toga-like garments, which are sometimes apricot in colour, but mo
 are Buddhist nuns. They lead pure and moral lives,
 and fast as do the monks, but they are nearly
 all quite illiterate. Their chief occupation is sweeping
-and dusting the temple and monastery. They sometimes adopt orphan girls, and dress them as minia-
-ture nuns. They take no vows, and may return to
+and dusting the temple and monastery. They sometimes adopt orphan girls, and dress them as miniature nuns. They take no vows, and may return to
 a secular life whenever they please, even marrying
 (when they have ceased to be nuns), should they wish
 to do so.
@@ -6121,8 +5646,6 @@ BUDDHIST TEMPLE.
 
 p. 126]
 
-
-BUDDHIST TEMPLES 127
 
 central figure is of white marble, wood, or brick
 covered with plaster. The smaller images are
@@ -6164,8 +5687,6 @@ monastery court ; they are not swung, but are struck
 with the antler of a deer at the end of all prayers or
 recitations.
 
-
-128 CHARACTERISTICS AND CUSTOMS
 
 A FEW SHAN WAYS OF PREPARING FOOD
 
@@ -6212,8 +5733,6 @@ as they are fermenting. They should next be well
 pounded with a wooden stick and mixed with finely
 ground chilies, onion tops, boiled coriander seeds, and
 
-
-COOKING RECIPES 129
 
 salt. Make the mixture into little cakes by pressing
 small quantities between leaves; roast the cakes
@@ -6293,8 +5812,6 @@ NATIVE REST-HOUSES.
 P- 130]
 
 
-MARKET DAY 131
-
 make a pilgrimage to a distant pagoda, do not seem to
 care for money at all ; its possession does not raise
 their social standing, or make them more respected
@@ -6338,8 +5855,6 @@ in silver spend each market day in trying to dispose of
 their wares. Very little money passes from hand to
 
 
-132 VILLAGE LIFE
-
 hand. If a woman has beans, or tomatoes, or maize
 grown in her garden that she does not require for
 the food of her family, she exchanges them for raw
@@ -6381,8 +5896,6 @@ in the hills. Nearly all Kachins can speak and understand a good deal of Shan ; 
 different tribes use Shan as a common language. A
 
 
-KACHINS 133
-
 hill woman may be distinguished at a distance from a
 lowlander, as she carries only one basket ; it rests on
 her back, suspended from a band which crosses the
@@ -6422,8 +5935,6 @@ women, but are hidden by the skirt. The bracelets
 of Kachin women are identical with those of the
 Shans, being made by silversmiths of the latter race.
 
-
-134 VILLAGE LIFE
 
 Until we took possession of the country there was
 continual petty warfare between the tribes of the hills
@@ -6471,8 +5982,6 @@ p- 134]
 UNMARRIED KACHIN WOMEN.
 
 
-PALAUNGS 135
-
 attend the markets, but also to pray in Shan monasteries.
 Their villages are half way up the hills between the
 Shans of the valleys and the Kachins of the hill-tops.
@@ -6514,8 +6023,6 @@ of a very long piece of thin black cloth, wound round
 and round the head in a tall cylindrical shape. 1 They
 1 See Frontispiece.
 
-
-136 VILLAGE LIFE
 
 also wear coloured gaiters. The young girls among
 them have panelled skirts of bright hues, but they lay
@@ -6562,8 +6069,6 @@ country on pack-bullocks or mules to the Shan bazaars.
 Among the merchants a few natives of India, or even
 
 
-GERMAN GOODS 137
-
 from Afghanistan, may be found, who have settled
 for purposes of trade in Shan villages.
 
@@ -6602,8 +6107,6 @@ and exported from Germany, fill the Shan markets and
 pass through the country in the packs of merchants
 on their way to Yun-nan. German goods are bought
 
-
-138 VILLAGE LIFE
 
 because they exactly supply the wants of the people.
 It has been said that British merchants make their
@@ -6644,8 +6147,6 @@ much longer than a German one," he answers, "Are
 you sure that it will last longer? Will your expensive knife be more free from rust than my cheap
 one ? This knife suits me well ; its price was so
 
-
-GERMAN GOODS 139
 
 small that if, during the rains, I forget to oil it and
 it rusts, I shall throw it away and buy another." I
@@ -6709,8 +6210,7 @@ her that she loves him better than any other man.
 There is always money enough, and food for the
 children that come to gladden their homes. Starving
 people do not exist, and there are few " unemployed,"
-because any man or woman may easily earn a livelihood by asking for jungle land, by clearing and cul-
-tivating, and by selling the produce that is grown
+because any man or woman may easily earn a livelihood by asking for jungle land, by clearing and cultivating, and by selling the produce that is grown
 upon it.
 
 In October, caravans of mules, laden with baskets
@@ -6729,8 +6229,6 @@ and hard), onions, and potatoes, the latter small and
 not very good. There are three kinds of maize ; the
 colours of the grains when ripe are orange, white, and
 
-
-FOOD 141
 
 black. The latter are most esteemed ; the cobs are
 brought to market already roasted or boiled.
@@ -6825,8 +6323,6 @@ with "kinky" tails can boast of an illustrious pedigree. The legend that is told
 "kink" is this:
 
 
-FOOD 143
-
 Once the Lord Gautama went for a drive in an oxcart, and with him went the ancestress of all the
 " kinky-tailed " cats. Gautama was still living as a
 prince, and had not become " The Buddha," the Enlightened One ; but the oxen knew that some one very
@@ -6868,8 +6364,6 @@ express that any object is very tiny.
 A large open space in the market is given up to
 the sellers of ponies and cattle. Shan ponies are
 
-
-144 VILLAGE LIFE
 
 small — from eleven to twelve hands in height ; they
 cost from thirty-five to one hundred rupees each.
@@ -6916,8 +6410,6 @@ hurry, there is no rude pushing and jostling against
 each other.
 
 
-LEGEND OF NOAH 145
-
 They are very honest ; tiny children may be seen
 alone, wandering through the crowd, sometimes wearing chains and coins of considerable value round
 their necks, and silver, or even gold bangles, and yet
@@ -6957,8 +6449,6 @@ lived in the world. There was no way of cleaning
 the boat, as the door was tight shut ; the one window
 
 
-146 VILLAGE LIFE
-
 was in the roof, so nothing could be thrown out of
 it! After a while the evil-smellingness grew worse,
 and Noah felt that he would like to drown himself!
@@ -6985,8 +6475,7 @@ writing." 1 A common oath is " May I become a
 beast in my next life."
 
 A Shan village on the Chinese borders has
-picturesque wells and bridges. Sometimes a wellhead is of stone, sometimes of dried bricks, orna-
-mented with stucco, and guarded by strange monsters
+picturesque wells and bridges. Sometimes a wellhead is of stone, sometimes of dried bricks, ornamented with stucco, and guarded by strange monsters
 carved in stone.
 
 There are several kinds of bridges. Sometimes two
@@ -7000,8 +6489,6 @@ thatched roofs supported on poles. There are also
 substantial stone bridges, guarded by animals, also
 1 Compare Numbers v. 12-31.
 
-
-WET WEATHER 147
 
 in stone, holding balls in their paws. Bridges and
 wells are distinctly Chinese in character ; if they are
@@ -7048,8 +6535,6 @@ of the extortion and injustice of the Che-fang govern-
 1 Unhusked rice.
 
 
-PADDY PLANTING 149
-
 ment. It is easy to find coolies who are ready and
 willing to carry loads from British territory to many
 parts of Yun-nan, but they often object to enter the
@@ -7094,8 +6579,6 @@ has been already well soaked, but the ploughing does
 not commence until the weather is steadily wet.
 
 
-1 5o AGRICULTURE
-
 Paddy plants are first grown in nurseries, where
 the ground has been carefully ploughed and harrowed.
 Several agriculturists join to prepare one nursery.
@@ -7137,8 +6620,6 @@ British Shans do not work in iron, but Yun-nanese
 Shans, who know how to do blacksmith work, come
 in the dry season into British territory, where they set
 
-
-PADDY PLANTING 151
 
 up rude anvils, making their furnaces out of doors, in
 the open spaces of villages. There they make the
@@ -7183,8 +6664,6 @@ and also large hats, which, when tied tightly under their
 chins, act as umbrellas, and protect their heads from the
 
 
-152 AGRICULTURE
-
 driving rain. It is hard and back-breaking work. It
 cannot be pleasant to stand in slippery mud which
 swarms with leeches, but the people laugh and sing as
@@ -7228,8 +6707,6 @@ rice to the spirits.
 There are two ways of separating the grain from the
 straw. When there is only a small quantity it is
 
-
-THRESHING THE PADDY 153
 
 beaten out by hand. The stalks are held firmly, the
 ears are repeatedly struck on a flat stone until the
@@ -7288,8 +6765,7 @@ Burma, and Ceylon are imported from England,
 Australia, and California. On the hills of Burma and
 the Shan States, raspberries — much larger than the
 wild raspberries of Great Britain— grow in great profusion, but there has been no attempt to cultivate
-them or use the fruit, although raspberry jam, imported from England, may be found on every break-
-fast-table in the houses of British residents in the
+them or use the fruit, although raspberry jam, imported from England, may be found on every breakfast-table in the houses of British residents in the
 East.
 
 The climate of the upland plateaux of the Shan
@@ -7321,8 +6797,6 @@ OXEN CARRYING GREAT BELLS.
 
 P- 154]
 
-
-PLANTING BANANAS 155
 
 auspicious day is chosen to separate the young plants
 from the parent stock. The ragged ends of the roots
@@ -7366,12 +6840,7 @@ with other food.
 Shans talk to their cattle and buffaloes when they
 are working, addressing them as good children when
 they work well, but when they are lazy telling them
-that their mothers, and grandmothers, and great-
-
-
-156 AGRICULTURE
-
-grandmothers have been altogether depraved and
+that their mothers, and grandmothers, and greatgrandmothers have been altogether depraved and
 worthless cows !
 
 Many accounts are given in India and , Ceylon of
@@ -7412,8 +6881,6 @@ fierce at the time when their young are born, and for
 some days guard them with care, making determined
 
 
-PIGS 157
-
 rushes at any strange person or animal approaching
 too near. After a week a sow pays no further attention to her young, except when they make too
 obstreperous attempts to gain their rightful nourishment. If a sow has a very large litter some of her
@@ -7451,8 +6918,6 @@ Where fowls are kept they roost at night high in
 the trees of the garden or on the thatched roofs of
 old sheds. Occasionally they roost under cover, but
 
-
-158 AGRICULTURE
 
 it is almost impossible to persuade then to enter
 a building. Many of the domestic fowls are descended from wild ones, as whenever the people find
@@ -7529,8 +6994,6 @@ to disperse the haze in which the mountains disappear.
 Distant houses and trees seem moving in wavy lines,
 
 
-160 COUNTRY AND JUNGLE
-
 trembling in the hot air, through which the sun shines,
 a dull red ball. The haze is really smoke from hundreds of jungle fires. Sparks from a fire, or the end of
 a cheroot thrown into dry grass may start a flame that
@@ -7579,8 +7042,6 @@ THE COMING RAINS.
 p. 160]
 
 
-PROTECTION OF EGRETS 161
-
 mark the rice lands. When the sun shines on the
 flooded earth each little field reflects the sky — motherof-pearl and white, grey and turquoise blue — each
 framed in its green turf wall, and at sunset the glory
@@ -7604,8 +7065,7 @@ breeding season. In a certain village there was a
 change of Myosa,1 and there, for some months, the law
 was forgotten or set aside. In that year twenty men
 in the place — natives of India and a few Kachins — shot,
-on an average, two hundred birds each in the breeding season. In the following year the law was re-
-membered and obeyed, so in that valley the lives of at
+on an average, two hundred birds each in the breeding season. In the following year the law was remembered and obeyed, so in that valley the lives of at
 least four thousand of these beautiful and harmless
 birds were preserved, not counting the young ones
 which would have died of starvation if the parent birds
@@ -7623,8 +7083,6 @@ birds are more wild and unapproachable there than in
 
 II
 
-
-162 COUNTRY AND JUNGLE
 
 British territory. Nearly all Kachins and many Shans
 and Chinamen across the borders go armed with some
@@ -7675,8 +7133,6 @@ IN THE JUNGLE.
 P. 162]
 
 
-WILD ANIMALS 163
-
 wood ; they build their tunnels all over dead trees, also
 undermining them ; the first wind-storm blows them
 down, and the creepers fall with them. Other trees
@@ -7719,8 +7175,6 @@ animal. Villagers may turn out to beat the bush to help a sportsman
 to get a deer, when they could not be hired to catch a chicken for his
 evening meal. — W. W. C.
 
-
-164 COUNTRY AND JUNGLE
 
 cisions at each side ; there were no claw-marks on the
 body, and no traces of blood on the ground, although
@@ -7765,8 +7219,6 @@ stands on tiptoe, stretching her legs and wings after
 1 Robert Browning.
 
 
-BIRDS AND BATS 165
-
 her midday sleep ; her little ones run round her with
 many hops and jumps, their wings fluttering, and they
 chirp continually. The mother hen seems in no way
@@ -7810,8 +7262,6 @@ Towards evening bats, large and small, flit from
 their holes in hollow trees. I have counted more than
 four hundred leaving one tree at the time of sunset.
 
-
-1 66 COUNTRY AND JUNGLE
 
 There are many owls and night-jars, which pass like
 shadows in the dusk.
@@ -7922,7 +7372,6 @@ p. 168]
 
 I AND 2, DESIGNS ON THE BORDERS OF TURBANS.
 
-3 AND 4, DESIGNS ON THE CLOTH USED AS WRAPPERS FOR
 SACRED WRITINGS.
 
 
@@ -7962,8 +7411,6 @@ opposite direction. In the Shan States it does not
 DESIGN FROM COVERLET FOR BED.
 
 
-172 INDUSTRIES
-
 now appear to be the emblem of the sun, as the
 weavers give it the name of the " poppy," declaring
 that the four arms of the svastika represent the four
@@ -7998,8 +7445,6 @@ spangles. All Shan hats are worn over turbans, and
 in windy weather are tied under the chin with red
 or green cords. Young men who wish to look particularly smart fasten their hats with silver chains
 
-
-POTTERY 173
 
 instead of cords. A much more expensive hat worn
 by Shan men is imported from China ; it is not unlike a Panama hat in texture.
@@ -8038,8 +7483,6 @@ until it is a fine paste, all gritty pieces or stones being
 carefully removed. It is then formed into lumps and
 covered with a damp cloth until required. Pots are
 
-
-174 INDUSTRIES
 
 made on a stone wheel shaped like a child's top, but
 flat above; the point rests in a socket, and the clay
@@ -8084,16 +7527,13 @@ women, and the silver girdles worn by the latter. In
 working they use bellows in the shape of a cylinder
 
 
-PAPER MAKING 175
-
 with a piston and valve. Women do not work in
 gold or silver.
 
 As some boys never go to school, and many stay
 such a short time there that their knowledge of
 reading and writing is quite elementary, there are
-many professional scribes, who write letters for illiterate persons. They also copy the Buddhist Scrip-
-tures, and compose and write love songs. They
+many professional scribes, who write letters for illiterate persons. They also copy the Buddhist Scriptures, and compose and write love songs. They
 generally make their own ink and their pens, which
 are cut from reeds.
 
@@ -8178,8 +7618,6 @@ THIS IS PAPER MADE IN THE
 SHAN STATES
 
 
-DISTILLING RICE SPIRIT 177
-
 and covered with cold water. The pot is closed with
 a thick cloth, so that no air can enter, and left unopened for a week— or, better still, for a fortnight.
 The rice is now placed on the fire, in a strong earthenware or metal pot, which might be called the " kettle."
@@ -8242,8 +7680,6 @@ the palace or the gates of a new city, so that the
 spirits of the dead in guarding the place from human
 
 
-MASSAGE 179
-
 enemies should also keep evil spirits, that bring sickness, at a distance.
 
 Epidemics are supposed to be caused by certain bad
@@ -8288,8 +7724,6 @@ native cure.
 1 One penny.
 
 
-180 MEDICINE AND CHARMS
-
 Owing to the lime in the water, bladder troubles are
 common.
 
@@ -8332,8 +7766,6 @@ and the fat of snakes are used as remedies. The flesh
 of bats is considered good for asthma, but it must be
 thoroughly cooked. The blood of monkeys— dried but
 
-
-A BABY'S BIRTH 181
 
 not cooked— is thought good for coughs. Bones of
 tigers ground into powder are given as a tonic to
@@ -8380,8 +7812,6 @@ cut bamboo which has been sharpened. During the
 birth the husband does not remain in the room ; he
 
 
-182 MEDICINE AND CHARMS
-
 is, however, close at hand and the placenta and
 umbilical cord are given to him. He first washes
 them gently, then rolls them in a banana leaf, placing
@@ -8425,8 +7855,6 @@ looks upon herself as its own mother.
 Shans have generally good teeth, though they are
 often very black from the constant chewing of betelnut. They think that toothache is caused by a worm
 
-
-NUMBER OF DISEASES 183
 
 that eats away the teeth. Cloves rubbed on the gum
 is the usual remedy for an aching tooth. Other cures
@@ -8475,8 +7903,6 @@ on the soul, and will count as a good deed after death.
 To cut the nails of fingers or toes in one's own
 
 
-184 MEDICINE AND CHARMS
-
 house is not unlucky, provided the pieces do not fall
 through the floor on the ground below ; they should
 be burnt or buried. To cut the nails in the house of
@@ -8521,8 +7947,6 @@ the food seems good, but it has a bad taste if the
 answer is unfavourable.
 
 
-BAMBOOS USED FOR DIVINATION 185
-
 Bamboos are never used as firewood unless they
 have been splintered into small fragments. A joint
 of bamboo is sometimes placed in the fire for purposes of divination. When the air within the node
@@ -8565,8 +7989,6 @@ also trying to free themselves from the Burman rule.
 
 1 Imperial Gazetteer of India, 1908.
 
-
-KACHIN INVASION 187
 
 The condition of the country whilst under Burma has
 been described already in the historical chapter, so it
@@ -8649,8 +8071,6 @@ KACHIN MARRIED WOMAN.
 p. 188]
 
 
-REVENUE AND EXPENDITURE 189
-
 districts, and are always ready to listen to complaints
 or receive petitions. Owing to the distances and the
 time lost in travelling over bad roads, it might be
@@ -8729,12 +8149,7 @@ and, when the produce can be used only locally, there
 is no inducement to reclaim the jungle, where fruit
 trees of almost every kind might be grown. Owing
 to deep holes in the paths, the export of agricultural
-products by pack bullocks takes so long that perish-
-
-
-BAD ROADS 191
-
-able goods — such as fruit and vegetables — would spoil
+products by pack bullocks takes so long that perishable goods — such as fruit and vegetables — would spoil
 before they could reach a large market, so it is
 necessary to dispose of them locally.
 
@@ -8776,8 +8191,6 @@ if found guilty, were allowed to pay a fine, which
 varied according to the position held by the victim
 during his life. In a case of capital punishment more
 
-
-192 GOVERNMENT
 
 than one executioner assisted, and each tried to avoid
 giving the fatal blow, so that the sin of killing the
@@ -8827,8 +8240,6 @@ KACHIN BAG.
 p. 192]
 
 
-TRIALS BY ORDEAL 193
-
 acquired in his previous lives — assists him. Diving
 under water is another form of this trial ; he who
 remains longest under water wins. These ordeals
@@ -8872,8 +8283,6 @@ hurry up matters by extinguishing the flame, thus
 revealing the culprit.
 
 
-194 GOVERNMENT
-
 Witches and wizards are in no way interfered with
 by the people, who look upon them as wise folk who
 study the stars, and have knowledge of the occult and
@@ -8910,12 +8319,7 @@ they are banished from the community, they sometimes live with their families on
 villages, but more often they are obliged to go farther
 away, to a place where they are not known, or they
 take refuge in houses belonging to Christian missions,
-placing themselves under the protection of the mis-
-
-
-THE EVIL EYE 195
-
-sionaries. When this is the case, those who have
+placing themselves under the protection of the missionaries. When this is the case, those who have
 evicted them say that Christian spells must be even
 stronger than the evil eye. It is usual to banish men
 or women who for any cause are objectionable to the
@@ -8955,8 +8359,6 @@ dead no creature was left alive on the earth, or in the
 
 1 Embryo Buddhas.
 
-
-CREATION OF THE WORLD 197
 
 rivers and sea, but one enormous fish. Then, as the
 world grew hotter, and still more hot, the great fish
@@ -9044,8 +8446,6 @@ the waters was the part which we now call China,
 therefore China is the most ancient part of our world.
 
 
-THE FOUR ISLANDS 199
-
 The inhabitants of the Western Island and the
 Eastern Island cultivate their lands as we do, and
 grow rice ; but those of the Northern Island live on
@@ -9091,8 +8491,6 @@ its reflection in the glass. This is why we seem to be
 to the north of the sun. The sun is really north of us.
 
 
-200 SHAN COSMOGONY AND THE CREATION
-
 as it is always circling round Mount Meru, which lies
 to our north.
 
@@ -9137,8 +8535,6 @@ and brilliantly in the world ! " The Moon made his
 offering of rice from the middle part of the pot, waiting
 
 
-CAUSE OF AN ECLIPSE 201
-
 until the rice was cool. He said, " Oh, great Lord, may
 I always be cool, peaceful, and beautiful ! " Sura, the
 third brother, slept too long in bed, so he made his
@@ -9180,8 +8576,6 @@ corner of the moon first becomes black and the
 darkness spreads all over until the moon's face is
 
 
-202 SHAN COSMOGONY AND THE CREATION
-
 hidden, that year's harvest will be bad, and rice will
 be dear. If, however, the south-east corner becomes
 black, and the shadow does not cover the moon but
@@ -9222,8 +8616,6 @@ thinks that the mountain is flooded, so he flaps his
 wings with such energy that the whole air is troubled,
 the waters of the seas rise in waves that reach to
 
-
-THE CAUSE OF THUNDER 203
 
 heaven, mingling with the water from the mouth of
 the dragon. The flapping of Galon's wings is the cause
@@ -9267,8 +8659,6 @@ brother Sura and Sakya have quarrelled ever since.
 The decapitated head is held by each daughter in turn
 on her lap for a year. When one daughter passes it
 
-
-204 SHAN COSMOGONY AND THE CREATION
 
 to another they must do so with great care, as, if it fell,
 the world would be destroyed.
@@ -9320,8 +8710,6 @@ MOUNT MERU RESTING ON THE GREAT FISH, THE SUN (A PKACOCK) AND
 THE MOON (A HARE) CIRCLING ROUND IT. FROM A SHAN PAINTING.
 
 
-206 SHAN COSMOGONY AND THE CREATION
-
 burned ; that is the reason why some people are
 black.
 
@@ -9364,12 +8752,7 @@ As to the rainbow. Some Shans tell one story,
 some another. Some say that the rainbow is caused
 by the celestial water that drops to earth when the
 gods — feasting in the heavens above Mount Meru—
-empty their drinking-cups. Others say that the rain-
-
-
-THE CAUSE OF THUNDER 207
-
-bow is a great snake or crocodile that comes down to
+empty their drinking-cups. Others say that the rainbow is a great snake or crocodile that comes down to
 the earth to drink. When a second and fainter rainbow is seen it is the dragon's wife who accompanies
 him. Others say that the rainbow is the halo round
 the head of the king of the spirits when he comes from
@@ -9451,8 +8834,6 @@ race ; the Siamese fftait spelled by the French Thay, is the same.
 The name is said to mean " The Free," or " Free Men."
 
 
-THE LAO ALPHABET 209
-
 Chinese. Apart from what Dr. J. L. Gushing calls
 " open," "closed," and " intermediate " tones, which have
 references to qualities of the vowel sound, there are
@@ -9495,8 +8876,6 @@ singular.
 * Another branch of the Tai or Shan family.
 
 
-210 LANGUAGE AND LITERATURE
-
 — or practically in its present — form is known to have
 been in common use. We may then work back to its
 earlier sources. We have positive proof that this date
@@ -9537,8 +8916,6 @@ directly from the Cambodian (the latter is still used
 
 3 The ancient capital of Siam. ' Ta-li and Yiin-nan.
 
-
-THE LAO ALPHABET 211
 
 by the Siamese in sacred writings). Dr. Dodd maintains that the configuration of some of the letters
 indicates this, but the major part of the Lao alphabet
@@ -9581,8 +8958,6 @@ another for words of a low tone. Some of these tonal
 signs were used at first by other branches of the
 
 
-212 LANGUAGE AND LITERATURE
-
 Shans to the northward ; but gradually they left them
 off, though some of them were still in use within the
 memory of old Shan men now living. The last to
@@ -9624,8 +8999,6 @@ forms are abridgments of the longer and richer Lao
 alphabet.
 
 
-SHAN LITERATURE 213
-
 All known branches of the Shan family have a considerable literature. This literature began among the
 Laos. From them it extended by inter-communication
 with the other branches of the family, particularly
@@ -9664,8 +9037,6 @@ of the Shans, in the British Shan States, were translations or adaptations from 
 during the era of Burman domination these were
 largely (but not wholly) displaced by translations
 
-
-214 LANGUAGE AND LITERATURE
 
 from the Burmese in all regions except Keng-tung ;
 here the Lao literature is abundant, far exceeding the
@@ -9710,8 +9081,6 @@ A MONASTERY.
 
 p. 2I4]
 
-
-A PEASANT'S SONG 215
 
 metrical composition. As in English, the metrical
 forms are bewildering in their variety. There are
@@ -9765,8 +9134,6 @@ PI SA NI YA MA
 
 1 The sky-god,
 
-
-216 LANGUAGE AND LITERATURE
 
 16. Behold, the world shuts in, overcast darkly ;
 
@@ -9838,8 +9205,6 @@ an omen or sign.
 sky, but may refer to the peacock.
 
 
-PROVERBS 217
-
 46. Of some, the skirts are asquint
 
 47. Showing the calves (of legs) slender, so very white
@@ -9889,8 +9254,6 @@ you cannot learn.
 The diligent shall be wealthy ; the lazy shall be poor.
 
 
-218 LANGUAGE AND LITERATURE
-
 If pleasant words enter the ear, no one is angry.
 If angry words enter the ear, no one is pleased.
 
@@ -9937,8 +9300,6 @@ If you eat hurriedly you will have indigestion.
 (More haste less speed.)
 
 
-NAMES OF PEOPLE AND PLACES 219
-
 Sometimes the proverbs are in rhyme, such as :
 
 Hit loi tak lai,
@@ -9984,8 +9345,6 @@ other cases new settlers seem to have given to their
 new village the name of their old home, perhaps in
 Western China, where the name had already lost any
 
-
-220 LANGUAGE AND LITERATURE
 
 definite meaning it may once have had. Another
 class of names is explained by some historic legend,
@@ -10102,8 +9461,6 @@ day, and caught an immense number of fish, so many
 that they could not carry them all to their home.
 
 
-THE FISHERMAN AND HIS WIFE 223
-
 From that day they prospered and grew rich. They
 had poor neighbours, who knew of their good fortune
 and envied them, so one day a poor man said to his
@@ -10197,8 +9554,6 @@ you across the river."
 Skeat, M.A., M.R.A.S.
 
 
-THE MONKEY AND THE CROCODILE 225
-
 But the monkey answered : " You lie ; there are not
 more there than there are here."
 
@@ -10283,8 +9638,6 @@ of the village and the jungle, so the spirits gathered
 themselves together, and went for advice to the great
 crocodile that guarded the land. Now, the great
 
-
-THE FAIRY AND THE HUNTER 227
 
 crocodile governed the water springs and the clouds,
 and he listened to the complaints of the village spirits
@@ -10379,8 +9732,6 @@ her to the house-post, in the middle of the entranceroom, and the rays of light 
 made the night seem as the day. The hunter's wife
 
 
-THE FAIRY AND THE HUNTER 229
-
 offered rice to the fairy, but she would not eat ; she
 brought water to her, but she would not drink ; she
 spoke to her, but she did not answer, and she feared
@@ -10430,8 +9781,6 @@ palm-tree,
 23o FOLK-LORE
 
 
-THE STORY OF TWELVE SISTERS 1
-
 In times gone by there lived in a great forest twelve
 maidens, the daughters of one man. One day a tank
 in the forest dried up, and the sisters went to catch
@@ -10473,8 +9822,6 @@ tiger. Their hair was curly and their complexions dark. It is thought
 that they may have been the original inhabitants of the country,
 Negritoes, who were probably cannibals.
 
-
-THE STORY OF TWELVE SISTERS 231
 
 ogres became as men. The ogre King sought advice
 from his favourite wife, so that he might not lose his
@@ -10558,8 +9905,6 @@ he would give back all the beans if the boys brought
 
 1 See p. 61.
 
-
-THE STORY OF TWELVE SISTERS 233
 
 him twelve portions of rice, twelve of curry, and
 twelve gourds full of water.
@@ -10645,8 +9990,6 @@ of water, where grew pink and white and blue lotus-
 
 1 Literally, " He smelt that the lad was near,"
 
-
-THE STORY OF TWELVE SISTERS 235
 
 flowers, and one was for wild beasts; I cannot tell
 you about the other divisions, but I know that there
@@ -10735,8 +10078,6 @@ At last the Prince came safely to his home, but he
 "brother" and "sister,"
 
 
-THE STORY OF TWELVE SISTERS 237
-
 only paused at the palace to greet the King, then he
 went to the cave, to his mother. He washed all the
 eyes with the magic water, and gave them again to his
@@ -10822,8 +10163,6 @@ passed, the doves brought grain to her, and when
 she slept all the jungle beasts were silent, so that no
 1 King of the spirits of the air.
 
-
-THE PRINCESS IN THE TOWER 239
 
 noise should wake her. At last she came to the cave
 of a hermit, where her baby was born.
@@ -10922,8 +10261,6 @@ elephants promised him many presents if he told no one.
 However, he said that he would keep silence on one
 
 
-THE CRAFTY LAD 241
-
 condition only, that was if they gave him the white
 elephant. So they allowed him to lead it away, and
 from that day all his affairs prospered.
@@ -11020,8 +10357,6 @@ NATIVE REST-HOUSES.
 p. 242]
 
 
-THE TIGER AND THE MISCHIEVOUS HARE 243
-
 then, in the evening, they prepared their bundles for
 thatching, fastening them to their shoulders. Then they
 started for home. On the way the hare told a lie.
@@ -11117,8 +10452,6 @@ Ka-hseng.
 
 At that time on a certain night Sakya, king of the
 
-
-THE PRINCESS HSA-PU-TE-HSA 245
 
 spirits, came down to earth and gave the older brother
 a dream. He said : " There lives at the foot of the
@@ -11219,8 +10552,6 @@ into my palace."
 
 When the Prince heard her voice he was so confused
 
-
-THE PRINCESS HSA-PU-TE-HSA 247
 
 he hardly knew if he stood on his head or his feet,
 because of her beauty. He said to his friend : " I am
@@ -11325,8 +10656,6 @@ She answered : " I am a woman of the race of men."
 Hpung-ka-lit was suspicious, and at first said in his
 
 
-THE PRINCESS HSA-PU-TE-HSA 249
-
 heart : " She may be an ogress ; because my glory is
 great the ogres are envious, and they may have sent
 her to me to bewitch me. However, as she was very
@@ -11418,8 +10747,6 @@ Sakya also went to the Hpung-ka-lit, and said :
 
 1 A kind of harp.
 
-
-THE PRINCESS HSA-PU-TE-HSA 251
 
 He answered : " He is in that prison."
 
@@ -11523,8 +10850,6 @@ not answer his sisters, so he said crossly : " Well, if
 you must have music, then let them play."
 
 
-THE PRINCESS HSA-PU-TE-HSA 253
-
 By this time Hsa-pu-te-hsa was satisfied that her
 husband was sorry for the wrong that he had done,
 and being of one mind with him when he sang " Let
@@ -11621,8 +10946,6 @@ said : " If it please you, turn out your cattle."
 The farmer untied his animals, and the mother drove
 
 
-THE STORY OF AI-KAWK-HO 255
-
 them to the field ; then she went home. When the
 cattle had grazed, they came of their own accord to
 lie down and chew the cud under the tree where Aikawk-ho was hanging in his bag. In the evening the
@@ -11716,8 +11039,6 @@ sight of the crowd came down again to his own palace.
 When the sisters came home, they scolded Ai-kawkho and his wife for their laziness in not attending the
 
 
-THE STORY OF AI-KAWK-HO 257
-
 festival, saying, " We saw a marvellous sight to-day,
 which you will never have a chance of seeing."
 
@@ -11809,8 +11130,6 @@ watch the fire, but instead of tending it she raked it
 out, in pity for her mother. Three times she was
 beaten and driven back to her work, then her mother,
 
-
-THE STORY OF A WITCH 259
 
 the golden turtle, charged her to obey, saying : " Tend
 the fire, my child, and let me die."
@@ -11907,8 +11226,6 @@ watch.
 The second son did not care for his father, and he
 
 
-THE GOLDEN GOOSE 261
-
 too fell asleep in the garden, and the golden goose
 came down and ate all the fruit.
 
@@ -12000,8 +11317,6 @@ After a little while two hermits were passing, and
 hearing the baby cry, they looked up and saw the
 1 The Mao Kingdom.
 
-
-THE STORY OF U-TAIN 263
 
 Queen with the child in her arms. Then they climbed
 the tree, bringing down the mother and baby to the
@@ -12100,8 +11415,6 @@ The Princess came daily to be taught, but she could
 not learn, and one day U-tain said : " You big, blind
 Princess, you are very stupid ! "
 
-
-THE STORY OF U-TAIN 265
 
 And the Princess answered : " You ugly man, you
 are too stupid to teach me."
@@ -12203,8 +11516,6 @@ That night the great lord crocodile appeared to the
 King in a dream and said : " Oh, King, how is it ? I
 
 
-THE STORY OF THE RAINBOW 267
-
 have given you a gem, more precious than many
 kingdoms, in order that you should save my life, and
 behold, you have allowed the spirit of the soothsayer
@@ -12299,8 +11610,6 @@ the place where the father of Thumb was cutting firewood.
 
 llJ
 
-
-THE STORY OF LITTLE THUMB 269
 
 When little Thumb saw his father he exclaimed :
 "Oh, father! take me from the mule's ear, for I am
@@ -12397,8 +11706,6 @@ small shot in his gun, but he fired at the wolf, and as
 the wolf continued to attack him, he took out his knife,
 
 
-THE WOLF AND THE MAN 271
-
 and stabbed the beast several times, so that it was
 obliged to crawl away, badly wounded.
 
@@ -12494,8 +11801,6 @@ tail hanging down, so that the man could reach it, and
 when he caught the tail the monkey pulled and pulled
 till the man was able to climb out.
 
-
-THE MONKEY AND THE MAN 273
 
 Then the man said : " Now show me the way to the
 village."
@@ -12598,8 +11903,6 @@ moving across the sky, I remembered how foolish was
 that man."
 
 
-THE CLOUD 275
-
 His wife kept the secret for some time, then, as she
 was very unhappy in her mind, she told her sister;
 after a little while her sister told a friend, and so the
@@ -12699,8 +12002,6 @@ stone ? I am seeking for one of our fruits and wish to
 catch the thief who has taken it. I do not know what
 
 
-THE STORY OF A FAIRY AND A PRINCE 277
-
 the great lord Sakya will say to me when he knows
 that I have lost it." So saying, he returned to the
 garden.
@@ -12796,8 +12097,6 @@ of the palace my face will soon be beautiful again.
 
 The Prince, saw that the clothes which Mai-pomsan-ta wore were the same as those in which the young
 
-
-THE STORY OF A FAIRY AND A PRINCE 279
 
 girl had been dressed, so he was obliged to believe
 her words. He helped her to descend from the tree,
@@ -12898,8 +12197,6 @@ but before you kill me, let me say a prayer."
 Her prayer was this : "May my eyes become two
 green parrots."
 
-
-THE STORY OF A FAIRY AND A PRINCE 281
 
 Then she said to the servants : " If you wish to kill
 me, kill me now."

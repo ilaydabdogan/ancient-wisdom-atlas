@@ -57,8 +57,7 @@ of the Buddha, was translated into the Magadhi language by
 the patronage of King Kirtti Sri Ra^a-siwha, who came
 to the throne of Ceylon in the year of Buddha 2290 (1747
 A.D.), by a member of the Buddhist Order named Hina/ikumbure Sumahgala, a lineal successor, in the line of
-teacher and pupil (anui-ishya), of the celebrated Woeliwi/a Saraz/ahkara, who had been appointed Sawgha-
-ra^a, or chief of the Order — that 'this priceless book,
+teacher and pupil (anui-ishya), of the celebrated Woeliwi/a Saraz/ahkara, who had been appointed Sawghara^a, or chief of the Order — that 'this priceless book,
 unsurpassable as a means either for learning the Buddhist
 doctrine, or for growth in the knowledge of it, or for the
 suppression of erroneous opinions/ had become corrupt by
@@ -128,8 +127,7 @@ scope for his industrious scholarship, is already known to
 have mentioned the book no less than four times in his
 commentaries ; and that in such a manner that we may
 fairly hope to find other references to it when his writings
-shall have been more completely published. In his commentary on the Book of the Great Decease, VI, 3, Buddha-
-ghosa refers to the quotation of that passage made in the
+shall have been more completely published. In his commentary on the Book of the Great Decease, VI, 3, Buddhaghosa refers to the quotation of that passage made in the
 conversation between Milinda and Nagasena, translated
 below, at IV, 2, i^. And again, in his commentary on the
 Amba///^a Sutta (D. Ill, 3, 12) he quotes the words of a
@@ -148,8 +146,7 @@ former of these two was mentioned in a letter to the
 'Academy' of the i2th November, 1881. In the Manoratha Pura;n, his commentary on the Anguttara, on the
 passage marked in Dr. Morris's edition as I, 5, 8, Buddhaghosa says : —
 
-'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Naga-
-sena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa>^e rupino assa kiva maha-rasi bhavey-
+'Imasmi;;/ pan' atthe Milinda-r^^^ dhammakathika-Nagasenattheraw ^wkkh'x: "Bhante Nagasena, ekasmim a/^-^//arakkha«e pavattita-X'ittasa;;zkhara sa>^e rupino assa kiva maha-rasi bhavey-
 yati ?
 
 And he then gives the answer: — 'Vahasatanam kho
@@ -192,8 +189,7 @@ enough, to the same passage referred to above (pp. 168,
 169 of the text, translated below at IV, 3, n) Buddhaghosa
 there says : —
 
-'Vutta?;/ etaw Nagasenattherena Milindara;7/7a pu^///ena: "Na mahara^a Bhagava guy-
-haw dasseti k/ia.ya.m Bhagava dassetiti."'
+'Vutta?;/ etaw Nagasenattherena Milindara;7/7a pu^///ena: "Na mahara^a Bhagava guyhaw dasseti k/ia.ya.m Bhagava dassetiti."'
 
 In this case, as in the other quotation of the same passage, the words quoted are not quite the same as those
 given in the published text, and on the other hand they
@@ -411,8 +407,7 @@ Milinda (apart from what is said by our author himself), is
 the coins will be found to confirm, but to add very little to,
 what is otherwise known.
 
-As many as twenty-two^ different coins have been discovered, some of them in very considerable numbers, bear-
-ing the name, and eight of them the effigy, of Menander.
+As many as twenty-two^ different coins have been discovered, some of them in very considerable numbers, bearing the name, and eight of them the effigy, of Menander.
 They have been found over a very wide extent of country,
 as far west as K^bul, as far east as Mathura, and one of
 them as far north as Kashmir. Curiously enough we find
@@ -683,8 +678,7 @@ this is not a joke, it is a strange piece of credulity.
 The only reason alleged in support of it is that Pata/T^ali
 has the epithets of Nagej-a and of Pha;nn. That he was a
 Hindu who believed in the soul-theory of the current animistic creed, while all the opinions put into Nagasena's
-mouth are those of a thorough-going Buddhist and nonindividualist, is to count as nothing against this chance simi-
-larity, not of names, but of the name on one side with an epithet on the other. To identify John Stuart Mill with Dean
+mouth are those of a thorough-going Buddhist and nonindividualist, is to count as nothing against this chance similarity, not of names, but of the name on one side with an epithet on the other. To identify John Stuart Mill with Dean
 Milman would be sober sense compared with this proposal.
 
 
@@ -736,7 +730,6 @@ volume.
 
 38 • . „ „ II, 10.
 
-38 . . „ „ II, II.
 
 40 . . Katha Vatthu I, i.
 
@@ -746,7 +739,6 @@ volume.
 41 • • „ „ II, 23.
 
 42 . . „ „ II, 26.
-59 • • ,. „ XVII.
 80 . . INIahavagga I, i, i.
 
 129 . . Various (see my note).
@@ -2300,8 +2292,7 @@ than the time of Constantine, in which the canonical books
 of the Christians were both quoted and referred to, he
 would have much surer ground for a sounder historical
 criticism. And he would possibly come to see that the
-seven portions selected for special honour and commendation were not intended as an exhaustive list even of re-
-markable passages, much less for an exhaustive list of
+seven portions selected for special honour and commendation were not intended as an exhaustive list even of remarkable passages, much less for an exhaustive list of
 canonical books, but that the number seven was merely
 chosen in deference to the sacred character attaching to
 that number in the sacred literature.
@@ -2443,7 +2434,6 @@ TaHV/a-sukara C'ataka with the Bodisat. He differs here
 from the Cataka Commentary, in which the Bodisat is
 identified with the tree-god, who acts as a kind of Greek
 chorus in the story. And the summaries in IV, 4, 28 of
-xlii TOE QUESTIONS OF KING MILINDA.
 
 Ruru G^ataka, and in IV, 4, 30 of the Sabba-da//^a Cataka,
 do not exactly agree with Professor Fausboll's text\ But
@@ -3286,9 +3276,6 @@ its people.' But I prefer the Sinhalese interpretation.
 * This list recurs at pp. 34, 330 of the text. See below, p. 53.
 
 
-1,3- THE CITY OF SAGALA. 3
-
-
 halls of various kinds ; and splendid with hundreds
 of thousands of magnificent mansions, which rise
 aloft like the mountain peaks of the Himalayas.
@@ -3321,8 +3308,7 @@ previous birth history of these two persons (Milinda
 ^ It is worth noting, as there is a doubt about the spelling, that
 Hina/i-kumbure reads Ko/umbara, not Kodumbara.
 
-^ Here follow in Hina/i-kumbure's version two pages of introductory matter, explaining how he came to undertake his transla-
-tion.
+^ Here follow in Hina/i-kumbure's version two pages of introductory matter, explaining how he came to undertake his translation.
 
 B 2
 
@@ -3769,8 +3755,6 @@ See Sumahgala Vilasini on D. 2, 40 (p. 1 73); Mahavagga V, 1 3, 1 2 ;
 Gataka I, 49.
 
 
-1,21. MAHASENA THE GOD. I 5
-
 ablaze, the tender grain became ripe in a moment,
 and there was a great rain (in the time of drought).
 And the venerable Rohana went to that house for
@@ -3814,8 +3798,6 @@ when he wishes to express his inability (or his disinclination) to give
 food to a mendicant friar.
 
 
-t6 the questions of king MILINDA. I, 22.
-
 all the while got nothing ! Is lying allowed to you
 fellows ?'
 
@@ -3852,8 +3834,6 @@ of ours ? '
 ^ This custom is a rule with the mendicant friars. It is their
 way of 'returning thanks/ as we should say. See below, p. 25.
 
-
-I, 23. BRAHMAN KNOWLEDGE. 1 7
 
 'What is it called, father ?' said he.
 
@@ -3932,9 +3912,6 @@ worldly life).
 ' And why do they call thee " one w4io has abandoned ?" '
 
 * Because a recluse is one who has receded from
-
-
-I, 23. REASONS FOR SHAVING. 1 9
 
 
 the world in order to make the stain of sinful things
@@ -4106,8 +4083,6 @@ the rest of the Buddha's word aside, and teach me
 the Abhidhamma first ! '
 
 
-1,29- NAGASENAS PUNISHMENT. 23
-
 And the venerable Rohana became aware in his
 own mind of what was passing in the mind of Nagasena, and he said to him : ' That is an unworthy
 reflection that thou art making, Nagasena ; it is not
@@ -4183,8 +4158,6 @@ hand, went down, accompanied by Nagasena as his
 
 »
 
-
-1,31. NAGASENAS CONVERSION. 25
 
 attendant, to the dwelling-place of that disciple, and
 there they sat down on the seats prepared for them.
@@ -4275,8 +4248,7 @@ and departed for Pa/aHputta.
 
 2,2,. [17] At that time a merchant of Pa/aHputta
 was on his way back to that city with five hundred
-waggons. And when he saw the venerable Nagasena coming in the distance, he stopped the wag-
-gons, and saluted Nagasena, and asked him :
+waggons. And when he saw the venerable Nagasena coming in the distance, he stopped the waggons, and saluted Nagasena, and asked him :
 ' Whither art thou going, father ? '
 
 * To Pa/aliputta, householder.'
@@ -4317,8 +4289,7 @@ far from Pa/aliputta, he stopped, and said to Nagasena : ' This is the turning t
 Now I have here a rare piece of woollen stuff, sixteen
 cubits by eight. [18] Do me the favour of accepting
 it.' And Nagasena did so. And the merchant,
-pleased and glad, with joyful heart, and full of content and happiness, saluted the venerable Naga-
-sena, and keeping him on his right hand as he
+pleased and glad, with joyful heart, and full of content and happiness, saluted the venerable Nagasena, and keeping him on his right hand as he
 passed round him, went on his way.
 
 35. But Nagasena went on to the Asoka Park to
@@ -4348,8 +4319,6 @@ but 'the three bodies of oral tradition as handed down from
 teacher to teacher/ See Trenckner's decisive argument in his
 'Pali Miscellanies,' pp. 67-69.
 
-
-I, 36. NAGASENA GAINS NIRVAiVA. 29
 
 ma-rakkhita addressed him, and said : ' Just, Nagasena, as a herdsman tends the cows, but others
 enjoy their produce, so thou too earnest in thy
@@ -4435,15 +4404,12 @@ the coming and going 7?/shis.'
 ^^ § 15 (or if there is an interpolation at § 10).
 
 
-I, 38. AYUPALA SILENCED. 3 1
-
 Then the ro3^al astrologer sent a message to
 Ayupala to the effect that king MIHnda desired to
 call upon him. And the venerable one said : * Let
 him come.'
 
-So Milinda the king, attended by the five hundred Yonakas, mounted his royal chariot and pro-
-ceeded to the Sahkheyya hermitage, to the place
+So Milinda the king, attended by the five hundred Yonakas, mounted his royal chariot and proceeded to the Sahkheyya hermitage, to the place
 where Ayupala dwelt, and exchanged with him the
 greetings and compliments of friendship and courtesy, and took his seat respectfully apart. And then
 he said to him :
@@ -4595,8 +4561,6 @@ be no doubt of its meaning. Trenckner translates it ' better than
 any one else.'
 
 
-I, 41. NAGASENA. 35
-
 of darkness and diffuser of light ; mighty in eloquence, a confounder of the followers of other
 masters, and a crusher-out of the adherents of rival
 doctrines (malleus hereticorum). Honoured and
@@ -4633,8 +4597,6 @@ in the Na/apana Gataka (Fausboll, No. 20).
 
 D 2
 
-
-^6 THE QUESTIONS OF KING MILTNDA. 1,42.
 
 ' Learned, with varied eloquence, sagacious, bold,
 Master of views, in exposition sound,
@@ -4680,8 +4642,6 @@ body stood on end". But he asked Devamantiya :
 A
 
 
-1,43. NAGASENA. 37
-
 And Devamantlya replied : 'He is capable, Sire,
 of discussing things with the guardians of the world
 — with Indra, Yama, Varu;^a, Kuvera, Pra^apati,
@@ -4718,9 +4678,6 @@ be rightly rendered arbour (see above, p. 25), or sufficiently large
 to accommodate a considerable number. Usually of wood, sometimes of stone, it is always graceful in appearance and pleasant to
 use. It is mentioned in the corresponding passage of the Samawra
 rhala (D. II, 10).
-
-
-38 THE QUESTIONS OF KING MILINDv\. I, 44.
 
 
 O
@@ -4763,9 +4720,6 @@ points out the Buddha to A^atasattu (§ 11, Grimblot, p. 117).
 This \vould be in the memory of all his readers, and our author
 alters the story in this case to show how superior INIilinda was to
 the royal interlocutor in the older dialogue.
-
-
-I, 44. NAGASENA. 39
 
 
 Order) to the half of that great company seated m
@@ -4843,8 +4797,6 @@ ka of my MS.) Put into modern philosophical phraseology it
 amounts to saying that there is no permanent subject underlying
 the temporary phenomena visible in a man's individuality. But
 
-
-II, T, I. INDIVIDUALITY. 4 1
 
 Then Milinda called upon the Yonakas and the
 brethren to witness : * This Nagasena says there is
@@ -4930,8 +4882,6 @@ many) aX-aras of the mind according to Dipavawsa I, 42.
 ^ These are the five Skandhas, which include in them the whole
 bodily and mental constituents of any being. See p. 80.
 
-
-II, I, I. SIMILE OF THE CHARIOT. 43
 
 ' Then is it all these Skandhas combined that are
 Ndgasena ?'
@@ -5022,8 +4972,6 @@ being — that I come under the generally understood
 term, the designation in common use, of "Nagasena."
 
 
-II, I, 2. SENIORITY. 45
-
 For it was said, Sire, by our Sister Va^ira in the
 presence of the Blessed One :
 
@@ -5113,8 +5061,6 @@ afraid ! '
 priests.'
 
 
-IT, 1,3- SABBADINNA. 47
-
 'Very good, your Majesty,' said Nagasena, with
 thankfulness.
 
@@ -5201,9 +5147,6 @@ horns, does their breath return again to them ? '
 Pray tell me. Sir, how the matter stands.'
 
 * There is no soul in the breath. These inhalations and exhalations are merely constituent powers
-
-
-11,1,5- RENUNCIATION. 49
 
 
 of the bodily frame,' said the Elder. And he talked
@@ -5395,8 +5338,6 @@ virtue, on the basis of virtue.'
 of which make Arahatship.
 
 
-11,1,9. GOOD CONDUCT. 53
-
 'Just, O king, as all the occupations which involve
 bodily exertion are carried on in ultimate dependence
 upon the earth, just so does the recluse develope in
@@ -5487,8 +5428,6 @@ incredulity.'
 ^
 
 
-IJ, I, 10. FAITH. 55
-
 when he was on the other side the monarch might
 give command to his attendants, saying : " Bring
 some water, my good men. I would fain drink."
@@ -5496,8 +5435,7 @@ Now suppose the monarch had a water-clearing
 gem]\ and those men, in obedience to the order,
 were to throw the jewel into the water ; then at once
 all the mud would precipitate itself, and the sandy
-atoms of shell and bits of water-plants would disappear, and the water would become clear, trans-
-parent, and serene, and they would then bring
+atoms of shell and bits of water-plants would disappear, and the water would become clear, transparent, and serene, and they would then bring
 some of it to the monarch to drink. The water is'
 the heart ; the royal servants are the recluse ; the
 mud, the sandy atoms, and the bits of water-plants
@@ -5527,9 +5465,6 @@ after filling up the crevices and chasms and gullies
 ^ Udakappasadako ma;n. Doubtless a magic gem is meant :
 with allusion particularly to the Wondrous Gem (the Ma;/i-ratana)
 of the mythical King of Glory (see my ' Buddhist Suttas,' p. 256).
-
-
-56 THE QUESTIONS OF KING MI1.INDA. IT, i, lo.
 
 
 of the hill, would empty itself into the brook below,
@@ -5574,8 +5509,6 @@ similar both in origin and in consequence.
 of the Sa;«yutta, but it is found also in the Sutta Nipata I, 10, 4.
 
 
-IT, I, II. PERSEVERANCE. 57
-
 1 1 ^ The king said : ' What, Nagasena, is the
 characteristic mark of perseverance ? '
 
@@ -5604,8 +5537,7 @@ and all those good qualities which it supports do not
 fall away [37]. For it has been said by the Blessed
 One : " The persevering hearer of the noble truth,
 O Bhikkhus, puts away evil and cultivates goodness,
-puts away that which is wrong and developes in himself that which is right, and thus does he keep him-
-self pure." '
+puts away that which is wrong and developes in himself that which is right, and thus does he keep himself pure." '
 
 ^ This section is summarised by Hardy, loc. cit. p. 409.
 
@@ -5665,8 +5597,6 @@ before his death (' Book of the Great Decease,' III, 65, in my
 ' Buddhist Suttas,' pp. 60-63) ; and the details of them will be
 found in the note to that passage.
 
-
-II, I, 12. MINDFULNESS (SATi). 59
 
 those qualities that are desirable, and not after those
 that are not ; thus does he cultivate those which
@@ -5757,8 +5687,6 @@ samadhindriya, while 'being unshaken by spiritual pride' is his
 mark (p. 63) of Samadhi-bala,
 
 
-II, I, 14. WISDOM. 61
-
 lines would incline towards him, lead up to him, they
 would be so many mountain slopes, one above
 another, with him as their summit, round him they
@@ -5830,9 +5758,6 @@ Here ends the First Chapter.
 
 
 ^ That is, the five referred to above, p. 51, § 9.
-
-
-II, 2, T. IDENTITY. 63
 
 
 Book II. Chapter 2.
@@ -5924,8 +5849,6 @@ different at death from what it was at birth that, in a certain sense,
 he is not the same at the one time as he was at the other. But
 there is a continuity in the whole series;— a continuity dependent
 
-
-II, 2, 2. ASSURANCE OF SALVATION. 65
 
 ' It is like milk, [41] which when once taken from
 the cow, turns, after a lapse of time, first to curds,
@@ -6025,8 +5948,6 @@ by insight — (the perception, that is,) of the imper-
 ^ iVana and pa«?7a.
 
 
-II, 2, 3- INTELLIGENCE AND WISDOM. 67
-
 manence of all beings, of the suffering inherent in
 individuality, and of the non-existence of any soul '.'
 ' Then what would have become of his delusions
@@ -6116,8 +6037,6 @@ soldier below, Mil. 44.
 first of the four Great Exertions (Sammappadhanas) is the effort
 to prevent sinful conditions arising.
 
-
-11,2,4. SUICIDE. 69
 
 roots \ and grinding diem up, gives him to drink,
 and thereby his sickness passes away. Would the
@@ -6214,8 +6133,6 @@ VI, 45.
 '■* And the same, therefore, of pleasant sensations that are evil
 
 
-11,2,6. WHAT IS REBORN? 7 1
-
 and they are not both cold, the pain cannot come
 from the cold. How then, O king, can they both
 hurt you, since they are not both hot, nor both cold,
@@ -6297,8 +6214,6 @@ burning, and go away. Then if that fire were to set
 
 1 Repeated below, III, 5, 7, p. 112.
 
-
-IT, 2, 6. KARMA. 73
 
 another man's field on fire, and the owner of the
 field were to seize him, and bring him before the
@@ -6385,8 +6300,6 @@ early marriages 1 Compare Theri Gatha, 402. Hina/i-kumbur6,
 p. 58, has woe/up di, ' having provided her with means of subsistence.' But, of course, the Suhka must have been a price paid
 to the parents.
 
-
-II, 2, 7- KARMA. 75
 
 which is reborn. But the second is the result of the
 first, and is therefore not set free from its evil deeds.'
@@ -6549,9 +6462,6 @@ Nirvawa ' there would still be time as long as he was in the enjoyment of it, th
 existence. The Si?«halese is perfectly clear.
 
 
-II, 3, 2. CAUSATION. 79
-
-
 Book II. Chapter 3.
 
 I. The king said : ' What is the root, Nagasena,
@@ -6638,8 +6548,6 @@ dependent upon the eye.' See below, § 4.
 
 ^ That is, another eye in another birth.
 
-
-II, 3, 3- TPIE FIRST BEGINNINGS. 8 1
 
 Then setting out a precisely corresponding circle
 of each of the other organs of sense (of the ear,
@@ -6833,8 +6741,6 @@ there be a sound ? '
 merely repeats the words.
 
 
-II, 3, 5- FORMATION OF QUALITIES. 8 5
-
 ' Of course there would.'
 
 'Just SO, great king, there is no Confection which
@@ -6876,8 +6782,7 @@ might be struck, might it not ? '
 
 
 ^ Ara«i, ara7ii-potako, and uttarara«i. The exact differentiation
-of these parts of the fire-stick apparatus is uncertain. The Siwhalese throws no real hght on them, as it translates them respec-
-tively ya/a liya, 'under wood,' matu liya; 'upper wood,' and
+of these parts of the fire-stick apparatus is uncertain. The Siwhalese throws no real hght on them, as it translates them respectively ya/a liya, 'under wood,' matu liya; 'upper wood,' and
 uturu liya, also 'upper wood.' This method of ignition was
 probably quite as strange to Hina/i-kumbure as it is to us.
 
@@ -6932,8 +6837,6 @@ pra?2a ^iwa, 'breath-soul' See below, III, 7, 15, p, 132 ; and
 above, II, 4, p. 48 ; and II, 2, 6, p. 71.
 
 
-II, 3,6. THE SOUL. 87
-
 doors \ great king. Listen, and give heed attentively. If the Hving principle within sees forms
 through the eye in the manner that you mention,
 [55] choosing its window as it likes, can it not then see
@@ -6976,8 +6879,7 @@ having done so ?'
 
 ' Well, great king, would the living principle within
 discern, in like manner, if anything possessing flavour
-were laid upon the tongue, its sourness, or its saltness, or its acidity, or its pungency, or its astrin-
-gency, or its sweetness ^ ? '
+were laid upon the tongue, its sourness, or its saltness, or its acidity, or its pungency, or its astringency, or its sweetness ^ ? '
 ' Yes, it would know it.'
 
 ' But when the flavour had passed into the
@@ -7015,8 +6917,6 @@ sio^ht arises, and those other conditions — contact.
 whichever of its windows it pleases. And the simile of a man inside
 a house does not hold good of the soul.' See the end of II, 3, 16.
 
-
-II, 3, 7- THE SOUL. 89
 
 sensation, idea, thought, abstraction, sense of vitality,
 and attention ^ — arise each simultaneously with its
@@ -7112,8 +7012,6 @@ he go out ?'
 ' What then ? Would the first man tell the second :
 
 
-11,3,7- SENSATION AND IDEAS. 9 1
-
 " Mind you go out the same way as I do" ? Or would
 the second tell the first : " The way you go out, I
 shall go out too"?'
@@ -7204,8 +7102,6 @@ exact level with eye, ear, tongue, &c.
 13. 14-
 * Phusana. So also Buddhaghosa at p. 63 of the Sumangala.
 
-
-II, 3, 10. SENSATION AND IDEA. 93
 
 king. The eye should be regarded as one of those
 two, the form (object) as the other, and the contact
@@ -7299,8 +7195,6 @@ aspiration), and Dhamma Sawgam 5 (where it is said to be born of
 the contact of mind, perception, and exertion).
 
 
-ir, 3, 13. PERCEPTION. 95
-
 man, O king, who should prepare a mixture of
 ghee, butter, oil, honey and molasses, and should
 both drink thereof himself and o-ive of it to others
@@ -7390,8 +7284,6 @@ corresponding to that formed by the last three sections of Book
 III, Chapter 7. The numbering of the sections is therefore carried
 on in both cases.
 
-
-11,3,15. CONDITIONS. 97
 
 Book II. Chapter 3.
 
@@ -7485,8 +7377,6 @@ your simile of the soul being inside the body, and using the five
 senses, as a man inside a house uses windows, does not hold good.
 See the conclusion above of II, 3, 6, p. 88.
 
-
-II, 3, i6. CONDITIONS. 99
 
 ' Certainly, Sir.'
 
@@ -7835,9 +7725,6 @@ V, 13, I (note); VI, 21, 3 ; XII, 2, i; Mahava7«sa, p. 60.
 '^ Nirodho nibbanan ti.
 
 
-in, 4, 7- NIRVAiV^A. 107
-
-
 the senses and in the objects of sense, find dehght
 in them, continue to cleave to them ^ Hence are
 they carried down by that flood (of human passions),
@@ -7865,8 +7752,7 @@ men receive Nirva;^a ?'
 ' Not all, O king. But he who walks righteously,
 who admits those conditions which ought to be
 admitted, perceives clearly those conditions which
-ought to be clearly perceived, abandons those conditions which ought to be abandoned, practises him-
-self in those conditions which ought to be practised,
+ought to be clearly perceived, abandons those conditions which ought to be abandoned, practises himself in those conditions which ought to be practised,
 realises those conditions which ought to be realised —
 he receives Nirva;^a.'
 
@@ -8117,9 +8003,6 @@ are those deeds, or there" ?'
 ^ These last words are a quotation of those that recur at Samyutta III, 2, 10, 10, and Dhammapada, verse 2,
 
 
-Iir, 5, TO. THE BUDDHA. I I 3
-
-
 ' Give me an illustration.'
 
 ' Now what do you think, O king ? Can any one
@@ -8254,8 +8137,6 @@ my ' Buddhist Birth Stories,' and Sutta Nipata I, 11.
 I 2
 
 
-Il6 THE QUESTIONS OF KING MILTNDA. ITT, 6, 2.
-
 2. The king said : ' Did the Buddha, Nagasena,
 die omniscient one, foresee all things ? '
 
@@ -8303,8 +8184,6 @@ surely a son is either like his mother, or those on
 
 ^ This is how Hina/i-kumbure understands the passage.
 
-
-Ill, 6, 4. CONDUCT. I I 7
 
 the mother s side, or he is hke his father, or those
 on the father's side ! '
@@ -8410,8 +8289,6 @@ Suttas,' p. 116, and my note at p. 117.
 reply. But the connection of ideas seems to me quite sufficient,.
 
 
-111,6,7. PASSION. 119
-
 6. The kino^ said : ' To which of these two,
 Nagasena, — the man who weeps at the death of his
 mother, and the man who weeps out of love for the
@@ -8505,9 +8382,6 @@ have done and then forgotten ?'
 ' Sawsara. ^ A^ittena, no satiya.
 
 
-111,6, II. MEMORY. 121
-
-
 ' No. But my memory failed me.'
 ' Then why do you say that it is by the mind, not
 by the memory, that we recollect ?'
@@ -8574,9 +8448,6 @@ sign — or from effort to recollect ^^ as when one by
 « Kathabhi««analo. ' Lakkhawato. ^° Sara«ato.
 
 
-111,7.2- MEMORY. 123
-
-
 nature forgetful is made to recollect by being urged
 again and again : " try and think of it " — or by calculation i', as when one knows by the training he
 has received in writing that such and such a letter
@@ -8618,8 +8489,6 @@ in the text, see 'Buddhist Suttas,' pp. 215, 216 (§ 17).
 author as forming one between them. These may be Nos. i and
 14, or more likely Nos. 4 and 5.
 
-
-124 THE QUESTIONS OF KING MILTNDA. 111,7,3.
 
 years an evil life, yet if, at the moment of death,
 thoughts of the Buddha should enter his mind, he
@@ -8672,8 +8541,6 @@ future sorrow ?'
 ' Then you are mighty clever people to strive
 after the removal of that which does not exist!'
 
-
-111,7,3- FUTURE SORROW. I 25
 
 ' Has it ever happened to you, O king, that rival
 kings rose up against you as enemies and opponents ?'
@@ -8883,8 +8750,6 @@ feels no remorse, and feeling no remorse gladness will
 ^ Dhamma-vi/taya-sambo^^^afigena.
 
 
-111,7,9- PEACE. 129
-
 spring Lip within him, and joy will arise to him thus
 gladdened, and so rejoicing all his frame will be at
 peace, and being thus at peace he will experience a
@@ -9079,8 +8944,6 @@ but also to discriminate between the objects of sense.'
 ^ See above, II, 3, 6, and II, 3, 16. Hina/i'-kumbure here renders
 
 
-IIT, 7, i6. SOUL. 133
-
 * But if there be no such thing as a soul, what is
 it then which sees forms with the eye, and hears
 sounds with the ear, and smells odours with the nose,
@@ -9168,8 +9031,6 @@ daily meal for eight hundred days, and give you the
 ^ See the note at the end of Book II, Chapter 3, § 14.
 ^ That is kahapa?;as, 'half-pennies.'
 
-
-Ill, 7, 1 8. DEPARTURE. I 35
 
 choice of anything in the palace that it is lawful for
 you to take.' And when the Elder refused, saying he
@@ -9318,8 +9179,6 @@ feet, he stood respectfully on one side, and said :
 
 ^ Pa/isisaka7;z. See (zataka II, 197.
 
-
-IV, 1,4. SECRET DOCTRINE. 1 39
 
 that I desire to talk over with you alone. I wish
 no third person to be present. In some deserted
@@ -9481,9 +9340,6 @@ instance, Gataka I, 112.
 in true Buddhism. See the note, below, on IV, 4, 8.
 
 
-IV, I, 9- THE MODEL TEACHER. 143
-
-
 learning \" He should strive to bring him forward,
 saying to himself: "How can I keep him from going
 back ? " He should determine in himself to make him
@@ -9560,8 +9416,6 @@ opponents. But there is no such doctrine in the PaU Pi/akas, and
 could not be. The whole discussion breathes the spirit of a later
 time.
 
-
-TV, I, lo. GIFTS. 145
 
 be entirely passed away (from life), unattached to
 the world, escaped from all existence, then honours
@@ -9642,8 +9496,6 @@ for which fire is required.'
 a god, or to Arahatship here, on earth, in this birth.
 
 
-IV, I, 12. HONOURS PAID TO THE BUDDHA. 1 47
-
 * Then that saying of the sectarians that " an act
 done to him who accepts it not is empty and vain "
 turns out to be false. As that great and glorious
@@ -9721,8 +9573,6 @@ out of which is the state called, par excellence, ' the going out '
 (Nirva;za).
 
 
-IV, I, 13- HONOURS PAID TO THE BUDDHA. 1 49
-
 jewel treasure of the wisdom of a Tathagata, though
 he has died away and accepts it not, cause goodness
 to arise within them, and by that goodness can
@@ -9795,8 +9645,6 @@ development. Planted on that site they grow, by
 ' Book of the Great Decease, VI, i, translated in 'Buddhist
 Suttas,' p. 112.
 
-
-IV, I, ig. TREES. 151
 
 its means, into such great trees with branches,
 flowers, and fruit.'
@@ -9876,9 +9724,6 @@ and rooted out. And as all cause thereof had thus
 been removed, Sir, therefore could not Sariputta
 be angered even with those who sought to deprive
 him of his life.'
-
-
-IV, I, 1 8. SARIPUTTA. 153
 
 
 ' But if Sariputta, O king, did not consent to it,
@@ -9973,8 +9818,6 @@ not pretend to understand it either. The Si;;^halese is also very
 
 A
 
-
-IV, I, 21. Tf^E GIANT BAMBU. I 55
 
 20. ' Now there are these seven classes of minds.
 Those, great king, who are full of lust, ill-will, delusion, or wrong doing, who are untrained in the
@@ -10126,9 +9969,6 @@ province of the omniscient Buddhas. It is like a
 man, O king, who would fearlessly cross, and at will,
 
 
-IV, I, 26. THE BUDDHAS. I 59
-
-
 by day or night, a shallow brook on his own property. But when he comes in sight of the mighty
 ocean, deep and wide and ever-moving, and sees no
 further shore to it, then would he stand hesitatinoand afraid, and make no effort even to get over it.
@@ -10258,8 +10098,7 @@ moment of reflection ? '
 ' Yes, O king. Just as when the mighty king of
 kings (the A'akkavatti) calling to mind his glorious
 wheel of victory wishes it to appear, and no sooner
-is it thought of than it appears — so does the knowledge of the Tathagata follow continually on reflec-
-tion.'
+is it thought of than it appears — so does the knowledge of the Tathagata follow continually on reflection.'
 
 ' Strong is the reason you give, Nagasena, for the
 omniscience of the Buddha. I am convinced that
@@ -10278,9 +10117,6 @@ the Buddha being dependent on reflection ^]
 
 ^ He is the Judas of the Buddhist story, who tried to have the
 Buddha killed, and to seduce his disciples from him.
-
-
-IV, I, 28. DEVADATTA. 763
 
 
 * Those six young nobles, O king, Bhaddiya and
@@ -10365,8 +10201,6 @@ mothers and fathers, O king, hurt their children and
 even knock them down, thinking the while of their
 
 
-TV, I, 30. ■ DEVADATTA. 1 65
-
 good ; so by whatsoever method an increase in the
 virtue of living things can be brought about, by that
 method does he contribute to their good. If Devadatta, O king, had not entered the Order, then as a
@@ -10435,9 +10269,6 @@ a benefactor to that robber ?'
 ' Gadduhanam pi. It is the Sanskrit dadrughna.
 "^ Adeyya-va^'ano. See my note, Alillavagga VI, 4, 8, and
 also Puggala Pa?7/7atti III, 12, and Pa77-^'a Gati Dipana, 98.
-
-
-IV, 1,32. DEVADATTA. 1 67
 
 
 * He would have saved his Hfe, Sir. And having
@@ -10521,8 +10352,6 @@ with ointment, and cut with the lancet, and cauterised
 
 ^ The interpretation of some of the medical terms in this paragraph is very uncertain. See pp. 134, 252, 304 of the text.
 
-
-IV, I, 34- DEVADATTA, 1 69
 
 with the stick of caustic, and administered a salty
 wash ? '
@@ -10688,8 +10517,6 @@ to learn, and to ask and to answer questions, and to
 sit at the feet of teachers — I too have never heard
 
 
-IV, 1,37- VESSANTARA. 1 73
-
 of such a thing, except only in the case of the splendid
 gift of Vessantara the glorious king. And between
 the times of Kassapa the Blessed One, and of
@@ -10768,8 +10595,6 @@ man by goodness, and the covetous by generosity.
 for the PaU Text Society, p. 81.
 
 
-IV, I, 38. VESSANTARA. 1 75
-
 and the speaker of falsehood by truth, and all evil
 did he overcome by righteousness ^ When he was
 thus giving away — he who was seeking after righteousness, who had made righteousness his aim —
@@ -10843,8 +10668,6 @@ air is Indian, and forms no part of distinctively Buddhist teaching.
 2 Mahati-maha-pariyogo; not in Childers nor in the Sanskrit Petersburg Dictionary. Hina/i-kumbure renders it i t a m a h a t
 wu maha bha^anayak.
 
-
-IV, i,40. VESSANTARA. I 77
 
 resulted from that mighty giving. And there was
 never another giving, O king, which had such
@@ -10936,9 +10759,6 @@ the Pali.
 ^ Nibbahana; rendered abhiwarddhiya in the Sinhalese.
 
 
-IV, 1,42. ' KING SIVI. 179
-
-
 [king SIVI^]
 
 42. 'Venerable Nagasena, your people say thus :
@@ -11024,9 +10844,6 @@ great and powerful Agni, the god of fire, whom the Brahmans so
 much feared and worshipped.
 
 
-IV, I, 45. KING SIVI. 181
-
-
 pose, O king, any SIddha (accomplished one') on
 intoning- a charm -, and saying : " Let a mighty rain
 now fall ! " were to bring about a heavy rainfall by
@@ -11109,8 +10926,6 @@ in the crowd there at the river side, [122] and she
 heard people repeat the question that the king had
 asked. Then she said to herself: " Here am I, a
 
-
-IV, I, 47. KING SIVI. 183
 
 harlot, In this city of Pa/aHputta, by the sale of my
 body do I gain my livelihood, I follow the meanest
@@ -11197,8 +11012,6 @@ you take it.'
 Vibhahga on Pa>^ittiya 26.
 
 
-IV, 1,55- DURATION OF THE FAITH. 185
-
 solved the dilemma I put to you ; you have rightly
 explained the point in which I tried to prove you
 wrong ; you have thoroughly overcome the adversary. The thing is so, and I accept it thus \'
@@ -11280,8 +11093,6 @@ Suttas,' p. 108.
 ^ Sasana. ^ Saddhammo.
 
 
-IV, 1,58. DURATION OF THE FAITH. 1 87
-
 A
 
 Order. But now, Ananda, it will only last five
@@ -11359,8 +11170,6 @@ threefold discipline, they train themselves therein —
 there are four kinds only.
 
 
-IV, 1, 6o. DURATION OF THE FAITH. 1 89
-
 if without ceasing they carry out to the full the
 conduct that is right, and absolutely avoid all that
 is wrong, and practise righteousness of life — then
@@ -11409,8 +11218,7 @@ three ? The decline of attainment to an intellectual
 grasp of it, the decline of conduct in accordance with
 it, and the decline of its outward form \ [134] When
 the attainment of it ceases, then even the man who
-conducts himself aright in it has no clear understanding of it. By the decline of conduct the promul-
-gation of the rules of discipline ceases, only the outward form of the religion remains. When the outward
+conducts himself aright in it has no clear understanding of it. By the decline of conduct the promulgation of the rules of discipline ceases, only the outward form of the religion remains. When the outward
 form has ceased, the succession of the tradition is
 cut off. These are the three forms of the disappearance of a system of doctrine.'
 
@@ -11436,8 +11244,6 @@ him ? '
 robe, for instance, if the system were Buddhism. See below, IV,
 3> 2.
 
-
-IV, 1,63. KARMA. 191
 
 -^
 
@@ -11525,9 +11331,6 @@ brouofht about arisinof from the act done. So what
 terms are very doubtful.
 
 
-IV, I, 6r^. KARMA. 193
-
-
 arises as the fruit of Karma is much less than that
 which arises from other causes. And the ignorant
 go too far [136] when they say that every pain is
@@ -11610,8 +11413,6 @@ glorious collection called the Sawyutta Nikaya in
 Water, fire, air, and earth (apo, te^o, vayo, paMavi).
 
 
-IV, I, 66. KARMA. 1 95
-
 the prose Sutta, called after Moliya Sivaka : " There
 are certain pains which arise in the world, Sivaka,
 from bilious humour. And you ought to know
@@ -11691,9 +11492,6 @@ quoted in Professor Oldenberg's note at p. 75 of the ' Vinaya
 Texts,' vol. i.
 
 
-IV, 1,69. MEDITATION. 197
-
-
 templation has many virtues. All the Tathagatas
 attained, in contemplation, to Biiddhahood, and
 practised it in the recollection of its good qualities.
@@ -11762,9 +11560,6 @@ use them as a means of mental advancement, and as
 a basis for edification — and he therefore, Ananda,
 
 ' ^attaro iddhi-pada.
-
-
-IV, 1,72- "^^^^ THREE MONTHS. 199
 
 
 should he desire it, might remain aUve for a Kalpa,
@@ -11987,9 +11782,6 @@ doubtful, it may be noticed that Hina/i-kumbure has Maluhka
 throughout.
 
 
-IV, 2, r,- ESOTERIC TEACHING. 205
-
-
 if he knew, and still did not reply, then the first
 statement must be false. This too is a doublepointed dilemma. It is now put to you, and you
 have to solve it.'
@@ -12067,8 +11859,6 @@ Dhammapada 39.
 * Maha-niraya X'avamana, 'when they are on the point of
 passing away from it.' For in Buddhism the time comes to each
 
-
-IV, 2, 7- THE FEAR OF DEATH. 207
 
 really said that all men tremble at punishment, and
 all are afraid of death, then the statement that the
@@ -12152,8 +11942,6 @@ lord, saying : " All the villagers. Sire, have assembled.
 Do now whatsoever you require." Now when the
 lord, O king, is thus summoning all the heads of
 
-
-IV, 2, 10. THE FEAR OF DEATH. 209
 
 houses, he issues his order to all the villaeers, but it
 is not they who assemble in obedience to the order ;
@@ -12318,8 +12106,6 @@ must read in the verse the same word pa/^/^a/l'am as we have
 here).
 
 
-IV, 2, ig. PIRIT. 213
-
 Death is a thing dishked by all beings. And therefore are they in dread of it though they want to be
 released from purgatory.'
 
@@ -12404,8 +12190,6 @@ Si/«halese.
 
 ^ Ko/apa. See Gataka III, 495, and the commentary there.
 
-
-IV, 2, 17. PIRIT. 215
 
 Blessed One. Just, O king, as a husbandman guards
 the grain when it is ripe and dead and ready for
@@ -12492,8 +12276,6 @@ thing) the Mora-Paritta.
 ^ An Asura, enemy of the gods, a Titan. Rakshasa says the
 Sinhalese.
 
-
-IV, 2, ip. PIRIT. 2 1 7
 
 put her into a box, and swallowing it, carried her
 about in his stomach. And how a Vidyadhara ^
@@ -12588,9 +12370,6 @@ along, and have to appear before the lord ? '
 poseti.
 
 
-IV, 2, 21. MARA. 219
-
-
 ' Because the boy was in fault.'
 
 'Just in the same way, O king, will Pirit which is
@@ -12639,8 +12418,7 @@ has heaped up virtue.'
 22. 'Great king, that is not enough to prove
 either the one or the other of your alternatives.
 Still a reason is certainly desirable in this matter.
-Suppose, O king, a man were to bring a complimentary present to a king of kings — honey or honey-
-comb or something of that kind. And the king's
+Suppose, O king, a man were to bring a complimentary present to a king of kings — honey or honeycomb or something of that kind. And the king's
 doorkeeper were to say to him : " This is the wrong
 time for visiting the king. So, my good fellow, take
 your present as quickly as ever you can, and go back
@@ -12666,8 +12444,6 @@ thus imbue him with vigour.'
 
 23. ' That may be so, Nagasena. The Blessed
 
-
-IV, 2, 25. MARA. 22 1
 
 One found it easy to get the four requisites of a
 recluse — he, the best in the world — and at the
@@ -12738,8 +12514,6 @@ and Mr. Trenckner says is unintelHgible to him. Hina/i-kumbure
 has: Anya kriyawak no woedaganna boewin apusana (sic)
 kriyayo ya.
 
-
-IV, 2, 26. MARA. 223
 
 hiding out of sight in the inaccessible country over
 the border, beset the highways. But if the king
@@ -12820,8 +12594,6 @@ Hina/i-kumbure (p. 199) has: Maha ra^aneni, X'ittangayen
 abhawayen midena boewin sa;7«a-wimoksha-namwu
 apattit atteya, &c. (mid = muj^).
 
-
-IV, 2, 30. BUDDHA AND HIS FOLLOWERS. 225
 
 two that the Blessed One said : " There is no
 offence to him who acts in io-norance ^" '
@@ -12907,8 +12679,6 @@ has been made open, the darkness has been turned
 Dr. Morris in the 'Journal of the Pali Text Society,' 1886, pp.
 113, 114.
 
-
-IV, 2, 32. SCHISM. 227
 
 to light, the arguments of the adversaries have
 been broken down, insight has been awakened in
@@ -13070,8 +12840,7 @@ IV, 3, 2. THE DHARMA. 23 I
 
 
 the practice of solitude \ love of solitude -, meditation ^ modesty and fear of doing wrong ^ zeal^
-earnestness*', the taking upon himself of the precepts ^ recitation (of the Scriptures) ^ asking ques-
-tions (of those wise in the Dhamma and Vinaya),
+earnestness*', the taking upon himself of the precepts ^ recitation (of the Scriptures) ^ asking questions (of those wise in the Dhamma and Vinaya),
 rejoicing in the Silas and other (rules of morality),
 freedom from attachment (to the things of the world),
 fulfilment of the precepts — and the wearing of the
@@ -13149,8 +12918,6 @@ signs, found in the Bhikkhu, but that he carries them
 noetoeyi sita.
 
 
-IV, 3, 4- THE DHARMA. 233
-
 on, and trains others in them, that the converted
 layman, realising that he has no part in that tradition ^, in that maintenance of the faith, thinks it
 .right to reverence and to show respect to the converted Ehikkhu. [164] Just, O king, as a royal
@@ -13170,8 +12937,7 @@ Way, should attain to the realisation of Arahatship,
 one of two results must happen to him, and there is
 no other — he must either die away on that very day,
 or take upon himself the condition of a Bhikkhu.
-For immovable, O king, is that state of renunciation, glorious, and most exalted — I mean the con-
-dition of being a member of the Order ! '
+For immovable, O king, is that state of renunciation, glorious, and most exalted — I mean the condition of being a member of the Order ! '
 
 ' Venerable Nagasena, this subtle problem has
 been thoroughly unravelled by your powerful and
@@ -13229,8 +12995,6 @@ Afiguttara.
 
 2 Adhikara. Pradhana is the Sinhalese translation.
 
-
-IV, 3, 8. PREACHING. 235
 
 were closed up, and the snake were to die in consequence from want of air. Would not the serpent
 have been killed by that man's action ?'
@@ -13316,8 +13080,6 @@ Sutta referred to.
 * A ma tarn, with reference, no doubt, to Arahatship, of which
 this is also an epithet.
 
-
-IV, Sjifr THE FOOLISH FELLOW. 237
 
 die. Would then, O king, the man who gave away
 the ambrosia be guilty therein of any offence ?'
@@ -13407,8 +13169,6 @@ is not in Childers, see Buddhaghosa in the Sumahgala Vilasini,
 p. 65, and Dhammapala on Theri Gatha, 387. Hina/i-kumbure
 
 
-IV, 3, 17- THE FOOLISH FELLOW. 239
-
 " pointing out the real nature." If any man, O king,
 in this birth does not attain to the perception of the
 Four Truths, then is his manhood (his being born as
@@ -13490,9 +13250,6 @@ bringers of advantage and laden with pity. And
 ^^apenti (Pali Grammar, p. 37). Dhanaya hanayen nirddhanika kereti is the Si?/?halese version.
 
 
-IV, 3, 20. THE TALKING TREE. 24 1
-
-
 just, O king, as a ball of cotton falling on a man
 raises no bruise, so do the words of the Tathaeata,
 even when stern, do no harm.'
@@ -13537,8 +13294,6 @@ who speaks.
 [35] R
 
 
-242 THE QUESTIONS OF KTNG MILINDA. IV, 3, 21.
-
 as a designation of the dryad who dwells therein,
 and in that sense that " the tree talks " is a wellknown expression. Just, O king, as a waggon laden
 with corn is called a corn-waggon. But it is not
@@ -13582,8 +13337,6 @@ be unintelligible to the ordinary reader.
 
 ^ Book of the Great Decease, IV, 23.
 
-
-IV, 3, 22. THE BUDDHA S LAST ILLNESS. 243
 
 And afterwards the Blessed One said : " These
 
@@ -13716,8 +13469,6 @@ p. 74 of the ' Vinaya Texts,' and the passages there quoted.
 the field in which they were bestowed, or sown.'
 
 
-246 THE QUESTIONS OF KING MILTNDA. IV, 3, 24.
-
 nine successive conditions are sflorious, even so are
 those gifts made, by their glory, [177] of greater
 fruit, and of greater advantage than any others.
@@ -13768,9 +13519,6 @@ i, but rather the grasping of the true nature of all
 attendant circumstances (pp. 233, 234).
 
 
-IV, 3j 26. ADORATION OF RELICS. 247
-
-
 compounded things, the practice of thought, contemplation in accordance with the rules of Satipa-
 ///^ana, the seizing of the real essence of all objects
 of thought, the struggle against evil, and devotion
@@ -13791,8 +13539,7 @@ Suddas. — Or just as the business of Brahmins and
 their sons is concerned with the Rig-veda, the
 Ya^ur-veda, the Sama-veda, the Atharva-veda,
 with the knowledge of lucky marks (on the body),
-of legends ■', Pura;ms, lexicography ^ prosody, phonology, "verses, grammar, etymology, astrology, inter-
-pretation of omens, and of dreams, and of signs,
+of legends ■', Pura;ms, lexicography ^ prosody, phonology, "verses, grammar, etymology, astrology, interpretation of omens, and of dreams, and of signs,
 study of the six Vedaiigas, of eclipses of the sun
 and moon, of the prognostications to be drawn
 from the flight of comets, the thunderings of the
@@ -13850,9 +13597,6 @@ A. D. See Chapter xii of his travels (Dr. Legge's translation, pp.
 35-37)-
 
 ^ Not found as yet in the Pi/akas.
-
-
-IV, 3, 29- THE SPLINTER OF ROCK. 249
 
 
 rock grazed his foot ^ When that splinter was
@@ -13933,8 +13677,6 @@ it remain stationary in the air, but fell whithersoever
 ^ Animitta-kata-disa, which the Sinhalese (p. 238) merely
 repeats.
 
-
-IV, 3, 3^- THE SAMAiVA. 25 1
 
 chance directed it, and happened to strike against
 the Blessed One's foot — ^just as dried leaves might
@@ -14018,9 +13760,6 @@ a Sama;^a,]
 ^ Varsika (Dcfesaman mal, jasminum zambac).
 
 
-IV, 3, 34- EXULTATION. 253
-
-
 [the buddha's exultation.]
 
 33. 'Venerable Nagasena, the Blessed One said :
@@ -14102,8 +13841,6 @@ this may be the author's meaning, as he is fond of heaping together
 a string of words, some of which mean the same thing. But as
 
 
-IV, 3, 36. KINDNESS AND PUNISHMENT. 255
-
 Such a saying is therefore not worthy of the Blessed
 One, and he ought not to have made use of it. For
 if the first injunction be right then this must be
@@ -14126,8 +13863,7 @@ real meaning of them is : " Subdue that which ought
 to be subdued, strive after, cultivate, favour what is
 worthy of effort, cultivation, and approval "]. The
 proud heart, great king, is to be subdued, and the
-lowly heart cultivated — the wicked heart to be subdued, and the good heart to be cultivated — careless-
-ness of thought is to be subdued, and exactness of
+lowly heart cultivated — the wicked heart to be subdued, and the good heart to be cultivated — carelessness of thought is to be subdued, and exactness of
 thought to be cultivated — [186] he who is given over
 to wrong views is to be subdued, and he who has
 attained to right views is to be cultivated — he who
@@ -14183,8 +13919,6 @@ clothing '). But the king takes it literally.
 
 ^ The three words in brackets are Hina/i-kumbur^'s gloss.
 
-
-IV, 3, 38* DISMISSAL. 257
 
 ' But why ? '
 
@@ -14273,8 +14007,6 @@ and these words are supposed to be addressed to Nagasena by
 Milinda. But I am not at all satisfied that he is right, and the text
 may be corrupt.
 
-
-IV, 3, 39- DISMISSAL. 259
 
 free from ill-will, neither needs it to fawn on any one.
 It would be by reason of his own carelessness that
@@ -14366,9 +14098,6 @@ wemin.
 martyrdom.
 
 
-2 62 THE QUESTIONS OF KING MILTNDA. IV, 4, 3.
-
-
 of Iddhi. And he was nevertheless beaten to death
 by clubs. But that was through his being then
 possessed by the still greater power of Karma \'
@@ -14409,8 +14138,6 @@ Karma is in possession of a man,' says Hina/i-kumbure (p. 250).
 
 * Pakarawe apara^^^^ati, literally 'against the book,' the book
 
-
-IV, 4> 3- MURDER OF MOGGALLANA. 263
 
 Neither his mother nor his father, neither his sisters
 nor his brother, neither his friends nor his intimate
@@ -14570,8 +14297,6 @@ Buddhistic, and quite in the vein of Gotama himself — as, for
 instance, in the Maha Sila (see my 'Buddhist Suttas,' p. 196).
 
 
-IV, 4, 8. ESOTERIC DOCTRINE. 267
-
 extent, kept secret out of reverence for the Dhamma.
 For if not, then it would be Hke the best, most
 costly, and most rare red sandal wood of the finest
@@ -14595,8 +14320,7 @@ jewels or pearls or women, or in unsurpassable strong
 drink ^, all such things are the appanage of kings —
 just so, O king, whatever is most priceless in the
 way of training, of the traditions of the Blessed One,
-of learning, of conduct, and of the virtues of righteousness arid self-control — all these are the appa-
-nages of the Order of Bhikkhus. This is why the
+of learning, of conduct, and of the virtues of righteousness arid self-control — all these are the appanages of the Order of Bhikkhus. This is why the
 recitation of the Patimokkha is, to that extent,
 kept secret ^.'
 
@@ -14650,8 +14374,6 @@ Buddhists, and do not see the absurdity of their position !
 Para^ika 4 with Pa-('ittiya i. ('Vinaya Texts,' S. B. E., vol. iii,
 pp. 5 and 32.)
 
-
-IV, 4» lo- FALSEHOOD. 269
 
 And again he said : " By a deliberate lie a Bhikkhu
 commits a minor offence, one that ought to be the
@@ -14817,11 +14539,8 @@ to be born in the family of a noble or of a Brahman.
 ^ Ayum oloketva, which the Siwzhalese (p. 257) repeats. This
 implied meaning is doubtful.
 
-2 Uttara-setu, a word which does not occur elsewhere. Hina/ikumbure renders it He-da??</a, which Clough explains as a foot-
-bridge usually made of a single tree.
+2 Uttara-setu, a word which does not occur elsewhere. Hina/ikumbure renders it He-da??</a, which Clough explains as a footbridge usually made of a single tree.
 
-
-IV, 4,14. SUICIDE. 273
 
 These are the eight occasions 011 which investigation ought to precede action.'
 
@@ -14901,8 +14620,6 @@ This is the reason for which the Blessed One prohibited (self-slaughter). And it
 The four oghas; also called Asavas. The former term is
 used of them objectively, the latter subjectively.
 
-
-IV, 4, 1.5. SUICIDE. 275
 
 by the Elder Kiimara Kassapa, the eloquent, when
 he was describing to Payasi the Ra^anja the other
@@ -14991,9 +14708,6 @@ from the neck downwards, and having each strip of
 ° Eraka-vattikaOT.
 
 
-IV, 4, ifi. SUICIDE. 277
-
-
 skin as soon as removed tied to the hair, so that
 these strips form a veil around one) — or to the
 Spotted Antelope ^ (that is, having one's knees and
@@ -15069,9 +14783,6 @@ not understood in the fifth century a. d. ; and was probably therefore unintelli
 last word. Dr. Morris, at p. 92 of the ' Pali Text Society's Journal '
 for 1884, suggests velika. Perhaps it was simply adika after all,
 with or without m euphonic.
-
-
-IV, 4, i6. LOVE. 279
 
 
 [a loving disposition.]
@@ -15150,8 +14861,6 @@ that those virtues (said in the passage you quoted
 
 * Nibbahana; not in Childers, but see p. 119 of the text.
 
-
-IV, 4, 1 6. LOVE. 281
 
 to be in the habit of love) are virtues not attached
 to the personahty of the one who loves, but to the
@@ -15234,8 +14943,6 @@ goes really much further than the other instances, but no case is
 given of that safeguard having been actually used successfully.
 And I know of no case in the Pali Pi/akas of the felt presence
 
-
-IV, 4, Ty. DEVADATTA. 283
 
 ' Most wonderful is it, Nagasena, and most strange
 how the felt presence of love has the power of
@@ -15412,9 +15119,6 @@ citizens bury the body of the sage with all honour. In the summary
 Kalabu, the king, is identified with Devadatta.
 
 
-IV, 4, 27- DEVADATTA. 287
-
-
 datta was the superior, both in birth and in reputation amonor men.'
 
 24. ' And again, when Devadatta became a man,
@@ -15501,9 +15205,6 @@ edition), and the Bodisat is there called purdhita not pawa'ita,
 and his name is not given as Vidhura. The jackal also came to
 grief in his attempt to conquer Benares. But there is no doubt as
 to that story, the Sabba DaMa Gataka being the one here quoted.
-
-
-IV, 4, 36- DEVADATTA. 289
 
 
 elephant who destroyed the young of the Chinese
@@ -15596,8 +15297,6 @@ pp. 187-195). It was a case of Joseph and Potiphar's wife.
 vol. iii, pp. 177-182).
 
 
-IV, 4, 41- DEVADATTA. 09 1
-
 41. 'All the many things which you, great king,
 have now propounded, are so, and not otherwise.'
 
@@ -15675,8 +15374,6 @@ scheme, different and distinct names.
 ^ 'Fifty-seven ko/is and sixty hundreds of thousands of years,'
 says the text, with touching accuracy.
 
-
-IV, 4, 41. DEVADATTA. 293
 
 knowinor all that can be known, arrived at the
 insight of Buddhahood ^ and was completely set
@@ -15760,9 +15457,6 @@ a very similar sentiment in G^ataka, No. 62 (vol. i, p. 289).
 "^ This story will be found in the Ummagga Gataka, No. 546.
 
 
-rV,4, 43- WOMEN. 295
-
-
 thino-s. Through her fear of censure in this world
 the opportunity seemed to her not fit, and through
 her fear of the sufferings of purgatory in the next
@@ -15839,8 +15533,6 @@ Morris in the Pali Text Society's Journals for 1885 and 1886.
 ^ This is all very well, but it does not confirm, it explains away,
 the supposed quotation from the Buddha's words.
 
-
-IV, 4,44- ARAIIATS. 297
 
 ' Very good, Nagasena ! That is so, and I accept
 it as you say.'
@@ -15925,9 +15617,6 @@ Buddha (that is, he will be able to judge of our motives) from his
 own kindness and goodness,' according to the Si/«halese (p. 287).
 But the expression is a very strange one, and perhaps, after all,
 it merely means, ' The matter will turn out according to his Karma.'
-
-
-IV, 4, 45- ARAHATS. 299
 
 
 Blessed One said as to the Arahats being devoid of

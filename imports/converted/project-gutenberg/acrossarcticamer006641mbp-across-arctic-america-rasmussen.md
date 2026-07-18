@@ -1,5 +1,4 @@
 # Across Arctic America: Narrative of the Fifth Thule Expedition
-
 INTRODUCTION
 
 IT is early morning on the summit of East Cape, the
@@ -226,8 +225,7 @@ to Arctic North America, 1921-24."
 It was honored by the patronage of King Christian X.
 of Denmark, and advised by a committee consisting of
 M. Ib Nyeboe, chairman, and Chr. Erichssen, Col, J. P.
-Koch, Professors 0. B. Boeggild, Ad Jensen, C. H. Ostenfeld, of Copenhagen University, and Th. Thomsen, In-
-spector of the National Museum at Copenhagen*
+Koch, Professors 0. B. Boeggild, Ad Jensen, C. H. Ostenfeld, of Copenhagen University, and Th. Thomsen, Inspector of the National Museum at Copenhagen*
 
 Hardly less important to the comfort and success of the
 Expedition than the work of these scientists was the
@@ -493,11 +491,8 @@ Three or four miles ahead a line of black objects
 stood out against the ice of the fjord. I got out
 my glass; it might, after all, be only a reef of rock.
 But the glass showed plainly: a whole line of sledges
-with their teams, halted to watch the traveller approaching from the South. One man detached him-
-self from the party and came running across the ice
+with their teams, halted to watch the traveller approaching from the South. One man detached himself from the party and came running across the ice
 
-
-4 A CROSS ARCTIC AMERICA
 
 in a direction that would bring him athwart my
 course. Evidently, they intended to stop me,
@@ -535,8 +530,6 @@ about in a moment, — and here we were!
 THE FIRST MAN TO GREET US IN THESE NEW LANDS
 His face and hair were thick with icicles.
 
-
-OLD FRIENDS IN NEW SKINS 5
 
 As soon as my comrades behind had come within
 hail, we moved on toward the party ahead, who
@@ -602,8 +595,6 @@ My new friends were greatly pleased and impressed. They had just set out for the
 camp up country at the back of Lyon Inlet, taking
 with them all their worldly goods. Being, however,
 
-
-OLD FRIENDS IN NEW SKINS 7
 
 like Eskimos generally, creatures of the moment,
 they at once abandoned the journey on meeting us,
@@ -673,8 +664,6 @@ Plainly, here was work for us in plenty, and an
 interesting task it promised to be. We had, moreover, been well received, and I anticipated little
 
 
-OLD FRIENDS IN NEW SKINS 9
-
 difficulty in gathering information. First of all, however, we must go on to seek the nearest Hudson's
 Bay Company station, and find out whether there
 really would be any opportunity of postal communication in the spring.
@@ -685,8 +674,7 @@ we reached the spot where, according to the Eskimo
 accounts, the white man had his quarters. At the
 base of a little creek, behind huge piles of twisted
 and tumbled ice, stood a modest looking building,
-dark against the colony of snow huts which surrounded it. This, we found, was the extreme ad-
-vanced post of the Hudson's Bay Company of
+dark against the colony of snow huts which surrounded it. This, we found, was the extreme advanced post of the Hudson's Bay Company of
 Adventurers, one of the oldest and greatest trading
 companies in the world.
 
@@ -719,8 +707,7 @@ seaman-like assurance of manner.
 We knew really very little about this arctic region
 of Canada, and Captain Cleveland's information was
 most valuable to us later on. We learned now that
-one of the Hudson's Bay Company's schooners, commanded by a French Canadian, Captain Jean Ber-
-thie, was wintering at Wager Bay, five days' journey
+one of the Hudson's Bay Company's schooners, commanded by a French Canadian, Captain Jean Berthie, was wintering at Wager Bay, five days' journey
 farther to the south* There was a chance that we
 might be able to send letters home in the course of
 the winter by this route, and it was at once decided
@@ -743,12 +730,7 @@ country round, but being unacquainted with the
 Eskimo names of places near, we could only go by
 the old English maps, and were rather at a deadlock
 when aid arrived frona an unexpected quarter. An
-old fellow With a long wMte beard, and eyes red-
-
-
-OLD FRIENDS IN NEW SKINS 11
-
-dened with the strain of many a blizzard, revealed
+old fellow With a long wMte beard, and eyes reddened with the strain of many a blizzard, revealed
 himself as a geographical expert.
 
 We brought out paper and pencil, and to my astonishment, this "savage" drew, without hesitation,
@@ -810,8 +792,6 @@ c£ ouar dogs, already excited by the scent
 of tite ¥lfi3ge, aad such was their speed that, in passffif the fugitive, I had barely time to seke her and
 tog her on top of the flying sledge. There she lay
 
-
-TAKORNAOQ ENTERTAINS FRIENDS 13
 
 with horror in her eyes, while I burst out laughing
 at the absurdity of the scene* At length, through
@@ -883,8 +863,6 @@ went to the length of voicing her appreciation in an
 improvised song, which she delivered sitting between
 us on the bench. Her voice, it is true, was somewhat
 
-
-TAKORNAOQ ENTERTAINS FRIENDS 15
 
 over-mellowed by her sixty odd winters, but its
 quavering earnestness fitted the kindly, frank, simplicity of the words:
@@ -976,8 +954,6 @@ is one of the survivors of a f axnine, when she lived on the bodies of her husba
 Blue veins show up prominently round her mouth, said to be due to her having eaten her
 own flesh and blood.
 
-
-TAKORNAOQ ENTERTAINS FRIENDS 17
 
 fearing what might happen to us now. Then searching round, we found a little shelter built of snow
 and a fragment of caribou skin. Close by was a
@@ -1113,8 +1089,7 @@ We purchased some stores of meat at Lyon Inlet,
 and devoted a few days to fetching these, after winch
 we set out again to the Northward to find the village .
 None of us knew exactly where it was, as the natives
-had not yet moved down to the coast, but were encamped some way inland where they had been en-
-gaged on their autumn caribou hunting*
+had not yet moved down to the coast, but were encamped some way inland where they had been engaged on their autumn caribou hunting*
 
 The 27th of January was fine, but cold; it was
 bright starlight towards the dose of the journey,
@@ -1768,8 +1743,7 @@ doubt entered into his mind, he felt himself alone
 and forsaken, helpless in face of the tasks which had
 called forth his strength in earlier days. At last he
 was baptized, and since then, his mind had been at
-rest. All his nearer relatives had followed his example, and all now seemed anxious to make us un-
-derstand that they were different from the ordi
+rest. All his nearer relatives had followed his example, and all now seemed anxious to make us understand that they were different from the ordi
 heathen we had met. The others of their tribe
 given them the name of Majulasut, which
 they who crawl upward, as indicating that they had
@@ -1846,8 +1820,7 @@ Our friend here, for instance, was out for a little run
 of some two thousand kilometres. He reckoned to
 be two and a half months on the way, and during
 the whole of that time, he would have no shelter but
-a snow hut, save for the few days at Captain Cleveland's and our station. We bade him a hearty fare-
-well, and were soon out of sight.
+a snow hut, save for the few days at Captain Cleveland's and our station. We bade him a hearty farewell, and were soon out of sight.
 
 At noon on the 3rd of April we came up with the
 icebound vessel Fort Chesterfield at Berthie Harbor, a little to the north of Wager Bay. Despite
@@ -1896,11 +1869,9 @@ of the great fjord here is never frozen over, owing
 to the strength of the current. From here we came
 up on land again, and at last, on the loth of April,
 reached Roe's Welcome, at a bay called Iterdlak.
-We could now follow the coast right down to Chesterfield, and though the country itself was very monot-
-onous, there was plenty to interest us here. Every
+We could now follow the coast right down to Chesterfield, and though the country itself was very monotonous, there was plenty to interest us here. Every
 time we rounded a headland we eame upon the ruins
-of some old settlement, which were eagerly investigated. They were not the work of the present popu-
-lation, but of some earlier inhabitants, evidently of
+of some old settlement, which were eagerly investigated. They were not the work of the present population, but of some earlier inhabitants, evidently of
 a high degree of culture and well up in stone architecture. The ruins consisted of fallen house walls,
 store-chambers, and tent rings — all of stone — with
 frameworks for kayaks and umiaks, such as one
@@ -2197,8 +2168,7 @@ The little church whose bell had greeted us so
 prettily on our arrival belonged to a Roman Catholic
 Mission, under Father Turquetil and two younger
 priests, all Jesuits, highly cultured and most interesting to talk to. They opened their house to us with
-the greatest hospitality, and I spent many an instructive evening in their company. Father Turque-
-til, a learned man who spoke Eskimo and Latin with
+the greatest hospitality, and I spent many an instructive evening in their company. Father Turquetil, a learned man who spoke Eskimo and Latin with
 equal fluency, had lived in these parts for a generation, and was greatly looked up to by the natives.
 Converts were not numerous, but the church was
 full every Sunday.
@@ -2332,8 +2302,6 @@ Inlet, and afterwards Baker Lake, we had not this
 impression of a vast expanse, but here, with nothing
 
 
-A PEOPLE BEYOND THE TOUCH 57
-
 but land to see on every side, we began to realize
 that these are indeed the Barren Grounds.
 
@@ -2400,8 +2368,6 @@ aEke had died of hunger in various parts. They
 PUKERDLUK, CHIEF OF THE PEOPLE OF THE EDDIES
 
 
-A PEOPLE BEYOND THE TOUCH 59
-
 had camped throughout the winter on the eastern
 side of the Kazan River, and had now moved west
 to meet the caribou coming from the south. Two
@@ -2463,12 +2429,7 @@ numbering from fifteen or twenty-five to fifty, sometimes over two hundred head*
 Although it was late in June, we again had winter for a spell. The snow had frozen hard again,
 caking over everything, and we cotild make better
 going now. We followed the winding river through
-the low-lying country, where the stream itself re-
-
-
-A PEOPLE BEYOND THE TOUCH 61
-
-peatedly spread out to great width. Here and there
+the low-lying country, where the stream itself repeatedly spread out to great width. Here and there
 the water had begun to eat its way up through the
 ice, and we had to be very careful in. the neighborhood of these eddies. Towards evening we came
 upon a deserted snow hut, a sure sign that there were
@@ -2505,8 +2466,7 @@ to the lady's hut, and from there shot down her
 father, mother, brothers and sisters — seven or -eight
 persons in all, until only his chosen herself was left.
 I was somewhat surprised then, to find a man of
-his temper and antecedents introducing himself immediately on our arrival as the accredited repre-
-sentative of law and order. He handed me a document with the seal of the Canadian Government,
+his temper and antecedents introducing himself immediately on our arrival as the accredited representative of law and order. He handed me a document with the seal of the Canadian Government,
 dated from his camp in April, 1921, when the police
 had visited there in search .of a criminal. Briefly,
 it set forth that the bearer, one Ed-joa-juk (Igjugarjuk) of She-ko-lig-jou-ak, was by the undersigned,
@@ -2540,8 +2500,6 @@ He fell in love with our Greenland dress at first sight, and we had to present h
 would never consent to be photographed in his own caribou-skin dress.
 
 
-A PEOPLE BEYOND THE TOUCH 63
-
 found that as befitted Ms position, he had two wives.
 The elder of the two, Kivkarjuk, the cause of the
 massacre above mentioned, was now dethroned by
@@ -2562,8 +2520,7 @@ I had expected to find these people living in quite
 a primitive state, and in this respect, was disappointed
 beyond measure. What we did find was the worst
 kind of tinpot store and canned provision culture;
-a product of trading expeditions to the distant Hudson's Bay Company's Sfcaticms. And when a power-
-ful gramophone struck up, and Caruso's mighty voice
+a product of trading expeditions to the distant Hudson's Bay Company's Sfcaticms. And when a powerful gramophone struck up, and Caruso's mighty voice
 rang out from Igjugarjuk's tent, I felt that we had
 missed our market, as far as the study of these people
 was concerned. We were about a hundred years too
@@ -2575,8 +2532,6 @@ burned the Uvkak, or tent fire. All the women
 wore colored shawls over their skin dresses, just
 as the Indian women do; and to my astonishment
 
-
-64 A CROSS ARCTIC A MERICA
 
 I found that they wore watches, hung round their
 necks. These ornaments, however, were divided up
@@ -2613,8 +2568,6 @@ asked me whether seal had horns like the caribou, I
 forgot my disappointment altogether. True, tango
 
 
-A PEOPLE BEYOND THE TOUCH 65
-
 melodies were now welling forth from the gramophone, and the meat for our dinner was seething in
 genuine imported ironmongery; yet these people were
 plainly different in manners and habit of mind from
@@ -2650,8 +2603,7 @@ little crunch under the teeth, like crushing a blackbeetle.
 
 Igjugarjuk, ever watchful, noted my embarrassment and observed kindly : "No one will be offended
 if you do not understand our food; we all have our
-different customs/ ' But he added a trifle maliciously: "After all, you have just been eating cari-
-bou meat; and what are these but a sort of little
+different customs/ ' But he added a trifle maliciously: "After all, you have just been eating caribou meat; and what are these but a sort of little
 eggs nourished on the juices of that meat?"
 
 That same afternoon a whole party of sledges came
@@ -2674,10 +2626,7 @@ In the evening, I ventured to touch on my special
 subject, and explained to Igjugarjuk, who was famous
 as an angakoq throughout the whole of the Barren
 Grounds, that I was most anxious to learn something
-of their ideas about life, their religion and their folklore. But here I was brought up short. He an-
-
-
-tf
+of their ideas about life, their religion and their folklore. But here I was brought up short. He antf
 i
 
 
@@ -2688,8 +2637,6 @@ K
 
 I
 
-
-A PEOPLE BEYOND THE TOUCH 67
 
 swered abruptly that he was an ignorant man, knowing nothing of his people and its past; if any had said
 he was an angakoq, they lied.
@@ -2763,8 +2710,6 @@ Far out on the horizon one could see the extreme fringe
 of the forest, but the sunlight was deceptive, and I
 could hardly make out for certain whether it were trees
 
-
-A PEOPLE BEYOND THE TOUCH 69
 
 or hill. I asked Igjugarjtik, and he answered at once:
 "Napartut" (the ones that stand up). "Not the
@@ -2886,8 +2831,6 @@ ffl is
 9 °
 
 
-NOMAD'S LIFE 73
-
 were living at present seemed for the most part to
 regard it as inconceivable that anyone could prefer
 the blubbery, evil-smelling beasts of the sea to the
@@ -2956,8 +2899,6 @@ till the water was choked with the bodies. Some
 were also taken in winter, in regions where they
 
 
-NOMAD'S LIFE 75
-
 were to be found at that season, by a system of pitfalls.
 
 Compared with the caribou, all other forms of
@@ -3022,8 +2963,6 @@ contact. The inland folk traded white men's goods
 
 TATILGAQ, WHO DESCRIBED THE NATIVE METHODS OF HUNTING
 
-
-NOMAD'S LIFE 77
 
 brought from Churchill, mostly knives, in exchange
 for seal skin thongs which were in great demand.
@@ -3092,8 +3031,6 @@ and replaced by new ones; failing this, the old wet
 things have to be dried at night by laying them next
 to the body.
 
-
-NOMAD'S LIFE 79
 
 In May, the snow huts begin to melt, and tents are
 then called into requisition, often of great size and
@@ -3166,8 +3103,6 @@ a caribou has been killed.
 in what form we shall reappear after death/1
 
 
-NOMAD'S LIFE 81
-
 The easiest way to learn, of course, was to inquire
 of an angakoq, and in the course of my long conversations with Igjugarjuk I learned many interesting
 things. His theories, however, were so simple and
@@ -3228,13 +3163,10 @@ must give away all his possessions, and is then carried out and laid on the eart
 for whoever would invoke the Great Spirit must have
 no possessions save his breath.
 
-Igjugarjuk himself, when a young man, was constantly visited by dreams which he could not under-
-stand. Strange unknown beings came and spoke
+Igjugarjuk himself, when a young man, was constantly visited by dreams which he could not understand. Strange unknown beings came and spoke
 to him, and when he awoke, he saw all the visions
 of his dream so distinctly that he could tell his fellows all about them. Soon it became evident to
 
-
-NOMAD'S LIFE 83
 
 all that he was destined to become an angakoq and
 an old man named Perqanaoq was appointed his
@@ -3301,8 +3233,6 @@ having been given to her by persons who wished her
 well. Any gift conveys strength. It need not be
 great or costly in itself; the intrinsic value of the
 
-
-NOMAD'S LIFE 85
 
 object is nothing, it is the thought which goes with
 it that gives strength.
@@ -3422,8 +3352,6 @@ Podgy legs, and fat round face
 And a head without a neck !
 
 
-WITH NO EDITORS TO SPOIL 89
-
 But the owl was so angry at this, that it swooped
 down on the little snow bunting, and struck it in
 the breast and then, when it cried in pain, the owl
@@ -3505,8 +3433,6 @@ But then one day when a great song festival was
 being held, two children were left alone in a house.
 Here they found a caribou skin with the hair off,
 
-
-WITH NO EDITORS TO SPOIL 91
 
 and a firestone, and desired to have these things for
 their own. But hardly had they taken them when a
@@ -3601,8 +3527,6 @@ They were but small and slight . . .
 QINGARUVDLIAQ, THE WOMAN WHO KNEW ALL THE MEN'S SONGS AND PROMPTED
 THEM WHEN THEY FORGOT THE WORDS
 
-
-WITH NO EDITORS TO SPOIL 93
 
 But they grew up out of the earth
 
@@ -3701,8 +3625,6 @@ While the sun slowly went his way
 Across the sky.
 
 
-WITH NO EDITORS TO SPOIL 95
-
 In addition to ordinary hunting songs and lyrics
 there are songs of derision, satires with a mercilessly
 personal address; two men will stand up in turn
@@ -3789,8 +3711,6 @@ the one essential was truth and earnestness— all the
 rest wasmere trickwork designed to impress the vulgar.
 
 
-WITH NO EDITORS TO SPOIL 97
-
 When Kinalik had reached the utmost limit of her
 concentration, I was requested to go outside the tent
 and stand on a spot where there were no footmarks,
@@ -3862,8 +3782,6 @@ albeit slowly, with a great deal of merriment. Miteq
 and I had to face an endless rain of questions. These
 inland folk look upon the sea as something wonderful
 
-
-WITH NO EDITORS TO SPOIL 99
 
 and mysterious, far beyond their ken; and when we
 explained that we had had to cross many seas in
@@ -3941,8 +3859,6 @@ YOUNG WOMEN
 They were always happy and smiling, and handsome as well.
 
 
-WITH NO EDITORS TO SPOIL 101
-
 round was outlined in masses of black. Then
 suddenly there was a glow of fire, a tongue of flame
 broke through the pale green below the cloud, lighting
@@ -3994,8 +3910,6 @@ their camp in time, but Igjugarjuk always waited
 
 1 02
 
-
-BETWEEN TWO WINTERS 103
 
 faithfully till we did come up, and gave us directions
 for the next day's route. On one occasion we came
@@ -4062,8 +3976,6 @@ with remarkable celerity, and I had once more an
 opportunity of witnessing the feats of which an
 Eskimo is capable in this direction. Hunger however, had by no means impaired the spirits qf these
 
-
-BETWEEN TWO WINTERS 107
 
 good folk; they smiled as they showed us their cooking pots, scraped dean and empty for the past week.
 And they broke up their tobacco pipes to get a taste
@@ -4136,8 +4048,6 @@ a sewing machine.
 
 I noted now for the first time how oddly these
 
-
-BETWEEN TWO WINTERS 109
 
 quondam inland folk — they were mainly from the
 neighborhood of Baker Lake — felt lost and out of
@@ -4284,8 +4194,6 @@ to be published — in English elsewhere. The pages here following are
 taken from Therkel Mathiassen's own text.
 
 
-BETWEEN TWO WINTERS 113
-
 idea as to the mode of life prevailing among the
 Central Eskimos here in those distant ages.
 
@@ -4353,12 +4261,7 @@ There were no glass beads — which are ordinarily the
 first thing the Eskimos procure, and always found in
 their villages — and the only fragment of iron found
 was of meteoric origin. This at once carries us back
-300 years. Beyond this, we have only the alter-
-
-
-BETWEEN TWO WINTERS 115
-
-ation in the level of the land to fall back upon. It
+300 years. Beyond this, we have only the alteration in the level of the land to fall back upon. It
 takes a considerable period, of course, for the land
 to rise ten metres, but there is no definite standard
 by which to measure the lapse of time involved.
@@ -4431,8 +4334,6 @@ inhabited by the Thule folk.
 Looking now to the westward, we find in Alaska a
 race of big men, who hunt the whale, live in permanent dwellings on the coast, use the bola, make
 
-
-BETWEEN TWO WINTERS 117
 
 earthenware, and have almost the same types of
 implements generally as those we found at Naujan;
@@ -4791,8 +4692,7 @@ I have sent away all my helping spirits; sent them
 up to my sister in Baffin Land."
 
 Occasionally, the spirits themselves lay hold of a
-man aad of their own accord invest him with supersati&al powers; this is generally reckoned as a pain-
-ful process, attended by terrifying phenomena.
+man aad of their own accord invest him with supersati&al powers; this is generally reckoned as a painful process, attended by terrifying phenomena.
 
 It is the business of an angakoq to heal the sick,
 to protect the souls of his fellows against the
@@ -5104,8 +5004,7 @@ been committed, the only means of making reparation and warding off the evil con
 would otherwise ensue* is for the ddinqueat to confess at once to his fellows* Tbere.is, however, a
 natural tfflwilliiig^aess to <16 so; and fttrt&ennore, the
 of the whole code renders it very easy for
-one t0 offend unwittingly* Even where every reasonable care is taken, there is constant danger of incur-
-ring the enmity of spirits and supernatural powers;
+one t0 offend unwittingly* Even where every reasonable care is taken, there is constant danger of incurring the enmity of spirits and supernatural powers;
 and it becomes the task of the angakoq, then to
 intervene.
 
@@ -5292,12 +5191,9 @@ sitting cross-legged on the skins, working the while at
 a pair of waterproof boots, she told me the story of
 her life.
 
-"I was born at a place near the mouth of Admiralty Inlet, but while I was still quite small, my par-
-ents left Baffin Land and came to Idglukk. The
+"I was born at a place near the mouth of Admiralty Inlet, but while I was still quite small, my parents left Baffin Land and came to Idglukk. The
 first thing I can remember was that my mother lived
 
-
-"I HAVE BEEN SO HAPPY!" 141
 
 alone in a little snow hut. I could not understand
 why my father lived in another, but then I was told
@@ -5332,8 +5228,6 @@ myself , and mother was very unhappy.
 "One day I came runninginto the tent crymg out:
 'Here are white men coming!' For I had seen some
 
-
-142 A CROSS ARCTIC A MERICA
 
 figures that I thought must be white men. But whea
 my father heard me, he sighed deeply and said,
@@ -5373,8 +5267,6 @@ explained that I must no longer think of him as in
 
 TYPICAL WOMEN OF THE TRIBE
 
-
-"I HAVE BEEN SO HAPPY!" 143
 
 that body, for his soul was.already in the land of the
 dead, and there he had no longer any pain.
@@ -5446,8 +5338,6 @@ word the wizards use.
 because of her dream. My brother was very dear to
 
 
-"/ HAVE BEEN SO HAPPY!" 145
-
 her, and she used to say magic words over him to
 make him strong.
 
@@ -5517,8 +5407,6 @@ is the end. For nothing happens when you a#e
 happy, and indeed I have been happy, and had
 seven children/' :
 
-
-"/ HAVE BEEN SO HAPPY!" 147
 
 Orulo was silent, evidently deep in thought. But
 I was eager to hear more, and broke in without
@@ -5592,8 +5480,6 @@ of the men waiting now goes up to the two, ami
 smiles, and whispers the name of the woman he
 specially wants. At once the two maskers rush
 
-
-" / HA VE BEEN SO HAPPY!" 149
 
 into the hut, and touch the woman named under the
 sole of the foot. Then all the other women are
@@ -5799,8 +5685,6 @@ again. And I saw and felt it all just as when it was
 really happening. There are so many things we
 
 
-"I HAVE BEEN SO HAPPY/19 153
-
 never think of until one day the memory awakens.
 And now you have heard the story of an old woman's
 life from its first beginning right up to this very day.
@@ -5841,8 +5725,6 @@ them. The local natives couldn't do anything for
 them, and when Mathiassen violated tabus by
 cracking caribou skulls with iron hammers, he
 
-
-SEPARATE WAYS 155
 
 aroused their fears. One night, Jacob Olsen overheard one of the locally employed Eskimos and his
 wife plotting to kill Mathiassen and himself, and
@@ -5913,8 +5795,6 @@ Olsen was a man of some education, having spent six
 years in a seminary and acquired a considerable
 knowledge of books, though he was no less adequate
 
-
-SEPARATE WAYS 157
 
 as a hunter on that account. He was valued as an
 interpreter, and was useful even in collecting
@@ -6045,8 +5925,6 @@ S §
 S 1
 
 
-STEPPING OUT 161
-
 Eskimo type and rather like the Indians in feature,
 but their frank, open smile and character generally
 were those of the true Eskimo. We soon made
@@ -6141,8 +6019,6 @@ Little father- and motherless one,
 
 Bring me a gift.
 
-
-STEPPING OUT 163
 
 This is ttsed for seal; when hunting caribou, on the
 other hand, one must say:
@@ -6254,8 +6130,6 @@ a
 i
 
 
-STEPPING OUT 165
-
 Because there came news of his flight
 
 Prom the dwellings of men?
@@ -6340,12 +6214,9 @@ shout of delight, and his wife came out from the snow
 hut and joined in the welcome.
 
 Later, Igsivalitaq gave me an account of the
-circumstances which had led to his act of homicide— and certainly, h© had acted under consider-
-able provocation. I advised him in any case most
+circumstances which had led to his act of homicide— and certainly, h© had acted under considerable provocation. I advised him in any case most
 earnestly to make no attempt at escape in the event
 
-
-STEPPING OUT 167
 
 of his being sought for by the Mounted Police, and
 above all not to resist capture by aimed force; it was
@@ -6412,8 +6283,6 @@ out laboriously in warm water and joined length to
 length. Tent poles were fashkmed in the same way,
 only one being used for each tent. Owing to the
 
-
-STEPPING OUT 169
 
 scarcity of iron and flint, harpoon beads were made
 from the hard sfambone of the bear,
@@ -6485,8 +6354,6 @@ seen before. The sight of' its <taH' masts, however,
 convinced him that it nrast be a great spirit, and he
 
 
-STEPPING OUT 171
-
 tttraed and fled. That evening, and throughout the
 night, the men held council as to what should be
 done* Ultimately, it was decided that if they did
@@ -6552,8 +6419,6 @@ which was small and not made of skins, but of
 something white as the snow. There were already
 caribou about at that season, but the strangers
 
-
-STEPPING OUT 173
 
 seemed to hunt only birds. The eider duck and
 ptarmigan were plentiful, but the earth was not yet
@@ -6656,8 +6521,6 @@ boy had been bought in infancy, for a kayak and a
 QUBRTILIK, NALINGIAQ'S PRETTY DAUGHTER, WIFE OF THE CHIEF QAQORTINGNEQ
 
 
-WITH THE SPIRITS 177
-
 cooMug pot — men, of course, are worth more than
 women.
 
@@ -6690,8 +6553,6 @@ tracks, we came upon the village. Great blocks of
 snow were set up roimd it, not for shelter, but as
 frames on which to lay out the skins to dry. The
 
-
-178 A CROSS ARCTIC AMERICA
 
 people of Kuggup Panga (The River Mouth) had
 evidently no need of sheltering walls; they had, however, set up spears and harpoons in the snow outside
@@ -6728,8 +6589,6 @@ informed that it was a ceremony designed to ward off
 any possible danger from the "spirits" which had
 accompanied us on our way unknown to ourselves.
 
-
-WITH THE SPIRITS 179
 
 It is a custom on the corning of strangers, for all the
 women who have borne children, to step a circle
@@ -6804,8 +6663,6 @@ compass itself was useless owing to the proximity of
 the magnetic pole, and the low south-eastern .shore
 
 
-WITH THE SPIRITS 181
-
 of King William's Land with Franklin Isthmias, is
 hardly to be distinguished from the sea ice, while the
 few mountain ranges are always wrapped in a veil
@@ -6875,8 +6732,6 @@ traders usually ask. There was a murmur of disappointment when I announced that 
 propose to trade on the 'usual lines. I explained that I
 had come from a distant land in order to learn the
 
-
-WITH THE SPIRITS 183
 
 customs of other tribes, and bad visited them in
 particular on account of their amulets, of which I had
@@ -6949,8 +6804,6 @@ toolb gate powraful faws and sound digestion; the
 pelt of an ermine, witti §fctjM attached, gave strength
 and agifity; a little dried flounder was a protection
 
-
-WITH THE SPIRITS 185
 
 against dangers from any encounter with strange
 tribes.
@@ -7026,8 +6879,6 @@ The white band across his forehead, made from the soft underskin of the caribou,
 him as an angakoq, or witch-doctor.
 
 
-WITH THE SPIRITS 187
-
 daybreak as I had intended* But the whole village
 waved us a hearty farewell, and I had the satisfaction
 of feeling that we left than convinced of having
@@ -7064,8 +6915,6 @@ of a high wage regularly paid to the chance of a
 fortune that may never come,
 
 
-CLIFF-DWELLERS OF THE ARCTIC 341
-
 The season at Nome is but short; in the first half
 of June the ice disappears and navigation begins;
 by the end of October, or early in November, the
@@ -7095,10 +6944,7 @@ I had reached Nome at a fortunate time for my
 work. Here were assembled Eskimos from all parts
 of Alaska; the entire population of King Island, the
 so-called UHtivangmiirf, the inland IMdmos from
-Seward Pfeoinsttla, tbe Qavjasamitft, the longingfrom Cape Prince of Wales, tiie Ungaterdler-
-
-
-mint from Norton Sound and the mouth of the
+Seward Pfeoinsttla, tbe Qavjasamitft, the longingfrom Cape Prince of Wales, tiie Ungaterdlermint from Norton Sound and the mouth of the
 Yukon, the Siorarmiut from St. Lawrence Island, and
 finally, natives from Nunivak Island. They had
 come in for the tourist season. Some lived in golddiggers' cabins, but most of them in tents, and great
@@ -7128,8 +6974,6 @@ irtagt and Eskimo alike.
 I calculated that I could afford to spend a month
 here, even allowing for a visit to East Cape, as the
 
-
-CLIFF-DWELLERS OF THE ARCTIC 343
 
 vessel which was to take us down to Seattle would
 not leave until the end of October. I had thus an
@@ -7189,8 +7033,7 @@ of the winter the place is cut off from the mainland
 altogether. When I visited the island, it was deserted
 for the time being, the entire population having gone
 in to Nome, We -managed to land, in a small boat;
-and certainly it was worth a visit. It was like climbing up a bird cliff . The houses stood on piles lean-
-ing over the precipice; here and there, in the more
+and certainly it was worth a visit. It was like climbing up a bird cliff . The houses stood on piles leaning over the precipice; here and there, in the more
 exposed parts, the buildings were "moored" to the
 roc^itsetf with topes of plaited walrus hide. Ropes
 ^^ ^§t^^;^solr^ points on the shore up to
@@ -7198,8 +7041,6 @@ the jbouses, as aa aid to the ascent. Here and
 there one saw flat spaces under the houses themselves, where the rock had been levelled to make a
 playground for the children.
 
-
-CLIFF-DWELLERS OF THE ARCTIC 345
 
 There was a notice board on the island, stuck tip
 between a couple of boulders, with the following
@@ -7271,11 +7112,8 @@ supply of meat in reserve, and the dark stormy days
 are passed in feasting.
 
 
-CLIFF-DWELLERS OF THE ARCTIC 347
-
 January is the turning month, when the sun turns
-on its journey and begins to rise again. Light returns, the Strait is filled with ice and hunting com-
-mences on the north side of the island.
+on its journey and begins to rise again. Light returns, the Strait is filled with ice and hunting commences on the north side of the island.
 
 February is young-seal month. The seal are now
 heavy with young and are caught at the breathing
@@ -7337,12 +7175,7 @@ my TOJ tifaoiigh the six metres of entrance tunnel
 fomlt of stones and earth; the place was hung abottt
 with tambowin^ and weird, staring masks— more
 Eke a temple erf the spirits than adance house. Unfortttnately, there was no one on the island at the
-time of my visit, and I had to be content with mak-
-
-
-CLIFF-DWELLERS OF THE ARCTIC 349
-
-ing the acquaintance of the islanders in the picturedrome at Nome, where I found them wondering at
+time of my visit, and I had to be content with making the acquaintance of the islanders in the picturedrome at Nome, where I found them wondering at
 the coldly impersonal manner in which white men
 go to their "festivals/'
 
@@ -7376,8 +7209,7 @@ natives are still heathen, cannot *ead, or even speak
 
 English. They were thus peculiarly interesting from
 my point of view, and I was able to procure a great
-deal of information as to their customs and ceremonies, in which a marked Indian influence is appar-
-ent. A notable feature in this respect is their use
+deal of information as to their customs and ceremonies, in which a marked Indian influence is apparent. A notable feature in this respect is their use
 of masks, in which the spirit element is developed to a
 degree far exceeding that noted under Point Hope.
 There is still a belief in the very slight distinction
@@ -7406,8 +7238,6 @@ Similar f easts are held for the dead, with a view
 to preparing the way for them and Tpfrfrmg them
 bappy in the world beyond The ceremonies here
 
-
-CLIFF-DWELLERS OF THE ARCTIC 351
 
 last a week, with various rites each day, and costly
 gifts to all present. As a rule several families combine in a festival for their respective dead, but even
@@ -7474,8 +7304,6 @@ houses with nothiog to disturb them* All males
 saust be present, even the smallest boys, so long as
 
 
-CLIFF-DWELLERS OF THE ARCTIC 353
-
 siluni, or time of waiting for something to break; for
 it is held that in the silence and darkness, when all
 are striving to think only noble thoughts, the songs
@@ -7509,15 +7337,12 @@ As soon as a song has been made it must be sung,
 and the women are called in to learn it with the
 rest. The making of songs, and dancing, must ady
 be done in the evening; in the daytime, all are tmsy
-with other things; the women sewing, the men carving selected pieces of driftwood into various imple-
-ments and utensils for the winter; large handsome
+with other things; the women sewing, the men carving selected pieces of driftwood into various implements and utensils for the winter; large handsome
 vessels for water, drinking bowls and ladles, meat
 dishes and the like, so that each fairly has its own
 new set of requis&es. Whm the mm and women
 have finished their respective tasks, the angakoq
 
-
-354 -4 CROSS ARCTIC AMERICA
 
 is invited to call upon his helping spirits. He appears
 in new winter boots and creaking waterproof skins,
@@ -7550,8 +7375,6 @@ are held every dayt ending with "song and dance.
 At last, the seals' bladders are dropped into the sea
 &iaugfa a hole in the ice, while the angakoqs implore
 
-
-CLIFF-DWELLERS OF THE ARCTIC 355
 
 the animals to be generous to men- On the eighth
 evening, men and women exchange gifts, and promise to try their best in the coming winter to be better
@@ -7630,14 +7453,12 @@ the extreme eastern corner of Siberia Eve the most
 westerly of all the Eskimos, and here surely was the
 most fitting point at which to end the Expedition,
 
-Before landing anywhere in Siberia, it was necessary, I knew, to have a passport issued by the Cen-
-teal Office of the Soviet Government in Moscow. I
+Before landing anywhere in Siberia, it was necessary, I knew, to have a passport issued by the Centeal Office of the Soviet Government in Moscow. I
 bad no such pass, for reasons which will appear
 Iaf$r %*su ^1 ipas therefore prepared to meet with
 some difficult^, but my *>wn keen interest in the task
 led me to imagine that my reasons must appear
-sound enotigh to anyoee, Tb& obstacles to be reekoned with arose from causes which had nothing what-
-ever to do with my own work and aims. In the first
+sound enotigh to anyoee, Tb& obstacles to be reekoned with arose from causes which had nothing whatever to do with my own work and aims. In the first
 place, relations between the Soviet Republic and
 America were generally strained, and secondly there
 was a particular cause of dispute . just now in the
@@ -7659,8 +7480,7 @@ any arbitrary official.
 
 The other way was to charter a schooner. I should
 then have the advantage of being in company with
-other white men; on the other hand, it might prejudice my case if I were to arrive in one of those very-
-vessels which were the subject of dispute.
+other white men; on the other hand, it might prejudice my case if I were to arrive in one of those veryvessels which were the subject of dispute.
 
 Anyhow, the crossing must be made somehow,
 mtfeiaiely, I chartered a small schooner, the Teddy
@@ -7810,8 +7630,7 @@ the kindlier end with a bunch of sted rings that
 rattle when shaken, and the sound also serves to
 urge on the team to fresh effort; evidently, the poor
 beasts have learned by experience what to expect if
-they fail to answer this hint. The dogs were harnessed in pairs, and I will in justice admit that de-
-spite their slowness, doubtless due to a summer on
+they fail to answer this hint. The dogs were harnessed in pairs, and I will in justice admit that despite their slowness, doubtless due to a summer on
 short commons, they were most obedient, After a
 couple of hours' energetic persuasion, they seemed
 to think it as well to make an end of the business,
@@ -7833,8 +7652,7 @@ coming from the opposite direction; it proved to be a
 Tchukchi, who spoke a few words of English, and we
 halted for a few minutes' talk. It was an awkward
 sort of conversation, standing there in the drizzling
-rain, shifting our feet continually to keep from sinking into the mud* I could not make out -my fellow-
-traveller's name; it sounded rather like the chatter of
+rain, shifting our feet continually to keep from sinking into the mud* I could not make out -my fellowtraveller's name; it sounded rather like the chatter of
 a seagull as he pronounced it. He was very interested in my doings. Was I a trader? Had we any
 sort of goods on board our ship, and would we trade
 with him, somewhere out of sight along the shore?
@@ -7906,8 +7724,7 @@ race.
 
 The Chief of Police at once took over all my
 papers, including a passport issued from Montreal,
-a letter of recxmmendation from the Danish Legation at Washington, a letter from the Danish Con-
-sul at Seattle, and one from the American Minister
+a letter of recxmmendation from the Danish Legation at Washington, a letter from the Danish Consul at Seattle, and one from the American Minister
 of the Interior, strongly emphasizing the purely scientific aims of the Expedition. Unfortunately , it soon
 appeared that the Chief of Police could not read our
 Governor, who is in no better case,
@@ -7992,8 +7809,6 @@ an attempt at conversatkm, trying three languages,
 but in vain. We turned ena^ticafly to the dishes
 before us; oversweetened cocoa and some hot, sweet
 
-
-370 A CROSS ARCTIC AMERICA
 
 preserve eaten with bread; famished as I was, it went
 down as meat with a hungry Eskimo.
@@ -8228,15 +8043,13 @@ himself,
 
 According to the Tdhttikchi tradition, then, the
 Eskimos are a new people who came into Asia from
-Alaska and the islands of the Bering Sea* This tradition accords entirely with the Eskimos' own recol-
-lections of the manner in which the islands in question, and East Cape itself, became inhabited.
+Alaska and the islands of the Bering Sea* This tradition accords entirely with the Eskimos' own recollections of the manner in which the islands in question, and East Cape itself, became inhabited.
 
 All the old myths agree that the first men came to
 Xing Island, from the interior east of Tellar, while
 Diomede Island was inhabited by people coming
 from Tffag Island and Schismareff; from here again
-they found tfadr way -to East Cape, and thence further along the coast of Siberia both iKarth and south-
-west. Ruins of Eskimo houses are also found in
+they found tfadr way -to East Cape, and thence further along the coast of Siberia both iKarth and southwest. Ruins of Eskimo houses are also found in
 both directions. I was naturally tmable to make
 excavations here, but I did manage to examine a
 number of old houses at Wahlen, which were indubitably of Eskimo origin. The only island in the
@@ -8274,8 +8087,7 @@ giant of a constable, Penkin. I was shown out;
 requested to leave and that forthwith; but it was
 some consolation to reflect that my visit had not
 been altogether fruitless. The information I had
-Ipiteed fitted in admirably with the previous reof the expedition, ^nd confirmed the correct-
-s of wtiat we had already learned.
+Ipiteed fitted in admirably with the previous reof the expedition, ^nd confirmed the corrects of wtiat we had already learned.
 We hoisted sail and got under way. The ice lay
 to shore, and we were forced to He for a little
 off the Eskimo village at E&st Cape. It was
@@ -8389,8 +8201,6 @@ to the community; others regarded him as
 oa behalf of Ms people agaiiist the whites,
 
 
-SILA 383
-
 and against those misguided natives who supported
 them. He was forbidden to speak his own language
 in prison, and as he could not speak any other, be
@@ -8424,8 +8234,6 @@ killed frfrn ten times during the past winter; but be
 had had ten white horses for his helping spirits, and
 by sacrificing one oil each occasion be had managed
 
-
-384 A CROSS ARCTIC AMERICA
 
 to save his life! For the rest, his confinement in a
 solitary cell had not crushed his spirit. He, the great
@@ -8461,8 +8269,6 @@ because they cannot do one thing at a
 A great hunter must n0t be a;great lover of
 But no ooe can help it* Animals are as
 
-
-SILA 385
 
 •unfathomable in their nature; and it behooves us
 who live on them to act with care. But men bolster
@@ -8527,8 +8333,6 @@ WSEairfs Land, in Aua's snow-palace at Hudson
 Bay or m the circle of the Caribou Esktroo Igjugarwhose woids are quoted a£ tte liead of this
 
 
-SILA 387
-
 A month later, I stood on the roof of a skyscraper
 looking out over the stony desert of New York.
 Miteq and Anarulttnguaq stood beside me, impressed, as I was myself, by the marvels we saw
@@ -8560,8 +8364,7 @@ and that this is part of another life."
 The Expedition was at an end. The years which
 to us white men had been full of strange happenings
 and experiences, were just everyday life to our two
-Greenlanders. It was their turn now; their expedition was beginning. But as I showed them the mar-
-vels of this new world, my thoughts were constantly
+Greenlanders. It was their turn now; their expedition was beginning. But as I showed them the marvels of this new world, my thoughts were constantly
 returning to the people we had left, to the men anc^
 women who had spoken so simply and yet so powei£
 fully of the greatest and the smallest things. Hunger and feasting, happiness and adversity, the daily
